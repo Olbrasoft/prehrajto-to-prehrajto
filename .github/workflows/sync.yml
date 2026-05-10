@@ -30,7 +30,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           persist-credentials: true
+
+      # Concurrency lock holds queued runs while the current one runs (up
+      # to 5 h). When the lock releases, the queued runner is already
+      # checked out at the SHA from dispatch time — which can be hours
+      # behind origin/main, and state/uploaded.json there has stale
+      # progress. Refresh to head-of-main so dedup logic sees every
+      # already-uploaded cr_film_id.
+      - name: Refresh to latest origin/main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+          echo "Now on $(git rev-parse HEAD): $(git log -1 --format=%s)"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -63,7 +76,7 @@ jobs:
           CZ_PROXY_URL: ${{ secrets.CZ_PROXY_URL }}
           CZ_PROXY_KEY: ${{ secrets.CZ_PROXY_KEY }}
         run: |
-          python src/sync_batch.py --count "${{ inputs.batch_size }}"
+          python src/sync_batch.py --count "${{ inputs.batch_size || '50' }}"
 
       - name: Commit state + log
         if: always()

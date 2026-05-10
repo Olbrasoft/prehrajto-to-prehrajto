@@ -78,7 +78,17 @@ class ResolvedUpload:
 
 
 class ResolveError(Exception):
-    """Raised when the page is missing the player config (404, dead upload, geoblock, …)."""
+    """Raised when we can't extract player config (dead upload, proxy hiccup, …).
+
+    `permanent` distinguishes "give up on this upload_id forever" (404, no
+    videos.push blocks in valid HTML) from "try again next batch" (5xx from
+    proxy, network timeout). The orchestrator records the failure
+    accordingly.
+    """
+
+    def __init__(self, message: str, *, permanent: bool = True):
+        super().__init__(message)
+        self.permanent = permanent
 
 
 def _parse_video_block(body: str) -> Optional[StreamVariant]:
@@ -158,10 +168,22 @@ def resolve(upload_url: str, *, timeout: float = 30.0, session: requests.Session
     sess.headers.setdefault("User-Agent", USER_AGENT)
 
     fetch_url = _via_cz_proxy(upload_url) or upload_url
-    resp = sess.get(fetch_url, timeout=timeout, allow_redirects=True)
+    try:
+        resp = sess.get(fetch_url, timeout=timeout, allow_redirects=True)
+    except requests.RequestException as e:
+        # Network error, DNS, TLS, timeout — never raised by prehraj.to
+        # itself, always retry-able.
+        raise ResolveError(f"network error: {e}", permanent=False) from e
+
     if resp.status_code == 404:
-        raise ResolveError(f"upload not found (404): {upload_url}")
-    resp.raise_for_status()
+        # upload truly gone — burn the upload_id.
+        raise ResolveError(f"upload not found (404): {upload_url}", permanent=True)
+    if 500 <= resp.status_code < 600:
+        # 5xx from prehraj.to or from chobotnice proxy — both are transient.
+        raise ResolveError(f"HTTP {resp.status_code} (transient): {upload_url}", permanent=False)
+    if not resp.ok:
+        # Other 4xx — treat as permanent (auth, forbidden, malformed URL).
+        raise ResolveError(f"HTTP {resp.status_code}: {upload_url}", permanent=True)
     return parse_html(resp.text, upload_url)
 
 

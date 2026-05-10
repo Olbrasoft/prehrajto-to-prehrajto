@@ -103,8 +103,14 @@ def try_candidate(
         resolved = resolve_stream(candidate["url"])
         best = pick_best(resolved.videos)
     except ResolveError as e:
-        log(f"  resolve FAILED: {e}")
-        record_failure(state, cr_film_id, upload_id, f"resolve_failed: {e}", permanent=True)
+        log(f"  resolve FAILED: {e} (permanent={e.permanent})")
+        record_failure(state, cr_film_id, upload_id, f"resolve_failed: {e}",
+                       permanent=e.permanent)
+        return False
+    except Exception as e:  # last-line defense; never let a single film abort the batch
+        log(f"  resolve CRASHED ({type(e).__name__}: {e})")
+        record_failure(state, cr_film_id, upload_id,
+                       f"resolve_crashed: {type(e).__name__}: {e}", permanent=False)
         return False
     resolve_sec = round(time.monotonic() - t, 1)
     log(f"  resolved in {resolve_sec}s → {best.label} ({best.url[:80]}…)")
@@ -192,7 +198,11 @@ def process_film(film: dict, session, state: dict) -> bool:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--count", type=int, default=5, help="Films per batch")
+    # Empty string passed by GA workflows when scheduled (no inputs available)
+    # would normally crash argparse; coerce to default.
+    def _count(v: str) -> int:
+        return 50 if not v.strip() else int(v)
+    ap.add_argument("--count", type=_count, default=50, help="Films per batch (default 50)")
     args = ap.parse_args()
 
     email = os.environ.get("PREHRAJTO_EMAIL")
