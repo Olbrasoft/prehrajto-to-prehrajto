@@ -1,0 +1,13 @@
+
+===== run 2026-05-10T13:37:27Z batch_size=1 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25630152951) =====
+[13:37:28] batch-start count=1 backlog=17650 uploads=1 failed_attempts=0
+[13:37:28] login
+[13:37:30] login done
+[13:37:30] iteration 1/1
+[13:37:30] film cr_film_id=6 name='Kmotr (1972) Dabing' candidates=1
+[13:37:30]   candidate upload_id=68ca2dcad3b18 url=https://prehraj.to/kmotr-i-marlon-brando-al-pacino-1972-cz-dab/68ca2dcad3b18
+[13:37:31]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/147138942/M3pFozSxzhqoTj0uEPuNJSGytLacovhj6FV…)
+[13:39:28]   downloaded 4,124.6 MB in 115.3s (35.8 MB/s)
+[13:42:01]   upload done video_id=24697478 in 153.0s
+[13:42:01] film cr_film_id=6 OK in 271.0s
+[13:42:01] batch-end ok=1 failed=0 dur=271.0s avg/film=271.0s remaining=17648 eta_hours=1328.5
