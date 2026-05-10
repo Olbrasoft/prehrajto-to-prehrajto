@@ -32,11 +32,13 @@ Tento repo je **fáze 1** re-upload pipeline z prehraj.to (cizí uploady) na ná
 
 ## Read-only proti CR prod DB
 
-CR produkce je **přísně read-only**. Připojuj přes SSH tunel:
+CR produkce je **přísně read-only**. Připojuj přes SSH tunel; heslo
+najdeš v `~/Dokumenty/přístupy/hosting.md` (lokální gitignored vault) nebo
+v `/etc/cr.env` na serveru — **nikdy ho nepiš sem do repa**.
 
 ```bash
 ssh -p 2222 -L 15432:127.0.0.1:5432 -N -f root@46.225.101.253
-DATABASE_URL='postgres://cr:***REDACTED***@127.0.0.1:15432/cr?options=-c default_transaction_read_only=on'
+DATABASE_URL='postgres://cr:$CR_DB_PASSWORD@127.0.0.1:15432/cr?options=-c default_transaction_read_only=on'
 ```
 
 `default_transaction_read_only=on` je hardcoded pojistka — i kdyby si

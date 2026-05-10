@@ -8,7 +8,7 @@ page for real stream resolution (resolution_hint in DB is too sparse — only
 ~9% rows have a value).
 
 Usage:
-    DATABASE_URL=postgres://<user>:<password>@localhost/cr_dev \
+    DATABASE_URL=postgres://<user>:<password>@<host>/<db> \
         python -m src.export_backlog --out backlog/prehrajto-films.jsonl
 """
 

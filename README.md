@@ -57,9 +57,10 @@ state/
 ```bash
 pip install -r requirements.txt
 
-# Refresh backlog (read-only proti prod CR DB přes SSH tunel)
+# Refresh backlog (read-only proti prod CR DB přes SSH tunel).
+# DB heslo viz ~/Dokumenty/přístupy/hosting.md (lokální gitignored vault).
 ssh -p 2222 -L 15432:127.0.0.1:5432 -N -f root@46.225.101.253
-DATABASE_URL='postgres://cr:***REDACTED***@127.0.0.1:15432/cr?options=-c default_transaction_read_only=on' \
+DATABASE_URL='postgres://cr:$CR_DB_PASSWORD@127.0.0.1:15432/cr?options=-c default_transaction_read_only=on' \
   python3 -m src.export_backlog --out backlog/prehrajto-films.jsonl.gz
 
 # Test resolveru
