@@ -29,7 +29,7 @@ jobs:
           python - <<'PY' >> "$GITHUB_OUTPUT"
           from src.resolve_stream import resolve, pick_best
           # Stable demo film: a popular CZ-dub upload from the backlog.
-          info = resolve("https://prehrajto.cz/laska-na-prvni-pohled-drama-romanticky-2023-cz-dab/67214e027822a")
+          info = resolve("https://prehraj.to/laska-na-prvni-pohled-drama-romanticky-2023-cz-dab/67214e027822a")
           best = pick_best(info.videos)
           print(f"url={best.url}")
           print(f"label={best.label}")
