@@ -6,7 +6,9 @@ venv/
 .env.local
 
 # Logs and ephemeral state
-state/sync.log
+# state/sync.log IS committed — it's the canonical batch history (same
+# pattern as sledujtetocz-to-prehrajto). Only volatile temp files are
+# ignored here.
 state/*.tmp
 /tmp/
 
