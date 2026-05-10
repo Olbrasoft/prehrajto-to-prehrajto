@@ -1,0 +1,51 @@
+name: test-cdn-access
+
+# Sanity check: ensure GitHub Actions Azure runners can reach prehraj.to's
+# pf-storage*.premiumcdn.net hosts at usable bandwidth. Datacenter IP ranges
+# are sometimes blocked by CDNs (sledujteto's data{N} blocks Hetzner +
+# Oracle), so verify before scheduling production batches.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Resolve a sample upload
+        id: resolve
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          from src.resolve_stream import resolve, pick_best
+          # Stable demo film: a popular CZ-dub upload from the backlog.
+          info = resolve("https://prehrajto.cz/laska-na-prvni-pohled-drama-romanticky-2023-cz-dab/67214e027822a")
+          best = pick_best(info.videos)
+          print(f"url={best.url}")
+          print(f"label={best.label}")
+          PY
+
+      - name: Probe download (10 MB Range)
+        run: |
+          set -e
+          URL='${{ steps.resolve.outputs.url }}'
+          echo "URL: $URL"
+          curl -fL "$URL" \
+            -H "User-Agent: Mozilla/5.0" \
+            -H "Referer: https://prehraj.to/" \
+            -H "Range: bytes=0-9999999" \
+            --max-time 60 \
+            -o /tmp/probe.mp4
+          ls -lh /tmp/probe.mp4
+          # Verify MP4 magic 'ftyp' at offset 4-7
+          xxd -s 4 -l 4 /tmp/probe.mp4 | grep -qi 'ftyp' && echo "OK: real MP4 stream"
