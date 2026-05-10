@@ -29,11 +29,24 @@ import psycopg2.extras
 PHASE1_LANG_CLASSES = ("CZ_DUB", "CZ_NATIVE")
 
 
-def display_name(title: str, year: int | None, lang_class: str) -> str:
+def display_name(title: str, year: int | None, lang_class: str, film_lang: str | None) -> str:
+    """Naming convention on filmy.prehrajto@post.cz uploads.
+
+    - CZ_DUB upload  → "Title (year) CZ Dabing"   (always — film was dubbed to Czech)
+    - CZ_NATIVE upload, film_lang == 'sk' → "Title (year) SK"  (Slovak-origin)
+    - CZ_NATIVE upload, anything else     → "Title (year) CZ"  (Czech-origin or unknown)
+
+    `film_lang` comes from films.lang (TMDB original_language). It's only
+    populated for ~7.5 % of CR films, so the fallback is "CZ" — matches
+    the user's request that Czech-origin defaults; explicit 'sk' is the
+    only signal we trust for SK suffix.
+    """
     base = f"{title} ({year})" if year else title
     if lang_class == "CZ_DUB":
-        return f"{base} Dabing"
-    return base
+        return f"{base} CZ Dabing"
+    if (film_lang or "").lower() == "sk":
+        return f"{base} SK"
+    return f"{base} CZ"
 
 
 def fetch_rows(conn) -> list[dict[str, Any]]:
@@ -44,6 +57,7 @@ def fetch_rows(conn) -> list[dict[str, Any]]:
             f.title,
             f.original_title,
             f.year,
+            f.lang            AS film_lang,
             f.tmdb_id,
             f.description,
             f.tmdb_poster_path,
@@ -74,27 +88,29 @@ def group_by_film(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     for r in rows:
         fid = r["cr_film_id"]
         if fid not in by_film:
-            preferred_lang = "CZ_NATIVE" if r["lang_class"] == "CZ_NATIVE" else "CZ_DUB"
             by_film[fid] = {
                 "cr_film_id": fid,
                 "cr_slug": r["cr_slug"],
                 "title": r["title"],
                 "original_title": r["original_title"],
                 "year": r["year"],
+                "film_lang": r["film_lang"],
                 "tmdb_id": r["tmdb_id"],
                 "imdb_id": r["imdb_id"],
                 "imdb_rating": r["imdb_rating"],
                 "tmdb_poster_path": r["tmdb_poster_path"],
                 "description": r["description"],
-                "preferred_lang_class": preferred_lang,
-                "display_name": display_name(r["title"], r["year"], preferred_lang),
+                "preferred_lang_class": r["lang_class"],  # may be promoted below
                 "candidates": [],
             }
         else:
-            # CZ_NATIVE wins over CZ_DUB once we see it for this film.
-            if r["lang_class"] == "CZ_NATIVE" and by_film[fid]["preferred_lang_class"] == "CZ_DUB":
-                by_film[fid]["preferred_lang_class"] = "CZ_NATIVE"
-                by_film[fid]["display_name"] = display_name(r["title"], r["year"], "CZ_NATIVE")
+            # CZ_DUB wins over CZ_NATIVE — if any candidate is explicitly
+            # marked as a Czech dub, the film is almost certainly a foreign
+            # title with a Czech dub track. CZ_NATIVE here just means "no
+            # dub marker in the upload title" which is noisy for big foreign
+            # films like Temný rytíř (1 CZ_NATIVE upload, 14 CZ_DUB).
+            if r["lang_class"] == "CZ_DUB" and by_film[fid]["preferred_lang_class"] == "CZ_NATIVE":
+                by_film[fid]["preferred_lang_class"] = "CZ_DUB"
 
         by_film[fid]["candidates"].append({
             "upload_id": r["upload_id"],
@@ -109,9 +125,11 @@ def group_by_film(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
         })
 
     # Sort candidates: preferred lang first, then 1080p hints first, then most viewed.
+    # Compute display_name now that preferred_lang_class is finalised across all rows.
     res_score = {"1080p": 3, "720p": 2, "bluray": 2, "bdrip": 2, "web-dl": 2, "webrip": 2, "hdrip": 1}
     for film in by_film.values():
         pref = film["preferred_lang_class"]
+        film["display_name"] = display_name(film["title"], film["year"], pref, film["film_lang"])
         film["candidates"].sort(
             key=lambda c: (
                 0 if c["lang_class"] == pref else 1,
