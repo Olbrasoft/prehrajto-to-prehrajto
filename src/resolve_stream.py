@@ -1,0 +1,184 @@
+#!/usr/bin/env python3
+"""Resolve the best playable MP4 stream URL for a prehraj.to detail page.
+
+Prehraj.to embeds the player config inline in the detail page HTML as JS
+literals — no login or JS execution needed. Each upload exposes 1–N quality
+variants (typically `1080p` + `720p`). The URLs are time-limited (token +
+expires param), so callers must resolve immediately before downloading; do
+NOT cache across batch boundaries.
+
+Usage:
+    from resolve_stream import resolve, pick_best
+
+    resolved = resolve("https://prehraj.to/.../68e41ad579fd1")
+    best = pick_best(resolved.videos)
+    download_to(best.url, best.bytes_estimate, ...)
+"""
+
+from __future__ import annotations
+
+import re
+import sys
+from dataclasses import dataclass
+from typing import Optional
+
+import requests
+
+USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/127.0.0.0 Safari/537.36"
+)
+
+# Matches every `videos.push({ src: "...", type: 'video/mp4', res: '1080', label: '1080p' [, default: true] });`
+# in the inline JS. We accept either single or double quotes for each value
+# and ignore the order of the inner properties.
+_VIDEOS_PUSH_RE = re.compile(
+    r"videos\.push\(\s*\{\s*(?P<body>[^}]*?)\s*\}\s*\)\s*;",
+    re.DOTALL,
+)
+_PROP_RE = re.compile(
+    r"""(?P<key>src|type|res|label|default)\s*:\s*
+        (?:"(?P<dq>[^"]*)"|'(?P<sq>[^']*)'|(?P<bare>true|false))""",
+    re.VERBOSE,
+)
+_TRACK_RE = re.compile(
+    r"src\s*:\s*\"(?P<src>https?://[^\"]+\.vtt[^\"]*)\"\s*,\s*"
+    r"srclang\s*:\s*\"(?P<lang>[^\"]+)\"",
+    re.DOTALL,
+)
+_VIDEO_ID_RE = re.compile(r"'videoId'\s*:\s*(\d+)")
+_VIDEO_LENGTH_RE = re.compile(r"'videoLength'\s*:\s*(\d+)")
+_VIDEO_NAME_RE = re.compile(r"'name'\s*:\s*\"([^\"]+)\"")
+
+
+@dataclass
+class StreamVariant:
+    url: str
+    res: int  # 1080, 720, …
+    label: str  # "1080p", "720p", …
+    is_default: bool
+
+
+@dataclass
+class SubtitleTrack:
+    url: str
+    lang: str  # ISO-ish, e.g. "cs"
+
+
+@dataclass
+class ResolvedUpload:
+    upload_url: str
+    video_id: Optional[int]
+    name: Optional[str]
+    duration_sec: Optional[int]
+    videos: list[StreamVariant]
+    tracks: list[SubtitleTrack]
+
+
+class ResolveError(Exception):
+    """Raised when the page is missing the player config (404, dead upload, geoblock, …)."""
+
+
+def _parse_video_block(body: str) -> Optional[StreamVariant]:
+    props: dict[str, str | bool] = {}
+    for m in _PROP_RE.finditer(body):
+        val: str | bool
+        if m.group("dq") is not None:
+            val = m.group("dq")
+        elif m.group("sq") is not None:
+            val = m.group("sq")
+        else:
+            val = m.group("bare") == "true"
+        props[m.group("key")] = val
+
+    src = props.get("src")
+    res = props.get("res")
+    if not isinstance(src, str) or not isinstance(res, str):
+        return None
+    try:
+        res_int = int(res)
+    except ValueError:
+        return None
+    label = props.get("label")
+    return StreamVariant(
+        url=src,
+        res=res_int,
+        label=label if isinstance(label, str) else f"{res_int}p",
+        is_default=props.get("default") is True,
+    )
+
+
+def parse_html(html: str, upload_url: str) -> ResolvedUpload:
+    videos: list[StreamVariant] = []
+    for m in _VIDEOS_PUSH_RE.finditer(html):
+        v = _parse_video_block(m.group("body"))
+        if v is not None:
+            videos.append(v)
+
+    if not videos:
+        raise ResolveError(f"no videos.push() blocks found at {upload_url}")
+
+    tracks = [SubtitleTrack(url=m.group("src"), lang=m.group("lang")) for m in _TRACK_RE.finditer(html)]
+
+    vid_id = int(_VIDEO_ID_RE.search(html).group(1)) if _VIDEO_ID_RE.search(html) else None
+    name_m = _VIDEO_NAME_RE.search(html)
+    name = name_m.group(1) if name_m else None
+    dur_m = _VIDEO_LENGTH_RE.search(html)
+    duration = int(dur_m.group(1)) if dur_m else None
+
+    return ResolvedUpload(
+        upload_url=upload_url,
+        video_id=vid_id,
+        name=name,
+        duration_sec=duration,
+        videos=sorted(videos, key=lambda v: -v.res),
+        tracks=tracks,
+    )
+
+
+def resolve(upload_url: str, *, timeout: float = 15.0, session: requests.Session | None = None) -> ResolvedUpload:
+    sess = session or requests.Session()
+    sess.headers.setdefault("User-Agent", USER_AGENT)
+    resp = sess.get(upload_url, timeout=timeout, allow_redirects=True)
+    if resp.status_code == 404:
+        raise ResolveError(f"upload not found (404): {upload_url}")
+    resp.raise_for_status()
+    return parse_html(resp.text, upload_url)
+
+
+def pick_best(videos: list[StreamVariant], *, prefer: tuple[int, ...] = (1080, 720)) -> StreamVariant:
+    """Return the preferred variant: highest in `prefer` that exists, else the highest available."""
+    by_res = {v.res: v for v in videos}
+    for r in prefer:
+        if r in by_res:
+            return by_res[r]
+    # Fallback: largest resolution we got. `videos` is already sorted desc by parse_html.
+    if not videos:
+        raise ResolveError("no variants to pick from")
+    return videos[0]
+
+
+def _cli() -> int:
+    if len(sys.argv) < 2:
+        print("usage: resolve_stream.py <prehrajto-url>", file=sys.stderr)
+        return 2
+    url = sys.argv[1]
+    info = resolve(url)
+    print(f"upload : {info.upload_url}")
+    print(f"id     : {info.video_id}")
+    print(f"name   : {info.name}")
+    print(f"length : {info.duration_sec}s")
+    print(f"variants ({len(info.videos)}):")
+    for v in info.videos:
+        flag = " [default]" if v.is_default else ""
+        print(f"  {v.label:>6}  res={v.res}  {v.url[:96]}…{flag}")
+    print(f"tracks ({len(info.tracks)}):")
+    for t in info.tracks:
+        print(f"  {t.lang}  {t.url[:96]}…")
+    best = pick_best(info.videos)
+    print(f"\nbest pick: {best.label} → {best.url[:96]}…")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(_cli())

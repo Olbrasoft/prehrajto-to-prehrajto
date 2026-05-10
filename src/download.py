@@ -1,0 +1,110 @@
+#!/usr/bin/env python3
+"""Download a resolved prehraj.to MP4 stream URL into a local file.
+
+Wraps `curl -fL` with prehraj.to-friendly headers (UA + Referer to avoid the
+occasional 403). The CDN URLs returned by `resolve_stream` are time-limited
+(~24 h), so callers should resolve immediately before invoking this.
+
+Usage:
+    from download import download_to
+
+    size = download_to(stream_url, "/tmp/film.mp4")
+"""
+
+from __future__ import annotations
+
+import shutil
+import subprocess
+from pathlib import Path
+
+USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+)
+
+# Anything smaller than this is almost certainly a CDN error page or empty
+# response, not a real movie file.
+MIN_FILE_SIZE = 10_000_000  # 10 MB
+
+# GitHub-hosted runner has ~14 GB free disk. Anything bigger overflows the
+# job. Caller should fail-fast and pick a different upload candidate.
+MAX_FILE_SIZE = 10_000_000_000  # 10 GB
+
+
+class DownloadError(Exception):
+    pass
+
+
+def head_size(url: str, *, timeout_sec: int = 30) -> int | None:
+    """Return Content-Length from a HEAD request, or None if unknown."""
+    cmd = [
+        "curl", "-fIL", url,
+        "-H", f"User-Agent: {USER_AGENT}",
+        "-H", "Referer: https://prehraj.to/",
+        "--max-time", str(timeout_sec),
+        "-s",
+    ]
+    try:
+        out = subprocess.check_output(cmd, text=True, errors="replace")
+    except subprocess.CalledProcessError:
+        return None
+    # Walk through redirect chain — last 200/206 wins.
+    last: int | None = None
+    for line in out.splitlines():
+        if line.lower().startswith("content-length:"):
+            try:
+                last = int(line.split(":", 1)[1].strip())
+            except ValueError:
+                pass
+    return last
+
+
+def download_to(url: str, dest: str | Path, *, timeout_sec: int = 3600) -> int:
+    """Download `url` to `dest`. Returns size in bytes. Raises DownloadError on failure.
+
+    Uses a single curl call with HTTP Range (`bytes=0-`) — premiumcdn supports
+    Range and some endpoints require it. `--speed-limit 10000` aborts stalled
+    transfers (<10 KB/s for 60 s) so we don't burn the entire runner timeout
+    on a single dead host. On non-zero exit, the partial file is removed.
+    """
+    if not shutil.which("curl"):
+        raise DownloadError("curl not found in PATH")
+
+    dest = Path(dest)
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    cmd = [
+        "curl", "-fL", url,
+        "-H", f"User-Agent: {USER_AGENT}",
+        "-H", "Referer: https://prehraj.to/",
+        "-H", "Range: bytes=0-",
+        "--max-time", str(timeout_sec),
+        "--speed-time", "60", "--speed-limit", "10000",
+        "-s", "-S",
+        "-o", str(dest),
+    ]
+    proc = subprocess.run(cmd, capture_output=True, text=True)
+    if proc.returncode != 0:
+        dest.unlink(missing_ok=True)
+        raise DownloadError(f"curl exit {proc.returncode}: {proc.stderr.strip()[:300]}")
+
+    size = dest.stat().st_size
+    if size < MIN_FILE_SIZE:
+        dest.unlink(missing_ok=True)
+        raise DownloadError(f"file too small ({size} B), likely CDN error page")
+    return size
+
+
+def _cli() -> int:
+    import sys
+    if len(sys.argv) < 3:
+        print("usage: download.py <url> <dest-path>", file=sys.stderr)
+        return 2
+    url, dest = sys.argv[1], sys.argv[2]
+    size = download_to(url, dest)
+    mb = size / 1_000_000
+    print(f"downloaded {mb:,.1f} MB → {dest}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(_cli())

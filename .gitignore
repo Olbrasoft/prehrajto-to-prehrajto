@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.local
+
+# Logs and ephemeral state
+state/sync.log
+state/*.tmp
+/tmp/
+
+# Local dev artifacts
+.playwright-mcp/
+*.swp
+.DS_Store
+
+# Raw uncompressed backlog (commit only the .gz version)
+backlog/*.jsonl
