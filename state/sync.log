@@ -35,3 +35,12 @@
 [14:02:10]   candidate upload_id=15ef7e5d1d260408 url=https://prehraj.to/schindleruv-seznam-1993-cz-en-4k-top-kvalita-mkv/15ef7e5d1d260408
 [14:02:12]   resolved in 1.8s → 1080p (https://pf-storage4.premiumcdn.net/169392568/qnEid9uNVuKRSmDfMKHxLuK9U0nToJsQpC7…)
 [14:05:25]   downloaded 6,105.0 MB in 191.7s (31.8 MB/s)
+
+===== run 2026-05-10T14:13:51Z batch_size=50 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25630933476) =====
+[14:13:53] batch-start count=50 backlog=17650 uploads=4 failed_attempts=0
+[14:13:53] login
+[14:13:54] login done
+[14:13:54] iteration 1/50
+[14:13:54] film cr_film_id=12 name='Schindlerův seznam (1993)' candidates=12
+[14:13:54]   candidate upload_id=15ef7e5d1d260408 url=https://prehraj.to/schindleruv-seznam-1993-cz-en-4k-top-kvalita-mkv/15ef7e5d1d260408
+[14:13:55]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/169392568/qnEid9uNVuKRSmDfMKHxLuK9U0nToJsQpC7…)
