@@ -4,11 +4,21 @@ on:
   workflow_dispatch:
     inputs:
       batch_size:
-        description: "Number of films to upload in one run (default 1)"
+        description: "Number of films to upload in one run"
         required: false
-        default: "1"
-  # schedule:
-  #   - cron: "0 */6 * * *"   # enable after first successful manual runs
+        default: "50"
+  schedule:
+    # Every 6 hours. With ~216 s/film and batch_size=50, a batch needs
+    # ~3 h, so cron interval has ~3 h of slack before the next run.
+    # Concurrency lock below also prevents overlap if a batch overruns.
+    - cron: "0 */6 * * *"
+
+# Only one sync batch can run at a time. cancel-in-progress=false means
+# a queued cron run waits for the current one to finish (rather than
+# killing it mid-upload).
+concurrency:
+  group: prehrajto-sync-batch
+  cancel-in-progress: false
 
 jobs:
   upload-batch:
