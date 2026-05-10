@@ -25,6 +25,9 @@ jobs:
 
       - name: Resolve a sample upload
         id: resolve
+        env:
+          CZ_PROXY_URL: ${{ secrets.CZ_PROXY_URL }}
+          CZ_PROXY_KEY: ${{ secrets.CZ_PROXY_KEY }}
         run: |
           python - <<'PY' >> "$GITHUB_OUTPUT"
           from src.resolve_stream import resolve, pick_best

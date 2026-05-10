@@ -45,6 +45,13 @@ jobs:
         env:
           PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
           PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
+          # prehraj.to website (detail/resolve) is geofenced to CZ residential
+          # IPs. Route HTML scraping through chobotnice.aspfree.cz/Proxy.ashx
+          # — same Czech ASP relay that cr-web uses for its stream resolver.
+          # Login + multipart upload still go direct (those endpoints are not
+          # geo-blocked, as proven by the existing prehrajto-sync workflow).
+          CZ_PROXY_URL: ${{ secrets.CZ_PROXY_URL }}
+          CZ_PROXY_KEY: ${{ secrets.CZ_PROXY_KEY }}
         run: |
           python src/sync_batch.py --count "${{ inputs.batch_size }}"
 

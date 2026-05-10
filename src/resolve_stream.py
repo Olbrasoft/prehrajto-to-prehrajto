@@ -17,8 +17,10 @@ Usage:
 
 from __future__ import annotations
 
+import os
 import re
 import sys
+import urllib.parse
 from dataclasses import dataclass
 from typing import Optional
 
@@ -136,10 +138,27 @@ def parse_html(html: str, upload_url: str) -> ResolvedUpload:
     )
 
 
-def resolve(upload_url: str, *, timeout: float = 15.0, session: requests.Session | None = None) -> ResolvedUpload:
+def _via_cz_proxy(upload_url: str) -> str | None:
+    """Build a CZ-proxy URL if CZ_PROXY_URL + CZ_PROXY_KEY are set, else None.
+
+    prehraj.to website geofences datacenter / non-CZ-residential ASNs (404).
+    The shared `chobotnice.aspfree.cz/Proxy.ashx` handler runs on a Czech
+    ASP host and transparently relays HTML — same pattern that cr-web's
+    movies_api/prehrajto.rs uses for its stream resolver.
+    """
+    base = os.environ.get("CZ_PROXY_URL", "").strip()
+    key = os.environ.get("CZ_PROXY_KEY", "").strip()
+    if not base or not key:
+        return None
+    return f"{base}?key={urllib.parse.quote(key, safe='')}&url={urllib.parse.quote(upload_url, safe='')}"
+
+
+def resolve(upload_url: str, *, timeout: float = 30.0, session: requests.Session | None = None) -> ResolvedUpload:
     sess = session or requests.Session()
     sess.headers.setdefault("User-Agent", USER_AGENT)
-    resp = sess.get(upload_url, timeout=timeout, allow_redirects=True)
+
+    fetch_url = _via_cz_proxy(upload_url) or upload_url
+    resp = sess.get(fetch_url, timeout=timeout, allow_redirects=True)
     if resp.status_code == 404:
         raise ResolveError(f"upload not found (404): {upload_url}")
     resp.raise_for_status()
