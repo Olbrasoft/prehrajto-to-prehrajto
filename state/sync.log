@@ -11,3 +11,27 @@
 [13:42:01]   upload done video_id=24697478 in 153.0s
 [13:42:01] film cr_film_id=6 OK in 271.0s
 [13:42:01] batch-end ok=1 failed=0 dur=271.0s avg/film=271.0s remaining=17648 eta_hours=1328.5
+
+===== run 2026-05-10T13:51:22Z batch_size=50 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25630450018) =====
+[13:51:23] batch-start count=50 backlog=17650 uploads=2 failed_attempts=0
+[13:51:23] login
+[13:51:25] login done
+[13:51:25] iteration 1/50
+[13:51:25] film cr_film_id=9 name='Temný rytíř (2008)' candidates=15
+[13:51:25]   candidate upload_id=68fe5d490b597 url=https://prehraj.to/temny-rytir-2008-hd1080p/68fe5d490b597
+[13:51:26]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/153689205/aJ4HVmhVoFEdiKXhnDtxOhoPU4RSJwCYNUK…)
+[13:53:10]   downloaded 3,272.0 MB in 102.8s (31.8 MB/s)
+[13:55:19]   upload done video_id=24697688 in 128.2s
+[13:55:19] film cr_film_id=9 OK in 233.9s
+[13:55:19] iteration 2/50
+[13:55:19] film cr_film_id=11 name='Pán prstenů: Návrat krále (2003)' candidates=31
+[13:55:19]   candidate upload_id=690102cbe1d52 url=https://prehraj.to/pan-prstenu-navrat-krale-2003-fhd-1080p-cz-661/690102cbe1d52
+[13:55:20]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/154132704/0KyTLxsjqHB4famIozFQJsvotexTJXhAwt1…)
+[13:58:32]   downloaded 5,415.0 MB in 190.2s (28.5 MB/s)
+[14:02:10]   upload done video_id=24697797 in 218.2s
+[14:02:10] film cr_film_id=11 OK in 411.5s
+[14:02:10] iteration 3/50
+[14:02:10] film cr_film_id=12 name='Schindlerův seznam (1993)' candidates=12
+[14:02:10]   candidate upload_id=15ef7e5d1d260408 url=https://prehraj.to/schindleruv-seznam-1993-cz-en-4k-top-kvalita-mkv/15ef7e5d1d260408
+[14:02:12]   resolved in 1.8s → 1080p (https://pf-storage4.premiumcdn.net/169392568/qnEid9uNVuKRSmDfMKHxLuK9U0nToJsQpC7…)
+[14:05:25]   downloaded 6,105.0 MB in 191.7s (31.8 MB/s)
