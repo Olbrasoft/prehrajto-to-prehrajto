@@ -2209,3 +2209,359 @@
 [06:46:51]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
 [06:46:51] film cr_film_id=446 all candidates exhausted
 [06:46:51] batch-end ok=0 failed=50 dur=44.2s avg/film=0s remaining=17409 eta_hours=None
+
+===== run 2026-05-11T06:47:42Z batch_size=50 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25654779961) =====
+[06:47:43] batch-start count=50 backlog=17650 uploads=241 failed_attempts=125
+[06:47:43] login
+[06:47:45] login done
+[06:47:45] iteration 1/50
+[06:47:45] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:45]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:45]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:45]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:46]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:46] film cr_film_id=446 all candidates exhausted
+[06:47:46] iteration 2/50
+[06:47:46] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:46]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:47]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:47]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:47]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:47] film cr_film_id=446 all candidates exhausted
+[06:47:47] iteration 3/50
+[06:47:47] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:47]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:48]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:48]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:49]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:49] film cr_film_id=446 all candidates exhausted
+[06:47:49] iteration 4/50
+[06:47:49] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:49]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:50]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:50]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:50]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:50] film cr_film_id=446 all candidates exhausted
+[06:47:50] iteration 5/50
+[06:47:50] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:50]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:51]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:51]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:52]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:52] film cr_film_id=446 all candidates exhausted
+[06:47:52] iteration 6/50
+[06:47:52] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:52]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:52]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:52]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:53]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:53] film cr_film_id=446 all candidates exhausted
+[06:47:53] iteration 7/50
+[06:47:53] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:53]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:53]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:53]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:54]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:54] film cr_film_id=446 all candidates exhausted
+[06:47:54] iteration 8/50
+[06:47:54] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:54]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:55]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:55]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:55]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:55] film cr_film_id=446 all candidates exhausted
+[06:47:55] iteration 9/50
+[06:47:55] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:55]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:56]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:56]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:56]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:56] film cr_film_id=446 all candidates exhausted
+[06:47:56] iteration 10/50
+[06:47:56] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:56]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:57]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:57]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:57]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:57] film cr_film_id=446 all candidates exhausted
+[06:47:57] iteration 11/50
+[06:47:57] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:57]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:58]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:58]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:47:58]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:47:58] film cr_film_id=446 all candidates exhausted
+[06:47:58] iteration 12/50
+[06:47:58] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:47:58]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:47:59]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:47:59]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:00]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:00] film cr_film_id=446 all candidates exhausted
+[06:48:00] iteration 13/50
+[06:48:00] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:00]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:01]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:01]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:01]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:01] film cr_film_id=446 all candidates exhausted
+[06:48:01] iteration 14/50
+[06:48:01] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:01]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:02]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:02]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:02]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:02] film cr_film_id=446 all candidates exhausted
+[06:48:02] iteration 15/50
+[06:48:02] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:02]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:03]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:03]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:03]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:03] film cr_film_id=446 all candidates exhausted
+[06:48:03] iteration 16/50
+[06:48:03] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:03]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:04]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:04]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:04]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:04] film cr_film_id=446 all candidates exhausted
+[06:48:04] iteration 17/50
+[06:48:04] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:04]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:05]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:05]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:05]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:05] film cr_film_id=446 all candidates exhausted
+[06:48:05] iteration 18/50
+[06:48:05] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:05]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:06]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:06]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:06]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:06] film cr_film_id=446 all candidates exhausted
+[06:48:06] iteration 19/50
+[06:48:06] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:06]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:07]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:07]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:07]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:07] film cr_film_id=446 all candidates exhausted
+[06:48:07] iteration 20/50
+[06:48:07] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:07]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:08]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:08]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:08]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:08] film cr_film_id=446 all candidates exhausted
+[06:48:08] iteration 21/50
+[06:48:08] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:08]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:09]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:09]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:09]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:09] film cr_film_id=446 all candidates exhausted
+[06:48:09] iteration 22/50
+[06:48:09] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:09]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:10]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:10]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:10]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:10] film cr_film_id=446 all candidates exhausted
+[06:48:10] iteration 23/50
+[06:48:10] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:10]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:11]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:11]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:11]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:11] film cr_film_id=446 all candidates exhausted
+[06:48:11] iteration 24/50
+[06:48:11] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:11]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:12]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:12]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:12]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:12] film cr_film_id=446 all candidates exhausted
+[06:48:12] iteration 25/50
+[06:48:12] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:12]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:13]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:13]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:13]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:13] film cr_film_id=446 all candidates exhausted
+[06:48:13] iteration 26/50
+[06:48:13] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:13]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:14]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:14]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:14]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:14] film cr_film_id=446 all candidates exhausted
+[06:48:14] iteration 27/50
+[06:48:14] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:14]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:15]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:15]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:15]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:15] film cr_film_id=446 all candidates exhausted
+[06:48:15] iteration 28/50
+[06:48:15] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:15]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:16]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:16]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:16]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:16] film cr_film_id=446 all candidates exhausted
+[06:48:16] iteration 29/50
+[06:48:16] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:16]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:17]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:17]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:17]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:17] film cr_film_id=446 all candidates exhausted
+[06:48:17] iteration 30/50
+[06:48:17] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:17]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:19]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:19]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:19]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:19] film cr_film_id=446 all candidates exhausted
+[06:48:19] iteration 31/50
+[06:48:19] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:19]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:20]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:20]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:21]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:21] film cr_film_id=446 all candidates exhausted
+[06:48:21] iteration 32/50
+[06:48:21] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:21]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:21]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:21]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:22]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:22] film cr_film_id=446 all candidates exhausted
+[06:48:22] iteration 33/50
+[06:48:22] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:22]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:22]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:22]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:23]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:23] film cr_film_id=446 all candidates exhausted
+[06:48:23] iteration 34/50
+[06:48:23] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:23]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:23]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:23]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:24]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:24] film cr_film_id=446 all candidates exhausted
+[06:48:24] iteration 35/50
+[06:48:24] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:24]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:24]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:24]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:25]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:25] film cr_film_id=446 all candidates exhausted
+[06:48:25] iteration 36/50
+[06:48:25] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:25]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:25]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:25]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:26]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:26] film cr_film_id=446 all candidates exhausted
+[06:48:26] iteration 37/50
+[06:48:26] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:26]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:26]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:26]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:27]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:27] film cr_film_id=446 all candidates exhausted
+[06:48:27] iteration 38/50
+[06:48:27] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:27]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:27]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:27]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:28]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:28] film cr_film_id=446 all candidates exhausted
+[06:48:28] iteration 39/50
+[06:48:28] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:28]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:28]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:28]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:28]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:29] film cr_film_id=446 all candidates exhausted
+[06:48:29] iteration 40/50
+[06:48:29] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:29]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:29]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:29]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:29]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:29] film cr_film_id=446 all candidates exhausted
+[06:48:29] iteration 41/50
+[06:48:29] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:29]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:30]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:30]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:30]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:30] film cr_film_id=446 all candidates exhausted
+[06:48:30] iteration 42/50
+[06:48:30] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:30]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:31]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:31]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:31]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:31] film cr_film_id=446 all candidates exhausted
+[06:48:31] iteration 43/50
+[06:48:31] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:31]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:32]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:32]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:32]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:32] film cr_film_id=446 all candidates exhausted
+[06:48:32] iteration 44/50
+[06:48:32] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:32]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:33]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:33]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:33]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:33] film cr_film_id=446 all candidates exhausted
+[06:48:33] iteration 45/50
+[06:48:33] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:33]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:34]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:34]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:34]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:34] film cr_film_id=446 all candidates exhausted
+[06:48:34] iteration 46/50
+[06:48:34] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:34]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:35]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:35]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:35]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:35] film cr_film_id=446 all candidates exhausted
+[06:48:35] iteration 47/50
+[06:48:35] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:35]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:36]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:36]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:36]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:36] film cr_film_id=446 all candidates exhausted
+[06:48:36] iteration 48/50
+[06:48:36] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:36]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:37]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:37]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:37]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:37] film cr_film_id=446 all candidates exhausted
+[06:48:37] iteration 49/50
+[06:48:37] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:37]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:38]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:38]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:38]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:38] film cr_film_id=446 all candidates exhausted
+[06:48:38] iteration 50/50
+[06:48:38] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:48:38]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:48:39]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:48:39]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:48:39]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:48:39] film cr_film_id=446 all candidates exhausted
+[06:48:39] batch-end ok=0 failed=50 dur=54.6s avg/film=0s remaining=17409 eta_hours=None
