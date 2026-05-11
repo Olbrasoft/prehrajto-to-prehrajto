@@ -3542,3 +3542,79 @@
 [11:42:37]   upload done video_id=24721672 in 95.9s
 [11:42:37] film cr_film_id=456 OK in 167.6s
 [11:42:37] batch-end ok=4 failed=1 dur=660.6s avg/film=165.2s remaining=17402 eta_hours=798.6
+
+===== run 2026-05-11T11:43:18Z batch_size=10 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25668014475) =====
+[11:43:20] batch-start count=10 backlog=17650 uploads=248 failed_attempts=472
+[11:43:20] login
+[11:43:21] login done
+[11:43:21] iteration 1/10
+[11:43:21] film cr_film_id=458 name='Psí ostrov (2018) CZ' candidates=1
+[11:43:21]   candidate upload_id=f72738b22636c28e url=https://prehraj.to/psi-ostrov-animovany-loutkovy-2018-cz-dabing-avi/f72738b22636c28e
+[11:43:23]   resolved in 2.0s → 480p (https://pf-storage5.premiumcdn.net/167854246/nN4tLZTWniVOh6nhGbswxTkyUYdsR8hyQU0…)
+[11:43:42]   downloaded 539.3 MB in 17.2s (31.4 MB/s)
+[11:44:06]   upload done video_id=24721712 in 24.4s
+[11:44:06] film cr_film_id=458 OK in 45.2s
+[11:44:06] iteration 2/10
+[11:44:06] film cr_film_id=459 name='S láskou Vincent (2017) CZ Dabing' candidates=9
+[11:44:06]   candidate upload_id=5e52313e1dfa8 url=https://prehraj.to/s-laskou-vincent-cz-dabing-2017/5e52313e1dfa8
+[11:44:08]   resolved in 1.6s → 720p (https://pf-storage5.premiumcdn.net/15896221/9wOIAwf7zskJSv7sz4TRYfdvSxwib8Fw4hWg…)
+[11:45:01]   downloaded 1,767.0 MB in 51.3s (34.4 MB/s)
+[11:46:17]   upload done video_id=24721731 in 76.4s
+[11:46:17] film cr_film_id=459 OK in 130.6s
+[11:46:17] iteration 3/10
+[11:46:17] film cr_film_id=464 name='Dej mi své jméno (2017) CZ Dabing' candidates=27
+[11:46:17]   candidate upload_id=5c6e960ed256c url=https://prehraj.to/dej-mi-sve-jmeno-call-me-by-your-name-2017-cz-dabing/5c6e960ed256c
+[11:46:18]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/12014464/bdMfWYsjnhkmS7wId2ijmsq3cNZCv1tDOUlX…)
+[11:46:45]   downloaded 867.8 MB in 25.7s (33.8 MB/s)
+[11:47:20]   upload done video_id=24721763 in 34.8s
+[11:47:20] film cr_film_id=464 OK in 63.2s
+[11:47:20] iteration 4/10
+[11:47:20] film cr_film_id=466 name='Captain America: Občanská válka (2016) CZ Dabing' candidates=48
+[11:47:20]   candidate upload_id=c67d9f25976cf748 url=https://prehraj.to/capitain-america-obcanska-valka-2016-720p-cz-dabing/c67d9f25976cf748
+[11:47:21]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/167551214/weGH1QsloF4jTqgt4GspDsDRhz5Cq9TRLIk…)
+[11:48:06]   downloaded 1,354.8 MB in 43.3s (31.3 MB/s)
+[11:48:57]   upload done video_id=24721785 in 50.4s
+[11:48:57] film cr_film_id=466 OK in 96.4s
+[11:48:57] iteration 5/10
+[11:48:57] film cr_film_id=472 name='Skrytá čísla (2016) CZ Dabing' candidates=10
+[11:48:57]   candidate upload_id=67dc1836e3c7b url=https://prehraj.to/skryta-cisla-hidden-figures-2016-cz-dabing-1080p-hq/67dc1836e3c7b
+[11:48:58]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/132831491/ympiEZfxbS4rhqDUnVINGfEQInDUgNUJEUP…)
+[11:49:46]   downloaded 1,595.9 MB in 46.8s (34.1 MB/s)
+[11:50:58]   upload done video_id=24721820 in 72.2s
+[11:50:58] film cr_film_id=472 OK in 121.6s
+[11:50:58] iteration 6/10
+[11:50:58] film cr_film_id=475 name='Rogue One: Star Wars Story (2016) CZ Dabing' candidates=2
+[11:50:58]   candidate upload_id=311b4d826f559d24 url=https://prehraj.to/rogue-one-star-wars-story-2016-cz-dab/311b4d826f559d24
+[11:50:59]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/162501203/LOJi0OfoQuGlCEKUvnH64fzvI1ECPxtwoUl…)
+[11:52:07]   downloaded 2,311.0 MB in 66.5s (34.8 MB/s)
+[11:53:36]   upload done video_id=24721866 in 89.2s
+[11:53:36] film cr_film_id=475 OK in 158.0s
+[11:53:36] iteration 7/10
+[11:53:36] film cr_film_id=478 name='Příběh z Bronxu (1993) CZ Dabing' candidates=4
+[11:53:36]   candidate upload_id=577577a734c1f url=https://prehraj.to/pribeh-z-bronxu-1933-cz-dabing/577577a734c1f
+[11:53:37]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/228245/baES6eu4AIpGIbdU9yiyMulZUl8H9aFK7FJ4fz…)
+[11:53:57]   downloaded 534.4 MB in 18.4s (29.0 MB/s)
+[11:54:25]   upload done video_id=24721901 in 27.4s
+[11:54:25] film cr_film_id=478 OK in 48.3s
+[11:54:25] iteration 8/10
+[11:54:25] film cr_film_id=480 name='Tohle je náš svět (2016) CZ Dabing' candidates=4
+[11:54:25]   candidate upload_id=63ba90ee51490 url=https://prehraj.to/tohle-je-nas-svet-2016-czdabing/63ba90ee51490
+[11:54:25]   resolved in 0.7s → 480p (https://pf-storage3.premiumcdn.net/36083899/edoh1Ou2VuWAtNai7ni0duZwC8jFDgC1AtyZ…)
+[11:54:50]   downloaded 694.3 MB in 23.1s (30.1 MB/s)
+[11:55:22]   upload done video_id=24721920 in 31.8s
+[11:55:22] film cr_film_id=480 OK in 57.1s
+[11:55:22] iteration 9/10
+[11:55:22] film cr_film_id=481 name='Hon na pačlověky (2016) CZ Dabing' candidates=4
+[11:55:22]   candidate upload_id=5a75a9e7e65f0 url=https://prehraj.to/hon-na-pacloveky-2016-brrip-cz-dabing/5a75a9e7e65f0
+[11:55:23]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/3355524/g5pUV3hxMFnycQlSrMHKQhX2SQRf5XHm1c8vS…)
+[11:55:58]   downloaded 1,149.0 MB in 34.4s (33.4 MB/s)
+[11:56:43]   upload done video_id=24721943 in 45.1s
+[11:56:43] film cr_film_id=481 OK in 81.8s
+[11:56:43] iteration 10/10
+[11:56:43] film cr_film_id=483 name='Střihoruký Edward (1990) CZ Dabing' candidates=8
+[11:56:43]   candidate upload_id=b75ae000abae1423 url=https://prehraj.to/strihoruky-edward-edward-scissorhands-1080p-x264-ac3-cz-dab-1990-avi/b75ae000abae1423
+[11:56:45]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/155133432/GJAiw2FJgsYas9PspGtw4FbaHGasA1f5Pfo…)
+[11:57:33]   downloaded 1,647.9 MB in 47.0s (35.1 MB/s)
+[11:58:34]   upload done video_id=24721967 in 61.2s
+[11:58:34] film cr_film_id=483 OK in 110.9s
+[11:58:34] batch-end ok=10 failed=0 dur=913.1s avg/film=91.3s remaining=17392 eta_hours=441.1
