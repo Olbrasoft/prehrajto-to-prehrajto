@@ -224,6 +224,24 @@ def resolve(
             if resp.ok:
                 return parse_html(resp.text, upload_url)
             if 500 <= resp.status_code < 600:
+                # Diagnostic: dump response so we can tell a real gateway
+                # 502 (proxy / upstream truly down — retry helps) from the
+                # CZ proxy remapping a per-URL upstream error into 502
+                # (dead upload — retry will never help). The proxy wraps
+                # WebException into a plain-text body like
+                #   "WebException: ConnectionClosed - The request was
+                #    aborted: The connection was closed unexpectedly."
+                #   "Upstream NotFound: …"
+                # When we see that signature, this upload_id is dead.
+                body_preview = (resp.text or "")[:300].replace("\n", " ")
+                ct = resp.headers.get("Content-Type", "")
+                print(f"[resolve] HTTP {resp.status_code} ct={ct!r} body[0:300]={body_preview!r}", flush=True)
+                permanent_markers = ("Upstream NotFound", "WebException:")
+                if any(m in body_preview for m in permanent_markers):
+                    raise ResolveError(
+                        f"HTTP {resp.status_code} wrapping permanent upstream error: {upload_url}",
+                        permanent=True,
+                    )
                 last_err = f"HTTP {resp.status_code}"
             else:
                 # Other 4xx — auth, forbidden, malformed URL. Don't retry.
