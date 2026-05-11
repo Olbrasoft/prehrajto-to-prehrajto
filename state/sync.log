@@ -3467,3 +3467,12 @@
 [11:15:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=True)
 [11:15:54] film cr_film_id=446 all candidates exhausted
 [11:15:54] batch-end ok=0 failed=1 dur=6.3s avg/film=0s remaining=17409 eta_hours=None
+
+===== run 2026-05-11T11:17:41Z batch_size=50 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25666868764) =====
+[11:17:44] batch-start count=50 backlog=17650 uploads=241 failed_attempts=471
+[11:17:44] login
+[11:17:46] login done
+[11:17:46] iteration 1/50
+[11:17:46] film cr_film_id=449 name='Irčan (2019) CZ Dabing' candidates=3
+[11:17:46]   candidate upload_id=5ff7c22249401 url=https://prehraj.to/ircan-the-irishman-2019-1080p-webrip-cz-dab/5ff7c22249401
+[11:17:47]   resolved in 1.6s → 1080p (https://pf-storage5.premiumcdn.net/21327474/av5I7PUpWcPOClnuYei97UYPfAJTantnBH0O…)
