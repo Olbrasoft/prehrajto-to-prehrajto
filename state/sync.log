@@ -1141,3 +1141,359 @@
 [00:52:16]   upload done video_id=24709517 in 90.5s
 [00:52:16] film cr_film_id=271 OK in 170.9s
 [00:52:16] batch-end ok=50 failed=0 dur=11784.1s avg/film=235.7s remaining=17497 eta_hours=1145.6
+
+===== run 2026-05-11T00:52:32Z batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25644653232) =====
+[00:52:33] batch-start count=50 backlog=17650 uploads=153 failed_attempts=1
+[00:52:33] login
+[00:52:35] login done
+[00:52:35] iteration 1/50
+[00:52:35] film cr_film_id=272 name='Byl jednou jeden král... (1954) CZ Dabing' candidates=10
+[00:52:35]   candidate upload_id=5f7372cb1937f url=https://prehraj.to/byl-jednou-jeden-kral-cz-dabing-1954/5f7372cb1937f
+[00:52:36]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/18915425/OKZhblUNOUWbf4wI2KhadU4gunKIaqFGKI0n…)
+[00:53:37]   downloaded 1,086.0 MB in 58.2s (18.7 MB/s)
+[00:54:39]   upload done video_id=24709569 in 62.1s
+[00:54:39] film cr_film_id=272 OK in 123.7s
+[00:54:39] iteration 2/50
+[00:54:39] film cr_film_id=276 name='Milionář z chatrče (2008) CZ Dabing' candidates=3
+[00:54:39]   candidate upload_id=5afb11da106fc url=https://prehraj.to/milionar-z-chatrce-2010-cz-dab-romanticky-film-usa/5afb11da106fc
+[00:54:40]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/4170257/ZlNiX4TL1ijgHlXfq0SeKT1Wc4lCBJhX7sWli…)
+[00:55:08]   downloaded 513.7 MB in 26.3s (19.5 MB/s)
+[00:55:39]   upload done video_id=24709600 in 30.7s
+[00:55:39] film cr_film_id=276 OK in 60.4s
+[00:55:39] iteration 3/50
+[00:55:39] film cr_film_id=280 name='Život Briana (1979) CZ Dabing' candidates=6
+[00:55:39]   candidate upload_id=6815664b7ec76 url=https://prehraj.to/zivot-briana-1979-cz-dab/6815664b7ec76
+[00:55:40]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/137008406/VdlIMLSVwidmfxBhWgFdnSEau8lcm7HaJHB…)
+[00:56:59]   downloaded 1,602.5 MB in 77.0s (20.8 MB/s)
+[00:58:28]   upload done video_id=24709631 in 89.4s
+[00:58:28] film cr_film_id=280 OK in 169.1s
+[00:58:28] iteration 4/50
+[00:58:28] film cr_film_id=281 name='Těžká váha (2005) CZ Dabing' candidates=5
+[00:58:28]   candidate upload_id=6062cc2e5743a url=https://prehraj.to/tezka-vaha-cinderella-man-2005-cz-dabing/6062cc2e5743a
+[00:58:30]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/22880343/YZ7I42U81HLPTYyUa1iqgUaAHyrHdXIK1T4w…)
+[01:00:45]   downloaded 2,626.3 MB in 133.5s (19.7 MB/s)
+[01:03:22]   upload done video_id=24709726 in 156.4s
+[01:03:22] film cr_film_id=281 OK in 293.8s
+[01:03:22] iteration 5/50
+[01:03:22] film cr_film_id=282 name='Kód Enigmy (2014) CZ Dabing' candidates=20
+[01:03:22]   candidate upload_id=5fafac12cdeca url=https://prehraj.to/kod-enigmy-cz-dabing-2014-full-hd-1080p/5fafac12cdeca
+[01:03:23]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/19919862/ZxNtaOTkqizyHMDHXPhe1TboIVMtXRhWnUdM…)
+[01:05:06]   downloaded 2,191.8 MB in 100.5s (21.8 MB/s)
+[01:07:27]   upload done video_id=24709821 in 141.1s
+[01:07:27] film cr_film_id=282 OK in 245.3s
+[01:07:27] iteration 6/50
+[01:07:27] film cr_film_id=283 name='Casino Royale (2006) CZ Dabing' candidates=8
+[01:07:27]   candidate upload_id=68e442d3cf95a url=https://prehraj.to/casino-royale-2006-cz-dab-1080p/68e442d3cf95a
+[01:07:29]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/150225723/gjludWH35Fa5txdSA9I1eHevSO1c2gikgSO…)
+[01:10:48]   downloaded 4,440.8 MB in 197.2s (22.5 MB/s)
+[01:15:08]   upload done video_id=24709914 in 260.4s
+[01:15:08] film cr_film_id=283 OK in 461.1s
+[01:15:08] iteration 7/50
+[01:15:08] film cr_film_id=286 name='Blade Runner 2049 (2017) CZ Dabing' candidates=2
+[01:15:08]   candidate upload_id=0197c3d831686771 url=https://prehraj.to/blade-runer-2049-2017-cz-dab-avi/0197c3d831686771
+[01:15:10]   resolved in 1.8s → 480p (https://pf-storage5.premiumcdn.net/155120109/XqZTA1S58F1VTk2Iqxs40SvNhdQcLxtdBC0…)
+[01:15:40]   downloaded 554.5 MB in 27.4s (20.2 MB/s)
+[01:16:13]   upload done video_id=24710003 in 33.5s
+[01:16:13] film cr_film_id=286 OK in 64.8s
+[01:16:13] iteration 8/50
+[01:16:13] film cr_film_id=291 name='Lion (2016) CZ Dabing' candidates=12
+[01:16:13]   candidate upload_id=5caf7c7fa9890 url=https://prehraj.to/lion-2016-hdrip-cz-dabing-m3/5caf7c7fa9890
+[01:16:14]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/12880560/AV9TaDFnmH9VCnGUzDf6EFNpU7OsOMsMjh8k…)
+[01:16:41]   downloaded 488.6 MB in 24.8s (19.7 MB/s)
+[01:17:12]   upload done video_id=24710023 in 30.7s
+[01:17:12] film cr_film_id=291 OK in 59.0s
+[01:17:12] iteration 9/50
+[01:17:12] film cr_film_id=294 name='La La Land (2016) CZ Dabing' candidates=33
+[01:17:12]   candidate upload_id=5975babf6a96c url=https://prehraj.to/la-la-land-2016-czdabing/5975babf6a96c
+[01:17:13]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/2461722/korTLRcBxhyahjyfBWc8jc3LTdQsAgCjotYrT…)
+[01:19:01]   downloaded 2,305.5 MB in 105.6s (21.8 MB/s)
+[01:21:21]   upload done video_id=24710069 in 140.4s
+[01:21:21] film cr_film_id=294 OK in 249.0s
+[01:21:21] iteration 10/50
+[01:21:21] film cr_film_id=296 name='Neviditelný host (2016) CZ Dabing' candidates=1
+[01:21:21]   candidate upload_id=68bee835699a8 url=https://prehraj.to/neviditelny-host-contratiempo-cz-dabing-2016/68bee835699a8
+[01:21:22]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/145814454/ewYfB8iReF7QF2vTxDhaDinOF67I2DhbWF1…)
+[01:22:24]   downloaded 1,148.4 MB in 59.7s (19.2 MB/s)
+[01:23:33]   upload done video_id=24710130 in 68.4s
+[01:23:33] film cr_film_id=296 OK in 131.5s
+[01:23:33] iteration 11/50
+[01:23:33] film cr_film_id=297 name='Králova řeč (2010) CZ Dabing' candidates=6
+[01:23:33]   candidate upload_id=6062cc2e580db url=https://prehraj.to/kralova-rec-2010-cz-dabing/6062cc2e580db
+[01:23:34]   resolved in 1.4s → 1080p (https://pf-storage5.premiumcdn.net/22880391/dj6sgphzRUlwIdPTJ8tgJhkRC01il6IjDcK9…)
+[01:25:56]   downloaded 3,132.9 MB in 140.1s (22.4 MB/s)
+[01:29:00]   upload done video_id=24710178 in 184.7s
+[01:29:00] film cr_film_id=297 OK in 327.9s
+[01:29:00] iteration 12/50
+[01:29:00] film cr_film_id=302 name='Strážci Galaxie (2014) CZ' candidates=1
+[01:29:00]   candidate upload_id=67f74a7971bf3 url=https://prehraj.to/strazcovia-galaxie-2014-cz-dabing-novinka/67f74a7971bf3
+[01:29:02]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/134635934/PxmI9PSP1fNWhE7Tnphn2SZXCO3Fgpu5wuY…)
+[01:29:34]   downloaded 595.9 MB in 29.6s (20.1 MB/s)
+[01:30:09]   upload done video_id=24710227 in 35.9s
+[01:30:09] film cr_film_id=302 OK in 69.0s
+[01:30:09] iteration 13/50
+[01:30:09] film cr_film_id=303 name='Deadpool (2016) CZ Dabing' candidates=13
+[01:30:09]   candidate upload_id=620bb6637f57d url=https://prehraj.to/deadpool-2016-1080p-bluray-x264-dts-hd-ma-ac3-cz-dab/620bb6637f57d
+[01:30:11]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/29392430/rrQI9LflKFvMcQWH4yfPKf2RhlnuKrszPTd8…)
+[01:31:47]   downloaded 2,076.4 MB in 94.4s (22.0 MB/s)
+[01:33:46]   upload done video_id=24710257 in 118.2s
+[01:33:46] film cr_film_id=303 OK in 216.2s
+[01:33:46] iteration 14/50
+[01:33:46] film cr_film_id=304 name='REVENANT Zmrtvýchvstání (2015) CZ Dabing' candidates=39
+[01:33:46]   candidate upload_id=a8effa8663058fd1 url=https://prehraj.to/the-revenant-2015-cz-dabing-1080p-mkv/a8effa8663058fd1
+[01:33:47]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/162300371/jg8TB7H2LH7Dtp3iLeSOLHKptP0fOAF2Zhx…)
+[01:36:10]   downloaded 3,006.6 MB in 141.1s (21.3 MB/s)
+[01:39:14]   upload done video_id=24710339 in 183.3s
+[01:39:14] film cr_film_id=304 OK in 327.9s
+[01:39:14] iteration 15/50
+[01:39:14] film cr_film_id=305 name='Donnie Darko (2001) CZ Dabing' candidates=5
+[01:39:14]   candidate upload_id=5bad5c834d45a url=https://prehraj.to/donnie-darko-2001-cz-dabing/5bad5c834d45a
+[01:39:15]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/6577990/BrdudzcveU8MCMLSE1iZRcbxhk9SZnt4dujwH…)
+[01:39:43]   downloaded 452.3 MB in 25.3s (17.9 MB/s)
+[01:40:13]   upload done video_id=24710386 in 30.1s
+[01:40:13] film cr_film_id=305 OK in 59.2s
+[01:40:13] iteration 16/50
+[01:40:13] film cr_film_id=306 name='Marťan (2015) CZ Dabing' candidates=21
+[01:40:13]   candidate upload_id=66caeae253746 url=https://prehraj.to/martan-2015-1080p-czdab/66caeae253746
+[01:40:14]   resolved in 1.7s → 720p (https://pf-storage3.premiumcdn.net/92541221/2Nps4dH3ZcDziejs4BHl4HRjCEXI8xIGOfq3…)
+[01:42:12]   downloaded 2,552.8 MB in 115.5s (22.1 MB/s)
+[01:44:44]   upload done video_id=24710420 in 151.6s
+[01:44:44] film cr_film_id=306 OK in 270.8s
+[01:44:44] iteration 17/50
+[01:44:44] film cr_film_id=307 name='Sherlock: Přízračná nevěsta (2016) CZ Dabing' candidates=4
+[01:44:44]   candidate upload_id=57ea668162287 url=https://prehraj.to/sherlock-novorocni-special-2016-czdabing/57ea668162287
+[01:44:45]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/659401/QjbH2rF5RUmghrlTD1hVJF28c7jTp7S8rCjLSW…)
+[01:45:10]   downloaded 400.5 MB in 23.0s (17.4 MB/s)
+[01:45:43]   upload done video_id=24710452 in 32.5s
+[01:45:43] film cr_film_id=307 OK in 59.1s
+[01:45:43] iteration 18/50
+[01:45:43] film cr_film_id=308 name='Ona (2013) CZ Dabing' candidates=9
+[01:45:43]   candidate upload_id=559213314ad84 url=https://prehraj.to/ona-2013-cz-dabing-romanticky-drama/559213314ad84
+[01:45:44]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/433985/BQmsn2FLDsk0tR0SpVILwFM1iBWSEah3PcnOuD…)
+[01:46:11]   downloaded 498.7 MB in 25.8s (19.3 MB/s)
+[01:46:43]   upload done video_id=24710466 in 32.0s
+[01:46:43] film cr_film_id=308 OK in 60.7s
+[01:46:43] iteration 19/50
+[01:46:43] film cr_film_id=310 name='12 opic (1995) CZ Dabing' candidates=7
+[01:46:43]   candidate upload_id=5ef3d1438c450 url=https://prehraj.to/dvanact-opic-1995-czdabing/5ef3d1438c450
+[01:46:45]   resolved in 1.6s → 1080p (https://pf-storage5.premiumcdn.net/17044842/ylnhpXUO6Fq3f6MsXQTM9UojIGmSgAug6SlX…)
+[01:49:26]   downloaded 3,077.6 MB in 159.6s (19.3 MB/s)
+[01:52:35]   upload done video_id=24710506 in 188.5s
+[01:52:35] film cr_film_id=310 OK in 351.6s
+[01:52:35] iteration 20/50
+[01:52:35] film cr_film_id=312 name='Titanic (1997) CZ Dabing' candidates=8
+[01:52:35]   candidate upload_id=ad7676dbfa15026e url=https://prehraj.to/titanic-1997-drama-czdab-mp4/ad7676dbfa15026e
+[01:52:37]   resolved in 1.6s → 720p (https://pf-storage5.premiumcdn.net/168260842/XPRImYUEqfjncb5Tx4SY9UW1i6lhlMCLnFy…)
+[01:54:49]   downloaded 2,876.2 MB in 130.6s (22.0 MB/s)
+[01:57:49]   upload done video_id=24710564 in 180.1s
+[01:57:49] film cr_film_id=312 OK in 314.3s
+[01:57:49] iteration 21/50
+[01:57:49] film cr_film_id=316 name='Bourneovo ultimátum (2007) CZ Dabing' candidates=20
+[01:57:49]   candidate upload_id=69007b6d1fc3a url=https://prehraj.to/bournovo-ultimatum-2007-cz-dabing-1080p/69007b6d1fc3a
+[01:57:51]   resolved in 1.5s → 720p (https://pf-storage4.premiumcdn.net/154073910/v4pHlGSdou2XhZeT4zSmZSbzU7LcdVc07Ir…)
+[01:59:08]   downloaded 1,554.3 MB in 74.9s (20.8 MB/s)
+[02:00:42]   upload done video_id=24710624 in 94.6s
+[02:00:42] film cr_film_id=316 OK in 173.2s
+[02:00:42] iteration 22/50
+[02:00:42] film cr_film_id=317 name='Černá labuť (2010) CZ Dabing' candidates=19
+[02:00:42]   candidate upload_id=3fa55e8ff9e271d2 url=https://prehraj.to/black-swan-2010-cz-dabing-1080p-mkv/3fa55e8ff9e271d2
+[02:00:44]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/155729738/VR3uOgHNmHQbhAmTaqsp2HraTMKFqBIpyh6…)
+[02:02:43]   downloaded 2,572.4 MB in 117.1s (22.0 MB/s)
+[02:05:27]   upload done video_id=24710660 in 163.8s
+[02:05:27] film cr_film_id=317 OK in 284.4s
+[02:05:27] iteration 23/50
+[02:05:27] film cr_film_id=319 name='Sin City – město hříchu (2005) CZ Dabing' candidates=3
+[02:05:27]   candidate upload_id=68eaa33187b95 url=https://prehraj.to/sin-city-mesto-hrichu-2005-cz-dab-1080p/68eaa33187b95
+[02:05:29]   resolved in 1.9s → 1080p (https://pf-storage4.premiumcdn.net/150965604/d6dfrEujkFvQTP4IwDiYVuAOh8LUP2cOdh8…)
+[02:08:33]   downloaded 3,969.0 MB in 182.1s (21.8 MB/s)
+[02:12:37]   upload done video_id=24710730 in 244.4s
+[02:12:37] film cr_film_id=319 OK in 430.7s
+[02:12:37] iteration 24/50
+[02:12:37] film cr_film_id=320 name='Úžasňákovi (2004) CZ Dabing' candidates=72
+[02:12:37]   candidate upload_id=5b5de3656aad4 url=https://prehraj.to/uzasnakovi-2004-cz-dabing-full-hd/5b5de3656aad4
+[02:12:39]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/5056660/no5Hn0sp6igOT9GIMOCO1sKlIVEteDhYlSKxF…)
+[02:14:09]   downloaded 1,984.2 MB in 88.4s (22.4 MB/s)
+[02:16:15]   upload done video_id=24710811 in 126.0s
+[02:16:15] film cr_film_id=320 OK in 217.9s
+[02:16:15] iteration 25/50
+[02:16:15] film cr_film_id=321 name='Útěk do divočiny (2007) CZ Dabing' candidates=2
+[02:16:15]   candidate upload_id=68ea309f6ab41 url=https://prehraj.to/utek-do-divociny-2007-cz-dabing-1080p/68ea309f6ab41
+[02:16:17]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/150900969/qDpijdux9IvlT2MtGvSKnuVeUzLT8di2nCB…)
+[02:18:54]   downloaded 3,681.2 MB in 155.5s (23.7 MB/s)
+[02:22:32]   upload done video_id=24710858 in 218.0s
+[02:22:32] film cr_film_id=321 OK in 377.0s
+[02:22:32] iteration 26/50
+[02:22:32] film cr_film_id=322 name='Rain Man (1988) CZ Dabing' candidates=2
+[02:22:32]   candidate upload_id=68b7658d5eb03 url=https://prehraj.to/rain-man-usa-1988-cz-dab-1080p-jackripper/68b7658d5eb03
+[02:22:34]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/145276767/N7yhy1S3Xu1WhzqF0kiVRSrJt5MI3dIBWcz…)
+[02:24:35]   downloaded 2,445.6 MB in 119.8s (20.4 MB/s)
+[02:26:54]   upload done video_id=24710903 in 138.4s
+[02:26:54] film cr_film_id=322 OK in 261.5s
+[02:26:54] iteration 27/50
+[02:26:54] film cr_film_id=323 name='Černá kočka, bílý kocour (1998) CZ Dabing' candidates=8
+[02:26:54]   candidate upload_id=6365396de3f62 url=https://prehraj.to/cerna-kocka-bily-kocour-black-cat-white-cat-1998-1080p-web-dlrip-cz-dabing/6365396de3f62
+[02:26:55]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/34289281/rqGTPeuyYUZKHMvhYKFOMuNYsxZilMHVYUdL…)
+[02:28:29]   downloaded 1,940.9 MB in 91.4s (21.2 MB/s)
+[02:30:18]   upload done video_id=24710935 in 109.4s
+[02:30:18] film cr_film_id=323 OK in 204.3s
+[02:30:18] iteration 28/50
+[02:30:18] film cr_film_id=325 name='Krvavý diamant (2006) CZ Dabing' candidates=9
+[02:30:18]   candidate upload_id=5ec763c0e8ab5 url=https://prehraj.to/krvavy-diamant-2006-czdabing/5ec763c0e8ab5
+[02:30:20]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/16618749/JQacA1uwkTkdtDohaBi0Mu2bfkxI2YfAjskd…)
+[02:32:28]   downloaded 2,992.6 MB in 126.6s (23.6 MB/s)
+[02:35:26]   upload done video_id=24710981 in 177.4s
+[02:35:26] film cr_film_id=325 OK in 307.6s
+[02:35:26] iteration 29/50
+[02:35:26] film cr_film_id=326 name='Pouta války (2004) CZ Dabing' candidates=1
+[02:35:26]   candidate upload_id=6210961f60d40 url=https://prehraj.to/pouta-valky-the-brotherhood-of-war-2004-czdub/6210961f60d40
+[02:35:27]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/29506038/j14fZmhLDIaMFOrF7qSmeh4GUDQc3Du8AC32…)
+[02:38:33]   downloaded 4,256.6 MB in 183.6s (23.2 MB/s)
+[02:42:58]   upload done video_id=24711052 in 265.0s
+[02:42:58] film cr_film_id=326 OK in 451.9s
+[02:42:58] iteration 30/50
+[02:42:58] film cr_film_id=327 name='Štěstí na dosah (2006) CZ Dabing' candidates=18
+[02:42:58]   candidate upload_id=5ff4ce64997cc url=https://prehraj.to/stesti-na-dosah-2019-ab-1080p-cz-dab/5ff4ce64997cc
+[02:42:59]   resolved in 1.6s → 1080p (https://pf-storage5.premiumcdn.net/21274272/0JrIM4FnqSwasr4CApcLyF40c92FJMh7EfPb…)
+[02:45:09]   downloaded 2,891.1 MB in 127.2s (22.7 MB/s)
+[02:47:49]   upload done video_id=24711131 in 159.9s
+[02:47:49] film cr_film_id=327 OK in 290.9s
+[02:47:49] iteration 31/50
+[02:47:49] film cr_film_id=328 name='Ip Man (2008) CZ Dabing' candidates=7
+[02:47:49]   candidate upload_id=68ea29623df33 url=https://prehraj.to/ip-man-2008-cz-dabing-1080p/68ea29623df33
+[02:47:50]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/150898593/vWPFbDUNqU58HwLu3xfPQU7dh1vuWdf1mhz…)
+[02:49:38]   downloaded 2,228.1 MB in 106.3s (21.0 MB/s)
+[02:51:41]   upload done video_id=24711188 in 122.7s
+[02:51:41] film cr_film_id=328 OK in 232.4s
+[02:51:41] iteration 32/50
+[02:51:41] film cr_film_id=331 name='Mladá srdce (2024) CZ Dabing' candidates=7
+[02:51:41]   candidate upload_id=6845f3ea45f13 url=https://prehraj.to/mlada-srdce-2024-cz-dab-1080p/6845f3ea45f13
+[02:51:42]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/139484753/pdbTnQcYrun0H37SrYtY1cMNuLzC8pIrgTR…)
+[02:53:30]   downloaded 2,390.8 MB in 105.7s (22.6 MB/s)
+[02:55:42]   upload done video_id=24711231 in 132.5s
+[02:55:42] film cr_film_id=331 OK in 241.5s
+[02:55:42] iteration 33/50
+[02:55:42] film cr_film_id=334 name='Zimní prázdniny (2023) CZ' candidates=1
+[02:55:42]   candidate upload_id=79d088cc53435f22 url=https://prehraj.to/zimni-prazdniny-2023-cz-1080p/79d088cc53435f22
+[02:55:44]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/168994336/bOrSVQiwWTQ2cxqH2DSMxiK2T0QTDvfZaC2…)
+[02:57:07]   downloaded 1,862.5 MB in 81.0s (23.0 MB/s)
+[02:58:48]   upload done video_id=24711273 in 101.4s
+[02:58:48] film cr_film_id=334 OK in 185.8s
+[02:58:48] iteration 34/50
+[02:58:48] film cr_film_id=341 name='Strážci Galaxie: Volume 3 (2023) CZ Dabing' candidates=3
+[02:58:48]   candidate upload_id=68c735c564c81 url=https://prehraj.to/strazci-galaxie-volume-3-2023-cz-dabing/68c735c564c81
+[02:58:49]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/146726427/QQNse1U5vcRkcQECNAs2nUWXiL4So9fr6cd…)
+[03:00:32]   downloaded 2,149.5 MB in 100.9s (21.3 MB/s)
+[03:02:29]   upload done video_id=24711315 in 116.3s
+[03:02:29] film cr_film_id=341 OK in 220.6s
+[03:02:29] iteration 35/50
+[03:02:29] film cr_film_id=342 name='Shrek (2001) CZ Dabing' candidates=38
+[03:02:29]   candidate upload_id=68e7dcb5d9678 url=https://prehraj.to/shrek-2001-cz-dabing-1080p/68e7dcb5d9678
+[03:02:30]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/150635379/YYjin9I2lIXOf4OF6ATD7IwkU92iKyUXyhg…)
+[03:04:35]   downloaded 2,506.7 MB in 122.8s (20.4 MB/s)
+[03:07:02]   upload done video_id=24711361 in 146.6s
+[03:07:02] film cr_film_id=342 OK in 272.8s
+[03:07:02] iteration 36/50
+[03:07:02] film cr_film_id=345 name='Tajemná řeka (2003) CZ Dabing' candidates=15
+[03:07:02]   candidate upload_id=6901c36aabd8e url=https://prehraj.to/tajemna-reka-2003-cz-dabing-1080p/6901c36aabd8e
+[03:07:03]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/154207494/9MlsEQiXrS4gh7JIwxT4Ni7lHklSGKs5zTG…)
+[03:08:03]   downloaded 1,322.4 MB in 58.2s (22.7 MB/s)
+[03:09:14]   upload done video_id=24711402 in 70.9s
+[03:09:14] film cr_film_id=345 OK in 131.9s
+[03:09:14] iteration 37/50
+[03:09:14] film cr_film_id=347 name='Togo (2019) CZ Dabing' candidates=2
+[03:09:14]   candidate upload_id=6268a705d67b8 url=https://prehraj.to/togo-2019-cz-dabing/6268a705d67b8
+[03:09:15]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/30618296/x81fxpC2ACz8t4bhW0s9nCKosLphVmS59sQg…)
+[03:09:51]   downloaded 656.6 MB in 34.4s (19.1 MB/s)
+[03:10:29]   upload done video_id=24711423 in 37.9s
+[03:10:29] film cr_film_id=347 OK in 75.8s
+[03:10:29] iteration 38/50
+[03:10:29] film cr_film_id=351 name='13 minut (2021) CZ Dabing' candidates=1
+[03:10:29]   candidate upload_id=60c7892fbe9c2 url=https://prehraj.to/13-minut-2021-czdab/60c7892fbe9c2
+[03:10:30]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/23898840/vywhx5TwVI57CzdtovfVkTERSM3UAaiLzHae…)
+[03:11:16]   downloaded 846.9 MB in 43.0s (19.7 MB/s)
+[03:12:07]   upload done video_id=24711436 in 50.9s
+[03:12:07] film cr_film_id=351 OK in 97.3s
+[03:12:07] iteration 39/50
+[03:12:07] film cr_film_id=352 name='Liga spravedlnosti Zacka Snydera (2021) CZ Dabing' candidates=3
+[03:12:07]   candidate upload_id=6217164b4a298 url=https://prehraj.to/novinka-2021-liga-spravedlnosti-zacka-snydera-cz-dabing-hd-1080p-mp4/6217164b4a298
+[03:12:08]   resolved in 1.4s → 1080p (https://pf-storage4.premiumcdn.net/29659334/5QqipqIGnUqYtWEidNsZbIEYuBDs8oCdLFw2…)
+[03:15:59]   downloaded 4,561.3 MB in 228.9s (19.9 MB/s)
+[03:20:41]   upload done video_id=24711493 in 282.3s
+[03:20:41] film cr_film_id=352 OK in 514.8s
+[03:20:41] iteration 40/50
+[03:20:41] film cr_film_id=353 name='Pravda a spravedlnost (2019) CZ Dabing' candidates=2
+[03:20:41]   candidate upload_id=60329e1c40528 url=https://prehraj.to/pravda-a-spravedlnost-2019-czdabing/60329e1c40528
+[03:20:43]   resolved in 1.7s → 1080p (https://pf-storage3.premiumcdn.net/22365416/0dZfpwiVruYocLvSynUlNi8vUOqtn5UBYHPV…)
+[03:22:16]   downloaded 1,835.9 MB in 90.5s (20.3 MB/s)
+[03:23:54]   upload done video_id=24711602 in 98.5s
+[03:23:54] film cr_film_id=353 OK in 192.9s
+[03:23:54] iteration 41/50
+[03:23:54] film cr_film_id=356 name='Na nože (2019) CZ Dabing' candidates=6
+[03:23:54]   candidate upload_id=5ed55e7a8766f url=https://prehraj.to/knives-out-2019-cz-dabing-full-hd/5ed55e7a8766f
+[03:23:56]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/16740630/Ko2c9nSxkFyZT1dHEWUr9S5zH9zCGACoGHJZ…)
+[03:25:26]   downloaded 1,978.8 MB in 88.4s (22.4 MB/s)
+[03:27:16]   upload done video_id=24711634 in 109.6s
+[03:27:16] film cr_film_id=356 OK in 201.2s
+[03:27:16] iteration 42/50
+[03:27:16] film cr_film_id=357 name='Králíček Jojo (2019) CZ Dabing' candidates=10
+[03:27:16]   candidate upload_id=60e4524a6eecd url=https://prehraj.to/kralicek-jojo-2019-cz-dabing-1080p/60e4524a6eecd
+[03:27:17]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/24189912/XYotPZcbmh4BIzkTWkSeqcLWc1rSEPtWpCzx…)
+[03:28:20]   downloaded 1,350.8 MB in 61.1s (22.1 MB/s)
+[03:29:36]   upload done video_id=24711663 in 76.2s
+[03:29:36] film cr_film_id=357 OK in 140.5s
+[03:29:36] iteration 43/50
+[03:29:36] film cr_film_id=358 name='Manželská historie (2019) CZ' candidates=2
+[03:29:36]   candidate upload_id=60cc6d46d38ec url=https://prehraj.to/manzelska-historie-marriage-story-2019-tit-cz/60cc6d46d38ec
+[03:29:38]   resolved in 1.6s → 1080p (https://pf-storage2.premiumcdn.net/23938659/MkEsGqCVPFZ1hpEIgkTJgCkKHPDfVysRKib5…)
+[03:32:48]   downloaded 3,903.7 MB in 188.4s (20.7 MB/s)
+[03:36:31]   upload done video_id=24711717 in 222.4s
+[03:36:31] film cr_film_id=358 OK in 414.5s
+[03:36:31] iteration 44/50
+[03:36:31] film cr_film_id=360 name='Bohemian Rhapsody (2018) CZ Dabing' candidates=11
+[03:36:31]   candidate upload_id=6898654648322 url=https://prehraj.to/bohemian-rhapsody-2018-fullhd-1080p-h264-en-cz-dabing-dts-ac3-audio-tw1nky/6898654648322
+[03:36:32]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/143383094/ONnFWwhKXu7GTWXFDVc19hAgixmcLNU9XUG…)
+[03:38:08]   downloaded 2,016.0 MB in 93.8s (21.5 MB/s)
+[03:40:06]   upload done video_id=24711786 in 117.9s
+[03:40:06] film cr_film_id=360 OK in 215.2s
+[03:40:06] iteration 45/50
+[03:40:06] film cr_film_id=362 name='(Ne)obyčejný kluk (2017) CZ Dabing' candidates=37
+[03:40:06]   candidate upload_id=5be960bd4d4ad url=https://prehraj.to/ne-obycejny-kluk-2017-cz-dab-1080p-h264/5be960bd4d4ad
+[03:40:08]   resolved in 1.7s → 720p (https://pf-storage5.premiumcdn.net/8144381/y4YHlQCZyHybTjKI5ZtVxCkYukPUzasgrfNpc…)
+[03:41:43]   downloaded 1,888.6 MB in 93.0s (20.3 MB/s)
+[03:43:33]   upload done video_id=24711834 in 110.4s
+[03:43:33] film cr_film_id=362 OK in 207.1s
+[03:43:33] iteration 46/50
+[03:43:33] film cr_film_id=363 name='Pí a jeho život (2012) CZ Dabing' candidates=2
+[03:43:33]   candidate upload_id=bfeb28f754512421 url=https://prehraj.to/pi-a-jeho-zivot-2012-cz-dab-1080p-cz-dab-1080p/bfeb28f754512421
+[03:43:34]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/162416852/61rFN6IQwtZYS2zH3ki7rI6xFklhl6TaJcq…)
+[03:45:29]   downloaded 2,233.1 MB in 112.2s (19.9 MB/s)
+[03:47:40]   upload done video_id=24711886 in 131.1s
+[03:47:40] film cr_film_id=363 OK in 247.0s
+[03:47:40] iteration 47/50
+[03:47:40] film cr_film_id=364 name='Potomci lidí (2006) CZ Dabing' candidates=7
+[03:47:40]   candidate upload_id=5fca5e76ec229 url=https://prehraj.to/potomci-lidi-cz-dabing-2006/5fca5e76ec229
+[03:47:41]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/20553564/O8LhyqU8jHdgCLXfBZUoqUL3C1duRAh7yhrJ…)
+[03:48:58]   downloaded 1,570.5 MB in 73.9s (21.3 MB/s)
+[03:50:39]   upload done video_id=24711939 in 101.7s
+[03:50:39] film cr_film_id=364 OK in 179.3s
+[03:50:39] iteration 48/50
+[03:50:39] film cr_film_id=367 name='Thor: Ragnarok (2017) CZ Dabing' candidates=1
+[03:50:39]   candidate upload_id=b2552a1006b15ab7 url=https://prehraj.to/thor-3-ragnarok-2017-cz-dabing-ultra-hd-2160p-4k/b2552a1006b15ab7
+[03:50:41]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/162798770/RBqie4cbKH93ClxS8YHemczOf5EI4NTNoCa…)
+[03:52:52]   downloaded 2,837.6 MB in 129.5s (21.9 MB/s)
+[03:55:55]   upload done video_id=24711999 in 182.8s
+[03:55:55] film cr_film_id=367 OK in 315.7s
+[03:55:55] iteration 49/50
+[03:55:55] film cr_film_id=370 name='Škola základ života (1938) CZ Dabing' candidates=1
+[03:55:55]   candidate upload_id=6718644679cbb url=https://prehraj.to/skola-zaklad-zivota-1938-cz-dab/6718644679cbb
+[03:55:56]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/103406105/d96c3XHRzUljFYKHMxfBNHpJSlkCQ8clxsA…)
+[03:56:42]   downloaded 944.2 MB in 43.6s (21.7 MB/s)
+[03:57:42]   upload done video_id=24712055 in 59.9s
+[03:57:42] film cr_film_id=370 OK in 107.2s
+[03:57:42] iteration 50/50
+[03:57:42] film cr_film_id=375 name='Příchozí (2016) CZ Dabing' candidates=52
+[03:57:42]   candidate upload_id=59071f5086dde url=https://prehraj.to/prichozi-prvy-kontakt-arrival-2016-1080p-bluray-x264-dts-5-1-en-cz-dab/59071f5086dde
+[03:57:44]   resolved in 1.6s → 720p (https://pf-storage3.premiumcdn.net/2122542/3N5sXjUQlFNzCoEIRxczRUDNHNoSzQcaLureF…)
+[03:58:30]   downloaded 984.2 MB in 44.1s (22.3 MB/s)
+[03:59:33]   upload done video_id=24712074 in 63.2s
+[03:59:33] film cr_film_id=375 OK in 111.0s
+[03:59:33] batch-end ok=50 failed=0 dur=11218.1s avg/film=224.4s remaining=17447 eta_hours=1087.5
