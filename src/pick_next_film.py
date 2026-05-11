@@ -47,11 +47,26 @@ def burned_upload_ids(state: dict) -> set[str]:
     return {a["upload_id"] for a in state.get("failed_attempts", []) if a.get("permanent")}
 
 
-def pick_next(state: dict, backlog_rows: list[dict]) -> dict | None:
+def pick_next(
+    state: dict,
+    backlog_rows: list[dict],
+    extra_exclude: set[int] | None = None,
+) -> dict | None:
+    """Return the next film to attempt, or None when nothing remains.
+
+    `extra_exclude` is an in-memory set the orchestrator uses to skip
+    cr_film_ids it has already attempted in the current batch — including
+    ones that failed every candidate transiently. Without it, transient
+    failures (permanent=False) would let pick_next return the same film
+    again and the batch would infinite-loop on a 404-wrapped-as-502
+    upload until the 5 h job timeout. Across-batch retries still work
+    because extra_exclude is rebuilt per-batch.
+    """
     done = uploaded_film_ids(state)
     burned = burned_upload_ids(state)
+    extras = extra_exclude or set()
     for film in backlog_rows:
-        if film["cr_film_id"] in done:
+        if film["cr_film_id"] in done or film["cr_film_id"] in extras:
             continue
         live = [c for c in film["candidates"] if c["upload_id"] not in burned]
         if not live:

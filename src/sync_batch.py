@@ -222,20 +222,31 @@ def main() -> int:
     log("login done")
 
     ok = bad = 0
+    attempted: set[int] = set()
+    consecutive_failures = 0
+    MAX_CONSECUTIVE_FAILURES = 3
     t_batch = time.monotonic()
     for i in range(args.count):
         log(f"iteration {i + 1}/{args.count}")
-        # Re-pick after every iteration — `state` already excludes
-        # successful uploads, and pick_next walks the backlog from the
-        # top, so naturally moves to the next film.
-        film = pick_next(state, backlog)
+        # In-memory exclude prevents re-picking the same film when
+        # every candidate failed transiently (e.g. proxy 502 wrapping
+        # prehraj.to's 404 for dead uploads). Across-batch retries
+        # still work — `attempted` is fresh each run.
+        film = pick_next(state, backlog, attempted)
         if film is None:
             log("backlog exhausted")
             break
+        attempted.add(film["cr_film_id"])
         if process_film(film, session, state):
             ok += 1
+            consecutive_failures = 0
         else:
             bad += 1
+            consecutive_failures += 1
+            if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+                log(f"bail-out: {consecutive_failures} consecutive films exhausted "
+                    f"(proxy likely down) — stopping batch early")
+                break
 
     dur = round(time.monotonic() - t_batch, 1)
     avg = round(dur / max(ok, 1), 1) if ok else 0
