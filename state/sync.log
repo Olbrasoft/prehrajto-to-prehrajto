@@ -1497,3 +1497,359 @@
 [03:59:33]   upload done video_id=24712074 in 63.2s
 [03:59:33] film cr_film_id=375 OK in 111.0s
 [03:59:33] batch-end ok=50 failed=0 dur=11218.1s avg/film=224.4s remaining=17447 eta_hours=1087.5
+
+===== run 2026-05-11T03:59:47Z batch_size=50 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25644690372) =====
+[03:59:48] batch-start count=50 backlog=17650 uploads=203 failed_attempts=1
+[03:59:48] login
+[03:59:50] login done
+[03:59:50] iteration 1/50
+[03:59:50] film cr_film_id=376 name='Zkažená mládež (2007) CZ Dabing' candidates=11
+[03:59:50]   candidate upload_id=60bc7ed39844d url=https://prehraj.to/zkazena-mladez-2007-aac-5-1-1080p-h-264-1920x1078-cz-dabing/60bc7ed39844d
+[03:59:51]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/23780226/Jj9ip1SrQF5vcGZulbIwAS6MHJrH0kIvwtPA…)
+[04:00:55]   downloaded 1,198.7 MB in 62.0s (19.3 MB/s)
+[04:02:09]   upload done video_id=24712125 in 73.9s
+[04:02:09] film cr_film_id=376 OK in 139.6s
+[04:02:09] iteration 2/50
+[04:02:09] film cr_film_id=378 name='Carlitova cesta (1993) CZ Dabing' candidates=1
+[04:02:09]   candidate upload_id=5828bd953dc99 url=https://prehraj.to/carlitova-cesta-cz-dabing-1993-by-kamer/5828bd953dc99
+[04:02:11]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/860789/6l6UezCL0UKLtyAikrTENCEAs1MfByUmehlxiX…)
+[04:02:49]   downloaded 764.0 MB in 36.5s (20.9 MB/s)
+[04:03:40]   upload done video_id=24712147 in 50.1s
+[04:03:40] film cr_film_id=378 OK in 90.1s
+[04:03:40] iteration 3/50
+[04:03:40] film cr_film_id=379 name='Na hraně zítřka (2014) CZ Dabing' candidates=24
+[04:03:40]   candidate upload_id=5ad330ffa9959 url=https://prehraj.to/na-hrane-zitrka-cz-dabing-2014-full-hd-1080p/5ad330ffa9959
+[04:03:41]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/3878999/bazsLoHxeurNU98i4QHQEH7wsX8HLlFXRTEeC…)
+[04:05:26]   downloaded 2,273.2 MB in 103.1s (22.0 MB/s)
+[04:07:42]   upload done video_id=24712180 in 136.1s
+[04:07:42] film cr_film_id=379 OK in 242.7s
+[04:07:42] iteration 4/50
+[04:07:42] film cr_film_id=381 name='Harry Potter a vězeň z Azkabanu (2004) CZ Dabing' candidates=16
+[04:07:42]   candidate upload_id=7eca1aebc6a6744a url=https://prehraj.to/harry-potter-a-vezen-z-azkabanu-2004-cz-dabing-topppkvalita-1080p-full-hd-mkv/7eca1aebc6a6744a
+[04:07:44]   resolved in 1.5s → 1080p (https://pf-storage1.premiumcdn.net/163741547/vyqSLxiReF9BC4kI1BsW7i9QHzlCNeIerck…)
+[04:12:37]   downloaded 6,192.4 MB in 290.5s (21.3 MB/s)
+[04:19:39]   upload done video_id=24712280 in 421.9s
+[04:19:39] film cr_film_id=381 OK in 716.3s
+[04:19:39] iteration 5/50
+[04:19:39] film cr_film_id=383 name='District 9 (2009) CZ Dabing' candidates=23
+[04:19:39]   candidate upload_id=59132308243d4 url=https://prehraj.to/district-9-cz-dabing-fullhd-1080p-2009-msdos/59132308243d4
+[04:19:40]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/2165534/7g1SPnUrNI7rI5aHZ9fx8UAku8yCdwCONTP7h…)
+[04:21:33]   downloaded 2,450.0 MB in 111.3s (22.0 MB/s)
+[04:24:08]   upload done video_id=24712497 in 154.4s
+[04:24:08] film cr_film_id=383 OK in 269.2s
+[04:24:08] iteration 6/50
+[04:24:08] film cr_film_id=384 name='Zátah 2 (2014) CZ Dabing' candidates=19
+[04:24:08]   candidate upload_id=ffb902d9ee02b856 url=https://prehraj.to/zatah-2-2014-cz-dab-1080p/ffb902d9ee02b856
+[04:24:09]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/167850475/Wqmt2qfXGcYrcyjSADs8PfWjHZdsmks25t0…)
+[04:26:13]   downloaded 2,447.2 MB in 121.8s (20.1 MB/s)
+[04:29:03]   upload done video_id=24712590 in 170.0s
+[04:29:03] film cr_film_id=384 OK in 295.2s
+[04:29:03] iteration 7/50
+[04:29:03] film cr_film_id=386 name='Klub poslední naděje (2013) CZ Dabing' candidates=2
+[04:29:03]   candidate upload_id=6742251c10b22 url=https://prehraj.to/klub-posledni-nadeje-2013-cz-dab/6742251c10b22
+[04:29:04]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/110848913/dwmFydI5Nu1rFxDhPyIO1I5eCa7sBdsA6fP…)
+[04:29:34]   downloaded 499.1 MB in 27.1s (18.4 MB/s)
+[04:30:05]   upload done video_id=24712651 in 31.1s
+[04:30:05] film cr_film_id=386 OK in 61.9s
+[04:30:05] iteration 8/50
+[04:30:05] film cr_film_id=387 name='E.T. – Mimozemšťan (1982) CZ Dabing' candidates=6
+[04:30:05]   candidate upload_id=4f0c2e10e4682dc7 url=https://prehraj.to/e-t-mimozemstan-1982-cz-dab-1080p/4f0c2e10e4682dc7
+[04:30:06]   resolved in 1.4s → 1080p (https://pf-storage4.premiumcdn.net/161859878/qdRTweFWlUBDHyGudJSL5FP2h7QSrptXoHK…)
+[04:31:47]   downloaded 2,171.1 MB in 98.7s (22.0 MB/s)
+[04:33:53]   upload done video_id=24712704 in 125.8s
+[04:33:53] film cr_film_id=387 OK in 228.0s
+[04:33:53] iteration 9/50
+[04:33:53] film cr_film_id=388 name='V Bruggách (2008) CZ Dabing' candidates=20
+[04:33:53]   candidate upload_id=5a3ef2ea5b579 url=https://prehraj.to/v-bruggach-2008-cz-dabing-vanocni-filmy/5a3ef2ea5b579
+[04:33:54]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/3176585/rn8Fanfn8hXrTWeF1QUpDf1eSqLS9NtjkSkWC…)
+[04:34:22]   downloaded 480.3 MB in 25.9s (18.5 MB/s)
+[04:34:53]   upload done video_id=24712747 in 30.4s
+[04:34:53] film cr_film_id=388 OK in 59.7s
+[04:34:53] iteration 10/50
+[04:34:53] film cr_film_id=390 name='Charlieho malá tajemství (2012) CZ Dabing' candidates=15
+[04:34:53]   candidate upload_id=677604b69b384 url=https://prehraj.to/ten-kdo-stoji-v-koute-2012-cz-dab-1080p/677604b69b384
+[04:34:54]   resolved in 1.4s → 1080p (https://pf-storage5.premiumcdn.net/126922766/kv5T3qU3yi1RTlxfakHGoUgNt7os9Vto9Tq…)
+[04:36:49]   downloaded 2,502.4 MB in 113.0s (22.1 MB/s)
+[04:39:10]   upload done video_id=24712775 in 140.9s
+[04:39:10] film cr_film_id=390 OK in 257.0s
+[04:39:10] iteration 11/50
+[04:39:10] film cr_film_id=391 name='Toy Story 2: Příběh hraček (1999) CZ Dabing' candidates=17
+[04:39:10]   candidate upload_id=592d1c63c1da0 url=https://prehraj.to/toy-story-pribeh-hracek-2-1999-cz-dabing/592d1c63c1da0
+[04:39:11]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/2277806/jDMfJgspaUa4UqPI29feQslecqgF2KUDNTnjF…)
+[04:39:44]   downloaded 655.1 MB in 30.9s (21.2 MB/s)
+[04:40:32]   upload done video_id=24712819 in 48.3s
+[04:40:32] film cr_film_id=391 OK in 82.5s
+[04:40:32] iteration 12/50
+[04:40:32] film cr_film_id=394 name='X-Men: Budoucí minulost (2014) CZ Dabing' candidates=14
+[04:40:32]   candidate upload_id=5807d010d4de0 url=https://prehraj.to/x-men-budouci-minulost-2014-brrip-720p-cz-dabing/5807d010d4de0
+[04:40:34]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/722307/0XWUvDFzKhpDS9nIkDiEYFAriERUx9u60sRAfe…)
+[04:41:29]   downloaded 1,196.6 MB in 54.0s (22.2 MB/s)
+[04:42:38]   upload done video_id=24712841 in 68.9s
+[04:42:38] film cr_film_id=394 OK in 126.1s
+[04:42:38] iteration 13/50
+[04:42:38] film cr_film_id=395 name='Avatar (2009) CZ Dabing' candidates=9
+[04:42:38]   candidate upload_id=68ee1e3710b7e url=https://prehraj.to/avatar-2009-cz-dabing-1080p/68ee1e3710b7e
+[04:42:40]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/151529235/LN1SDYfWJT47i2aiX4sgKfbWSPOC7yf3gt5…)
+[04:47:41]   downloaded 6,734.8 MB in 299.5s (22.5 MB/s)
+[04:54:27]   upload done video_id=24712945 in 405.3s
+[04:54:27] film cr_film_id=395 OK in 708.2s
+[04:54:27] iteration 14/50
+[04:54:27] film cr_film_id=397 name='Země nikoho (2001) CZ Dabing' candidates=4
+[04:54:27]   candidate upload_id=5bbee0ed545b9 url=https://prehraj.to/zeme-nikoho-2001-cz-dabing/5bbee0ed545b9
+[04:54:28]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/7060568/Zm9T7MHJAcd4tzXhgwSjGHL0hMYunZS34iJqc…)
+[04:54:55]   downloaded 506.8 MB in 25.1s (20.2 MB/s)
+[04:55:27]   upload done video_id=24713062 in 31.9s
+[04:55:27] film cr_film_id=397 OK in 60.6s
+[04:55:27] iteration 15/50
+[04:55:27] film cr_film_id=401 name='Iron Man (2008) CZ Dabing' candidates=1
+[04:55:27]   candidate upload_id=9dea46e70106c476 url=https://prehraj.to/iron-man-1-cz-dabing-2008-mp4/9dea46e70106c476
+[04:55:28]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/170554292/Ym3iwQHxAFaXFrRhkoIwpHrRs9ksDkcBDcj…)
+[04:57:09]   downloaded 2,245.3 MB in 98.1s (22.9 MB/s)
+[04:59:14]   upload done video_id=24713105 in 125.9s
+[04:59:14] film cr_film_id=401 OK in 227.3s
+[04:59:14] iteration 16/50
+[04:59:14] film cr_film_id=402 name='Star Trek (2009) CZ Dabing' candidates=3
+[04:59:14]   candidate upload_id=66ec533ced35f url=https://prehraj.to/star-trek-2009-cz-dabing/66ec533ced35f
+[04:59:16]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/97239323/vPYT29F9AckLuEkt2vTvNFzYfrDfXrHeliVg…)
+[05:01:53]   downloaded 3,571.4 MB in 154.9s (23.1 MB/s)
+[05:05:33]   upload done video_id=24713178 in 219.9s
+[05:05:33] film cr_film_id=402 OK in 378.5s
+[05:05:33] iteration 17/50
+[05:05:33] film cr_film_id=403 name='Pád do ticha (2003) CZ Dabing' candidates=8
+[05:05:33]   candidate upload_id=5ac3cd8c642f1 url=https://prehraj.to/pad-do-ticha-2003-cz-dabing/5ac3cd8c642f1
+[05:05:34]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/3820993/zMzUeXIjVCvbhAzCOzs6LIDJSz9c6Qto7fnMU…)
+[05:06:05]   downloaded 561.2 MB in 28.2s (19.9 MB/s)
+[05:06:44]   upload done video_id=24713239 in 38.7s
+[05:06:44] film cr_film_id=403 OK in 70.8s
+[05:06:44] iteration 18/50
+[05:06:44] film cr_film_id=405 name='Hamnet (2025) CZ Dabing' candidates=1
+[05:06:44]   candidate upload_id=f759e1e96d6c686f url=https://prehraj.to/hamnet-2025-cz-dabing-full-hd-drama-top-kvalita-858024/f759e1e96d6c686f
+[05:06:45]   resolved in 1.1s → 720p (https://pf-storage3.premiumcdn.net/164187083/OoRsgQFMXTjLfqWIvXTW3FRah2PU8vHd7Iq…)
+[05:08:41]   downloaded 2,627.4 MB in 114.1s (23.0 MB/s)
+[05:11:12]   upload done video_id=24713276 in 150.9s
+[05:11:12] film cr_film_id=405 OK in 268.2s
+[05:11:12] iteration 19/50
+[05:11:12] film cr_film_id=406 name='Pád (2006) CZ' candidates=2
+[05:11:12]   candidate upload_id=2121a9fffd800fad url=https://prehraj.to/pad-do-tmy-2005-uhdrdv-cz-en-mkv/2121a9fffd800fad
+[05:11:13]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/168155404/wQaSZ4uXai97CdmsmEfZKuoRUPZcYqi7Ziw…)
+[05:14:14]   downloaded 4,235.5 MB in 179.4s (23.6 MB/s)
+[05:18:34]   upload done video_id=24713353 in 259.6s
+[05:18:34] film cr_film_id=406 OK in 442.1s
+[05:18:34] iteration 20/50
+[05:18:34] film cr_film_id=407 name='Moon (2009) CZ Dabing' candidates=4
+[05:18:34]   candidate upload_id=68c065a40a527 url=https://prehraj.to/moon-2009-en-a-cz-novinka-cz-dabing-full-hd-1080p-pucci-film/68c065a40a527
+[05:18:35]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/145939986/Jx8FMeuzlsynTVDt9OHRNuB4CaBC5Xfrvt8…)
+[05:20:24]   downloaded 2,439.6 MB in 106.2s (23.0 MB/s)
+[05:22:41]   upload done video_id=24713448 in 137.5s
+[05:22:41] film cr_film_id=407 OK in 247.3s
+[05:22:41] iteration 21/50
+[05:22:41] film cr_film_id=408 name='Pacho, hybský zbojník (1975) CZ' candidates=2
+[05:22:41]   candidate upload_id=6265ea9e4279c url=https://prehraj.to/pacho-hybsky-zbojnik-1978-sk-1080p-webrip/6265ea9e4279c
+[05:22:43]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/30592748/qkZTqrIAOhEpcZ4hwMtGLIKWivLtj3U7nSWO…)
+[05:26:10]   downloaded 4,617.6 MB in 205.4s (22.5 MB/s)
+[05:30:55]   upload done video_id=24713529 in 285.1s
+[05:30:55] film cr_film_id=408 OK in 493.8s
+[05:30:55] iteration 22/50
+[05:30:55] film cr_film_id=409 name='Kočičí odysea (2024) CZ Dabing' candidates=5
+[05:30:55]   candidate upload_id=68606de983318 url=https://prehraj.to/kocici-odysea-flow-2024-1080p-cz-dab-animak/68606de983318
+[05:30:56]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/140888888/aYzSw7T8kCGgCxqUykcN6TO5CrkFmNiEJCB…)
+[05:32:10]   downloaded 1,408.1 MB in 71.4s (19.7 MB/s)
+[05:33:32]   upload done video_id=24713635 in 81.5s
+[05:33:32] film cr_film_id=409 OK in 156.5s
+[05:33:32] iteration 23/50
+[05:33:32] film cr_film_id=410 name='Muži, kteří nenávidí ženy (2011) CZ Dabing' candidates=18
+[05:33:32]   candidate upload_id=67766eab0a64b url=https://prehraj.to/muzi-kteri-nenavidi-zeny-daniel-craig-rooney-mara-christopher-plummer-2011-krimi-drama-mysteriozni-thriller-1080p-cz-dabing/67766eab0a64b
+[05:33:33]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/126938312/N3BtLAIzaijeFbQSxwUGkI1WfEZcnEivycG…)
+[05:35:01]   downloaded 1,888.5 MB in 86.0s (22.0 MB/s)
+[05:36:52]   upload done video_id=24713676 in 110.9s
+[05:36:52] film cr_film_id=410 OK in 200.3s
+[05:36:52] iteration 24/50
+[05:36:52] film cr_film_id=411 name='Sám doma (1990) CZ Dabing' candidates=12
+[05:36:52]   candidate upload_id=02b2aa4738f627fa url=https://prehraj.to/sam-doma-1-1990-cz-dabing/02b2aa4738f627fa
+[05:36:53]   resolved in 1.4s → 1080p (https://pf-storage1.premiumcdn.net/166157252/ewEcNBUPmSKMf97fmdiGbUB1s1AS85TyoCD…)
+[05:39:21]   downloaded 3,226.2 MB in 145.9s (22.1 MB/s)
+[05:42:29]   upload done video_id=24713749 in 187.8s
+[05:42:29] film cr_film_id=411 OK in 336.9s
+[05:42:29] iteration 25/50
+[05:42:29] film cr_film_id=413 name='Minulé životy (2023) CZ Dabing' candidates=2
+[05:42:29]   candidate upload_id=68b2879c567e8 url=https://prehraj.to/minule-zivoty-2023-cz-dabing/68b2879c567e8
+[05:42:30]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/144925590/nk2tx4h1rfRrTY4hgQfd5hXjUy2FqPc0rfe…)
+[05:43:36]   downloaded 1,340.0 MB in 63.3s (21.2 MB/s)
+[05:44:54]   upload done video_id=24713816 in 78.1s
+[05:44:54] film cr_film_id=413 OK in 144.9s
+[05:44:54] iteration 26/50
+[05:44:54] film cr_film_id=417 name='Sněžné bratrstvo (2023) CZ Dabing' candidates=3
+[05:44:54]   candidate upload_id=65968f76dcc84 url=https://prehraj.to/snezne-bratrstvo-society-of-the-snow-2023-dobrodruzny-thriller-cz-dabing-1080p/65968f76dcc84
+[05:44:55]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/72015623/1lYhBOHwkIXgsVRTq0FN2HAdtrBcWmIxgtPR…)
+[05:47:21]   downloaded 3,279.5 MB in 144.0s (22.8 MB/s)
+[05:50:26]   upload done video_id=24713880 in 184.9s
+[05:50:26] film cr_film_id=417 OK in 332.4s
+[05:50:26] iteration 27/50
+[05:50:26] film cr_film_id=418 name='Návrat do budoucnosti II (1989) CZ Dabing' candidates=18
+[05:50:26]   candidate upload_id=56d03a3e857fc url=https://prehraj.to/navrat-do-budoucnosti-2-1989-hdrip-cz-dabing/56d03a3e857fc
+[05:50:28]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/35738/YR9I5ZFw0ujgfE5CN3IKMFy5SzLhKDsVPs3GINZ…)
+[05:51:04]   downloaded 699.5 MB in 34.2s (20.5 MB/s)
+[05:51:51]   upload done video_id=24713936 in 47.4s
+[05:51:51] film cr_film_id=418 OK in 85.1s
+[05:51:51] iteration 28/50
+[05:51:51] film cr_film_id=419 name='Chlapec, krtek, liška a kůň (2022) CZ' candidates=4
+[05:51:51]   candidate upload_id=d0bb2590f746f86a url=https://prehraj.to/chlapec-krtek-liska-a-kun-the-boy-the-mole-the-fox-and-the-horse-2022-1080p-web-h264-mp4/d0bb2590f746f86a
+[05:51:53]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/168589552/daGIm8HaofEVTKyHYKSokHN9uPySdPUvVuV…)
+[05:52:37]   downloaded 895.8 MB in 42.6s (21.0 MB/s)
+[05:53:35]   upload done video_id=24713957 in 58.0s
+[05:53:35] film cr_film_id=419 OK in 103.5s
+[05:53:35] iteration 29/50
+[05:53:35] film cr_film_id=420 name='Městečko South Park: Vstup do světa patolízalů (2023) CZ Dabing' candidates=3
+[05:53:35]   candidate upload_id=4a249a9de95246cb url=https://prehraj.to/mestecko-south-park-vstup-do-sveta-patolizalu-2023-cz-dab-1080p-mp4/4a249a9de95246cb
+[05:53:36]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/168337267/W3NTMYilyUEWUa4F0BfY4i5dI3LTADCoEUd…)
+[05:54:15]   downloaded 766.6 MB in 36.8s (20.8 MB/s)
+[05:55:03]   upload done video_id=24713978 in 47.8s
+[05:55:03] film cr_film_id=420 OK in 88.2s
+[05:55:03] iteration 30/50
+[05:55:03] film cr_film_id=422 name='Hobit: Neočekávaná cesta (2012) CZ Dabing' candidates=24
+[05:55:03]   candidate upload_id=6310346ba4dc7 url=https://prehraj.to/hobit-1-the-hobbit-an-unexpected-journey-2012-extended-1080p-cz-dabing/6310346ba4dc7
+[05:55:04]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/32536696/VWQuj0fe2irLT8BHEeCRzfRBS3lijZFrXu8B…)
+[05:58:47]   downloaded 4,458.2 MB in 220.5s (20.2 MB/s)
+[06:03:05]   upload done video_id=24714054 in 257.9s
+[06:03:05] film cr_film_id=422 OK in 481.9s
+[06:03:05] iteration 31/50
+[06:03:05] film cr_film_id=423 name='Hobit: Šmakova dračí poušť (2013) CZ Dabing' candidates=70
+[06:03:05]   candidate upload_id=631035e77a111 url=https://prehraj.to/hobit-2-the-hobbit-the-desolation-of-smaug-2013-extended-1080p-cz-dabing/631035e77a111
+[06:03:06]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/32536753/K9LTkvU4Vty0tKgU2KT2dUlPS1kuQKuBquWV…)
+[06:06:27]   downloaded 4,092.3 MB in 198.8s (20.6 MB/s)
+[06:10:22]   upload done video_id=24714151 in 234.7s
+[06:10:22] film cr_film_id=423 OK in 437.0s
+[06:10:22] iteration 32/50
+[06:10:22] film cr_film_id=424 name='Trosečník (2000) CZ Dabing' candidates=25
+[06:10:22]   candidate upload_id=55eebf466e420 url=https://prehraj.to/trosecnik-2000-czdab/55eebf466e420
+[06:10:23]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/290623/yxNsgacPvhxghqXFrQfjqcQGFJgiaAiX8i8Xcl…)
+[06:11:11]   downloaded 859.6 MB in 45.1s (19.1 MB/s)
+[06:12:03]   upload done video_id=24714225 in 51.9s
+[06:12:03] film cr_film_id=424 OK in 100.8s
+[06:12:03] iteration 33/50
+[06:12:03] film cr_film_id=425 name='Kocour v botách: Poslední přání (2022) CZ Dabing' candidates=2
+[06:12:03]   candidate upload_id=ff429bee6c46ddef url=https://prehraj.to/kocour-v-botach-posledni-prani-2022-cz-dabing-hd/ff429bee6c46ddef
+[06:12:04]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/166001249/B16HBPIwRU81HmAHvBfEkIYBSe9FdqUNMU3…)
+[06:13:57]   downloaded 2,498.5 MB in 111.3s (22.4 MB/s)
+[06:16:23]   upload done video_id=24714264 in 145.4s
+[06:16:23] film cr_film_id=425 OK in 260.2s
+[06:16:23] iteration 34/50
+[06:16:23] film cr_film_id=430 name='Na západní frontě klid (2022) CZ Dabing' candidates=9
+[06:16:23]   candidate upload_id=68d263d101cbf url=https://prehraj.to/na-zapadni-fronte-klid-2022-cz-dabing-1080p/68d263d101cbf
+[06:16:24]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/148013832/ZKVimOcAvtWbuV5HR9FJEc7rfYbUrQipNCd…)
+[06:18:56]   downloaded 3,486.3 MB in 149.4s (23.3 MB/s)
+[06:22:14]   upload done video_id=24714335 in 197.6s
+[06:22:14] film cr_film_id=430 OK in 350.9s
+[06:22:14] iteration 35/50
+[06:22:14] film cr_film_id=432 name='Třináct životů (2022) CZ Dabing' candidates=8
+[06:22:14]   candidate upload_id=68167d71c0d51 url=https://prehraj.to/trinact-zivotu-viggo-mortensen-colin-farrell-joel-edgerton-paul-gleeson-2022-drama-dobrodruzny-bdrip-1080p-cz-dabing/68167d71c0d51
+[06:22:15]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/137088557/LQzTZ3Hw5tMGTmVSalU3VHwBF72T3XikjSq…)
+[06:24:34]   downloaded 3,136.0 MB in 136.7s (22.9 MB/s)
+[06:27:28]   upload done video_id=24714414 in 173.6s
+[06:27:28] film cr_film_id=432 OK in 313.8s
+[06:27:28] iteration 36/50
+[06:27:28] film cr_film_id=442 name='Apocalypto (2006) CZ Dabing' candidates=10
+[06:27:28]   candidate upload_id=c17c73f1dd23035c url=https://prehraj.to/apocalypto-2006-cz-dab-1920x1080p/c17c73f1dd23035c
+[06:27:29]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/168755602/9q9HV0UVaFoGtx4sA0izZU9miVzUX2UPkIO…)
+[06:31:53]   downloaded 5,809.5 MB in 261.8s (22.2 MB/s)
+[06:37:50]   upload done video_id=24714511 in 356.9s
+[06:37:50] film cr_film_id=442 OK in 622.1s
+[06:37:50] iteration 37/50
+[06:37:50] film cr_film_id=443 name='Training Day (2001) CZ Dabing' candidates=17
+[06:37:50]   candidate upload_id=61967339ad5ba url=https://prehraj.to/training-day-2001-1080p-cz-dabing/61967339ad5ba
+[06:37:51]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/26612104/elmhJGforFKDS7JtlmTp7f7EuKehLKTRoTel…)
+[06:39:24]   downloaded 2,059.1 MB in 90.7s (22.7 MB/s)
+[06:41:35]   upload done video_id=24714608 in 131.6s
+[06:41:35] film cr_film_id=443 OK in 225.4s
+[06:41:35] iteration 38/50
+[06:41:35] film cr_film_id=444 name='Gentlemani (2019) CZ Dabing' candidates=18
+[06:41:35]   candidate upload_id=63035bb47b249 url=https://prehraj.to/gentlemani-the-gentlemen-2019-ab-1080p-cz-dab/63035bb47b249
+[06:41:37]   resolved in 1.6s → 720p (https://pf-storage3.premiumcdn.net/32377009/XGoHY3heVs5jUElCDjUNrh2Wcwdt9VhPXij2…)
+[06:42:59]   downloaded 1,806.0 MB in 79.9s (22.6 MB/s)
+[06:44:37]   upload done video_id=24714645 in 98.5s
+[06:44:37] film cr_film_id=444 OK in 182.1s
+[06:44:37] iteration 39/50
+[06:44:37] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:37]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:38]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:38]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:39]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:39] film cr_film_id=446 all candidates exhausted
+[06:44:39] iteration 40/50
+[06:44:39] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:39]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:39]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:39]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:40]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:40] film cr_film_id=446 all candidates exhausted
+[06:44:40] iteration 41/50
+[06:44:40] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:40]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:41]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:41]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:42]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:42] film cr_film_id=446 all candidates exhausted
+[06:44:42] iteration 42/50
+[06:44:42] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:42]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:42]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:42]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:43]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:43] film cr_film_id=446 all candidates exhausted
+[06:44:43] iteration 43/50
+[06:44:43] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:43]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:44]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:44]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:44]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:44] film cr_film_id=446 all candidates exhausted
+[06:44:44] iteration 44/50
+[06:44:44] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:44]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:45]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:45]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:46]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:46] film cr_film_id=446 all candidates exhausted
+[06:44:46] iteration 45/50
+[06:44:46] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:46]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:46]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:46]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:47]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:47] film cr_film_id=446 all candidates exhausted
+[06:44:47] iteration 46/50
+[06:44:47] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:47]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:48]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:48]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:48]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:48] film cr_film_id=446 all candidates exhausted
+[06:44:48] iteration 47/50
+[06:44:48] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:48]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:49]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:49]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:49]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:49] film cr_film_id=446 all candidates exhausted
+[06:44:49] iteration 48/50
+[06:44:49] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:49]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:51]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:51]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:52]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:52] film cr_film_id=446 all candidates exhausted
+[06:44:52] iteration 49/50
+[06:44:52] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:52]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:52]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:52]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:53]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:53] film cr_film_id=446 all candidates exhausted
+[06:44:53] iteration 50/50
+[06:44:53] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[06:44:53]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[06:44:53]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=False)
+[06:44:53]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[06:44:54]   resolve FAILED: HTTP 502 (transient): https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=False)
+[06:44:54] film cr_film_id=446 all candidates exhausted
+[06:44:54] batch-end ok=38 failed=12 dur=9903.9s avg/film=260.6s remaining=17409 eta_hours=1260.2
