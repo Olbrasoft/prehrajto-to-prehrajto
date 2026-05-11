@@ -4583,6 +4583,63 @@
         "download_sec": 79.9,
         "upload_sec": 98.5
       }
+    },
+    {
+      "cr_film_id": 449,
+      "cr_slug": "ircan",
+      "title": "Irčan",
+      "year": 2019,
+      "display_name": "Irčan (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ff7c22249401",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24721428,
+      "size_bytes": 4417909387,
+      "uploaded_at": "2026-05-11T11:27:47Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 154.5,
+        "upload_sec": 219.3
+      }
+    },
+    {
+      "cr_film_id": 450,
+      "cr_slug": "utec",
+      "title": "Uteč",
+      "year": 2017,
+      "display_name": "Uteč (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "614764d892d33",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24721494,
+      "size_bytes": 1482123598,
+      "uploaded_at": "2026-05-11T11:29:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 54.5,
+        "upload_sec": 68.9
+      }
+    },
+    {
+      "cr_film_id": 451,
+      "cr_slug": "slava",
+      "title": "Sláva",
+      "year": 1989,
+      "display_name": "Sláva (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d523113c5f6e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24721519,
+      "size_bytes": 592175873,
+      "uploaded_at": "2026-05-11T11:30:58Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.2,
+        "upload_sec": 39.3
+      }
     }
   ],
   "failed_attempts": [
@@ -7884,5 +7941,5 @@
       "failed_at": "2026-05-11T11:15:54Z"
     }
   ],
-  "last_updated": "2026-05-11T11:15:54Z"
+  "last_updated": "2026-05-11T11:30:58Z"
 }
