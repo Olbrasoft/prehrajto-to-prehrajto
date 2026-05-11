@@ -32,6 +32,17 @@ USER_AGENT = (
     "Chrome/127.0.0.0 Safari/537.36"
 )
 
+# Throttle for the CZ proxy. chobotnice.aspfree.cz runs on shared ASP.NET
+# hosting; ~50 HTML fetches in 5 min knock the app pool into 502 mode for
+# tens of minutes. Force at least RESOLVE_MIN_GAP seconds between two
+# proxy GETs within the same process. The download (~3 min) + upload
+# (~2 min) phases that follow a successful resolve already create plenty
+# of natural spacing — the gap matters most when candidates fail
+# back-to-back (e.g. dead 404 uploads) and resolve calls would otherwise
+# fire seconds apart.
+RESOLVE_MIN_GAP = float(os.environ.get("CZ_PROXY_MIN_GAP_SECONDS", "5"))
+_last_resolve_at: float = 0.0
+
 # Matches every `videos.push({ src: "...", type: 'video/mp4', res: '1080', label: '1080p' [, default: true] });`
 # in the inline JS. We accept either single or double quotes for each value
 # and ignore the order of the inner properties.
@@ -184,14 +195,26 @@ def resolve(
     the orchestrator records as a transient failed_attempt (retry-able
     on the next batch).
     """
+    global _last_resolve_at
     sess = session or requests.Session()
     sess.headers.setdefault("User-Agent", USER_AGENT)
     fetch_url = _via_cz_proxy(upload_url) or upload_url
+    via_proxy = fetch_url != upload_url
 
     last_err: str = "no attempts"
     for attempt in range(max_retries + 1):
+        # Pace consecutive proxy GETs. The first call in the batch hits
+        # `wait <= 0` and goes through immediately; later calls wait out
+        # the remaining gap. Retries DO honor the gap too — if proxy is
+        # in 502 mode we want to be even gentler, not hammer it.
+        if via_proxy:
+            wait = RESOLVE_MIN_GAP - (time.monotonic() - _last_resolve_at)
+            if wait > 0:
+                time.sleep(wait)
         try:
             resp = sess.get(fetch_url, timeout=timeout, allow_redirects=True)
+            if via_proxy:
+                _last_resolve_at = time.monotonic()
         except requests.RequestException as e:
             last_err = f"network error: {e}"
         else:
