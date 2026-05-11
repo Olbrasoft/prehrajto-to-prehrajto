@@ -3454,3 +3454,16 @@
 [11:10:37]   candidate upload_id=5ff7c22249401 url=https://prehraj.to/ircan-the-irishman-2019-1080p-webrip-cz-dab/5ff7c22249401
 [11:10:43]   resolved in 6.1s → 1080p (https://pf-storage5.premiumcdn.net/21327474/av5I7PUpWcPOClnuYei97UYPfAJTantnBH0O…)
 [11:13:31]   downloaded 4,417.9 MB in 166.5s (26.5 MB/s)
+
+===== run 2026-05-11T11:15:46Z batch_size=1 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25666791340) =====
+[11:15:47] batch-start count=1 backlog=17650 uploads=241 failed_attempts=469
+[11:15:47] login
+[11:15:48] login done
+[11:15:48] iteration 1/1
+[11:15:48] film cr_film_id=446 name='Malé ženy (2019) CZ Dabing' candidates=2
+[11:15:48]   candidate upload_id=a62b1e06f54fed94 url=https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94
+[11:15:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94 (permanent=True)
+[11:15:49]   candidate upload_id=56a5b74e1612e3d1 url=https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1
+[11:15:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1 (permanent=True)
+[11:15:54] film cr_film_id=446 all candidates exhausted
+[11:15:54] batch-end ok=0 failed=1 dur=6.3s avg/film=0s remaining=17409 eta_hours=None

@@ -7868,7 +7868,21 @@
       "reason": "resolve_failed: HTTP 502 after 5 attempts: https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1",
       "permanent": false,
       "failed_at": "2026-05-11T11:10:36Z"
+    },
+    {
+      "cr_film_id": 446,
+      "upload_id": "a62b1e06f54fed94",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/male-zeny-2019-cz-dabing-full-hd-drama-top-kvalita-331482/a62b1e06f54fed94",
+      "permanent": true,
+      "failed_at": "2026-05-11T11:15:49Z"
+    },
+    {
+      "cr_film_id": 446,
+      "upload_id": "56a5b74e1612e3d1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1",
+      "permanent": true,
+      "failed_at": "2026-05-11T11:15:54Z"
     }
   ],
-  "last_updated": "2026-05-11T11:10:36Z"
+  "last_updated": "2026-05-11T11:15:54Z"
 }
