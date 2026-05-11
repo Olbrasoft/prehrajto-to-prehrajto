@@ -20,6 +20,7 @@ from __future__ import annotations
 import os
 import re
 import sys
+import time
 import urllib.parse
 from dataclasses import dataclass
 from typing import Optional
@@ -163,28 +164,55 @@ def _via_cz_proxy(upload_url: str) -> str | None:
     return f"{base}?key={urllib.parse.quote(key, safe='')}&url={urllib.parse.quote(upload_url, safe='')}"
 
 
-def resolve(upload_url: str, *, timeout: float = 30.0, session: requests.Session | None = None) -> ResolvedUpload:
+def resolve(
+    upload_url: str,
+    *,
+    timeout: float = 30.0,
+    session: requests.Session | None = None,
+    max_retries: int = 4,
+    backoff_seconds: tuple[float, ...] = (3, 10, 30, 60),
+) -> ResolvedUpload:
+    """Fetch the prehraj.to detail page (via CZ proxy when configured) and
+    parse out the player config. Retries 5xx / network errors with
+    exponential backoff so an occasional proxy blip doesn't burn a
+    candidate.
+
+    The chobotnice proxy is a shared IIS handler; under burst load it
+    sometimes returns 502 Bad Gateway for ~30-90s. With 4 retries up to
+    ~103 s total we cover those windows; anything longer is treated as
+    a real outage and surfaces as ResolveError(permanent=False), which
+    the orchestrator records as a transient failed_attempt (retry-able
+    on the next batch).
+    """
     sess = session or requests.Session()
     sess.headers.setdefault("User-Agent", USER_AGENT)
-
     fetch_url = _via_cz_proxy(upload_url) or upload_url
-    try:
-        resp = sess.get(fetch_url, timeout=timeout, allow_redirects=True)
-    except requests.RequestException as e:
-        # Network error, DNS, TLS, timeout — never raised by prehraj.to
-        # itself, always retry-able.
-        raise ResolveError(f"network error: {e}", permanent=False) from e
 
-    if resp.status_code == 404:
-        # upload truly gone — burn the upload_id.
-        raise ResolveError(f"upload not found (404): {upload_url}", permanent=True)
-    if 500 <= resp.status_code < 600:
-        # 5xx from prehraj.to or from chobotnice proxy — both are transient.
-        raise ResolveError(f"HTTP {resp.status_code} (transient): {upload_url}", permanent=False)
-    if not resp.ok:
-        # Other 4xx — treat as permanent (auth, forbidden, malformed URL).
-        raise ResolveError(f"HTTP {resp.status_code}: {upload_url}", permanent=True)
-    return parse_html(resp.text, upload_url)
+    last_err: str = "no attempts"
+    for attempt in range(max_retries + 1):
+        try:
+            resp = sess.get(fetch_url, timeout=timeout, allow_redirects=True)
+        except requests.RequestException as e:
+            last_err = f"network error: {e}"
+        else:
+            if resp.status_code == 404:
+                # Upload truly gone — give up immediately, burn the upload_id.
+                raise ResolveError(f"upload not found (404): {upload_url}", permanent=True)
+            if resp.ok:
+                return parse_html(resp.text, upload_url)
+            if 500 <= resp.status_code < 600:
+                last_err = f"HTTP {resp.status_code}"
+            else:
+                # Other 4xx — auth, forbidden, malformed URL. Don't retry.
+                raise ResolveError(f"HTTP {resp.status_code}: {upload_url}", permanent=True)
+
+        if attempt < max_retries:
+            sleep_s = backoff_seconds[attempt] if attempt < len(backoff_seconds) else backoff_seconds[-1]
+            print(f"[resolve] {last_err} on {upload_url[:80]}…, retry {attempt + 1}/{max_retries} in {sleep_s:.0f}s", flush=True)
+            time.sleep(sleep_s)
+
+    raise ResolveError(f"{last_err} after {max_retries + 1} attempts: {upload_url}",
+                       permanent=False)
 
 
 def pick_best(videos: list[StreamVariant], *, prefer: tuple[int, ...] = (1080, 720)) -> StreamVariant:
