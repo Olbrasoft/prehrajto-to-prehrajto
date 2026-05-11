@@ -4640,6 +4640,82 @@
         "download_sec": 23.2,
         "upload_sec": 39.3
       }
+    },
+    {
+      "cr_film_id": 452,
+      "cr_slug": "jednotka-prilis-rychleho-nasazeni",
+      "title": "Jednotka příliš rychlého nasazení",
+      "year": 2007,
+      "display_name": "Jednotka příliš rychlého nasazení (2007) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "61bb1b599108f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24721550,
+      "size_bytes": 2372047570,
+      "uploaded_at": "2026-05-11T11:34:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 89.8,
+        "upload_sec": 99.3
+      }
+    },
+    {
+      "cr_film_id": 454,
+      "cr_slug": "socialni-sit",
+      "title": "Sociální síť",
+      "year": 2010,
+      "display_name": "Sociální síť (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0464e71a07e2da2f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24721586,
+      "size_bytes": 1251653629,
+      "uploaded_at": "2026-05-11T11:36:39Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 42.5,
+        "upload_sec": 60.4
+      }
+    },
+    {
+      "cr_film_id": 455,
+      "cr_slug": "serenity",
+      "title": "Serenity",
+      "year": 2005,
+      "display_name": "Serenity (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64757acb2767c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24721633,
+      "size_bytes": 2552126434,
+      "uploaded_at": "2026-05-11T11:39:49Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 84.5,
+        "upload_sec": 102.0
+      }
+    },
+    {
+      "cr_film_id": 456,
+      "cr_slug": "v-pisku-prislib-svobody",
+      "title": "V písku - Příslib svobody",
+      "year": 2015,
+      "display_name": "V písku - Příslib svobody (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6475fd2b327ec",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24721672,
+      "size_bytes": 2061904657,
+      "uploaded_at": "2026-05-11T11:42:37Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 68.5,
+        "upload_sec": 95.9
+      }
     }
   ],
   "failed_attempts": [
@@ -7939,7 +8015,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1",
       "permanent": true,
       "failed_at": "2026-05-11T11:15:54Z"
+    },
+    {
+      "cr_film_id": 453,
+      "upload_id": "20e51ff648bdf001",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/misto-u-more-2016-1080p-bluray/20e51ff648bdf001",
+      "permanent": true,
+      "failed_at": "2026-05-11T11:34:49Z"
     }
   ],
-  "last_updated": "2026-05-11T11:30:58Z"
+  "last_updated": "2026-05-11T11:42:37Z"
 }

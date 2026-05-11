@@ -3503,3 +3503,42 @@
 [11:30:58]   upload done video_id=24721519 in 39.3s
 [11:30:58] film cr_film_id=451 OK in 65.2s
 [11:30:58] batch-end ok=3 failed=0 dur=568.3s avg/film=189.4s remaining=17406 eta_hours=915.7
+
+===== run 2026-05-11T11:31:33Z batch_size=5 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25667490033) =====
+[11:31:35] batch-start count=5 backlog=17650 uploads=244 failed_attempts=471
+[11:31:35] login
+[11:31:36] login done
+[11:31:36] iteration 1/5
+[11:31:36] film cr_film_id=452 name='Jednotka příliš rychlého nasazení (2007) CZ' candidates=4
+[11:31:36]   candidate upload_id=61bb1b599108f url=https://prehraj.to/hot-fuzz-jednotka-prilis-rychleho-nasazeni-2007-remastered-fullhd-1080p-cz-en-phdteam/61bb1b599108f
+[11:31:37]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/27482730/lnguLKFyzcjYfo7CPlF12FE7CApu2zHawtyL…)
+[11:33:09]   downloaded 2,372.0 MB in 89.8s (26.4 MB/s)
+[11:34:48]   upload done video_id=24721550 in 99.3s
+[11:34:48] film cr_film_id=452 OK in 192.1s
+[11:34:48] iteration 2/5
+[11:34:48] film cr_film_id=453 name='Místo u moře (2016) CZ' candidates=1
+[11:34:48]   candidate upload_id=20e51ff648bdf001 url=https://prehraj.to/misto-u-more-2016-1080p-bluray/20e51ff648bdf001
+[11:34:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/misto-u-more-2016-1080p-bluray/20e51ff648bdf001 (permanent=True)
+[11:34:49] film cr_film_id=453 all candidates exhausted
+[11:34:49] iteration 3/5
+[11:34:49] film cr_film_id=454 name='Sociální síť (2010) CZ Dabing' candidates=1
+[11:34:49]   candidate upload_id=0464e71a07e2da2f url=https://prehraj.to/socialni-sit-2010-cz-dab-1080p/0464e71a07e2da2f
+[11:34:55]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/167543081/RKeivkHY1TRvck7F7AcEJHljcp4unbh7Msl…)
+[11:35:39]   downloaded 1,251.7 MB in 42.5s (29.5 MB/s)
+[11:36:39]   upload done video_id=24721586 in 60.4s
+[11:36:39] film cr_film_id=454 OK in 110.6s
+[11:36:39] iteration 4/5
+[11:36:39] film cr_film_id=455 name='Serenity (2005) CZ Dabing' candidates=5
+[11:36:39]   candidate upload_id=64757acb2767c url=https://prehraj.to/serenity-2005-1080p-x264-ac3-5-1-cz-dab-alien007/64757acb2767c
+[11:36:41]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/41208544/pjMSGLfOwFAYfaktEBsJvfQWCL3SeQCVbtVq…)
+[11:38:07]   downloaded 2,552.1 MB in 84.5s (30.2 MB/s)
+[11:39:49]   upload done video_id=24721633 in 102.0s
+[11:39:49] film cr_film_id=455 OK in 189.7s
+[11:39:49] iteration 5/5
+[11:39:49] film cr_film_id=456 name='V písku - Příslib svobody (2015) CZ Dabing' candidates=18
+[11:39:49]   candidate upload_id=6475fd2b327ec url=https://prehraj.to/v-pisku-prislib-svobody-cz-dabing-2015/6475fd2b327ec
+[11:39:50]   resolved in 1.4s → 720p (https://pf-storage4.premiumcdn.net/41217100/KpeU8rs8KcmoTYNsn5SwzsGxuAEtK2tMaCnM…)
+[11:41:01]   downloaded 2,061.9 MB in 68.5s (30.1 MB/s)
+[11:42:37]   upload done video_id=24721672 in 95.9s
+[11:42:37] film cr_film_id=456 OK in 167.6s
+[11:42:37] batch-end ok=4 failed=1 dur=660.6s avg/film=165.2s remaining=17402 eta_hours=798.6
