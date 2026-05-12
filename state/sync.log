@@ -5045,3 +5045,14 @@
 [04:56:54]   upload done video_id=24746560 in 65.7s
 [04:56:56] film cr_film_id=847 OK in 119.0s
 [04:56:56] batch-end ok=20 failed=0 dur=3253.1s avg/film=162.7s remaining=17197 eta_hours=777.2
+
+===== run 2026-05-12T04:58:36Z batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25714354529) =====
+[04:58:37] batch-start count=20 backlog=17650 uploads=453 failed_attempts=478
+[04:58:37] login
+[04:58:39] login done
+[04:58:39] iteration 1/20
+[04:58:39] film cr_film_id=848 name='Přichází Satan! (1976) CZ Dabing' candidates=13
+[04:58:39]   candidate upload_id=5828b044d5e98 url=https://prehraj.to/prichazi-satan-cz-dabing-1976-by-kamer/5828b044d5e98
+[04:58:41]   resolved in 1.6s → 480p (https://pf-storage4.premiumcdn.net/860632/4g4to2fm2U3wfQqF2ltM5fW9uZJu6LcN2u9dfJ…)
+[04:59:03]   downloaded 474.6 MB in 20.5s (23.1 MB/s)
+[04:59:31]   upload done video_id=24746665 in 27.8s
