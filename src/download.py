@@ -26,9 +26,14 @@ USER_AGENT = (
 # response, not a real movie file.
 MIN_FILE_SIZE = 10_000_000  # 10 MB
 
-# GitHub-hosted runner has ~14 GB free disk. Anything bigger overflows the
-# job. Caller should fail-fast and pick a different upload candidate.
-MAX_FILE_SIZE = 10_000_000_000  # 10 GB
+# GitHub-hosted runner has ~14 GB free disk. Practical experience: files
+# above ~7 GB push the runner over the edge during the upload phase (file
+# is kept on disk until upload completes; the multipart POST itself uses
+# tmp buffers; OS + tooling already consume ~3 GB). cr_film_id=822
+# (9.6 GB) crashed two runs in a row at the upload step. Cap at 6 GB so
+# oversize candidates get marked permanent and we fall through to another
+# candidate (most films have a 720p variant in the 1.5-3 GB range).
+MAX_FILE_SIZE = 6_000_000_000  # 6 GB
 
 
 class DownloadError(Exception):
