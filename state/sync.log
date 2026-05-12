@@ -4794,3 +4794,14 @@
 [03:15:56]   upload done video_id=24742588 in 27.8s
 [03:15:56] film cr_film_id=804 OK in 53.6s
 [03:15:56] batch-end ok=12 failed=0 dur=1716.7s avg/film=143.1s remaining=17230 eta_hours=684.9
+
+===== run 2026-05-12T03:16:45Z batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25711135272) =====
+[03:16:47] batch-start count=20 backlog=17650 uploads=420 failed_attempts=475
+[03:16:47] login
+[03:16:48] login done
+[03:16:48] iteration 1/20
+[03:16:48] film cr_film_id=805 name='Železná srdce (2014) CZ Dabing' candidates=46
+[03:16:48]   candidate upload_id=5e11aedab6865 url=https://prehraj.to/zelezna-srdce-fury-2014-hd-720p-cz-dabing/5e11aedab6865
+[03:16:49]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/15597562/DvqTP3FjbtKwIm2idKS9XFJqcWnfYkIJDC3o…)
+[03:17:24]   downloaded 1,183.0 MB in 33.4s (35.4 MB/s)
+[03:18:16]   upload done video_id=24742676 in 52.5s
