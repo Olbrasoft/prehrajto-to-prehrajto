@@ -13133,6 +13133,25 @@
         "download_sec": 61.2,
         "upload_sec": 75.4
       }
+    },
+    {
+      "cr_film_id": 1331,
+      "cr_slug": "posledni-souboj",
+      "title": "Poslední souboj",
+      "year": 2021,
+      "display_name": "Poslední souboj (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68f7b5563f191",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24765996,
+      "size_bytes": 3065542016,
+      "uploaded_at": "2026-05-12T14:57:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 305.2,
+        "upload_sec": 161.7
+      }
     }
   ],
   "failed_attempts": [
@@ -16574,5 +16593,5 @@
       "failed_at": "2026-05-12T13:36:41Z"
     }
   ],
-  "last_updated": "2026-05-12T14:49:06Z"
+  "last_updated": "2026-05-12T14:57:31Z"
 }
