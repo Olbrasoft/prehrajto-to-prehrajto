@@ -14159,6 +14159,25 @@
         "download_sec": 100.2,
         "upload_sec": 49.2
       }
+    },
+    {
+      "cr_film_id": 1444,
+      "cr_slug": "kocour-bob",
+      "title": "Kocour Bob",
+      "year": 2016,
+      "display_name": "Kocour Bob (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5991f3ee6b2c5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24773176,
+      "size_bytes": 560743405,
+      "uploaded_at": "2026-05-12T19:28:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.5,
+        "upload_sec": 33.6
+      }
     }
   ],
   "failed_attempts": [
@@ -17628,5 +17647,5 @@
       "failed_at": "2026-05-12T17:29:14Z"
     }
   ],
-  "last_updated": "2026-05-12T19:27:26Z"
+  "last_updated": "2026-05-12T19:28:27Z"
 }
