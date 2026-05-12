@@ -12012,6 +12012,25 @@
         "download_sec": 43.2,
         "upload_sec": 91.6
       }
+    },
+    {
+      "cr_film_id": 1212,
+      "cr_slug": "pravidla-mostarny",
+      "title": "Pravidla moštárny",
+      "year": 1999,
+      "display_name": "Pravidla moštárny (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e293b708b56",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24762436,
+      "size_bytes": 537587385,
+      "uploaded_at": "2026-05-12T12:34:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.6,
+        "upload_sec": 76.5
+      }
     }
   ],
   "failed_attempts": [
@@ -15390,5 +15409,5 @@
       "failed_at": "2026-05-12T11:53:03Z"
     }
   ],
-  "last_updated": "2026-05-12T12:32:22Z"
+  "last_updated": "2026-05-12T12:34:01Z"
 }
