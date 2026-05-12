@@ -11366,6 +11366,25 @@
         "download_sec": 68.3,
         "upload_sec": 100.2
       }
+    },
+    {
+      "cr_film_id": 1133,
+      "cr_slug": "na-prahu-valky",
+      "title": "Na prahu války",
+      "year": 2019,
+      "display_name": "Na prahu války (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ffe05b2651ae",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24758260,
+      "size_bytes": 3651036041,
+      "uploaded_at": "2026-05-12T11:22:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 129.3,
+        "upload_sec": 166.5
+      }
     }
   ],
   "failed_attempts": [
@@ -14737,5 +14756,5 @@
       "failed_at": "2026-05-12T10:30:32Z"
     }
   ],
-  "last_updated": "2026-05-12T11:17:08Z"
+  "last_updated": "2026-05-12T11:22:07Z"
 }
