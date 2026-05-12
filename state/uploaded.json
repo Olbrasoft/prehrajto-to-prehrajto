@@ -9846,6 +9846,25 @@
         "download_sec": 33.8,
         "upload_sec": 51.9
       }
+    },
+    {
+      "cr_film_id": 977,
+      "cr_slug": "baby-driver",
+      "title": "Baby Driver",
+      "year": 2017,
+      "display_name": "Baby Driver (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fc3ee3fe555b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24751871,
+      "size_bytes": 2080198567,
+      "uploaded_at": "2026-05-12T07:47:59Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 59.6,
+        "upload_sec": 74.8
+      }
     }
   ],
   "failed_attempts": [
@@ -13210,5 +13229,5 @@
       "failed_at": "2026-05-12T07:18:53Z"
     }
   ],
-  "last_updated": "2026-05-12T07:45:41Z"
+  "last_updated": "2026-05-12T07:47:59Z"
 }
