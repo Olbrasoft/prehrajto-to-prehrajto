@@ -1,0 +1,11 @@
+
+===== run 2026-05-12T22:08:52Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25765122007) =====
+[22:08:53] batch-start shard=1/2 count=20 backlog=17650 uploads=379 failed_attempts=7
+[22:08:53] login
+[22:08:55] login done
+[22:08:55] iteration 1/20
+[22:08:55] film cr_film_id=1551 name='Nekonečný příběh (1984) CZ Dabing' candidates=7
+[22:08:55]   candidate upload_id=58efab591c281 url=https://prehraj.to/nekonecny-pribeh-1-cz-dabing-1984-the-neverending-story-1/58efab591c281
+[22:08:56]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/2008900/4MKT6XhxdFKGtPouklS9phVnf20FP9U9YcrXF…)
+[22:09:21]   downloaded 439.5 MB in 22.5s (19.5 MB/s)
+[22:09:50]   upload done video_id=24776472 in 28.6s
