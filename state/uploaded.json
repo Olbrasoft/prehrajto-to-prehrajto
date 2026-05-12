@@ -12050,6 +12050,25 @@
         "download_sec": 59.5,
         "upload_sec": 103.1
       }
+    },
+    {
+      "cr_film_id": 1214,
+      "cr_slug": "nocni-zvirata",
+      "title": "Noční zvířata",
+      "year": 2016,
+      "display_name": "Noční zvířata (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66003d2d8594d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24762588,
+      "size_bytes": 1826025853,
+      "uploaded_at": "2026-05-12T12:39:08Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 57.3,
+        "upload_sec": 78.6
+      }
     }
   ],
   "failed_attempts": [
@@ -15428,5 +15447,5 @@
       "failed_at": "2026-05-12T11:53:03Z"
     }
   ],
-  "last_updated": "2026-05-12T12:36:47Z"
+  "last_updated": "2026-05-12T12:39:08Z"
 }
