@@ -7242,6 +7242,25 @@
         "download_sec": 65.0,
         "upload_sec": 84.2
       }
+    },
+    {
+      "cr_film_id": 1561,
+      "cr_slug": "neporazitelni",
+      "title": "Neporazitelní",
+      "year": 2025,
+      "display_name": "Neporazitelní (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a5cb4ae20c84f5df",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24776543,
+      "size_bytes": 2163681302,
+      "uploaded_at": "2026-05-12T22:16:33Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 108.0,
+        "upload_sec": 128.9
+      }
     }
   ],
   "failed_attempts": [
@@ -7302,5 +7321,5 @@
       "failed_at": "2026-05-12T22:09:52Z"
     }
   ],
-  "last_updated": "2026-05-12T22:12:31Z"
+  "last_updated": "2026-05-12T22:16:33Z"
 }
