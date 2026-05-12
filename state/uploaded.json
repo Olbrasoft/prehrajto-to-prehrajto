@@ -11461,6 +11461,25 @@
         "download_sec": 105.3,
         "upload_sec": 194.3
       }
+    },
+    {
+      "cr_film_id": 1139,
+      "cr_slug": "panstvi-downton",
+      "title": "Panství Downton",
+      "year": 2019,
+      "display_name": "Panství Downton (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e213cabd4949",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24758651,
+      "size_bytes": 1731231875,
+      "uploaded_at": "2026-05-12T11:35:13Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 85.1,
+        "upload_sec": 74.6
+      }
     }
   ],
   "failed_attempts": [
@@ -14832,5 +14851,5 @@
       "failed_at": "2026-05-12T10:30:32Z"
     }
   ],
-  "last_updated": "2026-05-12T11:31:57Z"
+  "last_updated": "2026-05-12T11:35:13Z"
 }
