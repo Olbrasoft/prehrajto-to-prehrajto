@@ -14083,6 +14083,25 @@
         "download_sec": 183.0,
         "upload_sec": 151.8
       }
+    },
+    {
+      "cr_film_id": 1436,
+      "cr_slug": "zruda",
+      "title": "Zrůda",
+      "year": 2003,
+      "display_name": "Zrůda (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68a414c270cf3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24772589,
+      "size_bytes": 4072155887,
+      "uploaded_at": "2026-05-12T19:08:40Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 126.7,
+        "upload_sec": 210.0
+      }
     }
   ],
   "failed_attempts": [
@@ -17552,5 +17571,5 @@
       "failed_at": "2026-05-12T17:29:14Z"
     }
   ],
-  "last_updated": "2026-05-12T19:02:59Z"
+  "last_updated": "2026-05-12T19:08:40Z"
 }
