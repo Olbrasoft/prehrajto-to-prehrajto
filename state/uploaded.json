@@ -11157,6 +11157,25 @@
         "download_sec": 22.6,
         "upload_sec": 24.7
       }
+    },
+    {
+      "cr_film_id": 1111,
+      "cr_slug": "plavkyne",
+      "title": "Plavkyně",
+      "year": 2022,
+      "display_name": "Plavkyně (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "637fe50dc3142",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24757259,
+      "size_bytes": 1952959861,
+      "uploaded_at": "2026-05-12T10:49:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 64.1,
+        "upload_sec": 78.5
+      }
     }
   ],
   "failed_attempts": [
@@ -14528,5 +14547,5 @@
       "failed_at": "2026-05-12T10:30:32Z"
     }
   ],
-  "last_updated": "2026-05-12T10:47:24Z"
+  "last_updated": "2026-05-12T10:49:50Z"
 }
