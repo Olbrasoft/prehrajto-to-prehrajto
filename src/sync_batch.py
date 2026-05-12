@@ -29,14 +29,19 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from pick_next_film import (  # noqa: E402
-    BACKLOG, STATE, load_backlog, load_state, pick_next,
+    BACKLOG, STATE, NUM_SHARDS, SHARD_ID, load_backlog, load_state, pick_next,
 )
 from resolve_stream import resolve as resolve_stream, pick_best, ResolveError  # noqa: E402
 from download import download_to, head_size, DownloadError, MAX_FILE_SIZE  # noqa: E402
 from prehrajto_upload import login, upload_video  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-LOG_PATH = REPO_ROOT / "state" / "sync.log"
+# Per-shard log keeps parallel runners from racing on the same append target.
+# Legacy single-runner mode (NUM_SHARDS=1) keeps the original filename so
+# existing history stays where it was.
+LOG_PATH = REPO_ROOT / "state" / (
+    f"sync-shard-{SHARD_ID}.log" if NUM_SHARDS > 1 else "sync.log"
+)
 TMP_DIR = Path("/tmp")
 
 
@@ -60,7 +65,7 @@ def save_state(state: dict) -> None:
 
 
 def push_state(reason: str) -> None:
-    """Commit + push state to origin/main so progress survives runner cancellation.
+    """Commit + push this shard's state so progress survives runner cancellation.
 
     GitHub Actions on this account has started cancelling long jobs at ~60min
     (root cause unclear — runner pre-emption, free-tier throttle, or peak-load
@@ -68,27 +73,40 @@ def push_state(reason: str) -> None:
     `Commit state + log` step is skipped — silently discarding all in-flight
     state. Pushing after every successful film bounds the loss to one film.
 
+    With NUM_SHARDS>1, parallel runners write to *different* files
+    (state/uploaded-shard-{id}.json), so git rebase between them is
+    automatic — no merge conflict on the JSON itself. The two pushes can
+    still race on the same ref though, so we retry pull-rebase+push a few
+    times before giving up. A definitive failure here is not fatal: the
+    next iteration's push will catch up.
+
     No-op outside CI (when CI env var is unset) so local runs don't push.
-    Failures here are swallowed: a push that races with a concurrent runner
-    just gets caught on the next iteration via `git pull --rebase`.
     """
     if not os.environ.get("CI"):
         return
+    state_rel = str(STATE.relative_to(REPO_ROOT))
+    log_rel = str(LOG_PATH.relative_to(REPO_ROOT))
     try:
-        subprocess.run(["git", "add", "state/uploaded.json", "state/sync.log"],
+        subprocess.run(["git", "add", state_rel, log_rel],
                        check=True, capture_output=True, text=True)
         diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
         if diff.returncode == 0:
             return  # nothing to commit
-        subprocess.run(["git", "commit", "-m", f"chore(sync): {reason}"],
+        tag = f"shard {SHARD_ID}/{NUM_SHARDS}" if NUM_SHARDS > 1 else "sync"
+        subprocess.run(["git", "commit", "-m", f"chore({tag}): {reason}"],
                        check=True, capture_output=True, text=True)
-        # Rebase on top of any state commits pushed by competing runners or
-        # workflow steps; then push. If push still fails (e.g. concurrent push
-        # in flight), we'll catch it next iteration.
-        subprocess.run(["git", "pull", "--rebase", "origin", "main"],
-                       check=False, capture_output=True, text=True)
-        subprocess.run(["git", "push", "origin", "HEAD:main"],
-                       check=False, capture_output=True, text=True)
+        # Retry push a handful of times to absorb races with the other
+        # shard's near-simultaneous push. Different files mean rebase
+        # never conflicts; only the ref-update can lose the race.
+        for attempt in range(5):
+            subprocess.run(["git", "pull", "--rebase", "origin", "main"],
+                           check=False, capture_output=True, text=True)
+            r = subprocess.run(["git", "push", "origin", "HEAD:main"],
+                               capture_output=True, text=True)
+            if r.returncode == 0:
+                return
+        print(f"[push_state] push failed after retries; will catch up next iter",
+              flush=True)
     except Exception as e:
         print(f"[push_state] non-fatal: {type(e).__name__}: {e}", flush=True)
 
@@ -249,7 +267,8 @@ def main() -> int:
 
     backlog = load_backlog()
     state = load_state()
-    log(f"batch-start count={args.count} backlog={len(backlog)} "
+    shard_tag = f" shard={SHARD_ID}/{NUM_SHARDS}" if NUM_SHARDS > 1 else ""
+    log(f"batch-start{shard_tag} count={args.count} backlog={len(backlog)} "
         f"uploads={len(state.get('uploads', []))} "
         f"failed_attempts={len(state.get('failed_attempts', []))}")
 

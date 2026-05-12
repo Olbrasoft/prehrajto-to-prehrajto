@@ -8,6 +8,12 @@ State shape:
     {schema_version: 1, uploads: [{cr_film_id, prehrajto_url, when, ...}],
      failed_attempts: [{cr_film_id, upload_id, reason, when}]}
 
+Sharding:
+    Set SYNC_NUM_SHARDS=N and SYNC_SHARD_ID=K (0..N-1) to run multiple
+    workflows in parallel. Each shard owns films where cr_film_id % N == K
+    and reads/writes only `state/uploaded-shard-K.json`. Default
+    (NUM_SHARDS=1) keeps the legacy single-file path `state/uploaded.json`.
+
 The orchestrator calls `pick_next(state, rows)` to get the first film whose
 `cr_film_id` is NOT in `state.uploads` and which still has at least one
 candidate that hasn't been definitively burned in `failed_attempts`.
@@ -23,7 +29,26 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 BACKLOG = REPO_ROOT / "backlog" / "prehrajto-films.jsonl.gz"
-STATE = REPO_ROOT / "state" / "uploaded.json"
+
+NUM_SHARDS = int(os.environ.get("SYNC_NUM_SHARDS", "1"))
+SHARD_ID = int(os.environ.get("SYNC_SHARD_ID", "0"))
+
+
+def state_path(shard_id: int | None = None) -> Path:
+    """Return the state JSON path for the current (or specified) shard.
+
+    NUM_SHARDS=1 → legacy single file `state/uploaded.json` (preserves
+    history before sharding was introduced). NUM_SHARDS>1 → per-shard
+    files so parallel runners never conflict on state writes.
+    """
+    sid = shard_id if shard_id is not None else SHARD_ID
+    if NUM_SHARDS <= 1:
+        return REPO_ROOT / "state" / "uploaded.json"
+    return REPO_ROOT / "state" / f"uploaded-shard-{sid}.json"
+
+
+# Backward-compatible alias still imported by other modules.
+STATE = state_path()
 
 
 def load_backlog(path: Path = BACKLOG) -> list[dict]:
@@ -32,10 +57,11 @@ def load_backlog(path: Path = BACKLOG) -> list[dict]:
         return [json.loads(line) for line in fh if line.strip()]
 
 
-def load_state(path: Path = STATE) -> dict:
-    if not path.exists():
+def load_state(path: Path | None = None) -> dict:
+    p = path or state_path()
+    if not p.exists():
         return {"schema_version": 1, "uploads": [], "failed_attempts": []}
-    return json.loads(path.read_text())
+    return json.loads(p.read_text())
 
 
 def uploaded_film_ids(state: dict) -> set[int]:
@@ -54,6 +80,11 @@ def pick_next(
 ) -> dict | None:
     """Return the next film to attempt, or None when nothing remains.
 
+    Filters by `cr_film_id % NUM_SHARDS == SHARD_ID` so two parallel
+    runners never race on the same film. With NUM_SHARDS=1 the filter
+    is a no-op (every film belongs to shard 0), matching the original
+    single-runner behavior.
+
     `extra_exclude` is an in-memory set the orchestrator uses to skip
     cr_film_ids it has already attempted in the current batch — including
     ones that failed every candidate transiently. Without it, transient
@@ -66,6 +97,8 @@ def pick_next(
     burned = burned_upload_ids(state)
     extras = extra_exclude or set()
     for film in backlog_rows:
+        if NUM_SHARDS > 1 and film["cr_film_id"] % NUM_SHARDS != SHARD_ID:
+            continue
         if film["cr_film_id"] in done or film["cr_film_id"] in extras:
             continue
         live = [c for c in film["candidates"] if c["upload_id"] not in burned]
@@ -84,7 +117,8 @@ def main() -> int:
 
     state = load_state()
     rows = load_backlog()
-    print(f"[pick] state: {len(state.get('uploads', []))} done, "
+    shard_info = f" (shard {SHARD_ID}/{NUM_SHARDS})" if NUM_SHARDS > 1 else ""
+    print(f"[pick]{shard_info} state: {len(state.get('uploads', []))} done, "
           f"{len(state.get('failed_attempts', []))} failed attempts")
     print(f"[pick] backlog: {len(rows)} films")
 
