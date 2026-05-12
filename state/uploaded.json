@@ -12126,6 +12126,25 @@
         "download_sec": 17.2,
         "upload_sec": 22.5
       }
+    },
+    {
+      "cr_film_id": 1225,
+      "cr_slug": "suburra",
+      "title": "Suburra",
+      "year": 2015,
+      "display_name": "Suburra (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "592c5dce3d149",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24762842,
+      "size_bytes": 992527875,
+      "uploaded_at": "2026-05-12T12:44:42Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 32.1,
+        "upload_sec": 39.2
+      }
     }
   ],
   "failed_attempts": [
@@ -15518,5 +15537,5 @@
       "failed_at": "2026-05-12T12:41:45Z"
     }
   ],
-  "last_updated": "2026-05-12T12:43:27Z"
+  "last_updated": "2026-05-12T12:44:42Z"
 }
