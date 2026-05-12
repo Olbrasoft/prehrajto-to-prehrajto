@@ -10283,6 +10283,25 @@
         "download_sec": 14.9,
         "upload_sec": 17.7
       }
+    },
+    {
+      "cr_film_id": 1027,
+      "cr_slug": "hokejovy-zazrak",
+      "title": "Hokejový zázrak",
+      "year": 2004,
+      "display_name": "Hokejový zázrak (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "fb84414c5ae4fbd1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24753344,
+      "size_bytes": 3075973580,
+      "uploaded_at": "2026-05-12T08:36:58Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 88.1,
+        "upload_sec": 120.6
+      }
     }
   ],
   "failed_attempts": [
@@ -13647,5 +13666,5 @@
       "failed_at": "2026-05-12T07:18:53Z"
     }
   ],
-  "last_updated": "2026-05-12T08:33:26Z"
+  "last_updated": "2026-05-12T08:36:58Z"
 }
