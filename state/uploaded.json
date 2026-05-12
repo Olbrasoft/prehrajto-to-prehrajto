@@ -12088,6 +12088,25 @@
         "download_sec": 55.7,
         "upload_sec": 91.1
       }
+    },
+    {
+      "cr_film_id": 1222,
+      "cr_slug": "muz-na-mesici",
+      "title": "Muž na Měsíci",
+      "year": 1999,
+      "display_name": "Muž na Měsíci (1999) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58357f2551299",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24762785,
+      "size_bytes": 672090981,
+      "uploaded_at": "2026-05-12T12:42:43Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 22.7,
+        "upload_sec": 27.9
+      }
     }
   ],
   "failed_attempts": [
@@ -15464,7 +15483,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/velka-hra-2017-cz-dab-1080p/fa0d304ec9867428",
       "permanent": true,
       "failed_at": "2026-05-12T11:53:03Z"
+    },
+    {
+      "cr_film_id": 1221,
+      "upload_id": "9a036846f8ae7cd5",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/spravni-chlapi-2016-cz-dab-2160p/9a036846f8ae7cd5",
+      "permanent": true,
+      "failed_at": "2026-05-12T12:41:40Z"
+    },
+    {
+      "cr_film_id": 1221,
+      "upload_id": "491b2bded6e53f97",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/novinka-spravni-chlapi-2016-mysteriozni-komedie-cz-dabing/491b2bded6e53f97",
+      "permanent": true,
+      "failed_at": "2026-05-12T12:41:45Z"
     }
   ],
-  "last_updated": "2026-05-12T12:41:38Z"
+  "last_updated": "2026-05-12T12:42:43Z"
 }
