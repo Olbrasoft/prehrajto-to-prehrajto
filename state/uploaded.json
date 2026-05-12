@@ -14463,6 +14463,25 @@
         "download_sec": 98.1,
         "upload_sec": 24.5
       }
+    },
+    {
+      "cr_film_id": 1485,
+      "cr_slug": "v-zajeti-demonu-2",
+      "title": "V zajetí démonů 2",
+      "year": 2016,
+      "display_name": "V zajetí démonů 2 (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "aae1fcede6799f4b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24774516,
+      "size_bytes": 2802448156,
+      "uploaded_at": "2026-05-12T20:23:48Z",
+      "timing": {
+        "resolve_sec": 6.9,
+        "download_sec": 250.8,
+        "upload_sec": 124.6
+      }
     }
   ],
   "failed_attempts": [
@@ -17930,7 +17949,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2014-cz-dab-720p/924cb3051d9d24ba",
       "permanent": true,
       "failed_at": "2026-05-12T17:29:14Z"
+    },
+    {
+      "cr_film_id": 1485,
+      "upload_id": "9ea3d6873b5cccaa",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-conjuring-2-v-zajeti-demonu-2-2016-1080p-cz-dabing/9ea3d6873b5cccaa",
+      "permanent": true,
+      "failed_at": "2026-05-12T20:17:24Z"
     }
   ],
-  "last_updated": "2026-05-12T20:17:22Z"
+  "last_updated": "2026-05-12T20:23:48Z"
 }
