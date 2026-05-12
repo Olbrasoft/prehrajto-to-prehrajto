@@ -9200,6 +9200,25 @@
         "download_sec": 47.5,
         "upload_sec": 64.5
       }
+    },
+    {
+      "cr_film_id": 900,
+      "cr_slug": "clouds",
+      "title": "Oblaka",
+      "year": 2020,
+      "display_name": "Oblaka (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62589731823e2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24749994,
+      "size_bytes": 2501649643,
+      "uploaded_at": "2026-05-12T06:49:18Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 78.5,
+        "upload_sec": 93.5
+      }
     }
   ],
   "failed_attempts": [
@@ -12557,5 +12576,5 @@
       "failed_at": "2026-05-12T06:36:21Z"
     }
   ],
-  "last_updated": "2026-05-12T06:46:23Z"
+  "last_updated": "2026-05-12T06:49:18Z"
 }
