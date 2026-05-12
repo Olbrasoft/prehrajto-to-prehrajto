@@ -11024,6 +11024,25 @@
         "download_sec": 55.6,
         "upload_sec": 62.5
       }
+    },
+    {
+      "cr_film_id": 1093,
+      "cr_slug": "andele-mezi-nami",
+      "title": "Andělé mezi námi",
+      "year": 2024,
+      "display_name": "Andělé mezi námi (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "fce77845069cfc3c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24756810,
+      "size_bytes": 2072141299,
+      "uploaded_at": "2026-05-12T10:32:59Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 58.9,
+        "upload_sec": 80.3
+      }
     }
   ],
   "failed_attempts": [
@@ -14386,7 +14405,14 @@
       "reason": "oversize: 7447382752 B",
       "permanent": true,
       "failed_at": "2026-05-12T07:18:53Z"
+    },
+    {
+      "cr_film_id": 1093,
+      "upload_id": "00f9c4ce9679a78c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/andele-mezi-nami-2024-cz-dab-1080p/00f9c4ce9679a78c",
+      "permanent": true,
+      "failed_at": "2026-05-12T10:30:32Z"
     }
   ],
-  "last_updated": "2026-05-12T10:30:29Z"
+  "last_updated": "2026-05-12T10:32:59Z"
 }
