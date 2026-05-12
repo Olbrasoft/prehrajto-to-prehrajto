@@ -10777,6 +10777,25 @@
         "download_sec": 26.6,
         "upload_sec": 29.6
       }
+    },
+    {
+      "cr_film_id": 1069,
+      "cr_slug": "hodina-zmizeni",
+      "title": "Hodina zmizení",
+      "year": 2025,
+      "display_name": "Hodina zmizení (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68d2ca5917b72",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24755930,
+      "size_bytes": 1748889416,
+      "uploaded_at": "2026-05-12T10:00:42Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 49.4,
+        "upload_sec": 66.8
+      }
     }
   ],
   "failed_attempts": [
@@ -14141,5 +14160,5 @@
       "failed_at": "2026-05-12T07:18:53Z"
     }
   ],
-  "last_updated": "2026-05-12T09:58:42Z"
+  "last_updated": "2026-05-12T10:00:42Z"
 }
