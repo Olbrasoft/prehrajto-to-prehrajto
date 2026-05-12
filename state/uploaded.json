@@ -10397,6 +10397,25 @@
         "download_sec": 28.9,
         "upload_sec": 40.2
       }
+    },
+    {
+      "cr_film_id": 1037,
+      "cr_slug": "spider-man-2",
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "display_name": "Spider-Man 2 (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "e42c1b5ac46c5945",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24753909,
+      "size_bytes": 2680361193,
+      "uploaded_at": "2026-05-12T08:55:46Z",
+      "timing": {
+        "resolve_sec": 4.3,
+        "download_sec": 120.6,
+        "upload_sec": 164.7
+      }
     }
   ],
   "failed_attempts": [
@@ -13761,5 +13780,5 @@
       "failed_at": "2026-05-12T07:18:53Z"
     }
   ],
-  "last_updated": "2026-05-12T08:50:52Z"
+  "last_updated": "2026-05-12T08:55:46Z"
 }
