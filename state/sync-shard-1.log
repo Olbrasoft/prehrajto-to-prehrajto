@@ -142,3 +142,14 @@
 [23:16:28]   upload done video_id=24777688 in 116.0s
 [23:16:29] film cr_film_id=1615 OK in 215.5s
 [23:16:29] batch-end ok=19 failed=1 dur=4054.2s avg/film=213.4s remaining=17252 eta_hours=1022.7
+
+===== run 2026-05-12T23:17:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25767883384) =====
+[23:17:41] batch-start shard=1/2 count=20 backlog=17650 uploads=398 failed_attempts=8
+[23:17:41] login
+[23:17:42] login done
+[23:17:42] iteration 1/20
+[23:17:42] film cr_film_id=1619 name='Hra špiónů (2020) CZ' candidates=1
+[23:17:42]   candidate upload_id=6807f0957dfe6 url=https://prehraj.to/hra-spionu-2020-cz-1080p/6807f0957dfe6
+[23:17:43]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/135892916/KZ0h1JSj6u1ehaoIXEIVJSo1fMQhkQT9Phm…)
+[23:18:25]   downloaded 1,209.3 MB in 39.7s (30.5 MB/s)
+[23:19:14]   upload done video_id=24777742 in 49.0s
