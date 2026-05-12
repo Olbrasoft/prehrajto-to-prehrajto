@@ -12335,6 +12335,25 @@
         "download_sec": 20.7,
         "upload_sec": 38.2
       }
+    },
+    {
+      "cr_film_id": 1249,
+      "cr_slug": "soudce",
+      "title": "Soudce",
+      "year": 2014,
+      "display_name": "Soudce (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "cedb08ae922171a0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24763564,
+      "size_bytes": 2665115968,
+      "uploaded_at": "2026-05-12T13:10:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 75.5,
+        "upload_sec": 109.8
+      }
     }
   ],
   "failed_attempts": [
@@ -15727,5 +15746,5 @@
       "failed_at": "2026-05-12T12:41:45Z"
     }
   ],
-  "last_updated": "2026-05-12T13:07:23Z"
+  "last_updated": "2026-05-12T13:10:32Z"
 }
