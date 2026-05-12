@@ -5845,3 +5845,14 @@
 [09:49:30]   upload done video_id=24755617 in 148.6s
 [09:49:32] film cr_film_id=1061 OK in 268.5s
 [09:49:32] batch-end ok=20 failed=0 dur=4282.3s avg/film=214.1s remaining=17087 eta_hours=1016.2
+
+===== run 2026-05-12T09:50:40Z batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25726859181) =====
+[09:50:42] batch-start count=20 backlog=17650 uploads=563 failed_attempts=480
+[09:50:42] login
+[09:50:43] login done
+[09:50:43] iteration 1/20
+[09:50:43] film cr_film_id=1064 name='Hračka (1976) CZ Dabing' candidates=6
+[09:50:43]   candidate upload_id=5fa7f9f94937b url=https://prehraj.to/hracka-1976-czdab-by-fdltko/5fa7f9f94937b
+[09:50:44]   resolved in 1.1s → 480p (https://pf-storage3.premiumcdn.net/19781773/JBYi29crRSqmIZVUYLuQPcRZtkZCqYhrJSAJ…)
+[09:51:07]   downloaded 603.8 MB in 20.7s (29.2 MB/s)
+[09:51:32]   upload done video_id=24755731 in 25.1s
