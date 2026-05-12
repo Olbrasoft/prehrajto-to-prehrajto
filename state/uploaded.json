@@ -12715,6 +12715,25 @@
         "download_sec": 73.6,
         "upload_sec": 114.3
       }
+    },
+    {
+      "cr_film_id": 1278,
+      "cr_slug": "blazniva-dovolena",
+      "title": "Bláznivá dovolená",
+      "year": 1983,
+      "display_name": "Bláznivá dovolená (1983) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c3272431eb93",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24764935,
+      "size_bytes": 825915094,
+      "uploaded_at": "2026-05-12T13:54:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.6,
+        "upload_sec": 30.8
+      }
     }
   ],
   "failed_attempts": [
@@ -16156,5 +16175,5 @@
       "failed_at": "2026-05-12T13:36:41Z"
     }
   ],
-  "last_updated": "2026-05-12T13:53:59Z"
+  "last_updated": "2026-05-12T13:54:59Z"
 }
