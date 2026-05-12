@@ -10644,6 +10644,25 @@
         "download_sec": 36.1,
         "upload_sec": 44.4
       }
+    },
+    {
+      "cr_film_id": 1059,
+      "cr_slug": "norimberk",
+      "title": "Norimberk",
+      "year": 2025,
+      "display_name": "Norimberk (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "8b75817e085199d5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24755280,
+      "size_bytes": 1798531430,
+      "uploaded_at": "2026-05-12T09:41:08Z",
+      "timing": {
+        "resolve_sec": 5.4,
+        "download_sec": 80.9,
+        "upload_sec": 110.0
+      }
     }
   ],
   "failed_attempts": [
@@ -14008,5 +14027,5 @@
       "failed_at": "2026-05-12T07:18:53Z"
     }
   ],
-  "last_updated": "2026-05-12T09:37:48Z"
+  "last_updated": "2026-05-12T09:41:08Z"
 }
