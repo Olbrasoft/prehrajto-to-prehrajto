@@ -6287,3 +6287,14 @@
 [12:11:37]   upload done video_id=24760553 in 90.4s
 [12:11:38] film cr_film_id=1178 OK in 167.0s
 [12:11:38] batch-end ok=20 failed=0 dur=2347.4s avg/film=117.4s remaining=17027 eta_hours=555.3
+
+===== run 2026-05-12T12:13:25Z batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25733658565) =====
+[12:13:26] batch-start count=20 backlog=17650 uploads=623 failed_attempts=482
+[12:13:26] login
+[12:13:28] login done
+[12:13:28] iteration 1/20
+[12:13:28] film cr_film_id=1185 name='Spider-Man: Homecoming (2017) CZ Dabing' candidates=15
+[12:13:28]   candidate upload_id=6424863b05078 url=https://prehraj.to/spiderman-homecoming-2017-cz-dabing-1080p/6424863b05078
+[12:13:30]   resolved in 2.3s → 720p (https://pf-storage3.premiumcdn.net/38822725/wg8s8oinJt2AUbYuMeHeYi1rs7BfeoS5pse9…)
+[12:14:37]   downloaded 2,294.0 MB in 64.9s (35.3 MB/s)
+[12:16:27]   upload done video_id=24761143 in 109.6s
