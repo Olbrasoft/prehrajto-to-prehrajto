@@ -11442,6 +11442,25 @@
         "download_sec": 52.0,
         "upload_sec": 67.9
       }
+    },
+    {
+      "cr_film_id": 1138,
+      "cr_slug": "drahokam",
+      "title": "Drahokam",
+      "year": 2019,
+      "display_name": "Drahokam (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d190de9106549893",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24758512,
+      "size_bytes": 3305549654,
+      "uploaded_at": "2026-05-12T11:31:57Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 105.3,
+        "upload_sec": 194.3
+      }
     }
   ],
   "failed_attempts": [
@@ -14813,5 +14832,5 @@
       "failed_at": "2026-05-12T10:30:32Z"
     }
   ],
-  "last_updated": "2026-05-12T11:26:54Z"
+  "last_updated": "2026-05-12T11:31:57Z"
 }
