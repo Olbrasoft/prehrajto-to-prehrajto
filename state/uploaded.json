@@ -12259,6 +12259,25 @@
         "download_sec": 93.2,
         "upload_sec": 122.7
       }
+    },
+    {
+      "cr_film_id": 1234,
+      "cr_slug": "svet-podle-prota",
+      "title": "Svět podle Prota",
+      "year": 2001,
+      "display_name": "Svět podle Prota (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fe811df6609e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24763184,
+      "size_bytes": 1769966896,
+      "uploaded_at": "2026-05-12T12:57:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 55.7,
+        "upload_sec": 64.8
+      }
     }
   ],
   "failed_attempts": [
@@ -15651,5 +15670,5 @@
       "failed_at": "2026-05-12T12:41:45Z"
     }
   ],
-  "last_updated": "2026-05-12T12:55:48Z"
+  "last_updated": "2026-05-12T12:57:52Z"
 }
