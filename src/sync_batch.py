@@ -21,6 +21,7 @@ import datetime
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -56,6 +57,40 @@ def save_state(state: dict) -> None:
     state["last_updated"] = now_iso()
     STATE.parent.mkdir(parents=True, exist_ok=True)
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n")
+
+
+def push_state(reason: str) -> None:
+    """Commit + push state to origin/main so progress survives runner cancellation.
+
+    GitHub Actions on this account has started cancelling long jobs at ~60min
+    (root cause unclear — runner pre-emption, free-tier throttle, or peak-load
+    capacity reclaim). When the job is killed, the workflow's final
+    `Commit state + log` step is skipped — silently discarding all in-flight
+    state. Pushing after every successful film bounds the loss to one film.
+
+    No-op outside CI (when CI env var is unset) so local runs don't push.
+    Failures here are swallowed: a push that races with a concurrent runner
+    just gets caught on the next iteration via `git pull --rebase`.
+    """
+    if not os.environ.get("CI"):
+        return
+    try:
+        subprocess.run(["git", "add", "state/uploaded.json", "state/sync.log"],
+                       check=True, capture_output=True, text=True)
+        diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
+        if diff.returncode == 0:
+            return  # nothing to commit
+        subprocess.run(["git", "commit", "-m", f"chore(sync): {reason}"],
+                       check=True, capture_output=True, text=True)
+        # Rebase on top of any state commits pushed by competing runners or
+        # workflow steps; then push. If push still fails (e.g. concurrent push
+        # in flight), we'll catch it next iteration.
+        subprocess.run(["git", "pull", "--rebase", "origin", "main"],
+                       check=False, capture_output=True, text=True)
+        subprocess.run(["git", "push", "origin", "HEAD:main"],
+                       check=False, capture_output=True, text=True)
+    except Exception as e:
+        print(f"[push_state] non-fatal: {type(e).__name__}: {e}", flush=True)
 
 
 def safe_filename(name: str) -> str:
@@ -179,6 +214,7 @@ def try_candidate(
         },
     })
     save_state(state)
+    push_state(f"+{name} (cr_film_id={cr_film_id})")
     return True
 
 

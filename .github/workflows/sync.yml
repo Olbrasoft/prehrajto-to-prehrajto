@@ -64,6 +64,14 @@ jobs:
             echo "===== run $RUN_TS batch_size=${{ inputs.batch_size }} ($RUN_URL) ====="
           } >> state/sync.log
 
+      - name: Configure git for in-job pushes
+        # sync_batch.py pushes state after each successful film so progress
+        # survives runner cancellation. Configure identity early so those
+        # pushes work; the final Commit step keeps the same identity.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Run sync batch
         env:
           PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
