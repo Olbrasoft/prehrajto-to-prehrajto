@@ -9865,6 +9865,25 @@
         "download_sec": 59.6,
         "upload_sec": 74.8
       }
+    },
+    {
+      "cr_film_id": 980,
+      "cr_slug": "dokonaly-svet",
+      "title": "Dokonalý svět",
+      "year": 1993,
+      "display_name": "Dokonalý svět (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63dd29ce9dc89",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24751952,
+      "size_bytes": 2829756666,
+      "uploaded_at": "2026-05-12T07:51:13Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 80.6,
+        "upload_sec": 109.3
+      }
     }
   ],
   "failed_attempts": [
@@ -13229,5 +13248,5 @@
       "failed_at": "2026-05-12T07:18:53Z"
     }
   ],
-  "last_updated": "2026-05-12T07:47:59Z"
+  "last_updated": "2026-05-12T07:51:13Z"
 }
