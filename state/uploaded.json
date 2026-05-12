@@ -9333,6 +9333,25 @@
         "download_sec": 58.1,
         "upload_sec": 81.0
       }
+    },
+    {
+      "cr_film_id": 931,
+      "cr_slug": "spatne-basne",
+      "title": "Špatné básně",
+      "year": 2018,
+      "display_name": "Špatné básně (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "670dff40f0403",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24750378,
+      "size_bytes": 948990786,
+      "uploaded_at": "2026-05-12T07:02:37Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 31.7,
+        "upload_sec": 42.9
+      }
     }
   ],
   "failed_attempts": [
@@ -12690,5 +12709,5 @@
       "failed_at": "2026-05-12T06:36:21Z"
     }
   ],
-  "last_updated": "2026-05-12T07:01:19Z"
+  "last_updated": "2026-05-12T07:02:37Z"
 }
