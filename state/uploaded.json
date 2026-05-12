@@ -11176,6 +11176,25 @@
         "download_sec": 64.1,
         "upload_sec": 78.5
       }
+    },
+    {
+      "cr_film_id": 1112,
+      "cr_slug": "minari",
+      "title": "Minari",
+      "year": 2020,
+      "display_name": "Minari (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "637230f70c2c7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24757335,
+      "size_bytes": 1793698151,
+      "uploaded_at": "2026-05-12T10:52:18Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 63.9,
+        "upload_sec": 80.8
+      }
     }
   ],
   "failed_attempts": [
@@ -14547,5 +14566,5 @@
       "failed_at": "2026-05-12T10:30:32Z"
     }
   ],
-  "last_updated": "2026-05-12T10:49:50Z"
+  "last_updated": "2026-05-12T10:52:18Z"
 }
