@@ -13988,6 +13988,25 @@
         "download_sec": 80.4,
         "upload_sec": 40.5
       }
+    },
+    {
+      "cr_film_id": 1426,
+      "cr_slug": "devil",
+      "title": "Princ bez království",
+      "year": 2001,
+      "display_name": "Princ bez království (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bad5bd5194d5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24771022,
+      "size_bytes": 2251705416,
+      "uploaded_at": "2026-05-12T18:09:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 338.1,
+        "upload_sec": 118.1
+      }
     }
   ],
   "failed_attempts": [
@@ -17457,5 +17476,5 @@
       "failed_at": "2026-05-12T17:29:14Z"
     }
   ],
-  "last_updated": "2026-05-12T18:01:38Z"
+  "last_updated": "2026-05-12T18:09:18Z"
 }
