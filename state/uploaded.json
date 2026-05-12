@@ -10093,6 +10093,25 @@
         "download_sec": 17.5,
         "upload_sec": 20.4
       }
+    },
+    {
+      "cr_film_id": 1010,
+      "cr_slug": "127-hodin",
+      "title": "127 hodin",
+      "year": 2010,
+      "display_name": "127 hodin (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "607befc0dcf3d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24752625,
+      "size_bytes": 1743791238,
+      "uploaded_at": "2026-05-12T08:12:27Z",
+      "timing": {
+        "resolve_sec": 2.4,
+        "download_sec": 48.3,
+        "upload_sec": 77.3
+      }
     }
   ],
   "failed_attempts": [
@@ -13457,5 +13476,5 @@
       "failed_at": "2026-05-12T07:18:53Z"
     }
   ],
-  "last_updated": "2026-05-12T08:10:17Z"
+  "last_updated": "2026-05-12T08:12:27Z"
 }
