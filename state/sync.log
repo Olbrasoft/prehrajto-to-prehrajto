@@ -4704,3 +4704,93 @@
 [02:46:36] film cr_film_id=786 name='Náš vůdce (2008) CZ Dabing' candidates=15
 [02:46:36]   candidate upload_id=5fe9ccb35b68a url=https://prehraj.to/nas-vudce-2008-hd-czdabing/5fe9ccb35b68a
 [02:46:37]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/21068808/aJWUE4COJTK0hRLta4fBLCWwUAJcb4i0RI0g…)
+
+===== run 2026-05-12T02:47:17Z batch_size=12 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25710180909) =====
+[02:47:18] batch-start count=12 backlog=17650 uploads=408 failed_attempts=475
+[02:47:18] login
+[02:47:20] login done
+[02:47:20] iteration 1/12
+[02:47:20] film cr_film_id=786 name='Náš vůdce (2008) CZ Dabing' candidates=15
+[02:47:20]   candidate upload_id=5fe9ccb35b68a url=https://prehraj.to/nas-vudce-2008-hd-czdabing/5fe9ccb35b68a
+[02:47:21]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/21068808/aJWUE4COJTK0hRLta4fBLCWwUAJcb4i0RI0g…)
+[02:48:16]   downloaded 1,183.7 MB in 52.5s (22.5 MB/s)
+[02:49:17]   upload done video_id=24741422 in 61.8s
+[02:49:17] film cr_film_id=786 OK in 117.7s
+[02:49:17] iteration 2/12
+[02:49:17] film cr_film_id=787 name='Hvězdný prach (2007) CZ Dabing' candidates=6
+[02:49:17]   candidate upload_id=55d26183a7f23 url=https://prehraj.to/hvezdny-prach-2007-cz-dab-fantas-romant-p-p/55d26183a7f23
+[02:49:18]   resolved in 0.9s → 480p (https://pf-storage2.premiumcdn.net/195975/8Y2hdQi9oF4VcxKfodU71iOLIE5C94u60TyVTy…)
+[02:49:47]   downloaded 642.1 MB in 27.4s (23.4 MB/s)
+[02:50:20]   upload done video_id=24741487 in 32.7s
+[02:50:20] film cr_film_id=787 OK in 62.7s
+[02:50:20] iteration 3/12
+[02:50:20] film cr_film_id=788 name='Východní přísliby (2007) CZ Dabing' candidates=9
+[02:50:20]   candidate upload_id=499ad3bbf17f8584 url=https://prehraj.to/vychodni-prisliby-2007-cz-dabing-1080p-mkv/499ad3bbf17f8584
+[02:50:21]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/155248506/QdJt7mTGRcz4HDAcReHA5TZaIJgFndsmzcQ…)
+[02:51:52]   downloaded 2,286.5 MB in 89.6s (25.5 MB/s)
+[02:53:49]   upload done video_id=24741578 in 116.5s
+[02:53:49] film cr_film_id=788 OK in 208.8s
+[02:53:49] iteration 4/12
+[02:53:49] film cr_film_id=790 name='Let číslo 93 (2006) CZ Dabing' candidates=4
+[02:53:49]   candidate upload_id=607bddb4301cd url=https://prehraj.to/let-cislo-93-2006-cz-dabing/607bddb4301cd
+[02:53:50]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/23166714/6V4s3QC1AFKWIGwIzaFm3CX8uKZfB6iq6t0x…)
+[02:56:28]   downloaded 4,093.9 MB in 156.3s (26.2 MB/s)
+[02:59:48]   upload done video_id=24741767 in 200.1s
+[02:59:48] film cr_film_id=790 OK in 359.5s
+[02:59:48] iteration 5/12
+[02:59:48] film cr_film_id=793 name='Creed (2015) CZ Dabing' candidates=1
+[02:59:48]   candidate upload_id=68d9bb9543249 url=https://prehraj.to/creed-1-2015-cz-dabing-topkvalita/68d9bb9543249
+[02:59:50]   resolved in 1.6s → 720p (https://pf-storage4.premiumcdn.net/148917465/nz2HRKiLyHjWUreTGnTajieGTwYf4zIGmil…)
+[03:01:21]   downloaded 2,040.0 MB in 89.4s (22.8 MB/s)
+[03:03:04]   upload done video_id=24741959 in 103.0s
+[03:03:04] film cr_film_id=793 OK in 195.8s
+[03:03:04] iteration 6/12
+[03:03:04] film cr_film_id=796 name='50/50 (2011) CZ Dabing' candidates=8
+[03:03:04]   candidate upload_id=559186010a7c6 url=https://prehraj.to/50-50-2011-cz-dabing/559186010a7c6
+[03:03:05]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/396573/mm3iw9sLAipAhklCbvCnLsm3F0bToJhR2idJUL…)
+[03:03:28]   downloaded 478.2 MB in 20.7s (23.1 MB/s)
+[03:03:56]   upload done video_id=24742056 in 27.8s
+[03:03:56] film cr_film_id=796 OK in 51.5s
+[03:03:56] iteration 7/12
+[03:03:56] film cr_film_id=799 name='Harry Potter a Princ dvojí krve (2009) CZ Dabing' candidates=10
+[03:03:56]   candidate upload_id=68f3db8bb1ac1 url=https://prehraj.to/harry-potter-6-a-princ-dvoji-krve-2009-cz-dabing/68f3db8bb1ac1
+[03:03:57]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/152303322/e1JhK3fGwcZaHPOhQziBRfNDU96s0eFlLC4…)
+[03:05:13]   downloaded 1,925.7 MB in 74.7s (25.8 MB/s)
+[03:06:52]   upload done video_id=24742135 in 98.6s
+[03:06:52] film cr_film_id=799 OK in 176.1s
+[03:06:52] iteration 8/12
+[03:06:52] film cr_film_id=800 name='Co děláme v temnotách (2014) CZ Dabing' candidates=5
+[03:06:52]   candidate upload_id=b0d054f2696857b8 url=https://prehraj.to/co-delame-v-temnotach-2014-cz-dab-1080p/b0d054f2696857b8
+[03:06:53]   resolved in 1.5s → 720p (https://pf-storage3.premiumcdn.net/168117835/Nm3irpuk7tl0IvPSBqueBuxWsRzc8Xs2LSO…)
+[03:07:41]   downloaded 1,164.5 MB in 46.2s (25.2 MB/s)
+[03:08:44]   upload done video_id=24742248 in 62.9s
+[03:08:44] film cr_film_id=800 OK in 112.3s
+[03:08:44] iteration 9/12
+[03:08:44] film cr_film_id=801 name='Strážci – Watchmen (2009) CZ Dabing' candidates=6
+[03:08:44]   candidate upload_id=680aff554e5cf url=https://prehraj.to/strazci-watchmen-2009-cz-dab-1080p/680aff554e5cf
+[03:08:45]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/136136396/70jIoGhngImYSJ5cRlS8xhqJCb8CXYUKDFj…)
+[03:10:42]   downloaded 2,956.4 MB in 114.8s (25.8 MB/s)
+[03:13:06]   upload done video_id=24742378 in 143.8s
+[03:13:06] film cr_film_id=801 OK in 261.9s
+[03:13:06] iteration 10/12
+[03:13:06] film cr_film_id=802 name='Ti druzí (2001) CZ Dabing' candidates=20
+[03:13:06]   candidate upload_id=5b0a49439e683 url=https://prehraj.to/ti-druzi-cz-dabing-2001/5b0a49439e683
+[03:13:08]   resolved in 1.6s → 480p (https://pf-storage2.premiumcdn.net/4329588/mnpi3QIw0TxWF5RclmHj0IG9ilWuD3toOcdof…)
+[03:13:30]   downloaded 466.2 MB in 20.3s (23.0 MB/s)
+[03:13:57]   upload done video_id=24742503 in 27.7s
+[03:13:57] film cr_film_id=802 OK in 51.3s
+[03:13:57] iteration 11/12
+[03:13:57] film cr_film_id=803 name='Já, padouch (2010) CZ Dabing' candidates=2
+[03:13:57]   candidate upload_id=5668b75c48a38 url=https://prehraj.to/ja-padouch-cz-dabing-2010/5668b75c48a38
+[03:13:59]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/509697/NGPiMnfM5SJ9HVEcl1S4bf4PUd8hM6h2ASZLUz…)
+[03:14:30]   downloaded 648.6 MB in 30.0s (21.6 MB/s)
+[03:15:03]   upload done video_id=24742546 in 32.9s
+[03:15:03] film cr_film_id=803 OK in 65.6s
+[03:15:03] iteration 12/12
+[03:15:03] film cr_film_id=804 name='Leviatan (2014) CZ Dabing' candidates=13
+[03:15:03]   candidate upload_id=55d4da401da0e url=https://prehraj.to/leviatan-leviathan-2014-czdub/55d4da401da0e
+[03:15:04]   resolved in 0.9s → 480p (https://pf-storage2.premiumcdn.net/207567/9QwI4ruaesWXfd2CO4c6euo1FXEUynFVWsjgfR…)
+[03:15:29]   downloaded 495.3 MB in 23.4s (21.2 MB/s)
+[03:15:56]   upload done video_id=24742588 in 27.8s
+[03:15:56] film cr_film_id=804 OK in 53.6s
+[03:15:56] batch-end ok=12 failed=0 dur=1716.7s avg/film=143.1s remaining=17230 eta_hours=684.9
