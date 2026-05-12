@@ -14710,6 +14710,25 @@
         "download_sec": 18.1,
         "upload_sec": 25.5
       }
+    },
+    {
+      "cr_film_id": 1503,
+      "cr_slug": "lesni-duch",
+      "title": "Lesní duch",
+      "year": 1981,
+      "display_name": "Lesní duch (1981) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "15ee57dcef588760",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24775267,
+      "size_bytes": 1632609224,
+      "uploaded_at": "2026-05-12T20:59:38Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 81.8,
+        "upload_sec": 96.5
+      }
     }
   ],
   "failed_attempts": [
@@ -18186,5 +18205,5 @@
       "failed_at": "2026-05-12T20:17:24Z"
     }
   ],
-  "last_updated": "2026-05-12T20:56:35Z"
+  "last_updated": "2026-05-12T20:59:38Z"
 }
