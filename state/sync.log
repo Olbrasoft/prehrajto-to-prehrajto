@@ -4896,3 +4896,17 @@
 [03:46:34]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/150921627/wWVFqQik5sZWTxkSkNHPYi79t6MUdAt28T3…)
 [03:47:37]   downloaded 2,203.2 MB in 62.1s (35.5 MB/s)
 [03:48:59]   upload done video_id=24743921 in 81.3s
+
+===== run 2026-05-12T04:02:39Z batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25712566552) =====
+[04:02:41] batch-start count=20 backlog=17650 uploads=433 failed_attempts=477
+[04:02:41] login
+[04:02:43] login done
+[04:02:43] iteration 1/20
+[04:02:43] film cr_film_id=822 name='Smrtonosná past 3 (1995) CZ Dabing' candidates=7
+[04:02:43]   candidate upload_id=eca916004ddc4c81 url=https://prehraj.to/smrtonosna-past-3-1995-2160p-cz-dabing-mkv/eca916004ddc4c81
+[04:02:44]   resolved in 1.6s → 1080p (https://pf-storage1.premiumcdn.net/156826778/QwRtLWH7NF4yT5jC0OIM1H42imMFRNI38IO…)
+[04:02:46]   oversize: 9648051433 B > 6000000000 B, skip
+[04:02:46]   candidate upload_id=55e7e3de426e4 url=https://prehraj.to/smrtonosna-past-3-1995-czdab/55e7e3de426e4
+[04:02:50]   resolved in 4.1s → 480p (https://pf-storage4.premiumcdn.net/273150/dYQUEKFYlIGmH7Nc5VibXFlXIObHv5Ub9sXKhN…)
+[04:03:35]   downloaded 802.4 MB in 42.0s (19.1 MB/s)
+[04:04:24]   upload done video_id=24744542 in 49.0s
