@@ -11575,6 +11575,25 @@
         "download_sec": 41.7,
         "upload_sec": 58.2
       }
+    },
+    {
+      "cr_film_id": 1151,
+      "cr_slug": "dejiny-nasili",
+      "title": "Dějiny násilí",
+      "year": 2005,
+      "display_name": "Dějiny násilí (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f15fe9c855ad",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24758991,
+      "size_bytes": 1109060904,
+      "uploaded_at": "2026-05-12T11:47:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 36.1,
+        "upload_sec": 60.8
+      }
     }
   ],
   "failed_attempts": [
@@ -14946,5 +14965,5 @@
       "failed_at": "2026-05-12T10:30:32Z"
     }
   ],
-  "last_updated": "2026-05-12T11:45:32Z"
+  "last_updated": "2026-05-12T11:47:12Z"
 }
