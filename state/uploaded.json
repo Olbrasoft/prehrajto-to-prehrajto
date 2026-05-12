@@ -9770,6 +9770,25 @@
         "download_sec": 49.1,
         "upload_sec": 64.3
       }
+    },
+    {
+      "cr_film_id": 965,
+      "cr_slug": "ja-simon",
+      "title": "Já, Simon",
+      "year": 2018,
+      "display_name": "Já, Simon (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b571067388aa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24751692,
+      "size_bytes": 2392342747,
+      "uploaded_at": "2026-05-12T07:41:33Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 68.5,
+        "upload_sec": 81.4
+      }
     }
   ],
   "failed_attempts": [
@@ -13134,5 +13153,5 @@
       "failed_at": "2026-05-12T07:18:53Z"
     }
   ],
-  "last_updated": "2026-05-12T07:38:59Z"
+  "last_updated": "2026-05-12T07:41:33Z"
 }
