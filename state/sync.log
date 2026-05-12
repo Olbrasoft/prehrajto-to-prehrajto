@@ -5340,3 +5340,14 @@
 [07:04:25]   upload done video_id=24750421 in 60.3s
 [07:04:26] film cr_film_id=932 OK in 108.1s
 [07:04:26] batch-end ok=20 failed=0 dur=2730.5s avg/film=136.5s remaining=17157 eta_hours=650.5
+
+===== run 2026-05-12T07:04:44Z batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25718557018) =====
+[07:04:45] batch-start count=50 backlog=17650 uploads=493 failed_attempts=479
+[07:04:45] login
+[07:04:46] login done
+[07:04:46] iteration 1/50
+[07:04:46] film cr_film_id=933 name='Psí poslání 2 (2019) CZ Dabing' candidates=14
+[07:04:46]   candidate upload_id=63026b0f4b4fb url=https://prehraj.to/psi-poslani-2-2019-ab-1080p-cz-dab/63026b0f4b4fb
+[07:04:47]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/32365666/nxDczGI1bh9GSyMTYkizKI3pi6ocbWU8Ytm1…)
+[07:05:40]   downloaded 1,784.1 MB in 50.9s (35.1 MB/s)
+[07:06:47]   upload done video_id=24750482 in 67.3s
