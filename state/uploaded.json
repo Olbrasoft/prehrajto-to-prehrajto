@@ -11499,6 +11499,25 @@
         "download_sec": 45.3,
         "upload_sec": 58.5
       }
+    },
+    {
+      "cr_film_id": 1141,
+      "cr_slug": "majak",
+      "title": "Maják",
+      "year": 2019,
+      "display_name": "Maják (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c46ecea092d1ef84",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24758780,
+      "size_bytes": 1553104500,
+      "uploaded_at": "2026-05-12T11:39:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 70.8,
+        "upload_sec": 60.0
+      }
     }
   ],
   "failed_attempts": [
@@ -14870,5 +14889,5 @@
       "failed_at": "2026-05-12T10:30:32Z"
     }
   ],
-  "last_updated": "2026-05-12T11:37:01Z"
+  "last_updated": "2026-05-12T11:39:15Z"
 }
