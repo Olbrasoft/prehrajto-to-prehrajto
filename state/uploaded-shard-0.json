@@ -8209,6 +8209,25 @@
         "download_sec": 20.1,
         "upload_sec": 25.5
       }
+    },
+    {
+      "cr_film_id": 1626,
+      "cr_slug": "ruby-zachranarka",
+      "title": "Ruby záchranářka",
+      "year": 2022,
+      "display_name": "Ruby záchranářka (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62386d5282dfc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24776923,
+      "size_bytes": 2591067837,
+      "uploaded_at": "2026-05-12T22:34:55Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 76.9,
+        "upload_sec": 109.9
+      }
     }
   ],
   "failed_attempts": [
@@ -11662,5 +11681,5 @@
       "failed_at": "2026-05-12T22:29:22Z"
     }
   ],
-  "last_updated": "2026-05-12T22:31:46Z"
+  "last_updated": "2026-05-12T22:34:55Z"
 }
