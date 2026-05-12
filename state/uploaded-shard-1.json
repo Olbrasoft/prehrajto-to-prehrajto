@@ -7793,6 +7793,25 @@
         "download_sec": 60.1,
         "upload_sec": 77.7
       }
+    },
+    {
+      "cr_film_id": 1681,
+      "cr_slug": "motylek",
+      "title": "Motýlek",
+      "year": 2017,
+      "display_name": "Motýlek (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60659a02bc109",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24778223,
+      "size_bytes": 2599380124,
+      "uploaded_at": "2026-05-12T23:48:19Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 84.0,
+        "upload_sec": 109.3
+      }
     }
   ],
   "failed_attempts": [
@@ -7860,5 +7879,5 @@
       "failed_at": "2026-05-12T23:25:46Z"
     }
   ],
-  "last_updated": "2026-05-12T23:45:02Z"
+  "last_updated": "2026-05-12T23:48:19Z"
 }
