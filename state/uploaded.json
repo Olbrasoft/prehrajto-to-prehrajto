@@ -11689,6 +11689,25 @@
         "download_sec": 17.3,
         "upload_sec": 41.5
       }
+    },
+    {
+      "cr_film_id": 1163,
+      "cr_slug": "vriskot",
+      "title": "Vřískot",
+      "year": 1996,
+      "display_name": "Vřískot (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "fcd757ad87301b5c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24759289,
+      "size_bytes": 2684022474,
+      "uploaded_at": "2026-05-12T11:59:52Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 92.9,
+        "upload_sec": 103.0
+      }
     }
   ],
   "failed_attempts": [
@@ -15067,5 +15086,5 @@
       "failed_at": "2026-05-12T11:53:03Z"
     }
   ],
-  "last_updated": "2026-05-12T11:56:33Z"
+  "last_updated": "2026-05-12T11:59:52Z"
 }
