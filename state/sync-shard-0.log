@@ -1,0 +1,11 @@
+
+===== run 2026-05-12T22:08:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25765122007) =====
+[22:08:59] batch-start shard=0/2 count=20 backlog=17650 uploads=421 failed_attempts=489
+[22:08:59] login
+[22:09:01] login done
+[22:09:01] iteration 1/20
+[22:09:01] film cr_film_id=1554 name='Neporazitelný: Vykoupení (2010) CZ Dabing' candidates=23
+[22:09:01]   candidate upload_id=643cd70d6fe79 url=https://prehraj.to/neporazitelny-3-vykoupeni-2010-cz-dabing/643cd70d6fe79
+[22:09:02]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/39485167/9NLTdlFrquEpunpCbXuDEFALTJLIJ5CbLtOa…)
+[22:09:42]   downloaded 1,386.4 MB in 38.6s (35.9 MB/s)
+[22:10:37]   upload done video_id=24776477 in 54.8s
