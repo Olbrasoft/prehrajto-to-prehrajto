@@ -14976,6 +14976,25 @@
         "download_sec": 77.4,
         "upload_sec": 81.0
       }
+    },
+    {
+      "cr_film_id": 1531,
+      "cr_slug": "auta",
+      "title": "Auta",
+      "year": 2006,
+      "display_name": "Auta (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ff1e62f114f05d77",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24775999,
+      "size_bytes": 4233318999,
+      "uploaded_at": "2026-05-12T21:44:35Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 156.3,
+        "upload_sec": 190.7
+      }
     }
   ],
   "failed_attempts": [
@@ -18452,5 +18471,5 @@
       "failed_at": "2026-05-12T20:17:24Z"
     }
   ],
-  "last_updated": "2026-05-12T21:38:44Z"
+  "last_updated": "2026-05-12T21:44:35Z"
 }
