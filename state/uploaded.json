@@ -9713,6 +9713,25 @@
         "download_sec": 37.6,
         "upload_sec": 47.2
       }
+    },
+    {
+      "cr_film_id": 962,
+      "cr_slug": "kmotr-iii",
+      "title": "Kmotr III",
+      "year": 1990,
+      "display_name": "Kmotr III (1990) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bdd8d8eadb13",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24751511,
+      "size_bytes": 828188315,
+      "uploaded_at": "2026-05-12T07:34:40Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 24.3,
+        "upload_sec": 29.0
+      }
     }
   ],
   "failed_attempts": [
@@ -13077,5 +13096,5 @@
       "failed_at": "2026-05-12T07:18:53Z"
     }
   ],
-  "last_updated": "2026-05-12T07:33:43Z"
+  "last_updated": "2026-05-12T07:34:40Z"
 }
