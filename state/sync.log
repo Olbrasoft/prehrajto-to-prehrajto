@@ -7095,3 +7095,14 @@
 [17:38:04]   upload done video_id=24769980 in 147.5s
 [17:38:06] film cr_film_id=1402 OK in 292.3s
 [17:38:06] batch-end ok=19 failed=1 dur=4926.8s avg/film=259.3s remaining=16920 eta_hours=1218.7
+
+===== run 2026-05-12T17:39:02Z batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25751560549) =====
+[17:39:04] batch-start count=20 backlog=17650 uploads=730 failed_attempts=495
+[17:39:04] login
+[17:39:05] login done
+[17:39:05] iteration 1/20
+[17:39:05] film cr_film_id=1405 name='12 podmínek k dědictví (2006) CZ' candidates=1
+[17:39:05]   candidate upload_id=5c3a6543de3f7 url=https://prehraj.to/12-podminek-k-dedictvi-2006/5c3a6543de3f7
+[17:39:07]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/10900229/1k3ceqU8MCaju3DHe6Fk6ULns2MsR5iZaHZ4…)
+[17:40:54]   downloaded 1,585.7 MB in 105.6s (15.0 MB/s)
+[17:42:12]   upload done video_id=24770196 in 78.0s
