@@ -13228,6 +13228,25 @@
         "download_sec": 62.6,
         "upload_sec": 88.6
       }
+    },
+    {
+      "cr_film_id": 1344,
+      "cr_slug": "cruella",
+      "title": "Cruella",
+      "year": 2021,
+      "display_name": "Cruella (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68bedab3dacf0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24766435,
+      "size_bytes": 1839591302,
+      "uploaded_at": "2026-05-12T15:19:42Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 70.8,
+        "upload_sec": 94.7
+      }
     }
   ],
   "failed_attempts": [
@@ -16669,5 +16688,5 @@
       "failed_at": "2026-05-12T13:36:41Z"
     }
   ],
-  "last_updated": "2026-05-12T15:16:51Z"
+  "last_updated": "2026-05-12T15:19:42Z"
 }
