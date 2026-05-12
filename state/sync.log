@@ -5699,3 +5699,14 @@
 [08:37:46]   upload done video_id=24753405 in 22.9s
 [08:37:47] film cr_film_id=1029 OK in 47.8s
 [08:37:47] batch-end ok=50 failed=0 dur=5581.5s avg/film=111.6s remaining=17107 eta_hours=530.3
+
+===== run 2026-05-12T08:38:07Z batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25719069541) =====
+[08:38:08] batch-start count=20 backlog=17650 uploads=543 failed_attempts=480
+[08:38:08] login
+[08:38:10] login done
+[08:38:10] iteration 1/20
+[08:38:10] film cr_film_id=1030 name='Zdrojový kód (2011) CZ Dabing' candidates=12
+[08:38:10]   candidate upload_id=5c1d543f8822d url=https://prehraj.to/zdrojovy-kod-cz-dabing-2011/5c1d543f8822d
+[08:38:11]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/9748997/p6lhVrCwBT17hGvt5Ei14CyBFgwiJ3TeKsPZt…)
+[08:38:44]   downloaded 527.7 MB in 30.0s (17.6 MB/s)
+[08:39:19]   upload done video_id=24753453 in 35.1s
