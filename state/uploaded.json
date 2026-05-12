@@ -12582,6 +12582,25 @@
         "download_sec": 147.4,
         "upload_sec": 241.6
       }
+    },
+    {
+      "cr_film_id": 1266,
+      "cr_slug": "28-let-pote-chram-z-kosti",
+      "title": "28 let poté: Chrám z kostí",
+      "year": 2026,
+      "display_name": "28 let poté: Chrám z kostí (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "19c2db6cb163da03",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24764295,
+      "size_bytes": 1110278746,
+      "uploaded_at": "2026-05-12T13:34:09Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 35.2,
+        "upload_sec": 39.5
+      }
     }
   ],
   "failed_attempts": [
@@ -15972,7 +15991,49 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/novinka-spravni-chlapi-2016-mysteriozni-komedie-cz-dabing/491b2bded6e53f97",
       "permanent": true,
       "failed_at": "2026-05-12T12:41:45Z"
+    },
+    {
+      "cr_film_id": 1266,
+      "upload_id": "5b632d165ee99204",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-2026-1080p-cz-dabing/5b632d165ee99204",
+      "permanent": true,
+      "failed_at": "2026-05-12T13:32:18Z"
+    },
+    {
+      "cr_film_id": 1266,
+      "upload_id": "5c99bbf36599cff0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-2026-1080p-cz-dabing-mkv/5c99bbf36599cff0",
+      "permanent": true,
+      "failed_at": "2026-05-12T13:32:24Z"
+    },
+    {
+      "cr_film_id": 1266,
+      "upload_id": "d99b4efe2f7a79d7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-2026-1080p-cz-dabing-mkv-mkv/d99b4efe2f7a79d7",
+      "permanent": true,
+      "failed_at": "2026-05-12T13:32:29Z"
+    },
+    {
+      "cr_film_id": 1266,
+      "upload_id": "2a2ef29ccf5e4559",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-cz-dabing-novinka-2026/2a2ef29ccf5e4559",
+      "permanent": true,
+      "failed_at": "2026-05-12T13:32:35Z"
+    },
+    {
+      "cr_film_id": 1266,
+      "upload_id": "cf30a9230b5fbdc2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-cz-dabing-2026-mp4/cf30a9230b5fbdc2",
+      "permanent": true,
+      "failed_at": "2026-05-12T13:32:41Z"
+    },
+    {
+      "cr_film_id": 1266,
+      "upload_id": "ff4ede8d358fb776",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-cz-dabing-novinka-2026/ff4ede8d358fb776",
+      "permanent": true,
+      "failed_at": "2026-05-12T13:32:46Z"
     }
   ],
-  "last_updated": "2026-05-12T13:32:16Z"
+  "last_updated": "2026-05-12T13:34:09Z"
 }
