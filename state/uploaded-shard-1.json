@@ -11954,6 +11954,25 @@
         "download_sec": 52.7,
         "upload_sec": 68.8
       }
+    },
+    {
+      "cr_film_id": 2541,
+      "cr_slug": "annie-se-zlobi",
+      "title": "Annie se zlobí",
+      "year": 2022,
+      "display_name": "Annie se zlobí (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64df1fa67fc02",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24789202,
+      "size_bytes": 1359714799,
+      "uploaded_at": "2026-05-13T09:47:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 42.0,
+        "upload_sec": 49.0
+      }
     }
   ],
   "failed_attempts": [
@@ -12087,5 +12106,5 @@
       "failed_at": "2026-05-13T09:20:34Z"
     }
   ],
-  "last_updated": "2026-05-13T09:46:21Z"
+  "last_updated": "2026-05-13T09:47:55Z"
 }
