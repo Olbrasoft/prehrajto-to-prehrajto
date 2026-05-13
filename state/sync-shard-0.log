@@ -3095,3 +3095,14 @@
 [17:03:38]   upload done video_id=24796348 in 134.5s
 [17:03:40] film cr_film_id=3160 OK in 239.2s
 [17:03:40] batch-end ok=19 failed=1 dur=3219.0s avg/film=169.4s remaining=16819 eta_hours=791.4
+
+===== run 2026-05-13T17:04:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25814171820) =====
+[17:04:26] batch-start shard=0/2 count=20 backlog=17650 uploads=831 failed_attempts=519
+[17:04:26] login
+[17:04:27] login done
+[17:04:27] iteration 1/20
+[17:04:27] film cr_film_id=3162 name='Duše prokletých (2024) CZ Dabing' candidates=3
+[17:04:27]   candidate upload_id=03120063cb96f15e url=https://prehraj.to/oddity-duse-prokletych-cz-dabing-2025/03120063cb96f15e
+[17:04:28]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/163935425/bGdF5wIpAsa6sKmIAGcq8IGbHymHrdcdMul…)
+[17:05:03]   downloaded 1,128.7 MB in 33.1s (34.1 MB/s)
+[17:05:53]   upload done video_id=24796381 in 50.8s
