@@ -11023,6 +11023,25 @@
         "download_sec": 16.2,
         "upload_sec": 17.3
       }
+    },
+    {
+      "cr_film_id": 2373,
+      "cr_slug": "boj",
+      "title": "Boj",
+      "year": 2015,
+      "display_name": "Boj (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "687d5ef8ce2cf",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24785476,
+      "size_bytes": 3722542039,
+      "uploaded_at": "2026-05-13T08:01:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 114.4,
+        "upload_sec": 142.5
+      }
     }
   ],
   "failed_attempts": [
@@ -11142,5 +11161,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-13T07:57:38Z"
+  "last_updated": "2026-05-13T08:01:58Z"
 }
