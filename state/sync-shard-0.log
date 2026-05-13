@@ -730,3 +730,14 @@
 [03:32:24]   upload done video_id=24781784 in 120.3s
 [03:32:25] film cr_film_id=1982 OK in 209.4s
 [03:32:25] batch-end ok=20 failed=0 dur=2515.3s avg/film=125.8s remaining=17134 eta_hours=598.7
+
+===== run 2026-05-13T03:33:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25776596171) =====
+[03:33:19] batch-start shard=0/2 count=20 backlog=17650 uploads=516 failed_attempts=498
+[03:33:19] login
+[03:33:20] login done
+[03:33:20] iteration 1/20
+[03:33:20] film cr_film_id=1984 name='Diagnóza: Šampión (2015) CZ Dabing' candidates=5
+[03:33:20]   candidate upload_id=57bccd56ca267 url=https://prehraj.to/diagnoza-sampion-2015-czdabing/57bccd56ca267
+[03:33:22]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/649982/p54IPeHRbCwBUWZI8GCy6HADhJMFONinlFpAFq…)
+[03:33:46]   downloaded 574.8 MB in 22.4s (25.7 MB/s)
+[03:34:13]   upload done video_id=24781832 in 27.0s
