@@ -12864,6 +12864,25 @@
         "download_sec": 48.5,
         "upload_sec": 57.1
       }
+    },
+    {
+      "cr_film_id": 2560,
+      "cr_slug": "cerny-telefon",
+      "title": "Černý telefon",
+      "year": 2021,
+      "display_name": "Černý telefon (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6351cdeea4ef5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24789488,
+      "size_bytes": 1229948008,
+      "uploaded_at": "2026-05-13T10:11:04Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 35.2,
+        "upload_sec": 44.8
+      }
     }
   ],
   "failed_attempts": [
@@ -16425,5 +16444,5 @@
       "failed_at": "2026-05-13T09:27:42Z"
     }
   ],
-  "last_updated": "2026-05-13T10:09:40Z"
+  "last_updated": "2026-05-13T10:11:04Z"
 }
