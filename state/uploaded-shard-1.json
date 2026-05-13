@@ -11308,6 +11308,25 @@
         "download_sec": 73.3,
         "upload_sec": 94.8
       }
+    },
+    {
+      "cr_film_id": 2425,
+      "cr_slug": "orphan",
+      "title": "Sirotek",
+      "year": 2009,
+      "display_name": "Sirotek (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62e5bf972bcf9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24785842,
+      "size_bytes": 1718494272,
+      "uploaded_at": "2026-05-13T08:30:17Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 47.3,
+        "upload_sec": 72.7
+      }
     }
   ],
   "failed_attempts": [
@@ -11427,5 +11446,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-13T08:28:13Z"
+  "last_updated": "2026-05-13T08:30:17Z"
 }
