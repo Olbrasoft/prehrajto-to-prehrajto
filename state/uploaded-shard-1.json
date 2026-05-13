@@ -14614,6 +14614,25 @@
         "download_sec": 64.2,
         "upload_sec": 83.2
       }
+    },
+    {
+      "cr_film_id": 3139,
+      "cr_slug": "street-kings",
+      "title": "Králové ulice",
+      "year": 2008,
+      "display_name": "Králové ulice (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e991dc6b054",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24795692,
+      "size_bytes": 421391727,
+      "uploaded_at": "2026-05-13T15:59:56Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 24.4,
+        "upload_sec": 33.6
+      }
     }
   ],
   "failed_attempts": [
@@ -14761,5 +14780,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T15:58:53Z"
+  "last_updated": "2026-05-13T15:59:56Z"
 }
