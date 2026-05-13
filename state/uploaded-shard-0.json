@@ -11838,6 +11838,25 @@
         "download_sec": 132.3,
         "upload_sec": 153.2
       }
+    },
+    {
+      "cr_film_id": 2388,
+      "cr_slug": "demolice",
+      "title": "Demolice",
+      "year": 2015,
+      "display_name": "Demolice (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "eafefe3cef61fbe2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24785650,
+      "size_bytes": 1368858277,
+      "uploaded_at": "2026-05-13T08:16:05Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 49.7,
+        "upload_sec": 67.2
+      }
     }
   ],
   "failed_attempts": [
@@ -15385,5 +15404,5 @@
       "failed_at": "2026-05-13T07:09:13Z"
     }
   ],
-  "last_updated": "2026-05-13T08:14:03Z"
+  "last_updated": "2026-05-13T08:16:05Z"
 }
