@@ -1301,3 +1301,15 @@
 [06:50:12]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/127715045/QpNcPkI91uGeC1mSRBsE7IRpuKWSX8IWote…)
 [06:54:38]   downloaded 1,972.1 MB in 263.9s (7.5 MB/s)
 [06:56:26]   upload done video_id=24784549 in 108.0s
+[06:56:27] film cr_film_id=2242 OK in 376.3s
+[06:56:27] iteration 18/20
+[06:56:27] film cr_film_id=2246 name='Poslední závod (2022) CZ Dabing' candidates=1
+[06:56:27]   candidate upload_id=365f5e0025745e9b url=https://prehraj.to/posledni-zavod-2022-cz-dab-1080p/365f5e0025745e9b
+[06:56:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/posledni-zavod-2022-cz-dab-1080p/365f5e0025745e9b (permanent=True)
+[06:56:28] film cr_film_id=2246 all candidates exhausted
+[06:56:28] iteration 19/20
+[06:56:28] film cr_film_id=2248 name='Seveřan (2022) CZ Dabing' candidates=3
+[06:56:28]   candidate upload_id=62d08adfb9590 url=https://prehraj.to/the-northman-2022-czdab/62d08adfb9590
+[06:56:34]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/31587056/DxksKQf6ai0vt6yuOgcORf0DFqbcRYFGZIGl…)
+[06:58:36]   downloaded 3,362.3 MB in 120.5s (27.9 MB/s)
+[07:01:20]   upload done video_id=24784599 in 163.7s
