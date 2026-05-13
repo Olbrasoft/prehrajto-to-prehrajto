@@ -9769,6 +9769,25 @@
         "download_sec": 71.0,
         "upload_sec": 102.3
       }
+    },
+    {
+      "cr_film_id": 2135,
+      "cr_slug": "odpor",
+      "title": "Odpor",
+      "year": 2008,
+      "display_name": "Odpor (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b64ff6194376",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24783003,
+      "size_bytes": 975523850,
+      "uploaded_at": "2026-05-13T04:58:46Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 37.6,
+        "upload_sec": 49.4
+      }
     }
   ],
   "failed_attempts": [
@@ -9876,5 +9895,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T04:57:15Z"
+  "last_updated": "2026-05-13T04:58:46Z"
 }
