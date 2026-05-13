@@ -10377,6 +10377,25 @@
         "download_sec": 76.7,
         "upload_sec": 91.8
       }
+    },
+    {
+      "cr_film_id": 2239,
+      "cr_slug": "enzo-ferrari-sk",
+      "title": "Ferrari",
+      "year": 2003,
+      "display_name": "Ferrari (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b70b6bb23c73",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24784009,
+      "size_bytes": 596056701,
+      "uploaded_at": "2026-05-13T06:10:54Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 23.7,
+        "upload_sec": 27.4
+      }
     }
   ],
   "failed_attempts": [
@@ -10484,5 +10503,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T06:10:00Z"
+  "last_updated": "2026-05-13T06:10:54Z"
 }
