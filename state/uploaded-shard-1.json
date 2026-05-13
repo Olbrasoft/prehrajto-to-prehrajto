@@ -10339,6 +10339,25 @@
         "download_sec": 45.8,
         "upload_sec": 63.7
       }
+    },
+    {
+      "cr_film_id": 2227,
+      "cr_slug": "den-pote",
+      "title": "Den poté",
+      "year": 1983,
+      "display_name": "Den poté (1983) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c3f537a9cf482a82",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24783939,
+      "size_bytes": 4045848269,
+      "uploaded_at": "2026-05-13T06:07:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 109.0,
+        "upload_sec": 151.3
+      }
     }
   ],
   "failed_attempts": [
@@ -10446,5 +10465,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T06:02:44Z"
+  "last_updated": "2026-05-13T06:07:08Z"
 }
