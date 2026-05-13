@@ -7926,6 +7926,25 @@
         "download_sec": 74.1,
         "upload_sec": 99.7
       }
+    },
+    {
+      "cr_film_id": 1699,
+      "cr_slug": "velky-gatsby",
+      "title": "Velký Gatsby",
+      "year": 2013,
+      "display_name": "Velký Gatsby (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67f1bb45ea4df",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24778614,
+      "size_bytes": 3704490765,
+      "uploaded_at": "2026-05-13T00:12:31Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 165.2,
+        "upload_sec": 209.1
+      }
     }
   ],
   "failed_attempts": [
@@ -8000,5 +8019,5 @@
       "failed_at": "2026-05-13T00:02:44Z"
     }
   ],
-  "last_updated": "2026-05-13T00:05:45Z"
+  "last_updated": "2026-05-13T00:12:31Z"
 }

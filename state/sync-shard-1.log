@@ -288,3 +288,14 @@
 [00:05:45]   upload done video_id=24778525 in 99.7s
 [00:05:46] film cr_film_id=1695 OK in 183.5s
 [00:05:46] batch-end ok=19 failed=1 dur=2884.5s avg/film=151.8s remaining=17233 eta_hours=726.7
+
+===== run 2026-05-13T00:06:09Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25769653174) =====
+[00:06:11] batch-start shard=1/2 count=20 backlog=17650 uploads=417 failed_attempts=10
+[00:06:11] login
+[00:06:13] login done
+[00:06:13] iteration 1/20
+[00:06:13] film cr_film_id=1699 name='Velký Gatsby (2013) CZ Dabing' candidates=2
+[00:06:13]   candidate upload_id=67f1bb45ea4df url=https://prehraj.to/velky-gatsby-2013-fullhd-czdabing/67f1bb45ea4df
+[00:06:14]   resolved in 1.6s → 720p (https://pf-storage4.premiumcdn.net/134284637/yyKsN8H8nCL1UGniYLtrJH07TDyUwmud6C2…)
+[00:09:02]   downloaded 3,704.5 MB in 165.2s (22.4 MB/s)
+[00:12:31]   upload done video_id=24778614 in 209.1s
