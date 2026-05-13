@@ -9123,6 +9123,25 @@
         "download_sec": 81.5,
         "upload_sec": 111.6
       }
+    },
+    {
+      "cr_film_id": 1987,
+      "cr_slug": "creed-ii",
+      "title": "Creed II",
+      "year": 2018,
+      "display_name": "Creed II (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68c3565001c2c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24781939,
+      "size_bytes": 1837283663,
+      "uploaded_at": "2026-05-13T03:42:29Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 60.6,
+        "upload_sec": 77.2
+      }
     }
   ],
   "failed_attempts": [
@@ -9230,5 +9249,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T03:40:07Z"
+  "last_updated": "2026-05-13T03:42:29Z"
 }
