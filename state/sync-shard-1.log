@@ -1470,3 +1470,14 @@
 [07:54:04]   upload done video_id=24785404 in 59.3s
 [07:54:05] film cr_film_id=2365 OK in 108.5s
 [07:54:05] batch-end ok=20 failed=0 dur=3369.4s avg/film=168.5s remaining=17073 eta_hours=799.1
+
+===== run 2026-05-13T07:54:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25783970518) =====
+[07:54:25] batch-start shard=1/2 count=20 backlog=17650 uploads=577 failed_attempts=15
+[07:54:25] login
+[07:54:26] login done
+[07:54:26] iteration 1/20
+[07:54:26] film cr_film_id=2367 name='Anděl Páně 2 (2016) CZ' candidates=4
+[07:54:26]   candidate upload_id=68cac90888c91 url=https://prehraj.to/andel-pane-cely-film-hd-mp4/68cac90888c91
+[07:54:27]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/147187245/ovAh1bTAdf75tXQiYDU8PTYRcD5ir7F4gHk…)
+[07:55:03]   downloaded 1,181.1 MB in 34.1s (34.6 MB/s)
+[07:55:52]   upload done video_id=24785427 in 49.6s
