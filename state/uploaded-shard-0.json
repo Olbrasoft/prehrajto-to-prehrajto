@@ -13263,6 +13263,25 @@
         "download_sec": 40.8,
         "upload_sec": 74.2
       }
+    },
+    {
+      "cr_film_id": 2642,
+      "cr_slug": "kral-psanec",
+      "title": "Král psanec",
+      "year": 2018,
+      "display_name": "Král psanec (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63e1ad5b1115a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24789974,
+      "size_bytes": 3549456640,
+      "uploaded_at": "2026-05-13T10:53:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 110.7,
+        "upload_sec": 131.8
+      }
     }
   ],
   "failed_attempts": [
@@ -16838,5 +16857,5 @@
       "failed_at": "2026-05-13T10:12:31Z"
     }
   ],
-  "last_updated": "2026-05-13T10:49:27Z"
+  "last_updated": "2026-05-13T10:53:34Z"
 }
