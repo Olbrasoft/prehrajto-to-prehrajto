@@ -11401,6 +11401,25 @@
         "download_sec": 21.9,
         "upload_sec": 25.4
       }
+    },
+    {
+      "cr_film_id": 2292,
+      "cr_slug": "snezny-kluk",
+      "title": "Sněžný kluk",
+      "year": 2019,
+      "display_name": "Sněžný kluk (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68dd3879cb05d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24784989,
+      "size_bytes": 1604132737,
+      "uploaded_at": "2026-05-13T07:25:00Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 64.8,
+        "upload_sec": 85.0
+      }
     }
   ],
   "failed_attempts": [
@@ -14948,5 +14967,5 @@
       "failed_at": "2026-05-13T07:09:13Z"
     }
   ],
-  "last_updated": "2026-05-13T07:22:25Z"
+  "last_updated": "2026-05-13T07:25:00Z"
 }
