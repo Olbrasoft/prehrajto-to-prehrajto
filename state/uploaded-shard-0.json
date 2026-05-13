@@ -14099,6 +14099,25 @@
         "download_sec": 60.9,
         "upload_sec": 80.9
       }
+    },
+    {
+      "cr_film_id": 2802,
+      "cr_slug": "dokonaly-protejsek",
+      "title": "Dokonalý protějšek",
+      "year": 2023,
+      "display_name": "Dokonalý protějšek (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67917847d89e5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24793724,
+      "size_bytes": 1847628003,
+      "uploaded_at": "2026-05-13T13:14:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 92.3,
+        "upload_sec": 102.0
+      }
     }
   ],
   "failed_attempts": [
@@ -17702,5 +17721,5 @@
       "failed_at": "2026-05-13T12:03:43Z"
     }
   ],
-  "last_updated": "2026-05-13T13:11:37Z"
+  "last_updated": "2026-05-13T13:14:56Z"
 }
