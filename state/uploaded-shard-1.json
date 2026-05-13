@@ -9370,6 +9370,25 @@
         "download_sec": 55.3,
         "upload_sec": 81.6
       }
+    },
+    {
+      "cr_film_id": 2049,
+      "cr_slug": "zpivej",
+      "title": "Zpívej",
+      "year": 2016,
+      "display_name": "Zpívej (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ce41e510bf09",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24782297,
+      "size_bytes": 1671254060,
+      "uploaded_at": "2026-05-13T04:07:49Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 55.3,
+        "upload_sec": 73.3
+      }
     }
   ],
   "failed_attempts": [
@@ -9477,5 +9496,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T04:05:36Z"
+  "last_updated": "2026-05-13T04:07:49Z"
 }
