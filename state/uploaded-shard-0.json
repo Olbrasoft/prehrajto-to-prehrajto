@@ -10242,6 +10242,25 @@
         "download_sec": 45.2,
         "upload_sec": 60.3
       }
+    },
+    {
+      "cr_film_id": 2068,
+      "cr_slug": "velka-vanocni-jizda",
+      "title": "Velká vánoční jízda",
+      "year": 2011,
+      "display_name": "Velká vánoční jízda (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "567780b6b7805",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24782592,
+      "size_bytes": 820280890,
+      "uploaded_at": "2026-05-13T04:27:36Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 26.2,
+        "upload_sec": 29.6
+      }
     }
   ],
   "failed_attempts": [
@@ -13737,5 +13756,5 @@
       "failed_at": "2026-05-13T02:31:24Z"
     }
   ],
-  "last_updated": "2026-05-13T04:26:37Z"
+  "last_updated": "2026-05-13T04:27:36Z"
 }
