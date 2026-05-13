@@ -8002,6 +8002,25 @@
         "download_sec": 43.4,
         "upload_sec": 53.7
       }
+    },
+    {
+      "cr_film_id": 1719,
+      "cr_slug": "anthropoid",
+      "title": "Anthropoid",
+      "year": 2016,
+      "display_name": "Anthropoid (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5eb8b677c503e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24778782,
+      "size_bytes": 2355648693,
+      "uploaded_at": "2026-05-13T00:22:14Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 111.3,
+        "upload_sec": 157.7
+      }
     }
   ],
   "failed_attempts": [
@@ -8076,5 +8095,5 @@
       "failed_at": "2026-05-13T00:02:44Z"
     }
   ],
-  "last_updated": "2026-05-13T00:17:40Z"
+  "last_updated": "2026-05-13T00:22:14Z"
 }
