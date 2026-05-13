@@ -10358,6 +10358,25 @@
         "download_sec": 109.0,
         "upload_sec": 151.3
       }
+    },
+    {
+      "cr_film_id": 2231,
+      "cr_slug": "vyprosteni-2",
+      "title": "Vyproštění 2",
+      "year": 2023,
+      "display_name": "Vyproštění 2 (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64bd22b0f11da",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24783984,
+      "size_bytes": 2544349809,
+      "uploaded_at": "2026-05-13T06:10:00Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 76.7,
+        "upload_sec": 91.8
+      }
     }
   ],
   "failed_attempts": [
@@ -10465,5 +10484,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T06:07:08Z"
+  "last_updated": "2026-05-13T06:10:00Z"
 }
