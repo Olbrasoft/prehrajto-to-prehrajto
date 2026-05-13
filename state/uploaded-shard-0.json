@@ -16664,6 +16664,25 @@
         "download_sec": 36.5,
         "upload_sec": 38.4
       }
+    },
+    {
+      "cr_film_id": 3360,
+      "cr_slug": "volani-divociny",
+      "title": "Volání divočiny",
+      "year": 2020,
+      "display_name": "Volání divočiny (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fd88eb90c010",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24799408,
+      "size_bytes": 1938969241,
+      "uploaded_at": "2026-05-13T21:09:16Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 99.7,
+        "upload_sec": 120.3
+      }
     }
   ],
   "failed_attempts": [
@@ -20330,5 +20349,5 @@
       "failed_at": "2026-05-13T20:04:57Z"
     }
   ],
-  "last_updated": "2026-05-13T21:05:31Z"
+  "last_updated": "2026-05-13T21:09:16Z"
 }
