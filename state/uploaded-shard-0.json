@@ -11743,6 +11743,25 @@
         "download_sec": 28.2,
         "upload_sec": 35.8
       }
+    },
+    {
+      "cr_film_id": 2366,
+      "cr_slug": "habermannuv-mlyn",
+      "title": "Habermannův mlýn",
+      "year": 2010,
+      "display_name": "Habermannův mlýn (2010) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a630a3d360bd",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24785487,
+      "size_bytes": 481313852,
+      "uploaded_at": "2026-05-13T08:01:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 19.5,
+        "upload_sec": 27.6
+      }
     }
   ],
   "failed_attempts": [
@@ -15290,5 +15309,5 @@
       "failed_at": "2026-05-13T07:09:13Z"
     }
   ],
-  "last_updated": "2026-05-13T08:00:11Z"
+  "last_updated": "2026-05-13T08:01:02Z"
 }
