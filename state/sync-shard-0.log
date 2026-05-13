@@ -1912,3 +1912,14 @@
 [10:03:27]   upload done video_id=24789359 in 203.9s
 [10:03:29] film cr_film_id=2550 OK in 360.3s
 [10:03:29] batch-end ok=20 failed=0 dur=2671.9s avg/film=133.6s remaining=16976 eta_hours=630.0
+
+===== run 2026-05-13T10:04:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25792275101) =====
+[10:04:29] batch-start shard=0/2 count=20 backlog=17650 uploads=674 failed_attempts=506
+[10:04:29] login
+[10:04:31] login done
+[10:04:31] iteration 1/20
+[10:04:31] film cr_film_id=2552 name='Hovoří ženy (2022) CZ Dabing' candidates=1
+[10:04:31]   candidate upload_id=371a01da5b59ec43 url=https://prehraj.to/hovori-zeny-2022-cz-dabing/371a01da5b59ec43
+[10:04:33]   resolved in 1.7s → 1080p (https://pf-storage3.premiumcdn.net/165065999/yDwswQSrRUoaFbNtEGuVNSzLi1dHxyh23Ho…)
+[10:05:14]   downloaded 1,274.7 MB in 39.8s (32.0 MB/s)
+[10:06:02]   upload done video_id=24789426 in 47.9s
