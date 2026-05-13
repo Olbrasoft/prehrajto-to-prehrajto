@@ -9140,6 +9140,25 @@
         "download_sec": 124.8,
         "upload_sec": 154.0
       }
+    },
+    {
+      "cr_film_id": 1824,
+      "cr_slug": "8-mile",
+      "title": "8 Mile",
+      "year": 2002,
+      "display_name": "8 Mile (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b48f42f60b274046",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24780294,
+      "size_bytes": 3983950685,
+      "uploaded_at": "2026-05-13T01:48:43Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 673.5,
+        "upload_sec": 232.4
+      }
     }
   ],
   "failed_attempts": [
@@ -12614,5 +12633,5 @@
       "failed_at": "2026-05-13T00:41:40Z"
     }
   ],
-  "last_updated": "2026-05-13T01:33:31Z"
+  "last_updated": "2026-05-13T01:48:43Z"
 }
