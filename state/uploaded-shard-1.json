@@ -16438,6 +16438,25 @@
         "download_sec": 71.8,
         "upload_sec": 113.0
       }
+    },
+    {
+      "cr_film_id": 3519,
+      "cr_slug": "co-by-kdyby",
+      "title": "Co by kdyby",
+      "year": 2014,
+      "display_name": "Co by kdyby (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57bf09ddb3961",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24800011,
+      "size_bytes": 1682281489,
+      "uploaded_at": "2026-05-13T22:23:09Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 54.6,
+        "upload_sec": 73.2
+      }
     }
   ],
   "failed_attempts": [
@@ -16644,7 +16663,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/karlik-a-tovarna-na-cokoladu-2005-cz-dab-1080p/d6e80761777ef81f",
       "permanent": true,
       "failed_at": "2026-05-13T21:58:05Z"
+    },
+    {
+      "cr_film_id": 3517,
+      "upload_id": "42fffe34d62433db",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/andele-a-demoni-2009-cz-dab-1080p/42fffe34d62433db",
+      "permanent": true,
+      "failed_at": "2026-05-13T22:20:48Z"
+    },
+    {
+      "cr_film_id": 3517,
+      "upload_id": "58a299e00d4c5cf3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/andele-a-demoni-2009-cz-dab-1080p/58a299e00d4c5cf3",
+      "permanent": true,
+      "failed_at": "2026-05-13T22:20:54Z"
     }
   ],
-  "last_updated": "2026-05-13T22:20:37Z"
+  "last_updated": "2026-05-13T22:23:09Z"
 }

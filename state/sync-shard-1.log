@@ -3619,3 +3619,17 @@
 [22:17:31]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/41210254/BV9sZMI3rSAjIpVTyZU4KIB7sjpHoPHOzCYe…)
 [22:18:44]   downloaded 2,554.0 MB in 71.8s (35.6 MB/s)
 [22:20:37]   upload done video_id=24799990 in 113.0s
+[22:20:38] film cr_film_id=3511 OK in 188.4s
+[22:20:38] iteration 15/20
+[22:20:38] film cr_film_id=3517 name='Andělé a démoni (2009) CZ Dabing' candidates=2
+[22:20:38]   candidate upload_id=42fffe34d62433db url=https://prehraj.to/andele-a-demoni-2009-cz-dab-1080p/42fffe34d62433db
+[22:20:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/andele-a-demoni-2009-cz-dab-1080p/42fffe34d62433db (permanent=True)
+[22:20:48]   candidate upload_id=58a299e00d4c5cf3 url=https://prehraj.to/andele-a-demoni-2009-cz-dab-1080p/58a299e00d4c5cf3
+[22:20:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/andele-a-demoni-2009-cz-dab-1080p/58a299e00d4c5cf3 (permanent=True)
+[22:20:54] film cr_film_id=3517 all candidates exhausted
+[22:20:54] iteration 16/20
+[22:20:54] film cr_film_id=3519 name='Co by kdyby (2014) CZ Dabing' candidates=5
+[22:20:54]   candidate upload_id=57bf09ddb3961 url=https://prehraj.to/co-by-kdyby-this-is-where-i-leave-you-2014-full-hd-cz-dabing/57bf09ddb3961
+[22:21:00]   resolved in 6.1s → 720p (https://pf-storage2.premiumcdn.net/11483/78oHvZhAof4zfdli8eUvlhMeTyVUJ6cjktpVCd3…)
+[22:21:56]   downloaded 1,682.3 MB in 54.6s (30.8 MB/s)
+[22:23:09]   upload done video_id=24800011 in 73.2s
