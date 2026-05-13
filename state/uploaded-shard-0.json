@@ -15562,6 +15562,25 @@
         "download_sec": 35.0,
         "upload_sec": 42.4
       }
+    },
+    {
+      "cr_film_id": 3130,
+      "cr_slug": "jersey-boys",
+      "title": "Jersey Boys",
+      "year": 2014,
+      "display_name": "Jersey Boys (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63982f27640a8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24796021,
+      "size_bytes": 698595079,
+      "uploaded_at": "2026-05-13T16:30:10Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 38.1,
+        "upload_sec": 46.0
+      }
     }
   ],
   "failed_attempts": [
@@ -19214,5 +19233,5 @@
       "failed_at": "2026-05-13T16:17:12Z"
     }
   ],
-  "last_updated": "2026-05-13T16:28:41Z"
+  "last_updated": "2026-05-13T16:30:10Z"
 }
