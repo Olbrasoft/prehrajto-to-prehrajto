@@ -8306,6 +8306,25 @@
         "download_sec": 28.2,
         "upload_sec": 35.6
       }
+    },
+    {
+      "cr_film_id": 1803,
+      "cr_slug": "ai-umela-inteligence-sk",
+      "title": "A.I.: Umělá inteligence",
+      "year": 2001,
+      "display_name": "A.I.: Umělá inteligence (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "665c76f60ba51",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24779479,
+      "size_bytes": 1904434436,
+      "uploaded_at": "2026-05-13T01:01:46Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 53.9,
+        "upload_sec": 65.3
+      }
     }
   ],
   "failed_attempts": [
@@ -8380,5 +8399,5 @@
       "failed_at": "2026-05-13T00:02:44Z"
     }
   ],
-  "last_updated": "2026-05-13T00:59:20Z"
+  "last_updated": "2026-05-13T01:01:46Z"
 }
