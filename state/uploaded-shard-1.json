@@ -13759,6 +13759,25 @@
         "download_sec": 123.5,
         "upload_sec": 179.7
       }
+    },
+    {
+      "cr_film_id": 2909,
+      "cr_slug": "byl-jednou-jeden-snehulak",
+      "title": "Byl jednou jeden sněhulák",
+      "year": 2020,
+      "display_name": "Byl jednou jeden sněhulák (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a0dec04f5df0a69f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24794144,
+      "size_bytes": 52698152,
+      "uploaded_at": "2026-05-13T13:52:12Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 5.6,
+        "upload_sec": 5.8
+      }
     }
   ],
   "failed_attempts": [
@@ -13906,5 +13925,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T13:51:56Z"
+  "last_updated": "2026-05-13T13:52:12Z"
 }
