@@ -9389,6 +9389,25 @@
         "download_sec": 55.3,
         "upload_sec": 73.3
       }
+    },
+    {
+      "cr_film_id": 2055,
+      "cr_slug": "spojenci",
+      "title": "Spojenci",
+      "year": 2016,
+      "display_name": "Spojenci (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fe8a5b58f9ba",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24782332,
+      "size_bytes": 1714381619,
+      "uploaded_at": "2026-05-13T04:10:04Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 56.0,
+        "upload_sec": 76.3
+      }
     }
   ],
   "failed_attempts": [
@@ -9496,5 +9515,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T04:07:49Z"
+  "last_updated": "2026-05-13T04:10:04Z"
 }
