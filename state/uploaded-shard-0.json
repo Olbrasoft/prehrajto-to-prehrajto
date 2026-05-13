@@ -15087,6 +15087,25 @@
         "download_sec": 33.8,
         "upload_sec": 39.1
       }
+    },
+    {
+      "cr_film_id": 3026,
+      "cr_slug": "prizrak",
+      "title": "Přízrak",
+      "year": 2017,
+      "display_name": "Přízrak (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "573f9d6884546",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24795110,
+      "size_bytes": 520204385,
+      "uploaded_at": "2026-05-13T15:17:39Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 29.0,
+        "upload_sec": 35.0
+      }
     }
   ],
   "failed_attempts": [
@@ -18711,5 +18730,5 @@
       "failed_at": "2026-05-13T14:16:35Z"
     }
   ],
-  "last_updated": "2026-05-13T15:16:30Z"
+  "last_updated": "2026-05-13T15:17:39Z"
 }
