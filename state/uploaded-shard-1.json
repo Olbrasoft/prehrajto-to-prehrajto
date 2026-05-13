@@ -11346,6 +11346,25 @@
         "download_sec": 38.0,
         "upload_sec": 69.5
       }
+    },
+    {
+      "cr_film_id": 2431,
+      "cr_slug": "bronson",
+      "title": "Bronson",
+      "year": 2008,
+      "display_name": "Bronson (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5668a84dd8e98",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24786010,
+      "size_bytes": 787759803,
+      "uploaded_at": "2026-05-13T08:41:56Z",
+      "timing": {
+        "resolve_sec": 4.5,
+        "download_sec": 23.8,
+        "upload_sec": 29.1
+      }
     }
   ],
   "failed_attempts": [
@@ -11463,7 +11482,14 @@
         "download_sec": 60.0,
         "upload_sec": 75.8
       }
+    },
+    {
+      "cr_film_id": 2431,
+      "upload_id": "64fd9740ad006",
+      "reason": "oversize: 10245607979 B",
+      "permanent": true,
+      "failed_at": "2026-05-13T08:40:57Z"
     }
   ],
-  "last_updated": "2026-05-13T08:32:08Z"
+  "last_updated": "2026-05-13T08:41:56Z"
 }

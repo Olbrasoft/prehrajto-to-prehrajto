@@ -1616,3 +1616,17 @@
 [08:32:08]   upload done video_id=24785871 in 69.5s
 [08:32:09] film cr_film_id=2429 OK in 110.9s
 [08:32:09] batch-end ok=20 failed=0 dur=2262.5s avg/film=113.1s remaining=17053 eta_hours=535.7
+
+===== run 2026-05-13T08:40:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25788199139) =====
+[08:40:50] batch-start shard=1/2 count=20 backlog=17650 uploads=597 failed_attempts=15
+[08:40:50] login
+[08:40:51] login done
+[08:40:51] iteration 1/20
+[08:40:51] film cr_film_id=2431 name='Bronson (2008) CZ Dabing' candidates=6
+[08:40:51]   candidate upload_id=64fd9740ad006 url=https://prehraj.to/bronson-2008-cz-dabing/64fd9740ad006
+[08:40:56]   resolved in 4.3s → 1080p (https://pf-storage4.premiumcdn.net/44442533/AWeH5LhB7s84F6NfEpU2WhKJSN2fYEi8eId0…)
+[08:40:57]   oversize: 10245607979 B > 6000000000 B, skip
+[08:40:57]   candidate upload_id=5668a84dd8e98 url=https://prehraj.to/bronson-cz-dabing-2008/5668a84dd8e98
+[08:41:02]   resolved in 4.5s → 480p (https://pf-storage4.premiumcdn.net/509363/zEKcP4fQ6CzRHEWFyNS43fepszjsLpSEoFAxSR…)
+[08:41:27]   downloaded 787.8 MB in 23.8s (33.1 MB/s)
+[08:41:56]   upload done video_id=24786010 in 29.1s
