@@ -10641,6 +10641,25 @@
         "download_sec": 103.8,
         "upload_sec": 120.2
       }
+    },
+    {
+      "cr_film_id": 2130,
+      "cr_slug": "rocky-balboa",
+      "title": "Rocky Balboa",
+      "year": 2006,
+      "display_name": "Rocky Balboa (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56f3cc5ef40af",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24783255,
+      "size_bytes": 854213092,
+      "uploaded_at": "2026-05-13T05:16:20Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 27.1,
+        "upload_sec": 28.8
+      }
     }
   ],
   "failed_attempts": [
@@ -14148,5 +14167,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-13T05:15:20Z"
+  "last_updated": "2026-05-13T05:16:20Z"
 }
