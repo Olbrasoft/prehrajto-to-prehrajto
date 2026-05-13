@@ -10850,6 +10850,25 @@
         "download_sec": 16.4,
         "upload_sec": 28.7
       }
+    },
+    {
+      "cr_film_id": 2168,
+      "cr_slug": "red",
+      "title": "Red",
+      "year": 2010,
+      "display_name": "Red (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "684410ddea270",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24783558,
+      "size_bytes": 2444055836,
+      "uploaded_at": "2026-05-13T05:35:46Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 67.2,
+        "upload_sec": 99.8
+      }
     }
   ],
   "failed_attempts": [
@@ -14357,5 +14376,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-13T05:32:56Z"
+  "last_updated": "2026-05-13T05:35:46Z"
 }
