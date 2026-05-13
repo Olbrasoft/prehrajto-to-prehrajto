@@ -10508,6 +10508,25 @@
         "download_sec": 66.2,
         "upload_sec": 131.8
       }
+    },
+    {
+      "cr_film_id": 2112,
+      "cr_slug": "odpad",
+      "title": "Odpad",
+      "year": 2014,
+      "display_name": "Odpad (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55920a14b4feb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24782961,
+      "size_bytes": 647373878,
+      "uploaded_at": "2026-05-13T04:55:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.7,
+        "upload_sec": 33.4
+      }
     }
   ],
   "failed_attempts": [
@@ -14015,5 +14034,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-13T04:54:14Z"
+  "last_updated": "2026-05-13T04:55:13Z"
 }
