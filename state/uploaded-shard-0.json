@@ -11515,6 +11515,25 @@
         "download_sec": 25.0,
         "upload_sec": 34.4
       }
+    },
+    {
+      "cr_film_id": 2312,
+      "cr_slug": "mladi-v-trapu",
+      "title": "Mládí v trapu",
+      "year": 2003,
+      "display_name": "Mládí v trapu (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c25787de1d70",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24785201,
+      "size_bytes": 511963325,
+      "uploaded_at": "2026-05-13T07:40:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 24.6,
+        "upload_sec": 33.1
+      }
     }
   ],
   "failed_attempts": [
@@ -15062,5 +15081,5 @@
       "failed_at": "2026-05-13T07:09:13Z"
     }
   ],
-  "last_updated": "2026-05-13T07:39:37Z"
+  "last_updated": "2026-05-13T07:40:39Z"
 }
