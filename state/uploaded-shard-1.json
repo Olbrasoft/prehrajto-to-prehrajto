@@ -11631,6 +11631,25 @@
         "download_sec": 14.7,
         "upload_sec": 19.0
       }
+    },
+    {
+      "cr_film_id": 2469,
+      "cr_slug": "blaznive",
+      "title": "Bláznivě",
+      "year": 2025,
+      "display_name": "Bláznivě (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "4f6f481dce5e378f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24787721,
+      "size_bytes": 1385544385,
+      "uploaded_at": "2026-05-13T09:07:55Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 45.1,
+        "upload_sec": 70.1
+      }
     }
   ],
   "failed_attempts": [
@@ -11757,5 +11776,5 @@
       "failed_at": "2026-05-13T08:40:57Z"
     }
   ],
-  "last_updated": "2026-05-13T09:05:55Z"
+  "last_updated": "2026-05-13T09:07:55Z"
 }
