@@ -15828,6 +15828,25 @@
         "download_sec": 47.9,
         "upload_sec": 66.6
       }
+    },
+    {
+      "cr_film_id": 3168,
+      "cr_slug": "hamburger-hill",
+      "title": "Hamburger Hill",
+      "year": 1987,
+      "display_name": "Hamburger Hill (1987) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59abc12bad3ec",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24796418,
+      "size_bytes": 701549029,
+      "uploaded_at": "2026-05-13T17:08:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 23.4,
+        "upload_sec": 31.5
+      }
     }
   ],
   "failed_attempts": [
@@ -19480,5 +19499,5 @@
       "failed_at": "2026-05-13T16:17:12Z"
     }
   ],
-  "last_updated": "2026-05-13T17:07:53Z"
+  "last_updated": "2026-05-13T17:08:52Z"
 }
