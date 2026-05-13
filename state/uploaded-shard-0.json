@@ -11629,6 +11629,25 @@
         "download_sec": 116.8,
         "upload_sec": 147.6
       }
+    },
+    {
+      "cr_film_id": 2348,
+      "cr_slug": "ples-priser",
+      "title": "Ples příšer",
+      "year": 2001,
+      "display_name": "Ples příšer (2001) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "548dbad526665731",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24785398,
+      "size_bytes": 1408257302,
+      "uploaded_at": "2026-05-13T07:54:00Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 139.5,
+        "upload_sec": 73.1
+      }
     }
   ],
   "failed_attempts": [
@@ -15176,5 +15195,5 @@
       "failed_at": "2026-05-13T07:09:13Z"
     }
   ],
-  "last_updated": "2026-05-13T07:50:23Z"
+  "last_updated": "2026-05-13T07:54:00Z"
 }
