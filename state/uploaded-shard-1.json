@@ -11365,6 +11365,25 @@
         "download_sec": 23.8,
         "upload_sec": 29.1
       }
+    },
+    {
+      "cr_film_id": 2435,
+      "cr_slug": "kronika",
+      "title": "Kronika",
+      "year": 2012,
+      "display_name": "Kronika (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fa6cc049c9de",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24786033,
+      "size_bytes": 1863162207,
+      "uploaded_at": "2026-05-13T08:44:14Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 53.3,
+        "upload_sec": 81.4
+      }
     }
   ],
   "failed_attempts": [
@@ -11491,5 +11510,5 @@
       "failed_at": "2026-05-13T08:40:57Z"
     }
   ],
-  "last_updated": "2026-05-13T08:41:56Z"
+  "last_updated": "2026-05-13T08:44:14Z"
 }
