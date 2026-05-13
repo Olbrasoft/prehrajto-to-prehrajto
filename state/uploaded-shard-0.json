@@ -17614,6 +17614,25 @@
         "download_sec": 49.8,
         "upload_sec": 55.1
       }
+    },
+    {
+      "cr_film_id": 3554,
+      "cr_slug": "the-notorious-big",
+      "title": "The Notorious B.I.G.",
+      "year": 2009,
+      "display_name": "The Notorious B.I.G. (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "644aa0f28e037",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24800603,
+      "size_bytes": 3659439622,
+      "uploaded_at": "2026-05-13T23:43:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 162.6,
+        "upload_sec": 216.3
+      }
     }
   ],
   "failed_attempts": [
@@ -21287,5 +21306,5 @@
       "failed_at": "2026-05-13T23:01:11Z"
     }
   ],
-  "last_updated": "2026-05-13T23:36:56Z"
+  "last_updated": "2026-05-13T23:43:20Z"
 }
