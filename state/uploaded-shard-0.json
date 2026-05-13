@@ -12731,6 +12731,25 @@
         "download_sec": 44.5,
         "upload_sec": 53.9
       }
+    },
+    {
+      "cr_film_id": 2542,
+      "cr_slug": "the-childe",
+      "title": "The Childe",
+      "year": 2023,
+      "display_name": "The Childe (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65df897eb3dac",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24789283,
+      "size_bytes": 483499746,
+      "uploaded_at": "2026-05-13T09:55:19Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.8,
+        "upload_sec": 21.9
+      }
     }
   ],
   "failed_attempts": [
@@ -16292,5 +16311,5 @@
       "failed_at": "2026-05-13T09:27:42Z"
     }
   ],
-  "last_updated": "2026-05-13T09:54:37Z"
+  "last_updated": "2026-05-13T09:55:19Z"
 }
