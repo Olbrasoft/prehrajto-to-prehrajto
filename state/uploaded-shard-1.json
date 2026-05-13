@@ -13892,6 +13892,25 @@
         "download_sec": 79.7,
         "upload_sec": 124.1
       }
+    },
+    {
+      "cr_film_id": 2935,
+      "cr_slug": "mank",
+      "title": "MANK",
+      "year": 2020,
+      "display_name": "MANK (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fcd24359b8ec",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24794364,
+      "size_bytes": 2667400979,
+      "uploaded_at": "2026-05-13T14:11:44Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 104.5,
+        "upload_sec": 128.7
+      }
     }
   ],
   "failed_attempts": [
@@ -14039,5 +14058,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T14:07:46Z"
+  "last_updated": "2026-05-13T14:11:44Z"
 }
