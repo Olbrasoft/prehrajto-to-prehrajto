@@ -10622,6 +10622,25 @@
         "download_sec": 10.8,
         "upload_sec": 12.7
       }
+    },
+    {
+      "cr_film_id": 2126,
+      "cr_slug": "blade",
+      "title": "Blade",
+      "year": 1998,
+      "display_name": "Blade (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6381c1853d002",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24783213,
+      "size_bytes": 3425615021,
+      "uploaded_at": "2026-05-13T05:15:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 103.8,
+        "upload_sec": 120.2
+      }
     }
   ],
   "failed_attempts": [
@@ -14129,5 +14148,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-13T05:11:33Z"
+  "last_updated": "2026-05-13T05:15:20Z"
 }
