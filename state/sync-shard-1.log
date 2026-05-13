@@ -2197,3 +2197,14 @@
 [11:32:09]   upload done video_id=24790474 in 130.0s
 [11:32:11] film cr_film_id=2729 OK in 235.7s
 [11:32:11] batch-end ok=20 failed=0 dur=2900.0s avg/film=145.0s remaining=16976 eta_hours=683.8
+
+===== run 2026-05-13T11:33:54Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25796481506) =====
+[11:33:55] batch-start shard=1/2 count=20 backlog=17650 uploads=674 failed_attempts=19
+[11:33:55] login
+[11:33:57] login done
+[11:33:57] iteration 1/20
+[11:33:57] film cr_film_id=2737 name='Captain America: První Avenger (2011) CZ Dabing' candidates=10
+[11:33:57]   candidate upload_id=6891b510c577d url=https://prehraj.to/captain-america-prvni-avenger-captain-america-the-first-avenger-2011-fullhd-1080p-h264-cz-dabing-ac3-audio-tw1nky/6891b510c577d
+[11:33:59]   resolved in 1.6s → 720p (https://pf-storage3.premiumcdn.net/142985375/npRSdQhQ8fMySkgi9bsr2hqRtpLTzBiApUB…)
+[11:36:07]   downloaded 2,590.0 MB in 126.4s (20.5 MB/s)
+[11:38:36]   upload done video_id=24790550 in 148.7s
