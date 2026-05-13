@@ -13643,6 +13643,25 @@
         "download_sec": 96.5,
         "upload_sec": 131.2
       }
+    },
+    {
+      "cr_film_id": 2742,
+      "cr_slug": "prodlouzeny-vikend",
+      "title": "Prodloužený víkend",
+      "year": 2013,
+      "display_name": "Prodloužený víkend (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ed1fe50e15b2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24790637,
+      "size_bytes": 1082817558,
+      "uploaded_at": "2026-05-13T11:43:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 59.0,
+        "upload_sec": 45.8
+      }
     }
   ],
   "failed_attempts": [
@@ -17218,5 +17237,5 @@
       "failed_at": "2026-05-13T10:12:31Z"
     }
   ],
-  "last_updated": "2026-05-13T11:41:33Z"
+  "last_updated": "2026-05-13T11:43:21Z"
 }
