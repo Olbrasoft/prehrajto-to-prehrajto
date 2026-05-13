@@ -2635,3 +2635,14 @@
 [14:18:06]   upload done video_id=24794434 in 123.7s
 [14:18:08] film cr_film_id=2941 OK in 220.7s
 [14:18:08] batch-end ok=20 failed=0 dur=3232.8s avg/film=161.6s remaining=16916 eta_hours=759.3
+
+===== run 2026-05-13T14:23:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25805290998) =====
+[14:23:33] batch-start shard=1/2 count=20 backlog=17650 uploads=734 failed_attempts=19
+[14:23:33] login
+[14:23:34] login done
+[14:23:34] iteration 1/20
+[14:23:34] film cr_film_id=2951 name='Vyproštění (2020) CZ Dabing' candidates=19
+[14:23:34]   candidate upload_id=5ea78a27709f3 url=https://prehraj.to/vyprosteni-extraction-2020-cz-dabing-1080p-web-x264/5ea78a27709f3
+[14:23:36]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/16374370/BKqfO9iaMt8Bt9ETZYTrVigLcoLtlLC3BcQY…)
+[14:25:31]   downloaded 2,967.1 MB in 113.8s (26.1 MB/s)
+[14:28:03]   upload done video_id=24794559 in 152.0s
