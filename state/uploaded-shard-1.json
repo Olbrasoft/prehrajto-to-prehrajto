@@ -11878,6 +11878,25 @@
         "download_sec": 69.3,
         "upload_sec": 98.6
       }
+    },
+    {
+      "cr_film_id": 2525,
+      "cr_slug": "solo-star-wars-story",
+      "title": "Solo: Star Wars Story",
+      "year": 2018,
+      "display_name": "Solo: Star Wars Story (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6810318d89257",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24789132,
+      "size_bytes": 2079272087,
+      "uploaded_at": "2026-05-13T09:40:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 56.5,
+        "upload_sec": 76.4
+      }
     }
   ],
   "failed_attempts": [
@@ -12011,5 +12030,5 @@
       "failed_at": "2026-05-13T09:20:34Z"
     }
   ],
-  "last_updated": "2026-05-13T09:38:21Z"
+  "last_updated": "2026-05-13T09:40:37Z"
 }
