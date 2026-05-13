@@ -2947,3 +2947,14 @@
 [15:54:04]   upload done video_id=24795569 in 110.5s
 [15:54:06] film cr_film_id=3096 OK in 218.5s
 [15:54:06] batch-end ok=20 failed=0 dur=2510.4s avg/film=125.5s remaining=16838 eta_hours=587.0
+
+===== run 2026-05-13T16:09:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25811294647) =====
+[16:09:57] batch-start shard=0/2 count=20 backlog=17650 uploads=812 failed_attempts=516
+[16:09:57] login
+[16:10:01] login done
+[16:10:01] iteration 1/20
+[16:10:01] film cr_film_id=3098 name='Vzmuž se (2015) CZ Dabing' candidates=5
+[16:10:01]   candidate upload_id=5677b0043cb55 url=https://prehraj.to/man-up-2015-cz-dab-romant-komedie/5677b0043cb55
+[16:10:03]   resolved in 2.2s → 480p (https://pf-storage2.premiumcdn.net/341829/562sDqHzAImkT3dUl6i3JHd7SkdIQWF1VFqlC6…)
+[16:10:35]   downloaded 492.7 MB in 29.2s (16.9 MB/s)
+[16:11:16]   upload done video_id=24795843 in 41.0s
