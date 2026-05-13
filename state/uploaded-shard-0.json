@@ -16949,6 +16949,25 @@
         "download_sec": 89.9,
         "upload_sec": 104.6
       }
+    },
+    {
+      "cr_film_id": 3404,
+      "cr_slug": "krasny-unik",
+      "title": "Krásný únik",
+      "year": 2017,
+      "display_name": "Krásný únik (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67f81615c323c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24799774,
+      "size_bytes": 700564595,
+      "uploaded_at": "2026-05-13T21:50:08Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 27.9,
+        "upload_sec": 45.9
+      }
     }
   ],
   "failed_attempts": [
@@ -20615,5 +20634,5 @@
       "failed_at": "2026-05-13T20:04:57Z"
     }
   ],
-  "last_updated": "2026-05-13T21:48:49Z"
+  "last_updated": "2026-05-13T21:50:08Z"
 }
