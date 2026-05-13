@@ -10168,6 +10168,25 @@
         "download_sec": 43.4,
         "upload_sec": 55.1
       }
+    },
+    {
+      "cr_film_id": 2199,
+      "cr_slug": "velky-utekar",
+      "title": "Velký útěkář",
+      "year": 2023,
+      "display_name": "Velký útěkář (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a5c8335e8374c0d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24783615,
+      "size_bytes": 1946592905,
+      "uploaded_at": "2026-05-13T05:40:07Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 72.6,
+        "upload_sec": 84.2
+      }
     }
   ],
   "failed_attempts": [
@@ -10275,5 +10294,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T05:37:26Z"
+  "last_updated": "2026-05-13T05:40:07Z"
 }
