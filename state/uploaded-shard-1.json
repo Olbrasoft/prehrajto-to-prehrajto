@@ -8192,6 +8192,25 @@
         "download_sec": 26.5,
         "upload_sec": 31.2
       }
+    },
+    {
+      "cr_film_id": 1785,
+      "cr_slug": "cista-prace",
+      "title": "Čistá práce",
+      "year": 2008,
+      "display_name": "Čistá práce (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "637e06f736089",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24779213,
+      "size_bytes": 1986857661,
+      "uploaded_at": "2026-05-13T00:47:27Z",
+      "timing": {
+        "resolve_sec": 2.6,
+        "download_sec": 94.5,
+        "upload_sec": 122.4
+      }
     }
   ],
   "failed_attempts": [
@@ -8266,5 +8285,5 @@
       "failed_at": "2026-05-13T00:02:44Z"
     }
   ],
-  "last_updated": "2026-05-13T00:43:44Z"
+  "last_updated": "2026-05-13T00:47:27Z"
 }
