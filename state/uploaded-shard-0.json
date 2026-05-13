@@ -15353,6 +15353,25 @@
         "download_sec": 30.8,
         "upload_sec": 34.8
       }
+    },
+    {
+      "cr_film_id": 3090,
+      "cr_slug": "nezastavitelny-cz",
+      "title": "Nezastavitelný",
+      "year": 2010,
+      "display_name": "Nezastavitelný (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c25b961cd539",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24795475,
+      "size_bytes": 701161869,
+      "uploaded_at": "2026-05-13T15:45:38Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.3,
+        "upload_sec": 45.6
+      }
     }
   ],
   "failed_attempts": [
@@ -18984,5 +19003,5 @@
       "failed_at": "2026-05-13T15:28:40Z"
     }
   ],
-  "last_updated": "2026-05-13T15:44:13Z"
+  "last_updated": "2026-05-13T15:45:38Z"
 }
