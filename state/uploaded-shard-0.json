@@ -8969,6 +8969,25 @@
         "download_sec": 78.8,
         "upload_sec": 96.3
       }
+    },
+    {
+      "cr_film_id": 1794,
+      "cr_slug": "ant-man",
+      "title": "Ant-Man",
+      "year": 2015,
+      "display_name": "Ant-Man (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68ddd2a6a4af9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24779363,
+      "size_bytes": 2429710234,
+      "uploaded_at": "2026-05-13T00:56:32Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 113.7,
+        "upload_sec": 155.1
+      }
     }
   ],
   "failed_attempts": [
@@ -12443,5 +12462,5 @@
       "failed_at": "2026-05-13T00:41:40Z"
     }
   ],
-  "last_updated": "2026-05-13T00:51:58Z"
+  "last_updated": "2026-05-13T00:56:32Z"
 }
