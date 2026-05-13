@@ -1468,3 +1468,14 @@
 [07:54:59]   upload done video_id=24785422 in 28.6s
 [07:55:01] film cr_film_id=2350 OK in 58.4s
 [07:55:01] batch-end ok=19 failed=1 dur=2898.4s avg/film=152.5s remaining=17036 eta_hours=721.7
+
+===== run 2026-05-13T07:55:13Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25783970518) =====
+[07:55:15] batch-start shard=0/2 count=20 backlog=17650 uploads=614 failed_attempts=504
+[07:55:15] login
+[07:55:16] login done
+[07:55:16] iteration 1/20
+[07:55:16] film cr_film_id=2356 name='Mžitky (2016) CZ Dabing' candidates=1
+[07:55:16]   candidate upload_id=63ed03d224806 url=https://prehraj.to/mzitky-powidoki-2016-1080p-bluray-cz-dabing-mp4/63ed03d224806
+[07:55:17]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/37429702/o5rH8kcPJF3YcDJuEqT7qcr8U3lH48iXaCZ7…)
+[07:56:18]   downloaded 1,388.1 MB in 59.2s (23.4 MB/s)
+[07:57:21]   upload done video_id=24785439 in 62.9s
