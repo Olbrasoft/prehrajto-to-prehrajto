@@ -1320,3 +1320,14 @@
 [06:30:40]   upload done video_id=24784246 in 59.6s
 [06:30:41] film cr_film_id=2281 OK in 112.4s
 [06:30:41] batch-end ok=20 failed=0 dur=2717.2s avg/film=135.9s remaining=17093 eta_hours=645.3
+
+===== run 2026-05-13T06:57:53Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25783592552) =====
+[06:57:54] batch-start shard=1/2 count=20 backlog=17650 uploads=557 failed_attempts=14
+[06:57:54] login
+[06:57:56] login done
+[06:57:56] iteration 1/20
+[06:57:56] film cr_film_id=2285 name='Ip Man 4: The Finale (2019) CZ Dabing' candidates=9
+[06:57:56]   candidate upload_id=5f1d4207bff72 url=https://prehraj.to/ye-wen-4-wan-jie-pian-ip-man-4-the-finale-2019-cz-dabing-webrip-1080p/5f1d4207bff72
+[06:57:57]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/17519838/zEGHYgIRluXxFoafnmSXgIolhV0H72SK8u48…)
+[06:59:44]   downloaded 2,161.1 MB in 105.0s (20.6 MB/s)
+[07:01:57]   upload done video_id=24784616 in 132.5s
