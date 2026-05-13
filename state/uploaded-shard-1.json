@@ -15678,6 +15678,25 @@
         "download_sec": 403.2,
         "upload_sec": 28.6
       }
+    },
+    {
+      "cr_film_id": 3355,
+      "cr_slug": "kral-petr-i",
+      "title": "Král Petr I.",
+      "year": 2018,
+      "display_name": "Král Petr I. (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6475930a49fd8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24798665,
+      "size_bytes": 1079391147,
+      "uploaded_at": "2026-05-13T20:06:10Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 30.5,
+        "upload_sec": 42.8
+      }
     }
   ],
   "failed_attempts": [
@@ -15851,5 +15870,5 @@
       "failed_at": "2026-05-13T18:13:36Z"
     }
   ],
-  "last_updated": "2026-05-13T20:04:54Z"
+  "last_updated": "2026-05-13T20:06:10Z"
 }
