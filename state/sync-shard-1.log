@@ -1174,3 +1174,14 @@
 [05:43:32]   upload done video_id=24783656 in 107.5s
 [05:43:33] film cr_film_id=2201 OK in 205.4s
 [05:43:33] batch-end ok=20 failed=0 dur=2345.9s avg/film=117.3s remaining=17113 eta_hours=557.6
+
+===== run 2026-05-13T05:45:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25780855064) =====
+[05:45:23] batch-start shard=1/2 count=20 backlog=17650 uploads=537 failed_attempts=14
+[05:45:23] login
+[05:45:24] login done
+[05:45:24] iteration 1/20
+[05:45:24] film cr_film_id=2205 name='Celý život (2023) CZ Dabing' candidates=2
+[05:45:24]   candidate upload_id=67e531fa4e4d4 url=https://prehraj.to/ein-ganzes-leben-2023-cz-dabing-mp4/67e531fa4e4d4
+[05:45:25]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/133428773/ZantgLsYehdaSO7IjyHqjsXGHJmHb1f50FY…)
+[05:46:07]   downloaded 1,310.8 MB in 40.4s (32.4 MB/s)
+[05:47:02]   upload done video_id=24783709 in 55.3s
