@@ -12104,6 +12104,25 @@
         "download_sec": 18.1,
         "upload_sec": 25.0
       }
+    },
+    {
+      "cr_film_id": 2426,
+      "cr_slug": "kamos-k-pohledani",
+      "title": "Kámoš k pohledání",
+      "year": 2009,
+      "display_name": "Kámoš k pohledání (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c661711ae66",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24786142,
+      "size_bytes": 562912901,
+      "uploaded_at": "2026-05-13T08:48:56Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.8,
+        "upload_sec": 21.8
+      }
     }
   ],
   "failed_attempts": [
@@ -15651,5 +15670,5 @@
       "failed_at": "2026-05-13T07:09:13Z"
     }
   ],
-  "last_updated": "2026-05-13T08:48:12Z"
+  "last_updated": "2026-05-13T08:48:56Z"
 }
