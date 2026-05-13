@@ -17538,6 +17538,25 @@
         "download_sec": 190.4,
         "upload_sec": 255.6
       }
+    },
+    {
+      "cr_film_id": 3544,
+      "cr_slug": "wanted",
+      "title": "Wanted",
+      "year": 2008,
+      "display_name": "Wanted (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5aa45fd3623ac",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24800512,
+      "size_bytes": 581788396,
+      "uploaded_at": "2026-05-13T23:29:36Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 27.6,
+        "upload_sec": 37.9
+      }
     }
   ],
   "failed_attempts": [
@@ -21211,5 +21230,5 @@
       "failed_at": "2026-05-13T23:01:11Z"
     }
   ],
-  "last_updated": "2026-05-13T23:28:26Z"
+  "last_updated": "2026-05-13T23:29:36Z"
 }
