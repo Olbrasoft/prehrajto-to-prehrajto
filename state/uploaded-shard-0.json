@@ -11040,6 +11040,25 @@
         "download_sec": 63.2,
         "upload_sec": 79.7
       }
+    },
+    {
+      "cr_film_id": 2202,
+      "cr_slug": "western",
+      "title": "Western",
+      "year": 2017,
+      "display_name": "Western (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "458612e30edce4c0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24783889,
+      "size_bytes": 1063244303,
+      "uploaded_at": "2026-05-13T06:01:30Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 116.9,
+        "upload_sec": 54.5
+      }
     }
   ],
   "failed_attempts": [
@@ -14554,5 +14573,5 @@
       "failed_at": "2026-05-13T05:47:59Z"
     }
   ],
-  "last_updated": "2026-05-13T05:58:35Z"
+  "last_updated": "2026-05-13T06:01:30Z"
 }
