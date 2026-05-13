@@ -8971,6 +8971,25 @@
         "download_sec": 60.2,
         "upload_sec": 81.0
       }
+    },
+    {
+      "cr_film_id": 1957,
+      "cr_slug": "blok-99",
+      "title": "Blok 99",
+      "year": 2017,
+      "display_name": "Blok 99 (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "606d7ab2af065",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24780974,
+      "size_bytes": 1274296939,
+      "uploaded_at": "2026-05-13T02:30:31Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 41.3,
+        "upload_sec": 60.9
+      }
     }
   ],
   "failed_attempts": [
@@ -9078,5 +9097,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T02:28:45Z"
+  "last_updated": "2026-05-13T02:30:31Z"
 }
