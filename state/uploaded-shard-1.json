@@ -12923,6 +12923,25 @@
         "download_sec": 38.1,
         "upload_sec": 49.9
       }
+    },
+    {
+      "cr_film_id": 2753,
+      "cr_slug": "non-stop",
+      "title": "NON-STOP",
+      "year": 2014,
+      "display_name": "NON-STOP (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ce1bcc9aa2c2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24790926,
+      "size_bytes": 532555767,
+      "uploaded_at": "2026-05-13T11:50:59Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 30.0,
+        "upload_sec": 31.2
+      }
     }
   ],
   "failed_attempts": [
@@ -13070,5 +13089,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T11:49:52Z"
+  "last_updated": "2026-05-13T11:50:59Z"
 }
