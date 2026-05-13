@@ -17633,6 +17633,25 @@
         "download_sec": 162.6,
         "upload_sec": 216.3
       }
+    },
+    {
+      "cr_film_id": 3556,
+      "cr_slug": "matrix-revolutions",
+      "title": "Matrix Revolutions",
+      "year": 2003,
+      "display_name": "Matrix Revolutions (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e430fd0a108",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24800666,
+      "size_bytes": 4836448907,
+      "uploaded_at": "2026-05-13T23:51:59Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 216.5,
+        "upload_sec": 292.4
+      }
     }
   ],
   "failed_attempts": [
@@ -21304,7 +21323,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zustan-se-mnou-2014-cz-dabing-hd-1080p/68f32cac33bfe",
       "permanent": true,
       "failed_at": "2026-05-13T23:01:11Z"
+    },
+    {
+      "cr_film_id": 3556,
+      "upload_id": "8aea6229d10a47e2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/matrix-revolutions-2003-cz-dab-1080p/8aea6229d10a47e2",
+      "permanent": true,
+      "failed_at": "2026-05-13T23:43:22Z"
     }
   ],
-  "last_updated": "2026-05-13T23:43:20Z"
+  "last_updated": "2026-05-13T23:51:59Z"
 }
