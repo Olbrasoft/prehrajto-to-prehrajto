@@ -2358,3 +2358,14 @@
 [12:16:31]   upload done video_id=24793025 in 114.8s
 [12:16:32] film cr_film_id=2778 OK in 203.6s
 [12:16:32] batch-end ok=19 failed=1 dur=2560.3s avg/film=134.8s remaining=16917 eta_hours=633.4
+
+===== run 2026-05-13T12:38:33Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25799573116) =====
+[12:38:34] batch-start shard=0/2 count=20 backlog=17650 uploads=733 failed_attempts=512
+[12:38:34] login
+[12:38:35] login done
+[12:38:35] iteration 1/20
+[12:38:35] film cr_film_id=2780 name='Rachot v Bronxu (1995) CZ Dabing' candidates=3
+[12:38:35]   candidate upload_id=67775e4c38a3c url=https://prehraj.to/rachot-v-bronxu-1995-cz-dabing-1080p/67775e4c38a3c
+[12:38:37]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/126962135/gNzt7GiP6hDKI2RFyAslziLDsRlsbQH67HY…)
+[12:40:10]   downloaded 2,271.6 MB in 91.5s (24.8 MB/s)
+[12:42:45]   upload done video_id=24793313 in 154.7s
