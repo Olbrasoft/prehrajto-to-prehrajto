@@ -16398,6 +16398,25 @@
         "download_sec": 174.4,
         "upload_sec": 79.9
       }
+    },
+    {
+      "cr_film_id": 3300,
+      "cr_slug": "posledni-poprava",
+      "title": "Poslední poprava",
+      "year": 2021,
+      "display_name": "Poslední poprava (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "631a9a88cd1c5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24798944,
+      "size_bytes": 1695404265,
+      "uploaded_at": "2026-05-13T20:27:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 413.1,
+        "upload_sec": 66.8
+      }
     }
   ],
   "failed_attempts": [
@@ -20064,5 +20083,5 @@
       "failed_at": "2026-05-13T20:04:57Z"
     }
   ],
-  "last_updated": "2026-05-13T20:18:58Z"
+  "last_updated": "2026-05-13T20:27:02Z"
 }
