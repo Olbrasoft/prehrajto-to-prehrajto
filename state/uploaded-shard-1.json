@@ -16134,6 +16134,25 @@
         "download_sec": 55.7,
         "upload_sec": 68.4
       }
+    },
+    {
+      "cr_film_id": 3449,
+      "cr_slug": "anna-a-kral",
+      "title": "Anna a král",
+      "year": 1999,
+      "display_name": "Anna a král (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63af877e0ed9f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24799443,
+      "size_bytes": 3797675423,
+      "uploaded_at": "2026-05-13T21:15:43Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 161.4,
+        "upload_sec": 222.6
+      }
     }
   ],
   "failed_attempts": [
@@ -16335,5 +16354,5 @@
       "failed_at": "2026-05-13T20:44:51Z"
     }
   ],
-  "last_updated": "2026-05-13T21:09:15Z"
+  "last_updated": "2026-05-13T21:15:43Z"
 }
