@@ -15716,6 +15716,25 @@
         "download_sec": 41.4,
         "upload_sec": 84.2
       }
+    },
+    {
+      "cr_film_id": 3367,
+      "cr_slug": "emma",
+      "title": "Emma.",
+      "year": 2020,
+      "display_name": "Emma. (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5409cf6fd51811c3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24798712,
+      "size_bytes": 1298223615,
+      "uploaded_at": "2026-05-13T20:09:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 39.1,
+        "upload_sec": 56.7
+      }
     }
   ],
   "failed_attempts": [
@@ -15889,5 +15908,5 @@
       "failed_at": "2026-05-13T18:13:36Z"
     }
   ],
-  "last_updated": "2026-05-13T20:08:20Z"
+  "last_updated": "2026-05-13T20:09:59Z"
 }
