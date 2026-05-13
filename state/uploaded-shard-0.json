@@ -15809,6 +15809,25 @@
         "download_sec": 33.1,
         "upload_sec": 50.8
       }
+    },
+    {
+      "cr_film_id": 3164,
+      "cr_slug": "klamac-srdci",
+      "title": "Heartbreaker",
+      "year": 2010,
+      "display_name": "Heartbreaker (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68ff77dc9e4ac",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24796400,
+      "size_bytes": 1728603087,
+      "uploaded_at": "2026-05-13T17:07:53Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 47.9,
+        "upload_sec": 66.6
+      }
     }
   ],
   "failed_attempts": [
@@ -19461,5 +19480,5 @@
       "failed_at": "2026-05-13T16:17:12Z"
     }
   ],
-  "last_updated": "2026-05-13T17:05:53Z"
+  "last_updated": "2026-05-13T17:07:53Z"
 }
