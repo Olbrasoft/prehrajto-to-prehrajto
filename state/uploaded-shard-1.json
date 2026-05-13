@@ -8933,6 +8933,25 @@
         "download_sec": 130.1,
         "upload_sec": 169.8
       }
+    },
+    {
+      "cr_film_id": 1945,
+      "cr_slug": "bohatyr-aljosa",
+      "title": "Bohatýr Aljoša",
+      "year": 2004,
+      "display_name": "Bohatýr Aljoša (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5678774c7f885",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24780921,
+      "size_bytes": 368646046,
+      "uploaded_at": "2026-05-13T02:26:20Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.4,
+        "upload_sec": 16.2
+      }
     }
   ],
   "failed_attempts": [
@@ -9040,5 +9059,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T02:25:45Z"
+  "last_updated": "2026-05-13T02:26:20Z"
 }
