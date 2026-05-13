@@ -3809,3 +3809,14 @@
 [23:27:01]   upload done video_id=24800487 in 75.0s
 [23:27:03] film cr_film_id=3599 OK in 148.7s
 [23:27:03] batch-end ok=20 failed=0 dur=2529.8s avg/film=126.5s remaining=16760 eta_hours=588.9
+
+===== run 2026-05-13T23:52:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25833188823) =====
+[23:53:00] batch-start shard=1/2 count=20 backlog=17650 uploads=890 failed_attempts=29
+[23:53:00] login
+[23:53:01] login done
+[23:53:01] iteration 1/20
+[23:53:01] film cr_film_id=3601 name='Jackass: Film (2002) CZ Dabing' candidates=9
+[23:53:01]   candidate upload_id=58210798852f3 url=https://prehraj.to/jackass-film-jackass-the-movie-cz-dabing-2002/58210798852f3
+[23:53:02]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/812291/8W0ix1CQVc91Fa9HMJt9vCdKtkEHgasMxTaksL…)
+[23:53:13]   downloaded 262.6 MB in 9.4s (27.9 MB/s)
+[23:53:27]   upload done video_id=24800716 in 13.6s
