@@ -3663,3 +3663,14 @@
 [22:25:55]   upload done video_id=24800035 in 21.2s
 [22:25:56] film cr_film_id=3537 OK in 39.1s
 [22:25:56] batch-end ok=19 failed=1 dur=2504.2s avg/film=131.8s remaining=16780 eta_hours=614.3
+
+===== run 2026-05-13T22:44:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25830738410) =====
+[22:44:51] batch-start shard=1/2 count=20 backlog=17650 uploads=870 failed_attempts=29
+[22:44:51] login
+[22:44:53] login done
+[22:44:53] iteration 1/20
+[22:44:53] film cr_film_id=3541 name='Šňup (2002) CZ Dabing' candidates=15
+[22:44:53]   candidate upload_id=55ea913d56ed2 url=https://prehraj.to/snup-2002-czdab/55ea913d56ed2
+[22:44:54]   resolved in 1.4s → 480p (https://pf-storage3.premiumcdn.net/280786/zo4SAxiQvUrjsElun9F72ieJcDrfXyt3oTNGh9…)
+[22:45:25]   downloaded 644.0 MB in 28.3s (22.8 MB/s)
+[22:46:03]   upload done video_id=24800187 in 38.1s
