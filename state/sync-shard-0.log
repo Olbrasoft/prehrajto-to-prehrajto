@@ -2504,3 +2504,14 @@
 [13:48:09]   upload done video_id=24794096 in 29.4s
 [13:48:11] film cr_film_id=2836 OK in 57.7s
 [13:48:11] batch-end ok=20 failed=0 dur=4175.8s avg/film=208.8s remaining=16897 eta_hours=980.0
+
+===== run 2026-05-13T13:48:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25799601096) =====
+[13:48:24] batch-start shard=0/2 count=20 backlog=17650 uploads=753 failed_attempts=512
+[13:48:24] login
+[13:48:25] login done
+[13:48:25] iteration 1/20
+[13:48:25] film cr_film_id=2842 name='Equalizer 3: Poslední kapitola (2023) CZ Dabing' candidates=10
+[13:48:25]   candidate upload_id=68e0ac6835a89 url=https://prehraj.to/equalizer-3-posledni-kapitola-2022-thriller-akcni-krimi-czdab/68e0ac6835a89
+[13:48:26]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/149736363/N1PhrJijZUzgSlGh1xTaLiy6cgOfPoIlrhy…)
+[13:49:26]   downloaded 2,053.7 MB in 58.1s (35.3 MB/s)
+[13:50:45]   upload done video_id=24794120 in 79.0s
