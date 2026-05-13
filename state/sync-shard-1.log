@@ -2927,3 +2927,14 @@
 [16:09:19]   upload done video_id=24795807 in 144.6s
 [16:09:21] film cr_film_id=3149 OK in 256.5s
 [16:09:21] batch-end ok=20 failed=0 dur=3425.1s avg/film=171.3s remaining=16876 eta_hours=803.0
+
+===== run 2026-05-13T16:09:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25811294647) =====
+[16:09:46] batch-start shard=1/2 count=20 backlog=17650 uploads=774 failed_attempts=19
+[16:09:46] login
+[16:09:49] login done
+[16:09:49] iteration 1/20
+[16:09:49] film cr_film_id=3153 name='Božský Bruce (2003) CZ Dabing' candidates=12
+[16:09:49]   candidate upload_id=5b64d2a50ae50 url=https://prehraj.to/bozsky-bruce-2003-cz-dabing/5b64d2a50ae50
+[16:09:51]   resolved in 1.7s → 480p (https://pf-storage1.premiumcdn.net/5173886/QQ4HMAfxjIJQUY1fd5CRLf1bIXlH08FVvsYRI…)
+[16:10:23]   downloaded 621.9 MB in 29.6s (21.0 MB/s)
+[16:10:59]   upload done video_id=24795840 in 36.0s
