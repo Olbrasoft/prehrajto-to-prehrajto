@@ -10225,6 +10225,25 @@
         "download_sec": 40.4,
         "upload_sec": 55.3
       }
+    },
+    {
+      "cr_film_id": 2207,
+      "cr_slug": "muz-ktery-stal-v-ceste",
+      "title": "Muž, který stál v cestě",
+      "year": 2023,
+      "display_name": "Muž, který stál v cestě (2023) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6619fd76556fb",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24783737,
+      "size_bytes": 2479231775,
+      "uploaded_at": "2026-05-13T05:49:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 67.0,
+        "upload_sec": 97.7
+      }
     }
   ],
   "failed_attempts": [
@@ -10332,5 +10351,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T05:47:02Z"
+  "last_updated": "2026-05-13T05:49:50Z"
 }
