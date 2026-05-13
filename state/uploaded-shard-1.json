@@ -9047,6 +9047,25 @@
         "download_sec": 17.5,
         "upload_sec": 17.9
       }
+    },
+    {
+      "cr_film_id": 1971,
+      "cr_slug": "kon-tiki",
+      "title": "Kon-Tiki",
+      "year": 2012,
+      "display_name": "Kon-Tiki (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55d2c84385d26",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24781038,
+      "size_bytes": 724660822,
+      "uploaded_at": "2026-05-13T02:35:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 33.6,
+        "upload_sec": 33.8
+      }
     }
   ],
   "failed_attempts": [
@@ -9154,5 +9173,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T02:33:49Z"
+  "last_updated": "2026-05-13T02:35:00Z"
 }
