@@ -13740,6 +13740,25 @@
         "download_sec": 85.3,
         "upload_sec": 107.9
       }
+    },
+    {
+      "cr_film_id": 2907,
+      "cr_slug": "jack-stavi-dum",
+      "title": "Jack staví dům",
+      "year": 2018,
+      "display_name": "Jack staví dům (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6188ea8c6b369",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24794113,
+      "size_bytes": 3530656241,
+      "uploaded_at": "2026-05-13T13:51:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 123.5,
+        "upload_sec": 179.7
+      }
     }
   ],
   "failed_attempts": [
@@ -13887,5 +13906,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T13:46:49Z"
+  "last_updated": "2026-05-13T13:51:56Z"
 }
