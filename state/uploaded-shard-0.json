@@ -9387,6 +9387,25 @@
         "download_sec": 186.0,
         "upload_sec": 59.7
       }
+    },
+    {
+      "cr_film_id": 1880,
+      "cr_slug": "dobry-clovek",
+      "title": "Dobrý člověk",
+      "year": 2023,
+      "display_name": "Dobrý člověk (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6748c5976723b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24781194,
+      "size_bytes": 2055601379,
+      "uploaded_at": "2026-05-13T02:47:35Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 98.0,
+        "upload_sec": 125.0
+      }
     }
   ],
   "failed_attempts": [
@@ -12882,5 +12901,5 @@
       "failed_at": "2026-05-13T02:31:24Z"
     }
   ],
-  "last_updated": "2026-05-13T02:43:47Z"
+  "last_updated": "2026-05-13T02:47:35Z"
 }
