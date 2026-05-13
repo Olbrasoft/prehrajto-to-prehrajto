@@ -2965,3 +2965,19 @@
 [16:11:20]   resolved in 2.2s → 1080p (https://pf-storage5.premiumcdn.net/137097593/RZ1cWPT9jFEOIwBH9EHeDTyouoLcPdIVyUW…)
 [16:13:59]   downloaded 2,947.4 MB in 157.3s (18.7 MB/s)
 [16:16:58]   upload done video_id=24795879 in 178.6s
+[16:17:00] film cr_film_id=3100 OK in 342.4s
+[16:17:00] iteration 3/20
+[16:17:00] film cr_film_id=3102 name='Kniha přežití (2010) CZ Dabing' candidates=3
+[16:17:00]   candidate upload_id=52922fc1c38fa7dc url=https://prehraj.to/kniha-preziti-2010-cz-dab-1080p/52922fc1c38fa7dc
+[16:17:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kniha-preziti-2010-cz-dab-1080p/52922fc1c38fa7dc (permanent=True)
+[16:17:01]   candidate upload_id=32054160f891956d url=https://prehraj.to/kniha-preziti-2010-cz-en/32054160f891956d
+[16:17:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kniha-preziti-2010-cz-en/32054160f891956d (permanent=True)
+[16:17:06]   candidate upload_id=bde2b7a0f44624e7 url=https://prehraj.to/kniha-preziti-2010-up-uhd-r-cz-en-mkv/bde2b7a0f44624e7
+[16:17:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kniha-preziti-2010-up-uhd-r-cz-en-mkv/bde2b7a0f44624e7 (permanent=True)
+[16:17:12] film cr_film_id=3102 all candidates exhausted
+[16:17:12] iteration 4/20
+[16:17:12] film cr_film_id=3104 name='Romper Stomper (1992) CZ Dabing' candidates=2
+[16:17:12]   candidate upload_id=55e5161571b86 url=https://prehraj.to/romper-stomper-1992-czdab/55e5161571b86
+[16:17:18]   resolved in 6.2s → 480p (https://pf-storage2.premiumcdn.net/265216/ngysw6hmvIVGiyKCnaFy5hLOSpKU8ZiLrTkKH8…)
+[16:17:55]   downloaded 628.9 MB in 34.6s (18.2 MB/s)
+[16:18:36]   upload done video_id=24795918 in 40.7s
