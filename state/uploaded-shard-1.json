@@ -12429,6 +12429,25 @@
         "download_sec": 17.3,
         "upload_sec": 19.9
       }
+    },
+    {
+      "cr_film_id": 2633,
+      "cr_slug": "rio",
+      "title": "Rio",
+      "year": 2011,
+      "display_name": "Rio (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "631e0a095c7cc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24789895,
+      "size_bytes": 1872620054,
+      "uploaded_at": "2026-05-13T10:46:48Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 74.4,
+        "upload_sec": 99.1
+      }
     }
   ],
   "failed_attempts": [
@@ -12576,5 +12595,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T10:34:04Z"
+  "last_updated": "2026-05-13T10:46:48Z"
 }

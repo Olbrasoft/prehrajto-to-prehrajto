@@ -2051,3 +2051,14 @@
 [10:34:04]   upload done video_id=24789765 in 19.9s
 [10:34:05] film cr_film_id=2631 OK in 40.1s
 [10:34:05] batch-end ok=18 failed=2 dur=1785.5s avg/film=99.2s remaining=16996 eta_hours=468.3
+
+===== run 2026-05-13T10:43:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25794137450) =====
+[10:43:49] batch-start shard=1/2 count=20 backlog=17650 uploads=654 failed_attempts=19
+[10:43:49] login
+[10:43:51] login done
+[10:43:51] iteration 1/20
+[10:43:51] film cr_film_id=2633 name='Rio (2011) CZ Dabing' candidates=29
+[10:43:51]   candidate upload_id=631e0a095c7cc url=https://prehraj.to/rio-cz-2011-brrip-fullhd-1080p-cz-dabing/631e0a095c7cc
+[10:43:52]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/32883205/qzVikMIGLFNbTlwtO1TlyIWdS4bfq7tv7SnE…)
+[10:45:08]   downloaded 1,872.6 MB in 74.4s (25.2 MB/s)
+[10:46:48]   upload done video_id=24789895 in 99.1s
