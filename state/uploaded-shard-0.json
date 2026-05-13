@@ -16151,6 +16151,25 @@
         "download_sec": 24.1,
         "upload_sec": 30.3
       }
+    },
+    {
+      "cr_film_id": 3236,
+      "cr_slug": "stvoritel",
+      "title": "Stvořitel",
+      "year": 2023,
+      "display_name": "Stvořitel (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "3c7a04516fcf34d5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24798181,
+      "size_bytes": 2710707658,
+      "uploaded_at": "2026-05-13T19:23:43Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 2094.0,
+        "upload_sec": 100.1
+      }
     }
   ],
   "failed_attempts": [
@@ -19810,5 +19829,5 @@
       "failed_at": "2026-05-13T17:08:56Z"
     }
   ],
-  "last_updated": "2026-05-13T18:47:05Z"
+  "last_updated": "2026-05-13T19:23:43Z"
 }
