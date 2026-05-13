@@ -10166,6 +10166,25 @@
         "download_sec": 66.1,
         "upload_sec": 106.3
       }
+    },
+    {
+      "cr_film_id": 2054,
+      "cr_slug": "fontana",
+      "title": "Fontána",
+      "year": 2006,
+      "display_name": "Fontána (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "93113b4d06d87e7a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24782465,
+      "size_bytes": 971232273,
+      "uploaded_at": "2026-05-13T04:18:41Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 33.3,
+        "upload_sec": 43.9
+      }
     }
   ],
   "failed_attempts": [
@@ -13661,5 +13680,5 @@
       "failed_at": "2026-05-13T02:31:24Z"
     }
   ],
-  "last_updated": "2026-05-13T04:17:20Z"
+  "last_updated": "2026-05-13T04:18:41Z"
 }
