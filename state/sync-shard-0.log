@@ -531,3 +531,19 @@
 [02:24:55]   resolved in 1.6s → 1080p (https://pf-storage1.premiumcdn.net/140355263/RX2u8ecYKHaXheruQBUBRcgeIWrSn9i2qur…)
 [02:27:38]   downloaded 3,529.1 MB in 160.7s (22.0 MB/s)
 [02:31:10]   upload done video_id=24780949 in 211.9s
+[02:31:11] film cr_film_id=1850 OK in 378.1s
+[02:31:11] iteration 14/20
+[02:31:11] film cr_film_id=1858 name='Vrať mi ji (2025) CZ Dabing' candidates=3
+[02:31:11]   candidate upload_id=8010dc7f6c63b4df url=https://prehraj.to/vrat-mi-ji-horor-2025-cz-dabing-by-pefto/8010dc7f6c63b4df
+[02:31:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vrat-mi-ji-horor-2025-cz-dabing-by-pefto/8010dc7f6c63b4df (permanent=True)
+[02:31:12]   candidate upload_id=97bc692d4f724f6f url=https://prehraj.to/vrat-mi-ji-2025-cz-dabing/97bc692d4f724f6f
+[02:31:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vrat-mi-ji-2025-cz-dabing/97bc692d4f724f6f (permanent=True)
+[02:31:18]   candidate upload_id=f7b33db5a08d70de url=https://prehraj.to/vrat-mi-ji-horor-2025/f7b33db5a08d70de
+[02:31:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vrat-mi-ji-horor-2025/f7b33db5a08d70de (permanent=True)
+[02:31:24] film cr_film_id=1858 all candidates exhausted
+[02:31:24] iteration 15/20
+[02:31:24] film cr_film_id=1864 name='Nosferatu (2024) CZ Dabing' candidates=1
+[02:31:24]   candidate upload_id=30f16cd0d1e6c840 url=https://prehraj.to/nosferatu-2024-horor-fantasy-czdab/30f16cd0d1e6c840
+[02:31:31]   resolved in 6.7s → 720p (https://pf-storage6.premiumcdn.net/169121254/NZNSN5uqrFNPi73IAqiqNun8F5oU5mCmxfp…)
+[02:32:30]   downloaded 1,236.9 MB in 57.3s (21.6 MB/s)
+[02:33:44]   upload done video_id=24781012 in 74.0s

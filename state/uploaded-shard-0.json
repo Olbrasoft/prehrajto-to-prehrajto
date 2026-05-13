@@ -9311,6 +9311,25 @@
         "download_sec": 160.7,
         "upload_sec": 211.9
       }
+    },
+    {
+      "cr_film_id": 1864,
+      "cr_slug": "nosferatu",
+      "title": "Nosferatu",
+      "year": 2024,
+      "display_name": "Nosferatu (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "30f16cd0d1e6c840",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24781012,
+      "size_bytes": 1236919148,
+      "uploaded_at": "2026-05-13T02:33:44Z",
+      "timing": {
+        "resolve_sec": 6.7,
+        "download_sec": 57.3,
+        "upload_sec": 74.0
+      }
     }
   ],
   "failed_attempts": [
@@ -12783,7 +12802,28 @@
       "reason": "oversize: 7358806384 B",
       "permanent": true,
       "failed_at": "2026-05-13T00:41:40Z"
+    },
+    {
+      "cr_film_id": 1858,
+      "upload_id": "8010dc7f6c63b4df",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vrat-mi-ji-horor-2025-cz-dabing-by-pefto/8010dc7f6c63b4df",
+      "permanent": true,
+      "failed_at": "2026-05-13T02:31:12Z"
+    },
+    {
+      "cr_film_id": 1858,
+      "upload_id": "97bc692d4f724f6f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vrat-mi-ji-2025-cz-dabing/97bc692d4f724f6f",
+      "permanent": true,
+      "failed_at": "2026-05-13T02:31:18Z"
+    },
+    {
+      "cr_film_id": 1858,
+      "upload_id": "f7b33db5a08d70de",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vrat-mi-ji-horor-2025/f7b33db5a08d70de",
+      "permanent": true,
+      "failed_at": "2026-05-13T02:31:24Z"
     }
   ],
-  "last_updated": "2026-05-13T02:31:10Z"
+  "last_updated": "2026-05-13T02:33:44Z"
 }
