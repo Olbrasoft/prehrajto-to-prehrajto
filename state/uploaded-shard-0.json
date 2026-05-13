@@ -13149,6 +13149,25 @@
         "download_sec": 79.7,
         "upload_sec": 103.7
       }
+    },
+    {
+      "cr_film_id": 2624,
+      "cr_slug": "vlci-volani",
+      "title": "Vlčí volání",
+      "year": 2019,
+      "display_name": "Vlčí volání (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a9eddde45f80b111",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24789826,
+      "size_bytes": 2109754054,
+      "uploaded_at": "2026-05-13T10:39:53Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 59.1,
+        "upload_sec": 74.0
+      }
     }
   ],
   "failed_attempts": [
@@ -16724,5 +16743,5 @@
       "failed_at": "2026-05-13T10:12:31Z"
     }
   ],
-  "last_updated": "2026-05-13T10:37:36Z"
+  "last_updated": "2026-05-13T10:39:53Z"
 }
