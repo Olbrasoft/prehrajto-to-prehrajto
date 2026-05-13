@@ -10263,6 +10263,25 @@
         "download_sec": 82.2,
         "upload_sec": 95.2
       }
+    },
+    {
+      "cr_film_id": 2213,
+      "cr_slug": "eismayer",
+      "title": "Eismayer",
+      "year": 2022,
+      "display_name": "Eismayer (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66427a95ebec7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24783806,
+      "size_bytes": 1803735396,
+      "uploaded_at": "2026-05-13T05:54:56Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 55.9,
+        "upload_sec": 64.9
+      }
     }
   ],
   "failed_attempts": [
@@ -10370,5 +10389,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T05:52:52Z"
+  "last_updated": "2026-05-13T05:54:56Z"
 }
