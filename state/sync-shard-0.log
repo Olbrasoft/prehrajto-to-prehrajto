@@ -2653,3 +2653,14 @@
 [14:21:41]   upload done video_id=24794491 in 57.5s
 [14:21:43] film cr_film_id=2938 OK in 111.1s
 [14:21:43] batch-end ok=19 failed=1 dur=1997.9s avg/film=105.2s remaining=16878 eta_hours=493.2
+
+===== run 2026-05-13T14:23:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25805290998) =====
+[14:23:40] batch-start shard=0/2 count=20 backlog=17650 uploads=772 failed_attempts=515
+[14:23:40] login
+[14:23:41] login done
+[14:23:41] iteration 1/20
+[14:23:41] film cr_film_id=2944 name='Propast mezi námi (2019) CZ Dabing' candidates=6
+[14:23:41]   candidate upload_id=5f6794f01edc7 url=https://prehraj.to/propast-mezi-nami-2019-czdabing/5f6794f01edc7
+[14:23:44]   resolved in 2.3s → 1080p (https://pf-storage1.premiumcdn.net/18745407/NYlSDmilgcqBfKWiQ3HVwi64Fl6TNvCEji0J…)
+[14:24:46]   downloaded 1,505.7 MB in 60.7s (24.8 MB/s)
+[14:26:08]   upload done video_id=24794549 in 81.5s
