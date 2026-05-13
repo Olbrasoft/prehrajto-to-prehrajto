@@ -15524,6 +15524,25 @@
         "download_sec": 31.5,
         "upload_sec": 27.6
       }
+    },
+    {
+      "cr_film_id": 3114,
+      "cr_slug": "chappie",
+      "title": "Chappie",
+      "year": 2015,
+      "display_name": "Chappie (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6896bbc076622",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24795970,
+      "size_bytes": 3480972595,
+      "uploaded_at": "2026-05-13T16:27:18Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 169.6,
+        "upload_sec": 207.7
+      }
     }
   ],
   "failed_attempts": [
@@ -19176,5 +19195,5 @@
       "failed_at": "2026-05-13T16:17:12Z"
     }
   ],
-  "last_updated": "2026-05-13T16:20:55Z"
+  "last_updated": "2026-05-13T16:27:18Z"
 }
