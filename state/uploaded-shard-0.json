@@ -15752,6 +15752,25 @@
         "download_sec": 82.8,
         "upload_sec": 96.9
       }
+    },
+    {
+      "cr_film_id": 3158,
+      "cr_slug": "sinister",
+      "title": "Sinister",
+      "year": 2012,
+      "display_name": "Sinister (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63a091193f5fd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24796296,
+      "size_bytes": 2082818625,
+      "uploaded_at": "2026-05-13T16:59:39Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 105.6,
+        "upload_sec": 126.0
+      }
     }
   ],
   "failed_attempts": [
@@ -19404,5 +19423,5 @@
       "failed_at": "2026-05-13T16:17:12Z"
     }
   ],
-  "last_updated": "2026-05-13T16:55:42Z"
+  "last_updated": "2026-05-13T16:59:39Z"
 }
