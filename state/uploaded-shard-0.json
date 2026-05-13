@@ -17348,6 +17348,25 @@
         "download_sec": 101.1,
         "upload_sec": 138.2
       }
+    },
+    {
+      "cr_film_id": 3510,
+      "cr_slug": "zmizeni-alice-creedove",
+      "title": "Zmizení Alice Creedové",
+      "year": 2009,
+      "display_name": "Zmizení Alice Creedové (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59cca1086b1d8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24800291,
+      "size_bytes": 542478374,
+      "uploaded_at": "2026-05-13T23:02:24Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 27.0,
+        "upload_sec": 37.0
+      }
     }
   ],
   "failed_attempts": [
@@ -21012,7 +21031,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silena-noc-2022-akcni-thriller-krimi-komedie-horor-1080p-bdrip-cz-dabing-avi/33e2b2323aa916b3",
       "permanent": true,
       "failed_at": "2026-05-13T20:04:57Z"
+    },
+    {
+      "cr_film_id": 3506,
+      "upload_id": "68f32cac33bfe",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zustan-se-mnou-2014-cz-dabing-hd-1080p/68f32cac33bfe",
+      "permanent": true,
+      "failed_at": "2026-05-13T23:01:11Z"
     }
   ],
-  "last_updated": "2026-05-13T23:01:08Z"
+  "last_updated": "2026-05-13T23:02:24Z"
 }

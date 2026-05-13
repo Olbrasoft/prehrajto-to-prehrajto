@@ -3705,3 +3705,15 @@
 [22:57:07]   resolved in 1.5s → 720p (https://pf-storage1.premiumcdn.net/116426165/vPWumPck8F8XfPBfn9Tl7cPaCzGiB8IQ8u3…)
 [22:58:50]   downloaded 2,223.4 MB in 101.1s (22.0 MB/s)
 [23:01:08]   upload done video_id=24800275 in 138.2s
+[23:01:10] film cr_film_id=3504 OK in 244.7s
+[23:01:10] iteration 4/20
+[23:01:10] film cr_film_id=3506 name='Zůstaň se mnou (2014) CZ Dabing' candidates=1
+[23:01:10]   candidate upload_id=68f32cac33bfe url=https://prehraj.to/zustan-se-mnou-2014-cz-dabing-hd-1080p/68f32cac33bfe
+[23:01:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zustan-se-mnou-2014-cz-dabing-hd-1080p/68f32cac33bfe (permanent=True)
+[23:01:11] film cr_film_id=3506 all candidates exhausted
+[23:01:11] iteration 5/20
+[23:01:11] film cr_film_id=3510 name='Zmizení Alice Creedové (2009) CZ Dabing' candidates=10
+[23:01:11]   candidate upload_id=59cca1086b1d8 url=https://prehraj.to/zmizeni-alice-creedove-2009-cz-dabing/59cca1086b1d8
+[23:01:17]   resolved in 6.5s → 480p (https://pf-storage1.premiumcdn.net/2713644/5BXfw2s6YIGvH9ohZKh4vs7Df85UXpi0eTpWS…)
+[23:01:47]   downloaded 542.5 MB in 27.0s (20.1 MB/s)
+[23:02:24]   upload done video_id=24800291 in 37.0s
