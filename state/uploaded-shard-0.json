@@ -11363,6 +11363,25 @@
         "download_sec": 126.9,
         "upload_sec": 154.5
       }
+    },
+    {
+      "cr_film_id": 2286,
+      "cr_slug": "monstrum",
+      "title": "Monstrum",
+      "year": 2008,
+      "display_name": "Monstrum (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6696793048c8c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24784924,
+      "size_bytes": 2916902805,
+      "uploaded_at": "2026-05-13T07:21:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 114.4,
+        "upload_sec": 143.3
+      }
     }
   ],
   "failed_attempts": [
@@ -14910,5 +14929,5 @@
       "failed_at": "2026-05-13T07:09:13Z"
     }
   ],
-  "last_updated": "2026-05-13T07:17:11Z"
+  "last_updated": "2026-05-13T07:21:34Z"
 }
