@@ -882,3 +882,14 @@
 [04:12:44]   upload done video_id=24782389 in 31.4s
 [04:12:45] film cr_film_id=2077 OK in 61.3s
 [04:12:45] batch-end ok=20 failed=0 dur=2358.3s avg/film=117.9s remaining=17153 eta_hours=561.8
+
+===== run 2026-05-13T04:20:19Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25778036937) =====
+[04:20:21] batch-start shard=1/2 count=20 backlog=17650 uploads=497 failed_attempts=14
+[04:20:21] login
+[04:20:22] login done
+[04:20:22] iteration 1/20
+[04:20:22] film cr_film_id=2079 name='Já, robot (2004) CZ Dabing' candidates=21
+[04:20:22]   candidate upload_id=5bcfb2d2c65c8 url=https://prehraj.to/ja-robot-2004-hdrip-cz-dabing-m3/5bcfb2d2c65c8
+[04:20:24]   resolved in 1.7s → 480p (https://pf-storage5.premiumcdn.net/7408865/2XNUQySwQIb2txZtexFlaSn9CNXUbpu3Ws9AT…)
+[04:20:51]   downloaded 628.3 MB in 25.1s (25.0 MB/s)
+[04:21:30]   upload done video_id=24782504 in 38.8s
