@@ -10907,6 +10907,25 @@
         "download_sec": 43.5,
         "upload_sec": 53.3
       }
+    },
+    {
+      "cr_film_id": 2180,
+      "cr_slug": "jackass-3",
+      "title": "Jackass 3",
+      "year": 2010,
+      "display_name": "Jackass 3 (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "e1fbbf49875db60d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24783640,
+      "size_bytes": 1028240799,
+      "uploaded_at": "2026-05-13T05:41:06Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 28.9,
+        "upload_sec": 39.3
+      }
     }
   ],
   "failed_attempts": [
@@ -14414,5 +14433,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-13T05:39:55Z"
+  "last_updated": "2026-05-13T05:41:06Z"
 }
