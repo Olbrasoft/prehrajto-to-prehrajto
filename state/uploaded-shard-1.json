@@ -14652,6 +14652,25 @@
         "download_sec": 32.5,
         "upload_sec": 47.3
       }
+    },
+    {
+      "cr_film_id": 3143,
+      "cr_slug": "kuryr",
+      "title": "Kurýr",
+      "year": 2002,
+      "display_name": "Kurýr (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59c2b0b0d4ea1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24795752,
+      "size_bytes": 1329778204,
+      "uploaded_at": "2026-05-13T16:04:03Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 65.4,
+        "upload_sec": 90.2
+      }
     }
   ],
   "failed_attempts": [
@@ -14799,5 +14818,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T16:01:21Z"
+  "last_updated": "2026-05-13T16:04:03Z"
 }
