@@ -11612,6 +11612,25 @@
         "download_sec": 14.8,
         "upload_sec": 23.8
       }
+    },
+    {
+      "cr_film_id": 2465,
+      "cr_slug": "svinak",
+      "title": "Sviňák",
+      "year": 2013,
+      "display_name": "Sviňák (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f6555966cd49",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24787576,
+      "size_bytes": 456252149,
+      "uploaded_at": "2026-05-13T09:05:55Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 14.7,
+        "upload_sec": 19.0
+      }
     }
   ],
   "failed_attempts": [
@@ -11738,5 +11757,5 @@
       "failed_at": "2026-05-13T08:40:57Z"
     }
   ],
-  "last_updated": "2026-05-13T09:05:17Z"
+  "last_updated": "2026-05-13T09:05:55Z"
 }
