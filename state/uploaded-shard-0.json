@@ -8741,6 +8741,25 @@
         "download_sec": 102.0,
         "upload_sec": 131.9
       }
+    },
+    {
+      "cr_film_id": 1736,
+      "cr_slug": "spacewalker",
+      "title": "Čas dobyvatelů",
+      "year": 2017,
+      "display_name": "Čas dobyvatelů (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "7bb897a3c324c258",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24778724,
+      "size_bytes": 1159625198,
+      "uploaded_at": "2026-05-13T00:16:40Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 56.2,
+        "upload_sec": 68.3
+      }
     }
   ],
   "failed_attempts": [
@@ -12201,5 +12220,5 @@
       "failed_at": "2026-05-12T22:37:58Z"
     }
   ],
-  "last_updated": "2026-05-13T00:14:31Z"
+  "last_updated": "2026-05-13T00:16:40Z"
 }
