@@ -12315,6 +12315,25 @@
         "download_sec": 64.2,
         "upload_sec": 79.7
       }
+    },
+    {
+      "cr_film_id": 2619,
+      "cr_slug": "bily-tesak",
+      "title": "Bílý Tesák",
+      "year": 2018,
+      "display_name": "Bílý Tesák (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5dcbfdd8ea4e7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24789706,
+      "size_bytes": 1172497290,
+      "uploaded_at": "2026-05-13T10:29:57Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 34.5,
+        "upload_sec": 48.4
+      }
     }
   ],
   "failed_attempts": [
@@ -12462,5 +12481,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T10:28:31Z"
+  "last_updated": "2026-05-13T10:29:57Z"
 }
