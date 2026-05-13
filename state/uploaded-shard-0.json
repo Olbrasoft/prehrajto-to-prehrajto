@@ -11990,6 +11990,25 @@
         "download_sec": 26.7,
         "upload_sec": 38.2
       }
+    },
+    {
+      "cr_film_id": 2410,
+      "cr_slug": "hvezdna-brana",
+      "title": "Hvězdná brána",
+      "year": 1994,
+      "display_name": "Hvězdná brána (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5828c54cc74bc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24785955,
+      "size_bytes": 560670660,
+      "uploaded_at": "2026-05-13T08:37:51Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.8,
+        "upload_sec": 27.4
+      }
     }
   ],
   "failed_attempts": [
@@ -15537,5 +15556,5 @@
       "failed_at": "2026-05-13T07:09:13Z"
     }
   ],
-  "last_updated": "2026-05-13T08:36:57Z"
+  "last_updated": "2026-05-13T08:37:51Z"
 }
