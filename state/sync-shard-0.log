@@ -3244,3 +3244,14 @@
 [19:23:43]   upload done video_id=24798181 in 100.1s
 [19:23:44] film cr_film_id=3236 OK in 2198.2s
 [19:23:44] batch-end ok=20 failed=0 dur=8357.5s avg/film=417.9s remaining=16799 eta_hours=1950.1
+
+===== run 2026-05-13T19:23:56Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25818778208) =====
+[19:23:57] batch-start shard=0/2 count=20 backlog=17650 uploads=851 failed_attempts=520
+[19:23:57] login
+[19:23:58] login done
+[19:23:58] iteration 1/20
+[19:23:58] film cr_film_id=3238 name='The Astronaut (2022) CZ Dabing' candidates=1
+[19:23:58]   candidate upload_id=6529bc7f8153b url=https://prehraj.to/astronaut-2022-czdab/6529bc7f8153b
+[19:23:59]   resolved in 1.1s → 720p (https://pf-storage3.premiumcdn.net/48205670/rWmhyDU3yT9qcp7uDlIM8UJxi7yiMPcoKfJM…)
+[19:30:06]   downloaded 969.6 MB in 365.3s (2.7 MB/s)
+[19:30:48]   upload done video_id=24798302 in 42.4s
