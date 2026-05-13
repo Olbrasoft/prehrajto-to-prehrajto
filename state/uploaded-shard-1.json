@@ -12999,6 +12999,25 @@
         "download_sec": 39.5,
         "upload_sec": 47.3
       }
+    },
+    {
+      "cr_film_id": 2763,
+      "cr_slug": "jina-zeme",
+      "title": "Jiná země",
+      "year": 2011,
+      "display_name": "Jiná země (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "580146cc3d492",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24791810,
+      "size_bytes": 495500361,
+      "uploaded_at": "2026-05-13T11:57:53Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 26.3,
+        "upload_sec": 31.0
+      }
     }
   ],
   "failed_attempts": [
@@ -13146,5 +13165,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T11:56:50Z"
+  "last_updated": "2026-05-13T11:57:53Z"
 }
