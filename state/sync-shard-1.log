@@ -1909,3 +1909,14 @@
 [09:59:31]   upload done video_id=24789334 in 64.9s
 [09:59:32] film cr_film_id=2571 OK in 112.9s
 [09:59:32] batch-end ok=19 failed=1 dur=2439.2s avg/film=128.4s remaining=17014 eta_hours=606.8
+
+===== run 2026-05-13T10:04:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25792275101) =====
+[10:04:18] batch-start shard=1/2 count=20 backlog=17650 uploads=636 failed_attempts=17
+[10:04:18] login
+[10:04:20] login done
+[10:04:20] iteration 1/20
+[10:04:20] film cr_film_id=2573 name='Milostné historky (2020) CZ Dabing' candidates=1
+[10:04:20]   candidate upload_id=61e77d02d8e2b url=https://prehraj.to/milostne-historky-2020-czdab/61e77d02d8e2b
+[10:04:21]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/28509687/JrGhW3sA8cwEIO4ugYSB1slqubvHYPuNkHRb…)
+[10:05:24]   downloaded 1,943.2 MB in 61.9s (31.4 MB/s)
+[10:06:34]   upload done video_id=24789428 in 70.1s

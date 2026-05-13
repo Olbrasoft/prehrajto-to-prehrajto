@@ -12087,6 +12087,25 @@
         "download_sec": 44.8,
         "upload_sec": 64.9
       }
+    },
+    {
+      "cr_film_id": 2573,
+      "cr_slug": "milostne-historky",
+      "title": "Milostné historky",
+      "year": 2020,
+      "display_name": "Milostné historky (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61e77d02d8e2b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24789428,
+      "size_bytes": 1943184518,
+      "uploaded_at": "2026-05-13T10:06:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 61.9,
+        "upload_sec": 70.1
+      }
     }
   ],
   "failed_attempts": [
@@ -12220,5 +12239,5 @@
       "failed_at": "2026-05-13T09:20:34Z"
     }
   ],
-  "last_updated": "2026-05-13T09:59:31Z"
+  "last_updated": "2026-05-13T10:06:34Z"
 }
