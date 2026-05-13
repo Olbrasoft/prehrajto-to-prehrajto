@@ -13586,6 +13586,25 @@
         "download_sec": 13.2,
         "upload_sec": 15.9
       }
+    },
+    {
+      "cr_film_id": 2732,
+      "cr_slug": "meda",
+      "title": "Méďa",
+      "year": 2012,
+      "display_name": "Méďa (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "dbe704ffb89485f0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24790538,
+      "size_bytes": 1527786076,
+      "uploaded_at": "2026-05-13T11:36:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 49.9,
+        "upload_sec": 62.3
+      }
     }
   ],
   "failed_attempts": [
@@ -17161,5 +17180,5 @@
       "failed_at": "2026-05-13T10:12:31Z"
     }
   ],
-  "last_updated": "2026-05-13T11:34:24Z"
+  "last_updated": "2026-05-13T11:36:20Z"
 }
