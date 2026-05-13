@@ -8857,6 +8857,25 @@
         "download_sec": 104.8,
         "upload_sec": 136.1
       }
+    },
+    {
+      "cr_film_id": 1921,
+      "cr_slug": "red-rocket",
+      "title": "Red Rocket",
+      "year": 2021,
+      "display_name": "Red Rocket (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62f403ed21729",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24780731,
+      "size_bytes": 3091839985,
+      "uploaded_at": "2026-05-13T02:14:38Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 96.8,
+        "upload_sec": 137.9
+      }
     }
   ],
   "failed_attempts": [
@@ -8964,5 +8983,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T02:10:39Z"
+  "last_updated": "2026-05-13T02:14:38Z"
 }
