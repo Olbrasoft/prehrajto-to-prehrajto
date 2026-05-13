@@ -10603,6 +10603,25 @@
         "download_sec": 70.2,
         "upload_sec": 94.2
       }
+    },
+    {
+      "cr_film_id": 2122,
+      "cr_slug": "adam",
+      "title": "Adam",
+      "year": 2009,
+      "display_name": "Adam (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59c6710b52ef0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24783183,
+      "size_bytes": 322868539,
+      "uploaded_at": "2026-05-13T05:11:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 10.8,
+        "upload_sec": 12.7
+      }
     }
   ],
   "failed_attempts": [
@@ -14110,5 +14129,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-13T05:11:06Z"
+  "last_updated": "2026-05-13T05:11:33Z"
 }
