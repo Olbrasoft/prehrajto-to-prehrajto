@@ -15754,6 +15754,25 @@
         "download_sec": 261.5,
         "upload_sec": 123.5
       }
+    },
+    {
+      "cr_film_id": 3373,
+      "cr_slug": "dokonala-lez",
+      "title": "Dokonalá lež",
+      "year": 2019,
+      "display_name": "Dokonalá lež (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fb07b36a071a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24798814,
+      "size_bytes": 1470042035,
+      "uploaded_at": "2026-05-13T20:18:18Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 46.7,
+        "upload_sec": 60.5
+      }
     }
   ],
   "failed_attempts": [
@@ -15927,5 +15946,5 @@
       "failed_at": "2026-05-13T18:13:36Z"
     }
   ],
-  "last_updated": "2026-05-13T20:16:27Z"
+  "last_updated": "2026-05-13T20:18:18Z"
 }
