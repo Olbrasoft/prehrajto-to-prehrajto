@@ -15980,6 +15980,25 @@
         "download_sec": 42.1,
         "upload_sec": 54.3
       }
+    },
+    {
+      "cr_film_id": 3192,
+      "cr_slug": "roklina",
+      "title": "Roklina",
+      "year": 2025,
+      "display_name": "Roklina (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a5f745fbf0b8d3fa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24796903,
+      "size_bytes": 1489210693,
+      "uploaded_at": "2026-05-13T17:45:05Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 331.6,
+        "upload_sec": 62.4
+      }
     }
   ],
   "failed_attempts": [
@@ -19639,5 +19658,5 @@
       "failed_at": "2026-05-13T17:08:56Z"
     }
   ],
-  "last_updated": "2026-05-13T17:38:27Z"
+  "last_updated": "2026-05-13T17:45:05Z"
 }
