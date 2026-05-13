@@ -15847,6 +15847,25 @@
         "download_sec": 23.4,
         "upload_sec": 31.5
       }
+    },
+    {
+      "cr_film_id": 3172,
+      "cr_slug": "vyvrzenci-pekla",
+      "title": "Vyvrženci pekla",
+      "year": 2005,
+      "display_name": "Vyvrženci pekla (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67854e635b46b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24796452,
+      "size_bytes": 3579174576,
+      "uploaded_at": "2026-05-13T17:13:23Z",
+      "timing": {
+        "resolve_sec": 4.8,
+        "download_sec": 125.2,
+        "upload_sec": 136.1
+      }
     }
   ],
   "failed_attempts": [
@@ -19497,7 +19516,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kniha-preziti-2010-up-uhd-r-cz-en-mkv/bde2b7a0f44624e7",
       "permanent": true,
       "failed_at": "2026-05-13T16:17:12Z"
+    },
+    {
+      "cr_film_id": 3172,
+      "upload_id": "bcd1bc0905596912",
+      "reason": "oversize: 10674894227 B",
+      "permanent": true,
+      "failed_at": "2026-05-13T17:08:56Z"
     }
   ],
-  "last_updated": "2026-05-13T17:08:52Z"
+  "last_updated": "2026-05-13T17:13:23Z"
 }
