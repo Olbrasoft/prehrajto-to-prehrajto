@@ -10548,6 +10548,25 @@
         "download_sec": 23.1,
         "upload_sec": 24.4
       }
+    },
+    {
+      "cr_film_id": 2279,
+      "cr_slug": "rose-island",
+      "title": "Rose Island",
+      "year": 2020,
+      "display_name": "Rose Island (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fd2aa66469f3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24784218,
+      "size_bytes": 1866916720,
+      "uploaded_at": "2026-05-13T06:28:47Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 52.1,
+        "upload_sec": 67.3
+      }
     }
   ],
   "failed_attempts": [
@@ -10655,5 +10674,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T06:26:45Z"
+  "last_updated": "2026-05-13T06:28:47Z"
 }
