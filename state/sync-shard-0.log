@@ -1026,3 +1026,14 @@
 [05:02:21]   upload done video_id=24783043 in 66.7s
 [05:02:22] film cr_film_id=2116 OK in 123.6s
 [05:02:22] batch-end ok=20 failed=0 dur=2514.9s avg/film=125.7s remaining=17094 eta_hours=596.9
+
+===== run 2026-05-13T05:04:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25779461601) =====
+[05:04:25] batch-start shard=0/2 count=20 backlog=17650 uploads=556 failed_attempts=499
+[05:04:25] login
+[05:04:27] login done
+[05:04:27] iteration 1/20
+[05:04:27] film cr_film_id=2118 name='Konkurs (1999) CZ' candidates=1
+[05:04:27]   candidate upload_id=6368bb29af63c url=https://prehraj.to/konkurz-na-smrt-audition-odishon-jap-1999-takasi-miike-1080p-bluray-jap-ac3-en-cz-sub/6368bb29af63c
+[05:04:28]   resolved in 0.8s → 1080p (https://pf-storage3.premiumcdn.net/34338082/peMTYyFlJtKyuN7ClQsO2FmBuQpUywUezcoV…)
+[05:06:02]   downloaded 3,452.7 MB in 92.0s (37.5 MB/s)
+[05:08:18]   upload done video_id=24783106 in 136.0s
