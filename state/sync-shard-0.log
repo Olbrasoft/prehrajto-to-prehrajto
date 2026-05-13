@@ -2208,3 +2208,14 @@
 [11:23:57]   upload done video_id=24790386 in 103.5s
 [11:23:59] film cr_film_id=2726 OK in 189.1s
 [11:23:59] batch-end ok=20 failed=0 dur=2402.3s avg/film=120.1s remaining=16936 eta_hours=565.0
+
+===== run 2026-05-13T11:33:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25796481506) =====
+[11:33:51] batch-start shard=0/2 count=20 backlog=17650 uploads=714 failed_attempts=508
+[11:33:51] login
+[11:33:52] login done
+[11:33:52] iteration 1/20
+[11:33:52] film cr_film_id=2730 name='Nepřítel (2013) CZ Dabing' candidates=3
+[11:33:52]   candidate upload_id=55cddbdf85a68 url=https://prehraj.to/enemy-2013-cz-dab/55cddbdf85a68
+[11:33:53]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/169753/lBms0JunVtd3T5PCdXS0MuYotdNTp4Hv4fGdIj…)
+[11:34:08]   downloaded 344.3 MB in 13.2s (26.1 MB/s)
+[11:34:24]   upload done video_id=24790524 in 15.9s
