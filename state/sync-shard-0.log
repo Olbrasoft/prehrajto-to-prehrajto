@@ -284,3 +284,14 @@
 [23:57:53]   upload done video_id=24778406 in 37.5s
 [23:57:54] film cr_film_id=1724 OK in 73.1s
 [23:57:54] batch-end ok=20 failed=0 dur=2412.0s avg/film=120.6s remaining=17193 eta_hours=576.0
+
+===== run 2026-05-13T00:06:14Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25769653174) =====
+[00:06:15] batch-start shard=0/2 count=20 backlog=17650 uploads=457 failed_attempts=493
+[00:06:15] login
+[00:06:16] login done
+[00:06:16] iteration 1/20
+[00:06:16] film cr_film_id=1726 name='Pomáda: Živě (2016) CZ' candidates=1
+[00:06:16]   candidate upload_id=5abd8d512b386 url=https://prehraj.to/pomada-zive-2016/5abd8d512b386
+[00:06:18]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/3770008/JwaUlBCpGhkaIn2FyefjNCyNFMmUA2uVPH35c…)
+[00:07:15]   downloaded 999.4 MB in 54.3s (18.4 MB/s)
+[00:08:15]   upload done video_id=24778583 in 60.5s

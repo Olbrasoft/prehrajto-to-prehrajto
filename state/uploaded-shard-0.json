@@ -8684,6 +8684,25 @@
         "download_sec": 31.2,
         "upload_sec": 37.5
       }
+    },
+    {
+      "cr_film_id": 1726,
+      "cr_slug": "pomada-zive",
+      "title": "Pomáda: Živě",
+      "year": 2016,
+      "display_name": "Pomáda: Živě (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5abd8d512b386",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24778583,
+      "size_bytes": 999387213,
+      "uploaded_at": "2026-05-13T00:08:15Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 54.3,
+        "upload_sec": 60.5
+      }
     }
   ],
   "failed_attempts": [
@@ -12144,5 +12163,5 @@
       "failed_at": "2026-05-12T22:37:58Z"
     }
   ],
-  "last_updated": "2026-05-12T23:57:53Z"
+  "last_updated": "2026-05-13T00:08:15Z"
 }
