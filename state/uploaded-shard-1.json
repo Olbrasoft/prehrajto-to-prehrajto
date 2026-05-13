@@ -13474,6 +13474,25 @@
         "download_sec": 95.0,
         "upload_sec": 153.6
       }
+    },
+    {
+      "cr_film_id": 2847,
+      "cr_slug": "esperando-a-dali",
+      "title": "Dalího kuchař",
+      "year": 2023,
+      "display_name": "Dalího kuchař (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67dc3c39c46bf",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24793705,
+      "size_bytes": 2355045042,
+      "uploaded_at": "2026-05-13T13:12:55Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 70.9,
+        "upload_sec": 81.7
+      }
     }
   ],
   "failed_attempts": [
@@ -13621,5 +13640,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T13:10:18Z"
+  "last_updated": "2026-05-13T13:12:55Z"
 }
