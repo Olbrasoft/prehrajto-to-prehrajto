@@ -876,3 +876,14 @@
 [04:18:41]   upload done video_id=24782465 in 43.9s
 [04:18:42] film cr_film_id=2054 OK in 80.7s
 [04:18:42] batch-end ok=20 failed=0 dur=2721.8s avg/film=136.1s remaining=17114 eta_hours=647.0
+
+===== run 2026-05-13T04:20:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25778036937) =====
+[04:20:26] batch-start shard=0/2 count=20 backlog=17650 uploads=536 failed_attempts=498
+[04:20:26] login
+[04:20:27] login done
+[04:20:27] iteration 1/20
+[04:20:27] film cr_film_id=2058 name='Deepwater Horizon: Moře v plamenech (2016) CZ Dabing' candidates=8
+[04:20:27]   candidate upload_id=63096cd23cb64 url=https://prehraj.to/more-v-plamenech-2016-ab-1080p-cz-dab/63096cd23cb64
+[04:20:28]   resolved in 1.1s → 720p (https://pf-storage3.premiumcdn.net/32454439/7lPt4pcB5fORcawH3NI7vc9ksYltD3HmOfvw…)
+[04:21:31]   downloaded 2,033.5 MB in 61.5s (33.1 MB/s)
+[04:22:40]   upload done video_id=24782516 in 69.2s
