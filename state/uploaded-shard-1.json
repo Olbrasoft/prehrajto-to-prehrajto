@@ -14101,6 +14101,25 @@
         "download_sec": 26.7,
         "upload_sec": 29.5
       }
+    },
+    {
+      "cr_film_id": 2983,
+      "cr_slug": "vdovy",
+      "title": "Vdovy",
+      "year": 2018,
+      "display_name": "Vdovy (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c5201743d8b8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24794778,
+      "size_bytes": 649081401,
+      "uploaded_at": "2026-05-13T14:43:56Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 27.1,
+        "upload_sec": 35.3
+      }
     }
   ],
   "failed_attempts": [
@@ -14248,5 +14267,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T14:42:49Z"
+  "last_updated": "2026-05-13T14:43:56Z"
 }
