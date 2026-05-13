@@ -584,3 +584,14 @@
 [02:50:16]   upload done video_id=24781258 in 30.4s
 [02:50:17] film cr_film_id=1884 OK in 160.6s
 [02:50:17] batch-end ok=19 failed=1 dur=6187.5s avg/film=325.7s remaining=17154 eta_hours=1552.0
+
+===== run 2026-05-13T02:50:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25771783313) =====
+[02:50:29] batch-start shard=0/2 count=20 backlog=17650 uploads=496 failed_attempts=498
+[02:50:29] login
+[02:50:30] login done
+[02:50:30] iteration 1/20
+[02:50:30] film cr_film_id=1888 name='Batman se vrací (1992) CZ Dabing' candidates=2
+[02:50:30]   candidate upload_id=7df2003662dda366 url=https://prehraj.to/batman-se-vraci-1992-en-cz-dabing-uhdr-mkv/7df2003662dda366
+[02:50:31]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/155048424/58KSXxTWRsZ6Iw6upghRKTVQhGoFZDCNju8…)
+[02:51:57]   downloaded 3,016.6 MB in 84.0s (35.9 MB/s)
+[02:53:43]   upload done video_id=24781290 in 106.5s
