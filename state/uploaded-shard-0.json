@@ -10698,6 +10698,25 @@
         "download_sec": 25.5,
         "upload_sec": 36.9
       }
+    },
+    {
+      "cr_film_id": 2136,
+      "cr_slug": "kralove-leta",
+      "title": "Králové léta",
+      "year": 2013,
+      "display_name": "Králové léta (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d5d0fe14ed69",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24783309,
+      "size_bytes": 2103446402,
+      "uploaded_at": "2026-05-13T05:21:22Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 57.2,
+        "upload_sec": 128.7
+      }
     }
   ],
   "failed_attempts": [
@@ -14205,5 +14224,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-13T05:18:13Z"
+  "last_updated": "2026-05-13T05:21:22Z"
 }
