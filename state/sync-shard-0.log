@@ -3680,3 +3680,14 @@
 [22:43:22]   upload done video_id=24800169 in 33.1s
 [22:43:23] film cr_film_id=3494 OK in 61.9s
 [22:43:23] batch-end ok=20 failed=0 dur=3540.3s avg/film=177.0s remaining=16740 eta_hours=823.0
+
+===== run 2026-05-13T22:44:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25830738410) =====
+[22:44:47] batch-start shard=0/2 count=20 backlog=17650 uploads=910 failed_attempts=521
+[22:44:47] login
+[22:44:49] login done
+[22:44:49] iteration 1/20
+[22:44:49] film cr_film_id=3498 name='Armageddon (1998) CZ Dabing' candidates=26
+[22:44:49]   candidate upload_id=64a19fb438a71 url=https://prehraj.to/armageddon-1998-cz-dabing-1080p/64a19fb438a71
+[22:44:50]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/42148124/beOfa4Tz1IA1TqEu5Rir3TWEIgoH9euJjc8Y…)
+[22:48:03]   downloaded 4,511.3 MB in 190.9s (23.6 MB/s)
+[22:52:13]   upload done video_id=24800204 in 249.2s
