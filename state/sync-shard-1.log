@@ -736,3 +736,14 @@
 [02:35:00]   upload done video_id=24781038 in 33.8s
 [02:35:02] film cr_film_id=1971 OK in 71.6s
 [02:35:02] batch-end ok=20 failed=0 dur=2981.8s avg/film=149.1s remaining=17173 eta_hours=711.2
+
+===== run 2026-05-13T03:33:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25776596171) =====
+[03:33:25] batch-start shard=1/2 count=20 backlog=17650 uploads=477 failed_attempts=14
+[03:33:25] login
+[03:33:26] login done
+[03:33:26] iteration 1/20
+[03:33:26] film cr_film_id=1973 name='Kdyby ulice Beale mohla mluvit (2018) CZ Dabing' candidates=1
+[03:33:26]   candidate upload_id=6d64dff1b641207f url=https://prehraj.to/kdyby-ulice-beale-mohla-mluvit-2018-cz-dabing/6d64dff1b641207f
+[03:33:28]   resolved in 1.3s → 480p (https://pf-storage6.premiumcdn.net/169281916/Aq8FKrHvptjGc5zC07TW8HKQs15s9nFeRhj…)
+[03:33:52]   downloaded 595.6 MB in 22.9s (26.0 MB/s)
+[03:34:19]   upload done video_id=24781835 in 26.6s
