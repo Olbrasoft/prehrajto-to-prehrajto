@@ -3418,3 +3418,21 @@
 [20:43:26]   resolved in 1.3s → 480p (https://pf-storage6.premiumcdn.net/169466902/d2NuBVFaPs68tVwipaHXRFrltExc6aiP4u8…)
 [20:44:06]   downloaded 358.3 MB in 38.7s (9.3 MB/s)
 [20:44:32]   upload done video_id=24799202 in 25.1s
+[20:44:33] film cr_film_id=3395 OK in 68.4s
+[20:44:33] iteration 8/20
+[20:44:33] film cr_film_id=3397 name='Equalizer 2 (2018) CZ Dabing' candidates=4
+[20:44:33]   candidate upload_id=02c1e001820efb6b url=https://prehraj.to/equalizer-2-2018-cz-dab-1080p/02c1e001820efb6b
+[20:44:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p/02c1e001820efb6b (permanent=True)
+[20:44:34]   candidate upload_id=08621f1f5564e043 url=https://prehraj.to/equalizer-2-2018-cz-dab-1080p/08621f1f5564e043
+[20:44:40]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p/08621f1f5564e043 (permanent=True)
+[20:44:40]   candidate upload_id=8e8e6aaabef26286 url=https://prehraj.to/equalizer-2-2018-cz-dab-1080p-mp4/8e8e6aaabef26286
+[20:44:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p-mp4/8e8e6aaabef26286 (permanent=True)
+[20:44:45]   candidate upload_id=7e8b1c0639853645 url=https://prehraj.to/equalizer-2-2018-cz-dab-1080p/7e8b1c0639853645
+[20:44:51]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p/7e8b1c0639853645 (permanent=True)
+[20:44:51] film cr_film_id=3397 all candidates exhausted
+[20:44:51] iteration 9/20
+[20:44:51] film cr_film_id=3399 name='Pryč od pece (2013) CZ Dabing' candidates=11
+[20:44:51]   candidate upload_id=5d8b3185688f7 url=https://prehraj.to/pryc-od-pece-drama-cz-dab-2018-jad/5d8b3185688f7
+[20:44:58]   resolved in 6.6s → 720p (https://pf-storage5.premiumcdn.net/14923903/jo7tG1iBMHnRH4nsR4HMkix2SWmHAwClnH3l…)
+[20:46:26]   downloaded 1,746.6 MB in 86.0s (20.3 MB/s)
+[20:48:27]   upload done video_id=24799229 in 121.7s
