@@ -9294,6 +9294,25 @@
         "download_sec": 31.4,
         "upload_sec": 35.9
       }
+    },
+    {
+      "cr_film_id": 2015,
+      "cr_slug": "na-dotek",
+      "title": "Na dotek",
+      "year": 2004,
+      "display_name": "Na dotek (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b70c5dc1bba6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24782187,
+      "size_bytes": 385726469,
+      "uploaded_at": "2026-05-13T03:58:55Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 14.5,
+        "upload_sec": 18.4
+      }
     }
   ],
   "failed_attempts": [
@@ -9401,5 +9420,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T03:58:18Z"
+  "last_updated": "2026-05-13T03:58:55Z"
 }
