@@ -2062,3 +2062,14 @@
 [10:42:21]   upload done video_id=24789848 in 87.7s
 [10:42:22] film cr_film_id=2626 OK in 148.0s
 [10:42:22] batch-end ok=20 failed=0 dur=2271.2s avg/film=113.6s remaining=16956 eta_hours=535.1
+
+===== run 2026-05-13T10:43:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25794137450) =====
+[10:43:56] batch-start shard=0/2 count=20 backlog=17650 uploads=694 failed_attempts=508
+[10:43:56] login
+[10:43:57] login done
+[10:43:57] iteration 1/20
+[10:43:57] film cr_film_id=2628 name='Vymazaný kluk (2018) CZ Dabing' candidates=3
+[10:43:57]   candidate upload_id=5d7562f28059d url=https://prehraj.to/vymazany-kluk-cz-dabing-2018/5d7562f28059d
+[10:43:58]   resolved in 1.4s → 1080p (https://pf-storage1.premiumcdn.net/14796219/mYdHRxu4JcrXc2WtXys9puOdFjZcAgfq8cbX…)
+[10:44:46]   downloaded 1,611.1 MB in 45.7s (35.3 MB/s)
+[10:45:45]   upload done video_id=24789893 in 59.1s
