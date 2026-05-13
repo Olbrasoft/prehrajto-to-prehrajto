@@ -12503,6 +12503,25 @@
         "download_sec": 75.9,
         "upload_sec": 111.8
       }
+    },
+    {
+      "cr_film_id": 2492,
+      "cr_slug": "robin-hood-kral-zbojniku",
+      "title": "Robin Hood: Král zbojníků",
+      "year": 1991,
+      "display_name": "Robin Hood: Král zbojníků (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ed0a91b129fd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24789014,
+      "size_bytes": 4768583534,
+      "uploaded_at": "2026-05-13T09:33:18Z",
+      "timing": {
+        "resolve_sec": 5.3,
+        "download_sec": 146.9,
+        "upload_sec": 182.5
+      }
     }
   ],
   "failed_attempts": [
@@ -16048,7 +16067,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krotitele-duchu-odkaz-2021-cz-dab-1080p/372cab655bd68e79",
       "permanent": true,
       "failed_at": "2026-05-13T07:09:13Z"
+    },
+    {
+      "cr_film_id": 2492,
+      "upload_id": "5eebd39acd522",
+      "reason": "oversize: 7942458475 B",
+      "permanent": true,
+      "failed_at": "2026-05-13T09:27:37Z"
+    },
+    {
+      "cr_film_id": 2492,
+      "upload_id": "5f4570c3f2d31",
+      "reason": "oversize: 7942458475 B",
+      "permanent": true,
+      "failed_at": "2026-05-13T09:27:42Z"
     }
   ],
-  "last_updated": "2026-05-13T09:27:33Z"
+  "last_updated": "2026-05-13T09:33:18Z"
 }
