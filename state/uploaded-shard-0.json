@@ -13301,6 +13301,25 @@
         "download_sec": 73.5,
         "upload_sec": 94.8
       }
+    },
+    {
+      "cr_film_id": 2650,
+      "cr_slug": "voda-pro-slony",
+      "title": "Voda pro slony",
+      "year": 2011,
+      "display_name": "Voda pro slony (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c53d40b1727c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24790024,
+      "size_bytes": 552805258,
+      "uploaded_at": "2026-05-13T10:57:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.3,
+        "upload_sec": 23.0
+      }
     }
   ],
   "failed_attempts": [
@@ -16876,5 +16895,5 @@
       "failed_at": "2026-05-13T10:12:31Z"
     }
   ],
-  "last_updated": "2026-05-13T10:56:26Z"
+  "last_updated": "2026-05-13T10:57:10Z"
 }
