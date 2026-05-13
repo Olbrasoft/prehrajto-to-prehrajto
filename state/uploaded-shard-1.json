@@ -14025,6 +14025,25 @@
         "download_sec": 91.2,
         "upload_sec": 116.7
       }
+    },
+    {
+      "cr_film_id": 2963,
+      "cr_slug": "lvi-kral-2019",
+      "title": "Lví král",
+      "year": 2019,
+      "display_name": "Lví král (2019) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "c359fd89f47a3ebd",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24794700,
+      "size_bytes": 988759794,
+      "uploaded_at": "2026-05-13T14:37:10Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 39.3,
+        "upload_sec": 57.6
+      }
     }
   ],
   "failed_attempts": [
@@ -14172,5 +14191,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T14:35:28Z"
+  "last_updated": "2026-05-13T14:37:10Z"
 }
