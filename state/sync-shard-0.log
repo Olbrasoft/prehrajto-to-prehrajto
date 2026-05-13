@@ -1614,3 +1614,14 @@
 [08:39:34]   upload done video_id=24785979 in 30.7s
 [08:39:36] film cr_film_id=2414 OK in 59.7s
 [08:39:36] batch-end ok=20 failed=0 dur=2659.4s avg/film=133.0s remaining=17016 eta_hours=628.6
+
+===== run 2026-05-13T08:40:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25788199139) =====
+[08:40:56] batch-start shard=0/2 count=20 backlog=17650 uploads=634 failed_attempts=504
+[08:40:56] login
+[08:40:58] login done
+[08:40:58] iteration 1/20
+[08:40:58] film cr_film_id=2416 name='Kobry a Užovky (2015) CZ' candidates=2
+[08:40:58]   candidate upload_id=63cd65002c447 url=https://prehraj.to/kobry-a-uzovky-2015-drama-komedie-cz-1080p/63cd65002c447
+[08:41:01]   resolved in 3.2s → 1080p (https://pf-storage4.premiumcdn.net/36602128/1XEU0yT0vUqZHbqF4DTayT3BCwOFyJUvGSGY…)
+[08:42:17]   downloaded 2,762.3 MB in 74.7s (37.0 MB/s)
+[08:44:14]   upload done video_id=24786021 in 116.2s
