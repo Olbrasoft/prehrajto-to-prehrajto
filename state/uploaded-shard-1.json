@@ -10415,6 +10415,25 @@
         "download_sec": 99.1,
         "upload_sec": 128.7
       }
+    },
+    {
+      "cr_film_id": 2243,
+      "cr_slug": "bobovy-burgery-ve-filmu",
+      "title": "Bobovy burgery ve filmu",
+      "year": 2022,
+      "display_name": "Bobovy burgery ve filmu (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "663878a31c893",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24784075,
+      "size_bytes": 1419218218,
+      "uploaded_at": "2026-05-13T06:16:25Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 40.8,
+        "upload_sec": 55.7
+      }
     }
   ],
   "failed_attempts": [
@@ -10522,5 +10541,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T06:14:45Z"
+  "last_updated": "2026-05-13T06:16:25Z"
 }
