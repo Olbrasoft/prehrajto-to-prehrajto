@@ -9104,6 +9104,25 @@
         "download_sec": 62.5,
         "upload_sec": 84.5
       }
+    },
+    {
+      "cr_film_id": 1983,
+      "cr_slug": "divocina",
+      "title": "Divočina",
+      "year": 2014,
+      "display_name": "Divočina (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62ebc63fb8709",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24781897,
+      "size_bytes": 2570502442,
+      "uploaded_at": "2026-05-13T03:40:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 81.5,
+        "upload_sec": 111.6
+      }
     }
   ],
   "failed_attempts": [
@@ -9211,5 +9230,5 @@
       "failed_at": "2026-05-13T01:32:16Z"
     }
   ],
-  "last_updated": "2026-05-13T03:36:50Z"
+  "last_updated": "2026-05-13T03:40:07Z"
 }
