@@ -12391,6 +12391,25 @@
         "download_sec": 23.2,
         "upload_sec": 35.8
       }
+    },
+    {
+      "cr_film_id": 2627,
+      "cr_slug": "v-rytmu-srdce-2018",
+      "title": "V rytmu srdce",
+      "year": 2018,
+      "display_name": "V rytmu srdce (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5cd8334e89ae8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24789754,
+      "size_bytes": 473563152,
+      "uploaded_at": "2026-05-13T10:33:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.6,
+        "upload_sec": 18.4
+      }
     }
   ],
   "failed_attempts": [
@@ -12538,5 +12557,5 @@
       "failed_at": "2026-05-13T10:17:34Z"
     }
   ],
-  "last_updated": "2026-05-13T10:32:46Z"
+  "last_updated": "2026-05-13T10:33:24Z"
 }
