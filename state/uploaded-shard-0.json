@@ -11344,6 +11344,25 @@
         "download_sec": 86.6,
         "upload_sec": 98.4
       }
+    },
+    {
+      "cr_film_id": 2278,
+      "cr_slug": "stripky-zeny",
+      "title": "Střípky ženy",
+      "year": 2020,
+      "display_name": "Střípky ženy (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "602afecc417b9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24784830,
+      "size_bytes": 2938166786,
+      "uploaded_at": "2026-05-13T07:17:11Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 126.9,
+        "upload_sec": 154.5
+      }
     }
   ],
   "failed_attempts": [
@@ -14891,5 +14910,5 @@
       "failed_at": "2026-05-13T07:09:13Z"
     }
   ],
-  "last_updated": "2026-05-13T07:12:26Z"
+  "last_updated": "2026-05-13T07:17:11Z"
 }
