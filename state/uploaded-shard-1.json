@@ -21397,6 +21397,25 @@
         "download_sec": 17.9,
         "upload_sec": 23.2
       }
+    },
+    {
+      "cr_film_id": 4469,
+      "cr_slug": "maskarada",
+      "title": "Maškaráda",
+      "year": 2022,
+      "display_name": "Maškaráda (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "664ca29540f28",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24809406,
+      "size_bytes": 2714267552,
+      "uploaded_at": "2026-05-14T10:55:56Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 81.6,
+        "upload_sec": 99.0
+      }
     }
   ],
   "failed_attempts": [
@@ -21745,5 +21764,5 @@
       "failed_at": "2026-05-14T10:21:36Z"
     }
   ],
-  "last_updated": "2026-05-14T10:52:52Z"
+  "last_updated": "2026-05-14T10:55:56Z"
 }
