@@ -6460,3 +6460,14 @@
 [15:27:02]   upload done video_id=24817059 in 85.6s
 [15:27:05] film cr_film_id=4836 OK in 151.6s
 [15:27:05] batch-end ok=20 failed=0 dur=2242.7s avg/film=112.1s remaining=16372 eta_hours=509.8
+
+===== run 2026-05-14T15:53:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25870152959) =====
+[15:53:24] batch-start shard=0/2 count=20 backlog=17650 uploads=1278 failed_attempts=547
+[15:53:24] login
+[15:53:25] login done
+[15:53:25] iteration 1/20
+[15:53:25] film cr_film_id=4838 name='Resident Evil: Rozklad (2008) CZ Dabing' candidates=5
+[15:53:25]   candidate upload_id=6846349b19fce url=https://prehraj.to/resident-evil-rozklad-2008-cz-dab-1080p/6846349b19fce
+[15:53:26]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/139494452/YyKfVLTJ6iwpt6gFKpsOYTjlt7kf6aHn1Hd…)
+[15:54:44]   downloaded 2,678.9 MB in 75.7s (35.4 MB/s)
+[15:56:34]   upload done video_id=24817964 in 110.3s
