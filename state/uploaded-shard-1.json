@@ -17103,6 +17103,25 @@
         "download_sec": 66.6,
         "upload_sec": 82.6
       }
+    },
+    {
+      "cr_film_id": 3629,
+      "cr_slug": "sajda",
+      "title": "Šajdá",
+      "year": 2023,
+      "display_name": "Šajdá (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "00e5678bbdcd22dc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24800969,
+      "size_bytes": 1993488155,
+      "uploaded_at": "2026-05-14T00:19:30Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 60.6,
+        "upload_sec": 72.8
+      }
     }
   ],
   "failed_attempts": [
@@ -17325,5 +17344,5 @@
       "failed_at": "2026-05-13T22:20:54Z"
     }
   ],
-  "last_updated": "2026-05-14T00:17:13Z"
+  "last_updated": "2026-05-14T00:19:30Z"
 }
