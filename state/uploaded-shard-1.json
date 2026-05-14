@@ -23392,6 +23392,25 @@
         "download_sec": 113.0,
         "upload_sec": 138.6
       }
+    },
+    {
+      "cr_film_id": 4891,
+      "cr_slug": "naslednici",
+      "title": "Následníci",
+      "year": 2015,
+      "display_name": "Následníci (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e9bdc4ea5260",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24817566,
+      "size_bytes": 3782791754,
+      "uploaded_at": "2026-05-14T15:45:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 138.0,
+        "upload_sec": 192.6
+      }
     }
   ],
   "failed_attempts": [
@@ -23812,5 +23831,5 @@
       "failed_at": "2026-05-14T15:22:22Z"
     }
   ],
-  "last_updated": "2026-05-14T15:39:28Z"
+  "last_updated": "2026-05-14T15:45:02Z"
 }
