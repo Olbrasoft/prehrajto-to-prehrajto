@@ -5725,3 +5725,10 @@
 [11:18:05]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/69390794/3QaTPoF9pf3EFQasxyIdVFEvfmxUb4somSOP…)
 [11:19:18]   downloaded 2,566.0 MB in 71.9s (35.7 MB/s)
 [11:20:51]   upload done video_id=24809583 in 92.5s
+[11:20:52] film cr_film_id=4492 OK in 168.3s
+[11:20:52] iteration 20/20
+[11:20:52] film cr_film_id=4494 name='Holky na tripu (2023) CZ Dabing' candidates=1
+[11:20:52]   candidate upload_id=484c2395dff5afe0 url=https://prehraj.to/holky-na-tripu-2023-cz-dabing/484c2395dff5afe0
+[11:20:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/holky-na-tripu-2023-cz-dabing/484c2395dff5afe0 (permanent=True)
+[11:20:54] film cr_film_id=4494 all candidates exhausted
+[11:20:54] batch-end ok=18 failed=2 dur=2568.4s avg/film=142.7s remaining=16469 eta_hours=652.8
