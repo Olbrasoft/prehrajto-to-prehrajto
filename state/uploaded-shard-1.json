@@ -25140,6 +25140,25 @@
         "download_sec": 57.0,
         "upload_sec": 76.8
       }
+    },
+    {
+      "cr_film_id": 5259,
+      "cr_slug": "zakazana-zona",
+      "title": "Zakázaná zóna",
+      "year": 2010,
+      "display_name": "Zakázaná zóna (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a81ed8705e5e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24826736,
+      "size_bytes": 1034890101,
+      "uploaded_at": "2026-05-14T22:23:07Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 34.9,
+        "upload_sec": 60.6
+      }
     }
   ],
   "failed_attempts": [
@@ -25630,5 +25649,5 @@
       "failed_at": "2026-05-14T20:22:04Z"
     }
   ],
-  "last_updated": "2026-05-14T22:21:28Z"
+  "last_updated": "2026-05-14T22:23:07Z"
 }
