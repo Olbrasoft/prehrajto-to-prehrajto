@@ -17882,6 +17882,25 @@
         "download_sec": 27.6,
         "upload_sec": 29.1
       }
+    },
+    {
+      "cr_film_id": 3801,
+      "cr_slug": "kursk",
+      "title": "Kursk",
+      "year": 2018,
+      "display_name": "Kursk (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5cf9ffe025fac",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24801806,
+      "size_bytes": 1684825190,
+      "uploaded_at": "2026-05-14T02:04:03Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 83.5,
+        "upload_sec": 94.8
+      }
     }
   ],
   "failed_attempts": [
@@ -18139,5 +18158,5 @@
       "failed_at": "2026-05-14T01:12:16Z"
     }
   ],
-  "last_updated": "2026-05-14T02:01:00Z"
+  "last_updated": "2026-05-14T02:04:03Z"
 }
