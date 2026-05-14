@@ -20352,6 +20352,25 @@
         "download_sec": 20.5,
         "upload_sec": 22.7
       }
+    },
+    {
+      "cr_film_id": 4299,
+      "cr_slug": "pirati-z-karibiku-salazarova-pomsta",
+      "title": "Piráti z Karibiku: Salazarova pomsta",
+      "year": 2017,
+      "display_name": "Piráti z Karibiku: Salazarova pomsta (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c010d71d2b1d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24804560,
+      "size_bytes": 3922681523,
+      "uploaded_at": "2026-05-14T08:17:42Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 167.7,
+        "upload_sec": 199.0
+      }
     }
   ],
   "failed_attempts": [
@@ -20656,7 +20675,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/humorista-2019-cz-dabing/941ca671f21a7d9e",
       "permanent": true,
       "failed_at": "2026-05-14T07:03:33Z"
+    },
+    {
+      "cr_film_id": 4297,
+      "upload_id": "120f5e43f27781bd",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/po-cem-zeny-touzi-2000-cz-dabing-1080p/120f5e43f27781bd",
+      "permanent": true,
+      "failed_at": "2026-05-14T08:11:28Z"
     }
   ],
-  "last_updated": "2026-05-14T08:11:26Z"
+  "last_updated": "2026-05-14T08:17:42Z"
 }
