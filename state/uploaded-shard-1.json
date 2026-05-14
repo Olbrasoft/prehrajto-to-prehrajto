@@ -18775,6 +18775,25 @@
         "download_sec": 84.0,
         "upload_sec": 107.6
       }
+    },
+    {
+      "cr_film_id": 4011,
+      "cr_slug": "humint",
+      "title": "Humint",
+      "year": 2026,
+      "display_name": "Humint (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b3c41cc2ceb738d2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24802893,
+      "size_bytes": 2246907846,
+      "uploaded_at": "2026-05-14T04:25:01Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 112.8,
+        "upload_sec": 137.3
+      }
     }
   ],
   "failed_attempts": [
@@ -19046,5 +19065,5 @@
       "failed_at": "2026-05-14T03:04:04Z"
     }
   ],
-  "last_updated": "2026-05-14T04:20:45Z"
+  "last_updated": "2026-05-14T04:25:01Z"
 }
