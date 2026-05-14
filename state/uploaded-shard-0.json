@@ -20103,6 +20103,25 @@
         "download_sec": 54.2,
         "upload_sec": 67.2
       }
+    },
+    {
+      "cr_film_id": 4026,
+      "cr_slug": "jay-kelly",
+      "title": "Jay Kelly",
+      "year": 2025,
+      "display_name": "Jay Kelly (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a9ae1aa58210d31d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24803448,
+      "size_bytes": 2752831822,
+      "uploaded_at": "2026-05-14T05:57:29Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 100.4,
+        "upload_sec": 126.1
+      }
     }
   ],
   "failed_attempts": [
@@ -23837,5 +23856,5 @@
       "failed_at": "2026-05-14T05:44:27Z"
     }
   ],
-  "last_updated": "2026-05-14T05:53:39Z"
+  "last_updated": "2026-05-14T05:57:29Z"
 }
