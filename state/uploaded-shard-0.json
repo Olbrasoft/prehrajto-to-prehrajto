@@ -26050,6 +26050,25 @@
         "download_sec": 76.0,
         "upload_sec": 92.5
       }
+    },
+    {
+      "cr_film_id": 5168,
+      "cr_slug": "razova-vlna",
+      "title": "Rázová vlna",
+      "year": 2017,
+      "display_name": "Rázová vlna (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b376a5d0e4c2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24826956,
+      "size_bytes": 1441245929,
+      "uploaded_at": "2026-05-14T22:40:57Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 69.1,
+        "upload_sec": 82.6
+      }
     }
   ],
   "failed_attempts": [
@@ -29924,5 +29943,5 @@
       "failed_at": "2026-05-14T19:14:50Z"
     }
   ],
-  "last_updated": "2026-05-14T22:38:20Z"
+  "last_updated": "2026-05-14T22:40:57Z"
 }
