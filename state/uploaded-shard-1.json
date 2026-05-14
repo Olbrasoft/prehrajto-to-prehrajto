@@ -24342,6 +24342,25 @@
         "download_sec": 702.3,
         "upload_sec": 71.0
       }
+    },
+    {
+      "cr_film_id": 5071,
+      "cr_slug": "feel-the-beat",
+      "title": "Feel the Beat",
+      "year": 2020,
+      "display_name": "Feel the Beat (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60b9cd2d2ba0e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24824702,
+      "size_bytes": 2443692693,
+      "uploaded_at": "2026-05-14T20:21:55Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 90.5,
+        "upload_sec": 123.7
+      }
     }
   ],
   "failed_attempts": [
@@ -24818,5 +24837,5 @@
       "failed_at": "2026-05-14T17:34:09Z"
     }
   ],
-  "last_updated": "2026-05-14T20:18:16Z"
+  "last_updated": "2026-05-14T20:21:55Z"
 }
