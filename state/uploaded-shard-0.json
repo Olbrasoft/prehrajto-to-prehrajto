@@ -18678,6 +18678,25 @@
         "download_sec": 117.0,
         "upload_sec": 161.6
       }
+    },
+    {
+      "cr_film_id": 3762,
+      "cr_slug": "ivan-je-jen-jeden",
+      "title": "Ivan je jen jeden",
+      "year": 2020,
+      "display_name": "Ivan je jen jeden (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60289131dcbcc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24802008,
+      "size_bytes": 1418575144,
+      "uploaded_at": "2026-05-14T02:28:08Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 72.0,
+        "upload_sec": 88.7
+      }
     }
   ],
   "failed_attempts": [
@@ -22379,5 +22398,5 @@
       "failed_at": "2026-05-14T02:20:33Z"
     }
   ],
-  "last_updated": "2026-05-14T02:25:22Z"
+  "last_updated": "2026-05-14T02:28:08Z"
 }
