@@ -22347,6 +22347,25 @@
         "download_sec": 35.5,
         "upload_sec": 43.4
       }
+    },
+    {
+      "cr_film_id": 4673,
+      "cr_slug": "svitani",
+      "title": "Svítání",
+      "year": 2009,
+      "display_name": "Svítání (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68b2cd54e7b90",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24811822,
+      "size_bytes": 2881227230,
+      "uploaded_at": "2026-05-14T12:50:14Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 81.4,
+        "upload_sec": 120.3
+      }
     }
   ],
   "failed_attempts": [
@@ -22727,5 +22746,5 @@
       "failed_at": "2026-05-14T12:36:57Z"
     }
   ],
-  "last_updated": "2026-05-14T12:46:48Z"
+  "last_updated": "2026-05-14T12:50:14Z"
 }
