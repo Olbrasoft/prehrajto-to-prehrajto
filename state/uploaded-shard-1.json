@@ -20124,6 +20124,25 @@
         "download_sec": 77.0,
         "upload_sec": 88.0
       }
+    },
+    {
+      "cr_film_id": 4249,
+      "cr_slug": "silent-hill",
+      "title": "Silent Hill",
+      "year": 2006,
+      "display_name": "Silent Hill (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "670b02c6ddb71",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24804215,
+      "size_bytes": 2385889758,
+      "uploaded_at": "2026-05-14T07:42:50Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 68.4,
+        "upload_sec": 86.7
+      }
     }
   ],
   "failed_attempts": [
@@ -20430,5 +20449,5 @@
       "failed_at": "2026-05-14T07:03:33Z"
     }
   ],
-  "last_updated": "2026-05-14T07:40:12Z"
+  "last_updated": "2026-05-14T07:42:50Z"
 }
