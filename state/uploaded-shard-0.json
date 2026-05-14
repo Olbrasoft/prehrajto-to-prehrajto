@@ -22991,6 +22991,25 @@
         "download_sec": 123.2,
         "upload_sec": 162.5
       }
+    },
+    {
+      "cr_film_id": 4620,
+      "cr_slug": "anelka-nepochopeny-strelec",
+      "title": "Anelka: Nepochopený střelec",
+      "year": 2020,
+      "display_name": "Anelka: Nepochopený střelec (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5f2bdebf10a9a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24811539,
+      "size_bytes": 2934773068,
+      "uploaded_at": "2026-05-14T12:42:52Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 91.2,
+        "upload_sec": 112.2
+      }
     }
   ],
   "failed_attempts": [
@@ -26835,7 +26854,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/galerie-zlomenych-srdci-2020-cz-dabing-hd-mp4/3ea0894621fcca51",
       "permanent": true,
       "failed_at": "2026-05-14T12:16:40Z"
+    },
+    {
+      "cr_film_id": 4614,
+      "upload_id": "f50ebcac71ad86cb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muj-andilek-2019-cz-dabing/f50ebcac71ad86cb",
+      "permanent": true,
+      "failed_at": "2026-05-14T12:39:21Z"
     }
   ],
-  "last_updated": "2026-05-14T12:39:19Z"
+  "last_updated": "2026-05-14T12:42:52Z"
 }

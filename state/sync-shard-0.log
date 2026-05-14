@@ -5959,3 +5959,15 @@
 [12:34:32]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/20118951/26OfdzC8gHa9Imes0Au0wC1dHQpcGWfV5sbN…)
 [12:36:37]   downloaded 3,992.9 MB in 123.2s (32.4 MB/s)
 [12:39:19]   upload done video_id=24811358 in 162.5s
+[12:39:21] film cr_film_id=4608 OK in 289.5s
+[12:39:21] iteration 12/20
+[12:39:21] film cr_film_id=4614 name='Můj andílek (2019) CZ Dabing' candidates=1
+[12:39:21]   candidate upload_id=f50ebcac71ad86cb url=https://prehraj.to/muj-andilek-2019-cz-dabing/f50ebcac71ad86cb
+[12:39:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muj-andilek-2019-cz-dabing/f50ebcac71ad86cb (permanent=True)
+[12:39:21] film cr_film_id=4614 all candidates exhausted
+[12:39:21] iteration 13/20
+[12:39:21] film cr_film_id=4620 name='Anelka: Nepochopený střelec (2020) CZ' candidates=2
+[12:39:21]   candidate upload_id=5f2bdebf10a9a url=https://prehraj.to/anelka-nepochopeny-strelec-sportovni-dokument-2020-1080p-x264-fra-s-scztitulky-81-sten-ok/5f2bdebf10a9a
+[12:39:27]   resolved in 5.9s → 1080p (https://pf-storage1.premiumcdn.net/17836509/BkWSKpuM5fEkTj6U94IDgupmCoKTeqCB0coM…)
+[12:41:00]   downloaded 2,934.8 MB in 91.2s (32.2 MB/s)
+[12:42:52]   upload done video_id=24811539 in 112.2s
