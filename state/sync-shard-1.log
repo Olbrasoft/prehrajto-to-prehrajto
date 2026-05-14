@@ -4099,3 +4099,14 @@
 [01:17:41]   upload done video_id=24801475 in 54.6s
 [01:17:42] film cr_film_id=3749 OK in 99.7s
 [01:17:42] batch-end ok=19 failed=1 dur=2420.2s avg/film=127.4s remaining=16723 eta_hours=591.8
+
+===== run 2026-05-14T01:18:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25834854030) =====
+[01:18:06] batch-start shard=1/2 count=20 backlog=17650 uploads=927 failed_attempts=34
+[01:18:06] login
+[01:18:08] login done
+[01:18:08] iteration 1/20
+[01:18:08] film cr_film_id=3751 name='Léto v Kreuzbergu (2020) CZ' candidates=1
+[01:18:08]   candidate upload_id=608a82e159c8e url=https://prehraj.to/leto-v-kreuzbergu-2020-cz-titulky/608a82e159c8e
+[01:18:09]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/23301660/ApwseocNEcjzIJrSDyInycz3spBuZrt4Ptwj…)
+[01:19:24]   downloaded 1,348.7 MB in 72.3s (18.7 MB/s)
+[01:20:51]   upload done video_id=24801494 in 87.0s
