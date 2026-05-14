@@ -19913,6 +19913,25 @@
         "download_sec": 150.9,
         "upload_sec": 215.0
       }
+    },
+    {
+      "cr_film_id": 3996,
+      "cr_slug": "expendables-postradatelni-2",
+      "title": "Expendables: Postradatelní 2",
+      "year": 2012,
+      "display_name": "Expendables: Postradatelní 2 (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59aa270a8581f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24803311,
+      "size_bytes": 664360981,
+      "uploaded_at": "2026-05-14T05:34:42Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 23.3,
+        "upload_sec": 28.8
+      }
     }
   ],
   "failed_attempts": [
@@ -23631,7 +23650,14 @@
         "download_sec": 69.4,
         "upload_sec": 0.1
       }
+    },
+    {
+      "cr_film_id": 3996,
+      "upload_id": "b13c523432aab79c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/expendables-postradatelni-2-2012-cz-dab-1080p/b13c523432aab79c",
+      "permanent": true,
+      "failed_at": "2026-05-14T05:33:42Z"
     }
   ],
-  "last_updated": "2026-05-14T05:33:39Z"
+  "last_updated": "2026-05-14T05:34:42Z"
 }
