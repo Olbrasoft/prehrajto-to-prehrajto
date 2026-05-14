@@ -5406,3 +5406,14 @@
 [09:47:13]   upload done video_id=24808481 in 20.6s
 [09:47:14] film cr_film_id=4393 OK in 39.8s
 [09:47:14] batch-end ok=20 failed=0 dur=2770.4s avg/film=138.5s remaining=16549 eta_hours=636.7
+
+===== run 2026-05-14T09:48:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25853430316) =====
+[09:48:03] batch-start shard=1/2 count=20 backlog=17650 uploads=1101 failed_attempts=42
+[09:48:03] login
+[09:48:04] login done
+[09:48:04] iteration 1/20
+[09:48:04] film cr_film_id=4395 name='Taxi, taxi (2000) CZ Dabing' candidates=13
+[09:48:04]   candidate upload_id=5c24e4c821a34 url=https://prehraj.to/taxi-2-2000-cz-dabing/5c24e4c821a34
+[09:48:06]   resolved in 1.7s → 480p (https://pf-storage5.premiumcdn.net/10068569/D73T46UeaH3BUVMIO1iKJUZ0H1BukefK2s1X…)
+[09:49:04]   downloaded 1,092.0 MB in 55.8s (19.6 MB/s)
+[09:50:11]   upload done video_id=24808488 in 66.7s
