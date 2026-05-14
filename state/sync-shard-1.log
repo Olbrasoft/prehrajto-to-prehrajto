@@ -5993,3 +5993,14 @@
 [12:50:14]   upload done video_id=24811822 in 120.3s
 [12:50:16] film cr_film_id=4673 OK in 206.4s
 [12:50:16] batch-end ok=18 failed=2 dur=2017.8s avg/film=112.1s remaining=16473 eta_hours=513.0
+
+===== run 2026-05-14T12:50:36Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25860159120) =====
+[12:50:37] batch-start shard=1/2 count=20 backlog=17650 uploads=1177 failed_attempts=51
+[12:50:37] login
+[12:50:38] login done
+[12:50:38] iteration 1/20
+[12:50:38] film cr_film_id=4677 name='Znovu 17 (2009) CZ Dabing' candidates=19
+[12:50:38]   candidate upload_id=59c418c703844 url=https://prehraj.to/znovu-17-2009-cz-dabing/59c418c703844
+[12:50:39]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/2671432/wGos9oI7phwduxjhR6uLeIzkT5xHV3typTeWC…)
+[12:51:01]   downloaded 533.6 MB in 19.5s (27.4 MB/s)
+[12:51:25]   upload done video_id=24811946 in 24.2s
