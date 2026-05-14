@@ -20295,6 +20295,25 @@
         "download_sec": 17.9,
         "upload_sec": 28.3
       }
+    },
+    {
+      "cr_film_id": 4287,
+      "cr_slug": "bezva-finta",
+      "title": "Bezva finta",
+      "year": 1985,
+      "display_name": "Bezva finta (1985) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6375717dc776c9fd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24804441,
+      "size_bytes": 5837759082,
+      "uploaded_at": "2026-05-14T08:07:52Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 242.2,
+        "upload_sec": 299.9
+      }
     }
   ],
   "failed_attempts": [
@@ -20601,5 +20620,5 @@
       "failed_at": "2026-05-14T07:03:33Z"
     }
   ],
-  "last_updated": "2026-05-14T07:58:46Z"
+  "last_updated": "2026-05-14T08:07:52Z"
 }
