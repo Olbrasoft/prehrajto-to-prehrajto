@@ -7165,3 +7165,14 @@
 [22:34:18]   upload done video_id=24826876 in 35.6s
 [22:34:20] film cr_film_id=5275 OK in 61.9s
 [22:34:20] batch-end ok=20 failed=0 dur=2445.8s avg/film=122.3s remaining=16320 eta_hours=554.4
+
+===== run 2026-05-14T22:49:33Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25890117401) =====
+[22:49:34] batch-start shard=1/2 count=20 backlog=17650 uploads=1330 failed_attempts=66
+[22:49:34] login
+[22:49:36] login done
+[22:49:36] iteration 1/20
+[22:49:36] film cr_film_id=5281 name='Sousedi (2014) CZ Dabing' candidates=12
+[22:49:36]   candidate upload_id=57d9050622998 url=https://prehraj.to/sousedi-neighbors-2014-720p-cz-dabing/57d9050622998
+[22:49:37]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/642960/3vASxvCMvFm1H5PsPOCNrC9PTaOcnrUXDHaLiG…)
+[22:50:29]   downloaded 977.7 MB in 49.1s (19.9 MB/s)
+[22:51:25]   upload done video_id=24827117 in 56.4s
