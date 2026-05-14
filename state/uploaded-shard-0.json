@@ -23903,6 +23903,25 @@
         "download_sec": 152.2,
         "upload_sec": 204.4
       }
+    },
+    {
+      "cr_film_id": 4786,
+      "cr_slug": "lucy",
+      "title": "Lucy",
+      "year": 2014,
+      "display_name": "Lucy (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "391ffa5ac6b775a6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24815991,
+      "size_bytes": 1756977461,
+      "uploaded_at": "2026-05-14T14:52:13Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 59.2,
+        "upload_sec": 87.8
+      }
     }
   ],
   "failed_attempts": [
@@ -27756,5 +27775,5 @@
       "failed_at": "2026-05-14T12:39:21Z"
     }
   ],
-  "last_updated": "2026-05-14T14:49:00Z"
+  "last_updated": "2026-05-14T14:52:13Z"
 }

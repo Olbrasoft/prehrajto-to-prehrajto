@@ -6314,3 +6314,14 @@
 [14:49:00]   upload done video_id=24815845 in 204.4s
 [14:49:02] film cr_film_id=4780 OK in 361.7s
 [14:49:02] batch-end ok=20 failed=0 dur=3137.6s avg/film=156.9s remaining=16392 eta_hours=714.4
+
+===== run 2026-05-14T14:49:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25866827987) =====
+[14:49:40] batch-start shard=0/2 count=20 backlog=17650 uploads=1258 failed_attempts=547
+[14:49:40] login
+[14:49:42] login done
+[14:49:42] iteration 1/20
+[14:49:42] film cr_film_id=4786 name='Lucy (2014) CZ Dabing' candidates=7
+[14:49:42]   candidate upload_id=391ffa5ac6b775a6 url=https://prehraj.to/lucy-2014-cz-dab-mp4/391ffa5ac6b775a6
+[14:49:44]   resolved in 1.8s → 720p (https://pf-storage4.premiumcdn.net/157108064/QJdulKsyDIJrF51CnyS0BsLDSxOU3lcEpCd…)
+[14:50:45]   downloaded 1,757.0 MB in 59.2s (29.7 MB/s)
+[14:52:13]   upload done video_id=24815991 in 87.8s
