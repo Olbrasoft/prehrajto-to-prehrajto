@@ -5880,3 +5880,19 @@
 [12:06:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/prvok-sampon-tecka-a-karel-martin-pechlat-david-svehlik-hynek-cermak-martin-hofmann-2021-cz-mkv-mp4/ca5fbdaef0ac2463 (permanent=True)
 [12:06:05] film cr_film_id=4574 all candidates exhausted
 [12:06:05] batch-end ok=19 failed=1 dur=2639.4s avg/film=138.9s remaining=16450 eta_hours=634.7
+
+===== run 2026-05-14T12:16:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25859490653) =====
+[12:16:38] batch-start shard=0/2 count=20 backlog=17650 uploads=1200 failed_attempts=545
+[12:16:38] login
+[12:16:40] login done
+[12:16:40] iteration 1/20
+[12:16:40] film cr_film_id=4576 name='Galerie zlomených srdcí (2020) CZ' candidates=1
+[12:16:40]   candidate upload_id=3ea0894621fcca51 url=https://prehraj.to/galerie-zlomenych-srdci-2020-cz-dabing-hd-mp4/3ea0894621fcca51
+[12:16:40]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/galerie-zlomenych-srdci-2020-cz-dabing-hd-mp4/3ea0894621fcca51 (permanent=True)
+[12:16:40] film cr_film_id=4576 all candidates exhausted
+[12:16:40] iteration 2/20
+[12:16:40] film cr_film_id=4588 name='Sindibád a Tygří oči (1977) CZ Dabing' candidates=4
+[12:16:40]   candidate upload_id=55f99f0bf2631 url=https://prehraj.to/sindibad-a-tygri-oci-1977-cz-dab-akcni-dobrodruzny/55f99f0bf2631
+[12:16:46]   resolved in 6.0s → 480p (https://pf-storage3.premiumcdn.net/315425/mWYsVxf85SP7Uq5tEyCzrfvZtDyS9nT52SKWHz…)
+[12:17:09]   downloaded 603.8 MB in 20.9s (28.9 MB/s)
+[12:17:38]   upload done video_id=24810568 in 29.4s

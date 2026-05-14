@@ -22801,6 +22801,25 @@
         "download_sec": 74.6,
         "upload_sec": 82.6
       }
+    },
+    {
+      "cr_film_id": 4588,
+      "cr_slug": "sindibad-a-tygri-oci",
+      "title": "Sindibád a Tygří oči",
+      "year": 1977,
+      "display_name": "Sindibád a Tygří oči (1977) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55f99f0bf2631",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24810568,
+      "size_bytes": 603803508,
+      "uploaded_at": "2026-05-14T12:17:38Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 20.9,
+        "upload_sec": 29.4
+      }
     }
   ],
   "failed_attempts": [
@@ -26638,7 +26657,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/prvok-sampon-tecka-a-karel-martin-pechlat-david-svehlik-hynek-cermak-martin-hofmann-2021-cz-mkv-mp4/ca5fbdaef0ac2463",
       "permanent": true,
       "failed_at": "2026-05-14T12:06:05Z"
+    },
+    {
+      "cr_film_id": 4576,
+      "upload_id": "3ea0894621fcca51",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/galerie-zlomenych-srdci-2020-cz-dabing-hd-mp4/3ea0894621fcca51",
+      "permanent": true,
+      "failed_at": "2026-05-14T12:16:40Z"
     }
   ],
-  "last_updated": "2026-05-14T12:06:05Z"
+  "last_updated": "2026-05-14T12:17:38Z"
 }
