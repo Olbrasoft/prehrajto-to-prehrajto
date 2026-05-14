@@ -21625,6 +21625,25 @@
         "download_sec": 54.6,
         "upload_sec": 80.0
       }
+    },
+    {
+      "cr_film_id": 4519,
+      "cr_slug": "nova-nocni-mura",
+      "title": "Nová noční můra",
+      "year": 1994,
+      "display_name": "Nová noční můra (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c2201f133e7a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24809577,
+      "size_bytes": 1579897387,
+      "uploaded_at": "2026-05-14T11:18:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 47.6,
+        "upload_sec": 56.1
+      }
     }
   ],
   "failed_attempts": [
@@ -21980,5 +21999,5 @@
       "failed_at": "2026-05-14T11:13:17Z"
     }
   ],
-  "last_updated": "2026-05-14T11:17:11Z"
+  "last_updated": "2026-05-14T11:18:59Z"
 }
