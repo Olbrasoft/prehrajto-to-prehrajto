@@ -22575,6 +22575,25 @@
         "download_sec": 41.0,
         "upload_sec": 47.1
       }
+    },
+    {
+      "cr_film_id": 4747,
+      "cr_slug": "zrodila-se-legenda",
+      "title": "Zrodila se legenda",
+      "year": 2014,
+      "display_name": "Zrodila se legenda (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "1c7edb43f8c1aedd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24812938,
+      "size_bytes": 3597914697,
+      "uploaded_at": "2026-05-14T13:16:21Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 121.9,
+        "upload_sec": 183.9
+      }
     }
   ],
   "failed_attempts": [
@@ -22953,7 +22972,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/snove-leto-2018-cz-dabing-hd-mp4/9fa3414cfec7adb3",
       "permanent": true,
       "failed_at": "2026-05-14T12:36:57Z"
+    },
+    {
+      "cr_film_id": 4745,
+      "upload_id": "1bd36444d6ed6ebe",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/gimme-shelter-2013-cz-dabing-hd-mp4/1bd36444d6ed6ebe",
+      "permanent": true,
+      "failed_at": "2026-05-14T13:11:08Z"
     }
   ],
-  "last_updated": "2026-05-14T13:11:05Z"
+  "last_updated": "2026-05-14T13:16:21Z"
 }
