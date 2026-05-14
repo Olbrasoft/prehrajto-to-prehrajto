@@ -7334,3 +7334,14 @@
 [23:24:29]   upload done video_id=24827743 in 31.1s
 [23:24:31] film cr_film_id=5256 OK in 60.9s
 [23:24:31] batch-end ok=20 failed=0 dur=2096.4s avg/film=104.8s remaining=16254 eta_hours=473.2
+
+===== run 2026-05-14T23:54:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25892421221) =====
+[23:54:41] batch-start shard=0/2 count=20 backlog=17650 uploads=1396 failed_attempts=550
+[23:54:41] login
+[23:54:42] login done
+[23:54:42] iteration 1/20
+[23:54:42] film cr_film_id=5258 name='Dřív než půjdu spát (2014) CZ Dabing' candidates=9
+[23:54:42]   candidate upload_id=5f02464ed149e url=https://prehraj.to/driv-nez-pujdu-spat-2014-czdabing/5f02464ed149e
+[23:54:44]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/17171223/4y7crZf8RCkZIgkfNecyZfkLuGZh70hjVh3L…)
+[23:55:51]   downloaded 1,699.4 MB in 65.5s (25.9 MB/s)
+[23:57:22]   upload done video_id=24828321 in 90.4s
