@@ -25100,6 +25100,25 @@
         "download_sec": 81.5,
         "upload_sec": 97.1
       }
+    },
+    {
+      "cr_film_id": 4972,
+      "cr_slug": "hovory-o-pocasi",
+      "title": "Hovory o počasí",
+      "year": 2022,
+      "display_name": "Hovory o počasí (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63c936e07c3a2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24823786,
+      "size_bytes": 481162306,
+      "uploaded_at": "2026-05-14T19:31:06Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 936.5,
+        "upload_sec": 30.7
+      }
     }
   ],
   "failed_attempts": [
@@ -28965,7 +28984,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-podle-planu-2022-cz-dabing-hd-mp4/e11075fd674e3b7d",
       "permanent": true,
       "failed_at": "2026-05-14T19:11:40Z"
+    },
+    {
+      "cr_film_id": 4968,
+      "upload_id": "a122f289f14a6d1e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/m3gan-2022-cz-dabing-mp4/a122f289f14a6d1e",
+      "permanent": true,
+      "failed_at": "2026-05-14T19:14:50Z"
     }
   ],
-  "last_updated": "2026-05-14T19:14:47Z"
+  "last_updated": "2026-05-14T19:31:06Z"
 }
