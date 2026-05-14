@@ -6896,3 +6896,14 @@
 [20:45:59]   upload done video_id=24825066 in 132.0s
 [20:46:01] film cr_film_id=5022 OK in 271.0s
 [20:46:01] batch-end ok=18 failed=2 dur=6480.8s avg/film=360.0s remaining=16314 eta_hours=1631.4
+
+===== run 2026-05-14T20:46:16Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25879391934) =====
+[20:46:17] batch-start shard=0/2 count=20 backlog=17650 uploads=1336 failed_attempts=550
+[20:46:17] login
+[20:46:19] login done
+[20:46:19] iteration 1/20
+[20:46:19] film cr_film_id=5024 name='Dívka ve sklepě (2021) CZ Dabing' candidates=10
+[20:46:19]   candidate upload_id=6178fa7e09437 url=https://prehraj.to/divka-ve-sklepe-girl-in-the-basement-2021-1080p-webrip-ac3-cz-dab/6178fa7e09437
+[20:46:20]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/25905784/686FO8s4BtgltbDUG7hPYsqYIYJt5bfzmc5P…)
+[20:47:05]   downloaded 860.2 MB in 42.8s (20.1 MB/s)
+[20:48:00]   upload done video_id=24825157 in 54.8s
