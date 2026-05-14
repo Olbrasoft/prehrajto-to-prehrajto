@@ -19649,6 +19649,25 @@
         "download_sec": 36.0,
         "upload_sec": 43.7
       }
+    },
+    {
+      "cr_film_id": 4165,
+      "cr_slug": "sampion",
+      "title": "Šampion",
+      "year": 2019,
+      "display_name": "Šampion (2019) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "61c4febe30252",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24803790,
+      "size_bytes": 2167752517,
+      "uploaded_at": "2026-05-14T06:52:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 69.4,
+        "upload_sec": 79.1
+      }
     }
   ],
   "failed_attempts": [
@@ -19948,5 +19967,5 @@
       "failed_at": "2026-05-14T06:48:01Z"
     }
   ],
-  "last_updated": "2026-05-14T06:49:28Z"
+  "last_updated": "2026-05-14T06:52:01Z"
 }
