@@ -23145,6 +23145,25 @@
         "download_sec": 41.6,
         "upload_sec": 54.2
       }
+    },
+    {
+      "cr_film_id": 4857,
+      "cr_slug": "turbo",
+      "title": "Turbo",
+      "year": 2013,
+      "display_name": "Turbo (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "bb8199adae8fc4d0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24816162,
+      "size_bytes": 1854328360,
+      "uploaded_at": "2026-05-14T14:58:13Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 62.8,
+        "upload_sec": 105.6
+      }
     }
   ],
   "failed_attempts": [
@@ -23544,5 +23563,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-14T14:55:20Z"
+  "last_updated": "2026-05-14T14:58:13Z"
 }
