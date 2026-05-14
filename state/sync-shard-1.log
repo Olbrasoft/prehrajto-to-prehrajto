@@ -6873,3 +6873,14 @@
 [21:09:54]   upload done video_id=24825581 in 124.7s
 [21:09:56] film cr_film_id=5087 OK in 809.8s
 [21:09:56] batch-end ok=20 failed=0 dur=9362.4s avg/film=468.1s remaining=16360 eta_hours=2127.3
+
+===== run 2026-05-14T21:10:11Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25879391934) =====
+[21:10:12] batch-start shard=1/2 count=20 backlog=17650 uploads=1290 failed_attempts=66
+[21:10:12] login
+[21:10:13] login done
+[21:10:13] iteration 1/20
+[21:10:13] film cr_film_id=5093 name='Vše je pravdivé (2018) CZ' candidates=2
+[21:10:13]   candidate upload_id=5d5d767188a24 url=https://prehraj.to/vse-je-pravdive-all-is-true-historicke-drama-v-b-2018-1080p-5-1-x264-cz-61-sten/5d5d767188a24
+[21:10:14]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/14662467/1K3tbMigEs95CMPfyYS4AimxIK4HD1UY7F27…)
+[21:11:09]   downloaded 1,207.5 MB in 52.1s (23.2 MB/s)
+[21:12:12]   upload done video_id=24825636 in 63.2s
