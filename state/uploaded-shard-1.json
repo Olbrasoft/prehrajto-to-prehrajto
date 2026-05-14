@@ -17141,6 +17141,25 @@
         "download_sec": 73.0,
         "upload_sec": 101.3
       }
+    },
+    {
+      "cr_film_id": 3633,
+      "cr_slug": "zlaty-transport",
+      "title": "Zlatý transport",
+      "year": 2022,
+      "display_name": "Zlatý transport (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "421ca24141b789fe",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24801015,
+      "size_bytes": 2209325868,
+      "uploaded_at": "2026-05-14T00:25:18Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 69.2,
+        "upload_sec": 97.7
+      }
     }
   ],
   "failed_attempts": [
@@ -17363,5 +17382,5 @@
       "failed_at": "2026-05-13T22:20:54Z"
     }
   ],
-  "last_updated": "2026-05-14T00:22:28Z"
+  "last_updated": "2026-05-14T00:25:18Z"
 }
