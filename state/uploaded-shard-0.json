@@ -20597,6 +20597,25 @@
         "download_sec": 52.4,
         "upload_sec": 63.5
       }
+    },
+    {
+      "cr_film_id": 4114,
+      "cr_slug": "mayday",
+      "title": "Mayday",
+      "year": 2023,
+      "display_name": "Mayday (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6424d7a691f99",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24803945,
+      "size_bytes": 1822673635,
+      "uploaded_at": "2026-05-14T07:08:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 59.0,
+        "upload_sec": 74.9
+      }
     }
   ],
   "failed_attempts": [
@@ -24345,5 +24364,5 @@
       "failed_at": "2026-05-14T06:40:37Z"
     }
   ],
-  "last_updated": "2026-05-14T07:06:30Z"
+  "last_updated": "2026-05-14T07:08:48Z"
 }
