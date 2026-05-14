@@ -20578,6 +20578,25 @@
         "download_sec": 56.3,
         "upload_sec": 78.4
       }
+    },
+    {
+      "cr_film_id": 4112,
+      "cr_slug": "zavolejte-jane",
+      "title": "Zavolejte Jane",
+      "year": 2022,
+      "display_name": "Zavolejte Jane (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6443993de9001",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24803927,
+      "size_bytes": 1604589121,
+      "uploaded_at": "2026-05-14T07:06:30Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 52.4,
+        "upload_sec": 63.5
+      }
     }
   ],
   "failed_attempts": [
@@ -24326,5 +24345,5 @@
       "failed_at": "2026-05-14T06:40:37Z"
     }
   ],
-  "last_updated": "2026-05-14T07:04:30Z"
+  "last_updated": "2026-05-14T07:06:30Z"
 }
