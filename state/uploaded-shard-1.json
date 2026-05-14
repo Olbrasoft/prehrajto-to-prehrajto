@@ -24095,6 +24095,25 @@
         "download_sec": 35.9,
         "upload_sec": 16.6
       }
+    },
+    {
+      "cr_film_id": 5009,
+      "cr_slug": "kimi",
+      "title": "Kimi",
+      "year": 2022,
+      "display_name": "Kimi (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "4543e3ce760528f3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24821708,
+      "size_bytes": 1727910697,
+      "uploaded_at": "2026-05-14T17:47:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 175.9,
+        "upload_sec": 83.5
+      }
     }
   ],
   "failed_attempts": [
@@ -24571,5 +24590,5 @@
       "failed_at": "2026-05-14T17:34:09Z"
     }
   ],
-  "last_updated": "2026-05-14T17:43:17Z"
+  "last_updated": "2026-05-14T17:47:40Z"
 }
