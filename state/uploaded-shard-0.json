@@ -17747,6 +17747,25 @@
         "download_sec": 26.1,
         "upload_sec": 28.6
       }
+    },
+    {
+      "cr_film_id": 3576,
+      "cr_slug": "dobra-zprava",
+      "title": "Dobrá zpráva",
+      "year": 2025,
+      "display_name": "Dobrá zpráva (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68f232a4879fa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24800841,
+      "size_bytes": 3336928888,
+      "uploaded_at": "2026-05-14T00:08:16Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 118.7,
+        "upload_sec": 155.2
+      }
     }
   ],
   "failed_attempts": [
@@ -21427,5 +21446,5 @@
       "failed_at": "2026-05-13T23:43:22Z"
     }
   ],
-  "last_updated": "2026-05-14T00:03:37Z"
+  "last_updated": "2026-05-14T00:08:16Z"
 }
