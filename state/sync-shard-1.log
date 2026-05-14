@@ -7260,3 +7260,21 @@
 [23:29:26]   resolved in 3.8s → 720p (https://pf-storage4.premiumcdn.net/149802636/b4JuW1ToVhbmtEgFDdsgjTYrhVaHGxfYrhx…)
 [23:31:08]   downloaded 2,106.4 MB in 100.2s (21.0 MB/s)
 [23:33:08]   upload done video_id=24827878 in 119.4s
+[23:33:09] film cr_film_id=5319 OK in 227.0s
+[23:33:09] iteration 14/20
+[23:33:09] film cr_film_id=5321 name='Dokonalá shoda (2025) CZ Dabing' candidates=4
+[23:33:09]   candidate upload_id=73455ae0a04961dc url=https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-100/73455ae0a04961dc
+[23:33:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-100/73455ae0a04961dc (permanent=True)
+[23:33:10]   candidate upload_id=c2368eadbaad57d8 url=https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-bh/c2368eadbaad57d8
+[23:33:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-bh/c2368eadbaad57d8 (permanent=True)
+[23:33:16]   candidate upload_id=f8075f868698b17d url=https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing/f8075f868698b17d
+[23:33:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing/f8075f868698b17d (permanent=True)
+[23:33:22]   candidate upload_id=63b95bbd465a74b2 url=https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-behe/63b95bbd465a74b2
+[23:33:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-behe/63b95bbd465a74b2 (permanent=True)
+[23:33:28] film cr_film_id=5321 all candidates exhausted
+[23:33:28] iteration 15/20
+[23:33:28] film cr_film_id=5327 name='Černá vdova (2025) CZ Dabing' candidates=1
+[23:33:28]   candidate upload_id=6845a701596c1 url=https://prehraj.to/cerna-vdova-2025-cz-dab-1080p/6845a701596c1
+[23:33:35]   resolved in 7.7s → 1080p (https://pf-storage5.premiumcdn.net/139472648/M6JHJYcOGhrMSjauVLCNDcpkCePSV7trZHK…)
+[23:36:03]   downloaded 3,052.7 MB in 144.8s (21.1 MB/s)
+[23:38:59]   upload done video_id=24827977 in 176.4s

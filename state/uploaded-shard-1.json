@@ -25520,6 +25520,25 @@
         "download_sec": 100.2,
         "upload_sec": 119.4
       }
+    },
+    {
+      "cr_film_id": 5327,
+      "cr_slug": "cerna-vdova",
+      "title": "Černá vdova",
+      "year": 2025,
+      "display_name": "Černá vdova (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6845a701596c1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24827977,
+      "size_bytes": 3052685938,
+      "uploaded_at": "2026-05-14T23:38:59Z",
+      "timing": {
+        "resolve_sec": 7.7,
+        "download_sec": 144.8,
+        "upload_sec": 176.4
+      }
     }
   ],
   "failed_attempts": [
@@ -26008,7 +26027,35 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/centralni-inteligence-2016-cz-dab-1080p/34f34c7438748822",
       "permanent": true,
       "failed_at": "2026-05-14T20:22:04Z"
+    },
+    {
+      "cr_film_id": 5321,
+      "upload_id": "73455ae0a04961dc",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-100/73455ae0a04961dc",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:33:10Z"
+    },
+    {
+      "cr_film_id": 5321,
+      "upload_id": "c2368eadbaad57d8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-bh/c2368eadbaad57d8",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:33:16Z"
+    },
+    {
+      "cr_film_id": 5321,
+      "upload_id": "f8075f868698b17d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing/f8075f868698b17d",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:33:22Z"
+    },
+    {
+      "cr_film_id": 5321,
+      "upload_id": "63b95bbd465a74b2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-behe/63b95bbd465a74b2",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:33:28Z"
     }
   ],
-  "last_updated": "2026-05-14T23:33:08Z"
+  "last_updated": "2026-05-14T23:38:59Z"
 }
