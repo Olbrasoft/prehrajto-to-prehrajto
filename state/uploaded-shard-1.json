@@ -20523,6 +20523,25 @@
         "download_sec": 18.6,
         "upload_sec": 24.6
       }
+    },
+    {
+      "cr_film_id": 4341,
+      "cr_slug": "na-doraz",
+      "title": "Na doraz",
+      "year": 2010,
+      "display_name": "Na doraz (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f53460beabc5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24804803,
+      "size_bytes": 1522659757,
+      "uploaded_at": "2026-05-14T08:33:40Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 59.4,
+        "upload_sec": 91.6
+      }
     }
   ],
   "failed_attempts": [
@@ -20836,5 +20855,5 @@
       "failed_at": "2026-05-14T08:11:28Z"
     }
   ],
-  "last_updated": "2026-05-14T08:31:05Z"
+  "last_updated": "2026-05-14T08:33:40Z"
 }
