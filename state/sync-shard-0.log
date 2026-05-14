@@ -6606,3 +6606,14 @@
 [16:39:21]   upload done video_id=24819435 in 15.7s
 [16:39:23] film cr_film_id=4894 OK in 36.1s
 [16:39:23] batch-end ok=20 failed=0 dur=2757.5s avg/film=137.9s remaining=16352 eta_hours=626.4
+
+===== run 2026-05-14T16:55:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25873272780) =====
+[16:55:41] batch-start shard=0/2 count=20 backlog=17650 uploads=1298 failed_attempts=547
+[16:55:41] login
+[16:55:42] login done
+[16:55:42] iteration 1/20
+[16:55:42] film cr_film_id=4896 name='Hlad po citech (2025) CZ Dabing' candidates=1
+[16:55:42]   candidate upload_id=67bef5c73be21 url=https://prehraj.to/hlad-po-citech-2025-cz-dabing-1080p/67bef5c73be21
+[16:55:44]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/130730378/2Xxs71T1Wh4VuojtjlhX0Tg6tKJI5jfNOig…)
+[16:57:35]   downloaded 2,356.2 MB in 108.7s (21.7 MB/s)
+[17:00:17]   upload done video_id=24819980 in 162.0s
