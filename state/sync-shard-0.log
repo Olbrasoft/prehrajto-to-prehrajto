@@ -4560,3 +4560,14 @@
 [04:12:50]   upload done video_id=24802811 in 88.1s
 [04:12:51] film cr_film_id=3932 OK in 170.8s
 [04:12:51] batch-end ok=20 failed=0 dur=3053.6s avg/film=152.7s remaining=16623 eta_hours=705.1
+
+===== run 2026-05-14T04:13:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25841226829) =====
+[04:13:24] batch-start shard=0/2 count=20 backlog=17650 uploads=1027 failed_attempts=528
+[04:13:24] login
+[04:13:25] login done
+[04:13:25] iteration 1/20
+[04:13:25] film cr_film_id=3936 name='Amazing Spider-Man 2 (2014) CZ Dabing' candidates=44
+[04:13:25]   candidate upload_id=393d76f3b2210f6f url=https://prehraj.to/amazing-spider-man-2-2014-cz-dab-1080p/393d76f3b2210f6f
+[04:13:26]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/169279558/yeaFEkSEmsK7c42sXrIy6SwXIdVhDACgOHz…)
+[04:15:06]   downloaded 3,025.3 MB in 98.1s (30.8 MB/s)
+[04:17:09]   upload done video_id=24802832 in 122.6s
