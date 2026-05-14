@@ -4998,3 +4998,14 @@
 [07:08:48]   upload done video_id=24803945 in 74.9s
 [07:08:49] film cr_film_id=4114 OK in 138.0s
 [07:08:49] batch-end ok=19 failed=1 dur=2443.9s avg/film=128.6s remaining=16565 eta_hours=591.7
+
+===== run 2026-05-14T07:09:07Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25846530270) =====
+[07:09:08] batch-start shard=0/2 count=20 backlog=17650 uploads=1085 failed_attempts=532
+[07:09:08] login
+[07:09:10] login done
+[07:09:10] iteration 1/20
+[07:09:10] film cr_film_id=4116 name='Pan Nepolapitelný (2022) CZ Dabing' candidates=1
+[07:09:10]   candidate upload_id=64747b60d7b07 url=https://prehraj.to/pan-nepolapitelny-2022-cz-dabing-1080p/64747b60d7b07
+[07:09:11]   resolved in 1.4s → 720p (https://pf-storage4.premiumcdn.net/41176342/ZPRUXNFrgTgetkZTL3hr3F24C5gfl9TagTDQ…)
+[07:10:41]   downloaded 2,062.4 MB in 87.7s (23.5 MB/s)
+[07:12:26]   upload done video_id=24803970 in 105.6s
