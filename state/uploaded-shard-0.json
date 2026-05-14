@@ -24948,6 +24948,25 @@
         "download_sec": 73.6,
         "upload_sec": 99.3
       }
+    },
+    {
+      "cr_film_id": 4942,
+      "cr_slug": "showing-up",
+      "title": "Showing Up",
+      "year": 2022,
+      "display_name": "Showing Up (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e7e0de72392",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24822492,
+      "size_bytes": 2589254737,
+      "uploaded_at": "2026-05-14T18:19:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 345.2,
+        "upload_sec": 153.8
+      }
     }
   ],
   "failed_attempts": [
@@ -28808,5 +28827,5 @@
       "failed_at": "2026-05-14T17:16:17Z"
     }
   ],
-  "last_updated": "2026-05-14T18:11:11Z"
+  "last_updated": "2026-05-14T18:19:36Z"
 }
