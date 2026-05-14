@@ -21112,6 +21112,25 @@
         "download_sec": 142.0,
         "upload_sec": 195.6
       }
+    },
+    {
+      "cr_film_id": 4427,
+      "cr_slug": "jsem-nesmely-ale-lecim-se",
+      "title": "Jsem nesmělý, ale léčím se",
+      "year": 1978,
+      "display_name": "Jsem nesmělý, ale léčím se (1978) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c27c76391753",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24808710,
+      "size_bytes": 1142680602,
+      "uploaded_at": "2026-05-14T10:12:51Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 54.8,
+        "upload_sec": 67.6
+      }
     }
   ],
   "failed_attempts": [
@@ -21423,7 +21442,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/po-cem-zeny-touzi-2000-cz-dabing-1080p/120f5e43f27781bd",
       "permanent": true,
       "failed_at": "2026-05-14T08:11:28Z"
+    },
+    {
+      "cr_film_id": 4425,
+      "upload_id": "0e0cbcb3372a5989",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/posledni-bohatyr-2017/0e0cbcb3372a5989",
+      "permanent": true,
+      "failed_at": "2026-05-14T10:10:40Z"
     }
   ],
-  "last_updated": "2026-05-14T10:10:37Z"
+  "last_updated": "2026-05-14T10:12:51Z"
 }

@@ -5480,3 +5480,15 @@
 [10:04:58]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/165869741/oMYtxpFJEcaqSMdsWBhM3F4ehYqum6h8DiJ…)
 [10:07:22]   downloaded 3,301.8 MB in 142.0s (23.3 MB/s)
 [10:10:37]   upload done video_id=24808680 in 195.6s
+[10:10:39] film cr_film_id=4421 OK in 342.9s
+[10:10:39] iteration 11/20
+[10:10:39] film cr_film_id=4425 name='Poslední bohatýr (2017) CZ' candidates=1
+[10:10:39]   candidate upload_id=0e0cbcb3372a5989 url=https://prehraj.to/posledni-bohatyr-2017/0e0cbcb3372a5989
+[10:10:40]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/posledni-bohatyr-2017/0e0cbcb3372a5989 (permanent=True)
+[10:10:40] film cr_film_id=4425 all candidates exhausted
+[10:10:40] iteration 12/20
+[10:10:40] film cr_film_id=4427 name='Jsem nesmělý, ale léčím se (1978) CZ' candidates=2
+[10:10:40]   candidate upload_id=5c27c76391753 url=https://prehraj.to/jsem-nesmely-ale-lecim-se-1978/5c27c76391753
+[10:10:46]   resolved in 6.4s → 720p (https://pf-storage1.premiumcdn.net/10198727/vGOcbVTRytWmIgqToafbnTvYuDjsvxuj7tnx…)
+[10:11:44]   downloaded 1,142.7 MB in 54.8s (20.9 MB/s)
+[10:12:51]   upload done video_id=24808710 in 67.6s
