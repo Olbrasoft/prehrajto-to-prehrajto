@@ -4391,3 +4391,14 @@
 [03:07:12]   upload done video_id=24802298 in 101.9s
 [03:07:13] film cr_film_id=3933 OK in 189.5s
 [03:07:13] batch-end ok=19 failed=1 dur=1666.1s avg/film=87.7s remaining=16684 eta_hours=406.4
+
+===== run 2026-05-14T03:21:46Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25839710453) =====
+[03:21:47] batch-start shard=1/2 count=20 backlog=17650 uploads=966 failed_attempts=36
+[03:21:47] login
+[03:21:48] login done
+[03:21:48] iteration 1/20
+[03:21:48] film cr_film_id=3935 name='Poslední vlak (2006) CZ Dabing' candidates=9
+[03:21:48]   candidate upload_id=5ba5849fbbc7d url=https://prehraj.to/posledni-vlak-2007-cz-dabing/5ba5849fbbc7d
+[03:21:50]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/6400783/5x6HE1IarCbMCKzIrjU61IXaimgsn6TXbh5gC…)
+[03:22:13]   downloaded 718.0 MB in 21.6s (33.2 MB/s)
+[03:22:39]   upload done video_id=24802396 in 26.1s
