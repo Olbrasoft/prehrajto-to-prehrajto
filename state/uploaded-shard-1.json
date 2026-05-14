@@ -23335,6 +23335,25 @@
         "download_sec": 131.5,
         "upload_sec": 165.6
       }
+    },
+    {
+      "cr_film_id": 4883,
+      "cr_slug": "ledove-ostri-2007",
+      "title": "Ledově ostří",
+      "year": 2007,
+      "display_name": "Ledově ostří (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "e5a2c705ac955756",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24817178,
+      "size_bytes": 2665231089,
+      "uploaded_at": "2026-05-14T15:31:12Z",
+      "timing": {
+        "resolve_sec": 2.4,
+        "download_sec": 95.6,
+        "upload_sec": 124.7
+      }
     }
   ],
   "failed_attempts": [
@@ -23755,5 +23774,5 @@
       "failed_at": "2026-05-14T15:22:22Z"
     }
   ],
-  "last_updated": "2026-05-14T15:27:26Z"
+  "last_updated": "2026-05-14T15:31:12Z"
 }
