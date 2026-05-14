@@ -24701,6 +24701,25 @@
         "download_sec": 171.8,
         "upload_sec": 249.0
       }
+    },
+    {
+      "cr_film_id": 4902,
+      "cr_slug": "svetylka",
+      "title": "Světýlka",
+      "year": 2024,
+      "display_name": "Světýlka (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6adc93d461bcdc4c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24820401,
+      "size_bytes": 2338214305,
+      "uploaded_at": "2026-05-14T17:14:03Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 257.3,
+        "upload_sec": 137.5
+      }
     }
   ],
   "failed_attempts": [
@@ -28554,5 +28573,5 @@
       "failed_at": "2026-05-14T12:39:21Z"
     }
   ],
-  "last_updated": "2026-05-14T17:07:23Z"
+  "last_updated": "2026-05-14T17:14:03Z"
 }
