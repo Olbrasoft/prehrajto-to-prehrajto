@@ -20654,6 +20654,25 @@
         "download_sec": 35.2,
         "upload_sec": 39.7
       }
+    },
+    {
+      "cr_film_id": 4134,
+      "cr_slug": "scooby-doo-a-duch-labuznik",
+      "title": "Scooby-Doo a duch Labužník",
+      "year": 2018,
+      "display_name": "Scooby-Doo a duch Labužník (2018) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6066ef281277b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24804015,
+      "size_bytes": 1363424219,
+      "uploaded_at": "2026-05-14T07:16:37Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 57.7,
+        "upload_sec": 71.4
+      }
     }
   ],
   "failed_attempts": [
@@ -24400,7 +24419,49 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/abigail-2024-cz-dab-1080p/7c051782ffbcd456",
       "permanent": true,
       "failed_at": "2026-05-14T06:40:37Z"
+    },
+    {
+      "cr_film_id": 4120,
+      "upload_id": "d7745c0257d0d7fb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p-mp4/d7745c0257d0d7fb",
+      "permanent": true,
+      "failed_at": "2026-05-14T07:13:50Z"
+    },
+    {
+      "cr_film_id": 4120,
+      "upload_id": "a471656da91b9d3c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p-mp4/a471656da91b9d3c",
+      "permanent": true,
+      "failed_at": "2026-05-14T07:13:56Z"
+    },
+    {
+      "cr_film_id": 4120,
+      "upload_id": "f1de77818e58bdcb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p-mp4/f1de77818e58bdcb",
+      "permanent": true,
+      "failed_at": "2026-05-14T07:14:01Z"
+    },
+    {
+      "cr_film_id": 4120,
+      "upload_id": "e0718397767da7af",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p/e0718397767da7af",
+      "permanent": true,
+      "failed_at": "2026-05-14T07:14:07Z"
+    },
+    {
+      "cr_film_id": 4132,
+      "upload_id": "d23b9efedfb1925c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mimoni-2-padouch-prichazi-2022-cz-dabing-1080p-top-quality/d23b9efedfb1925c",
+      "permanent": true,
+      "failed_at": "2026-05-14T07:14:13Z"
+    },
+    {
+      "cr_film_id": 4132,
+      "upload_id": "31b5d749bc916c1c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mimoni-2-padouch-prichazi-2022-cz-dabing-1080p-top-quality-mkv/31b5d749bc916c1c",
+      "permanent": true,
+      "failed_at": "2026-05-14T07:14:19Z"
     }
   ],
-  "last_updated": "2026-05-14T07:13:47Z"
+  "last_updated": "2026-05-14T07:16:37Z"
 }
