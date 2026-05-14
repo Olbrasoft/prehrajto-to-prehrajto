@@ -20844,6 +20844,25 @@
         "download_sec": 61.9,
         "upload_sec": 75.2
       }
+    },
+    {
+      "cr_film_id": 4176,
+      "cr_slug": "zivel",
+      "title": "Živel",
+      "year": 2020,
+      "display_name": "Živel (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62ef9cfd5912e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24804275,
+      "size_bytes": 3007447803,
+      "uploaded_at": "2026-05-14T07:48:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 138.7,
+        "upload_sec": 153.3
+      }
     }
   ],
   "failed_attempts": [
@@ -24634,5 +24653,5 @@
       "failed_at": "2026-05-14T07:14:19Z"
     }
   ],
-  "last_updated": "2026-05-14T07:43:55Z"
+  "last_updated": "2026-05-14T07:48:52Z"
 }
