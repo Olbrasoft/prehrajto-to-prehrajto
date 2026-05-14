@@ -6287,3 +6287,14 @@
 [14:26:58]   upload done video_id=24815179 in 31.7s
 [14:26:59] film cr_film_id=4851 OK in 58.0s
 [14:26:59] batch-end ok=20 failed=0 dur=2945.6s avg/film=147.3s remaining=16434 eta_hours=672.4
+
+===== run 2026-05-14T14:49:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25866827987) =====
+[14:49:43] batch-start shard=1/2 count=20 backlog=17650 uploads=1216 failed_attempts=53
+[14:49:43] login
+[14:49:45] login done
+[14:49:45] iteration 1/20
+[14:49:45] film cr_film_id=4853 name='Zpátky do ringu (2013) CZ' candidates=2
+[14:49:45]   candidate upload_id=685770b860574 url=https://prehraj.to/zpatky-do-ringu-2013-cz-en-1080p/685770b860574
+[14:49:46]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/140446406/LG3s6yHR9hkyFoxSjdcMQH0vTmVu9zIgOuY…)
+[14:51:27]   downloaded 2,611.9 MB in 99.1s (26.4 MB/s)
+[14:53:39]   upload done video_id=24816011 in 131.6s
