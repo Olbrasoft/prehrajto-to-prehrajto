@@ -19155,6 +19155,25 @@
         "download_sec": 178.4,
         "upload_sec": 102.2
       }
+    },
+    {
+      "cr_film_id": 4065,
+      "cr_slug": "boxer",
+      "title": "Boxer",
+      "year": 2024,
+      "display_name": "Boxer (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66e47bb74b74f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24803336,
+      "size_bytes": 3234256770,
+      "uploaded_at": "2026-05-14T05:40:47Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 198.2,
+        "upload_sec": 165.9
+      }
     }
   ],
   "failed_attempts": [
@@ -19426,5 +19445,5 @@
       "failed_at": "2026-05-14T03:04:04Z"
     }
   ],
-  "last_updated": "2026-05-14T05:34:39Z"
+  "last_updated": "2026-05-14T05:40:47Z"
 }
