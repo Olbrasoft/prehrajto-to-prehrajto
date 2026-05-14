@@ -17844,6 +17844,25 @@
         "download_sec": 109.2,
         "upload_sec": 145.7
       }
+    },
+    {
+      "cr_film_id": 3797,
+      "cr_slug": "nova-generace",
+      "title": "Nová generace",
+      "year": 2018,
+      "display_name": "Nová generace (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d77da0206328",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24801793,
+      "size_bytes": 2054602101,
+      "uploaded_at": "2026-05-14T01:59:58Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 90.5,
+        "upload_sec": 122.5
+      }
     }
   ],
   "failed_attempts": [
@@ -18101,5 +18120,5 @@
       "failed_at": "2026-05-14T01:12:16Z"
     }
   ],
-  "last_updated": "2026-05-14T01:56:20Z"
+  "last_updated": "2026-05-14T01:59:58Z"
 }
