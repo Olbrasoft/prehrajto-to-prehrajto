@@ -24473,6 +24473,25 @@
         "download_sec": 37.6,
         "upload_sec": 56.8
       }
+    },
+    {
+      "cr_film_id": 4872,
+      "cr_slug": "queer",
+      "title": "Queer",
+      "year": 2024,
+      "display_name": "Queer (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65b15b9a83d8d791",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24818749,
+      "size_bytes": 3480040709,
+      "uploaded_at": "2026-05-14T16:22:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 96.3,
+        "upload_sec": 184.6
+      }
     }
   ],
   "failed_attempts": [
@@ -28326,5 +28345,5 @@
       "failed_at": "2026-05-14T12:39:21Z"
     }
   ],
-  "last_updated": "2026-05-14T16:17:49Z"
+  "last_updated": "2026-05-14T16:22:33Z"
 }
