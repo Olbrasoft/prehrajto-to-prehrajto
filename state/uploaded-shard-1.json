@@ -17578,6 +17578,25 @@
         "download_sec": 71.7,
         "upload_sec": 90.6
       }
+    },
+    {
+      "cr_film_id": 3747,
+      "cr_slug": "cerny-vikend",
+      "title": "Černý víkend",
+      "year": 2019,
+      "display_name": "Černý víkend (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "609ebb972415b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24801460,
+      "size_bytes": 682295337,
+      "uploaded_at": "2026-05-14T01:16:02Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.2,
+        "upload_sec": 27.4
+      }
     }
   ],
   "failed_attempts": [
@@ -17835,5 +17854,5 @@
       "failed_at": "2026-05-14T01:12:16Z"
     }
   ],
-  "last_updated": "2026-05-14T01:15:05Z"
+  "last_updated": "2026-05-14T01:16:02Z"
 }
