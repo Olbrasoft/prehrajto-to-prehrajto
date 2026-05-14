@@ -4706,3 +4706,14 @@
 [04:53:47]   upload done video_id=24803064 in 22.8s
 [04:53:48] film cr_film_id=3992 OK in 42.4s
 [04:53:48] batch-end ok=20 failed=0 dur=2422.9s avg/film=121.1s remaining=16603 eta_hours=558.5
+
+===== run 2026-05-14T05:27:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25843519081) =====
+[05:27:29] batch-start shard=0/2 count=20 backlog=17650 uploads=1047 failed_attempts=528
+[05:27:29] login
+[05:27:30] login done
+[05:27:30] iteration 1/20
+[05:27:30] film cr_film_id=3994 name='Mizerové II (2003) CZ Dabing' candidates=27
+[05:27:30]   candidate upload_id=fbcdaa1a7118cda6 url=https://prehraj.to/mizerove-ii-2003-cz-dab-1080p-remastrovane/fbcdaa1a7118cda6
+[05:27:32]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/167521976/v49ivqI2zIO6IRdhgmF1oINguExFj3cLlUe…)
+[05:30:04]   downloaded 4,841.3 MB in 150.9s (32.1 MB/s)
+[05:33:39]   upload done video_id=24803294 in 215.0s
