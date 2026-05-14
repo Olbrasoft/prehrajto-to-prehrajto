@@ -18338,6 +18338,25 @@
         "download_sec": 14.5,
         "upload_sec": 20.2
       }
+    },
+    {
+      "cr_film_id": 3933,
+      "cr_slug": "moje-tlusta-recka-svatba",
+      "title": "Moje tlustá řecká svatba",
+      "year": 2002,
+      "display_name": "Moje tlustá řecká svatba (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a96223862fc80c8e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24802298,
+      "size_bytes": 2801764727,
+      "uploaded_at": "2026-05-14T03:07:12Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 78.2,
+        "upload_sec": 101.9
+      }
     }
   ],
   "failed_attempts": [
@@ -18600,7 +18619,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/vinylova-laska-2018-cz-dabing-hd-mp4/9c12eb4f6e0859cf",
       "permanent": true,
       "failed_at": "2026-05-14T02:42:30Z"
+    },
+    {
+      "cr_film_id": 3933,
+      "upload_id": "4f96b49e4845f916",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/moje-tlusta-recka-svatba-2002-cz-dab-1080p/4f96b49e4845f916",
+      "permanent": true,
+      "failed_at": "2026-05-14T03:04:04Z"
     }
   ],
-  "last_updated": "2026-05-14T03:04:03Z"
+  "last_updated": "2026-05-14T03:07:12Z"
 }
