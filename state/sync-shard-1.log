@@ -4537,3 +4537,14 @@
 [03:52:40]   upload done video_id=24802642 in 26.4s
 [03:52:41] film cr_film_id=4001 OK in 52.0s
 [03:52:41] batch-end ok=20 failed=0 dur=1853.0s avg/film=92.7s remaining=16664 eta_hours=429.1
+
+===== run 2026-05-14T04:13:19Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25841226829) =====
+[04:13:20] batch-start shard=1/2 count=20 backlog=17650 uploads=986 failed_attempts=36
+[04:13:20] login
+[04:13:22] login done
+[04:13:22] iteration 1/20
+[04:13:22] film cr_film_id=4005 name='30 dní dlouhá noc (2007) CZ Dabing' candidates=13
+[04:13:22]   candidate upload_id=5e951796f1e29 url=https://prehraj.to/30-dni-dlouha-noc-2007-czdabing/5e951796f1e29
+[04:13:24]   resolved in 1.7s → 1080p (https://pf-storage5.premiumcdn.net/16225996/VjGI58Tk0idDsD1hnjtVRTEghD1u3GfLlck4…)
+[04:15:08]   downloaded 2,256.4 MB in 101.2s (22.3 MB/s)
+[04:17:28]   upload done video_id=24802833 in 140.4s
