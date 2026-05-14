@@ -23297,6 +23297,25 @@
         "download_sec": 100.0,
         "upload_sec": 129.1
       }
+    },
+    {
+      "cr_film_id": 4877,
+      "cr_slug": "nikdo-2",
+      "title": "Nikdo 2",
+      "year": 2025,
+      "display_name": "Nikdo 2 (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "de1fbae241890cac",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24816929,
+      "size_bytes": 1478521647,
+      "uploaded_at": "2026-05-14T15:22:14Z",
+      "timing": {
+        "resolve_sec": 7.2,
+        "download_sec": 54.7,
+        "upload_sec": 65.9
+      }
     }
   ],
   "failed_attempts": [
@@ -23694,7 +23713,14 @@
         "download_sec": 69.9,
         "upload_sec": 0.0
       }
+    },
+    {
+      "cr_film_id": 4877,
+      "upload_id": "68ef880c51350",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nikdo-2-2025-cz-dabing-1080p-full-hd-pvio/68ef880c51350",
+      "permanent": true,
+      "failed_at": "2026-05-14T15:20:04Z"
     }
   ],
-  "last_updated": "2026-05-14T15:20:01Z"
+  "last_updated": "2026-05-14T15:22:14Z"
 }
