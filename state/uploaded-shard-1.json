@@ -23601,6 +23601,25 @@
         "download_sec": 66.5,
         "upload_sec": 123.8
       }
+    },
+    {
+      "cr_film_id": 4925,
+      "cr_slug": "vcelar",
+      "title": "Včelař",
+      "year": 2024,
+      "display_name": "Včelař (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60b3fe1b32e0f619",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24819019,
+      "size_bytes": 2524383337,
+      "uploaded_at": "2026-05-14T16:29:55Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 117.4,
+        "upload_sec": 173.4
+      }
     }
   ],
   "failed_attempts": [
@@ -24047,7 +24066,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/back-to-black-2024-cz-dab-1080p/af82266509552db3",
       "permanent": true,
       "failed_at": "2026-05-14T16:17:46Z"
+    },
+    {
+      "cr_film_id": 4923,
+      "upload_id": "0b382703b5711fc9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kralovnin-gambit-2023-cz-dab-1080p/0b382703b5711fc9",
+      "permanent": true,
+      "failed_at": "2026-05-14T16:24:55Z"
     }
   ],
-  "last_updated": "2026-05-14T16:24:53Z"
+  "last_updated": "2026-05-14T16:29:55Z"
 }
