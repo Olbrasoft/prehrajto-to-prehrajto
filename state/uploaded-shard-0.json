@@ -21699,6 +21699,25 @@
         "download_sec": 75.0,
         "upload_sec": 94.6
       }
+    },
+    {
+      "cr_film_id": 4364,
+      "cr_slug": "vincentuv-svet",
+      "title": "Vincentův svět",
+      "year": 2015,
+      "display_name": "Vincentův svět (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "566ce15c30aa1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24808472,
+      "size_bytes": 653252047,
+      "uploaded_at": "2026-05-14T09:45:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 32.8,
+        "upload_sec": 36.1
+      }
     }
   ],
   "failed_attempts": [
@@ -25503,5 +25522,5 @@
       "failed_at": "2026-05-14T08:09:59Z"
     }
   ],
-  "last_updated": "2026-05-14T09:44:21Z"
+  "last_updated": "2026-05-14T09:45:34Z"
 }
