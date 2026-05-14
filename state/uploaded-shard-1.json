@@ -25596,6 +25596,25 @@
         "download_sec": 91.0,
         "upload_sec": 105.5
       }
+    },
+    {
+      "cr_film_id": 5339,
+      "cr_slug": "red-one",
+      "title": "Red One",
+      "year": 2024,
+      "display_name": "Red One (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6761d014b9476",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24828198,
+      "size_bytes": 2012264142,
+      "uploaded_at": "2026-05-14T23:50:58Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 91.2,
+        "upload_sec": 109.1
+      }
     }
   ],
   "failed_attempts": [
@@ -26121,5 +26140,5 @@
       "failed_at": "2026-05-14T23:44:10Z"
     }
   ],
-  "last_updated": "2026-05-14T23:47:33Z"
+  "last_updated": "2026-05-14T23:50:58Z"
 }
