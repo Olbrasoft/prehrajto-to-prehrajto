@@ -21587,6 +21587,25 @@
         "download_sec": 46.2,
         "upload_sec": 50.3
       }
+    },
+    {
+      "cr_film_id": 4515,
+      "cr_slug": "sluzka",
+      "title": "Služka",
+      "year": 2022,
+      "display_name": "Služka (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "32fa32d13cc911fc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24809543,
+      "size_bytes": 1027385370,
+      "uploaded_at": "2026-05-14T11:14:53Z",
+      "timing": {
+        "resolve_sec": 10.0,
+        "download_sec": 29.7,
+        "upload_sec": 54.5
+      }
     }
   ],
   "failed_attempts": [
@@ -21933,7 +21952,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/maly-velky-pes-2024-mp4/0c452c792521c4bf",
       "permanent": true,
       "failed_at": "2026-05-14T10:21:36Z"
+    },
+    {
+      "cr_film_id": 4509,
+      "upload_id": "616b4937d085672c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/renfield-2023-cz-dabing-hd-mp4/616b4937d085672c",
+      "permanent": true,
+      "failed_at": "2026-05-14T11:13:17Z"
     }
   ],
-  "last_updated": "2026-05-14T11:13:14Z"
+  "last_updated": "2026-05-14T11:14:53Z"
 }
