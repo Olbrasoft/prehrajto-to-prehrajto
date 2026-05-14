@@ -6514,3 +6514,17 @@
 [16:25:02]   resolved in 6.4s → 1080p (https://pf-storage3.premiumcdn.net/159817796/myLfzqSk3T9BCANTKpsOpSqkUqZFoqHWoI8…)
 [16:27:01]   downloaded 2,524.4 MB in 117.4s (21.5 MB/s)
 [16:29:55]   upload done video_id=24819019 in 173.4s
+[16:29:57] film cr_film_id=4925 OK in 301.4s
+[16:29:57] iteration 12/20
+[16:29:57] film cr_film_id=4927 name='Kung Fu Panda 4 (2024) CZ Dabing' candidates=2
+[16:29:57]   candidate upload_id=1165b48a2281b130 url=https://prehraj.to/kung-fu-panda-4-2024-cz-dabing-4k-2160p/1165b48a2281b130
+[16:29:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kung-fu-panda-4-2024-cz-dabing-4k-2160p/1165b48a2281b130 (permanent=True)
+[16:29:57]   candidate upload_id=d325456480cdcb75 url=https://prehraj.to/kung-fu-panda-4-2024-cz-dabing-4k-2160p/d325456480cdcb75
+[16:30:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kung-fu-panda-4-2024-cz-dabing-4k-2160p/d325456480cdcb75 (permanent=True)
+[16:30:03] film cr_film_id=4927 all candidates exhausted
+[16:30:03] iteration 13/20
+[16:30:03] film cr_film_id=4929 name='Beowulf (2007) CZ Dabing' candidates=1
+[16:30:03]   candidate upload_id=5a1001dd14bfa url=https://prehraj.to/beowulf-kral-barbaru-2007-cz-dabing/5a1001dd14bfa
+[16:30:09]   resolved in 6.5s → 480p (https://pf-storage5.premiumcdn.net/2936398/dMmsl4fRvFG1H93iBofErfvwcOJFB4HrltBWh…)
+[16:31:09]   downloaded 543.5 MB in 57.6s (9.4 MB/s)
+[16:31:44]   upload done video_id=24819175 in 34.4s

@@ -23620,6 +23620,25 @@
         "download_sec": 117.4,
         "upload_sec": 173.4
       }
+    },
+    {
+      "cr_film_id": 4929,
+      "cr_slug": "beowulf",
+      "title": "Beowulf",
+      "year": 2007,
+      "display_name": "Beowulf (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a1001dd14bfa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24819175,
+      "size_bytes": 543465429,
+      "uploaded_at": "2026-05-14T16:31:44Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 57.6,
+        "upload_sec": 34.4
+      }
     }
   ],
   "failed_attempts": [
@@ -24073,7 +24092,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kralovnin-gambit-2023-cz-dab-1080p/0b382703b5711fc9",
       "permanent": true,
       "failed_at": "2026-05-14T16:24:55Z"
+    },
+    {
+      "cr_film_id": 4927,
+      "upload_id": "1165b48a2281b130",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kung-fu-panda-4-2024-cz-dabing-4k-2160p/1165b48a2281b130",
+      "permanent": true,
+      "failed_at": "2026-05-14T16:29:57Z"
+    },
+    {
+      "cr_film_id": 4927,
+      "upload_id": "d325456480cdcb75",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kung-fu-panda-4-2024-cz-dabing-4k-2160p/d325456480cdcb75",
+      "permanent": true,
+      "failed_at": "2026-05-14T16:30:03Z"
     }
   ],
-  "last_updated": "2026-05-14T16:29:55Z"
+  "last_updated": "2026-05-14T16:31:44Z"
 }
