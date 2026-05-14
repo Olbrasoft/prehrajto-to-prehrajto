@@ -17559,6 +17559,25 @@
         "download_sec": 3.9,
         "upload_sec": 5.2
       }
+    },
+    {
+      "cr_film_id": 3745,
+      "cr_slug": "modry-zazrak",
+      "title": "Modrý zázrak",
+      "year": 2021,
+      "display_name": "Modrý zázrak (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6103e4bf4d9d6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24801434,
+      "size_bytes": 2545724824,
+      "uploaded_at": "2026-05-14T01:15:05Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 71.7,
+        "upload_sec": 90.6
+      }
     }
   ],
   "failed_attempts": [
@@ -17807,7 +17826,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mavka-strazkyne-lesa-2022-cz-dabing/3fff4fe871e47d78",
       "permanent": true,
       "failed_at": "2026-05-14T00:32:40Z"
+    },
+    {
+      "cr_film_id": 3743,
+      "upload_id": "6e5ab082ee6037cb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otcovstvi-2021-cz-dabing/6e5ab082ee6037cb",
+      "permanent": true,
+      "failed_at": "2026-05-14T01:12:16Z"
     }
   ],
-  "last_updated": "2026-05-14T01:12:14Z"
+  "last_updated": "2026-05-14T01:15:05Z"
 }
