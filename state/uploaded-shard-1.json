@@ -17863,6 +17863,25 @@
         "download_sec": 90.5,
         "upload_sec": 122.5
       }
+    },
+    {
+      "cr_film_id": 3799,
+      "cr_slug": "blaze",
+      "title": "Blaze",
+      "year": 2018,
+      "display_name": "Blaze (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d3ee7c97d131",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24801800,
+      "size_bytes": 480298816,
+      "uploaded_at": "2026-05-14T02:01:00Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 27.6,
+        "upload_sec": 29.1
+      }
     }
   ],
   "failed_attempts": [
@@ -18120,5 +18139,5 @@
       "failed_at": "2026-05-14T01:12:16Z"
     }
   ],
-  "last_updated": "2026-05-14T01:59:58Z"
+  "last_updated": "2026-05-14T02:01:00Z"
 }
