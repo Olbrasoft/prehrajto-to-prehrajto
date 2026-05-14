@@ -18680,6 +18680,25 @@
         "download_sec": 15.3,
         "upload_sec": 21.6
       }
+    },
+    {
+      "cr_film_id": 3995,
+      "cr_slug": "za-hranici",
+      "title": "Za hranici",
+      "year": 2014,
+      "display_name": "Za hranici (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d2eb44ad553c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24802630,
+      "size_bytes": 1661866996,
+      "uploaded_at": "2026-05-14T03:51:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 54.3,
+        "upload_sec": 60.9
+      }
     }
   ],
   "failed_attempts": [
@@ -18951,5 +18970,5 @@
       "failed_at": "2026-05-14T03:04:04Z"
     }
   ],
-  "last_updated": "2026-05-14T03:49:10Z"
+  "last_updated": "2026-05-14T03:51:09Z"
 }
