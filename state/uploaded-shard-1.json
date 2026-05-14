@@ -22651,6 +22651,25 @@
         "download_sec": 11.8,
         "upload_sec": 14.0
       }
+    },
+    {
+      "cr_film_id": 4767,
+      "cr_slug": "podfukari-2",
+      "title": "Podfukáři 2",
+      "year": 2016,
+      "display_name": "Podfukáři 2 (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "15968ada4b346ec9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24813326,
+      "size_bytes": 2711529442,
+      "uploaded_at": "2026-05-14T13:28:08Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 89.0,
+        "upload_sec": 116.7
+      }
     }
   ],
   "failed_attempts": [
@@ -23038,5 +23057,5 @@
       "failed_at": "2026-05-14T13:11:08Z"
     }
   ],
-  "last_updated": "2026-05-14T13:24:39Z"
+  "last_updated": "2026-05-14T13:28:08Z"
 }
