@@ -22611,6 +22611,25 @@
         "download_sec": 83.6,
         "upload_sec": 101.8
       }
+    },
+    {
+      "cr_film_id": 4544,
+      "cr_slug": "vlci-pouto",
+      "title": "Vlčí pouto",
+      "year": 2020,
+      "display_name": "Vlčí pouto (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62709192221f2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24809782,
+      "size_bytes": 1429459713,
+      "uploaded_at": "2026-05-14T11:43:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 56.8,
+        "upload_sec": 65.9
+      }
     }
   ],
   "failed_attempts": [
@@ -26436,5 +26455,5 @@
       "failed_at": "2026-05-14T11:33:19Z"
     }
   ],
-  "last_updated": "2026-05-14T11:41:38Z"
+  "last_updated": "2026-05-14T11:43:45Z"
 }
