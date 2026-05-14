@@ -4715,3 +4715,17 @@
 [05:40:50]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/155421443/KxRiYpF9BcpNILVUDgIPZF42t1YfWnSjmIr…)
 [05:42:00]   downloaded 1,608.8 MB in 67.5s (23.8 MB/s)
 [05:43:22]   upload done video_id=24803355 in 82.4s
+[05:43:23] film cr_film_id=4071 OK in 154.6s
+[05:43:23] iteration 5/20
+[05:43:23] film cr_film_id=4073 name='Vražda v Londýně (2022) CZ Dabing' candidates=2
+[05:43:23]   candidate upload_id=84769fe7978f5058 url=https://prehraj.to/vrazda-v-londyne-2022-cz-dabing-mp4/84769fe7978f5058
+[05:43:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vrazda-v-londyne-2022-cz-dabing-mp4/84769fe7978f5058 (permanent=True)
+[05:43:24]   candidate upload_id=8dfa11a75153af2c url=https://prehraj.to/vrazda-v-londyne-2022-cz-dabing-mp4/8dfa11a75153af2c
+[05:43:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vrazda-v-londyne-2022-cz-dabing-mp4/8dfa11a75153af2c (permanent=True)
+[05:43:30] film cr_film_id=4073 all candidates exhausted
+[05:43:30] iteration 6/20
+[05:43:30] film cr_film_id=4075 name='Bývala jsem vtipná (2023) CZ Dabing' candidates=7
+[05:43:30]   candidate upload_id=6851d4f996e44 url=https://prehraj.to/byvala-jsem-vtipna-2023-cz-dabing-1080p/6851d4f996e44
+[05:43:37]   resolved in 6.3s → 1080p (https://pf-storage4.premiumcdn.net/140161160/KdnuGDUZkunETmeHvbFemU1luAEFZ9ukOcp…)
+[05:45:08]   downloaded 2,054.8 MB in 89.0s (23.1 MB/s)
+[05:47:11]   upload done video_id=24803390 in 123.4s
