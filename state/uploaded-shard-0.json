@@ -26392,6 +26392,25 @@
         "download_sec": 63.4,
         "upload_sec": 79.6
       }
+    },
+    {
+      "cr_film_id": 5238,
+      "cr_slug": "kral-artus",
+      "title": "Král Artuš",
+      "year": 2004,
+      "display_name": "Král Artuš (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58210a9a5829c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24827578,
+      "size_bytes": 679631788,
+      "uploaded_at": "2026-05-14T23:14:54Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.1,
+        "upload_sec": 26.0
+      }
     }
   ],
   "failed_attempts": [
@@ -30266,5 +30285,5 @@
       "failed_at": "2026-05-14T19:14:50Z"
     }
   ],
-  "last_updated": "2026-05-14T23:14:01Z"
+  "last_updated": "2026-05-14T23:14:54Z"
 }
