@@ -6370,3 +6370,17 @@
 [15:20:11]   resolved in 7.2s → 720p (https://pf-storage3.premiumcdn.net/164182205/29vinNTlwFMlijQSvOf7PTdyCjeh7LijdsV…)
 [15:21:08]   downloaded 1,478.5 MB in 54.7s (27.0 MB/s)
 [15:22:14]   upload done video_id=24816929 in 65.9s
+[15:22:15] film cr_film_id=4877 OK in 131.7s
+[15:22:15] iteration 12/20
+[15:22:15] film cr_film_id=4879 name='Bláznivá střela (2025) CZ Dabing' candidates=2
+[15:22:15]   candidate upload_id=914944ecbe29bc8c url=https://prehraj.to/blazniva-strela-2025-1080p-cz-dabing/914944ecbe29bc8c
+[15:22:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blazniva-strela-2025-1080p-cz-dabing/914944ecbe29bc8c (permanent=True)
+[15:22:16]   candidate upload_id=0ef0e6ea3bae7751 url=https://prehraj.to/blazniva-strela-the-naked-gun-2025-cz-mp4/0ef0e6ea3bae7751
+[15:22:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blazniva-strela-the-naked-gun-2025-cz-mp4/0ef0e6ea3bae7751 (permanent=True)
+[15:22:22] film cr_film_id=4879 all candidates exhausted
+[15:22:22] iteration 13/20
+[15:22:22] film cr_film_id=4881 name='Nájemní vrazi (1995) CZ Dabing' candidates=15
+[15:22:22]   candidate upload_id=67ca5346adea4 url=https://prehraj.to/najemni-vrazi-sylvester-stallone-antonio-banderas-julianne-moore-1995-akcni-thriller-krimi-bdrip-1080p-cz-dabing/67ca5346adea4
+[15:22:28]   resolved in 5.9s → 1080p (https://pf-storage5.premiumcdn.net/131517461/3N2ir0HKNuMXiepioEtznHmNiRgUA5h3aTo…)
+[15:24:41]   downloaded 3,090.4 MB in 131.5s (23.5 MB/s)
+[15:27:26]   upload done video_id=24817041 in 165.6s
