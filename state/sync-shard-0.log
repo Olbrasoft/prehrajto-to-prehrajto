@@ -6772,3 +6772,15 @@
 [19:02:11]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/103103450/R36FZ4UNmUJoHOBTPRUNDUEotOPT0Rsr0HE…)
 [19:10:48]   downloaded 857.9 MB in 514.8s (1.7 MB/s)
 [19:11:38]   upload done video_id=24823450 in 49.5s
+[19:11:40] film cr_film_id=4962 OK in 570.6s
+[19:11:40] iteration 3/20
+[19:11:40] film cr_film_id=4964 name='Láska podle plánu (2022) CZ' candidates=1
+[19:11:40]   candidate upload_id=e11075fd674e3b7d url=https://prehraj.to/laska-podle-planu-2022-cz-dabing-hd-mp4/e11075fd674e3b7d
+[19:11:40]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-podle-planu-2022-cz-dabing-hd-mp4/e11075fd674e3b7d (permanent=True)
+[19:11:40] film cr_film_id=4964 all candidates exhausted
+[19:11:40] iteration 4/20
+[19:11:40] film cr_film_id=4966 name='Volání rodu (1979) CZ Dabing' candidates=3
+[19:11:40]   candidate upload_id=a105725a2a3c43fc url=https://prehraj.to/volani-rodu-1979-czdabing/a105725a2a3c43fc
+[19:11:47]   resolved in 6.3s → 1080p (https://pf-storage4.premiumcdn.net/165798287/zvPizvUqoSaBS6ehopFPlUlPfjbIrVtQbCw…)
+[19:13:10]   downloaded 1,621.6 MB in 81.5s (19.9 MB/s)
+[19:14:47]   upload done video_id=24823491 in 97.1s

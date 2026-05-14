@@ -25081,6 +25081,25 @@
         "download_sec": 514.8,
         "upload_sec": 49.5
       }
+    },
+    {
+      "cr_film_id": 4966,
+      "cr_slug": "volani-rodu",
+      "title": "Volání rodu",
+      "year": 1979,
+      "display_name": "Volání rodu (1979) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a105725a2a3c43fc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24823491,
+      "size_bytes": 1621562857,
+      "uploaded_at": "2026-05-14T19:14:47Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 81.5,
+        "upload_sec": 97.1
+      }
     }
   ],
   "failed_attempts": [
@@ -28939,7 +28958,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nami-to-konci-2024-cz-dab-1080p/d50d803b8616272a",
       "permanent": true,
       "failed_at": "2026-05-14T17:16:17Z"
+    },
+    {
+      "cr_film_id": 4964,
+      "upload_id": "e11075fd674e3b7d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-podle-planu-2022-cz-dabing-hd-mp4/e11075fd674e3b7d",
+      "permanent": true,
+      "failed_at": "2026-05-14T19:11:40Z"
     }
   ],
-  "last_updated": "2026-05-14T19:11:38Z"
+  "last_updated": "2026-05-14T19:14:47Z"
 }
