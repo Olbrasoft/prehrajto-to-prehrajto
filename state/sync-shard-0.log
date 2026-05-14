@@ -5873,3 +5873,10 @@
 [12:03:23]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/28093827/RQvs05FdDT3bFepsP2FaMFePSl8I56ijWH4A…)
 [12:04:40]   downloaded 1,627.5 MB in 74.6s (21.8 MB/s)
 [12:06:02]   upload done video_id=24810012 in 82.6s
+[12:06:04] film cr_film_id=4572 OK in 162.0s
+[12:06:04] iteration 20/20
+[12:06:04] film cr_film_id=4574 name='Prvok, Šampón, Tečka a Karel (2021) CZ' candidates=1
+[12:06:04]   candidate upload_id=ca5fbdaef0ac2463 url=https://prehraj.to/prvok-sampon-tecka-a-karel-martin-pechlat-david-svehlik-hynek-cermak-martin-hofmann-2021-cz-mkv-mp4/ca5fbdaef0ac2463
+[12:06:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/prvok-sampon-tecka-a-karel-martin-pechlat-david-svehlik-hynek-cermak-martin-hofmann-2021-cz-mkv-mp4/ca5fbdaef0ac2463 (permanent=True)
+[12:06:05] film cr_film_id=4574 all candidates exhausted
+[12:06:05] batch-end ok=19 failed=1 dur=2639.4s avg/film=138.9s remaining=16450 eta_hours=634.7
