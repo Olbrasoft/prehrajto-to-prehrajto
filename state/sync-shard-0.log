@@ -6168,3 +6168,14 @@
 [13:56:24]   upload done video_id=24814196 in 176.4s
 [13:56:26] film cr_film_id=4710 OK in 321.1s
 [13:56:26] batch-end ok=20 failed=0 dur=3438.8s avg/film=171.9s remaining=16412 eta_hours=783.7
+
+===== run 2026-05-14T13:56:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25861328764) =====
+[13:56:42] batch-start shard=0/2 count=20 backlog=17650 uploads=1238 failed_attempts=547
+[13:56:42] login
+[13:56:44] login done
+[13:56:44] iteration 1/20
+[13:56:44] film cr_film_id=4716 name='Smrtihlav (2017) CZ Dabing' candidates=12
+[13:56:44]   candidate upload_id=86e9a07e7c2d2d3c url=https://prehraj.to/smrtihlav-2017-cz-dab-1080p/86e9a07e7c2d2d3c
+[13:56:45]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/165846926/aRnsO6FdouQRURkhedS0EFKEFw2iersNgiB…)
+[13:58:50]   downloaded 2,774.7 MB in 123.1s (22.5 MB/s)
+[14:01:26]   upload done video_id=24814340 in 155.6s
