@@ -18507,6 +18507,25 @@
         "download_sec": 82.6,
         "upload_sec": 89.4
       }
+    },
+    {
+      "cr_film_id": 3730,
+      "cr_slug": "zprava-2020",
+      "title": "Zpráva",
+      "year": 2021,
+      "display_name": "Zpráva (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "687000b27f41e175",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24801783,
+      "size_bytes": 1199984420,
+      "uploaded_at": "2026-05-14T01:55:51Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 56.5,
+        "upload_sec": 70.1
+      }
     }
   ],
   "failed_attempts": [
@@ -22201,5 +22220,5 @@
       "failed_at": "2026-05-14T01:30:13Z"
     }
   ],
-  "last_updated": "2026-05-14T01:53:38Z"
+  "last_updated": "2026-05-14T01:55:51Z"
 }
