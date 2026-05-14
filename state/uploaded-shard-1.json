@@ -19630,6 +19630,25 @@
         "download_sec": 69.2,
         "upload_sec": 79.6
       }
+    },
+    {
+      "cr_film_id": 4159,
+      "cr_slug": "priprava-k-souziti-na-dobu-neurcitou",
+      "title": "Příprava k soužití na dobu neurčitou",
+      "year": 2020,
+      "display_name": "Příprava k soužití na dobu neurčitou (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61a7a7164e6c9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24803774,
+      "size_bytes": 1100944514,
+      "uploaded_at": "2026-05-14T06:49:28Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 36.0,
+        "upload_sec": 43.7
+      }
     }
   ],
   "failed_attempts": [
@@ -19920,7 +19939,14 @@
       "reason": "oversize: 6630906517 B",
       "permanent": true,
       "failed_at": "2026-05-14T06:42:32Z"
+    },
+    {
+      "cr_film_id": 4157,
+      "upload_id": "76ea6a407fbc97d3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mesto-lzi-2018-mp4/76ea6a407fbc97d3",
+      "permanent": true,
+      "failed_at": "2026-05-14T06:48:01Z"
     }
   ],
-  "last_updated": "2026-05-14T06:47:59Z"
+  "last_updated": "2026-05-14T06:49:28Z"
 }
