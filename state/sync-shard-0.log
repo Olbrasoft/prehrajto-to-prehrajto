@@ -4854,3 +4854,14 @@
 [06:16:51]   upload done video_id=24803555 in 82.6s
 [06:16:53] film cr_film_id=4050 OK in 163.1s
 [06:16:53] batch-end ok=19 failed=1 dur=2962.6s avg/film=155.9s remaining=16584 eta_hours=718.2
+
+===== run 2026-05-14T06:28:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25845542057) =====
+[06:28:03] batch-start shard=0/2 count=20 backlog=17650 uploads=1066 failed_attempts=531
+[06:28:03] login
+[06:28:05] login done
+[06:28:05] iteration 1/20
+[06:28:05] film cr_film_id=4054 name='Zraněné city (2023) CZ Dabing' candidates=4
+[06:28:05]   candidate upload_id=674db8ce6d939 url=https://prehraj.to/zranene-city-2023-cz-dabing-1080p/674db8ce6d939
+[06:28:06]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/115542680/LwgIGZUvPToZHNJirmtbzUENfa4h1lt38f4…)
+[06:29:06]   downloaded 1,831.4 MB in 57.9s (31.6 MB/s)
+[06:30:12]   upload done video_id=24803632 in 66.4s
