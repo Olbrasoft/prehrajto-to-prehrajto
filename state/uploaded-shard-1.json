@@ -22157,6 +22157,25 @@
         "download_sec": 27.1,
         "upload_sec": 35.2
       }
+    },
+    {
+      "cr_film_id": 4637,
+      "cr_slug": "black-and-blue",
+      "title": "Černí a fízli",
+      "year": 2019,
+      "display_name": "Černí a fízli (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e4d5de3e8b48",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24811032,
+      "size_bytes": 1908260656,
+      "uploaded_at": "2026-05-14T12:29:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 60.2,
+        "upload_sec": 69.9
+      }
     }
   ],
   "failed_attempts": [
@@ -22519,5 +22538,5 @@
       "failed_at": "2026-05-14T12:21:43Z"
     }
   ],
-  "last_updated": "2026-05-14T12:27:26Z"
+  "last_updated": "2026-05-14T12:29:40Z"
 }
