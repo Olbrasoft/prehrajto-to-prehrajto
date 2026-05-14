@@ -5848,3 +5848,14 @@
 [12:16:11]   upload done video_id=24810398 in 180.0s
 [12:16:13] film cr_film_id=4601 OK in 319.8s
 [12:16:13] batch-end ok=20 failed=0 dur=3249.5s avg/film=162.5s remaining=16491 eta_hours=744.4
+
+===== run 2026-05-14T12:16:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25859490653) =====
+[12:16:36] batch-start shard=1/2 count=20 backlog=17650 uploads=1159 failed_attempts=48
+[12:16:36] login
+[12:16:38] login done
+[12:16:38] iteration 1/20
+[12:16:38] film cr_film_id=4603 name='Vetřelec³ (1992) CZ Dabing' candidates=17
+[12:16:38]   candidate upload_id=5bd593b649bb0 url=https://prehraj.to/vetrelec-3-1992-hdrip-cz-dabing-m3/5bd593b649bb0
+[12:16:39]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/7548049/7nehwjcersxrFwXCmQi3pcpOuX1h6QCQEUzpC…)
+[12:16:55]   downloaded 431.4 MB in 14.0s (30.8 MB/s)
+[12:17:13]   upload done video_id=24810558 in 18.7s
