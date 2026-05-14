@@ -26506,6 +26506,25 @@
         "download_sec": 16.7,
         "upload_sec": 25.6
       }
+    },
+    {
+      "cr_film_id": 5256,
+      "cr_slug": "mocny-vladce-oz",
+      "title": "Mocný vládce Oz",
+      "year": 2013,
+      "display_name": "Mocný vládce Oz (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58214e7d6533f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24827743,
+      "size_bytes": 867405795,
+      "uploaded_at": "2026-05-14T23:24:29Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 26.0,
+        "upload_sec": 31.1
+      }
     }
   ],
   "failed_attempts": [
@@ -30380,5 +30399,5 @@
       "failed_at": "2026-05-14T19:14:50Z"
     }
   ],
-  "last_updated": "2026-05-14T23:23:29Z"
+  "last_updated": "2026-05-14T23:24:29Z"
 }
