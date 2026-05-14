@@ -23979,6 +23979,25 @@
         "download_sec": 17.8,
         "upload_sec": 21.3
       }
+    },
+    {
+      "cr_film_id": 4794,
+      "cr_slug": "syn-zmaru",
+      "title": "Syn zmaru",
+      "year": 2014,
+      "display_name": "Syn zmaru (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b06525875284",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24816139,
+      "size_bytes": 1685858874,
+      "uploaded_at": "2026-05-14T14:56:54Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 62.1,
+        "upload_sec": 69.0
+      }
     }
   ],
   "failed_attempts": [
@@ -27832,5 +27851,5 @@
       "failed_at": "2026-05-14T12:39:21Z"
     }
   ],
-  "last_updated": "2026-05-14T14:54:39Z"
+  "last_updated": "2026-05-14T14:56:54Z"
 }
