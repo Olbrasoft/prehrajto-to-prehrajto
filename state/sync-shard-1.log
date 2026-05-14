@@ -5873,3 +5873,15 @@
 [12:18:57]   resolved in 2.0s → 1080p (https://pf-storage5.premiumcdn.net/18969473/1nqcm2sR3hanh9aSaOUnKsV8Cl2fMZTmqIYp…)
 [12:20:06]   downloaded 2,138.0 MB in 67.0s (31.9 MB/s)
 [12:21:42]   upload done video_id=24810686 in 95.8s
+[12:21:43] film cr_film_id=4615 OK in 167.9s
+[12:21:43] iteration 4/20
+[12:21:43] film cr_film_id=4617 name='Kouzelný svět Davida Copperfielda (2019) CZ' candidates=1
+[12:21:43]   candidate upload_id=9562a848f80b8eb5 url=https://prehraj.to/kouzelny-svet-davida-copperfielda-2019-hd-cz-mp4/9562a848f80b8eb5
+[12:21:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kouzelny-svet-davida-copperfielda-2019-hd-cz-mp4/9562a848f80b8eb5 (permanent=True)
+[12:21:43] film cr_film_id=4617 all candidates exhausted
+[12:21:43] iteration 5/20
+[12:21:43] film cr_film_id=4619 name='Kalifornský sen (2020) CZ Dabing' candidates=1
+[12:21:43]   candidate upload_id=68cc5389aa741 url=https://prehraj.to/kalifornsky-sen-2020-cz-dabing-hd-1080p/68cc5389aa741
+[12:21:49]   resolved in 6.0s → 720p (https://pf-storage1.premiumcdn.net/147307485/wX6c7aFxmtAPFYRF65SmQFy7iKaiVbTXNi5…)
+[12:22:33]   downloaded 1,328.6 MB in 41.6s (31.9 MB/s)
+[12:23:28]   upload done video_id=24810788 in 55.2s
