@@ -18148,6 +18148,25 @@
         "download_sec": 22.7,
         "upload_sec": 26.8
       }
+    },
+    {
+      "cr_film_id": 3841,
+      "cr_slug": "kralicek-petr",
+      "title": "Králíček Petr",
+      "year": 2018,
+      "display_name": "Králíček Petr (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6304ee3178465",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24802206,
+      "size_bytes": 2256367736,
+      "uploaded_at": "2026-05-14T02:52:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 72.5,
+        "upload_sec": 90.5
+      }
     }
   ],
   "failed_attempts": [
@@ -18412,5 +18431,5 @@
       "failed_at": "2026-05-14T02:42:30Z"
     }
   ],
-  "last_updated": "2026-05-14T02:49:53Z"
+  "last_updated": "2026-05-14T02:52:39Z"
 }
