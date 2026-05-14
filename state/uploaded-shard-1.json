@@ -22784,6 +22784,25 @@
         "download_sec": 41.8,
         "upload_sec": 55.2
       }
+    },
+    {
+      "cr_film_id": 4793,
+      "cr_slug": "godzilla",
+      "title": "Godzilla",
+      "year": 2014,
+      "display_name": "Godzilla (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58216398c1677",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24813938,
+      "size_bytes": 585856495,
+      "uploaded_at": "2026-05-14T13:45:42Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.2,
+        "upload_sec": 40.6
+      }
     }
   ],
   "failed_attempts": [
@@ -23171,5 +23190,5 @@
       "failed_at": "2026-05-14T13:11:08Z"
     }
   ],
-  "last_updated": "2026-05-14T13:44:28Z"
+  "last_updated": "2026-05-14T13:45:42Z"
 }
