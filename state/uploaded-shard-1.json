@@ -22252,6 +22252,25 @@
         "download_sec": 39.4,
         "upload_sec": 46.9
       }
+    },
+    {
+      "cr_film_id": 4659,
+      "cr_slug": "unikova-hra",
+      "title": "Úniková hra",
+      "year": 2019,
+      "display_name": "Úniková hra (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5dd416b31e7a9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24811390,
+      "size_bytes": 477075759,
+      "uploaded_at": "2026-05-14T12:37:41Z",
+      "timing": {
+        "resolve_sec": 7.2,
+        "download_sec": 15.7,
+        "upload_sec": 19.5
+      }
     }
   ],
   "failed_attempts": [
@@ -22623,7 +22642,14 @@
         "resolve_sec": 1.0,
         "download_sec": 134.9
       }
+    },
+    {
+      "cr_film_id": 4655,
+      "upload_id": "9fa3414cfec7adb3",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/snove-leto-2018-cz-dabing-hd-mp4/9fa3414cfec7adb3",
+      "permanent": true,
+      "failed_at": "2026-05-14T12:36:57Z"
     }
   ],
-  "last_updated": "2026-05-14T12:36:55Z"
+  "last_updated": "2026-05-14T12:37:41Z"
 }
