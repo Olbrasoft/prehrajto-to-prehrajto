@@ -6137,3 +6137,14 @@
 [13:37:36]   upload done video_id=24813625 in 110.2s
 [13:37:38] film cr_film_id=4777 OK in 227.0s
 [13:37:38] batch-end ok=19 failed=1 dur=2819.2s avg/film=148.4s remaining=16454 eta_hours=678.3
+
+===== run 2026-05-14T13:37:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25861328764) =====
+[13:37:52] batch-start shard=1/2 count=20 backlog=17650 uploads=1196 failed_attempts=52
+[13:37:52] login
+[13:37:54] login done
+[13:37:54] iteration 1/20
+[13:37:54] film cr_film_id=4779 name='Rohy (2013) CZ Dabing' candidates=24
+[13:37:54]   candidate upload_id=5821bb8d0e002 url=https://prehraj.to/rohy-cz-dabing-2013-full-hd-1080p/5821bb8d0e002
+[13:37:55]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/814393/kE2f2gH7eCnocKjH4eHYlH2YioVTaLuvPTx0hr…)
+[13:39:26]   downloaded 2,010.5 MB in 89.2s (22.5 MB/s)
+[13:41:24]   upload done video_id=24813747 in 118.1s
