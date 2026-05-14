@@ -23772,6 +23772,25 @@
         "download_sec": 90.1,
         "upload_sec": 140.6
       }
+    },
+    {
+      "cr_film_id": 4953,
+      "cr_slug": "zjeveni",
+      "title": "Zjevení",
+      "year": 2018,
+      "display_name": "Zjevení (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fdd5bfed64f0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24819927,
+      "size_bytes": 321478609,
+      "uploaded_at": "2026-05-14T16:56:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.9,
+        "upload_sec": 21.9
+      }
     }
   ],
   "failed_attempts": [
@@ -24241,5 +24260,5 @@
       "failed_at": "2026-05-14T16:30:03Z"
     }
   ],
-  "last_updated": "2026-05-14T16:54:21Z"
+  "last_updated": "2026-05-14T16:56:21Z"
 }
