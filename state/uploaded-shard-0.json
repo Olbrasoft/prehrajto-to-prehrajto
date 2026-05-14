@@ -22839,6 +22839,25 @@
         "download_sec": 69.0,
         "upload_sec": 108.5
       }
+    },
+    {
+      "cr_film_id": 4592,
+      "cr_slug": "temne-hlubiny",
+      "title": "Temné hlubiny",
+      "year": 2019,
+      "display_name": "Temné hlubiny (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60964aa65ed17",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24810751,
+      "size_bytes": 1327668529,
+      "uploaded_at": "2026-05-14T12:23:09Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 43.2,
+        "upload_sec": 90.8
+      }
     }
   ],
   "failed_attempts": [
@@ -26685,5 +26704,5 @@
       "failed_at": "2026-05-14T12:16:40Z"
     }
   ],
-  "last_updated": "2026-05-14T12:20:50Z"
+  "last_updated": "2026-05-14T12:23:09Z"
 }
