@@ -19231,6 +19231,25 @@
         "download_sec": 127.4,
         "upload_sec": 160.8
       }
+    },
+    {
+      "cr_film_id": 4081,
+      "cr_slug": "konvoi",
+      "title": "Konvoi",
+      "year": 2023,
+      "display_name": "Konvoi (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f0d413267c37e8b5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24803433,
+      "size_bytes": 402664300,
+      "uploaded_at": "2026-05-14T05:52:49Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.5,
+        "upload_sec": 22.3
+      }
     }
   ],
   "failed_attempts": [
@@ -19516,5 +19535,5 @@
       "failed_at": "2026-05-14T05:43:30Z"
     }
   ],
-  "last_updated": "2026-05-14T05:52:04Z"
+  "last_updated": "2026-05-14T05:52:49Z"
 }
