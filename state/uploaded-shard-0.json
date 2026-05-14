@@ -23447,6 +23447,25 @@
         "download_sec": 58.1,
         "upload_sec": 68.3
       }
+    },
+    {
+      "cr_film_id": 4700,
+      "cr_slug": "v-oblezeni",
+      "title": "V obležení",
+      "year": 2016,
+      "display_name": "V obležení (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60a38d0d74296",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24813927,
+      "size_bytes": 2908327259,
+      "uploaded_at": "2026-05-14T13:47:37Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 151.5,
+        "upload_sec": 166.4
+      }
     }
   ],
   "failed_attempts": [
@@ -27300,5 +27319,5 @@
       "failed_at": "2026-05-14T12:39:21Z"
     }
   ],
-  "last_updated": "2026-05-14T13:42:14Z"
+  "last_updated": "2026-05-14T13:47:37Z"
 }
