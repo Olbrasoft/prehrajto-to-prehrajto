@@ -3974,3 +3974,14 @@
 [00:43:07]   upload done video_id=24801133 in 115.4s
 [00:43:09] film cr_film_id=3626 OK in 209.1s
 [00:43:09] batch-end ok=20 failed=0 dur=3011.9s avg/film=150.6s remaining=16701 eta_hours=698.7
+
+===== run 2026-05-14T00:43:21Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25834301448) =====
+[00:43:22] batch-start shard=0/2 count=20 backlog=17650 uploads=949 failed_attempts=524
+[00:43:22] login
+[00:43:24] login done
+[00:43:24] iteration 1/20
+[00:43:24] film cr_film_id=3638 name='Hunger Games: Balada o ptácích a hadech (2023) CZ Dabing' candidates=7
+[00:43:24]   candidate upload_id=65de88419782a url=https://prehraj.to/hunger-games-balada-o-ptacich-a-hadech-2023-cz-dabing-1080p/65de88419782a
+[00:43:25]   resolved in 1.5s → 720p (https://pf-storage4.premiumcdn.net/73992980/8K8sZ7fMQHy5SaDTvBHk9fVPFX3C5MTANHO0…)
+[00:45:04]   downloaded 2,454.1 MB in 96.4s (25.5 MB/s)
+[00:47:14]   upload done video_id=24801164 in 130.0s
