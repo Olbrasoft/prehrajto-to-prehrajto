@@ -7188,3 +7188,14 @@
 [22:49:07]   upload done video_id=24827053 in 158.3s
 [22:49:09] film cr_film_id=5186 OK in 286.0s
 [22:49:09] batch-end ok=20 failed=0 dur=3336.2s avg/film=166.8s remaining=16274 eta_hours=754.0
+
+===== run 2026-05-14T22:49:32Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25890117401) =====
+[22:49:33] batch-start shard=0/2 count=20 backlog=17650 uploads=1376 failed_attempts=550
+[22:49:33] login
+[22:49:34] login done
+[22:49:34] iteration 1/20
+[22:49:34] film cr_film_id=5188 name='Milý Johne (2010) CZ Dabing' candidates=20
+[22:49:34]   candidate upload_id=633ae43f1edb8 url=https://prehraj.to/mily-johne-dear-john-2010-1080p-cz-dabing/633ae43f1edb8
+[22:49:35]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/33585289/BD5tX6sW9czVHbrcg5C0JsLrUkwtnLh8jcNK…)
+[22:50:40]   downloaded 2,244.5 MB in 63.2s (35.5 MB/s)
+[22:52:07]   upload done video_id=24827121 in 87.2s
