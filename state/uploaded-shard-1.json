@@ -22309,6 +22309,25 @@
         "download_sec": 56.3,
         "upload_sec": 80.1
       }
+    },
+    {
+      "cr_film_id": 4667,
+      "cr_slug": "divosi",
+      "title": "Divoši",
+      "year": 2012,
+      "display_name": "Divoši (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "dac45cbe8abc5107",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24811607,
+      "size_bytes": 3788419733,
+      "uploaded_at": "2026-05-14T12:45:26Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 106.6,
+        "upload_sec": 150.9
+      }
     }
   ],
   "failed_attempts": [
@@ -22689,5 +22708,5 @@
       "failed_at": "2026-05-14T12:36:57Z"
     }
   ],
-  "last_updated": "2026-05-14T12:41:04Z"
+  "last_updated": "2026-05-14T12:45:26Z"
 }
