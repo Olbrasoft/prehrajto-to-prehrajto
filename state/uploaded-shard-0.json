@@ -20369,6 +20369,25 @@
         "download_sec": 52.4,
         "upload_sec": 69.5
       }
+    },
+    {
+      "cr_film_id": 4078,
+      "cr_slug": "aterrados",
+      "title": "Aterrados",
+      "year": 2017,
+      "display_name": "Aterrados (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "61151b840db85",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24803735,
+      "size_bytes": 1080036866,
+      "uploaded_at": "2026-05-14T06:44:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 32.3,
+        "upload_sec": 39.4
+      }
     }
   ],
   "failed_attempts": [
@@ -24117,5 +24136,5 @@
       "failed_at": "2026-05-14T06:40:37Z"
     }
   ],
-  "last_updated": "2026-05-14T06:42:47Z"
+  "last_updated": "2026-05-14T06:44:02Z"
 }
