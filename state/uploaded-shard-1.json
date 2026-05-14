@@ -18528,6 +18528,25 @@
         "download_sec": 54.4,
         "upload_sec": 68.9
       }
+    },
+    {
+      "cr_film_id": 3969,
+      "cr_slug": "inherent-vice",
+      "title": "Skrytá vada",
+      "year": 2014,
+      "display_name": "Skrytá vada (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e7f14edce5f7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24802524,
+      "size_bytes": 928960080,
+      "uploaded_at": "2026-05-14T03:37:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 30.9,
+        "upload_sec": 34.0
+      }
     }
   ],
   "failed_attempts": [
@@ -18799,5 +18818,5 @@
       "failed_at": "2026-05-14T03:04:04Z"
     }
   ],
-  "last_updated": "2026-05-14T03:36:50Z"
+  "last_updated": "2026-05-14T03:37:59Z"
 }
