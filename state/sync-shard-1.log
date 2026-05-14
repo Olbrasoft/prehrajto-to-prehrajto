@@ -4683,3 +4683,14 @@
 [05:26:47]   upload done video_id=24803258 in 159.8s
 [05:26:48] film cr_film_id=4057 OK in 299.9s
 [05:26:48] batch-end ok=20 failed=0 dur=4405.6s avg/film=220.3s remaining=16644 eta_hours=1018.5
+
+===== run 2026-05-14T05:27:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25843519081) =====
+[05:27:30] batch-start shard=1/2 count=20 backlog=17650 uploads=1006 failed_attempts=36
+[05:27:30] login
+[05:27:32] login done
+[05:27:32] iteration 1/20
+[05:27:32] film cr_film_id=4059 name='Tiché znamení (2024) CZ Dabing' candidates=3
+[05:27:32]   candidate upload_id=6701b3ed4c61b url=https://prehraj.to/tiche-znameni-2024-cz-dabing-1080p/6701b3ed4c61b
+[05:27:33]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/100248299/gDAiPvT4NIm4IDahLwuKqTN0hgGCbRtGoip…)
+[05:28:35]   downloaded 1,538.2 MB in 60.4s (25.5 MB/s)
+[05:29:54]   upload done video_id=24803279 in 78.2s
