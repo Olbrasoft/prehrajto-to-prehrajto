@@ -18393,6 +18393,25 @@
         "download_sec": 17.8,
         "upload_sec": 24.9
       }
+    },
+    {
+      "cr_film_id": 3710,
+      "cr_slug": "otec-nas",
+      "title": "Otec náš",
+      "year": 2022,
+      "display_name": "Otec náš (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6280b6384e98f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24801652,
+      "size_bytes": 474167245,
+      "uploaded_at": "2026-05-14T01:38:39Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 26.6,
+        "upload_sec": 30.3
+      }
     }
   ],
   "failed_attempts": [
@@ -22087,5 +22106,5 @@
       "failed_at": "2026-05-14T01:30:13Z"
     }
   ],
-  "last_updated": "2026-05-14T01:37:19Z"
+  "last_updated": "2026-05-14T01:38:39Z"
 }

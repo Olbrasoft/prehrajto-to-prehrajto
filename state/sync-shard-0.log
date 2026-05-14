@@ -4118,3 +4118,14 @@
 [01:37:19]   upload done video_id=24801640 in 24.9s
 [01:37:21] film cr_film_id=3708 OK in 47.3s
 [01:37:21] batch-end ok=19 failed=1 dur=3236.8s avg/film=170.4s remaining=16682 eta_hours=789.6
+
+===== run 2026-05-14T01:37:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25834854030) =====
+[01:37:36] batch-start shard=0/2 count=20 backlog=17650 uploads=968 failed_attempts=525
+[01:37:36] login
+[01:37:38] login done
+[01:37:38] iteration 1/20
+[01:37:38] film cr_film_id=3710 name='Otec náš (2022) CZ Dabing' candidates=1
+[01:37:38]   candidate upload_id=6280b6384e98f url=https://prehraj.to/otec-nas-2022-czdab/6280b6384e98f
+[01:37:40]   resolved in 1.6s → 480p (https://pf-storage1.premiumcdn.net/30838049/jl5Ik6fb7H69t1GF36FRVf1qt5aHakuKdUjN…)
+[01:38:09]   downloaded 474.2 MB in 26.6s (17.8 MB/s)
+[01:38:39]   upload done video_id=24801652 in 30.3s
