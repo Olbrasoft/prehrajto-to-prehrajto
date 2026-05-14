@@ -18053,6 +18053,25 @@
         "download_sec": 21.0,
         "upload_sec": 22.6
       }
+    },
+    {
+      "cr_film_id": 3827,
+      "cr_slug": "horizont-udalosti",
+      "title": "Horizont události",
+      "year": 1997,
+      "display_name": "Horizont události (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64b02c4c230e8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24802144,
+      "size_bytes": 2195915134,
+      "uploaded_at": "2026-05-14T02:45:09Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 64.0,
+        "upload_sec": 87.0
+      }
     }
   ],
   "failed_attempts": [
@@ -18308,7 +18327,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otcovstvi-2021-cz-dabing/6e5ab082ee6037cb",
       "permanent": true,
       "failed_at": "2026-05-14T01:12:16Z"
+    },
+    {
+      "cr_film_id": 3825,
+      "upload_id": "9c12eb4f6e0859cf",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/vinylova-laska-2018-cz-dabing-hd-mp4/9c12eb4f6e0859cf",
+      "permanent": true,
+      "failed_at": "2026-05-14T02:42:30Z"
     }
   ],
-  "last_updated": "2026-05-14T02:42:28Z"
+  "last_updated": "2026-05-14T02:45:09Z"
 }
