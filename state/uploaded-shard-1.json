@@ -25254,6 +25254,25 @@
         "download_sec": 47.7,
         "upload_sec": 67.1
       }
+    },
+    {
+      "cr_film_id": 5275,
+      "cr_slug": "klauni",
+      "title": "Klauni",
+      "year": 2013,
+      "display_name": "Klauni (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c1da7bf8c729",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24826876,
+      "size_bytes": 580903026,
+      "uploaded_at": "2026-05-14T22:34:18Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 22.6,
+        "upload_sec": 35.6
+      }
     }
   ],
   "failed_attempts": [
@@ -25744,5 +25763,5 @@
       "failed_at": "2026-05-14T20:22:04Z"
     }
   ],
-  "last_updated": "2026-05-14T22:33:16Z"
+  "last_updated": "2026-05-14T22:34:18Z"
 }
