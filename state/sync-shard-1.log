@@ -7318,3 +7318,14 @@
 [23:54:16]   upload done video_id=24828257 in 101.5s
 [23:54:17] film cr_film_id=5341 OK in 197.4s
 [23:54:17] batch-end ok=19 failed=1 dur=3880.9s avg/film=204.3s remaining=16301 eta_hours=925.1
+
+===== run 2026-05-14T23:54:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25892421221) =====
+[23:54:39] batch-start shard=1/2 count=20 backlog=17650 uploads=1349 failed_attempts=71
+[23:54:39] login
+[23:54:41] login done
+[23:54:41] iteration 1/20
+[23:54:41] film cr_film_id=5345 name='Obležený (2023) CZ Dabing' candidates=1
+[23:54:41]   candidate upload_id=671be8a8e8cd9 url=https://prehraj.to/oblezeny-2023-cz-dabing/671be8a8e8cd9
+[23:54:42]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/103919906/E4RsreTzbUklHrAFnmS6ETWDTOVhrbtvYcQ…)
+[23:55:31]   downloaded 1,569.9 MB in 48.2s (32.6 MB/s)
+[23:56:33]   upload done video_id=24828313 in 61.5s
