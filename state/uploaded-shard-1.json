@@ -18566,6 +18566,25 @@
         "download_sec": 17.5,
         "upload_sec": 19.1
       }
+    },
+    {
+      "cr_film_id": 3975,
+      "cr_slug": "valka-svetu",
+      "title": "Válka světů",
+      "year": 2005,
+      "display_name": "Válka světů (2005) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68956d9005630",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24802544,
+      "size_bytes": 2839471249,
+      "uploaded_at": "2026-05-14T03:41:46Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 79.6,
+        "upload_sec": 102.9
+      }
     }
   ],
   "failed_attempts": [
@@ -18837,5 +18856,5 @@
       "failed_at": "2026-05-14T03:04:04Z"
     }
   ],
-  "last_updated": "2026-05-14T03:38:39Z"
+  "last_updated": "2026-05-14T03:41:46Z"
 }
