@@ -18621,6 +18621,25 @@
         "download_sec": 45.1,
         "upload_sec": 56.3
       }
+    },
+    {
+      "cr_film_id": 3748,
+      "cr_slug": "borat-2",
+      "title": "Boratův navázaný telefilm",
+      "year": 2020,
+      "display_name": "Boratův navázaný telefilm (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "61c30b50dfebe",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24801906,
+      "size_bytes": 2400678538,
+      "uploaded_at": "2026-05-14T02:17:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 105.3,
+        "upload_sec": 139.1
+      }
     }
   ],
   "failed_attempts": [
@@ -22315,5 +22334,5 @@
       "failed_at": "2026-05-14T01:30:13Z"
     }
   ],
-  "last_updated": "2026-05-14T02:13:47Z"
+  "last_updated": "2026-05-14T02:17:56Z"
 }
