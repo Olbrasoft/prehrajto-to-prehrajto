@@ -22195,6 +22195,25 @@
         "download_sec": 15.4,
         "upload_sec": 23.7
       }
+    },
+    {
+      "cr_film_id": 4647,
+      "cr_slug": "tajny-zivot-mazlicku-2",
+      "title": "Tajný život mazlíčků 2",
+      "year": 2019,
+      "display_name": "Tajný život mazlíčků 2 (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d9f1db280ada",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24811238,
+      "size_bytes": 717511061,
+      "uploaded_at": "2026-05-14T12:34:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.9,
+        "upload_sec": 42.9
+      }
     }
   ],
   "failed_attempts": [
@@ -22555,7 +22574,18 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kouzelny-svet-davida-copperfielda-2019-hd-cz-mp4/9562a848f80b8eb5",
       "permanent": true,
       "failed_at": "2026-05-14T12:21:43Z"
+    },
+    {
+      "cr_film_id": 4647,
+      "upload_id": "6015187af2b0f",
+      "reason": "download_failed: curl exit 28: curl: (28) Failed to connect to prg-c4-storage5.premiumcdn.net port 443 after 134478 ms: Couldn't connect to server",
+      "permanent": false,
+      "failed_at": "2026-05-14T12:33:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 134.9
+      }
     }
   ],
-  "last_updated": "2026-05-14T12:30:23Z"
+  "last_updated": "2026-05-14T12:34:18Z"
 }
