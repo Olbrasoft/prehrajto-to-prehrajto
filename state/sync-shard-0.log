@@ -4266,3 +4266,14 @@
 [02:37:59]   upload done video_id=24802078 in 99.8s
 [02:38:01] film cr_film_id=3770 OK in 188.5s
 [02:38:01] batch-end ok=20 failed=0 dur=3622.7s avg/film=181.1s remaining=16662 eta_hours=838.2
+
+===== run 2026-05-14T02:39:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25838417203) =====
+[02:39:28] batch-start shard=0/2 count=20 backlog=17650 uploads=988 failed_attempts=526
+[02:39:28] login
+[02:39:30] login done
+[02:39:30] iteration 1/20
+[02:39:30] film cr_film_id=3774 name='Enola Holmesová (2020) CZ Dabing' candidates=38
+[02:39:30]   candidate upload_id=5fcae2671eb4e url=https://prehraj.to/enola-holmesova-2020-1080p-5-1-cz-dabing/5fcae2671eb4e
+[02:39:31]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/20557245/X60udVSMPIbQtd0sBnSqnSv6uPdIgMcyVtn6…)
+[02:40:41]   downloaded 2,427.7 MB in 69.3s (35.0 MB/s)
+[02:42:21]   upload done video_id=24802127 in 99.1s
