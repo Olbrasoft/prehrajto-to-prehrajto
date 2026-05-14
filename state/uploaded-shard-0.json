@@ -21110,6 +21110,25 @@
         "download_sec": 69.3,
         "upload_sec": 100.1
       }
+    },
+    {
+      "cr_film_id": 4218,
+      "cr_slug": "late-night",
+      "title": "Late Night",
+      "year": 2019,
+      "display_name": "Late Night (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e332426d6a7a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24804768,
+      "size_bytes": 493988465,
+      "uploaded_at": "2026-05-14T08:30:11Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.8,
+        "upload_sec": 35.6
+      }
     }
   ],
   "failed_attempts": [
@@ -24914,5 +24933,5 @@
       "failed_at": "2026-05-14T08:09:59Z"
     }
   ],
-  "last_updated": "2026-05-14T08:29:05Z"
+  "last_updated": "2026-05-14T08:30:11Z"
 }
