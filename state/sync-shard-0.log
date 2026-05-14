@@ -7042,3 +7042,14 @@
 [21:52:26]   upload done video_id=24826321 in 73.8s
 [21:52:28] film cr_film_id=5094 OK in 132.0s
 [21:52:28] batch-end ok=20 failed=0 dur=3969.0s avg/film=198.4s remaining=16294 eta_hours=898.0
+
+===== run 2026-05-14T21:53:29Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25887845323) =====
+[21:53:31] batch-start shard=0/2 count=20 backlog=17650 uploads=1356 failed_attempts=550
+[21:53:31] login
+[21:53:33] login done
+[21:53:33] iteration 1/20
+[21:53:33] film cr_film_id=5096 name='Zlom (2019) CZ Dabing' candidates=18
+[21:53:33]   candidate upload_id=5eab27cf042c0 url=https://prehraj.to/zlom-breakthrough-2019-1080p-bluray-cz-dabing/5eab27cf042c0
+[21:53:34]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/16402279/Dw5FkainPU94CVguWPhNyi54fQ3UVmTjGUXD…)
+[21:54:59]   downloaded 1,732.1 MB in 82.9s (20.9 MB/s)
+[21:56:42]   upload done video_id=24826361 in 102.9s
