@@ -5702,3 +5702,14 @@
 [11:18:59]   upload done video_id=24809577 in 56.1s
 [11:19:00] film cr_film_id=4519 OK in 107.8s
 [11:19:00] batch-end ok=19 failed=1 dur=2457.0s avg/film=129.3s remaining=16511 eta_hours=593.0
+
+===== run 2026-05-14T11:22:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25857296954) =====
+[11:22:02] batch-start shard=1/2 count=20 backlog=17650 uploads=1139 failed_attempts=48
+[11:22:02] login
+[11:22:04] login done
+[11:22:04] iteration 1/20
+[11:22:04] film cr_film_id=4525 name='Přípitek (2020) CZ Dabing' candidates=1
+[11:22:04]   candidate upload_id=673cf60041597 url=https://prehraj.to/pripitek-le-discours-2020-1080p-bluray-cz-dabing-miki-mp4/673cf60041597
+[11:22:05]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/108702998/Y3VIy5c6Ot3lcgQcD1FRWcW4SGLs5jIEaTj…)
+[11:23:07]   downloaded 1,407.8 MB in 59.9s (23.5 MB/s)
+[11:24:17]   upload done video_id=24809619 in 69.9s

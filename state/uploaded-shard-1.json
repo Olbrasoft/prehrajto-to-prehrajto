@@ -21644,6 +21644,25 @@
         "download_sec": 47.6,
         "upload_sec": 56.1
       }
+    },
+    {
+      "cr_film_id": 4525,
+      "cr_slug": "pripitek",
+      "title": "Přípitek",
+      "year": 2020,
+      "display_name": "Přípitek (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "673cf60041597",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24809619,
+      "size_bytes": 1407820628,
+      "uploaded_at": "2026-05-14T11:24:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 59.9,
+        "upload_sec": 69.9
+      }
     }
   ],
   "failed_attempts": [
@@ -21999,5 +22018,5 @@
       "failed_at": "2026-05-14T11:13:17Z"
     }
   ],
-  "last_updated": "2026-05-14T11:18:59Z"
+  "last_updated": "2026-05-14T11:24:17Z"
 }
