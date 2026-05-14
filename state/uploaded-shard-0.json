@@ -22744,6 +22744,25 @@
         "download_sec": 64.8,
         "upload_sec": 78.2
       }
+    },
+    {
+      "cr_film_id": 4566,
+      "cr_slug": "zadne-prudke-pohyby",
+      "title": "Žádné prudké pohyby",
+      "year": 2021,
+      "display_name": "Žádné prudké pohyby (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6718d4cdcd0ce",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24809939,
+      "size_bytes": 1865122936,
+      "uploaded_at": "2026-05-14T12:01:47Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 85.1,
+        "upload_sec": 82.1
+      }
     }
   ],
   "failed_attempts": [
@@ -26567,7 +26586,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cyrano-2022-cz-dabing-mkv-mp4/24113abe0e37da68",
       "permanent": true,
       "failed_at": "2026-05-14T11:33:19Z"
+    },
+    {
+      "cr_film_id": 4566,
+      "upload_id": "cf3cb8e2e8bd073c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zadne-prudke-pohyby-2021-cz-dab-1080p/cf3cb8e2e8bd073c",
+      "permanent": true,
+      "failed_at": "2026-05-14T11:58:52Z"
     }
   ],
-  "last_updated": "2026-05-14T11:58:50Z"
+  "last_updated": "2026-05-14T12:01:47Z"
 }
