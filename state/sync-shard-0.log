@@ -4410,3 +4410,14 @@
 [03:20:27]   upload done video_id=24802371 in 68.7s
 [03:20:28] film cr_film_id=3822 OK in 133.3s
 [03:20:28] batch-end ok=19 failed=1 dur=2458.5s avg/film=129.4s remaining=16643 eta_hours=598.2
+
+===== run 2026-05-14T03:21:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25839710453) =====
+[03:21:56] batch-start shard=0/2 count=20 backlog=17650 uploads=1007 failed_attempts=527
+[03:21:56] login
+[03:21:57] login done
+[03:21:57] iteration 1/20
+[03:21:58] film cr_film_id=3824 name='Hráči se smrtí (1990) CZ Dabing' candidates=5
+[03:21:58]   candidate upload_id=5c2c38003c1c3 url=https://prehraj.to/hraci-se-smrti-cz-dabing-1990/5c2c38003c1c3
+[03:21:59]   resolved in 1.7s → 480p (https://pf-storage2.premiumcdn.net/10344674/17QHv8fkdu07IaKie2sLofvQhEoi12HE4uXW…)
+[03:22:32]   downloaded 625.5 MB in 31.0s (20.2 MB/s)
+[03:23:11]   upload done video_id=24802399 in 38.4s
