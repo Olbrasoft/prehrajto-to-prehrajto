@@ -3925,3 +3925,17 @@
 [00:26:43]   resolved in 5.9s → 1080p (https://pf-storage3.premiumcdn.net/168018481/dBqTdqf1lHPauO8UoaH0gfPbI7ViW3sgJt9…)
 [00:28:58]   downloaded 4,970.9 MB in 133.6s (37.2 MB/s)
 [00:32:33]   upload done video_id=24801049 in 215.5s
+[00:32:34] film cr_film_id=3645 OK in 357.4s
+[00:32:34] iteration 17/20
+[00:32:34] film cr_film_id=3649 name='Mavka: Strážkyně lesa (2023) CZ Dabing' candidates=2
+[00:32:34]   candidate upload_id=1a7801ebda72a047 url=https://prehraj.to/mavka-strazkyne-lesa-2022-hd-cz-mp4/1a7801ebda72a047
+[00:32:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mavka-strazkyne-lesa-2022-hd-cz-mp4/1a7801ebda72a047 (permanent=True)
+[00:32:35]   candidate upload_id=3fff4fe871e47d78 url=https://prehraj.to/mavka-strazkyne-lesa-2022-cz-dabing/3fff4fe871e47d78
+[00:32:40]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mavka-strazkyne-lesa-2022-cz-dabing/3fff4fe871e47d78 (permanent=True)
+[00:32:40] film cr_film_id=3649 all candidates exhausted
+[00:32:40] iteration 18/20
+[00:32:40] film cr_film_id=3653 name='Irský zázrak (2022) CZ Dabing' candidates=1
+[00:32:40]   candidate upload_id=6377f7b845168 url=https://prehraj.to/irsky-zazrak-2022-czdab/6377f7b845168
+[00:32:46]   resolved in 5.9s → 720p (https://pf-storage3.premiumcdn.net/34713673/ejZfV0TN3TDwI2wUX5unXTMeUMGFd2tB5iDm…)
+[00:33:16]   downloaded 1,023.6 MB in 28.5s (35.9 MB/s)
+[00:33:57]   upload done video_id=24801086 in 40.7s
