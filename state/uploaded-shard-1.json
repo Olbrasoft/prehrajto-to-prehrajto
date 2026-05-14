@@ -19782,6 +19782,25 @@
         "download_sec": 38.0,
         "upload_sec": 55.3
       }
+    },
+    {
+      "cr_film_id": 4195,
+      "cr_slug": "kdyz-chlap-potka-zbran",
+      "title": "Když chlap potká zbraň",
+      "year": 2019,
+      "display_name": "Když chlap potká zbraň (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "334043b49a4774fb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24803908,
+      "size_bytes": 433086468,
+      "uploaded_at": "2026-05-14T07:04:14Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 15.6,
+        "upload_sec": 18.0
+      }
     }
   ],
   "failed_attempts": [
@@ -20079,7 +20098,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mesto-lzi-2018-mp4/76ea6a407fbc97d3",
       "permanent": true,
       "failed_at": "2026-05-14T06:48:01Z"
+    },
+    {
+      "cr_film_id": 4193,
+      "upload_id": "941ca671f21a7d9e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/humorista-2019-cz-dabing/941ca671f21a7d9e",
+      "permanent": true,
+      "failed_at": "2026-05-14T07:03:33Z"
     }
   ],
-  "last_updated": "2026-05-14T07:03:31Z"
+  "last_updated": "2026-05-14T07:04:14Z"
 }

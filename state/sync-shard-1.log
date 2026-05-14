@@ -4956,3 +4956,15 @@
 [07:01:56]   resolved in 1.1s → 480p (https://pf-storage3.premiumcdn.net/22089024/eJ5Fj3feJsGnH7bclWUNDfP5hKGCRKUeVFDq…)
 [07:02:36]   downloaded 1,142.2 MB in 38.0s (30.1 MB/s)
 [07:03:31]   upload done video_id=24803895 in 55.3s
+[07:03:32] film cr_film_id=4187 OK in 97.1s
+[07:03:32] iteration 19/20
+[07:03:32] film cr_film_id=4193 name='Humorista (2018) CZ Dabing' candidates=1
+[07:03:32]   candidate upload_id=941ca671f21a7d9e url=https://prehraj.to/humorista-2019-cz-dabing/941ca671f21a7d9e
+[07:03:33]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/humorista-2019-cz-dabing/941ca671f21a7d9e (permanent=True)
+[07:03:33] film cr_film_id=4193 all candidates exhausted
+[07:03:33] iteration 20/20
+[07:03:33] film cr_film_id=4195 name='Když chlap potká zbraň (2019) CZ Dabing' candidates=1
+[07:03:33]   candidate upload_id=334043b49a4774fb url=https://prehraj.to/kdyz-chlap-potka-zbran-2019-cz-dabing/334043b49a4774fb
+[07:03:39]   resolved in 6.2s → 480p (https://pf-storage6.premiumcdn.net/169284832/OE3HYJuWriDRt7KIGxs2NuWGI73CjXhO7s8…)
+[07:03:56]   downloaded 433.1 MB in 15.6s (27.8 MB/s)
+[07:04:14]   upload done video_id=24803908 in 18.0s
