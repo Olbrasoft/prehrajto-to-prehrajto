@@ -18813,6 +18813,25 @@
         "download_sec": 32.0,
         "upload_sec": 39.8
       }
+    },
+    {
+      "cr_film_id": 4021,
+      "cr_slug": "prachova-prisera",
+      "title": "Prachová příšera",
+      "year": 2025,
+      "display_name": "Prachová příšera (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ec88e215597d62f3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24802915,
+      "size_bytes": 1288722712,
+      "uploaded_at": "2026-05-14T04:28:43Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 59.8,
+        "upload_sec": 80.3
+      }
     }
   ],
   "failed_attempts": [
@@ -19084,5 +19103,5 @@
       "failed_at": "2026-05-14T03:04:04Z"
     }
   ],
-  "last_updated": "2026-05-14T04:26:18Z"
+  "last_updated": "2026-05-14T04:28:43Z"
 }
