@@ -21604,6 +21604,25 @@
         "download_sec": 129.5,
         "upload_sec": 166.4
       }
+    },
+    {
+      "cr_film_id": 4344,
+      "cr_slug": "don-jon",
+      "title": "Don Jon",
+      "year": 2013,
+      "display_name": "Don Jon (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "599f2a9c2af4d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24808423,
+      "size_bytes": 726130298,
+      "uploaded_at": "2026-05-14T09:35:03Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 31.9,
+        "upload_sec": 41.5
+      }
     }
   ],
   "failed_attempts": [
@@ -25408,5 +25427,5 @@
       "failed_at": "2026-05-14T08:09:59Z"
     }
   ],
-  "last_updated": "2026-05-14T09:33:44Z"
+  "last_updated": "2026-05-14T09:35:03Z"
 }
