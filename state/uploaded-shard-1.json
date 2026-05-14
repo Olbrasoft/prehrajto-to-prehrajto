@@ -18585,6 +18585,25 @@
         "download_sec": 79.6,
         "upload_sec": 102.9
       }
+    },
+    {
+      "cr_film_id": 3979,
+      "cr_slug": "oko-dravce",
+      "title": "Oko dravce",
+      "year": 2008,
+      "display_name": "Oko dravce (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68f477417edfb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24802578,
+      "size_bytes": 3119007858,
+      "uploaded_at": "2026-05-14T03:45:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 87.3,
+        "upload_sec": 114.1
+      }
     }
   ],
   "failed_attempts": [
@@ -18856,5 +18875,5 @@
       "failed_at": "2026-05-14T03:04:04Z"
     }
   ],
-  "last_updated": "2026-05-14T03:41:46Z"
+  "last_updated": "2026-05-14T03:45:11Z"
 }
