@@ -26487,6 +26487,25 @@
         "download_sec": 20.3,
         "upload_sec": 22.0
       }
+    },
+    {
+      "cr_film_id": 5254,
+      "cr_slug": "paserak-2014",
+      "title": "Pašerák",
+      "year": 2014,
+      "display_name": "Pašerák (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55d7b6d7d99c7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24827721,
+      "size_bytes": 462966792,
+      "uploaded_at": "2026-05-14T23:23:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.7,
+        "upload_sec": 25.6
+      }
     }
   ],
   "failed_attempts": [
@@ -30361,5 +30380,5 @@
       "failed_at": "2026-05-14T19:14:50Z"
     }
   ],
-  "last_updated": "2026-05-14T23:22:43Z"
+  "last_updated": "2026-05-14T23:23:29Z"
 }
