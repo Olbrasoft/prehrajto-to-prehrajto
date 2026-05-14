@@ -22117,6 +22117,25 @@
         "download_sec": 31.3,
         "upload_sec": 35.5
       }
+    },
+    {
+      "cr_film_id": 4436,
+      "cr_slug": "mars-utoci",
+      "title": "Mars útočí!",
+      "year": 1996,
+      "display_name": "Mars útočí! (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68ec4a8d1e6b4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24809279,
+      "size_bytes": 2645701679,
+      "uploaded_at": "2026-05-14T10:42:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 73.5,
+        "upload_sec": 104.3
+      }
     }
   ],
   "failed_attempts": [
@@ -25921,5 +25940,5 @@
       "failed_at": "2026-05-14T08:09:59Z"
     }
   ],
-  "last_updated": "2026-05-14T10:39:15Z"
+  "last_updated": "2026-05-14T10:42:16Z"
 }
