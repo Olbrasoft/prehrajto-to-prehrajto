@@ -26278,6 +26278,25 @@
         "download_sec": 15.7,
         "upload_sec": 25.2
       }
+    },
+    {
+      "cr_film_id": 5220,
+      "cr_slug": "pod-palbou",
+      "title": "Under the Gun",
+      "year": 2016,
+      "display_name": "Under the Gun (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a36c13b97c3af408",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24827319,
+      "size_bytes": 1659043676,
+      "uploaded_at": "2026-05-14T23:02:08Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 52.5,
+        "upload_sec": 58.9
+      }
     }
   ],
   "failed_attempts": [
@@ -30152,5 +30171,5 @@
       "failed_at": "2026-05-14T19:14:50Z"
     }
   ],
-  "last_updated": "2026-05-14T23:00:13Z"
+  "last_updated": "2026-05-14T23:02:08Z"
 }
