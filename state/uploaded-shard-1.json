@@ -18072,6 +18072,25 @@
         "download_sec": 64.0,
         "upload_sec": 87.0
       }
+    },
+    {
+      "cr_film_id": 3829,
+      "cr_slug": "reservation-road",
+      "title": "Reservation Road",
+      "year": 2007,
+      "display_name": "Reservation Road (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bc614ea1c910",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24802157,
+      "size_bytes": 423621805,
+      "uploaded_at": "2026-05-14T02:45:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.2,
+        "upload_sec": 16.9
+      }
     }
   ],
   "failed_attempts": [
@@ -18336,5 +18355,5 @@
       "failed_at": "2026-05-14T02:42:30Z"
     }
   ],
-  "last_updated": "2026-05-14T02:45:09Z"
+  "last_updated": "2026-05-14T02:45:45Z"
 }
