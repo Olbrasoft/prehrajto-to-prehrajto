@@ -17785,6 +17785,25 @@
         "download_sec": 87.6,
         "upload_sec": 56.9
       }
+    },
+    {
+      "cr_film_id": 3586,
+      "cr_slug": "wasabi",
+      "title": "Wasabi",
+      "year": 2001,
+      "display_name": "Wasabi (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "4b5d86a132f8556d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24800909,
+      "size_bytes": 1877585908,
+      "uploaded_at": "2026-05-14T00:13:19Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 69.0,
+        "upload_sec": 81.7
+      }
     }
   ],
   "failed_attempts": [
@@ -21465,5 +21484,5 @@
       "failed_at": "2026-05-13T23:43:22Z"
     }
   ],
-  "last_updated": "2026-05-14T00:10:44Z"
+  "last_updated": "2026-05-14T00:13:19Z"
 }
