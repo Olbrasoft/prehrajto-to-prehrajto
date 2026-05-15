@@ -7726,3 +7726,17 @@
 [02:02:19]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/7242848/P9lUwaSxrH5rC9KFkDflOSvQHaoI0EHN8s02U…)
 [02:02:58]   downloaded 1,007.6 MB in 37.9s (26.6 MB/s)
 [02:03:47]   upload done video_id=24830481 in 48.5s
+[02:03:48] film cr_film_id=5531 OK in 90.1s
+[02:03:48] iteration 17/20
+[02:03:48] film cr_film_id=5539 name='Londýnský gangster (2010) CZ Dabing' candidates=2
+[02:03:48]   candidate upload_id=0d299b86b9c5455b url=https://prehraj.to/londynsky-gangster-cz-dabing-mp4/0d299b86b9c5455b
+[02:03:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/londynsky-gangster-cz-dabing-mp4/0d299b86b9c5455b (permanent=True)
+[02:03:48]   candidate upload_id=4f4e37f338d6864d url=https://prehraj.to/londynsky-gangster-cz-dabing/4f4e37f338d6864d
+[02:03:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/londynsky-gangster-cz-dabing/4f4e37f338d6864d (permanent=True)
+[02:03:54] film cr_film_id=5539 all candidates exhausted
+[02:03:54] iteration 18/20
+[02:03:54] film cr_film_id=5541 name='Tulipánová horečka (2017) CZ Dabing' candidates=9
+[02:03:54]   candidate upload_id=5c7bb21d5906e url=https://prehraj.to/tulipanova-horecka-tulip-fever-2017-bluray-cz-dabing/5c7bb21d5906e
+[02:04:00]   resolved in 5.9s → 480p (https://pf-storage1.premiumcdn.net/12258658/89wsLXTYZHX3F8mF4DT8pTmAuVlSxkc3nc2X…)
+[02:04:19]   downloaded 463.9 MB in 18.5s (25.1 MB/s)
+[02:04:40]   upload done video_id=24830495 in 20.2s
