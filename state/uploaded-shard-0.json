@@ -28178,6 +28178,25 @@
         "download_sec": 22.5,
         "upload_sec": 30.0
       }
+    },
+    {
+      "cr_film_id": 5566,
+      "cr_slug": "americky-zabijak",
+      "title": "Americký zabiják",
+      "year": 2017,
+      "display_name": "Americký zabiják (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c908c293ea40",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24835453,
+      "size_bytes": 2105579785,
+      "uploaded_at": "2026-05-15T03:49:46Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 91.8,
+        "upload_sec": 113.0
+      }
     }
   ],
   "failed_attempts": [
@@ -32148,5 +32167,5 @@
       "failed_at": "2026-05-15T03:17:17Z"
     }
   ],
-  "last_updated": "2026-05-15T03:46:17Z"
+  "last_updated": "2026-05-15T03:49:46Z"
 }
