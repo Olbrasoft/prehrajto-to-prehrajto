@@ -34545,6 +34545,25 @@
         "download_sec": 333.3,
         "upload_sec": 96.6
       }
+    },
+    {
+      "cr_film_id": 7189,
+      "cr_slug": "hnev-titanu",
+      "title": "Hněv Titánů",
+      "year": 2012,
+      "display_name": "Hněv Titánů (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ad8d2229b681c9ef",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24863185,
+      "size_bytes": 2567527268,
+      "uploaded_at": "2026-05-15T20:32:57Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 1469.4,
+        "upload_sec": 91.0
+      }
     }
   ],
   "failed_attempts": [
@@ -35224,5 +35243,5 @@
       "failed_at": "2026-05-15T19:42:23Z"
     }
   ],
-  "last_updated": "2026-05-15T20:06:53Z"
+  "last_updated": "2026-05-15T20:32:57Z"
 }
