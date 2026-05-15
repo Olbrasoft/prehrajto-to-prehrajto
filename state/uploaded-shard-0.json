@@ -34144,6 +34144,25 @@
         "download_sec": 117.2,
         "upload_sec": 197.4
       }
+    },
+    {
+      "cr_film_id": 6770,
+      "cr_slug": "hracka-1982",
+      "title": "Hračka",
+      "year": 1982,
+      "display_name": "Hračka (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "cfb6e9023fedb7d6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24860220,
+      "size_bytes": 991705541,
+      "uploaded_at": "2026-05-15T17:11:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 41.6,
+        "upload_sec": 41.1
+      }
     }
   ],
   "failed_attempts": [
@@ -38287,5 +38306,5 @@
       "failed_at": "2026-05-15T17:04:32Z"
     }
   ],
-  "last_updated": "2026-05-15T17:09:54Z"
+  "last_updated": "2026-05-15T17:11:21Z"
 }
