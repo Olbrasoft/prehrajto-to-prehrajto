@@ -28862,6 +28862,25 @@
         "download_sec": 153.7,
         "upload_sec": 250.1
       }
+    },
+    {
+      "cr_film_id": 5724,
+      "cr_slug": "hitman",
+      "title": "Hitman",
+      "year": 2007,
+      "display_name": "Hitman (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c36e3ce67ae9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24838755,
+      "size_bytes": 999995154,
+      "uploaded_at": "2026-05-15T05:08:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 37.0,
+        "upload_sec": 49.1
+      }
     }
   ],
   "failed_attempts": [
@@ -32846,5 +32865,5 @@
       "failed_at": "2026-05-15T04:11:59Z"
     }
   ],
-  "last_updated": "2026-05-15T05:06:46Z"
+  "last_updated": "2026-05-15T05:08:17Z"
 }
