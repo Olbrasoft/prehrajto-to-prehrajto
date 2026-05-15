@@ -10707,3 +10707,14 @@
 [20:42:51]   upload done video_id=24863293 in 122.0s
 [20:42:53] film cr_film_id=6916 OK in 228.5s
 [20:42:53] batch-end ok=20 failed=0 dur=8512.7s avg/film=425.6s remaining=15813 eta_hours=1869.4
+
+===== run 2026-05-15T20:43:05Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25934567314) =====
+[20:43:07] batch-start shard=0/2 count=20 backlog=17650 uploads=1837 failed_attempts=590
+[20:43:07] login
+[20:43:08] login done
+[20:43:08] iteration 1/20
+[20:43:08] film cr_film_id=6920 name='Cesta do středu Země (2008) CZ Dabing' candidates=26
+[20:43:08]   candidate upload_id=5b08a07e15780 url=https://prehraj.to/cesta-do-stredu-zeme-2008-cz-dabing/5b08a07e15780
+[20:43:09]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/4312531/0OdsoBULOsYMuGYuLluODUNMTWvIM9taRuWaI…)
+[20:43:35]   downloaded 533.4 MB in 23.9s (22.3 MB/s)
+[20:44:00]   upload done video_id=24863329 in 25.0s
