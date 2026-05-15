@@ -28444,6 +28444,25 @@
         "download_sec": 53.3,
         "upload_sec": 56.0
       }
+    },
+    {
+      "cr_film_id": 5646,
+      "cr_slug": "grimsby",
+      "title": "Grimsby",
+      "year": 2016,
+      "display_name": "Grimsby (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68d6042026cbb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24836589,
+      "size_bytes": 1547413295,
+      "uploaded_at": "2026-05-15T04:14:47Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 69.1,
+        "upload_sec": 90.1
+      }
     }
   ],
   "failed_attempts": [
@@ -32419,7 +32438,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/inferno-2016-cz-dab-1080p/c6bfdb761b58cbcb",
       "permanent": true,
       "failed_at": "2026-05-15T04:00:08Z"
+    },
+    {
+      "cr_film_id": 5644,
+      "upload_id": "a4f98493d467b84e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/keanu-kocici-gangsterka-2016-cz-dabing-mp4/a4f98493d467b84e",
+      "permanent": true,
+      "failed_at": "2026-05-15T04:11:59Z"
     }
   ],
-  "last_updated": "2026-05-15T04:11:56Z"
+  "last_updated": "2026-05-15T04:14:47Z"
 }
