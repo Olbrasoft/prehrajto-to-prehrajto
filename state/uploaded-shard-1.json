@@ -28864,6 +28864,25 @@
         "download_sec": 64.2,
         "upload_sec": 70.8
       }
+    },
+    {
+      "cr_film_id": 5985,
+      "cr_slug": "bez-kalhot",
+      "title": "Bez kalhot",
+      "year": 2012,
+      "display_name": "Bez kalhot (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "601091134a309",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24842154,
+      "size_bytes": 508646764,
+      "uploaded_at": "2026-05-15T07:00:02Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.4,
+        "upload_sec": 30.8
+      }
     }
   ],
   "failed_attempts": [
@@ -29424,5 +29443,5 @@
       "failed_at": "2026-05-15T05:36:46Z"
     }
   ],
-  "last_updated": "2026-05-15T06:59:12Z"
+  "last_updated": "2026-05-15T07:00:02Z"
 }
