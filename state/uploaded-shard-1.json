@@ -26869,6 +26869,25 @@
         "download_sec": 14.5,
         "upload_sec": 19.6
       }
+    },
+    {
+      "cr_film_id": 5591,
+      "cr_slug": "lvi-srdce",
+      "title": "Lví srdce",
+      "year": 1990,
+      "display_name": "Lví srdce (1990) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c4558c9aa4e87824",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24831179,
+      "size_bytes": 1871292461,
+      "uploaded_at": "2026-05-15T02:29:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 56.5,
+        "upload_sec": 68.0
+      }
     }
   ],
   "failed_attempts": [
@@ -27408,5 +27427,5 @@
       "failed_at": "2026-05-15T02:03:54Z"
     }
   ],
-  "last_updated": "2026-05-15T02:26:59Z"
+  "last_updated": "2026-05-15T02:29:07Z"
 }
