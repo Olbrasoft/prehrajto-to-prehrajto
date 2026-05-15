@@ -30137,6 +30137,25 @@
         "download_sec": 68.2,
         "upload_sec": 82.0
       }
+    },
+    {
+      "cr_film_id": 6249,
+      "cr_slug": "za-pet-dvanact",
+      "title": "Za pět dvanáct",
+      "year": 2020,
+      "display_name": "Za pět dvanáct (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "612d5565cb8c0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24847638,
+      "size_bytes": 1311947284,
+      "uploaded_at": "2026-05-15T09:49:15Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 48.3,
+        "upload_sec": 55.9
+      }
     }
   ],
   "failed_attempts": [
@@ -30702,7 +30721,35 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/denik-memu-synovi-2021-cz-dabing/049fd27300cff8c2",
       "permanent": true,
       "failed_at": "2026-05-15T09:31:27Z"
+    },
+    {
+      "cr_film_id": 6245,
+      "upload_id": "9549e65ffc45b4ed",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hotel-transylvanie-4-transformanie-2022-cz-dabing-hotel/9549e65ffc45b4ed",
+      "permanent": true,
+      "failed_at": "2026-05-15T09:47:06Z"
+    },
+    {
+      "cr_film_id": 6245,
+      "upload_id": "f08d923b54b346a9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hotel-transylvanie-4-transformanie-2022-cz-dabing-hotel-transylvania-transformania/f08d923b54b346a9",
+      "permanent": true,
+      "failed_at": "2026-05-15T09:47:12Z"
+    },
+    {
+      "cr_film_id": 6245,
+      "upload_id": "f20ae6df91ba1d2a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hotel-transylvanie-4-transformanie-2022-cz-dabing-hotel-transylvania-transformania/f20ae6df91ba1d2a",
+      "permanent": true,
+      "failed_at": "2026-05-15T09:47:18Z"
+    },
+    {
+      "cr_film_id": 6245,
+      "upload_id": "48b806ed39b625bc",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hotel-transylvanie-4-2022-animovany-komedie-rodinny-mp4/48b806ed39b625bc",
+      "permanent": true,
+      "failed_at": "2026-05-15T09:47:23Z"
     }
   ],
-  "last_updated": "2026-05-15T09:44:24Z"
+  "last_updated": "2026-05-15T09:49:15Z"
 }

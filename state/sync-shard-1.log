@@ -9070,3 +9070,25 @@
 [09:44:24]   upload done video_id=24847500 in 82.0s
 [09:44:25] film cr_film_id=6243 OK in 154.0s
 [09:44:25] batch-end ok=19 failed=1 dur=2210.9s avg/film=116.4s remaining=16064 eta_hours=519.4
+
+===== run 2026-05-15T09:47:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25911376342) =====
+[09:47:04] batch-start shard=1/2 count=20 backlog=17650 uploads=1586 failed_attempts=77
+[09:47:04] login
+[09:47:06] login done
+[09:47:06] iteration 1/20
+[09:47:06] film cr_film_id=6245 name='Hotel Transylvánie 4: Transformánie (2022) CZ Dabing' candidates=4
+[09:47:06]   candidate upload_id=9549e65ffc45b4ed url=https://prehraj.to/hotel-transylvanie-4-transformanie-2022-cz-dabing-hotel/9549e65ffc45b4ed
+[09:47:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hotel-transylvanie-4-transformanie-2022-cz-dabing-hotel/9549e65ffc45b4ed (permanent=True)
+[09:47:06]   candidate upload_id=f08d923b54b346a9 url=https://prehraj.to/hotel-transylvanie-4-transformanie-2022-cz-dabing-hotel-transylvania-transformania/f08d923b54b346a9
+[09:47:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hotel-transylvanie-4-transformanie-2022-cz-dabing-hotel-transylvania-transformania/f08d923b54b346a9 (permanent=True)
+[09:47:12]   candidate upload_id=f20ae6df91ba1d2a url=https://prehraj.to/hotel-transylvanie-4-transformanie-2022-cz-dabing-hotel-transylvania-transformania/f20ae6df91ba1d2a
+[09:47:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hotel-transylvanie-4-transformanie-2022-cz-dabing-hotel-transylvania-transformania/f20ae6df91ba1d2a (permanent=True)
+[09:47:18]   candidate upload_id=48b806ed39b625bc url=https://prehraj.to/hotel-transylvanie-4-2022-animovany-komedie-rodinny-mp4/48b806ed39b625bc
+[09:47:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hotel-transylvanie-4-2022-animovany-komedie-rodinny-mp4/48b806ed39b625bc (permanent=True)
+[09:47:23] film cr_film_id=6245 all candidates exhausted
+[09:47:23] iteration 2/20
+[09:47:23] film cr_film_id=6249 name='Za pět dvanáct (2020) CZ Dabing' candidates=1
+[09:47:23]   candidate upload_id=612d5565cb8c0 url=https://prehraj.to/za-pet-dvanact-2020-czdab/612d5565cb8c0
+[09:47:29]   resolved in 5.9s → 720p (https://pf-storage3.premiumcdn.net/24763805/11qu61s0gczKC39f5OUyms8GhqvtP1SbouoE…)
+[09:48:19]   downloaded 1,311.9 MB in 48.3s (27.2 MB/s)
+[09:49:15]   upload done video_id=24847638 in 55.9s
