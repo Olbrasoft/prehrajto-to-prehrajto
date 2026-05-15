@@ -34659,6 +34659,25 @@
         "download_sec": 43.8,
         "upload_sec": 55.0
       }
+    },
+    {
+      "cr_film_id": 7217,
+      "cr_slug": "ticha-dvojcata",
+      "title": "Tichá dvojčata",
+      "year": 2022,
+      "display_name": "Tichá dvojčata (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6413a490873f3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24863722,
+      "size_bytes": 2811749632,
+      "uploaded_at": "2026-05-15T21:08:07Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 563.1,
+        "upload_sec": 130.6
+      }
     }
   ],
   "failed_attempts": [
@@ -35359,5 +35378,5 @@
       "failed_at": "2026-05-15T20:54:43Z"
     }
   ],
-  "last_updated": "2026-05-15T20:56:29Z"
+  "last_updated": "2026-05-15T21:08:07Z"
 }
