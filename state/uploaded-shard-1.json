@@ -29985,6 +29985,25 @@
         "download_sec": 78.6,
         "upload_sec": 144.6
       }
+    },
+    {
+      "cr_film_id": 6221,
+      "cr_slug": "bozi-tvorove",
+      "title": "Boží tvorové",
+      "year": 2022,
+      "display_name": "Boží tvorové (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64a554a44673a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24847150,
+      "size_bytes": 749012628,
+      "uploaded_at": "2026-05-15T09:32:34Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 25.0,
+        "upload_sec": 35.1
+      }
     }
   ],
   "failed_attempts": [
@@ -30543,7 +30562,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princezna-rebelka-cz-dabing-2022-mp4/6e1f59e2ce88e7b2",
       "permanent": true,
       "failed_at": "2026-05-15T05:36:46Z"
+    },
+    {
+      "cr_film_id": 6219,
+      "upload_id": "049fd27300cff8c2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/denik-memu-synovi-2021-cz-dabing/049fd27300cff8c2",
+      "permanent": true,
+      "failed_at": "2026-05-15T09:31:27Z"
     }
   ],
-  "last_updated": "2026-05-15T09:31:25Z"
+  "last_updated": "2026-05-15T09:32:34Z"
 }

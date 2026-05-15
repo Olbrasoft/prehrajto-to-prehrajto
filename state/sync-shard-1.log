@@ -9007,3 +9007,15 @@
 [09:27:40]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/4521999/5DaFzJSLDF4YhNLTxEtQpSyXcJlCnDcdZib8U…)
 [09:29:00]   downloaded 2,797.9 MB in 78.6s (35.6 MB/s)
 [09:31:25]   upload done video_id=24847009 in 144.6s
+[09:31:26] film cr_film_id=6217 OK in 226.6s
+[09:31:26] iteration 12/20
+[09:31:26] film cr_film_id=6219 name='Deník mému synovi (2021) CZ Dabing' candidates=1
+[09:31:26]   candidate upload_id=049fd27300cff8c2 url=https://prehraj.to/denik-memu-synovi-2021-cz-dabing/049fd27300cff8c2
+[09:31:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/denik-memu-synovi-2021-cz-dabing/049fd27300cff8c2 (permanent=True)
+[09:31:27] film cr_film_id=6219 all candidates exhausted
+[09:31:27] iteration 13/20
+[09:31:27] film cr_film_id=6221 name='Boží tvorové (2022) CZ Dabing' candidates=3
+[09:31:27]   candidate upload_id=64a554a44673a url=https://prehraj.to/bozi-tvorove-2022-cz-dabing-hd-720p/64a554a44673a
+[09:31:33]   resolved in 6.1s → 720p (https://pf-storage3.premiumcdn.net/42212471/DWpSzvCKwUe3hvatgJf8GCoYFWOuv9cORfrx…)
+[09:31:59]   downloaded 749.0 MB in 25.0s (30.0 MB/s)
+[09:32:34]   upload done video_id=24847150 in 35.1s
