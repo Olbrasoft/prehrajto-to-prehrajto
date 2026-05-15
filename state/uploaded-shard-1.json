@@ -35400,6 +35400,25 @@
         "download_sec": 505.4,
         "upload_sec": 55.0
       }
+    },
+    {
+      "cr_film_id": 7371,
+      "cr_slug": "oko-2",
+      "title": "Oko 2",
+      "year": 2004,
+      "display_name": "Oko 2 (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b70c667a759a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24867095,
+      "size_bytes": 413363079,
+      "uploaded_at": "2026-05-15T23:12:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.9,
+        "upload_sec": 20.6
+      }
     }
   ],
   "failed_attempts": [
@@ -36107,5 +36126,5 @@
       "failed_at": "2026-05-15T21:23:25Z"
     }
   ],
-  "last_updated": "2026-05-15T23:11:39Z"
+  "last_updated": "2026-05-15T23:12:18Z"
 }
