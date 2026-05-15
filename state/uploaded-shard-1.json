@@ -28199,6 +28199,25 @@
         "download_sec": 75.9,
         "upload_sec": 97.9
       }
+    },
+    {
+      "cr_film_id": 5865,
+      "cr_slug": "princezna-rebelka",
+      "title": "Princezna rebelka",
+      "year": 2021,
+      "display_name": "Princezna rebelka (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "8073048f14f18204",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24839839,
+      "size_bytes": 1045697079,
+      "uploaded_at": "2026-05-15T05:38:50Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 48.2,
+        "upload_sec": 67.3
+      }
     }
   ],
   "failed_attempts": [
@@ -28750,7 +28769,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/s-tebou-nikdy-2023-cz-dabing-1/2cc2b5aa0f5a8977",
       "permanent": true,
       "failed_at": "2026-05-15T04:36:28Z"
+    },
+    {
+      "cr_film_id": 5865,
+      "upload_id": "6e1f59e2ce88e7b2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princezna-rebelka-cz-dabing-2022-mp4/6e1f59e2ce88e7b2",
+      "permanent": true,
+      "failed_at": "2026-05-15T05:36:46Z"
     }
   ],
-  "last_updated": "2026-05-15T05:36:44Z"
+  "last_updated": "2026-05-15T05:38:50Z"
 }
