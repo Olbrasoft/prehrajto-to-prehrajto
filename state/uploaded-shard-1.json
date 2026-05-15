@@ -30897,6 +30897,25 @@
         "download_sec": 27.2,
         "upload_sec": 36.6
       }
+    },
+    {
+      "cr_film_id": 6401,
+      "cr_slug": "rodicovsky-manual",
+      "title": "Rodičovský manuál",
+      "year": 2012,
+      "display_name": "Rodičovský manuál (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57cac7daa2ed3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24853199,
+      "size_bytes": 798808580,
+      "uploaded_at": "2026-05-15T11:42:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 26.2,
+        "upload_sec": 31.1
+      }
     }
   ],
   "failed_attempts": [
@@ -31499,5 +31518,5 @@
       "failed_at": "2026-05-15T10:48:44Z"
     }
   ],
-  "last_updated": "2026-05-15T11:41:52Z"
+  "last_updated": "2026-05-15T11:42:53Z"
 }
