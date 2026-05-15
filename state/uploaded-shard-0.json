@@ -33840,6 +33840,25 @@
         "download_sec": 16.1,
         "upload_sec": 19.4
       }
+    },
+    {
+      "cr_film_id": 6706,
+      "cr_slug": "ctvrty-druh",
+      "title": "Čtvrtý druh",
+      "year": 2009,
+      "display_name": "Čtvrtý druh (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a6bd55a6b1b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24859225,
+      "size_bytes": 2462368149,
+      "uploaded_at": "2026-05-15T16:34:07Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 67.8,
+        "upload_sec": 86.3
+      }
     }
   ],
   "failed_attempts": [
@@ -37948,5 +37967,5 @@
       "failed_at": "2026-05-15T15:05:39Z"
     }
   ],
-  "last_updated": "2026-05-15T16:31:29Z"
+  "last_updated": "2026-05-15T16:34:07Z"
 }
