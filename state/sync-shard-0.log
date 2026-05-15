@@ -7937,3 +7937,14 @@
 [03:19:49]   upload done video_id=24834059 in 84.9s
 [03:19:50] film cr_film_id=5522 OK in 152.8s
 [03:19:50] batch-end ok=19 failed=1 dur=3677.2s avg/film=193.5s remaining=16178 eta_hours=869.6
+
+===== run 2026-05-15T03:20:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25898376795) =====
+[03:20:36] batch-start shard=0/2 count=20 backlog=17650 uploads=1472 failed_attempts=563
+[03:20:36] login
+[03:20:38] login done
+[03:20:38] iteration 1/20
+[03:20:38] film cr_film_id=5528 name='Krampus: Táhni k čertu (2015) CZ Dabing' candidates=23
+[03:20:38]   candidate upload_id=68f46360287c1 url=https://prehraj.to/krampus-tahni-k-certu-2015-cz-dab-1080p/68f46360287c1
+[03:20:39]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/152383938/MX2ivOImwFJdUrQfa3twxILJf2xUvAirRCP…)
+[03:21:18]   downloaded 875.5 MB in 36.8s (23.8 MB/s)
+[03:22:25]   upload done video_id=24834197 in 66.7s
