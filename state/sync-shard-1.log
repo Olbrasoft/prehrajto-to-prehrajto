@@ -8194,3 +8194,14 @@
 [04:44:31]   upload done video_id=24837866 in 63.3s
 [04:44:32] film cr_film_id=5805 OK in 118.1s
 [04:44:32] batch-end ok=19 failed=1 dur=2578.4s avg/film=135.7s remaining=16183 eta_hours=610.0
+
+===== run 2026-05-15T04:45:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25900746013) =====
+[04:45:31] batch-start shard=1/2 count=20 backlog=17650 uploads=1467 failed_attempts=75
+[04:45:31] login
+[04:45:33] login done
+[04:45:33] iteration 1/20
+[04:45:33] film cr_film_id=5807 name='Drogová královna (2019) CZ Dabing' candidates=1
+[04:45:33]   candidate upload_id=65e4960a879a6 url=https://prehraj.to/drogova-kralovna-2019-cz-dabing-1080p-fullhd/65e4960a879a6
+[04:45:34]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/74122133/QnGcj1hOQU0MCQou8dIjQhYjcy2uXpfKdcvD…)
+[04:47:34]   downloaded 2,226.2 MB in 117.1s (19.0 MB/s)
+[04:49:41]   upload done video_id=24838010 in 127.3s
