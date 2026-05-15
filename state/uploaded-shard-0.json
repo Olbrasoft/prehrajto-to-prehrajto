@@ -29318,6 +29318,25 @@
         "download_sec": 35.7,
         "upload_sec": 42.6
       }
+    },
+    {
+      "cr_film_id": 5806,
+      "cr_slug": "mlada-dama",
+      "title": "Mladá dáma",
+      "year": 2024,
+      "display_name": "Mladá dáma (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65fdced8b716f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24841058,
+      "size_bytes": 2545932183,
+      "uploaded_at": "2026-05-15T06:21:48Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 72.3,
+        "upload_sec": 96.8
+      }
     }
   ],
   "failed_attempts": [
@@ -33314,7 +33333,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ja-rebelka-cz-dabing/87b3be08cc645258",
       "permanent": true,
       "failed_at": "2026-05-15T05:49:12Z"
+    },
+    {
+      "cr_film_id": 5800,
+      "upload_id": "663eb7fb5cb53",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kuryr-z-madridu-2024-czdab/663eb7fb5cb53",
+      "permanent": true,
+      "failed_at": "2026-05-15T06:18:52Z"
     }
   ],
-  "last_updated": "2026-05-15T06:18:50Z"
+  "last_updated": "2026-05-15T06:21:48Z"
 }
