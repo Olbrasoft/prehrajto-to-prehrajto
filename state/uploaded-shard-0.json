@@ -35303,6 +35303,25 @@
         "download_sec": 17.5,
         "upload_sec": 27.3
       }
+    },
+    {
+      "cr_film_id": 7038,
+      "cr_slug": "santa-claus-2",
+      "title": "Santa Claus 2",
+      "year": 2002,
+      "display_name": "Santa Claus 2 (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "585826a6660e9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24864155,
+      "size_bytes": 620481324,
+      "uploaded_at": "2026-05-15T21:25:37Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 24.5,
+        "upload_sec": 25.7
+      }
     }
   ],
   "failed_attempts": [
@@ -39467,5 +39486,5 @@
       "failed_at": "2026-05-15T17:25:11Z"
     }
   ],
-  "last_updated": "2026-05-15T21:24:42Z"
+  "last_updated": "2026-05-15T21:25:37Z"
 }
