@@ -32455,6 +32455,25 @@
         "download_sec": 29.3,
         "upload_sec": 37.2
       }
+    },
+    {
+      "cr_film_id": 6745,
+      "cr_slug": "nenavist-2004",
+      "title": "Nenávist",
+      "year": 2004,
+      "display_name": "Nenávist (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d40ba723201",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24857632,
+      "size_bytes": 337999839,
+      "uploaded_at": "2026-05-15T15:00:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 11.0,
+        "upload_sec": 13.0
+      }
     }
   ],
   "failed_attempts": [
@@ -33092,5 +33111,5 @@
       "failed_at": "2026-05-15T12:56:49Z"
     }
   ],
-  "last_updated": "2026-05-15T15:00:28Z"
+  "last_updated": "2026-05-15T15:00:56Z"
 }
