@@ -31750,6 +31750,25 @@
         "download_sec": 54.7,
         "upload_sec": 68.5
       }
+    },
+    {
+      "cr_film_id": 6296,
+      "cr_slug": "altamira",
+      "title": "Altamira",
+      "year": 2016,
+      "display_name": "Altamira (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d17691475b9b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24853642,
+      "size_bytes": 1269955008,
+      "uploaded_at": "2026-05-15T12:01:37Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 40.7,
+        "upload_sec": 48.4
+      }
     }
   ],
   "failed_attempts": [
@@ -35811,5 +35830,5 @@
       "failed_at": "2026-05-15T10:37:57Z"
     }
   ],
-  "last_updated": "2026-05-15T12:00:02Z"
+  "last_updated": "2026-05-15T12:01:37Z"
 }
