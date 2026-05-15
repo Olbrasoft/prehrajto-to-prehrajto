@@ -8945,3 +8945,14 @@
 [08:49:43]   upload done video_id=24845450 in 46.2s
 [08:49:45] film cr_film_id=6060 OK in 88.4s
 [08:49:45] batch-end ok=20 failed=0 dur=1828.8s avg/film=91.4s remaining=16046 eta_hours=407.4
+
+===== run 2026-05-15T09:07:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25909736727) =====
+[09:07:40] batch-start shard=0/2 count=20 backlog=17650 uploads=1604 failed_attempts=572
+[09:07:40] login
+[09:07:43] login done
+[09:07:43] iteration 1/20
+[09:07:43] film cr_film_id=6062 name='Red State (2011) CZ Dabing' candidates=2
+[09:07:43]   candidate upload_id=5731e44801b7e url=https://prehraj.to/krvavy-stat-2011-cz-dabing/5731e44801b7e
+[09:07:45]   resolved in 1.7s → 480p (https://pf-storage2.premiumcdn.net/63706/ooZuMPTM4Id2U25SZ9t28TZrCAlfrMcaBHR3TPk…)
+[09:08:11]   downloaded 420.1 MB in 24.2s (17.4 MB/s)
+[09:08:41]   upload done video_id=24846051 in 30.3s
