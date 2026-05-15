@@ -35227,6 +35227,25 @@
         "download_sec": 20.8,
         "upload_sec": 24.3
       }
+    },
+    {
+      "cr_film_id": 7010,
+      "cr_slug": "liga-vyjimecnych",
+      "title": "Liga výjimečných",
+      "year": 2003,
+      "display_name": "Liga výjimečných (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6671ffb8344ec",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24863988,
+      "size_bytes": 2090646894,
+      "uploaded_at": "2026-05-15T21:19:41Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 68.5,
+        "upload_sec": 73.7
+      }
     }
   ],
   "failed_attempts": [
@@ -39391,5 +39410,5 @@
       "failed_at": "2026-05-15T17:25:11Z"
     }
   ],
-  "last_updated": "2026-05-15T21:17:15Z"
+  "last_updated": "2026-05-15T21:19:41Z"
 }
