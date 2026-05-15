@@ -27648,6 +27648,25 @@
         "download_sec": 43.2,
         "upload_sec": 54.1
       }
+    },
+    {
+      "cr_film_id": 5759,
+      "cr_slug": "povyseni",
+      "title": "Povýšení",
+      "year": 2024,
+      "display_name": "Povýšení (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "681783f11ce77",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24836895,
+      "size_bytes": 1698767274,
+      "uploaded_at": "2026-05-15T04:20:58Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 48.0,
+        "upload_sec": 59.3
+      }
     }
   ],
   "failed_attempts": [
@@ -28194,5 +28213,5 @@
       "failed_at": "2026-05-15T04:04:07Z"
     }
   ],
-  "last_updated": "2026-05-15T04:19:08Z"
+  "last_updated": "2026-05-15T04:20:58Z"
 }
