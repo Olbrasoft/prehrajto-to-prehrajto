@@ -30118,6 +30118,25 @@
         "download_sec": 38.9,
         "upload_sec": 49.0
       }
+    },
+    {
+      "cr_film_id": 6243,
+      "cr_slug": "rachot",
+      "title": "Rachot",
+      "year": 2021,
+      "display_name": "Rachot (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "615a31f16d8907da",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24847500,
+      "size_bytes": 2131331226,
+      "uploaded_at": "2026-05-15T09:44:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 68.2,
+        "upload_sec": 82.0
+      }
     }
   ],
   "failed_attempts": [
@@ -30685,5 +30704,5 @@
       "failed_at": "2026-05-15T09:31:27Z"
     }
   ],
-  "last_updated": "2026-05-15T09:41:49Z"
+  "last_updated": "2026-05-15T09:44:24Z"
 }
