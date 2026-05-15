@@ -34260,6 +34260,25 @@
         "download_sec": 30.0,
         "upload_sec": 37.6
       }
+    },
+    {
+      "cr_film_id": 7133,
+      "cr_slug": "poseidon",
+      "title": "Poseidon",
+      "year": 2006,
+      "display_name": "Poseidon (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "649dae53788dd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24862248,
+      "size_bytes": 3186178130,
+      "uploaded_at": "2026-05-15T19:14:49Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 140.5,
+        "upload_sec": 104.0
+      }
     }
   ],
   "failed_attempts": [
@@ -34932,5 +34951,5 @@
       "failed_at": "2026-05-15T17:43:30Z"
     }
   ],
-  "last_updated": "2026-05-15T19:10:41Z"
+  "last_updated": "2026-05-15T19:14:49Z"
 }
