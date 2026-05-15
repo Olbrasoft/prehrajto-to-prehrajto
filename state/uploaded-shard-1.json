@@ -35533,6 +35533,25 @@
         "download_sec": 18.9,
         "upload_sec": 17.4
       }
+    },
+    {
+      "cr_film_id": 7411,
+      "cr_slug": "sabotaz",
+      "title": "Sabotáž",
+      "year": 2014,
+      "display_name": "Sabotáž (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5eabc2b1d1784",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24867810,
+      "size_bytes": 1755365224,
+      "uploaded_at": "2026-05-15T23:50:37Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 566.1,
+        "upload_sec": 81.1
+      }
     }
   ],
   "failed_attempts": [
@@ -36240,5 +36259,5 @@
       "failed_at": "2026-05-15T21:23:25Z"
     }
   ],
-  "last_updated": "2026-05-15T23:39:46Z"
+  "last_updated": "2026-05-15T23:50:37Z"
 }
