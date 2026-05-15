@@ -10100,3 +10100,14 @@
 [15:22:43]   upload done video_id=24858000 in 54.6s
 [15:22:44] film cr_film_id=6783 OK in 100.1s
 [15:22:44] batch-end ok=19 failed=1 dur=1951.0s avg/film=102.7s remaining=15929 eta_hours=454.4
+
+===== run 2026-05-15T15:40:15Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25926775663) =====
+[15:40:16] batch-start shard=1/2 count=20 backlog=17650 uploads=1721 failed_attempts=91
+[15:40:16] login
+[15:40:18] login done
+[15:40:18] iteration 1/20
+[15:40:18] film cr_film_id=6785 name='Exteritorium (2025) CZ Dabing' candidates=4
+[15:40:18]   candidate upload_id=68fe028525ad8 url=https://prehraj.to/exteritorium-2025-cz-dabing-1080p-full-hd/68fe028525ad8
+[15:40:19]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/153609936/KB7tMbHgXh3zHdMuGAUXWHRgC72hOXcaLhY…)
+[15:41:26]   downloaded 2,384.0 MB in 65.6s (36.3 MB/s)
+[15:42:53]   upload done video_id=24858346 in 86.9s
