@@ -9091,3 +9091,14 @@
 [09:45:56]   upload done video_id=24847562 in 42.1s
 [09:45:58] film cr_film_id=6126 OK in 78.8s
 [09:45:58] batch-end ok=20 failed=0 dur=2294.8s avg/film=114.7s remaining=16026 eta_hours=510.6
+
+===== run 2026-05-15T09:47:00Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25911376342) =====
+[09:47:02] batch-start shard=0/2 count=20 backlog=17650 uploads=1624 failed_attempts=572
+[09:47:02] login
+[09:47:03] login done
+[09:47:03] iteration 1/20
+[09:47:03] film cr_film_id=6128 name='Pach krve (2003) CZ Dabing' candidates=21
+[09:47:03]   candidate upload_id=6599c371ca350 url=https://prehraj.to/pach-krve-1-2003-cz-dabing-1080p/6599c371ca350
+[09:47:04]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/72083234/gBKIqZi0XI6GC0xSJYtb8i71I3vc8YuVbtbv…)
+[09:48:15]   downloaded 2,139.8 MB in 69.3s (30.9 MB/s)
+[09:49:41]   upload done video_id=24847636 in 85.3s
