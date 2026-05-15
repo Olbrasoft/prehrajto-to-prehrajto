@@ -33595,6 +33595,25 @@
         "download_sec": 48.0,
         "upload_sec": 57.7
       }
+    },
+    {
+      "cr_film_id": 6983,
+      "cr_slug": "chemo",
+      "title": "Chemo",
+      "year": 2015,
+      "display_name": "Chemo (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a698c8fd0bad",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24860919,
+      "size_bytes": 441741428,
+      "uploaded_at": "2026-05-15T17:43:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.1,
+        "upload_sec": 25.7
+      }
     }
   ],
   "failed_attempts": [
@@ -34260,5 +34279,5 @@
       "failed_at": "2026-05-15T15:02:36Z"
     }
   ],
-  "last_updated": "2026-05-15T17:42:29Z"
+  "last_updated": "2026-05-15T17:43:28Z"
 }
