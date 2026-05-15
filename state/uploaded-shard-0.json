@@ -27323,6 +27323,25 @@
         "download_sec": 50.2,
         "upload_sec": 60.3
       }
+    },
+    {
+      "cr_film_id": 5394,
+      "cr_slug": "uzasny-mauric",
+      "title": "Úžasný Mauric",
+      "year": 2022,
+      "display_name": "Úžasný Mauric (2022) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "683e42782ca36",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24830051,
+      "size_bytes": 1582650185,
+      "uploaded_at": "2026-05-15T01:37:57Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 62.4,
+        "upload_sec": 92.8
+      }
     }
   ],
   "failed_attempts": [
@@ -31253,5 +31272,5 @@
       "failed_at": "2026-05-15T00:39:12Z"
     }
   ],
-  "last_updated": "2026-05-15T01:35:16Z"
+  "last_updated": "2026-05-15T01:37:57Z"
 }
