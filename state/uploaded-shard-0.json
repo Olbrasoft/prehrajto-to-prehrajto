@@ -35246,6 +35246,25 @@
         "download_sec": 68.5,
         "upload_sec": 73.7
       }
+    },
+    {
+      "cr_film_id": 7012,
+      "cr_slug": "transport",
+      "title": "Transport",
+      "year": 2008,
+      "display_name": "Transport (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64cf6f7ef2756",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24864042,
+      "size_bytes": 2164626212,
+      "uploaded_at": "2026-05-15T21:22:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 58.4,
+        "upload_sec": 86.9
+      }
     }
   ],
   "failed_attempts": [
@@ -39410,5 +39429,5 @@
       "failed_at": "2026-05-15T17:25:11Z"
     }
   ],
-  "last_updated": "2026-05-15T21:19:41Z"
+  "last_updated": "2026-05-15T21:22:10Z"
 }
