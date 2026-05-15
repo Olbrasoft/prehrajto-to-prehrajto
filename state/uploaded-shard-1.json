@@ -34051,6 +34051,25 @@
         "download_sec": 17.1,
         "upload_sec": 25.2
       }
+    },
+    {
+      "cr_film_id": 7105,
+      "cr_slug": "happy-feet-2",
+      "title": "Happy Feet 2",
+      "year": 2011,
+      "display_name": "Happy Feet 2 (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b3f4a0b707eda0f3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24862068,
+      "size_bytes": 543289880,
+      "uploaded_at": "2026-05-15T18:51:01Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 179.6,
+        "upload_sec": 22.3
+      }
     }
   ],
   "failed_attempts": [
@@ -34723,5 +34742,5 @@
       "failed_at": "2026-05-15T17:43:30Z"
     }
   ],
-  "last_updated": "2026-05-15T18:47:35Z"
+  "last_updated": "2026-05-15T18:51:01Z"
 }
