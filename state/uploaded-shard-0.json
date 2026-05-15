@@ -28900,6 +28900,25 @@
         "download_sec": 20.3,
         "upload_sec": 30.4
       }
+    },
+    {
+      "cr_film_id": 5730,
+      "cr_slug": "cervena-linka",
+      "title": "Červená linka",
+      "year": 2026,
+      "display_name": "Červená linka (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a1f381c9efb0d1ba",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24838885,
+      "size_bytes": 2932322966,
+      "uploaded_at": "2026-05-15T05:13:06Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 93.5,
+        "upload_sec": 131.6
+      }
     }
   ],
   "failed_attempts": [
@@ -32891,5 +32910,5 @@
       "failed_at": "2026-05-15T05:08:19Z"
     }
   ],
-  "last_updated": "2026-05-15T05:09:17Z"
+  "last_updated": "2026-05-15T05:13:06Z"
 }
