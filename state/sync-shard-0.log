@@ -11147,3 +11147,14 @@
 [22:51:50]   upload done video_id=24866614 in 23.3s
 [22:51:51] film cr_film_id=7168 OK in 43.4s
 [22:51:51] batch-end ok=20 failed=0 dur=2996.7s avg/film=149.8s remaining=15753 eta_hours=655.5
+
+===== run 2026-05-15T22:53:23Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25945215824) =====
+[22:53:24] batch-start shard=0/2 count=20 backlog=17650 uploads=1897 failed_attempts=591
+[22:53:24] login
+[22:53:25] login done
+[22:53:25] iteration 1/20
+[22:53:25] film cr_film_id=7170 name='Inheritance (2024) CZ Dabing' candidates=1
+[22:53:25]   candidate upload_id=668e0d948ae3e url=https://prehraj.to/zapeklite-dedictvi-inheritance-2024-cz-dabing/668e0d948ae3e
+[22:53:26]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/83445401/dLqUobc9Vi4GCreT84SAWcgBiKETdgIdahEO…)
+[22:54:22]   downloaded 1,717.1 MB in 54.9s (31.3 MB/s)
+[22:55:29]   upload done video_id=24866728 in 66.2s
