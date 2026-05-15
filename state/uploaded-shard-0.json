@@ -26563,6 +26563,25 @@
         "download_sec": 25.7,
         "upload_sec": 27.9
       }
+    },
+    {
+      "cr_film_id": 5264,
+      "cr_slug": "pearl-harbor-cz",
+      "title": "Pearl Harbor",
+      "year": 2001,
+      "display_name": "Pearl Harbor (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58088a244881c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24828401,
+      "size_bytes": 1469097407,
+      "uploaded_at": "2026-05-15T00:01:27Z",
+      "timing": {
+        "resolve_sec": 7.0,
+        "download_sec": 63.1,
+        "upload_sec": 73.9
+      }
     }
   ],
   "failed_attempts": [
@@ -30435,7 +30454,56 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/m3gan-2022-cz-dabing-mp4/a122f289f14a6d1e",
       "permanent": true,
       "failed_at": "2026-05-14T19:14:50Z"
+    },
+    {
+      "cr_film_id": 5264,
+      "upload_id": "675d050740fa4",
+      "reason": "oversize: 6863237970 B",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:58:24Z"
+    },
+    {
+      "cr_film_id": 5264,
+      "upload_id": "f4b428209dcfe564",
+      "reason": "oversize: 6906043296 B",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:58:30Z"
+    },
+    {
+      "cr_film_id": 5264,
+      "upload_id": "5fb5ad5272923d7f",
+      "reason": "oversize: 6906415618 B",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:58:36Z"
+    },
+    {
+      "cr_film_id": 5264,
+      "upload_id": "68f47a6ff17ce",
+      "reason": "oversize: 6236372010 B",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:58:43Z"
+    },
+    {
+      "cr_film_id": 5264,
+      "upload_id": "99d827208788ced7",
+      "reason": "oversize: 6906335537 B",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:58:49Z"
+    },
+    {
+      "cr_film_id": 5264,
+      "upload_id": "054bd5d3a45e185d",
+      "reason": "oversize: 6200076494 B",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:58:55Z"
+    },
+    {
+      "cr_film_id": 5264,
+      "upload_id": "a45866d52ac106b1",
+      "reason": "oversize: 6906188541 B",
+      "permanent": true,
+      "failed_at": "2026-05-14T23:59:01Z"
     }
   ],
-  "last_updated": "2026-05-14T23:58:20Z"
+  "last_updated": "2026-05-15T00:01:27Z"
 }
