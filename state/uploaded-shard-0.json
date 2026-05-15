@@ -35683,6 +35683,25 @@
         "download_sec": 28.6,
         "upload_sec": 45.1
       }
+    },
+    {
+      "cr_film_id": 7112,
+      "cr_slug": "samec",
+      "title": "Samec",
+      "year": 2009,
+      "display_name": "Samec (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55f585601e37c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24865145,
+      "size_bytes": 693922944,
+      "uploaded_at": "2026-05-15T22:04:22Z",
+      "timing": {
+        "resolve_sec": 3.4,
+        "download_sec": 27.0,
+        "upload_sec": 36.7
+      }
     }
   ],
   "failed_attempts": [
@@ -39854,5 +39873,5 @@
       "failed_at": "2026-05-15T21:40:29Z"
     }
   ],
-  "last_updated": "2026-05-15T22:03:11Z"
+  "last_updated": "2026-05-15T22:04:22Z"
 }
