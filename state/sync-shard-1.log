@@ -10536,3 +10536,14 @@
 [18:10:54]   upload done video_id=24861485 in 43.6s
 [18:10:56] film cr_film_id=7045 OK in 111.9s
 [18:10:56] batch-end ok=19 failed=1 dur=2761.0s avg/film=145.3s remaining=15870 eta_hours=640.5
+
+===== run 2026-05-15T18:20:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25934194075) =====
+[18:21:00] batch-start shard=1/2 count=20 backlog=17650 uploads=1780 failed_attempts=92
+[18:21:00] login
+[18:21:01] login done
+[18:21:01] iteration 1/20
+[18:21:01] film cr_film_id=7059 name='Cesta na měsíc (2015) CZ Dabing' candidates=2
+[18:21:01]   candidate upload_id=573f80a0eb515 url=https://prehraj.to/cesta-na-mesic-cz-dabing-2015/573f80a0eb515
+[18:21:02]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/85137/xbLHGAhnrT9AFmEuNPHeMhKbS1MUZvHdktvZFgv…)
+[18:21:20]   downloaded 554.0 MB in 16.7s (33.2 MB/s)
+[18:21:57]   upload done video_id=24861699 in 37.3s
