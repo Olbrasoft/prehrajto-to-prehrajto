@@ -28254,6 +28254,25 @@
         "download_sec": 40.9,
         "upload_sec": 43.6
       }
+    },
+    {
+      "cr_film_id": 5602,
+      "cr_slug": "detour",
+      "title": "Detour",
+      "year": 2016,
+      "display_name": "Detour (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "593d5d3f38e0f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24835736,
+      "size_bytes": 403532842,
+      "uploaded_at": "2026-05-15T03:54:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.2,
+        "upload_sec": 29.3
+      }
     }
   ],
   "failed_attempts": [
@@ -32224,5 +32243,5 @@
       "failed_at": "2026-05-15T03:17:17Z"
     }
   ],
-  "last_updated": "2026-05-15T03:53:29Z"
+  "last_updated": "2026-05-15T03:54:23Z"
 }
