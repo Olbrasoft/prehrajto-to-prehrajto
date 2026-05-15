@@ -32643,6 +32643,25 @@
         "download_sec": 29.3,
         "upload_sec": 39.1
       }
+    },
+    {
+      "cr_film_id": 6474,
+      "cr_slug": "sach-mat",
+      "title": "Šach mat",
+      "year": 2024,
+      "display_name": "Šach mat (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67a22294e397c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24855561,
+      "size_bytes": 1151895180,
+      "uploaded_at": "2026-05-15T13:24:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.6,
+        "upload_sec": 43.8
+      }
     }
   ],
   "failed_attempts": [
@@ -36704,5 +36723,5 @@
       "failed_at": "2026-05-15T10:37:57Z"
     }
   ],
-  "last_updated": "2026-05-15T13:23:22Z"
+  "last_updated": "2026-05-15T13:24:43Z"
 }
