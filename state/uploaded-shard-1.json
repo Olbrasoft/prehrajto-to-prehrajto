@@ -26033,6 +26033,25 @@
         "download_sec": 66.0,
         "upload_sec": 81.9
       }
+    },
+    {
+      "cr_film_id": 5433,
+      "cr_slug": "rudy-prizrak",
+      "title": "Rudý přízrak",
+      "year": 2020,
+      "display_name": "Rudý přízrak (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6207f9620ecc5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24829027,
+      "size_bytes": 2106099606,
+      "uploaded_at": "2026-05-15T00:38:30Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 85.5,
+        "upload_sec": 113.2
+      }
     }
   ],
   "failed_attempts": [
@@ -26558,5 +26577,5 @@
       "failed_at": "2026-05-14T23:44:10Z"
     }
   ],
-  "last_updated": "2026-05-15T00:35:06Z"
+  "last_updated": "2026-05-15T00:38:30Z"
 }
