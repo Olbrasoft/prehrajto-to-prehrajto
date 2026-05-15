@@ -10862,3 +10862,15 @@
 [20:52:39]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/39580021/0w9FaesZ7FKahv6iBgsq4s2gibyhy0IezuNJ…)
 [20:53:35]   downloaded 1,700.6 MB in 54.2s (31.4 MB/s)
 [20:54:41]   upload done video_id=24863459 in 66.0s
+[20:54:42] film cr_film_id=7205 OK in 124.1s
+[20:54:42] iteration 5/20
+[20:54:42] film cr_film_id=7209 name='5 x jinak (2020) CZ Dabing' candidates=1
+[20:54:42]   candidate upload_id=00bff3bc8a545af4 url=https://prehraj.to/5-x-jinak-2020-cz-dabing/00bff3bc8a545af4
+[20:54:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/5-x-jinak-2020-cz-dabing/00bff3bc8a545af4 (permanent=True)
+[20:54:43] film cr_film_id=7209 all candidates exhausted
+[20:54:43] iteration 6/20
+[20:54:43] film cr_film_id=7211 name='Poslední šance (2021) CZ Dabing' candidates=2
+[20:54:43]   candidate upload_id=640f9f595b90c url=https://prehraj.to/posledni-sance-2021-czdab/640f9f595b90c
+[20:54:49]   resolved in 5.9s → 720p (https://pf-storage4.premiumcdn.net/38339134/PWjHOocNXcKbIE4hgXCg5c0JuEqFPJF0JCqa…)
+[20:55:34]   downloaded 1,466.5 MB in 43.8s (33.5 MB/s)
+[20:56:29]   upload done video_id=24863483 in 55.0s
