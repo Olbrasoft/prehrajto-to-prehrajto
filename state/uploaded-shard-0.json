@@ -26791,6 +26791,25 @@
         "download_sec": 118.5,
         "upload_sec": 133.8
       }
+    },
+    {
+      "cr_film_id": 5290,
+      "cr_slug": "paranormal-activity",
+      "title": "Paranormal Activity",
+      "year": 2007,
+      "display_name": "Paranormal Activity (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6867000ba9259",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24828766,
+      "size_bytes": 1009870228,
+      "uploaded_at": "2026-05-15T00:22:20Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 41.1,
+        "upload_sec": 53.7
+      }
     }
   ],
   "failed_attempts": [
@@ -30714,5 +30733,5 @@
       "failed_at": "2026-05-14T23:59:01Z"
     }
   ],
-  "last_updated": "2026-05-15T00:20:41Z"
+  "last_updated": "2026-05-15T00:22:20Z"
 }
