@@ -31904,6 +31904,25 @@
         "download_sec": 63.4,
         "upload_sec": 73.1
       }
+    },
+    {
+      "cr_film_id": 6617,
+      "cr_slug": "vox-lux",
+      "title": "Vox Lux",
+      "year": 2018,
+      "display_name": "Vox Lux (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a1c4e752b6a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24856428,
+      "size_bytes": 708119561,
+      "uploaded_at": "2026-05-15T14:05:17Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.6,
+        "upload_sec": 46.4
+      }
     }
   ],
   "failed_attempts": [
@@ -32541,5 +32560,5 @@
       "failed_at": "2026-05-15T12:56:49Z"
     }
   ],
-  "last_updated": "2026-05-15T14:03:57Z"
+  "last_updated": "2026-05-15T14:05:17Z"
 }
