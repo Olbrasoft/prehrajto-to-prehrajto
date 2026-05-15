@@ -33671,6 +33671,25 @@
         "download_sec": 47.8,
         "upload_sec": 58.1
       }
+    },
+    {
+      "cr_film_id": 6995,
+      "cr_slug": "bobby-z",
+      "title": "Bobby Z",
+      "year": 2007,
+      "display_name": "Bobby Z (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55cd5cdeca58e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24861052,
+      "size_bytes": 527058342,
+      "uploaded_at": "2026-05-15T17:50:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.1,
+        "upload_sec": 23.0
+      }
     }
   ],
   "failed_attempts": [
@@ -34343,5 +34362,5 @@
       "failed_at": "2026-05-15T17:43:30Z"
     }
   ],
-  "last_updated": "2026-05-15T17:49:15Z"
+  "last_updated": "2026-05-15T17:50:03Z"
 }
