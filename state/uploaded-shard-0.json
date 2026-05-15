@@ -33175,6 +33175,25 @@
         "download_sec": 72.3,
         "upload_sec": 84.6
       }
+    },
+    {
+      "cr_film_id": 6578,
+      "cr_slug": "friendzone",
+      "title": "Friendzone",
+      "year": 2021,
+      "display_name": "Friendzone (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "615c1f2247272",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24857792,
+      "size_bytes": 1453822656,
+      "uploaded_at": "2026-05-15T15:10:47Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 66.5,
+        "upload_sec": 71.5
+      }
     }
   ],
   "failed_attempts": [
@@ -37283,5 +37302,5 @@
       "failed_at": "2026-05-15T15:05:39Z"
     }
   ],
-  "last_updated": "2026-05-15T15:08:24Z"
+  "last_updated": "2026-05-15T15:10:47Z"
 }
