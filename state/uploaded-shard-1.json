@@ -33861,6 +33861,25 @@
         "download_sec": 12.5,
         "upload_sec": 14.3
       }
+    },
+    {
+      "cr_film_id": 7073,
+      "cr_slug": "zanik",
+      "title": "Zánik",
+      "year": 2015,
+      "display_name": "Zánik (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58217ff3e5a8c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24861733,
+      "size_bytes": 438315109,
+      "uploaded_at": "2026-05-15T18:23:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.8,
+        "upload_sec": 18.8
+      }
     }
   ],
   "failed_attempts": [
@@ -34533,5 +34552,5 @@
       "failed_at": "2026-05-15T17:43:30Z"
     }
   ],
-  "last_updated": "2026-05-15T18:22:28Z"
+  "last_updated": "2026-05-15T18:23:15Z"
 }
