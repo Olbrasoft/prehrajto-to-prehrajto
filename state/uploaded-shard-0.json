@@ -33156,6 +33156,25 @@
         "download_sec": 66.8,
         "upload_sec": 83.7
       }
+    },
+    {
+      "cr_film_id": 6576,
+      "cr_slug": "reminiscence",
+      "title": "Reminiscence",
+      "year": 2021,
+      "display_name": "Reminiscence (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f3dcd4145b5104ec",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24857746,
+      "size_bytes": 1607809882,
+      "uploaded_at": "2026-05-15T15:08:24Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 72.3,
+        "upload_sec": 84.6
+      }
     }
   ],
   "failed_attempts": [
@@ -37248,7 +37267,21 @@
         "download_sec": 69.1,
         "upload_sec": 0.1
       }
+    },
+    {
+      "cr_film_id": 6576,
+      "upload_id": "18d89441856a0306",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/reminiscence-cz-dabing-mp4/18d89441856a0306",
+      "permanent": true,
+      "failed_at": "2026-05-15T15:05:33Z"
+    },
+    {
+      "cr_film_id": 6576,
+      "upload_id": "2f284e16bcefd13b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/reminiscence-cz-dabing-mp4/2f284e16bcefd13b",
+      "permanent": true,
+      "failed_at": "2026-05-15T15:05:39Z"
     }
   ],
-  "last_updated": "2026-05-15T15:05:31Z"
+  "last_updated": "2026-05-15T15:08:24Z"
 }
