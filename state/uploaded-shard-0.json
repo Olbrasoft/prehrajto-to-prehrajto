@@ -35113,6 +35113,25 @@
         "download_sec": 50.9,
         "upload_sec": 43.5
       }
+    },
+    {
+      "cr_film_id": 6964,
+      "cr_slug": "status-update",
+      "title": "Status Update",
+      "year": 2018,
+      "display_name": "Status Update (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5cb261a9e3e3e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24863820,
+      "size_bytes": 1976699945,
+      "uploaded_at": "2026-05-15T21:12:19Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 53.7,
+        "upload_sec": 74.6
+      }
     }
   ],
   "failed_attempts": [
@@ -39277,5 +39296,5 @@
       "failed_at": "2026-05-15T17:25:11Z"
     }
   ],
-  "last_updated": "2026-05-15T21:10:08Z"
+  "last_updated": "2026-05-15T21:12:19Z"
 }
