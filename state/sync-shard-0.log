@@ -9931,3 +9931,15 @@
 [13:59:19]   resolved in 5.9s → 720p (https://pf-storage5.premiumcdn.net/39041497/8nKhKgUABt5AcjwHqmTVJULJH1jfe2Iv4feX…)
 [14:00:07]   downloaded 1,611.5 MB in 47.1s (34.2 MB/s)
 [14:01:03]   upload done video_id=24856336 in 55.5s
+[14:01:05] film cr_film_id=6538 OK in 111.2s
+[14:01:05] iteration 17/20
+[14:01:05] film cr_film_id=6540 name='Sirotek: První oběť (2022) CZ' candidates=1
+[14:01:05]   candidate upload_id=524ad08f2ab1124c url=https://prehraj.to/sirotek-prvni-obet-2022-cz-titulky/524ad08f2ab1124c
+[14:01:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sirotek-prvni-obet-2022-cz-titulky/524ad08f2ab1124c (permanent=True)
+[14:01:05] film cr_film_id=6540 all candidates exhausted
+[14:01:05] iteration 18/20
+[14:01:05] film cr_film_id=6542 name='Věčná dcera (2022) CZ Dabing' candidates=2
+[14:01:05]   candidate upload_id=64ce055f0298d url=https://prehraj.to/vecna-dcera-2022-czdab/64ce055f0298d
+[14:01:11]   resolved in 6.0s → 720p (https://pf-storage3.premiumcdn.net/43075556/1OnIEPTmGuMDI5yc3pULRTWRUxGfejc57I6M…)
+[14:01:36]   downloaded 731.3 MB in 23.9s (30.6 MB/s)
+[14:02:10]   upload done video_id=24856368 in 34.2s
