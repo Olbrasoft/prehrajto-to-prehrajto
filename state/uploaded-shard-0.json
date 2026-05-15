@@ -29337,6 +29337,25 @@
         "download_sec": 72.3,
         "upload_sec": 96.8
       }
+    },
+    {
+      "cr_film_id": 5812,
+      "cr_slug": "bod-obnovy",
+      "title": "Bod obnovy",
+      "year": 2023,
+      "display_name": "Bod obnovy (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65b0dffec59d1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24841133,
+      "size_bytes": 872710390,
+      "uploaded_at": "2026-05-15T06:23:04Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 29.3,
+        "upload_sec": 37.1
+      }
     }
   ],
   "failed_attempts": [
@@ -33340,7 +33359,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kuryr-z-madridu-2024-czdab/663eb7fb5cb53",
       "permanent": true,
       "failed_at": "2026-05-15T06:18:52Z"
+    },
+    {
+      "cr_film_id": 5808,
+      "upload_id": "255770f27b73e21b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kouzelna-beruska-a-cerny-kocour-ve-filmu-2023-cz-dabing/255770f27b73e21b",
+      "permanent": true,
+      "failed_at": "2026-05-15T06:21:50Z"
     }
   ],
-  "last_updated": "2026-05-15T06:21:48Z"
+  "last_updated": "2026-05-15T06:23:04Z"
 }

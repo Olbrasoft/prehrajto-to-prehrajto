@@ -8488,3 +8488,15 @@
 [06:18:58]   resolved in 5.9s → 1080p (https://pf-storage5.premiumcdn.net/75039197/gvbT4acBjSDBtjNtRkSGycBdUAKU5MCeXsyM…)
 [06:20:11]   downloaded 2,545.9 MB in 72.3s (35.2 MB/s)
 [06:21:48]   upload done video_id=24841058 in 96.8s
+[06:21:49] film cr_film_id=5806 OK in 177.4s
+[06:21:49] iteration 18/20
+[06:21:49] film cr_film_id=5808 name='Kouzelná Beruška a Černý kocour ve filmu (2023) CZ Dabing' candidates=1
+[06:21:49]   candidate upload_id=255770f27b73e21b url=https://prehraj.to/kouzelna-beruska-a-cerny-kocour-ve-filmu-2023-cz-dabing/255770f27b73e21b
+[06:21:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kouzelna-beruska-a-cerny-kocour-ve-filmu-2023-cz-dabing/255770f27b73e21b (permanent=True)
+[06:21:50] film cr_film_id=5808 all candidates exhausted
+[06:21:50] iteration 19/20
+[06:21:50] film cr_film_id=5812 name='Bod obnovy (2023) CZ Dabing' candidates=2
+[06:21:50]   candidate upload_id=65b0dffec59d1 url=https://prehraj.to/bod-obnovy-2023-cz-dabing-1080p/65b0dffec59d1
+[06:21:56]   resolved in 5.9s → 720p (https://pf-storage1.premiumcdn.net/72626072/pBKTk6fqVIYgSJVtKwhqYfW6tZzIBAt6Gh5z…)
+[06:22:27]   downloaded 872.7 MB in 29.3s (29.8 MB/s)
+[06:23:04]   upload done video_id=24841133 in 37.1s
