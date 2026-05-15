@@ -9438,3 +9438,15 @@
 [11:55:46]   resolved in 0.7s → 720p (https://pf-storage3.premiumcdn.net/104611220/LrlfzxIAKHD6SZdHWxhlrIrvFd5hxbuE1hY…)
 [11:56:47]   downloaded 2,123.3 MB in 59.9s (35.4 MB/s)
 [11:58:18]   upload done video_id=24853549 in 91.4s
+[11:58:20] film cr_film_id=6441 OK in 154.5s
+[11:58:20] iteration 11/20
+[11:58:20] film cr_film_id=6445 name='Křídla Vánoc (2013) CZ' candidates=1
+[11:58:20]   candidate upload_id=47cd82cc483c42b2 url=https://prehraj.to/kridla-vanoc-2013-cz-mp4/47cd82cc483c42b2
+[11:58:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kridla-vanoc-2013-cz-mp4/47cd82cc483c42b2 (permanent=True)
+[11:58:20] film cr_film_id=6445 all candidates exhausted
+[11:58:20] iteration 12/20
+[11:58:20] film cr_film_id=6447 name='Záplaťák (2025) CZ Dabing' candidates=4
+[11:58:20]   candidate upload_id=9c230b3b16aeb628 url=https://prehraj.to/stitch-head-2025-cz-dabing-1080p-mkv/9c230b3b16aeb628
+[11:58:26]   resolved in 5.7s → 1080p (https://pf-storage4.premiumcdn.net/165964448/E4RSlZIA1HnKs3pFBnIENIOahlWSBQTy2sw…)
+[11:59:34]   downloaded 2,350.9 MB in 66.4s (35.4 MB/s)
+[12:00:54]   upload done video_id=24853615 in 80.7s
