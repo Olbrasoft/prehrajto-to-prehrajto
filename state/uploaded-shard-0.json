@@ -29622,6 +29622,25 @@
         "download_sec": 110.2,
         "upload_sec": 140.5
       }
+    },
+    {
+      "cr_film_id": 5878,
+      "cr_slug": "ztracene-mesto",
+      "title": "Ztracené město",
+      "year": 2022,
+      "display_name": "Ztracené město (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "2fe9150576eb0e2f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24842837,
+      "size_bytes": 2296438850,
+      "uploaded_at": "2026-05-15T07:23:45Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 94.8,
+        "upload_sec": 130.5
+      }
     }
   ],
   "failed_attempts": [
@@ -33646,7 +33665,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nekdo-klepe-na-dvere-2023-czdab/ca04af4fbb8bc32c",
       "permanent": true,
       "failed_at": "2026-05-15T07:02:35Z"
+    },
+    {
+      "cr_film_id": 5878,
+      "upload_id": "0580b2359349d265",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ztracene-mesto-2022-cz-dabing-1080p-mkv/0580b2359349d265",
+      "permanent": true,
+      "failed_at": "2026-05-15T07:19:52Z"
     }
   ],
-  "last_updated": "2026-05-15T07:19:50Z"
+  "last_updated": "2026-05-15T07:23:45Z"
 }
