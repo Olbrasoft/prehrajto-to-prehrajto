@@ -10682,3 +10682,14 @@
 [19:05:47]   upload done video_id=24862178 in 92.8s
 [19:05:48] film cr_film_id=7121 OK in 157.0s
 [19:05:48] batch-end ok=20 failed=0 dur=2687.5s avg/film=134.4s remaining=15850 eta_hours=591.7
+
+===== run 2026-05-15T19:05:58Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25934567314) =====
+[19:05:59] batch-start shard=1/2 count=20 backlog=17650 uploads=1800 failed_attempts=92
+[19:05:59] login
+[19:06:00] login done
+[19:06:00] iteration 1/20
+[19:06:00] film cr_film_id=7125 name='Deník malého poseroutky: Poslední kapka (2025) CZ Dabing' candidates=2
+[19:06:00]   candidate upload_id=0bc169769c2047a2 url=https://prehraj.to/denik-maleho-poseroutky-posledni-kapka-2025-cz-dab-1080p/0bc169769c2047a2
+[19:06:01]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/168213922/xKyIl0sYkH3bsbWTZXtomsZoSBmt1DizlFa…)
+[19:06:51]   downloaded 1,692.1 MB in 48.6s (34.8 MB/s)
+[19:08:01]   upload done video_id=24862196 in 70.0s
