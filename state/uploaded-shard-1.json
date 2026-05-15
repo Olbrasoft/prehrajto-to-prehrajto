@@ -32892,6 +32892,25 @@
         "download_sec": 31.8,
         "upload_sec": 47.8
       }
+    },
+    {
+      "cr_film_id": 6833,
+      "cr_slug": "bily-raj",
+      "title": "Bílý ráj",
+      "year": 2022,
+      "display_name": "Bílý ráj (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64fd823d776e9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24858613,
+      "size_bytes": 886159570,
+      "uploaded_at": "2026-05-15T16:01:20Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 26.7,
+        "upload_sec": 36.4
+      }
     }
   ],
   "failed_attempts": [
@@ -33557,5 +33576,5 @@
       "failed_at": "2026-05-15T15:02:36Z"
     }
   ],
-  "last_updated": "2026-05-15T16:00:12Z"
+  "last_updated": "2026-05-15T16:01:20Z"
 }
