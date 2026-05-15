@@ -10930,3 +10930,15 @@
 [21:21:15]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/27603231/P29Ij0UwoTLriwDsQzfmxUbJCdVIzkCQMIZV…)
 [21:22:10]   downloaded 1,871.8 MB in 53.2s (35.2 MB/s)
 [21:23:23]   upload done video_id=24864073 in 73.8s
+[21:23:25] film cr_film_id=7247 OK in 130.9s
+[21:23:25] iteration 15/20
+[21:23:25] film cr_film_id=7251 name='Bože, ty seš hajzl (2020) CZ Dabing' candidates=1
+[21:23:25]   candidate upload_id=423fc1227b089e22 url=https://prehraj.to/boze-ty-ses-hajzl-2020-cz-dabing/423fc1227b089e22
+[21:23:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/boze-ty-ses-hajzl-2020-cz-dabing/423fc1227b089e22 (permanent=True)
+[21:23:25] film cr_film_id=7251 all candidates exhausted
+[21:23:25] iteration 16/20
+[21:23:25] film cr_film_id=7255 name='Cry Macho (2021) CZ Dabing' candidates=1
+[21:23:25]   candidate upload_id=65189204bd2bb url=https://prehraj.to/cry-macho-2021-cz-dabing/65189204bd2bb
+[21:23:31]   resolved in 6.0s → 480p (https://pf-storage4.premiumcdn.net/46750409/5yLS3EuwKsZ3iVEiMmiWEuoqt9luKmsQYS03…)
+[21:23:57]   downloaded 825.8 MB in 24.7s (33.4 MB/s)
+[21:24:31]   upload done video_id=24864119 in 34.1s

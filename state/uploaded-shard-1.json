@@ -34811,6 +34811,25 @@
         "download_sec": 53.2,
         "upload_sec": 73.8
       }
+    },
+    {
+      "cr_film_id": 7255,
+      "cr_slug": "cry-macho",
+      "title": "Cry Macho",
+      "year": 2021,
+      "display_name": "Cry Macho (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65189204bd2bb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24864119,
+      "size_bytes": 825839349,
+      "uploaded_at": "2026-05-15T21:24:31Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 24.7,
+        "upload_sec": 34.1
+      }
     }
   ],
   "failed_attempts": [
@@ -35509,7 +35528,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/5-x-jinak-2020-cz-dabing/00bff3bc8a545af4",
       "permanent": true,
       "failed_at": "2026-05-15T20:54:43Z"
+    },
+    {
+      "cr_film_id": 7251,
+      "upload_id": "423fc1227b089e22",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/boze-ty-ses-hajzl-2020-cz-dabing/423fc1227b089e22",
+      "permanent": true,
+      "failed_at": "2026-05-15T21:23:25Z"
     }
   ],
-  "last_updated": "2026-05-15T21:23:23Z"
+  "last_updated": "2026-05-15T21:24:31Z"
 }
