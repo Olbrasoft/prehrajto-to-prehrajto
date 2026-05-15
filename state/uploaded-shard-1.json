@@ -29263,6 +29263,25 @@
         "download_sec": 122.1,
         "upload_sec": 141.7
       }
+    },
+    {
+      "cr_film_id": 6099,
+      "cr_slug": "templar",
+      "title": "Templář",
+      "year": 2011,
+      "display_name": "Templář (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59a9ea6bae32d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24843479,
+      "size_bytes": 997938682,
+      "uploaded_at": "2026-05-15T07:44:16Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 41.5,
+        "upload_sec": 58.4
+      }
     }
   ],
   "failed_attempts": [
@@ -29823,5 +29842,5 @@
       "failed_at": "2026-05-15T05:36:46Z"
     }
   ],
-  "last_updated": "2026-05-15T07:42:31Z"
+  "last_updated": "2026-05-15T07:44:16Z"
 }
