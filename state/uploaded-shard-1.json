@@ -33842,6 +33842,25 @@
         "download_sec": 16.7,
         "upload_sec": 37.3
       }
+    },
+    {
+      "cr_film_id": 7069,
+      "cr_slug": "zkrat",
+      "title": "Zkrat",
+      "year": 2011,
+      "display_name": "Zkrat (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55f4481c6cd9c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24861720,
+      "size_bytes": 355483709,
+      "uploaded_at": "2026-05-15T18:22:28Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 12.5,
+        "upload_sec": 14.3
+      }
     }
   ],
   "failed_attempts": [
@@ -34514,5 +34533,5 @@
       "failed_at": "2026-05-15T17:43:30Z"
     }
   ],
-  "last_updated": "2026-05-15T18:21:57Z"
+  "last_updated": "2026-05-15T18:22:28Z"
 }
