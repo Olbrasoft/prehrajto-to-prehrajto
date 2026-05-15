@@ -34450,6 +34450,25 @@
         "download_sec": 192.7,
         "upload_sec": 93.4
       }
+    },
+    {
+      "cr_film_id": 7171,
+      "cr_slug": "atlas",
+      "title": "Atlas",
+      "year": 2024,
+      "display_name": "Atlas (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6651931e627c5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24862651,
+      "size_bytes": 2227586505,
+      "uploaded_at": "2026-05-15T19:47:48Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 236.4,
+        "upload_sec": 81.7
+      }
     }
   ],
   "failed_attempts": [
@@ -35120,7 +35139,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ktery-je-ten-pravy-2017-cz-dabing-mp4/fa65b0a36b2ee098",
       "permanent": true,
       "failed_at": "2026-05-15T17:43:30Z"
+    },
+    {
+      "cr_film_id": 7169,
+      "upload_id": "e97200dc095937dd",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ella-a-cerny-jaguar-2024-cz-dab-1080p/e97200dc095937dd",
+      "permanent": true,
+      "failed_at": "2026-05-15T19:42:23Z"
     }
   ],
-  "last_updated": "2026-05-15T19:42:21Z"
+  "last_updated": "2026-05-15T19:47:48Z"
 }
