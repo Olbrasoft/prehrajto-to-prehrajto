@@ -30726,6 +30726,25 @@
         "download_sec": 14.5,
         "upload_sec": 17.3
       }
+    },
+    {
+      "cr_film_id": 6363,
+      "cr_slug": "kamper",
+      "title": "Kamper",
+      "year": 2016,
+      "display_name": "Kamper (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a6675a7051ec",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24852092,
+      "size_bytes": 776173034,
+      "uploaded_at": "2026-05-15T10:58:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 26.3,
+        "upload_sec": 29.2
+      }
     }
   ],
   "failed_attempts": [
@@ -31328,5 +31347,5 @@
       "failed_at": "2026-05-15T10:48:44Z"
     }
   ],
-  "last_updated": "2026-05-15T10:57:46Z"
+  "last_updated": "2026-05-15T10:58:46Z"
 }
