@@ -33631,6 +33631,25 @@
         "download_sec": 20.0,
         "upload_sec": 24.3
       }
+    },
+    {
+      "cr_film_id": 6664,
+      "cr_slug": "deda-je-lotr",
+      "title": "Děda je lotr",
+      "year": 2016,
+      "display_name": "Děda je lotr (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "586c027b279cd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24858648,
+      "size_bytes": 2282139087,
+      "uploaded_at": "2026-05-15T16:03:42Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 70.6,
+        "upload_sec": 82.6
+      }
     }
   ],
   "failed_attempts": [
@@ -37739,5 +37758,5 @@
       "failed_at": "2026-05-15T15:05:39Z"
     }
   ],
-  "last_updated": "2026-05-15T16:01:05Z"
+  "last_updated": "2026-05-15T16:03:42Z"
 }
