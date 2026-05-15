@@ -8074,3 +8074,10 @@
 [03:58:23]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/20982309/VORfrvh3OFdwuEetKYc5WhO5Sx3ILnirdIDO…)
 [03:59:07]   downloaded 1,030.4 MB in 42.3s (24.4 MB/s)
 [04:00:06]   upload done video_id=24835965 in 59.5s
+[04:00:08] film cr_film_id=5616 OK in 105.8s
+[04:00:08] iteration 20/20
+[04:00:08] film cr_film_id=5620 name='Inferno (2016) CZ Dabing' candidates=1
+[04:00:08]   candidate upload_id=c6bfdb761b58cbcb url=https://prehraj.to/inferno-2016-cz-dab-1080p/c6bfdb761b58cbcb
+[04:00:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/inferno-2016-cz-dab-1080p/c6bfdb761b58cbcb (permanent=True)
+[04:00:08] film cr_film_id=5620 all candidates exhausted
+[04:00:08] batch-end ok=19 failed=1 dur=2370.7s avg/film=124.8s remaining=16159 eta_hours=560.2
