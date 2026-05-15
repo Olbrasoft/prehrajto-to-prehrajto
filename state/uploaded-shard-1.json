@@ -31809,6 +31809,25 @@
         "download_sec": 31.2,
         "upload_sec": 44.2
       }
+    },
+    {
+      "cr_film_id": 6601,
+      "cr_slug": "stanek-s-polibky",
+      "title": "Stánek s polibky",
+      "year": 2018,
+      "display_name": "Stánek s polibky (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "614de20ea3293",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24856200,
+      "size_bytes": 1881811118,
+      "uploaded_at": "2026-05-15T13:55:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 70.5,
+        "upload_sec": 94.6
+      }
     }
   ],
   "failed_attempts": [
@@ -32446,5 +32465,5 @@
       "failed_at": "2026-05-15T12:56:49Z"
     }
   ],
-  "last_updated": "2026-05-15T13:52:31Z"
+  "last_updated": "2026-05-15T13:55:21Z"
 }
