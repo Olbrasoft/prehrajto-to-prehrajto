@@ -10413,3 +10413,23 @@
 [17:11:21]   upload done video_id=24860220 in 41.1s
 [17:11:23] film cr_film_id=6770 OK in 86.9s
 [17:11:23] batch-end ok=20 failed=0 dur=2732.7s avg/film=136.6s remaining=15852 eta_hours=601.5
+
+===== run 2026-05-15T17:24:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25931635600) =====
+[17:24:58] batch-start shard=0/2 count=20 backlog=17650 uploads=1798 failed_attempts=587
+[17:24:58] login
+[17:24:59] login done
+[17:24:59] iteration 1/20
+[17:24:59] film cr_film_id=6776 name='Tichá pošta (2025) CZ' candidates=3
+[17:24:59]   candidate upload_id=6771b96cb94cd406 url=https://prehraj.to/ticha-posta-2025-cz-1920x1080p/6771b96cb94cd406
+[17:25:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ticha-posta-2025-cz-1920x1080p/6771b96cb94cd406 (permanent=True)
+[17:25:00]   candidate upload_id=23e2b66e2ffd325e url=https://prehraj.to/ticha-posta-2025-cz-mp4/23e2b66e2ffd325e
+[17:25:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ticha-posta-2025-cz-mp4/23e2b66e2ffd325e (permanent=True)
+[17:25:06]   candidate upload_id=ddba4cdce1122cd4 url=https://prehraj.to/ticha-posta-2025-cz-mp4/ddba4cdce1122cd4
+[17:25:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ticha-posta-2025-cz-mp4/ddba4cdce1122cd4 (permanent=True)
+[17:25:12] film cr_film_id=6776 all candidates exhausted
+[17:25:12] iteration 2/20
+[17:25:12] film cr_film_id=6784 name='Když lumpa trápí pumpa (2025) CZ' candidates=1
+[17:25:12]   candidate upload_id=682e4a30a9fee url=https://prehraj.to/kdyz-lumpa-trapi-pumpa-hdtv-cz-2025-1080p/682e4a30a9fee
+[17:25:17]   resolved in 6.0s → 1080p (https://pf-storage5.premiumcdn.net/138374555/mW3HpWsYAimWIVZi2xH7jsBxtMDCLwI8rHB…)
+[17:26:22]   downloaded 1,543.3 MB in 62.5s (24.7 MB/s)
+[17:27:44]   upload done video_id=24860569 in 81.8s
