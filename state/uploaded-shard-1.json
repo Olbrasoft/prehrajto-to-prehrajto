@@ -27116,6 +27116,25 @@
         "download_sec": 14.3,
         "upload_sec": 20.9
       }
+    },
+    {
+      "cr_film_id": 5663,
+      "cr_slug": "dum-kouzel",
+      "title": "Dům kouzel",
+      "year": 2013,
+      "display_name": "Dům kouzel (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6050f9e22fea6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24832649,
+      "size_bytes": 2279526584,
+      "uploaded_at": "2026-05-15T02:52:59Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 61.4,
+        "upload_sec": 86.5
+      }
     }
   ],
   "failed_attempts": [
@@ -27655,5 +27674,5 @@
       "failed_at": "2026-05-15T02:03:54Z"
     }
   ],
-  "last_updated": "2026-05-15T02:50:14Z"
+  "last_updated": "2026-05-15T02:52:59Z"
 }
