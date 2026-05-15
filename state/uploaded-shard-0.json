@@ -31883,6 +31883,25 @@
         "download_sec": 45.2,
         "upload_sec": 60.1
       }
+    },
+    {
+      "cr_film_id": 6314,
+      "cr_slug": "sit",
+      "title": "Síť",
+      "year": 1995,
+      "display_name": "Síť (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c5451de449e1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24853859,
+      "size_bytes": 612211920,
+      "uploaded_at": "2026-05-15T12:11:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.3,
+        "upload_sec": 23.1
+      }
     }
   ],
   "failed_attempts": [
@@ -35944,5 +35963,5 @@
       "failed_at": "2026-05-15T10:37:57Z"
     }
   ],
-  "last_updated": "2026-05-15T12:10:21Z"
+  "last_updated": "2026-05-15T12:11:09Z"
 }
