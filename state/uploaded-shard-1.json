@@ -34716,6 +34716,25 @@
         "download_sec": 40.9,
         "upload_sec": 71.5
       }
+    },
+    {
+      "cr_film_id": 7233,
+      "cr_slug": "princezna",
+      "title": "Princezna",
+      "year": 2022,
+      "display_name": "Princezna (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68aa6b0bd0eae",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24863892,
+      "size_bytes": 2351471149,
+      "uploaded_at": "2026-05-15T21:16:38Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 72.6,
+        "upload_sec": 93.7
+      }
     }
   ],
   "failed_attempts": [
@@ -35416,5 +35435,5 @@
       "failed_at": "2026-05-15T20:54:43Z"
     }
   ],
-  "last_updated": "2026-05-15T21:13:47Z"
+  "last_updated": "2026-05-15T21:16:38Z"
 }
