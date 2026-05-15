@@ -26945,6 +26945,25 @@
         "download_sec": 16.0,
         "upload_sec": 22.0
       }
+    },
+    {
+      "cr_film_id": 5617,
+      "cr_slug": "vikingove-ii",
+      "title": "Vikingové II",
+      "year": 2008,
+      "display_name": "Vikingové II (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "681f99a08bba2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24831660,
+      "size_bytes": 2265347094,
+      "uploaded_at": "2026-05-15T02:36:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 61.2,
+        "upload_sec": 76.8
+      }
     }
   ],
   "failed_attempts": [
@@ -27484,5 +27503,5 @@
       "failed_at": "2026-05-15T02:03:54Z"
     }
   ],
-  "last_updated": "2026-05-15T02:33:42Z"
+  "last_updated": "2026-05-15T02:36:03Z"
 }
