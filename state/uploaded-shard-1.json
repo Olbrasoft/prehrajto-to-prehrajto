@@ -27040,6 +27040,25 @@
         "download_sec": 14.2,
         "upload_sec": 27.7
       }
+    },
+    {
+      "cr_film_id": 5641,
+      "cr_slug": "jeepers-creepers",
+      "title": "Jeepers Creepers",
+      "year": 2001,
+      "display_name": "Jeepers Creepers (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "033de904948d0947",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24832367,
+      "size_bytes": 1375451096,
+      "uploaded_at": "2026-05-15T02:47:28Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 37.8,
+        "upload_sec": 65.9
+      }
     }
   ],
   "failed_attempts": [
@@ -27579,5 +27598,5 @@
       "failed_at": "2026-05-15T02:03:54Z"
     }
   ],
-  "last_updated": "2026-05-15T02:45:41Z"
+  "last_updated": "2026-05-15T02:47:28Z"
 }
