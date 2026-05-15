@@ -27342,6 +27342,25 @@
         "download_sec": 62.4,
         "upload_sec": 92.8
       }
+    },
+    {
+      "cr_film_id": 5404,
+      "cr_slug": "vanocni-nevesta",
+      "title": "Vánoční nevěsta",
+      "year": 2019,
+      "display_name": "Vánoční nevěsta (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63a9177631260",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24830130,
+      "size_bytes": 2409500117,
+      "uploaded_at": "2026-05-15T01:42:03Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 109.8,
+        "upload_sec": 118.5
+      }
     }
   ],
   "failed_attempts": [
@@ -31270,7 +31289,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tron-ares-2025-cz-dabing-mkv/d153eabda1fb47d9",
       "permanent": true,
       "failed_at": "2026-05-15T00:39:12Z"
+    },
+    {
+      "cr_film_id": 5396,
+      "upload_id": "a351da7ebcc85d00",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pretlak-2020-cz-dabing/a351da7ebcc85d00",
+      "permanent": true,
+      "failed_at": "2026-05-15T01:38:01Z"
+    },
+    {
+      "cr_film_id": 5400,
+      "upload_id": "df6480b662925887",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pripad-cislo-39-2009-fhd-cz-en/df6480b662925887",
+      "permanent": true,
+      "failed_at": "2026-05-15T01:38:06Z"
     }
   ],
-  "last_updated": "2026-05-15T01:37:57Z"
+  "last_updated": "2026-05-15T01:42:03Z"
 }
