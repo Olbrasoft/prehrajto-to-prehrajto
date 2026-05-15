@@ -10012,3 +10012,19 @@
 [15:01:04]   resolved in 5.9s → 720p (https://pf-storage4.premiumcdn.net/165314084/ZRdsApUXai2gI0GtdrINgU4oCdNTPkT5piX…)
 [15:01:40]   downloaded 1,271.1 MB in 35.0s (36.3 MB/s)
 [15:02:22]   upload done video_id=24857650 in 42.6s
+[15:02:24] film cr_film_id=6747 OK in 86.7s
+[15:02:24] iteration 9/20
+[15:02:24] film cr_film_id=6749 name='Holky to chtěj pořád (2025) CZ Dabing' candidates=3
+[15:02:24]   candidate upload_id=525736400983a598 url=https://prehraj.to/holky-to-chtej-porad-2025-1080p-cz-dabing/525736400983a598
+[15:02:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/holky-to-chtej-porad-2025-1080p-cz-dabing/525736400983a598 (permanent=True)
+[15:02:25]   candidate upload_id=7c4388a8f459a4ce url=https://prehraj.to/holky-to-chtej-porad-2025-cz-dab/7c4388a8f459a4ce
+[15:02:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/holky-to-chtej-porad-2025-cz-dab/7c4388a8f459a4ce (permanent=True)
+[15:02:30]   candidate upload_id=fb056954f553820d url=https://prehraj.to/holky-to-chtej-porad-2025/fb056954f553820d
+[15:02:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/holky-to-chtej-porad-2025/fb056954f553820d (permanent=True)
+[15:02:36] film cr_film_id=6749 all candidates exhausted
+[15:02:36] iteration 10/20
+[15:02:36] film cr_film_id=6753 name='Útes (2026) CZ Dabing' candidates=10
+[15:02:36]   candidate upload_id=d61d2ab73c560496 url=https://prehraj.to/utes-2026-1080p-cz-dabing-mp4/d61d2ab73c560496
+[15:02:42]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/166302965/5Y5ugNFaxH8jH3kimrSP5FgosKlUxoC4Oue…)
+[15:03:41]   downloaded 2,131.8 MB in 57.8s (36.9 MB/s)
+[15:04:55]   upload done video_id=24857686 in 73.6s

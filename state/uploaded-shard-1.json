@@ -32493,6 +32493,25 @@
         "download_sec": 35.0,
         "upload_sec": 42.6
       }
+    },
+    {
+      "cr_film_id": 6753,
+      "cr_slug": "utes",
+      "title": "Útes",
+      "year": 2026,
+      "display_name": "Útes (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d61d2ab73c560496",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24857686,
+      "size_bytes": 2131844467,
+      "uploaded_at": "2026-05-15T15:04:55Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 57.8,
+        "upload_sec": 73.6
+      }
     }
   ],
   "failed_attempts": [
@@ -33135,7 +33154,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/primate-2026-1080p-primat-cz-dabing-mkv/9e88a61d65c929cd",
       "permanent": true,
       "failed_at": "2026-05-15T15:00:58Z"
+    },
+    {
+      "cr_film_id": 6749,
+      "upload_id": "525736400983a598",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/holky-to-chtej-porad-2025-1080p-cz-dabing/525736400983a598",
+      "permanent": true,
+      "failed_at": "2026-05-15T15:02:25Z"
+    },
+    {
+      "cr_film_id": 6749,
+      "upload_id": "7c4388a8f459a4ce",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/holky-to-chtej-porad-2025-cz-dab/7c4388a8f459a4ce",
+      "permanent": true,
+      "failed_at": "2026-05-15T15:02:30Z"
+    },
+    {
+      "cr_film_id": 6749,
+      "upload_id": "fb056954f553820d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/holky-to-chtej-porad-2025/fb056954f553820d",
+      "permanent": true,
+      "failed_at": "2026-05-15T15:02:36Z"
     }
   ],
-  "last_updated": "2026-05-15T15:02:22Z"
+  "last_updated": "2026-05-15T15:04:55Z"
 }
