@@ -7501,3 +7501,16 @@
 [00:38:56]   upload done video_id=24829069 in 35.2s
 [00:38:57] film cr_film_id=5304 OK in 65.3s
 [00:38:57] batch-end ok=20 failed=0 dur=2655.1s avg/film=132.8s remaining=16234 eta_hours=598.9
+
+===== run 2026-05-15T00:39:09Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25893349090) =====
+[00:39:10] batch-start shard=0/2 count=20 backlog=17650 uploads=1416 failed_attempts=557
+[00:39:10] login
+[00:39:12] login done
+[00:39:12] iteration 1/20
+[00:39:12] film cr_film_id=5306 name='TRON: Ares (2025) CZ Dabing' candidates=2
+[00:39:12]   candidate upload_id=d153eabda1fb47d9 url=https://prehraj.to/tron-ares-2025-cz-dabing-mkv/d153eabda1fb47d9
+[00:39:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tron-ares-2025-cz-dabing-mkv/d153eabda1fb47d9 (permanent=True)
+[00:39:12]   candidate upload_id=42d3cb4b472d9879 url=https://prehraj.to/tron-ares-2o25-uhdrdv-2160p-hdr10dv-hevc-cz-en/42d3cb4b472d9879
+[00:39:19]   resolved in 6.3s → 1080p (https://pf-storage5.premiumcdn.net/160336085/3DaS1mFlvt0jI2VHYEuBrFNOs3PCveIeVCn…)
+[00:41:29]   downloaded 3,664.3 MB in 128.5s (28.5 MB/s)
+[00:43:57]   upload done video_id=24829124 in 148.0s
