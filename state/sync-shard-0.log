@@ -9959,3 +9959,14 @@
 [14:07:32]   upload done video_id=24856491 in 59.0s
 [14:07:34] film cr_film_id=6550 OK in 110.7s
 [14:07:34] batch-end ok=18 failed=2 dur=2107.9s avg/film=117.1s remaining=15911 eta_hours=517.5
+
+===== run 2026-05-15T14:50:13Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25924343040) =====
+[14:50:15] batch-start shard=0/2 count=20 backlog=17650 uploads=1739 failed_attempts=578
+[14:50:15] login
+[14:50:16] login done
+[14:50:16] iteration 1/20
+[14:50:16] film cr_film_id=6552 name='Přirozené světlo (2021) CZ Dabing' candidates=2
+[14:50:16]   candidate upload_id=632f8ab32c879 url=https://prehraj.to/prirozene-svetlo-2021-cz-dabing-1080p/632f8ab32c879
+[14:50:18]   resolved in 1.5s → 720p (https://pf-storage1.premiumcdn.net/33433096/M6WsrvuD2iGvS3mclxhl0umKinqSJXuX3COR…)
+[14:51:15]   downloaded 1,252.2 MB in 55.5s (22.6 MB/s)
+[14:52:19]   upload done video_id=24857440 in 64.1s
