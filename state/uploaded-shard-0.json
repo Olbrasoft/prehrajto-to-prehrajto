@@ -31465,6 +31465,25 @@
         "download_sec": 82.9,
         "upload_sec": 101.2
       }
+    },
+    {
+      "cr_film_id": 6244,
+      "cr_slug": "domaci-tym",
+      "title": "Domácí tým",
+      "year": 2022,
+      "display_name": "Domácí tým (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "625d185a038b9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24852816,
+      "size_bytes": 2305166646,
+      "uploaded_at": "2026-05-15T11:28:50Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 111.2,
+        "upload_sec": 122.5
+      }
     }
   ],
   "failed_attempts": [
@@ -35526,5 +35545,5 @@
       "failed_at": "2026-05-15T10:37:57Z"
     }
   ],
-  "last_updated": "2026-05-15T11:24:52Z"
+  "last_updated": "2026-05-15T11:28:50Z"
 }
