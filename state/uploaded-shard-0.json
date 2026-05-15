@@ -29166,6 +29166,25 @@
         "download_sec": 28.8,
         "upload_sec": 32.0
       }
+    },
+    {
+      "cr_film_id": 5778,
+      "cr_slug": "moje-vina",
+      "title": "Moje vina",
+      "year": 2023,
+      "display_name": "Moje vina (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f81834b22a1a65eb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24840603,
+      "size_bytes": 1762368315,
+      "uploaded_at": "2026-05-15T06:04:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 56.1,
+        "upload_sec": 62.0
+      }
     }
   ],
   "failed_attempts": [
@@ -33164,5 +33183,5 @@
       "failed_at": "2026-05-15T05:49:12Z"
     }
   ],
-  "last_updated": "2026-05-15T06:02:34Z"
+  "last_updated": "2026-05-15T06:04:36Z"
 }
