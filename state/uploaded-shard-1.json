@@ -32474,6 +32474,25 @@
         "download_sec": 11.0,
         "upload_sec": 13.0
       }
+    },
+    {
+      "cr_film_id": 6747,
+      "cr_slug": "primat",
+      "title": "Primát",
+      "year": 2025,
+      "display_name": "Primát (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "2b598d56ba8dd6d9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24857650,
+      "size_bytes": 1271133201,
+      "uploaded_at": "2026-05-15T15:02:22Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 35.0,
+        "upload_sec": 42.6
+      }
     }
   ],
   "failed_attempts": [
@@ -33109,7 +33128,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing/17175fd707a8deb8",
       "permanent": true,
       "failed_at": "2026-05-15T12:56:49Z"
+    },
+    {
+      "cr_film_id": 6747,
+      "upload_id": "9e88a61d65c929cd",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/primate-2026-1080p-primat-cz-dabing-mkv/9e88a61d65c929cd",
+      "permanent": true,
+      "failed_at": "2026-05-15T15:00:58Z"
     }
   ],
-  "last_updated": "2026-05-15T15:00:56Z"
+  "last_updated": "2026-05-15T15:02:22Z"
 }
