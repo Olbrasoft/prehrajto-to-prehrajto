@@ -9804,3 +9804,14 @@
 [14:11:25]   upload done video_id=24856548 in 117.1s
 [14:11:26] film cr_film_id=6623 OK in 220.8s
 [14:11:26] batch-end ok=20 failed=0 dur=2873.0s avg/film=143.7s remaining=15968 eta_hours=637.4
+
+===== run 2026-05-15T14:11:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25920189920) =====
+[14:11:39] batch-start shard=1/2 count=20 backlog=17650 uploads=1682 failed_attempts=87
+[14:11:39] login
+[14:11:41] login done
+[14:11:41] iteration 1/20
+[14:11:41] film cr_film_id=6637 name='Tajemství loňského léta (1997) CZ Dabing' candidates=2
+[14:11:41]   candidate upload_id=639fc0ad3a129 url=https://prehraj.to/tajemstvi-lonskeho-leta-1997-horor-mysteriozni-thriller-1080p-cz-dabing/639fc0ad3a129
+[14:11:42]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/35623903/3PyUbQHMGCdyu96FWXhAqH90tRXsNXCWvUAQ…)
+[14:12:10]   downloaded 923.4 MB in 26.5s (34.8 MB/s)
+[14:12:43]   upload done video_id=24856612 in 33.6s
