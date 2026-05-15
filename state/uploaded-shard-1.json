@@ -33614,6 +33614,25 @@
         "download_sec": 29.1,
         "upload_sec": 25.7
       }
+    },
+    {
+      "cr_film_id": 6987,
+      "cr_slug": "trable-o-vanocich",
+      "title": "Trable o Vánocích",
+      "year": 2015,
+      "display_name": "Trable o Vánocích (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ff1dd5f47ff8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24860964,
+      "size_bytes": 1868089187,
+      "uploaded_at": "2026-05-15T17:46:35Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 88.9,
+        "upload_sec": 89.5
+      }
     }
   ],
   "failed_attempts": [
@@ -34277,7 +34296,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/holky-to-chtej-porad-2025/fb056954f553820d",
       "permanent": true,
       "failed_at": "2026-05-15T15:02:36Z"
+    },
+    {
+      "cr_film_id": 6985,
+      "upload_id": "fa65b0a36b2ee098",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ktery-je-ten-pravy-2017-cz-dabing-mp4/fa65b0a36b2ee098",
+      "permanent": true,
+      "failed_at": "2026-05-15T17:43:30Z"
     }
   ],
-  "last_updated": "2026-05-15T17:43:28Z"
+  "last_updated": "2026-05-15T17:46:35Z"
 }
