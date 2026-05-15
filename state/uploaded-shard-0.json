@@ -34752,6 +34752,25 @@
         "download_sec": 403.9,
         "upload_sec": 115.3
       }
+    },
+    {
+      "cr_film_id": 6896,
+      "cr_slug": "cas",
+      "title": "Čas",
+      "year": 2021,
+      "display_name": "Čas (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "624ba54ee1114",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24862937,
+      "size_bytes": 2059321268,
+      "uploaded_at": "2026-05-15T20:16:42Z",
+      "timing": {
+        "resolve_sec": 3.8,
+        "download_sec": 144.9,
+        "upload_sec": 115.5
+      }
     }
   ],
   "failed_attempts": [
@@ -38916,5 +38935,5 @@
       "failed_at": "2026-05-15T17:25:11Z"
     }
   ],
-  "last_updated": "2026-05-15T20:12:13Z"
+  "last_updated": "2026-05-15T20:16:42Z"
 }
