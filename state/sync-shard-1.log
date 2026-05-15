@@ -7464,3 +7464,14 @@
 [00:32:19]   upload done video_id=24828920 in 61.0s
 [00:32:21] film cr_film_id=5427 OK in 121.2s
 [00:32:21] batch-end ok=20 failed=0 dur=2260.1s avg/film=113.0s remaining=16281 eta_hours=511.0
+
+===== run 2026-05-15T00:32:32Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25893349090) =====
+[00:32:33] batch-start shard=1/2 count=20 backlog=17650 uploads=1369 failed_attempts=71
+[00:32:33] login
+[00:32:35] login done
+[00:32:35] iteration 1/20
+[00:32:35] film cr_film_id=5429 name='Eternals (2021) CZ Dabing' candidates=2
+[00:32:35]   candidate upload_id=542daaf4199b1cfa url=https://prehraj.to/eternals-2021-cz-dab-1080p/542daaf4199b1cfa
+[00:32:36]   resolved in 1.2s → 720p (https://pf-storage6.premiumcdn.net/169901230/GGRFDdsJAT1yFvOue8tqwsa7UoGuBGCawfw…)
+[00:33:44]   downloaded 1,666.8 MB in 66.0s (25.3 MB/s)
+[00:35:06]   upload done video_id=24828969 in 81.9s
