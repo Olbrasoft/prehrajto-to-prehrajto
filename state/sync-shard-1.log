@@ -9266,3 +9266,15 @@
 [10:47:50]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/12349207/AqbH7vTbJi1nHOMieNc65Tj5FzkFlNi5kFzg…)
 [10:48:10]   downloaded 617.8 MB in 19.2s (32.2 MB/s)
 [10:48:42]   upload done video_id=24851813 in 32.2s
+[10:48:44] film cr_film_id=6309 OK in 54.9s
+[10:48:44] iteration 7/20
+[10:48:44] film cr_film_id=6311 name='Ten pravý, ta pravá? (2018) CZ Dabing' candidates=1
+[10:48:44]   candidate upload_id=ce8439bec1f99fcb url=https://prehraj.to/ten-pravy-ta-prava-2018-cz-dab-1080p/ce8439bec1f99fcb
+[10:48:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ten-pravy-ta-prava-2018-cz-dab-1080p/ce8439bec1f99fcb (permanent=True)
+[10:48:44] film cr_film_id=6311 all candidates exhausted
+[10:48:44] iteration 8/20
+[10:48:44] film cr_film_id=6313 name='Hledá se princezna (2018) CZ' candidates=20
+[10:48:44]   candidate upload_id=60074e7e18b9c url=https://prehraj.to/hleda-se-princezna-2018/60074e7e18b9c
+[10:48:50]   resolved in 6.1s → 720p (https://pf-storage5.premiumcdn.net/21610812/OpgIW7urgUoBFKXumxSVauDytnjCp3igyCdl…)
+[10:49:44]   downloaded 1,854.0 MB in 52.5s (35.3 MB/s)
+[10:50:54]   upload done video_id=24851859 in 69.7s
