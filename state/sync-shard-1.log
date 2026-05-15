@@ -11118,3 +11118,14 @@
 [22:52:59]   upload done video_id=24866651 in 25.6s
 [22:53:00] film cr_film_id=7331 OK in 49.9s
 [22:53:00] batch-end ok=20 failed=0 dur=3065.8s avg/film=153.3s remaining=15793 eta_hours=672.5
+
+===== run 2026-05-15T22:53:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25945215824) =====
+[22:53:24] batch-start shard=1/2 count=20 backlog=17650 uploads=1857 failed_attempts=97
+[22:53:24] login
+[22:53:25] login done
+[22:53:25] iteration 1/20
+[22:53:25] film cr_film_id=7333 name='Hledání opravdového boha (2017) CZ Dabing' candidates=1
+[22:53:25]   candidate upload_id=637419df46081 url=https://prehraj.to/hledani-opravdoveho-boha-2017-cz-dabing/637419df46081
+[22:53:26]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/34662175/mjNu9vHxDCzYfGDTb5CyBHd1u6VuyaF4au39…)
+[22:54:45]   downloaded 1,663.1 MB in 77.0s (21.6 MB/s)
+[22:56:02]   upload done video_id=24866742 in 77.6s
