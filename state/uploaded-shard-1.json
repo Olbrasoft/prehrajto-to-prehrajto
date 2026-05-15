@@ -34602,6 +34602,25 @@
         "download_sec": 99.8,
         "upload_sec": 92.3
       }
+    },
+    {
+      "cr_film_id": 7201,
+      "cr_slug": "dospelaci",
+      "title": "Dospěláci",
+      "year": 2023,
+      "display_name": "Dospěláci (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f17f4f0717e2bb29",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24863434,
+      "size_bytes": 2053161683,
+      "uploaded_at": "2026-05-15T20:52:37Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 66.8,
+        "upload_sec": 73.5
+      }
     }
   ],
   "failed_attempts": [
@@ -35295,5 +35314,5 @@
       "failed_at": "2026-05-15T20:46:52Z"
     }
   ],
-  "last_updated": "2026-05-15T20:50:12Z"
+  "last_updated": "2026-05-15T20:52:37Z"
 }
