@@ -9364,3 +9364,14 @@
 [11:05:06]   upload done video_id=24852253 in 36.4s
 [11:05:08] film cr_film_id=6389 OK in 70.0s
 [11:05:08] batch-end ok=19 failed=1 dur=1588.7s avg/film=83.6s remaining=16026 eta_hours=372.2
+
+===== run 2026-05-15T11:39:13Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25915823921) =====
+[11:39:15] batch-start shard=1/2 count=20 backlog=17650 uploads=1624 failed_attempts=82
+[11:39:15] login
+[11:39:16] login done
+[11:39:16] iteration 1/20
+[11:39:16] film cr_film_id=6395 name='Pan Popper a jeho tučňáci (2011) CZ' candidates=3
+[11:39:16]   candidate upload_id=63e3e54d9f2d8 url=https://prehraj.to/pan-popper-a-jeho-tucnaci-2011-cz-en/63e3e54d9f2d8
+[11:39:17]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/37190233/nNVUzJsZvUONsYvsNJUX4svpfZ9SJ5iOwhNg…)
+[11:39:52]   downloaded 1,147.3 MB in 33.3s (34.5 MB/s)
+[11:40:44]   upload done video_id=24853125 in 52.7s
