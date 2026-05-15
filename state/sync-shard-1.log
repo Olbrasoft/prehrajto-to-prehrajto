@@ -8780,3 +8780,14 @@
 [08:00:13]   upload done video_id=24843932 in 25.6s
 [08:00:14] film cr_film_id=6121 OK in 54.8s
 [08:00:14] batch-end ok=20 failed=0 dur=2772.5s avg/film=138.6s remaining=16103 eta_hours=620.0
+
+===== run 2026-05-15T08:00:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25906353004) =====
+[08:00:30] batch-start shard=1/2 count=20 backlog=17650 uploads=1547 failed_attempts=76
+[08:00:30] login
+[08:00:32] login done
+[08:00:32] iteration 1/20
+[08:00:32] film cr_film_id=6125 name='Jumper (2008) CZ Dabing' candidates=8
+[08:00:32]   candidate upload_id=63be6ce6d0746 url=https://prehraj.to/jumper-2008-1080p-cz-dabing/63be6ce6d0746
+[08:00:33]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/36184834/EQluZaFEyT4nfoNTdLcqzF1DTophK8CgvIk8…)
+[08:02:12]   downloaded 2,083.9 MB in 96.3s (21.6 MB/s)
+[08:04:12]   upload done video_id=24844001 in 120.1s
