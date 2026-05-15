@@ -29605,6 +29605,25 @@
         "download_sec": 62.6,
         "upload_sec": 65.8
       }
+    },
+    {
+      "cr_film_id": 6153,
+      "cr_slug": "spinavej-joe",
+      "title": "Špinavej Joe",
+      "year": 2001,
+      "display_name": "Špinavej Joe (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b5ae189753ba",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24845155,
+      "size_bytes": 545195462,
+      "uploaded_at": "2026-05-15T08:40:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 30.1,
+        "upload_sec": 33.8
+      }
     }
   ],
   "failed_attempts": [
@@ -30165,5 +30184,5 @@
       "failed_at": "2026-05-15T05:36:46Z"
     }
   ],
-  "last_updated": "2026-05-15T08:39:19Z"
+  "last_updated": "2026-05-15T08:40:29Z"
 }
