@@ -32415,6 +32415,25 @@
         "download_sec": 27.3,
         "upload_sec": 38.9
       }
+    },
+    {
+      "cr_film_id": 6440,
+      "cr_slug": "world-trade-center",
+      "title": "World Trade Center",
+      "year": 2006,
+      "display_name": "World Trade Center (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6832da21e128e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24855104,
+      "size_bytes": 1692958222,
+      "uploaded_at": "2026-05-15T13:03:28Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 48.5,
+        "upload_sec": 73.0
+      }
     }
   ],
   "failed_attempts": [
@@ -36476,5 +36495,5 @@
       "failed_at": "2026-05-15T10:37:57Z"
     }
   ],
-  "last_updated": "2026-05-15T13:01:23Z"
+  "last_updated": "2026-05-15T13:03:28Z"
 }
