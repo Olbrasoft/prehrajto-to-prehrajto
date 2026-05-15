@@ -28845,6 +28845,25 @@
         "download_sec": 29.5,
         "upload_sec": 31.9
       }
+    },
+    {
+      "cr_film_id": 5983,
+      "cr_slug": "dubcek",
+      "title": "Dubček",
+      "year": 2018,
+      "display_name": "Dubček (2018) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5cab5677472ee",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24842114,
+      "size_bytes": 2064759574,
+      "uploaded_at": "2026-05-15T06:59:12Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 64.2,
+        "upload_sec": 70.8
+      }
     }
   ],
   "failed_attempts": [
@@ -29405,5 +29424,5 @@
       "failed_at": "2026-05-15T05:36:46Z"
     }
   ],
-  "last_updated": "2026-05-15T06:56:54Z"
+  "last_updated": "2026-05-15T06:59:12Z"
 }
