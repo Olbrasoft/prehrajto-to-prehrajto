@@ -9817,3 +9817,14 @@
 [13:32:05]   upload done video_id=24855682 in 146.8s
 [13:32:06] film cr_film_id=6478 OK in 249.8s
 [13:32:06] batch-end ok=20 failed=0 dur=2452.8s avg/film=122.6s remaining=15929 eta_hours=542.5
+
+===== run 2026-05-15T13:32:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25920189920) =====
+[13:32:25] batch-start shard=0/2 count=20 backlog=17650 uploads=1721 failed_attempts=576
+[13:32:25] login
+[13:32:27] login done
+[13:32:27] iteration 1/20
+[13:32:27] film cr_film_id=6480 name='Do útoku (1987) CZ Dabing' candidates=14
+[13:32:27]   candidate upload_id=61954d41b9b93 url=https://prehraj.to/do-utoku-1987-1080p-cz-dabing/61954d41b9b93
+[13:32:28]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/26584297/jLOf5GFdgU6ACYmFoNS62FZaFlkh9PcJbfk8…)
+[13:33:27]   downloaded 2,035.1 MB in 57.9s (35.1 MB/s)
+[13:34:37]   upload done video_id=24855755 in 70.2s
