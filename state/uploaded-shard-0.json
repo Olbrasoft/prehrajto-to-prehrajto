@@ -34125,6 +34125,25 @@
         "download_sec": 47.6,
         "upload_sec": 77.9
       }
+    },
+    {
+      "cr_film_id": 6768,
+      "cr_slug": "jursky-svet-znovuzrozeni",
+      "title": "Jurský svět: Znovuzrození",
+      "year": 2025,
+      "display_name": "Jurský svět: Znovuzrození (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "fa1259a2f6464454",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24859817,
+      "size_bytes": 4416551810,
+      "uploaded_at": "2026-05-15T17:09:54Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 117.2,
+        "upload_sec": 197.4
+      }
     }
   ],
   "failed_attempts": [
@@ -38231,7 +38250,42 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/reminiscence-cz-dabing-mp4/2f284e16bcefd13b",
       "permanent": true,
       "failed_at": "2026-05-15T15:05:39Z"
+    },
+    {
+      "cr_film_id": 6768,
+      "upload_id": "2144b258a8069fb6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jursky-svet-znovuzrozeni-2025-cz-dabing-1080p-mkv/2144b258a8069fb6",
+      "permanent": true,
+      "failed_at": "2026-05-15T17:04:10Z"
+    },
+    {
+      "cr_film_id": 6768,
+      "upload_id": "dd52a7ef6db9bef8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jursky-svet-znovuzrozeni-2025-1080p-cz-dabing/dd52a7ef6db9bef8",
+      "permanent": true,
+      "failed_at": "2026-05-15T17:04:15Z"
+    },
+    {
+      "cr_film_id": 6768,
+      "upload_id": "64610d1873212889",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jursky-svet-znovuzrozeni-2025-cz-dabing-1080p/64610d1873212889",
+      "permanent": true,
+      "failed_at": "2026-05-15T17:04:21Z"
+    },
+    {
+      "cr_film_id": 6768,
+      "upload_id": "ae92b28c8c3e61ce",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jursky-svet-znovuzrozeni-2025-1080p-cz-dabing/ae92b28c8c3e61ce",
+      "permanent": true,
+      "failed_at": "2026-05-15T17:04:27Z"
+    },
+    {
+      "cr_film_id": 6768,
+      "upload_id": "ab0f800f89249cae",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jursky-svet-znovuzrozeni-2025-cz-dab-1080p/ab0f800f89249cae",
+      "permanent": true,
+      "failed_at": "2026-05-15T17:04:32Z"
     }
   ],
-  "last_updated": "2026-05-15T17:04:07Z"
+  "last_updated": "2026-05-15T17:09:54Z"
 }
