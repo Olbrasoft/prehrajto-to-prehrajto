@@ -36367,6 +36367,25 @@
         "download_sec": 57.3,
         "upload_sec": 68.2
       }
+    },
+    {
+      "cr_film_id": 7242,
+      "cr_slug": "100-vlk",
+      "title": "100% vlk",
+      "year": 2020,
+      "display_name": "100% vlk (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61f5075c03cef",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24867610,
+      "size_bytes": 1208275503,
+      "uploaded_at": "2026-05-15T23:38:56Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 35.2,
+        "upload_sec": 47.9
+      }
     }
   ],
   "failed_attempts": [
@@ -40538,5 +40557,5 @@
       "failed_at": "2026-05-15T21:40:29Z"
     }
   ],
-  "last_updated": "2026-05-15T23:37:30Z"
+  "last_updated": "2026-05-15T23:38:56Z"
 }
