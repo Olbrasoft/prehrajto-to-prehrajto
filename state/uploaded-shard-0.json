@@ -35094,6 +35094,25 @@
         "download_sec": 37.9,
         "upload_sec": 50.6
       }
+    },
+    {
+      "cr_film_id": 6962,
+      "cr_slug": "halloween-h20",
+      "title": "Halloween: H20",
+      "year": 1998,
+      "display_name": "Halloween: H20 (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6905eeff58212",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24863796,
+      "size_bytes": 1005408267,
+      "uploaded_at": "2026-05-15T21:10:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 50.9,
+        "upload_sec": 43.5
+      }
     }
   ],
   "failed_attempts": [
@@ -39258,5 +39277,5 @@
       "failed_at": "2026-05-15T17:25:11Z"
     }
   ],
-  "last_updated": "2026-05-15T21:08:30Z"
+  "last_updated": "2026-05-15T21:10:08Z"
 }
