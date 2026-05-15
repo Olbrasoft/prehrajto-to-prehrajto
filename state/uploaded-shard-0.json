@@ -33384,6 +33384,25 @@
         "download_sec": 33.7,
         "upload_sec": 41.0
       }
+    },
+    {
+      "cr_film_id": 6618,
+      "cr_slug": "kouzelny-park",
+      "title": "Kouzelný park",
+      "year": 2019,
+      "display_name": "Kouzelný park (2019) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68f61ee7b57f4",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24858285,
+      "size_bytes": 1867246277,
+      "uploaded_at": "2026-05-15T15:38:49Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 73.5,
+        "upload_sec": 90.1
+      }
     }
   ],
   "failed_attempts": [
@@ -37492,5 +37511,5 @@
       "failed_at": "2026-05-15T15:05:39Z"
     }
   ],
-  "last_updated": "2026-05-15T15:36:01Z"
+  "last_updated": "2026-05-15T15:38:49Z"
 }
