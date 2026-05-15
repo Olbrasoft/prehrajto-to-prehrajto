@@ -30040,6 +30040,25 @@
         "download_sec": 58.8,
         "upload_sec": 75.6
       }
+    },
+    {
+      "cr_film_id": 5950,
+      "cr_slug": "code-8",
+      "title": "Kód 8",
+      "year": 2019,
+      "display_name": "Kód 8 (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65e057e49a710",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24844365,
+      "size_bytes": 1931853108,
+      "uploaded_at": "2026-05-15T08:16:08Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 55.6,
+        "upload_sec": 86.7
+      }
     }
   ],
   "failed_attempts": [
@@ -34073,5 +34092,5 @@
       "failed_at": "2026-05-15T07:19:52Z"
     }
   ],
-  "last_updated": "2026-05-15T08:13:41Z"
+  "last_updated": "2026-05-15T08:16:08Z"
 }
