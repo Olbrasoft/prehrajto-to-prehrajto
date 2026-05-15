@@ -8081,3 +8081,14 @@
 [04:00:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/inferno-2016-cz-dab-1080p/c6bfdb761b58cbcb (permanent=True)
 [04:00:08] film cr_film_id=5620 all candidates exhausted
 [04:00:08] batch-end ok=19 failed=1 dur=2370.7s avg/film=124.8s remaining=16159 eta_hours=560.2
+
+===== run 2026-05-15T04:01:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25899509978) =====
+[04:01:34] batch-start shard=0/2 count=20 backlog=17650 uploads=1491 failed_attempts=564
+[04:01:34] login
+[04:01:36] login done
+[04:01:36] iteration 1/20
+[04:01:36] film cr_film_id=5626 name='Matky na tahu (2016) CZ Dabing' candidates=2
+[04:01:36]   candidate upload_id=5855592eb8da0 url=https://prehraj.to/matky-na-tahu-2016-czdabing/5855592eb8da0
+[04:01:37]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/1188430/ONQh1WTKpfl2cp1UzwIqKTkqiDRSREIDeHZ3U…)
+[04:02:07]   downloaded 505.7 MB in 27.1s (18.7 MB/s)
+[04:02:35]   upload done video_id=24836104 in 28.5s
