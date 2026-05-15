@@ -8225,3 +8225,14 @@
 [04:43:03]   upload done video_id=24837813 in 63.0s
 [04:43:05] film cr_film_id=5686 OK in 121.3s
 [04:43:05] batch-end ok=19 failed=1 dur=2488.9s avg/film=131.0s remaining=16140 eta_hours=587.3
+
+===== run 2026-05-15T04:45:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25900746013) =====
+[04:45:32] batch-start shard=0/2 count=20 backlog=17650 uploads=1510 failed_attempts=565
+[04:45:32] login
+[04:45:33] login done
+[04:45:33] iteration 1/20
+[04:45:33] film cr_film_id=5688 name='Auta 2 (2011) CZ Dabing' candidates=50
+[04:45:33]   candidate upload_id=e5132e5a1b221afd url=https://prehraj.to/auta-2-2011-cz-dabing-top-kvalita-mkv/e5132e5a1b221afd
+[04:45:35]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/155038449/8lrTvXS6yFOkS3OIwJt93SVos8lTdGhMrCz…)
+[04:46:51]   downloaded 2,278.2 MB in 75.0s (30.4 MB/s)
+[04:48:33]   upload done video_id=24837985 in 101.6s
