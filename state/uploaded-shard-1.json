@@ -33709,6 +33709,25 @@
         "download_sec": 60.7,
         "upload_sec": 63.6
       }
+    },
+    {
+      "cr_film_id": 7007,
+      "cr_slug": "abulele",
+      "title": "Abulele",
+      "year": 2015,
+      "display_name": "Abulele (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c85950f55570",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24861132,
+      "size_bytes": 1308626627,
+      "uploaded_at": "2026-05-15T17:54:49Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 78.5,
+        "upload_sec": 75.8
+      }
     }
   ],
   "failed_attempts": [
@@ -34381,5 +34400,5 @@
       "failed_at": "2026-05-15T17:43:30Z"
     }
   ],
-  "last_updated": "2026-05-15T17:52:11Z"
+  "last_updated": "2026-05-15T17:54:49Z"
 }
