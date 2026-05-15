@@ -10561,3 +10561,14 @@
 [18:19:56]   upload done video_id=24861668 in 27.8s
 [18:19:57] film cr_film_id=6832 OK in 56.9s
 [18:19:57] batch-end ok=19 failed=1 dur=3298.0s avg/film=173.6s remaining=15833 eta_hours=763.5
+
+===== run 2026-05-15T18:20:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25934194075) =====
+[18:20:59] batch-start shard=0/2 count=20 backlog=17650 uploads=1817 failed_attempts=590
+[18:20:59] login
+[18:21:00] login done
+[18:21:00] iteration 1/20
+[18:21:00] film cr_film_id=6834 name='Opičí král (2023) CZ Dabing' candidates=3
+[18:21:00]   candidate upload_id=64e028bde8771 url=https://prehraj.to/opici-kral-2023-cz-dabing-hd-1080p/64e028bde8771
+[18:21:02]   resolved in 1.6s → 1080p (https://pf-storage3.premiumcdn.net/43533353/YLwI17TaxHovsPQH0rCr1T7bSv8hNmFqWuVR…)
+[18:22:49]   downloaded 2,465.1 MB in 105.1s (23.5 MB/s)
+[18:25:11]   upload done video_id=24861731 in 142.1s
