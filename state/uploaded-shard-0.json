@@ -29527,6 +29527,25 @@
         "download_sec": 80.3,
         "upload_sec": 89.9
       }
+    },
+    {
+      "cr_film_id": 5862,
+      "cr_slug": "drsny-mesto",
+      "title": "Drsný město",
+      "year": 2020,
+      "display_name": "Drsný město (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fa16372d9661",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24842346,
+      "size_bytes": 460285229,
+      "uploaded_at": "2026-05-15T07:06:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.0,
+        "upload_sec": 26.1
+      }
     }
   ],
   "failed_attempts": [
@@ -33553,5 +33572,5 @@
       "failed_at": "2026-05-15T07:02:35Z"
     }
   ],
-  "last_updated": "2026-05-15T07:05:34Z"
+  "last_updated": "2026-05-15T07:06:27Z"
 }
