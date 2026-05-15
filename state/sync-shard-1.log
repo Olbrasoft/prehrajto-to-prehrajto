@@ -7756,3 +7756,14 @@
 [02:08:19]   upload done video_id=24830526 in 96.0s
 [02:08:21] film cr_film_id=5547 OK in 171.7s
 [02:08:21] batch-end ok=19 failed=1 dur=2226.5s avg/film=117.2s remaining=16242 eta_hours=528.8
+
+===== run 2026-05-15T02:18:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25896681770) =====
+[02:18:29] batch-start shard=1/2 count=20 backlog=17650 uploads=1408 failed_attempts=73
+[02:18:29] login
+[02:18:30] login done
+[02:18:30] iteration 1/20
+[02:18:30] film cr_film_id=5549 name='Kazišuci (2018) CZ Dabing' candidates=2
+[02:18:30]   candidate upload_id=5c5930ca50696 url=https://prehraj.to/kazisuci-blockers-2018-cz-dabing-bdrip/5c5930ca50696
+[02:18:31]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/11573821/BkRSR5ULASNWcYkUAkcAmUEMS7mCXpSBoSWK…)
+[02:19:20]   downloaded 1,697.6 MB in 47.5s (35.7 MB/s)
+[02:20:21]   upload done video_id=24830627 in 60.6s
