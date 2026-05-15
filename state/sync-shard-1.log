@@ -9582,3 +9582,21 @@
 [12:51:30]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/76406723/MdEsB0CydI1gsZBHgrijOCa5uOYTARigpIEz…)
 [12:53:41]   downloaded 2,570.4 MB in 128.7s (20.0 MB/s)
 [12:56:28]   upload done video_id=24854908 in 166.9s
+[12:56:30] film cr_film_id=6511 OK in 301.0s
+[12:56:30] iteration 11/20
+[12:56:30] film cr_film_id=6515 name='Tlapková patrola ve velkofilmu (2023) CZ Dabing' candidates=4
+[12:56:30]   candidate upload_id=9509b8e8398c5e29 url=https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing-mp4/9509b8e8398c5e29
+[12:56:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing-mp4/9509b8e8398c5e29 (permanent=True)
+[12:56:31]   candidate upload_id=ba1191db9b6a8d85 url=https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing/ba1191db9b6a8d85
+[12:56:37]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing/ba1191db9b6a8d85 (permanent=True)
+[12:56:37]   candidate upload_id=abd72be610d14f0b url=https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing-mp4/abd72be610d14f0b
+[12:56:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing-mp4/abd72be610d14f0b (permanent=True)
+[12:56:43]   candidate upload_id=17175fd707a8deb8 url=https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing/17175fd707a8deb8
+[12:56:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing/17175fd707a8deb8 (permanent=True)
+[12:56:49] film cr_film_id=6515 all candidates exhausted
+[12:56:49] iteration 12/20
+[12:56:49] film cr_film_id=6517 name='Dalíland (2022) CZ Dabing' candidates=3
+[12:56:49]   candidate upload_id=65a6f629df7fb url=https://prehraj.to/daliland-2022-czdab/65a6f629df7fb
+[12:56:56]   resolved in 7.3s → 720p (https://pf-storage3.premiumcdn.net/72454289/RE0HNjTnzIkGtZBfKJUPmTMwC7VFK5SaxUnx…)
+[12:58:04]   downloaded 1,217.9 MB in 66.2s (18.4 MB/s)
+[12:59:20]   upload done video_id=24855016 in 76.0s
