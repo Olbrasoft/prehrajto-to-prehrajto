@@ -8541,3 +8541,15 @@
 [06:50:12]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/44333024/gpntAMT96fY2uqrh0XuPATMqS0EtEPTydf6G…)
 [06:51:30]   downloaded 1,643.0 MB in 76.4s (21.5 MB/s)
 [06:52:59]   upload done video_id=24841944 in 88.9s
+[06:53:01] film cr_film_id=5828 OK in 169.8s
+[06:53:01] iteration 5/20
+[06:53:01] film cr_film_id=5830 name='Operace Napoleon (2023) CZ Dabing' candidates=1
+[06:53:01]   candidate upload_id=c7e77f803b43cb92 url=https://prehraj.to/operace-napoleon-2023-cz-dabing-mp4/c7e77f803b43cb92
+[06:53:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/operace-napoleon-2023-cz-dabing-mp4/c7e77f803b43cb92 (permanent=True)
+[06:53:01] film cr_film_id=5830 all candidates exhausted
+[06:53:01] iteration 6/20
+[06:53:01] film cr_film_id=5834 name='Hlubina (2002) CZ Dabing' candidates=6
+[06:53:01]   candidate upload_id=6896d3c4f0ca9 url=https://prehraj.to/hlubina-2002-cz-dab-1080p/6896d3c4f0ca9
+[06:53:08]   resolved in 6.6s → 1080p (https://pf-storage3.premiumcdn.net/143289890/QyPuq6h8ECKZi1qcE0F1nhqMCLNCM3uaEC9…)
+[06:55:16]   downloaded 2,992.7 MB in 126.9s (23.6 MB/s)
+[06:57:56]   upload done video_id=24842041 in 159.7s

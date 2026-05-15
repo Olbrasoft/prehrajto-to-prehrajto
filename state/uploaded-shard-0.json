@@ -29451,6 +29451,25 @@
         "download_sec": 76.4,
         "upload_sec": 88.9
       }
+    },
+    {
+      "cr_film_id": 5834,
+      "cr_slug": "hlubina",
+      "title": "Hlubina",
+      "year": 2002,
+      "display_name": "Hlubina (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6896d3c4f0ca9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24842041,
+      "size_bytes": 2992738883,
+      "uploaded_at": "2026-05-15T06:57:56Z",
+      "timing": {
+        "resolve_sec": 6.6,
+        "download_sec": 126.9,
+        "upload_sec": 159.7
+      }
     }
   ],
   "failed_attempts": [
@@ -33461,7 +33480,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kouzelna-beruska-a-cerny-kocour-ve-filmu-2023-cz-dabing/255770f27b73e21b",
       "permanent": true,
       "failed_at": "2026-05-15T06:21:50Z"
+    },
+    {
+      "cr_film_id": 5830,
+      "upload_id": "c7e77f803b43cb92",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/operace-napoleon-2023-cz-dabing-mp4/c7e77f803b43cb92",
+      "permanent": true,
+      "failed_at": "2026-05-15T06:53:01Z"
     }
   ],
-  "last_updated": "2026-05-15T06:52:59Z"
+  "last_updated": "2026-05-15T06:57:56Z"
 }
