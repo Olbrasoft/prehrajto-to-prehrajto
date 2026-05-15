@@ -30135,6 +30135,25 @@
         "download_sec": 58.0,
         "upload_sec": 89.7
       }
+    },
+    {
+      "cr_film_id": 5966,
+      "cr_slug": "zoe",
+      "title": "Zoe",
+      "year": 2018,
+      "display_name": "Zoe (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60bc3ab222525",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24844620,
+      "size_bytes": 646721499,
+      "uploaded_at": "2026-05-15T08:23:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.0,
+        "upload_sec": 24.0
+      }
     }
   ],
   "failed_attempts": [
@@ -34168,5 +34187,5 @@
       "failed_at": "2026-05-15T07:19:52Z"
     }
   ],
-  "last_updated": "2026-05-15T08:23:08Z"
+  "last_updated": "2026-05-15T08:23:58Z"
 }
