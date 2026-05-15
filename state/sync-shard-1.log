@@ -8634,3 +8634,14 @@
 [07:13:43]   upload done video_id=24842562 in 16.8s
 [07:13:44] film cr_film_id=6041 OK in 33.9s
 [07:13:44] batch-end ok=20 failed=0 dur=2073.0s avg/film=103.7s remaining=16123 eta_hours=464.4
+
+===== run 2026-05-15T07:13:59Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25905059386) =====
+[07:14:00] batch-start shard=1/2 count=20 backlog=17650 uploads=1527 failed_attempts=76
+[07:14:00] login
+[07:14:02] login done
+[07:14:02] iteration 1/20
+[07:14:02] film cr_film_id=6047 name='Mejdan v Las Vegas (2008) CZ Dabing' candidates=11
+[07:14:02]   candidate upload_id=63d1633661ef9 url=https://prehraj.to/mejdan-v-las-vegas-2008-komedie-romanticky-fullhd-cz-dabing-1/63d1633661ef9
+[07:14:03]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/36715552/7YrcO3C8NSlPHyOiVlSX5C5mT4dULvInaURW…)
+[07:15:29]   downloaded 2,138.6 MB in 84.4s (25.3 MB/s)
+[07:17:16]   upload done video_id=24842631 in 106.7s
