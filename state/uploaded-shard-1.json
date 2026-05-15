@@ -26641,6 +26641,25 @@
         "download_sec": 63.1,
         "upload_sec": 77.7
       }
+    },
+    {
+      "cr_film_id": 5527,
+      "cr_slug": "cervena-svetla",
+      "title": "Červená světla",
+      "year": 2012,
+      "display_name": "Červená světla (2012) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5f1a8089ae608",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24830445,
+      "size_bytes": 1657431653,
+      "uploaded_at": "2026-05-15T02:00:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 53.4,
+        "upload_sec": 67.2
+      }
     }
   ],
   "failed_attempts": [
@@ -27166,5 +27185,5 @@
       "failed_at": "2026-05-14T23:44:10Z"
     }
   ],
-  "last_updated": "2026-05-15T01:58:13Z"
+  "last_updated": "2026-05-15T02:00:17Z"
 }
