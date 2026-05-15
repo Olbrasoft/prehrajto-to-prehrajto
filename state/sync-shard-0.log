@@ -9379,3 +9379,14 @@
 [11:37:51]   upload done video_id=24853032 in 83.1s
 [11:37:53] film cr_film_id=6262 OK in 157.6s
 [11:37:53] batch-end ok=20 failed=0 dur=3552.0s avg/film=177.6s remaining=15989 eta_hours=788.8
+
+===== run 2026-05-15T11:39:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25915823921) =====
+[11:39:14] batch-start shard=0/2 count=20 backlog=17650 uploads=1661 failed_attempts=576
+[11:39:14] login
+[11:39:15] login done
+[11:39:15] iteration 1/20
+[11:39:15] film cr_film_id=6266 name='Ještě není pozdě (2020) CZ Dabing' candidates=2
+[11:39:15]   candidate upload_id=602ebe307991e url=https://prehraj.to/never-too-late-2020-czdab/602ebe307991e
+[11:39:16]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/22304096/x0wTMnF0PSGyHpvsldiLKF0atv1sLvsKnCM4…)
+[11:40:05]   downloaded 1,519.6 MB in 48.1s (31.6 MB/s)
+[11:41:06]   upload done video_id=24853133 in 60.7s
