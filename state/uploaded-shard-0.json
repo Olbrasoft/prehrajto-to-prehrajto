@@ -32035,6 +32035,25 @@
         "download_sec": 12.2,
         "upload_sec": 21.8
       }
+    },
+    {
+      "cr_film_id": 6356,
+      "cr_slug": "mistr-mece",
+      "title": "Mistr meče",
+      "year": 2016,
+      "display_name": "Mistr meče (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c65f29b91d94",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24854320,
+      "size_bytes": 999223582,
+      "uploaded_at": "2026-05-15T12:27:17Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 31.3,
+        "upload_sec": 39.0
+      }
     }
   ],
   "failed_attempts": [
@@ -36096,5 +36115,5 @@
       "failed_at": "2026-05-15T10:37:57Z"
     }
   ],
-  "last_updated": "2026-05-15T12:26:02Z"
+  "last_updated": "2026-05-15T12:27:17Z"
 }
