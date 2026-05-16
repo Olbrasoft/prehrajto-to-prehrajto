@@ -37281,6 +37281,25 @@
         "download_sec": 16.3,
         "upload_sec": 20.7
       }
+    },
+    {
+      "cr_film_id": 7795,
+      "cr_slug": "kuryri",
+      "title": "Kurýři",
+      "year": 2025,
+      "display_name": "Kurýři (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d1ceadebd620e88b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24872337,
+      "size_bytes": 1525019400,
+      "uploaded_at": "2026-05-16T03:24:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 41.8,
+        "upload_sec": 68.4
+      }
     }
   ],
   "failed_attempts": [
@@ -38009,5 +38028,5 @@
       "failed_at": "2026-05-16T03:19:05Z"
     }
   ],
-  "last_updated": "2026-05-16T03:22:30Z"
+  "last_updated": "2026-05-16T03:24:24Z"
 }
