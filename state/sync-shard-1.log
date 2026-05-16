@@ -12703,3 +12703,15 @@
 [07:56:52]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/43902164/dwEFJEhnqiqntVdfz0s6ohVziOJFZ8u8VUY2…)
 [07:57:43]   downloaded 1,717.1 MB in 49.2s (34.9 MB/s)
 [07:58:59]   upload done video_id=24877843 in 76.1s
+[07:59:00] film cr_film_id=8199 OK in 128.9s
+[07:59:00] iteration 19/20
+[07:59:00] film cr_film_id=8201 name='Dračí princezna (2020) CZ' candidates=1
+[07:59:00]   candidate upload_id=85ef99640848bc2a url=https://prehraj.to/draci-princezna-2020-cz-dabing-mp4/85ef99640848bc2a
+[07:59:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/draci-princezna-2020-cz-dabing-mp4/85ef99640848bc2a (permanent=True)
+[07:59:01] film cr_film_id=8201 all candidates exhausted
+[07:59:01] iteration 20/20
+[07:59:01] film cr_film_id=8203 name='Jak to skončí (2021) CZ Dabing' candidates=2
+[07:59:01]   candidate upload_id=6244c782822b8 url=https://prehraj.to/how-it-ends-2021-czdab/6244c782822b8
+[07:59:07]   resolved in 6.0s → 1080p (https://pf-storage4.premiumcdn.net/30269174/9pat13FewCbvH92uDph2WFBoHDdcyAiaAhnX…)
+[08:00:43]   downloaded 3,001.7 MB in 94.2s (31.9 MB/s)
+[08:02:48]   upload done video_id=24877921 in 124.9s
