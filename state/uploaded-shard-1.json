@@ -37053,6 +37053,25 @@
         "download_sec": 61.6,
         "upload_sec": 93.3
       }
+    },
+    {
+      "cr_film_id": 7753,
+      "cr_slug": "tri-bratri",
+      "title": "Tři bratři",
+      "year": 2014,
+      "display_name": "Tři bratři (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b01779bb404641da",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24871682,
+      "size_bytes": 1822356707,
+      "uploaded_at": "2026-05-16T02:56:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 71.2,
+        "upload_sec": 143.5
+      }
     }
   ],
   "failed_attempts": [
@@ -37774,5 +37793,5 @@
       "failed_at": "2026-05-16T01:01:34Z"
     }
   ],
-  "last_updated": "2026-05-16T02:52:29Z"
+  "last_updated": "2026-05-16T02:56:08Z"
 }
