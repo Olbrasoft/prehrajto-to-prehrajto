@@ -38421,6 +38421,25 @@
         "download_sec": 51.9,
         "upload_sec": 61.8
       }
+    },
+    {
+      "cr_film_id": 7999,
+      "cr_slug": "vyber-si",
+      "title": "Vyber si!",
+      "year": 2017,
+      "display_name": "Vyber si! (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c6f890683693",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24875524,
+      "size_bytes": 527891622,
+      "uploaded_at": "2026-05-16T06:01:00Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 18.3,
+        "upload_sec": 23.4
+      }
     }
   ],
   "failed_attempts": [
@@ -39170,5 +39189,5 @@
       "failed_at": "2026-05-16T04:39:14Z"
     }
   ],
-  "last_updated": "2026-05-16T06:00:15Z"
+  "last_updated": "2026-05-16T06:01:00Z"
 }
