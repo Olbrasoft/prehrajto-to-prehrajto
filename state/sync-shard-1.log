@@ -14174,3 +14174,21 @@
 [18:09:20]   upload done video_id=24889223 in 88.3s
 [18:09:21] film cr_film_id=9069 OK in 249.6s
 [18:09:21] batch-end ok=20 failed=0 dur=4400.0s avg/film=220.0s remaining=15386 eta_hours=940.3
+
+===== run 2026-05-16T18:10:07Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25969209927) =====
+[18:10:08] batch-start shard=1/2 count=20 backlog=17650 uploads=2264 failed_attempts=116
+[18:10:08] login
+[18:10:10] login done
+[18:10:10] iteration 1/20
+[18:10:10] film cr_film_id=9071 name='Rozpolcená (2022) CZ Dabing' candidates=2
+[18:10:10]   candidate upload_id=3dc7f09f178edf7a url=https://prehraj.to/rozpolcena-cameron-monaghan-frank-grillo-lilly-krug-john-malkovich-2022-thriller-bdrip-1080p-cz-dabing-mp4/3dc7f09f178edf7a
+[18:10:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozpolcena-cameron-monaghan-frank-grillo-lilly-krug-john-malkovich-2022-thriller-bdrip-1080p-cz-dabing-mp4/3dc7f09f178edf7a (permanent=True)
+[18:10:12]   candidate upload_id=b3bd6488fc723279 url=https://prehraj.to/rozpolcena-cameron-monaghan-frank-grillo-lilly-krug-john-malkovich-2022-thriller-bdrip-1080p-cz-dabing-mp4/b3bd6488fc723279
+[18:10:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozpolcena-cameron-monaghan-frank-grillo-lilly-krug-john-malkovich-2022-thriller-bdrip-1080p-cz-dabing-mp4/b3bd6488fc723279 (permanent=True)
+[18:10:18] film cr_film_id=9071 all candidates exhausted
+[18:10:18] iteration 2/20
+[18:10:18] film cr_film_id=9077 name='Pokrevní bratři (2020) CZ Dabing' candidates=1
+[18:10:18]   candidate upload_id=61758a1f77601 url=https://prehraj.to/brothers-by-blood-2020-czdab/61758a1f77601
+[18:10:23]   resolved in 5.8s → 720p (https://pf-storage4.premiumcdn.net/25825723/4ZwiW0CwRUKEsgdCaJcpnClDhWNU84swvseD…)
+[18:13:41]   downloaded 1,221.9 MB in 195.3s (6.3 MB/s)
+[18:14:51]   upload done video_id=24889315 in 70.3s
