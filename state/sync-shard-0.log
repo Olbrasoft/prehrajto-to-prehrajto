@@ -14797,3 +14797,14 @@
 [22:47:18]   upload done video_id=24893584 in 27.3s
 [22:47:19] film cr_film_id=9142 OK in 48.3s
 [22:47:19] batch-end ok=20 failed=0 dur=2295.1s avg/film=114.8s remaining=15271 eta_hours=487.0
+
+===== run 2026-05-16T22:48:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25975025600) =====
+[22:48:29] batch-start shard=0/2 count=20 backlog=17650 uploads=2379 failed_attempts=626
+[22:48:29] login
+[22:48:30] login done
+[22:48:30] iteration 1/20
+[22:48:30] film cr_film_id=9150 name='Džob (2025) CZ Dabing' candidates=9
+[22:48:30]   candidate upload_id=9750c2f2c09da698 url=https://prehraj.to/dzob-2025-mkv/9750c2f2c09da698
+[22:48:32]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/156652046/MD8hQBuWnU9XCnaSQrf9lu0QIZQCvwiarI8…)
+[22:49:38]   downloaded 2,287.8 MB in 65.0s (35.2 MB/s)
+[22:51:02]   upload done video_id=24893613 in 84.0s

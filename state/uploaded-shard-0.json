@@ -45202,6 +45202,25 @@
         "download_sec": 17.4,
         "upload_sec": 27.3
       }
+    },
+    {
+      "cr_film_id": 9150,
+      "cr_slug": "dzob",
+      "title": "Džob",
+      "year": 2025,
+      "display_name": "Džob (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "9750c2f2c09da698",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24893613,
+      "size_bytes": 2287792507,
+      "uploaded_at": "2026-05-16T22:51:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 65.0,
+        "upload_sec": 84.0
+      }
     }
   ],
   "failed_attempts": [
@@ -49623,5 +49642,5 @@
       "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T22:47:18Z"
+  "last_updated": "2026-05-16T22:51:02Z"
 }
