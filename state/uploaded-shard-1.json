@@ -40302,6 +40302,25 @@
         "download_sec": 96.7,
         "upload_sec": 139.9
       }
+    },
+    {
+      "cr_film_id": 8437,
+      "cr_slug": "simulant",
+      "title": "Simulant",
+      "year": 2023,
+      "display_name": "Simulant (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "671ff73889c56",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24881465,
+      "size_bytes": 1564933304,
+      "uploaded_at": "2026-05-16T10:49:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 44.5,
+        "upload_sec": 62.0
+      }
     }
   ],
   "failed_attempts": [
@@ -41126,5 +41145,5 @@
       "failed_at": "2026-05-16T10:24:45Z"
     }
   ],
-  "last_updated": "2026-05-16T10:47:12Z"
+  "last_updated": "2026-05-16T10:49:02Z"
 }
