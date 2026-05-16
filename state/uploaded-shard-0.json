@@ -45240,6 +45240,25 @@
         "download_sec": 45.6,
         "upload_sec": 58.8
       }
+    },
+    {
+      "cr_film_id": 9154,
+      "cr_slug": "absolutni-zlo",
+      "title": "Absolutní zlo",
+      "year": 2025,
+      "display_name": "Absolutní zlo (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68f69ca1c466d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24893655,
+      "size_bytes": 1214919688,
+      "uploaded_at": "2026-05-16T22:54:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 34.9,
+        "upload_sec": 53.5
+      }
     }
   ],
   "failed_attempts": [
@@ -49661,5 +49680,5 @@
       "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T22:52:51Z"
+  "last_updated": "2026-05-16T22:54:23Z"
 }
