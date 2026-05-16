@@ -11264,3 +11264,14 @@
 [00:02:33]   upload done video_id=24868020 in 16.1s
 [00:02:34] film cr_film_id=7427 OK in 33.4s
 [00:02:34] batch-end ok=20 failed=0 dur=4148.6s avg/film=207.4s remaining=15773 eta_hours=908.7
+
+===== run 2026-05-16T00:03:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25947218352) =====
+[00:03:04] batch-start shard=1/2 count=20 backlog=17650 uploads=1877 failed_attempts=97
+[00:03:04] login
+[00:03:06] login done
+[00:03:06] iteration 1/20
+[00:03:06] film cr_film_id=7431 name='Žena zabiják (2014) CZ Dabing' candidates=6
+[00:03:06]   candidate upload_id=5e5037240d6b6 url=https://prehraj.to/zena-zabijak-cz-dabing-2014/5e5037240d6b6
+[00:03:07]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/15888394/p2zTb7HVOUYbumrs2JTwEHdMsNDSmYI7AfWA…)
+[00:03:29]   downloaded 679.2 MB in 20.7s (32.8 MB/s)
+[00:03:56]   upload done video_id=24868037 in 26.7s
