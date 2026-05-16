@@ -13863,3 +13863,17 @@
 [15:07:27]   resolved in 2.3s → 1080p (https://pf-storage4.premiumcdn.net/168509428/89Zcj1swpHERHVPiJ2F78sabhLqhD4T0ZFg…)
 [15:08:49]   downloaded 1,893.8 MB in 80.7s (23.5 MB/s)
 [15:10:26]   upload done video_id=24886109 in 96.6s
+[15:10:28] film cr_film_id=8628 OK in 182.9s
+[15:10:28] iteration 13/20
+[15:10:28] film cr_film_id=8630 name='Panda a já (2025) CZ Dabing' candidates=2
+[15:10:28]   candidate upload_id=412e00375faa46c1 url=https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/412e00375faa46c1
+[15:10:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/412e00375faa46c1 (permanent=True)
+[15:10:28]   candidate upload_id=96a9349f24310c7f url=https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/96a9349f24310c7f
+[15:10:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/96a9349f24310c7f (permanent=True)
+[15:10:34] film cr_film_id=8630 all candidates exhausted
+[15:10:34] iteration 14/20
+[15:10:34] film cr_film_id=8636 name='Malá Sibiř (2025) CZ Dabing' candidates=16
+[15:10:34]   candidate upload_id=67de4ad68c164 url=https://prehraj.to/mala-sibir-pikku-siperia-2025-1080p-x264-cz-dab-mp4/67de4ad68c164
+[15:10:40]   resolved in 5.9s → 1080p (https://pf-storage3.premiumcdn.net/132965114/agztmBTZGtAgT5QCJbsJBTkefAZslVug5Uq…)
+[15:11:49]   downloaded 1,427.8 MB in 67.6s (21.1 MB/s)
+[15:13:12]   upload done video_id=24886149 in 82.4s

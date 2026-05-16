@@ -42846,6 +42846,25 @@
         "download_sec": 80.7,
         "upload_sec": 96.6
       }
+    },
+    {
+      "cr_film_id": 8636,
+      "cr_slug": "mala-sibir",
+      "title": "Malá Sibiř",
+      "year": 2025,
+      "display_name": "Malá Sibiř (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67de4ad68c164",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24886149,
+      "size_bytes": 1427803941,
+      "uploaded_at": "2026-05-16T15:13:12Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 67.6,
+        "upload_sec": 82.4
+      }
     }
   ],
   "failed_attempts": [
@@ -47209,7 +47228,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/suprakovi-2022-cz-dabing/e3ad1fe644710f23",
       "permanent": true,
       "failed_at": "2026-05-16T12:50:16Z"
+    },
+    {
+      "cr_film_id": 8630,
+      "upload_id": "412e00375faa46c1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/412e00375faa46c1",
+      "permanent": true,
+      "failed_at": "2026-05-16T15:10:28Z"
+    },
+    {
+      "cr_film_id": 8630,
+      "upload_id": "96a9349f24310c7f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/96a9349f24310c7f",
+      "permanent": true,
+      "failed_at": "2026-05-16T15:10:34Z"
     }
   ],
-  "last_updated": "2026-05-16T15:10:26Z"
+  "last_updated": "2026-05-16T15:13:12Z"
 }
