@@ -42599,6 +42599,25 @@
         "download_sec": 60.0,
         "upload_sec": 82.8
       }
+    },
+    {
+      "cr_film_id": 8582,
+      "cr_slug": "bod-zlomu",
+      "title": "Bod zlomu",
+      "year": 2015,
+      "display_name": "Bod zlomu (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "660a95c4efb0c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24885680,
+      "size_bytes": 3242277656,
+      "uploaded_at": "2026-05-16T14:42:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 130.8,
+        "upload_sec": 173.6
+      }
     }
   ],
   "failed_attempts": [
@@ -46964,5 +46983,5 @@
       "failed_at": "2026-05-16T12:50:16Z"
     }
   ],
-  "last_updated": "2026-05-16T14:37:39Z"
+  "last_updated": "2026-05-16T14:42:48Z"
 }
