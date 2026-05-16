@@ -12587,3 +12587,14 @@
 [07:25:02]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/74244932/JqRUZOFxKSb3C3yt2MUR5Fb2sXBug8T1ysN3…)
 [07:25:29]   downloaded 769.0 MB in 26.0s (29.6 MB/s)
 [07:25:59]   upload done video_id=24877239 in 30.0s
+[07:26:01] film cr_film_id=8147 OK in 59.9s
+[07:26:01] iteration 3/20
+[07:26:01] film cr_film_id=8153 name='Vánoční příběh (2022) CZ Dabing' candidates=3
+[07:26:01]   candidate upload_id=a698376980243098 url=https://prehraj.to/novy-vanocni-pribeh-komedie-rodinny-usa-2022-cz-dabing-mp4/a698376980243098
+[07:26:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/novy-vanocni-pribeh-komedie-rodinny-usa-2022-cz-dabing-mp4/a698376980243098 (permanent=True)
+[07:26:01]   candidate upload_id=1a51efca213db0ec url=https://prehraj.to/novy-vanocni-pribeh-komedie-rodinny-usa-2022-cz-dabing-mp4/1a51efca213db0ec
+[07:26:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/novy-vanocni-pribeh-komedie-rodinny-usa-2022-cz-dabing-mp4/1a51efca213db0ec (permanent=True)
+[07:26:06]   candidate upload_id=61b9c455449be url=https://prehraj.to/ovecka-shaun-vanocni-pribeh-2021-kratkometrazni-komedie-rodinny-mp4/61b9c455449be
+[07:26:13]   resolved in 6.1s → 1080p (https://pf-storage4.premiumcdn.net/27449565/QBdupMFjOS2jceMu91I6QF9bcpaSK4udXIQW…)
+[07:26:38]   downloaded 681.5 MB in 23.5s (29.0 MB/s)
+[07:27:12]   upload done video_id=24877264 in 34.6s
