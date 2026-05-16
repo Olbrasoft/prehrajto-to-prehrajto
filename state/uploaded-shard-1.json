@@ -37585,6 +37585,25 @@
         "download_sec": 18.5,
         "upload_sec": 19.4
       }
+    },
+    {
+      "cr_film_id": 7853,
+      "cr_slug": "atelier-smrti",
+      "title": "Ateliér smrti",
+      "year": 2023,
+      "display_name": "Ateliér smrti (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "97e8927a9d4e51a1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24873567,
+      "size_bytes": 1613235105,
+      "uploaded_at": "2026-05-16T04:17:25Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 44.6,
+        "upload_sec": 62.9
+      }
     }
   ],
   "failed_attempts": [
@@ -38318,7 +38337,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ve-vztahu-2018-cz-dabing/3625e604cf0523cc",
       "permanent": true,
       "failed_at": "2026-05-16T04:11:03Z"
+    },
+    {
+      "cr_film_id": 7853,
+      "upload_id": "2fa957c14dcde985",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atelier-smrti-2023-cz-dab-1080p/2fa957c14dcde985",
+      "permanent": true,
+      "failed_at": "2026-05-16T04:15:30Z"
     }
   ],
-  "last_updated": "2026-05-16T04:15:28Z"
+  "last_updated": "2026-05-16T04:17:25Z"
 }
