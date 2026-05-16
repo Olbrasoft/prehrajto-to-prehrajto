@@ -11552,3 +11552,14 @@
 [01:31:19]   upload done video_id=24869893 in 112.7s
 [01:31:20] film cr_film_id=7583 OK in 206.8s
 [01:31:20] batch-end ok=19 failed=1 dur=2912.3s avg/film=153.3s remaining=15735 eta_hours=670.0
+
+===== run 2026-05-16T01:31:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25948530889) =====
+[01:31:37] batch-start shard=1/2 count=20 backlog=17650 uploads=1915 failed_attempts=99
+[01:31:37] login
+[01:31:39] login done
+[01:31:39] iteration 1/20
+[01:31:39] film cr_film_id=7593 name='Amerika: Film (2021) CZ Dabing' candidates=20
+[01:31:39]   candidate upload_id=60dea7385c528 url=https://prehraj.to/amerika-film-2021-cz-dabing-1080p/60dea7385c528
+[01:31:40]   resolved in 1.6s → 720p (https://pf-storage1.premiumcdn.net/24121503/DmQUOzhKrfVqS6gSM5fgYh8RfP4TAYTjZTxw…)
+[01:32:56]   downloaded 1,533.0 MB in 73.9s (20.7 MB/s)
+[01:34:33]   upload done video_id=24869958 in 96.4s
