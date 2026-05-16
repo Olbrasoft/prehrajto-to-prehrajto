@@ -43720,6 +43720,25 @@
         "download_sec": 71.4,
         "upload_sec": 59.7
       }
+    },
+    {
+      "cr_film_id": 8800,
+      "cr_slug": "barbar-conan",
+      "title": "Barbar Conan",
+      "year": 2011,
+      "display_name": "Barbar Conan (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c86679086522",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24889606,
+      "size_bytes": 911563388,
+      "uploaded_at": "2026-05-16T18:34:45Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 1137.4,
+        "upload_sec": 41.7
+      }
     }
   ],
   "failed_attempts": [
@@ -48141,5 +48160,5 @@
       "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T18:15:02Z"
+  "last_updated": "2026-05-16T18:34:45Z"
 }
