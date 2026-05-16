@@ -13896,3 +13896,21 @@
 [15:16:13]   resolved in 6.2s → 1080p (https://pf-storage5.premiumcdn.net/155984849/PmKH2aT8gC6quVqSW1cb1TlmFmMHmEuelsg…)
 [15:18:32]   downloaded 2,688.6 MB in 137.7s (19.5 MB/s)
 [15:20:57]   upload done video_id=24886263 in 145.1s
+[15:20:59] film cr_film_id=8642 OK in 292.2s
+[15:20:59] iteration 18/20
+[15:20:59] film cr_film_id=8644 name='Sklep (2024) CZ Dabing' candidates=4
+[15:20:59]   candidate upload_id=8ad59ce8adf22ad2 url=https://prehraj.to/sklep-2024-cz-dab-1080p/8ad59ce8adf22ad2
+[15:21:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sklep-2024-cz-dab-1080p/8ad59ce8adf22ad2 (permanent=True)
+[15:21:00]   candidate upload_id=9cb5a47dc7cf1540 url=https://prehraj.to/sklep-2024-cz-dab-1080p/9cb5a47dc7cf1540
+[15:21:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sklep-2024-cz-dab-1080p/9cb5a47dc7cf1540 (permanent=True)
+[15:21:05]   candidate upload_id=644b5dd2419ac50e url=https://prehraj.to/sklep-cellar-door-2024-cz-dabing/644b5dd2419ac50e
+[15:21:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sklep-cellar-door-2024-cz-dabing/644b5dd2419ac50e (permanent=True)
+[15:21:11]   candidate upload_id=75456eab7bb46b5c url=https://prehraj.to/sklep-cellar-door-2024-cz-dabing-mkv/75456eab7bb46b5c
+[15:21:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sklep-cellar-door-2024-cz-dabing-mkv/75456eab7bb46b5c (permanent=True)
+[15:21:16] film cr_film_id=8644 all candidates exhausted
+[15:21:16] iteration 19/20
+[15:21:16] film cr_film_id=8646 name='Banditka číslo jedna (2024) CZ Dabing' candidates=1
+[15:21:16]   candidate upload_id=66e1943988972 url=https://prehraj.to/banditka-cislo-jedna-2024-cz-dabing-1080p/66e1943988972
+[15:21:22]   resolved in 5.9s → 1080p (https://pf-storage5.premiumcdn.net/95702818/nplid1CMGfJ8sgACa9T42COpFgATD6inBT06…)
+[15:25:20]   downloaded 3,548.3 MB in 236.0s (15.0 MB/s)
+[15:28:45]   upload done video_id=24886390 in 204.2s
