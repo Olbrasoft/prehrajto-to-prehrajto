@@ -38210,6 +38210,25 @@
         "download_sec": 36.3,
         "upload_sec": 57.3
       }
+    },
+    {
+      "cr_film_id": 7622,
+      "cr_slug": "dedictvi",
+      "title": "Dědictví",
+      "year": 2020,
+      "display_name": "Dědictví (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6071b3ca2e65d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24873325,
+      "size_bytes": 1257164612,
+      "uploaded_at": "2026-05-16T04:09:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 62.6,
+        "upload_sec": 75.3
+      }
     }
   ],
   "failed_attempts": [
@@ -42423,5 +42442,5 @@
       "failed_at": "2026-05-16T02:38:06Z"
     }
   ],
-  "last_updated": "2026-05-16T04:06:40Z"
+  "last_updated": "2026-05-16T04:09:02Z"
 }
