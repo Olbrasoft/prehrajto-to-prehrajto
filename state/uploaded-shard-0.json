@@ -43549,6 +43549,25 @@
         "download_sec": 229.2,
         "upload_sec": 30.4
       }
+    },
+    {
+      "cr_film_id": 8764,
+      "cr_slug": "akcni-park",
+      "title": "Akční park",
+      "year": 2018,
+      "display_name": "Akční park (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ce2c02456e93",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24888763,
+      "size_bytes": 1845908019,
+      "uploaded_at": "2026-05-16T17:41:30Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 51.9,
+        "upload_sec": 88.8
+      }
     }
   ],
   "failed_attempts": [
@@ -47970,5 +47989,5 @@
       "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T17:39:06Z"
+  "last_updated": "2026-05-16T17:41:30Z"
 }
