@@ -41801,6 +41801,25 @@
         "download_sec": 50.0,
         "upload_sec": 55.7
       }
+    },
+    {
+      "cr_film_id": 8402,
+      "cr_slug": "projekt-axl",
+      "title": "A.X.L.",
+      "year": 2018,
+      "display_name": "A.X.L. (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65d277e79ae0e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24883817,
+      "size_bytes": 807346051,
+      "uploaded_at": "2026-05-16T12:54:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 58.2,
+        "upload_sec": 46.3
+      }
     }
   ],
   "failed_attempts": [
@@ -46166,5 +46185,5 @@
       "failed_at": "2026-05-16T12:50:16Z"
     }
   ],
-  "last_updated": "2026-05-16T12:52:10Z"
+  "last_updated": "2026-05-16T12:54:00Z"
 }
