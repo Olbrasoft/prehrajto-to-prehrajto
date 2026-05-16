@@ -12278,3 +12278,14 @@
 [05:42:27]   upload done video_id=24875078 in 18.8s
 [05:42:28] film cr_film_id=7963 OK in 39.1s
 [05:42:28] batch-end ok=20 failed=0 dur=3367.9s avg/film=168.4s remaining=15638 eta_hours=731.5
+
+===== run 2026-05-16T05:43:47Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25954163926) =====
+[05:43:48] batch-start shard=1/2 count=20 backlog=17650 uploads=2012 failed_attempts=103
+[05:43:48] login
+[05:43:49] login done
+[05:43:49] iteration 1/20
+[05:43:49] film cr_film_id=7965 name='Špióni (2019) CZ' candidates=5
+[05:43:49]   candidate upload_id=600da9255826a url=https://prehraj.to/spioni-v-prevleku-animace-2019-nejlepsi-kvalita-1080p/600da9255826a
+[05:43:50]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/21739815/yNgS6luvkTK1F3pIzBcvju8nhqnTQ2ceNH9K…)
+[05:44:13]   downloaded 626.2 MB in 21.5s (29.1 MB/s)
+[05:44:41]   upload done video_id=24875141 in 28.0s
