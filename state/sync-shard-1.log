@@ -11988,3 +11988,14 @@
 [03:53:33]   upload done video_id=24872962 in 63.8s
 [03:53:34] film cr_film_id=7829 OK in 117.0s
 [03:53:34] batch-end ok=19 failed=1 dur=2653.6s avg/film=139.7s remaining=15676 eta_hours=608.3
+
+===== run 2026-05-16T04:09:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25952386999) =====
+[04:09:53] batch-start shard=1/2 count=20 backlog=17650 uploads=1974 failed_attempts=100
+[04:09:53] login
+[04:09:54] login done
+[04:09:54] iteration 1/20
+[04:09:54] film cr_film_id=7831 name='Kruťas od přírody (2024) CZ Dabing' candidates=1
+[04:09:54]   candidate upload_id=67bc457275c9f url=https://prehraj.to/p-f-horor-cz-dab-in-a-violent-nature-2024-sktit/67bc457275c9f
+[04:09:55]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/130548953/4BqT7lsa2Hnvfk4I74uLEsp0IWDCgRIaGtP…)
+[04:10:24]   downloaded 851.7 MB in 27.0s (31.5 MB/s)
+[04:11:01]   upload done video_id=24873396 in 37.5s
