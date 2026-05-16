@@ -14472,3 +14472,14 @@
 [21:08:05]   upload done video_id=24891970 in 53.7s
 [21:08:06] film cr_film_id=9253 OK in 269.2s
 [21:08:06] batch-end ok=18 failed=2 dur=5618.4s avg/film=312.1s remaining=15350 eta_hours=1330.8
+
+===== run 2026-05-16T21:08:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25972273817) =====
+[21:08:19] batch-start shard=1/2 count=20 backlog=17650 uploads=2300 failed_attempts=127
+[21:08:19] login
+[21:08:20] login done
+[21:08:20] iteration 1/20
+[21:08:20] film cr_film_id=9257 name='Trezor (2017) CZ Dabing' candidates=8
+[21:08:20]   candidate upload_id=5a258edbd8862 url=https://prehraj.to/trezor-2017-horor-thriller-cz-dabing/5a258edbd8862
+[21:08:21]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3042169/A9ZIX5UkEtmEckWtlyf3dUPvt2oFedIJ8u8Nu…)
+[21:14:11]   downloaded 388.9 MB in 348.1s (1.1 MB/s)
+[21:14:46]   upload done video_id=24892127 in 34.8s
