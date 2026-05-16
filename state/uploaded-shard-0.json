@@ -45183,6 +45183,25 @@
         "download_sec": 75.6,
         "upload_sec": 103.1
       }
+    },
+    {
+      "cr_film_id": 9142,
+      "cr_slug": "kocka",
+      "title": "Kočka",
+      "year": 2012,
+      "display_name": "Kočka (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ca7fe2e9d46d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24893584,
+      "size_bytes": 557035311,
+      "uploaded_at": "2026-05-16T22:47:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.4,
+        "upload_sec": 27.3
+      }
     }
   ],
   "failed_attempts": [
@@ -49604,5 +49623,5 @@
       "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T22:46:29Z"
+  "last_updated": "2026-05-16T22:47:18Z"
 }
