@@ -14976,3 +14976,23 @@
 [23:38:20]   resolved in 0.7s → 720p (https://pf-storage4.premiumcdn.net/150899772/1q9SXOiplsLnuvmfdVHB1irEtqBcxkF52hG…)
 [23:39:23]   downloaded 1,910.5 MB in 60.7s (31.5 MB/s)
 [23:40:45]   upload done video_id=24894518 in 82.4s
+[23:40:46] film cr_film_id=9601 OK in 146.9s
+[23:40:46] iteration 9/20
+[23:40:46] film cr_film_id=9605 name='Dvojitá hra (2025) CZ Dabing' candidates=5
+[23:40:46]   candidate upload_id=ea0a9d33483dd7db url=https://prehraj.to/dvojita-hra-2025-cz-dab-1080p/ea0a9d33483dd7db
+[23:40:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dab-1080p/ea0a9d33483dd7db (permanent=True)
+[23:40:47]   candidate upload_id=628508a8d09647bf url=https://prehraj.to/dvojita-hra-2025-akcni-thriller-usa-czdab-1080p/628508a8d09647bf
+[23:40:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-akcni-thriller-usa-czdab-1080p/628508a8d09647bf (permanent=True)
+[23:40:53]   candidate upload_id=7c1810e73d1c1b7d url=https://prehraj.to/dvojita-hra-2025-cz-dab-1080p/7c1810e73d1c1b7d
+[23:40:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dab-1080p/7c1810e73d1c1b7d (permanent=True)
+[23:40:59]   candidate upload_id=133acc0bef28d689 url=https://prehraj.to/dvojita-hra-2025-cz-dabing/133acc0bef28d689
+[23:41:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dabing/133acc0bef28d689 (permanent=True)
+[23:41:04]   candidate upload_id=6d2b03b58984cc15 url=https://prehraj.to/dvojita-hra-2025-cz-dabing/6d2b03b58984cc15
+[23:41:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dabing/6d2b03b58984cc15 (permanent=True)
+[23:41:10] film cr_film_id=9605 all candidates exhausted
+[23:41:10] iteration 10/20
+[23:41:10] film cr_film_id=9609 name='Striptýz (1996) CZ Dabing' candidates=1
+[23:41:10]   candidate upload_id=68336fe781fef url=https://prehraj.to/striptyz-118m-1996-usa-czdabing-hd-720p-i/68336fe781fef
+[23:41:16]   resolved in 5.8s → 720p (https://pf-storage5.premiumcdn.net/138593561/wYZhOYcarUAbc1nTdeTGdc6WSB8iW7HVyh0…)
+[23:42:04]   downloaded 1,427.9 MB in 46.9s (30.4 MB/s)
+[23:42:57]   upload done video_id=24894559 in 53.1s
