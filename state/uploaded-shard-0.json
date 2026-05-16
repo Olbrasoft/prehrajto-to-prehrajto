@@ -43245,6 +43245,25 @@
         "download_sec": 138.0,
         "upload_sec": 184.3
       }
+    },
+    {
+      "cr_film_id": 8716,
+      "cr_slug": "moonfall",
+      "title": "Pád Měsíce",
+      "year": 2022,
+      "display_name": "Pád Měsíce (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "678f532496e80",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24887849,
+      "size_bytes": 2145161735,
+      "uploaded_at": "2026-05-16T16:41:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 222.9,
+        "upload_sec": 114.7
+      }
     }
   ],
   "failed_attempts": [
@@ -47666,5 +47685,5 @@
       "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T16:35:41Z"
+  "last_updated": "2026-05-16T16:41:23Z"
 }
