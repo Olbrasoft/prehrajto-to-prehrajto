@@ -39637,6 +39637,25 @@
         "download_sec": 21.2,
         "upload_sec": 31.0
       }
+    },
+    {
+      "cr_film_id": 8283,
+      "cr_slug": "ukradena-z-kolebky",
+      "title": "Ukradená z kolébky",
+      "year": 2017,
+      "display_name": "Ukradená z kolébky (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "667e5bd46f0f6",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24878787,
+      "size_bytes": 2438883109,
+      "uploaded_at": "2026-05-16T08:42:31Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 66.6,
+        "upload_sec": 106.5
+      }
     }
   ],
   "failed_attempts": [
@@ -40440,5 +40459,5 @@
       "failed_at": "2026-05-16T07:59:01Z"
     }
   ],
-  "last_updated": "2026-05-16T08:39:35Z"
+  "last_updated": "2026-05-16T08:42:31Z"
 }
