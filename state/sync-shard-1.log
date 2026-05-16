@@ -13594,3 +13594,14 @@
 [13:18:30]   upload done video_id=24884247 in 49.2s
 [13:18:31] film cr_film_id=8725 OK in 95.4s
 [13:18:31] batch-end ok=19 failed=1 dur=2277.0s avg/film=119.8s remaining=15464 eta_hours=514.6
+
+===== run 2026-05-16T13:18:41Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25962655551) =====
+[13:18:43] batch-start shard=1/2 count=20 backlog=17650 uploads=2186 failed_attempts=114
+[13:18:43] login
+[13:18:44] login done
+[13:18:44] iteration 1/20
+[13:18:44] film cr_film_id=8727 name='Lovec příšer (2020) CZ' candidates=1
+[13:18:44]   candidate upload_id=07cc0b2dcbbf1a7a url=https://prehraj.to/lovec-priser-monster-hunter-2020-cz-avi/07cc0b2dcbbf1a7a
+[13:18:46]   resolved in 1.9s → 480p (https://pf-storage3.premiumcdn.net/166993529/vagcgAuNPudpfbWSRDfB7uzaFL7te9c4ZCY…)
+[13:19:07]   downloaded 650.0 MB in 19.7s (33.0 MB/s)
+[13:19:33]   upload done video_id=24884263 in 26.0s
