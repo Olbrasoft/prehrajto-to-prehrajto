@@ -36616,6 +36616,25 @@
         "download_sec": 25.5,
         "upload_sec": 76.5
       }
+    },
+    {
+      "cr_film_id": 7647,
+      "cr_slug": "vrazedne-spolceni",
+      "title": "Vražedné spolčení",
+      "year": 2014,
+      "display_name": "Vražedné spolčení (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c2cf6e446ed8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24870604,
+      "size_bytes": 525482149,
+      "uploaded_at": "2026-05-16T02:06:14Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.9,
+        "upload_sec": 31.9
+      }
     }
   ],
   "failed_attempts": [
@@ -37337,5 +37356,5 @@
       "failed_at": "2026-05-16T01:01:34Z"
     }
   ],
-  "last_updated": "2026-05-16T02:05:09Z"
+  "last_updated": "2026-05-16T02:06:14Z"
 }
