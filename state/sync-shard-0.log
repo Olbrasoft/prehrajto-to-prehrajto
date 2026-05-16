@@ -11293,3 +11293,14 @@
 [23:42:54]   upload done video_id=24867673 in 81.3s
 [23:42:55] film cr_film_id=7246 OK in 139.9s
 [23:42:55] batch-end ok=20 failed=0 dur=2969.6s avg/film=148.5s remaining=15733 eta_hours=649.0
+
+===== run 2026-05-16T00:03:04Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25947218352) =====
+[00:03:06] batch-start shard=0/2 count=20 backlog=17650 uploads=1917 failed_attempts=591
+[00:03:06] login
+[00:03:07] login done
+[00:03:07] iteration 1/20
+[00:03:07] film cr_film_id=7248 name='Nightlife: Na tahu (2020) CZ Dabing' candidates=12
+[00:03:07]   candidate upload_id=61f3e079d6de6 url=https://prehraj.to/na-tahu-2020-czdab/61f3e079d6de6
+[00:03:09]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/28801185/0PQUrWFnKt6vsmKTyLiOWFxKuVvhMrcqKs4p…)
+[00:04:39]   downloaded 2,488.8 MB in 88.8s (28.0 MB/s)
+[00:06:38]   upload done video_id=24868059 in 118.5s
