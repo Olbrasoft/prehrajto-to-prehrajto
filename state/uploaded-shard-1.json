@@ -42316,6 +42316,25 @@
         "download_sec": 67.2,
         "upload_sec": 81.4
       }
+    },
+    {
+      "cr_film_id": 8909,
+      "cr_slug": "mala-rise",
+      "title": "Malá říše",
+      "year": 2019,
+      "display_name": "Malá říše (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a562bd577b4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24887057,
+      "size_bytes": 1548956261,
+      "uploaded_at": "2026-05-16T15:54:14Z",
+      "timing": {
+        "resolve_sec": 8.2,
+        "download_sec": 85.6,
+        "upload_sec": 80.9
+      }
     }
   ],
   "failed_attempts": [
@@ -43152,7 +43171,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vlastni-krev-2023-cz-dab-1080p/61c211dd98429742",
       "permanent": true,
       "failed_at": "2026-05-16T15:26:35Z"
+    },
+    {
+      "cr_film_id": 8905,
+      "upload_id": "d56412bcd4218e67",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mazel-a-tajemstvi-lesa-2021-cz-hd-mp4/d56412bcd4218e67",
+      "permanent": true,
+      "failed_at": "2026-05-16T15:51:17Z"
     }
   ],
-  "last_updated": "2026-05-16T15:51:14Z"
+  "last_updated": "2026-05-16T15:54:14Z"
 }
