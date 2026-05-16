@@ -41917,6 +41917,25 @@
         "download_sec": 26.3,
         "upload_sec": 21.1
       }
+    },
+    {
+      "cr_film_id": 8809,
+      "cr_slug": "zivy-terc-2",
+      "title": "Živý terč 2",
+      "year": 2016,
+      "display_name": "Živý terč 2 (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "65991b7515956",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24885758,
+      "size_bytes": 1338890290,
+      "uploaded_at": "2026-05-16T14:46:54Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 62.6,
+        "upload_sec": 89.1
+      }
     }
   ],
   "failed_attempts": [
@@ -42748,5 +42767,5 @@
       "failed_at": "2026-05-16T12:44:24Z"
     }
   ],
-  "last_updated": "2026-05-16T13:54:37Z"
+  "last_updated": "2026-05-16T14:46:54Z"
 }

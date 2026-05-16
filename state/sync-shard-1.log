@@ -13740,3 +13740,14 @@
 [13:54:37]   upload done video_id=24884976 in 21.1s
 [13:54:38] film cr_film_id=8805 OK in 51.7s
 [13:54:38] batch-end ok=20 failed=0 dur=2153.8s avg/film=107.7s remaining=15444 eta_hours=462.0
+
+===== run 2026-05-16T14:44:15Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25964754261) =====
+[14:44:16] batch-start shard=1/2 count=20 backlog=17650 uploads=2206 failed_attempts=114
+[14:44:16] login
+[14:44:19] login done
+[14:44:19] iteration 1/20
+[14:44:19] film cr_film_id=8809 name='Živý terč 2 (2016) CZ' candidates=2
+[14:44:19]   candidate upload_id=65991b7515956 url=https://prehraj.to/zivy-terc-2-2016-cz-dabing/65991b7515956
+[14:44:20]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/72065858/EkXFKZT0AFE6S3JiG0UVOT9Phx6toJSm2cAG…)
+[14:45:25]   downloaded 1,338.9 MB in 62.6s (21.4 MB/s)
+[14:46:54]   upload done video_id=24885758 in 89.1s
