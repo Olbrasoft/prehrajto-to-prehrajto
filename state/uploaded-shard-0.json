@@ -44594,6 +44594,25 @@
         "download_sec": 45.9,
         "upload_sec": 70.3
       }
+    },
+    {
+      "cr_film_id": 9016,
+      "cr_slug": "gtmax",
+      "title": "GTMAX",
+      "year": 2024,
+      "display_name": "GTMAX (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "675991d356721",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24892659,
+      "size_bytes": 957945518,
+      "uploaded_at": "2026-05-16T21:47:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.5,
+        "upload_sec": 32.5
+      }
     }
   ],
   "failed_attempts": [
@@ -49015,5 +49034,5 @@
       "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T21:46:11Z"
+  "last_updated": "2026-05-16T21:47:21Z"
 }
