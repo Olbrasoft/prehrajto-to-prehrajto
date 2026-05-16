@@ -41860,6 +41860,25 @@
         "download_sec": 32.3,
         "upload_sec": 49.2
       }
+    },
+    {
+      "cr_film_id": 8797,
+      "cr_slug": "clona",
+      "title": "Clona",
+      "year": 2008,
+      "display_name": "Clona (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "eefb575f679b174a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24884944,
+      "size_bytes": 3020069556,
+      "uploaded_at": "2026-05-16T13:53:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 91.2,
+        "upload_sec": 108.0
+      }
     }
   ],
   "failed_attempts": [
@@ -42691,5 +42710,5 @@
       "failed_at": "2026-05-16T12:44:24Z"
     }
   ],
-  "last_updated": "2026-05-16T13:49:37Z"
+  "last_updated": "2026-05-16T13:53:00Z"
 }
