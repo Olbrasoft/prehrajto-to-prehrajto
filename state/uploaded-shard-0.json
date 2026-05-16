@@ -41782,6 +41782,25 @@
         "download_sec": 28.6,
         "upload_sec": 33.7
       }
+    },
+    {
+      "cr_film_id": 8400,
+      "cr_slug": "host-u-vecere",
+      "title": "Host u večeře",
+      "year": 2022,
+      "display_name": "Host u večeře (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0d80715b49466138",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24883742,
+      "size_bytes": 990167577,
+      "uploaded_at": "2026-05-16T12:52:10Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 50.0,
+        "upload_sec": 55.7
+      }
     }
   ],
   "failed_attempts": [
@@ -46124,7 +46143,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/upirky-2012-cz-dabing/710d51910c58fa4e",
       "permanent": true,
       "failed_at": "2026-05-16T11:40:27Z"
+    },
+    {
+      "cr_film_id": 8398,
+      "upload_id": "c09f7712673ab0e2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/suprakovi-2022-cz-dab-1080p/c09f7712673ab0e2",
+      "permanent": true,
+      "failed_at": "2026-05-16T12:50:04Z"
+    },
+    {
+      "cr_film_id": 8398,
+      "upload_id": "1ef046a784747eb6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/suprakovi-2022-cz-dab-1080p/1ef046a784747eb6",
+      "permanent": true,
+      "failed_at": "2026-05-16T12:50:10Z"
+    },
+    {
+      "cr_film_id": 8398,
+      "upload_id": "e3ad1fe644710f23",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/suprakovi-2022-cz-dabing/e3ad1fe644710f23",
+      "permanent": true,
+      "failed_at": "2026-05-16T12:50:16Z"
     }
   ],
-  "last_updated": "2026-05-16T12:50:02Z"
+  "last_updated": "2026-05-16T12:52:10Z"
 }
