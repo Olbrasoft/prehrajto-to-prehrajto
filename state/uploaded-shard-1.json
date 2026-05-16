@@ -44178,6 +44178,25 @@
         "download_sec": 57.3,
         "upload_sec": 81.9
       }
+    },
+    {
+      "cr_film_id": 9385,
+      "cr_slug": "pribeh-kocek",
+      "title": "Příběh koček",
+      "year": 2018,
+      "display_name": "Příběh koček (2018) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c387d3aa00c9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24893093,
+      "size_bytes": 524506692,
+      "uploaded_at": "2026-05-16T22:20:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.7,
+        "upload_sec": 29.4
+      }
     }
   ],
   "failed_attempts": [
@@ -45142,5 +45161,5 @@
       "failed_at": "2026-05-16T21:49:56Z"
     }
   ],
-  "last_updated": "2026-05-16T22:19:27Z"
+  "last_updated": "2026-05-16T22:20:17Z"
 }
