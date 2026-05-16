@@ -12313,3 +12313,14 @@
 [05:14:40]   upload done video_id=24874502 in 88.7s
 [05:14:41] film cr_film_id=7798 OK in 152.0s
 [05:14:41] batch-end ok=19 failed=1 dur=1701.7s avg/film=89.6s remaining=15599 eta_hours=388.2
+
+===== run 2026-05-16T05:43:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25954163926) =====
+[05:43:48] batch-start shard=0/2 count=20 backlog=17650 uploads=2051 failed_attempts=602
+[05:43:48] login
+[05:43:50] login done
+[05:43:50] iteration 1/20
+[05:43:50] film cr_film_id=7800 name='Tornádo - poslední samurajka (2025) CZ Dabing' candidates=2
+[05:43:50]   candidate upload_id=f0e4e4b0628fe1c1 url=https://prehraj.to/tornado-posledni-samurajka-2025-cz-dabing-mkv/f0e4e4b0628fe1c1
+[05:43:51]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/166079675/ndzHGOc3wfGmCL9f2WHx4ckqCqQixGslzCd…)
+[05:44:58]   downloaded 2,317.8 MB in 65.9s (35.2 MB/s)
+[05:46:38]   upload done video_id=24875159 in 99.5s
