@@ -40395,6 +40395,25 @@
         "download_sec": 68.2,
         "upload_sec": 86.2
       }
+    },
+    {
+      "cr_film_id": 8086,
+      "cr_slug": "hostel-ii",
+      "title": "Hostel II",
+      "year": 2007,
+      "display_name": "Hostel II (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57ca56345f410",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24879226,
+      "size_bytes": 481381310,
+      "uploaded_at": "2026-05-16T09:01:22Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.6,
+        "upload_sec": 19.0
+      }
     }
   ],
   "failed_attempts": [
@@ -44671,5 +44690,5 @@
       "failed_at": "2026-05-16T08:07:39Z"
     }
   ],
-  "last_updated": "2026-05-16T09:00:43Z"
+  "last_updated": "2026-05-16T09:01:22Z"
 }
