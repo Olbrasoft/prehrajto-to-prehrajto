@@ -37813,6 +37813,25 @@
         "download_sec": 12.0,
         "upload_sec": 15.9
       }
+    },
+    {
+      "cr_film_id": 7903,
+      "cr_slug": "jak-okrast-mussoliniho",
+      "title": "Jak okrást Mussoliniho",
+      "year": 2022,
+      "display_name": "Jak okrást Mussoliniho (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "635adee8b5ba1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24874001,
+      "size_bytes": 1835461485,
+      "uploaded_at": "2026-05-16T04:41:22Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 55.9,
+        "upload_sec": 64.9
+      }
     }
   ],
   "failed_attempts": [
@@ -38553,7 +38572,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atelier-smrti-2023-cz-dab-1080p/2fa957c14dcde985",
       "permanent": true,
       "failed_at": "2026-05-16T04:15:30Z"
+    },
+    {
+      "cr_film_id": 7901,
+      "upload_id": "9c4497cc4d5cc7a4",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/paralyzujici-strach-2021-cz-dabing-hd-mp4/9c4497cc4d5cc7a4",
+      "permanent": true,
+      "failed_at": "2026-05-16T04:39:14Z"
     }
   ],
-  "last_updated": "2026-05-16T04:39:12Z"
+  "last_updated": "2026-05-16T04:41:22Z"
 }
