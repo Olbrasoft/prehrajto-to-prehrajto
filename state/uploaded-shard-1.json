@@ -39219,6 +39219,25 @@
         "download_sec": 13.4,
         "upload_sec": 24.3
       }
+    },
+    {
+      "cr_film_id": 8193,
+      "cr_slug": "blondynka",
+      "title": "Blondýnka",
+      "year": 2022,
+      "display_name": "Blondýnka (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63342b51d64aa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24877713,
+      "size_bytes": 2291647031,
+      "uploaded_at": "2026-05-16T07:52:02Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 72.0,
+        "upload_sec": 97.0
+      }
     }
   ],
   "failed_attempts": [
@@ -40003,5 +40022,5 @@
       "failed_at": "2026-05-16T07:26:06Z"
     }
   ],
-  "last_updated": "2026-05-16T07:49:10Z"
+  "last_updated": "2026-05-16T07:52:02Z"
 }
