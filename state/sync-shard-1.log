@@ -12717,3 +12717,14 @@
 [08:02:48]   upload done video_id=24877921 in 124.9s
 [08:02:49] film cr_film_id=8203 OK in 228.1s
 [08:02:49] batch-end ok=18 failed=2 dur=2401.2s avg/film=133.4s remaining=15582 eta_hours=577.4
+
+===== run 2026-05-16T08:03:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25956419799) =====
+[08:03:02] batch-start shard=1/2 count=20 backlog=17650 uploads=2068 failed_attempts=110
+[08:03:02] login
+[08:03:03] login done
+[08:03:03] iteration 1/20
+[08:03:03] film cr_film_id=8195 name='Že by Amor? (2022) CZ Dabing' candidates=1
+[08:03:03]   candidate upload_id=63074f6425948 url=https://prehraj.to/ze-by-amor-2022-cz-dabing-1080p/63074f6425948
+[08:03:04]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/32427055/N5ltA4IPBfZkC7dHn4sQ7IVvt0zT6GC90FXZ…)
+[08:03:56]   downloaded 1,832.8 MB in 50.3s (36.4 MB/s)
+[08:05:18]   upload done video_id=24877999 in 82.3s
