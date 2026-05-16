@@ -37697,6 +37697,25 @@
         "download_sec": 22.0,
         "upload_sec": 23.3
       }
+    },
+    {
+      "cr_film_id": 7524,
+      "cr_slug": "pribeh-drevorubce",
+      "title": "Příběh dřevorubce",
+      "year": 2022,
+      "display_name": "Příběh dřevorubce (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64e02b8356da9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24871343,
+      "size_bytes": 755312924,
+      "uploaded_at": "2026-05-16T02:39:11Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 24.4,
+        "upload_sec": 33.4
+      }
     }
   ],
   "failed_attempts": [
@@ -41901,7 +41920,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lovci-bizonu-2022-cz-dabing/ce06c0e5ad51ee92",
       "permanent": true,
       "failed_at": "2026-05-16T02:34:04Z"
+    },
+    {
+      "cr_film_id": 7522,
+      "upload_id": "bc8944ec69276693",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/aquaman-a-ztracene-kralovstvi-2022-cz-dabing-mp4/bc8944ec69276693",
+      "permanent": true,
+      "failed_at": "2026-05-16T02:38:06Z"
     }
   ],
-  "last_updated": "2026-05-16T02:38:04Z"
+  "last_updated": "2026-05-16T02:39:11Z"
 }
