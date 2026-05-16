@@ -11787,3 +11787,15 @@
 [02:31:31]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/168750013/GjesBVI9ehByfGDc9aU5lI0xijmtXqcQdsk…)
 [02:32:34]   downloaded 2,286.8 MB in 61.8s (37.0 MB/s)
 [02:34:02]   upload done video_id=24871178 in 87.6s
+[02:34:03] film cr_film_id=7508 OK in 153.2s
+[02:34:03] iteration 9/20
+[02:34:03] film cr_film_id=7512 name='Lovci bizonů (2022) CZ Dabing' candidates=1
+[02:34:03]   candidate upload_id=ce06c0e5ad51ee92 url=https://prehraj.to/lovci-bizonu-2022-cz-dabing/ce06c0e5ad51ee92
+[02:34:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lovci-bizonu-2022-cz-dabing/ce06c0e5ad51ee92 (permanent=True)
+[02:34:04] film cr_film_id=7512 all candidates exhausted
+[02:34:04] iteration 10/20
+[02:34:04] film cr_film_id=7514 name='Sláva, je tu sníh (2023) CZ Dabing' candidates=8
+[02:34:04]   candidate upload_id=a61af1441cfe9468 url=https://prehraj.to/slava-je-tu-snih-2023-cz-dab-1080p/a61af1441cfe9468
+[02:34:10]   resolved in 6.0s → 1080p (https://pf-storage3.premiumcdn.net/167870155/r1KHeZIKrTd5cOrSnYtmZIKVt0jCXBHZ1sN…)
+[02:35:30]   downloaded 2,616.0 MB in 78.8s (33.2 MB/s)
+[02:37:14]   upload done video_id=24871261 in 104.5s

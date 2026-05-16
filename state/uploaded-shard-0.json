@@ -37659,6 +37659,25 @@
         "download_sec": 61.8,
         "upload_sec": 87.6
       }
+    },
+    {
+      "cr_film_id": 7514,
+      "cr_slug": "slava-je-tu-snih",
+      "title": "Sláva, je tu sníh",
+      "year": 2023,
+      "display_name": "Sláva, je tu sníh (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a61af1441cfe9468",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24871261,
+      "size_bytes": 2616026906,
+      "uploaded_at": "2026-05-16T02:37:14Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 78.8,
+        "upload_sec": 104.5
+      }
     }
   ],
   "failed_attempts": [
@@ -41856,7 +41875,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nejvetsi-dar-bolek-polivka-anna-polivkova-chantal-poullain-2022-pohadka-bdrip-1080p-cz-dabing/791b5d8801c296fb",
       "permanent": true,
       "failed_at": "2026-05-16T02:26:52Z"
+    },
+    {
+      "cr_film_id": 7512,
+      "upload_id": "ce06c0e5ad51ee92",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lovci-bizonu-2022-cz-dabing/ce06c0e5ad51ee92",
+      "permanent": true,
+      "failed_at": "2026-05-16T02:34:04Z"
     }
   ],
-  "last_updated": "2026-05-16T02:34:02Z"
+  "last_updated": "2026-05-16T02:37:14Z"
 }
