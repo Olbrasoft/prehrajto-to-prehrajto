@@ -13304,3 +13304,14 @@
 [12:02:20]   upload done video_id=24882646 in 66.2s
 [12:02:21] film cr_film_id=8543 OK in 119.4s
 [12:02:21] batch-end ok=20 failed=0 dur=3721.7s avg/film=186.1s remaining=15503 eta_hours=801.4
+
+===== run 2026-05-16T12:03:52Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25961452318) =====
+[12:03:54] batch-start shard=1/2 count=20 backlog=17650 uploads=2147 failed_attempts=113
+[12:03:54] login
+[12:03:55] login done
+[12:03:55] iteration 1/20
+[12:03:55] film cr_film_id=8549 name='Trojí život (2018) CZ Dabing' candidates=16
+[12:03:55]   candidate upload_id=60ee158d312d8 url=https://prehraj.to/troji-zivot-2018-czdab/60ee158d312d8
+[12:03:57]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/24268155/AXrILohYOtwYsVotAaUADhpQFkQHp5TrOtx5…)
+[12:04:56]   downloaded 2,148.6 MB in 57.6s (37.3 MB/s)
+[12:07:11]   upload done video_id=24882705 in 134.8s
