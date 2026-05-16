@@ -42601,6 +42601,25 @@
         "download_sec": 21.2,
         "upload_sec": 24.0
       }
+    },
+    {
+      "cr_film_id": 8967,
+      "cr_slug": "polednice",
+      "title": "Polednice",
+      "year": 2016,
+      "display_name": "Polednice (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "3d1f5f9f56b4eeba",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24887843,
+      "size_bytes": 442669402,
+      "uploaded_at": "2026-05-16T16:39:29Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 136.4,
+        "upload_sec": 25.6
+      }
     }
   ],
   "failed_attempts": [
@@ -43446,5 +43465,5 @@
       "failed_at": "2026-05-16T15:51:17Z"
     }
   ],
-  "last_updated": "2026-05-16T16:36:43Z"
+  "last_updated": "2026-05-16T16:39:29Z"
 }
