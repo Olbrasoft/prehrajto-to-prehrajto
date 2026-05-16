@@ -13483,3 +13483,14 @@
 [13:03:18]   upload done video_id=24883983 in 206.8s
 [13:03:20] film cr_film_id=8406 OK in 371.3s
 [13:03:20] batch-end ok=19 failed=1 dur=3563.8s avg/film=187.6s remaining=15447 eta_hours=805.0
+
+===== run 2026-05-16T13:03:31Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25961704638) =====
+[13:03:32] batch-start shard=0/2 count=20 backlog=17650 uploads=2203 failed_attempts=618
+[13:03:32] login
+[13:03:34] login done
+[13:03:34] iteration 1/20
+[13:03:34] film cr_film_id=8412 name='Heist 88 (2023) CZ Dabing' candidates=6
+[13:03:34]   candidate upload_id=65dcf49ee5ff7 url=https://prehraj.to/heist-88-2023-cz-dabing-1080p/65dcf49ee5ff7
+[13:03:35]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/73955441/kXbsoaFoVi1xsyafPYFv1FyphkXfjNiZBsEk…)
+[13:04:41]   downloaded 2,012.1 MB in 64.5s (31.2 MB/s)
+[13:06:09]   upload done video_id=24884049 in 88.6s
