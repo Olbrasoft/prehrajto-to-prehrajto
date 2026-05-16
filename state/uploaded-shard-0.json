@@ -37336,6 +37336,25 @@
         "download_sec": 146.5,
         "upload_sec": 180.2
       }
+    },
+    {
+      "cr_film_id": 7428,
+      "cr_slug": "gamer",
+      "title": "Gamer",
+      "year": 2009,
+      "display_name": "Gamer (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5711f5e341552",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24870272,
+      "size_bytes": 967604248,
+      "uploaded_at": "2026-05-16T01:51:24Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 72.5,
+        "upload_sec": 56.4
+      }
     }
   ],
   "failed_attempts": [
@@ -41512,7 +41531,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/podivuhodna-dobrodruzstvi-paula-harkera-2019-cz-dabing/0bfe4de5e7d22395",
       "permanent": true,
       "failed_at": "2026-05-16T00:06:40Z"
+    },
+    {
+      "cr_film_id": 7424,
+      "upload_id": "71223833180ca162",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-na-tajuplny-ostrov-2-2012-cz-dab-1080p/71223833180ca162",
+      "permanent": true,
+      "failed_at": "2026-05-16T01:49:02Z"
+    },
+    {
+      "cr_film_id": 7424,
+      "upload_id": "5b2e7dc1ef5e389d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-na-tajuplny-ostrov-2-2012-cz-dab-1080p-avi/5b2e7dc1ef5e389d",
+      "permanent": true,
+      "failed_at": "2026-05-16T01:49:07Z"
     }
   ],
-  "last_updated": "2026-05-16T01:48:59Z"
+  "last_updated": "2026-05-16T01:51:25Z"
 }
