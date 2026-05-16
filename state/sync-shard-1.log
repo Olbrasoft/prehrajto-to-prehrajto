@@ -12569,3 +12569,14 @@
 [07:22:33]   upload done video_id=24877177 in 35.1s
 [07:22:34] film cr_film_id=8139 OK in 74.6s
 [07:22:34] batch-end ok=18 failed=2 dur=2645.7s avg/film=147.0s remaining=15600 eta_hours=637.0
+
+===== run 2026-05-16T07:22:45Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25955287731) =====
+[07:22:46] batch-start shard=1/2 count=20 backlog=17650 uploads=2050 failed_attempts=106
+[07:22:46] login
+[07:22:48] login done
+[07:22:48] iteration 1/20
+[07:22:48] film cr_film_id=8143 name='Detektiv Marlowe (2022) CZ Dabing' candidates=1
+[07:22:48]   candidate upload_id=6617a4f701413 url=https://prehraj.to/detektiv-marlowe-2022-cz-dabing-1080p/6617a4f701413
+[07:22:49]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/76002455/lY0IZ9SaWC1zIRNFBpSA4SYmSnwsPjUlkujn…)
+[07:23:46]   downloaded 1,914.2 MB in 55.2s (34.7 MB/s)
+[07:24:59]   upload done video_id=24877214 in 73.9s
