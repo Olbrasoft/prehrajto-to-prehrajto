@@ -37602,6 +37602,25 @@
         "download_sec": 51.9,
         "upload_sec": 59.0
       }
+    },
+    {
+      "cr_film_id": 7484,
+      "cr_slug": "tohle-je-raj",
+      "title": "Tohle je ráj",
+      "year": 2012,
+      "display_name": "Tohle je ráj (2012) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab850daf3c35",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24871106,
+      "size_bytes": 850392775,
+      "uploaded_at": "2026-05-16T02:30:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 27.4,
+        "upload_sec": 38.8
+      }
     }
   ],
   "failed_attempts": [
@@ -41801,5 +41820,5 @@
       "failed_at": "2026-05-16T02:26:52Z"
     }
   ],
-  "last_updated": "2026-05-16T02:28:51Z"
+  "last_updated": "2026-05-16T02:30:01Z"
 }
