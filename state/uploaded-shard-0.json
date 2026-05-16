@@ -40623,6 +40623,25 @@
         "download_sec": 149.4,
         "upload_sec": 159.7
       }
+    },
+    {
+      "cr_film_id": 8138,
+      "cr_slug": "respekt",
+      "title": "Respekt",
+      "year": 2023,
+      "display_name": "Respekt (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "49d21a0017aa6e48",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24880268,
+      "size_bytes": 1346417636,
+      "uploaded_at": "2026-05-16T09:47:04Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 65.4,
+        "upload_sec": 103.7
+      }
     }
   ],
   "failed_attempts": [
@@ -44911,7 +44930,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vyjimecny-stav-2024-mp4/a581dbc74e42b52a",
       "permanent": true,
       "failed_at": "2026-05-16T09:38:41Z"
+    },
+    {
+      "cr_film_id": 8126,
+      "upload_id": "91e4d59006cf207b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nikdy-nerikej-nikdy-2023/91e4d59006cf207b",
+      "permanent": true,
+      "failed_at": "2026-05-16T09:44:01Z"
+    },
+    {
+      "cr_film_id": 8134,
+      "upload_id": "fc3319b777c087b8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/prazdniny-s-brouckem-2024/fc3319b777c087b8",
+      "permanent": true,
+      "failed_at": "2026-05-16T09:44:07Z"
     }
   ],
-  "last_updated": "2026-05-16T09:43:59Z"
+  "last_updated": "2026-05-16T09:47:04Z"
 }

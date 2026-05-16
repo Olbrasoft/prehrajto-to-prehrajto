@@ -12971,3 +12971,20 @@
 [09:38:48]   resolved in 7.0s → 1080p (https://pf-storage1.premiumcdn.net/132407777/9peflJuYwHZXH72sraiQgudDfklsrOsm5cO…)
 [09:41:19]   downloaded 2,749.1 MB in 149.4s (18.4 MB/s)
 [09:43:59]   upload done video_id=24880183 in 159.7s
+[09:44:00] film cr_film_id=8120 OK in 319.7s
+[09:44:00] iteration 11/20
+[09:44:00] film cr_film_id=8126 name='Nikdy se nepouštěj (2024) CZ' candidates=1
+[09:44:00]   candidate upload_id=91e4d59006cf207b url=https://prehraj.to/nikdy-nerikej-nikdy-2023/91e4d59006cf207b
+[09:44:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nikdy-nerikej-nikdy-2023/91e4d59006cf207b (permanent=True)
+[09:44:01] film cr_film_id=8126 all candidates exhausted
+[09:44:01] iteration 12/20
+[09:44:01] film cr_film_id=8134 name='Prázdniny s Broučkem (2024) CZ' candidates=1
+[09:44:01]   candidate upload_id=fc3319b777c087b8 url=https://prehraj.to/prazdniny-s-brouckem-2024/fc3319b777c087b8
+[09:44:07]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/prazdniny-s-brouckem-2024/fc3319b777c087b8 (permanent=True)
+[09:44:07] film cr_film_id=8134 all candidates exhausted
+[09:44:07] iteration 13/20
+[09:44:07] film cr_film_id=8138 name='Respekt (2023) CZ Dabing' candidates=1
+[09:44:07]   candidate upload_id=49d21a0017aa6e48 url=https://prehraj.to/respekt-2023-cz-dab-1080p/49d21a0017aa6e48
+[09:44:13]   resolved in 6.2s → 720p (https://pf-storage1.premiumcdn.net/168386401/0ZXSbvudzHE9H3lIPVukWu1WCVNsZyt1GtO…)
+[09:45:20]   downloaded 1,346.4 MB in 65.4s (20.6 MB/s)
+[09:47:04]   upload done video_id=24880268 in 103.7s
