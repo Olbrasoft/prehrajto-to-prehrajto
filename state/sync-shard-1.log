@@ -13008,3 +13008,14 @@
 [09:54:05]   oversize: 6112129100 B > 6000000000 B, skip
 [09:54:05] film cr_film_id=8365 all candidates exhausted
 [09:54:05] batch-end ok=19 failed=1 dur=2836.7s avg/film=149.3s remaining=15543 eta_hours=644.6
+
+===== run 2026-05-16T10:08:46Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25959252580) =====
+[10:08:48] batch-start shard=1/2 count=20 backlog=17650 uploads=2107 failed_attempts=111
+[10:08:48] login
+[10:08:49] login done
+[10:08:49] iteration 1/20
+[10:08:49] film cr_film_id=8367 name='Hamlet: Ian McKellen (2024) CZ Dabing' candidates=1
+[10:08:49]   candidate upload_id=764167e5df5dc4e1 url=https://prehraj.to/hamlet-2025-cz-dabing-1080p-mkv/764167e5df5dc4e1
+[10:08:50]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/156823313/JVpFj3SRpt1aFPmuQohYQSx6CAnHR6FJmsr…)
+[10:10:02]   downloaded 2,298.2 MB in 70.4s (32.6 MB/s)
+[10:11:37]   upload done video_id=24880722 in 94.4s
