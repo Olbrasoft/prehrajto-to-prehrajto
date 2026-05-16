@@ -44197,6 +44197,25 @@
         "download_sec": 16.7,
         "upload_sec": 29.4
       }
+    },
+    {
+      "cr_film_id": 9387,
+      "cr_slug": "gotti",
+      "title": "Gotti",
+      "year": 2018,
+      "display_name": "Gotti (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bd3c1c241cbb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24893118,
+      "size_bytes": 2453681807,
+      "uploaded_at": "2026-05-16T22:22:57Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 70.5,
+        "upload_sec": 85.8
+      }
     }
   ],
   "failed_attempts": [
@@ -45161,5 +45180,5 @@
       "failed_at": "2026-05-16T21:49:56Z"
     }
   ],
-  "last_updated": "2026-05-16T22:20:17Z"
+  "last_updated": "2026-05-16T22:22:57Z"
 }
