@@ -13039,3 +13039,14 @@
 [10:07:23]   upload done video_id=24880654 in 100.6s
 [10:07:24] film cr_film_id=8168 OK in 186.2s
 [10:07:24] batch-end ok=17 failed=3 dur=3639.8s avg/film=214.1s remaining=15504 eta_hours=922.1
+
+===== run 2026-05-16T10:08:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25959252580) =====
+[10:08:47] batch-start shard=0/2 count=20 backlog=17650 uploads=2146 failed_attempts=610
+[10:08:47] login
+[10:08:49] login done
+[10:08:49] iteration 1/20
+[10:08:49] film cr_film_id=8174 name='Cena života (2020) CZ' candidates=1
+[10:08:49]   candidate upload_id=5fcffd337c103 url=https://prehraj.to/monsters-of-man-sci-fi-australie-2020-1080p-5-1-h264-bez-titulku-sten-ok/5fcffd337c103
+[10:08:50]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/20662062/pVwFezu31C86hYmu3mS3lur2Uy3s3Vsw9s7V…)
+[10:10:32]   downloaded 2,867.0 MB in 100.7s (28.5 MB/s)
+[10:12:41]   upload done video_id=24880731 in 128.2s
