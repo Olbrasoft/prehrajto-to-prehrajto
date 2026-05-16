@@ -43285,6 +43285,25 @@
         "download_sec": 309.1,
         "upload_sec": 132.5
       }
+    },
+    {
+      "cr_film_id": 9149,
+      "cr_slug": "lasko-neblazni",
+      "title": "Lásko, neblázni!",
+      "year": 2025,
+      "display_name": "Lásko, neblázni! (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b29eea7d327cadc6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24890335,
+      "size_bytes": 2123879711,
+      "uploaded_at": "2026-05-16T19:24:19Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 590.0,
+        "upload_sec": 100.7
+      }
     }
   ],
   "failed_attempts": [
@@ -44156,7 +44175,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/elliot-nejmensi-sobik-2018-cz-dab-1080p/3cf6c8c9ae0b7c02",
       "permanent": true,
       "failed_at": "2026-05-16T18:17:14Z"
+    },
+    {
+      "cr_film_id": 9149,
+      "upload_id": "6a88710d6ebb0033",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lasko-neblazni-2025-cz-dab-1080p/6a88710d6ebb0033",
+      "permanent": true,
+      "failed_at": "2026-05-16T19:12:29Z"
+    },
+    {
+      "cr_film_id": 9149,
+      "upload_id": "4ba9f9cecd28587d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lasko-neblazni-2025-cz-dab-2025/4ba9f9cecd28587d",
+      "permanent": true,
+      "failed_at": "2026-05-16T19:12:35Z"
+    },
+    {
+      "cr_film_id": 9149,
+      "upload_id": "febbeaae2a8131a0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lasko-neblazni-cz-dabing-2025/febbeaae2a8131a0",
+      "permanent": true,
+      "failed_at": "2026-05-16T19:12:40Z"
     }
   ],
-  "last_updated": "2026-05-16T19:12:27Z"
+  "last_updated": "2026-05-16T19:24:19Z"
 }
