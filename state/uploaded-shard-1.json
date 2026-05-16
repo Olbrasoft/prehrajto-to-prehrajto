@@ -38478,6 +38478,25 @@
         "download_sec": 30.4,
         "upload_sec": 42.7
       }
+    },
+    {
+      "cr_film_id": 8021,
+      "cr_slug": "pobrezni-hlidka",
+      "title": "Pobřežní hlídka",
+      "year": 2017,
+      "display_name": "Pobřežní hlídka (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "678df284506ad",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24875623,
+      "size_bytes": 2514162924,
+      "uploaded_at": "2026-05-16T06:05:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 73.6,
+        "upload_sec": 90.1
+      }
     }
   ],
   "failed_attempts": [
@@ -39227,5 +39246,5 @@
       "failed_at": "2026-05-16T04:39:14Z"
     }
   ],
-  "last_updated": "2026-05-16T06:03:05Z"
+  "last_updated": "2026-05-16T06:05:52Z"
 }
