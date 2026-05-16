@@ -14400,3 +14400,19 @@
 [20:26:42]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/42514931/32aSzbhrgUGlc8ouXBfo8hqyC1wiNDfRWFOp…)
 [20:27:33]   downloaded 1,570.7 MB in 50.1s (31.4 MB/s)
 [20:28:55]   upload done video_id=24891213 in 81.3s
+[20:28:56] film cr_film_id=9199 OK in 135.0s
+[20:28:56] iteration 11/20
+[20:28:56] film cr_film_id=9207 name='Tři Tygři ve filmu: JACKPOT (2022) CZ Dabing' candidates=3
+[20:28:56]   candidate upload_id=c9113a19d7f0ad4d url=https://prehraj.to/tri-tygri-ve-filmu-jackpot-2022-czdabing/c9113a19d7f0ad4d
+[20:28:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tri-tygri-ve-filmu-jackpot-2022-czdabing/c9113a19d7f0ad4d (permanent=True)
+[20:28:56]   candidate upload_id=0e26246423f7a106 url=https://prehraj.to/tri-tygri-ve-filmu-jackpot-2022-czdabing-mp4/0e26246423f7a106
+[20:29:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tri-tygri-ve-filmu-jackpot-2022-czdabing-mp4/0e26246423f7a106 (permanent=True)
+[20:29:02]   candidate upload_id=bc6e4f3687d41842 url=https://prehraj.to/tri-tygri-ve-filmu-jackpot-2022-czdabing-mp4/bc6e4f3687d41842
+[20:29:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tri-tygri-ve-filmu-jackpot-2022-czdabing-mp4/bc6e4f3687d41842 (permanent=True)
+[20:29:08] film cr_film_id=9207 all candidates exhausted
+[20:29:08] iteration 12/20
+[20:29:08] film cr_film_id=9211 name='Randění v New Yorku (2021) CZ Dabing' candidates=1
+[20:29:08]   candidate upload_id=625dc579dab53 url=https://prehraj.to/randeni-v-new-yorku-2021-czdab/625dc579dab53
+[20:29:15]   resolved in 6.8s → 1080p (https://pf-storage2.premiumcdn.net/30519065/MaKc4OFJ8TV3sgQFV7S0qFdJUBXi83fRqtRV…)
+[20:30:38]   downloaded 2,137.2 MB in 81.8s (26.1 MB/s)
+[20:31:58]   upload done video_id=24891250 in 80.3s
