@@ -12424,3 +12424,14 @@
 [06:16:24]   upload done video_id=24875836 in 28.9s
 [06:16:25] film cr_film_id=8061 OK in 60.6s
 [06:16:25] batch-end ok=20 failed=0 dur=1956.0s avg/film=97.8s remaining=15618 eta_hours=424.3
+
+===== run 2026-05-16T06:38:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25955188870) =====
+[06:38:26] batch-start shard=1/2 count=20 backlog=17650 uploads=2032 failed_attempts=103
+[06:38:26] login
+[06:38:28] login done
+[06:38:28] iteration 1/20
+[06:38:28] film cr_film_id=8065 name='Pírkovo dobrodružství (2014) CZ Dabing' candidates=3
+[06:38:28]   candidate upload_id=5867a24d00cad url=https://prehraj.to/pirkovo-dobrodruzstvi-hd-cz-dabing-animovany-2014-yellowbird-by-brute/5867a24d00cad
+[06:38:30]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/1262553/0Wxs0pS6otLvHDguwDhMmSLmsPYTpwUpjfOLU…)
+[06:39:05]   downloaded 632.0 MB in 33.1s (19.1 MB/s)
+[06:39:42]   upload done video_id=24876247 in 37.0s
