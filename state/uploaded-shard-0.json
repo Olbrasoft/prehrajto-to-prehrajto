@@ -39882,6 +39882,25 @@
         "download_sec": 72.4,
         "upload_sec": 82.9
       }
+    },
+    {
+      "cr_film_id": 7970,
+      "cr_slug": "annabelle",
+      "title": "Annabelle",
+      "year": 2014,
+      "display_name": "Annabelle (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6014fb8f8c2da455",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24878090,
+      "size_bytes": 1292834098,
+      "uploaded_at": "2026-05-16T08:09:46Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 51.3,
+        "upload_sec": 67.9
+      }
     }
   ],
   "failed_attempts": [
@@ -44149,7 +44168,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/insidious-cervene-dvere-2023-cz/67bb965d2c334d52",
       "permanent": true,
       "failed_at": "2026-05-16T06:31:11Z"
+    },
+    {
+      "cr_film_id": 7970,
+      "upload_id": "5fa72e38cede4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/annabelle-2014-cz-dabing/5fa72e38cede4",
+      "permanent": true,
+      "failed_at": "2026-05-16T08:07:39Z"
     }
   ],
-  "last_updated": "2026-05-16T08:07:36Z"
+  "last_updated": "2026-05-16T08:09:46Z"
 }
