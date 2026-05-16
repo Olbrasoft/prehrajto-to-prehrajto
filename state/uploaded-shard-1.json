@@ -36882,6 +36882,25 @@
         "download_sec": 45.7,
         "upload_sec": 73.0
       }
+    },
+    {
+      "cr_film_id": 7709,
+      "cr_slug": "likvidatori",
+      "title": "Likvidátoři",
+      "year": 2016,
+      "display_name": "Likvidátoři (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5e5b9ca96698b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24871366,
+      "size_bytes": 2312362660,
+      "uploaded_at": "2026-05-16T02:41:10Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 98.6,
+        "upload_sec": 117.9
+      }
     }
   ],
   "failed_attempts": [
@@ -37603,5 +37622,5 @@
       "failed_at": "2026-05-16T01:01:34Z"
     }
   ],
-  "last_updated": "2026-05-16T02:37:29Z"
+  "last_updated": "2026-05-16T02:41:10Z"
 }
