@@ -12607,3 +12607,14 @@
 [07:40:57]   upload done video_id=24877534 in 35.5s
 [07:40:58] film cr_film_id=7918 OK in 66.4s
 [07:40:58] batch-end ok=20 failed=0 dur=3753.2s avg/film=187.7s remaining=15560 eta_hours=811.3
+
+===== run 2026-05-16T07:41:12Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25955287731) =====
+[07:41:14] batch-start shard=0/2 count=20 backlog=17650 uploads=2090 failed_attempts=605
+[07:41:14] login
+[07:41:15] login done
+[07:41:15] iteration 1/20
+[07:41:15] film cr_film_id=7926 name='Superinteligence (2020) CZ Dabing' candidates=1
+[07:41:15]   candidate upload_id=66984b4305098 url=https://prehraj.to/superintelligence-2020-komedie-cz-dabing/66984b4305098
+[07:41:17]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/85400342/plqtxahO3fBRfjnIlyT48hXyTw2FZ5sMGsVA…)
+[07:42:29]   downloaded 1,665.6 MB in 70.7s (23.6 MB/s)
+[07:43:48]   upload done video_id=24877569 in 78.2s
