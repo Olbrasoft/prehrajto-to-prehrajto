@@ -12959,3 +12959,15 @@
 [09:33:54]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/131335319/5bPuq3f50UMduLNinoIDJfqXHXOHEyIG5s0…)
 [09:36:27]   downloaded 2,325.8 MB in 150.6s (15.4 MB/s)
 [09:38:38]   upload done video_id=24880102 in 131.4s
+[09:38:40] film cr_film_id=8116 OK in 286.6s
+[09:38:40] iteration 9/20
+[09:38:40] film cr_film_id=8118 name='Výjimečný stav (2024) CZ' candidates=1
+[09:38:40]   candidate upload_id=a581dbc74e42b52a url=https://prehraj.to/vyjimecny-stav-2024-mp4/a581dbc74e42b52a
+[09:38:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vyjimecny-stav-2024-mp4/a581dbc74e42b52a (permanent=True)
+[09:38:41] film cr_film_id=8118 all candidates exhausted
+[09:38:41] iteration 10/20
+[09:38:41] film cr_film_id=8120 name='Bogota: Město ztracených (2024) CZ Dabing' candidates=1
+[09:38:41]   candidate upload_id=67d8695179fac url=https://prehraj.to/bogota-mesto-ztracenych-2024-cz-dab-1080p/67d8695179fac
+[09:38:48]   resolved in 7.0s → 1080p (https://pf-storage1.premiumcdn.net/132407777/9peflJuYwHZXH72sraiQgudDfklsrOsm5cO…)
+[09:41:19]   downloaded 2,749.1 MB in 149.4s (18.4 MB/s)
+[09:43:59]   upload done video_id=24880183 in 159.7s
