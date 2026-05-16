@@ -44309,6 +44309,25 @@
         "download_sec": 42.0,
         "upload_sec": 47.3
       }
+    },
+    {
+      "cr_film_id": 8932,
+      "cr_slug": "v-dosahu-smrti",
+      "title": "V dosahu smrti",
+      "year": 2015,
+      "display_name": "V dosahu smrti (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5cc73e45e1975",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24892182,
+      "size_bytes": 2597243498,
+      "uploaded_at": "2026-05-16T21:18:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 121.7,
+        "upload_sec": 104.2
+      }
     }
   ],
   "failed_attempts": [
@@ -48730,5 +48749,5 @@
       "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T21:14:55Z"
+  "last_updated": "2026-05-16T21:18:45Z"
 }
