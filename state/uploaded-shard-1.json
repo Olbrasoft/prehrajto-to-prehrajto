@@ -37224,6 +37224,25 @@
         "download_sec": 62.7,
         "upload_sec": 87.6
       }
+    },
+    {
+      "cr_film_id": 7787,
+      "cr_slug": "temny-diamant",
+      "title": "Temný diamant",
+      "year": 2025,
+      "display_name": "Temný diamant (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c967121a866692bd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24872242,
+      "size_bytes": 1280005252,
+      "uploaded_at": "2026-05-16T03:20:43Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 35.7,
+        "upload_sec": 55.5
+      }
     }
   ],
   "failed_attempts": [
@@ -37943,7 +37962,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tichy-les-2022-cz-dabing/5ffc939ac16a54c3",
       "permanent": true,
       "failed_at": "2026-05-16T01:01:34Z"
+    },
+    {
+      "cr_film_id": 7783,
+      "upload_id": "b849beeeaf1e8a37",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/stastne-a-krvave-2023-cz-dabing-hd-mp4/b849beeeaf1e8a37",
+      "permanent": true,
+      "failed_at": "2026-05-16T03:19:05Z"
     }
   ],
-  "last_updated": "2026-05-16T03:19:03Z"
+  "last_updated": "2026-05-16T03:20:43Z"
 }
