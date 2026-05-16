@@ -43057,6 +43057,25 @@
         "download_sec": 58.8,
         "upload_sec": 71.4
       }
+    },
+    {
+      "cr_film_id": 9085,
+      "cr_slug": "laska-navzdy",
+      "title": "Láska navždy",
+      "year": 2020,
+      "display_name": "Láska navždy (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fce6d3a83910",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24889497,
+      "size_bytes": 1380024613,
+      "uploaded_at": "2026-05-16T18:28:57Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 622.7,
+        "upload_sec": 72.7
+      }
     }
   ],
   "failed_attempts": [
@@ -43914,7 +43933,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozpolcena-cameron-monaghan-frank-grillo-lilly-krug-john-malkovich-2022-thriller-bdrip-1080p-cz-dabing-mp4/b3bd6488fc723279",
       "permanent": true,
       "failed_at": "2026-05-16T18:10:18Z"
+    },
+    {
+      "cr_film_id": 9083,
+      "upload_id": "f98a94b3193e0778",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/elliot-nejmensi-sobik-2018-cz-dab-1080p-mp4/f98a94b3193e0778",
+      "permanent": true,
+      "failed_at": "2026-05-16T18:17:08Z"
+    },
+    {
+      "cr_film_id": 9083,
+      "upload_id": "3cf6c8c9ae0b7c02",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/elliot-nejmensi-sobik-2018-cz-dab-1080p/3cf6c8c9ae0b7c02",
+      "permanent": true,
+      "failed_at": "2026-05-16T18:17:14Z"
     }
   ],
-  "last_updated": "2026-05-16T18:17:06Z"
+  "last_updated": "2026-05-16T18:28:57Z"
 }
