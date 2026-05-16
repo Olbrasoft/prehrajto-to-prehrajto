@@ -39179,6 +39179,25 @@
         "download_sec": 57.9,
         "upload_sec": 61.8
       }
+    },
+    {
+      "cr_film_id": 7830,
+      "cr_slug": "sampion-2024",
+      "title": "Šampion",
+      "year": 2024,
+      "display_name": "Šampion (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6691cc3817f74",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24875802,
+      "size_bytes": 2686331215,
+      "uploaded_at": "2026-05-16T06:15:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 76.9,
+        "upload_sec": 106.5
+      }
     }
   ],
   "failed_attempts": [
@@ -43427,5 +43446,5 @@
       "failed_at": "2026-05-16T05:10:22Z"
     }
   ],
-  "last_updated": "2026-05-16T06:12:32Z"
+  "last_updated": "2026-05-16T06:15:39Z"
 }
