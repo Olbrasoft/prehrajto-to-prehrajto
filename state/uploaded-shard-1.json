@@ -35742,6 +35742,25 @@
         "download_sec": 17.3,
         "upload_sec": 21.0
       }
+    },
+    {
+      "cr_film_id": 7443,
+      "cr_slug": "anakonda",
+      "title": "Anakonda",
+      "year": 2025,
+      "display_name": "Anakonda (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "04e00dacd2984d11",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24868136,
+      "size_bytes": 2161185751,
+      "uploaded_at": "2026-05-16T00:10:13Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 61.0,
+        "upload_sec": 86.2
+      }
     }
   ],
   "failed_attempts": [
@@ -36449,5 +36468,5 @@
       "failed_at": "2026-05-15T21:23:25Z"
     }
   ],
-  "last_updated": "2026-05-16T00:07:42Z"
+  "last_updated": "2026-05-16T00:10:13Z"
 }
