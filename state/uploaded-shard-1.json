@@ -39428,6 +39428,25 @@
         "download_sec": 65.3,
         "upload_sec": 102.8
       }
+    },
+    {
+      "cr_film_id": 8241,
+      "cr_slug": "zapomenuty-princ",
+      "title": "Zapomenutý princ",
+      "year": 2020,
+      "display_name": "Zapomenutý princ (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "617244e0a20cf",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24878265,
+      "size_bytes": 1713504527,
+      "uploaded_at": "2026-05-16T08:18:47Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 52.4,
+        "upload_sec": 69.8
+      }
     }
   ],
   "failed_attempts": [
@@ -40231,5 +40250,5 @@
       "failed_at": "2026-05-16T07:59:01Z"
     }
   ],
-  "last_updated": "2026-05-16T08:16:42Z"
+  "last_updated": "2026-05-16T08:18:47Z"
 }
