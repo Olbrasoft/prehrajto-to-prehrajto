@@ -12863,3 +12863,14 @@
 [08:43:05]   upload done video_id=24878828 in 18.2s
 [08:43:06] film cr_film_id=8287 OK in 34.0s
 [08:43:06] batch-end ok=20 failed=0 dur=2403.4s avg/film=120.2s remaining=15562 eta_hours=519.6
+
+===== run 2026-05-16T09:06:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25958057785) =====
+[09:06:47] batch-start shard=1/2 count=20 backlog=17650 uploads=2088 failed_attempts=110
+[09:06:47] login
+[09:06:48] login done
+[09:06:48] iteration 1/20
+[09:06:48] film cr_film_id=8293 name='Policejní akademie 3: Znovu ve výcviku (1986) CZ Dabing' candidates=11
+[09:06:48]   candidate upload_id=67df4490d3e0c url=https://prehraj.to/policejni-akademie-3-1986-cz-dab/67df4490d3e0c
+[09:06:50]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/133024196/Yy4T2lUABtnZf12ieRiRpUK8i0BsNPFgMs4…)
+[09:09:28]   downloaded 3,858.1 MB in 156.1s (24.7 MB/s)
+[09:13:48]   upload done video_id=24879412 in 259.6s
