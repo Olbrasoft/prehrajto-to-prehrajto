@@ -12132,3 +12132,14 @@
 [04:45:25]   upload done video_id=24874038 in 139.2s
 [04:45:26] film cr_film_id=7905 OK in 243.2s
 [04:45:26] batch-end ok=18 failed=2 dur=2131.6s avg/film=118.4s remaining=15658 eta_hours=515.0
+
+===== run 2026-05-16T04:46:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25953083392) =====
+[04:46:18] batch-start shard=1/2 count=20 backlog=17650 uploads=1992 failed_attempts=103
+[04:46:18] login
+[04:46:20] login done
+[04:46:20] iteration 1/20
+[04:46:20] film cr_film_id=7907 name='Dioráma (2022) CZ Dabing' candidates=6
+[04:46:20]   candidate upload_id=63175ae181710 url=https://prehraj.to/diorama-2022-cz-dabing-1080p/63175ae181710
+[04:46:21]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/32625754/n25IqrHb5umQs93cBAHoZH2LuGqIjpUYEFQL…)
+[04:47:40]   downloaded 1,584.0 MB in 76.9s (20.6 MB/s)
+[04:49:13]   upload done video_id=24874098 in 93.1s
