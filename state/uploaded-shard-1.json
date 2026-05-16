@@ -41081,6 +41081,25 @@
         "download_sec": 53.7,
         "upload_sec": 69.5
       }
+    },
+    {
+      "cr_film_id": 8643,
+      "cr_slug": "absolution",
+      "title": "Vykoupení",
+      "year": 2024,
+      "display_name": "Vykoupení (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "e58b1c2f23ad8f85",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24883209,
+      "size_bytes": 1675693207,
+      "uploaded_at": "2026-05-16T12:28:56Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 56.7,
+        "upload_sec": 73.3
+      }
     }
   ],
   "failed_attempts": [
@@ -41905,5 +41924,5 @@
       "failed_at": "2026-05-16T10:24:45Z"
     }
   ],
-  "last_updated": "2026-05-16T12:26:42Z"
+  "last_updated": "2026-05-16T12:28:56Z"
 }
