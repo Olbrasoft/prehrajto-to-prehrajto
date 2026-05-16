@@ -42314,6 +42314,25 @@
         "download_sec": 157.6,
         "upload_sec": 218.4
       }
+    },
+    {
+      "cr_film_id": 8510,
+      "cr_slug": "hra-2019",
+      "title": "Hra",
+      "year": 2019,
+      "display_name": "Hra (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fd65bd35ae16",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24885155,
+      "size_bytes": 242718410,
+      "uploaded_at": "2026-05-16T14:07:49Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 13.5,
+        "upload_sec": 15.1
+      }
     }
   ],
   "failed_attempts": [
@@ -46679,5 +46698,5 @@
       "failed_at": "2026-05-16T12:50:16Z"
     }
   ],
-  "last_updated": "2026-05-16T14:07:15Z"
+  "last_updated": "2026-05-16T14:07:49Z"
 }
