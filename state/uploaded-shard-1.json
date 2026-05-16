@@ -42183,6 +42183,25 @@
         "download_sec": 113.9,
         "upload_sec": 160.2
       }
+    },
+    {
+      "cr_film_id": 8869,
+      "cr_slug": "starci",
+      "title": "Starci",
+      "year": 2022,
+      "display_name": "Starci (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63419e2440420",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24886378,
+      "size_bytes": 1657134851,
+      "uploaded_at": "2026-05-16T15:26:33Z",
+      "timing": {
+        "resolve_sec": 2.9,
+        "download_sec": 116.8,
+        "upload_sec": 98.8
+      }
     }
   ],
   "failed_attempts": [
@@ -43014,5 +43033,5 @@
       "failed_at": "2026-05-16T12:44:24Z"
     }
   ],
-  "last_updated": "2026-05-16T15:22:50Z"
+  "last_updated": "2026-05-16T15:26:33Z"
 }
