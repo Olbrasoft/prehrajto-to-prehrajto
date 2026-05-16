@@ -12461,3 +12461,14 @@
 [06:37:42]   upload done video_id=24876193 in 126.7s
 [06:37:43] film cr_film_id=7854 OK in 224.0s
 [06:37:43] batch-end ok=19 failed=1 dur=3233.4s avg/film=170.2s remaining=15580 eta_hours=736.6
+
+===== run 2026-05-16T06:38:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25955188870) =====
+[06:38:23] batch-start shard=0/2 count=20 backlog=17650 uploads=2070 failed_attempts=605
+[06:38:23] login
+[06:38:25] login done
+[06:38:25] iteration 1/20
+[06:38:25] film cr_film_id=7856 name='Pekelný stroj (2022) CZ Dabing' candidates=1
+[06:38:25]   candidate upload_id=6584ab07bffba url=https://prehraj.to/pekelny-stroj-2022-czdab/6584ab07bffba
+[06:38:26]   resolved in 1.4s → 1080p (https://pf-storage2.premiumcdn.net/71267429/wY7fPmhmDSYLCgPhW5Ik1hmZs4Ju0mFEXCzb…)
+[06:39:38]   downloaded 1,658.5 MB in 70.4s (23.6 MB/s)
+[06:41:16]   upload done video_id=24876268 in 97.1s
