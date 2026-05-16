@@ -38934,6 +38934,25 @@
         "download_sec": 62.1,
         "upload_sec": 79.7
       }
+    },
+    {
+      "cr_film_id": 8139,
+      "cr_slug": "hlasy-mrtvych",
+      "title": "Hlasy mrtvých",
+      "year": 2023,
+      "display_name": "Hlasy mrtvých (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "9d7c900df2fb95eb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24877177,
+      "size_bytes": 530036559,
+      "uploaded_at": "2026-05-16T07:22:33Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 29.3,
+        "upload_sec": 35.1
+      }
     }
   ],
   "failed_attempts": [
@@ -39695,7 +39714,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-2025-cz-dab-1080p/bb13cd0f291f5ef4",
       "permanent": true,
       "failed_at": "2026-05-16T06:50:41Z"
+    },
+    {
+      "cr_film_id": 8137,
+      "upload_id": "8730754cad77eb02",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panenky-na-uteku-2024-cz-dab-1080p/8730754cad77eb02",
+      "permanent": true,
+      "failed_at": "2026-05-16T07:21:19Z"
     }
   ],
-  "last_updated": "2026-05-16T07:21:16Z"
+  "last_updated": "2026-05-16T07:22:33Z"
 }
