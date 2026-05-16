@@ -40910,6 +40910,25 @@
         "download_sec": 29.9,
         "upload_sec": 69.0
       }
+    },
+    {
+      "cr_film_id": 8587,
+      "cr_slug": "sinister-2",
+      "title": "Sinister 2",
+      "year": 2015,
+      "display_name": "Sinister 2 (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "600a09d806d41",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24882907,
+      "size_bytes": 777945787,
+      "uploaded_at": "2026-05-16T12:13:55Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.0,
+        "upload_sec": 33.3
+      }
     }
   ],
   "failed_attempts": [
@@ -41734,5 +41753,5 @@
       "failed_at": "2026-05-16T10:24:45Z"
     }
   ],
-  "last_updated": "2026-05-16T12:12:54Z"
+  "last_updated": "2026-05-16T12:13:55Z"
 }
