@@ -13923,3 +13923,14 @@
 [15:31:29]   upload done video_id=24886516 in 95.4s
 [15:31:31] film cr_film_id=8648 OK in 164.5s
 [15:31:31] batch-end ok=17 failed=3 dur=2830.8s avg/film=166.5s remaining=15390 eta_hours=711.8
+
+===== run 2026-05-16T15:44:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25966065889) =====
+[15:44:51] batch-start shard=0/2 count=20 backlog=17650 uploads=2260 failed_attempts=625
+[15:44:51] login
+[15:44:52] login done
+[15:44:52] iteration 1/20
+[15:44:52] film cr_film_id=8650 name='Sestry a štěstí (2024) CZ Dabing' candidates=13
+[15:44:52]   candidate upload_id=66d1975bf038e url=https://prehraj.to/sestry-a-stesti-2024-cz-dabing-1080p/66d1975bf038e
+[15:44:54]   resolved in 2.3s → 1080p (https://pf-storage3.premiumcdn.net/93471872/rd7He9TkQuOyTKxT6McoETNph9WSLxSOBSb8…)
+[15:47:12]   downloaded 1,968.8 MB in 135.3s (14.6 MB/s)
+[15:48:53]   upload done video_id=24886983 in 101.4s
