@@ -36996,6 +36996,25 @@
         "download_sec": 33.8,
         "upload_sec": 42.0
       }
+    },
+    {
+      "cr_film_id": 7729,
+      "cr_slug": "doupe",
+      "title": "Doupě",
+      "year": 2014,
+      "display_name": "Doupě (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67a1e8d35c9dc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24871555,
+      "size_bytes": 1298620450,
+      "uploaded_at": "2026-05-16T02:48:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 56.9,
+        "upload_sec": 66.1
+      }
     }
   ],
   "failed_attempts": [
@@ -37717,5 +37736,5 @@
       "failed_at": "2026-05-16T01:01:34Z"
     }
   ],
-  "last_updated": "2026-05-16T02:46:45Z"
+  "last_updated": "2026-05-16T02:48:52Z"
 }
