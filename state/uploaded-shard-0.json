@@ -45259,6 +45259,25 @@
         "download_sec": 34.9,
         "upload_sec": 53.5
       }
+    },
+    {
+      "cr_film_id": 9158,
+      "cr_slug": "ziam",
+      "title": "Ziam",
+      "year": 2025,
+      "display_name": "Ziam (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "686e51cbcea47",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24893676,
+      "size_bytes": 2296785981,
+      "uploaded_at": "2026-05-16T22:57:00Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 65.6,
+        "upload_sec": 87.5
+      }
     }
   ],
   "failed_attempts": [
@@ -49680,5 +49699,5 @@
       "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T22:54:23Z"
+  "last_updated": "2026-05-16T22:57:00Z"
 }
