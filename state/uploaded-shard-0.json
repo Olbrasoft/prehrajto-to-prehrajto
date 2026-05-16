@@ -38704,6 +38704,25 @@
         "download_sec": 18.2,
         "upload_sec": 25.8
       }
+    },
+    {
+      "cr_film_id": 7746,
+      "cr_slug": "maggie",
+      "title": "Maggie",
+      "year": 2015,
+      "display_name": "Maggie (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57ecdcd687e06",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24874208,
+      "size_bytes": 468418418,
+      "uploaded_at": "2026-05-16T04:53:56Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 16.8,
+        "upload_sec": 18.5
+      }
     }
   ],
   "failed_attempts": [
@@ -42917,5 +42936,5 @@
       "failed_at": "2026-05-16T02:38:06Z"
     }
   ],
-  "last_updated": "2026-05-16T04:53:18Z"
+  "last_updated": "2026-05-16T04:53:56Z"
 }
