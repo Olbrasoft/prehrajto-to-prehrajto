@@ -43017,6 +43017,25 @@
         "download_sec": 65.6,
         "upload_sec": 81.3
       }
+    },
+    {
+      "cr_film_id": 8668,
+      "cr_slug": "mumie-hrob-draciho-cisare",
+      "title": "Mumie: Hrob Dračího císaře",
+      "year": 2008,
+      "display_name": "Mumie: Hrob Dračího císaře (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c34910a8aeed",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24887327,
+      "size_bytes": 720917126,
+      "uploaded_at": "2026-05-16T15:59:02Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 34.9,
+        "upload_sec": 47.0
+      }
     }
   ],
   "failed_attempts": [
@@ -47429,7 +47448,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sklep-cellar-door-2024-cz-dabing-mkv/75456eab7bb46b5c",
       "permanent": true,
       "failed_at": "2026-05-16T15:21:16Z"
+    },
+    {
+      "cr_film_id": 8664,
+      "upload_id": "9ceda73661596668",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/moje-tlusta-recka-svatba-3-2023-cz-dab-1080p/9ceda73661596668",
+      "permanent": true,
+      "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T15:57:30Z"
+  "last_updated": "2026-05-16T15:59:02Z"
 }
