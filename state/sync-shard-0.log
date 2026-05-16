@@ -14505,3 +14505,14 @@
 [21:32:00]   upload done video_id=24892436 in 19.9s
 [21:32:01] film cr_film_id=8970 OK in 38.6s
 [21:32:01] batch-end ok=20 failed=0 dur=3464.1s avg/film=173.2s remaining=15311 eta_hours=736.6
+
+===== run 2026-05-16T21:32:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25972273817) =====
+[21:32:16] batch-start shard=0/2 count=20 backlog=17650 uploads=2339 failed_attempts=626
+[21:32:16] login
+[21:32:17] login done
+[21:32:17] iteration 1/20
+[21:32:17] film cr_film_id=8972 name='Twilight sága: Zatmění (2010) CZ Dabing' candidates=62
+[21:32:17]   candidate upload_id=5b5e756da5f3b url=https://prehraj.to/stmivani-3-zatmeni-2010-cz-dabing/5b5e756da5f3b
+[21:32:18]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/5068741/peDSmAFxGsoxHJEtK1cpkFj8TY1c7YtO3hv7I…)
+[21:32:46]   downloaded 454.9 MB in 25.4s (17.9 MB/s)
+[21:33:02]   upload done video_id=24892453 in 16.8s
