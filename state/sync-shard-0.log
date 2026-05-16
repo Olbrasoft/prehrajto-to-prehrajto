@@ -13629,3 +13629,14 @@
 [13:44:40]   upload done video_id=24884796 in 37.4s
 [13:44:41] film cr_film_id=8488 OK in 92.8s
 [13:44:41] batch-end ok=20 failed=0 dur=2467.5s avg/film=123.4s remaining=15427 eta_hours=528.8
+
+===== run 2026-05-16T13:44:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25962655551) =====
+[13:44:54] batch-start shard=0/2 count=20 backlog=17650 uploads=2223 failed_attempts=618
+[13:44:54] login
+[13:44:55] login done
+[13:44:55] iteration 1/20
+[13:44:55] film cr_film_id=8496 name='Co jsme viděli, co jsme slyšeli (2021) CZ Dabing' candidates=18
+[13:44:55]   candidate upload_id=608ba8ce2b98c url=https://prehraj.to/co-jsme-videli-co-jsme-slyseli-2021-cz-dabing-1080p/608ba8ce2b98c
+[13:44:57]   resolved in 1.7s → 1080p (https://pf-storage1.premiumcdn.net/23317047/Gw1fOjS6Lhx4uwEImAFxESO8IzZhW7iWETMP…)
+[13:46:44]   downloaded 2,750.1 MB in 105.1s (26.2 MB/s)
+[13:49:02]   upload done video_id=24884883 in 138.3s
