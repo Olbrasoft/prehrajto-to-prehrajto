@@ -44176,6 +44176,25 @@
         "download_sec": 21.1,
         "upload_sec": 25.9
       }
+    },
+    {
+      "cr_film_id": 8900,
+      "cr_slug": "zvracena",
+      "title": "Zvrácená",
+      "year": 2021,
+      "display_name": "Zvrácená (2021) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "690789b4b37e7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24891798,
+      "size_bytes": 1729089176,
+      "uploaded_at": "2026-05-16T21:01:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 270.6,
+        "upload_sec": 71.0
+      }
     }
   ],
   "failed_attempts": [
@@ -48597,5 +48616,5 @@
       "failed_at": "2026-05-16T15:57:32Z"
     }
   ],
-  "last_updated": "2026-05-16T20:55:49Z"
+  "last_updated": "2026-05-16T21:01:34Z"
 }
