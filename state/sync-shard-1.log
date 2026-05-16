@@ -13158,3 +13158,14 @@
 [10:58:28]   upload done video_id=24881630 in 105.7s
 [10:58:30] film cr_film_id=8457 OK in 193.5s
 [10:58:30] batch-end ok=20 failed=0 dur=2980.4s avg/film=149.0s remaining=15523 eta_hours=642.5
+
+===== run 2026-05-16T11:00:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25960229563) =====
+[11:00:18] batch-start shard=1/2 count=20 backlog=17650 uploads=2127 failed_attempts=113
+[11:00:18] login
+[11:00:20] login done
+[11:00:20] iteration 1/20
+[11:00:20] film cr_film_id=8463 name='90 minut do smrti (2021) CZ Dabing' candidates=6
+[11:00:20]   candidate upload_id=62fea430e005a url=https://prehraj.to/90-minut-do-smrti-2021-cz-dabing-1080p/62fea430e005a
+[11:00:21]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/32171029/zzNhD1HV9ijLsWXheQtl8HX0fjoIb8iX6T5A…)
+[11:01:42]   downloaded 1,647.7 MB in 78.9s (20.9 MB/s)
+[11:03:09]   upload done video_id=24881693 in 86.4s
