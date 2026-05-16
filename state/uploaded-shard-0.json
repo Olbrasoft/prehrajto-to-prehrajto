@@ -38818,6 +38818,25 @@
         "download_sec": 52.8,
         "upload_sec": 68.0
       }
+    },
+    {
+      "cr_film_id": 7772,
+      "cr_slug": "kodovane-vysilani",
+      "title": "Kódované vysílání",
+      "year": 2013,
+      "display_name": "Kódované vysílání (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55fef62546ac6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24874313,
+      "size_bytes": 344566655,
+      "uploaded_at": "2026-05-16T05:01:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 11.8,
+        "upload_sec": 13.6
+      }
     }
   ],
   "failed_attempts": [
@@ -43038,5 +43057,5 @@
       "failed_at": "2026-05-16T04:58:07Z"
     }
   ],
-  "last_updated": "2026-05-16T05:01:14Z"
+  "last_updated": "2026-05-16T05:01:43Z"
 }
