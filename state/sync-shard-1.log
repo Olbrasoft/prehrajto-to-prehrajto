@@ -13849,3 +13849,15 @@
 [15:22:55]   resolved in 2.9s → 1080p (https://pf-storage5.premiumcdn.net/33679249/XPWfbasr7h5Jcapi8ghXOsKjhmDuoPTYESBv…)
 [15:24:54]   downloaded 1,657.1 MB in 116.8s (14.2 MB/s)
 [15:26:33]   upload done video_id=24886378 in 98.8s
+[15:26:34] film cr_film_id=8869 OK in 222.1s
+[15:26:34] iteration 16/20
+[15:26:34] film cr_film_id=8881 name='Vlastní krev (2023) CZ Dabing' candidates=1
+[15:26:34]   candidate upload_id=61c211dd98429742 url=https://prehraj.to/vlastni-krev-2023-cz-dab-1080p/61c211dd98429742
+[15:26:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vlastni-krev-2023-cz-dab-1080p/61c211dd98429742 (permanent=True)
+[15:26:35] film cr_film_id=8881 all candidates exhausted
+[15:26:35] iteration 17/20
+[15:26:35] film cr_film_id=8885 name='Wolf (2021) CZ Dabing' candidates=1
+[15:26:35]   candidate upload_id=63169995a42f4 url=https://prehraj.to/wolf-2021-czdab/63169995a42f4
+[15:26:41]   resolved in 6.2s → 720p (https://pf-storage1.premiumcdn.net/32617246/y50I8eC4gteotabhbmcwOC3rTB3I1qfM9SzO…)
+[15:29:45]   downloaded 1,063.9 MB in 181.7s (5.9 MB/s)
+[15:30:55]   upload done video_id=24886509 in 70.1s
