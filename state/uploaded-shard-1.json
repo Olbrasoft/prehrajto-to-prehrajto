@@ -39314,6 +39314,25 @@
         "download_sec": 50.3,
         "upload_sec": 82.3
       }
+    },
+    {
+      "cr_film_id": 8205,
+      "cr_slug": "konecna-2018",
+      "title": "Konečná",
+      "year": 2018,
+      "display_name": "Konečná (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63e19f3553e51",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24878028,
+      "size_bytes": 1217574035,
+      "uploaded_at": "2026-05-16T08:06:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 37.9,
+        "upload_sec": 43.5
+      }
     }
   ],
   "failed_attempts": [
@@ -40117,5 +40136,5 @@
       "failed_at": "2026-05-16T07:59:01Z"
     }
   ],
-  "last_updated": "2026-05-16T08:05:18Z"
+  "last_updated": "2026-05-16T08:06:43Z"
 }
