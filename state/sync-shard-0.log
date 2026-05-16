@@ -14213,3 +14213,14 @@
 [18:08:48]   upload done video_id=24889230 in 37.2s
 [18:08:50] film cr_film_id=8792 OK in 951.4s
 [18:08:50] batch-end ok=20 failed=0 dur=4369.6s avg/film=218.5s remaining=15351 eta_hours=931.7
+
+===== run 2026-05-16T18:10:06Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25969209927) =====
+[18:10:07] batch-start shard=0/2 count=20 backlog=17650 uploads=2299 failed_attempts=626
+[18:10:07] login
+[18:10:09] login done
+[18:10:09] iteration 1/20
+[18:10:09] film cr_film_id=8794 name='Když se zlomí větev (2016) CZ Dabing' candidates=12
+[18:10:09]   candidate upload_id=59071f0d1441d url=https://prehraj.to/kdyz-se-zlomi-vetev-2016-cz-dabing/59071f0d1441d
+[18:10:10]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/2122591/kwrcA4ugKCXAhNEsleInzuOlCZ1S3phjDHEmi…)
+[18:12:08]   downloaded 870.4 MB in 117.0s (7.4 MB/s)
+[18:12:47]   upload done video_id=24889297 in 38.1s
