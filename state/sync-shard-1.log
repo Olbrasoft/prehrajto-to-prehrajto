@@ -14539,3 +14539,19 @@
 [21:29:38]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/10069292/kROI3DSZbI6etMBUyQHAZSJ5iDZhR6FdziZz…)
 [21:30:07]   downloaded 663.6 MB in 27.1s (24.5 MB/s)
 [21:30:39]   upload done video_id=24892412 in 32.8s
+[21:30:41] film cr_film_id=9311 OK in 63.4s
+[21:30:41] iteration 10/20
+[21:30:41] film cr_film_id=9313 name='Tarot (2024) CZ Dabing' candidates=3
+[21:30:41]   candidate upload_id=11828fe0c90d99cb url=https://prehraj.to/tarot-2024-cz-dab-1080p/11828fe0c90d99cb
+[21:30:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tarot-2024-cz-dab-1080p/11828fe0c90d99cb (permanent=True)
+[21:30:41]   candidate upload_id=14fb51b02fa0f799 url=https://prehraj.to/tarot-2024-cz-dabing/14fb51b02fa0f799
+[21:30:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tarot-2024-cz-dabing/14fb51b02fa0f799 (permanent=True)
+[21:30:47]   candidate upload_id=341f0e126721c93d url=https://prehraj.to/tarot-2024-cz-dabing-mp4/341f0e126721c93d
+[21:30:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tarot-2024-cz-dabing-mp4/341f0e126721c93d (permanent=True)
+[21:30:53] film cr_film_id=9313 all candidates exhausted
+[21:30:53] iteration 11/20
+[21:30:53] film cr_film_id=9315 name='Halloween II (2009) CZ Dabing' candidates=3
+[21:30:53]   candidate upload_id=68eff7c5c98c6 url=https://prehraj.to/halloween-ii-2009-cz-dabing-2160p/68eff7c5c98c6
+[21:30:59]   resolved in 5.9s → 1080p (https://pf-storage4.premiumcdn.net/151788291/VArIvdfzAhmJHNDu10iB1f4AsMmUZ5UXMuQ…)
+[21:32:43]   downloaded 3,683.1 MB in 102.7s (35.9 MB/s)
+[21:35:09]   upload done video_id=24892452 in 146.0s
