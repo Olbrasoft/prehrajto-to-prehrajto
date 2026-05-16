@@ -44045,6 +44045,25 @@
         "download_sec": 96.7,
         "upload_sec": 89.8
       }
+    },
+    {
+      "cr_film_id": 9357,
+      "cr_slug": "after-tajemstvi",
+      "title": "After: Tajemství",
+      "year": 2021,
+      "display_name": "After: Tajemství (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "852b76608bfd2071",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24892706,
+      "size_bytes": 456299070,
+      "uploaded_at": "2026-05-16T21:51:47Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 78.9,
+        "upload_sec": 24.3
+      }
     }
   ],
   "failed_attempts": [
@@ -44993,7 +45012,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vymitac-dabla-znameni-viry-2023-cz-dabing-hd-mp4/f6b061e2b6551ffc",
       "permanent": true,
       "failed_at": "2026-05-16T21:39:52Z"
+    },
+    {
+      "cr_film_id": 9357,
+      "upload_id": "6e2b585495a68085",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/after-tajemstvi-2021-cz-dabing-avi/6e2b585495a68085",
+      "permanent": true,
+      "failed_at": "2026-05-16T21:49:51Z"
+    },
+    {
+      "cr_film_id": 9357,
+      "upload_id": "78243e0e2261baa3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/after-tajemstvi-2021-cz-dabing-avi-avi/78243e0e2261baa3",
+      "permanent": true,
+      "failed_at": "2026-05-16T21:49:56Z"
     }
   ],
-  "last_updated": "2026-05-16T21:49:49Z"
+  "last_updated": "2026-05-16T21:51:47Z"
 }
