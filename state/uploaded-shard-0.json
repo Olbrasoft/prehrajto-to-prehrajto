@@ -36652,6 +36652,25 @@
         "download_sec": 90.2,
         "upload_sec": 105.2
       }
+    },
+    {
+      "cr_film_id": 7292,
+      "cr_slug": "detska-hra",
+      "title": "Dětská hra",
+      "year": 2019,
+      "display_name": "Dětská hra (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e01d6c0055b0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24868873,
+      "size_bytes": 1228929676,
+      "uploaded_at": "2026-05-16T00:43:47Z",
+      "timing": {
+        "resolve_sec": 2.3,
+        "download_sec": 47.9,
+        "upload_sec": 71.6
+      }
     }
   ],
   "failed_attempts": [
@@ -40830,5 +40849,5 @@
       "failed_at": "2026-05-16T00:06:40Z"
     }
   ],
-  "last_updated": "2026-05-16T00:41:41Z"
+  "last_updated": "2026-05-16T00:43:47Z"
 }
