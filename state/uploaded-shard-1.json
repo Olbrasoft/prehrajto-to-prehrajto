@@ -35951,6 +35951,25 @@
         "download_sec": 62.7,
         "upload_sec": 79.8
       }
+    },
+    {
+      "cr_film_id": 7495,
+      "cr_slug": "liga-spravedlnosti-krize-na-nekonecnu-zemi-druha-cas",
+      "title": "Liga spravedlnosti: Krize na nekonečnu Zemí - druhá část",
+      "year": 2024,
+      "display_name": "Liga spravedlnosti: Krize na nekonečnu Zemí - druhá část (2024) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "670014a7da0fc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24868641,
+      "size_bytes": 1787195755,
+      "uploaded_at": "2026-05-16T00:33:51Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 51.7,
+        "upload_sec": 95.0
+      }
     }
   ],
   "failed_attempts": [
@@ -36656,7 +36675,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/boze-ty-ses-hajzl-2020-cz-dabing/423fc1227b089e22",
       "permanent": true,
       "failed_at": "2026-05-15T21:23:25Z"
+    },
+    {
+      "cr_film_id": 7489,
+      "upload_id": "5c075c8a5d107782",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/manzele-stodolovi-2023-cz-hd-mp4/5c075c8a5d107782",
+      "permanent": true,
+      "failed_at": "2026-05-16T00:31:18Z"
     }
   ],
-  "last_updated": "2026-05-16T00:31:16Z"
+  "last_updated": "2026-05-16T00:33:51Z"
 }
