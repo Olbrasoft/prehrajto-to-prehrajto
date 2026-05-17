@@ -50845,6 +50845,25 @@
         "download_sec": 28.0,
         "upload_sec": 30.0
       }
+    },
+    {
+      "cr_film_id": 10676,
+      "cr_slug": "kantor-ideal",
+      "title": "Kantor ideál",
+      "year": 1932,
+      "display_name": "Kantor ideál (1932) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "62f73b871bae5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24906838,
+      "size_bytes": 3379136652,
+      "uploaded_at": "2026-05-17T10:40:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 155.2,
+        "upload_sec": 184.9
+      }
     }
   ],
   "failed_attempts": [
@@ -55350,5 +55369,5 @@
       "failed_at": "2026-05-17T10:16:28Z"
     }
   ],
-  "last_updated": "2026-05-17T10:34:52Z"
+  "last_updated": "2026-05-17T10:40:37Z"
 }
