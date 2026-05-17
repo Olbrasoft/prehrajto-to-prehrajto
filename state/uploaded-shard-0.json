@@ -50579,6 +50579,25 @@
         "download_sec": 205.0,
         "upload_sec": 262.5
       }
+    },
+    {
+      "cr_film_id": 10550,
+      "cr_slug": "status-nazivu",
+      "title": "Status: Naživu",
+      "year": 2022,
+      "display_name": "Status: Naživu (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66055677bf855",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24903707,
+      "size_bytes": 2453579415,
+      "uploaded_at": "2026-05-17T10:01:05Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 107.6,
+        "upload_sec": 133.9
+      }
     }
   ],
   "failed_attempts": [
@@ -55049,5 +55068,5 @@
       "failed_at": "2026-05-17T09:49:02Z"
     }
   ],
-  "last_updated": "2026-05-17T09:56:58Z"
+  "last_updated": "2026-05-17T10:01:05Z"
 }
