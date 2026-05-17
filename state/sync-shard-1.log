@@ -15068,3 +15068,14 @@
 [00:06:05]   upload done video_id=24894885 in 59.3s
 [00:06:06] film cr_film_id=9665 OK in 108.0s
 [00:06:06] batch-end ok=19 failed=1 dur=2196.3s avg/film=115.6s remaining=15273 eta_hours=490.4
+
+===== run 2026-05-17T00:07:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25976504643) =====
+[00:07:22] batch-start shard=1/2 count=20 backlog=17650 uploads=2377 failed_attempts=139
+[00:07:22] login
+[00:07:23] login done
+[00:07:23] iteration 1/20
+[00:07:23] film cr_film_id=9667 name='Za nepřátelskou linií (2020) CZ Dabing' candidates=5
+[00:07:23]   candidate upload_id=620718131168e url=https://prehraj.to/za-nepratelskou-linii-enemy-lines-2020-hd-cz-dab/620718131168e
+[00:07:25]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/29271015/9oDI9gf07Ie5T9qFjYi0mfBvhdNuJoFaesXd…)
+[00:08:15]   downloaded 1,417.3 MB in 48.2s (29.4 MB/s)
+[00:09:21]   upload done video_id=24894955 in 66.3s
