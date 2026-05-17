@@ -17867,3 +17867,14 @@
 [16:46:39]   upload done video_id=24913634 in 36.3s
 [16:46:40] film cr_film_id=10970 OK in 158.1s
 [16:46:40] batch-end ok=20 failed=0 dur=4441.8s avg/film=222.1s remaining=14858 eta_hours=916.7
+
+===== run 2026-05-17T16:48:16Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25996823189) =====
+[16:48:17] batch-start shard=0/2 count=20 backlog=17650 uploads=2792 failed_attempts=641
+[16:48:17] login
+[16:48:18] login done
+[16:48:18] iteration 1/20
+[16:48:18] film cr_film_id=10972 name='Večírek (1968) CZ' candidates=3
+[16:48:18]   candidate upload_id=5a9f5967e6db7 url=https://prehraj.to/vecirek-1968/5a9f5967e6db7
+[16:48:20]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/3557007/n8WsYdFyYCjyID0hEMtWqF5ASGbuRZuqrCgaU…)
+[16:49:56]   downloaded 1,057.9 MB in 95.0s (11.1 MB/s)
+[16:50:34]   upload done video_id=24913711 in 38.1s
