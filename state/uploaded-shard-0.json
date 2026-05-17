@@ -51168,6 +51168,25 @@
         "download_sec": 40.1,
         "upload_sec": 45.9
       }
+    },
+    {
+      "cr_film_id": 10716,
+      "cr_slug": "mzda-strachu",
+      "title": "Mzda strachu",
+      "year": 1953,
+      "display_name": "Mzda strachu (1953) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60ecbd7acd318",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24908081,
+      "size_bytes": 15615618,
+      "uploaded_at": "2026-05-17T11:39:41Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 2.5,
+        "upload_sec": 2.9
+      }
     }
   ],
   "failed_attempts": [
@@ -55673,5 +55692,5 @@
       "failed_at": "2026-05-17T10:16:28Z"
     }
   ],
-  "last_updated": "2026-05-17T11:37:49Z"
+  "last_updated": "2026-05-17T11:39:41Z"
 }
