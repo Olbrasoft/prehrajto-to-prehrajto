@@ -17111,3 +17111,14 @@
 [11:15:33]   upload done video_id=24907216 in 43.5s
 [11:15:35] film cr_film_id=10973 OK in 82.0s
 [11:15:35] batch-end ok=19 failed=1 dur=2737.3s avg/film=144.1s remaining=15005 eta_hours=600.6
+
+===== run 2026-05-17T11:39:33Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25989787227) =====
+[11:39:35] batch-start shard=1/2 count=20 backlog=17650 uploads=2645 failed_attempts=162
+[11:39:35] login
+[11:39:37] login done
+[11:39:37] iteration 1/20
+[11:39:37] film cr_film_id=10977 name='Smrt v červeném jaguáru (1968) CZ Dabing' candidates=3
+[11:39:37]   candidate upload_id=67a7435ee0d9c url=https://prehraj.to/smrt-v-cervenem-jaguaru-george-nader-carl-lange-robert-fuller-1968-akcni-krimi-thriller-bdrip-1080p-cz-dabing/67a7435ee0d9c
+[11:39:38]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/129376031/MjGt1NIjZcMotEmTwoFADIYJIrqhKNH98S2…)
+[11:41:20]   downloaded 2,296.3 MB in 100.6s (22.8 MB/s)
+[11:43:30]   upload done video_id=24908102 in 129.8s
