@@ -53944,6 +53944,25 @@
         "download_sec": 29.2,
         "upload_sec": 40.7
       }
+    },
+    {
+      "cr_film_id": 11487,
+      "cr_slug": "sedmy-terc",
+      "title": "Sedmý terč",
+      "year": 1984,
+      "display_name": "Sedmý terč (1984) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9d03c176636",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24923242,
+      "size_bytes": 1401324245,
+      "uploaded_at": "2026-05-17T23:31:48Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 40.5,
+        "upload_sec": 57.7
+      }
     }
   ],
   "failed_attempts": [
@@ -55132,5 +55151,5 @@
       "failed_at": "2026-05-17T23:07:57Z"
     }
   ],
-  "last_updated": "2026-05-17T23:30:07Z"
+  "last_updated": "2026-05-17T23:31:48Z"
 }
