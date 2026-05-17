@@ -49838,6 +49838,25 @@
         "download_sec": 11.3,
         "upload_sec": 13.7
       }
+    },
+    {
+      "cr_film_id": 10302,
+      "cr_slug": "lapac-dusi",
+      "title": "Lapač duší",
+      "year": 2023,
+      "display_name": "Lapač duší (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c8c83d373db7dbae",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24901941,
+      "size_bytes": 2116851474,
+      "uploaded_at": "2026-05-17T07:52:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 90.2,
+        "upload_sec": 101.6
+      }
     }
   ],
   "failed_attempts": [
@@ -54294,5 +54313,5 @@
       "failed_at": "2026-05-17T05:53:51Z"
     }
   ],
-  "last_updated": "2026-05-17T07:49:07Z"
+  "last_updated": "2026-05-17T07:52:24Z"
 }
