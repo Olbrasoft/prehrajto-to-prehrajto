@@ -15671,3 +15671,14 @@
 [03:15:02]   upload done video_id=24898345 in 34.0s
 [03:15:03] film cr_film_id=9670 OK in 64.7s
 [03:15:03] batch-end ok=20 failed=0 dur=3537.4s avg/film=176.9s remaining=15152 eta_hours=744.6
+
+===== run 2026-05-17T03:16:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25980019967) =====
+[03:16:35] batch-start shard=0/2 count=20 backlog=17650 uploads=2498 failed_attempts=627
+[03:16:35] login
+[03:16:36] login done
+[03:16:36] iteration 1/20
+[03:16:36] film cr_film_id=9672 name='Ve spárech temnoty (2020) CZ Dabing' candidates=3
+[03:16:36]   candidate upload_id=612c8a132686b url=https://prehraj.to/black-water-abyss-2020-cz-dabing/612c8a132686b
+[03:16:38]   resolved in 2.0s → 720p (https://pf-storage3.premiumcdn.net/24757514/QajhlZIxAie0FLWCnNs4bIavsLPHj8hmQig6…)
+[03:17:39]   downloaded 1,851.6 MB in 58.9s (31.4 MB/s)
+[03:18:51]   upload done video_id=24898398 in 72.5s
