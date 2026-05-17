@@ -51645,6 +51645,25 @@
         "download_sec": 103.8,
         "upload_sec": 100.6
       }
+    },
+    {
+      "cr_film_id": 11177,
+      "cr_slug": "tri-dny-kondora",
+      "title": "Tři dny Kondora",
+      "year": 1975,
+      "display_name": "Tři dny Kondora (1975) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5cea261fc9e05",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24911789,
+      "size_bytes": 362745165,
+      "uploaded_at": "2026-05-17T15:08:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.8,
+        "upload_sec": 17.5
+      }
     }
   ],
   "failed_attempts": [
@@ -52826,5 +52845,5 @@
       "failed_at": "2026-05-17T14:38:53Z"
     }
   ],
-  "last_updated": "2026-05-17T15:07:52Z"
+  "last_updated": "2026-05-17T15:08:29Z"
 }
