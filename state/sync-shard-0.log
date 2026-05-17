@@ -18305,3 +18305,14 @@
 [21:43:20]   upload done video_id=24917706 in 66.2s
 [21:43:21] film cr_film_id=11110 OK in 143.0s
 [21:43:21] batch-end ok=20 failed=0 dur=3314.2s avg/film=165.7s remaining=14798 eta_hours=681.1
+
+===== run 2026-05-17T22:08:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26004111734) =====
+[22:08:43] batch-start shard=0/2 count=20 backlog=17650 uploads=2852 failed_attempts=641
+[22:08:43] login
+[22:08:45] login done
+[22:08:45] iteration 1/20
+[22:08:45] film cr_film_id=11114 name='Dlouhé loučení (1973) CZ Dabing' candidates=2
+[22:08:45]   candidate upload_id=1254ec5834a19465 url=https://prehraj.to/dlouhe-louceni-1973-cz-dab-1080p/1254ec5834a19465
+[22:08:47]   resolved in 1.5s → 720p (https://pf-storage6.premiumcdn.net/170780351/BpVu12UjAHwocApH8DHlgU68CRNFRoFNjsa…)
+[22:10:39]   downloaded 2,129.7 MB in 109.4s (19.5 MB/s)
+[22:12:36]   upload done video_id=24918023 in 116.9s
