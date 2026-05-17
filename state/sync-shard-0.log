@@ -16251,3 +16251,14 @@
 [06:05:18]   upload done video_id=24900357 in 30.2s
 [06:05:19] film cr_film_id=10020 OK in 47.7s
 [06:05:19] batch-end ok=19 failed=1 dur=1934.4s avg/film=101.8s remaining=15075 eta_hours=426.3
+
+===== run 2026-05-17T06:09:29Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25983144954) =====
+[06:09:30] batch-start shard=0/2 count=20 backlog=17650 uploads=2575 failed_attempts=631
+[06:09:30] login
+[06:09:31] login done
+[06:09:31] iteration 1/20
+[06:09:31] film cr_film_id=10024 name='Princezna ze mlejna 2 (2000) CZ Dabing' candidates=15
+[06:09:31]   candidate upload_id=58763d206b8f8 url=https://prehraj.to/princezna-ze-mlejna-2-cz-dabing-1999/58763d206b8f8
+[06:09:32]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/1424888/1BnuGlTEXUVKIOMiAGfKkTWMH3KcdLi25IRGU…)
+[06:09:56]   downloaded 767.1 MB in 22.3s (34.4 MB/s)
+[06:10:26]   upload done video_id=24900440 in 29.8s
