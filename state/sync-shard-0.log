@@ -17279,3 +17279,14 @@
 [12:19:58]   upload done video_id=24908933 in 32.7s
 [12:19:59] film cr_film_id=10768 OK in 62.8s
 [12:19:59] batch-end ok=20 failed=0 dur=2426.4s avg/film=121.3s remaining=14937 eta_hours=503.3
+
+===== run 2026-05-17T12:20:11Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25990577106) =====
+[12:20:12] batch-start shard=0/2 count=20 backlog=17650 uploads=2713 failed_attempts=638
+[12:20:12] login
+[12:20:14] login done
+[12:20:14] iteration 1/20
+[12:20:14] film cr_film_id=10770 name='Přestřelka v Dodge City (1959) CZ' candidates=1
+[12:20:14]   candidate upload_id=5a9e72a7d26b0 url=https://prehraj.to/prestrelka-v-dodge-city-1959/5a9e72a7d26b0
+[12:20:16]   resolved in 2.4s → 480p (https://pf-storage5.premiumcdn.net/3552261/BdjFM2UrgsDbfaAiwMIX2UGQS3ac5JtjbI6XF…)
+[12:20:43]   downloaded 606.0 MB in 25.3s (24.0 MB/s)
+[12:21:20]   upload done video_id=24908951 in 37.1s
