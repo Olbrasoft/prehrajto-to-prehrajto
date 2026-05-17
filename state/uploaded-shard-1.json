@@ -53640,6 +53640,25 @@
         "download_sec": 114.5,
         "upload_sec": 139.7
       }
+    },
+    {
+      "cr_film_id": 11441,
+      "cr_slug": "megaforce",
+      "title": "MegaForce",
+      "year": 1982,
+      "display_name": "MegaForce (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e7a0caab471",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24920987,
+      "size_bytes": 3291151997,
+      "uploaded_at": "2026-05-17T22:52:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 127.8,
+        "upload_sec": 138.5
+      }
     }
   ],
   "failed_attempts": [
@@ -54821,5 +54840,5 @@
       "failed_at": "2026-05-17T14:38:53Z"
     }
   ],
-  "last_updated": "2026-05-17T22:48:25Z"
+  "last_updated": "2026-05-17T22:52:56Z"
 }
