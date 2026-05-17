@@ -46078,6 +46078,25 @@
         "download_sec": 22.3,
         "upload_sec": 27.1
       }
+    },
+    {
+      "cr_film_id": 9925,
+      "cr_slug": "lol",
+      "title": "LOL",
+      "year": 2012,
+      "display_name": "LOL (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55da139a98f79",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24897448,
+      "size_bytes": 443411740,
+      "uploaded_at": "2026-05-17T02:02:23Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.2,
+        "upload_sec": 19.4
+      }
     }
   ],
   "failed_attempts": [
@@ -47112,5 +47131,5 @@
       "failed_at": "2026-05-17T01:51:25Z"
     }
   ],
-  "last_updated": "2026-05-17T02:01:43Z"
+  "last_updated": "2026-05-17T02:02:23Z"
 }
