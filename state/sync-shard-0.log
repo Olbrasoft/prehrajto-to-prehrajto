@@ -15089,3 +15089,14 @@
 [00:04:09]   upload done video_id=24894842 in 98.7s
 [00:04:10] film cr_film_id=9328 OK in 180.1s
 [00:04:10] batch-end ok=20 failed=0 dur=2080.7s avg/film=104.0s remaining=15231 eta_hours=440.0
+
+===== run 2026-05-17T00:07:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25976504643) =====
+[00:07:24] batch-start shard=0/2 count=20 backlog=17650 uploads=2419 failed_attempts=626
+[00:07:24] login
+[00:07:25] login done
+[00:07:25] iteration 1/20
+[00:07:25] film cr_film_id=9338 name='Láska natvrdo (2023) CZ Dabing' candidates=2
+[00:07:25]   candidate upload_id=646fe5158b459 url=https://prehraj.to/laska-natvrdo-2023-czdab/646fe5158b459
+[00:07:26]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/41069233/ga6FYqSzWskyHoDTGzTqRS9WF4BfezCWeHjE…)
+[00:09:15]   downloaded 2,783.6 MB in 107.7s (25.8 MB/s)
+[00:10:54]   upload done video_id=24894971 in 98.5s
