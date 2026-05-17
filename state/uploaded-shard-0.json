@@ -53239,6 +53239,25 @@
         "download_sec": 81.2,
         "upload_sec": 19.7
       }
+    },
+    {
+      "cr_film_id": 10996,
+      "cr_slug": "mayerling",
+      "title": "Mayerling",
+      "year": 1968,
+      "display_name": "Mayerling (1968) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5852ba5c96007",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24914089,
+      "size_bytes": 860170366,
+      "uploaded_at": "2026-05-17T17:21:41Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 199.9,
+        "upload_sec": 36.4
+      }
     }
   ],
   "failed_attempts": [
@@ -57765,5 +57784,5 @@
       "failed_at": "2026-05-17T14:12:17Z"
     }
   ],
-  "last_updated": "2026-05-17T17:17:41Z"
+  "last_updated": "2026-05-17T17:21:41Z"
 }
