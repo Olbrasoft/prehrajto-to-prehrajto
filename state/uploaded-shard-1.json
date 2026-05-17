@@ -51721,6 +51721,25 @@
         "download_sec": 23.5,
         "upload_sec": 29.1
       }
+    },
+    {
+      "cr_film_id": 11187,
+      "cr_slug": "den-pro-mou-lasku",
+      "title": "Den pro mou lásku",
+      "year": 1977,
+      "display_name": "Den pro mou lásku (1977) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "65caf733618c4",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24912314,
+      "size_bytes": 1594479501,
+      "uploaded_at": "2026-05-17T15:26:40Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 500.8,
+        "upload_sec": 70.3
+      }
     }
   ],
   "failed_attempts": [
@@ -52902,5 +52921,5 @@
       "failed_at": "2026-05-17T14:38:53Z"
     }
   ],
-  "last_updated": "2026-05-17T15:17:05Z"
+  "last_updated": "2026-05-17T15:26:40Z"
 }
