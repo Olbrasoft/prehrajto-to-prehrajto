@@ -49173,6 +49173,25 @@
         "download_sec": 12.2,
         "upload_sec": 15.2
       }
+    },
+    {
+      "cr_film_id": 10112,
+      "cr_slug": "skvara-a-kvery",
+      "title": "Škvára a kvéry",
+      "year": 2023,
+      "display_name": "Škvára a kvéry (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64cd0d7a3e571",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24900699,
+      "size_bytes": 2121746985,
+      "uploaded_at": "2026-05-17T06:25:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 64.1,
+        "upload_sec": 74.2
+      }
     }
   ],
   "failed_attempts": [
@@ -53629,5 +53648,5 @@
       "failed_at": "2026-05-17T05:53:51Z"
     }
   ],
-  "last_updated": "2026-05-17T06:23:17Z"
+  "last_updated": "2026-05-17T06:25:39Z"
 }
