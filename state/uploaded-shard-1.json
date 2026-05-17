@@ -45413,6 +45413,25 @@
         "download_sec": 37.4,
         "upload_sec": 49.0
       }
+    },
+    {
+      "cr_film_id": 9737,
+      "cr_slug": "houbicky",
+      "title": "Houbičky",
+      "year": 2007,
+      "display_name": "Houbičky (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a0dc9ee1bc9a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24895495,
+      "size_bytes": 448802318,
+      "uploaded_at": "2026-05-17T00:37:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.4,
+        "upload_sec": 20.5
+      }
     }
   ],
   "failed_attempts": [
@@ -46419,5 +46438,5 @@
       "failed_at": "2026-05-16T23:41:10Z"
     }
   ],
-  "last_updated": "2026-05-17T00:37:16Z"
+  "last_updated": "2026-05-17T00:37:57Z"
 }
