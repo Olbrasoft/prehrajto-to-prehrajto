@@ -53714,6 +53714,25 @@
         "download_sec": 84.3,
         "upload_sec": 104.8
       }
+    },
+    {
+      "cr_film_id": 11050,
+      "cr_slug": "jo",
+      "title": "Jo",
+      "year": 1971,
+      "display_name": "Jo (1971) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a4ab09afaef871f6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24916779,
+      "size_bytes": 3382253227,
+      "uploaded_at": "2026-05-17T20:25:20Z",
+      "timing": {
+        "resolve_sec": 2.7,
+        "download_sec": 2278.7,
+        "upload_sec": 140.4
+      }
     }
   ],
   "failed_attempts": [
@@ -58240,5 +58259,5 @@
       "failed_at": "2026-05-17T14:12:17Z"
     }
   ],
-  "last_updated": "2026-05-17T19:44:56Z"
+  "last_updated": "2026-05-17T20:25:20Z"
 }
