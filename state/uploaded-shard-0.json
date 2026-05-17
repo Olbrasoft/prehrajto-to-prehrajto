@@ -51054,6 +51054,25 @@
         "download_sec": 104.2,
         "upload_sec": 124.0
       }
+    },
+    {
+      "cr_film_id": 10702,
+      "cr_slug": "cervena-reka",
+      "title": "Červená řeka",
+      "year": 1948,
+      "display_name": "Červená řeka (1948) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "62a1e0790d570",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24907359,
+      "size_bytes": 2473958137,
+      "uploaded_at": "2026-05-17T11:25:31Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 115.0,
+        "upload_sec": 139.4
+      }
     }
   ],
   "failed_attempts": [
@@ -55559,5 +55578,5 @@
       "failed_at": "2026-05-17T10:16:28Z"
     }
   ],
-  "last_updated": "2026-05-17T11:21:11Z"
+  "last_updated": "2026-05-17T11:25:31Z"
 }
