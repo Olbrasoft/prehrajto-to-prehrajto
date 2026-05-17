@@ -49650,6 +49650,25 @@
         "download_sec": 94.1,
         "upload_sec": 131.8
       }
+    },
+    {
+      "cr_film_id": 10899,
+      "cr_slug": "velky-flam",
+      "title": "Velký flám",
+      "year": 1966,
+      "display_name": "Velký flám (1966) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55f1349fbe2ee",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24903432,
+      "size_bytes": 1118172953,
+      "uploaded_at": "2026-05-17T09:39:29Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 35.3,
+        "upload_sec": 42.5
+      }
     }
   ],
   "failed_attempts": [
@@ -50810,5 +50829,5 @@
       "failed_at": "2026-05-17T07:46:03Z"
     }
   ],
-  "last_updated": "2026-05-17T09:38:07Z"
+  "last_updated": "2026-05-17T09:39:29Z"
 }
