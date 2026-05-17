@@ -46876,6 +46876,25 @@
         "download_sec": 11.8,
         "upload_sec": 24.8
       }
+    },
+    {
+      "cr_film_id": 10165,
+      "cr_slug": "kemp-smrti",
+      "title": "Kemp smrti",
+      "year": 2022,
+      "display_name": "Kemp smrti (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "670070dc8b263",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24898652,
+      "size_bytes": 1833045683,
+      "uploaded_at": "2026-05-17T03:42:47Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 57.1,
+        "upload_sec": 67.3
+      }
     }
   ],
   "failed_attempts": [
@@ -47950,7 +47969,49 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/srdecni-zalezitost-2022-cz-dabing/0aa3a48457140a51",
       "permanent": true,
       "failed_at": "2026-05-17T03:33:15Z"
+    },
+    {
+      "cr_film_id": 10157,
+      "upload_id": "51883ed532c5000f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/51883ed532c5000f",
+      "permanent": true,
+      "failed_at": "2026-05-17T03:40:09Z"
+    },
+    {
+      "cr_film_id": 10157,
+      "upload_id": "4a734051daeab375",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/4a734051daeab375",
+      "permanent": true,
+      "failed_at": "2026-05-17T03:40:14Z"
+    },
+    {
+      "cr_film_id": 10157,
+      "upload_id": "537a7037f3efcab8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/537a7037f3efcab8",
+      "permanent": true,
+      "failed_at": "2026-05-17T03:40:20Z"
+    },
+    {
+      "cr_film_id": 10157,
+      "upload_id": "d80734d2c500b0ae",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/d80734d2c500b0ae",
+      "permanent": true,
+      "failed_at": "2026-05-17T03:40:25Z"
+    },
+    {
+      "cr_film_id": 10157,
+      "upload_id": "bb4e8a6aabb9e356",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/bb4e8a6aabb9e356",
+      "permanent": true,
+      "failed_at": "2026-05-17T03:40:31Z"
+    },
+    {
+      "cr_film_id": 10157,
+      "upload_id": "f2dab2e7f0fad7ab",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/f2dab2e7f0fad7ab",
+      "permanent": true,
+      "failed_at": "2026-05-17T03:40:36Z"
     }
   ],
-  "last_updated": "2026-05-17T03:40:07Z"
+  "last_updated": "2026-05-17T03:42:47Z"
 }
