@@ -50636,6 +50636,25 @@
         "download_sec": 123.9,
         "upload_sec": 128.2
       }
+    },
+    {
+      "cr_film_id": 10570,
+      "cr_slug": "cunik",
+      "title": "Čuník",
+      "year": 2022,
+      "display_name": "Čuník (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64e879e482958",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24904360,
+      "size_bytes": 1854852485,
+      "uploaded_at": "2026-05-17T10:10:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 90.2,
+        "upload_sec": 104.8
+      }
     }
   ],
   "failed_attempts": [
@@ -55106,5 +55125,5 @@
       "failed_at": "2026-05-17T09:49:02Z"
     }
   ],
-  "last_updated": "2026-05-17T10:06:47Z"
+  "last_updated": "2026-05-17T10:10:07Z"
 }
