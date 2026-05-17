@@ -17721,3 +17721,14 @@
 [15:20:52]   upload done video_id=24911947 in 34.4s
 [15:20:53] film cr_film_id=10922 OK in 62.5s
 [15:20:53] batch-end ok=20 failed=0 dur=2746.1s avg/film=137.3s remaining=14878 eta_hours=567.4
+
+===== run 2026-05-17T15:32:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25995047635) =====
+[15:32:37] batch-start shard=0/2 count=20 backlog=17650 uploads=2772 failed_attempts=641
+[15:32:37] login
+[15:32:39] login done
+[15:32:39] iteration 1/20
+[15:32:39] film cr_film_id=10924 name='Bůh odpouští, já ne! (1967) CZ Dabing' candidates=6
+[15:32:39]   candidate upload_id=4aa684f7767de6eb url=https://prehraj.to/buh-odpousti-ja-ne-1967-cz-dab-1080p/4aa684f7767de6eb
+[15:32:40]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/168140068/MEps6NIk8uEquN9S06fZqIpXt2Qi4jsBQiq…)
+[15:34:03]   downloaded 2,204.1 MB in 81.1s (27.2 MB/s)
+[15:35:49]   upload done video_id=24912387 in 105.8s
