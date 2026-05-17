@@ -49213,6 +49213,25 @@
         "download_sec": 60.5,
         "upload_sec": 77.5
       }
+    },
+    {
+      "cr_film_id": 10833,
+      "cr_slug": "cerny-petr",
+      "title": "Černý Petr",
+      "year": 1964,
+      "display_name": "Černý Petr (1964) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62cc3296e2398",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24902530,
+      "size_bytes": 2484964610,
+      "uploaded_at": "2026-05-17T08:26:17Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 107.1,
+        "upload_sec": 113.1
+      }
     }
   ],
   "failed_attempts": [
@@ -50373,5 +50392,5 @@
       "failed_at": "2026-05-17T07:46:03Z"
     }
   ],
-  "last_updated": "2026-05-17T08:22:33Z"
+  "last_updated": "2026-05-17T08:26:17Z"
 }
