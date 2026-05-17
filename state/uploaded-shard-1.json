@@ -45375,6 +45375,25 @@
         "download_sec": 13.2,
         "upload_sec": 15.8
       }
+    },
+    {
+      "cr_film_id": 9733,
+      "cr_slug": "meda-beda",
+      "title": "Méďa Béďa",
+      "year": 2010,
+      "display_name": "Méďa Béďa (2010) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6608b895f403d4dc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24895473,
+      "size_bytes": 971519379,
+      "uploaded_at": "2026-05-17T00:35:45Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 32.9,
+        "upload_sec": 44.8
+      }
     }
   ],
   "failed_attempts": [
@@ -46381,5 +46400,5 @@
       "failed_at": "2026-05-16T23:41:10Z"
     }
   ],
-  "last_updated": "2026-05-17T00:34:23Z"
+  "last_updated": "2026-05-17T00:35:45Z"
 }
