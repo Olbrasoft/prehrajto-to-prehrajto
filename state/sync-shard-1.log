@@ -18281,3 +18281,14 @@
 [22:07:56]   upload done video_id=24917996 in 25.0s
 [22:07:58] film cr_film_id=11397 OK in 50.2s
 [22:07:58] batch-end ok=20 failed=0 dur=2399.6s avg/film=120.0s remaining=14846 eta_hours=494.9
+
+===== run 2026-05-17T22:08:41Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26004111734) =====
+[22:08:43] batch-start shard=1/2 count=20 backlog=17650 uploads=2804 failed_attempts=164
+[22:08:43] login
+[22:08:44] login done
+[22:08:44] iteration 1/20
+[22:08:44] film cr_film_id=11399 name='Superpolda (1980) CZ Dabing' candidates=1
+[22:08:44]   candidate upload_id=b460bdc87270d338 url=https://prehraj.to/superpolda-1980-cz-dab-400p/b460bdc87270d338
+[22:08:46]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/167673029/nP5cMaiXmTY3TL2FqXt3OilGu3McgRhp9tq…)
+[22:09:11]   downloaded 525.4 MB in 23.1s (22.7 MB/s)
+[22:09:40]   upload done video_id=24918008 in 29.0s
