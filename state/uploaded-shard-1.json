@@ -47256,6 +47256,25 @@
         "download_sec": 44.1,
         "upload_sec": 59.5
       }
+    },
+    {
+      "cr_film_id": 10263,
+      "cr_slug": "vecirek-2021",
+      "title": "Večírek",
+      "year": 2021,
+      "display_name": "Večírek (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58653511bd5f11e2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24899216,
+      "size_bytes": 399213045,
+      "uploaded_at": "2026-05-17T04:26:17Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 14.5,
+        "upload_sec": 19.4
+      }
     }
   ],
   "failed_attempts": [
@@ -48372,7 +48391,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/f2dab2e7f0fad7ab",
       "permanent": true,
       "failed_at": "2026-05-17T03:40:36Z"
+    },
+    {
+      "cr_film_id": 10263,
+      "upload_id": "845df9ef838cfc1a",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/vecirek-smrti-2021-cz-dabing-hd-mp4/845df9ef838cfc1a",
+      "permanent": true,
+      "failed_at": "2026-05-17T04:25:36Z"
     }
   ],
-  "last_updated": "2026-05-17T04:25:33Z"
+  "last_updated": "2026-05-17T04:26:17Z"
 }
