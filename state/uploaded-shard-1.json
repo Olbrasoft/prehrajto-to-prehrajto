@@ -52709,6 +52709,25 @@
         "download_sec": 765.1,
         "upload_sec": 199.3
       }
+    },
+    {
+      "cr_film_id": 11323,
+      "cr_slug": "probuzeni-1980",
+      "title": "Probuzení",
+      "year": 1980,
+      "display_name": "Probuzení (1980) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ac5867311216011f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24917260,
+      "size_bytes": 1726751246,
+      "uploaded_at": "2026-05-17T21:04:46Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 310.3,
+        "upload_sec": 100.4
+      }
     }
   ],
   "failed_attempts": [
@@ -53890,5 +53909,5 @@
       "failed_at": "2026-05-17T14:38:53Z"
     }
   ],
-  "last_updated": "2026-05-17T20:57:50Z"
+  "last_updated": "2026-05-17T21:04:46Z"
 }
