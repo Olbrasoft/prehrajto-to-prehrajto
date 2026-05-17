@@ -47902,6 +47902,25 @@
         "download_sec": 44.5,
         "upload_sec": 63.5
       }
+    },
+    {
+      "cr_film_id": 10469,
+      "cr_slug": "opici-agent",
+      "title": "Opičí agent",
+      "year": 2021,
+      "display_name": "Opičí agent (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "615024560d271",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24900248,
+      "size_bytes": 1273799157,
+      "uploaded_at": "2026-05-17T05:56:19Z",
+      "timing": {
+        "resolve_sec": 106.7,
+        "download_sec": 41.3,
+        "upload_sec": 52.7
+      }
     }
   ],
   "failed_attempts": [
@@ -49027,5 +49046,5 @@
       "failed_at": "2026-05-17T04:25:36Z"
     }
   ],
-  "last_updated": "2026-05-17T05:52:56Z"
+  "last_updated": "2026-05-17T05:56:19Z"
 }
