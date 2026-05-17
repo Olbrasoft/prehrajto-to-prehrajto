@@ -46857,6 +46857,25 @@
         "download_sec": 33.9,
         "upload_sec": 41.3
       }
+    },
+    {
+      "cr_film_id": 10155,
+      "cr_slug": "maturitni-ples-2008",
+      "title": "Maturitní ples",
+      "year": 2008,
+      "display_name": "Maturitní ples (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a31d488aa23e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24898631,
+      "size_bytes": 375569514,
+      "uploaded_at": "2026-05-17T03:40:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 11.8,
+        "upload_sec": 24.8
+      }
     }
   ],
   "failed_attempts": [
@@ -47933,5 +47952,5 @@
       "failed_at": "2026-05-17T03:33:15Z"
     }
   ],
-  "last_updated": "2026-05-17T03:39:27Z"
+  "last_updated": "2026-05-17T03:40:07Z"
 }
