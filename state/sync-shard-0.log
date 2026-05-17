@@ -15703,3 +15703,17 @@
 [03:22:29]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/38189128/NdLTjPUEWhXlfGLuLmu6rUp6S0kFlkuQWu65…)
 [03:23:35]   downloaded 2,280.7 MB in 64.9s (35.1 MB/s)
 [03:24:55]   upload done video_id=24898480 in 79.3s
+[03:24:56] film cr_film_id=9682 OK in 148.2s
+[03:24:56] iteration 5/20
+[03:24:56] film cr_film_id=9686 name='LOVEní (2019) CZ Dabing' candidates=2
+[03:24:56]   candidate upload_id=6a4bccc49daedb40 url=https://prehraj.to/loveni-2019-cz-dab-1080p/6a4bccc49daedb40
+[03:24:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/loveni-2019-cz-dab-1080p/6a4bccc49daedb40 (permanent=True)
+[03:24:57]   candidate upload_id=b83c416453f2ea83 url=https://prehraj.to/loveni-2019-cz-dab-1080p/b83c416453f2ea83
+[03:25:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/loveni-2019-cz-dab-1080p/b83c416453f2ea83 (permanent=True)
+[03:25:02] film cr_film_id=9686 all candidates exhausted
+[03:25:02] iteration 6/20
+[03:25:02] film cr_film_id=9690 name='Dvě nevěsty a jedna svatba (2018) CZ Dabing' candidates=16
+[03:25:02]   candidate upload_id=605a8b1dd8904 url=https://prehraj.to/dve-nevesty-a-jedna-svatba-2018-cz-dabing/605a8b1dd8904
+[03:25:08]   resolved in 6.1s → 480p (https://pf-storage5.premiumcdn.net/22786820/1jkILmsPEfpKfa0imMTxAs3aixbhOdcEJija…)
+[03:25:29]   downloaded 550.1 MB in 19.0s (29.0 MB/s)
+[03:25:56]   upload done video_id=24898498 in 28.0s
