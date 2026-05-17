@@ -15525,3 +15525,14 @@
 [02:07:02]   upload done video_id=24897489 in 73.8s
 [02:07:03] film cr_film_id=9604 OK in 135.8s
 [02:07:03] batch-end ok=20 failed=0 dur=2101.4s avg/film=105.1s remaining=15172 eta_hours=442.9
+
+===== run 2026-05-17T02:16:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25978896948) =====
+[02:16:05] batch-start shard=0/2 count=20 backlog=17650 uploads=2478 failed_attempts=627
+[02:16:05] login
+[02:16:06] login done
+[02:16:06] iteration 1/20
+[02:16:06] film cr_film_id=9606 name='Noc, kdy můj táta zachránil Vánoce 2 (2025) CZ Dabing' candidates=1
+[02:16:06]   candidate upload_id=cfeca7a3d3bba51e url=https://prehraj.to/noc-kdy-muj-tata-zachranil-vanoce-2-2025-cz-dab-1080p/cfeca7a3d3bba51e
+[02:16:07]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/157015745/yE6i0EU9vcoqhvqIyEFPZUblu4eux3Cb1hy…)
+[02:17:30]   downloaded 2,045.4 MB in 80.6s (25.4 MB/s)
+[02:19:27]   upload done video_id=24897623 in 116.6s
