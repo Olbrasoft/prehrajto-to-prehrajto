@@ -53260,6 +53260,25 @@
         "download_sec": 24.5,
         "upload_sec": 27.7
       }
+    },
+    {
+      "cr_film_id": 11397,
+      "cr_slug": "outland",
+      "title": "Outland",
+      "year": 1981,
+      "display_name": "Outland (1981) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bdd9c3cac8fc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24917996,
+      "size_bytes": 481635978,
+      "uploaded_at": "2026-05-17T22:07:56Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 20.9,
+        "upload_sec": 25.0
+      }
     }
   ],
   "failed_attempts": [
@@ -54441,5 +54460,5 @@
       "failed_at": "2026-05-17T14:38:53Z"
     }
   ],
-  "last_updated": "2026-05-17T22:07:06Z"
+  "last_updated": "2026-05-17T22:07:56Z"
 }
