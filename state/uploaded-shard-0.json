@@ -49192,6 +49192,25 @@
         "download_sec": 64.1,
         "upload_sec": 74.2
       }
+    },
+    {
+      "cr_film_id": 10114,
+      "cr_slug": "blazena-samota",
+      "title": "Blažená samota",
+      "year": 2022,
+      "display_name": "Blažená samota (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "665b348477d55",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24900743,
+      "size_bytes": 3551003918,
+      "uploaded_at": "2026-05-17T06:29:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 106.5,
+        "upload_sec": 149.5
+      }
     }
   ],
   "failed_attempts": [
@@ -53648,5 +53667,5 @@
       "failed_at": "2026-05-17T05:53:51Z"
     }
   ],
-  "last_updated": "2026-05-17T06:25:39Z"
+  "last_updated": "2026-05-17T06:29:59Z"
 }
