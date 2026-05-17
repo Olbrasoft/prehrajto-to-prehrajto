@@ -53450,6 +53450,25 @@
         "download_sec": 27.6,
         "upload_sec": 34.2
       }
+    },
+    {
+      "cr_film_id": 11417,
+      "cr_slug": "48-hodin",
+      "title": "48 hodin",
+      "year": 1982,
+      "display_name": "48 hodin (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "680452708099f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24918405,
+      "size_bytes": 4620791219,
+      "uploaded_at": "2026-05-17T22:28:22Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 162.2,
+        "upload_sec": 215.3
+      }
     }
   ],
   "failed_attempts": [
@@ -54631,5 +54650,5 @@
       "failed_at": "2026-05-17T14:38:53Z"
     }
   ],
-  "last_updated": "2026-05-17T22:22:00Z"
+  "last_updated": "2026-05-17T22:28:22Z"
 }
