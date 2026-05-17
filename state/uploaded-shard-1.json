@@ -45812,6 +45812,25 @@
         "download_sec": 18.3,
         "upload_sec": 22.3
       }
+    },
+    {
+      "cr_film_id": 9839,
+      "cr_slug": "nekdo-to-rad-plesate",
+      "title": "Někdo to rád plešaté",
+      "year": 2025,
+      "display_name": "Někdo to rád plešaté (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b0c9fdce8a6468f1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24896890,
+      "size_bytes": 1832909202,
+      "uploaded_at": "2026-05-17T01:37:14Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 81.5,
+        "upload_sec": 110.6
+      }
     }
   ],
   "failed_attempts": [
@@ -46830,7 +46849,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/osudny-vikend-2019-cz-dabing-hd-mp4/802157e44b30ccb5",
       "permanent": true,
       "failed_at": "2026-05-17T00:52:24Z"
+    },
+    {
+      "cr_film_id": 9839,
+      "upload_id": "dedba399578bafbd",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nekdo-to-rad-plesate-2025-cz-dab-1080p/dedba399578bafbd",
+      "permanent": true,
+      "failed_at": "2026-05-17T01:33:53Z"
     }
   ],
-  "last_updated": "2026-05-17T01:33:51Z"
+  "last_updated": "2026-05-17T01:37:14Z"
 }
