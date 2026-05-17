@@ -17548,3 +17548,14 @@
 [14:33:21]   upload done video_id=24911129 in 116.1s
 [14:33:23] film cr_film_id=11137 OK in 198.0s
 [14:33:23] batch-end ok=19 failed=1 dur=3023.7s avg/film=159.1s remaining=14946 eta_hours=660.5
+
+===== run 2026-05-17T14:35:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25993706848) =====
+[14:35:03] batch-start shard=1/2 count=20 backlog=17650 uploads=2704 failed_attempts=163
+[14:35:03] login
+[14:35:04] login done
+[14:35:04] iteration 1/20
+[14:35:04] film cr_film_id=11139 name='Na titulní straně (1974) CZ' candidates=2
+[14:35:04]   candidate upload_id=5a9dfd6e11003 url=https://prehraj.to/na-titulni-strane-1974/5a9dfd6e11003
+[14:35:05]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/3551176/JPnsxbIN5IkNfwjUXJiwKIdnHxztLmtJBFrpS…)
+[14:35:38]   downloaded 840.5 MB in 31.5s (26.7 MB/s)
+[14:36:14]   upload done video_id=24911182 in 36.5s
