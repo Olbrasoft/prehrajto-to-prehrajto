@@ -46914,6 +46914,25 @@
         "download_sec": 35.5,
         "upload_sec": 40.4
       }
+    },
+    {
+      "cr_film_id": 10169,
+      "cr_slug": "bourak",
+      "title": "Bourák",
+      "year": 2020,
+      "display_name": "Bourák (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60729d255e33b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24898761,
+      "size_bytes": 502707268,
+      "uploaded_at": "2026-05-17T03:56:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.5,
+        "upload_sec": 19.6
+      }
     }
   ],
   "failed_attempts": [
@@ -48032,5 +48051,5 @@
       "failed_at": "2026-05-17T03:40:36Z"
     }
   ],
-  "last_updated": "2026-05-17T03:44:07Z"
+  "last_updated": "2026-05-17T03:56:43Z"
 }
