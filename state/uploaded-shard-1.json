@@ -48149,6 +48149,25 @@
         "download_sec": 37.6,
         "upload_sec": 46.6
       }
+    },
+    {
+      "cr_film_id": 10625,
+      "cr_slug": "bumblebee",
+      "title": "Bumblebee",
+      "year": 2018,
+      "display_name": "Bumblebee (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d11f54b58a5b6e4a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24900632,
+      "size_bytes": 1703362186,
+      "uploaded_at": "2026-05-17T06:21:00Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 70.3,
+        "upload_sec": 90.0
+      }
     }
   ],
   "failed_attempts": [
@@ -49274,5 +49293,5 @@
       "failed_at": "2026-05-17T04:25:36Z"
     }
   ],
-  "last_updated": "2026-05-17T06:18:14Z"
+  "last_updated": "2026-05-17T06:21:00Z"
 }
