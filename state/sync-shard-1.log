@@ -16967,3 +16967,14 @@
 [10:00:26]   upload done video_id=24903726 in 34.5s
 [10:00:27] film cr_film_id=10925 OK in 65.9s
 [10:00:27] batch-end ok=20 failed=0 dur=2047.9s avg/film=102.4s remaining=15024 eta_hours=427.3
+
+===== run 2026-05-17T10:29:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25988352685) =====
+[10:29:55] batch-start shard=1/2 count=20 backlog=17650 uploads=2626 failed_attempts=161
+[10:29:55] login
+[10:29:58] login done
+[10:29:58] iteration 1/20
+[10:29:58] film cr_film_id=10931 name='Blázni ve válce (1967) CZ Dabing' candidates=2
+[10:29:58]   candidate upload_id=29383f1d3f77dfb3 url=https://prehraj.to/blazni-ve-valce-1969-cz-dab-400p/29383f1d3f77dfb3
+[10:29:59]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/166990838/AnoiZXfO3cxpt8gSB1f25fQ8iR8SrzCMgu3…)
+[10:30:52]   downloaded 1,110.1 MB in 50.5s (22.0 MB/s)
+[10:31:51]   upload done video_id=24906764 in 58.9s
