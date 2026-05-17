@@ -16092,3 +16092,14 @@
 [05:08:14]   upload done video_id=24899699 in 61.0s
 [05:08:15] film cr_film_id=10389 OK in 107.6s
 [05:08:15] batch-end ok=20 failed=0 dur=2325.0s avg/film=116.2s remaining=15141 eta_hours=488.7
+
+===== run 2026-05-17T05:33:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25982467016) =====
+[05:33:01] batch-start shard=1/2 count=20 backlog=17650 uploads=2509 failed_attempts=156
+[05:33:01] login
+[05:33:02] login done
+[05:33:02] iteration 1/20
+[05:33:02] film cr_film_id=10395 name='Pařba všech pařeb: Poslední kocovina (2014) CZ Dabing' candidates=7
+[05:33:02]   candidate upload_id=5b88d6c70b1ac url=https://prehraj.to/parba-vsech-pareb-posledni-kocovina-2014-cz-dabing/5b88d6c70b1ac
+[05:33:03]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/5666593/WBZTolSwLtBNHzZCABI6WSKvSzlswPtL3FBGU…)
+[05:33:29]   downloaded 727.3 MB in 24.3s (29.9 MB/s)
+[05:34:05]   upload done video_id=24899994 in 36.2s
