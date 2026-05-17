@@ -47769,6 +47769,25 @@
         "download_sec": 35.3,
         "upload_sec": 48.4
       }
+    },
+    {
+      "cr_film_id": 10427,
+      "cr_slug": "365-dni",
+      "title": "365 dní",
+      "year": 2020,
+      "display_name": "365 dní (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c5b2f8670021f0f9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24900085,
+      "size_bytes": 2712304165,
+      "uploaded_at": "2026-05-17T05:43:28Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 77.2,
+        "upload_sec": 106.8
+      }
     }
   ],
   "failed_attempts": [
@@ -48894,5 +48913,5 @@
       "failed_at": "2026-05-17T04:25:36Z"
     }
   ],
-  "last_updated": "2026-05-17T05:40:19Z"
+  "last_updated": "2026-05-17T05:43:28Z"
 }
