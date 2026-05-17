@@ -46437,6 +46437,25 @@
         "download_sec": 43.1,
         "upload_sec": 54.4
       }
+    },
+    {
+      "cr_film_id": 9460,
+      "cr_slug": "y2k",
+      "title": "Y2K",
+      "year": 2024,
+      "display_name": "Y2K (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "aaa2caefa3ffd4e9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24895985,
+      "size_bytes": 2493031829,
+      "uploaded_at": "2026-05-17T01:01:41Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 70.4,
+        "upload_sec": 100.6
+      }
     }
   ],
   "failed_attempts": [
@@ -50865,5 +50884,5 @@
       "failed_at": "2026-05-17T00:23:14Z"
     }
   ],
-  "last_updated": "2026-05-17T00:58:46Z"
+  "last_updated": "2026-05-17T01:01:41Z"
 }
