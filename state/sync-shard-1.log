@@ -17257,3 +17257,14 @@
 [12:37:16]   upload done video_id=24909159 in 117.3s
 [12:37:18] film cr_film_id=11025 OK in 216.2s
 [12:37:18] batch-end ok=20 failed=0 dur=3461.2s avg/film=173.1s remaining=14985 eta_hours=720.5
+
+===== run 2026-05-17T12:37:31Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25990577106) =====
+[12:37:33] batch-start shard=1/2 count=20 backlog=17650 uploads=2665 failed_attempts=162
+[12:37:33] login
+[12:37:34] login done
+[12:37:34] iteration 1/20
+[12:37:34] film cr_film_id=11033 name='Rio Lobo (1970) CZ Dabing' candidates=4
+[12:37:34]   candidate upload_id=5c27045e4eed2 url=https://prehraj.to/rio-lobo-1970-cz-dabing/5c27045e4eed2
+[12:37:35]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/10161197/lYOHn4imquBGFoJTVvCZViK1Cglu0pU53Caq…)
+[12:37:59]   downloaded 739.8 MB in 22.3s (33.2 MB/s)
+[12:38:27]   upload done video_id=24909199 in 28.0s
