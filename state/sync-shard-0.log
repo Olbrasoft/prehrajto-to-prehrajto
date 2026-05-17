@@ -16638,3 +16638,15 @@
 [08:03:55]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/127279364/051s0xHvqI2QFobfYvUGNH8GSnpUqASknTy…)
 [08:05:40]   downloaded 2,667.0 MB in 103.1s (25.9 MB/s)
 [08:08:01]   upload done video_id=24902239 in 140.3s
+[08:08:02] film cr_film_id=10328 OK in 248.6s
+[08:08:02] iteration 14/20
+[08:08:02] film cr_film_id=10334 name='Jak přežít svého muže (2023) CZ' candidates=1
+[08:08:02]   candidate upload_id=14b7f74113b2e7d2 url=https://prehraj.to/jak-prezit-sveho-muze-2023-mp4/14b7f74113b2e7d2
+[08:08:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jak-prezit-sveho-muze-2023-mp4/14b7f74113b2e7d2 (permanent=True)
+[08:08:03] film cr_film_id=10334 all candidates exhausted
+[08:08:03] iteration 15/20
+[08:08:03] film cr_film_id=10340 name='Poslušné panenky (2021) CZ Dabing' candidates=6
+[08:08:03]   candidate upload_id=626084a3dd804 url=https://prehraj.to/poslusne-panenky-2021-czdabing/626084a3dd804
+[08:08:10]   resolved in 7.0s → 1080p (https://pf-storage1.premiumcdn.net/30544991/o8mIjZFlXTkBhD2svzfL7FymUQGCjXhZ4Ido…)
+[08:09:24]   downloaded 1,672.4 MB in 71.7s (23.3 MB/s)
+[08:10:46]   upload done video_id=24902293 in 81.9s
