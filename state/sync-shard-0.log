@@ -16687,3 +16687,14 @@
 [08:22:30]   upload done video_id=24902488 in 70.0s
 [08:22:32] film cr_film_id=10370 OK in 129.2s
 [08:22:32] batch-end ok=19 failed=1 dur=3105.8s avg/film=163.5s remaining=15016 eta_hours=682.0
+
+===== run 2026-05-17T08:22:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25984743236) =====
+[08:22:47] batch-start shard=0/2 count=20 backlog=17650 uploads=2634 failed_attempts=632
+[08:22:47] login
+[08:22:49] login done
+[08:22:49] iteration 1/20
+[08:22:49] film cr_film_id=10374 name='Ve špatný čas, na špatném místě (2022) CZ Dabing' candidates=2
+[08:22:49]   candidate upload_id=637871ee6dfa5 url=https://prehraj.to/ve-spatny-cas-na-spatnem-miste-wrong-place-2022-fullhd-1080p-cz-dabing/637871ee6dfa5
+[08:22:50]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/34722256/25ZTBoHAaF6Rs1NheBhZEHzkcx3cRGhapFe7…)
+[08:23:55]   downloaded 1,536.0 MB in 63.5s (24.2 MB/s)
+[08:25:21]   upload done video_id=24902521 in 85.4s
