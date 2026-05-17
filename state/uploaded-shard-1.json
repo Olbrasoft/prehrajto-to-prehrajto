@@ -49384,6 +49384,25 @@
         "download_sec": 22.6,
         "upload_sec": 29.0
       }
+    },
+    {
+      "cr_film_id": 10855,
+      "cr_slug": "fantomas",
+      "title": "Fantomas",
+      "year": 1964,
+      "display_name": "Fantomas (1964) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6730421ec1ba9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24902779,
+      "size_bytes": 2627596732,
+      "uploaded_at": "2026-05-17T08:46:23Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 85.7,
+        "upload_sec": 115.2
+      }
     }
   ],
   "failed_attempts": [
@@ -50544,5 +50563,5 @@
       "failed_at": "2026-05-17T07:46:03Z"
     }
   ],
-  "last_updated": "2026-05-17T08:42:59Z"
+  "last_updated": "2026-05-17T08:46:23Z"
 }
