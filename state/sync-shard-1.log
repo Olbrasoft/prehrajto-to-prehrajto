@@ -16546,3 +16546,15 @@
 [07:32:51]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/47868521/ml0tmdI0VtEpTbLsALS80I7VU4mTO0C1ZcX6…)
 [07:35:51]   downloaded 4,455.0 MB in 177.4s (25.1 MB/s)
 [07:39:09]   upload done video_id=24901644 in 198.4s
+[07:39:11] film cr_film_id=10767 OK in 380.6s
+[07:39:11] iteration 2/20
+[07:39:11] film cr_film_id=10775 name='Dáždnik svätého Petra (1958) CZ Dabing' candidates=1
+[07:39:11]   candidate upload_id=3278cbbb73dc9a26 url=https://prehraj.to/dazdnik-svaeteho-petra-1958-cz-dabing/3278cbbb73dc9a26
+[07:39:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dazdnik-svaeteho-petra-1958-cz-dabing/3278cbbb73dc9a26 (permanent=True)
+[07:39:12] film cr_film_id=10775 all candidates exhausted
+[07:39:12] iteration 3/20
+[07:39:12] film cr_film_id=10777 name='Tři přání (1959) CZ' candidates=2
+[07:39:12]   candidate upload_id=60ad55c160d66 url=https://prehraj.to/tri-prani-komedie-1958-cz/60ad55c160d66
+[07:39:18]   resolved in 6.0s → 1080p (https://pf-storage5.premiumcdn.net/23664294/mx6sz7cqyTVpU26fjPtZPcg2iq0Ta0ImXTZx…)
+[07:40:35]   downloaded 1,828.2 MB in 75.3s (24.3 MB/s)
+[07:41:59]   upload done video_id=24901729 in 84.3s
