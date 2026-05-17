@@ -17425,3 +17425,14 @@
 [13:03:17]   upload done video_id=24909531 in 34.7s
 [13:03:19] film cr_film_id=10816 OK in 241.6s
 [13:03:19] batch-end ok=20 failed=0 dur=2585.2s avg/film=129.3s remaining=14917 eta_hours=535.8
+
+===== run 2026-05-17T13:03:32Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25991079251) =====
+[13:03:33] batch-start shard=0/2 count=20 backlog=17650 uploads=2733 failed_attempts=638
+[13:03:33] login
+[13:03:35] login done
+[13:03:35] iteration 1/20
+[13:03:35] film cr_film_id=10818 name='Dr. No (1962) CZ Dabing' candidates=3
+[13:03:35]   candidate upload_id=59341d9449de6 url=https://prehraj.to/007-james-bond-dr-no-cz-dabing-1962-lehi/59341d9449de6
+[13:03:36]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/2291352/3WNimVfQ2Sm5UNpSDvUdYfPaFJpUeJS80ur4I…)
+[13:04:20]   downloaded 724.1 MB in 41.2s (17.6 MB/s)
+[13:05:01]   upload done video_id=24909548 in 41.2s
