@@ -18451,3 +18451,14 @@
 [23:06:35]   upload done video_id=24921680 in 26.0s
 [23:06:37] film cr_film_id=11162 OK in 54.6s
 [23:06:37] batch-end ok=20 failed=0 dur=3471.3s avg/film=173.6s remaining=14778 eta_hours=712.6
+
+===== run 2026-05-17T23:07:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26005397931) =====
+[23:07:49] batch-start shard=0/2 count=20 backlog=17650 uploads=2872 failed_attempts=641
+[23:07:49] login
+[23:07:51] login done
+[23:07:51] iteration 1/20
+[23:07:51] film cr_film_id=11164 name='V jakém znamení ses narodil? (1975) CZ Dabing' candidates=2
+[23:07:51]   candidate upload_id=67eb9e49d204b url=https://prehraj.to/paolo-villaggio-v-jakem-znameni-ses-narodil-1975-cz-dab-remasted-paolo-villaggio/67eb9e49d204b
+[23:07:53]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/133866845/1qvTk9U48fnlfV7I02sjZU9KI68SD2TrDi7…)
+[23:08:49]   downloaded 1,196.6 MB in 54.2s (22.1 MB/s)
+[23:10:01]   upload done video_id=24921873 in 72.2s
