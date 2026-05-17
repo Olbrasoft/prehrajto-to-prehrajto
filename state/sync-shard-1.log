@@ -17843,3 +17843,14 @@
 [16:43:27]   upload done video_id=24913595 in 27.5s
 [16:43:28] film cr_film_id=11243 OK in 166.1s
 [16:43:28] batch-end ok=20 failed=0 dur=4249.7s avg/film=212.5s remaining=14906 eta_hours=879.9
+
+===== run 2026-05-17T16:48:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25996823189) =====
+[16:48:19] batch-start shard=1/2 count=20 backlog=17650 uploads=2744 failed_attempts=164
+[16:48:19] login
+[16:48:20] login done
+[16:48:20] iteration 1/20
+[16:48:20] film cr_film_id=11249 name='Klec bláznů (1978) CZ' candidates=1
+[16:48:20]   candidate upload_id=5ac55615965c8 url=https://prehraj.to/klec-blaznu-1978/5ac55615965c8
+[16:48:21]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/3827502/9YyTO8h50fDofRaFbyHN9hYBuqBUn0TgNIvkF…)
+[16:49:02]   downloaded 1,038.4 MB in 38.7s (26.8 MB/s)
+[16:49:46]   upload done video_id=24913691 in 44.2s
