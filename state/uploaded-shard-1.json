@@ -53013,6 +53013,25 @@
         "download_sec": 66.7,
         "upload_sec": 78.5
       }
+    },
+    {
+      "cr_film_id": 11367,
+      "cr_slug": "bananovy-joe",
+      "title": "Banánový Joe",
+      "year": 1982,
+      "display_name": "Banánový Joe (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bdd4e68179bd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24917748,
+      "size_bytes": 1204358199,
+      "uploaded_at": "2026-05-17T21:47:18Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 49.2,
+        "upload_sec": 63.7
+      }
     }
   ],
   "failed_attempts": [
@@ -54194,5 +54213,5 @@
       "failed_at": "2026-05-17T14:38:53Z"
     }
   ],
-  "last_updated": "2026-05-17T21:45:21Z"
+  "last_updated": "2026-05-17T21:47:18Z"
 }
