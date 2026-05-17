@@ -16107,3 +16107,14 @@
 [05:32:16]   upload done video_id=24899955 in 142.5s
 [05:32:17] film cr_film_id=9932 OK in 259.7s
 [05:32:17] batch-end ok=20 failed=0 dur=3766.1s avg/film=188.3s remaining=15094 eta_hours=789.5
+
+===== run 2026-05-17T05:33:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25982467016) =====
+[05:33:04] batch-start shard=0/2 count=20 backlog=17650 uploads=2556 failed_attempts=630
+[05:33:04] login
+[05:33:05] login done
+[05:33:05] iteration 1/20
+[05:33:05] film cr_film_id=9934 name='Závod s časem (2013) CZ Dabing' candidates=5
+[05:33:05]   candidate upload_id=56826b62a4a54 url=https://prehraj.to/getaway-2013-cz-dab-p-p/56826b62a4a54
+[05:33:06]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/522392/mVRsxRfljT4otMDceWiV1f0ATm6H4qIVqTjbU8…)
+[05:33:27]   downloaded 603.9 MB in 19.7s (30.7 MB/s)
+[05:34:00]   upload done video_id=24899993 in 32.9s
