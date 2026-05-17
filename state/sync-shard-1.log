@@ -16238,3 +16238,14 @@
 [06:08:27]   upload done video_id=24900396 in 38.1s
 [06:08:28] film cr_film_id=10571 OK in 69.6s
 [06:08:28] batch-end ok=20 failed=0 dur=2125.4s avg/film=106.3s remaining=15121 eta_hours=446.5
+
+===== run 2026-05-17T06:09:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25983144954) =====
+[06:09:29] batch-start shard=1/2 count=20 backlog=17650 uploads=2529 failed_attempts=156
+[06:09:29] login
+[06:09:31] login done
+[06:09:31] iteration 1/20
+[06:09:31] film cr_film_id=10583 name='Rakeťák (2022) CZ Dabing' candidates=5
+[06:09:31]   candidate upload_id=3a08a9f5193dcb3d url=https://prehraj.to/raketak-buzz-lightyear-2022-webrip-cz-dabing-mp4/3a08a9f5193dcb3d
+[06:09:32]   resolved in 1.4s → 480p (https://pf-storage3.premiumcdn.net/165898898/568FAmiwoH2rsq3UJqTMoiW4H9GSykfv2U5…)
+[06:10:02]   downloaded 617.8 MB in 27.7s (22.3 MB/s)
+[06:10:38]   upload done video_id=24900443 in 36.0s
