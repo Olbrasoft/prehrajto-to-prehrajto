@@ -15946,3 +15946,14 @@
 [04:29:04]   upload done video_id=24899233 in 91.3s
 [04:29:05] film cr_film_id=10271 OK in 167.3s
 [04:29:05] batch-end ok=20 failed=0 dur=1982.5s avg/film=99.1s remaining=15161 eta_hours=417.3
+
+===== run 2026-05-17T04:29:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25981329968) =====
+[04:29:29] batch-start shard=1/2 count=20 backlog=17650 uploads=2489 failed_attempts=156
+[04:29:29] login
+[04:29:30] login done
+[04:29:30] iteration 1/20
+[04:29:30] film cr_film_id=10275 name='Cesta utrpení (2018) CZ Dabing' candidates=14
+[04:29:30]   candidate upload_id=5c66a5daa6e00 url=https://prehraj.to/cesta-utrpeni-attrition-2018-hdrip-cz-dabing-m3/5c66a5daa6e00
+[04:29:31]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/11794489/59KtL3I6muQRS6ps2WtmrIZRTjatV4iPgs5a…)
+[04:30:12]   downloaded 1,330.5 MB in 39.0s (34.1 MB/s)
+[04:31:01]   upload done video_id=24899270 in 49.1s
