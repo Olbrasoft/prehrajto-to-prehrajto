@@ -47180,6 +47180,25 @@
         "download_sec": 65.9,
         "upload_sec": 78.8
       }
+    },
+    {
+      "cr_film_id": 10231,
+      "cr_slug": "11-11-11",
+      "title": "11-11-11",
+      "year": 2011,
+      "display_name": "11-11-11 (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5821386ce17fc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24899148,
+      "size_bytes": 368693687,
+      "uploaded_at": "2026-05-17T04:20:26Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 12.2,
+        "upload_sec": 17.9
+      }
     }
   ],
   "failed_attempts": [
@@ -48298,5 +48317,5 @@
       "failed_at": "2026-05-17T03:40:36Z"
     }
   ],
-  "last_updated": "2026-05-17T04:19:52Z"
+  "last_updated": "2026-05-17T04:20:26Z"
 }
