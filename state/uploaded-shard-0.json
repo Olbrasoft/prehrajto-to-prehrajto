@@ -46608,6 +46608,25 @@
         "download_sec": 88.8,
         "upload_sec": 115.5
       }
+    },
+    {
+      "cr_film_id": 9500,
+      "cr_slug": "sayen",
+      "title": "Sayen",
+      "year": 2023,
+      "display_name": "Sayen (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65b95912a495e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24896316,
+      "size_bytes": 1052265520,
+      "uploaded_at": "2026-05-17T01:21:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.8,
+        "upload_sec": 42.7
+      }
     }
   ],
   "failed_attempts": [
@@ -51036,5 +51055,5 @@
       "failed_at": "2026-05-17T00:23:14Z"
     }
   ],
-  "last_updated": "2026-05-17T01:19:48Z"
+  "last_updated": "2026-05-17T01:21:10Z"
 }
