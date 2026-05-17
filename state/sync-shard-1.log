@@ -18135,3 +18135,14 @@
 [21:27:40]   upload done video_id=24917522 in 37.5s
 [21:27:42] film cr_film_id=11351 OK in 76.1s
 [21:27:42] batch-end ok=20 failed=0 dur=6985.3s avg/film=349.3s remaining=14866 eta_hours=1442.4
+
+===== run 2026-05-17T21:27:56Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26000552630) =====
+[21:27:57] batch-start shard=1/2 count=20 backlog=17650 uploads=2784 failed_attempts=164
+[21:27:57] login
+[21:27:58] login done
+[21:27:58] iteration 1/20
+[21:27:58] film cr_film_id=11353 name='Postřižiny (1981) CZ Dabing' candidates=2
+[21:27:58]   candidate upload_id=6735e9bb2e1d5 url=https://prehraj.to/postriziny-1980-cz-dab/6735e9bb2e1d5
+[21:28:00]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/105682208/lODiz8SEqsJnf6whr3IJVSqKH2nIXzTPqU2…)
+[21:29:55]   downloaded 3,111.5 MB in 113.3s (27.5 MB/s)
+[21:32:17]   upload done video_id=24917568 in 142.2s
