@@ -18159,3 +18159,14 @@
 [20:47:49]   upload done video_id=24917042 in 121.4s
 [20:47:51] film cr_film_id=11058 OK in 347.7s
 [20:47:51] batch-end ok=20 failed=0 dur=8941.7s avg/film=447.1s remaining=14818 eta_hours=1840.3
+
+===== run 2026-05-17T20:48:04Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26000552630) =====
+[20:48:06] batch-start shard=0/2 count=20 backlog=17650 uploads=2832 failed_attempts=641
+[20:48:06] login
+[20:48:07] login done
+[20:48:07] iteration 1/20
+[20:48:07] film cr_film_id=11060 name='Petrolejové lampy (1971) CZ' candidates=2
+[20:48:07]   candidate upload_id=64d22bfa475a3 url=https://prehraj.to/petrolejove-lampy-1971-drama-cesky-film/64d22bfa475a3
+[20:48:08]   resolved in 1.4s → 1080p (https://pf-storage1.premiumcdn.net/43184462/KLpuV2UX0f27TG5fxwTZdUv1FmohLztK0I2n…)
+[20:52:48]   downloaded 2,239.0 MB in 277.1s (8.1 MB/s)
+[20:54:39]   upload done video_id=24917128 in 111.7s
