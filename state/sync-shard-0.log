@@ -15379,3 +15379,14 @@
 [01:31:45]   upload done video_id=24896744 in 68.7s
 [01:31:47] film cr_film_id=9514 OK in 133.9s
 [01:31:47] batch-end ok=20 failed=0 dur=2837.6s avg/film=141.9s remaining=15192 eta_hours=598.8
+
+===== run 2026-05-17T01:31:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25977344427) =====
+[01:32:00] batch-start shard=0/2 count=20 backlog=17650 uploads=2458 failed_attempts=627
+[01:32:00] login
+[01:32:02] login done
+[01:32:02] iteration 1/20
+[01:32:02] film cr_film_id=9516 name='V bublině (2022) CZ Dabing' candidates=3
+[01:32:02]   candidate upload_id=624f2580cd819 url=https://prehraj.to/v-bubline-2022-czdab/624f2580cd819
+[01:32:03]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/30388250/rRWTQAu2duNvcVBH74I8YumPixqUDmCjeFO1…)
+[01:33:01]   downloaded 1,752.1 MB in 55.8s (31.4 MB/s)
+[01:34:11]   upload done video_id=24896818 in 70.3s
