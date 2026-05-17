@@ -47750,6 +47750,25 @@
         "download_sec": 48.9,
         "upload_sec": 72.0
       }
+    },
+    {
+      "cr_film_id": 10423,
+      "cr_slug": "zabijak-2023",
+      "title": "Assassin",
+      "year": 2023,
+      "display_name": "Assassin (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64b3dd6d50052",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24900057,
+      "size_bytes": 1186337989,
+      "uploaded_at": "2026-05-17T05:40:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 35.3,
+        "upload_sec": 48.4
+      }
     }
   ],
   "failed_attempts": [
@@ -48875,5 +48894,5 @@
       "failed_at": "2026-05-17T04:25:36Z"
     }
   ],
-  "last_updated": "2026-05-17T05:38:52Z"
+  "last_updated": "2026-05-17T05:40:19Z"
 }
