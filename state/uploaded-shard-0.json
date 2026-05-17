@@ -54151,6 +54151,25 @@
         "download_sec": 24.4,
         "upload_sec": 30.2
       }
+    },
+    {
+      "cr_film_id": 11108,
+      "cr_slug": "dva-hrdinove",
+      "title": "Dva hrdinové",
+      "year": 1974,
+      "display_name": "Dva hrdinové (1974) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67bd0aedc6ee2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24917685,
+      "size_bytes": 440524155,
+      "uploaded_at": "2026-05-17T21:40:57Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 30.1,
+        "upload_sec": 24.8
+      }
     }
   ],
   "failed_attempts": [
@@ -58677,5 +58696,5 @@
       "failed_at": "2026-05-17T14:12:17Z"
     }
   ],
-  "last_updated": "2026-05-17T21:39:57Z"
+  "last_updated": "2026-05-17T21:40:57Z"
 }
