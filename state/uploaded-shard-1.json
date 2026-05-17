@@ -46420,6 +46420,25 @@
         "download_sec": 59.1,
         "upload_sec": 62.9
       }
+    },
+    {
+      "cr_film_id": 10027,
+      "cr_slug": "spatny-vliv",
+      "title": "Špatný vliv",
+      "year": 2025,
+      "display_name": "Špatný vliv (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "685633f6c94b9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24897842,
+      "size_bytes": 1868035358,
+      "uploaded_at": "2026-05-17T02:36:30Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 50.9,
+        "upload_sec": 63.0
+      }
     }
   ],
   "failed_attempts": [
@@ -47482,5 +47501,5 @@
       "failed_at": "2026-05-17T02:13:36Z"
     }
   ],
-  "last_updated": "2026-05-17T02:34:33Z"
+  "last_updated": "2026-05-17T02:36:30Z"
 }
