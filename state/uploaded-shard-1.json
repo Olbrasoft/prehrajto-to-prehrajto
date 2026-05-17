@@ -45603,6 +45603,25 @@
         "download_sec": 67.6,
         "upload_sec": 80.8
       }
+    },
+    {
+      "cr_film_id": 9789,
+      "cr_slug": "neodbytny-bytny",
+      "title": "Neodbytný bytný",
+      "year": 2020,
+      "display_name": "Neodbytný bytný (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f5c0cc6258c0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24896083,
+      "size_bytes": 1489647108,
+      "uploaded_at": "2026-05-17T01:10:19Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 75.5,
+        "upload_sec": 87.0
+      }
     }
   ],
   "failed_attempts": [
@@ -46623,5 +46642,5 @@
       "failed_at": "2026-05-17T00:52:24Z"
     }
   ],
-  "last_updated": "2026-05-17T01:07:31Z"
+  "last_updated": "2026-05-17T01:10:19Z"
 }
