@@ -48850,6 +48850,25 @@
         "download_sec": 44.9,
         "upload_sec": 59.3
       }
+    },
+    {
+      "cr_film_id": 10014,
+      "cr_slug": "sibenice-2015",
+      "title": "Šibenice",
+      "year": 2015,
+      "display_name": "Šibenice (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59b755197b4c4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24900332,
+      "size_bytes": 449455538,
+      "uploaded_at": "2026-05-17T06:03:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.8,
+        "upload_sec": 23.4
+      }
     }
   ],
   "failed_attempts": [
@@ -53306,5 +53325,5 @@
       "failed_at": "2026-05-17T05:53:51Z"
     }
   ],
-  "last_updated": "2026-05-17T06:02:22Z"
+  "last_updated": "2026-05-17T06:03:04Z"
 }
