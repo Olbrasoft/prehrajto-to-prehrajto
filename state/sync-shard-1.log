@@ -17697,3 +17697,14 @@
 [15:30:49]   upload done video_id=24912344 in 79.9s
 [15:30:50] film cr_film_id=11189 OK in 248.4s
 [15:30:50] batch-end ok=20 failed=0 dur=3346.4s avg/film=167.3s remaining=14926 eta_hours=693.6
+
+===== run 2026-05-17T15:32:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25995047635) =====
+[15:32:37] batch-start shard=1/2 count=20 backlog=17650 uploads=2724 failed_attempts=164
+[15:32:37] login
+[15:32:39] login done
+[15:32:39] iteration 1/20
+[15:32:39] film cr_film_id=11191 name='Násilník (1976) CZ Dabing' candidates=6
+[15:32:39]   candidate upload_id=65e5ed3474ca1 url=https://prehraj.to/nasilnik-1976-cz-dabing-1080p-fullhd/65e5ed3474ca1
+[15:32:41]   resolved in 2.0s → 720p (https://pf-storage4.premiumcdn.net/74148365/347hbaUvOS7ZSorFk4CkqUBlhYXtE4c3ZFZl…)
+[15:34:36]   downloaded 2,083.6 MB in 113.4s (18.4 MB/s)
+[15:36:03]   upload done video_id=24912465 in 87.6s
