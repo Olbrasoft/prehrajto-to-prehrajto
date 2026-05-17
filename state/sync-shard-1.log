@@ -17989,3 +17989,14 @@
 [19:30:59]   upload done video_id=24916423 in 26.2s
 [19:31:00] film cr_film_id=11293 OK in 349.7s
 [19:31:00] batch-end ok=20 failed=0 dur=9760.3s avg/film=488.0s remaining=14886 eta_hours=2017.9
+
+===== run 2026-05-17T19:31:13Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25998889907) =====
+[19:31:15] batch-start shard=1/2 count=20 backlog=17650 uploads=2764 failed_attempts=164
+[19:31:15] login
+[19:31:17] login done
+[19:31:17] iteration 1/20
+[19:31:17] film cr_film_id=11297 name='Četník a mimozemšťané (1979) CZ Dabing' candidates=7
+[19:31:17]   candidate upload_id=68731b443a0a4 url=https://prehraj.to/cetnik-a-mimozemstane-1979-komedie-sci-fi-cz-dab-fullhd-1080p/68731b443a0a4
+[19:31:18]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/141539582/rNRTk6uGgIYASv5hYDHNJuK0FEwi0kTEVC9…)
+[19:43:58]   downloaded 5,450.7 MB in 757.7s (7.2 MB/s)
+[19:48:50]   upload done video_id=24916511 in 292.4s
