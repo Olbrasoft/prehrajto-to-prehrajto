@@ -16543,3 +16543,14 @@
 [07:30:29]   upload done video_id=24901543 in 20.0s
 [07:30:30] film cr_film_id=10234 OK in 38.0s
 [07:30:30] batch-end ok=20 failed=0 dur=2224.5s avg/film=111.2s remaining=15035 eta_hours=464.4
+
+===== run 2026-05-17T07:30:43Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25983977163) =====
+[07:30:44] batch-start shard=0/2 count=20 backlog=17650 uploads=2615 failed_attempts=631
+[07:30:44] login
+[07:30:46] login done
+[07:30:46] iteration 1/20
+[07:30:46] film cr_film_id=10240 name='Star Trek: Oddíl 31 (2025) CZ Dabing' candidates=1
+[07:30:46]   candidate upload_id=8ce7e7ad5f0b228e url=https://prehraj.to/star-trek-section-31-2025-cz-dab-1080p/8ce7e7ad5f0b228e
+[07:30:47]   resolved in 1.4s → 1080p (https://pf-storage4.premiumcdn.net/155731457/nx5TedipxtXMF5aC8RtL9i60FmaHJLszeSe…)
+[07:32:19]   downloaded 2,308.0 MB in 89.6s (25.8 MB/s)
+[07:34:05]   upload done video_id=24901592 in 106.1s
