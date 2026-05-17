@@ -17575,3 +17575,14 @@
 [14:22:33]   upload done video_id=24910978 in 279.2s
 [14:22:35] film cr_film_id=10866 OK in 537.6s
 [14:22:35] batch-end ok=19 failed=1 dur=4740.2s avg/film=249.5s remaining=14898 eta_hours=1032.5
+
+===== run 2026-05-17T14:35:04Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/25993706848) =====
+[14:35:05] batch-start shard=0/2 count=20 backlog=17650 uploads=2752 failed_attempts=641
+[14:35:05] login
+[14:35:07] login done
+[14:35:07] iteration 1/20
+[14:35:07] film cr_film_id=10868 name='Angelika a král (1966) CZ Dabing' candidates=17
+[14:35:07]   candidate upload_id=568ea97016398 url=https://prehraj.to/angelika-a-kral-1966-czdab/568ea97016398
+[14:35:08]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/345940/QNdUGnsqXTWNhegUdPf2Ds8xT2JhrQTynTpPSa…)
+[14:36:23]   downloaded 2,200.0 MB in 73.8s (29.8 MB/s)
+[14:37:53]   upload done video_id=24911193 in 90.2s
