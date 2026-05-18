@@ -21806,3 +21806,14 @@
 [17:19:55]   upload done video_id=24955274 in 27.0s
 [17:19:56] film cr_film_id=12372 OK in 51.5s
 [17:19:56] batch-end ok=20 failed=0 dur=1859.7s avg/film=93.0s remaining=14323 eta_hours=370.0
+
+===== run 2026-05-18T17:37:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26049894136) =====
+[17:37:37] batch-start shard=0/2 count=20 backlog=17650 uploads=3327 failed_attempts=648
+[17:37:37] login
+[17:37:40] login done
+[17:37:40] iteration 1/20
+[17:37:40] film cr_film_id=12374 name='Velké naděje (1998) CZ' candidates=1
+[17:37:40]   candidate upload_id=6857676ac019c url=https://prehraj.to/velke-nadeje-1998-cz-en-1080p/6857676ac019c
+[17:37:41]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/140443325/VWJTw6sPmtKyiOXHz4F6vsoKH0vFg0f9YsX…)
+[17:39:17]   downloaded 2,230.2 MB in 94.1s (23.7 MB/s)
+[17:41:23]   upload done video_id=24955601 in 125.7s
