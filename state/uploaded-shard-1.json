@@ -64261,6 +64261,25 @@
         "download_sec": 151.1,
         "upload_sec": 186.1
       }
+    },
+    {
+      "cr_film_id": 12915,
+      "cr_slug": "duse-mrtvych",
+      "title": "Duše mrtvých",
+      "year": 2001,
+      "display_name": "Duše mrtvých (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "689ad7ab74b6d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24960489,
+      "size_bytes": 573720036,
+      "uploaded_at": "2026-05-18T22:13:47Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 23.3,
+        "upload_sec": 30.9
+      }
     }
   ],
   "failed_attempts": [
@@ -65508,5 +65527,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-18T22:12:48Z"
+  "last_updated": "2026-05-18T22:13:47Z"
 }
