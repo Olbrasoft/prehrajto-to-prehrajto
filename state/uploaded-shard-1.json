@@ -62475,6 +62475,25 @@
         "download_sec": 28.2,
         "upload_sec": 38.6
       }
+    },
+    {
+      "cr_film_id": 12655,
+      "cr_slug": "mulholland-drive",
+      "title": "Mulholland Drive",
+      "year": 2001,
+      "display_name": "Mulholland Drive (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ba53ffd0ad6a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24955967,
+      "size_bytes": 1489152705,
+      "uploaded_at": "2026-05-18T17:58:57Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 58.6,
+        "upload_sec": 59.3
+      }
     }
   ],
   "failed_attempts": [
@@ -63715,5 +63734,5 @@
       "failed_at": "2026-05-18T15:29:30Z"
     }
   ],
-  "last_updated": "2026-05-18T17:56:55Z"
+  "last_updated": "2026-05-18T17:58:57Z"
 }
