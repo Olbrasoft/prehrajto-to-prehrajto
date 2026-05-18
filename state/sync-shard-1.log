@@ -20914,3 +20914,14 @@
 [12:08:42]   upload done video_id=24948541 in 25.5s
 [12:08:43] film cr_film_id=12317 OK in 71.2s
 [12:08:43] batch-end ok=20 failed=0 dur=3099.9s avg/film=155.0s remaining=14489 eta_hours=623.8
+
+===== run 2026-05-18T12:10:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26032590413) =====
+[12:10:04] batch-start shard=1/2 count=20 backlog=17650 uploads=3161 failed_attempts=170
+[12:10:04] login
+[12:10:05] login done
+[12:10:05] iteration 1/20
+[12:10:05] film cr_film_id=12321 name='Lekce (1996) CZ Dabing' candidates=1
+[12:10:05]   candidate upload_id=8b21c17b014eb75c url=https://prehraj.to/lekce-1996-cz-dabing/8b21c17b014eb75c
+[12:10:06]   resolved in 1.3s → 720p (https://pf-storage6.premiumcdn.net/169709851/Az2sNnHjqFVqhx7TkGSKMH1nhEjupaiMOiN…)
+[12:16:29]   downloaded 966.8 MB in 380.6s (2.5 MB/s)
+[12:17:19]   upload done video_id=24948696 in 49.7s
