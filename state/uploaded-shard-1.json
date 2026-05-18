@@ -56623,6 +56623,25 @@
         "download_sec": 64.8,
         "upload_sec": 74.3
       }
+    },
+    {
+      "cr_film_id": 11857,
+      "cr_slug": "valmont",
+      "title": "Valmont",
+      "year": 1989,
+      "display_name": "Valmont (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "960162051a1351da",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24935558,
+      "size_bytes": 3179049263,
+      "uploaded_at": "2026-05-18T05:08:43Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 90.1,
+        "upload_sec": 142.6
+      }
     }
   ],
   "failed_attempts": [
@@ -57856,5 +57875,5 @@
       "failed_at": "2026-05-18T04:22:02Z"
     }
   ],
-  "last_updated": "2026-05-18T05:04:47Z"
+  "last_updated": "2026-05-18T05:08:43Z"
 }
