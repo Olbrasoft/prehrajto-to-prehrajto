@@ -19616,3 +19616,14 @@
 [05:23:52]   upload done video_id=24936000 in 53.7s
 [05:23:54] film cr_film_id=11592 OK in 96.7s
 [05:23:54] batch-end ok=20 failed=0 dur=2926.6s avg/film=146.3s remaining=14621 eta_hours=594.2
+
+===== run 2026-05-18T05:25:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26015189736) =====
+[05:25:04] batch-start shard=0/2 count=20 backlog=17650 uploads=3029 failed_attempts=645
+[05:25:04] login
+[05:25:05] login done
+[05:25:05] iteration 1/20
+[05:25:05] film cr_film_id=11594 name='Stříbrná kulka (1985) CZ' candidates=1
+[05:25:05]   candidate upload_id=60926aa035565 url=https://prehraj.to/stribrna-kulka-horor-1985-cz-dabing/60926aa035565
+[05:25:06]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/23391120/Q5xcLnS5oIjGF9MtdysBoSW3F40H1jiY6iRY…)
+[05:25:26]   downloaded 522.3 MB in 18.2s (28.7 MB/s)
+[05:25:50]   upload done video_id=24936061 in 23.9s
