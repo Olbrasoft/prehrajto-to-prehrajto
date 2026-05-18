@@ -61941,6 +61941,25 @@
         "download_sec": 47.0,
         "upload_sec": 48.9
       }
+    },
+    {
+      "cr_film_id": 12200,
+      "cr_slug": "vlk-1994",
+      "title": "Vlk",
+      "year": 1994,
+      "display_name": "Vlk (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55f1a59c7b44a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24951508,
+      "size_bytes": 780907026,
+      "uploaded_at": "2026-05-18T14:06:45Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 25.7,
+        "upload_sec": 28.0
+      }
     }
   ],
   "failed_attempts": [
@@ -66502,5 +66521,5 @@
       "failed_at": "2026-05-18T14:02:33Z"
     }
   ],
-  "last_updated": "2026-05-18T14:05:47Z"
+  "last_updated": "2026-05-18T14:06:45Z"
 }
