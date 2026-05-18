@@ -63879,6 +63879,25 @@
         "download_sec": 59.2,
         "upload_sec": 80.7
       }
+    },
+    {
+      "cr_film_id": 12462,
+      "cr_slug": "simon-birch",
+      "title": "Simon Birch",
+      "year": 1998,
+      "display_name": "Simon Birch (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58148233cc606",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24957616,
+      "size_bytes": 598085041,
+      "uploaded_at": "2026-05-18T19:31:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 91.2,
+        "upload_sec": 39.1
+      }
     }
   ],
   "failed_attempts": [
@@ -68454,5 +68473,5 @@
       "failed_at": "2026-05-18T16:39:26Z"
     }
   ],
-  "last_updated": "2026-05-18T19:28:50Z"
+  "last_updated": "2026-05-18T19:31:05Z"
 }
