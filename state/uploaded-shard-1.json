@@ -64109,6 +64109,25 @@
         "download_sec": 26.4,
         "upload_sec": 32.0
       }
+    },
+    {
+      "cr_film_id": 12893,
+      "cr_slug": "flakaci",
+      "title": "Flákači",
+      "year": 2001,
+      "display_name": "Flákači (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5821027db403f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24960197,
+      "size_bytes": 277724560,
+      "uploaded_at": "2026-05-18T21:54:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.6,
+        "upload_sec": 21.9
+      }
     }
   ],
   "failed_attempts": [
@@ -65356,5 +65375,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-18T21:53:50Z"
+  "last_updated": "2026-05-18T21:54:34Z"
 }
