@@ -61050,6 +61050,25 @@
         "download_sec": 41.0,
         "upload_sec": 62.2
       }
+    },
+    {
+      "cr_film_id": 12459,
+      "cr_slug": "morgiana",
+      "title": "Morgiana",
+      "year": 1972,
+      "display_name": "Morgiana (1972) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5821afed7db28",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24953015,
+      "size_bytes": 434782478,
+      "uploaded_at": "2026-05-18T15:21:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 103.0,
+        "upload_sec": 35.5
+      }
     }
   ],
   "failed_attempts": [
@@ -62283,5 +62302,5 @@
       "failed_at": "2026-05-18T04:22:02Z"
     }
   ],
-  "last_updated": "2026-05-18T15:19:30Z"
+  "last_updated": "2026-05-18T15:21:53Z"
 }
