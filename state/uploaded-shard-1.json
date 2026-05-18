@@ -60594,6 +60594,25 @@
         "download_sec": 34.6,
         "upload_sec": 37.4
       }
+    },
+    {
+      "cr_film_id": 12393,
+      "cr_slug": "sazka",
+      "title": "Sázka",
+      "year": 1997,
+      "display_name": "Sázka (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c04e9ea13d5d047b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24951169,
+      "size_bytes": 3173197740,
+      "uploaded_at": "2026-05-18T13:55:03Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 154.5,
+        "upload_sec": 186.7
+      }
     }
   ],
   "failed_attempts": [
@@ -61827,5 +61846,5 @@
       "failed_at": "2026-05-18T04:22:02Z"
     }
   ],
-  "last_updated": "2026-05-18T13:49:16Z"
+  "last_updated": "2026-05-18T13:55:03Z"
 }
