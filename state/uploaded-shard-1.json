@@ -56471,6 +56471,25 @@
         "download_sec": 63.4,
         "upload_sec": 79.5
       }
+    },
+    {
+      "cr_film_id": 11833,
+      "cr_slug": "prvni-liga",
+      "title": "První liga",
+      "year": 1989,
+      "display_name": "První liga (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5828aec1bfa10",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24935259,
+      "size_bytes": 569429867,
+      "uploaded_at": "2026-05-18T04:55:38Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.2,
+        "upload_sec": 28.2
+      }
     }
   ],
   "failed_attempts": [
@@ -57704,5 +57723,5 @@
       "failed_at": "2026-05-18T04:22:02Z"
     }
   ],
-  "last_updated": "2026-05-18T04:54:48Z"
+  "last_updated": "2026-05-18T04:55:38Z"
 }
