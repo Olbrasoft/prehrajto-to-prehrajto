@@ -21355,3 +21355,14 @@
 [15:35:02]   upload done video_id=24953237 in 66.9s
 [15:35:04] film cr_film_id=12479 OK in 124.9s
 [15:35:04] batch-end ok=20 failed=0 dur=4082.8s avg/film=204.1s remaining=14429 eta_hours=818.0
+
+===== run 2026-05-18T15:36:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26043619370) =====
+[15:36:07] batch-start shard=1/2 count=20 backlog=17650 uploads=3221 failed_attempts=171
+[15:36:07] login
+[15:36:09] login done
+[15:36:09] iteration 1/20
+[15:36:09] film cr_film_id=12491 name='Hlídač (1970) CZ Dabing' candidates=1
+[15:36:09]   candidate upload_id=8f9eef2f6b2228a6 url=https://prehraj.to/hlidac-1970-czdab/8f9eef2f6b2228a6
+[15:36:10]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/165065708/7JXcQzs4XubVS4gSREu6Qsl3herTBjfzlFM…)
+[15:36:39]   downloaded 713.9 MB in 27.2s (26.2 MB/s)
+[15:37:12]   upload done video_id=24953288 in 33.5s
