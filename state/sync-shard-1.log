@@ -19016,3 +19016,14 @@
 [02:05:16]   upload done video_id=24929993 in 28.6s
 [02:05:18] film cr_film_id=11651 OK in 53.6s
 [02:05:18] batch-end ok=19 failed=1 dur=1930.4s avg/film=101.6s remaining=14748 eta_hours=416.2
+
+===== run 2026-05-18T02:11:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26009829775) =====
+[02:11:02] batch-start shard=1/2 count=20 backlog=17650 uploads=2902 failed_attempts=168
+[02:11:02] login
+[02:11:05] login done
+[02:11:05] iteration 1/20
+[02:11:05] film cr_film_id=11603 name='Legenda o zlaté perle (1987) CZ Dabing' candidates=1
+[02:11:05]   candidate upload_id=666c7a8811bb3 url=https://prehraj.to/legenda-o-zlate-perle-1987-cz-dabing-1080p/666c7a8811bb3
+[02:11:06]   resolved in 1.8s → 720p (https://pf-storage3.premiumcdn.net/78431036/6rPUOLHO7T0BsGnfrqib4HG4fN2iJ0TKEspX…)
+[02:12:25]   downloaded 1,543.4 MB in 76.2s (20.3 MB/s)
+[02:13:56]   upload done video_id=24930279 in 91.1s
