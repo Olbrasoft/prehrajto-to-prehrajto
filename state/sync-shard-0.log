@@ -22098,3 +22098,14 @@
 [19:40:45]   upload done video_id=24957819 in 20.2s
 [19:40:47] film cr_film_id=12472 OK in 44.5s
 [19:40:47] batch-end ok=20 failed=0 dur=3826.7s avg/film=191.3s remaining=14283 eta_hours=759.0
+
+===== run 2026-05-18T19:41:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26053001727) =====
+[19:41:03] batch-start shard=0/2 count=20 backlog=17650 uploads=3367 failed_attempts=648
+[19:41:03] login
+[19:41:05] login done
+[19:41:05] iteration 1/20
+[19:41:05] film cr_film_id=12474 name='Burani ve městě (1999) CZ Dabing' candidates=1
+[19:41:05]   candidate upload_id=6094091ad3af1 url=https://prehraj.to/burani-ve-meste-1999-czdab/6094091ad3af1
+[19:41:06]   resolved in 1.7s → 480p (https://pf-storage5.premiumcdn.net/23403399/e6WiokINoIJvhmasQKtkjI12TB3sdgfDGiQj…)
+[19:41:38]   downloaded 578.1 MB in 29.4s (19.7 MB/s)
+[19:42:11]   upload done video_id=24957852 in 32.4s
