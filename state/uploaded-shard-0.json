@@ -62397,6 +62397,25 @@
         "download_sec": 75.8,
         "upload_sec": 77.1
       }
+    },
+    {
+      "cr_film_id": 12254,
+      "cr_slug": "belasek",
+      "title": "Bělásek",
+      "year": 1995,
+      "display_name": "Bělásek (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b71877a5b48a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24954008,
+      "size_bytes": 587194452,
+      "uploaded_at": "2026-05-18T16:11:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.7,
+        "upload_sec": 29.1
+      }
     }
   ],
   "failed_attempts": [
@@ -66965,5 +66984,5 @@
       "failed_at": "2026-05-18T15:43:12Z"
     }
   ],
-  "last_updated": "2026-05-18T16:10:08Z"
+  "last_updated": "2026-05-18T16:11:08Z"
 }
