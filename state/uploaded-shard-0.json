@@ -60326,6 +60326,25 @@
         "download_sec": 26.1,
         "upload_sec": 32.3
       }
+    },
+    {
+      "cr_film_id": 11976,
+      "cr_slug": "oscar-1991",
+      "title": "Oscar",
+      "year": 1991,
+      "display_name": "Oscar (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55fada600be4f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24946743,
+      "size_bytes": 950981486,
+      "uploaded_at": "2026-05-18T10:41:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 28.2,
+        "upload_sec": 34.1
+      }
     }
   ],
   "failed_attempts": [
@@ -64880,5 +64899,5 @@
       "failed_at": "2026-05-18T02:09:44Z"
     }
   ],
-  "last_updated": "2026-05-18T10:40:22Z"
+  "last_updated": "2026-05-18T10:41:28Z"
 }
