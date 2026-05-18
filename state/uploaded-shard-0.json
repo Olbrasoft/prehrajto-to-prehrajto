@@ -60915,6 +60915,25 @@
         "download_sec": 47.8,
         "upload_sec": 43.6
       }
+    },
+    {
+      "cr_film_id": 12060,
+      "cr_slug": "cas-pomsty",
+      "title": "Čas pomsty",
+      "year": 1993,
+      "display_name": "Čas pomsty (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c985c2a37bc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24948289,
+      "size_bytes": 655966382,
+      "uploaded_at": "2026-05-18T11:55:23Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 30.1,
+        "upload_sec": 34.0
+      }
     }
   ],
   "failed_attempts": [
@@ -65469,5 +65488,5 @@
       "failed_at": "2026-05-18T02:09:44Z"
     }
   ],
-  "last_updated": "2026-05-18T11:54:14Z"
+  "last_updated": "2026-05-18T11:55:23Z"
 }
