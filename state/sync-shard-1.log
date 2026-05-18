@@ -22380,3 +22380,14 @@
 [21:18:30]   upload done video_id=24959615 in 40.8s
 [21:18:32] film cr_film_id=12851 OK in 79.0s
 [21:18:32] batch-end ok=20 failed=0 dur=2367.0s avg/film=118.3s remaining=14289 eta_hours=469.6
+
+===== run 2026-05-18T21:20:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26061109585) =====
+[21:20:04] batch-start shard=1/2 count=20 backlog=17650 uploads=3361 failed_attempts=172
+[21:20:04] login
+[21:20:06] login done
+[21:20:06] iteration 1/20
+[21:20:06] film cr_film_id=12853 name='Flintstoneovi: Vánoční koleda (1994) CZ' candidates=1
+[21:20:06]   candidate upload_id=6136f45932d28 url=https://prehraj.to/muppets-vanocni-koleda-1992-hbo2-hd/6136f45932d28
+[21:20:07]   resolved in 1.5s → 720p (https://pf-storage1.premiumcdn.net/24827402/VKOFV1iY6sEMtOxtEwUmDi96TeGt7yHBbS7P…)
+[21:21:04]   downloaded 1,113.7 MB in 54.7s (20.4 MB/s)
+[21:22:13]   upload done video_id=24959677 in 68.4s
