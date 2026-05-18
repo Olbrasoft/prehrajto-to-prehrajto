@@ -60385,6 +60385,25 @@
         "download_sec": 24.3,
         "upload_sec": 26.3
       }
+    },
+    {
+      "cr_film_id": 12369,
+      "cr_slug": "flubber",
+      "title": "Flubber",
+      "year": 1997,
+      "display_name": "Flubber (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a75a39e0e19e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24950573,
+      "size_bytes": 574859972,
+      "uploaded_at": "2026-05-18T13:28:33Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.8,
+        "upload_sec": 28.8
+      }
     }
   ],
   "failed_attempts": [
@@ -61618,5 +61637,5 @@
       "failed_at": "2026-05-18T04:22:02Z"
     }
   ],
-  "last_updated": "2026-05-18T13:27:34Z"
+  "last_updated": "2026-05-18T13:28:33Z"
 }
