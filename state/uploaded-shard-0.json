@@ -65475,6 +65475,25 @@
         "download_sec": 16.9,
         "upload_sec": 17.9
       }
+    },
+    {
+      "cr_film_id": 12684,
+      "cr_slug": "zachranci-more",
+      "title": "Zachránci moře",
+      "year": 2000,
+      "display_name": "Zachránci moře (2000) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "c646ba5301443410",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24960844,
+      "size_bytes": 1329630518,
+      "uploaded_at": "2026-05-18T22:37:28Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 44.5,
+        "upload_sec": 52.0
+      }
     }
   ],
   "failed_attempts": [
@@ -70057,5 +70076,5 @@
       "failed_at": "2026-05-18T21:54:55Z"
     }
   ],
-  "last_updated": "2026-05-18T22:35:48Z"
+  "last_updated": "2026-05-18T22:37:28Z"
 }
