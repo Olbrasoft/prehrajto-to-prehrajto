@@ -20768,3 +20768,14 @@
 [11:15:55]   upload done video_id=24947527 in 38.5s
 [11:15:57] film cr_film_id=12263 OK in 77.6s
 [11:15:57] batch-end ok=20 failed=0 dur=2758.5s avg/film=137.9s remaining=14509 eta_hours=555.8
+
+===== run 2026-05-18T11:17:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26030127421) =====
+[11:17:02] batch-start shard=1/2 count=20 backlog=17650 uploads=3141 failed_attempts=170
+[11:17:02] login
+[11:17:04] login done
+[11:17:04] iteration 1/20
+[11:17:04] film cr_film_id=12265 name='Přepadení 2: Temné území (1995) CZ Dabing' candidates=11
+[11:17:04]   candidate upload_id=5e0ec4ae27d39 url=https://prehraj.to/prepadeni-2-temne-uzemi-under-siege-2-dark-territory-1995-cz-dab-tit-1080p-bluray/5e0ec4ae27d39
+[11:17:05]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/15583012/k8vSq6HpqIaoI5DCOYsADHjDfREh0Et5qfOA…)
+[11:24:13]   downloaded 2,683.8 MB in 426.2s (6.3 MB/s)
+[11:26:58]   upload done video_id=24947715 in 165.1s
