@@ -20784,3 +20784,14 @@
 [11:10:23]   upload done video_id=24947371 in 64.2s
 [11:10:24] film cr_film_id=12016 OK in 114.7s
 [11:10:24] batch-end ok=20 failed=0 dur=2428.3s avg/film=121.4s remaining=14461 eta_hours=487.7
+
+===== run 2026-05-18T11:16:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26030127421) =====
+[11:16:58] batch-start shard=0/2 count=20 backlog=17650 uploads=3189 failed_attempts=645
+[11:16:58] login
+[11:17:00] login done
+[11:17:00] iteration 1/20
+[11:17:00] film cr_film_id=12018 name='Police Story 3 (1992) CZ Dabing' candidates=7
+[11:17:00]   candidate upload_id=58147e9a0b79d url=https://prehraj.to/police-story-3-cz-dabing-1992/58147e9a0b79d
+[11:17:01]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/763073/AVoSngTB2cNMIw0Ul0IRqTzOSgdteQS0PUKDS1…)
+[11:17:34]   downloaded 719.6 MB in 30.5s (23.6 MB/s)
+[11:18:10]   upload done video_id=24947583 in 36.3s
