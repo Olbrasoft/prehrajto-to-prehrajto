@@ -61675,6 +61675,25 @@
         "download_sec": 104.0,
         "upload_sec": 133.7
       }
+    },
+    {
+      "cr_film_id": 12156,
+      "cr_slug": "highlander-iii",
+      "title": "Highlander III",
+      "year": 1994,
+      "display_name": "Highlander III (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55f5b53776d75",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24950977,
+      "size_bytes": 715330568,
+      "uploaded_at": "2026-05-18T13:43:49Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 30.3,
+        "upload_sec": 36.4
+      }
     }
   ],
   "failed_attempts": [
@@ -66229,5 +66248,5 @@
       "failed_at": "2026-05-18T02:09:44Z"
     }
   ],
-  "last_updated": "2026-05-18T13:42:38Z"
+  "last_updated": "2026-05-18T13:43:49Z"
 }
