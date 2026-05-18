@@ -59680,6 +59680,25 @@
         "download_sec": 15.9,
         "upload_sec": 24.2
       }
+    },
+    {
+      "cr_film_id": 11886,
+      "cr_slug": "prvotni-sila",
+      "title": "Prvotní síla",
+      "year": 1990,
+      "display_name": "Prvotní síla (1990) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5877ecdaacc47",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24944658,
+      "size_bytes": 531432784,
+      "uploaded_at": "2026-05-18T09:15:29Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 21.5,
+        "upload_sec": 23.6
+      }
     }
   ],
   "failed_attempts": [
@@ -64234,5 +64253,5 @@
       "failed_at": "2026-05-18T02:09:44Z"
     }
   ],
-  "last_updated": "2026-05-18T09:14:40Z"
+  "last_updated": "2026-05-18T09:15:29Z"
 }
