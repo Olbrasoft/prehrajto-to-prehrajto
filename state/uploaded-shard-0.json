@@ -61504,6 +61504,25 @@
         "download_sec": 41.9,
         "upload_sec": 55.3
       }
+    },
+    {
+      "cr_film_id": 12132,
+      "cr_slug": "zdeseni",
+      "title": "Zděšení",
+      "year": 1994,
+      "display_name": "Zděšení (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c0827f976240",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24950436,
+      "size_bytes": 949734834,
+      "uploaded_at": "2026-05-18T13:23:56Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 42.5,
+        "upload_sec": 47.5
+      }
     }
   ],
   "failed_attempts": [
@@ -66058,5 +66077,5 @@
       "failed_at": "2026-05-18T02:09:44Z"
     }
   ],
-  "last_updated": "2026-05-18T13:22:21Z"
+  "last_updated": "2026-05-18T13:23:56Z"
 }
