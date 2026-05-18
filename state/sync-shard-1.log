@@ -20330,3 +20330,14 @@
 [08:21:07]   upload done video_id=24943380 in 22.1s
 [08:21:09] film cr_film_id=12113 OK in 42.2s
 [08:21:09] batch-end ok=20 failed=0 dur=2131.3s avg/film=106.6s remaining=14569 eta_hours=431.4
+
+===== run 2026-05-18T08:52:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26023369119) =====
+[08:52:50] batch-start shard=1/2 count=20 backlog=17650 uploads=3081 failed_attempts=170
+[08:52:50] login
+[08:52:53] login done
+[08:52:53] iteration 1/20
+[08:52:53] film cr_film_id=12115 name='Tombstone (1993) CZ Dabing' candidates=6
+[08:52:53]   candidate upload_id=5c19001bc307e url=https://prehraj.to/tombstone-1993-cz-dabing/5c19001bc307e
+[08:52:54]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/9614594/W5qtJ4FpPiOxFZ3fqNSDOFbVtrQIOzsYWS8LF…)
+[08:53:31]   downloaded 721.3 MB in 34.3s (21.0 MB/s)
+[08:54:12]   upload done video_id=24944078 in 41.4s
