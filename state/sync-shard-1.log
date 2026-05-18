@@ -19600,3 +19600,14 @@
 [05:08:43]   upload done video_id=24935558 in 142.6s
 [05:08:45] film cr_film_id=11857 OK in 236.2s
 [05:08:45] batch-end ok=20 failed=0 dur=2017.8s avg/film=100.9s remaining=14669 eta_hours=411.1
+
+===== run 2026-05-18T05:25:07Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26015189736) =====
+[05:25:08] batch-start shard=1/2 count=20 backlog=17650 uploads=2981 failed_attempts=170
+[05:25:08] login
+[05:25:10] login done
+[05:25:10] iteration 1/20
+[05:25:10] film cr_film_id=11859 name='Vážení přátelé, ano (1989) CZ' candidates=5
+[05:25:10]   candidate upload_id=60faf186be876 url=https://prehraj.to/vazeni-pratele-ano-hd-1989-78pt/60faf186be876
+[05:25:11]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/24374330/LkXIzbcplhnos5kHVdH3OcXJsYPTA5T7zIqK…)
+[05:27:06]   downloaded 2,574.5 MB in 112.6s (22.9 MB/s)
+[05:29:31]   upload done video_id=24936110 in 145.0s
