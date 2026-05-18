@@ -62074,6 +62074,25 @@
         "download_sec": 14.2,
         "upload_sec": 18.8
       }
+    },
+    {
+      "cr_film_id": 12216,
+      "cr_slug": "el-censor",
+      "title": "El censor",
+      "year": 1995,
+      "display_name": "El censor (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5065c214736328b0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24951673,
+      "size_bytes": 788123141,
+      "uploaded_at": "2026-05-18T14:16:43Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 26.3,
+        "upload_sec": 29.7
+      }
     }
   ],
   "failed_attempts": [
@@ -66635,5 +66654,5 @@
       "failed_at": "2026-05-18T14:02:33Z"
     }
   ],
-  "last_updated": "2026-05-18T14:15:43Z"
+  "last_updated": "2026-05-18T14:16:43Z"
 }
