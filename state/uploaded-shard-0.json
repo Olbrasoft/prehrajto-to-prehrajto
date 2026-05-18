@@ -60022,6 +60022,25 @@
         "download_sec": 31.3,
         "upload_sec": 35.9
       }
+    },
+    {
+      "cr_film_id": 11934,
+      "cr_slug": "chveni",
+      "title": "Chvění",
+      "year": 1990,
+      "display_name": "Chvění (1990) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "600762e5ab7b1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24945629,
+      "size_bytes": 2703414394,
+      "uploaded_at": "2026-05-18T10:02:50Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 118.6,
+        "upload_sec": 152.4
+      }
     }
   ],
   "failed_attempts": [
@@ -64576,5 +64595,5 @@
       "failed_at": "2026-05-18T02:09:44Z"
     }
   ],
-  "last_updated": "2026-05-18T09:58:14Z"
+  "last_updated": "2026-05-18T10:02:50Z"
 }
