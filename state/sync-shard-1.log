@@ -21647,3 +21647,14 @@
 [16:48:26]   upload done video_id=24954760 in 79.9s
 [16:48:27] film cr_film_id=12585 OK in 146.6s
 [16:48:27] batch-end ok=20 failed=0 dur=1975.5s avg/film=98.8s remaining=14389 eta_hours=394.9
+
+===== run 2026-05-18T16:48:56Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26047398881) =====
+[16:48:57] batch-start shard=1/2 count=20 backlog=17650 uploads=3261 failed_attempts=171
+[16:48:57] login
+[16:48:59] login done
+[16:48:59] iteration 1/20
+[16:48:59] film cr_film_id=12587 name='Pytlákova schovanka aneb Šlechetný milionář (1949) CZ' candidates=5
+[16:48:59]   candidate upload_id=5a976480cd0ae url=https://prehraj.to/pytlakova-schovanka-aneb-slechetny-milionar-1949-cz-komedie-hudebni-romanticky-csfd-82-top-quality/5a976480cd0ae
+[16:49:00]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/3506261/ReZFPKTqJc65IKeTW0hgaT1aHJ6cKNfRpU9gH…)
+[16:51:16]   downloaded 3,700.1 MB in 133.9s (27.6 MB/s)
+[16:54:25]   upload done video_id=24954834 in 189.7s
