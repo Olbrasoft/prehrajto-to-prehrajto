@@ -63917,6 +63917,25 @@
         "download_sec": 38.9,
         "upload_sec": 26.7
       }
+    },
+    {
+      "cr_film_id": 12468,
+      "cr_slug": "hasici",
+      "title": "Hasiči",
+      "year": 1985,
+      "display_name": "Hasiči (1985) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "664ff7e634af3",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24957683,
+      "size_bytes": 731683185,
+      "uploaded_at": "2026-05-18T19:33:48Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 46.5,
+        "upload_sec": 42.4
+      }
     }
   ],
   "failed_attempts": [
@@ -68492,5 +68511,5 @@
       "failed_at": "2026-05-18T16:39:26Z"
     }
   ],
-  "last_updated": "2026-05-18T19:32:15Z"
+  "last_updated": "2026-05-18T19:33:48Z"
 }
