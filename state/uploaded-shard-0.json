@@ -64791,6 +64791,25 @@
         "download_sec": 41.2,
         "upload_sec": 47.8
       }
+    },
+    {
+      "cr_film_id": 12598,
+      "cr_slug": "svadlenka",
+      "title": "Švadlenka",
+      "year": 1936,
+      "display_name": "Švadlenka (1936) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6042d2168033b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24959742,
+      "size_bytes": 993704869,
+      "uploaded_at": "2026-05-18T21:25:57Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 67.8,
+        "upload_sec": 52.1
+      }
     }
   ],
   "failed_attempts": [
@@ -69366,5 +69385,5 @@
       "failed_at": "2026-05-18T16:39:26Z"
     }
   ],
-  "last_updated": "2026-05-18T21:23:52Z"
+  "last_updated": "2026-05-18T21:25:57Z"
 }
