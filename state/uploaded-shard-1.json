@@ -61810,6 +61810,25 @@
         "download_sec": 22.4,
         "upload_sec": 20.5
       }
+    },
+    {
+      "cr_film_id": 12567,
+      "cr_slug": "dceruska-k-pohledani",
+      "title": "Dceruška k pohledání",
+      "year": 1940,
+      "display_name": "Dceruška k pohledání (1940) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5821cb505854a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24954652,
+      "size_bytes": 508178579,
+      "uploaded_at": "2026-05-18T16:41:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 87.1,
+        "upload_sec": 26.8
+      }
     }
   ],
   "failed_attempts": [
@@ -63050,5 +63069,5 @@
       "failed_at": "2026-05-18T15:29:30Z"
     }
   ],
-  "last_updated": "2026-05-18T16:39:01Z"
+  "last_updated": "2026-05-18T16:41:00Z"
 }
