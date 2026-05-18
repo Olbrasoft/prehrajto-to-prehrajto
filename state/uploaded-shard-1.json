@@ -59606,6 +59606,25 @@
         "download_sec": 133.1,
         "upload_sec": 177.0
       }
+    },
+    {
+      "cr_film_id": 12257,
+      "cr_slug": "sarlatove-pismeno",
+      "title": "Šarlatové písmeno",
+      "year": 1995,
+      "display_name": "Šarlatové písmeno (1995) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "690140df52c8d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24947382,
+      "size_bytes": 1796166418,
+      "uploaded_at": "2026-05-18T11:11:19Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 84.1,
+        "upload_sec": 101.1
+      }
     }
   ],
   "failed_attempts": [
@@ -60839,5 +60858,5 @@
       "failed_at": "2026-05-18T04:22:02Z"
     }
   ],
-  "last_updated": "2026-05-18T11:08:08Z"
+  "last_updated": "2026-05-18T11:11:19Z"
 }
