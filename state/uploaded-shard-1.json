@@ -63881,6 +63881,25 @@
         "download_sec": 54.7,
         "upload_sec": 68.4
       }
+    },
+    {
+      "cr_film_id": 12855,
+      "cr_slug": "poslani",
+      "title": "Poslání",
+      "year": 2001,
+      "display_name": "Poslání (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e228278d183",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24959703,
+      "size_bytes": 586304768,
+      "uploaded_at": "2026-05-18T21:23:24Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 30.3,
+        "upload_sec": 34.9
+      }
     }
   ],
   "failed_attempts": [
@@ -65128,5 +65147,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-18T21:22:13Z"
+  "last_updated": "2026-05-18T21:23:24Z"
 }
