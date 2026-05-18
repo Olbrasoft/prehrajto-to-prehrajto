@@ -64335,6 +64335,25 @@
         "download_sec": 87.8,
         "upload_sec": 115.8
       }
+    },
+    {
+      "cr_film_id": 12534,
+      "cr_slug": "jezero",
+      "title": "Jezero",
+      "year": 1999,
+      "display_name": "Jezero (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e5185403851",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24958858,
+      "size_bytes": 2148338617,
+      "uploaded_at": "2026-05-18T20:37:26Z",
+      "timing": {
+        "resolve_sec": 2.8,
+        "download_sec": 97.1,
+        "upload_sec": 130.3
+      }
     }
   ],
   "failed_attempts": [
@@ -68910,5 +68929,5 @@
       "failed_at": "2026-05-18T16:39:26Z"
     }
   ],
-  "last_updated": "2026-05-18T20:33:32Z"
+  "last_updated": "2026-05-18T20:37:26Z"
 }
