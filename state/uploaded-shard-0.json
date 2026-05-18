@@ -62815,6 +62815,25 @@
         "download_sec": 26.9,
         "upload_sec": 31.4
       }
+    },
+    {
+      "cr_film_id": 12320,
+      "cr_slug": "michael-1996",
+      "title": "Michael",
+      "year": 1996,
+      "display_name": "Michael (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d0d38ae92c1c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24954687,
+      "size_bytes": 590911498,
+      "uploaded_at": "2026-05-18T16:43:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.7,
+        "upload_sec": 29.8
+      }
     }
   ],
   "failed_attempts": [
@@ -67390,5 +67409,5 @@
       "failed_at": "2026-05-18T16:39:26Z"
     }
   ],
-  "last_updated": "2026-05-18T16:42:13Z"
+  "last_updated": "2026-05-18T16:43:09Z"
 }
