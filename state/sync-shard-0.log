@@ -21076,3 +21076,14 @@
 [12:58:05]   upload done video_id=24949868 in 47.9s
 [12:58:06] film cr_film_id=12110 OK in 88.2s
 [12:58:06] batch-end ok=20 failed=0 dur=2880.0s avg/film=144.0s remaining=14421 eta_hours=576.8
+
+===== run 2026-05-18T13:05:46Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26035352611) =====
+[13:05:46] batch-start shard=0/2 count=20 backlog=17650 uploads=3229 failed_attempts=645
+[13:05:47] login
+[13:05:48] login done
+[13:05:48] iteration 1/20
+[13:05:48] film cr_film_id=12112 name='Dospívání po americku (1993) CZ' candidates=2
+[13:05:48]   candidate upload_id=5a8a00793bb92 url=https://prehraj.to/dospivani-po-americku-1993/5a8a00793bb92
+[13:05:50]   resolved in 2.2s → 480p (https://pf-storage1.premiumcdn.net/3414734/WmnTlOI6QFGAS9RiKvHylIwluEzt6OiP7T86H…)
+[13:06:17]   downloaded 521.1 MB in 24.9s (20.9 MB/s)
+[13:06:46]   upload done video_id=24950064 in 29.1s
