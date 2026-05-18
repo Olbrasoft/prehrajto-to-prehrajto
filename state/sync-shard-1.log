@@ -20622,3 +20622,14 @@
 [10:28:06]   upload done video_id=24946357 in 78.7s
 [10:28:08] film cr_film_id=12217 OK in 131.7s
 [10:28:08] batch-end ok=20 failed=0 dur=2983.5s avg/film=149.2s remaining=14529 eta_hours=602.1
+
+===== run 2026-05-18T10:29:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26027985166) =====
+[10:29:57] batch-start shard=1/2 count=20 backlog=17650 uploads=3121 failed_attempts=170
+[10:29:57] login
+[10:29:58] login done
+[10:29:58] iteration 1/20
+[10:29:58] film cr_film_id=12219 name='Cold Comfort Farm (1995) CZ Dabing' candidates=1
+[10:29:58]   candidate upload_id=2eb6568a14aaec0f url=https://prehraj.to/cold-comfort-farm-1995-cz-dabing/2eb6568a14aaec0f
+[10:30:00]   resolved in 1.4s → 720p (https://pf-storage6.premiumcdn.net/169468690/XjZTa3FGXhy9HLDiyrtRBFvycamtXxf8XTY…)
+[10:30:54]   downloaded 1,010.5 MB in 51.6s (19.6 MB/s)
+[10:31:50]   upload done video_id=24946516 in 56.4s
