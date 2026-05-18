@@ -56982,6 +56982,25 @@
         "download_sec": 21.3,
         "upload_sec": 30.3
       }
+    },
+    {
+      "cr_film_id": 11514,
+      "cr_slug": "fesak-hubert",
+      "title": "Fešák Hubert",
+      "year": 1985,
+      "display_name": "Fešák Hubert (1985) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "680151489771f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24933606,
+      "size_bytes": 886191558,
+      "uploaded_at": "2026-05-18T04:02:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.3,
+        "upload_sec": 49.9
+      }
     }
   ],
   "failed_attempts": [
@@ -61536,5 +61555,5 @@
       "failed_at": "2026-05-18T02:09:44Z"
     }
   ],
-  "last_updated": "2026-05-18T04:01:20Z"
+  "last_updated": "2026-05-18T04:02:39Z"
 }
