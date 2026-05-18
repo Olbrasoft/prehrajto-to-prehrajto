@@ -55348,6 +55348,25 @@
         "download_sec": 101.1,
         "upload_sec": 130.4
       }
+    },
+    {
+      "cr_film_id": 11260,
+      "cr_slug": "pet-zbrani",
+      "title": "Pět zbraní",
+      "year": 1978,
+      "display_name": "Pět zbraní (1978) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "609a73a66c454",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24928189,
+      "size_bytes": 358186205,
+      "uploaded_at": "2026-05-18T01:14:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.2,
+        "upload_sec": 14.4
+      }
     }
   ],
   "failed_attempts": [
@@ -59874,5 +59893,5 @@
       "failed_at": "2026-05-17T14:12:17Z"
     }
   ],
-  "last_updated": "2026-05-18T01:14:14Z"
+  "last_updated": "2026-05-18T01:14:45Z"
 }
