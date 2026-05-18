@@ -57497,6 +57497,25 @@
         "download_sec": 23.9,
         "upload_sec": 25.3
       }
+    },
+    {
+      "cr_film_id": 11973,
+      "cr_slug": "modra-nota",
+      "title": "Modrá nota",
+      "year": 1991,
+      "display_name": "Modrá nota (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d1539ad1b4587d28",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24938500,
+      "size_bytes": 2781908301,
+      "uploaded_at": "2026-05-18T06:53:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 104.8,
+        "upload_sec": 116.7
+      }
     }
   ],
   "failed_attempts": [
@@ -58730,5 +58749,5 @@
       "failed_at": "2026-05-18T04:22:02Z"
     }
   ],
-  "last_updated": "2026-05-18T06:49:25Z"
+  "last_updated": "2026-05-18T06:53:11Z"
 }
