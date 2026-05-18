@@ -18870,3 +18870,14 @@
 [01:32:50]   upload done video_id=24928877 in 49.6s
 [01:32:52] film cr_film_id=11597 OK in 96.2s
 [01:32:52] batch-end ok=19 failed=1 dur=3157.3s avg/film=166.2s remaining=14767 eta_hours=681.7
+
+===== run 2026-05-18T01:33:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26008234939) =====
+[01:33:06] batch-start shard=1/2 count=20 backlog=17650 uploads=2883 failed_attempts=167
+[01:33:06] login
+[01:33:07] login done
+[01:33:07] iteration 1/20
+[01:33:07] film cr_film_id=11601 name='Vyhlídka na vraždu (1985) CZ Dabing' candidates=7
+[01:33:07]   candidate upload_id=59341e2686f43 url=https://prehraj.to/007-james-bond-vyhlidka-na-vrazdu-cz-dabing-1985-lehi/59341e2686f43
+[01:33:09]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/2291360/YZ9c76SgPtnrIlZsJQTZvSnWhaPIOqsl1HKAT…)
+[01:33:35]   downloaded 698.7 MB in 24.6s (28.4 MB/s)
+[01:34:07]   upload done video_id=24928934 in 32.2s
