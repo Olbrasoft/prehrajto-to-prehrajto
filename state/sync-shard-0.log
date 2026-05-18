@@ -19178,3 +19178,14 @@
 [02:43:50]   upload done video_id=24931257 in 33.9s
 [02:43:51] film cr_film_id=11426 OK in 68.3s
 [02:43:51] batch-end ok=20 failed=0 dur=1968.7s avg/film=98.4s remaining=14681 eta_hours=401.3
+
+===== run 2026-05-18T03:01:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26011172787) =====
+[03:01:05] batch-start shard=0/2 count=20 backlog=17650 uploads=2969 failed_attempts=645
+[03:01:05] login
+[03:01:06] login done
+[03:01:06] iteration 1/20
+[03:01:06] film cr_film_id=11430 name='Fandy ó Fandy (1983) CZ Dabing' candidates=1
+[03:01:06]   candidate upload_id=7aa28741bcd8cfb9 url=https://prehraj.to/fandy-o-fandy-1983-czdabing/7aa28741bcd8cfb9
+[03:01:08]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/165523976/kXQiAOH4Pfvkf9kUR7fMRHO5FqbcbzF1XiN…)
+[03:01:34]   downloaded 665.2 MB in 24.4s (27.3 MB/s)
+[03:02:18]   upload done video_id=24931847 in 44.1s
