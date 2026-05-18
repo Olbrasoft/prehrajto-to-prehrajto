@@ -64280,6 +64280,25 @@
         "download_sec": 23.3,
         "upload_sec": 30.9
       }
+    },
+    {
+      "cr_film_id": 12917,
+      "cr_slug": "sedmy-hrich",
+      "title": "Sedmý hřích",
+      "year": 2001,
+      "display_name": "Sedmý hřích (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63d6c74616427",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24960531,
+      "size_bytes": 3662809301,
+      "uploaded_at": "2026-05-18T22:19:01Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 132.0,
+        "upload_sec": 177.7
+      }
     }
   ],
   "failed_attempts": [
@@ -65527,5 +65546,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-18T22:13:47Z"
+  "last_updated": "2026-05-18T22:19:01Z"
 }
