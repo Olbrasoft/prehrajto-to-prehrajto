@@ -18726,3 +18726,14 @@
 [00:39:59]   upload done video_id=24926745 in 26.4s
 [00:40:01] film cr_film_id=11545 OK in 50.7s
 [00:40:01] batch-end ok=20 failed=0 dur=1807.2s avg/film=90.4s remaining=14786 eta_hours=371.3
+
+===== run 2026-05-18T00:40:12Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26007100948) =====
+[00:40:13] batch-start shard=1/2 count=20 backlog=17650 uploads=2864 failed_attempts=166
+[00:40:13] login
+[00:40:15] login done
+[00:40:15] iteration 1/20
+[00:40:15] film cr_film_id=11547 name='Sladké starosti (1984) CZ' candidates=1
+[00:40:15]   candidate upload_id=581fff7a985d3 url=https://prehraj.to/sladke-starosti-1984-ceskoslovensko-komedie/581fff7a985d3
+[00:40:16]   resolved in 1.7s → 480p (https://pf-storage5.premiumcdn.net/808900/vbWtaDfBkcLKupPURbcVzf6RTdVCa3iXwClOTR…)
+[00:40:51]   downloaded 606.8 MB in 32.2s (18.8 MB/s)
+[00:41:30]   upload done video_id=24926798 in 39.5s
