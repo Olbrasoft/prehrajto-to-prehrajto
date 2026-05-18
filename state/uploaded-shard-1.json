@@ -58903,6 +58903,25 @@
         "download_sec": 26.2,
         "upload_sec": 46.9
       }
+    },
+    {
+      "cr_film_id": 12169,
+      "cr_slug": "mala-odesa",
+      "title": "Malá Oděsa",
+      "year": 1994,
+      "display_name": "Malá Oděsa (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "585980a2c78d2",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24945159,
+      "size_bytes": 387036902,
+      "uploaded_at": "2026-05-18T09:37:05Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 22.6,
+        "upload_sec": 24.3
+      }
     }
   ],
   "failed_attempts": [
@@ -60136,5 +60155,5 @@
       "failed_at": "2026-05-18T04:22:02Z"
     }
   ],
-  "last_updated": "2026-05-18T09:36:13Z"
+  "last_updated": "2026-05-18T09:37:05Z"
 }
