@@ -61124,6 +61124,25 @@
         "download_sec": 29.9,
         "upload_sec": 37.9
       }
+    },
+    {
+      "cr_film_id": 12082,
+      "cr_slug": "kanarska-spojka",
+      "title": "Kanárská spojka",
+      "year": 1993,
+      "display_name": "Kanárská spojka (1993) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58387ac25dadb",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24948944,
+      "size_bytes": 1061317524,
+      "uploaded_at": "2026-05-18T12:30:15Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 47.7,
+        "upload_sec": 54.1
+      }
     }
   ],
   "failed_attempts": [
@@ -65678,5 +65697,5 @@
       "failed_at": "2026-05-18T02:09:44Z"
     }
   ],
-  "last_updated": "2026-05-18T12:28:28Z"
+  "last_updated": "2026-05-18T12:30:15Z"
 }
