@@ -55861,6 +55861,25 @@
         "download_sec": 20.2,
         "upload_sec": 24.5
       }
+    },
+    {
+      "cr_film_id": 11330,
+      "cr_slug": "caligula",
+      "title": "Caligula",
+      "year": 1979,
+      "display_name": "Caligula (1979) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "678e39f0350ed",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24929817,
+      "size_bytes": 1013063044,
+      "uploaded_at": "2026-05-18T01:59:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 28.0,
+        "upload_sec": 34.3
+      }
     }
   ],
   "failed_attempts": [
@@ -60401,5 +60420,5 @@
       "failed_at": "2026-05-18T01:35:55Z"
     }
   ],
-  "last_updated": "2026-05-18T01:58:33Z"
+  "last_updated": "2026-05-18T01:59:39Z"
 }
