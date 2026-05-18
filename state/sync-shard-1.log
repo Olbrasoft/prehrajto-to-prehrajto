@@ -22672,3 +22672,14 @@
 [22:52:38]   upload done video_id=24962661 in 56.3s
 [22:52:39] film cr_film_id=12957 OK in 103.5s
 [22:52:39] batch-end ok=20 failed=0 dur=2732.3s avg/film=136.6s remaining=14249 eta_hours=540.7
+
+===== run 2026-05-18T22:54:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26065140833) =====
+[22:54:04] batch-start shard=1/2 count=20 backlog=17650 uploads=3401 failed_attempts=172
+[22:54:04] login
+[22:54:05] login done
+[22:54:05] iteration 1/20
+[22:54:05] film cr_film_id=12959 name='Přísaha (2001) CZ Dabing' candidates=20
+[22:54:05]   candidate upload_id=5c367e48c8ce8 url=https://prehraj.to/prisaha-2001-cz-dabing/5c367e48c8ce8
+[22:54:06]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/10780982/GylsJqu03sOYujQS4muB0uyLFPYiawSDmHjX…)
+[22:54:31]   downloaded 723.6 MB in 23.5s (30.8 MB/s)
+[22:55:00]   upload done video_id=24962966 in 29.3s
