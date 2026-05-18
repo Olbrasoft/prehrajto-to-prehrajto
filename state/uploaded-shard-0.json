@@ -64164,6 +64164,25 @@
         "download_sec": 87.6,
         "upload_sec": 86.2
       }
+    },
+    {
+      "cr_film_id": 12510,
+      "cr_slug": "babicka-1971",
+      "title": "Babička",
+      "year": 1971,
+      "display_name": "Babička (1971) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "eca425c9b5d7378b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24958284,
+      "size_bytes": 2366881566,
+      "uploaded_at": "2026-05-18T20:03:41Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 110.4,
+        "upload_sec": 192.3
+      }
     }
   ],
   "failed_attempts": [
@@ -68739,5 +68758,5 @@
       "failed_at": "2026-05-18T16:39:26Z"
     }
   ],
-  "last_updated": "2026-05-18T19:58:33Z"
+  "last_updated": "2026-05-18T20:03:41Z"
 }
