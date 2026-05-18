@@ -22684,3 +22684,14 @@
 [22:37:28]   upload done video_id=24960844 in 52.0s
 [22:37:29] film cr_film_id=12684 OK in 99.8s
 [22:37:29] batch-end ok=20 failed=0 dur=1823.8s avg/film=91.2s remaining=14203 eta_hours=359.8
+
+===== run 2026-05-18T22:54:00Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26065140833) =====
+[22:54:01] batch-start shard=0/2 count=20 backlog=17650 uploads=3447 failed_attempts=649
+[22:54:01] login
+[22:54:02] login done
+[22:54:02] iteration 1/20
+[22:54:02] film cr_film_id=12686 name='Lelíček ve službách Sherlocka Holmesa (1932) CZ' candidates=2
+[22:54:02]   candidate upload_id=6014308fadc74 url=https://prehraj.to/lelicek-ve-sluzbach-sherlocka-holmesa-1932-vlasta-burian-film-pro-pametniky-ceskoslovensko-by-telefilm/6014308fadc74
+[22:54:04]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/21840639/1evSBvIBaF2kU0dc3LU2lImAcOLczQHdqUOe…)
+[22:54:28]   downloaded 743.2 MB in 22.8s (32.6 MB/s)
+[22:55:06]   upload done video_id=24962959 in 38.1s
