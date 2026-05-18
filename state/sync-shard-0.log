@@ -18743,3 +18743,14 @@
 [01:10:04]   upload done video_id=24927863 in 233.2s
 [01:10:06] film cr_film_id=11254 OK in 409.3s
 [01:10:06] batch-end ok=20 failed=0 dur=3611.9s avg/film=180.6s remaining=14738 eta_hours=739.4
+
+===== run 2026-05-18T01:10:16Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26007100948) =====
+[01:10:17] batch-start shard=0/2 count=20 backlog=17650 uploads=2912 failed_attempts=641
+[01:10:17] login
+[01:10:19] login done
+[01:10:19] iteration 1/20
+[01:10:19] film cr_film_id=11256 name='Úsvit mrtvých (1978) CZ Dabing' candidates=3
+[01:10:19]   candidate upload_id=68db3c08482b0 url=https://prehraj.to/usvit-mrtvych-1978-cz-dabing-full-hd-1080p/68db3c08482b0
+[01:10:20]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/149053362/yDytRQioLSn3H10hJ8FLniyLsq7f8KuR0hR…)
+[01:12:03]   downloaded 3,633.3 MB in 101.1s (35.9 MB/s)
+[01:14:14]   upload done video_id=24928090 in 130.4s
