@@ -60630,6 +60630,25 @@
         "download_sec": 60.3,
         "upload_sec": 66.7
       }
+    },
+    {
+      "cr_film_id": 12024,
+      "cr_slug": "travnikar",
+      "title": "Trávníkář",
+      "year": 1992,
+      "display_name": "Trávníkář (1992) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "606a43e5694f6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24947679,
+      "size_bytes": 2652245001,
+      "uploaded_at": "2026-05-18T11:24:22Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 106.6,
+        "upload_sec": 127.4
+      }
     }
   ],
   "failed_attempts": [
@@ -65184,5 +65203,5 @@
       "failed_at": "2026-05-18T02:09:44Z"
     }
   ],
-  "last_updated": "2026-05-18T11:20:23Z"
+  "last_updated": "2026-05-18T11:24:22Z"
 }
