@@ -22830,3 +22830,14 @@
 [23:18:49]   upload done video_id=24963758 in 18.0s
 [23:18:50] film cr_film_id=12758 OK in 38.5s
 [23:18:50] batch-end ok=20 failed=0 dur=1487.8s avg/film=74.4s remaining=14183 eta_hours=293.1
+
+===== run 2026-05-18T23:27:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26066399345) =====
+[23:27:31] batch-start shard=0/2 count=20 backlog=17650 uploads=3467 failed_attempts=649
+[23:27:31] login
+[23:27:33] login done
+[23:27:33] iteration 1/20
+[23:27:33] film cr_film_id=12760 name='Sedm hladových (1988) CZ' candidates=1
+[23:27:33]   candidate upload_id=5adfc6caa213c url=https://prehraj.to/sedm-hladovych-1988-cely-film/5adfc6caa213c
+[23:27:34]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/3954891/J20iPYfw4hGkS73CKzF3zfRYFQ9Slvc7rsV2s…)
+[23:27:58]   downloaded 392.5 MB in 21.5s (18.3 MB/s)
+[23:28:25]   upload done video_id=24963899 in 27.1s
