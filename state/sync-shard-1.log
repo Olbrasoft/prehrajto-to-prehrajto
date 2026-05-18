@@ -21060,3 +21060,14 @@
 [13:31:16]   upload done video_id=24950631 in 55.5s
 [13:31:18] film cr_film_id=12375 OK in 106.9s
 [13:31:18] batch-end ok=20 failed=0 dur=4873.0s avg/film=243.7s remaining=14469 eta_hours=979.5
+
+===== run 2026-05-18T13:31:33Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26035352611) =====
+[13:31:34] batch-start shard=1/2 count=20 backlog=17650 uploads=3181 failed_attempts=170
+[13:31:34] login
+[13:31:36] login done
+[13:31:36] iteration 1/20
+[13:31:36] film cr_film_id=12377 name='V nepřátelských vodách (1997) CZ' candidates=2
+[13:31:36]   candidate upload_id=65f2239c8cbff url=https://prehraj.to/v-nepratelskych-vodach-hostile-waters-1997-cz-mp4/65f2239c8cbff
+[13:31:37]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/74544662/mAbHrmhDJc73clnT9bT5EhZOuPvuwYfpzHqv…)
+[13:32:11]   downloaded 620.0 MB in 31.5s (19.7 MB/s)
+[13:32:48]   upload done video_id=24950682 in 36.8s
