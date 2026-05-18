@@ -20054,3 +20054,14 @@
 [07:24:43]   upload done video_id=24939597 in 73.2s
 [07:24:45] film cr_film_id=11752 OK in 136.2s
 [07:24:45] batch-end ok=20 failed=0 dur=2441.4s avg/film=122.1s remaining=14561 eta_hours=493.9
+
+===== run 2026-05-18T07:25:04Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26019137852) =====
+[07:25:05] batch-start shard=0/2 count=20 backlog=17650 uploads=3089 failed_attempts=645
+[07:25:05] login
+[07:25:07] login done
+[07:25:07] iteration 1/20
+[07:25:07] film cr_film_id=11754 name='Dům veselých duchů (1988) CZ Dabing' candidates=1
+[07:25:07]   candidate upload_id=9a5e6e2b882a03b1 url=https://prehraj.to/dum-veselych-duchu-komedie-horor-1988-cz-dab/9a5e6e2b882a03b1
+[07:25:08]   resolved in 1.5s → 480p (https://pf-storage3.premiumcdn.net/169008805/zgLinOc9MhN1UMqFnLU15cnLtkDfAyI4RIy…)
+[07:25:35]   downloaded 536.4 MB in 24.3s (22.1 MB/s)
+[07:26:08]   upload done video_id=24939653 in 33.0s
