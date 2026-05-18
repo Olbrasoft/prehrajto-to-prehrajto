@@ -19470,3 +19470,14 @@
 [04:24:04]   upload done video_id=24934257 in 26.7s
 [04:24:05] film cr_film_id=11538 OK in 51.5s
 [04:24:05] batch-end ok=20 failed=0 dur=2160.7s avg/film=108.0s remaining=14641 eta_hours=439.2
+
+===== run 2026-05-18T04:35:04Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26013733344) =====
+[04:35:06] batch-start shard=0/2 count=20 backlog=17650 uploads=3009 failed_attempts=645
+[04:35:06] login
+[04:35:07] login done
+[04:35:07] iteration 1/20
+[04:35:07] film cr_film_id=11540 name='Kočičí zlato (1984) CZ' candidates=1
+[04:35:07]   candidate upload_id=5aa18161dc86f url=https://prehraj.to/kocici-zlato-1984/5aa18161dc86f
+[04:35:09]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/3568708/kWXfZlu3XIqpUy2FOECoZuqLUw3UyncVnU1LS…)
+[04:35:45]   downloaded 661.8 MB in 33.9s (19.5 MB/s)
+[04:36:31]   upload done video_id=24934659 in 45.8s
