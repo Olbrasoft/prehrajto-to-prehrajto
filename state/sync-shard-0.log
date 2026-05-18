@@ -21515,3 +21515,14 @@
 [16:14:41]   upload done video_id=24954093 in 29.3s
 [16:14:42] film cr_film_id=12264 OK in 58.9s
 [16:14:42] batch-end ok=20 failed=0 dur=2313.3s avg/film=115.7s remaining=14362 eta_hours=461.6
+
+===== run 2026-05-18T16:15:29Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26045696137) =====
+[16:15:30] batch-start shard=0/2 count=20 backlog=17650 uploads=3288 failed_attempts=647
+[16:15:30] login
+[16:15:31] login done
+[16:15:31] iteration 1/20
+[16:15:31] film cr_film_id=12268 name='101 dalmatinů (1996) CZ Dabing' candidates=9
+[16:15:31]   candidate upload_id=8e09020fd11aed3a url=https://prehraj.to/101-dalmatinu-1996-cz-dab-1080p/8e09020fd11aed3a
+[16:15:32]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/168514453/b8Mi1vU0piY8IM0cVXCjqU3oHyRuGYIXofy…)
+[16:16:59]   downloaded 2,509.8 MB in 84.6s (29.7 MB/s)
+[16:18:51]   upload done video_id=24954161 in 112.2s
