@@ -22818,3 +22818,14 @@
 [23:26:33]   upload done video_id=24963877 in 24.7s
 [23:26:34] film cr_film_id=13001 OK in 47.1s
 [23:26:34] batch-end ok=20 failed=0 dur=1949.4s avg/film=97.5s remaining=14229 eta_hours=385.4
+
+===== run 2026-05-18T23:27:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26066399345) =====
+[23:27:30] batch-start shard=1/2 count=20 backlog=17650 uploads=3421 failed_attempts=172
+[23:27:30] login
+[23:27:31] login done
+[23:27:31] iteration 1/20
+[23:27:31] film cr_film_id=13003 name='Citlivá místa (1988) CZ' candidates=1
+[23:27:31]   candidate upload_id=5e1c8b017d7fc url=https://prehraj.to/citliva-mista-1987-cz-tvrip/5e1c8b017d7fc
+[23:27:33]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/15655309/2YVh8XFELH1zh0XfXPiwAFGRSwWCRySM6tQ9…)
+[23:28:17]   downloaded 812.2 MB in 42.3s (19.2 MB/s)
+[23:29:04]   upload done video_id=24963904 in 46.8s
