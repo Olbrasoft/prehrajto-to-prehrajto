@@ -61620,6 +61620,25 @@
         "download_sec": 63.8,
         "upload_sec": 83.5
       }
+    },
+    {
+      "cr_film_id": 12545,
+      "cr_slug": "generalova-dcera",
+      "title": "Generálova dcera",
+      "year": 1999,
+      "display_name": "Generálova dcera (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6815e776c0cc1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24954352,
+      "size_bytes": 2126528570,
+      "uploaded_at": "2026-05-18T16:27:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 69.9,
+        "upload_sec": 91.3
+      }
     }
   ],
   "failed_attempts": [
@@ -62860,5 +62879,5 @@
       "failed_at": "2026-05-18T15:29:30Z"
     }
   ],
-  "last_updated": "2026-05-18T16:24:16Z"
+  "last_updated": "2026-05-18T16:27:02Z"
 }
