@@ -62912,6 +62912,25 @@
         "download_sec": 48.2,
         "upload_sec": 18.5
       }
+    },
+    {
+      "cr_film_id": 12719,
+      "cr_slug": "causa-kralik",
+      "title": "Causa Králík",
+      "year": 1980,
+      "display_name": "Causa Králík (1980) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68950e6678d8f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24956883,
+      "size_bytes": 2168130554,
+      "uploaded_at": "2026-05-18T18:49:07Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 57.4,
+        "upload_sec": 80.8
+      }
     }
   ],
   "failed_attempts": [
@@ -64152,5 +64171,5 @@
       "failed_at": "2026-05-18T15:29:30Z"
     }
   ],
-  "last_updated": "2026-05-18T18:46:45Z"
+  "last_updated": "2026-05-18T18:49:07Z"
 }
