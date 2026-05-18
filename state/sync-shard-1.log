@@ -21501,3 +21501,14 @@
 [16:10:08]   upload done video_id=24953988 in 23.4s
 [16:10:10] film cr_film_id=12533 OK in 48.7s
 [16:10:10] batch-end ok=20 failed=0 dur=2041.4s avg/film=102.1s remaining=14409 eta_hours=408.7
+
+===== run 2026-05-18T16:15:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26045696137) =====
+[16:15:30] batch-start shard=1/2 count=20 backlog=17650 uploads=3241 failed_attempts=171
+[16:15:30] login
+[16:15:32] login done
+[16:15:32] iteration 1/20
+[16:15:32] film cr_film_id=12539 name='Ponorka U-571 (2000) CZ Dabing' candidates=9
+[16:15:32]   candidate upload_id=63e48dd7c753e url=https://prehraj.to/ponorka-u-571-2000-cz-dab-1080p/63e48dd7c753e
+[16:15:33]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/37204120/pw1UgqcD8ikxH8Gta6FDEcZnFNaIywCWbimZ…)
+[16:19:24]   downloaded 3,041.5 MB in 229.2s (13.3 MB/s)
+[16:21:44]   upload done video_id=24954220 in 139.4s
