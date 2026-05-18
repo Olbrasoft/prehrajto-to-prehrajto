@@ -60269,6 +60269,25 @@
         "download_sec": 100.9,
         "upload_sec": 148.2
       }
+    },
+    {
+      "cr_film_id": 11968,
+      "cr_slug": "zavod-lasky",
+      "title": "Závod lásky",
+      "year": 1991,
+      "display_name": "Závod lásky (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6702b77cec680",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24946669,
+      "size_bytes": 1981001383,
+      "uploaded_at": "2026-05-18T10:38:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 57.1,
+        "upload_sec": 74.5
+      }
     }
   ],
   "failed_attempts": [
@@ -64823,5 +64842,5 @@
       "failed_at": "2026-05-18T02:09:44Z"
     }
   ],
-  "last_updated": "2026-05-18T10:36:00Z"
+  "last_updated": "2026-05-18T10:38:16Z"
 }
