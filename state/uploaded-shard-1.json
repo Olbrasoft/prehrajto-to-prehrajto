@@ -64242,6 +64242,25 @@
         "download_sec": 40.7,
         "upload_sec": 55.4
       }
+    },
+    {
+      "cr_film_id": 12907,
+      "cr_slug": "6-den",
+      "title": "6. den",
+      "year": 2000,
+      "display_name": "6. den (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60f925b9166ee",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24960441,
+      "size_bytes": 4136047915,
+      "uploaded_at": "2026-05-18T22:12:48Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 151.1,
+        "upload_sec": 186.1
+      }
     }
   ],
   "failed_attempts": [
@@ -65489,5 +65508,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-18T22:06:29Z"
+  "last_updated": "2026-05-18T22:12:48Z"
 }
