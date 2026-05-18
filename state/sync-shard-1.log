@@ -19746,3 +19746,14 @@
 [06:07:32]   upload done video_id=24937353 in 36.7s
 [06:07:33] film cr_film_id=11911 OK in 74.5s
 [06:07:33] batch-end ok=20 failed=0 dur=2543.7s avg/film=127.2s remaining=14649 eta_hours=517.6
+
+===== run 2026-05-18T06:09:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26016620984) =====
+[06:09:05] batch-start shard=1/2 count=20 backlog=17650 uploads=3001 failed_attempts=170
+[06:09:05] login
+[06:09:07] login done
+[06:09:07] iteration 1/20
+[06:09:07] film cr_film_id=11913 name='Plod noci (1990) CZ Dabing' candidates=7
+[06:09:07]   candidate upload_id=5b7caa7bd34de url=https://prehraj.to/plod-noci-nightbreed-1990-cz-dabing/5b7caa7bd34de
+[06:09:08]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/5374338/79Jsl1T5ktODTNAt6ZHr4Tk4HzaF3kidJUBmF…)
+[06:09:31]   downloaded 627.9 MB in 21.2s (29.6 MB/s)
+[06:10:00]   upload done video_id=24937426 in 29.8s
