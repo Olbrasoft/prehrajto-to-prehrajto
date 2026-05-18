@@ -59321,6 +59321,25 @@
         "download_sec": 51.6,
         "upload_sec": 56.4
       }
+    },
+    {
+      "cr_film_id": 12221,
+      "cr_slug": "vrazdy-podle-predlohy",
+      "title": "Vraždy podle předlohy",
+      "year": 1995,
+      "display_name": "Vraždy podle předlohy (1995) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ad727e0e72ca",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24946560,
+      "size_bytes": 1054662765,
+      "uploaded_at": "2026-05-18T10:33:45Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 48.6,
+        "upload_sec": 59.7
+      }
     }
   ],
   "failed_attempts": [
@@ -60554,5 +60573,5 @@
       "failed_at": "2026-05-18T04:22:02Z"
     }
   ],
-  "last_updated": "2026-05-18T10:31:50Z"
+  "last_updated": "2026-05-18T10:33:45Z"
 }
