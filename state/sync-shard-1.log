@@ -19306,3 +19306,14 @@
 [03:42:18]   upload done video_id=24932977 in 84.9s
 [03:42:20] film cr_film_id=11749 OK in 162.6s
 [03:42:20] batch-end ok=19 failed=1 dur=2474.0s avg/film=130.2s remaining=14709 eta_hours=532.0
+
+===== run 2026-05-18T03:48:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26012424912) =====
+[03:48:06] batch-start shard=1/2 count=20 backlog=17650 uploads=2941 failed_attempts=169
+[03:48:06] login
+[03:48:08] login done
+[03:48:08] iteration 1/20
+[03:48:08] film cr_film_id=11751 name='Gor (1987) CZ Dabing' candidates=3
+[03:48:08]   candidate upload_id=188db9c882102c70 url=https://prehraj.to/gor-1987-cz-dab-1080p-mp4/188db9c882102c70
+[03:48:09]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/155639567/DMjhjDUdOHkbIZ2SYPuQzUn3CROh0xcpMi0…)
+[03:49:27]   downloaded 1,537.5 MB in 76.1s (20.2 MB/s)
+[03:50:57]   upload done video_id=24933245 in 89.6s
