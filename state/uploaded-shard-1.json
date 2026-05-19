@@ -75623,6 +75623,25 @@
         "download_sec": 55.3,
         "upload_sec": 35.0
       }
+    },
+    {
+      "cr_film_id": 14653,
+      "cr_slug": "mstitel-2009",
+      "title": "Mstitel",
+      "year": 2009,
+      "display_name": "Mstitel (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a5a2616fd84f594c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25005854,
+      "size_bytes": 554960543,
+      "uploaded_at": "2026-05-19T18:25:15Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 46.8,
+        "upload_sec": 29.7
+      }
     }
   ],
   "failed_attempts": [
@@ -76926,5 +76945,5 @@
       "failed_at": "2026-05-19T16:39:51Z"
     }
   ],
-  "last_updated": "2026-05-19T18:23:53Z"
+  "last_updated": "2026-05-19T18:25:15Z"
 }
