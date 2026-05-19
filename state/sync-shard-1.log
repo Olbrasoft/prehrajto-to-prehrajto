@@ -22964,3 +22964,14 @@
 [00:03:55]   upload done video_id=24964445 in 32.9s
 [00:03:56] film cr_film_id=13063 OK in 68.5s
 [00:03:56] batch-end ok=20 failed=0 dur=2185.0s avg/film=109.2s remaining=14209 eta_hours=431.0
+
+===== run 2026-05-19T00:14:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26068091121) =====
+[00:14:28] batch-start shard=1/2 count=20 backlog=17650 uploads=3441 failed_attempts=172
+[00:14:28] login
+[00:14:34] login done
+[00:14:34] iteration 1/20
+[00:14:34] film cr_film_id=13067 name='Rodinné trampoty oficiála Tříšky (1949) CZ' candidates=6
+[00:14:34]   candidate upload_id=60b8c387d6e80 url=https://prehraj.to/rodinne-trampoty-oficiala-trisky-1949/60b8c387d6e80
+[00:14:36]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/23741757/WzQF4gcmEIYVSl8uLESY5c28H6xFdmHp1H0x…)
+[00:16:03]   downloaded 2,675.5 MB in 85.8s (31.2 MB/s)
+[00:18:04]   upload done video_id=24964646 in 120.5s
