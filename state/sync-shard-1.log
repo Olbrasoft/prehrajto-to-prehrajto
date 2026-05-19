@@ -25736,3 +25736,14 @@
 [11:49:34]   upload done video_id=24989004 in 38.9s
 [11:49:36] film cr_film_id=14105 OK in 75.6s
 [11:49:36] batch-end ok=20 failed=0 dur=2540.3s avg/film=127.0s remaining=13830 eta_hours=487.9
+
+===== run 2026-05-19T11:51:14Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26095310736) =====
+[11:51:15] batch-start shard=1/2 count=20 backlog=17650 uploads=3820 failed_attempts=173
+[11:51:15] login
+[11:51:17] login done
+[11:51:17] iteration 1/20
+[11:51:17] film cr_film_id=14107 name='Posel z Liptákova (1997) CZ' candidates=2
+[11:51:17]   candidate upload_id=66a6eba23e030 url=https://prehraj.to/divadlo-jary-cimrmana-08-1977-1997-posel-z-liptakova-720p-bydejv/66a6eba23e030
+[11:51:18]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/87549563/NNyuM3CBRskMsgwCYvfZPCRKH0esR1cmgtbm…)
+[11:51:47]   downloaded 919.2 MB in 27.7s (33.2 MB/s)
+[11:52:25]   upload done video_id=24989034 in 38.3s
