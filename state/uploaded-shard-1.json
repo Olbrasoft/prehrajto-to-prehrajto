@@ -66199,6 +66199,25 @@
         "download_sec": 80.5,
         "upload_sec": 89.7
       }
+    },
+    {
+      "cr_film_id": 13179,
+      "cr_slug": "chtic",
+      "title": "Chtíč",
+      "year": 2002,
+      "display_name": "Chtíč (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66b35aab3602f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24965645,
+      "size_bytes": 495708660,
+      "uploaded_at": "2026-05-19T01:17:23Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 22.3,
+        "upload_sec": 37.1
+      }
     }
   ],
   "failed_attempts": [
@@ -67446,5 +67465,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-19T01:16:18Z"
+  "last_updated": "2026-05-19T01:17:23Z"
 }
