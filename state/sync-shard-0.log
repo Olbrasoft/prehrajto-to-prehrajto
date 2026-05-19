@@ -27346,3 +27346,14 @@
 [20:45:56]   upload done video_id=25010048 in 57.7s
 [20:45:58] film cr_film_id=14560 OK in 108.5s
 [20:45:58] batch-end ok=20 failed=0 dur=3412.3s avg/film=170.6s remaining=13572 eta_hours=643.2
+
+===== run 2026-05-19T21:54:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26127644733) =====
+[21:54:42] batch-start shard=0/2 count=20 backlog=17650 uploads=4078 failed_attempts=660
+[21:54:42] login
+[21:54:44] login done
+[21:54:44] iteration 1/20
+[21:54:44] film cr_film_id=14572 name='Sněženky a machři po 25 letech (2008) CZ' candidates=5
+[21:54:44]   candidate upload_id=5fcde54f5e5fb url=https://prehraj.to/snezenky-a-machri-po-25-letech-2008/5fcde54f5e5fb
+[21:54:45]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/20615379/aZzFgehqdUgku4bS9QS7pha9IJeFN6tEeFqL…)
+[21:56:15]   downloaded 3,128.7 MB in 88.5s (35.4 MB/s)
+[21:58:06]   upload done video_id=25011979 in 110.3s
