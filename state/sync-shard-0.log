@@ -25166,3 +25166,14 @@
 [08:56:18]   upload done video_id=24986834 in 18.4s
 [08:56:19] film cr_film_id=13666 OK in 37.2s
 [08:56:19] batch-end ok=19 failed=1 dur=1716.6s avg/film=90.3s remaining=13866 eta_hours=347.8
+
+===== run 2026-05-19T08:58:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26087042929) =====
+[08:58:03] batch-start shard=0/2 count=20 backlog=17650 uploads=3784 failed_attempts=653
+[08:58:03] login
+[08:58:05] login done
+[08:58:05] iteration 1/20
+[08:58:05] film cr_film_id=13658 name='Křišťálová řeka (2008) CZ Dabing' candidates=1
+[08:58:05]   candidate upload_id=6176f8d94d6b6 url=https://prehraj.to/kristalova-reka-2008-czdab/6176f8d94d6b6
+[08:58:06]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/25860286/Q6ahLnTyEIk0svjieBU0RTl8heESoZF6YTwa…)
+[08:59:16]   downloaded 2,087.8 MB in 69.0s (30.3 MB/s)
+[09:00:32]   upload done video_id=24986865 in 75.2s
