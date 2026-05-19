@@ -23548,3 +23548,14 @@
 [02:16:58]   upload done video_id=24966515 in 53.6s
 [02:16:59] film cr_film_id=13275 OK in 99.3s
 [02:16:59] batch-end ok=20 failed=0 dur=1711.1s avg/film=85.6s remaining=14129 eta_hours=336.0
+
+===== run 2026-05-19T02:41:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26072879231) =====
+[02:41:26] batch-start shard=1/2 count=20 backlog=17650 uploads=3521 failed_attempts=172
+[02:41:26] login
+[02:41:28] login done
+[02:41:28] iteration 1/20
+[02:41:28] film cr_film_id=13279 name='Král temné síly (2003) CZ Dabing' candidates=3
+[02:41:28]   candidate upload_id=689ae8af5c5db url=https://prehraj.to/horror-cz-dab-kral-temne-sily-king-of-the-ants-2003-cz-sktonline-mp4/689ae8af5c5db
+[02:41:29]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/143494307/xLAf9kcPgu8Os65IDGuRwcYptyKTvjs4ZUe…)
+[02:41:48]   downloaded 458.6 MB in 17.0s (27.0 MB/s)
+[02:42:07]   upload done video_id=24966856 in 19.2s
