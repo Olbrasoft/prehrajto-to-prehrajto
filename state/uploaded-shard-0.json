@@ -73588,6 +73588,25 @@
         "download_sec": 80.4,
         "upload_sec": 90.4
       }
+    },
+    {
+      "cr_film_id": 13896,
+      "cr_slug": "maj",
+      "title": "Máj",
+      "year": 2008,
+      "display_name": "Máj (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6759a31ef0e97",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24989344,
+      "size_bytes": 1083606236,
+      "uploaded_at": "2026-05-19T12:06:59Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 37.0,
+        "upload_sec": 57.0
+      }
     }
   ],
   "failed_attempts": [
@@ -78208,5 +78227,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-19T12:05:21Z"
+  "last_updated": "2026-05-19T12:06:59Z"
 }
