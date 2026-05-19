@@ -67035,6 +67035,25 @@
         "download_sec": 37.6,
         "upload_sec": 44.8
       }
+    },
+    {
+      "cr_film_id": 13301,
+      "cr_slug": "paparazzi",
+      "title": "Paparazzi",
+      "year": 2004,
+      "display_name": "Paparazzi (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d6d6b159fd3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24966956,
+      "size_bytes": 361065904,
+      "uploaded_at": "2026-05-19T02:50:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.5,
+        "upload_sec": 24.4
+      }
     }
   ],
   "failed_attempts": [
@@ -68282,5 +68301,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-19T02:49:21Z"
+  "last_updated": "2026-05-19T02:50:03Z"
 }
