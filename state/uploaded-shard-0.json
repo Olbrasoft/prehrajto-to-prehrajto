@@ -70301,6 +70301,25 @@
         "download_sec": 30.9,
         "upload_sec": 36.5
       }
+    },
+    {
+      "cr_film_id": 13440,
+      "cr_slug": "doznani-2005",
+      "title": "Doznání",
+      "year": 2005,
+      "display_name": "Doznání (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6005c96f55d3c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24969764,
+      "size_bytes": 996756765,
+      "uploaded_at": "2026-05-19T06:25:41Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 38.1,
+        "upload_sec": 42.5
+      }
     }
   ],
   "failed_attempts": [
@@ -74902,5 +74921,5 @@
       "failed_at": "2026-05-19T01:42:21Z"
     }
   ],
-  "last_updated": "2026-05-19T06:24:16Z"
+  "last_updated": "2026-05-19T06:25:41Z"
 }
