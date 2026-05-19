@@ -26188,3 +26188,14 @@
 [14:06:50]   upload done video_id=24996570 in 35.5s
 [14:06:52] film cr_film_id=14024 OK in 69.1s
 [14:06:52] batch-end ok=20 failed=0 dur=2954.7s avg/film=147.7s remaining=13727 eta_hours=563.2
+
+===== run 2026-05-19T14:07:08Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26099981180) =====
+[14:07:09] batch-start shard=0/2 count=20 backlog=17650 uploads=3923 failed_attempts=655
+[14:07:09] login
+[14:07:11] login done
+[14:07:11] iteration 1/20
+[14:07:11] film cr_film_id=14028 name='Šampaňské! (2022) CZ Dabing' candidates=2
+[14:07:11]   candidate upload_id=64e95fdae107b url=https://prehraj.to/sampanske-2022-czdab/64e95fdae107b
+[14:07:12]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/43741613/58mF6ahwMIdnfwkHq4ipYh7XuKVcYpu1kumj…)
+[14:07:52]   downloaded 1,243.1 MB in 38.7s (32.1 MB/s)
+[14:08:38]   upload done video_id=24996662 in 46.3s
