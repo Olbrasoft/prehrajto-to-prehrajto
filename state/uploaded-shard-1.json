@@ -72089,6 +72089,25 @@
         "download_sec": 25.5,
         "upload_sec": 29.5
       }
+    },
+    {
+      "cr_film_id": 14025,
+      "cr_slug": "topside",
+      "title": "Topside",
+      "year": 2020,
+      "display_name": "Topside (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "e81078efe7bd3825",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24988317,
+      "size_bytes": 781928288,
+      "uploaded_at": "2026-05-19T10:46:05Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 39.1,
+        "upload_sec": 36.7
+      }
     }
   ],
   "failed_attempts": [
@@ -73343,5 +73362,5 @@
       "failed_at": "2026-05-19T04:43:01Z"
     }
   ],
-  "last_updated": "2026-05-19T10:44:45Z"
+  "last_updated": "2026-05-19T10:46:05Z"
 }
