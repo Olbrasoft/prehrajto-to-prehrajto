@@ -25152,3 +25152,14 @@
 [08:56:31]   upload done video_id=24986810 in 143.2s
 [08:56:33] film cr_film_id=13869 OK in 270.8s
 [08:56:33] batch-end ok=20 failed=0 dur=1730.8s avg/film=86.5s remaining=13910 eta_hours=334.2
+
+===== run 2026-05-19T08:58:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26087042929) =====
+[08:58:05] batch-start shard=1/2 count=20 backlog=17650 uploads=3740 failed_attempts=173
+[08:58:05] login
+[08:58:07] login done
+[08:58:07] iteration 1/20
+[08:58:07] film cr_film_id=13871 name='Hledá se rys (2008) CZ' candidates=1
+[08:58:07]   candidate upload_id=5a8df0b7e9ed2 url=https://prehraj.to/hleda-se-chuva-2008/5a8df0b7e9ed2
+[08:58:09]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/3437999/O7bhodF7oszku0KfMZfabFN5TOXTo7IvOTPXC…)
+[08:59:01]   downloaded 1,053.5 MB in 49.8s (21.2 MB/s)
+[08:59:56]   upload done video_id=24986858 in 55.3s

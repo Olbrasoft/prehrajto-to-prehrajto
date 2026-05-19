@@ -71063,6 +71063,25 @@
         "download_sec": 123.6,
         "upload_sec": 143.2
       }
+    },
+    {
+      "cr_film_id": 13871,
+      "cr_slug": "hleda-se-rys",
+      "title": "Hledá se rys",
+      "year": 2008,
+      "display_name": "Hledá se rys (2008) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a8df0b7e9ed2",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24986858,
+      "size_bytes": 1053486303,
+      "uploaded_at": "2026-05-19T08:59:56Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 49.8,
+        "upload_sec": 55.3
+      }
     }
   ],
   "failed_attempts": [
@@ -72317,5 +72336,5 @@
       "failed_at": "2026-05-19T04:43:01Z"
     }
   ],
-  "last_updated": "2026-05-19T08:56:31Z"
+  "last_updated": "2026-05-19T08:59:56Z"
 }
