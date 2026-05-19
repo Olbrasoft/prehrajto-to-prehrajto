@@ -78167,6 +78167,25 @@
         "download_sec": 86.4,
         "upload_sec": 99.7
       }
+    },
+    {
+      "cr_film_id": 14678,
+      "cr_slug": "coriolanus",
+      "title": "Coriolanus",
+      "year": 2011,
+      "display_name": "Coriolanus (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58213a3ca50ed",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25014246,
+      "size_bytes": 508652028,
+      "uploaded_at": "2026-05-19T23:10:35Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.0,
+        "upload_sec": 20.0
+      }
     }
   ],
   "failed_attempts": [
@@ -82836,5 +82855,5 @@
       "failed_at": "2026-05-19T19:32:28Z"
     }
   ],
-  "last_updated": "2026-05-19T23:09:53Z"
+  "last_updated": "2026-05-19T23:10:35Z"
 }
