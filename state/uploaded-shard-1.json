@@ -67225,6 +67225,25 @@
         "download_sec": 14.6,
         "upload_sec": 17.9
       }
+    },
+    {
+      "cr_film_id": 13333,
+      "cr_slug": "prizrak-1988",
+      "title": "Přízrak",
+      "year": 1988,
+      "display_name": "Přízrak (1988) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5eb4558f50ed5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24967130,
+      "size_bytes": 423834635,
+      "uploaded_at": "2026-05-19T03:01:32Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.8,
+        "upload_sec": 20.7
+      }
     }
   ],
   "failed_attempts": [
@@ -68472,5 +68491,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-19T03:00:52Z"
+  "last_updated": "2026-05-19T03:01:32Z"
 }
