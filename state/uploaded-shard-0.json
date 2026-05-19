@@ -76989,6 +76989,25 @@
         "download_sec": 316.3,
         "upload_sec": 15.9
       }
+    },
+    {
+      "cr_film_id": 14486,
+      "cr_slug": "lovecke-trofeje",
+      "title": "Lovecké trofeje",
+      "year": 2024,
+      "display_name": "Lovecké trofeje (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68d965dfa8c57",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25008092,
+      "size_bytes": 2496999796,
+      "uploaded_at": "2026-05-19T19:36:22Z",
+      "timing": {
+        "resolve_sec": 6.6,
+        "download_sec": 140.1,
+        "upload_sec": 85.8
+      }
     }
   ],
   "failed_attempts": [
@@ -81649,7 +81668,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muzem-i-s-muzem-2023-cz-dabing-mp4/79756fe1d9c7289e",
       "permanent": true,
       "failed_at": "2026-05-19T19:11:06Z"
+    },
+    {
+      "cr_film_id": 14484,
+      "upload_id": "5067b3a3b8c5f8e9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/thorn-of-war-2021-cz-dabing-mp4/5067b3a3b8c5f8e9",
+      "permanent": true,
+      "failed_at": "2026-05-19T19:32:28Z"
     }
   ],
-  "last_updated": "2026-05-19T19:32:26Z"
+  "last_updated": "2026-05-19T19:36:22Z"
 }
