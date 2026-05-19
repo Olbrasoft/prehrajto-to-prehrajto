@@ -24422,3 +24422,14 @@
 [06:07:00]   upload done video_id=24969557 in 23.8s
 [06:07:02] film cr_film_id=13591 OK in 50.1s
 [06:07:02] batch-end ok=20 failed=0 dur=2485.5s avg/film=124.3s remaining=14010 eta_hours=483.7
+
+===== run 2026-05-19T06:08:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26079574179) =====
+[06:08:02] batch-start shard=1/2 count=20 backlog=17650 uploads=3640 failed_attempts=173
+[06:08:02] login
+[06:08:03] login done
+[06:08:03] iteration 1/20
+[06:08:03] film cr_film_id=13595 name='Síť 2.0 (2005) CZ Dabing' candidates=6
+[06:08:03]   candidate upload_id=5ef46a46485e2 url=https://prehraj.to/sit-2-0-akcni-cz-dab-2006-jad/5ef46a46485e2
+[06:08:04]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/17050968/rQlHkJuGNspMIk5UrYib5uMNIb0CerF0YsMw…)
+[06:08:55]   downloaded 1,537.7 MB in 49.2s (31.3 MB/s)
+[06:09:52]   upload done video_id=24969581 in 57.0s
