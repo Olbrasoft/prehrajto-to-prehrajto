@@ -26042,3 +26042,14 @@
 [13:17:14]   upload done video_id=24993951 in 35.2s
 [13:17:17] film cr_film_id=13976 OK in 61.0s
 [13:17:17] batch-end ok=19 failed=1 dur=2694.7s avg/film=141.8s remaining=13747 eta_hours=541.5
+
+===== run 2026-05-19T13:17:33Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26098665840) =====
+[13:17:34] batch-start shard=0/2 count=20 backlog=17650 uploads=3903 failed_attempts=655
+[13:17:34] login
+[13:17:37] login done
+[13:17:37] iteration 1/20
+[13:17:37] film cr_film_id=13978 name='Velké dobrodružství Čtyřlístku (2019) CZ' candidates=1
+[13:17:37]   candidate upload_id=65ce5a8192ff0 url=https://prehraj.to/velke-dobrodruzstvi-ctyrlistku-2019-bydejv/65ce5a8192ff0
+[13:17:39]   resolved in 1.8s → 1080p (https://pf-storage5.premiumcdn.net/73504919/WB0HbqIYyTpXs7ytaQirGIX9IgBT0BtdWfmo…)
+[13:18:45]   downloaded 1,361.8 MB in 63.2s (21.5 MB/s)
+[13:20:05]   upload done video_id=24994087 in 80.4s
