@@ -27646,3 +27646,15 @@
 [23:26:11]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/47736695/6E8UyrSENHlRFv0HKgT2jSXKtA9irMimnUY8…)
 [23:27:25]   downloaded 1,642.3 MB in 72.1s (22.8 MB/s)
 [23:28:55]   upload done video_id=25016361 in 90.6s
+[23:28:58] film cr_film_id=14961 OK in 168.1s
+[23:28:58] iteration 3/20
+[23:28:58] film cr_film_id=14965 name='S větrem o závod (2024) CZ Dabing' candidates=1
+[23:28:58]   candidate upload_id=d3b11de51f57af0e url=https://prehraj.to/s-vetrem-o-zavod-2024-cz-dab-1080p/d3b11de51f57af0e
+[23:28:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/s-vetrem-o-zavod-2024-cz-dab-1080p/d3b11de51f57af0e (permanent=True)
+[23:28:58] film cr_film_id=14965 all candidates exhausted
+[23:28:58] iteration 4/20
+[23:28:58] film cr_film_id=14967 name='Princezna Husopaska (2009) CZ Dabing' candidates=3
+[23:28:58]   candidate upload_id=6249fb8e02aa272a url=https://prehraj.to/princezna-husopaska-2009-cz-dab-1080p/6249fb8e02aa272a
+[23:29:04]   resolved in 5.8s → 1080p (https://pf-storage5.premiumcdn.net/168396973/k2vcgmuo0tlpUK4urEim7uWPFEDcZNhe8tK…)
+[23:30:53]   downloaded 2,499.5 MB in 106.9s (23.4 MB/s)
+[23:33:00]   upload done video_id=25016557 in 127.1s
