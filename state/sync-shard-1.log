@@ -27048,3 +27048,14 @@
 [19:47:34]   upload done video_id=25008394 in 63.0s
 [19:47:36] film cr_film_id=14713 OK in 126.8s
 [19:47:36] batch-end ok=19 failed=1 dur=5453.7s avg/film=287.0s remaining=13655 eta_hours=1088.6
+
+===== run 2026-05-19T19:47:49Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26117329648) =====
+[19:47:50] batch-start shard=1/2 count=20 backlog=17650 uploads=3995 failed_attempts=182
+[19:47:50] login
+[19:47:52] login done
+[19:47:52] iteration 1/20
+[19:47:52] film cr_film_id=14715 name='Čtvrtý pasažér (2022) CZ Dabing' candidates=6
+[19:47:52]   candidate upload_id=6893deb8765a9 url=https://prehraj.to/ctvrty-pasazer-2022-cz-dab-1080p/6893deb8765a9
+[19:47:53]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/143129153/brXukacBOtmWt7OUz4HjycKXhxQS9OHg5TD…)
+[20:23:15]   downloaded 1,870.7 MB in 2120.0s (0.9 MB/s)
+[20:25:12]   upload done video_id=25009421 in 116.9s
