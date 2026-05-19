@@ -25884,3 +25884,14 @@
 [12:26:33]   upload done video_id=24991675 in 25.0s
 [12:26:34] film cr_film_id=14175 OK in 49.8s
 [12:26:34] batch-end ok=19 failed=1 dur=2117.8s avg/film=111.5s remaining=13811 eta_hours=427.8
+
+===== run 2026-05-19T12:32:22Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26097338789) =====
+[12:32:24] batch-start shard=1/2 count=20 backlog=17650 uploads=3839 failed_attempts=176
+[12:32:24] login
+[12:32:25] login done
+[12:32:25] iteration 1/20
+[12:32:25] film cr_film_id=14179 name='Knight Rider - legenda se vrací (2008) CZ' candidates=2
+[12:32:25]   candidate upload_id=5eaa910b23e2a url=https://prehraj.to/knight-rider-legenda-se-vraci-akcni-2008-pilot-720p-x264-cz-67-sten-ok/5eaa910b23e2a
+[12:32:27]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/16397227/erMTqjs0jTxdSZQulPFnjseDU8XF9xHkqTok…)
+[12:33:24]   downloaded 1,297.1 MB in 54.8s (23.7 MB/s)
+[12:34:53]   upload done video_id=24992094 in 89.4s
