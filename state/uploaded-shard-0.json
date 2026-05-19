@@ -72163,6 +72163,25 @@
         "download_sec": 73.3,
         "upload_sec": 99.6
       }
+    },
+    {
+      "cr_film_id": 13702,
+      "cr_slug": "postal",
+      "title": "Postal",
+      "year": 2007,
+      "display_name": "Postal (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "1d0d1cd04e3429ff",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24987350,
+      "size_bytes": 3555164532,
+      "uploaded_at": "2026-05-19T09:28:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 100.9,
+        "upload_sec": 141.9
+      }
     }
   ],
   "failed_attempts": [
@@ -76783,5 +76802,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-19T09:24:09Z"
+  "last_updated": "2026-05-19T09:28:15Z"
 }
