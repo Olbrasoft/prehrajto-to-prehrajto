@@ -74044,6 +74044,25 @@
         "download_sec": 120.6,
         "upload_sec": 135.9
       }
+    },
+    {
+      "cr_film_id": 13960,
+      "cr_slug": "nocni-incident",
+      "title": "Noční incident",
+      "year": 2011,
+      "display_name": "Noční incident (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d42c87895e6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24993102,
+      "size_bytes": 268641665,
+      "uploaded_at": "2026-05-19T13:05:23Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 14.3,
+        "upload_sec": 18.8
+      }
     }
   ],
   "failed_attempts": [
@@ -78678,5 +78697,5 @@
       "failed_at": "2026-05-19T12:34:23Z"
     }
   ],
-  "last_updated": "2026-05-19T13:04:45Z"
+  "last_updated": "2026-05-19T13:05:23Z"
 }
