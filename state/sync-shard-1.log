@@ -23986,3 +23986,14 @@
 [04:18:25]   upload done video_id=24968163 in 106.4s
 [04:18:27] film cr_film_id=13441 OK in 197.2s
 [04:18:27] batch-end ok=20 failed=0 dur=2075.4s avg/film=103.8s remaining=14069 eta_hours=405.7
+
+===== run 2026-05-19T04:20:11Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26075949711) =====
+[04:20:13] batch-start shard=1/2 count=20 backlog=17650 uploads=3581 failed_attempts=172
+[04:20:13] login
+[04:20:14] login done
+[04:20:14] iteration 1/20
+[04:20:14] film cr_film_id=13445 name='Producenti (2005) CZ Dabing' candidates=2
+[04:20:14]   candidate upload_id=55e2d3a362961 url=https://prehraj.to/producenti-2005-czdab/55e2d3a362961
+[04:20:15]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/258600/5WZin2TOYUMKi2mU7ouerTG0SPAh6ycKwtm5Cb…)
+[04:20:42]   downloaded 842.1 MB in 25.3s (33.3 MB/s)
+[04:21:14]   upload done video_id=24968205 in 32.2s
