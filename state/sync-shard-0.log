@@ -27200,3 +27200,14 @@
 [19:47:13]   upload done video_id=25008379 in 82.9s
 [19:47:15] film cr_film_id=14500 OK in 159.8s
 [19:47:15] batch-end ok=18 failed=2 dur=2673.4s avg/film=148.5s remaining=13592 eta_hours=560.7
+
+===== run 2026-05-19T19:49:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26121265325) =====
+[19:49:04] batch-start shard=0/2 count=20 backlog=17650 uploads=4058 failed_attempts=660
+[19:49:04] login
+[19:49:06] login done
+[19:49:06] iteration 1/20
+[19:49:06] film cr_film_id=14502 name='Děti noci (2008) CZ' candidates=4
+[19:49:06]   candidate upload_id=5c12dfe0d6170 url=https://prehraj.to/deti-noci-2008-cesky-film-mp4/5c12dfe0d6170
+[19:49:07]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/9452390/7pohvxcb6SdqUAnSXxFyDcVlSaKtd5hxNtxpI…)
+[19:52:23]   downloaded 507.0 MB in 193.3s (2.6 MB/s)
+[19:52:57]   upload done video_id=25008532 in 34.4s
