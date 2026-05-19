@@ -68555,6 +68555,25 @@
         "download_sec": 36.4,
         "upload_sec": 36.6
       }
+    },
+    {
+      "cr_film_id": 13513,
+      "cr_slug": "maximalni-limit",
+      "title": "Maximální limit",
+      "year": 2005,
+      "display_name": "Maximální limit (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55daefa67bd4d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24968690,
+      "size_bytes": 525994664,
+      "uploaded_at": "2026-05-19T05:03:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.4,
+        "upload_sec": 24.5
+      }
     }
   ],
   "failed_attempts": [
@@ -69809,5 +69828,5 @@
       "failed_at": "2026-05-19T04:43:01Z"
     }
   ],
-  "last_updated": "2026-05-19T05:03:13Z"
+  "last_updated": "2026-05-19T05:03:58Z"
 }
