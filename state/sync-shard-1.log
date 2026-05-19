@@ -25298,3 +25298,14 @@
 [09:43:59]   upload done video_id=24987550 in 81.8s
 [09:44:01] film cr_film_id=13929 OK in 158.3s
 [09:44:01] batch-end ok=20 failed=0 dur=2753.5s avg/film=137.7s remaining=13890 eta_hours=531.3
+
+===== run 2026-05-19T09:45:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26089355172) =====
+[09:45:07] batch-start shard=1/2 count=20 backlog=17650 uploads=3760 failed_attempts=173
+[09:45:07] login
+[09:45:08] login done
+[09:45:08] iteration 1/20
+[09:45:08] film cr_film_id=13931 name='Válečná planeta (2008) CZ Dabing' candidates=1
+[09:45:08]   candidate upload_id=3bd0b1ed9882f045 url=https://prehraj.to/valecna-planeta-2008-sci-fi-czdab-mkv/3bd0b1ed9882f045
+[09:45:09]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/163804076/B1RiqzIlyTjLtrbiJRH3gIQmsRMhdXh3LUd…)
+[09:46:25]   downloaded 2,344.3 MB in 74.4s (31.5 MB/s)
+[09:47:52]   upload done video_id=24987595 in 87.0s
