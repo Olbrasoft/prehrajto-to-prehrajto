@@ -67318,6 +67318,25 @@
         "download_sec": 20.8,
         "upload_sec": 31.6
       }
+    },
+    {
+      "cr_film_id": 12980,
+      "cr_slug": "zemianska-cest",
+      "title": "Zemianska česť",
+      "year": 1958,
+      "display_name": "Zemianska česť (1958) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "588f8391c007b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24966069,
+      "size_bytes": 781026933,
+      "uploaded_at": "2026-05-19T01:45:39Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.3,
+        "upload_sec": 29.9
+      }
     }
   ],
   "failed_attempts": [
@@ -71919,5 +71938,5 @@
       "failed_at": "2026-05-19T01:42:21Z"
     }
   ],
-  "last_updated": "2026-05-19T01:44:40Z"
+  "last_updated": "2026-05-19T01:45:39Z"
 }
