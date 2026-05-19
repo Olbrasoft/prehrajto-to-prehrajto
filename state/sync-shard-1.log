@@ -25006,3 +25006,14 @@
 [08:05:08]   upload done video_id=24983027 in 37.5s
 [08:05:11] film cr_film_id=13813 OK in 74.0s
 [08:05:11] batch-end ok=20 failed=0 dur=1954.4s avg/film=97.7s remaining=13930 eta_hours=378.0
+
+===== run 2026-05-19T08:27:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26085556924) =====
+[08:27:41] batch-start shard=1/2 count=20 backlog=17650 uploads=3720 failed_attempts=173
+[08:27:41] login
+[08:27:42] login done
+[08:27:42] iteration 1/20
+[08:27:42] film cr_film_id=13815 name='Ambiciózní blondýnka (2007) CZ' candidates=2
+[08:27:42]   candidate upload_id=5a917b0112237 url=https://prehraj.to/ambiciozni-blondynka-2007/5a917b0112237
+[08:27:43]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/3466482/zJot7bTyKIMOtxwu23t4wTVkTbYulnF2JcZdF…)
+[08:28:01]   downloaded 465.3 MB in 16.4s (28.4 MB/s)
+[08:28:20]   upload done video_id=24986508 in 18.4s
