@@ -24000,3 +24000,14 @@
 [04:12:07]   upload done video_id=24968094 in 60.6s
 [04:12:09] film cr_film_id=13226 OK in 107.6s
 [04:12:09] batch-end ok=20 failed=0 dur=1702.7s avg/film=85.1s remaining=14024 eta_hours=331.5
+
+===== run 2026-05-19T04:20:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26075949711) =====
+[04:20:10] batch-start shard=0/2 count=20 backlog=17650 uploads=3626 failed_attempts=651
+[04:20:10] login
+[04:20:12] login done
+[04:20:12] iteration 1/20
+[04:20:12] film cr_film_id=13228 name='Příběh žraloka (2004) CZ Dabing' candidates=51
+[04:20:12]   candidate upload_id=5c69b8c2f292e url=https://prehraj.to/pribeh-zraloka-2004-cz-dabing-animovany/5c69b8c2f292e
+[04:20:13]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/11876968/pNOcZLSeNtgoIXPfRlIV1SmOcDPTJlu3zinL…)
+[04:20:44]   downloaded 784.2 MB in 29.4s (26.7 MB/s)
+[04:21:22]   upload done video_id=24968206 in 37.4s
