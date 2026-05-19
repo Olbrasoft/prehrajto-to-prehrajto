@@ -68667,6 +68667,25 @@
         "download_sec": 16.9,
         "upload_sec": 21.0
       }
+    },
+    {
+      "cr_film_id": 13194,
+      "cr_slug": "metropolis",
+      "title": "Metropolis",
+      "year": 2001,
+      "display_name": "Metropolis (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "580cd55a397f3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24967917,
+      "size_bytes": 615989138,
+      "uploaded_at": "2026-05-19T03:57:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.6,
+        "upload_sec": 32.4
+      }
     }
   ],
   "failed_attempts": [
@@ -73268,5 +73287,5 @@
       "failed_at": "2026-05-19T01:42:21Z"
     }
   ],
-  "last_updated": "2026-05-19T03:56:26Z"
+  "last_updated": "2026-05-19T03:57:27Z"
 }
