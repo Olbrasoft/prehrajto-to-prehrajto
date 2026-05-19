@@ -26176,3 +26176,14 @@
 [13:51:14]   upload done video_id=24995796 in 32.2s
 [13:51:16] film cr_film_id=14323 OK in 64.5s
 [13:51:16] batch-end ok=20 failed=0 dur=1796.1s avg/film=89.8s remaining=13771 eta_hours=343.5
+
+===== run 2026-05-19T13:51:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26099981180) =====
+[13:51:36] batch-start shard=1/2 count=20 backlog=17650 uploads=3879 failed_attempts=176
+[13:51:36] login
+[13:51:38] login done
+[13:51:38] iteration 1/20
+[13:51:38] film cr_film_id=14331 name='Vražedná konspirace (2020) CZ Dabing' candidates=1
+[13:51:38]   candidate upload_id=6575ce55bc7f2 url=https://prehraj.to/vrazedna-konspirace-2020-cz-dabing/6575ce55bc7f2
+[13:51:39]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/70708592/LZwfjVhpec0atY6hkyTkYhLXikYcWnukPU6D…)
+[13:53:40]   downloaded 2,738.2 MB in 119.1s (23.0 MB/s)
+[13:56:22]   upload done video_id=24995950 in 161.4s
