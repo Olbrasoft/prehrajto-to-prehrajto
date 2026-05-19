@@ -72716,6 +72716,25 @@
         "download_sec": 84.2,
         "upload_sec": 121.1
       }
+    },
+    {
+      "cr_film_id": 14135,
+      "cr_slug": "druha-sance-2022",
+      "title": "Druhá šance",
+      "year": 2022,
+      "display_name": "Druhá šance (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6599bae7f3982",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24989369,
+      "size_bytes": 1845730911,
+      "uploaded_at": "2026-05-19T12:08:09Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 58.9,
+        "upload_sec": 89.5
+      }
     }
   ],
   "failed_attempts": [
@@ -73968,7 +73987,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/skritek-2005-cz-mp4/505d7dbd1cc98b29",
       "permanent": true,
       "failed_at": "2026-05-19T04:43:01Z"
+    },
+    {
+      "cr_film_id": 14135,
+      "upload_id": "b32e3f0e2e518a6b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/druha-sance-2022-cz-dab-1080p-mp4/b32e3f0e2e518a6b",
+      "permanent": true,
+      "failed_at": "2026-05-19T12:05:28Z"
+    },
+    {
+      "cr_film_id": 14135,
+      "upload_id": "282ac4ed872c2792",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/druha-sance-2022-cz-dab-1080p/282ac4ed872c2792",
+      "permanent": true,
+      "failed_at": "2026-05-19T12:05:33Z"
     }
   ],
-  "last_updated": "2026-05-19T12:05:25Z"
+  "last_updated": "2026-05-19T12:08:09Z"
 }
