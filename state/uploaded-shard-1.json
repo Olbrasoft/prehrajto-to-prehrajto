@@ -66427,6 +66427,25 @@
         "download_sec": 29.9,
         "upload_sec": 33.5
       }
+    },
+    {
+      "cr_film_id": 13211,
+      "cr_slug": "absolon",
+      "title": "Absolon",
+      "year": 2003,
+      "display_name": "Absolon (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59c5b03ca144a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24965981,
+      "size_bytes": 500484893,
+      "uploaded_at": "2026-05-19T01:39:01Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 25.5,
+        "upload_sec": 28.3
+      }
     }
   ],
   "failed_attempts": [
@@ -67674,5 +67693,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-19T01:38:02Z"
+  "last_updated": "2026-05-19T01:39:01Z"
 }
