@@ -27287,3 +27287,15 @@
 [21:39:03]   resolved in 0.8s → 1080p (https://pf-storage1.premiumcdn.net/35512621/n8DUZVIgNHDEtwLTqVCOxImYUgRhnvuLnHN8…)
 [21:40:09]   downloaded 1,964.8 MB in 64.2s (30.6 MB/s)
 [21:41:30]   upload done video_id=25011525 in 81.1s
+[21:41:31] film cr_film_id=14813 OK in 148.7s
+[21:41:31] iteration 14/20
+[21:41:31] film cr_film_id=14819 name='Grand Prix (2022) CZ Dabing' candidates=1
+[21:41:31]   candidate upload_id=6783538770090 url=https://prehraj.to/2022-grand-prix-cz-dab/6783538770090
+[21:41:32]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/2022-grand-prix-cz-dab/6783538770090 (permanent=True)
+[21:41:32] film cr_film_id=14819 all candidates exhausted
+[21:41:32] iteration 15/20
+[21:41:32] film cr_film_id=14821 name='Milosrdné lži (2010) CZ Dabing' candidates=4
+[21:41:32]   candidate upload_id=55db5d210dda7 url=https://prehraj.to/milosrdne-lzi-2010-czdab/55db5d210dda7
+[21:41:38]   resolved in 5.8s → 480p (https://pf-storage5.premiumcdn.net/221587/6kycajUnMuXgFxOsjRSX2Ue9tDzh2nt97Fk6F7…)
+[21:42:03]   downloaded 715.7 MB in 23.9s (29.9 MB/s)
+[21:42:29]   upload done video_id=25011571 in 26.2s
