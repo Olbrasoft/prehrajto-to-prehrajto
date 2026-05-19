@@ -24874,3 +24874,14 @@
 [07:59:22]   upload done video_id=24982972 in 58.3s
 [07:59:24] film cr_film_id=13568 OK in 131.3s
 [07:59:24] batch-end ok=20 failed=0 dur=2465.1s avg/film=123.3s remaining=13905 eta_hours=476.2
+
+===== run 2026-05-19T07:59:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26082443642) =====
+[07:59:38] batch-start shard=0/2 count=20 backlog=17650 uploads=3745 failed_attempts=652
+[07:59:38] login
+[07:59:39] login done
+[07:59:39] iteration 1/20
+[07:59:39] film cr_film_id=13570 name='Noční můra (2006) CZ Dabing' candidates=1
+[07:59:39]   candidate upload_id=64d7efcd85c89 url=https://prehraj.to/nocni-mura-2006-czdab/64d7efcd85c89
+[07:59:40]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/43374605/V5qsblU1nTXeCegsVMcZ0UzEtpXIg3SlVtrZ…)
+[08:00:29]   downloaded 1,444.5 MB in 46.9s (30.8 MB/s)
+[08:01:26]   upload done video_id=24982990 in 57.1s
