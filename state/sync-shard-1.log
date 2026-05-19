@@ -23840,3 +23840,14 @@
 [03:42:00]   upload done video_id=24967696 in 31.7s
 [03:42:01] film cr_film_id=13391 OK in 64.0s
 [03:42:01] batch-end ok=20 failed=0 dur=1990.0s avg/film=99.5s remaining=14089 eta_hours=389.4
+
+===== run 2026-05-19T03:43:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26074837784) =====
+[03:43:50] batch-start shard=1/2 count=20 backlog=17650 uploads=3561 failed_attempts=172
+[03:43:50] login
+[03:43:52] login done
+[03:43:52] iteration 1/20
+[03:43:52] film cr_film_id=13393 name='Hlas smrti (2005) CZ Dabing' candidates=2
+[03:43:52]   candidate upload_id=5fdc766de1315 url=https://prehraj.to/hlas-smrti-cz-dabing-2005-mysteriozni-thriller-drama-horor/5fdc766de1315
+[03:43:53]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/20855556/zNyt64cpRC5MUr6sL4hvKck3h3NS4PCD1IkZ…)
+[03:44:23]   downloaded 497.3 MB in 27.5s (18.1 MB/s)
+[03:44:53]   upload done video_id=24967743 in 30.0s
