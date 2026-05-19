@@ -25458,3 +25458,14 @@
 [10:09:53]   upload done video_id=24987923 in 19.3s
 [10:09:54] film cr_film_id=13760 OK in 36.2s
 [10:09:54] batch-end ok=20 failed=0 dur=1483.8s avg/film=74.2s remaining=13826 eta_hours=285.0
+
+===== run 2026-05-19T10:20:07Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26091047472) =====
+[10:20:09] batch-start shard=0/2 count=20 backlog=17650 uploads=3824 failed_attempts=653
+[10:20:09] login
+[10:20:11] login done
+[10:20:11] iteration 1/20
+[10:20:11] film cr_film_id=13762 name='Krycí jméno: Farewell (2009) CZ Dabing' candidates=3
+[10:20:11]   candidate upload_id=db169c53b5d055fd url=https://prehraj.to/kryci-jmeno-farewell-2009-cz-dabing/db169c53b5d055fd
+[10:20:12]   resolved in 1.2s → 480p (https://pf-storage6.premiumcdn.net/169492915/KW1tQosLKtlBS9muVJCKzsyAixjTO3ILbCl…)
+[10:20:38]   downloaded 494.9 MB in 24.6s (20.1 MB/s)
+[10:21:06]   upload done video_id=24988009 in 28.0s
