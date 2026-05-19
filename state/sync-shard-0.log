@@ -23416,3 +23416,14 @@
 [01:47:02]   upload done video_id=24966095 in 24.6s
 [01:47:03] film cr_film_id=12992 OK in 49.3s
 [01:47:03] batch-end ok=19 failed=1 dur=1668.2s avg/film=87.8s remaining=14104 eta_hours=344.0
+
+===== run 2026-05-19T01:48:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26071206785) =====
+[01:48:27] batch-start shard=0/2 count=20 backlog=17650 uploads=3546 failed_attempts=651
+[01:48:27] login
+[01:48:28] login done
+[01:48:28] iteration 1/20
+[01:48:28] film cr_film_id=12994 name='Lovec policajtů (2001) CZ Dabing' candidates=7
+[01:48:28]   candidate upload_id=64d3bbc900aa7 url=https://prehraj.to/lovec-policajtu-by-nexsus-2001-1080p/64d3bbc900aa7
+[01:48:30]   resolved in 1.4s → 1080p (https://pf-storage4.premiumcdn.net/43236419/94eHYou9NSxytYRu9nI1euJyS9NTRpC3GcxD…)
+[01:52:26]   downloaded 3,218.9 MB in 234.3s (13.7 MB/s)
+[01:55:17]   upload done video_id=24966186 in 170.2s
