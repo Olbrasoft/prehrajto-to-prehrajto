@@ -72695,6 +72695,25 @@
         "download_sec": 41.7,
         "upload_sec": 62.6
       }
+    },
+    {
+      "cr_film_id": 13766,
+      "cr_slug": "jasna-hvezda",
+      "title": "Jasná hvězda",
+      "year": 2009,
+      "display_name": "Jasná hvězda (2009) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58b82fa214400",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24988037,
+      "size_bytes": 470010000,
+      "uploaded_at": "2026-05-19T10:23:34Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 16.7,
+        "upload_sec": 18.3
+      }
     }
   ],
   "failed_attempts": [
@@ -77315,5 +77334,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-19T10:22:55Z"
+  "last_updated": "2026-05-19T10:23:34Z"
 }
