@@ -71747,6 +71747,25 @@
         "download_sec": 81.1,
         "upload_sec": 98.4
       }
+    },
+    {
+      "cr_film_id": 13987,
+      "cr_slug": "hydra",
+      "title": "Hydra",
+      "year": 2009,
+      "display_name": "Hydra (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65d76e62deec6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24987965,
+      "size_bytes": 489353621,
+      "uploaded_at": "2026-05-19T10:14:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.3,
+        "upload_sec": 19.0
+      }
     }
   ],
   "failed_attempts": [
@@ -73001,5 +73020,5 @@
       "failed_at": "2026-05-19T04:43:01Z"
     }
   ],
-  "last_updated": "2026-05-19T10:14:19Z"
+  "last_updated": "2026-05-19T10:14:59Z"
 }
