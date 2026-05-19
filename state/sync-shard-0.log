@@ -26491,3 +26491,15 @@
 [15:38:56]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/3567585/2pMcJWugXTnrsEdtpzirqu4JTnqimytpxcKvH…)
 [15:39:55]   downloaded 1,209.1 MB in 56.8s (21.3 MB/s)
 [15:41:01]   upload done video_id=25000677 in 66.0s
+[15:41:03] film cr_film_id=14164 OK in 128.5s
+[15:41:03] iteration 2/20
+[15:41:03] film cr_film_id=14168 name='Dvě slova jako klíč (2023) CZ' candidates=1
+[15:41:03]   candidate upload_id=fdefd6904f490eac url=https://prehraj.to/dve-slova-jako-klic-2023-cz-drama-mp4/fdefd6904f490eac
+[15:41:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dve-slova-jako-klic-2023-cz-drama-mp4/fdefd6904f490eac (permanent=True)
+[15:41:04] film cr_film_id=14168 all candidates exhausted
+[15:41:04] iteration 3/20
+[15:41:04] film cr_film_id=14172 name="My Heart Can't Beat Unless You Tell It To (2020) CZ" candidates=1
+[15:41:04]   candidate upload_id=614b33b778944 url=https://prehraj.to/my-heart-can-t-beat-unless-you-tell-it-to-hd-2020-en-tit-rimini-51-csfd-horor-drama/614b33b778944
+[15:41:11]   resolved in 6.4s → 720p (https://pf-storage2.premiumcdn.net/24988925/WymcBlf6vT17clYIkmtBnfQWIeDHnOC6qsB1…)
+[15:41:40]   downloaded 547.0 MB in 27.4s (20.0 MB/s)
+[15:42:11]   upload done video_id=25000735 in 30.9s
