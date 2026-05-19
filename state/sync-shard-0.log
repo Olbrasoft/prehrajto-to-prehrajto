@@ -25750,3 +25750,14 @@
 [11:38:36]   upload done video_id=24988846 in 84.3s
 [11:38:38] film cr_film_id=13868 OK in 150.4s
 [11:38:38] batch-end ok=20 failed=0 dur=1884.2s avg/film=94.2s remaining=13786 eta_hours=360.7
+
+===== run 2026-05-19T11:51:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26095310736) =====
+[11:51:13] batch-start shard=0/2 count=20 backlog=17650 uploads=3864 failed_attempts=653
+[11:51:13] login
+[11:51:14] login done
+[11:51:14] iteration 1/20
+[11:51:14] film cr_film_id=13870 name='Ženy v balíku (2008) CZ' candidates=3
+[11:51:14]   candidate upload_id=665aebca7bc73 url=https://prehraj.to/zeny-v-baliku-2008-cz-1080p/665aebca7bc73
+[11:51:15]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/77949710/5NWf8rSJlTXzsn2FBMSn7SbLhbliY0IE1Imy…)
+[11:52:33]   downloaded 2,306.7 MB in 76.4s (30.2 MB/s)
+[11:54:16]   upload done video_id=24989043 in 102.9s
