@@ -26768,3 +26768,14 @@
 [17:20:19]   upload done video_id=25003649 in 84.9s
 [17:20:21] film cr_film_id=14302 OK in 112.9s
 [17:20:21] batch-end ok=20 failed=0 dur=2708.3s avg/film=135.4s remaining=13649 eta_hours=513.4
+
+===== run 2026-05-19T17:22:05Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26113564008) =====
+[17:22:06] batch-start shard=0/2 count=20 backlog=17650 uploads=4001 failed_attempts=657
+[17:22:06] login
+[17:22:08] login done
+[17:22:08] iteration 1/20
+[17:22:08] film cr_film_id=14306 name='Nejkrásnější hádanka (2008) CZ Dabing' candidates=16
+[17:22:08]   candidate upload_id=5c2126d7b46ea url=https://prehraj.to/nejkrasnejsi-hadanka-cz-dabing-2008/5c2126d7b46ea
+[17:22:09]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/9915368/q9QSn9F9esDzublhAlH85FwlId0hA8tPgSVjf…)
+[17:22:45]   downloaded 881.6 MB in 33.9s (26.0 MB/s)
+[17:23:27]   upload done video_id=25003766 in 42.2s
