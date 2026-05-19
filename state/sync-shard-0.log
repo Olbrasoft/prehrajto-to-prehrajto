@@ -24438,3 +24438,14 @@
 [06:01:47]   upload done video_id=24969484 in 36.0s
 [06:01:49] film cr_film_id=13390 OK in 69.7s
 [06:01:49] batch-end ok=20 failed=0 dur=2175.4s avg/film=108.8s remaining=13964 eta_hours=422.0
+
+===== run 2026-05-19T06:07:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26079574179) =====
+[06:07:59] batch-start shard=0/2 count=20 backlog=17650 uploads=3686 failed_attempts=651
+[06:07:59] login
+[06:08:01] login done
+[06:08:01] iteration 1/20
+[06:08:01] film cr_film_id=13392 name='Tristan a Isolda (2006) CZ Dabing' candidates=1
+[06:08:01]   candidate upload_id=5e8fbde1e097f url=https://prehraj.to/tristan-a-isolda-tristan-isolde-2006-gb-akcni-dob-cz-dab-dvdrip/5e8fbde1e097f
+[06:08:02]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/16183237/qW6HOmuvyT6WSJoimOiZourGHPOHp8FdEUkV…)
+[06:08:30]   downloaded 679.8 MB in 26.1s (26.0 MB/s)
+[06:08:58]   upload done video_id=24969578 in 28.7s
