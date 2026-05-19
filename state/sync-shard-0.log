@@ -24292,3 +24292,14 @@
 [05:23:42]   upload done video_id=24968957 in 60.8s
 [05:23:43] film cr_film_id=13342 OK in 109.8s
 [05:23:43] batch-end ok=20 failed=0 dur=1713.7s avg/film=85.7s remaining=13984 eta_hours=332.9
+
+===== run 2026-05-19T05:25:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26078076558) =====
+[05:25:32] batch-start shard=0/2 count=20 backlog=17650 uploads=3666 failed_attempts=651
+[05:25:32] login
+[05:25:34] login done
+[05:25:34] iteration 1/20
+[05:25:34] film cr_film_id=13344 name='Soumrak samurajů (2002) CZ Dabing' candidates=1
+[05:25:34]   candidate upload_id=5b8d2bdced43a url=https://prehraj.to/soumrak-samuraju-2003-cz-dab/5b8d2bdced43a
+[05:25:35]   resolved in 1.6s → 480p (https://pf-storage5.premiumcdn.net/5817166/JrDiOdTaxs2BU92SLPSGRTJosErHyeSjYsY2h…)
+[05:26:12]   downloaded 752.5 MB in 34.3s (21.9 MB/s)
+[05:26:55]   upload done video_id=24968995 in 43.3s
