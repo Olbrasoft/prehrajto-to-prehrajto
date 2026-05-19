@@ -66294,6 +66294,25 @@
         "download_sec": 24.9,
         "upload_sec": 31.1
       }
+    },
+    {
+      "cr_film_id": 13195,
+      "cr_slug": "fantom-opery",
+      "title": "Fantom opery",
+      "year": 2004,
+      "display_name": "Fantom opery (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bf26a3423591",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24965796,
+      "size_bytes": 813640542,
+      "uploaded_at": "2026-05-19T01:27:00Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 38.8,
+        "upload_sec": 44.2
+      }
     }
   ],
   "failed_attempts": [
@@ -67541,5 +67560,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-19T01:25:32Z"
+  "last_updated": "2026-05-19T01:27:00Z"
 }
