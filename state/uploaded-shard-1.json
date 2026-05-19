@@ -77181,6 +77181,25 @@
         "download_sec": 107.9,
         "upload_sec": 172.2
       }
+    },
+    {
+      "cr_film_id": 14941,
+      "cr_slug": "doznani-2022",
+      "title": "Doznání",
+      "year": 2022,
+      "display_name": "Doznání (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "648868735f014",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25013591,
+      "size_bytes": 917189482,
+      "uploaded_at": "2026-05-19T23:04:47Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 44.1,
+        "upload_sec": 50.8
+      }
     }
   ],
   "failed_attempts": [
@@ -78533,5 +78552,5 @@
       "failed_at": "2026-05-19T22:56:59Z"
     }
   ],
-  "last_updated": "2026-05-19T23:03:07Z"
+  "last_updated": "2026-05-19T23:04:47Z"
 }
