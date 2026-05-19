@@ -25590,3 +25590,14 @@
 [11:06:34]   upload done video_id=24988491 in 38.0s
 [11:06:36] film cr_film_id=14037 OK in 65.7s
 [11:06:36] batch-end ok=20 failed=0 dur=2784.1s avg/film=139.2s remaining=13850 eta_hours=535.5
+
+===== run 2026-05-19T11:07:13Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26093243398) =====
+[11:07:14] batch-start shard=1/2 count=20 backlog=17650 uploads=3800 failed_attempts=173
+[11:07:14] login
+[11:07:16] login done
+[11:07:16] iteration 1/20
+[11:07:16] film cr_film_id=14039 name='Lovci lidí (2008) CZ Dabing' candidates=8
+[11:07:16]   candidate upload_id=5a2198e5a8151 url=https://prehraj.to/lovci-lidi-2008-cz-dabing/5a2198e5a8151
+[11:07:17]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/3024525/Qk9Ua6c7OIPBh78i12C63cjwt48uJWU5XUwAi…)
+[11:07:39]   downloaded 353.7 MB in 19.7s (18.0 MB/s)
+[11:08:05]   upload done video_id=24988507 in 25.8s
