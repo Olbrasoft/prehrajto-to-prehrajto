@@ -70434,6 +70434,25 @@
         "download_sec": 33.3,
         "upload_sec": 35.1
       }
+    },
+    {
+      "cr_film_id": 13462,
+      "cr_slug": "bolero",
+      "title": "Bolero",
+      "year": 2004,
+      "display_name": "Bolero (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55bdbf2f29a7a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24969918,
+      "size_bytes": 552180310,
+      "uploaded_at": "2026-05-19T06:36:51Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 31.1,
+        "upload_sec": 33.1
+      }
     }
   ],
   "failed_attempts": [
@@ -75042,5 +75061,5 @@
       "failed_at": "2026-05-19T06:25:43Z"
     }
   ],
-  "last_updated": "2026-05-19T06:35:41Z"
+  "last_updated": "2026-05-19T06:36:51Z"
 }
