@@ -69047,6 +69047,25 @@
         "download_sec": 22.5,
         "upload_sec": 25.4
       }
+    },
+    {
+      "cr_film_id": 13250,
+      "cr_slug": "petr-pan",
+      "title": "Petr Pan",
+      "year": 2003,
+      "display_name": "Petr Pan (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "667633852f11c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24968360,
+      "size_bytes": 630094611,
+      "uploaded_at": "2026-05-19T04:33:53Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 22.1,
+        "upload_sec": 27.6
+      }
     }
   ],
   "failed_attempts": [
@@ -73648,5 +73667,5 @@
       "failed_at": "2026-05-19T01:42:21Z"
     }
   ],
-  "last_updated": "2026-05-19T04:32:58Z"
+  "last_updated": "2026-05-19T04:33:53Z"
 }
