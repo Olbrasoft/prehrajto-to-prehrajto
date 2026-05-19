@@ -25604,3 +25604,14 @@
 [10:52:01]   upload done video_id=24988379 in 34.3s
 [10:52:03] film cr_film_id=13812 OK in 62.4s
 [10:52:03] batch-end ok=20 failed=0 dur=1911.9s avg/film=95.6s remaining=13806 eta_hours=366.6
+
+===== run 2026-05-19T11:07:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26093243398) =====
+[11:07:13] batch-start shard=0/2 count=20 backlog=17650 uploads=3844 failed_attempts=653
+[11:07:13] login
+[11:07:14] login done
+[11:07:14] iteration 1/20
+[11:07:14] film cr_film_id=13814 name='Sobík Niko (2008) CZ Dabing' candidates=4
+[11:07:14]   candidate upload_id=585292aa0aeda url=https://prehraj.to/niko-1-cz-dabing-vianocne-2008-lehi/585292aa0aeda
+[11:07:15]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/1178130/gjdIB4cgEhLzHNXu4xcLJcYQIkpTWpHbaFpKt…)
+[11:07:35]   downloaded 487.8 MB in 17.8s (27.4 MB/s)
+[11:07:59]   upload done video_id=24988506 in 24.5s
