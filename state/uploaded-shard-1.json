@@ -67263,6 +67263,25 @@
         "download_sec": 50.6,
         "upload_sec": 61.1
       }
+    },
+    {
+      "cr_film_id": 13337,
+      "cr_slug": "pupendo",
+      "title": "Pupendo",
+      "year": 2003,
+      "display_name": "Pupendo (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68cb9a8ad9634",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24967170,
+      "size_bytes": 3325975354,
+      "uploaded_at": "2026-05-19T03:07:30Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 94.4,
+        "upload_sec": 144.8
+      }
     }
   ],
   "failed_attempts": [
@@ -68510,5 +68529,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-19T03:03:27Z"
+  "last_updated": "2026-05-19T03:07:30Z"
 }
