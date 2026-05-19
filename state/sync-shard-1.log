@@ -23402,3 +23402,14 @@
 [01:46:19]   upload done video_id=24966076 in 47.5s
 [01:46:21] film cr_film_id=13223 OK in 89.9s
 [01:46:21] batch-end ok=20 failed=0 dur=2126.4s avg/film=106.3s remaining=14149 eta_hours=417.8
+
+===== run 2026-05-19T01:48:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26071206785) =====
+[01:48:27] batch-start shard=1/2 count=20 backlog=17650 uploads=3501 failed_attempts=172
+[01:48:27] login
+[01:48:28] login done
+[01:48:28] iteration 1/20
+[01:48:28] film cr_film_id=13227 name='Legenda o Jiřím a drakovi (2004) CZ' candidates=1
+[01:48:28]   candidate upload_id=68ead26c0bb89 url=https://prehraj.to/legenda-o-jirim-a-drakovi-2004-cz/68ead26c0bb89
+[01:48:30]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/150987723/97jTKpiqGHd7sNPtRmspdiDySB7hN1UJ0TQ…)
+[01:50:03]   downloaded 2,758.8 MB in 91.8s (30.1 MB/s)
+[01:52:10]   upload done video_id=24966144 in 126.5s
