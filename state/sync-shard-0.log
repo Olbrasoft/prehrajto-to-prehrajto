@@ -24582,3 +24582,14 @@
 [06:31:49]   upload done video_id=24969838 in 19.5s
 [06:31:51] film cr_film_id=13454 OK in 40.9s
 [06:31:51] batch-end ok=19 failed=1 dur=1430.1s avg/film=75.3s remaining=13945 eta_hours=291.7
+
+===== run 2026-05-19T06:32:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26080507532) =====
+[06:32:25] batch-start shard=0/2 count=20 backlog=17650 uploads=3705 failed_attempts=652
+[06:32:25] login
+[06:32:26] login done
+[06:32:26] iteration 1/20
+[06:32:26] film cr_film_id=13458 name='Far Cry (2008) CZ Dabing' candidates=1
+[06:32:26]   candidate upload_id=58210194eb8e4 url=https://prehraj.to/far-cry-far-cry-cz-dabing-2008/58210194eb8e4
+[06:32:28]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/812219/4PniAOCjphMeiDlSG7uyqC9esxehlyH5AHWDiZ…)
+[06:33:23]   downloaded 1,003.3 MB in 52.9s (19.0 MB/s)
+[06:34:27]   upload done video_id=24969864 in 63.5s
