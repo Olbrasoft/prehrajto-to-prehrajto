@@ -75279,6 +75279,25 @@
         "download_sec": 42.5,
         "upload_sec": 51.1
       }
+    },
+    {
+      "cr_film_id": 14158,
+      "cr_slug": "rozhodujici-set",
+      "title": "Rozhodující set",
+      "year": 2020,
+      "display_name": "Rozhodující set (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "650fdda26d751",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25000594,
+      "size_bytes": 1973992138,
+      "uploaded_at": "2026-05-19T15:37:23Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 98.9,
+        "upload_sec": 117.9
+      }
     }
   ],
   "failed_attempts": [
@@ -79913,5 +79932,5 @@
       "failed_at": "2026-05-19T12:34:23Z"
     }
   ],
-  "last_updated": "2026-05-19T15:33:41Z"
+  "last_updated": "2026-05-19T15:37:23Z"
 }
