@@ -71840,6 +71840,25 @@
         "download_sec": 93.0,
         "upload_sec": 114.2
       }
+    },
+    {
+      "cr_film_id": 13660,
+      "cr_slug": "experiment-zombie",
+      "title": "Experiment: Zombie",
+      "year": 2006,
+      "display_name": "Experiment: Zombie (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d44156b12d02",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24986819,
+      "size_bytes": 421221624,
+      "uploaded_at": "2026-05-19T08:55:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.5,
+        "upload_sec": 19.2
+      }
     }
   ],
   "failed_attempts": [
@@ -76446,7 +76465,19 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/zrada-a-chamtivost-na-planete-opic-1980-cz-dabing-hd-mp4/cfe555d9b943bb0f",
       "permanent": true,
       "failed_at": "2026-05-19T06:25:43Z"
+    },
+    {
+      "cr_film_id": 13658,
+      "upload_id": "6176f8d94d6b6",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-05-19T08:54:29Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 69.4,
+        "upload_sec": 0.1
+      }
     }
   ],
-  "last_updated": "2026-05-19T08:53:14Z"
+  "last_updated": "2026-05-19T08:55:06Z"
 }
