@@ -67966,6 +67966,25 @@
         "download_sec": 21.2,
         "upload_sec": 25.7
       }
+    },
+    {
+      "cr_film_id": 13435,
+      "cr_slug": "prime",
+      "title": "Prime",
+      "year": 2005,
+      "display_name": "Prime (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57c7027fbfb57",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24968100,
+      "size_bytes": 450579280,
+      "uploaded_at": "2026-05-19T04:11:56Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 21.6,
+        "upload_sec": 26.5
+      }
     }
   ],
   "failed_attempts": [
@@ -69213,5 +69232,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-19T04:11:02Z"
+  "last_updated": "2026-05-19T04:11:56Z"
 }
