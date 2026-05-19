@@ -26542,3 +26542,15 @@
 [16:07:54]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/71659994/G0vFMET0rsbVhm4hPNTr3Tg9Uv4tygt3gtrQ…)
 [16:09:46]   downloaded 2,499.5 MB in 109.9s (22.7 MB/s)
 [16:11:54]   upload done video_id=25001633 in 128.5s
+[16:11:57] film cr_film_id=14473 OK in 243.4s
+[16:11:57] iteration 11/20
+[16:11:57] film cr_film_id=14475 name='Dej si pohov, mladej! (2022) CZ Dabing' candidates=1
+[16:11:57]   candidate upload_id=678edee005790b49 url=https://prehraj.to/dej-si-pohov-mladej-2022-cz-dabing/678edee005790b49
+[16:11:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dej-si-pohov-mladej-2022-cz-dabing/678edee005790b49 (permanent=True)
+[16:11:58] film cr_film_id=14475 all candidates exhausted
+[16:11:58] iteration 12/20
+[16:11:58] film cr_film_id=14481 name='U mě dobrý (2008) CZ' candidates=2
+[16:11:58]   candidate upload_id=17b0537459981b76 url=https://prehraj.to/u-me-dobry-2008-1080p/17b0537459981b76
+[16:12:04]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/166657121/5dEIRLS5ecvWtemI2dILESDnfG8fNQsm8hD…)
+[16:14:32]   downloaded 3,713.9 MB in 146.5s (25.4 MB/s)
+[16:17:50]   upload done video_id=25001798 in 198.1s
