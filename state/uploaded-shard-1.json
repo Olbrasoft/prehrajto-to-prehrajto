@@ -70911,6 +70911,25 @@
         "download_sec": 45.1,
         "upload_sec": 56.1
       }
+    },
+    {
+      "cr_film_id": 13851,
+      "cr_slug": "lucerna",
+      "title": "Lucerna",
+      "year": 1967,
+      "display_name": "Lucerna (1967) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "673082fb71530",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24986698,
+      "size_bytes": 1739048578,
+      "uploaded_at": "2026-05-19T08:44:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 48.7,
+        "upload_sec": 70.3
+      }
     }
   ],
   "failed_attempts": [
@@ -72165,5 +72184,5 @@
       "failed_at": "2026-05-19T04:43:01Z"
     }
   ],
-  "last_updated": "2026-05-19T08:42:37Z"
+  "last_updated": "2026-05-19T08:44:39Z"
 }
