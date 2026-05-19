@@ -75680,6 +75680,25 @@
         "download_sec": 243.0,
         "upload_sec": 93.8
       }
+    },
+    {
+      "cr_film_id": 14663,
+      "cr_slug": "popelka-1969",
+      "title": "Popelka",
+      "year": 1969,
+      "display_name": "Popelka (1969) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5850dfd47c5ec",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25006272,
+      "size_bytes": 941076522,
+      "uploaded_at": "2026-05-19T18:38:36Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 139.8,
+        "upload_sec": 40.2
+      }
     }
   ],
   "failed_attempts": [
@@ -76981,7 +77000,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dobry-sef-2021-cz-dabing/0571c8316c63dce1",
       "permanent": true,
       "failed_at": "2026-05-19T16:39:51Z"
+    },
+    {
+      "cr_film_id": 14661,
+      "upload_id": "6cf78264e4d24338",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/nespravedlive-obvineni-2021-cz-dab-1080p-mp4/6cf78264e4d24338",
+      "permanent": true,
+      "failed_at": "2026-05-19T18:35:22Z"
+    },
+    {
+      "cr_film_id": 14661,
+      "upload_id": "a6e02cd89f8e608d",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/nespravedlive-obvineni-2021-cz-dab-1080p-mp4/a6e02cd89f8e608d",
+      "permanent": true,
+      "failed_at": "2026-05-19T18:35:28Z"
     }
   ],
-  "last_updated": "2026-05-19T18:35:19Z"
+  "last_updated": "2026-05-19T18:38:36Z"
 }
