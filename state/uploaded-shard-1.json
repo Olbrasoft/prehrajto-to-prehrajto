@@ -69448,6 +69448,25 @@
         "download_sec": 16.9,
         "upload_sec": 17.1
       }
+    },
+    {
+      "cr_film_id": 13637,
+      "cr_slug": "caffeine",
+      "title": "Caffeine",
+      "year": 2006,
+      "display_name": "Caffeine (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "45f4fb012a8a1eea",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24969782,
+      "size_bytes": 771576277,
+      "uploaded_at": "2026-05-19T06:26:51Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 29.5,
+        "upload_sec": 29.7
+      }
     }
   ],
   "failed_attempts": [
@@ -70702,5 +70721,5 @@
       "failed_at": "2026-05-19T04:43:01Z"
     }
   ],
-  "last_updated": "2026-05-19T06:25:48Z"
+  "last_updated": "2026-05-19T06:26:51Z"
 }
