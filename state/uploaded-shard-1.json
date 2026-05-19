@@ -65762,6 +65762,25 @@
         "download_sec": 23.3,
         "upload_sec": 25.5
       }
+    },
+    {
+      "cr_film_id": 13127,
+      "cr_slug": "dogville",
+      "title": "Dogville",
+      "year": 2003,
+      "display_name": "Dogville (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c05d76f278a2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 24965174,
+      "size_bytes": 648686613,
+      "uploaded_at": "2026-05-19T00:46:16Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.1,
+        "upload_sec": 23.6
+      }
     }
   ],
   "failed_attempts": [
@@ -67009,5 +67028,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-19T00:45:14Z"
+  "last_updated": "2026-05-19T00:46:16Z"
 }
