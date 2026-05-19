@@ -22980,3 +22980,14 @@
 [00:13:12]   upload done video_id=24964561 in 163.8s
 [00:13:14] film cr_film_id=12814 OK in 298.4s
 [00:13:14] batch-end ok=20 failed=0 dur=2741.0s avg/film=137.1s remaining=14163 eta_hours=539.4
+
+===== run 2026-05-19T00:14:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26068091121) =====
+[00:14:28] batch-start shard=0/2 count=20 backlog=17650 uploads=3487 failed_attempts=650
+[00:14:28] login
+[00:14:34] login done
+[00:14:34] iteration 1/20
+[00:14:34] film cr_film_id=12816 name='Podfuk (1986) CZ Dabing' candidates=2
+[00:14:34]   candidate upload_id=5828acd834985 url=https://prehraj.to/podfuk-cz-dabing-1985-by-kamer/5828acd834985
+[00:14:36]   resolved in 1.5s → 480p (https://pf-storage4.premiumcdn.net/860596/MKAcDMSXZtwvUBqhvofv4SxPF73CnpIKVh23iK…)
+[00:15:08]   downloaded 549.0 MB in 29.4s (18.7 MB/s)
+[00:15:41]   upload done video_id=24964634 in 33.0s
