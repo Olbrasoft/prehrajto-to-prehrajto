@@ -71937,6 +71937,25 @@
         "download_sec": 52.1,
         "upload_sec": 69.8
       }
+    },
+    {
+      "cr_film_id": 14007,
+      "cr_slug": "divky",
+      "title": "Dívky",
+      "year": 2020,
+      "display_name": "Dívky (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "e610868636de8431",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 24988175,
+      "size_bytes": 800840590,
+      "uploaded_at": "2026-05-19T10:35:37Z",
+      "timing": {
+        "resolve_sec": 2.5,
+        "download_sec": 34.9,
+        "upload_sec": 42.3
+      }
     }
   ],
   "failed_attempts": [
@@ -73191,5 +73210,5 @@
       "failed_at": "2026-05-19T04:43:01Z"
     }
   ],
-  "last_updated": "2026-05-19T10:34:14Z"
+  "last_updated": "2026-05-19T10:35:37Z"
 }
