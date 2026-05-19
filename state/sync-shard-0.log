@@ -23854,3 +23854,14 @@
 [03:31:03]   upload done video_id=24967509 in 37.7s
 [03:31:05] film cr_film_id=13166 OK in 78.2s
 [03:31:05] batch-end ok=20 failed=0 dur=1331.7s avg/film=66.6s remaining=14044 eta_hours=259.8
+
+===== run 2026-05-19T03:43:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26074837784) =====
+[03:43:45] batch-start shard=0/2 count=20 backlog=17650 uploads=3606 failed_attempts=651
+[03:43:45] login
+[03:43:47] login done
+[03:43:47] iteration 1/20
+[03:43:47] film cr_film_id=13168 name='Vysoká hra (2002) CZ' candidates=1
+[03:43:47]   candidate upload_id=5c02d4eea0fa9 url=https://prehraj.to/vysoka-hra-pro-pravou-damu-mp4/5c02d4eea0fa9
+[03:43:48]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/8909336/bGjIQMuZeI4qfe7I16HWxunLFREh3qixrFzgS…)
+[03:44:09]   downloaded 480.8 MB in 19.9s (24.2 MB/s)
+[03:44:30]   upload done video_id=24967737 in 21.0s
