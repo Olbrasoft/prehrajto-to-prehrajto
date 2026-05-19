@@ -26322,3 +26322,14 @@
 [14:41:08]   upload done video_id=24998126 in 250.0s
 [14:41:11] film cr_film_id=14393 OK in 423.6s
 [14:41:11] batch-end ok=20 failed=0 dur=2973.4s avg/film=148.7s remaining=13751 eta_hours=568.0
+
+===== run 2026-05-19T14:51:47Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26105145001) =====
+[14:51:48] batch-start shard=1/2 count=20 backlog=17650 uploads=3899 failed_attempts=176
+[14:51:48] login
+[14:51:50] login done
+[14:51:50] iteration 1/20
+[14:51:50] film cr_film_id=14395 name="Perkins' 14 (2009) CZ Dabing" candidates=1
+[14:51:50]   candidate upload_id=606a0fccf3c44 url=https://prehraj.to/chodici-mrtvi-2009-czdab/606a0fccf3c44
+[14:51:51]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/22964004/jArcw4fk0i9EHQWH1vUM2fpjt0ms4gcogSQ3…)
+[14:52:55]   downloaded 1,912.2 MB in 62.3s (30.7 MB/s)
+[14:54:24]   upload done video_id=24998910 in 89.2s
