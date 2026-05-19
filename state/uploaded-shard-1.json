@@ -65477,6 +65477,25 @@
         "download_sec": 23.4,
         "upload_sec": 38.2
       }
+    },
+    {
+      "cr_film_id": 13083,
+      "cr_slug": "2001-maniaku",
+      "title": "2001 maniaků",
+      "year": 2005,
+      "display_name": "2001 maniaků (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "e3f3ecce9c5295d2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 24964836,
+      "size_bytes": 4093291849,
+      "uploaded_at": "2026-05-19T00:30:16Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 131.0,
+        "upload_sec": 185.0
+      }
     }
   ],
   "failed_attempts": [
@@ -66724,5 +66743,5 @@
       "failed_at": "2026-05-18T21:05:05Z"
     }
   ],
-  "last_updated": "2026-05-19T00:24:56Z"
+  "last_updated": "2026-05-19T00:30:16Z"
 }
