@@ -26334,3 +26334,14 @@
 [14:50:13]   upload done video_id=24998777 in 21.3s
 [14:50:15] film cr_film_id=14086 OK in 44.8s
 [14:50:15] batch-end ok=20 failed=0 dur=2584.3s avg/film=129.2s remaining=13707 eta_hours=491.9
+
+===== run 2026-05-19T14:51:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26105145001) =====
+[14:52:00] batch-start shard=0/2 count=20 backlog=17650 uploads=3943 failed_attempts=655
+[14:52:00] login
+[14:52:02] login done
+[14:52:02] iteration 1/20
+[14:52:02] film cr_film_id=14090 name='Sněžní přátelé (2008) CZ' candidates=2
+[14:52:02]   candidate upload_id=55b16f1ac5518 url=https://prehraj.to/snezni-pratele-snow-buddies-komedie-rodinny-2008-bart28-cz/55b16f1ac5518
+[14:52:03]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/524445/yMxtNJf5vimpH54hPWfxQfXOSGqFavsB2smXCb…)
+[14:52:33]   downloaded 475.4 MB in 26.9s (17.7 MB/s)
+[14:53:09]   upload done video_id=24998894 in 36.5s
