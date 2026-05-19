@@ -27183,3 +27183,10 @@
 [21:11:56]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/30207038/AaohMLTPnumduvlHPnT1BT7psvjIygSbmHxV…)
 [21:14:22]   downloaded 3,006.9 MB in 143.2s (21.0 MB/s)
 [21:17:06]   upload done video_id=25010833 in 163.5s
+[21:17:07] film cr_film_id=14769 OK in 312.3s
+[21:17:07] iteration 20/20
+[21:17:07] film cr_film_id=14771 name='Kdyby radši hořelo (2022) CZ' candidates=1
+[21:17:07]   candidate upload_id=46f88eb1302c501b url=https://prehraj.to/kdyby-radsi-horelo-2022-mp4/46f88eb1302c501b
+[21:17:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyby-radsi-horelo-2022-mp4/46f88eb1302c501b (permanent=True)
+[21:17:08] film cr_film_id=14771 all candidates exhausted
+[21:17:08] batch-end ok=18 failed=2 dur=5356.4s avg/film=297.6s remaining=13637 eta_hours=1127.3
