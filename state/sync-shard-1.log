@@ -24568,3 +24568,14 @@
 [06:29:45]   upload done video_id=24969813 in 16.7s
 [06:29:46] film cr_film_id=13649 OK in 34.3s
 [06:29:46] batch-end ok=20 failed=0 dur=1302.8s avg/film=65.1s remaining=13990 eta_hours=253.0
+
+===== run 2026-05-19T06:32:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26080507532) =====
+[06:32:25] batch-start shard=1/2 count=20 backlog=17650 uploads=3660 failed_attempts=173
+[06:32:25] login
+[06:32:26] login done
+[06:32:26] iteration 1/20
+[06:32:26] film cr_film_id=13651 name='Moje superbejvalka (2006) CZ Dabing' candidates=1
+[06:32:26]   candidate upload_id=57d2b31a1a58a url=https://prehraj.to/moje-superbejvalka-2006-czdab/57d2b31a1a58a
+[06:32:27]   resolved in 1.1s → 480p (https://pf-storage3.premiumcdn.net/654245/bAqHpNCdrTE9Tm2iQPcPdCpLfNBIJLCQdU8rtm…)
+[06:32:46]   downloaded 447.8 MB in 16.7s (26.8 MB/s)
+[06:33:06]   upload done video_id=24969853 in 19.9s
