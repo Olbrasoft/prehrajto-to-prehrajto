@@ -30318,3 +30318,15 @@
 [14:20:14]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/75687188/BENTD0sA6SXgCj5in0tqJs06ix9TZVTePCA5…)
 [14:21:26]   downloaded 1,712.8 MB in 70.1s (24.4 MB/s)
 [14:23:03]   upload done video_id=25035736 in 96.6s
+[14:23:05] film cr_film_id=16067 OK in 172.5s
+[14:23:05] iteration 11/20
+[14:23:05] film cr_film_id=16069 name='Kdo je kdo? (2024) CZ Dabing' candidates=1
+[14:23:05]   candidate upload_id=be4552e3a8da963f url=https://prehraj.to/kdo-je-kdo-2024-cz-dab-1080p/be4552e3a8da963f
+[14:23:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdo-je-kdo-2024-cz-dab-1080p/be4552e3a8da963f (permanent=True)
+[14:23:06] film cr_film_id=16069 all candidates exhausted
+[14:23:06] iteration 12/20
+[14:23:06] film cr_film_id=16071 name='Únos Freddy Heinekena (2015) CZ Dabing' candidates=4
+[14:23:06]   candidate upload_id=603ff3cde591d url=https://prehraj.to/unos-freddy-heinekena-2015-cz-dabing/603ff3cde591d
+[14:23:12]   resolved in 5.8s → 720p (https://pf-storage5.premiumcdn.net/22522127/67RhgZT2QTvecmvF26hMjTLJtY2iVriNBiG1…)
+[14:24:33]   downloaded 1,742.1 MB in 80.0s (21.8 MB/s)
+[14:26:06]   upload done video_id=25035788 in 93.0s
