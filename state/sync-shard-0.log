@@ -29696,3 +29696,16 @@
 [10:42:40]   upload done video_id=25029952 in 30.2s
 [10:42:42] film cr_film_id=15524 OK in 58.5s
 [10:42:42] batch-end ok=20 failed=0 dur=2235.0s avg/film=111.8s remaining=13258 eta_hours=411.7
+
+===== run 2026-05-20T10:43:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26157416490) =====
+[10:43:22] batch-start shard=0/2 count=20 backlog=17650 uploads=4392 failed_attempts=678
+[10:43:22] login
+[10:43:24] login done
+[10:43:24] iteration 1/20
+[10:43:24] film cr_film_id=15528 name='Zvony naděje (2022) CZ Dabing' candidates=6
+[10:43:24]   candidate upload_id=6fa82eaf4cdb3bc6 url=https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/6fa82eaf4cdb3bc6
+[10:43:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/6fa82eaf4cdb3bc6 (permanent=True)
+[10:43:25]   candidate upload_id=e934f39a493aad31 url=https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/e934f39a493aad31
+[10:43:31]   resolved in 6.2s → 1080p (https://pf-storage1.premiumcdn.net/167452793/RR7TpyF4AfAjFnKsDgf4OFRGHgpH1GhEjt4…)
+[10:45:07]   downloaded 1,833.3 MB in 94.2s (19.5 MB/s)
+[10:46:58]   upload done video_id=25029987 in 110.7s

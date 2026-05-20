@@ -83449,6 +83449,25 @@
         "download_sec": 22.4,
         "upload_sec": 30.2
       }
+    },
+    {
+      "cr_film_id": 15528,
+      "cr_slug": "zvony-nadeje",
+      "title": "Zvony naděje",
+      "year": 2022,
+      "display_name": "Zvony naděje (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "e934f39a493aad31",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25029987,
+      "size_bytes": 1833307813,
+      "uploaded_at": "2026-05-20T10:46:58Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 94.2,
+        "upload_sec": 110.7
+      }
     }
   ],
   "failed_attempts": [
@@ -88247,7 +88266,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sance-v-case-2024-cz-dab-1080p-mp4/fb2015c941d1e9d7",
       "permanent": true,
       "failed_at": "2026-05-20T10:05:28Z"
+    },
+    {
+      "cr_film_id": 15528,
+      "upload_id": "6fa82eaf4cdb3bc6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/6fa82eaf4cdb3bc6",
+      "permanent": true,
+      "failed_at": "2026-05-20T10:43:24Z"
     }
   ],
-  "last_updated": "2026-05-20T10:42:40Z"
+  "last_updated": "2026-05-20T10:46:58Z"
 }
