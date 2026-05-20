@@ -31619,3 +31619,21 @@
 [23:46:58]   resolved in 1.5s → 1080p (https://pf-storage4.premiumcdn.net/153208743/62ginxsyBHvVSyrh3atMZsOAHngc3kcg5c2…)
 [23:49:08]   downloaded 2,860.0 MB in 128.4s (22.3 MB/s)
 [23:52:08]   upload done video_id=25046348 in 180.1s
+[23:52:11] film cr_film_id=16366 OK in 314.5s
+[23:52:11] iteration 6/20
+[23:52:11] film cr_film_id=16368 name='Super průvodce (2025) CZ Dabing' candidates=4
+[23:52:11]   candidate upload_id=3783ae841879842c url=https://prehraj.to/super-pruvodce-2025-1080p-cz-dabing-2-0/3783ae841879842c
+[23:52:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-pruvodce-2025-1080p-cz-dabing-2-0/3783ae841879842c (permanent=True)
+[23:52:12]   candidate upload_id=6cd078bb4c21196c url=https://prehraj.to/super-pruvodce-2025-cz-dab-1080p/6cd078bb4c21196c
+[23:52:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-pruvodce-2025-cz-dab-1080p/6cd078bb4c21196c (permanent=True)
+[23:52:18]   candidate upload_id=f17465b54967788b url=https://prehraj.to/super-pruvodce-2025-cz-dab-1080p-mkv/f17465b54967788b
+[23:52:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-pruvodce-2025-cz-dab-1080p-mkv/f17465b54967788b (permanent=True)
+[23:52:23]   candidate upload_id=d8afcbd821a3e4bf url=https://prehraj.to/super-pruvodce-2025-komedie-francie-belgie-czdab-1080p/d8afcbd821a3e4bf
+[23:52:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-pruvodce-2025-komedie-francie-belgie-czdab-1080p/d8afcbd821a3e4bf (permanent=True)
+[23:52:29] film cr_film_id=16368 all candidates exhausted
+[23:52:29] iteration 7/20
+[23:52:29] film cr_film_id=16370 name='Můj otec musí zemřít (2014) CZ' candidates=1
+[23:52:29]   candidate upload_id=60ab8612517ed url=https://prehraj.to/vrazda-prezidenta-kennedyho-2013-cz-cesky-dabing-killing-kennedy-telefilm/60ab8612517ed
+[23:52:35]   resolved in 6.2s → 1080p (https://pf-storage1.premiumcdn.net/23651205/2E3ib0CdnF3rCO1FNwi6GC8AHy1ivnc86C4W…)
+[23:54:34]   downloaded 2,495.0 MB in 116.9s (21.3 MB/s)
+[23:57:09]   upload done video_id=25046429 in 154.5s
