@@ -29078,3 +29078,14 @@
 [07:24:13]   upload done video_id=25026833 in 77.8s
 [07:24:15] film cr_film_id=15559 OK in 139.1s
 [07:24:15] batch-end ok=19 failed=1 dur=2523.0s avg/film=132.8s remaining=13386 eta_hours=493.8
+
+===== run 2026-05-20T07:24:28Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26147115216) =====
+[07:24:29] batch-start shard=1/2 count=20 backlog=17650 uploads=4264 failed_attempts=197
+[07:24:29] login
+[07:24:31] login done
+[07:24:31] iteration 1/20
+[07:24:31] film cr_film_id=15565 name='Bacha na družičku! (2025) CZ Dabing' candidates=1
+[07:24:31]   candidate upload_id=f86693ea905e6000 url=https://prehraj.to/bacha-na-druzicku-2025-cz-dabing-topkvalita-mkv/f86693ea905e6000
+[07:24:32]   resolved in 1.5s → 1080p (https://pf-storage1.premiumcdn.net/159854603/my5T23he6U7wUwrIoKiJ9hApHOwf4Ps3ZCZ…)
+[07:26:09]   downloaded 2,852.4 MB in 94.4s (30.2 MB/s)
+[07:28:07]   upload done video_id=25026893 in 118.1s
