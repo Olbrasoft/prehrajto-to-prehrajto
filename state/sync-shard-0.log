@@ -28082,3 +28082,14 @@
 [01:36:31]   upload done video_id=25019634 in 30.5s
 [01:36:33] film cr_film_id=14860 OK in 58.3s
 [01:36:33] batch-end ok=19 failed=1 dur=2353.1s avg/film=123.8s remaining=13474 eta_hours=463.4
+
+===== run 2026-05-20T01:36:45Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26134665037) =====
+[01:36:46] batch-start shard=0/2 count=20 backlog=17650 uploads=4176 failed_attempts=667
+[01:36:46] login
+[01:36:47] login done
+[01:36:47] iteration 1/20
+[01:36:47] film cr_film_id=14862 name='Sami a spolu (2022) CZ Dabing' candidates=2
+[01:36:47]   candidate upload_id=c0f51c63e691f32a url=https://prehraj.to/sami-a-spolu-2022-cz-dab-1080p/c0f51c63e691f32a
+[01:36:48]   resolved in 1.1s → 1080p (https://pf-storage6.premiumcdn.net/169342828/Jw9Hj6UqouEWuXxTY1tO2U1GCGXs5Wh4ZCN…)
+[01:37:39]   downloaded 1,503.0 MB in 48.8s (30.8 MB/s)
+[01:38:44]   upload done video_id=25019677 in 65.3s
