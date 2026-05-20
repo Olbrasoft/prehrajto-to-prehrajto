@@ -28816,3 +28816,14 @@
 [05:30:16]   upload done video_id=25024752 in 29.2s
 [05:30:18] film cr_film_id=15172 OK in 55.5s
 [05:30:18] batch-end ok=20 failed=0 dur=2503.5s avg/film=125.2s remaining=13376 eta_hours=465.2
+
+===== run 2026-05-20T05:31:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26143411145) =====
+[05:31:03] batch-start shard=0/2 count=20 backlog=17650 uploads=4274 failed_attempts=672
+[05:31:03] login
+[05:31:05] login done
+[05:31:05] iteration 1/20
+[05:31:05] film cr_film_id=15174 name='Kuky se vrací (2010) CZ Dabing' candidates=13
+[05:31:05]   candidate upload_id=5e3a704c2d38b url=https://prehraj.to/kuky-se-vraci-cz-dabing-2010/5e3a704c2d38b
+[05:31:06]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/15791083/45GhNWHREiyMFONiY8skmHymcE5UGYiOQiPn…)
+[05:32:53]   downloaded 883.8 MB in 104.3s (8.5 MB/s)
+[05:33:46]   upload done video_id=25024816 in 52.8s
