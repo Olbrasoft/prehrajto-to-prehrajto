@@ -29986,3 +29986,14 @@
 [12:27:48]   upload done video_id=25031257 in 24.6s
 [12:27:49] film cr_film_id=15650 OK in 49.5s
 [12:27:49] batch-end ok=20 failed=0 dur=2716.5s avg/film=135.8s remaining=13220 eta_hours=498.7
+
+===== run 2026-05-20T12:29:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26162558990) =====
+[12:29:37] batch-start shard=0/2 count=20 backlog=17650 uploads=4430 failed_attempts=681
+[12:29:37] login
+[12:29:39] login done
+[12:29:39] iteration 1/20
+[12:29:39] film cr_film_id=15652 name='Kočky s ostrými drápy (2023) CZ' candidates=1
+[12:29:39]   candidate upload_id=bab0e60e8c8fd83f url=https://prehraj.to/cats-in-the-museum-2023-1080p-webrip-x264-aac5-1-world/bab0e60e8c8fd83f
+[12:29:40]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/168457861/3kNSZWcKliAMcNXf8JUPdc4ETa3H93CoKCw…)
+[12:30:52]   downloaded 1,562.2 MB in 70.2s (22.3 MB/s)
+[12:32:14]   upload done video_id=25031299 in 82.1s
