@@ -78625,6 +78625,25 @@
         "download_sec": 62.9,
         "upload_sec": 73.7
       }
+    },
+    {
+      "cr_film_id": 15145,
+      "cr_slug": "kto-sakra-pozval-charlieho",
+      "title": "Kto sakra pozval Charlieho",
+      "year": 2022,
+      "display_name": "Kto sakra pozval Charlieho (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "1ba1f6435cb6fc82",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25020235,
+      "size_bytes": 923591463,
+      "uploaded_at": "2026-05-20T02:02:47Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 49.0,
+        "upload_sec": 62.2
+      }
     }
   ],
   "failed_attempts": [
@@ -79989,7 +80008,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/s-vetrem-o-zavod-2024-cz-dab-1080p/d3b11de51f57af0e",
       "permanent": true,
       "failed_at": "2026-05-19T23:28:58Z"
+    },
+    {
+      "cr_film_id": 15145,
+      "upload_id": "22a137ff773a79ee",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdo-sakra-pozval-charlieho-2022-cz-dab-1080p/22a137ff773a79ee",
+      "permanent": true,
+      "failed_at": "2026-05-20T02:00:48Z"
     }
   ],
-  "last_updated": "2026-05-20T02:00:45Z"
+  "last_updated": "2026-05-20T02:02:47Z"
 }
