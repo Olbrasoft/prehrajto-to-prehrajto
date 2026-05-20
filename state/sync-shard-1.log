@@ -29224,3 +29224,14 @@
 [08:14:13]   upload done video_id=25027935 in 38.4s
 [08:14:15] film cr_film_id=15625 OK in 75.6s
 [08:14:15] batch-end ok=20 failed=0 dur=2984.2s avg/film=149.2s remaining=13366 eta_hours=553.9
+
+===== run 2026-05-20T08:14:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26147867937) =====
+[08:14:33] batch-start shard=1/2 count=20 backlog=17650 uploads=4284 failed_attempts=197
+[08:14:33] login
+[08:14:35] login done
+[08:14:35] iteration 1/20
+[08:14:35] film cr_film_id=15629 name='Popular Theory (2023) CZ Dabing' candidates=1
+[08:14:35]   candidate upload_id=869d4dbb97c833c0 url=https://prehraj.to/popular-theory-2024-cz-dabing/869d4dbb97c833c0
+[08:14:36]   resolved in 1.7s → 480p (https://pf-storage6.premiumcdn.net/169468423/L7GtDesxOTj8HKOs4jspMskLTLwubWSqDtr…)
+[08:14:58]   downloaded 308.4 MB in 19.5s (15.8 MB/s)
+[08:15:19]   upload done video_id=25027974 in 21.2s
