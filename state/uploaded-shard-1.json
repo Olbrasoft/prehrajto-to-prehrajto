@@ -79404,6 +79404,25 @@
         "download_sec": 32.7,
         "upload_sec": 40.5
       }
+    },
+    {
+      "cr_film_id": 15297,
+      "cr_slug": "modra-lucerna",
+      "title": "Modrá lucerna",
+      "year": 2010,
+      "display_name": "Modrá lucerna (2010) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "a41235d4ac401296",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25022435,
+      "size_bytes": 945905414,
+      "uploaded_at": "2026-05-20T03:44:11Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 40.2,
+        "upload_sec": 53.0
+      }
     }
   ],
   "failed_attempts": [
@@ -80798,5 +80817,5 @@
       "failed_at": "2026-05-20T03:35:42Z"
     }
   ],
-  "last_updated": "2026-05-20T03:42:32Z"
+  "last_updated": "2026-05-20T03:44:11Z"
 }
