@@ -28226,3 +28226,14 @@
 [02:07:49]   upload done video_id=25020376 in 14.6s
 [02:07:51] film cr_film_id=14924 OK in 31.8s
 [02:07:51] batch-end ok=19 failed=1 dur=1863.5s avg/film=98.1s remaining=13455 eta_hours=366.6
+
+===== run 2026-05-20T02:41:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26137935754) =====
+[02:41:04] batch-start shard=0/2 count=20 backlog=17650 uploads=4195 failed_attempts=668
+[02:41:04] login
+[02:41:06] login done
+[02:41:06] iteration 1/20
+[02:41:06] film cr_film_id=14930 name='5 dnů války (2011) CZ' candidates=1
+[02:41:06]   candidate upload_id=583b1f6c06f73 url=https://prehraj.to/5-days-of-august-5-days-of-war-valecny-akcni-drama-2011-en-cz-tit/583b1f6c06f73
+[02:41:07]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/946361/3LzsEJfmyH0yiYmf38trbf7JUkdcg9TXeC18ua…)
+[02:41:30]   downloaded 627.4 MB in 21.0s (29.9 MB/s)
+[02:41:53]   upload done video_id=25021087 in 23.3s
