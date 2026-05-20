@@ -29256,3 +29256,14 @@
 [08:00:31]   upload done video_id=25027590 in 59.4s
 [08:00:33] film cr_film_id=15354 OK in 119.0s
 [08:00:33] batch-end ok=20 failed=0 dur=2834.7s avg/film=141.7s remaining=13316 eta_hours=524.1
+
+===== run 2026-05-20T08:00:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26147867937) =====
+[08:00:52] batch-start shard=0/2 count=20 backlog=17650 uploads=4334 failed_attempts=673
+[08:00:52] login
+[08:00:54] login done
+[08:00:54] iteration 1/20
+[08:00:54] film cr_film_id=15358 name='Zítra zemřeš (2012) CZ' candidates=1
+[08:00:54]   candidate upload_id=5aa8fd568270b url=https://prehraj.to/zitra-zemres-2012/5aa8fd568270b
+[08:00:55]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/3634756/68NIj5U3xHREF0WuZGCYMUzYCxDH4VIRnh3Gh…)
+[08:01:32]   downloaded 691.5 MB in 34.7s (19.9 MB/s)
+[08:02:25]   upload done video_id=25027634 in 52.5s
