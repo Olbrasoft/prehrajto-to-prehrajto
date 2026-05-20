@@ -80979,6 +80979,25 @@
         "download_sec": 67.7,
         "upload_sec": 138.5
       }
+    },
+    {
+      "cr_film_id": 15142,
+      "cr_slug": "krvava-arena",
+      "title": "Krvavá aréna",
+      "year": 2010,
+      "display_name": "Krvavá aréna (2010) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55cd402db6595",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25024268,
+      "size_bytes": 336350081,
+      "uploaded_at": "2026-05-20T05:04:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.2,
+        "upload_sec": 21.1
+      }
     }
   ],
   "failed_attempts": [
@@ -85737,5 +85756,5 @@
       "failed_at": "2026-05-20T03:37:45Z"
     }
   ],
-  "last_updated": "2026-05-20T05:03:21Z"
+  "last_updated": "2026-05-20T05:04:01Z"
 }
