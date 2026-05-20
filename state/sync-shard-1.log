@@ -30123,3 +30123,15 @@
 [13:20:13]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/157020194/DKrf8bUKLswRhYMUNdfkMUb2HRjua8CZBsV…)
 [13:20:51]   downloaded 1,132.3 MB in 36.6s (30.9 MB/s)
 [13:21:43]   upload done video_id=25032645 in 52.0s
+[13:21:45] film cr_film_id=15993 OK in 92.9s
+[13:21:45] iteration 4/20
+[13:21:45] film cr_film_id=15995 name='Dej si pohov, mladej! 2 (2024) CZ Dabing' candidates=1
+[13:21:45]   candidate upload_id=4a77ae604f92ab29 url=https://prehraj.to/dej-si-pohov-mladej-2-2024-cz-dabing/4a77ae604f92ab29
+[13:21:46]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dej-si-pohov-mladej-2-2024-cz-dabing/4a77ae604f92ab29 (permanent=True)
+[13:21:46] film cr_film_id=15995 all candidates exhausted
+[13:21:46] iteration 5/20
+[13:21:46] film cr_film_id=15999 name='Fotbalová vášeň (2014) CZ Dabing' candidates=6
+[13:21:46]   candidate upload_id=597052f176917 url=https://prehraj.to/fotbalova-vasen-2014-cz-dabing-mp4/597052f176917
+[13:21:52]   resolved in 6.0s → 480p (https://pf-storage2.premiumcdn.net/2447019/vBxuJrUZMuAkUeZuO3fwzUY2ho0f5AiWxiBMf…)
+[13:22:16]   downloaded 660.5 MB in 22.3s (29.6 MB/s)
+[13:22:55]   upload done video_id=25032832 in 39.5s
