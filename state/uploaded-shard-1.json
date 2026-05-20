@@ -84211,6 +84211,25 @@
         "download_sec": 59.1,
         "upload_sec": 82.0
       }
+    },
+    {
+      "cr_film_id": 16077,
+      "cr_slug": "carodej-kajtek",
+      "title": "Čaroděj Kajtek",
+      "year": 2023,
+      "display_name": "Čaroděj Kajtek (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f0110eed17aab684",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25035870,
+      "size_bytes": 1042800420,
+      "uploaded_at": "2026-05-20T14:30:31Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 48.3,
+        "upload_sec": 58.0
+      }
     }
   ],
   "failed_attempts": [
@@ -85687,7 +85706,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdo-je-kdo-2024-cz-dab-1080p/be4552e3a8da963f",
       "permanent": true,
       "failed_at": "2026-05-20T14:23:06Z"
+    },
+    {
+      "cr_film_id": 16077,
+      "upload_id": "301a2702d8231a3a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodej-kajtek-2023-cz-dab-1080p/301a2702d8231a3a",
+      "permanent": true,
+      "failed_at": "2026-05-20T14:28:36Z"
     }
   ],
-  "last_updated": "2026-05-20T14:28:33Z"
+  "last_updated": "2026-05-20T14:30:31Z"
 }
