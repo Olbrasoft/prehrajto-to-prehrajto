@@ -31137,3 +31137,15 @@
 [20:37:33]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/167044301/wb8tEQcGEh9wCYaczVTgBcX5U7ETn6tnjH9…)
 [20:38:28]   downloaded 1,218.6 MB in 53.5s (22.8 MB/s)
 [20:39:13]   upload done video_id=25043490 in 45.3s
+[20:39:15] film cr_film_id=16375 OK in 103.2s
+[20:39:15] iteration 2/20
+[20:39:15] film cr_film_id=16433 name='Dívka jménem Willow (2025) CZ Dabing' candidates=1
+[20:39:15]   candidate upload_id=e4f5a64dbc694aac url=https://prehraj.to/divka-jmenem-willow-2025-cz-dab-1080p/e4f5a64dbc694aac
+[20:39:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/divka-jmenem-willow-2025-cz-dab-1080p/e4f5a64dbc694aac (permanent=True)
+[20:39:16] film cr_film_id=16433 all candidates exhausted
+[20:39:16] iteration 3/20
+[20:39:16] film cr_film_id=16435 name='10 000 dnů (2014) CZ Dabing' candidates=1
+[20:39:16]   candidate upload_id=560d29a12a0bd url=https://prehraj.to/10-000-dnu-2014-cz-dab-scifi/560d29a12a0bd
+[20:39:21]   resolved in 5.8s → 480p (https://pf-storage4.premiumcdn.net/380145/ZgbtAesQliLeUp7Hq9T2qsRnuqEFEWtopI5ZuB…)
+[20:40:04]   downloaded 648.7 MB in 41.4s (15.7 MB/s)
+[20:40:45]   upload done video_id=25043504 in 40.3s
