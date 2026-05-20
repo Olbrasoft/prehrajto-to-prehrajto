@@ -82195,6 +82195,25 @@
         "download_sec": 34.7,
         "upload_sec": 42.3
       }
+    },
+    {
+      "cr_film_id": 15324,
+      "cr_slug": "my-lai",
+      "title": "My Lai",
+      "year": 2010,
+      "display_name": "My Lai (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5dfd116ec9a47",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25027257,
+      "size_bytes": 730954742,
+      "uploaded_at": "2026-05-20T07:46:46Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 40.5,
+        "upload_sec": 45.0
+      }
     }
   ],
   "failed_attempts": [
@@ -86953,5 +86972,5 @@
       "failed_at": "2026-05-20T03:37:45Z"
     }
   ],
-  "last_updated": "2026-05-20T07:45:15Z"
+  "last_updated": "2026-05-20T07:46:46Z"
 }
