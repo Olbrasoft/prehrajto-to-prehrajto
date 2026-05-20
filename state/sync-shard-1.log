@@ -29660,3 +29660,14 @@
 [10:34:28]   upload done video_id=25029853 in 18.2s
 [10:34:29] film cr_film_id=15799 OK in 38.2s
 [10:34:29] batch-end ok=20 failed=0 dur=1743.3s avg/film=87.2s remaining=13307 eta_hours=322.3
+
+===== run 2026-05-20T10:43:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26157416490) =====
+[10:43:24] batch-start shard=1/2 count=20 backlog=17650 uploads=4343 failed_attempts=198
+[10:43:24] login
+[10:43:26] login done
+[10:43:26] iteration 1/20
+[10:43:26] film cr_film_id=15801 name='The Taking (2013) CZ Dabing' candidates=1
+[10:43:26]   candidate upload_id=67bcb6b445cc2 url=https://prehraj.to/the-taking-of-tiger-mountain-2014-1080p-bluray-cz-dabing-mp4/67bcb6b445cc2
+[10:43:27]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/130581326/pw3f8oi7XuwbIMwIZXhyLiG9fOYuz9tdyFx…)
+[10:45:46]   downloaded 2,916.7 MB in 136.1s (21.4 MB/s)
+[10:48:31]   upload done video_id=25029998 in 165.3s
