@@ -84342,6 +84342,25 @@
         "download_sec": 41.3,
         "upload_sec": 50.9
       }
+    },
+    {
+      "cr_film_id": 15688,
+      "cr_slug": "modry-tygr",
+      "title": "Modrý tygr",
+      "year": 2012,
+      "display_name": "Modrý tygr (2012) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c1d263e9235b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25031739,
+      "size_bytes": 576819297,
+      "uploaded_at": "2026-05-20T12:58:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.2,
+        "upload_sec": 30.9
+      }
     }
   ],
   "failed_attempts": [
@@ -89163,5 +89182,5 @@
       "failed_at": "2026-05-20T11:37:38Z"
     }
   ],
-  "last_updated": "2026-05-20T12:57:53Z"
+  "last_updated": "2026-05-20T12:58:56Z"
 }
