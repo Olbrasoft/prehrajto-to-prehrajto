@@ -85368,6 +85368,25 @@
         "download_sec": 85.8,
         "upload_sec": 98.2
       }
+    },
+    {
+      "cr_film_id": 15846,
+      "cr_slug": "premiere-affaire",
+      "title": "Première affaire",
+      "year": 2023,
+      "display_name": "Première affaire (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "592e9a94a55c1913",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25036937,
+      "size_bytes": 650109724,
+      "uploaded_at": "2026-05-20T15:31:36Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 31.6,
+        "upload_sec": 49.8
+      }
     }
   ],
   "failed_attempts": [
@@ -90189,5 +90208,5 @@
       "failed_at": "2026-05-20T11:37:38Z"
     }
   ],
-  "last_updated": "2026-05-20T15:30:09Z"
+  "last_updated": "2026-05-20T15:31:36Z"
 }
