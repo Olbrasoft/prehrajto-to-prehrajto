@@ -30928,3 +30928,17 @@
 [19:03:54]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/160427588/NoeIb4TqptAETxEs6jH8xT5dFDni83IbysP…)
 [19:05:03]   downloaded 2,037.3 MB in 67.6s (30.1 MB/s)
 [19:07:12]   upload done video_id=25041825 in 129.2s
+[19:07:14] film cr_film_id=16325 OK in 201.0s
+[19:07:14] iteration 15/20
+[19:07:14] film cr_film_id=16333 name='Bubák (2025) CZ' candidates=2
+[19:07:14]   candidate upload_id=a006d40ed227a48d url=https://prehraj.to/bubak-2025-ceska-novinka-mp4/a006d40ed227a48d
+[19:07:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bubak-2025-ceska-novinka-mp4/a006d40ed227a48d (permanent=True)
+[19:07:15]   candidate upload_id=6c108c11602f7b1a url=https://prehraj.to/bubak-2025-ceska-novinka-mp4/6c108c11602f7b1a
+[19:07:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bubak-2025-ceska-novinka-mp4/6c108c11602f7b1a (permanent=True)
+[19:07:20] film cr_film_id=16333 all candidates exhausted
+[19:07:20] iteration 16/20
+[19:07:20] film cr_film_id=16335 name='Muž, který miloval létající talíře (2024) CZ Dabing' candidates=7
+[19:07:20]   candidate upload_id=671744c5b6fed url=https://prehraj.to/muz-ktery-miloval-letajici-talire-2024-cz-dabing-1080p-mp4/671744c5b6fed
+[19:07:26]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/103245848/xeaF48UAWtXqf9bc0PclpUmDFn7fvRI4JFl…)
+[19:08:44]   downloaded 2,522.7 MB in 76.3s (33.1 MB/s)
+[19:11:22]   upload done video_id=25041937 in 157.6s
