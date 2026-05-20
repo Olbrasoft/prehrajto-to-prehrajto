@@ -28251,3 +28251,15 @@
 [02:50:40]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/155032122/Y4QhgYS24S4oH54CXOfwzSq3IZ3fQKF5Qfp…)
 [02:51:24]   downloaded 548.2 MB in 42.5s (12.9 MB/s)
 [02:51:53]   upload done video_id=25021289 in 29.6s
+[02:51:55] film cr_film_id=15205 OK in 76.8s
+[02:51:55] iteration 6/20
+[02:51:55] film cr_film_id=15207 name='Nepoučitelní (2013) CZ' candidates=1
+[02:51:55]   candidate upload_id=d7022f4998e1d9e0 url=https://prehraj.to/nepoucitelni-2013-cz-dabing-mp4/d7022f4998e1d9e0
+[02:51:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nepoucitelni-2013-cz-dabing-mp4/d7022f4998e1d9e0 (permanent=True)
+[02:51:56] film cr_film_id=15207 all candidates exhausted
+[02:51:56] iteration 7/20
+[02:51:56] film cr_film_id=15211 name='Chladnokrevný (2012) CZ Dabing' candidates=7
+[02:51:56]   candidate upload_id=5f33785460fd8 url=https://prehraj.to/chladnokrevny-deadfall-cz-dabing-2012-paja/5f33785460fd8
+[02:52:02]   resolved in 5.9s → 720p (https://pf-storage1.premiumcdn.net/17964441/kV4IOMi9Pso3fm7tzKUxki6PCO1ulWhAOum0…)
+[02:53:21]   downloaded 1,909.4 MB in 77.3s (24.7 MB/s)
+[02:54:53]   upload done video_id=25021331 in 92.8s
