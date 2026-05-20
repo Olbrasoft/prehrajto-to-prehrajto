@@ -30132,3 +30132,14 @@
 [13:33:48]   upload done video_id=25034148 in 24.4s
 [13:33:50] film cr_film_id=15722 OK in 51.2s
 [13:33:50] batch-end ok=20 failed=0 dur=3851.5s avg/film=192.6s remaining=13200 eta_hours=706.2
+
+===== run 2026-05-20T13:34:05Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26163446014) =====
+[13:34:07] batch-start shard=0/2 count=20 backlog=17650 uploads=4450 failed_attempts=681
+[13:34:07] login
+[13:34:08] login done
+[13:34:08] iteration 1/20
+[13:34:08] film cr_film_id=15724 name='Lassie: Nové dobrodružství (2023) CZ' candidates=1
+[13:34:08]   candidate upload_id=689564aa5acf8 url=https://prehraj.to/lassie-nove-dobrodruzstvi-2023/689564aa5acf8
+[13:34:10]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/143203820/PPQubAfopSWPUZrFn7hnVf8XhEwTNKU05sV…)
+[13:35:49]   downloaded 2,051.1 MB in 97.4s (21.1 MB/s)
+[13:37:53]   upload done video_id=25034407 in 124.1s
