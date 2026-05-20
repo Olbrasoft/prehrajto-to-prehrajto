@@ -27957,3 +27957,15 @@
 [01:00:38]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/72234695/q25tlvUv7SE5Sqkfl7h2AU1AC5nFvwiRNi2k…)
 [01:02:09]   downloaded 2,070.1 MB in 89.1s (23.2 MB/s)
 [01:03:57]   upload done video_id=25018892 in 108.6s
+[01:04:00] film cr_film_id=14806 OK in 203.3s
+[01:04:00] iteration 4/20
+[01:04:00] film cr_film_id=14808 name='Jízda na hraně (2021) CZ Dabing' candidates=1
+[01:04:00]   candidate upload_id=993ce821c8fab599 url=https://prehraj.to/jizda-na-hrane-2021-cz-dabing/993ce821c8fab599
+[01:04:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jizda-na-hrane-2021-cz-dabing/993ce821c8fab599 (permanent=True)
+[01:04:00] film cr_film_id=14808 all candidates exhausted
+[01:04:00] iteration 5/20
+[01:04:00] film cr_film_id=14810 name='Neonová cesta (2024) CZ Dabing' candidates=6
+[01:04:00]   candidate upload_id=fa4996bb79df8c95 url=https://prehraj.to/neonova-cesta-2024-drama-usa-czdab-1080p-mp4/fa4996bb79df8c95
+[01:04:07]   resolved in 6.1s → 1080p (https://pf-storage5.premiumcdn.net/163081850/jR2tv5cDOU0JfAnUgXTa7cyVtgphw8T6ziA…)
+[01:05:26]   downloaded 1,791.8 MB in 78.0s (23.0 MB/s)
+[01:06:56]   upload done video_id=25018967 in 89.9s

@@ -79041,6 +79041,25 @@
         "download_sec": 89.1,
         "upload_sec": 108.6
       }
+    },
+    {
+      "cr_film_id": 14810,
+      "cr_slug": "neonova-cesta",
+      "title": "Neonová cesta",
+      "year": 2024,
+      "display_name": "Neonová cesta (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "fa4996bb79df8c95",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25018967,
+      "size_bytes": 1791811065,
+      "uploaded_at": "2026-05-20T01:06:56Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 78.0,
+        "upload_sec": 89.9
+      }
     }
   ],
   "failed_attempts": [
@@ -83729,7 +83748,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/napoveda-k-lasce-2021-cz-dab-1080p-mp4/5467cd1e40fc310f",
       "permanent": true,
       "failed_at": "2026-05-20T00:26:34Z"
+    },
+    {
+      "cr_film_id": 14808,
+      "upload_id": "993ce821c8fab599",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jizda-na-hrane-2021-cz-dabing/993ce821c8fab599",
+      "permanent": true,
+      "failed_at": "2026-05-20T01:04:00Z"
     }
   ],
-  "last_updated": "2026-05-20T01:03:57Z"
+  "last_updated": "2026-05-20T01:06:56Z"
 }
