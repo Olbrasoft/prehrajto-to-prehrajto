@@ -29514,3 +29514,14 @@
 [10:04:11]   upload done video_id=25029497 in 111.9s
 [10:04:13] film cr_film_id=15741 OK in 198.0s
 [10:04:13] batch-end ok=20 failed=0 dur=3295.3s avg/film=164.8s remaining=13327 eta_hours=610.1
+
+===== run 2026-05-20T10:05:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26155629850) =====
+[10:05:25] batch-start shard=1/2 count=20 backlog=17650 uploads=4323 failed_attempts=198
+[10:05:25] login
+[10:05:26] login done
+[10:05:26] iteration 1/20
+[10:05:26] film cr_film_id=15743 name='Sushi z East Side (2014) CZ Dabing' candidates=6
+[10:05:26]   candidate upload_id=597e5bce3f6b0 url=https://prehraj.to/sushi-z-east-side-2014-cz-dabing-mp4/597e5bce3f6b0
+[10:05:27]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/2497746/xV7fepc6NtVgS51Ho4CVgc6qHDLCgqsOnhjMI…)
+[10:06:06]   downloaded 1,133.4 MB in 36.9s (30.7 MB/s)
+[10:06:50]   upload done video_id=25029528 in 44.6s
