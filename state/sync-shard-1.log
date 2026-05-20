@@ -28354,3 +28354,14 @@
 [03:20:19]   upload done video_id=25021894 in 29.5s
 [03:20:21] film cr_film_id=15249 OK in 56.5s
 [03:20:21] batch-end ok=18 failed=2 dur=2355.8s avg/film=130.9s remaining=13482 eta_hours=490.2
+
+===== run 2026-05-20T03:22:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26139212013) =====
+[03:22:07] batch-start shard=1/2 count=20 backlog=17650 uploads=4168 failed_attempts=192
+[03:22:07] login
+[03:22:09] login done
+[03:22:09] iteration 1/20
+[03:22:09] film cr_film_id=15253 name='Ztracená generace (2012) CZ' candidates=2
+[03:22:09]   candidate upload_id=5a6a4c4229516 url=https://prehraj.to/valecna-generace-valecne-drama-3-dil-2013-jad/5a6a4c4229516
+[03:22:10]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/3325332/G1wsVDT6nheBCKnTD7CBrT1DskxFE1i8xf5ZS…)
+[03:22:56]   downloaded 942.0 MB in 43.8s (21.5 MB/s)
+[03:23:45]   upload done video_id=25021964 in 48.7s
