@@ -31270,3 +31270,14 @@
 [21:15:41]   upload done video_id=25043947 in 81.5s
 [21:15:42] film cr_film_id=16489 OK in 147.5s
 [21:15:42] batch-end ok=19 failed=1 dur=2290.8s avg/film=120.6s remaining=13098 eta_hours=438.8
+
+===== run 2026-05-20T22:15:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26193134768) =====
+[22:15:56] batch-start shard=1/2 count=20 backlog=17650 uploads=4552 failed_attempts=221
+[22:15:56] login
+[22:15:58] login done
+[22:15:58] iteration 1/20
+[22:15:58] film cr_film_id=16505 name='Šejdrem (2009) CZ Dabing' candidates=2
+[22:15:58]   candidate upload_id=55ea398d33bf9 url=https://prehraj.to/sejdrem-2008-czdab/55ea398d33bf9
+[22:15:59]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/278989/QlXsvBujZi6nTM3hApcKEu7niQjIrAt6AUjGCp…)
+[22:16:20]   downloaded 584.1 MB in 19.3s (30.3 MB/s)
+[22:16:44]   upload done video_id=25044785 in 24.0s
