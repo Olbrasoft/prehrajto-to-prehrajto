@@ -29402,3 +29402,21 @@
 [08:44:31]   upload done video_id=25028446 in 96.6s
 [08:44:33] film cr_film_id=15420 OK in 187.5s
 [08:44:33] batch-end ok=20 failed=0 dur=2619.3s avg/film=131.0s remaining=13296 eta_hours=483.8
+
+===== run 2026-05-20T09:09:13Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26152850266) =====
+[09:09:14] batch-start shard=0/2 count=20 backlog=17650 uploads=4354 failed_attempts=673
+[09:09:14] login
+[09:09:16] login done
+[09:09:16] iteration 1/20
+[09:09:16] film cr_film_id=15422 name='Vánoce u jezera (2022) CZ Dabing' candidates=2
+[09:09:16]   candidate upload_id=26b6d9661e2158ed url=https://prehraj.to/vanoce-u-jezera-2022-cz-dab-1080p/26b6d9661e2158ed
+[09:09:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vanoce-u-jezera-2022-cz-dab-1080p/26b6d9661e2158ed (permanent=True)
+[09:09:17]   candidate upload_id=36f60a96fae93d0f url=https://prehraj.to/vanoce-u-jezera-2022-cz-dab-1080p-mp4/36f60a96fae93d0f
+[09:09:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vanoce-u-jezera-2022-cz-dab-1080p-mp4/36f60a96fae93d0f (permanent=True)
+[09:09:22] film cr_film_id=15422 all candidates exhausted
+[09:09:22] iteration 2/20
+[09:09:22] film cr_film_id=15426 name='Zapomenutá země (2022) CZ Dabing' candidates=1
+[09:09:22]   candidate upload_id=64f2de3a92f19 url=https://prehraj.to/zapomenuta-zeme-vanskabte-land-2022-hd-5-1-cz-dabing/64f2de3a92f19
+[09:09:28]   resolved in 6.0s → 1080p (https://pf-storage1.premiumcdn.net/43929782/GVYFrEhYouw5CMLCpZtx8h3GfVbh2ZiwximQ…)
+[09:11:42]   downloaded 3,237.0 MB in 131.3s (24.7 MB/s)
+[09:14:18]   upload done video_id=25028813 in 156.3s

@@ -82727,6 +82727,25 @@
         "download_sec": 85.1,
         "upload_sec": 96.6
       }
+    },
+    {
+      "cr_film_id": 15426,
+      "cr_slug": "zapomenuta-zeme",
+      "title": "Zapomenutá země",
+      "year": 2022,
+      "display_name": "Zapomenutá země (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64f2de3a92f19",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25028813,
+      "size_bytes": 3237004989,
+      "uploaded_at": "2026-05-20T09:14:18Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 131.3,
+        "upload_sec": 156.3
+      }
     }
   ],
   "failed_attempts": [
@@ -87490,7 +87509,21 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/princezna-zakleta-v-case-2-2022-cz-dab-1080p/6a99277b2d5334eb",
       "permanent": true,
       "failed_at": "2026-05-20T07:54:02Z"
+    },
+    {
+      "cr_film_id": 15422,
+      "upload_id": "26b6d9661e2158ed",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vanoce-u-jezera-2022-cz-dab-1080p/26b6d9661e2158ed",
+      "permanent": true,
+      "failed_at": "2026-05-20T09:09:17Z"
+    },
+    {
+      "cr_film_id": 15422,
+      "upload_id": "36f60a96fae93d0f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vanoce-u-jezera-2022-cz-dab-1080p-mp4/36f60a96fae93d0f",
+      "permanent": true,
+      "failed_at": "2026-05-20T09:09:22Z"
     }
   ],
-  "last_updated": "2026-05-20T08:44:31Z"
+  "last_updated": "2026-05-20T09:14:18Z"
 }
