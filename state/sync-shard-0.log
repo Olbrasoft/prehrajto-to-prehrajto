@@ -29548,3 +29548,16 @@
 [09:57:40]   upload done video_id=25029417 in 102.3s
 [09:57:42] film cr_film_id=15474 OK in 197.2s
 [09:57:42] batch-end ok=18 failed=2 dur=2906.1s avg/film=161.4s remaining=13278 eta_hours=595.3
+
+===== run 2026-05-20T10:05:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26155629850) =====
+[10:05:26] batch-start shard=0/2 count=20 backlog=17650 uploads=4372 failed_attempts=677
+[10:05:26] login
+[10:05:27] login done
+[10:05:27] iteration 1/20
+[10:05:27] film cr_film_id=15476 name='Šance v čase (2024) CZ Dabing' candidates=3
+[10:05:27]   candidate upload_id=fb2015c941d1e9d7 url=https://prehraj.to/sance-v-case-2024-cz-dab-1080p-mp4/fb2015c941d1e9d7
+[10:05:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sance-v-case-2024-cz-dab-1080p-mp4/fb2015c941d1e9d7 (permanent=True)
+[10:05:28]   candidate upload_id=53e0407c80817511 url=https://prehraj.to/sance-v-case-2024-cz-dab-1080p-mp4/53e0407c80817511
+[10:05:34]   resolved in 6.0s → 1080p (https://pf-storage5.premiumcdn.net/168408868/RLVIREUWDuoOHdZcNoIq2UVnTWvSN8C2pFP…)
+[10:06:22]   downloaded 1,605.5 MB in 46.9s (34.2 MB/s)
+[10:07:23]   upload done video_id=25029532 in 60.9s
