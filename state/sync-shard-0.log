@@ -30568,3 +30568,14 @@
 [16:13:11]   upload done video_id=25037830 in 27.8s
 [16:13:12] film cr_film_id=15896 OK in 55.6s
 [16:13:12] batch-end ok=18 failed=2 dur=3044.3s avg/film=169.1s remaining=13142 eta_hours=617.3
+
+===== run 2026-05-20T16:13:59Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26175110196) =====
+[16:14:00] batch-start shard=0/2 count=20 backlog=17650 uploads=4508 failed_attempts=684
+[16:14:00] login
+[16:14:02] login done
+[16:14:02] iteration 1/20
+[16:14:02] film cr_film_id=15898 name='Letní tábor (2024) CZ Dabing' candidates=6
+[16:14:02]   candidate upload_id=3945d46e2ea58d6b url=https://prehraj.to/letni-tabor-2024-cz-dabing-1080p-mp4/3945d46e2ea58d6b
+[16:14:03]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/155497460/beVIDjsX3Sj8U9PSENHxVs51hAkcK3TNGfK…)
+[16:15:12]   downloaded 2,213.6 MB in 67.8s (32.6 MB/s)
+[16:16:38]   upload done video_id=25037876 in 85.9s
