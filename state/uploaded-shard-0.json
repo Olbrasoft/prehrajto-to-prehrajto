@@ -83563,6 +83563,25 @@
         "download_sec": 77.9,
         "upload_sec": 101.6
       }
+    },
+    {
+      "cr_film_id": 15552,
+      "cr_slug": "boure",
+      "title": "Bouře",
+      "year": 2022,
+      "display_name": "Bouře (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61a04a5a1755e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25030195,
+      "size_bytes": 3246753327,
+      "uploaded_at": "2026-05-20T11:05:25Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 165.0,
+        "upload_sec": 183.7
+      }
     }
   ],
   "failed_attempts": [
@@ -88377,5 +88396,5 @@
       "failed_at": "2026-05-20T10:53:43Z"
     }
   ],
-  "last_updated": "2026-05-20T10:59:31Z"
+  "last_updated": "2026-05-20T11:05:25Z"
 }
