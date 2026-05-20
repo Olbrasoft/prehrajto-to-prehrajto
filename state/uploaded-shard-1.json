@@ -77998,6 +77998,25 @@
         "download_sec": 49.7,
         "upload_sec": 68.9
       }
+    },
+    {
+      "cr_film_id": 15067,
+      "cr_slug": "bozi-vzkaz",
+      "title": "Boží vzkaz",
+      "year": 2010,
+      "display_name": "Boží vzkaz (2010) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "662aa36c92303",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25018513,
+      "size_bytes": 572827179,
+      "uploaded_at": "2026-05-20T00:46:08Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 25.4,
+        "upload_sec": 30.8
+      }
     }
   ],
   "failed_attempts": [
@@ -79364,5 +79383,5 @@
       "failed_at": "2026-05-19T23:28:58Z"
     }
   ],
-  "last_updated": "2026-05-20T00:45:06Z"
+  "last_updated": "2026-05-20T00:46:08Z"
 }
