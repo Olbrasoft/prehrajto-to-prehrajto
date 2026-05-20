@@ -28644,3 +28644,14 @@
 [04:47:39]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/dokonala-prilezitost-nicholle-tom-david-palffy-steve-bacic-2013-thriller-bdrip-1080p-cz-dabing-mp4/001a68b7a072393c (permanent=True)
 [04:47:39] film cr_film_id=15379 all candidates exhausted
 [04:47:39] batch-end ok=19 failed=1 dur=2945.4s avg/film=155.0s remaining=13444 eta_hours=578.8
+
+===== run 2026-05-20T04:48:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26141976464) =====
+[04:48:32] batch-start shard=1/2 count=20 backlog=17650 uploads=4206 failed_attempts=195
+[04:48:32] login
+[04:48:33] login done
+[04:48:33] iteration 1/20
+[04:48:33] film cr_film_id=15383 name='Den vran (2012) CZ Dabing' candidates=1
+[04:48:33]   candidate upload_id=592cc1ace76e3 url=https://prehraj.to/den-vran-2012-cz-dabing/592cc1ace76e3
+[04:48:34]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/2277602/bo8IqlSY7tJgFDVC1ptaXS0dcmlh07FNkFwgh…)
+[04:48:56]   downloaded 581.1 MB in 20.3s (28.6 MB/s)
+[04:49:21]   upload done video_id=25023963 in 24.9s
