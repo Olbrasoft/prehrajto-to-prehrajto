@@ -77922,6 +77922,25 @@
         "download_sec": 47.8,
         "upload_sec": 63.8
       }
+    },
+    {
+      "cr_film_id": 15049,
+      "cr_slug": "tiche-buraceni",
+      "title": "Tiché burácení",
+      "year": 2023,
+      "display_name": "Tiché burácení (2023) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "674e1fe459faa",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25018292,
+      "size_bytes": 1313978068,
+      "uploaded_at": "2026-05-20T00:38:46Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 55.3,
+        "upload_sec": 72.3
+      }
     }
   ],
   "failed_attempts": [
@@ -79288,5 +79307,5 @@
       "failed_at": "2026-05-19T23:28:58Z"
     }
   ],
-  "last_updated": "2026-05-20T00:36:34Z"
+  "last_updated": "2026-05-20T00:38:46Z"
 }
