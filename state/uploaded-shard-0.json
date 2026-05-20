@@ -82955,6 +82955,25 @@
         "download_sec": 100.5,
         "upload_sec": 113.2
       }
+    },
+    {
+      "cr_film_id": 15462,
+      "cr_slug": "lore",
+      "title": "Lore",
+      "year": 2012,
+      "display_name": "Lore (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "805e28d240d2c435",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25029220,
+      "size_bytes": 4560817249,
+      "uploaded_at": "2026-05-20T09:44:26Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 166.5,
+        "upload_sec": 203.9
+      }
     }
   ],
   "failed_attempts": [
@@ -87748,5 +87767,5 @@
       "failed_at": "2026-05-20T09:20:56Z"
     }
   ],
-  "last_updated": "2026-05-20T09:38:11Z"
+  "last_updated": "2026-05-20T09:44:26Z"
 }
