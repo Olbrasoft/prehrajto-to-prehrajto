@@ -30708,3 +30708,14 @@
 [16:52:55]   upload done video_id=25038740 in 108.2s
 [16:52:57] film cr_film_id=15958 OK in 184.3s
 [16:52:57] batch-end ok=17 failed=3 dur=2334.9s avg/film=137.3s remaining=13125 eta_hours=500.6
+
+===== run 2026-05-20T17:14:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26178112883) =====
+[17:14:23] batch-start shard=0/2 count=20 backlog=17650 uploads=4525 failed_attempts=687
+[17:14:23] login
+[17:14:25] login done
+[17:14:25] iteration 1/20
+[17:14:25] film cr_film_id=15960 name='Stíny smrti: Živé vzpomínky (2023) CZ Dabing' candidates=3
+[17:14:25]   candidate upload_id=d9839987e3a0195d url=https://prehraj.to/stiny-smrti-zive-vzpominky-2023-cz-dabing/d9839987e3a0195d
+[17:14:26]   resolved in 1.0s → 720p (https://pf-storage6.premiumcdn.net/169365721/Ya6H3dsKQc5Ju9xFPnsvksEwSG8TRaIP7Io…)
+[17:15:12]   downloaded 976.0 MB in 44.3s (22.0 MB/s)
+[17:16:04]   upload done video_id=25039615 in 52.1s
