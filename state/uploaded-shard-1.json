@@ -81665,6 +81665,25 @@
         "download_sec": 51.4,
         "upload_sec": 61.0
       }
+    },
+    {
+      "cr_film_id": 15667,
+      "cr_slug": "jevida",
+      "title": "Jevida",
+      "year": 2023,
+      "display_name": "Jevida (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67fd8788f392a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25028569,
+      "size_bytes": 1761518970,
+      "uploaded_at": "2026-05-20T08:54:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 89.5,
+        "upload_sec": 99.7
+      }
     }
   ],
   "failed_attempts": [
@@ -83094,5 +83113,5 @@
       "failed_at": "2026-05-20T08:41:02Z"
     }
   ],
-  "last_updated": "2026-05-20T08:51:03Z"
+  "last_updated": "2026-05-20T08:54:17Z"
 }
