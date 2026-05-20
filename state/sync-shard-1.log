@@ -28064,3 +28064,14 @@
 [01:45:06]   upload done video_id=25019794 in 118.2s
 [01:45:08] film cr_film_id=15121 OK in 213.1s
 [01:45:08] batch-end ok=20 failed=0 dur=2940.9s avg/film=147.0s remaining=13520 eta_hours=552.1
+
+===== run 2026-05-20T01:45:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26134665037) =====
+[01:45:22] batch-start shard=1/2 count=20 backlog=17650 uploads=4130 failed_attempts=189
+[01:45:22] login
+[01:45:25] login done
+[01:45:25] iteration 1/20
+[01:45:25] film cr_film_id=15125 name='Dilema (2011) CZ Dabing' candidates=2
+[01:45:25]   candidate upload_id=55c64cf219956 url=https://prehraj.to/dilema-dilemma-the-cz-dabing-2011/55c64cf219956
+[01:45:26]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/103697/zvRFyGcpkT1eFaoiPlc91cR2tM7iVnudNSZzuw…)
+[01:45:55]   downloaded 501.7 MB in 27.0s (18.6 MB/s)
+[01:46:25]   upload done video_id=25019856 in 29.8s
