@@ -27839,3 +27839,17 @@
 [00:24:40]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/42240089/gRotbMh4jsKeCmxFpai4mh15Cy5in2SznFPa…)
 [00:25:24]   downloaded 942.6 MB in 42.7s (22.1 MB/s)
 [00:26:26]   upload done video_id=25017977 in 61.8s
+[00:26:27] film cr_film_id=14754 OK in 108.8s
+[00:26:27] iteration 8/20
+[00:26:27] film cr_film_id=14756 name='Nápověda k lásce (2021) CZ Dabing' candidates=2
+[00:26:27]   candidate upload_id=8fc81c9d427d108f url=https://prehraj.to/napoveda-k-lasce-2021-cz-dab-1080p/8fc81c9d427d108f
+[00:26:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/napoveda-k-lasce-2021-cz-dab-1080p/8fc81c9d427d108f (permanent=True)
+[00:26:28]   candidate upload_id=5467cd1e40fc310f url=https://prehraj.to/napoveda-k-lasce-2021-cz-dab-1080p-mp4/5467cd1e40fc310f
+[00:26:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/napoveda-k-lasce-2021-cz-dab-1080p-mp4/5467cd1e40fc310f (permanent=True)
+[00:26:34] film cr_film_id=14756 all candidates exhausted
+[00:26:34] iteration 9/20
+[00:26:34] film cr_film_id=14758 name='Kouzelná chůva a Velký třesk (2010) CZ Dabing' candidates=18
+[00:26:34]   candidate upload_id=050b8dbbbf6a5881 url=https://prehraj.to/kouzelna-chuva-a-velky-tresk-2010-cz-dabing-1080p-mkv/050b8dbbbf6a5881
+[00:26:40]   resolved in 6.2s → 720p (https://pf-storage3.premiumcdn.net/163910177/dOnugkSQwtVPh54CLaU8VSy8CLlTwKiMdT1…)
+[00:28:09]   downloaded 2,286.2 MB in 87.5s (26.1 MB/s)
+[00:30:02]   upload done video_id=25018051 in 113.2s
