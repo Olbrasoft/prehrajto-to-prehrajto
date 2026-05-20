@@ -29806,3 +29806,14 @@
 [11:33:25]   upload done video_id=25030612 in 116.4s
 [11:33:27] film cr_film_id=15859 OK in 222.0s
 [11:33:27] batch-end ok=20 failed=0 dur=3001.1s avg/film=150.1s remaining=13287 eta_hours=554.0
+
+===== run 2026-05-20T11:42:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26160244281) =====
+[11:42:30] batch-start shard=1/2 count=20 backlog=17650 uploads=4363 failed_attempts=198
+[11:42:30] login
+[11:42:31] login done
+[11:42:31] iteration 1/20
+[11:42:31] film cr_film_id=15861 name='Ve znamení zběsilosti (2013) CZ Dabing' candidates=2
+[11:42:31]   candidate upload_id=5c8019b88a272 url=https://prehraj.to/ve-znameni-zbesilosti-2013-cz-dabing/5c8019b88a272
+[11:42:33]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/12303031/pdPFReczqh05To7fJQtZpc9gTRXFoGIR1F30…)
+[11:43:49]   downloaded 1,990.3 MB in 74.8s (26.6 MB/s)
+[11:45:22]   upload done video_id=25030740 in 92.5s
