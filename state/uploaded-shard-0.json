@@ -86850,6 +86850,25 @@
         "download_sec": 166.7,
         "upload_sec": 82.6
       }
+    },
+    {
+      "cr_film_id": 16120,
+      "cr_slug": "thinestra",
+      "title": "Thinestra",
+      "year": 2025,
+      "display_name": "Thinestra (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "8bef940245a724ad",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25043786,
+      "size_bytes": 1731850815,
+      "uploaded_at": "2026-05-20T21:03:27Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 69.0,
+        "upload_sec": 99.9
+      }
     }
   ],
   "failed_attempts": [
@@ -91741,5 +91760,5 @@
       "failed_at": "2026-05-20T17:55:25Z"
     }
   ],
-  "last_updated": "2026-05-20T21:00:32Z"
+  "last_updated": "2026-05-20T21:03:27Z"
 }
