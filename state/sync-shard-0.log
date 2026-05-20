@@ -29840,3 +29840,14 @@
 [11:41:03]   upload done video_id=25030696 in 109.3s
 [11:41:05] film cr_film_id=15584 OK in 207.4s
 [11:41:05] batch-end ok=18 failed=2 dur=3461.7s avg/film=192.3s remaining=13240 eta_hours=707.2
+
+===== run 2026-05-20T11:42:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26160244281) =====
+[11:42:31] batch-start shard=0/2 count=20 backlog=17650 uploads=4410 failed_attempts=681
+[11:42:31] login
+[11:42:33] login done
+[11:42:33] iteration 1/20
+[11:42:33] film cr_film_id=15590 name='Čtvrtá stěna (2024) CZ Dabing' candidates=9
+[11:42:33]   candidate upload_id=25dc05d25dd7df10 url=https://prehraj.to/ctvrta-stena-2024-cz-dab-1080p/25dc05d25dd7df10
+[11:42:34]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/160898999/wOyIQ7H5pUW2ivESWxhpzH1XIDOu0AUkpT1…)
+[11:44:03]   downloaded 2,269.7 MB in 87.5s (25.9 MB/s)
+[11:45:45]   upload done video_id=25030745 in 102.0s
