@@ -85463,6 +85463,25 @@
         "download_sec": 50.0,
         "upload_sec": 50.3
       }
+    },
+    {
+      "cr_film_id": 15866,
+      "cr_slug": "necekane-stesti",
+      "title": "Nečekané štěstí",
+      "year": 2023,
+      "display_name": "Nečekané štěstí (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "4dd951f9b0a556a5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25037397,
+      "size_bytes": 1474286154,
+      "uploaded_at": "2026-05-20T15:48:57Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 64.7,
+        "upload_sec": 79.5
+      }
     }
   ],
   "failed_attempts": [
@@ -90282,7 +90301,21 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/pouta-pomsty-2022-cz-dabing-hd-mp4/b2e6917c5bfc46da",
       "permanent": true,
       "failed_at": "2026-05-20T11:37:38Z"
+    },
+    {
+      "cr_film_id": 15864,
+      "upload_id": "810609e9591065ab",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/most-v-ohni-2024-cz-dab-1080p/810609e9591065ab",
+      "permanent": true,
+      "failed_at": "2026-05-20T15:46:19Z"
+    },
+    {
+      "cr_film_id": 15864,
+      "upload_id": "2a2a378cccb6a1c6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/most-v-ohni-2024-cz-dab-1080p-mp4/2a2a378cccb6a1c6",
+      "permanent": true,
+      "failed_at": "2026-05-20T15:46:25Z"
     }
   ],
-  "last_updated": "2026-05-20T15:46:16Z"
+  "last_updated": "2026-05-20T15:48:57Z"
 }
