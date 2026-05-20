@@ -30996,3 +30996,14 @@
 [20:35:58]   upload done video_id=25043451 in 98.8s
 [20:36:00] film cr_film_id=16094 OK in 206.5s
 [20:36:00] batch-end ok=20 failed=0 dur=8616.5s avg/film=430.8s remaining=13088 eta_hours=1566.2
+
+===== run 2026-05-20T20:36:18Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26182765028) =====
+[20:36:20] batch-start shard=0/2 count=20 backlog=17650 uploads=4562 failed_attempts=691
+[20:36:20] login
+[20:36:21] login done
+[20:36:21] iteration 1/20
+[20:36:21] film cr_film_id=16096 name='Ryba na suchu (2024) CZ Dabing' candidates=8
+[20:36:21]   candidate upload_id=2cccd49335436d91 url=https://prehraj.to/ryba-na-suchu-cz-dabing-2024-1080p/2cccd49335436d91
+[20:36:23]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/166752683/7pkFe9IE7S4ru7nsY1cXBI6BsNyczDsdbH7…)
+[20:37:17]   downloaded 1,190.8 MB in 52.7s (22.6 MB/s)
+[20:38:20]   upload done video_id=25043478 in 62.3s
