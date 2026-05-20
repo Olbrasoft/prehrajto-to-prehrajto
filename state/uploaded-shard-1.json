@@ -85446,6 +85446,25 @@
         "download_sec": 26.0,
         "upload_sec": 30.3
       }
+    },
+    {
+      "cr_film_id": 16287,
+      "cr_slug": "letni-vanoce",
+      "title": "Letní Vánoce",
+      "year": 2024,
+      "display_name": "Letní Vánoce (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f03638136328ef4b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25040972,
+      "size_bytes": 2224893463,
+      "uploaded_at": "2026-05-20T18:21:09Z",
+      "timing": {
+        "resolve_sec": 6.8,
+        "download_sec": 378.8,
+        "upload_sec": 75.3
+      }
     }
   ],
   "failed_attempts": [
@@ -86950,7 +86969,21 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/superzena-2023-czdab-mp4/7b5b2cb06dbaa389",
       "permanent": true,
       "failed_at": "2026-05-20T16:22:16Z"
+    },
+    {
+      "cr_film_id": 16287,
+      "upload_id": "a4f7004180251ba0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-vanoce-2024-cz-dab-1080p-mp4/a4f7004180251ba0",
+      "permanent": true,
+      "failed_at": "2026-05-20T18:13:20Z"
+    },
+    {
+      "cr_film_id": 16287,
+      "upload_id": "851ce9e2937b3b3f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-vanoce-2024-cz-dab-1080p/851ce9e2937b3b3f",
+      "permanent": true,
+      "failed_at": "2026-05-20T18:13:26Z"
     }
   ],
-  "last_updated": "2026-05-20T18:13:18Z"
+  "last_updated": "2026-05-20T18:21:09Z"
 }
