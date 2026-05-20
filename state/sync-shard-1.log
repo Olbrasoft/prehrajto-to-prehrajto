@@ -28212,3 +28212,14 @@
 [02:40:25]   upload done video_id=25021044 in 65.9s
 [02:40:26] film cr_film_id=15189 OK in 128.0s
 [02:40:26] batch-end ok=20 failed=0 dur=3302.0s avg/film=165.1s remaining=13500 eta_hours=619.1
+
+===== run 2026-05-20T02:41:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26137935754) =====
+[02:41:04] batch-start shard=1/2 count=20 backlog=17650 uploads=4150 failed_attempts=190
+[02:41:04] login
+[02:41:05] login done
+[02:41:05] iteration 1/20
+[02:41:05] film cr_film_id=15191 name='Zlobivá devítka (2023) CZ Dabing' candidates=2
+[02:41:05]   candidate upload_id=6775b0b2e8391 url=https://prehraj.to/zlobiva-devitka-2023-komedie-dobrodruzny-krimi-hd-1080p-cz-dabing-film-by-eduard-eddy/6775b0b2e8391
+[02:41:06]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/126913862/v18tzViDosM2fgKim9UAEi6RCaDT2pcGztR…)
+[02:42:39]   downloaded 2,210.2 MB in 90.8s (24.3 MB/s)
+[02:44:22]   upload done video_id=25021112 in 102.7s
