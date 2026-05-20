@@ -86166,6 +86166,25 @@
         "download_sec": 87.3,
         "upload_sec": 153.3
       }
+    },
+    {
+      "cr_film_id": 15994,
+      "cr_slug": "uz-te-nemam-rad",
+      "title": "Už tě nemám rád",
+      "year": 2023,
+      "display_name": "Už tě nemám rád (2023) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6709097f4aefe",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25040564,
+      "size_bytes": 988730146,
+      "uploaded_at": "2026-05-20T17:51:10Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 41.1,
+        "upload_sec": 68.3
+      }
     }
   ],
   "failed_attempts": [
@@ -91041,7 +91060,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/vrazda-na-splatky-kelsey-mckean-lauren-pike-nick-ritacco-2024-thriller-bdrip-1080p-cz-dabing-mp4/bf9ae4090abf6f24",
       "permanent": true,
       "failed_at": "2026-05-20T17:30:21Z"
+    },
+    {
+      "cr_film_id": 15992,
+      "upload_id": "66696f0e0e9b2835",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mnichov-1972-2024-cz-dabing-full-hd-thriller-top-kvalita-1211472/66696f0e0e9b2835",
+      "permanent": true,
+      "failed_at": "2026-05-20T17:49:13Z"
     }
   ],
-  "last_updated": "2026-05-20T17:49:10Z"
+  "last_updated": "2026-05-20T17:51:10Z"
 }
