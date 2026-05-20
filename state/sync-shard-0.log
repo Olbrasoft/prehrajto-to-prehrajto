@@ -31288,3 +31288,14 @@
 [22:15:27]   upload done video_id=25044773 in 12.6s
 [22:15:29] film cr_film_id=16210 OK in 32.7s
 [22:15:29] batch-end ok=18 failed=2 dur=2569.6s avg/film=142.8s remaining=13050 eta_hours=517.7
+
+===== run 2026-05-20T22:15:56Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26193134768) =====
+[22:15:57] batch-start shard=0/2 count=20 backlog=17650 uploads=4600 failed_attempts=695
+[22:15:57] login
+[22:15:59] login done
+[22:15:59] iteration 1/20
+[22:15:59] film cr_film_id=16212 name='Ohně (2025) CZ Dabing' candidates=1
+[22:15:59]   candidate upload_id=f66e95174eddfb76 url=https://prehraj.to/ohne-2025-cz-dabing-1080p/f66e95174eddfb76
+[22:16:00]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/167440667/xjls8Vf48SKmi3lc0VieyfgnH5JUx2UxbFv…)
+[22:16:48]   downloaded 1,287.8 MB in 46.6s (27.6 MB/s)
+[22:18:23]   upload done video_id=25044789 in 94.7s
