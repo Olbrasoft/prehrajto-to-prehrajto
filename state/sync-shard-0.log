@@ -30424,3 +30424,14 @@
 [15:20:38]   upload done video_id=25036687 in 172.5s
 [15:20:40] film cr_film_id=15836 OK in 302.0s
 [15:20:40] batch-end ok=20 failed=0 dur=3539.3s avg/film=177.0s remaining=13160 eta_hours=647.0
+
+===== run 2026-05-20T15:22:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26172235850) =====
+[15:22:27] batch-start shard=0/2 count=20 backlog=17650 uploads=4490 failed_attempts=681
+[15:22:27] login
+[15:22:28] login done
+[15:22:28] iteration 1/20
+[15:22:28] film cr_film_id=15838 name='Nespoutaná (2023) CZ Dabing' candidates=6
+[15:22:28]   candidate upload_id=66b71c623839e url=https://prehraj.to/nespoutana-2023-cz-dabing-1080p/66b71c623839e
+[15:22:30]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/89837135/19bte9cmjuKMf0VhJMC1rclOFVMfZBuQpt4L…)
+[15:23:40]   downloaded 1,489.1 MB in 68.3s (21.8 MB/s)
+[15:25:20]   upload done video_id=25036829 in 100.6s
