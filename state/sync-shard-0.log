@@ -30633,3 +30633,20 @@
 [16:26:31]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/77914406/plnhBDCA1HWlUoET8EtVkCLqUd4tr2hAdhVN…)
 [16:27:20]   downloaded 1,557.6 MB in 47.9s (32.5 MB/s)
 [16:28:27]   upload done video_id=25038097 in 67.5s
+[16:28:29] film cr_film_id=15926 OK in 119.7s
+[16:28:29] iteration 10/20
+[16:28:29] film cr_film_id=15928 name='Vypečené zločiny: Osudový slib (2023) CZ Dabing' candidates=1
+[16:28:29]   candidate upload_id=f4077d46bda2132b url=https://prehraj.to/vypecene-zlociny-osudovy-slib-2023-cz-dabing-hd-mp4/f4077d46bda2132b
+[16:28:30]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/vypecene-zlociny-osudovy-slib-2023-cz-dabing-hd-mp4/f4077d46bda2132b (permanent=True)
+[16:28:30] film cr_film_id=15928 all candidates exhausted
+[16:28:30] iteration 11/20
+[16:28:30] film cr_film_id=15930 name='O malých věcech (2023) CZ' candidates=1
+[16:28:30]   candidate upload_id=bcdba912f60f894c url=https://prehraj.to/o-malych-vecech-2023-cz-mp4/bcdba912f60f894c
+[16:28:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/o-malych-vecech-2023-cz-mp4/bcdba912f60f894c (permanent=True)
+[16:28:36] film cr_film_id=15930 all candidates exhausted
+[16:28:36] iteration 12/20
+[16:28:36] film cr_film_id=15932 name='Půl na půl (2024) CZ Dabing' candidates=12
+[16:28:36]   candidate upload_id=67f8aa1522357 url=https://prehraj.to/pul-na-pul-2024-cz-dabing-1080p/67f8aa1522357
+[16:28:42]   resolved in 6.0s → 720p (https://pf-storage3.premiumcdn.net/134744456/DzjfrZunqI9qCVyHbaImVuneIKyCzbILGF8…)
+[16:29:15]   downloaded 1,073.6 MB in 31.7s (33.9 MB/s)
+[16:30:00]   upload done video_id=25038137 in 44.4s
