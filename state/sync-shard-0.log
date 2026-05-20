@@ -28376,3 +28376,14 @@
 [03:16:15]   upload done video_id=25021818 in 16.0s
 [03:16:16] film cr_film_id=14988 OK in 34.4s
 [03:16:16] batch-end ok=19 failed=1 dur=2110.5s avg/film=111.1s remaining=13436 eta_hours=414.6
+
+===== run 2026-05-20T03:22:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26139212013) =====
+[03:22:04] batch-start shard=0/2 count=20 backlog=17650 uploads=4214 failed_attempts=671
+[03:22:04] login
+[03:22:06] login done
+[03:22:06] iteration 1/20
+[03:22:06] film cr_film_id=14990 name='Padlý voják (2025) CZ Dabing' candidates=3
+[03:22:06]   candidate upload_id=68d6fc421a81e url=https://prehraj.to/sunray-fallen-soldier-2024-1080p-cz-dab-akcni-mp4/68d6fc421a81e
+[03:22:08]   resolved in 1.7s → 1080p (https://pf-storage4.premiumcdn.net/148592163/4rdfkJc1dU7nhrPi43cB6c46ioNsqWTNYSK…)
+[03:23:04]   downloaded 1,715.0 MB in 55.1s (31.1 MB/s)
+[03:24:12]   upload done video_id=25021967 in 67.7s
