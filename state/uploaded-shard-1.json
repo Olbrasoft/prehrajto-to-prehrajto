@@ -80810,6 +80810,25 @@
         "download_sec": 39.5,
         "upload_sec": 42.5
       }
+    },
+    {
+      "cr_film_id": 15531,
+      "cr_slug": "happy-ending",
+      "title": "Happy Ending",
+      "year": 2023,
+      "display_name": "Happy Ending (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "652a54c23db6e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25026405,
+      "size_bytes": 1612038231,
+      "uploaded_at": "2026-05-20T07:01:45Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 45.4,
+        "upload_sec": 63.8
+      }
     }
   ],
   "failed_attempts": [
@@ -82232,5 +82251,5 @@
       "failed_at": "2026-05-20T06:47:30Z"
     }
   ],
-  "last_updated": "2026-05-20T06:59:52Z"
+  "last_updated": "2026-05-20T07:01:45Z"
 }
