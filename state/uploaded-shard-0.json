@@ -82822,6 +82822,25 @@
         "download_sec": 46.3,
         "upload_sec": 58.6
       }
+    },
+    {
+      "cr_film_id": 15440,
+      "cr_slug": "la-certosa-di-parma",
+      "title": "La Certosa di Parma",
+      "year": 2012,
+      "display_name": "La Certosa di Parma (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "4b7353b0aab5f06b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25028960,
+      "size_bytes": 1137919462,
+      "uploaded_at": "2026-05-20T09:22:52Z",
+      "timing": {
+        "resolve_sec": 7.1,
+        "download_sec": 47.8,
+        "upload_sec": 58.9
+      }
     }
   ],
   "failed_attempts": [
@@ -87599,7 +87618,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vanoce-u-jezera-2022-cz-dab-1080p-mp4/36f60a96fae93d0f",
       "permanent": true,
       "failed_at": "2026-05-20T09:09:22Z"
+    },
+    {
+      "cr_film_id": 15438,
+      "upload_id": "71ad0b2a70ff4165",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-tvojzemi-2022-cz-dabing-1080p-mp4/71ad0b2a70ff4165",
+      "permanent": true,
+      "failed_at": "2026-05-20T09:20:51Z"
+    },
+    {
+      "cr_film_id": 15438,
+      "upload_id": "3f6e2c108fe7eae3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-tvojzemi-2022-cz-dabing-1080p/3f6e2c108fe7eae3",
+      "permanent": true,
+      "failed_at": "2026-05-20T09:20:56Z"
     }
   ],
-  "last_updated": "2026-05-20T09:20:48Z"
+  "last_updated": "2026-05-20T09:22:52Z"
 }
