@@ -30042,3 +30042,15 @@
 [12:57:22]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/140389088/b9Ahn1F1acovuNdTkVcGVF9BtRxhJVSlasK…)
 [12:59:05]   downloaded 3,287.7 MB in 102.0s (32.2 MB/s)
 [13:01:21]   upload done video_id=25031751 in 135.5s
+[13:01:23] film cr_film_id=15963 OK in 242.2s
+[13:01:23] iteration 13/20
+[13:01:23] film cr_film_id=15967 name='Julie mlčí (2024) CZ Dabing' candidates=1
+[13:01:23]   candidate upload_id=b017675bb54f8d1a url=https://prehraj.to/julie-mlci-2024-cz-dab-1080p/b017675bb54f8d1a
+[13:01:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/julie-mlci-2024-cz-dab-1080p/b017675bb54f8d1a (permanent=True)
+[13:01:24] film cr_film_id=15967 all candidates exhausted
+[13:01:24] iteration 14/20
+[13:01:24] film cr_film_id=15971 name='Voják na útěku (2023) CZ Dabing' candidates=3
+[13:01:24]   candidate upload_id=eace1276eb441134 url=https://prehraj.to/vojak-na-uteku-2023-cz-dab-720p-mp4/eace1276eb441134
+[13:01:30]   resolved in 6.0s → 720p (https://pf-storage3.premiumcdn.net/168467176/E2dHkwIWLuz5U7eFx8c23Ia4fn1SBbhlgiG…)
+[13:02:07]   downloaded 1,082.3 MB in 35.6s (30.4 MB/s)
+[13:03:01]   upload done video_id=25031797 in 53.9s

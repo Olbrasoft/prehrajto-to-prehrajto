@@ -83489,6 +83489,25 @@
         "download_sec": 102.0,
         "upload_sec": 135.5
       }
+    },
+    {
+      "cr_film_id": 15971,
+      "cr_slug": "vojak-na-uteku",
+      "title": "Voják na útěku",
+      "year": 2023,
+      "display_name": "Voják na útěku (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "eace1276eb441134",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25031797,
+      "size_bytes": 1082279166,
+      "uploaded_at": "2026-05-20T13:03:01Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 35.6,
+        "upload_sec": 53.9
+      }
     }
   ],
   "failed_attempts": [
@@ -84937,7 +84956,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dospelostt-adulthood-cz-dabing-2025/b74d9a785fcea5a9",
       "permanent": true,
       "failed_at": "2026-05-20T11:49:40Z"
+    },
+    {
+      "cr_film_id": 15967,
+      "upload_id": "b017675bb54f8d1a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/julie-mlci-2024-cz-dab-1080p/b017675bb54f8d1a",
+      "permanent": true,
+      "failed_at": "2026-05-20T13:01:24Z"
     }
   ],
-  "last_updated": "2026-05-20T13:01:21Z"
+  "last_updated": "2026-05-20T13:03:01Z"
 }
