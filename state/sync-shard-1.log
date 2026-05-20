@@ -30244,3 +30244,14 @@
 [13:54:19]   upload done video_id=25035260 in 40.0s
 [13:54:21] film cr_film_id=16043 OK in 74.5s
 [13:54:21] batch-end ok=19 failed=1 dur=2298.3s avg/film=121.0s remaining=13230 eta_hours=444.7
+
+===== run 2026-05-20T13:54:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26166037477) =====
+[13:54:37] batch-start shard=1/2 count=20 backlog=17650 uploads=4420 failed_attempts=204
+[13:54:37] login
+[13:54:39] login done
+[13:54:39] iteration 1/20
+[13:54:39] film cr_film_id=16045 name='Super Mario galaktický film (2026) CZ Dabing' candidates=24
+[13:54:39]   candidate upload_id=1d884642d37313d3 url=https://prehraj.to/the-super-mario-galaxy-movie-2026-1080p-cz-dabing/1d884642d37313d3
+[13:54:40]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/168600646/2BLiL9fmxSYlUZ9H69uyXfVQTLrUwNUjZSv…)
+[13:57:34]   downloaded 2,717.2 MB in 171.4s (15.9 MB/s)
+[14:00:00]   upload done video_id=25035330 in 145.7s
