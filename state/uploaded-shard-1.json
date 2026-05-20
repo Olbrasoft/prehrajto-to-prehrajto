@@ -81893,6 +81893,25 @@
         "download_sec": 64.0,
         "upload_sec": 79.3
       }
+    },
+    {
+      "cr_film_id": 15709,
+      "cr_slug": "silene-pouto",
+      "title": "Šílené pouto",
+      "year": 2023,
+      "display_name": "Šílené pouto (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6645f3410f74b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25029101,
+      "size_bytes": 2311180395,
+      "uploaded_at": "2026-05-20T09:33:59Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 97.1,
+        "upload_sec": 123.7
+      }
     }
   ],
   "failed_attempts": [
@@ -83322,5 +83341,5 @@
       "failed_at": "2026-05-20T08:41:02Z"
     }
   ],
-  "last_updated": "2026-05-20T09:30:12Z"
+  "last_updated": "2026-05-20T09:33:59Z"
 }
