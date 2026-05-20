@@ -80715,6 +80715,25 @@
         "download_sec": 64.6,
         "upload_sec": 86.4
       }
+    },
+    {
+      "cr_film_id": 15513,
+      "cr_slug": "ty-ja-a-ona",
+      "title": "Ty, já a ona",
+      "year": 2023,
+      "display_name": "Ty, já a ona (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "4062a0ed88199f52",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25026184,
+      "size_bytes": 1689141064,
+      "uploaded_at": "2026-05-20T06:49:28Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 48.4,
+        "upload_sec": 62.1
+      }
     }
   ],
   "failed_attempts": [
@@ -82128,7 +82147,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/stiny-nevlastni-krve-2023-cz-dabing-hd-mp4/84014e25a939371d",
       "permanent": true,
       "failed_at": "2026-05-20T05:55:48Z"
+    },
+    {
+      "cr_film_id": 15511,
+      "upload_id": "f2d6673b222891b5",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letadla-vlaky-a-vanocni-stromky-2022-cz-dabing-mp4/f2d6673b222891b5",
+      "permanent": true,
+      "failed_at": "2026-05-20T06:47:30Z"
     }
   ],
-  "last_updated": "2026-05-20T06:47:27Z"
+  "last_updated": "2026-05-20T06:49:28Z"
 }
