@@ -30388,3 +30388,14 @@
 [14:45:36]   upload done video_id=25036106 in 13.0s
 [14:45:38] film cr_film_id=16095 OK in 34.6s
 [14:45:38] batch-end ok=18 failed=2 dur=3058.9s avg/film=169.9s remaining=13212 eta_hours=623.5
+
+===== run 2026-05-20T15:22:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26172235850) =====
+[15:22:25] batch-start shard=1/2 count=20 backlog=17650 uploads=4438 failed_attempts=207
+[15:22:25] login
+[15:22:27] login done
+[15:22:27] iteration 1/20
+[15:22:27] film cr_film_id=16099 name='Čtyřlístek ve službách krále (2013) CZ Dabing' candidates=2
+[15:22:27]   candidate upload_id=5fbcfdcc70bd4 url=https://prehraj.to/ctyrlistek-ve-sluzbach-krale-2012-cz-dabing-animovany/5fbcfdcc70bd4
+[15:22:28]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/20253165/MZOSXPFRJuzbI6PiayU94F14cr3cgki2Nh1l…)
+[15:23:05]   downloaded 782.5 MB in 34.9s (22.4 MB/s)
+[15:23:57]   upload done video_id=25036818 in 51.2s
