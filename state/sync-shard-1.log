@@ -28498,3 +28498,14 @@
 [03:57:52]   upload done video_id=25022769 in 52.2s
 [03:57:54] film cr_film_id=15315 OK in 101.8s
 [03:57:54] batch-end ok=19 failed=1 dur=2144.4s avg/film=112.9s remaining=13463 eta_hours=422.2
+
+===== run 2026-05-20T03:58:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26140363277) =====
+[03:58:32] batch-start shard=1/2 count=20 backlog=17650 uploads=4187 failed_attempts=193
+[03:58:32] login
+[03:58:33] login done
+[03:58:33] iteration 1/20
+[03:58:33] film cr_film_id=15323 name='Zúčtování v Grandu (2023) CZ Dabing' candidates=4
+[03:58:33]   candidate upload_id=68454e6edf379 url=https://prehraj.to/zuctovani-v-grandu-showdown-2023-czdab/68454e6edf379
+[03:58:35]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/139440494/8nzu5NcqySjgfO0S3ZTl9clkI8YHB4CoJSG…)
+[03:59:57]   downloaded 1,753.1 MB in 80.0s (21.9 MB/s)
+[04:01:41]   upload done video_id=25022841 in 103.3s
