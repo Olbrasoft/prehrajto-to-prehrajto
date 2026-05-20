@@ -28934,3 +28934,14 @@
 [06:24:27]   upload done video_id=25025761 in 55.8s
 [06:24:29] film cr_film_id=15501 OK in 108.7s
 [06:24:29] batch-end ok=19 failed=1 dur=3202.2s avg/film=168.5s remaining=13405 eta_hours=627.4
+
+===== run 2026-05-20T06:42:10Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26146054032) =====
+[06:42:11] batch-start shard=1/2 count=20 backlog=17650 uploads=4245 failed_attempts=196
+[06:42:11] login
+[06:42:12] login done
+[06:42:12] iteration 1/20
+[06:42:12] film cr_film_id=15505 name='Dům pro Irene (2012) CZ Dabing' candidates=1
+[06:42:12]   candidate upload_id=fe55ce4224145bcb url=https://prehraj.to/dum-pro-irene-2012-cz-dabing/fe55ce4224145bcb
+[06:42:14]   resolved in 1.2s → 480p (https://pf-storage6.premiumcdn.net/169359232/yQXcrOHBkSwKSgLHoxFW7HpDT5xuQlUb8UO…)
+[06:42:34]   downloaded 551.8 MB in 19.1s (28.9 MB/s)
+[06:42:57]   upload done video_id=25026043 in 23.0s
