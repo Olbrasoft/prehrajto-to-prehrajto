@@ -84306,6 +84306,25 @@
         "download_sec": 198.1,
         "upload_sec": 224.0
       }
+    },
+    {
+      "cr_film_id": 16095,
+      "cr_slug": "pan-herec-louis-de-funes",
+      "title": "Pan herec - Louis de Funes",
+      "year": 2013,
+      "display_name": "Pan herec - Louis de Funes (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "b4cac1d1fc7b073d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25036106,
+      "size_bytes": 202059778,
+      "uploaded_at": "2026-05-20T14:45:36Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 11.6,
+        "upload_sec": 13.0
+      }
     }
   ],
   "failed_attempts": [
@@ -85789,7 +85808,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodej-kajtek-2023-cz-dab-1080p/301a2702d8231a3a",
       "permanent": true,
       "failed_at": "2026-05-20T14:28:36Z"
+    },
+    {
+      "cr_film_id": 16093,
+      "upload_id": "da92322881638b91",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/kdy-jindy-nez-o-vanocich-2023-cz-dabing-mp4/da92322881638b91",
+      "permanent": true,
+      "failed_at": "2026-05-20T14:45:03Z"
     }
   ],
-  "last_updated": "2026-05-20T14:44:59Z"
+  "last_updated": "2026-05-20T14:45:36Z"
 }
