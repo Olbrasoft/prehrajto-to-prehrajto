@@ -28962,3 +28962,14 @@
 [06:40:53]   upload done video_id=25026003 in 39.4s
 [06:40:55] film cr_film_id=15232 OK in 122.1s
 [06:40:55] batch-end ok=20 failed=0 dur=4189.9s avg/film=209.5s remaining=13356 eta_hours=777.2
+
+===== run 2026-05-20T06:42:10Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26146054032) =====
+[06:42:11] batch-start shard=0/2 count=20 backlog=17650 uploads=4294 failed_attempts=672
+[06:42:11] login
+[06:42:12] login done
+[06:42:12] iteration 1/20
+[06:42:12] film cr_film_id=15236 name='Hotel Sinestra (2022) CZ Dabing' candidates=4
+[06:42:12]   candidate upload_id=655f9c289ed11 url=https://prehraj.to/hotel-sinestra-2022-cz-dabing-hd-720p/655f9c289ed11
+[06:42:14]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/52824248/LBxfRycLYfeRtx6SB5clVcmAIJZfbOhAoumy…)
+[06:42:46]   downloaded 855.6 MB in 30.5s (28.1 MB/s)
+[06:43:17]   upload done video_id=25026049 in 31.2s
