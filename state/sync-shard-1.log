@@ -31564,3 +31564,14 @@
 [23:28:18]   upload done video_id=25045902 in 22.8s
 [23:28:19] film cr_film_id=16613 OK in 45.0s
 [23:28:19] batch-end ok=18 failed=2 dur=1701.8s avg/film=94.5s remaining=13061 eta_hours=342.9
+
+===== run 2026-05-20T23:34:53Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26196166939) =====
+[23:34:55] batch-start shard=1/2 count=20 backlog=17650 uploads=4589 failed_attempts=228
+[23:34:55] login
+[23:34:56] login done
+[23:34:56] iteration 1/20
+[23:34:56] film cr_film_id=16615 name='The Belisarius Chronicles (2017) CZ Dabing' candidates=1
+[23:34:56]   candidate upload_id=ab3afbf2ae4435ce url=https://prehraj.to/the-belisarius-chronicles-2017-cz-dabing-mp4/ab3afbf2ae4435ce
+[23:34:57]   resolved in 1.0s → 720p (https://pf-storage6.premiumcdn.net/170592164/9rliWPuqnHKaFgAuyDhNZu1KTDYTL1CNnta…)
+[23:35:16]   downloaded 459.3 MB in 16.6s (27.7 MB/s)
+[23:35:38]   upload done video_id=25046050 in 22.6s
