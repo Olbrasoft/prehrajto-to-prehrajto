@@ -30676,3 +30676,14 @@
 [17:11:59]   upload done video_id=25039501 in 24.0s
 [17:12:00] film cr_film_id=16221 OK in 48.3s
 [17:12:00] batch-end ok=19 failed=1 dur=3363.2s avg/film=177.0s remaining=13174 eta_hours=647.7
+
+===== run 2026-05-20T17:13:08Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26178112883) =====
+[17:13:09] batch-start shard=1/2 count=20 backlog=17650 uploads=4476 failed_attempts=209
+[17:13:09] login
+[17:13:12] login done
+[17:13:12] iteration 1/20
+[17:13:12] film cr_film_id=16223 name='Tichý zabiják (2013) CZ Dabing' candidates=4
+[17:13:12]   candidate upload_id=5bdf114b5c004 url=https://prehraj.to/commitment-akcni-cz-dab-2013-jad/5bdf114b5c004
+[17:13:13]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/7864829/yJxFY6id0HeQUk2HQZSYaiOMTXMfVECx3CYeH…)
+[17:13:40]   downloaded 590.9 MB in 24.5s (24.1 MB/s)
+[17:14:10]   upload done video_id=25039588 in 30.3s
