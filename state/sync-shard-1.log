@@ -30098,3 +30098,14 @@
 [13:15:43]   upload done video_id=25032080 in 87.4s
 [13:15:45] film cr_film_id=15987 OK in 155.9s
 [13:15:45] batch-end ok=19 failed=1 dur=2771.6s avg/film=145.9s remaining=13249 eta_hours=537.0
+
+===== run 2026-05-20T13:16:00Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26163446014) =====
+[13:16:01] batch-start shard=1/2 count=20 backlog=17650 uploads=4401 failed_attempts=202
+[13:16:01] login
+[13:16:03] login done
+[13:16:03] iteration 1/20
+[13:16:03] film cr_film_id=15989 name='A Royal Christmas Crush (2023) CZ Dabing' candidates=1
+[13:16:03]   candidate upload_id=40b3ec2f9a48a3b2 url=https://prehraj.to/a-royal-christmas-crush-2023-cz-dabing/40b3ec2f9a48a3b2
+[13:16:04]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/169392760/r85c9mfK8HkEU3Gi0YSLYfKPhN0sdGsBYI2…)
+[13:16:35]   downloaded 898.4 MB in 29.1s (30.9 MB/s)
+[13:17:09]   upload done video_id=25032142 in 34.4s
