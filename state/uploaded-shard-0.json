@@ -83848,6 +83848,25 @@
         "download_sec": 33.7,
         "upload_sec": 38.3
       }
+    },
+    {
+      "cr_film_id": 15606,
+      "cr_slug": "zakleta",
+      "title": "Zakletá",
+      "year": 2023,
+      "display_name": "Zakletá (2023) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "4100f782a8e1aa07",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25030811,
+      "size_bytes": 546658465,
+      "uploaded_at": "2026-05-20T11:51:22Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 20.4,
+        "upload_sec": 25.3
+      }
     }
   ],
   "failed_attempts": [
@@ -88669,5 +88688,5 @@
       "failed_at": "2026-05-20T11:37:38Z"
     }
   ],
-  "last_updated": "2026-05-20T11:50:32Z"
+  "last_updated": "2026-05-20T11:51:22Z"
 }
