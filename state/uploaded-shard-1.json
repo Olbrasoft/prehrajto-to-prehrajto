@@ -95934,6 +95934,25 @@
         "download_sec": 15.2,
         "upload_sec": 21.3
       }
+    },
+    {
+      "cr_film_id": 18623,
+      "cr_slug": "daylights-end",
+      "title": "Daylight's End",
+      "year": 2016,
+      "display_name": "Daylight's End (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a8295731d90b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25077437,
+      "size_bytes": 1876210512,
+      "uploaded_at": "2026-05-21T17:35:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 60.5,
+        "upload_sec": 74.2
+      }
     }
   ],
   "failed_attempts": [
@@ -97646,5 +97665,5 @@
       "failed_at": "2026-05-21T15:36:51Z"
     }
   ],
-  "last_updated": "2026-05-21T17:32:51Z"
+  "last_updated": "2026-05-21T17:35:10Z"
 }
