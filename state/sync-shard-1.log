@@ -33030,3 +33030,14 @@
 [07:43:51]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/nezhojene-rany-2018-cz-dabing-hd-mp4/94279f23b829cefe (permanent=True)
 [07:43:51] film cr_film_id=17299 all candidates exhausted
 [07:43:51] batch-end ok=19 failed=1 dur=2690.8s avg/film=141.6s remaining=12863 eta_hours=505.9
+
+===== run 2026-05-21T07:44:03Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26211231027) =====
+[07:44:05] batch-start shard=1/2 count=20 backlog=17650 uploads=4787 failed_attempts=234
+[07:44:05] login
+[07:44:06] login done
+[07:44:06] iteration 1/20
+[07:44:06] film cr_film_id=17305 name='Sestřina posedlost (2018) CZ Dabing' candidates=1
+[07:44:06]   candidate upload_id=60d5ac567ddd2 url=https://prehraj.to/sestrina-posedlost-2018-cz-dabing-1080p/60d5ac567ddd2
+[07:44:07]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/24033075/jEji1KCAZIlNTLPIBXCJzCvKTxLc5MiWLfAb…)
+[07:45:05]   downloaded 1,645.2 MB in 56.0s (29.4 MB/s)
+[07:46:19]   upload done video_id=25053892 in 74.4s
