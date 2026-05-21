@@ -96219,6 +96219,25 @@
         "download_sec": 29.0,
         "upload_sec": 39.4
       }
+    },
+    {
+      "cr_film_id": 18797,
+      "cr_slug": "elle",
+      "title": "Elle",
+      "year": 2016,
+      "display_name": "Elle (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a38f5439b785",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25078654,
+      "size_bytes": 521818539,
+      "uploaded_at": "2026-05-21T18:16:54Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 108.6,
+        "upload_sec": 37.7
+      }
     }
   ],
   "failed_attempts": [
@@ -97945,5 +97964,5 @@
       "failed_at": "2026-05-21T17:42:50Z"
     }
   ],
-  "last_updated": "2026-05-21T18:14:21Z"
+  "last_updated": "2026-05-21T18:16:54Z"
 }
