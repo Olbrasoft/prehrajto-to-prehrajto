@@ -88277,6 +88277,25 @@
         "download_sec": 78.6,
         "upload_sec": 97.1
       }
+    },
+    {
+      "cr_film_id": 16809,
+      "cr_slug": "late-bloomer",
+      "title": "Late Bloomer",
+      "year": 2016,
+      "display_name": "Late Bloomer (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "bde7cdddc89bd787",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25048386,
+      "size_bytes": 983287536,
+      "uploaded_at": "2026-05-21T01:42:31Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 33.2,
+        "upload_sec": 56.0
+      }
     }
   ],
   "failed_attempts": [
@@ -89921,5 +89940,5 @@
       "failed_at": "2026-05-20T23:21:06Z"
     }
   ],
-  "last_updated": "2026-05-21T01:40:58Z"
+  "last_updated": "2026-05-21T01:42:31Z"
 }
