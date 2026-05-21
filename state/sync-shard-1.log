@@ -35416,3 +35416,14 @@
 [20:46:21]   upload done video_id=25083228 in 137.9s
 [20:46:24] film cr_film_id=19275 OK in 347.3s
 [20:46:24] batch-end ok=20 failed=0 dur=4410.8s avg/film=220.5s remaining=12540 eta_hours=768.1
+
+===== run 2026-05-21T20:47:09Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26252166607) =====
+[20:47:10] batch-start shard=1/2 count=20 backlog=17650 uploads=5110 failed_attempts=242
+[20:47:10] login
+[20:47:12] login done
+[20:47:12] iteration 1/20
+[20:47:12] film cr_film_id=19325 name='De Oost (2020) CZ' candidates=4
+[20:47:12]   candidate upload_id=6145f502266a0 url=https://prehraj.to/de-oost-the-east-full-hd-2020-nld-dab-sk-tit-rimini-78-csfd-valecny-thriller-drama/6145f502266a0
+[20:47:13]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/24951569/xMbfkvcrETlrC40hN9fzRcgQTvKSNxTJOInj…)
+[20:49:18]   downloaded 2,646.4 MB in 123.0s (21.5 MB/s)
+[20:51:34]   upload done video_id=25083384 in 135.4s
