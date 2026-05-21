@@ -35422,3 +35422,14 @@
 [21:24:32]   upload done video_id=25084456 in 34.6s
 [21:24:34] film cr_film_id=18478 OK in 57.0s
 [21:24:34] batch-end ok=20 failed=0 dur=2242.7s avg/film=112.1s remaining=12504 eta_hours=389.4
+
+===== run 2026-05-21T21:40:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26254714175) =====
+[21:40:13] batch-start shard=0/2 count=20 backlog=17650 uploads=5146 failed_attempts=730
+[21:40:13] login
+[21:40:15] login done
+[21:40:15] iteration 1/20
+[21:40:15] film cr_film_id=18504 name='Mrazivá noc přichází (2013) CZ Dabing' candidates=4
+[21:40:15]   candidate upload_id=5b533dafd19f9 url=https://prehraj.to/smrt-prichazi-do-pemberley-2-dil-ze-2-drama-cz-dab-2013-jad/5b533dafd19f9
+[21:40:16]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/4945856/PREikLszOFNKfp7CZ8Tj9sRjc57u8mUp7CG3U…)
+[21:40:42]   downloaded 551.2 MB in 24.2s (22.8 MB/s)
+[21:41:12]   upload done video_id=25084932 in 29.5s
