@@ -96523,6 +96523,25 @@
         "download_sec": 72.7,
         "upload_sec": 111.1
       }
+    },
+    {
+      "cr_film_id": 18945,
+      "cr_slug": "armed-response",
+      "title": "Armed Response",
+      "year": 2017,
+      "display_name": "Armed Response (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a736f12e3027",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25080286,
+      "size_bytes": 442668957,
+      "uploaded_at": "2026-05-21T19:06:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 65.6,
+        "upload_sec": 21.1
+      }
     }
   ],
   "failed_attempts": [
@@ -98249,5 +98268,5 @@
       "failed_at": "2026-05-21T17:42:50Z"
     }
   ],
-  "last_updated": "2026-05-21T19:04:37Z"
+  "last_updated": "2026-05-21T19:06:07Z"
 }
