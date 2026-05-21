@@ -35568,3 +35568,14 @@
 [22:09:04]   upload done video_id=25085700 in 48.8s
 [22:09:06] film cr_film_id=18698 OK in 73.9s
 [22:09:06] batch-end ok=20 failed=0 dur=1730.7s avg/film=86.5s remaining=12484 eta_hours=300.0
+
+===== run 2026-05-21T22:13:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26256196881) =====
+[22:13:39] batch-start shard=0/2 count=20 backlog=17650 uploads=5166 failed_attempts=730
+[22:13:39] login
+[22:13:40] login done
+[22:13:40] iteration 1/20
+[22:13:40] film cr_film_id=18722 name='Probuzená posedlost (2015) CZ Dabing' candidates=3
+[22:13:40]   candidate upload_id=5821906aba559 url=https://prehraj.to/probuzena-posedlost-hd-800p-cz-dabing-2015/5821906aba559
+[22:13:42]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/814023/NGJtYgUbasE2sdVTvECymUVKiNMSOBuYzHbztv…)
+[22:14:31]   downloaded 1,512.5 MB in 47.3s (32.0 MB/s)
+[22:15:27]   upload done video_id=25085865 in 56.2s
