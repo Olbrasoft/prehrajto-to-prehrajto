@@ -95345,6 +95345,25 @@
         "download_sec": 23.2,
         "upload_sec": 37.5
       }
+    },
+    {
+      "cr_film_id": 18385,
+      "cr_slug": "colt-45",
+      "title": "Colt 45",
+      "year": 2014,
+      "display_name": "Colt 45 (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55e834024a2f9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25075495,
+      "size_bytes": 296668781,
+      "uploaded_at": "2026-05-21T16:31:30Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 17.4,
+        "upload_sec": 23.2
+      }
     }
   ],
   "failed_attempts": [
@@ -97057,5 +97076,5 @@
       "failed_at": "2026-05-21T15:36:51Z"
     }
   ],
-  "last_updated": "2026-05-21T16:30:45Z"
+  "last_updated": "2026-05-21T16:31:30Z"
 }
