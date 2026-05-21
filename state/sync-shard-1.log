@@ -35115,3 +35115,14 @@
 [18:36:28]   upload done video_id=25079325 in 146.4s
 [18:36:30] film cr_film_id=18843 OK in 266.9s
 [18:36:30] batch-end ok=20 failed=0 dur=3423.7s avg/film=171.2s remaining=12580 eta_hours=598.2
+
+===== run 2026-05-21T18:36:45Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26245606582) =====
+[18:36:47] batch-start shard=1/2 count=20 backlog=17650 uploads=5070 failed_attempts=239
+[18:36:47] login
+[18:36:48] login done
+[18:36:48] iteration 1/20
+[18:36:48] film cr_film_id=18853 name='Devátý život Louise Draxe (2016) CZ' candidates=1
+[18:36:48]   candidate upload_id=58831c36c3bc8 url=https://prehraj.to/devaty-zivot-louise-draxe-the-9th-life-of-louis-drax-2016-hd-1080p-thriller-eng/58831c36c3bc8
+[18:36:49]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/1494666/99OTjeSlBu47HeBTO1hqpSWbIBRUZ4CwYCEwu…)
+[18:38:38]   downloaded 885.1 MB in 107.0s (8.3 MB/s)
+[18:39:11]   upload done video_id=25079457 in 32.8s
