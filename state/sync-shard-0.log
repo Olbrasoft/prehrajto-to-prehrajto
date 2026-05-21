@@ -35276,3 +35276,14 @@
 [20:41:28]   upload done video_id=25083148 in 59.3s
 [20:41:31] film cr_film_id=18312 OK in 121.6s
 [20:41:31] batch-end ok=20 failed=0 dur=4044.1s avg/film=202.2s remaining=12524 eta_hours=703.4
+
+===== run 2026-05-21T20:47:08Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26252166607) =====
+[20:47:10] batch-start shard=0/2 count=20 backlog=17650 uploads=5126 failed_attempts=730
+[20:47:10] login
+[20:47:11] login done
+[20:47:11] iteration 1/20
+[20:47:11] film cr_film_id=18316 name='Slepý (2017) CZ Dabing' candidates=4
+[20:47:11]   candidate upload_id=5cea94592f401 url=https://prehraj.to/slepy-2017-cz-dab/5cea94592f401
+[20:47:12]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/13636221/2laI96S9EFEwiNktvGUnzSq5uBPU7kIoxsYB…)
+[20:47:42]   downloaded 413.9 MB in 28.3s (14.6 MB/s)
+[20:48:06]   upload done video_id=25083332 in 23.6s
