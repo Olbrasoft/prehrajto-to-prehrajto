@@ -32586,3 +32586,14 @@
 [05:11:24]   upload done video_id=25051852 in 137.2s
 [05:11:26] film cr_film_id=17085 OK in 238.8s
 [05:11:26] batch-end ok=20 failed=0 dur=2192.4s avg/film=109.6s remaining=12922 eta_hours=393.4
+
+===== run 2026-05-21T05:15:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26206929027) =====
+[05:15:52] batch-start shard=1/2 count=20 backlog=17650 uploads=4728 failed_attempts=229
+[05:15:52] login
+[05:15:53] login done
+[05:15:53] iteration 1/20
+[05:15:53] film cr_film_id=17087 name='Oni a Silvio 1 (2018) CZ Dabing' candidates=1
+[05:15:53]   candidate upload_id=e0ad815289e82027 url=https://prehraj.to/oni-a-silvio-1-2018-cz-dabing/e0ad815289e82027
+[05:15:54]   resolved in 1.3s → 720p (https://pf-storage6.premiumcdn.net/169360240/pgBHN9s6zTgZUapIeNcLaszrC5LumzTkeTw…)
+[05:16:42]   downloaded 943.0 MB in 45.6s (20.7 MB/s)
+[05:17:33]   upload done video_id=25051957 in 50.5s
