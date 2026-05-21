@@ -95972,6 +95972,25 @@
         "download_sec": 81.0,
         "upload_sec": 109.1
       }
+    },
+    {
+      "cr_film_id": 18639,
+      "cr_slug": "smutny-song",
+      "title": "Smutný song",
+      "year": 2025,
+      "display_name": "Smutný song (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d2a7541ba4578c9a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25077731,
+      "size_bytes": 1907731710,
+      "uploaded_at": "2026-05-21T17:46:36Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 97.7,
+        "upload_sec": 120.7
+      }
     }
   ],
   "failed_attempts": [
@@ -97682,7 +97701,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/a-jak-to-bylo-dal-dokument-and-just-like-that-the-documentary-2022-hd-5-1-cz-dabing/6207a868a65d0",
       "permanent": true,
       "failed_at": "2026-05-21T15:36:51Z"
+    },
+    {
+      "cr_film_id": 18639,
+      "upload_id": "3071c6171bc81f6d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smutny-song-2025-cz-dabing-1080p-mkv/3071c6171bc81f6d",
+      "permanent": true,
+      "failed_at": "2026-05-21T17:42:44Z"
+    },
+    {
+      "cr_film_id": 18639,
+      "upload_id": "20adb836bd3f9254",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smutny-song-2025-cz-dab-720p/20adb836bd3f9254",
+      "permanent": true,
+      "failed_at": "2026-05-21T17:42:50Z"
     }
   ],
-  "last_updated": "2026-05-21T17:42:40Z"
+  "last_updated": "2026-05-21T17:46:36Z"
 }
