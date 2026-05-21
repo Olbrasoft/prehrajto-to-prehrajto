@@ -32496,3 +32496,14 @@
 [05:15:02]   upload done video_id=25051924 in 33.8s
 [05:15:04] film cr_film_id=16762 OK in 66.3s
 [05:15:04] batch-end ok=20 failed=0 dur=2407.7s avg/film=120.4s remaining=12895 eta_hours=431.3
+
+===== run 2026-05-21T05:15:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26206929027) =====
+[05:15:50] batch-start shard=0/2 count=20 backlog=17650 uploads=4755 failed_attempts=716
+[05:15:50] login
+[05:15:51] login done
+[05:15:51] iteration 1/20
+[05:15:51] film cr_film_id=16764 name='愛に渇く-thirst for love- (2015) CZ Dabing' candidates=1
+[05:15:51]   candidate upload_id=3be862e1766ee22b url=https://prehraj.to/aini-keku-thirst-for-love-2015-cz-dabing/3be862e1766ee22b
+[05:15:53]   resolved in 1.5s → 480p (https://pf-storage6.premiumcdn.net/169419379/bWmuOrfe6TlGS2XiO1cbzfaGHZGCbEh5AUO…)
+[05:16:29]   downloaded 814.1 MB in 34.1s (23.9 MB/s)
+[05:17:08]   upload done video_id=25051950 in 38.8s
