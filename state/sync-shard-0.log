@@ -35712,3 +35712,14 @@
 [22:40:11]   upload done video_id=25086547 in 26.3s
 [22:40:13] film cr_film_id=18858 OK in 52.7s
 [22:40:13] batch-end ok=19 failed=1 dur=1592.7s avg/film=83.8s remaining=12465 eta_hours=290.2
+
+===== run 2026-05-21T22:48:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26257599367) =====
+[22:48:36] batch-start shard=0/2 count=20 backlog=17650 uploads=5185 failed_attempts=731
+[22:48:36] login
+[22:48:38] login done
+[22:48:38] iteration 1/20
+[22:48:38] film cr_film_id=18864 name='Prokletý kšeft (2016) CZ Dabing' candidates=3
+[22:48:38]   candidate upload_id=5a8b88a756929 url=https://prehraj.to/proklety-kseft-cz-dabing-2016-akcni-nicolas-cage/5a8b88a756929
+[22:48:39]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/3424892/gPMFaBUKYs6KikpIv1hrxU3wCRlcWgCAeCpxF…)
+[22:48:55]   downloaded 414.1 MB in 14.5s (28.6 MB/s)
+[22:49:17]   upload done video_id=25086757 in 22.8s
