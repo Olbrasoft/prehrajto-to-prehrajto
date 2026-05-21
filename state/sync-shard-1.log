@@ -34819,3 +34819,14 @@
 [16:54:53]   upload done video_id=25076200 in 17.9s
 [16:54:55] film cr_film_id=18453 OK in 37.2s
 [16:54:55] batch-end ok=20 failed=0 dur=2349.3s avg/film=117.5s remaining=12620 eta_hours=411.9
+
+===== run 2026-05-21T16:56:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26240525683) =====
+[16:56:46] batch-start shard=1/2 count=20 backlog=17650 uploads=5030 failed_attempts=237
+[16:56:46] login
+[16:56:47] login done
+[16:56:47] iteration 1/20
+[16:56:47] film cr_film_id=18463 name='Fruitvale (2013) CZ Dabing' candidates=1
+[16:56:47]   candidate upload_id=55c1b1a315846 url=https://prehraj.to/fruitvale-station-2013-czdab/55c1b1a315846
+[16:56:48]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/71735/LmoTPbhgoUx3c0WHDlcRDhLmf9QfNnIX1tYNUYp…)
+[16:57:05]   downloaded 480.1 MB in 14.9s (32.2 MB/s)
+[16:57:31]   upload done video_id=25076268 in 25.9s
