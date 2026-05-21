@@ -96048,6 +96048,25 @@
         "download_sec": 88.8,
         "upload_sec": 88.6
       }
+    },
+    {
+      "cr_film_id": 18679,
+      "cr_slug": "curve",
+      "title": "Curve",
+      "year": 2015,
+      "display_name": "Curve (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a5faefcc6d2c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25078124,
+      "size_bytes": 616683875,
+      "uploaded_at": "2026-05-21T17:59:45Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 32.9,
+        "upload_sec": 41.4
+      }
     }
   ],
   "failed_attempts": [
@@ -97774,5 +97793,5 @@
       "failed_at": "2026-05-21T17:42:50Z"
     }
   ],
-  "last_updated": "2026-05-21T17:58:23Z"
+  "last_updated": "2026-05-21T17:59:45Z"
 }
