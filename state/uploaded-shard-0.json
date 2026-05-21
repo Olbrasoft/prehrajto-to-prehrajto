@@ -89719,6 +89719,25 @@
         "download_sec": 16.9,
         "upload_sec": 21.7
       }
+    },
+    {
+      "cr_film_id": 16658,
+      "cr_slug": "lecitel",
+      "title": "Léčitel",
+      "year": 2016,
+      "display_name": "Léčitel (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "65942cf46fca7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25049934,
+      "size_bytes": 2383971330,
+      "uploaded_at": "2026-05-21T02:54:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 75.9,
+        "upload_sec": 100.5
+      }
     }
   ],
   "failed_attempts": [
@@ -94727,5 +94746,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-21T02:51:37Z"
+  "last_updated": "2026-05-21T02:54:37Z"
 }
