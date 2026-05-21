@@ -32294,3 +32294,14 @@
 [03:34:51]   upload done video_id=25050511 in 35.3s
 [03:34:53] film cr_film_id=16927 OK in 70.2s
 [03:34:53] batch-end ok=20 failed=0 dur=3125.8s avg/film=156.3s remaining=12962 eta_hours=562.8
+
+===== run 2026-05-21T03:35:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26203880520) =====
+[03:35:52] batch-start shard=1/2 count=20 backlog=17650 uploads=4688 failed_attempts=229
+[03:35:52] login
+[03:35:53] login done
+[03:35:53] iteration 1/20
+[03:35:53] film cr_film_id=16933 name='Zmatkářky: Nevěsta řekla ne (2017) CZ Dabing' candidates=1
+[03:35:53]   candidate upload_id=6a933904685cf378 url=https://prehraj.to/zmatkarky-nevesta-rekla-ne-2017-cz-dabing/6a933904685cf378
+[03:35:54]   resolved in 1.2s → 480p (https://pf-storage6.premiumcdn.net/169419277/3bjHZPfjviwrS51C23He9fBaC7GCrRTq8Cd…)
+[03:36:26]   downloaded 612.5 MB in 29.4s (20.8 MB/s)
+[03:36:58]   upload done video_id=25050541 in 32.5s
