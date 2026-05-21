@@ -34984,3 +34984,14 @@
 [18:21:13]   upload done video_id=25078794 in 31.6s
 [18:21:15] film cr_film_id=17978 OK in 75.9s
 [18:21:15] batch-end ok=20 failed=0 dur=2511.3s avg/film=125.6s remaining=12564 eta_hours=438.3
+
+===== run 2026-05-21T18:34:47Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26245606582) =====
+[18:34:49] batch-start shard=0/2 count=20 backlog=17650 uploads=5086 failed_attempts=730
+[18:34:49] login
+[18:34:50] login done
+[18:34:50] iteration 1/20
+[18:34:50] film cr_film_id=17990 name='Barák (2022) CZ Dabing' candidates=1
+[18:34:50]   candidate upload_id=61e162c709db4 url=https://prehraj.to/barak-2022-cz-dabing-hd/61e162c709db4
+[18:34:51]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/28354677/JMLtAvSwPIDJU7bfyOhNXSo8iBoIKrtJGTay…)
+[18:35:50]   downloaded 382.3 MB in 57.4s (6.7 MB/s)
+[18:36:06]   upload done video_id=25079388 in 15.4s
