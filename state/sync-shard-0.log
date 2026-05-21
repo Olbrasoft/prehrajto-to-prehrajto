@@ -33802,3 +33802,14 @@
 [12:22:50]   upload done video_id=25061441 in 79.7s
 [12:22:52] film cr_film_id=17362 OK in 154.7s
 [12:22:52] batch-end ok=20 failed=0 dur=3126.3s avg/film=156.3s remaining=12721 eta_hours=552.3
+
+===== run 2026-05-21T12:23:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26225685583) =====
+[12:23:52] batch-start shard=0/2 count=20 backlog=17650 uploads=4929 failed_attempts=724
+[12:23:52] login
+[12:23:54] login done
+[12:23:54] iteration 1/20
+[12:23:54] film cr_film_id=17364 name='Taxi na Gibraltar (2019) CZ Dabing' candidates=1
+[12:23:54]   candidate upload_id=636843a08c513 url=https://prehraj.to/taxi-na-gibraltar-2019-czdab/636843a08c513
+[12:23:55]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/34331590/edBT36smAuYyf5LSmBFwBs7mfRnfgncWwikE…)
+[12:24:51]   downloaded 1,446.0 MB in 54.5s (26.5 MB/s)
+[12:26:21]   upload done video_id=25061483 in 90.0s
