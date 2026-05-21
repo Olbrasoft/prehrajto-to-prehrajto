@@ -34233,3 +34233,14 @@
 [13:41:15]   upload done video_id=25068932 in 26.6s
 [13:41:17] film cr_film_id=17927 OK in 54.2s
 [13:41:17] batch-end ok=20 failed=0 dur=1402.2s avg/film=70.1s remaining=12700 eta_hours=247.3
+
+===== run 2026-05-21T13:54:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26230423805) =====
+[13:54:25] batch-start shard=1/2 count=20 backlog=17650 uploads=4950 failed_attempts=236
+[13:54:25] login
+[13:54:26] login done
+[13:54:26] iteration 1/20
+[13:54:26] film cr_film_id=17943 name='Zločin v rodině (2020) CZ' candidates=1
+[13:54:26]   candidate upload_id=5fc369ba13fb0 url=https://prehraj.to/zlocin-v-rodine-drama-2020-cz-titulky/5fc369ba13fb0
+[13:54:27]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/20396799/896fVwSbot0DCpKhgdFZeSo2ubjHwaTnji7w…)
+[13:54:44]   downloaded 425.6 MB in 14.9s (28.6 MB/s)
+[13:55:01]   upload done video_id=25069600 in 17.4s
