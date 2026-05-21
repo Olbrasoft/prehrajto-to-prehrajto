@@ -34838,3 +34838,14 @@
 [17:38:17]   upload done video_id=25077537 in 77.1s
 [17:38:19] film cr_film_id=17858 OK in 142.1s
 [17:38:19] batch-end ok=20 failed=0 dur=2486.3s avg/film=124.3s remaining=12584 eta_hours=434.5
+
+===== run 2026-05-21T17:39:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26242749603) =====
+[17:39:22] batch-start shard=0/2 count=20 backlog=17650 uploads=5066 failed_attempts=730
+[17:39:22] login
+[17:39:23] login done
+[17:39:23] iteration 1/20
+[17:39:23] film cr_film_id=17860 name='Chci to! (2007) CZ Dabing' candidates=1
+[17:39:23]   candidate upload_id=567876f0b348c url=https://prehraj.to/chci-to-2007-cz-dab-komedie-p-p/567876f0b348c
+[17:39:25]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/519689/Ra0SJguO8IgQfRkFJ4Hekuk1i8nhJ0ukWfqVIW…)
+[17:41:56]   downloaded 471.3 MB in 149.7s (3.1 MB/s)
+[17:42:21]   upload done video_id=25077665 in 24.7s
