@@ -34400,3 +34400,14 @@
 [15:28:03]   upload done video_id=25073435 in 42.1s
 [15:28:06] film cr_film_id=17648 OK in 85.7s
 [15:28:06] batch-end ok=19 failed=1 dur=2967.8s avg/film=156.2s remaining=12643 eta_hours=548.6
+
+===== run 2026-05-21T15:28:40Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26235761385) =====
+[15:28:42] batch-start shard=0/2 count=20 backlog=17650 uploads=5007 failed_attempts=729
+[15:28:42] login
+[15:28:43] login done
+[15:28:43] iteration 1/20
+[15:28:43] film cr_film_id=17652 name='Nobadi (2019) CZ Dabing' candidates=4
+[15:28:43]   candidate upload_id=6088a722bb7a0 url=https://prehraj.to/nobadi-2019-cz-dabing/6088a722bb7a0
+[15:28:44]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/23282703/mOrfLVIewFNxCdPszECjpIwRtZzF14To8TRO…)
+[15:29:39]   downloaded 1,184.6 MB in 52.6s (22.5 MB/s)
+[15:30:31]   upload done video_id=25073515 in 52.1s
