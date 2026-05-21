@@ -90517,6 +90517,25 @@
         "download_sec": 60.9,
         "upload_sec": 84.6
       }
+    },
+    {
+      "cr_film_id": 16798,
+      "cr_slug": "hvezda-na-stredni",
+      "title": "Hvězda na střední",
+      "year": 2016,
+      "display_name": "Hvězda na střední (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5d2f195fa7713",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25052138,
+      "size_bytes": 1124652088,
+      "uploaded_at": "2026-05-21T05:35:36Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 43.5,
+        "upload_sec": 54.4
+      }
     }
   ],
   "failed_attempts": [
@@ -95588,5 +95607,5 @@
       "failed_at": "2026-05-21T04:14:02Z"
     }
   ],
-  "last_updated": "2026-05-21T05:33:53Z"
+  "last_updated": "2026-05-21T05:35:36Z"
 }
