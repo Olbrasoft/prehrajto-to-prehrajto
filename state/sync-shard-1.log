@@ -35998,3 +35998,14 @@
 [23:35:45]   upload done video_id=25087897 in 29.7s
 [23:35:47] film cr_film_id=19681 OK in 60.2s
 [23:35:47] batch-end ok=20 failed=0 dur=2823.2s avg/film=141.2s remaining=12461 eta_hours=488.7
+
+===== run 2026-05-21T23:37:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26259446610) =====
+[23:37:13] batch-start shard=1/2 count=20 backlog=17650 uploads=5189 failed_attempts=243
+[23:37:13] login
+[23:37:14] login done
+[23:37:14] iteration 1/20
+[23:37:14] film cr_film_id=19687 name='Frajeři ve Vegas (2013) CZ Dabing' candidates=2
+[23:37:14]   candidate upload_id=5774fc2fa2656 url=https://prehraj.to/frajeri-vo-vegas-2013-cz-dabing/5774fc2fa2656
+[23:37:15]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/227565/8REh2rTYpU3RTeZhR8FV2TvRf9vH8Rsg4faLIy…)
+[23:37:41]   downloaded 664.7 MB in 24.0s (27.7 MB/s)
+[23:38:11]   upload done video_id=25087952 in 29.6s
