@@ -32020,3 +32020,14 @@
 [01:53:26]   upload done video_id=25048591 in 108.8s
 [01:53:28] film cr_film_id=16572 OK in 199.0s
 [01:53:28] batch-end ok=20 failed=0 dur=2832.1s avg/film=141.6s remaining=12955 eta_hours=509.6
+
+===== run 2026-05-21T01:53:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26199281504) =====
+[01:53:43] batch-start shard=0/2 count=20 backlog=17650 uploads=4695 failed_attempts=706
+[01:53:43] login
+[01:53:45] login done
+[01:53:45] iteration 1/20
+[01:53:45] film cr_film_id=16574 name='Dračí srdce 3: Čarodějova kletba (2015) CZ Dabing' candidates=7
+[01:53:45]   candidate upload_id=56cf506921478 url=https://prehraj.to/draci-srdce-3-carodejova-kletba-dragonheart-3-the-sorcerer-s-curse-2015-cz-dabing-novinky-novinka/56cf506921478
+[01:53:46]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/20322/5QaSmYUD0CldF87hjLflpUrGhGDf8vsAgS6mU3j…)
+[01:54:19]   downloaded 597.5 MB in 30.3s (19.7 MB/s)
+[01:54:57]   upload done video_id=25048634 in 37.7s
