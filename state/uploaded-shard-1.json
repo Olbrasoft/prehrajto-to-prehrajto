@@ -90633,6 +90633,25 @@
         "download_sec": 94.7,
         "upload_sec": 127.3
       }
+    },
+    {
+      "cr_film_id": 17243,
+      "cr_slug": "killbird",
+      "title": "Killbird",
+      "year": 2019,
+      "display_name": "Killbird (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ee02858ec858",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25053211,
+      "size_bytes": 2020761679,
+      "uploaded_at": "2026-05-21T07:09:04Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 86.5,
+        "upload_sec": 111.3
+      }
     }
   ],
   "failed_attempts": [
@@ -92317,5 +92336,5 @@
       "failed_at": "2026-05-21T06:37:45Z"
     }
   ],
-  "last_updated": "2026-05-21T07:05:41Z"
+  "last_updated": "2026-05-21T07:09:04Z"
 }
