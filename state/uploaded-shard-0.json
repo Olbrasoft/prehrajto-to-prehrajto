@@ -90194,6 +90194,25 @@
         "download_sec": 27.3,
         "upload_sec": 29.7
       }
+    },
+    {
+      "cr_film_id": 16726,
+      "cr_slug": "pork-pie",
+      "title": "Pork Pie",
+      "year": 2017,
+      "display_name": "Pork Pie (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c6ad3f98c40c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25051763,
+      "size_bytes": 627377946,
+      "uploaded_at": "2026-05-21T05:03:13Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 32.8,
+        "upload_sec": 36.5
+      }
     }
   ],
   "failed_attempts": [
@@ -95265,5 +95284,5 @@
       "failed_at": "2026-05-21T04:14:02Z"
     }
   ],
-  "last_updated": "2026-05-21T05:01:58Z"
+  "last_updated": "2026-05-21T05:03:13Z"
 }
