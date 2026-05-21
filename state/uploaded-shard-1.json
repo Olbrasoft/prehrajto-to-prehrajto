@@ -97682,6 +97682,25 @@
         "download_sec": 79.1,
         "upload_sec": 102.1
       }
+    },
+    {
+      "cr_film_id": 19473,
+      "cr_slug": "sahara-2005",
+      "title": "Sahara",
+      "year": 2005,
+      "display_name": "Sahara (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ae700bedc987e2a2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25085528,
+      "size_bytes": 2318108678,
+      "uploaded_at": "2026-05-21T22:03:20Z",
+      "timing": {
+        "resolve_sec": 2.3,
+        "download_sec": 88.1,
+        "upload_sec": 92.9
+      }
     }
   ],
   "failed_attempts": [
@@ -99436,5 +99455,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-21T22:00:13Z"
+  "last_updated": "2026-05-21T22:03:20Z"
 }
