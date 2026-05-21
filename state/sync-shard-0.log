@@ -32932,3 +32932,14 @@
 [07:40:54]   upload done video_id=25053785 in 74.2s
 [07:40:56] film cr_film_id=16954 OK in 138.5s
 [07:40:56] batch-end ok=19 failed=1 dur=2520.3s avg/film=132.6s remaining=12838 eta_hours=472.9
+
+===== run 2026-05-21T07:41:07Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26211231027) =====
+[07:41:08] batch-start shard=0/2 count=20 backlog=17650 uploads=4812 failed_attempts=721
+[07:41:08] login
+[07:41:10] login done
+[07:41:10] iteration 1/20
+[07:41:10] film cr_film_id=16956 name='Život je krásný, když se nad ním zamyslíš (2017) CZ Dabing' candidates=1
+[07:41:10]   candidate upload_id=d7aaacde5a3b359f url=https://prehraj.to/zivot-je-krasny-kdyz-se-nad-nim-zamyslis-2017-cz-dabing/d7aaacde5a3b359f
+[07:41:12]   resolved in 1.4s → 720p (https://pf-storage6.premiumcdn.net/169497451/EWyFlvS6xHgNsDohgkikJS27cWvim5HOVh7…)
+[07:41:41]   downloaded 814.3 MB in 27.3s (29.8 MB/s)
+[07:42:20]   upload done video_id=25053825 in 39.0s
