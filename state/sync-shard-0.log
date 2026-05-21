@@ -34256,3 +34256,14 @@
 [14:37:37]   upload done video_id=25071358 in 89.7s
 [14:37:39] film cr_film_id=17556 OK in 172.7s
 [14:37:39] batch-end ok=20 failed=0 dur=2592.0s avg/film=129.6s remaining=12662 eta_hours=455.8
+
+===== run 2026-05-21T14:38:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26232915011) =====
+[14:38:36] batch-start shard=0/2 count=20 backlog=17650 uploads=4988 failed_attempts=728
+[14:38:36] login
+[14:38:38] login done
+[14:38:38] iteration 1/20
+[14:38:38] film cr_film_id=17558 name='Vražda v Moselle (2019) CZ Dabing' candidates=1
+[14:38:38]   candidate upload_id=f7b612098664ef92 url=https://prehraj.to/vrazda-v-moselle-2019-cz-dabing/f7b612098664ef92
+[14:38:39]   resolved in 1.2s → 720p (https://pf-storage6.premiumcdn.net/169371409/BPeS9nurlixlcnMs9BsGzuERh78I2YCOmCV…)
+[14:39:18]   downloaded 663.2 MB in 36.5s (18.2 MB/s)
+[14:40:01]   upload done video_id=25071490 in 43.3s
