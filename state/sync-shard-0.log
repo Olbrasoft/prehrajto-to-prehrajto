@@ -32638,3 +32638,14 @@
 [05:52:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zemrit-stastny-2018-cz-dabing/f274d5d91b1a916b (permanent=True)
 [05:52:01] film cr_film_id=16834 all candidates exhausted
 [05:52:01] batch-end ok=18 failed=2 dur=2169.4s avg/film=120.5s remaining=12877 eta_hours=431.0
+
+===== run 2026-05-21T06:08:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26208733517) =====
+[06:08:55] batch-start shard=0/2 count=20 backlog=17650 uploads=4773 failed_attempts=718
+[06:08:55] login
+[06:08:57] login done
+[06:08:57] iteration 1/20
+[06:08:57] film cr_film_id=16838 name='Nikomu to neříkej (2017) CZ Dabing' candidates=1
+[06:08:57]   candidate upload_id=631f98acbc5bb url=https://prehraj.to/nikomu-to-nerikej-2017-czdab/631f98acbc5bb
+[06:08:58]   resolved in 1.4s → 1080p (https://pf-storage1.premiumcdn.net/32905777/0V9i7yHvnsLjuvZInMcjWHoJC0mIBATNju6Q…)
+[06:10:37]   downloaded 2,144.3 MB in 97.2s (22.1 MB/s)
+[06:12:40]   upload done video_id=25052539 in 122.2s
