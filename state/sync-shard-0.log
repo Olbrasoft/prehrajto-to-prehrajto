@@ -32631,3 +32631,10 @@
 [05:50:06]   resolved in 6.2s → 720p (https://pf-storage4.premiumcdn.net/30038674/xvzTydUEPtJ4hwWt59iPyUogS90F6QIkvtx5…)
 [05:50:55]   downloaded 1,080.8 MB in 47.3s (22.9 MB/s)
 [05:51:58]   upload done video_id=25052287 in 63.2s
+[05:52:00] film cr_film_id=16830 OK in 120.6s
+[05:52:00] iteration 20/20
+[05:52:00] film cr_film_id=16834 name='Zemřít šťastný (2018) CZ Dabing' candidates=1
+[05:52:00]   candidate upload_id=f274d5d91b1a916b url=https://prehraj.to/zemrit-stastny-2018-cz-dabing/f274d5d91b1a916b
+[05:52:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zemrit-stastny-2018-cz-dabing/f274d5d91b1a916b (permanent=True)
+[05:52:01] film cr_film_id=16834 all candidates exhausted
+[05:52:01] batch-end ok=18 failed=2 dur=2169.4s avg/film=120.5s remaining=12877 eta_hours=431.0
