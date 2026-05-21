@@ -34965,3 +34965,14 @@
 [17:35:10]   upload done video_id=25077437 in 74.2s
 [17:35:12] film cr_film_id=18623 OK in 139.3s
 [17:35:12] batch-end ok=20 failed=0 dur=2305.2s avg/film=115.3s remaining=12600 eta_hours=403.6
+
+===== run 2026-05-21T17:39:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26242749603) =====
+[17:39:25] batch-start shard=1/2 count=20 backlog=17650 uploads=5050 failed_attempts=237
+[17:39:25] login
+[17:39:26] login done
+[17:39:26] iteration 1/20
+[17:39:26] film cr_film_id=18625 name='Máma na tahu (2014) CZ Dabing' candidates=4
+[17:39:26]   candidate upload_id=6003f28e8ca06 url=https://prehraj.to/mama-na-tahu-moms-night-out-2014-1080p-x264-cz-dabing/6003f28e8ca06
+[17:39:28]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/21545373/KY2I9ruMKCDpfprhZbF7auBbtZ7I9DuQLsoB…)
+[17:40:51]   downloaded 1,591.1 MB in 81.0s (19.6 MB/s)
+[17:42:40]   upload done video_id=25077633 in 109.1s
