@@ -91127,6 +91127,25 @@
         "download_sec": 98.8,
         "upload_sec": 132.8
       }
+    },
+    {
+      "cr_film_id": 17353,
+      "cr_slug": "tridni-boj",
+      "title": "Třídní boj",
+      "year": 2019,
+      "display_name": "Třídní boj (2019) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60e77a2763cbc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25054130,
+      "size_bytes": 1500563474,
+      "uploaded_at": "2026-05-21T08:04:53Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 54.5,
+        "upload_sec": 64.5
+      }
     }
   ],
   "failed_attempts": [
@@ -92818,5 +92837,5 @@
       "failed_at": "2026-05-21T07:43:51Z"
     }
   ],
-  "last_updated": "2026-05-21T08:02:50Z"
+  "last_updated": "2026-05-21T08:04:53Z"
 }
