@@ -31874,3 +31874,14 @@
 [01:05:59]   upload done video_id=25047607 in 22.4s
 [01:06:01] film cr_film_id=16502 OK in 43.9s
 [01:06:01] batch-end ok=20 failed=0 dur=2463.8s avg/film=123.2s remaining=12975 eta_hours=444.0
+
+===== run 2026-05-21T01:06:13Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26198010025) =====
+[01:06:14] batch-start shard=0/2 count=20 backlog=17650 uploads=4675 failed_attempts=706
+[01:06:14] login
+[01:06:16] login done
+[01:06:16] iteration 1/20
+[01:06:16] film cr_film_id=16504 name='Cesta do Afriky (2013) CZ Dabing' candidates=2
+[01:06:16]   candidate upload_id=592d22c1946ba url=https://prehraj.to/cesta-do-afriky-2013-cz-dabing/592d22c1946ba
+[01:06:17]   resolved in 1.3s → 480p (https://pf-storage4.premiumcdn.net/2277855/djLs9GSqpUR5uXKTPbSdNS49U2as8ZTlZtrBC…)
+[01:06:51]   downloaded 640.2 MB in 30.7s (20.9 MB/s)
+[01:07:33]   upload done video_id=25047648 in 41.7s
