@@ -32002,3 +32002,14 @@
 [01:46:12]   upload done video_id=25048469 in 27.5s
 [01:46:14] film cr_film_id=16813 OK in 52.0s
 [01:46:14] batch-end ok=20 failed=0 dur=2637.2s avg/film=131.9s remaining=13001 eta_hours=476.3
+
+===== run 2026-05-21T01:46:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26199281504) =====
+[01:46:28] batch-start shard=1/2 count=20 backlog=17650 uploads=4649 failed_attempts=228
+[01:46:28] login
+[01:46:30] login done
+[01:46:30] iteration 1/20
+[01:46:30] film cr_film_id=16817 name='Rodinný ranč (2016) CZ Dabing' candidates=1
+[01:46:30]   candidate upload_id=6025f6c546238 url=https://prehraj.to/rodinny-ranc-2016-czdabing/6025f6c546238
+[01:46:31]   resolved in 1.0s → 1080p (https://pf-storage2.premiumcdn.net/22152648/ZjViGmsBGSQWSnoIzMT2NsmEh84i6ZTdgunl…)
+[01:47:20]   downloaded 1,566.9 MB in 48.1s (32.6 MB/s)
+[01:48:16]   upload done video_id=25048500 in 56.0s
