@@ -94336,6 +94336,25 @@
         "download_sec": 25.6,
         "upload_sec": 30.7
       }
+    },
+    {
+      "cr_film_id": 17484,
+      "cr_slug": "synuv-stin",
+      "title": "Synův stín",
+      "year": 2019,
+      "display_name": "Synův stín (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ddfd6fbe2b3a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25069270,
+      "size_bytes": 876450406,
+      "uploaded_at": "2026-05-21T13:48:06Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 29.2,
+        "upload_sec": 40.9
+      }
     }
   ],
   "failed_attempts": [
@@ -99477,5 +99496,5 @@
       "failed_at": "2026-05-21T13:38:11Z"
     }
   ],
-  "last_updated": "2026-05-21T13:46:52Z"
+  "last_updated": "2026-05-21T13:48:06Z"
 }
