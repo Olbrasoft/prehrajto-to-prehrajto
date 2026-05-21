@@ -33656,3 +33656,14 @@
 [11:19:28]   upload done video_id=25057169 in 85.9s
 [11:19:30] film cr_film_id=17290 OK in 153.0s
 [11:19:30] batch-end ok=18 failed=2 dur=2331.4s avg/film=129.5s remaining=12741 eta_hours=458.3
+
+===== run 2026-05-21T11:30:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26223238660) =====
+[11:30:43] batch-start shard=0/2 count=20 backlog=17650 uploads=4909 failed_attempts=724
+[11:30:43] login
+[11:30:46] login done
+[11:30:46] iteration 1/20
+[11:30:46] film cr_film_id=17300 name='Gentlemani na ulici (2023) CZ Dabing' candidates=2
+[11:30:46]   candidate upload_id=d2aaf604331ab63c url=https://prehraj.to/gentlemani-na-ulici-2023-cz-dab-1080p/d2aaf604331ab63c
+[11:30:47]   resolved in 1.4s → 1080p (https://pf-storage4.premiumcdn.net/167314721/e7ASO7f4bHPeT4zFQ7TGYfxkcwOcn4cz4Sx…)
+[11:32:13]   downloaded 1,666.7 MB in 83.7s (19.9 MB/s)
+[11:33:49]   upload done video_id=25058291 in 96.4s
