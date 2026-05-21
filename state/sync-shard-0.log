@@ -31728,3 +31728,14 @@
 [00:23:42]   upload done video_id=25046861 in 24.1s
 [00:23:44] film cr_film_id=16412 OK in 50.8s
 [00:23:44] batch-end ok=18 failed=2 dur=2929.7s avg/film=162.8s remaining=12995 eta_hours=587.7
+
+===== run 2026-05-21T00:24:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26197883836) =====
+[00:24:56] batch-start shard=0/2 count=20 backlog=17650 uploads=4655 failed_attempts=706
+[00:24:56] login
+[00:24:57] login done
+[00:24:57] iteration 1/20
+[00:24:57] film cr_film_id=16418 name='Stíny smrti: Tajemství Clos des Lilas (2024) CZ Dabing' candidates=1
+[00:24:57]   candidate upload_id=d31b43551dfb1386 url=https://prehraj.to/stiny-smrti-tajemstvi-clos-des-lilas-2024-cz-dabing/d31b43551dfb1386
+[00:24:58]   resolved in 1.0s → 720p (https://pf-storage6.premiumcdn.net/169380598/YMWFy3U6oTo9SgPUkBHLVUboSr1t4AfDQFJ…)
+[00:25:24]   downloaded 804.1 MB in 24.7s (32.6 MB/s)
+[00:25:56]   upload done video_id=25046886 in 31.4s
