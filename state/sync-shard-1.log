@@ -34525,3 +34525,14 @@
 [15:15:50]   upload done video_id=25072955 in 105.5s
 [15:15:52] film cr_film_id=18213 OK in 187.5s
 [15:15:52] batch-end ok=20 failed=0 dur=2238.7s avg/film=111.9s remaining=12660 eta_hours=393.5
+
+===== run 2026-05-21T15:28:37Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26235761385) =====
+[15:28:39] batch-start shard=1/2 count=20 backlog=17650 uploads=4990 failed_attempts=236
+[15:28:39] login
+[15:28:40] login done
+[15:28:40] iteration 1/20
+[15:28:40] film cr_film_id=18215 name='Zastavte vymírání (2015) CZ' candidates=1
+[15:28:40]   candidate upload_id=5ac876689da96 url=https://prehraj.to/zastavte-vymirani-2015/5ac876689da96
+[15:28:41]   resolved in 1.0s → 720p (https://pf-storage2.premiumcdn.net/3843799/pwafkLiLxfKMcEDsmECeLioXt1RhXKsmes0WC…)
+[15:29:35]   downloaded 1,665.3 MB in 52.0s (32.0 MB/s)
+[15:30:43]   upload done video_id=25073513 in 68.3s
