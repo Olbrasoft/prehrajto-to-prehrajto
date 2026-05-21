@@ -32148,3 +32148,14 @@
 [02:13:48]   upload done video_id=25049380 in 45.2s
 [02:13:50] film cr_film_id=16877 OK in 85.7s
 [02:13:50] batch-end ok=19 failed=1 dur=1640.1s avg/film=86.3s remaining=12982 eta_hours=311.2
+
+===== run 2026-05-21T02:42:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26202282405) =====
+[02:42:45] batch-start shard=1/2 count=20 backlog=17650 uploads=4668 failed_attempts=229
+[02:42:45] login
+[02:42:47] login done
+[02:42:47] iteration 1/20
+[02:42:47] film cr_film_id=16875 name='Útěk za Grace (2018) CZ Dabing' candidates=1
+[02:42:47]   candidate upload_id=5eded0eee9f69 url=https://prehraj.to/utek-za-grace-2018-czdabing/5eded0eee9f69
+[02:42:48]   resolved in 1.6s → 1080p (https://pf-storage5.premiumcdn.net/16840527/Z9JH6QcmaIE2IwLSg7UePcp9UgoH03S8kURk…)
+[02:44:45]   downloaded 2,387.8 MB in 114.6s (20.8 MB/s)
+[02:47:11]   upload done video_id=25049819 in 145.5s
