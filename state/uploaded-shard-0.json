@@ -89890,6 +89890,25 @@
         "download_sec": 23.0,
         "upload_sec": 35.5
       }
+    },
+    {
+      "cr_film_id": 16680,
+      "cr_slug": "lullaby",
+      "title": "Lullaby",
+      "year": null,
+      "display_name": "Lullaby CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67f6930f8ca55",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25050210,
+      "size_bytes": 1286473464,
+      "uploaded_at": "2026-05-21T03:10:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 43.1,
+        "upload_sec": 63.5
+      }
     }
   ],
   "failed_attempts": [
@@ -94898,5 +94917,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-21T03:08:28Z"
+  "last_updated": "2026-05-21T03:10:19Z"
 }
