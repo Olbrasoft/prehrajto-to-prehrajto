@@ -32440,3 +32440,14 @@
 [04:34:04]   upload done video_id=25051359 in 72.6s
 [04:34:06] film cr_film_id=17011 OK in 140.3s
 [04:34:06] batch-end ok=20 failed=0 dur=3492.9s avg/film=174.6s remaining=12942 eta_hours=627.7
+
+===== run 2026-05-21T04:34:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26205637271) =====
+[04:34:52] batch-start shard=1/2 count=20 backlog=17650 uploads=4708 failed_attempts=229
+[04:34:52] login
+[04:34:53] login done
+[04:34:53] iteration 1/20
+[04:34:53] film cr_film_id=17017 name='Ti poslední (2020) CZ Dabing' candidates=2
+[04:34:53]   candidate upload_id=6453806515c8d url=https://prehraj.to/ti-posledni-viimased-2020-1080p-webrip-cz-dabing-mp4/6453806515c8d
+[04:34:54]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/40177201/b8MTDQuX4iY4ibGSL4ivKu7kIOpSvyIQRi3M…)
+[04:36:20]   downloaded 2,514.1 MB in 83.6s (30.1 MB/s)
+[04:37:58]   upload done video_id=25051413 in 98.8s
