@@ -94887,6 +94887,25 @@
         "download_sec": 96.0,
         "upload_sec": 123.6
       }
+    },
+    {
+      "cr_film_id": 17594,
+      "cr_slug": "rychla-hra",
+      "title": "Rychlá hra",
+      "year": 2019,
+      "display_name": "Rychlá hra (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f2e59c608366",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25072003,
+      "size_bytes": 851270773,
+      "uploaded_at": "2026-05-21T14:52:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 45.6,
+        "upload_sec": 57.3
+      }
     }
   ],
   "failed_attempts": [
@@ -100049,5 +100068,5 @@
       "failed_at": "2026-05-21T14:40:06Z"
     }
   ],
-  "last_updated": "2026-05-21T14:50:31Z"
+  "last_updated": "2026-05-21T14:52:20Z"
 }
