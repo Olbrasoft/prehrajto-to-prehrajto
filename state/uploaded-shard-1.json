@@ -96352,6 +96352,25 @@
         "download_sec": 107.0,
         "upload_sec": 32.8
       }
+    },
+    {
+      "cr_film_id": 18861,
+      "cr_slug": "svycarak",
+      "title": "Švýcarák",
+      "year": 2016,
+      "display_name": "Švýcarák (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "664c23d51f0d9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25079520,
+      "size_bytes": 2106683176,
+      "uploaded_at": "2026-05-21T18:42:20Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 84.6,
+        "upload_sec": 99.8
+      }
     }
   ],
   "failed_attempts": [
@@ -98078,5 +98097,5 @@
       "failed_at": "2026-05-21T17:42:50Z"
     }
   ],
-  "last_updated": "2026-05-21T18:39:11Z"
+  "last_updated": "2026-05-21T18:42:20Z"
 }
