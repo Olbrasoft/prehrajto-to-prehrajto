@@ -34106,3 +34106,14 @@
 [13:52:37]   upload done video_id=25069431 in 101.0s
 [13:52:40] film cr_film_id=17490 OK in 182.6s
 [13:52:40] batch-end ok=19 failed=1 dur=2088.3s avg/film=109.9s remaining=12682 eta_hours=387.2
+
+===== run 2026-05-21T13:54:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26230423805) =====
+[13:54:25] batch-start shard=0/2 count=20 backlog=17650 uploads=4968 failed_attempts=726
+[13:54:25] login
+[13:54:27] login done
+[13:54:27] iteration 1/20
+[13:54:27] film cr_film_id=17492 name='Broad Peak (2022) CZ Dabing' candidates=2
+[13:54:27]   candidate upload_id=6321eb2bd7e1c url=https://prehraj.to/broad-peak-2022-cz-dabing-1080p/6321eb2bd7e1c
+[13:54:31]   resolved in 4.2s → 1080p (https://pf-storage3.premiumcdn.net/32935918/7eLI0Zum5HQ9hgWuyRfNeu8VfwBcp0UagSxv…)
+[13:55:36]   downloaded 1,678.7 MB in 63.4s (26.5 MB/s)
+[13:56:52]   upload done video_id=25069640 in 75.8s
