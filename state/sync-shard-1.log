@@ -35706,3 +35706,14 @@
 [22:12:27]   upload done video_id=25085760 in 103.7s
 [22:12:29] film cr_film_id=19495 OK in 171.6s
 [22:12:29] batch-end ok=19 failed=1 dur=1935.9s avg/film=101.9s remaining=12501 eta_hours=353.8
+
+===== run 2026-05-21T22:13:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26256196881) =====
+[22:13:40] batch-start shard=1/2 count=20 backlog=17650 uploads=5149 failed_attempts=243
+[22:13:40] login
+[22:13:42] login done
+[22:13:42] iteration 1/20
+[22:13:42] film cr_film_id=19499 name='Lovecká sezóna (2006) CZ Dabing' candidates=1
+[22:13:42]   candidate upload_id=672a0d0124bfd url=https://prehraj.to/lovecka-sezona-1-2006-animovany-dobrodruzny-czdab/672a0d0124bfd
+[22:13:43]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/105463667/4K9fnqHDXsk9I3GtrXTEkHPBUAGUm0SbAik…)
+[22:14:27]   downloaded 1,257.7 MB in 41.7s (30.2 MB/s)
+[22:15:31]   upload done video_id=25085863 in 63.9s
