@@ -90669,6 +90669,25 @@
         "download_sec": 77.7,
         "upload_sec": 112.3
       }
+    },
+    {
+      "cr_film_id": 16830,
+      "cr_slug": "saint-judy",
+      "title": "Saint Judy",
+      "year": 2018,
+      "display_name": "Saint Judy (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "622cf5d5df959",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25052287,
+      "size_bytes": 1080808096,
+      "uploaded_at": "2026-05-21T05:51:58Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 47.3,
+        "upload_sec": 63.2
+      }
     }
   ],
   "failed_attempts": [
@@ -95738,7 +95757,14 @@
       "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Ftygri-zeleznice-2016-webrip-720p-rewoluce-cz%2F5b6949fd590a1 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f445e2f6270>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/tygri-zeleznice-2016-webrip-720p-rewoluce-cz/5b6949fd590a1",
       "permanent": false,
       "failed_at": "2026-05-21T04:14:02Z"
+    },
+    {
+      "cr_film_id": 16824,
+      "upload_id": "60ca2f47dc1b8fb1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vecna-krasa-2020-cz-dabing-mp4/60ca2f47dc1b8fb1",
+      "permanent": true,
+      "failed_at": "2026-05-21T05:50:00Z"
     }
   ],
-  "last_updated": "2026-05-21T05:49:57Z"
+  "last_updated": "2026-05-21T05:51:58Z"
 }
