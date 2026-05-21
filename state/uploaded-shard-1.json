@@ -97321,6 +97321,25 @@
         "download_sec": 28.0,
         "upload_sec": 31.3
       }
+    },
+    {
+      "cr_film_id": 19415,
+      "cr_slug": "velky-zavod",
+      "title": "Velký závod",
+      "year": 1994,
+      "display_name": "Velký závod (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "633b8e7b03bfa",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25084437,
+      "size_bytes": 2244182852,
+      "uploaded_at": "2026-05-21T21:25:18Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 89.6,
+        "upload_sec": 117.2
+      }
     }
   ],
   "failed_attempts": [
@@ -99068,5 +99087,5 @@
       "failed_at": "2026-05-21T19:41:59Z"
     }
   ],
-  "last_updated": "2026-05-21T21:21:46Z"
+  "last_updated": "2026-05-21T21:25:18Z"
 }
