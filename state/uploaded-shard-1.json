@@ -94281,6 +94281,25 @@
         "download_sec": 13.6,
         "upload_sec": 21.2
       }
+    },
+    {
+      "cr_film_id": 18019,
+      "cr_slug": "death-note",
+      "title": "Death Note",
+      "year": 2017,
+      "display_name": "Death Note (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6070d2d4428c1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25070128,
+      "size_bytes": 517481985,
+      "uploaded_at": "2026-05-21T14:07:15Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.1,
+        "upload_sec": 19.8
+      }
     }
   ],
   "failed_attempts": [
@@ -95986,5 +96005,5 @@
       "failed_at": "2026-05-21T10:04:34Z"
     }
   ],
-  "last_updated": "2026-05-21T14:06:34Z"
+  "last_updated": "2026-05-21T14:07:15Z"
 }
