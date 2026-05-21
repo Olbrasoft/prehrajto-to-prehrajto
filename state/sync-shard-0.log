@@ -35130,3 +35130,14 @@
 [19:33:46]   upload done video_id=25081103 in 88.6s
 [19:33:49] film cr_film_id=18116 OK in 1004.4s
 [19:33:49] batch-end ok=20 failed=0 dur=3538.4s avg/film=176.9s remaining=12544 eta_hours=616.4
+
+===== run 2026-05-21T19:34:04Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26245713158) =====
+[19:34:05] batch-start shard=0/2 count=20 backlog=17650 uploads=5106 failed_attempts=730
+[19:34:05] login
+[19:34:07] login done
+[19:34:07] iteration 1/20
+[19:34:07] film cr_film_id=18130 name='Dokonalý smysl (2011) CZ Dabing' candidates=9
+[19:34:07]   candidate upload_id=568e5e110afc6 url=https://prehraj.to/dokonaly-smysl-2011-czdab/568e5e110afc6
+[19:34:08]   resolved in 1.6s → 480p (https://pf-storage2.premiumcdn.net/523502/37ztqwUK0cAZUjNSEbSGXUEAtzyTPAt4YIxaiG…)
+[19:35:49]   downloaded 357.0 MB in 97.8s (3.6 MB/s)
+[19:36:15]   upload done video_id=25081232 in 25.8s
