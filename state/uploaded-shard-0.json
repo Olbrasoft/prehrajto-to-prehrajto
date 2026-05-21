@@ -98231,6 +98231,25 @@
         "download_sec": 18.5,
         "upload_sec": 23.0
       }
+    },
+    {
+      "cr_film_id": 18752,
+      "cr_slug": "listky-ve-vetru",
+      "title": "Lístky ve větru",
+      "year": 2014,
+      "display_name": "Lístky ve větru (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59a36ca4df042",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25086107,
+      "size_bytes": 418570352,
+      "uploaded_at": "2026-05-21T22:22:16Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 14.5,
+        "upload_sec": 19.3
+      }
     }
   ],
   "failed_attempts": [
@@ -103403,7 +103422,14 @@
         "download_sec": 70.0,
         "upload_sec": 0.1
       }
+    },
+    {
+      "cr_film_id": 18744,
+      "upload_id": "433b7c7f88f3f9e7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/red-flags-2025-cz-dabing-hd/433b7c7f88f3f9e7",
+      "permanent": true,
+      "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-21T22:21:33Z"
+  "last_updated": "2026-05-21T22:22:16Z"
 }
