@@ -92569,6 +92569,25 @@
         "download_sec": 60.1,
         "upload_sec": 69.4
       }
+    },
+    {
+      "cr_film_id": 17178,
+      "cr_slug": "jane",
+      "title": "Jane",
+      "year": 2017,
+      "display_name": "Jane (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "690108f456ab0",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25055813,
+      "size_bytes": 3500895057,
+      "uploaded_at": "2026-05-21T09:53:58Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 165.6,
+        "upload_sec": 261.3
+      }
     }
   ],
   "failed_attempts": [
@@ -97682,5 +97701,5 @@
       "failed_at": "2026-05-21T07:47:05Z"
     }
   ],
-  "last_updated": "2026-05-21T09:46:45Z"
+  "last_updated": "2026-05-21T09:53:58Z"
 }
