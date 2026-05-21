@@ -34048,3 +34048,14 @@
 [12:42:50]   upload done video_id=25062271 in 24.8s
 [12:42:51] film cr_film_id=17839 OK in 47.7s
 [12:42:51] batch-end ok=20 failed=0 dur=1136.9s avg/film=56.8s remaining=12725 eta_hours=200.8
+
+===== run 2026-05-21T13:00:12Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26227483728) =====
+[13:00:14] batch-start shard=1/2 count=20 backlog=17650 uploads=4925 failed_attempts=236
+[13:00:14] login
+[13:00:15] login done
+[13:00:15] iteration 1/20
+[13:00:15] film cr_film_id=17845 name='Cesta na Měsíc 3D (2008) CZ Dabing' candidates=4
+[13:00:15]   candidate upload_id=6110ca3341eef url=https://prehraj.to/cesta-na-mesic-3d-2008-cz-dabing-animovany/6110ca3341eef
+[13:00:16]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/24560060/ZkEFGLhdaCx3sw9UPyhqahBZU7BFB4I1BFYm…)
+[13:01:15]   downloaded 1,850.1 MB in 57.5s (32.2 MB/s)
+[13:02:21]   upload done video_id=25063726 in 66.0s
