@@ -93198,6 +93198,25 @@
         "download_sec": 24.5,
         "upload_sec": 38.0
       }
+    },
+    {
+      "cr_film_id": 17769,
+      "cr_slug": "hulk",
+      "title": "Hulk",
+      "year": 2003,
+      "display_name": "Hulk (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59116c3b2bb0a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25061477,
+      "size_bytes": 598044461,
+      "uploaded_at": "2026-05-21T12:24:41Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 21.1,
+        "upload_sec": 22.4
+      }
     }
   ],
   "failed_attempts": [
@@ -94903,5 +94922,5 @@
       "failed_at": "2026-05-21T10:04:34Z"
     }
   ],
-  "last_updated": "2026-05-21T12:11:29Z"
+  "last_updated": "2026-05-21T12:24:41Z"
 }
