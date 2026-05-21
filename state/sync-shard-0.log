@@ -34692,3 +34692,14 @@
 [16:44:48]   upload done video_id=25075896 in 45.6s
 [16:44:50] film cr_film_id=17782 OK in 87.2s
 [16:44:50] batch-end ok=20 failed=0 dur=1745.6s avg/film=87.3s remaining=12604 eta_hours=305.6
+
+===== run 2026-05-21T16:56:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26240525683) =====
+[16:56:51] batch-start shard=0/2 count=20 backlog=17650 uploads=5046 failed_attempts=730
+[16:56:51] login
+[16:56:52] login done
+[16:56:52] iteration 1/20
+[16:56:52] film cr_film_id=17786 name='Hele kámo, kdo tu vaří? (2005) CZ Dabing' candidates=13
+[16:56:52]   candidate upload_id=60f9095384423 url=https://prehraj.to/hele-kamo-kdo-tu-vari-2005-full-hd-1080p-cz-dabing/60f9095384423
+[16:56:54]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/24358583/eDRuK7IKeto8sL0fXgF4gIpmcoli8qtr4u7n…)
+[16:58:40]   downloaded 3,168.3 MB in 104.7s (30.3 MB/s)
+[17:01:00]   upload done video_id=25076317 in 140.2s
