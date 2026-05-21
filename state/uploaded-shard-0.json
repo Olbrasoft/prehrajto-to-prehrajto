@@ -91752,6 +91752,25 @@
         "download_sec": 35.5,
         "upload_sec": 48.6
       }
+    },
+    {
+      "cr_film_id": 17034,
+      "cr_slug": "spina",
+      "title": "Špína",
+      "year": 2017,
+      "display_name": "Špína (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aba731627aaf",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25054211,
+      "size_bytes": 912878502,
+      "uploaded_at": "2026-05-21T08:08:42Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 28.7,
+        "upload_sec": 35.8
+      }
     }
   ],
   "failed_attempts": [
@@ -96865,5 +96884,5 @@
       "failed_at": "2026-05-21T07:47:05Z"
     }
   ],
-  "last_updated": "2026-05-21T08:07:34Z"
+  "last_updated": "2026-05-21T08:08:42Z"
 }
