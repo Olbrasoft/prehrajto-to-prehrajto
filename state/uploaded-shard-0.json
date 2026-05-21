@@ -89852,6 +89852,25 @@
         "download_sec": 22.6,
         "upload_sec": 25.2
       }
+    },
+    {
+      "cr_film_id": 16676,
+      "cr_slug": "maly-pan",
+      "title": "Malý pán",
+      "year": 2015,
+      "display_name": "Malý pán (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6179103031f87",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25050176,
+      "size_bytes": 648810365,
+      "uploaded_at": "2026-05-21T03:07:26Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.7,
+        "upload_sec": 29.1
+      }
     }
   ],
   "failed_attempts": [
@@ -94860,5 +94879,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-21T03:06:28Z"
+  "last_updated": "2026-05-21T03:07:26Z"
 }
