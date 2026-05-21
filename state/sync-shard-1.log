@@ -33466,3 +33466,14 @@
 [09:37:52]   upload done video_id=25055513 in 28.8s
 [09:37:54] film cr_film_id=17545 OK in 57.3s
 [09:37:54] batch-end ok=19 failed=1 dur=1970.7s avg/film=103.7s remaining=12804 eta_hours=368.8
+
+===== run 2026-05-21T09:44:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26218379370) =====
+[09:44:28] batch-start shard=1/2 count=20 backlog=17650 uploads=4846 failed_attempts=235
+[09:44:28] login
+[09:44:30] login done
+[09:44:30] iteration 1/20
+[09:44:30] film cr_film_id=17547 name='Agnes Joy (2019) CZ Dabing' candidates=1
+[09:44:30]   candidate upload_id=0750e4d5ccc70c33 url=https://prehraj.to/agnes-joy-2019-cz-dabing/0750e4d5ccc70c33
+[09:44:31]   resolved in 1.1s → 720p (https://pf-storage6.premiumcdn.net/169411168/xnAf1XiZaf0dsxESy5cBmi8qSMPTPbFQRf5…)
+[09:44:51]   downloaded 517.3 MB in 18.3s (28.3 MB/s)
+[09:45:17]   upload done video_id=25055619 in 25.5s
