@@ -95324,6 +95324,25 @@
         "download_sec": 22.8,
         "upload_sec": 27.4
       }
+    },
+    {
+      "cr_film_id": 17690,
+      "cr_slug": "klid-noci",
+      "title": "Klid noci",
+      "year": 1982,
+      "display_name": "Klid noci (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63167664a5f91",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25074317,
+      "size_bytes": 1127398249,
+      "uploaded_at": "2026-05-21T15:53:51Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 45.9,
+        "upload_sec": 49.1
+      }
     }
   ],
   "failed_attempts": [
@@ -100484,7 +100503,19 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/talent-na-zlocin-tajemstvi-dahlii-2019-cz-dabing-hd-mp4/01260af9cc62a27a",
       "permanent": true,
       "failed_at": "2026-05-21T14:40:06Z"
+    },
+    {
+      "cr_film_id": 17688,
+      "upload_id": "5a8c10cdcf371",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-05-21T15:52:12Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 70.0,
+        "upload_sec": 0.1
+      }
     }
   ],
-  "last_updated": "2026-05-21T15:50:57Z"
+  "last_updated": "2026-05-21T15:53:51Z"
 }
