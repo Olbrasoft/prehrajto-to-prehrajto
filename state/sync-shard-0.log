@@ -34546,3 +34546,14 @@
 [16:13:53]   upload done video_id=25074898 in 87.6s
 [16:13:55] film cr_film_id=17718 OK in 161.0s
 [16:13:55] batch-end ok=19 failed=1 dur=2712.0s avg/film=142.7s remaining=12624 eta_hours=500.4
+
+===== run 2026-05-21T16:15:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26238357605) =====
+[16:15:43] batch-start shard=0/2 count=20 backlog=17650 uploads=5026 failed_attempts=730
+[16:15:43] login
+[16:15:45] login done
+[16:15:45] iteration 1/20
+[16:15:45] film cr_film_id=17688 name='Gándhí (1982) CZ' candidates=1
+[16:15:45]   candidate upload_id=5a8c10cdcf371 url=https://prehraj.to/gandhi-1982/5a8c10cdcf371
+[16:15:46]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/3427384/0pVtYBijoULwTPxhxGf54ipmTgZfADcJWHMzU…)
+[16:16:57]   downloaded 2,060.8 MB in 69.6s (29.6 MB/s)
+[16:18:24]   upload done video_id=25075073 in 86.9s
