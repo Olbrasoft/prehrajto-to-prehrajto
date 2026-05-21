@@ -94640,6 +94640,25 @@
         "download_sec": 31.3,
         "upload_sec": 34.5
       }
+    },
+    {
+      "cr_film_id": 17528,
+      "cr_slug": "dum-na-musce",
+      "title": "Dům na mušce",
+      "year": 2023,
+      "display_name": "Dům na mušce (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "51c6f65dd4162cfe",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25070845,
+      "size_bytes": 2470500953,
+      "uploaded_at": "2026-05-21T14:25:39Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 85.7,
+        "upload_sec": 106.6
+      }
     }
   ],
   "failed_attempts": [
@@ -99779,7 +99798,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/falesne-bezpeci-2019-cz-dabing/29759ba1b1297055",
       "permanent": true,
       "failed_at": "2026-05-21T13:38:11Z"
+    },
+    {
+      "cr_film_id": 17528,
+      "upload_id": "bd40c8bc0ddf72b4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dum-na-musce-2023-cz-dab-1080p-mp4/bd40c8bc0ddf72b4",
+      "permanent": true,
+      "failed_at": "2026-05-21T14:22:13Z"
+    },
+    {
+      "cr_film_id": 17528,
+      "upload_id": "d6a410ec3ef8e1c6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dum-na-musce-2023-cz-dab-1080p/d6a410ec3ef8e1c6",
+      "permanent": true,
+      "failed_at": "2026-05-21T14:22:19Z"
     }
   ],
-  "last_updated": "2026-05-21T14:22:10Z"
+  "last_updated": "2026-05-21T14:25:39Z"
 }
