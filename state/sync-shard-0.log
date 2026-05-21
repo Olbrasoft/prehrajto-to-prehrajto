@@ -33076,3 +33076,14 @@
 [08:09:51]   upload done video_id=25054228 in 37.1s
 [08:09:53] film cr_film_id=17036 OK in 68.7s
 [08:09:53] batch-end ok=19 failed=1 dur=1722.6s avg/film=90.7s remaining=12819 eta_hours=323.0
+
+===== run 2026-05-21T08:10:07Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26212672069) =====
+[08:10:08] batch-start shard=0/2 count=20 backlog=17650 uploads=4831 failed_attempts=722
+[08:10:08] login
+[08:10:10] login done
+[08:10:10] iteration 1/20
+[08:10:10] film cr_film_id=17038 name='Stíny smrti: Záhada na ostrově (2017) CZ Dabing' candidates=1
+[08:10:10]   candidate upload_id=088e6e80d10222f2 url=https://prehraj.to/stiny-smrti-zahada-na-ostrove-2017-cz-dabing/088e6e80d10222f2
+[08:10:12]   resolved in 2.1s → 720p (https://pf-storage6.premiumcdn.net/169729834/BMwu59U2QUX4iyjtK2ilqU6oI4VfRGuoMI8…)
+[08:10:44]   downloaded 937.4 MB in 30.4s (30.8 MB/s)
+[08:11:16]   upload done video_id=25054245 in 32.1s
