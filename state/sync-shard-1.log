@@ -35562,3 +35562,14 @@
 [21:38:20]   upload done video_id=25084845 in 47.0s
 [21:38:22] film cr_film_id=19437 OK in 89.5s
 [21:38:22] batch-end ok=20 failed=0 dur=3070.4s avg/film=153.5s remaining=12520 eta_hours=533.8
+
+===== run 2026-05-21T21:40:10Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26254714175) =====
+[21:40:12] batch-start shard=1/2 count=20 backlog=17650 uploads=5130 failed_attempts=242
+[21:40:12] login
+[21:40:13] login done
+[21:40:13] iteration 1/20
+[21:40:13] film cr_film_id=19439 name='Nebezpečný kód (2000) CZ Dabing' candidates=6
+[21:40:13]   candidate upload_id=63c8a3c04e6dd url=https://prehraj.to/nebezpecny-kod-takedown-2000-thriller-akcni-bdrip-cz-dabing/63c8a3c04e6dd
+[21:40:14]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/36477625/3Z6I8JfymiOQf4oteYFBWfJ6T1PsDdcnNIkA…)
+[21:41:35]   downloaded 2,516.4 MB in 79.2s (31.8 MB/s)
+[21:43:07]   upload done video_id=25084954 in 91.9s
