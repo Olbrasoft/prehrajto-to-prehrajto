@@ -89510,6 +89510,25 @@
         "download_sec": 20.6,
         "upload_sec": 24.9
       }
+    },
+    {
+      "cr_film_id": 16628,
+      "cr_slug": "zabij-nebo-budes-zabit-2",
+      "title": "Zabij, nebo budeš zabit 2",
+      "year": 2015,
+      "display_name": "Zabij, nebo budeš zabit 2 (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d6ef292631d7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25049662,
+      "size_bytes": 1529792721,
+      "uploaded_at": "2026-05-21T02:36:43Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 62.7,
+        "upload_sec": 80.2
+      }
     }
   ],
   "failed_attempts": [
@@ -94504,7 +94523,19 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/bob-a-bobek-ve-filmu-na-stope-mrkvojeda-mp4/104cb2c9cf63b398",
       "permanent": true,
       "failed_at": "2026-05-21T00:06:38Z"
+    },
+    {
+      "cr_film_id": 16628,
+      "upload_id": "61923847a4190",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-05-21T02:34:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 70.6,
+        "upload_sec": 0.0
+      }
     }
   ],
-  "last_updated": "2026-05-21T02:33:01Z"
+  "last_updated": "2026-05-21T02:36:43Z"
 }
