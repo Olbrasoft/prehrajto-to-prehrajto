@@ -31710,3 +31710,14 @@
 [00:04:09]   upload done video_id=25046566 in 58.3s
 [00:04:10] film cr_film_id=16677 OK in 105.9s
 [00:04:10] batch-end ok=20 failed=0 dur=1754.2s avg/film=87.7s remaining=13041 eta_hours=317.7
+
+===== run 2026-05-21T00:24:53Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26197883836) =====
+[00:24:54] batch-start shard=1/2 count=20 backlog=17650 uploads=4609 failed_attempts=228
+[00:24:54] login
+[00:24:55] login done
+[00:24:55] iteration 1/20
+[00:24:55] film cr_film_id=16679 name='Zpátky na nohou (2017) CZ' candidates=1
+[00:24:55]   candidate upload_id=5c066915b510b url=https://prehraj.to/zpatky-na-nohou-romanticka-komedie-2017-720p-x264-cz-63-sten-ok/5c066915b510b
+[00:24:56]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/8993381/XboUKXunOsAjuBKCEVcbRuxbC2di20COpHneT…)
+[00:25:33]   downloaded 1,054.5 MB in 34.9s (30.2 MB/s)
+[00:26:31]   upload done video_id=25046887 in 57.8s
