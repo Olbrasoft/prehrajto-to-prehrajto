@@ -40236,3 +40236,14 @@
 [18:17:05]   upload done video_id=25110120 in 42.5s
 [18:17:07] film cr_film_id=22719 OK in 82.8s
 [18:17:07] batch-end ok=20 failed=0 dur=2925.7s avg/film=146.3s remaining=11884 eta_hours=483.0
+
+===== run 2026-05-22T18:27:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26305033095) =====
+[18:27:27] batch-start shard=1/2 count=20 backlog=17650 uploads=5766 failed_attempts=248
+[18:27:27] login
+[18:27:28] login done
+[18:27:28] iteration 1/20
+[18:27:28] film cr_film_id=22723 name='Airwolf (1984) CZ Dabing' candidates=2
+[18:27:28]   candidate upload_id=5828996a098d2 url=https://prehraj.to/airwolf-cz-dabing-1984-by-kamer/5828996a098d2
+[18:27:29]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/860280/890sEzTb2umlUoxhxniV1TEbIBAs8giAruKeHb…)
+[18:27:49]   downloaded 601.0 MB in 18.2s (33.0 MB/s)
+[18:28:12]   upload done video_id=25110229 in 23.5s
