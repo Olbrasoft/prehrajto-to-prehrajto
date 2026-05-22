@@ -39072,3 +39072,14 @@
 [13:44:39]   upload done video_id=25105655 in 138.1s
 [13:44:41] film cr_film_id=21808 OK in 236.3s
 [13:44:41] batch-end ok=20 failed=0 dur=2190.7s avg/film=109.5s remaining=12008 eta_hours=365.2
+
+===== run 2026-05-22T13:44:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26289630022) =====
+[13:45:00] batch-start shard=0/2 count=20 backlog=17650 uploads=5642 failed_attempts=736
+[13:45:00] login
+[13:45:02] login done
+[13:45:02] iteration 1/20
+[13:45:02] film cr_film_id=21810 name='Dákové (1967) CZ Dabing' candidates=3
+[13:45:02]   candidate upload_id=589207970c3ab url=https://prehraj.to/dakove-1967-cz-dab-vloz/589207970c3ab
+[13:45:03]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/1590886/NE9u7ySDNhQqfkJhrVig0SA9IWKtb9iDGS28H…)
+[13:45:44]   downloaded 846.2 MB in 38.2s (22.2 MB/s)
+[13:46:27]   upload done video_id=25105699 in 43.1s
