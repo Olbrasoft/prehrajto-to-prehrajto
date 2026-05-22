@@ -106230,6 +106230,25 @@
         "download_sec": 47.1,
         "upload_sec": 51.2
       }
+    },
+    {
+      "cr_film_id": 21622,
+      "cr_slug": "knoflikova-valka-1962",
+      "title": "Knoflíková válka",
+      "year": 1962,
+      "display_name": "Knoflíková válka (1962) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5891c8049ca97",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25104176,
+      "size_bytes": 846469288,
+      "uploaded_at": "2026-05-22T12:10:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.1,
+        "upload_sec": 40.4
+      }
     }
   ],
   "failed_attempts": [
@@ -111462,5 +111481,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T12:08:48Z"
+  "last_updated": "2026-05-22T12:10:00Z"
 }
