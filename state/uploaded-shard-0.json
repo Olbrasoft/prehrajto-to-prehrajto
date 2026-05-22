@@ -107313,6 +107313,25 @@
         "download_sec": 51.4,
         "upload_sec": 59.3
       }
+    },
+    {
+      "cr_film_id": 21832,
+      "cr_slug": "zakazany-majetek",
+      "title": "Zakázaný majetek",
+      "year": 1966,
+      "display_name": "Zakázaný majetek (1966) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5855351795af3",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25105818,
+      "size_bytes": 596883697,
+      "uploaded_at": "2026-05-22T13:57:14Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 28.9,
+        "upload_sec": 34.3
+      }
     }
   ],
   "failed_attempts": [
@@ -112552,5 +112571,5 @@
       "failed_at": "2026-05-22T13:54:09Z"
     }
   ],
-  "last_updated": "2026-05-22T13:56:06Z"
+  "last_updated": "2026-05-22T13:57:14Z"
 }
