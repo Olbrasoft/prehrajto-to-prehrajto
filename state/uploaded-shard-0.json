@@ -109213,6 +109213,25 @@
         "download_sec": 35.1,
         "upload_sec": 53.2
       }
+    },
+    {
+      "cr_film_id": 22186,
+      "cr_slug": "rozhovor",
+      "title": "Rozhovor",
+      "year": 1974,
+      "display_name": "Rozhovor (1974) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e51e8ab905f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25109153,
+      "size_bytes": 660531750,
+      "uploaded_at": "2026-05-22T16:54:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.6,
+        "upload_sec": 31.0
+      }
     }
   ],
   "failed_attempts": [
@@ -114452,5 +114471,5 @@
       "failed_at": "2026-05-22T13:54:09Z"
     }
   ],
-  "last_updated": "2026-05-22T16:53:09Z"
+  "last_updated": "2026-05-22T16:54:07Z"
 }
