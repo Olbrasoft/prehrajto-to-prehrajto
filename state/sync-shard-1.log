@@ -40823,3 +40823,14 @@
 [22:01:07]   upload done video_id=25113094 in 41.6s
 [22:01:09] film cr_film_id=22991 OK in 76.4s
 [22:01:09] batch-end ok=20 failed=0 dur=2180.0s avg/film=109.0s remaining=11804 eta_hours=357.4
+
+===== run 2026-05-22T22:02:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26314134987) =====
+[22:02:40] batch-start shard=1/2 count=20 backlog=17650 uploads=5846 failed_attempts=249
+[22:02:40] login
+[22:02:43] login done
+[22:02:43] iteration 1/20
+[22:02:43] film cr_film_id=22997 name='Démon pomsty (1988) CZ Dabing' candidates=2
+[22:02:43]   candidate upload_id=67fc4d456c5c7 url=https://prehraj.to/demon-pomsty-lance-henriksen-jeff-east-john-d-aquino-1988-horor-bdrip-1080p-cz-dabing/67fc4d456c5c7
+[22:02:45]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/134998796/eROsPeuWdH2Lc0OUwRc3MueYIGOu6pIGOFg…)
+[22:04:10]   downloaded 1,831.6 MB in 82.9s (22.1 MB/s)
+[22:06:01]   upload done video_id=25113136 in 111.3s
