@@ -102204,6 +102204,25 @@
         "download_sec": 87.5,
         "upload_sec": 103.7
       }
+    },
+    {
+      "cr_film_id": 21173,
+      "cr_slug": "metropolis-1927",
+      "title": "Metropolis",
+      "year": 1927,
+      "display_name": "Metropolis (1927) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66a767345c21b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25096626,
+      "size_bytes": 594921417,
+      "uploaded_at": "2026-05-22T06:02:35Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 22.1,
+        "upload_sec": 23.0
+      }
     }
   ],
   "failed_attempts": [
@@ -103958,5 +103977,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T06:01:45Z"
+  "last_updated": "2026-05-22T06:02:35Z"
 }
