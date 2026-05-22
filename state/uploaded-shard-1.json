@@ -108132,6 +108132,25 @@
         "download_sec": 14.3,
         "upload_sec": 19.8
       }
+    },
+    {
+      "cr_film_id": 22417,
+      "cr_slug": "bidnici-1978",
+      "title": "Bídníci",
+      "year": 1978,
+      "display_name": "Bídníci (1978) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68bf4a99241b1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25107949,
+      "size_bytes": 3779788880,
+      "uploaded_at": "2026-05-22T15:43:06Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 116.5,
+        "upload_sec": 140.5
+      }
     }
   ],
   "failed_attempts": [
@@ -109928,5 +109947,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T15:38:45Z"
+  "last_updated": "2026-05-22T15:43:06Z"
 }
