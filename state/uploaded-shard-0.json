@@ -102259,6 +102259,25 @@
         "download_sec": 37.1,
         "upload_sec": 45.4
       }
+    },
+    {
+      "cr_film_id": 20202,
+      "cr_slug": "kodan",
+      "title": "Kodaň",
+      "year": 2014,
+      "display_name": "Kodaň (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "597e42eb8b436",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25095823,
+      "size_bytes": 545868566,
+      "uploaded_at": "2026-05-22T05:26:12Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 26.0,
+        "upload_sec": 29.9
+      }
     }
   ],
   "failed_attempts": [
@@ -107440,5 +107459,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T05:25:09Z"
+  "last_updated": "2026-05-22T05:26:12Z"
 }
