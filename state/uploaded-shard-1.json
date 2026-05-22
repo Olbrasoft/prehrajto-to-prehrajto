@@ -109690,6 +109690,25 @@
         "download_sec": 65.5,
         "upload_sec": 70.9
       }
+    },
+    {
+      "cr_film_id": 22741,
+      "cr_slug": "johnny-dangerously",
+      "title": "Johnny Dangerously",
+      "year": 1984,
+      "display_name": "Johnny Dangerously (1984) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60d44e5874671",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25110358,
+      "size_bytes": 3591248736,
+      "uploaded_at": "2026-05-22T18:40:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 112.7,
+        "upload_sec": 126.5
+      }
     }
   ],
   "failed_attempts": [
@@ -111493,5 +111512,5 @@
       "failed_at": "2026-05-22T16:10:39Z"
     }
   ],
-  "last_updated": "2026-05-22T18:36:41Z"
+  "last_updated": "2026-05-22T18:40:44Z"
 }
