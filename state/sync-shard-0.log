@@ -38342,3 +38342,14 @@
 [10:21:55]   upload done video_id=25102337 in 59.6s
 [10:21:58] film cr_film_id=21408 OK in 105.2s
 [10:21:58] batch-end ok=20 failed=0 dur=1510.0s avg/film=75.5s remaining=12108 eta_hours=253.9
+
+===== run 2026-05-22T10:30:16Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26282600935) =====
+[10:30:18] batch-start shard=0/2 count=20 backlog=17650 uploads=5542 failed_attempts=736
+[10:30:18] login
+[10:30:19] login done
+[10:30:19] iteration 1/20
+[10:30:19] film cr_film_id=21420 name='Na východ od ráje (1955) CZ Dabing' candidates=1
+[10:30:19]   candidate upload_id=67336ebd0b258 url=https://prehraj.to/na-vychod-od-raje-1955-cz-dab/67336ebd0b258
+[10:30:20]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/105625610/1R5IL6uYxtL9t8pfNJI8luVeUyNh5qsz0UR…)
+[10:31:17]   downloaded 1,988.1 MB in 55.2s (36.0 MB/s)
+[10:32:25]   upload done video_id=25102515 in 68.5s
