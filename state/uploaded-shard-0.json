@@ -100074,6 +100074,25 @@
         "download_sec": 122.2,
         "upload_sec": 137.1
       }
+    },
+    {
+      "cr_film_id": 19498,
+      "cr_slug": "trade",
+      "title": "Trade",
+      "year": 2007,
+      "display_name": "Trade (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5821242fd6620",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25090850,
+      "size_bytes": 704445162,
+      "uploaded_at": "2026-05-22T01:33:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.3,
+        "upload_sec": 47.6
+      }
     }
   ],
   "failed_attempts": [
@@ -105255,5 +105274,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T01:31:55Z"
+  "last_updated": "2026-05-22T01:33:09Z"
 }
