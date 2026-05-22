@@ -111626,6 +111626,25 @@
         "download_sec": 43.3,
         "upload_sec": 50.2
       }
+    },
+    {
+      "cr_film_id": 22728,
+      "cr_slug": "breakin",
+      "title": "Breakin'",
+      "year": 1984,
+      "display_name": "Breakin' (1984) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61252352c915a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25113425,
+      "size_bytes": 1475861500,
+      "uploaded_at": "2026-05-22T22:27:36Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 62.3,
+        "upload_sec": 65.1
+      }
     }
   ],
   "failed_attempts": [
@@ -116877,5 +116896,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T22:25:23Z"
+  "last_updated": "2026-05-22T22:27:36Z"
 }
