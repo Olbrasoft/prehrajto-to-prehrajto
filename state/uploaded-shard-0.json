@@ -109840,6 +109840,25 @@
         "download_sec": 383.4,
         "upload_sec": 114.8
       }
+    },
+    {
+      "cr_film_id": 22326,
+      "cr_slug": "vzestup-1977",
+      "title": "Vzestup",
+      "year": 1977,
+      "display_name": "Vzestup (1977) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "602726314f72b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25110206,
+      "size_bytes": 690390731,
+      "uploaded_at": "2026-05-22T18:26:22Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 111.8,
+        "upload_sec": 49.7
+      }
     }
   ],
   "failed_attempts": [
@@ -115079,5 +115098,5 @@
       "failed_at": "2026-05-22T13:54:09Z"
     }
   ],
-  "last_updated": "2026-05-22T18:23:35Z"
+  "last_updated": "2026-05-22T18:26:22Z"
 }
