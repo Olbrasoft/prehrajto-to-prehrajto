@@ -101005,6 +101005,25 @@
         "download_sec": 72.1,
         "upload_sec": 90.5
       }
+    },
+    {
+      "cr_film_id": 19770,
+      "cr_slug": "zmensovani",
+      "title": "Zmenšování",
+      "year": 2017,
+      "display_name": "Zmenšování (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e5acafb74d45",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25092963,
+      "size_bytes": 470603321,
+      "uploaded_at": "2026-05-22T03:14:49Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 21.6,
+        "upload_sec": 26.3
+      }
     }
   ],
   "failed_attempts": [
@@ -106186,5 +106205,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T03:13:55Z"
+  "last_updated": "2026-05-22T03:14:49Z"
 }
