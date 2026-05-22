@@ -104387,6 +104387,25 @@
         "download_sec": 37.2,
         "upload_sec": 43.8
       }
+    },
+    {
+      "cr_film_id": 21220,
+      "cr_slug": "prepadeni",
+      "title": "Přepadení",
+      "year": 1939,
+      "display_name": "Přepadení (1939) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60b8c05c17eb8",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25099736,
+      "size_bytes": 767205632,
+      "uploaded_at": "2026-05-22T08:43:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.4,
+        "upload_sec": 35.6
+      }
     }
   ],
   "failed_attempts": [
@@ -109573,7 +109592,40 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/wind-river-2017-cz-dab-1080p/b69f7555d483e2cd",
       "permanent": true,
       "failed_at": "2026-05-22T07:06:05Z"
+    },
+    {
+      "cr_film_id": 21208,
+      "upload_id": "55bd6b2c21ad3",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds",
+      "permanent": false,
+      "failed_at": "2026-05-22T08:39:39Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 61.5
+      }
+    },
+    {
+      "cr_film_id": 21208,
+      "upload_id": "588e97620efe3",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds",
+      "permanent": false,
+      "failed_at": "2026-05-22T08:41:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 61.5
+      }
+    },
+    {
+      "cr_film_id": 21220,
+      "upload_id": "55bd81a0744d8",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds",
+      "permanent": false,
+      "failed_at": "2026-05-22T08:42:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 61.5
+      }
     }
   ],
-  "last_updated": "2026-05-22T08:38:04Z"
+  "last_updated": "2026-05-22T08:43:52Z"
 }
