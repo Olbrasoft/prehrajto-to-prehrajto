@@ -99523,6 +99523,25 @@
         "download_sec": 32.0,
         "upload_sec": 50.5
       }
+    },
+    {
+      "cr_film_id": 19402,
+      "cr_slug": "rodicovstvi",
+      "title": "Rodičovství",
+      "year": 1989,
+      "display_name": "Rodičovství (1989) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6647805b241a5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25089598,
+      "size_bytes": 2177511215,
+      "uploaded_at": "2026-05-22T00:45:13Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 68.6,
+        "upload_sec": 81.4
+      }
     }
   ],
   "failed_attempts": [
@@ -104704,5 +104723,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T00:42:39Z"
+  "last_updated": "2026-05-22T00:45:13Z"
 }
