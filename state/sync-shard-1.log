@@ -36874,3 +36874,14 @@
 [03:32:17]   upload done video_id=25093285 in 159.1s
 [03:32:20] film cr_film_id=20659 OK in 307.0s
 [03:32:20] batch-end ok=20 failed=0 dur=2635.4s avg/film=131.8s remaining=12341 eta_hours=451.8
+
+===== run 2026-05-22T03:33:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26266892742) =====
+[03:33:52] batch-start shard=1/2 count=20 backlog=17650 uploads=5309 failed_attempts=243
+[03:33:52] login
+[03:33:54] login done
+[03:33:54] iteration 1/20
+[03:33:54] film cr_film_id=20669 name='Svátek matek (2016) CZ Dabing' candidates=4
+[03:33:54]   candidate upload_id=592c6fd18cbec url=https://prehraj.to/den-matek-2016-cz-dabing/592c6fd18cbec
+[03:33:55]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/2277198/8ancDpSdKIN0syqtA8s02SxAsqvt3wtr7HRoC…)
+[03:34:31]   downloaded 1,207.0 MB in 34.7s (34.8 MB/s)
+[03:35:16]   upload done video_id=25093362 in 44.4s
