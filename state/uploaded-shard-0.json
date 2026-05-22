@@ -111607,6 +111607,25 @@
         "download_sec": 50.6,
         "upload_sec": 67.6
       }
+    },
+    {
+      "cr_film_id": 22722,
+      "cr_slug": "vrazedne-leto",
+      "title": "Vražedné léto",
+      "year": 1983,
+      "display_name": "Vražedné léto (1983) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5e52d74392b1c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25113390,
+      "size_bytes": 1199407808,
+      "uploaded_at": "2026-05-22T22:25:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 43.3,
+        "upload_sec": 50.2
+      }
     }
   ],
   "failed_attempts": [
@@ -116858,5 +116877,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T22:23:45Z"
+  "last_updated": "2026-05-22T22:25:23Z"
 }
