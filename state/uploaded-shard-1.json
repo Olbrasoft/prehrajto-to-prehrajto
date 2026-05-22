@@ -103420,6 +103420,25 @@
         "download_sec": 61.6,
         "upload_sec": 76.6
       }
+    },
+    {
+      "cr_film_id": 21455,
+      "cr_slug": "zakazana-planeta",
+      "title": "Zakázaná planeta",
+      "year": 1956,
+      "display_name": "Zakázaná planeta (1956) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aac7b6fe0879",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25098687,
+      "size_bytes": 847452458,
+      "uploaded_at": "2026-05-22T07:45:58Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 40.4,
+        "upload_sec": 43.7
+      }
     }
   ],
   "failed_attempts": [
@@ -105174,5 +105193,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T07:44:29Z"
+  "last_updated": "2026-05-22T07:45:58Z"
 }
