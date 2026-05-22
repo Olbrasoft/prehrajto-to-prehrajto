@@ -39951,3 +39951,14 @@
 [17:06:37]   upload done video_id=25109324 in 21.6s
 [17:06:38] film cr_film_id=22246 OK in 49.6s
 [17:06:38] batch-end ok=20 failed=0 dur=1160.5s avg/film=58.0s remaining=11888 eta_hours=191.5
+
+===== run 2026-05-22T17:28:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26302359874) =====
+[17:28:21] batch-start shard=0/2 count=20 backlog=17650 uploads=5762 failed_attempts=737
+[17:28:21] login
+[17:28:22] login done
+[17:28:22] iteration 1/20
+[17:28:22] film cr_film_id=22250 name='Zlé časy (1975) CZ' candidates=2
+[17:28:22]   candidate upload_id=5a9942b8e143c url=https://prehraj.to/zle-casy-1975/5a9942b8e143c
+[17:28:23]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3510664/gqvU95snmIQGtmpil1fBes2ZIGDUXGcPXcLwh…)
+[17:29:57]   downloaded 531.1 MB in 91.9s (5.8 MB/s)
+[17:30:37]   upload done video_id=25109582 in 40.1s
