@@ -110298,6 +110298,25 @@
         "download_sec": 410.4,
         "upload_sec": 112.0
       }
+    },
+    {
+      "cr_film_id": 22837,
+      "cr_slug": "bile-noci",
+      "title": "Bílé noci",
+      "year": 1985,
+      "display_name": "Bílé noci (1985) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5828991d08366",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25111860,
+      "size_bytes": 775609040,
+      "uploaded_at": "2026-05-22T20:27:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 241.6,
+        "upload_sec": 30.7
+      }
     }
   ],
   "failed_attempts": [
@@ -112101,5 +112120,5 @@
       "failed_at": "2026-05-22T16:10:39Z"
     }
   ],
-  "last_updated": "2026-05-22T20:22:52Z"
+  "last_updated": "2026-05-22T20:27:29Z"
 }
