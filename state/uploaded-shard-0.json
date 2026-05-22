@@ -101309,6 +101309,25 @@
         "download_sec": 43.9,
         "upload_sec": 56.7
       }
+    },
+    {
+      "cr_film_id": 19880,
+      "cr_slug": "jednou-ranou",
+      "title": "Jednou ranou",
+      "year": 2013,
+      "display_name": "Jednou ranou (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59a9ee86f31ef",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25093606,
+      "size_bytes": 400811261,
+      "uploaded_at": "2026-05-22T03:45:05Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 17.2,
+        "upload_sec": 20.9
+      }
     }
   ],
   "failed_attempts": [
@@ -106490,5 +106509,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T03:44:22Z"
+  "last_updated": "2026-05-22T03:45:05Z"
 }
