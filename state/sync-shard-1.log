@@ -39654,3 +39654,14 @@
 [15:25:54]   upload done video_id=25107512 in 126.1s
 [15:25:57] film cr_film_id=22403 OK in 227.5s
 [15:25:57] batch-end ok=20 failed=0 dur=1597.3s avg/film=79.9s remaining=11963 eta_hours=265.5
+
+===== run 2026-05-22T15:26:40Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26296597967) =====
+[15:26:41] batch-start shard=1/2 count=20 backlog=17650 uploads=5687 failed_attempts=247
+[15:26:41] login
+[15:26:42] login done
+[15:26:42] iteration 1/20
+[15:26:42] film cr_film_id=22405 name='Nečistá hra (1978) CZ Dabing' candidates=3
+[15:26:42]   candidate upload_id=57d43c8358099 url=https://prehraj.to/necista-hra-1978-czdab/57d43c8358099
+[15:26:43]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/639349/ql7iplIy3hdJUBJHgAtOjIEdf46HwYsyahj3Hd…)
+[15:27:07]   downloaded 625.9 MB in 21.7s (28.8 MB/s)
+[15:27:32]   upload done video_id=25107574 in 25.0s
