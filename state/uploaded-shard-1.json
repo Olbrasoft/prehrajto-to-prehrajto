@@ -108113,6 +108113,25 @@
         "download_sec": 347.3,
         "upload_sec": 231.8
       }
+    },
+    {
+      "cr_film_id": 22415,
+      "cr_slug": "kouzlo",
+      "title": "Kouzlo",
+      "year": 1978,
+      "display_name": "Kouzlo (1978) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59a5c82e33852",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25107887,
+      "size_bytes": 391393149,
+      "uploaded_at": "2026-05-22T15:38:45Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.3,
+        "upload_sec": 19.8
+      }
     }
   ],
   "failed_attempts": [
@@ -109909,5 +109928,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T15:38:06Z"
+  "last_updated": "2026-05-22T15:38:45Z"
 }
