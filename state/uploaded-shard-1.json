@@ -100133,6 +100133,25 @@
         "download_sec": 93.2,
         "upload_sec": 123.3
       }
+    },
+    {
+      "cr_film_id": 20265,
+      "cr_slug": "zimni-spanek",
+      "title": "Zimní spánek",
+      "year": 2014,
+      "display_name": "Zimní spánek (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c2af58c0630c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25091587,
+      "size_bytes": 1159967753,
+      "uploaded_at": "2026-05-22T02:04:08Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 52.0,
+        "upload_sec": 67.0
+      }
     }
   ],
   "failed_attempts": [
@@ -101887,5 +101906,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T02:02:03Z"
+  "last_updated": "2026-05-22T02:04:08Z"
 }
