@@ -99409,6 +99409,25 @@
         "download_sec": 24.1,
         "upload_sec": 26.5
       }
+    },
+    {
+      "cr_film_id": 19384,
+      "cr_slug": "vlasy",
+      "title": "Vlasy",
+      "year": 1979,
+      "display_name": "Vlasy (1979) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "7607d20522f620de",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25089383,
+      "size_bytes": 2674017805,
+      "uploaded_at": "2026-05-22T00:35:48Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 75.6,
+        "upload_sec": 123.9
+      }
     }
   ],
   "failed_attempts": [
@@ -104590,5 +104609,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T00:32:25Z"
+  "last_updated": "2026-05-22T00:35:48Z"
 }
