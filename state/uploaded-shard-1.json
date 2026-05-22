@@ -104807,6 +104807,25 @@
         "download_sec": 24.8,
         "upload_sec": 26.3
       }
+    },
+    {
+      "cr_film_id": 21731,
+      "cr_slug": "rio-conchos",
+      "title": "Rio Conchos",
+      "year": 1964,
+      "display_name": "Rio Conchos (1964) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63036892b3053",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25102120,
+      "size_bytes": 748969042,
+      "uploaded_at": "2026-05-22T10:12:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.2,
+        "upload_sec": 40.0
+      }
     }
   ],
   "failed_attempts": [
@@ -106584,5 +106603,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T10:11:19Z"
+  "last_updated": "2026-05-22T10:12:28Z"
 }
