@@ -40969,3 +40969,14 @@
 [22:37:50]   upload done video_id=25113600 in 25.2s
 [22:37:51] film cr_film_id=23071 OK in 52.3s
 [22:37:51] batch-end ok=20 failed=0 dur=2107.8s avg/film=105.4s remaining=11784 eta_hours=345.0
+
+===== run 2026-05-22T22:42:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26315464344) =====
+[22:42:07] batch-start shard=1/2 count=20 backlog=17650 uploads=5866 failed_attempts=249
+[22:42:07] login
+[22:42:09] login done
+[22:42:09] iteration 1/20
+[22:42:09] film cr_film_id=23075 name='Nevidím zlo, neslyším zlo (1989) CZ' candidates=2
+[22:42:09]   candidate upload_id=5ab59da8e742b url=https://prehraj.to/nevidim-zlo-neslysim-zlo-1989/5ab59da8e742b
+[22:42:10]   resolved in 1.6s → 480p (https://pf-storage5.premiumcdn.net/3711367/QjqtrkfMPHKLsExFDgI1OfD9tl3sOkCZMCGDI…)
+[22:42:56]   downloaded 1,022.5 MB in 43.7s (23.4 MB/s)
+[22:43:59]   upload done video_id=25113688 in 62.3s
