@@ -110600,6 +110600,25 @@
         "download_sec": 207.7,
         "upload_sec": 26.3
       }
+    },
+    {
+      "cr_film_id": 22472,
+      "cr_slug": "jezis",
+      "title": "Ježíš",
+      "year": 1979,
+      "display_name": "Ježíš (1979) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "654455fd871c1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25111972,
+      "size_bytes": 4036280675,
+      "uploaded_at": "2026-05-22T20:38:02Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 128.2,
+        "upload_sec": 165.4
+      }
     }
   ],
   "failed_attempts": [
@@ -115839,5 +115858,5 @@
       "failed_at": "2026-05-22T13:54:09Z"
     }
   ],
-  "last_updated": "2026-05-22T20:33:04Z"
+  "last_updated": "2026-05-22T20:38:02Z"
 }
