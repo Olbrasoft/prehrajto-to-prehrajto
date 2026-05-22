@@ -102582,6 +102582,25 @@
         "download_sec": 16.6,
         "upload_sec": 28.8
       }
+    },
+    {
+      "cr_film_id": 20372,
+      "cr_slug": "nocni-mura",
+      "title": "Noční můra",
+      "year": 2015,
+      "display_name": "Noční můra (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aadef34d6939",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25096616,
+      "size_bytes": 569330127,
+      "uploaded_at": "2026-05-22T06:02:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.7,
+        "upload_sec": 22.7
+      }
     }
   ],
   "failed_attempts": [
@@ -107763,5 +107782,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T06:01:15Z"
+  "last_updated": "2026-05-22T06:02:01Z"
 }
