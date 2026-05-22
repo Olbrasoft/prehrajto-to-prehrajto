@@ -106175,6 +106175,25 @@
         "download_sec": 35.6,
         "upload_sec": 40.6
       }
+    },
+    {
+      "cr_film_id": 22001,
+      "cr_slug": "el-condor",
+      "title": "El Condor",
+      "year": 1970,
+      "display_name": "El Condor (1970) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66d56d6cca28b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25104450,
+      "size_bytes": 955230309,
+      "uploaded_at": "2026-05-22T12:31:22Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 31.3,
+        "upload_sec": 36.0
+      }
     }
   ],
   "failed_attempts": [
@@ -107952,5 +107971,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T12:30:11Z"
+  "last_updated": "2026-05-22T12:31:22Z"
 }
