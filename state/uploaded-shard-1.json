@@ -99563,6 +99563,25 @@
         "download_sec": 22.8,
         "upload_sec": 31.2
       }
+    },
+    {
+      "cr_film_id": 20031,
+      "cr_slug": "filosofove",
+      "title": "Filosofové",
+      "year": 2013,
+      "display_name": "Filosofové (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56116b8aaaaeb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25090270,
+      "size_bytes": 479579718,
+      "uploaded_at": "2026-05-22T01:11:50Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 24.4,
+        "upload_sec": 28.7
+      }
     }
   ],
   "failed_attempts": [
@@ -101317,5 +101336,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T01:10:52Z"
+  "last_updated": "2026-05-22T01:11:50Z"
 }
