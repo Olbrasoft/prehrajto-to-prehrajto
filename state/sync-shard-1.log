@@ -38081,3 +38081,16 @@
 [08:38:58]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/28166625/217faRUV1FL1c0Dc96fwZU7Vsq4Sbwta6f74…)
 [08:42:36]   downloaded 5,069.1 MB in 216.9s (23.4 MB/s)
 [08:47:24]   upload done video_id=25099723 in 287.8s
+[08:47:27] film cr_film_id=21577 OK in 510.3s
+[08:47:27] iteration 6/20
+[08:47:27] film cr_film_id=21579 name='Filutové (1959) CZ' candidates=1
+[08:47:27]   candidate upload_id=586998c58c329 url=https://prehraj.to/filutove-komedie-1959-l-de-funes-cz-irisa/586998c58c329
+[08:47:28]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1269111/1OjHDOFr4iGlCqGsV5CMbFpyhbat9wiQpHYDC…)
+[08:49:00]   download FAILED after 61.5s: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds
+[08:49:00] film cr_film_id=21579 all candidates exhausted
+[08:49:00] iteration 7/20
+[08:49:00] film cr_film_id=21583 name='Nádherná země (1959) CZ' candidates=1
+[08:49:00]   candidate upload_id=5ad7a047f0049 url=https://prehraj.to/nadherna-zeme-1959/5ad7a047f0049
+[08:49:02]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/3898132/e8auDdIJECa5hLAfbmh27IkyU93ubEfnwtdNC…)
+[08:49:28]   downloaded 513.0 MB in 24.7s (20.8 MB/s)
+[08:50:24]   upload done video_id=25099940 in 55.9s
