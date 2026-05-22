@@ -36734,3 +36734,14 @@
 [03:29:31]   upload done video_id=25093266 in 55.8s
 [03:29:33] film cr_film_id=19822 OK in 107.2s
 [03:29:33] batch-end ok=20 failed=0 dur=2467.9s avg/film=123.4s remaining=12325 eta_hours=422.5
+
+===== run 2026-05-22T03:33:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26266892742) =====
+[03:33:53] batch-start shard=0/2 count=20 backlog=17650 uploads=5325 failed_attempts=731
+[03:33:53] login
+[03:33:54] login done
+[03:33:54] iteration 1/20
+[03:33:54] film cr_film_id=19830 name='Space Battleship Yamato (2010) CZ' candidates=1
+[03:33:54]   candidate upload_id=560635ff60915 url=https://prehraj.to/vesmirna-bitevni-lod-yamato-2011/560635ff60915
+[03:33:55]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/370666/nqvHw4c9Xu5RFJbsk9sKncvXIANuJZClgiG3Hv…)
+[03:34:25]   downloaded 613.3 MB in 27.7s (22.1 MB/s)
+[03:34:56]   upload done video_id=25093361 in 31.0s
