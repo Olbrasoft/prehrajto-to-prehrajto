@@ -99390,6 +99390,25 @@
         "download_sec": 15.6,
         "upload_sec": 26.6
       }
+    },
+    {
+      "cr_film_id": 19382,
+      "cr_slug": "bez-slitovani",
+      "title": "Bez slitování",
+      "year": 1977,
+      "display_name": "Bez slitování (1977) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab6a9cf58ac7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25089341,
+      "size_bytes": 702159487,
+      "uploaded_at": "2026-05-22T00:32:25Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.1,
+        "upload_sec": 26.5
+      }
     }
   ],
   "failed_attempts": [
@@ -104571,5 +104590,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T00:31:31Z"
+  "last_updated": "2026-05-22T00:32:25Z"
 }
