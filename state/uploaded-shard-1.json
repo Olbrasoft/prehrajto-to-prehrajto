@@ -101387,6 +101387,25 @@
         "download_sec": 30.7,
         "upload_sec": 36.0
       }
+    },
+    {
+      "cr_film_id": 20971,
+      "cr_slug": "u-zlate-rukavice",
+      "title": "U Zlaté rukavice",
+      "year": 2019,
+      "display_name": "U Zlaté rukavice (2019) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "667e651fe5263",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25094431,
+      "size_bytes": 1185190935,
+      "uploaded_at": "2026-05-22T04:25:07Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 50.1,
+        "upload_sec": 65.7
+      }
     }
   ],
   "failed_attempts": [
@@ -103141,5 +103160,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T04:23:06Z"
+  "last_updated": "2026-05-22T04:25:07Z"
 }
