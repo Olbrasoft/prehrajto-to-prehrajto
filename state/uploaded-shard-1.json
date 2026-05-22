@@ -103591,6 +103591,25 @@
         "download_sec": 23.4,
         "upload_sec": 31.6
       }
+    },
+    {
+      "cr_film_id": 21493,
+      "cr_slug": "bidnici-1958",
+      "title": "Bídníci",
+      "year": 1958,
+      "display_name": "Bídníci (1958) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57e2768b89d75",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25098952,
+      "size_bytes": 1182061489,
+      "uploaded_at": "2026-05-22T07:59:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 44.7,
+        "upload_sec": 51.5
+      }
     }
   ],
   "failed_attempts": [
@@ -105345,5 +105364,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T07:57:26Z"
+  "last_updated": "2026-05-22T07:59:07Z"
 }
