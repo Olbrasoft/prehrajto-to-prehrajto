@@ -103589,6 +103589,25 @@
         "download_sec": 34.1,
         "upload_sec": 36.8
       }
+    },
+    {
+      "cr_film_id": 20878,
+      "cr_slug": "broucek",
+      "title": "Brouček",
+      "year": 2017,
+      "display_name": "Brouček (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c4dee1234801",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25098262,
+      "size_bytes": 523209457,
+      "uploaded_at": "2026-05-22T07:21:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.8,
+        "upload_sec": 31.6
+      }
     }
   ],
   "failed_attempts": [
@@ -108777,5 +108796,5 @@
       "failed_at": "2026-05-22T07:06:05Z"
     }
   ],
-  "last_updated": "2026-05-22T07:20:12Z"
+  "last_updated": "2026-05-22T07:21:09Z"
 }
