@@ -40528,3 +40528,14 @@
 [20:27:29]   upload done video_id=25111860 in 30.7s
 [20:27:32] film cr_film_id=22837 OK in 277.2s
 [20:27:32] batch-end ok=20 failed=0 dur=4120.5s avg/film=206.0s remaining=11844 eta_hours=677.7
+
+===== run 2026-05-22T20:27:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26308695539) =====
+[20:27:43] batch-start shard=1/2 count=20 backlog=17650 uploads=5806 failed_attempts=248
+[20:27:43] login
+[20:27:44] login done
+[20:27:44] iteration 1/20
+[20:27:44] film cr_film_id=22841 name='Zastihla mě noc (1986) CZ Dabing' candidates=3
+[20:27:44]   candidate upload_id=6299e6eddae9d url=https://prehraj.to/zastihla-me-noc-1985-cz-dabing-cz-forced/6299e6eddae9d
+[20:27:45]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/31066553/bWnfDrUQ6taxs0YCGZI7rU09sw6sZJfvOt65…)
+[20:30:03]   downloaded 764.7 MB in 135.7s (5.6 MB/s)
+[20:30:31]   upload done video_id=25111897 in 28.3s
