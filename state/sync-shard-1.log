@@ -39216,3 +39216,14 @@
 [13:30:57]   upload done video_id=25105469 in 94.8s
 [13:30:59] film cr_film_id=22181 OK in 163.5s
 [13:30:59] batch-end ok=20 failed=0 dur=1829.6s avg/film=91.5s remaining=12023 eta_hours=305.6
+
+===== run 2026-05-22T13:31:10Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26289630022) =====
+[13:31:12] batch-start shard=1/2 count=20 backlog=17650 uploads=5627 failed_attempts=247
+[13:31:12] login
+[13:31:13] login done
+[13:31:13] iteration 1/20
+[13:31:13] film cr_film_id=22187 name='Přání smrti (1974) CZ Dabing' candidates=3
+[13:31:13]   candidate upload_id=5a6482a226492 url=https://prehraj.to/prani-smrti-1-1974-cz-dab/5a6482a226492
+[13:31:14]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3313597/WbJfRLF3MtvVhwXi9XiDqF8aHz9hLyIawi3mI…)
+[13:31:31]   downloaded 473.7 MB in 15.8s (30.0 MB/s)
+[13:31:57]   upload done video_id=25105502 in 25.5s
