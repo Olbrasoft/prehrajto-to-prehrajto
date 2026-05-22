@@ -107847,6 +107847,25 @@
         "download_sec": 21.5,
         "upload_sec": 30.9
       }
+    },
+    {
+      "cr_film_id": 22375,
+      "cr_slug": "sandokan-se-vraci",
+      "title": "Sandokan se vrací",
+      "year": 1977,
+      "display_name": "Sandokan se vrací (1977) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "c4b0aba873c7b83c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25107283,
+      "size_bytes": 3495681419,
+      "uploaded_at": "2026-05-22T15:13:41Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 96.3,
+        "upload_sec": 139.7
+      }
     }
   ],
   "failed_attempts": [
@@ -109643,5 +109662,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T15:09:41Z"
+  "last_updated": "2026-05-22T15:13:41Z"
 }
