@@ -100570,6 +100570,25 @@
         "download_sec": 34.0,
         "upload_sec": 38.5
       }
+    },
+    {
+      "cr_film_id": 20483,
+      "cr_slug": "cervena-zelva",
+      "title": "Červená želva",
+      "year": 2016,
+      "display_name": "Červená želva (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "588e3ad42ae7f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25092589,
+      "size_bytes": 425946652,
+      "uploaded_at": "2026-05-22T02:55:23Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 25.1,
+        "upload_sec": 29.8
+      }
     }
   ],
   "failed_attempts": [
@@ -102324,5 +102343,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T02:54:22Z"
+  "last_updated": "2026-05-22T02:55:23Z"
 }
