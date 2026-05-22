@@ -103893,6 +103893,25 @@
         "download_sec": 21.7,
         "upload_sec": 23.4
       }
+    },
+    {
+      "cr_film_id": 21120,
+      "cr_slug": "blue-moon",
+      "title": "Blue Moon",
+      "year": 2025,
+      "display_name": "Blue Moon (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b609d047196d33d6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25098753,
+      "size_bytes": 1501365010,
+      "uploaded_at": "2026-05-22T07:50:09Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 54.9,
+        "upload_sec": 63.7
+      }
     }
   ],
   "failed_attempts": [
@@ -109081,5 +109100,5 @@
       "failed_at": "2026-05-22T07:06:05Z"
     }
   ],
-  "last_updated": "2026-05-22T07:48:06Z"
+  "last_updated": "2026-05-22T07:50:09Z"
 }
