@@ -105757,6 +105757,25 @@
         "download_sec": 42.0,
         "upload_sec": 47.8
       }
+    },
+    {
+      "cr_film_id": 21919,
+      "cr_slug": "dravec",
+      "title": "Dravec",
+      "year": 1968,
+      "display_name": "Dravec (1968) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61f18f5f8c926",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25103735,
+      "size_bytes": 610916945,
+      "uploaded_at": "2026-05-22T11:43:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.7,
+        "upload_sec": 23.6
+      }
     }
   ],
   "failed_attempts": [
@@ -107534,5 +107553,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T11:42:46Z"
+  "last_updated": "2026-05-22T11:43:34Z"
 }
