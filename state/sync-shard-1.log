@@ -37312,3 +37312,14 @@
 [05:42:40]   upload done video_id=25096211 in 77.6s
 [05:42:42] film cr_film_id=21139 OK in 147.8s
 [05:42:42] batch-end ok=20 failed=0 dur=2891.7s avg/film=144.6s remaining=12281 eta_hours=493.3
+
+===== run 2026-05-22T05:44:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26270720412) =====
+[05:44:34] batch-start shard=1/2 count=20 backlog=17650 uploads=5369 failed_attempts=243
+[05:44:34] login
+[05:44:35] login done
+[05:44:35] iteration 1/20
+[05:44:35] film cr_film_id=21143 name='Na dno vášně (1997) CZ' candidates=1
+[05:44:35]   candidate upload_id=5ac3ce44eb9c9 url=https://prehraj.to/na-dno-vasne-1997/5ac3ce44eb9c9
+[05:44:36]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3820998/7A9iOYsMJCqKfkvh4bsWxszYCq4I3qTWNFJPf…)
+[05:45:07]   downloaded 852.2 MB in 28.9s (29.5 MB/s)
+[05:45:39]   upload done video_id=25096289 in 31.9s
