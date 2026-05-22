@@ -103399,6 +103399,25 @@
         "download_sec": 13.8,
         "upload_sec": 17.0
       }
+    },
+    {
+      "cr_film_id": 20764,
+      "cr_slug": "doba-ledova-velikonocni-prekvapeni",
+      "title": "Doba ledová: Velikonoční překvapení",
+      "year": 2016,
+      "display_name": "Doba ledová: Velikonoční překvapení (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57bf0a5143e02",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25098021,
+      "size_bytes": 1737417283,
+      "uploaded_at": "2026-05-22T07:08:15Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 54.6,
+        "upload_sec": 68.3
+      }
     }
   ],
   "failed_attempts": [
@@ -108578,7 +108597,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/red-flags-2025-cz-dabing-hd/433b7c7f88f3f9e7",
       "permanent": true,
       "failed_at": "2026-05-21T22:21:35Z"
+    },
+    {
+      "cr_film_id": 20754,
+      "upload_id": "b69f7555d483e2cd",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/wind-river-2017-cz-dab-1080p/b69f7555d483e2cd",
+      "permanent": true,
+      "failed_at": "2026-05-22T07:06:05Z"
     }
   ],
-  "last_updated": "2026-05-22T07:06:02Z"
+  "last_updated": "2026-05-22T07:08:15Z"
 }
