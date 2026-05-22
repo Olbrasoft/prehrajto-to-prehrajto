@@ -107657,6 +107657,25 @@
         "download_sec": 18.6,
         "upload_sec": 21.0
       }
+    },
+    {
+      "cr_film_id": 22329,
+      "cr_slug": "tri-zeny",
+      "title": "Tři ženy",
+      "year": 1977,
+      "display_name": "Tři ženy (1977) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55ba849a11e34",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25106915,
+      "size_bytes": 442626746,
+      "uploaded_at": "2026-05-22T14:52:01Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.1,
+        "upload_sec": 27.1
+      }
     }
   ],
   "failed_attempts": [
@@ -109453,5 +109472,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T14:51:04Z"
+  "last_updated": "2026-05-22T14:52:01Z"
 }
