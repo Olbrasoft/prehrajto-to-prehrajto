@@ -99924,6 +99924,25 @@
         "download_sec": 11.7,
         "upload_sec": 12.8
       }
+    },
+    {
+      "cr_film_id": 20191,
+      "cr_slug": "belle",
+      "title": "Belle",
+      "year": 2013,
+      "display_name": "Belle (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a046cfae8c35",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25090889,
+      "size_bytes": 711300644,
+      "uploaded_at": "2026-05-22T01:35:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.8,
+        "upload_sec": 111.0
+      }
     }
   ],
   "failed_attempts": [
@@ -101678,5 +101697,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T01:33:39Z"
+  "last_updated": "2026-05-22T01:35:56Z"
 }
