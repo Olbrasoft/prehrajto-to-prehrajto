@@ -99732,6 +99732,25 @@
         "download_sec": 55.6,
         "upload_sec": 74.3
       }
+    },
+    {
+      "cr_film_id": 19446,
+      "cr_slug": "intacto",
+      "title": "Intacto",
+      "year": 2001,
+      "display_name": "Intacto (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c2c0b51b992d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25089910,
+      "size_bytes": 413180422,
+      "uploaded_at": "2026-05-22T00:58:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.4,
+        "upload_sec": 22.1
+      }
     }
   ],
   "failed_attempts": [
@@ -104913,5 +104932,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T00:58:12Z"
+  "last_updated": "2026-05-22T00:58:52Z"
 }
