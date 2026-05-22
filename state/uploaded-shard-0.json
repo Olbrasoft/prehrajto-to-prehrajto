@@ -104463,6 +104463,25 @@
         "download_sec": 49.2,
         "upload_sec": 79.6
       }
+    },
+    {
+      "cr_film_id": 21242,
+      "cr_slug": "more-nas-osud",
+      "title": "Moře – náš osud",
+      "year": 1942,
+      "display_name": "Moře – náš osud (1942) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58603af182532",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25100009,
+      "size_bytes": 593267093,
+      "uploaded_at": "2026-05-22T08:51:45Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 26.8,
+        "upload_sec": 31.4
+      }
     }
   ],
   "failed_attempts": [
@@ -109682,7 +109701,18 @@
         "resolve_sec": 1.1,
         "download_sec": 61.5
       }
+    },
+    {
+      "cr_film_id": 21240,
+      "upload_id": "588eaafae20ae",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds",
+      "permanent": false,
+      "failed_at": "2026-05-22T08:50:44Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 61.5
+      }
     }
   ],
-  "last_updated": "2026-05-22T08:49:09Z"
+  "last_updated": "2026-05-22T08:51:45Z"
 }

@@ -38014,3 +38014,16 @@
 [08:46:59]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/3828520/y6EtkXHrzC0WiA1CoesOPHrXsbrSk0cp7Sxyf…)
 [08:47:50]   downloaded 1,186.7 MB in 49.2s (24.1 MB/s)
 [08:49:09]   upload done video_id=25099863 in 79.6s
+[08:49:11] film cr_film_id=21236 OK in 133.4s
+[08:49:11] iteration 16/20
+[08:49:11] film cr_film_id=21240 name='Kočičí lidé (1942) CZ' candidates=1
+[08:49:11]   candidate upload_id=588eaafae20ae url=https://prehraj.to/kocici-lide-cat-people-1942-cz-tit/588eaafae20ae
+[08:49:12]   resolved in 0.8s → 480p (https://pf-storage2.premiumcdn.net/1559482/R3OuoQSXMt8qFz7F6js67SmvtorsdKhjAsk3i…)
+[08:50:44]   download FAILED after 61.5s: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds
+[08:50:44] film cr_film_id=21240 all candidates exhausted
+[08:50:44] iteration 17/20
+[08:50:44] film cr_film_id=21242 name='Moře – náš osud (1942) CZ' candidates=1
+[08:50:44]   candidate upload_id=58603af182532 url=https://prehraj.to/more-nas-osud-in-which-we-serve-1942-cz-tit/58603af182532
+[08:50:45]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/1233512/5odivpUeKFR4swKToWfbyUXPcGecegtY3Clnt…)
+[08:51:13]   downloaded 593.3 MB in 26.8s (22.1 MB/s)
+[08:51:45]   upload done video_id=25100009 in 31.4s
