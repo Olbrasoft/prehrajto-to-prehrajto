@@ -99430,6 +99430,25 @@
         "download_sec": 24.8,
         "upload_sec": 27.1
       }
+    },
+    {
+      "cr_film_id": 19997,
+      "cr_slug": "neznost",
+      "title": "Něžnost",
+      "year": 2011,
+      "display_name": "Něžnost (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "599ce0c71d825",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25089963,
+      "size_bytes": 1331982234,
+      "uploaded_at": "2026-05-22T01:01:52Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 60.5,
+        "upload_sec": 68.6
+      }
     }
   ],
   "failed_attempts": [
@@ -101184,5 +101203,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T00:59:36Z"
+  "last_updated": "2026-05-22T01:01:52Z"
 }
