@@ -109595,6 +109595,25 @@
         "download_sec": 43.5,
         "upload_sec": 28.8
       }
+    },
+    {
+      "cr_film_id": 22727,
+      "cr_slug": "dvojnik-1984",
+      "title": "Dvojník",
+      "year": 1984,
+      "display_name": "Dvojník (1984) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c0b07fcd8f5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25110250,
+      "size_bytes": 563801577,
+      "uploaded_at": "2026-05-22T18:30:21Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 26.0,
+        "upload_sec": 20.8
+      }
     }
   ],
   "failed_attempts": [
@@ -111398,5 +111417,5 @@
       "failed_at": "2026-05-22T16:10:39Z"
     }
   ],
-  "last_updated": "2026-05-22T18:29:29Z"
+  "last_updated": "2026-05-22T18:30:21Z"
 }
