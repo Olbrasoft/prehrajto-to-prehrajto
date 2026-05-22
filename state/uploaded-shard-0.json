@@ -112101,6 +112101,25 @@
         "download_sec": 33.4,
         "upload_sec": 47.3
       }
+    },
+    {
+      "cr_film_id": 22836,
+      "cr_slug": "podivna-veda",
+      "title": "Podivná věda",
+      "year": 1985,
+      "display_name": "Podivná věda (1985) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "582068c4f1411",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25115732,
+      "size_bytes": 509820508,
+      "uploaded_at": "2026-05-22T23:16:29Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 26.3,
+        "upload_sec": 31.8
+      }
     }
   ],
   "failed_attempts": [
@@ -117359,5 +117378,5 @@
       "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-22T23:15:25Z"
+  "last_updated": "2026-05-22T23:16:29Z"
 }
