@@ -103228,6 +103228,25 @@
         "download_sec": 16.7,
         "upload_sec": 19.4
       }
+    },
+    {
+      "cr_film_id": 20686,
+      "cr_slug": "mallory",
+      "title": "Mallory",
+      "year": 2015,
+      "display_name": "Mallory (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c11bbf4b22a9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25097870,
+      "size_bytes": 715268914,
+      "uploaded_at": "2026-05-22T06:58:28Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.8,
+        "upload_sec": 33.3
+      }
     }
   ],
   "failed_attempts": [
@@ -108409,5 +108428,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T06:57:29Z"
+  "last_updated": "2026-05-22T06:58:28Z"
 }
