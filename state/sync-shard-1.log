@@ -41115,3 +41115,14 @@
 [23:13:19]   upload done video_id=25115554 in 37.8s
 [23:13:21] film cr_film_id=23127 OK in 68.0s
 [23:13:21] batch-end ok=20 failed=0 dur=1872.2s avg/film=93.6s remaining=11764 eta_hours=305.9
+
+===== run 2026-05-22T23:17:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26316519130) =====
+[23:17:04] batch-start shard=1/2 count=20 backlog=17650 uploads=5886 failed_attempts=249
+[23:17:04] login
+[23:17:06] login done
+[23:17:06] iteration 1/20
+[23:17:06] film cr_film_id=23129 name='Kožená tvář (1990) CZ Dabing' candidates=6
+[23:17:06]   candidate upload_id=602982d596889 url=https://prehraj.to/kozena-tvar-1990-cz-dabing/602982d596889
+[23:17:07]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/22217183/rbAIgLu19ckgF3JSDjFBKun0fwKc3WTZ5SkQ…)
+[23:17:51]   downloaded 1,471.4 MB in 42.5s (34.6 MB/s)
+[23:18:45]   upload done video_id=25115835 in 54.3s
