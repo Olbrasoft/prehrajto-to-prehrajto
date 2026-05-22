@@ -102299,6 +102299,25 @@
         "download_sec": 99.6,
         "upload_sec": 105.3
       }
+    },
+    {
+      "cr_film_id": 21195,
+      "cr_slug": "bonnie-scotland",
+      "title": "Bonnie Scotland",
+      "year": 1935,
+      "display_name": "Bonnie Scotland (1935) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "56066a89d795d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25096800,
+      "size_bytes": 747938170,
+      "uploaded_at": "2026-05-22T06:10:06Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.5,
+        "upload_sec": 27.3
+      }
     }
   ],
   "failed_attempts": [
@@ -104053,5 +104072,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T06:09:09Z"
+  "last_updated": "2026-05-22T06:10:06Z"
 }
