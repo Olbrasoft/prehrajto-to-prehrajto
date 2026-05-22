@@ -39944,3 +39944,14 @@
 [16:32:51]   upload done video_id=25108854 in 151.8s
 [16:32:53] film cr_film_id=22549 OK in 269.4s
 [16:32:53] batch-end ok=19 failed=1 dur=1689.7s avg/film=88.9s remaining=11924 eta_hours=294.5
+
+===== run 2026-05-22T16:47:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26300478958) =====
+[16:47:18] batch-start shard=1/2 count=20 backlog=17650 uploads=5726 failed_attempts=248
+[16:47:18] login
+[16:47:19] login done
+[16:47:19] iteration 1/20
+[16:47:19] film cr_film_id=22555 name='Dáma s kaméliemi (1981) CZ' candidates=1
+[16:47:19]   candidate upload_id=5abb7d35a12f2 url=https://prehraj.to/dama-s-kameliemi-1981/5abb7d35a12f2
+[16:47:20]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/3755495/oq7Tj8f6gImBspzH6AsKxfzVHdpIoQuxAsYRU…)
+[16:47:49]   downloaded 593.9 MB in 26.5s (22.4 MB/s)
+[16:48:27]   upload done video_id=25109084 in 38.2s
