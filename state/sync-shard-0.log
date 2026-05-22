@@ -41122,3 +41122,14 @@
 [23:46:32]   upload done video_id=25117192 in 25.5s
 [23:46:33] film cr_film_id=22900 OK in 50.7s
 [23:46:33] batch-end ok=20 failed=0 dur=1768.7s avg/film=88.4s remaining=11729 eta_hours=288.0
+
+===== run 2026-05-22T23:47:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26317361519) =====
+[23:47:28] batch-start shard=0/2 count=20 backlog=17650 uploads=5921 failed_attempts=739
+[23:47:28] login
+[23:47:29] login done
+[23:47:29] iteration 1/20
+[23:47:29] film cr_film_id=22904 name='Vysíláme zprávy (1987) CZ Dabing' candidates=1
+[23:47:29]   candidate upload_id=57e219cf9ca40 url=https://prehraj.to/vysilame-zpravy-1987-czdab/57e219cf9ca40
+[23:47:31]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/648453/odBFNgCbYhRMUzrfKLHeKClou6BFKRhZofOdS7…)
+[23:47:53]   downloaded 610.6 MB in 21.0s (29.1 MB/s)
+[23:48:19]   upload done video_id=25117272 in 25.8s
