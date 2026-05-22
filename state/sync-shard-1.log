@@ -38187,3 +38187,14 @@
 [09:16:59]   upload done video_id=25100606 in 22.1s
 [09:17:01] film cr_film_id=21633 OK in 47.8s
 [09:17:01] batch-end ok=18 failed=2 dur=2989.6s avg/film=166.1s remaining=12163 eta_hours=561.2
+
+===== run 2026-05-22T09:18:47Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26279397611) =====
+[09:18:48] batch-start shard=1/2 count=20 backlog=17650 uploads=5487 failed_attempts=245
+[09:18:48] login
+[09:18:49] login done
+[09:18:49] iteration 1/20
+[09:18:49] film cr_film_id=21579 name='Filutové (1959) CZ' candidates=1
+[09:18:49]   candidate upload_id=586998c58c329 url=https://prehraj.to/filutove-komedie-1959-l-de-funes-cz-irisa/586998c58c329
+[09:18:50]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1269111/1OjHDOFr4iGlCqGsV5CMbFpyhbat9wiQpHYDC…)
+[09:19:31]   downloaded 875.8 MB in 38.8s (22.6 MB/s)
+[09:20:15]   upload done video_id=25100658 in 43.7s
