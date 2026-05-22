@@ -40097,3 +40097,14 @@
 [18:26:22]   upload done video_id=25110206 in 49.7s
 [18:26:24] film cr_film_id=22326 OK in 166.5s
 [18:26:24] batch-end ok=20 failed=0 dur=3481.8s avg/film=174.1s remaining=11868 eta_hours=573.9
+
+===== run 2026-05-22T18:27:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26305033095) =====
+[18:27:27] batch-start shard=0/2 count=20 backlog=17650 uploads=5782 failed_attempts=737
+[18:27:27] login
+[18:27:28] login done
+[18:27:28] iteration 1/20
+[18:27:28] film cr_film_id=22328 name='Dvojí svět hotelu Pacifik (1975) CZ' candidates=1
+[18:27:28]   candidate upload_id=585bebfe81e37 url=https://prehraj.to/dvoji-svet-hotelu-pacifik-zaklete-rewiry-behind-the-scenes-at-the-pacific-hotel-1975-cz/585bebfe81e37
+[18:27:29]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/1221660/43JhewHrmTLOtx0FQnS2WHZ0Tg2hg7FEvF4Oh…)
+[18:28:00]   downloaded 768.0 MB in 28.6s (26.9 MB/s)
+[18:28:41]   upload done video_id=25110232 in 40.8s
