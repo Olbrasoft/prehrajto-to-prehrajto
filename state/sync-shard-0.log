@@ -39367,3 +39367,14 @@
 [14:57:19]   upload done video_id=25107050 in 35.8s
 [14:57:20] film cr_film_id=21946 OK in 66.0s
 [14:57:20] batch-end ok=20 failed=0 dur=2167.5s avg/film=108.4s remaining=11968 eta_hours=360.4
+
+===== run 2026-05-22T14:59:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26295231107) =====
+[14:59:13] batch-start shard=0/2 count=20 backlog=17650 uploads=5682 failed_attempts=737
+[14:59:13] login
+[14:59:15] login done
+[14:59:15] iteration 1/20
+[14:59:15] film cr_film_id=21950 name='Heroin (1970) CZ Dabing' candidates=2
+[14:59:15]   candidate upload_id=37eac628b8fa2c02 url=https://prehraj.to/heroin-1970-krimi-cz-dabing-spickova-kvalita-1080p-by-nexsus-mkv/37eac628b8fa2c02
+[14:59:16]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/163153385/dGJTP2uBrs4Pfn3IdmFl0um8U13smBSWGCy…)
+[14:59:53]   downloaded 1,268.8 MB in 35.9s (35.3 MB/s)
+[15:00:35]   upload done video_id=25107093 in 42.5s
