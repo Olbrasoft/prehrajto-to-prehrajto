@@ -111438,6 +111438,25 @@
         "download_sec": 88.1,
         "upload_sec": 117.9
       }
+    },
+    {
+      "cr_film_id": 23071,
+      "cr_slug": "rychle-v-baliku",
+      "title": "Rychle v balíku",
+      "year": 1989,
+      "display_name": "Rychle v balíku (1989) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5accad1146bef",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25113600,
+      "size_bytes": 399878091,
+      "uploaded_at": "2026-05-22T22:37:50Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.2,
+        "upload_sec": 25.2
+      }
     }
   ],
   "failed_attempts": [
@@ -113248,5 +113267,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-22T22:36:57Z"
+  "last_updated": "2026-05-22T22:37:50Z"
 }
