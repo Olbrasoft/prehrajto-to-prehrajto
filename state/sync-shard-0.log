@@ -40976,3 +40976,14 @@
 [23:16:29]   upload done video_id=25115732 in 31.8s
 [23:16:31] film cr_film_id=22836 OK in 63.4s
 [23:16:31] batch-end ok=19 failed=1 dur=2057.2s avg/film=108.3s remaining=11749 eta_hours=353.4
+
+===== run 2026-05-22T23:17:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26316519130) =====
+[23:17:03] batch-start shard=0/2 count=20 backlog=17650 uploads=5901 failed_attempts=739
+[23:17:03] login
+[23:17:05] login done
+[23:17:05] iteration 1/20
+[23:17:05] film cr_film_id=22838 name='Svědek (1985) CZ Dabing' candidates=1
+[23:17:05]   candidate upload_id=56f922e416e1c url=https://prehraj.to/svedek-cz-dabing-1985/56f922e416e1c
+[23:17:06]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/22564/7ErSDNiwjuEeuQLHqXtGXiz7S0NHYvIV3UKYSQb…)
+[23:17:30]   downloaded 756.6 MB in 22.6s (33.5 MB/s)
+[23:18:00]   upload done video_id=25115816 in 29.8s
