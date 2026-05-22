@@ -38196,3 +38196,14 @@
 [09:55:02]   upload done video_id=25101552 in 39.8s
 [09:55:05] film cr_film_id=21340 OK in 78.7s
 [09:55:05] batch-end ok=20 failed=0 dur=2164.3s avg/film=108.2s remaining=12128 eta_hours=364.5
+
+===== run 2026-05-22T09:56:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26281135728) =====
+[09:56:47] batch-start shard=0/2 count=20 backlog=17650 uploads=5522 failed_attempts=736
+[09:56:47] login
+[09:56:48] login done
+[09:56:48] iteration 1/20
+[09:56:48] film cr_film_id=21346 name='Haškovy povídky ze starého mocnářství (1952) CZ' candidates=1
+[09:56:48]   candidate upload_id=60b246a7006cf url=https://prehraj.to/haskovy-povidky-ze-stareho-mocnarstvi-komedie-1952-cz/60b246a7006cf
+[09:56:49]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/23692317/Mm7sMKImRc5DF86SomtBWIQ4c0RTknC0KCoy…)
+[09:57:06]   downloaded 511.1 MB in 15.5s (33.0 MB/s)
+[09:57:25]   upload done video_id=25101746 in 18.5s
