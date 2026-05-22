@@ -100606,6 +100606,25 @@
         "download_sec": 55.3,
         "upload_sec": 74.2
       }
+    },
+    {
+      "cr_film_id": 19630,
+      "cr_slug": "spoust",
+      "title": "Spoušť",
+      "year": 2021,
+      "display_name": "Spoušť (2021) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "614894f88c71f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25092109,
+      "size_bytes": 1620236439,
+      "uploaded_at": "2026-05-22T02:29:34Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 52.2,
+        "upload_sec": 56.6
+      }
     }
   ],
   "failed_attempts": [
@@ -105787,5 +105806,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T02:27:41Z"
+  "last_updated": "2026-05-22T02:29:34Z"
 }
