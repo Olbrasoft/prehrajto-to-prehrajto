@@ -36436,3 +36436,14 @@
 [01:23:57]   upload done video_id=25090582 in 110.1s
 [01:23:59] film cr_film_id=20123 OK in 209.5s
 [01:23:59] batch-end ok=20 failed=0 dur=1670.2s avg/film=83.5s remaining=12401 eta_hours=287.6
+
+===== run 2026-05-22T01:24:13Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26262101668) =====
+[01:24:14] batch-start shard=1/2 count=20 backlog=17650 uploads=5249 failed_attempts=243
+[01:24:14] login
+[01:24:16] login done
+[01:24:16] iteration 1/20
+[01:24:16] film cr_film_id=20137 name='Konečně doma (2015) CZ Dabing' candidates=21
+[01:24:16]   candidate upload_id=5f667ac49d6ff url=https://prehraj.to/konecne-doma-home-2015-hd-720p-cz-dabing/5f667ac49d6ff
+[01:24:17]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/18735000/KzgfbPHLGfMwfx9sg8UOXHB7cpGc8qU0Liq1…)
+[01:24:50]   downloaded 981.1 MB in 32.0s (30.7 MB/s)
+[01:25:29]   upload done video_id=25090660 in 38.1s

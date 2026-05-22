@@ -99734,6 +99734,25 @@
         "download_sec": 94.1,
         "upload_sec": 110.1
       }
+    },
+    {
+      "cr_film_id": 20137,
+      "cr_slug": "konecne-doma",
+      "title": "Konečně doma",
+      "year": 2015,
+      "display_name": "Konečně doma (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f667ac49d6ff",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25090660,
+      "size_bytes": 981141840,
+      "uploaded_at": "2026-05-22T01:25:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 32.0,
+        "upload_sec": 38.1
+      }
     }
   ],
   "failed_attempts": [
@@ -101488,5 +101507,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T01:23:57Z"
+  "last_updated": "2026-05-22T01:25:29Z"
 }
