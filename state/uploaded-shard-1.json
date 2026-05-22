@@ -108550,6 +108550,25 @@
         "download_sec": 25.4,
         "upload_sec": 29.5
       }
+    },
+    {
+      "cr_film_id": 22497,
+      "cr_slug": "sador-vladce-vesmiru",
+      "title": "Sador, vládce vesmíru",
+      "year": 1980,
+      "display_name": "Sador, vládce vesmíru (1980) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58554b4a33f99",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25108530,
+      "size_bytes": 516890815,
+      "uploaded_at": "2026-05-22T16:11:25Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 17.9,
+        "upload_sec": 21.1
+      }
     }
   ],
   "failed_attempts": [
@@ -110344,7 +110363,14 @@
         "download_sec": 70.6,
         "upload_sec": 0.1
       }
+    },
+    {
+      "cr_film_id": 22495,
+      "upload_id": "5fc9129f8d5f1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/valecnici-the-warriors-1979-720p-brrip-x-264-srt-cz/5fc9129f8d5f1",
+      "permanent": true,
+      "failed_at": "2026-05-22T16:10:39Z"
     }
   ],
-  "last_updated": "2026-05-22T16:10:36Z"
+  "last_updated": "2026-05-22T16:11:25Z"
 }
