@@ -102451,6 +102451,25 @@
         "download_sec": 52.2,
         "upload_sec": 61.0
       }
+    },
+    {
+      "cr_film_id": 21235,
+      "cr_slug": "zasnezena-romance",
+      "title": "Zasněžená romance",
+      "year": 1941,
+      "display_name": "Zasněžená romance (1941) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58553538d5c22",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25097062,
+      "size_bytes": 583074493,
+      "uploaded_at": "2026-05-22T06:20:06Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 29.1,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -104205,5 +104224,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T06:18:59Z"
+  "last_updated": "2026-05-22T06:20:06Z"
 }
