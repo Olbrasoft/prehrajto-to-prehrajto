@@ -37318,3 +37318,14 @@
 [06:06:42]   upload done video_id=25096714 in 34.9s
 [06:06:44] film cr_film_id=20402 OK in 63.5s
 [06:06:44] batch-end ok=20 failed=0 dur=1329.5s avg/film=66.5s remaining=12245 eta_hours=226.2
+
+===== run 2026-05-22T06:14:59Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26271727673) =====
+[06:15:00] batch-start shard=0/2 count=20 backlog=17650 uploads=5405 failed_attempts=731
+[06:15:00] login
+[06:15:01] login done
+[06:15:01] iteration 1/20
+[06:15:01] film cr_film_id=20410 name='Oceán s Davidem Attenboroughem (2025) CZ Dabing' candidates=1
+[06:15:01]   candidate upload_id=685177f26acab url=https://prehraj.to/ocean-s-davidem-attenboroughem-2025-cz-dabing-1080p/685177f26acab
+[06:15:02]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/140127704/GJDuD8FzDU6mS4GhrqHbGFrbcPKfxRcjkhB…)
+[06:16:23]   downloaded 2,881.1 MB in 79.4s (36.3 MB/s)
+[06:18:05]   upload done video_id=25096974 in 101.8s
