@@ -111362,6 +111362,25 @@
         "download_sec": 29.9,
         "upload_sec": 34.1
       }
+    },
+    {
+      "cr_film_id": 23049,
+      "cr_slug": "jindrich-v",
+      "title": "Jindřich V.",
+      "year": 1989,
+      "display_name": "Jindřich V. (1989) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5b1159b0b47bd",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25113472,
+      "size_bytes": 993119621,
+      "uploaded_at": "2026-05-22T22:30:48Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 50.6,
+        "upload_sec": 62.4
+      }
     }
   ],
   "failed_attempts": [
@@ -113172,5 +113191,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-22T22:28:50Z"
+  "last_updated": "2026-05-22T22:30:48Z"
 }
