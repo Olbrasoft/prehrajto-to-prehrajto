@@ -37166,3 +37166,14 @@
 [04:52:56]   upload done video_id=25095060 in 32.3s
 [04:52:58] film cr_film_id=21085 OK in 62.9s
 [04:52:58] batch-end ok=20 failed=0 dur=3003.9s avg/film=150.2s remaining=12301 eta_hours=513.2
+
+===== run 2026-05-22T04:54:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26269186282) =====
+[04:54:29] batch-start shard=1/2 count=20 backlog=17650 uploads=5349 failed_attempts=243
+[04:54:29] login
+[04:54:30] login done
+[04:54:30] iteration 1/20
+[04:54:30] film cr_film_id=21087 name='Pouic Pouic (1963) CZ' candidates=1
+[04:54:30]   candidate upload_id=63849aed6a074 url=https://prehraj.to/louis-de-funes-pouic-pouic-1963-cesky-dabing/63849aed6a074
+[04:54:31]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/34883101/6RMI2BCxXia4in8UXDFy8CarF7OuBxiwBHJG…)
+[04:55:48]   downloaded 1,799.0 MB in 74.7s (24.1 MB/s)
+[04:57:13]   upload done video_id=25095119 in 85.1s
