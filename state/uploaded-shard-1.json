@@ -103287,6 +103287,25 @@
         "download_sec": 13.7,
         "upload_sec": 15.4
       }
+    },
+    {
+      "cr_film_id": 21439,
+      "cr_slug": "pomsta-netvora",
+      "title": "Pomsta netvora",
+      "year": 1955,
+      "display_name": "Pomsta netvora (1955) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ddee313992ad",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25098437,
+      "size_bytes": 641084345,
+      "uploaded_at": "2026-05-22T07:31:35Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 30.6,
+        "upload_sec": 36.4
+      }
     }
   ],
   "failed_attempts": [
@@ -105041,5 +105060,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T07:30:23Z"
+  "last_updated": "2026-05-22T07:31:35Z"
 }
