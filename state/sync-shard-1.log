@@ -37896,3 +37896,14 @@
 [07:53:33]   upload done video_id=25098840 in 26.7s
 [07:53:35] film cr_film_id=21473 OK in 88.1s
 [07:53:35] batch-end ok=20 failed=0 dur=2024.3s avg/film=101.2s remaining=12201 eta_hours=343.0
+
+===== run 2026-05-22T07:53:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26274199220) =====
+[07:53:51] batch-start shard=1/2 count=20 backlog=17650 uploads=5449 failed_attempts=243
+[07:53:51] login
+[07:53:53] login done
+[07:53:53] iteration 1/20
+[07:53:53] film cr_film_id=21485 name='Čtyřicet pušek (1957) CZ' candidates=2
+[07:53:53]   candidate upload_id=60af2c415d050 url=https://prehraj.to/ctyricet-pusek-western-1957-cz-dabing/60af2c415d050
+[07:53:54]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/23674176/MDOc10CGgUXZFjaIxlf8BCEzS0lSYgcOeiZr…)
+[07:54:15]   downloaded 481.2 MB in 19.6s (24.5 MB/s)
+[07:54:36]   upload done video_id=25098864 in 21.2s
