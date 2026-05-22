@@ -40539,3 +40539,14 @@
 [21:23:54]   upload done video_id=25112565 in 42.9s
 [21:23:55] film cr_film_id=22552 OK in 78.9s
 [21:23:55] batch-end ok=20 failed=0 dur=2732.2s avg/film=136.6s remaining=11808 eta_hours=448.0
+
+===== run 2026-05-22T21:24:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26312689046) =====
+[21:24:39] batch-start shard=0/2 count=20 backlog=17650 uploads=5842 failed_attempts=738
+[21:24:39] login
+[21:24:41] login done
+[21:24:41] iteration 1/20
+[21:24:41] film cr_film_id=22554 name='Člověk ze železa (1981) CZ' candidates=1
+[21:24:41]   candidate upload_id=55bf19c7a2237 url=https://prehraj.to/clovek-ze-zeleza-czlowiek-z-zelaza-wajda-1981/55bf19c7a2237
+[21:24:42]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/67747/K7QhZlCjzT6LUOnTwQcX8C57s3zTxNszvTXeUp7…)
+[21:25:11]   downloaded 862.0 MB in 27.2s (31.7 MB/s)
+[21:25:57]   upload done video_id=25112591 in 46.8s
