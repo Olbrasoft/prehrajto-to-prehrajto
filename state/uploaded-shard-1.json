@@ -109728,6 +109728,25 @@
         "download_sec": 15.5,
         "upload_sec": 22.2
       }
+    },
+    {
+      "cr_film_id": 22747,
+      "cr_slug": "1984-1984",
+      "title": "1984",
+      "year": 1984,
+      "display_name": "1984 (1984) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68d6a6f787af6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25110578,
+      "size_bytes": 1062702540,
+      "uploaded_at": "2026-05-22T18:55:47Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 807.6,
+        "upload_sec": 50.1
+      }
     }
   ],
   "failed_attempts": [
@@ -111531,5 +111550,5 @@
       "failed_at": "2026-05-22T16:10:39Z"
     }
   ],
-  "last_updated": "2026-05-22T18:41:26Z"
+  "last_updated": "2026-05-22T18:55:47Z"
 }
