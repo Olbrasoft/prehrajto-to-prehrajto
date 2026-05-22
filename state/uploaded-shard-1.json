@@ -102660,6 +102660,25 @@
         "download_sec": 25.5,
         "upload_sec": 28.0
       }
+    },
+    {
+      "cr_film_id": 21281,
+      "cr_slug": "angel-and-the-badman",
+      "title": "Angel and the Badman",
+      "year": 1947,
+      "display_name": "Angel and the Badman (1947) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "61079550f40ce",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25097483,
+      "size_bytes": 640632041,
+      "uploaded_at": "2026-05-22T06:37:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.1,
+        "upload_sec": 42.7
+      }
     }
   ],
   "failed_attempts": [
@@ -104414,5 +104433,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T06:35:49Z"
+  "last_updated": "2026-05-22T06:37:08Z"
 }
