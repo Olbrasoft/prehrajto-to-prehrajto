@@ -40685,3 +40685,14 @@
 [21:56:44]   upload done video_id=25113035 in 49.4s
 [21:56:45] film cr_film_id=22662 OK in 93.1s
 [21:56:45] batch-end ok=20 failed=0 dur=1924.7s avg/film=96.2s remaining=11788 eta_hours=315.0
+
+===== run 2026-05-22T22:02:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26314134987) =====
+[22:02:39] batch-start shard=0/2 count=20 backlog=17650 uploads=5862 failed_attempts=738
+[22:02:39] login
+[22:02:43] login done
+[22:02:43] iteration 1/20
+[22:02:43] film cr_film_id=22668 name='Taxikáři (1983) CZ' candidates=1
+[22:02:43]   candidate upload_id=5ada728a25d43 url=https://prehraj.to/taxikari-1983/5ada728a25d43
+[22:02:44]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/3919705/kaqFOLfWbsAYfmbtV1S9Lf16UVJIv5soLs9xu…)
+[22:03:39]   downloaded 1,427.0 MB in 52.6s (27.1 MB/s)
+[22:04:43]   upload done video_id=25113129 in 64.0s
