@@ -103000,6 +103000,25 @@
         "download_sec": 20.4,
         "upload_sec": 22.6
       }
+    },
+    {
+      "cr_film_id": 20526,
+      "cr_slug": "cerne-duse",
+      "title": "Černé duše",
+      "year": 2014,
+      "display_name": "Černé duše (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "603ebeca2ea10",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25097479,
+      "size_bytes": 1579273811,
+      "uploaded_at": "2026-05-22T06:37:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 49.8,
+        "upload_sec": 58.6
+      }
     }
   ],
   "failed_attempts": [
@@ -108181,5 +108200,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T06:35:26Z"
+  "last_updated": "2026-05-22T06:37:19Z"
 }
