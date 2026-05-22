@@ -103667,6 +103667,25 @@
         "download_sec": 18.1,
         "upload_sec": 30.5
       }
+    },
+    {
+      "cr_film_id": 21507,
+      "cr_slug": "tam-na-konecne",
+      "title": "Tam na konečné",
+      "year": 1957,
+      "display_name": "Tam na konečné (1957) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9861d419526",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25099032,
+      "size_bytes": 996576683,
+      "uploaded_at": "2026-05-22T08:03:30Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 33.6,
+        "upload_sec": 43.6
+      }
     }
   ],
   "failed_attempts": [
@@ -105421,5 +105440,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T08:02:08Z"
+  "last_updated": "2026-05-22T08:03:30Z"
 }
