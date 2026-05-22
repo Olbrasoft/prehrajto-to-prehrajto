@@ -104389,6 +104389,25 @@
         "download_sec": 34.6,
         "upload_sec": 49.1
       }
+    },
+    {
+      "cr_film_id": 21659,
+      "cr_slug": "harakiri",
+      "title": "Harakiri",
+      "year": 1962,
+      "display_name": "Harakiri (1962) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6730c905455c5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25100878,
+      "size_bytes": 2102641467,
+      "uploaded_at": "2026-05-22T09:33:42Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 79.5,
+        "upload_sec": 107.1
+      }
     }
   ],
   "failed_attempts": [
@@ -106166,5 +106185,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T09:30:30Z"
+  "last_updated": "2026-05-22T09:33:42Z"
 }
