@@ -100872,6 +100872,25 @@
         "download_sec": 101.6,
         "upload_sec": 136.9
       }
+    },
+    {
+      "cr_film_id": 19738,
+      "cr_slug": "frankenstein",
+      "title": "Frankenstein",
+      "year": 2025,
+      "display_name": "Frankenstein (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f40d9bfc4654e8ee",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25092692,
+      "size_bytes": 3982035347,
+      "uploaded_at": "2026-05-22T03:03:32Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 157.4,
+        "upload_sec": 202.4
+      }
     }
   ],
   "failed_attempts": [
@@ -106053,5 +106072,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T02:57:26Z"
+  "last_updated": "2026-05-22T03:03:32Z"
 }
