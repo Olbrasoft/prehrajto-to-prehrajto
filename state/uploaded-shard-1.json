@@ -110526,6 +110526,25 @@
         "download_sec": 51.2,
         "upload_sec": 24.6
       }
+    },
+    {
+      "cr_film_id": 22889,
+      "cr_slug": "neco-divokeho",
+      "title": "Něco divokého",
+      "year": 1986,
+      "display_name": "Něco divokého (1986) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d4380a8d4c9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25112076,
+      "size_bytes": 543729806,
+      "uploaded_at": "2026-05-22T20:44:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 49.3,
+        "upload_sec": 29.7
+      }
     }
   ],
   "failed_attempts": [
@@ -112329,5 +112348,5 @@
       "failed_at": "2026-05-22T16:10:39Z"
     }
   ],
-  "last_updated": "2026-05-22T20:43:35Z"
+  "last_updated": "2026-05-22T20:44:58Z"
 }
