@@ -107182,6 +107182,25 @@
         "download_sec": 26.6,
         "upload_sec": 32.2
       }
+    },
+    {
+      "cr_film_id": 22233,
+      "cr_slug": "barry-lyndon",
+      "title": "Barry Lyndon",
+      "year": 1975,
+      "display_name": "Barry Lyndon (1975) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68a1a6e597769",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25105826,
+      "size_bytes": 3168399635,
+      "uploaded_at": "2026-05-22T13:59:22Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 86.4,
+        "upload_sec": 113.4
+      }
     }
   ],
   "failed_attempts": [
@@ -108978,5 +108997,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T13:55:59Z"
+  "last_updated": "2026-05-22T13:59:22Z"
 }
