@@ -40677,3 +40677,14 @@
 [20:56:25]   upload done video_id=25112192 in 104.0s
 [20:56:27] film cr_film_id=22911 OK in 316.7s
 [20:56:27] batch-end ok=20 failed=0 dur=1723.1s avg/film=86.2s remaining=11824 eta_hours=283.1
+
+===== run 2026-05-22T21:24:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26312689046) =====
+[21:24:47] batch-start shard=1/2 count=20 backlog=17650 uploads=5826 failed_attempts=249
+[21:24:47] login
+[21:24:49] login done
+[21:24:49] iteration 1/20
+[21:24:49] film cr_film_id=22917 name='Harry a Hendersonovi (1987) CZ Dabing' candidates=1
+[21:24:49]   candidate upload_id=583ff97fcfaee url=https://prehraj.to/harry-a-hendersonovi-1987-czdab/583ff97fcfaee
+[21:24:50]   resolved in 1.5s → 480p (https://pf-storage4.premiumcdn.net/971742/eRBFe2u4LUP2C8Ms2RF3mudNhZ9H0LIWjTXGfe…)
+[21:25:32]   downloaded 665.8 MB in 38.7s (17.2 MB/s)
+[21:26:12]   upload done video_id=25112595 in 40.9s
