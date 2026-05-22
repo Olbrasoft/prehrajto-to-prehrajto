@@ -101822,6 +101822,25 @@
         "download_sec": 31.2,
         "upload_sec": 39.6
       }
+    },
+    {
+      "cr_film_id": 20052,
+      "cr_slug": "pot-a-krev",
+      "title": "Pot a krev",
+      "year": 2013,
+      "display_name": "Pot a krev (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68bc82d761130",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25094579,
+      "size_bytes": 3220965788,
+      "uploaded_at": "2026-05-22T04:33:32Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 148.0,
+        "upload_sec": 189.3
+      }
     }
   ],
   "failed_attempts": [
@@ -107003,5 +107022,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T04:27:48Z"
+  "last_updated": "2026-05-22T04:33:32Z"
 }
