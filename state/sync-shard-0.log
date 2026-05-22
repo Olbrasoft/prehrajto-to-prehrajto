@@ -36880,3 +36880,14 @@
 [04:00:16]   upload done video_id=25093906 in 33.2s
 [04:00:18] film cr_film_id=19966 OK in 68.0s
 [04:00:18] batch-end ok=20 failed=0 dur=1583.9s avg/film=79.2s remaining=12305 eta_hours=270.7
+
+===== run 2026-05-22T04:02:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26267722153) =====
+[04:02:52] batch-start shard=0/2 count=20 backlog=17650 uploads=5345 failed_attempts=731
+[04:02:52] login
+[04:02:54] login done
+[04:02:54] iteration 1/20
+[04:02:54] film cr_film_id=19968 name='Co dál, Bene? (2012) CZ Dabing' candidates=1
+[04:02:54]   candidate upload_id=55c93fbceaf83 url=https://prehraj.to/co-dal-bene-2012-cz-dab-romant-komedie-koko/55c93fbceaf83
+[04:02:55]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/128693/AdAhqLcgXSRDIjpIwrFknc91iagSMYS4XFe5s6…)
+[04:03:30]   downloaded 560.4 MB in 32.1s (17.5 MB/s)
+[04:04:05]   upload done video_id=25093991 in 35.3s
