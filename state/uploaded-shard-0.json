@@ -106800,6 +106800,25 @@
         "download_sec": 55.7,
         "upload_sec": 78.8
       }
+    },
+    {
+      "cr_film_id": 21736,
+      "cr_slug": "akce-mojzis",
+      "title": "Akce Mojžíš",
+      "year": 1964,
+      "display_name": "Akce Mojžíš (1964) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "585726e4e1ed1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25105059,
+      "size_bytes": 1096581437,
+      "uploaded_at": "2026-05-22T13:07:41Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 52.5,
+        "upload_sec": 57.7
+      }
     }
   ],
   "failed_attempts": [
@@ -112032,5 +112051,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T13:05:45Z"
+  "last_updated": "2026-05-22T13:07:41Z"
 }
