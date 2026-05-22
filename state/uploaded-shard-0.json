@@ -104957,6 +104957,25 @@
         "download_sec": 32.4,
         "upload_sec": 41.8
       }
+    },
+    {
+      "cr_film_id": 21350,
+      "cr_slug": "zlate-veze",
+      "title": "Zlaté věže",
+      "year": 1951,
+      "display_name": "Zlaté věže (1951) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60b3247336a55",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25101794,
+      "size_bytes": 1445209338,
+      "uploaded_at": "2026-05-22T10:00:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 40.1,
+        "upload_sec": 50.7
+      }
     }
   ],
   "failed_attempts": [
@@ -110189,5 +110208,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T09:58:43Z"
+  "last_updated": "2026-05-22T10:00:18Z"
 }
