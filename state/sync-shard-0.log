@@ -39805,3 +39805,14 @@
 [16:46:43]   upload done video_id=25109069 in 29.2s
 [16:46:45] film cr_film_id=22166 OK in 59.9s
 [16:46:45] batch-end ok=20 failed=0 dur=2517.2s avg/film=125.9s remaining=11908 eta_hours=416.4
+
+===== run 2026-05-22T16:47:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26300478958) =====
+[16:47:16] batch-start shard=0/2 count=20 backlog=17650 uploads=5742 failed_attempts=737
+[16:47:16] login
+[16:47:18] login done
+[16:47:18] iteration 1/20
+[16:47:18] film cr_film_id=22168 name='Spáč (1973) CZ Dabing' candidates=2
+[16:47:18]   candidate upload_id=55e83d471636e url=https://prehraj.to/spac-1973-czdab/55e83d471636e
+[16:47:19]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/273931/lGMSpbh4YUeYUz8fjaFe2h3nujRU60sjvfkKUr…)
+[16:47:33]   downloaded 325.1 MB in 12.2s (26.6 MB/s)
+[16:47:46]   upload done video_id=25109081 in 13.6s
