@@ -112272,6 +112272,25 @@
         "download_sec": 34.7,
         "upload_sec": 49.3
       }
+    },
+    {
+      "cr_film_id": 22856,
+      "cr_slug": "tygri-oci-1986",
+      "title": "Tygří oči",
+      "year": 1986,
+      "display_name": "Tygří oči (1986) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a986fe4de54e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25116565,
+      "size_bytes": 604471445,
+      "uploaded_at": "2026-05-22T23:32:54Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.7,
+        "upload_sec": 22.4
+      }
     }
   ],
   "failed_attempts": [
@@ -117530,5 +117549,5 @@
       "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-22T23:32:06Z"
+  "last_updated": "2026-05-22T23:32:54Z"
 }
