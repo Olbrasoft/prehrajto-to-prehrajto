@@ -102316,6 +102316,25 @@
         "download_sec": 80.6,
         "upload_sec": 97.1
       }
+    },
+    {
+      "cr_film_id": 20214,
+      "cr_slug": "sermir",
+      "title": "Šermíř",
+      "year": 2015,
+      "display_name": "Šermíř (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60b9f7ec0d474",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25096295,
+      "size_bytes": 1676768113,
+      "uploaded_at": "2026-05-22T05:46:47Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 52.4,
+        "upload_sec": 77.3
+      }
     }
   ],
   "failed_attempts": [
@@ -107497,5 +107516,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T05:30:12Z"
+  "last_updated": "2026-05-22T05:46:47Z"
 }

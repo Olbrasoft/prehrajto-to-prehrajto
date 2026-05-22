@@ -37172,3 +37172,14 @@
 [05:30:12]   upload done video_id=25095904 in 97.1s
 [05:30:14] film cr_film_id=20206 OK in 183.0s
 [05:30:14] batch-end ok=20 failed=0 dur=2140.5s avg/film=107.0s remaining=12265 eta_hours=364.5
+
+===== run 2026-05-22T05:44:32Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26270720412) =====
+[05:44:33] batch-start shard=0/2 count=20 backlog=17650 uploads=5385 failed_attempts=731
+[05:44:33] login
+[05:44:34] login done
+[05:44:34] iteration 1/20
+[05:44:34] film cr_film_id=20214 name='Šermíř (2015) CZ' candidates=3
+[05:44:34]   candidate upload_id=60b9f7ec0d474 url=https://prehraj.to/sermir-sportovni-2015-1080p-bluray-2-0-x264-cz-71-sten-ok/60b9f7ec0d474
+[05:44:35]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/23750943/KroS5EhpeCnGF7qsNxSWeh5vt34sO3U6lHQr…)
+[05:45:29]   downloaded 1,676.8 MB in 52.4s (32.0 MB/s)
+[05:46:47]   upload done video_id=25096295 in 77.3s
