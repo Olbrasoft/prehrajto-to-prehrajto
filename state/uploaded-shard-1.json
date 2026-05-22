@@ -108607,6 +108607,25 @@
         "download_sec": 13.9,
         "upload_sec": 19.3
       }
+    },
+    {
+      "cr_film_id": 22505,
+      "cr_slug": "nebeska-brana",
+      "title": "Nebeská brána",
+      "year": 1980,
+      "display_name": "Nebeská brána (1980) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ad8e07c35f13",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25108592,
+      "size_bytes": 2360301252,
+      "uploaded_at": "2026-05-22T16:16:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 74.4,
+        "upload_sec": 103.4
+      }
     }
   ],
   "failed_attempts": [
@@ -110410,5 +110429,5 @@
       "failed_at": "2026-05-22T16:10:39Z"
     }
   ],
-  "last_updated": "2026-05-22T16:12:58Z"
+  "last_updated": "2026-05-22T16:16:00Z"
 }
