@@ -38333,3 +38333,14 @@
 [09:54:39]   upload done video_id=25101506 in 36.4s
 [09:54:42] film cr_film_id=21705 OK in 68.2s
 [09:54:42] batch-end ok=20 failed=0 dur=2152.5s avg/film=107.6s remaining=12143 eta_hours=362.9
+
+===== run 2026-05-22T09:56:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26281135728) =====
+[09:56:50] batch-start shard=1/2 count=20 backlog=17650 uploads=5507 failed_attempts=245
+[09:56:50] login
+[09:56:51] login done
+[09:56:51] iteration 1/20
+[09:56:51] film cr_film_id=21707 name='Meč v kameni (1963) CZ' candidates=1
+[09:56:51]   candidate upload_id=5aa75e8f9edf4 url=https://prehraj.to/mec-v-kameni-1963/5aa75e8f9edf4
+[09:56:52]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/3618301/aNAc01ix8Fa5FxRIozTRGijDtXLhY7I3EF9XT…)
+[09:57:34]   downloaded 1,307.3 MB in 40.1s (32.6 MB/s)
+[09:58:31]   upload done video_id=25101759 in 57.4s
