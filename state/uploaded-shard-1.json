@@ -109671,6 +109671,25 @@
         "download_sec": 43.5,
         "upload_sec": 57.1
       }
+    },
+    {
+      "cr_film_id": 22739,
+      "cr_slug": "okamzik-zablesku",
+      "title": "Okamžik záblesku",
+      "year": 1984,
+      "display_name": "Okamžik záblesku (1984) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "631771ab82462",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25110306,
+      "size_bytes": 2021195172,
+      "uploaded_at": "2026-05-22T18:36:41Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 65.5,
+        "upload_sec": 70.9
+      }
     }
   ],
   "failed_attempts": [
@@ -111474,5 +111493,5 @@
       "failed_at": "2026-05-22T16:10:39Z"
     }
   ],
-  "last_updated": "2026-05-22T18:34:20Z"
+  "last_updated": "2026-05-22T18:36:41Z"
 }
