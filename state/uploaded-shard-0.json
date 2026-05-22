@@ -102943,6 +102943,25 @@
         "download_sec": 47.0,
         "upload_sec": 57.7
       }
+    },
+    {
+      "cr_film_id": 20518,
+      "cr_slug": "matros",
+      "title": "Matroš",
+      "year": 2015,
+      "display_name": "Matroš (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "582185cba9c94",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25097408,
+      "size_bytes": 511141041,
+      "uploaded_at": "2026-05-22T06:33:19Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 17.9,
+        "upload_sec": 20.9
+      }
     }
   ],
   "failed_attempts": [
@@ -108124,5 +108143,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T06:32:37Z"
+  "last_updated": "2026-05-22T06:33:19Z"
 }
