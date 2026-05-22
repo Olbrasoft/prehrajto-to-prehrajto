@@ -110754,6 +110754,25 @@
         "download_sec": 39.8,
         "upload_sec": 50.0
       }
+    },
+    {
+      "cr_film_id": 22925,
+      "cr_slug": "figurina",
+      "title": "Figurína",
+      "year": 1987,
+      "display_name": "Figurína (1987) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58289c3e05a49",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25112674,
+      "size_bytes": 466509366,
+      "uploaded_at": "2026-05-22T21:30:03Z",
+      "timing": {
+        "resolve_sec": 2.5,
+        "download_sec": 24.2,
+        "upload_sec": 26.8
+      }
     }
   ],
   "failed_attempts": [
@@ -112564,5 +112583,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-22T21:29:05Z"
+  "last_updated": "2026-05-22T21:30:03Z"
 }
