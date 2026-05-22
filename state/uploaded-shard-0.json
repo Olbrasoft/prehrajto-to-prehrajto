@@ -100910,6 +100910,25 @@
         "download_sec": 18.6,
         "upload_sec": 20.8
       }
+    },
+    {
+      "cr_film_id": 19744,
+      "cr_slug": "agent-cunik",
+      "title": "Agent Čuník",
+      "year": 2024,
+      "display_name": "Agent Čuník (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "afed432d05312a12",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25092802,
+      "size_bytes": 1700189669,
+      "uploaded_at": "2026-05-22T03:07:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 69.9,
+        "upload_sec": 98.5
+      }
     }
   ],
   "failed_attempts": [
@@ -106091,5 +106110,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T03:04:17Z"
+  "last_updated": "2026-05-22T03:07:10Z"
 }
