@@ -101444,6 +101444,25 @@
         "download_sec": 134.2,
         "upload_sec": 157.6
       }
+    },
+    {
+      "cr_film_id": 21045,
+      "cr_slug": "pribeh-plastu",
+      "title": "Příběh plastu",
+      "year": 2019,
+      "display_name": "Příběh plastu (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "615e3742b95fd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25094636,
+      "size_bytes": 496485029,
+      "uploaded_at": "2026-05-22T04:33:24Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 25.4,
+        "upload_sec": 27.4
+      }
     }
   ],
   "failed_attempts": [
@@ -103198,5 +103217,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T04:32:26Z"
+  "last_updated": "2026-05-22T04:33:24Z"
 }
