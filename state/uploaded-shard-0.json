@@ -104140,6 +104140,25 @@
         "download_sec": 95.2,
         "upload_sec": 116.3
       }
+    },
+    {
+      "cr_film_id": 21162,
+      "cr_slug": "jeremiah-johnson",
+      "title": "Jeremiah Johnson",
+      "year": 1972,
+      "display_name": "Jeremiah Johnson (1972) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "cee6372cee53ff4c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25099326,
+      "size_bytes": 2485266822,
+      "uploaded_at": "2026-05-22T08:21:26Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 83.2,
+        "upload_sec": 108.4
+      }
     }
   ],
   "failed_attempts": [
@@ -109328,5 +109347,5 @@
       "failed_at": "2026-05-22T07:06:05Z"
     }
   ],
-  "last_updated": "2026-05-22T08:18:10Z"
+  "last_updated": "2026-05-22T08:21:26Z"
 }
