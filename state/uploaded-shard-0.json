@@ -103608,6 +103608,25 @@
         "download_sec": 20.8,
         "upload_sec": 31.6
       }
+    },
+    {
+      "cr_film_id": 20940,
+      "cr_slug": "draci-zeme",
+      "title": "Dračí země",
+      "year": 2020,
+      "display_name": "Dračí země (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61ce14574f465",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25098286,
+      "size_bytes": 1554565113,
+      "uploaded_at": "2026-05-22T07:23:16Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 54.5,
+        "upload_sec": 67.4
+      }
     }
   ],
   "failed_attempts": [
@@ -108796,5 +108815,5 @@
       "failed_at": "2026-05-22T07:06:05Z"
     }
   ],
-  "last_updated": "2026-05-22T07:21:09Z"
+  "last_updated": "2026-05-22T07:23:16Z"
 }
