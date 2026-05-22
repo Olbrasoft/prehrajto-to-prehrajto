@@ -38625,3 +38625,14 @@
 [11:19:20]   upload done video_id=25103314 in 31.4s
 [11:19:22] film cr_film_id=21835 OK in 64.0s
 [11:19:22] batch-end ok=20 failed=0 dur=2941.8s avg/film=147.1s remaining=12103 eta_hours=494.5
+
+===== run 2026-05-22T11:20:22Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26284783930) =====
+[11:20:24] batch-start shard=1/2 count=20 backlog=17650 uploads=5547 failed_attempts=245
+[11:20:24] login
+[11:20:25] login done
+[11:20:25] iteration 1/20
+[11:20:25] film cr_film_id=21837 name='Dobrodružství Bullwhipa Griffina (1967) CZ' candidates=1
+[11:20:25]   candidate upload_id=587fcba790f14 url=https://prehraj.to/dobrodruzstvi-toma-sawyera-1967-monty-698/587fcba790f14
+[11:20:26]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/1479455/RyDTQvFXvunVh58CpPf45F2jHQLIZac75cLvc…)
+[11:20:43]   downloaded 484.1 MB in 15.4s (31.4 MB/s)
+[11:21:03]   upload done video_id=25103346 in 19.6s
