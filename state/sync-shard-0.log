@@ -36442,3 +36442,14 @@
 [01:56:50]   upload done video_id=25091412 in 25.0s
 [01:56:51] film cr_film_id=19568 OK in 48.0s
 [01:56:51] batch-end ok=20 failed=0 dur=1811.3s avg/film=90.6s remaining=12365 eta_hours=311.2
+
+===== run 2026-05-22T01:58:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26263991822) =====
+[01:58:29] batch-start shard=0/2 count=20 backlog=17650 uploads=5285 failed_attempts=731
+[01:58:29] login
+[01:58:30] login done
+[01:58:30] iteration 1/20
+[01:58:30] film cr_film_id=19570 name='Cesta (2009) CZ Dabing' candidates=10
+[01:58:30]   candidate upload_id=5a9c034810857 url=https://prehraj.to/cesta-2009-hdrip-cz-dabing-m3/5a9c034810857
+[01:58:32]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/3533895/1qBs5zudWi9ASJWU3xUNquOXI6EI4GcGJuVki…)
+[01:58:50]   downloaded 505.8 MB in 16.4s (30.8 MB/s)
+[01:59:14]   upload done video_id=25091486 in 24.0s
