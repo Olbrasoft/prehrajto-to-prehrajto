@@ -40389,3 +40389,18 @@
 [20:38:02]   upload done video_id=25111972 in 165.4s
 [20:38:05] film cr_film_id=22472 OK in 298.4s
 [20:38:05] batch-end ok=20 failed=0 dur=2962.7s avg/film=148.1s remaining=11828 eta_hours=486.6
+
+===== run 2026-05-22T20:38:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26308695539) =====
+[20:38:22] batch-start shard=0/2 count=20 backlog=17650 uploads=5822 failed_attempts=737
+[20:38:22] login
+[20:38:23] login done
+[20:38:23] iteration 1/20
+[20:38:23] film cr_film_id=22478 name='Mise moci (1983) CZ Dabing' candidates=2
+[20:38:23]   candidate upload_id=1c7e27698be25935 url=https://prehraj.to/mise-moci-1983-akcni-cz-dabing-spickova-kvalita-by-nexsus-mkv/1c7e27698be25935
+[20:38:24]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/163112171/WMZcm7T7zi0gIeZcydU6zT4vU5qIlBS2OIw…)
+[20:39:31]   downloaded 1,422.2 MB in 64.7s (22.0 MB/s)
+[20:40:47]   upload FAILED after 75.5s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[20:40:47]   candidate upload_id=5861b28e6be6c url=https://prehraj.to/mise-moci-cz-dabing-akcni-2f-valecny-2f-krimi-tchaj-wan-2f-hong-kong-1983-jackie-chan-id-154291/5861b28e6be6c
+[20:40:48]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/1236664/DvehGVsvxUjqH8GfxOcoMsNVSWjf6PcEmIgGT…)
+[20:41:22]   downloaded 699.9 MB in 32.0s (21.9 MB/s)
+[20:42:00]   upload done video_id=25112037 in 37.9s
