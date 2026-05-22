@@ -102679,6 +102679,25 @@
         "download_sec": 31.1,
         "upload_sec": 42.7
       }
+    },
+    {
+      "cr_film_id": 21285,
+      "cr_slug": "pripad-paradineova",
+      "title": "Případ Paradineová",
+      "year": 1947,
+      "display_name": "Případ Paradineová (1947) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aaa6095ea585",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25097520,
+      "size_bytes": 1550438529,
+      "uploaded_at": "2026-05-22T06:40:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 75.9,
+        "upload_sec": 95.9
+      }
     }
   ],
   "failed_attempts": [
@@ -104433,5 +104452,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T06:37:08Z"
+  "last_updated": "2026-05-22T06:40:05Z"
 }
