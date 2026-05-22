@@ -39221,3 +39221,14 @@
 [14:19:17]   upload done video_id=25106115 in 64.1s
 [14:19:19] film cr_film_id=21882 OK in 125.2s
 [14:19:19] batch-end ok=20 failed=0 dur=2056.8s avg/film=102.8s remaining=11988 eta_hours=342.3
+
+===== run 2026-05-22T14:21:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26293270682) =====
+[14:21:12] batch-start shard=0/2 count=20 backlog=17650 uploads=5662 failed_attempts=737
+[14:21:12] login
+[14:21:13] login done
+[14:21:13] iteration 1/20
+[14:21:13] film cr_film_id=21884 name='Vítejte do Zlých časů (1967) CZ' candidates=1
+[14:21:13]   candidate upload_id=5aa81a18c2949 url=https://prehraj.to/vitejte-do-zlych-casu-1967/5aa81a18c2949
+[14:21:14]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3626072/kLktxoIEPCg1FKDI5NfgMIMkFXOtJjImOTjvT…)
+[14:21:39]   downloaded 520.3 MB in 22.8s (22.8 MB/s)
+[14:22:09]   upload done video_id=25106171 in 29.9s
