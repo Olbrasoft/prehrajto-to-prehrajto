@@ -38042,3 +38042,14 @@
 [08:23:58]   upload done video_id=25099389 in 19.6s
 [08:23:59] film cr_film_id=21561 OK in 41.5s
 [08:23:59] batch-end ok=20 failed=0 dur=1806.6s avg/film=90.3s remaining=12181 eta_hours=305.5
+
+===== run 2026-05-22T08:27:09Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26277068996) =====
+[08:27:10] batch-start shard=1/2 count=20 backlog=17650 uploads=5469 failed_attempts=243
+[08:27:10] login
+[08:27:11] login done
+[08:27:11] iteration 1/20
+[08:27:11] film cr_film_id=21563 name='Májové hvězdy (1959) CZ' candidates=1
+[08:27:11]   candidate upload_id=60acd75ce2f1b url=https://prehraj.to/majove-hvezdy-valecny-1959-cz/60acd75ce2f1b
+[08:27:12]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/23660199/YRlIVmFwqS3VFMRCkyswgFkzfMxUxoS5xsV3…)
+[08:27:40]   downloaded 555.8 MB in 25.8s (21.5 MB/s)
+[08:28:10]   upload done video_id=25099453 in 29.4s
