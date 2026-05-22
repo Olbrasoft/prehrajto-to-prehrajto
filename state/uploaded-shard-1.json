@@ -102185,6 +102185,25 @@
         "download_sec": 26.5,
         "upload_sec": 31.2
       }
+    },
+    {
+      "cr_film_id": 21169,
+      "cr_slug": "barvy",
+      "title": "Barvy",
+      "year": 1988,
+      "display_name": "Barvy (1988) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "36a8c1a06ecca219",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25096589,
+      "size_bytes": 2750053851,
+      "uploaded_at": "2026-05-22T06:01:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 87.5,
+        "upload_sec": 103.7
+      }
     }
   ],
   "failed_attempts": [
@@ -103939,5 +103958,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T05:58:29Z"
+  "last_updated": "2026-05-22T06:01:45Z"
 }
