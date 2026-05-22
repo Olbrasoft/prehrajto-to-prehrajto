@@ -38050,3 +38050,14 @@
 [08:57:17]   upload done video_id=25100238 in 80.1s
 [08:57:19] film cr_film_id=21260 OK in 152.1s
 [08:57:19] batch-end ok=18 failed=2 dur=1809.1s avg/film=100.5s remaining=12148 eta_hours=339.1
+
+===== run 2026-05-22T09:18:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26279397611) =====
+[09:18:59] batch-start shard=0/2 count=20 backlog=17650 uploads=5502 failed_attempts=736
+[09:18:59] login
+[09:19:00] login done
+[09:19:00] iteration 1/20
+[09:19:00] film cr_film_id=21208 name='Člověk bestie (1938) CZ' candidates=2
+[09:19:00]   candidate upload_id=55bd6b2c21ad3 url=https://prehraj.to/clovek-bestie-bete-humaine-la-jean-gabin-1938-cz-tit/55bd6b2c21ad3
+[09:19:02]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/65006/qJeFNBfvBIOEfVxT3xH61fN3HpATOZI5DCAQCr0…)
+[09:19:28]   downloaded 470.6 MB in 24.6s (19.1 MB/s)
+[09:19:56]   upload done video_id=25100655 in 28.0s
