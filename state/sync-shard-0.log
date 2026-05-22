@@ -36150,3 +36150,14 @@
 [00:51:40]   upload done video_id=25089756 in 22.8s
 [00:51:42] film cr_film_id=19428 OK in 45.3s
 [00:51:42] batch-end ok=20 failed=0 dur=1647.4s avg/film=82.4s remaining=12405 eta_hours=283.9
+
+===== run 2026-05-22T00:51:54Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26261141209) =====
+[00:51:55] batch-start shard=0/2 count=20 backlog=17650 uploads=5245 failed_attempts=731
+[00:51:55] login
+[00:51:56] login done
+[00:51:56] iteration 1/20
+[00:51:56] film cr_film_id=19430 name='Muži v černém 2 (2002) CZ Dabing' candidates=12
+[00:51:56]   candidate upload_id=8297370e480b827a url=https://prehraj.to/muzi-v-cernem-2-mkv/8297370e480b827a
+[00:51:57]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/157588415/VVES6LH2JHewsljfPBHQzHkPt86hGnFv7IW…)
+[00:52:39]   downloaded 1,373.3 MB in 39.9s (34.4 MB/s)
+[00:53:33]   upload done video_id=25089782 in 53.9s
