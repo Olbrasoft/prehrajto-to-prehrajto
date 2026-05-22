@@ -103456,6 +103456,25 @@
         "download_sec": 13.8,
         "upload_sec": 19.8
       }
+    },
+    {
+      "cr_film_id": 20782,
+      "cr_slug": "tvar-vody",
+      "title": "Tvář vody",
+      "year": 2017,
+      "display_name": "Tvář vody (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e3c37819b88d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25098084,
+      "size_bytes": 847636643,
+      "uploaded_at": "2026-05-22T07:11:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.6,
+        "upload_sec": 38.2
+      }
     }
   ],
   "failed_attempts": [
@@ -108644,5 +108663,5 @@
       "failed_at": "2026-05-22T07:06:05Z"
     }
   ],
-  "last_updated": "2026-05-22T07:10:28Z"
+  "last_updated": "2026-05-22T07:11:40Z"
 }
