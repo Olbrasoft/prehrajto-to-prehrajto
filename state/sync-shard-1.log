@@ -41261,3 +41261,14 @@
 [23:42:41]   upload done video_id=25116978 in 81.9s
 [23:42:43] film cr_film_id=23195 OK in 161.5s
 [23:42:43] batch-end ok=20 failed=0 dur=1537.6s avg/film=76.9s remaining=11744 eta_hours=250.9
+
+===== run 2026-05-22T23:47:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26317361519) =====
+[23:47:34] batch-start shard=1/2 count=20 backlog=17650 uploads=5906 failed_attempts=249
+[23:47:34] login
+[23:47:36] login done
+[23:47:36] iteration 1/20
+[23:47:36] film cr_film_id=23197 name='Smrtící triky 2 (1991) CZ' candidates=1
+[23:47:36]   candidate upload_id=5ab86d1a17f10 url=https://prehraj.to/smrtici-triky-2-1991/5ab86d1a17f10
+[23:47:37]   resolved in 1.6s → 480p (https://pf-storage1.premiumcdn.net/3740188/7dGH6NFbZt4rUolIn9fr0F3bijwfnof0NSkMI…)
+[23:48:21]   downloaded 799.5 MB in 41.2s (19.4 MB/s)
+[23:49:06]   upload done video_id=25117292 in 45.2s
