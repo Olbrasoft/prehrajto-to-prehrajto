@@ -102126,6 +102126,25 @@
         "download_sec": 39.7,
         "upload_sec": 48.3
       }
+    },
+    {
+      "cr_film_id": 20166,
+      "cr_slug": "hazardni-hraci",
+      "title": "Hazardní hráči",
+      "year": 2015,
+      "display_name": "Hazardní hráči (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "563b0d46691f9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25095567,
+      "size_bytes": 393350051,
+      "uploaded_at": "2026-05-22T05:14:32Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 18.2,
+        "upload_sec": 24.8
+      }
     }
   ],
   "failed_attempts": [
@@ -107307,5 +107326,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T05:13:44Z"
+  "last_updated": "2026-05-22T05:14:32Z"
 }
