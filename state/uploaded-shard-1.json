@@ -100114,6 +100114,25 @@
         "download_sec": 77.1,
         "upload_sec": 118.4
       }
+    },
+    {
+      "cr_film_id": 20263,
+      "cr_slug": "potrava",
+      "title": "(P)otrava",
+      "year": 2023,
+      "display_name": "(P)otrava (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6587e2fd56064",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25091513,
+      "size_bytes": 2095688846,
+      "uploaded_at": "2026-05-22T02:02:03Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 93.2,
+        "upload_sec": 123.3
+      }
     }
   ],
   "failed_attempts": [
@@ -101868,5 +101887,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T01:57:17Z"
+  "last_updated": "2026-05-22T02:02:03Z"
 }

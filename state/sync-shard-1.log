@@ -36582,3 +36582,14 @@
 [01:57:17]   upload done video_id=25091378 in 118.4s
 [01:57:19] film cr_film_id=20261 OK in 200.2s
 [01:57:19] batch-end ok=20 failed=0 dur=1983.7s avg/film=99.2s remaining=12381 eta_hours=341.2
+
+===== run 2026-05-22T01:58:20Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26263991822) =====
+[01:58:21] batch-start shard=1/2 count=20 backlog=17650 uploads=5269 failed_attempts=243
+[01:58:21] login
+[01:58:23] login done
+[01:58:23] iteration 1/20
+[01:58:23] film cr_film_id=20263 name='(P)otrava (2023) CZ Dabing' candidates=1
+[01:58:23]   candidate upload_id=6587e2fd56064 url=https://prehraj.to/p-otrava-2023-novinka-cz-dabing-full-hd/6587e2fd56064
+[01:58:24]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/71707358/rZ2t0lhQnsRmsldTrJSRWhwjSXJHDQtQNFAR…)
+[02:00:00]   downloaded 2,095.7 MB in 93.2s (22.5 MB/s)
+[02:02:03]   upload done video_id=25091513 in 123.3s
