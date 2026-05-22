@@ -37750,3 +37750,14 @@
 [07:19:25]   upload done video_id=25098219 in 49.5s
 [07:19:28] film cr_film_id=21415 OK in 97.8s
 [07:19:28] batch-end ok=20 failed=0 dur=1949.0s avg/film=97.5s remaining=12221 eta_hours=331.0
+
+===== run 2026-05-22T07:19:43Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26273671139) =====
+[07:19:44] batch-start shard=1/2 count=20 backlog=17650 uploads=5429 failed_attempts=243
+[07:19:44] login
+[07:19:50] login done
+[07:19:50] iteration 1/20
+[07:19:50] film cr_film_id=21417 name='Hudba pro císaře (1955) CZ' candidates=2
+[07:19:50]   candidate upload_id=5c3080af47c71 url=https://prehraj.to/hudba-pro-cisare-1955/5c3080af47c71
+[07:19:52]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/10518800/yElHQ4uLXHA0unqFEgilauq0cqaiq7Un0Sm4…)
+[07:20:35]   downloaded 804.4 MB in 36.5s (22.0 MB/s)
+[07:21:26]   upload done video_id=25098261 in 51.4s
