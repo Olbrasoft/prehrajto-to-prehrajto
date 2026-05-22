@@ -36728,3 +36728,14 @@
 [02:46:28]   upload done video_id=25092400 in 122.2s
 [02:46:30] film cr_film_id=20447 OK in 227.4s
 [02:46:30] batch-end ok=20 failed=0 dur=2887.0s avg/film=144.3s remaining=12361 eta_hours=495.5
+
+===== run 2026-05-22T02:48:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26265508287) =====
+[02:48:22] batch-start shard=1/2 count=20 backlog=17650 uploads=5289 failed_attempts=243
+[02:48:22] login
+[02:48:24] login done
+[02:48:24] iteration 1/20
+[02:48:24] film cr_film_id=20451 name='Byla to divoká noc (2015) CZ Dabing' candidates=16
+[02:48:24]   candidate upload_id=59ebadc06a0fe url=https://prehraj.to/somnia-zlo-nikdy-nespi-before-i-wake-2016-czdub/59ebadc06a0fe
+[02:48:26]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/2826314/o82cdquG4CwLFqKUoES9ruA5IKdfYATNJsP7H…)
+[02:48:44]   downloaded 290.6 MB in 16.0s (18.2 MB/s)
+[02:49:03]   upload done video_id=25092470 in 19.4s
