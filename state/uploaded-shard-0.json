@@ -99200,6 +99200,25 @@
         "download_sec": 59.6,
         "upload_sec": 72.6
       }
+    },
+    {
+      "cr_film_id": 19206,
+      "cr_slug": "certoviny",
+      "title": "Čertoviny",
+      "year": 2018,
+      "display_name": "Čertoviny (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6851f18b4fef4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25088784,
+      "size_bytes": 2870419622,
+      "uploaded_at": "2026-05-22T00:13:26Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 130.5,
+        "upload_sec": 191.8
+      }
     }
   ],
   "failed_attempts": [
@@ -104381,5 +104400,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T00:07:59Z"
+  "last_updated": "2026-05-22T00:13:26Z"
 }
