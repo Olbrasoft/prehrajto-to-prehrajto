@@ -38488,3 +38488,14 @@
 [10:52:04]   upload done video_id=25102911 in 27.4s
 [10:52:06] film cr_film_id=21480 OK in 55.1s
 [10:52:06] batch-end ok=20 failed=0 dur=1306.6s avg/film=65.3s remaining=12088 eta_hours=219.3
+
+===== run 2026-05-22T11:20:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26284783930) =====
+[11:20:23] batch-start shard=0/2 count=20 backlog=17650 uploads=5562 failed_attempts=736
+[11:20:23] login
+[11:20:25] login done
+[11:20:25] iteration 1/20
+[11:20:25] film cr_film_id=21484 name='Žena, která všechno ví (1957) CZ' candidates=1
+[11:20:25]   candidate upload_id=5ab0a143e873b url=https://prehraj.to/zena-ktera-vsechno-vi-1957/5ab0a143e873b
+[11:20:26]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/3689532/PG9fz4UO5i2ecOdHr9c4NUv1TNwCElFWxSQpc…)
+[11:21:10]   downloaded 916.3 MB in 41.5s (22.1 MB/s)
+[11:22:05]   upload done video_id=25103354 in 55.6s
