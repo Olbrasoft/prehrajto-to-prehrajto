@@ -36004,3 +36004,14 @@
 [00:23:15]   upload done video_id=25089100 in 52.5s
 [00:23:17] film cr_film_id=19244 OK in 94.6s
 [00:23:17] batch-end ok=20 failed=0 dur=2761.7s avg/film=138.1s remaining=12425 eta_hours=476.6
+
+===== run 2026-05-22T00:24:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26261040532) =====
+[00:24:13] batch-start shard=0/2 count=20 backlog=17650 uploads=5225 failed_attempts=731
+[00:24:13] login
+[00:24:15] login done
+[00:24:15] iteration 1/20
+[00:24:15] film cr_film_id=19304 name='Až přijde oheň (2019) CZ Dabing' candidates=2
+[00:24:15]   candidate upload_id=5f8796043fa86 url=https://prehraj.to/az-prijde-ohen-2019-czdabing/5f8796043fa86
+[00:24:16]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/19253063/EeGh0yTn1UoxHEaIRNH9RTbMUA7IRghQ6c49…)
+[00:25:36]   downloaded 2,463.6 MB in 78.2s (31.5 MB/s)
+[00:27:06]   upload done video_id=25089174 in 89.9s
