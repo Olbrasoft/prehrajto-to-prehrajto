@@ -36588,3 +36588,14 @@
 [02:41:55]   upload done video_id=25092351 in 14.5s
 [02:41:57] film cr_film_id=19698 OK in 30.2s
 [02:41:57] batch-end ok=20 failed=0 dur=2606.4s avg/film=130.3s remaining=12345 eta_hours=446.8
+
+===== run 2026-05-22T02:48:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26265508287) =====
+[02:48:23] batch-start shard=0/2 count=20 backlog=17650 uploads=5305 failed_attempts=731
+[02:48:23] login
+[02:48:25] login done
+[02:48:25] iteration 1/20
+[02:48:25] film cr_film_id=19702 name='Princ a pruďas (2011) CZ Dabing' candidates=14
+[02:48:25]   candidate upload_id=58213f1fe60c4 url=https://prehraj.to/princ-a-prudas-your-highness-cz-dabing-2011/58213f1fe60c4
+[02:48:26]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/813129/4Yns9kf7RI6VHVXu3wt9kfBOtA5SePtNOCWGhN…)
+[02:48:59]   downloaded 597.1 MB in 30.0s (19.9 MB/s)
+[02:49:33]   upload done video_id=25092476 in 34.3s
