@@ -106099,6 +106099,25 @@
         "download_sec": 16.9,
         "upload_sec": 18.2
       }
+    },
+    {
+      "cr_film_id": 21987,
+      "cr_slug": "neporazeni",
+      "title": "Neporažení",
+      "year": 1969,
+      "display_name": "Neporažení (1969) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60a3dc187334a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25104344,
+      "size_bytes": 1092061968,
+      "uploaded_at": "2026-05-22T12:22:58Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 36.0,
+        "upload_sec": 50.0
+      }
     }
   ],
   "failed_attempts": [
@@ -107876,5 +107895,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-22T12:21:28Z"
+  "last_updated": "2026-05-22T12:22:58Z"
 }
