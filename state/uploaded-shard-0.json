@@ -101233,6 +101233,25 @@
         "download_sec": 67.6,
         "upload_sec": 74.9
       }
+    },
+    {
+      "cr_film_id": 19840,
+      "cr_slug": "havran",
+      "title": "Havran",
+      "year": 2012,
+      "display_name": "Havran (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6320d2c457f60",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25093479,
+      "size_bytes": 1329435126,
+      "uploaded_at": "2026-05-22T03:40:22Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 50.5,
+        "upload_sec": 61.7
+      }
     }
   ],
   "failed_attempts": [
@@ -106414,5 +106433,5 @@
       "failed_at": "2026-05-21T22:21:35Z"
     }
   ],
-  "last_updated": "2026-05-22T03:38:25Z"
+  "last_updated": "2026-05-22T03:40:22Z"
 }
