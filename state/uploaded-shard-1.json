@@ -109291,6 +109291,25 @@
         "download_sec": 42.7,
         "upload_sec": 35.6
       }
+    },
+    {
+      "cr_film_id": 22655,
+      "cr_slug": "rozsudek",
+      "title": "Rozsudek",
+      "year": 1982,
+      "display_name": "Rozsudek (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57da9bd9c6470",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25109709,
+      "size_bytes": 624722952,
+      "uploaded_at": "2026-05-22T17:41:56Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 31.6,
+        "upload_sec": 36.5
+      }
     }
   ],
   "failed_attempts": [
@@ -111094,5 +111113,5 @@
       "failed_at": "2026-05-22T16:10:39Z"
     }
   ],
-  "last_updated": "2026-05-22T17:40:43Z"
+  "last_updated": "2026-05-22T17:41:56Z"
 }
