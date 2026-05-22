@@ -38771,3 +38771,14 @@
 [11:43:34]   upload done video_id=25103735 in 23.6s
 [11:43:36] film cr_film_id=21919 OK in 48.4s
 [11:43:36] batch-end ok=20 failed=0 dur=1390.5s avg/film=69.5s remaining=12083 eta_hours=233.3
+
+===== run 2026-05-22T11:55:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26286295631) =====
+[11:55:23] batch-start shard=1/2 count=20 backlog=17650 uploads=5567 failed_attempts=245
+[11:55:23] login
+[11:55:24] login done
+[11:55:24] iteration 1/20
+[11:55:24] film cr_film_id=21921 name='Rosemary má děťátko (1968) CZ Dabing' candidates=6
+[11:55:24]   candidate upload_id=599d5ac0d0229 url=https://prehraj.to/rosemary-ma-detatko-1968-cz-dabing/599d5ac0d0229
+[11:55:25]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/2572930/yMetK2IvOSr4Cm7FlLUnAI4dukDfV0cNguEVu…)
+[11:56:09]   downloaded 1,506.1 MB in 42.2s (35.7 MB/s)
+[11:57:04]   upload done video_id=25103975 in 54.6s
