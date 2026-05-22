@@ -101729,6 +101729,25 @@
         "download_sec": 22.4,
         "upload_sec": 27.4
       }
+    },
+    {
+      "cr_film_id": 21099,
+      "cr_slug": "podnajemnik",
+      "title": "Podnájemník",
+      "year": 2009,
+      "display_name": "Podnájemník (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ecf51e6be597fa2e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25095446,
+      "size_bytes": 2366539844,
+      "uploaded_at": "2026-05-22T05:11:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 95.2,
+        "upload_sec": 121.0
+      }
     }
   ],
   "failed_attempts": [
@@ -103483,5 +103502,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T05:07:31Z"
+  "last_updated": "2026-05-22T05:11:12Z"
 }
