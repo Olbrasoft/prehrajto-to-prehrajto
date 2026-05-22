@@ -40831,3 +40831,14 @@
 [22:41:26]   upload done video_id=25113653 in 34.9s
 [22:41:27] film cr_film_id=22756 OK in 66.7s
 [22:41:27] batch-end ok=20 failed=0 dur=2324.3s avg/film=116.2s remaining=11768 eta_hours=379.8
+
+===== run 2026-05-22T22:42:10Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26315464344) =====
+[22:42:12] batch-start shard=0/2 count=20 backlog=17650 uploads=5882 failed_attempts=738
+[22:42:12] login
+[22:42:13] login done
+[22:42:13] iteration 1/20
+[22:42:13] film cr_film_id=22760 name='Učitelé (1984) CZ' candidates=1
+[22:42:13]   candidate upload_id=5a9b2f2e9c879 url=https://prehraj.to/ucitele-1984/5a9b2f2e9c879
+[22:42:15]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/3525512/XB9HjzCnMubdUj4cJVFNaCyQIDVIA4FVrHEpu…)
+[22:43:18]   downloaded 1,233.4 MB in 61.0s (20.2 MB/s)
+[22:44:37]   upload done video_id=25113695 in 79.6s
