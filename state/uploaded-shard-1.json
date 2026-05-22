@@ -99449,6 +99449,25 @@
         "download_sec": 60.5,
         "upload_sec": 68.6
       }
+    },
+    {
+      "cr_film_id": 20003,
+      "cr_slug": "knoflikova-valka",
+      "title": "Knoflíková válka",
+      "year": 2011,
+      "display_name": "Knoflíková válka (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bf148a4b4bb4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25090006,
+      "size_bytes": 732989995,
+      "uploaded_at": "2026-05-22T01:03:07Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 31.6,
+        "upload_sec": 38.6
+      }
     }
   ],
   "failed_attempts": [
@@ -101203,5 +101222,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T01:01:52Z"
+  "last_updated": "2026-05-22T01:03:07Z"
 }
