@@ -103610,6 +103610,25 @@
         "download_sec": 44.7,
         "upload_sec": 51.5
       }
+    },
+    {
+      "cr_film_id": 21501,
+      "cr_slug": "zarijove-noci",
+      "title": "Zářijové noci",
+      "year": 1957,
+      "display_name": "Zářijové noci (1957) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aa303f0c80b9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25098980,
+      "size_bytes": 471913025,
+      "uploaded_at": "2026-05-22T07:59:51Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 19.2,
+        "upload_sec": 21.0
+      }
     }
   ],
   "failed_attempts": [
@@ -105364,5 +105383,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T07:59:07Z"
+  "last_updated": "2026-05-22T07:59:51Z"
 }
