@@ -38780,3 +38780,14 @@
 [12:22:07]   upload done video_id=25104336 in 34.3s
 [12:22:09] film cr_film_id=21644 OK in 70.0s
 [12:22:09] batch-end ok=20 failed=0 dur=1608.0s avg/film=80.4s remaining=12048 eta_hours=269.1
+
+===== run 2026-05-22T12:28:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26287777803) =====
+[12:28:52] batch-start shard=0/2 count=20 backlog=17650 uploads=5602 failed_attempts=736
+[12:28:52] login
+[12:28:53] login done
+[12:28:53] iteration 1/20
+[12:28:53] film cr_film_id=21648 name='Anička jde do školy (1962) CZ' candidates=1
+[12:28:53]   candidate upload_id=5a8edaea82e06 url=https://prehraj.to/anicka-jde-do-skoly-1962/5a8edaea82e06
+[12:28:55]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/3447985/lJMfjnhRDidatjVI0eso4hMVI1RI4ZsbquGgu…)
+[12:29:18]   downloaded 398.8 MB in 20.5s (19.5 MB/s)
+[12:29:41]   upload done video_id=25104426 in 23.3s
