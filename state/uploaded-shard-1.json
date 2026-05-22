@@ -101615,6 +101615,25 @@
         "download_sec": 131.3,
         "upload_sec": 142.6
       }
+    },
+    {
+      "cr_film_id": 21085,
+      "cr_slug": "ninja-prichazi",
+      "title": "Ninja přichází",
+      "year": 1981,
+      "display_name": "Ninja přichází (1981) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aba7c5c32119",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25095060,
+      "size_bytes": 525649414,
+      "uploaded_at": "2026-05-22T04:52:56Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 25.9,
+        "upload_sec": 32.3
+      }
     }
   ],
   "failed_attempts": [
@@ -103369,5 +103388,5 @@
       "failed_at": "2026-05-21T21:51:44Z"
     }
   ],
-  "last_updated": "2026-05-22T04:51:53Z"
+  "last_updated": "2026-05-22T04:52:56Z"
 }
