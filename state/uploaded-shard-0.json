@@ -107294,6 +107294,25 @@
         "download_sec": 42.4,
         "upload_sec": 54.1
       }
+    },
+    {
+      "cr_film_id": 21826,
+      "cr_slug": "strazni-lod-sand-pebbles",
+      "title": "Strážní loď Sand Pebbles",
+      "year": 1966,
+      "display_name": "Strážní loď Sand Pebbles (1966) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a799eb19525",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25105804,
+      "size_bytes": 1113848277,
+      "uploaded_at": "2026-05-22T13:56:06Z",
+      "timing": {
+        "resolve_sec": 4.3,
+        "download_sec": 51.4,
+        "upload_sec": 59.3
+      }
     }
   ],
   "failed_attempts": [
@@ -112524,7 +112543,14 @@
         "resolve_sec": 0.8,
         "download_sec": 61.5
       }
+    },
+    {
+      "cr_film_id": 21826,
+      "upload_id": "62199a30daa9e",
+      "reason": "oversize: 8292204387 B",
+      "permanent": true,
+      "failed_at": "2026-05-22T13:54:09Z"
     }
   ],
-  "last_updated": "2026-05-22T13:54:02Z"
+  "last_updated": "2026-05-22T13:56:06Z"
 }
