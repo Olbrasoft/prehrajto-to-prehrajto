@@ -36296,3 +36296,14 @@
 [01:26:22]   upload done video_id=25090640 in 132.0s
 [01:26:25] film cr_film_id=19492 OK in 251.3s
 [01:26:25] batch-end ok=20 failed=0 dur=2068.9s avg/film=103.4s remaining=12385 eta_hours=355.7
+
+===== run 2026-05-22T01:26:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26262101668) =====
+[01:26:39] batch-start shard=0/2 count=20 backlog=17650 uploads=5265 failed_attempts=731
+[01:26:39] login
+[01:26:40] login done
+[01:26:40] iteration 1/20
+[01:26:40] film cr_film_id=19494 name='Pan Včelka (2007) CZ' candidates=1
+[01:26:40]   candidate upload_id=016d99663a98ef4a url=https://prehraj.to/pan-vcielka-2007-sk/016d99663a98ef4a
+[01:26:41]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/157088336/dW2S0ETp5U28iY9TDnFvzTLXcyECe1CJpU0…)
+[01:27:04]   downloaded 703.5 MB in 21.2s (33.2 MB/s)
+[01:27:32]   upload done video_id=25090724 in 27.6s
