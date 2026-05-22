@@ -111797,6 +111797,25 @@
         "download_sec": 20.2,
         "upload_sec": 22.8
       }
+    },
+    {
+      "cr_film_id": 22768,
+      "cr_slug": "moji-pratele-iii",
+      "title": "Moji přátelé III",
+      "year": 1985,
+      "display_name": "Moji přátelé III (1985) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "586a4cb5437f1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25113742,
+      "size_bytes": 594632851,
+      "uploaded_at": "2026-05-22T22:46:44Z",
+      "timing": {
+        "resolve_sec": 4.3,
+        "download_sec": 30.4,
+        "upload_sec": 36.1
+      }
     }
   ],
   "failed_attempts": [
@@ -117046,7 +117065,14 @@
         "download_sec": 64.7,
         "upload_sec": 75.5
       }
+    },
+    {
+      "cr_film_id": 22766,
+      "upload_id": "63e91b98e166a",
+      "reason": "oversize: 7005951277 B",
+      "permanent": true,
+      "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-22T22:45:26Z"
+  "last_updated": "2026-05-22T22:46:44Z"
 }
