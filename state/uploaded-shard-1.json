@@ -115428,6 +115428,25 @@
         "download_sec": 28.8,
         "upload_sec": 38.9
       }
+    },
+    {
+      "cr_film_id": 23773,
+      "cr_slug": "bily-tygr-1996",
+      "title": "Bílý tygr",
+      "year": 1996,
+      "display_name": "Bílý tygr (1996) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a4204b6ca150",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25128026,
+      "size_bytes": 595556640,
+      "uploaded_at": "2026-05-23T04:13:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.7,
+        "upload_sec": 21.7
+      }
     }
   ],
   "failed_attempts": [
@@ -117238,5 +117257,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-23T04:13:09Z"
+  "last_updated": "2026-05-23T04:13:52Z"
 }
