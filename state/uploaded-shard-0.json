@@ -121335,6 +121335,25 @@
         "download_sec": 15.7,
         "upload_sec": 17.2
       }
+    },
+    {
+      "cr_film_id": 24586,
+      "cr_slug": "prazsky-flamendr",
+      "title": "Pražský flamendr",
+      "year": 1926,
+      "display_name": "Pražský flamendr (1926) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58507cc773857",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25141194,
+      "size_bytes": 1271719285,
+      "uploaded_at": "2026-05-23T12:06:09Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 39.1,
+        "upload_sec": 46.4
+      }
     }
   ],
   "failed_attempts": [
@@ -126600,5 +126619,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T12:04:39Z"
+  "last_updated": "2026-05-23T12:06:09Z"
 }
