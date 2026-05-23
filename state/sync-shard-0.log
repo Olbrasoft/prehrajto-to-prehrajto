@@ -42289,3 +42289,14 @@
 [04:03:17]   upload done video_id=25127589 in 200.9s
 [04:03:20] film cr_film_id=23514 OK in 350.8s
 [04:03:20] batch-end ok=19 failed=1 dur=1589.4s avg/film=83.7s remaining=11570 eta_hours=269.0
+
+===== run 2026-05-23T04:04:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26322983608) =====
+[04:04:14] batch-start shard=0/2 count=20 backlog=17650 uploads=6080 failed_attempts=740
+[04:04:14] login
+[04:04:15] login done
+[04:04:15] iteration 1/20
+[04:04:15] film cr_film_id=23516 name='Malí obři (1994) CZ' candidates=1
+[04:04:15]   candidate upload_id=5aa890834098e url=https://prehraj.to/mali-obri-1994/5aa890834098e
+[04:04:16]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/3629830/JAKfBRIEkUOmIBQUr1FK1I6jHKxiJbcz8F20i…)
+[04:05:01]   downloaded 1,496.2 MB in 43.3s (34.6 MB/s)
+[04:05:54]   upload done video_id=25127750 in 53.0s

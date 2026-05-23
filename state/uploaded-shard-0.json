@@ -115521,6 +115521,25 @@
         "download_sec": 145.3,
         "upload_sec": 200.9
       }
+    },
+    {
+      "cr_film_id": 23516,
+      "cr_slug": "mali-obri",
+      "title": "Malí obři",
+      "year": 1994,
+      "display_name": "Malí obři (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aa890834098e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25127750,
+      "size_bytes": 1496240337,
+      "uploaded_at": "2026-05-23T04:05:54Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 43.3,
+        "upload_sec": 53.0
+      }
     }
   ],
   "failed_attempts": [
@@ -120786,5 +120805,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T04:03:17Z"
+  "last_updated": "2026-05-23T04:05:54Z"
 }
