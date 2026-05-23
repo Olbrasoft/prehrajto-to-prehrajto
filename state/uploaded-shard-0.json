@@ -119986,6 +119986,25 @@
         "download_sec": 42.5,
         "upload_sec": 56.3
       }
+    },
+    {
+      "cr_film_id": 24310,
+      "cr_slug": "nahoru-dolu",
+      "title": "Nahoru, dolů",
+      "year": 2000,
+      "display_name": "Nahoru, dolů (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c50f3fb5b689",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25138442,
+      "size_bytes": 361261678,
+      "uploaded_at": "2026-05-23T10:24:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.0,
+        "upload_sec": 15.5
+      }
     }
   ],
   "failed_attempts": [
@@ -125251,5 +125270,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T10:24:05Z"
+  "last_updated": "2026-05-23T10:24:37Z"
 }
