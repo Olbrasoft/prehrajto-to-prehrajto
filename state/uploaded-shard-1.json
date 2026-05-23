@@ -126847,6 +126847,25 @@
         "download_sec": 21.1,
         "upload_sec": 57.4
       }
+    },
+    {
+      "cr_film_id": 25683,
+      "cr_slug": "slunovrat-2008",
+      "title": "Slunovrat",
+      "year": 2007,
+      "display_name": "Slunovrat (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e9328a42901c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25156768,
+      "size_bytes": 450868311,
+      "uploaded_at": "2026-05-23T22:11:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.4,
+        "upload_sec": 34.6
+      }
     }
   ],
   "failed_attempts": [
@@ -128664,5 +128683,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T22:09:57Z"
+  "last_updated": "2026-05-23T22:11:00Z"
 }
