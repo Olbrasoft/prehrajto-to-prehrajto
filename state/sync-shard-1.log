@@ -46081,3 +46081,14 @@
 [16:44:30]   upload done video_id=25150674 in 28.9s
 [16:44:32] film cr_film_id=25307 OK in 60.2s
 [16:44:32] batch-end ok=20 failed=0 dur=1729.7s avg/film=86.5s remaining=11084 eta_hours=266.3
+
+===== run 2026-05-23T16:46:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26338177237) =====
+[16:46:07] batch-start shard=1/2 count=20 backlog=17650 uploads=6566 failed_attempts=250
+[16:46:07] login
+[16:46:09] login done
+[16:46:09] iteration 1/20
+[16:46:09] film cr_film_id=25309 name='Miluji jen tebe (2004) CZ Dabing' candidates=1
+[16:46:09]   candidate upload_id=60e8eab4d50a4 url=https://prehraj.to/miluji-jen-tebe-2004-czdab/60e8eab4d50a4
+[16:46:10]   resolved in 1.4s → 480p (https://pf-storage3.premiumcdn.net/24222849/R5yI9bhAaUV3SRjSariygh3bf2wToyuLJCg5…)
+[16:46:39]   downloaded 527.6 MB in 27.2s (19.4 MB/s)
+[16:47:12]   upload done video_id=25150733 in 32.3s
