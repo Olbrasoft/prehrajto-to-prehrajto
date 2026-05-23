@@ -121394,6 +121394,25 @@
         "download_sec": 124.1,
         "upload_sec": 194.8
       }
+    },
+    {
+      "cr_film_id": 24759,
+      "cr_slug": "trosecnici",
+      "title": "Trosečníci",
+      "year": 2002,
+      "display_name": "Trosečníci (2002) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5992dbfae34f4",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25141845,
+      "size_bytes": 1296291672,
+      "uploaded_at": "2026-05-23T12:26:54Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 48.9,
+        "upload_sec": 68.1
+      }
     }
   ],
   "failed_attempts": [
@@ -123211,5 +123230,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T12:24:52Z"
+  "last_updated": "2026-05-23T12:26:54Z"
 }
