@@ -121886,6 +121886,25 @@
         "download_sec": 140.0,
         "upload_sec": 158.3
       }
+    },
+    {
+      "cr_film_id": 24676,
+      "cr_slug": "temnota-2002",
+      "title": "Temnota",
+      "year": 2002,
+      "display_name": "Temnota (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b70b390c6f8a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25142463,
+      "size_bytes": 415055141,
+      "uploaded_at": "2026-05-23T12:47:54Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 21.5,
+        "upload_sec": 29.8
+      }
     }
   ],
   "failed_attempts": [
@@ -127158,5 +127177,5 @@
       "failed_at": "2026-05-23T12:37:25Z"
     }
   ],
-  "last_updated": "2026-05-23T12:46:56Z"
+  "last_updated": "2026-05-23T12:47:54Z"
 }
