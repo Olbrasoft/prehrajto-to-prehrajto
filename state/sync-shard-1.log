@@ -42721,3 +42721,14 @@
 [05:03:31]   upload done video_id=25129536 in 28.5s
 [05:03:32] film cr_film_id=23859 OK in 51.7s
 [05:03:32] batch-end ok=20 failed=0 dur=1369.9s avg/film=68.5s remaining=11544 eta_hours=219.7
+
+===== run 2026-05-23T05:05:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26324163331) =====
+[05:05:07] batch-start shard=1/2 count=20 backlog=17650 uploads=6106 failed_attempts=249
+[05:05:07] login
+[05:05:09] login done
+[05:05:09] iteration 1/20
+[05:05:09] film cr_film_id=23861 name='Správná trefa (1997) CZ' candidates=2
+[05:05:09]   candidate upload_id=5a8ff1d6448ed url=https://prehraj.to/spravna-trefa-1997/5a8ff1d6448ed
+[05:05:10]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3459265/nAZHXQfz5F24s6ecmLswgfD7SrVSZ1se5FVZU…)
+[05:05:42]   downloaded 906.4 MB in 30.7s (29.5 MB/s)
+[05:06:20]   upload done video_id=25129611 in 38.0s
