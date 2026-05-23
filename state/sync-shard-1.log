@@ -42575,3 +42575,14 @@
 [04:22:30]   upload done video_id=25128291 in 33.9s
 [04:22:31] film cr_film_id=23805 OK in 53.2s
 [04:22:31] batch-end ok=20 failed=0 dur=1094.1s avg/film=54.7s remaining=11564 eta_hours=175.7
+
+===== run 2026-05-23T04:40:40Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26323694524) =====
+[04:40:41] batch-start shard=1/2 count=20 backlog=17650 uploads=6086 failed_attempts=249
+[04:40:41] login
+[04:40:43] login done
+[04:40:43] iteration 1/20
+[04:40:43] film cr_film_id=23807 name='Jen blázni spěchají (1997) CZ' candidates=2
+[04:40:43]   candidate upload_id=5a9c44992f58e url=https://prehraj.to/jen-blazni-spechaji-1997/5a9c44992f58e
+[04:40:44]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3535234/bwxHRvUz3cwKFqbT9WTJ5U4GtJ1SNGT8ls0Xf…)
+[04:41:05]   downloaded 574.3 MB in 20.1s (28.6 MB/s)
+[04:41:27]   upload done video_id=25128854 in 21.3s
