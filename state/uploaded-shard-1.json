@@ -112502,6 +112502,25 @@
         "download_sec": 27.0,
         "upload_sec": 33.0
       }
+    },
+    {
+      "cr_film_id": 23239,
+      "cr_slug": "lyzarska-skola",
+      "title": "Lyžařská škola",
+      "year": 1991,
+      "display_name": "Lyžařská škola (1991) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5859385a15888",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25118160,
+      "size_bytes": 500619352,
+      "uploaded_at": "2026-05-23T00:08:46Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 26.0,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -114312,5 +114331,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-23T00:07:45Z"
+  "last_updated": "2026-05-23T00:08:46Z"
 }
