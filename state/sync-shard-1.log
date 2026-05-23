@@ -43015,3 +43015,14 @@
 [06:18:54]   upload done video_id=25131854 in 42.1s
 [06:18:56] film cr_film_id=24007 OK in 82.9s
 [06:18:56] batch-end ok=20 failed=0 dur=2150.5s avg/film=107.5s remaining=11504 eta_hours=343.5
+
+===== run 2026-05-23T06:19:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26325601312) =====
+[06:19:32] batch-start shard=1/2 count=20 backlog=17650 uploads=6146 failed_attempts=250
+[06:19:32] login
+[06:19:34] login done
+[06:19:34] iteration 1/20
+[06:19:34] film cr_film_id=24009 name='Inspektor Gadget (1999) CZ Dabing' candidates=1
+[06:19:34]   candidate upload_id=68bcbfb120fd0 url=https://prehraj.to/inspektor-gadget-1999-czdab/68bcbfb120fd0
+[06:19:35]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/145638420/BLzTJOf7VsvKUJYHMNS7mfKvCMvcW8u6XT8…)
+[06:20:42]   downloaded 1,358.9 MB in 64.9s (20.9 MB/s)
+[06:21:59]   upload done video_id=25131926 in 76.6s
