@@ -120425,6 +120425,25 @@
         "download_sec": 21.6,
         "upload_sec": 24.1
       }
+    },
+    {
+      "cr_film_id": 24621,
+      "cr_slug": "bublinak",
+      "title": "Bubliňák",
+      "year": 2001,
+      "display_name": "Bubliňák (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c2c06f643da5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25140150,
+      "size_bytes": 335323025,
+      "uploaded_at": "2026-05-23T11:21:27Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 17.0,
+        "upload_sec": 24.9
+      }
     }
   ],
   "failed_attempts": [
@@ -122242,5 +122261,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T11:20:40Z"
+  "last_updated": "2026-05-23T11:21:27Z"
 }
