@@ -119435,6 +119435,25 @@
         "download_sec": 31.8,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 24202,
+      "cr_slug": "naruseni",
+      "title": "Narušení",
+      "year": 1999,
+      "display_name": "Narušení (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "680a8d239c661",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25137259,
+      "size_bytes": 1450818515,
+      "uploaded_at": "2026-05-23T09:41:32Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 64.8,
+        "upload_sec": 94.9
+      }
     }
   ],
   "failed_attempts": [
@@ -124700,5 +124719,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T09:38:43Z"
+  "last_updated": "2026-05-23T09:41:32Z"
 }
