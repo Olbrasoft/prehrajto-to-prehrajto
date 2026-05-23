@@ -42144,3 +42144,14 @@
 [03:35:28]   upload done video_id=25126701 in 99.1s
 [03:35:29] film cr_film_id=23440 OK in 181.5s
 [03:35:29] batch-end ok=20 failed=0 dur=1834.1s avg/film=91.7s remaining=11589 eta_hours=295.2
+
+===== run 2026-05-23T03:36:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26322453862) =====
+[03:36:49] batch-start shard=0/2 count=20 backlog=17650 uploads=6061 failed_attempts=739
+[03:36:49] login
+[03:36:51] login done
+[03:36:51] iteration 1/20
+[03:36:51] film cr_film_id=23446 name='Cukr, káva, limonáda (1993) CZ' candidates=1
+[03:36:51]   candidate upload_id=582104eddb5e1 url=https://prehraj.to/cukr-kava-limonada-2f-un-deux-trois-soleil-1993-cz-tit/582104eddb5e1
+[03:36:52]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/812256/KODspOCZbskyTL2hDdTjLCBWtgyiyDSXZI3bIv…)
+[03:37:18]   downloaded 582.3 MB in 23.9s (24.4 MB/s)
+[03:37:54]   upload done video_id=25126821 in 36.9s
