@@ -117993,6 +117993,25 @@
         "download_sec": 21.9,
         "upload_sec": 24.0
       }
+    },
+    {
+      "cr_film_id": 24211,
+      "cr_slug": "ves-v-pohranici",
+      "title": "Ves v pohraničí",
+      "year": 1948,
+      "display_name": "Ves v pohraničí (1948) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60b4a9be85127",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25134683,
+      "size_bytes": 1169003151,
+      "uploaded_at": "2026-05-23T08:03:48Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 32.6,
+        "upload_sec": 55.9
+      }
     }
   ],
   "failed_attempts": [
@@ -119810,5 +119829,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T08:02:16Z"
+  "last_updated": "2026-05-23T08:03:48Z"
 }
