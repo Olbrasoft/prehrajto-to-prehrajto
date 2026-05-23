@@ -122059,6 +122059,25 @@
         "download_sec": 53.7,
         "upload_sec": 55.2
       }
+    },
+    {
+      "cr_film_id": 24861,
+      "cr_slug": "diry",
+      "title": "Díry",
+      "year": 2003,
+      "display_name": "Díry (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c2c29d3a93ad",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25145133,
+      "size_bytes": 528900566,
+      "uploaded_at": "2026-05-23T13:21:54Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 25.2,
+        "upload_sec": 32.9
+      }
     }
   ],
   "failed_attempts": [
@@ -123876,5 +123895,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T13:20:51Z"
+  "last_updated": "2026-05-23T13:21:54Z"
 }
