@@ -114970,6 +114970,25 @@
         "download_sec": 31.2,
         "upload_sec": 39.1
       }
+    },
+    {
+      "cr_film_id": 23402,
+      "cr_slug": "mr-jones",
+      "title": "Mr. Jones",
+      "year": 1993,
+      "display_name": "Mr. Jones (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "569290d13659f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25126176,
+      "size_bytes": 940942138,
+      "uploaded_at": "2026-05-23T03:20:21Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.3,
+        "upload_sec": 44.6
+      }
     }
   ],
   "failed_attempts": [
@@ -120228,5 +120247,5 @@
       "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-23T03:19:01Z"
+  "last_updated": "2026-05-23T03:20:21Z"
 }
