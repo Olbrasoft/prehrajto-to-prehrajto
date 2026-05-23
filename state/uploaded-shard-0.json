@@ -113450,6 +113450,25 @@
         "download_sec": 23.4,
         "upload_sec": 28.6
       }
+    },
+    {
+      "cr_film_id": 23066,
+      "cr_slug": "kantonsky-kmotr",
+      "title": "Kantonský kmotr",
+      "year": 1989,
+      "display_name": "Kantonský kmotr (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b89569ff191e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25120035,
+      "size_bytes": 1002120438,
+      "uploaded_at": "2026-05-23T01:01:07Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 44.7,
+        "upload_sec": 52.8
+      }
     }
   ],
   "failed_attempts": [
@@ -118708,5 +118727,5 @@
       "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-23T00:59:24Z"
+  "last_updated": "2026-05-23T01:01:07Z"
 }
