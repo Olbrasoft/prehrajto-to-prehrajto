@@ -41845,3 +41845,14 @@
 [01:39:50]   upload done video_id=25122126 in 32.4s
 [01:39:52] film cr_film_id=23463 OK in 57.4s
 [01:39:52] batch-end ok=20 failed=0 dur=1702.1s avg/film=85.1s remaining=11664 eta_hours=275.7
+
+===== run 2026-05-23T01:50:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26320282281) =====
+[01:50:32] batch-start shard=1/2 count=20 backlog=17650 uploads=5986 failed_attempts=249
+[01:50:32] login
+[01:50:34] login done
+[01:50:34] iteration 1/20
+[01:50:34] film cr_film_id=23467 name='APEX (1994) CZ Dabing' candidates=2
+[01:50:34]   candidate upload_id=65d2820ecb5cf url=https://prehraj.to/apex-1994-cz-dab/65d2820ecb5cf
+[01:50:35]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/73644491/jQ6TKjIOwcz5Fb1SAVsE3IzVU1JivDh0KC1E…)
+[01:51:11]   downloaded 660.9 MB in 33.9s (19.5 MB/s)
+[01:51:50]   upload done video_id=25122649 in 39.2s
