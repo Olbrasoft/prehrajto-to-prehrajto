@@ -120841,6 +120841,25 @@
         "download_sec": 100.7,
         "upload_sec": 162.2
       }
+    },
+    {
+      "cr_film_id": 24482,
+      "cr_slug": "oskliva-slecna",
+      "title": "Ošklivá slečna",
+      "year": 1959,
+      "display_name": "Ošklivá slečna (1959) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "605e4c188a2f6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25140454,
+      "size_bytes": 412015223,
+      "uploaded_at": "2026-05-23T11:34:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.7,
+        "upload_sec": 17.5
+      }
     }
   ],
   "failed_attempts": [
@@ -126106,5 +126125,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T11:32:02Z"
+  "last_updated": "2026-05-23T11:34:40Z"
 }

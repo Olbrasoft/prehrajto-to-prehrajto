@@ -44331,3 +44331,14 @@
 [11:32:02]   upload done video_id=25140337 in 162.2s
 [11:32:04] film cr_film_id=24478 OK in 268.7s
 [11:32:04] batch-end ok=20 failed=0 dur=1792.1s avg/film=89.6s remaining=11290 eta_hours=281.0
+
+===== run 2026-05-23T11:34:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26331584192) =====
+[11:34:04] batch-start shard=0/2 count=20 backlog=17650 uploads=6360 failed_attempts=740
+[11:34:04] login
+[11:34:05] login done
+[11:34:05] iteration 1/20
+[11:34:05] film cr_film_id=24482 name='Ošklivá slečna (1959) CZ Dabing' candidates=3
+[11:34:05]   candidate upload_id=605e4c188a2f6 url=https://prehraj.to/oskliva-slecna-1959-czdab/605e4c188a2f6
+[11:34:06]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/22830954/0x9soaFY1ur1U3QT6mUeZFnpu0nt80t4vhed…)
+[11:34:23]   downloaded 412.0 MB in 14.7s (28.0 MB/s)
+[11:34:40]   upload done video_id=25140454 in 17.5s
