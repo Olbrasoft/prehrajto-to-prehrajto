@@ -122228,6 +122228,25 @@
         "download_sec": 35.1,
         "upload_sec": 50.5
       }
+    },
+    {
+      "cr_film_id": 24732,
+      "cr_slug": "klub-vyvolenych",
+      "title": "Klub vyvolených",
+      "year": 2002,
+      "display_name": "Klub vyvolených (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57cdff5415bff",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25143832,
+      "size_bytes": 553792124,
+      "uploaded_at": "2026-05-23T13:11:10Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 23.6,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -127500,5 +127519,5 @@
       "failed_at": "2026-05-23T12:37:25Z"
     }
   ],
-  "last_updated": "2026-05-23T13:10:12Z"
+  "last_updated": "2026-05-23T13:11:10Z"
 }
