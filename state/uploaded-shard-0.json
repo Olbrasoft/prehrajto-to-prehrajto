@@ -117573,6 +117573,25 @@
         "download_sec": 21.0,
         "upload_sec": 56.2
       }
+    },
+    {
+      "cr_film_id": 23900,
+      "cr_slug": "polibek-1998",
+      "title": "Polibek",
+      "year": 1998,
+      "display_name": "Polibek (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e1becc93ac3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25132934,
+      "size_bytes": 450868458,
+      "uploaded_at": "2026-05-23T06:58:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.4,
+        "upload_sec": 25.1
+      }
     }
   ],
   "failed_attempts": [
@@ -122838,5 +122857,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T06:57:53Z"
+  "last_updated": "2026-05-23T06:58:39Z"
 }
