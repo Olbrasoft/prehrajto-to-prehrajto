@@ -116205,6 +116205,25 @@
         "download_sec": 42.0,
         "upload_sec": 53.7
       }
+    },
+    {
+      "cr_film_id": 23644,
+      "cr_slug": "sila-lasky-1995",
+      "title": "Síla lásky",
+      "year": 1995,
+      "display_name": "Síla lásky (1995) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a8cd387dbe2d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25129409,
+      "size_bytes": 1376012560,
+      "uploaded_at": "2026-05-23T04:59:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 39.9,
+        "upload_sec": 55.0
+      }
     }
   ],
   "failed_attempts": [
@@ -121470,5 +121489,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T04:57:45Z"
+  "last_updated": "2026-05-23T04:59:24Z"
 }
