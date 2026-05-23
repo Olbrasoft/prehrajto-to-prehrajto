@@ -44477,3 +44477,14 @@
 [11:55:17]   upload done video_id=25140960 in 27.9s
 [11:55:19] film cr_film_id=24558 OK in 50.1s
 [11:55:19] batch-end ok=20 failed=0 dur=1273.3s avg/film=63.7s remaining=11270 eta_hours=199.4
+
+===== run 2026-05-23T11:56:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26332028202) =====
+[11:56:58] batch-start shard=0/2 count=20 backlog=17650 uploads=6380 failed_attempts=740
+[11:56:58] login
+[11:56:59] login done
+[11:56:59] iteration 1/20
+[11:56:59] film cr_film_id=24560 name='Klíč (1971) CZ Dabing' candidates=2
+[11:56:59]   candidate upload_id=660dc9d3456dc url=https://prehraj.to/klic-1971-czdab/660dc9d3456dc
+[11:57:00]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/75669401/dXpc1QhPpSBGC1Zs8kF30hA9Fy5SA9u5gsG0…)
+[11:57:52]   downloaded 1,860.4 MB in 50.2s (37.1 MB/s)
+[11:59:10]   upload done video_id=25141037 in 78.3s
