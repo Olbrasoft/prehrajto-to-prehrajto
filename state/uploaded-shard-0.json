@@ -125895,6 +125895,25 @@
         "download_sec": 577.7,
         "upload_sec": 20.2
       }
+    },
+    {
+      "cr_film_id": 25286,
+      "cr_slug": "gejsa",
+      "title": "Gejša",
+      "year": 2005,
+      "display_name": "Gejša (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68f45a2f9d977",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25153464,
+      "size_bytes": 2048803762,
+      "uploaded_at": "2026-05-23T18:57:35Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 805.4,
+        "upload_sec": 75.4
+      }
     }
   ],
   "failed_attempts": [
@@ -131174,5 +131193,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T18:42:50Z"
+  "last_updated": "2026-05-23T18:57:35Z"
 }
