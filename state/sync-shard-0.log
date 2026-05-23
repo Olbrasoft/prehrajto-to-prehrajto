@@ -42727,3 +42727,14 @@
 [05:32:03]   upload done video_id=25130578 in 29.2s
 [05:32:05] film cr_film_id=23732 OK in 48.6s
 [05:32:05] batch-end ok=20 failed=0 dur=1616.1s avg/film=80.8s remaining=11510 eta_hours=258.3
+
+===== run 2026-05-23T05:43:04Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26324900952) =====
+[05:43:07] batch-start shard=0/2 count=20 backlog=17650 uploads=6140 failed_attempts=740
+[05:43:07] login
+[05:43:08] login done
+[05:43:08] iteration 1/20
+[05:43:08] film cr_film_id=23734 name='Moll Flandersová (1996) CZ Dabing' candidates=3
+[05:43:08]   candidate upload_id=5a45b950066ff url=https://prehraj.to/moll-flandersova-1996-cz-dabing/5a45b950066ff
+[05:43:09]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/3193193/072Ik2FLYIpbTnyUK6h57Fbns8pIx3i08C2yc…)
+[05:43:41]   downloaded 621.1 MB in 29.5s (21.1 MB/s)
+[05:44:13]   upload done video_id=25130930 in 31.7s
