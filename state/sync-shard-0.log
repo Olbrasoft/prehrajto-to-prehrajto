@@ -42581,3 +42581,14 @@
 [05:01:40]   upload done video_id=25129482 in 19.8s
 [05:01:42] film cr_film_id=23652 OK in 40.1s
 [05:01:42] batch-end ok=20 failed=0 dur=1259.8s avg/film=63.0s remaining=11530 eta_hours=201.8
+
+===== run 2026-05-23T05:05:05Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26324163331) =====
+[05:05:07] batch-start shard=0/2 count=20 backlog=17650 uploads=6120 failed_attempts=740
+[05:05:07] login
+[05:05:09] login done
+[05:05:09] iteration 1/20
+[05:05:09] film cr_film_id=23656 name='Městečko prokletých (1995) CZ' candidates=1
+[05:05:09]   candidate upload_id=5aa3196bc230e url=https://prehraj.to/mestecko-prokletych-1995/5aa3196bc230e
+[05:05:10]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3585060/mMQs3ZfBoTvpTg4fmViw0f2ZIyqC5bIw8SyLS…)
+[05:05:34]   downloaded 805.2 MB in 23.0s (35.0 MB/s)
+[05:06:28]   upload done video_id=25129607 in 53.2s

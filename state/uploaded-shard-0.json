@@ -116281,6 +116281,25 @@
         "download_sec": 16.1,
         "upload_sec": 19.8
       }
+    },
+    {
+      "cr_film_id": 23656,
+      "cr_slug": "mestecko-prokletych",
+      "title": "Městečko prokletých",
+      "year": 1995,
+      "display_name": "Městečko prokletých (1995) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aa3196bc230e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25129607,
+      "size_bytes": 805233198,
+      "uploaded_at": "2026-05-23T05:06:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.0,
+        "upload_sec": 53.2
+      }
     }
   ],
   "failed_attempts": [
@@ -121546,5 +121565,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T05:01:40Z"
+  "last_updated": "2026-05-23T05:06:28Z"
 }
