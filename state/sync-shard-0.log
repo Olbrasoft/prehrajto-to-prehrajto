@@ -45210,3 +45210,14 @@
 [14:17:14]   upload done video_id=25147429 in 27.1s
 [14:17:16] film cr_film_id=24870 OK in 54.5s
 [14:17:16] batch-end ok=20 failed=0 dur=1305.6s avg/film=65.3s remaining=11170 eta_hours=202.6
+
+===== run 2026-05-23T14:23:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26335128139) =====
+[14:23:12] batch-start shard=0/2 count=20 backlog=17650 uploads=6480 failed_attempts=741
+[14:23:12] login
+[14:23:13] login done
+[14:23:13] iteration 1/20
+[14:23:13] film cr_film_id=24872 name='Jeď nebo zemři (2003) CZ' candidates=1
+[14:23:13]   candidate upload_id=57c620f405232 url=https://prehraj.to/jed-nebo-zemri-2003-sk-dabing/57c620f405232
+[14:23:14]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/13133/B9PIrmHGOFklTr9Uvjf71HXwCMXS8NhE2U9ktNk…)
+[14:23:39]   downloaded 563.4 MB in 22.8s (24.7 MB/s)
+[14:24:12]   upload done video_id=25147559 in 33.2s
