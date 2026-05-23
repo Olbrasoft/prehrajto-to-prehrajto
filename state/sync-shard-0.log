@@ -41560,3 +41560,14 @@
 [01:11:39]   upload done video_id=25120740 in 31.7s
 [01:11:41] film cr_film_id=23086 OK in 57.6s
 [01:11:41] batch-end ok=20 failed=0 dur=1630.4s avg/film=81.5s remaining=11669 eta_hours=264.2
+
+===== run 2026-05-23T01:11:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26318823855) =====
+[01:12:00] batch-start shard=0/2 count=20 backlog=17650 uploads=5981 failed_attempts=739
+[01:12:00] login
+[01:12:01] login done
+[01:12:01] iteration 1/20
+[01:12:01] film cr_film_id=23094 name='Tři muži a mladá dáma (1990) CZ' candidates=1
+[01:12:01]   candidate upload_id=5a9fbf6a50211 url=https://prehraj.to/tri-muzi-a-mlada-dama-1990/5a9fbf6a50211
+[01:12:03]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/3558892/JRaHGnuoOUbqI0EsbVUo7uPZhQaT5pFegH0xT…)
+[01:12:44]   downloaded 812.9 MB in 39.2s (20.7 MB/s)
+[01:13:28]   upload done video_id=25120828 in 43.5s
