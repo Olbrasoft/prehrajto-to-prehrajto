@@ -116737,6 +116737,25 @@
         "download_sec": 21.4,
         "upload_sec": 22.9
       }
+    },
+    {
+      "cr_film_id": 23754,
+      "cr_slug": "pohyblivy-terc",
+      "title": "Pohyblivý terč",
+      "year": 1996,
+      "display_name": "Pohyblivý terč (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6194db61d8d60",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25131074,
+      "size_bytes": 2446857244,
+      "uploaded_at": "2026-05-23T05:51:28Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 104.9,
+        "upload_sec": 122.3
+      }
     }
   ],
   "failed_attempts": [
@@ -122002,5 +122021,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T05:47:37Z"
+  "last_updated": "2026-05-23T05:51:28Z"
 }
