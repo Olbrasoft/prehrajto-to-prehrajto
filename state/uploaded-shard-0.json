@@ -126959,6 +126959,25 @@
         "download_sec": 23.5,
         "upload_sec": 44.8
       }
+    },
+    {
+      "cr_film_id": 25452,
+      "cr_slug": "najemnici",
+      "title": "Nájemníci",
+      "year": 2005,
+      "display_name": "Nájemníci (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a0206130ef5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25156871,
+      "size_bytes": 381995567,
+      "uploaded_at": "2026-05-23T22:17:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.2,
+        "upload_sec": 29.9
+      }
     }
   ],
   "failed_attempts": [
@@ -132238,5 +132257,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T22:16:58Z"
+  "last_updated": "2026-05-23T22:17:51Z"
 }
