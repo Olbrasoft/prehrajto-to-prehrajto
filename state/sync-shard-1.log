@@ -45789,3 +45789,14 @@
 [15:49:16]   upload done video_id=25149444 in 33.0s
 [15:49:18] film cr_film_id=25181 OK in 63.7s
 [15:49:18] batch-end ok=20 failed=0 dur=2524.6s avg/film=126.2s remaining=11124 eta_hours=390.0
+
+===== run 2026-05-23T15:49:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26337011869) =====
+[15:49:43] batch-start shard=1/2 count=20 backlog=17650 uploads=6526 failed_attempts=250
+[15:49:43] login
+[15:49:45] login done
+[15:49:45] iteration 1/20
+[15:49:45] film cr_film_id=25183 name='Do hlubiny (2005) CZ Dabing' candidates=15
+[15:49:45]   candidate upload_id=57c65ebb4584f url=https://prehraj.to/do-hlubiny-2005-czdab/57c65ebb4584f
+[15:49:46]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/493436/dyGfOmFpoudOh8WC93H3yFGzTvgc1xfz9slRuW…)
+[15:50:08]   downloaded 600.3 MB in 19.7s (30.5 MB/s)
+[15:50:32]   upload done video_id=25149479 in 24.4s
