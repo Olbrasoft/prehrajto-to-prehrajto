@@ -124508,6 +124508,25 @@
         "download_sec": 59.2,
         "upload_sec": 80.6
       }
+    },
+    {
+      "cr_film_id": 25080,
+      "cr_slug": "podnajemnici",
+      "title": "Podnájemníci",
+      "year": 1976,
+      "display_name": "Podnájemníci (1976) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5acb87496dfef",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25150410,
+      "size_bytes": 985952096,
+      "uploaded_at": "2026-05-23T16:33:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 40.0,
+        "upload_sec": 52.5
+      }
     }
   ],
   "failed_attempts": [
@@ -129787,5 +129806,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T16:32:19Z"
+  "last_updated": "2026-05-23T16:33:56Z"
 }
