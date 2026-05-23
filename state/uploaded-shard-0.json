@@ -121050,6 +121050,25 @@
         "download_sec": 35.6,
         "upload_sec": 40.7
       }
+    },
+    {
+      "cr_film_id": 24528,
+      "cr_slug": "nasi-pred-branami",
+      "title": "Naši pred bránami",
+      "year": 1970,
+      "display_name": "Naši pred bránami (1970) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58754a4833356",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25140722,
+      "size_bytes": 396398701,
+      "uploaded_at": "2026-05-23T11:46:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.2,
+        "upload_sec": 17.6
+      }
     }
   ],
   "failed_attempts": [
@@ -126315,5 +126334,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T11:45:25Z"
+  "last_updated": "2026-05-23T11:46:01Z"
 }
