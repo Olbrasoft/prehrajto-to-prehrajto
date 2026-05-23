@@ -125686,6 +125686,25 @@
         "download_sec": 37.1,
         "upload_sec": 23.4
       }
+    },
+    {
+      "cr_film_id": 25252,
+      "cr_slug": "zamrzla-zeme",
+      "title": "Zamrzlá země",
+      "year": 2005,
+      "display_name": "Zamrzlá země (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5882957a94880",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25152711,
+      "size_bytes": 403373773,
+      "uploaded_at": "2026-05-23T18:17:58Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 35.1,
+        "upload_sec": 15.4
+      }
     }
   ],
   "failed_attempts": [
@@ -130965,5 +130984,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T18:17:04Z"
+  "last_updated": "2026-05-23T18:17:58Z"
 }
