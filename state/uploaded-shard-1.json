@@ -116853,6 +116853,25 @@
         "download_sec": 30.9,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 24025,
+      "cr_slug": "podoby-lasky",
+      "title": "Podoby lásky",
+      "year": 1998,
+      "display_name": "Podoby lásky (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e187a774a65",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25132109,
+      "size_bytes": 615789837,
+      "uploaded_at": "2026-05-23T06:28:04Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 32.2,
+        "upload_sec": 36.2
+      }
     }
   ],
   "failed_attempts": [
@@ -118670,5 +118689,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T06:26:50Z"
+  "last_updated": "2026-05-23T06:28:04Z"
 }
