@@ -113583,6 +113583,25 @@
         "download_sec": 52.4,
         "upload_sec": 70.6
       }
+    },
+    {
+      "cr_film_id": 23082,
+      "cr_slug": "zimni-valka",
+      "title": "Zimní válka",
+      "year": 1989,
+      "display_name": "Zimní válka (1989) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55bd75c2c22c8",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25120644,
+      "size_bytes": 278514223,
+      "uploaded_at": "2026-05-23T01:09:47Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 15.0,
+        "upload_sec": 16.7
+      }
     }
   ],
   "failed_attempts": [
@@ -118841,5 +118860,5 @@
       "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-23T01:09:10Z"
+  "last_updated": "2026-05-23T01:09:47Z"
 }
