@@ -122000,6 +122000,25 @@
         "download_sec": 20.7,
         "upload_sec": 26.7
       }
+    },
+    {
+      "cr_film_id": 24696,
+      "cr_slug": "hotel-2001",
+      "title": "Hotel",
+      "year": 2001,
+      "display_name": "Hotel (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56925a510a123",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25142642,
+      "size_bytes": 537038671,
+      "uploaded_at": "2026-05-23T12:54:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.3,
+        "upload_sec": 25.0
+      }
     }
   ],
   "failed_attempts": [
@@ -127272,5 +127291,5 @@
       "failed_at": "2026-05-23T12:37:25Z"
     }
   ],
-  "last_updated": "2026-05-23T12:53:50Z"
+  "last_updated": "2026-05-23T12:54:43Z"
 }
