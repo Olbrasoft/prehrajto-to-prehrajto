@@ -117518,6 +117518,25 @@
         "download_sec": 21.1,
         "upload_sec": 35.6
       }
+    },
+    {
+      "cr_film_id": 24137,
+      "cr_slug": "co-se-septa",
+      "title": "Co se šeptá",
+      "year": 1938,
+      "display_name": "Co se šeptá (1938) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "605392e269ba9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25133456,
+      "size_bytes": 559301789,
+      "uploaded_at": "2026-05-23T07:18:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.3,
+        "upload_sec": 29.9
+      }
     }
   ],
   "failed_attempts": [
@@ -119335,5 +119354,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T07:17:33Z"
+  "last_updated": "2026-05-23T07:18:34Z"
 }
