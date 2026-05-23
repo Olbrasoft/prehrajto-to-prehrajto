@@ -44039,3 +44039,14 @@
 [10:28:30]   upload done video_id=25138522 in 68.6s
 [10:28:31] film cr_film_id=24338 OK in 114.5s
 [10:28:31] batch-end ok=20 failed=0 dur=1542.4s avg/film=77.1s remaining=11330 eta_hours=242.7
+
+===== run 2026-05-23T10:34:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26330472511) =====
+[10:34:45] batch-start shard=0/2 count=20 backlog=17650 uploads=6320 failed_attempts=740
+[10:34:45] login
+[10:34:47] login done
+[10:34:47] iteration 1/20
+[10:34:47] film cr_film_id=24340 name='Hornblower 2 - Důstojnické zkoušky (1998) CZ' candidates=2
+[10:34:47]   candidate upload_id=5b888f4e54f2b url=https://prehraj.to/hornblower-dustojnicke-zkousky-1998/5b888f4e54f2b
+[10:34:48]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/5656369/6WrH40iv9sK9ty0IjoFK8ivKhP3Izqt3zI0gu…)
+[10:35:18]   downloaded 664.3 MB in 28.5s (23.3 MB/s)
+[10:35:50]   upload done video_id=25138718 in 32.3s
