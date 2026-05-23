@@ -122475,6 +122475,25 @@
         "download_sec": 15.2,
         "upload_sec": 23.0
       }
+    },
+    {
+      "cr_film_id": 24774,
+      "cr_slug": "tuxedo",
+      "title": "Tuxedo",
+      "year": 2002,
+      "display_name": "Tuxedo (2002) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "0a758c7e1f3c2e8e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25146271,
+      "size_bytes": 2628534153,
+      "uploaded_at": "2026-05-23T13:35:33Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 83.7,
+        "upload_sec": 147.2
+      }
     }
   ],
   "failed_attempts": [
@@ -127747,5 +127766,5 @@
       "failed_at": "2026-05-23T12:37:25Z"
     }
   ],
-  "last_updated": "2026-05-23T13:31:38Z"
+  "last_updated": "2026-05-23T13:35:33Z"
 }
