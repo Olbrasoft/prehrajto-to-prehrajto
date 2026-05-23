@@ -46643,3 +46643,14 @@
 [22:06:03]   upload done video_id=25156662 in 96.9s
 [22:06:04] film cr_film_id=25428 OK in 121.6s
 [22:06:04] batch-end ok=20 failed=0 dur=1545.5s avg/film=77.3s remaining=10974 eta_hours=235.6
+
+===== run 2026-05-23T22:07:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26344799915) =====
+[22:07:39] batch-start shard=0/2 count=20 backlog=17650 uploads=6676 failed_attempts=742
+[22:07:39] login
+[22:07:41] login done
+[22:07:41] iteration 1/20
+[22:07:41] film cr_film_id=25434 name='Maraton lásky (2007) CZ Dabing' candidates=2
+[22:07:41]   candidate upload_id=5a866da68be59 url=https://prehraj.to/maraton-lasky-2007-cz-dabing/5a866da68be59
+[22:07:42]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3398276/jBqcdViVBHgOFMgF8GtRMi09H7VcaMfEyu0RI…)
+[22:08:03]   downloaded 403.5 MB in 19.0s (21.2 MB/s)
+[22:08:29]   upload done video_id=25156713 in 26.6s
