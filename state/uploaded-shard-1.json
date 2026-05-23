@@ -123446,6 +123446,25 @@
         "download_sec": 17.6,
         "upload_sec": 29.7
       }
+    },
+    {
+      "cr_film_id": 25099,
+      "cr_slug": "hrozba",
+      "title": "Hrozba",
+      "year": 1978,
+      "display_name": "Hrozba (1978) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a7acaa1511b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25148202,
+      "size_bytes": 466478058,
+      "uploaded_at": "2026-05-23T14:54:32Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.4,
+        "upload_sec": 17.8
+      }
     }
   ],
   "failed_attempts": [
@@ -125263,5 +125282,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T14:53:55Z"
+  "last_updated": "2026-05-23T14:54:32Z"
 }
