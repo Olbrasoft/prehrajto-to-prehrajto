@@ -45935,3 +45935,14 @@
 [16:11:00]   upload done video_id=25149947 in 18.8s
 [16:11:01] film cr_film_id=25247 OK in 38.0s
 [16:11:01] batch-end ok=20 failed=0 dur=1276.1s avg/film=63.8s remaining=11104 eta_hours=196.8
+
+===== run 2026-05-23T16:15:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26337546345) =====
+[16:15:40] batch-start shard=1/2 count=20 backlog=17650 uploads=6546 failed_attempts=250
+[16:15:40] login
+[16:15:42] login done
+[16:15:42] iteration 1/20
+[16:15:42] film cr_film_id=25249 name='Miláček (2005) CZ' candidates=1
+[16:15:42]   candidate upload_id=5a91c03273828 url=https://prehraj.to/milacek-2005/5a91c03273828
+[16:15:43]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/3467259/KlAHKmi01HmXuOXhWDc59iapf0khWDC0dTals…)
+[16:16:07]   downloaded 398.0 MB in 21.6s (18.4 MB/s)
+[16:16:54]   upload done video_id=25150054 in 46.3s
