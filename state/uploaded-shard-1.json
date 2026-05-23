@@ -125289,6 +125289,25 @@
         "download_sec": 19.3,
         "upload_sec": 19.9
       }
+    },
+    {
+      "cr_film_id": 25401,
+      "cr_slug": "vojak-2006",
+      "title": "Voják",
+      "year": 2006,
+      "display_name": "Voják (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b70d852e7c11",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25151640,
+      "size_bytes": 400773327,
+      "uploaded_at": "2026-05-23T17:32:46Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 23.1,
+        "upload_sec": 42.8
+      }
     }
   ],
   "failed_attempts": [
@@ -127106,5 +127125,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T17:31:35Z"
+  "last_updated": "2026-05-23T17:32:46Z"
 }
