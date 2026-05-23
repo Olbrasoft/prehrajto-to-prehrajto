@@ -127854,6 +127854,25 @@
         "download_sec": 30.9,
         "upload_sec": 40.8
       }
+    },
+    {
+      "cr_film_id": 25839,
+      "cr_slug": "den-zlomu",
+      "title": "Den zlomu",
+      "year": 2007,
+      "display_name": "Den zlomu (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57c6156d7c604",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25158211,
+      "size_bytes": 326040289,
+      "uploaded_at": "2026-05-23T23:20:38Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 12.3,
+        "upload_sec": 13.1
+      }
     }
   ],
   "failed_attempts": [
@@ -129671,5 +129690,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T23:20:09Z"
+  "last_updated": "2026-05-23T23:20:38Z"
 }
