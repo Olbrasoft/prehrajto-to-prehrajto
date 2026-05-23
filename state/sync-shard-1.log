@@ -41699,3 +41699,14 @@
 [01:11:11]   upload done video_id=25120711 in 29.9s
 [01:11:13] film cr_film_id=23397 OK in 55.2s
 [01:11:13] batch-end ok=20 failed=0 dur=1727.0s avg/film=86.3s remaining=11684 eta_hours=280.1
+
+===== run 2026-05-23T01:11:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26318823855) =====
+[01:11:26] batch-start shard=1/2 count=20 backlog=17650 uploads=5966 failed_attempts=249
+[01:11:26] login
+[01:11:30] login done
+[01:11:30] iteration 1/20
+[01:11:30] film cr_film_id=23399 name='M. Butterfly (1993) CZ Dabing' candidates=1
+[01:11:30]   candidate upload_id=59cdfd4f7aa16 url=https://prehraj.to/m-butterfly-1993-cz-dabing/59cdfd4f7aa16
+[01:11:31]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/2718972/EZxfRVixGTD7cnBFNDfrXiKDI5ZfZ2FAgINKH…)
+[01:11:50]   downloaded 522.4 MB in 17.5s (29.8 MB/s)
+[01:12:12]   upload done video_id=25120775 in 22.0s
