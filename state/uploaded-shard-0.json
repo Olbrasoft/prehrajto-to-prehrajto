@@ -117915,6 +117915,25 @@
         "download_sec": 141.8,
         "upload_sec": 196.0
       }
+    },
+    {
+      "cr_film_id": 23938,
+      "cr_slug": "artemisia",
+      "title": "Artemisia",
+      "year": 1997,
+      "display_name": "Artemisia (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60f1b2fb0d665",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25133770,
+      "size_bytes": 664720819,
+      "uploaded_at": "2026-05-23T07:30:41Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 44.5,
+        "upload_sec": 40.5
+      }
     }
   ],
   "failed_attempts": [
@@ -123180,5 +123199,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T07:29:10Z"
+  "last_updated": "2026-05-23T07:30:41Z"
 }
