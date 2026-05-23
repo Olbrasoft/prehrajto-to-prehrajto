@@ -43307,3 +43307,14 @@
 [07:18:34]   upload done video_id=25133456 in 29.9s
 [07:18:36] film cr_film_id=24137 OK in 61.3s
 [07:18:36] batch-end ok=20 failed=0 dur=1604.9s avg/film=80.2s remaining=11464 eta_hours=255.4
+
+===== run 2026-05-23T07:18:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26326238874) =====
+[07:18:52] batch-start shard=1/2 count=20 backlog=17650 uploads=6186 failed_attempts=250
+[07:18:52] login
+[07:18:54] login done
+[07:18:54] iteration 1/20
+[07:18:54] film cr_film_id=24139 name='Kvočna (1937) CZ' candidates=1
+[07:18:54]   candidate upload_id=64cde5ee9fd08 url=https://prehraj.to/kvocna-1937-komedie-cesky-film-pro-pametniky/64cde5ee9fd08
+[07:18:56]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/43074053/e2xtBJI7GHROuVECJoianIORszNcYKfK8ueg…)
+[07:20:27]   downloaded 1,945.0 MB in 89.2s (21.8 MB/s)
+[07:22:13]   upload done video_id=25133521 in 106.2s
