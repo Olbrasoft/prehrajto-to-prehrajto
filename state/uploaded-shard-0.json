@@ -124983,6 +124983,25 @@
         "download_sec": 18.0,
         "upload_sec": 19.1
       }
+    },
+    {
+      "cr_film_id": 25142,
+      "cr_slug": "volavka-ii",
+      "title": "Volavka II",
+      "year": 2003,
+      "display_name": "Volavka II (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56a06476a12c1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25151089,
+      "size_bytes": 580077560,
+      "uploaded_at": "2026-05-23T17:03:39Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.2,
+        "upload_sec": 25.6
+      }
     }
   ],
   "failed_attempts": [
@@ -130262,5 +130281,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T17:02:45Z"
+  "last_updated": "2026-05-23T17:03:39Z"
 }
