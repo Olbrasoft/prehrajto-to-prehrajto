@@ -116511,6 +116511,25 @@
         "download_sec": 30.0,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 23945,
+      "cr_slug": "rimsky-kolos",
+      "title": "Římský kolos",
+      "year": 1964,
+      "display_name": "Římský kolos (1964) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "588bd8d970757",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25131205,
+      "size_bytes": 995406238,
+      "uploaded_at": "2026-05-23T05:55:30Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 50.1,
+        "upload_sec": 57.0
+      }
     }
   ],
   "failed_attempts": [
@@ -118328,5 +118347,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T05:53:38Z"
+  "last_updated": "2026-05-23T05:55:30Z"
 }
