@@ -122800,6 +122800,25 @@
         "download_sec": 22.7,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 24991,
+      "cr_slug": "skripeni",
+      "title": "Skřípění",
+      "year": 2003,
+      "display_name": "Skřípění (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b80a52d9dbdf",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25147395,
+      "size_bytes": 889507596,
+      "uploaded_at": "2026-05-23T14:16:09Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 26.7,
+        "upload_sec": 35.8
+      }
     }
   ],
   "failed_attempts": [
@@ -124617,5 +124636,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T14:15:03Z"
+  "last_updated": "2026-05-23T14:16:09Z"
 }
