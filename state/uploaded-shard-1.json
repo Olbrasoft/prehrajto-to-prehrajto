@@ -120102,6 +120102,25 @@
         "download_sec": 23.6,
         "upload_sec": 38.4
       }
+    },
+    {
+      "cr_film_id": 24555,
+      "cr_slug": "zkouskove-obdobi",
+      "title": "Zkouškové období",
+      "year": 1990,
+      "display_name": "Zkouškové období (1990) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "62b97efe5ccdd",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25139205,
+      "size_bytes": 1332012308,
+      "uploaded_at": "2026-05-23T10:55:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 60.2,
+        "upload_sec": 67.0
+      }
     }
   ],
   "failed_attempts": [
@@ -121919,5 +121938,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T10:52:57Z"
+  "last_updated": "2026-05-23T10:55:09Z"
 }
