@@ -120349,6 +120349,25 @@
         "download_sec": 68.0,
         "upload_sec": 93.1
       }
+    },
+    {
+      "cr_film_id": 24607,
+      "cr_slug": "ukol-zabit",
+      "title": "Úkol zabít",
+      "year": 2001,
+      "display_name": "Úkol zabít (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56925e4cb7abc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25140033,
+      "size_bytes": 413971454,
+      "uploaded_at": "2026-05-23T11:17:52Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.3,
+        "upload_sec": 24.9
+      }
     }
   ],
   "failed_attempts": [
@@ -122166,5 +122185,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T11:17:02Z"
+  "last_updated": "2026-05-23T11:17:52Z"
 }
