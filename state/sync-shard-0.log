@@ -45502,3 +45502,14 @@
 [15:06:21]   upload done video_id=25148470 in 33.9s
 [15:06:23] film cr_film_id=24984 OK in 61.8s
 [15:06:23] batch-end ok=20 failed=0 dur=1234.0s avg/film=61.7s remaining=11130 eta_hours=190.8
+
+===== run 2026-05-23T15:49:40Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26337011869) =====
+[15:49:42] batch-start shard=0/2 count=20 backlog=17650 uploads=6520 failed_attempts=741
+[15:49:42] login
+[15:49:43] login done
+[15:49:43] iteration 1/20
+[15:49:43] film cr_film_id=24986 name='Na cestě (2012) CZ' candidates=2
+[15:49:43]   candidate upload_id=5e4b14332afda url=https://prehraj.to/on-the-road-na-ceste-usa-vb-2012-walter-salles-bluray-1080p-hevc-x265-10bit-tigole-en-ger-cz-sub/5e4b14332afda
+[15:49:44]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/15869368/6R4FemivxSYduoZs1MTWniwaHX6UoKf68u2X…)
+[15:51:03]   downloaded 2,592.4 MB in 77.7s (33.4 MB/s)
+[15:52:54]   upload done video_id=25149497 in 110.3s
