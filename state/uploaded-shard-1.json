@@ -114003,6 +114003,25 @@
         "download_sec": 33.5,
         "upload_sec": 39.9
       }
+    },
+    {
+      "cr_film_id": 23527,
+      "cr_slug": "nell",
+      "title": "Nell",
+      "year": 1994,
+      "display_name": "Nell (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "569acbde6ca5c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25123774,
+      "size_bytes": 472239728,
+      "uploaded_at": "2026-05-23T02:18:03Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.4,
+        "upload_sec": 31.6
+      }
     }
   ],
   "failed_attempts": [
@@ -115813,5 +115832,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-23T02:17:01Z"
+  "last_updated": "2026-05-23T02:18:03Z"
 }
