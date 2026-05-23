@@ -118618,6 +118618,25 @@
         "download_sec": 29.5,
         "upload_sec": 32.9
       }
+    },
+    {
+      "cr_film_id": 24064,
+      "cr_slug": "synove-hor",
+      "title": "Synové hor",
+      "year": 1956,
+      "display_name": "Synové hor (1956) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "64cd24fbe7cc0",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25135652,
+      "size_bytes": 732928139,
+      "uploaded_at": "2026-05-23T08:40:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 38.9,
+        "upload_sec": 48.9
+      }
     }
   ],
   "failed_attempts": [
@@ -123883,5 +123902,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T08:38:37Z"
+  "last_updated": "2026-05-23T08:40:10Z"
 }
