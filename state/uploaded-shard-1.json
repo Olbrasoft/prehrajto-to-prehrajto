@@ -115808,6 +115808,25 @@
         "download_sec": 53.7,
         "upload_sec": 68.7
       }
+    },
+    {
+      "cr_film_id": 23833,
+      "cr_slug": "rec-penez",
+      "title": "Řeč peněz",
+      "year": 1997,
+      "display_name": "Řeč peněz (1997) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "583ae75c6aa7f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25129190,
+      "size_bytes": 441547128,
+      "uploaded_at": "2026-05-23T04:52:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.1,
+        "upload_sec": 16.7
+      }
     }
   ],
   "failed_attempts": [
@@ -117618,5 +117637,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-23T04:51:42Z"
+  "last_updated": "2026-05-23T04:52:17Z"
 }
