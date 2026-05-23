@@ -114191,6 +114191,25 @@
         "download_sec": 24.5,
         "upload_sec": 26.7
       }
+    },
+    {
+      "cr_film_id": 23236,
+      "cr_slug": "bez-identity",
+      "title": "Bez identity",
+      "year": 1991,
+      "display_name": "Bez identity (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6119452d51a6f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25123182,
+      "size_bytes": 3577336747,
+      "uploaded_at": "2026-05-23T02:06:31Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 151.2,
+        "upload_sec": 198.0
+      }
     }
   ],
   "failed_attempts": [
@@ -119449,5 +119468,5 @@
       "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-23T02:00:37Z"
+  "last_updated": "2026-05-23T02:06:31Z"
 }
