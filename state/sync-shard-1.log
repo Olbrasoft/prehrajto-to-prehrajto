@@ -43453,3 +43453,14 @@
 [07:52:38]   upload done video_id=25134405 in 32.4s
 [07:52:40] film cr_film_id=24193 OK in 60.9s
 [07:52:40] batch-end ok=20 failed=0 dur=2025.9s avg/film=101.3s remaining=11444 eta_hours=322.0
+
+===== run 2026-05-23T07:56:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26327486765) =====
+[07:56:33] batch-start shard=1/2 count=20 backlog=17650 uploads=6206 failed_attempts=250
+[07:56:33] login
+[07:56:34] login done
+[07:56:34] iteration 1/20
+[07:56:34] film cr_film_id=24197 name='Velký případ malého detektiva a policejního psa Kykýna (1982) CZ' candidates=1
+[07:56:34]   candidate upload_id=5fd343e27ddd6 url=https://prehraj.to/velky-pripad-maleho-detektiva-a-policejniho-psa-kykyna-1982-hd/5fd343e27ddd6
+[07:56:35]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/20719137/9prTqBImDu64CdDhmdFXAIYjuQptRYTzrTXl…)
+[07:57:15]   downloaded 1,233.4 MB in 37.7s (32.7 MB/s)
+[07:58:02]   upload done video_id=25134535 in 47.2s
