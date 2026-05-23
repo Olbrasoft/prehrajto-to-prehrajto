@@ -43601,3 +43601,14 @@
 [09:07:32]   upload done video_id=25136347 in 46.4s
 [09:07:34] film cr_film_id=24108 OK in 121.7s
 [09:07:34] batch-end ok=20 failed=0 dur=2070.7s avg/film=103.5s remaining=11390 eta_hours=327.5
+
+===== run 2026-05-23T09:07:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26328875848) =====
+[09:07:58] batch-start shard=0/2 count=20 backlog=17650 uploads=6260 failed_attempts=740
+[09:07:58] login
+[09:08:01] login done
+[09:08:01] iteration 1/20
+[09:08:01] film cr_film_id=24116 name='Múza (1999) CZ Dabing' candidates=2
+[09:08:01]   candidate upload_id=55dc67d509e3d url=https://prehraj.to/muza-1999-czdab/55dc67d509e3d
+[09:08:03]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/224666/bEQfKrc6mSWbF6jCONUz2cO8iX5FdGHrNTGoh9…)
+[09:08:23]   downloaded 468.5 MB in 18.4s (25.5 MB/s)
+[09:08:45]   upload done video_id=25136390 in 21.9s
