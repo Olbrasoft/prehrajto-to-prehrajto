@@ -46519,3 +46519,14 @@
 [18:15:36]   upload done video_id=25152641 in 46.3s
 [18:15:38] film cr_film_id=25507 OK in 84.8s
 [18:15:38] batch-end ok=20 failed=0 dur=1356.5s avg/film=67.8s remaining=11024 eta_hours=207.6
+
+===== run 2026-05-23T18:17:59Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26340061225) =====
+[18:18:00] batch-start shard=1/2 count=20 backlog=17650 uploads=6626 failed_attempts=250
+[18:18:00] login
+[18:18:02] login done
+[18:18:02] iteration 1/20
+[18:18:02] film cr_film_id=25509 name='Slimák (2006) CZ Dabing' candidates=5
+[18:18:02]   candidate upload_id=5c4a8372d8b11 url=https://prehraj.to/slimak-2006-dvdrip-cz-dabing-m3/5c4a8372d8b11
+[18:18:03]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/11301577/62KHeOU1Zib8uJgiwzim7UdzCL1uQ7tJASVp…)
+[18:21:16]   downloaded 454.0 MB in 190.5s (2.4 MB/s)
+[18:21:43]   upload done video_id=25152770 in 27.4s
