@@ -44183,3 +44183,14 @@
 [10:34:02]   upload done video_id=25138639 in 106.6s
 [10:34:03] film cr_film_id=24515 OK in 195.0s
 [10:34:03] batch-end ok=20 failed=0 dur=1870.1s avg/film=93.5s remaining=11344 eta_hours=294.6
+
+===== run 2026-05-23T10:34:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26330472511) =====
+[10:34:45] batch-start shard=1/2 count=20 backlog=17650 uploads=6306 failed_attempts=250
+[10:34:45] login
+[10:34:46] login done
+[10:34:46] iteration 1/20
+[10:34:46] film cr_film_id=24517 name='Lásce na stopě (2001) CZ Dabing' candidates=6
+[10:34:46]   candidate upload_id=55d5e499f17de url=https://prehraj.to/lasce-na-stope-2001-czdab/55d5e499f17de
+[10:34:48]   resolved in 1.4s → 480p (https://pf-storage3.premiumcdn.net/213518/6X3hKnuzAc56SQAH2bhM6uqyhr3cX1SrEFyPI6…)
+[10:35:11]   downloaded 451.4 MB in 21.6s (20.9 MB/s)
+[10:35:36]   upload done video_id=25138714 in 24.3s
