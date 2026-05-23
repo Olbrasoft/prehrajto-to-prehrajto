@@ -41414,3 +41414,14 @@
 [00:44:11]   upload done video_id=25119308 in 31.5s
 [00:44:12] film cr_film_id=23036 OK in 65.1s
 [00:44:12] batch-end ok=20 failed=0 dur=1664.7s avg/film=83.2s remaining=11689 eta_hours=270.1
+
+===== run 2026-05-23T00:44:27Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26318359077) =====
+[00:44:29] batch-start shard=0/2 count=20 backlog=17650 uploads=5961 failed_attempts=739
+[00:44:29] login
+[00:44:31] login done
+[00:44:31] iteration 1/20
+[00:44:31] film cr_film_id=23038 name='Bůh gamblerů (1989) CZ Dabing' candidates=1
+[00:44:31]   candidate upload_id=6874e0f4f0efe url=https://prehraj.to/buh-gambleru-1989-cz-dab-1080p/6874e0f4f0efe
+[00:44:32]   resolved in 1.4s → 720p (https://pf-storage4.premiumcdn.net/141595847/vR6sYQU7MtA2UoptMoSRDU1QC6kcMmFD9s5…)
+[00:46:00]   downloaded 2,207.1 MB in 85.6s (25.8 MB/s)
+[00:47:50]   upload done video_id=25119320 in 110.0s
