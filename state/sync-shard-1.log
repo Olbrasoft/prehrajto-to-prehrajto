@@ -42429,3 +42429,14 @@
 [04:03:05]   upload done video_id=25127674 in 28.4s
 [04:03:07] film cr_film_id=23733 OK in 54.2s
 [04:03:07] batch-end ok=20 failed=0 dur=1576.4s avg/film=78.8s remaining=11584 eta_hours=253.6
+
+===== run 2026-05-23T04:04:14Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26322983608) =====
+[04:04:16] batch-start shard=1/2 count=20 backlog=17650 uploads=6066 failed_attempts=249
+[04:04:16] login
+[04:04:17] login done
+[04:04:17] iteration 1/20
+[04:04:17] film cr_film_id=23737 name='O třech rytířích, krásné paní a lněné kytli (1996) CZ' candidates=1
+[04:04:17]   candidate upload_id=58387b2d8bc6b url=https://prehraj.to/o-trech-rytirich-krasne-pani-a-lnene-kytli-1996-pohadka-cely-film-komedie/58387b2d8bc6b
+[04:04:18]   resolved in 0.9s → 480p (https://pf-storage2.premiumcdn.net/932241/xrMFWOTWkSartvnC5MhaETQKU3mt8OUEPfyzf6…)
+[04:04:31]   downloaded 304.1 MB in 11.0s (27.6 MB/s)
+[04:04:45]   upload done video_id=25127732 in 14.1s
