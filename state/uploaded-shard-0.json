@@ -121715,6 +121715,25 @@
         "download_sec": 20.2,
         "upload_sec": 24.5
       }
+    },
+    {
+      "cr_film_id": 24650,
+      "cr_slug": "zkouska-vernosti",
+      "title": "Zkouška věrnosti",
+      "year": 2001,
+      "display_name": "Zkouška věrnosti (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62a7c06f1dd70",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25142013,
+      "size_bytes": 468725868,
+      "uploaded_at": "2026-05-23T12:32:23Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 23.6,
+        "upload_sec": 27.6
+      }
     }
   ],
   "failed_attempts": [
@@ -126980,5 +126999,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T12:31:27Z"
+  "last_updated": "2026-05-23T12:32:23Z"
 }
