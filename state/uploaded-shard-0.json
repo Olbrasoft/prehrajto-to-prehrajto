@@ -114723,6 +114723,25 @@
         "download_sec": 36.0,
         "upload_sec": 49.4
       }
+    },
+    {
+      "cr_film_id": 23356,
+      "cr_slug": "bod-varu-1993",
+      "title": "Bod varu",
+      "year": 1993,
+      "display_name": "Bod varu (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fdb9b93de199",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25125009,
+      "size_bytes": 2170999160,
+      "uploaded_at": "2026-05-23T02:49:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 68.2,
+        "upload_sec": 94.8
+      }
     }
   ],
   "failed_attempts": [
@@ -119981,5 +120000,5 @@
       "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-23T02:46:46Z"
+  "last_updated": "2026-05-23T02:49:33Z"
 }
