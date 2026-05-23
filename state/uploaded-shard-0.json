@@ -113203,6 +113203,25 @@
         "download_sec": 39.9,
         "upload_sec": 50.7
       }
+    },
+    {
+      "cr_film_id": 23028,
+      "cr_slug": "spojeni",
+      "title": "Spojení",
+      "year": 1989,
+      "display_name": "Spojení (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "583381c652251",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25119296,
+      "size_bytes": 531386940,
+      "uploaded_at": "2026-05-23T00:42:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.6,
+        "upload_sec": 19.8
+      }
     }
   ],
   "failed_attempts": [
@@ -118461,5 +118480,5 @@
       "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-23T00:41:32Z"
+  "last_updated": "2026-05-23T00:42:15Z"
 }
