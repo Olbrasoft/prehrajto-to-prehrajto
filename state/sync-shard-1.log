@@ -44037,3 +44037,14 @@
 [09:57:40]   upload done video_id=25137719 in 17.6s
 [09:57:43] film cr_film_id=24449 OK in 34.8s
 [09:57:43] batch-end ok=20 failed=0 dur=1609.9s avg/film=80.5s remaining=11364 eta_hours=254.1
+
+===== run 2026-05-23T10:02:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26329885901) =====
+[10:02:51] batch-start shard=1/2 count=20 backlog=17650 uploads=6286 failed_attempts=250
+[10:02:51] login
+[10:02:53] login done
+[10:02:53] iteration 1/20
+[10:02:53] film cr_film_id=24453 name='Žralok útočí 2 (2000) CZ Dabing' candidates=11
+[10:02:53]   candidate upload_id=5c24e84cab2c4 url=https://prehraj.to/zralok-utoci-2-2000-cz-dabing/5c24e84cab2c4
+[10:02:55]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/10069085/MgoHe6f4NUb4s2riGXsa3fEZcaDi2PCX2sMj…)
+[10:03:21]   downloaded 531.2 MB in 24.6s (21.6 MB/s)
+[10:03:51]   upload done video_id=25137866 in 29.5s
