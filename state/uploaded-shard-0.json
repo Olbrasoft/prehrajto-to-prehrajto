@@ -123083,6 +123083,25 @@
         "download_sec": 21.2,
         "upload_sec": 24.9
       }
+    },
+    {
+      "cr_film_id": 24868,
+      "cr_slug": "cizinec-2003",
+      "title": "Cizinec",
+      "year": 2003,
+      "display_name": "Cizinec (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67d417033df1d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25147374,
+      "size_bytes": 2462278639,
+      "uploaded_at": "2026-05-23T14:16:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 87.4,
+        "upload_sec": 115.1
+      }
     }
   ],
   "failed_attempts": [
@@ -128355,5 +128374,5 @@
       "failed_at": "2026-05-23T12:37:25Z"
     }
   ],
-  "last_updated": "2026-05-23T14:12:52Z"
+  "last_updated": "2026-05-23T14:16:19Z"
 }
