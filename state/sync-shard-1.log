@@ -45643,3 +45643,14 @@
 [15:01:33]   upload done video_id=25148393 in 15.1s
 [15:01:35] film cr_film_id=25123 OK in 31.3s
 [15:01:35] batch-end ok=20 failed=0 dur=946.1s avg/film=47.3s remaining=11144 eta_hours=146.4
+
+===== run 2026-05-23T15:07:11Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26336112131) =====
+[15:07:12] batch-start shard=1/2 count=20 backlog=17650 uploads=6506 failed_attempts=250
+[15:07:12] login
+[15:07:13] login done
+[15:07:13] iteration 1/20
+[15:07:13] film cr_film_id=25125 name='Nepodepsaný knoflík (2003) CZ' candidates=3
+[15:07:13]   candidate upload_id=55ae9668b1aba url=https://prehraj.to/krimi-cz-nepodepsany-knoflik-2003-cz/55ae9668b1aba
+[15:07:14]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/520321/7pOfKaUnWTrosgVU9oFOoUekFXYu4xukRigXiY…)
+[15:07:39]   downloaded 390.6 MB in 22.3s (17.5 MB/s)
+[15:08:04]   upload done video_id=25148504 in 24.9s
