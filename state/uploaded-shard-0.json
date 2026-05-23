@@ -117972,6 +117972,25 @@
         "download_sec": 29.4,
         "upload_sec": 31.0
       }
+    },
+    {
+      "cr_film_id": 23948,
+      "cr_slug": "cerny-ctvrtek",
+      "title": "Černý čtvrtek",
+      "year": 1998,
+      "display_name": "Černý čtvrtek (1998) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aadac812036e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25133872,
+      "size_bytes": 382648868,
+      "uploaded_at": "2026-05-23T07:34:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.7,
+        "upload_sec": 48.4
+      }
     }
   ],
   "failed_attempts": [
@@ -123237,5 +123256,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T07:33:18Z"
+  "last_updated": "2026-05-23T07:34:32Z"
 }
