@@ -124223,6 +124223,25 @@
         "download_sec": 14.2,
         "upload_sec": 16.7
       }
+    },
+    {
+      "cr_film_id": 25044,
+      "cr_slug": "dvere-v-podlaze",
+      "title": "Dveře v podlaze",
+      "year": 2004,
+      "display_name": "Dveře v podlaze (2004) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab91a882d4e1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25149995,
+      "size_bytes": 474116660,
+      "uploaded_at": "2026-05-23T16:13:25Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.0,
+        "upload_sec": 25.8
+      }
     }
   ],
   "failed_attempts": [
@@ -129495,5 +129514,5 @@
       "failed_at": "2026-05-23T12:37:25Z"
     }
   ],
-  "last_updated": "2026-05-23T16:12:39Z"
+  "last_updated": "2026-05-23T16:13:25Z"
 }
