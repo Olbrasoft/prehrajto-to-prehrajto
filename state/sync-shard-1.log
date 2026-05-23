@@ -45497,3 +45497,14 @@
 [14:42:14]   upload done video_id=25147921 in 14.6s
 [14:42:16] film cr_film_id=25065 OK in 31.6s
 [14:42:16] batch-end ok=20 failed=0 dur=1159.7s avg/film=58.0s remaining=11164 eta_hours=179.9
+
+===== run 2026-05-23T14:45:46Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26335636243) =====
+[14:45:47] batch-start shard=1/2 count=20 backlog=17650 uploads=6486 failed_attempts=250
+[14:45:47] login
+[14:45:49] login done
+[14:45:49] iteration 1/20
+[14:45:49] film cr_film_id=25067 name='Nesmrtelné zlo (2003) CZ Dabing' candidates=1
+[14:45:49]   candidate upload_id=66f9361e61846 url=https://prehraj.to/nesmrtelne-zlo-thriller-krimi-akcni-horor-2003-cz-dab/66f9361e61846
+[14:45:50]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/99028094/NnahmLujQCbNSL7FzBHljuXKtWBIM0SK3Uo8…)
+[14:46:07]   downloaded 467.2 MB in 15.9s (29.4 MB/s)
+[14:46:27]   upload done video_id=25147994 in 20.2s
