@@ -120423,6 +120423,25 @@
         "download_sec": 30.1,
         "upload_sec": 35.8
       }
+    },
+    {
+      "cr_film_id": 24396,
+      "cr_slug": "gen-x-cops",
+      "title": "Gen-X Cops",
+      "year": 1999,
+      "display_name": "Gen-X Cops (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56a287bbb06a3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25139381,
+      "size_bytes": 917489800,
+      "uploaded_at": "2026-05-23T11:00:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 37.9,
+        "upload_sec": 43.6
+      }
     }
   ],
   "failed_attempts": [
@@ -125688,5 +125707,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T10:59:07Z"
+  "last_updated": "2026-05-23T11:00:34Z"
 }
