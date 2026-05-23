@@ -44329,3 +44329,14 @@
 [11:00:24]   upload done video_id=25139372 in 42.5s
 [11:00:26] film cr_film_id=24573 OK in 85.6s
 [11:00:26] batch-end ok=20 failed=0 dur=1539.6s avg/film=77.0s remaining=11324 eta_hours=242.2
+
+===== run 2026-05-23T11:02:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26330980774) =====
+[11:02:18] batch-start shard=1/2 count=20 backlog=17650 uploads=6326 failed_attempts=250
+[11:02:18] login
+[11:02:20] login done
+[11:02:20] iteration 1/20
+[11:02:20] film cr_film_id=24583 name='Temná voda (2001) CZ Dabing' candidates=1
+[11:02:20]   candidate upload_id=57df164c279d3 url=https://prehraj.to/temna-voda-2001-czdab/57df164c279d3
+[11:02:21]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/647090/2OAhXQFbzI1DhVlCq9tl9FoMhwKHgMIzlSxnSQ…)
+[11:02:49]   downloaded 550.8 MB in 25.7s (21.4 MB/s)
+[11:03:26]   upload done video_id=25139487 in 37.3s
