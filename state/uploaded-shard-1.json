@@ -120976,6 +120976,25 @@
         "download_sec": 14.4,
         "upload_sec": 17.2
       }
+    },
+    {
+      "cr_film_id": 24699,
+      "cr_slug": "pavouk",
+      "title": "Pavouk",
+      "year": 2002,
+      "display_name": "Pavouk (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b809505779b2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25141039,
+      "size_bytes": 383413087,
+      "uploaded_at": "2026-05-23T11:58:13Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 13.4,
+        "upload_sec": 19.3
+      }
     }
   ],
   "failed_attempts": [
@@ -122793,5 +122812,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T11:57:36Z"
+  "last_updated": "2026-05-23T11:58:13Z"
 }
