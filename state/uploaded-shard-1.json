@@ -124795,6 +124795,25 @@
         "download_sec": 21.0,
         "upload_sec": 25.0
       }
+    },
+    {
+      "cr_film_id": 25313,
+      "cr_slug": "posledni-dny",
+      "title": "Poslední dny",
+      "year": 2005,
+      "display_name": "Poslední dny (2005) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "583381b7ba66a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25150783,
+      "size_bytes": 430947814,
+      "uploaded_at": "2026-05-23T16:48:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.1,
+        "upload_sec": 24.3
+      }
     }
   ],
   "failed_attempts": [
@@ -126612,5 +126631,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T16:48:02Z"
+  "last_updated": "2026-05-23T16:48:54Z"
 }
