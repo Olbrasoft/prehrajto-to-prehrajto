@@ -112937,6 +112937,25 @@
         "download_sec": 15.9,
         "upload_sec": 20.4
       }
+    },
+    {
+      "cr_film_id": 22986,
+      "cr_slug": "mala-vera",
+      "title": "Malá Věra",
+      "year": 1988,
+      "display_name": "Malá Věra (1988) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab39b28ee24a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25118649,
+      "size_bytes": 848385810,
+      "uploaded_at": "2026-05-23T00:20:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 28.5,
+        "upload_sec": 44.2
+      }
     }
   ],
   "failed_attempts": [
@@ -118195,5 +118214,5 @@
       "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-23T00:19:12Z"
+  "last_updated": "2026-05-23T00:20:28Z"
 }
