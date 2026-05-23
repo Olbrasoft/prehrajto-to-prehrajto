@@ -117098,6 +117098,25 @@
         "download_sec": 94.6,
         "upload_sec": 113.2
       }
+    },
+    {
+      "cr_film_id": 23820,
+      "cr_slug": "rande",
+      "title": "Rande",
+      "year": 1997,
+      "display_name": "Rande (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e4181c18454",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25132036,
+      "size_bytes": 412844525,
+      "uploaded_at": "2026-05-23T06:25:20Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.5,
+        "upload_sec": 26.2
+      }
     }
   ],
   "failed_attempts": [
@@ -122363,5 +122382,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T06:24:33Z"
+  "last_updated": "2026-05-23T06:25:20Z"
 }
