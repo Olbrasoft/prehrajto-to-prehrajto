@@ -121278,6 +121278,25 @@
         "download_sec": 21.0,
         "upload_sec": 29.6
       }
+    },
+    {
+      "cr_film_id": 24576,
+      "cr_slug": "maly-svedek",
+      "title": "Malý svědek",
+      "year": 2001,
+      "display_name": "Malý svědek (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bbeda883ce4c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25141134,
+      "size_bytes": 440951664,
+      "uploaded_at": "2026-05-23T12:03:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.8,
+        "upload_sec": 16.2
+      }
     }
   ],
   "failed_attempts": [
@@ -126543,5 +126562,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T12:02:35Z"
+  "last_updated": "2026-05-23T12:03:10Z"
 }
