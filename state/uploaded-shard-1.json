@@ -125973,6 +125973,25 @@
         "download_sec": 32.5,
         "upload_sec": 36.8
       }
+    },
+    {
+      "cr_film_id": 25523,
+      "cr_slug": "den-vitezstvi",
+      "title": "Den vítězství",
+      "year": 2006,
+      "display_name": "Den vítězství (2006) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ac134af0a731",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25152897,
+      "size_bytes": 1260740499,
+      "uploaded_at": "2026-05-23T18:28:36Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 62.1,
+        "upload_sec": 76.6
+      }
     }
   ],
   "failed_attempts": [
@@ -127790,5 +127809,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T18:26:12Z"
+  "last_updated": "2026-05-23T18:28:36Z"
 }
