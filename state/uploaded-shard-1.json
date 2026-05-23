@@ -123522,6 +123522,25 @@
         "download_sec": 12.0,
         "upload_sec": 13.2
       }
+    },
+    {
+      "cr_film_id": 25113,
+      "cr_slug": "vadi-nevadi-2003",
+      "title": "Vadí nevadí",
+      "year": 2003,
+      "display_name": "Vadí nevadí (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ac968bc9d72d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25148284,
+      "size_bytes": 557328995,
+      "uploaded_at": "2026-05-23T14:57:13Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.4,
+        "upload_sec": 24.4
+      }
     }
   ],
   "failed_attempts": [
@@ -125339,5 +125358,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T14:56:26Z"
+  "last_updated": "2026-05-23T14:57:13Z"
 }
