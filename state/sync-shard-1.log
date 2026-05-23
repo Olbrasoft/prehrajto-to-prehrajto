@@ -44475,3 +44475,14 @@
 [11:32:18]   upload done video_id=25140383 in 60.8s
 [11:32:20] film cr_film_id=24639 OK in 113.2s
 [11:32:20] batch-end ok=20 failed=0 dur=1800.7s avg/film=90.0s remaining=11304 eta_hours=282.6
+
+===== run 2026-05-23T11:34:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26331584192) =====
+[11:34:04] batch-start shard=1/2 count=20 backlog=17650 uploads=6346 failed_attempts=250
+[11:34:04] login
+[11:34:05] login done
+[11:34:05] iteration 1/20
+[11:34:05] film cr_film_id=24641 name='Josef - Král snů (2000) CZ' candidates=1
+[11:34:05]   candidate upload_id=5ad15e85e3090 url=https://prehraj.to/josef-kral-snu-2000/5ad15e85e3090
+[11:34:07]   resolved in 2.1s → 480p (https://pf-storage1.premiumcdn.net/3870290/qa4uQdsDxC6eUZXcvet5RsZAtMxFV2iK3S7KH…)
+[11:34:28]   downloaded 388.6 MB in 14.8s (26.3 MB/s)
+[11:34:45]   upload done video_id=25140456 in 17.4s
