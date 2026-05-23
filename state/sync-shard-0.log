@@ -45797,3 +45797,14 @@
 [16:42:02]   upload done video_id=25150608 in 31.5s
 [16:42:04] film cr_film_id=25094 OK in 58.2s
 [16:42:04] batch-end ok=20 failed=0 dur=1580.6s avg/film=79.0s remaining=11090 eta_hours=243.4
+
+===== run 2026-05-23T16:46:05Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26338177237) =====
+[16:46:06] batch-start shard=0/2 count=20 backlog=17650 uploads=6560 failed_attempts=742
+[16:46:06] login
+[16:46:08] login done
+[16:46:08] iteration 1/20
+[16:46:08] film cr_film_id=25096 name='Štastné konce (2005) CZ' candidates=1
+[16:46:08]   candidate upload_id=5ac4424ee0cc4 url=https://prehraj.to/stastne-konce-2005/5ac4424ee0cc4
+[16:46:09]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/3823883/Bpmfv7HpDieGs1oT8ki4oHrGUJeumrSvotkJF…)
+[16:46:37]   downloaded 690.1 MB in 26.1s (26.4 MB/s)
+[16:47:12]   upload done video_id=25150732 in 35.4s
