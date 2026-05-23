@@ -114820,6 +114820,25 @@
         "download_sec": 13.5,
         "upload_sec": 15.0
       }
+    },
+    {
+      "cr_film_id": 23667,
+      "cr_slug": "spiklenci",
+      "title": "Spiklenci",
+      "year": 1996,
+      "display_name": "Spiklenci (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57113deda5a94",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25126378,
+      "size_bytes": 879518845,
+      "uploaded_at": "2026-05-23T03:25:30Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.0,
+        "upload_sec": 38.6
+      }
     }
   ],
   "failed_attempts": [
@@ -116630,5 +116649,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-23T03:24:19Z"
+  "last_updated": "2026-05-23T03:25:30Z"
 }
