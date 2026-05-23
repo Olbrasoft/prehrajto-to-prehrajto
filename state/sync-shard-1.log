@@ -46579,3 +46579,14 @@
 [18:45:46]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3447349/xApujOHnGCOVH1WsBLHXbHXrI3pCyzhVZcNEs…)
 [19:11:54]   downloaded 817.6 MB in 1566.7s (0.5 MB/s)
 [19:12:46]   upload done video_id=25153814 in 51.4s
+
+===== run 2026-05-23T20:43:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26340200724) =====
+[20:43:40] batch-start shard=1/2 count=20 backlog=17650 uploads=6634 failed_attempts=250
+[20:43:40] login
+[20:43:41] login done
+[20:43:41] iteration 1/20
+[20:43:41] film cr_film_id=25541 name='Stíny minulosti (2006) CZ Dabing' candidates=3
+[20:43:41]   candidate upload_id=582123d30c25b url=https://prehraj.to/tiene-minulosti-cz-dabing-2006/582123d30c25b
+[20:43:42]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/812667/dYriL4cYEh0khMnsPYcarcAeSDyuoDCBEhAlFw…)
+[20:45:19]   downloaded 486.8 MB in 94.3s (5.2 MB/s)
+[20:45:53]   upload done video_id=25155417 in 34.7s
