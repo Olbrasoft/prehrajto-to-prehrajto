@@ -120235,6 +120235,25 @@
         "download_sec": 73.0,
         "upload_sec": 100.8
       }
+    },
+    {
+      "cr_film_id": 24591,
+      "cr_slug": "evoluce",
+      "title": "Evoluce",
+      "year": 2001,
+      "display_name": "Evoluce (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59e29e8908877",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25139641,
+      "size_bytes": 855096107,
+      "uploaded_at": "2026-05-23T11:08:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 35.7,
+        "upload_sec": 56.5
+      }
     }
   ],
   "failed_attempts": [
@@ -122052,5 +122071,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T11:06:25Z"
+  "last_updated": "2026-05-23T11:08:03Z"
 }
