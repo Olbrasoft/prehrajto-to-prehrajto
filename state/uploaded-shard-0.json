@@ -119169,6 +119169,25 @@
         "download_sec": 30.4,
         "upload_sec": 33.0
       }
+    },
+    {
+      "cr_film_id": 24156,
+      "cr_slug": "popelka-1947",
+      "title": "Popelka",
+      "year": 1947,
+      "display_name": "Popelka (1947) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5babadac6279f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25136710,
+      "size_bytes": 575165216,
+      "uploaded_at": "2026-05-23T09:21:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.5,
+        "upload_sec": 34.8
+      }
     }
   ],
   "failed_attempts": [
@@ -124434,5 +124453,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T09:20:49Z"
+  "last_updated": "2026-05-23T09:21:52Z"
 }
