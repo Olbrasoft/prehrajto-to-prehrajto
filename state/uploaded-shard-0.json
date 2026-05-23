@@ -118827,6 +118827,25 @@
         "download_sec": 36.7,
         "upload_sec": 43.7
       }
+    },
+    {
+      "cr_film_id": 24090,
+      "cr_slug": "ocistec",
+      "title": "Očistec",
+      "year": 1999,
+      "display_name": "Očistec (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "564cf0513e70b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25136167,
+      "size_bytes": 581587710,
+      "uploaded_at": "2026-05-23T09:00:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 43.0,
+        "upload_sec": 47.0
+      }
     }
   ],
   "failed_attempts": [
@@ -124092,5 +124111,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T08:58:57Z"
+  "last_updated": "2026-05-23T09:00:32Z"
 }
