@@ -126201,6 +126201,25 @@
         "download_sec": 58.5,
         "upload_sec": 76.1
       }
+    },
+    {
+      "cr_film_id": 25569,
+      "cr_slug": "posledni-prani",
+      "title": "Poslední přání",
+      "year": 2005,
+      "display_name": "Poslední přání (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e24407913bf",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25155794,
+      "size_bytes": 534302178,
+      "uploaded_at": "2026-05-23T21:10:59Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.8,
+        "upload_sec": 31.9
+      }
     }
   ],
   "failed_attempts": [
@@ -128018,5 +128037,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T21:09:54Z"
+  "last_updated": "2026-05-23T21:10:59Z"
 }
