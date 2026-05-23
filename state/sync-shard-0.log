@@ -43309,3 +43309,14 @@
 [07:55:03]   upload done video_id=25134470 in 32.6s
 [07:55:05] film cr_film_id=23986 OK in 64.3s
 [07:55:05] batch-end ok=20 failed=0 dur=2537.9s avg/film=126.9s remaining=11430 eta_hours=402.9
+
+===== run 2026-05-23T07:56:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26327486765) =====
+[07:56:34] batch-start shard=0/2 count=20 backlog=17650 uploads=6220 failed_attempts=740
+[07:56:34] login
+[07:56:36] login done
+[07:56:36] iteration 1/20
+[07:56:36] film cr_film_id=23988 name='Přistání naslepo (1998) CZ' candidates=1
+[07:56:36]   candidate upload_id=65c3e75c8297b url=https://prehraj.to/pristani-naslepo-1998-k-sutherland-dvd-cz/65c3e75c8297b
+[07:56:37]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/73114994/9KyHkGTaqin4SAXtxqfkrT7mC4lIqjuY5HPB…)
+[07:57:00]   downloaded 387.3 MB in 21.1s (18.4 MB/s)
+[07:57:28]   upload done video_id=25134529 in 27.2s
