@@ -125534,6 +125534,25 @@
         "download_sec": 13.2,
         "upload_sec": 20.8
       }
+    },
+    {
+      "cr_film_id": 25220,
+      "cr_slug": "zelena-je-trava",
+      "title": "Zelená je tráva",
+      "year": 2005,
+      "display_name": "Zelená je tráva (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61bdcd3ed776b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25152405,
+      "size_bytes": 2963050903,
+      "uploaded_at": "2026-05-23T18:06:03Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 82.6,
+        "upload_sec": 170.9
+      }
     }
   ],
   "failed_attempts": [
@@ -130813,5 +130832,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T18:01:45Z"
+  "last_updated": "2026-05-23T18:06:03Z"
 }
