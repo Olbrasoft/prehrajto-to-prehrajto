@@ -115692,6 +115692,25 @@
         "download_sec": 149.8,
         "upload_sec": 185.1
       }
+    },
+    {
+      "cr_film_id": 23544,
+      "cr_slug": "muz-stinu",
+      "title": "Muž stínu",
+      "year": 1994,
+      "display_name": "Muž stínu (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9bce5976cc1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25128408,
+      "size_bytes": 1017399024,
+      "uploaded_at": "2026-05-23T04:26:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.5,
+        "upload_sec": 44.9
+      }
     }
   ],
   "failed_attempts": [
@@ -120957,5 +120976,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T04:25:35Z"
+  "last_updated": "2026-05-23T04:26:58Z"
 }
