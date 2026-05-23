@@ -124890,6 +124890,25 @@
         "download_sec": 47.0,
         "upload_sec": 60.4
       }
+    },
+    {
+      "cr_film_id": 25329,
+      "cr_slug": "generace-x",
+      "title": "Generace X",
+      "year": 2005,
+      "display_name": "Generace X (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57c7f08f4262f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25150957,
+      "size_bytes": 418642402,
+      "uploaded_at": "2026-05-23T16:57:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.5,
+        "upload_sec": 23.8
+      }
     }
   ],
   "failed_attempts": [
@@ -126707,5 +126726,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T16:56:36Z"
+  "last_updated": "2026-05-23T16:57:27Z"
 }
