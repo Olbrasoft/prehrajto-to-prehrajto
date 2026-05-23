@@ -127493,6 +127493,25 @@
         "download_sec": 15.4,
         "upload_sec": 16.9
       }
+    },
+    {
+      "cr_film_id": 25781,
+      "cr_slug": "udoli-vlku",
+      "title": "Údolí vlků",
+      "year": 2006,
+      "display_name": "Údolí vlků (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "581500e09fc43",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25157621,
+      "size_bytes": 666647945,
+      "uploaded_at": "2026-05-23T22:52:14Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.3,
+        "upload_sec": 39.4
+      }
     }
   ],
   "failed_attempts": [
@@ -129310,5 +129329,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T22:51:08Z"
+  "last_updated": "2026-05-23T22:52:14Z"
 }
