@@ -121164,6 +121164,25 @@
         "download_sec": 24.6,
         "upload_sec": 30.4
       }
+    },
+    {
+      "cr_film_id": 24552,
+      "cr_slug": "andel-exit",
+      "title": "Anděl Exit",
+      "year": 2000,
+      "display_name": "Anděl Exit (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6713188760f7a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25140869,
+      "size_bytes": 872107155,
+      "uploaded_at": "2026-05-23T11:51:38Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.7,
+        "upload_sec": 34.5
+      }
     }
   ],
   "failed_attempts": [
@@ -126429,5 +126448,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T11:50:34Z"
+  "last_updated": "2026-05-23T11:51:38Z"
 }
