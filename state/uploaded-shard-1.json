@@ -122439,6 +122439,25 @@
         "download_sec": 43.7,
         "upload_sec": 59.2
       }
+    },
+    {
+      "cr_film_id": 24939,
+      "cr_slug": "yesterday-2002",
+      "title": "Yesterday",
+      "year": 2002,
+      "display_name": "Yesterday (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b8828cacddbc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25146785,
+      "size_bytes": 621602554,
+      "uploaded_at": "2026-05-23T13:52:23Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 31.5,
+        "upload_sec": 34.1
+      }
     }
   ],
   "failed_attempts": [
@@ -124256,5 +124275,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T13:51:12Z"
+  "last_updated": "2026-05-23T13:52:23Z"
 }
