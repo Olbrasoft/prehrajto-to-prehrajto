@@ -123864,6 +123864,25 @@
         "download_sec": 33.4,
         "upload_sec": 53.2
       }
+    },
+    {
+      "cr_film_id": 25159,
+      "cr_slug": "halloween-2007",
+      "title": "Halloween",
+      "year": 2007,
+      "display_name": "Halloween (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5cae009aa78b1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25149237,
+      "size_bytes": 605181783,
+      "uploaded_at": "2026-05-23T15:40:26Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.9,
+        "upload_sec": 40.8
+      }
     }
   ],
   "failed_attempts": [
@@ -125681,5 +125700,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T15:39:11Z"
+  "last_updated": "2026-05-23T15:40:26Z"
 }
