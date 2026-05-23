@@ -120767,6 +120767,25 @@
         "download_sec": 22.6,
         "upload_sec": 39.5
       }
+    },
+    {
+      "cr_film_id": 24669,
+      "cr_slug": "dve-na-jednoho",
+      "title": "Dvě na jednoho",
+      "year": 2002,
+      "display_name": "Dvě na jednoho (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c0a51cbc6a0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25140699,
+      "size_bytes": 433206112,
+      "uploaded_at": "2026-05-23T11:45:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.4,
+        "upload_sec": 20.3
+      }
     }
   ],
   "failed_attempts": [
@@ -122584,5 +122603,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T11:44:32Z"
+  "last_updated": "2026-05-23T11:45:14Z"
 }
