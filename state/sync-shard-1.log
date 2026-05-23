@@ -41407,3 +41407,14 @@
 [00:14:44]   upload done video_id=25118390 in 58.9s
 [00:14:47] film cr_film_id=23249 OK in 111.5s
 [00:14:47] batch-end ok=20 failed=0 dur=1631.0s avg/film=81.5s remaining=11724 eta_hours=265.4
+
+===== run 2026-05-23T00:16:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26318115577) =====
+[00:16:25] batch-start shard=1/2 count=20 backlog=17650 uploads=5926 failed_attempts=249
+[00:16:25] login
+[00:16:27] login done
+[00:16:27] iteration 1/20
+[00:16:27] film cr_film_id=23251 name='Rok zbraní (1991) CZ Dabing' candidates=1
+[00:16:27]   candidate upload_id=5e012ff519cb2 url=https://prehraj.to/rok-zbrani-1991-cz-dabing/5e012ff519cb2
+[00:16:28]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/15514144/Qr2hxmFwrHedsngtdGT8MFpVsmZhgPuD5U45…)
+[00:16:53]   downloaded 735.3 MB in 24.0s (30.6 MB/s)
+[00:17:26]   upload done video_id=25118525 in 32.8s
