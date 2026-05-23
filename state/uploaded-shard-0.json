@@ -118314,6 +118314,25 @@
         "download_sec": 33.2,
         "upload_sec": 38.3
       }
+    },
+    {
+      "cr_film_id": 24008,
+      "cr_slug": "jack-frost",
+      "title": "Jack Frost",
+      "year": 1998,
+      "display_name": "Jack Frost (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "e055e1186e5b242d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25134875,
+      "size_bytes": 1912428274,
+      "uploaded_at": "2026-05-23T08:12:26Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 82.2,
+        "upload_sec": 128.3
+      }
     }
   ],
   "failed_attempts": [
@@ -123579,5 +123598,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T08:08:51Z"
+  "last_updated": "2026-05-23T08:12:26Z"
 }
