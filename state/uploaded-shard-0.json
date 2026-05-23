@@ -125876,6 +125876,25 @@
         "download_sec": 14.2,
         "upload_sec": 17.5
       }
+    },
+    {
+      "cr_film_id": 25284,
+      "cr_slug": "frankenstein-2004",
+      "title": "Frankenstein",
+      "year": 2004,
+      "display_name": "Frankenstein (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b70c2c0da495",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25153190,
+      "size_bytes": 470392285,
+      "uploaded_at": "2026-05-23T18:42:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 577.7,
+        "upload_sec": 20.2
+      }
     }
   ],
   "failed_attempts": [
@@ -131155,5 +131174,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T18:32:48Z"
+  "last_updated": "2026-05-23T18:42:50Z"
 }
