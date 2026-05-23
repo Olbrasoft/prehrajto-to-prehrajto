@@ -43599,3 +43599,14 @@
 [08:27:06]   upload done video_id=25135328 in 27.0s
 [08:27:08] film cr_film_id=24261 OK in 51.9s
 [08:27:08] batch-end ok=20 failed=0 dur=1834.1s avg/film=91.7s remaining=11424 eta_hours=291.0
+
+===== run 2026-05-23T08:33:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26328202176) =====
+[08:33:03] batch-start shard=1/2 count=20 backlog=17650 uploads=6226 failed_attempts=250
+[08:33:03] login
+[08:33:04] login done
+[08:33:04] iteration 1/20
+[08:33:04] film cr_film_id=24263 name='Co chytneš v žitě (1998) CZ' candidates=2
+[08:33:04]   candidate upload_id=5c5408142dd76 url=https://prehraj.to/co-chytnes-v-zite-cz-film-1998-jad/5c5408142dd76
+[08:33:06]   resolved in 1.4s → 1080p (https://pf-storage5.premiumcdn.net/11527819/Qoliv2fNGfqdHwBSVDCpVfWQI2BFVzfl0I3a…)
+[08:35:26]   downloaded 2,886.0 MB in 138.0s (20.9 MB/s)
+[08:38:14]   upload done video_id=25135558 in 168.1s
