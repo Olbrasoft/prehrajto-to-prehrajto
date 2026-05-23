@@ -45205,3 +45205,14 @@
 [13:54:06]   upload done video_id=25146823 in 50.4s
 [13:54:08] film cr_film_id=24941 OK in 103.2s
 [13:54:08] batch-end ok=20 failed=0 dur=1649.0s avg/film=82.5s remaining=11204 eta_hours=256.8
+
+===== run 2026-05-23T13:55:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26334550526) =====
+[13:55:31] batch-start shard=1/2 count=20 backlog=17650 uploads=6446 failed_attempts=250
+[13:55:31] login
+[13:55:32] login done
+[13:55:32] iteration 1/20
+[13:55:32] film cr_film_id=24943 name='Ledový zásah (2003) CZ' candidates=2
+[13:55:32]   candidate upload_id=586e90f45ec24 url=https://prehraj.to/ledovy-zasah-akcni-drama-2003-cz-dubbing/586e90f45ec24
+[13:55:33]   resolved in 1.1s → 480p (https://pf-storage3.premiumcdn.net/1339499/LBWI83HeRS0mi36U7qUO9H8euYDCrktV9IDNu…)
+[13:55:53]   downloaded 531.0 MB in 17.5s (30.3 MB/s)
+[13:56:19]   upload done video_id=25146880 in 26.6s
