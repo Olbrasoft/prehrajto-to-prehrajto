@@ -44623,3 +44623,14 @@
 [12:22:07]   upload done video_id=25141670 in 93.3s
 [12:22:09] film cr_film_id=24632 OK in 160.9s
 [12:22:09] batch-end ok=20 failed=0 dur=1509.7s avg/film=75.5s remaining=11250 eta_hours=235.9
+
+===== run 2026-05-23T12:22:22Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26332409189) =====
+[12:22:24] batch-start shard=0/2 count=20 backlog=17650 uploads=6400 failed_attempts=740
+[12:22:24] login
+[12:22:26] login done
+[12:22:26] iteration 1/20
+[12:22:26] film cr_film_id=24636 name='Holky z lepší společnosti (2003) CZ Dabing' candidates=11
+[12:22:26]   candidate upload_id=5b64d3905896c url=https://prehraj.to/holky-z-lepsi-spolecnosti-2003-cz-dabing/5b64d3905896c
+[12:22:28]   resolved in 1.7s → 480p (https://pf-storage2.premiumcdn.net/5173930/PXeSMJfYrs8aCbXULbIPYfaxIZDtznSpWsxWh…)
+[12:22:50]   downloaded 412.0 MB in 20.6s (20.0 MB/s)
+[12:23:17]   upload done video_id=25141755 in 26.3s
