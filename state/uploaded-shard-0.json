@@ -124432,6 +124432,25 @@
         "download_sec": 39.3,
         "upload_sec": 47.3
       }
+    },
+    {
+      "cr_film_id": 25070,
+      "cr_slug": "leto-s-vlky",
+      "title": "Léto s vlky",
+      "year": 2003,
+      "display_name": "Léto s vlky (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b9c43f201e3f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25150286,
+      "size_bytes": 552938393,
+      "uploaded_at": "2026-05-23T16:28:17Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 24.0,
+        "upload_sec": 29.5
+      }
     }
   ],
   "failed_attempts": [
@@ -129711,5 +129730,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T16:27:19Z"
+  "last_updated": "2026-05-23T16:28:17Z"
 }
