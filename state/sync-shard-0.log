@@ -43163,3 +43163,14 @@
 [07:12:30]   upload done video_id=25133304 in 23.0s
 [07:12:32] film cr_film_id=23924 OK in 46.2s
 [07:12:32] batch-end ok=20 failed=0 dur=1299.6s avg/film=65.0s remaining=11450 eta_hours=206.7
+
+===== run 2026-05-23T07:12:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26326238874) =====
+[07:12:45] batch-start shard=0/2 count=20 backlog=17650 uploads=6200 failed_attempts=740
+[07:12:45] login
+[07:12:47] login done
+[07:12:47] iteration 1/20
+[07:12:47] film cr_film_id=23926 name='Wild Wild West (1999) CZ Dabing' candidates=2
+[07:12:47]   candidate upload_id=679a0744ec6cd url=https://prehraj.to/wild-wild-west-1999-cz-dab-1080p/679a0744ec6cd
+[07:12:48]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/128477432/2WNc3oiEXtWGsVDfqGSmrijws4Mh9KCYeuZ…)
+[07:15:06]   downloaded 3,212.6 MB in 135.8s (23.7 MB/s)
+[07:18:07]   upload done video_id=25133382 in 180.7s
