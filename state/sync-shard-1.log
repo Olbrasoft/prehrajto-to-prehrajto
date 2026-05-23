@@ -43745,3 +43745,14 @@
 [09:04:52]   upload done video_id=25136280 in 30.5s
 [09:04:54] film cr_film_id=24321 OK in 64.0s
 [09:04:54] batch-end ok=20 failed=0 dur=1909.5s avg/film=95.5s remaining=11404 eta_hours=302.5
+
+===== run 2026-05-23T09:07:56Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26328875848) =====
+[09:07:57] batch-start shard=1/2 count=20 backlog=17650 uploads=6246 failed_attempts=250
+[09:07:57] login
+[09:07:58] login done
+[09:07:58] iteration 1/20
+[09:07:58] film cr_film_id=24323 name='Britannic (2000) CZ Dabing' candidates=1
+[09:07:58]   candidate upload_id=65b8f113c676e url=https://prehraj.to/britannic-2000-cz-dab/65b8f113c676e
+[09:08:00]   resolved in 1.9s → 480p (https://pf-storage3.premiumcdn.net/72830939/n4ntGeTpeCYMSJzFBNT3JTZjip0sb1SWmio2…)
+[09:08:11]   downloaded 233.8 MB in 9.2s (25.4 MB/s)
+[09:08:23]   upload done video_id=25136385 in 11.9s
