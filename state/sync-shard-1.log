@@ -47163,3 +47163,14 @@
 [22:54:51]   upload done video_id=25157674 in 20.1s
 [22:54:53] film cr_film_id=25789 OK in 38.7s
 [22:54:53] batch-end ok=20 failed=0 dur=1007.8s avg/film=50.4s remaining=10936 eta_hours=153.1
+
+===== run 2026-05-23T22:56:19Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26345760829) =====
+[22:56:21] batch-start shard=1/2 count=20 backlog=17650 uploads=6714 failed_attempts=250
+[22:56:21] login
+[22:56:22] login done
+[22:56:22] iteration 1/20
+[22:56:22] film cr_film_id=25793 name='Zázrační pejsci 2 (2006) CZ' candidates=1
+[22:56:22]   candidate upload_id=5ad1b41ecda7a url=https://prehraj.to/zazracni-pejsci-2-2006/5ad1b41ecda7a
+[22:56:23]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/3872423/12qhZvsl4i47c15HQlcLesz4trGh5rIRpF4oU…)
+[22:57:02]   downloaded 1,111.2 MB in 36.7s (30.3 MB/s)
+[22:57:58]   upload done video_id=25157735 in 56.2s
