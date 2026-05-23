@@ -120919,6 +120919,25 @@
         "download_sec": 17.2,
         "upload_sec": 23.8
       }
+    },
+    {
+      "cr_film_id": 24693,
+      "cr_slug": "ned-kelly",
+      "title": "Ned Kelly",
+      "year": 2003,
+      "display_name": "Ned Kelly (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bdd2dc04daee",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25140946,
+      "size_bytes": 708278463,
+      "uploaded_at": "2026-05-23T11:54:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 27.0,
+        "upload_sec": 40.5
+      }
     }
   ],
   "failed_attempts": [
@@ -122736,5 +122755,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T11:53:34Z"
+  "last_updated": "2026-05-23T11:54:46Z"
 }
