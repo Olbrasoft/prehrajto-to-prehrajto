@@ -41553,3 +41553,14 @@
 [00:42:11]   upload done video_id=25119295 in 27.1s
 [00:42:12] film cr_film_id=23317 OK in 48.3s
 [00:42:12] batch-end ok=20 failed=0 dur=1545.8s avg/film=77.3s remaining=11704 eta_hours=251.3
+
+===== run 2026-05-23T00:42:24Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26318359077) =====
+[00:42:25] batch-start shard=1/2 count=20 backlog=17650 uploads=5946 failed_attempts=249
+[00:42:25] login
+[00:42:26] login done
+[00:42:26] iteration 1/20
+[00:42:26] film cr_film_id=23319 name='Teče tudy řeka (1992) CZ Dabing' candidates=10
+[00:42:26]   candidate upload_id=5c3267d67c2ba url=https://prehraj.to/tece-tudy-reka-1992-cz-dabing/5c3267d67c2ba
+[00:42:27]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/10610375/d8ZIElcWLTj2UZLf0kiB1ceZfmaIa1tR5Tpv…)
+[00:42:58]   downloaded 920.5 MB in 29.2s (31.5 MB/s)
+[00:43:30]   upload done video_id=25119305 in 31.8s
