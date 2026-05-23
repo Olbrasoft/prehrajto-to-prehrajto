@@ -46235,3 +46235,14 @@
 [18:24:09]   upload done video_id=25152823 in 24.3s
 [18:24:11] film cr_film_id=25268 OK in 215.9s
 [18:24:11] batch-end ok=20 failed=0 dur=1871.9s avg/film=93.6s remaining=11030 eta_hours=286.8
+
+===== run 2026-05-23T18:24:21Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26340061225) =====
+[18:24:22] batch-start shard=0/2 count=20 backlog=17650 uploads=6620 failed_attempts=742
+[18:24:22] login
+[18:24:23] login done
+[18:24:23] iteration 1/20
+[18:24:23] film cr_film_id=25270 name='Kapitán Alatriste (2006) CZ Dabing' candidates=3
+[18:24:23]   candidate upload_id=55fa6c7e6d12d url=https://prehraj.to/alatriste-2006-cz-dabing-hit/55fa6c7e6d12d
+[18:24:24]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/318595/j4MFMOHBoTL3fYzHDqTzjHOZhKLCG0SwmcYKhW…)
+[18:24:47]   downloaded 636.4 MB in 21.1s (30.2 MB/s)
+[18:25:14]   upload done video_id=25152848 in 27.4s
