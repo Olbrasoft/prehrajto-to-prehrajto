@@ -44772,3 +44772,14 @@
 [12:52:41]   upload done video_id=25142589 in 26.8s
 [12:52:43] film cr_film_id=24688 OK in 56.2s
 [12:52:43] batch-end ok=20 failed=0 dur=1817.4s avg/film=90.9s remaining=11230 eta_hours=283.6
+
+===== run 2026-05-23T12:52:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26332545887) =====
+[12:52:58] batch-start shard=0/2 count=20 backlog=17650 uploads=6420 failed_attempts=741
+[12:52:58] login
+[12:53:00] login done
+[12:53:00] iteration 1/20
+[12:53:00] film cr_film_id=24690 name='Crossroads (2002) CZ Dabing' candidates=10
+[12:53:00]   candidate upload_id=5bb74999daccd url=https://prehraj.to/crossroads-2002-cz-dabing/5bb74999daccd
+[12:53:01]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/6909887/DMRieLhKytPkSeyix1Hq3hLqtlGIA5cjLcavi…)
+[12:53:23]   downloaded 521.4 MB in 20.7s (25.2 MB/s)
+[12:53:50]   upload done video_id=25142617 in 26.7s
