@@ -117763,6 +117763,25 @@
         "download_sec": 25.5,
         "upload_sec": 27.7
       }
+    },
+    {
+      "cr_film_id": 23922,
+      "cr_slug": "serifove",
+      "title": "Šerifové",
+      "year": 1998,
+      "display_name": "Šerifové (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55ea4846ef069",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25133279,
+      "size_bytes": 833347389,
+      "uploaded_at": "2026-05-23T07:11:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 28.1,
+        "upload_sec": 30.8
+      }
     }
   ],
   "failed_attempts": [
@@ -123028,5 +123047,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T07:10:41Z"
+  "last_updated": "2026-05-23T07:11:44Z"
 }
