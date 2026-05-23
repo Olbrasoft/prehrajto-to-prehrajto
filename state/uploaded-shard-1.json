@@ -123560,6 +123560,25 @@
         "download_sec": 16.2,
         "upload_sec": 36.5
       }
+    },
+    {
+      "cr_film_id": 25119,
+      "cr_slug": "mytus",
+      "title": "Mýtus",
+      "year": 2005,
+      "display_name": "Mýtus (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d2dcec0f61c3deb9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25148352,
+      "size_bytes": 1928017792,
+      "uploaded_at": "2026-05-23T15:00:29Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 53.0,
+        "upload_sec": 83.5
+      }
     }
   ],
   "failed_attempts": [
@@ -125377,5 +125396,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T14:58:09Z"
+  "last_updated": "2026-05-23T15:00:29Z"
 }
