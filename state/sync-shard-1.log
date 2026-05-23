@@ -44621,3 +44621,14 @@
 [11:55:44]   upload done video_id=25140969 in 29.9s
 [11:55:46] film cr_film_id=24695 OK in 58.1s
 [11:55:46] batch-end ok=20 failed=0 dur=1300.9s avg/film=65.0s remaining=11284 eta_hours=203.7
+
+===== run 2026-05-23T11:56:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26332028202) =====
+[11:57:00] batch-start shard=1/2 count=20 backlog=17650 uploads=6366 failed_attempts=250
+[11:57:00] login
+[11:57:02] login done
+[11:57:02] iteration 1/20
+[11:57:02] film cr_film_id=24697 name='Jak je důležité míti Filipa (2002) CZ Dabing' candidates=6
+[11:57:02]   candidate upload_id=65166c0b1ffa8 url=https://prehraj.to/jak-je-dulezite-miti-filipa-2002-vb-usa-francie-komedie-drama-romanticky-dvdrip-czdub/65166c0b1ffa8
+[11:57:03]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/46564769/d2RIGDCoVHgXFp1h03uxOCoRf6BH8VsoQhgO…)
+[11:57:19]   downloaded 446.5 MB in 14.4s (31.0 MB/s)
+[11:57:36]   upload done video_id=25141020 in 17.2s
