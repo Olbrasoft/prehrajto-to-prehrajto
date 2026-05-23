@@ -41991,3 +41991,14 @@
 [02:26:59]   upload done video_id=25124157 in 27.7s
 [02:27:00] film cr_film_id=23541 OK in 56.8s
 [02:27:00] batch-end ok=20 failed=0 dur=2186.8s avg/film=109.3s remaining=11644 eta_hours=353.5
+
+===== run 2026-05-23T02:28:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26321075658) =====
+[02:28:26] batch-start shard=1/2 count=20 backlog=17650 uploads=6006 failed_attempts=249
+[02:28:26] login
+[02:28:27] login done
+[02:28:27] iteration 1/20
+[02:28:27] film cr_film_id=23543 name='Šest vražd stačí, maminko! (1994) CZ' candidates=1
+[02:28:27]   candidate upload_id=5aa2024c4b45b url=https://prehraj.to/sest-vrazd-staci-maminko-1994/5aa2024c4b45b
+[02:28:29]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/3575973/GvJtQzHlNIz9fmdTB4H9OHOkCy4tkgfekC4PF…)
+[02:29:29]   downloaded 1,265.0 MB in 58.7s (21.6 MB/s)
+[02:30:45]   upload done video_id=25124278 in 75.1s
