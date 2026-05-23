@@ -113091,6 +113091,25 @@
         "download_sec": 40.3,
         "upload_sec": 48.3
       }
+    },
+    {
+      "cr_film_id": 23345,
+      "cr_slug": "andelske-oci",
+      "title": "Andělské oči",
+      "year": 1994,
+      "display_name": "Andělské oči (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6430e3dd5a0bf",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25119365,
+      "size_bytes": 3070576882,
+      "uploaded_at": "2026-05-23T00:55:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 95.5,
+        "upload_sec": 119.5
+      }
     }
   ],
   "failed_attempts": [
@@ -114901,5 +114920,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-23T00:51:32Z"
+  "last_updated": "2026-05-23T00:55:10Z"
 }
