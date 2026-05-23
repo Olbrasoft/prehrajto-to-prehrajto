@@ -127206,6 +127206,25 @@
         "download_sec": 21.3,
         "upload_sec": 27.8
       }
+    },
+    {
+      "cr_film_id": 25484,
+      "cr_slug": "a-proc-ja",
+      "title": "A proč já?",
+      "year": 2005,
+      "display_name": "A proč já? (2005) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "583c72e1c8dd9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25157279,
+      "size_bytes": 532367784,
+      "uploaded_at": "2026-05-23T22:36:13Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 24.8,
+        "upload_sec": 37.0
+      }
     }
   ],
   "failed_attempts": [
@@ -132485,5 +132504,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T22:35:07Z"
+  "last_updated": "2026-05-23T22:36:13Z"
 }
