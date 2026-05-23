@@ -119929,6 +119929,25 @@
         "download_sec": 23.1,
         "upload_sec": 26.2
       }
+    },
+    {
+      "cr_film_id": 24302,
+      "cr_slug": "snehova-kalamita",
+      "title": "Sněhová kalamita",
+      "year": 2000,
+      "display_name": "Sněhová kalamita (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "687b851b4a403",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25138294,
+      "size_bytes": 4277981688,
+      "uploaded_at": "2026-05-23T10:21:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 132.2,
+        "upload_sec": 158.8
+      }
     }
   ],
   "failed_attempts": [
@@ -125194,5 +125213,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T10:16:32Z"
+  "last_updated": "2026-05-23T10:21:27Z"
 }
