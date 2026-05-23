@@ -119188,6 +119188,25 @@
         "download_sec": 22.5,
         "upload_sec": 34.8
       }
+    },
+    {
+      "cr_film_id": 24158,
+      "cr_slug": "dnes-naposled",
+      "title": "Dnes naposled",
+      "year": 1958,
+      "display_name": "Dnes naposled (1958) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "668c1e2177125",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25136759,
+      "size_bytes": 1361327918,
+      "uploaded_at": "2026-05-23T09:24:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 50.5,
+        "upload_sec": 94.8
+      }
     }
   ],
   "failed_attempts": [
@@ -124453,5 +124472,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T09:21:52Z"
+  "last_updated": "2026-05-23T09:24:23Z"
 }
