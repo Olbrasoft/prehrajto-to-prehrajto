@@ -113015,6 +113015,25 @@
         "download_sec": 55.4,
         "upload_sec": 65.6
       }
+    },
+    {
+      "cr_film_id": 23325,
+      "cr_slug": "stalin",
+      "title": "Stalin",
+      "year": 1992,
+      "display_name": "Stalin (1992) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "581486d4a4fdc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25119321,
+      "size_bytes": 938672605,
+      "uploaded_at": "2026-05-23T00:46:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 27.1,
+        "upload_sec": 36.9
+      }
     }
   ],
   "failed_attempts": [
@@ -114825,5 +114844,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-23T00:45:35Z"
+  "last_updated": "2026-05-23T00:46:43Z"
 }
