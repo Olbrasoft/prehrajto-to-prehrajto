@@ -123957,6 +123957,25 @@
         "download_sec": 22.3,
         "upload_sec": 24.6
       }
+    },
+    {
+      "cr_film_id": 24994,
+      "cr_slug": "ztracene",
+      "title": "Ztracené",
+      "year": 2003,
+      "display_name": "Ztracené (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5804793d84c71",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25149616,
+      "size_bytes": 729584387,
+      "uploaded_at": "2026-05-23T15:56:22Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.4,
+        "upload_sec": 29.7
+      }
     }
   ],
   "failed_attempts": [
@@ -129229,5 +129248,5 @@
       "failed_at": "2026-05-23T12:37:25Z"
     }
   ],
-  "last_updated": "2026-05-23T15:55:25Z"
+  "last_updated": "2026-05-23T15:56:22Z"
 }
