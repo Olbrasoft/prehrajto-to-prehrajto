@@ -46935,3 +46935,14 @@
 [22:55:31]   upload done video_id=25157687 in 26.4s
 [22:55:33] film cr_film_id=25544 OK in 42.2s
 [22:55:33] batch-end ok=20 failed=0 dur=1048.2s avg/film=52.4s remaining=10934 eta_hours=159.2
+
+===== run 2026-05-23T22:56:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26345760829) =====
+[22:56:22] batch-start shard=0/2 count=20 backlog=17650 uploads=6716 failed_attempts=742
+[22:56:22] login
+[22:56:23] login done
+[22:56:23] iteration 1/20
+[22:56:23] film cr_film_id=25548 name='Invaze světů (2005) CZ' candidates=2
+[22:56:23]   candidate upload_id=55fc007b9a49d url=https://prehraj.to/invaze-svetu-2005/55fc007b9a49d
+[22:56:25]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/326844/a5mTPAf8aS0ZHDlFlXtRjfpVIypcZmIv0CL1UP…)
+[22:56:47]   downloaded 611.9 MB in 20.9s (29.3 MB/s)
+[22:57:21]   upload done video_id=25157729 in 33.9s
