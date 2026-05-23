@@ -42873,3 +42873,14 @@
 [06:12:12]   upload done video_id=25131662 in 40.3s
 [06:12:14] film cr_film_id=23806 OK in 81.8s
 [06:12:14] batch-end ok=20 failed=0 dur=1745.9s avg/film=87.3s remaining=11490 eta_hours=278.6
+
+===== run 2026-05-23T06:19:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26325601312) =====
+[06:19:32] batch-start shard=0/2 count=20 backlog=17650 uploads=6160 failed_attempts=740
+[06:19:32] login
+[06:19:34] login done
+[06:19:34] iteration 1/20
+[06:19:34] film cr_film_id=23810 name='Jasný terč (1997) CZ Dabing' candidates=3
+[06:19:34]   candidate upload_id=55c4fe67ed29f url=https://prehraj.to/jasny-terc-1997-czdab/55c4fe67ed29f
+[06:19:35]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/89911/3rNtmWUg7T0RswehQxIl1UeyTK4uO3flqFn0syV…)
+[06:19:55]   downloaded 451.1 MB in 18.0s (25.1 MB/s)
+[06:20:16]   upload done video_id=25131901 in 21.4s
