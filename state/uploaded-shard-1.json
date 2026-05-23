@@ -125840,6 +125840,25 @@
         "download_sec": 30.5,
         "upload_sec": 36.6
       }
+    },
+    {
+      "cr_film_id": 25503,
+      "cr_slug": "azur-a-asmar",
+      "title": "Azur a Asmar",
+      "year": 2006,
+      "display_name": "Azur a Asmar (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60b50ac7e1aa0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25152596,
+      "size_bytes": 1108740759,
+      "uploaded_at": "2026-05-23T18:13:35Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 54.4,
+        "upload_sec": 48.4
+      }
     }
   ],
   "failed_attempts": [
@@ -127657,5 +127676,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T18:11:48Z"
+  "last_updated": "2026-05-23T18:13:35Z"
 }
