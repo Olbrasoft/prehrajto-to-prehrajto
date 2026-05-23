@@ -125249,6 +125249,25 @@
         "download_sec": 68.0,
         "upload_sec": 92.9
       }
+    },
+    {
+      "cr_film_id": 25184,
+      "cr_slug": "kralovska-hra-2004",
+      "title": "Královská hra",
+      "year": 2004,
+      "display_name": "Královská hra (2004) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ac6f246401a1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25151638,
+      "size_bytes": 788318724,
+      "uploaded_at": "2026-05-23T17:32:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 32.7,
+        "upload_sec": 50.8
+      }
     }
   ],
   "failed_attempts": [
@@ -130528,5 +130547,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T17:31:24Z"
+  "last_updated": "2026-05-23T17:32:53Z"
 }
