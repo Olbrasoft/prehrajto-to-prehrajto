@@ -44185,3 +44185,14 @@
 [11:01:18]   upload done video_id=25139416 in 21.9s
 [11:01:20] film cr_film_id=24398 OK in 44.3s
 [11:01:20] batch-end ok=20 failed=0 dur=1593.3s avg/film=79.7s remaining=11310 eta_hours=250.4
+
+===== run 2026-05-23T11:02:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26330980774) =====
+[11:02:11] batch-start shard=0/2 count=20 backlog=17650 uploads=6340 failed_attempts=740
+[11:02:11] login
+[11:02:12] login done
+[11:02:12] iteration 1/20
+[11:02:12] film cr_film_id=24402 name='Nostradamus (2000) CZ Dabing' candidates=1
+[11:02:12]   candidate upload_id=5a06406f2125d url=https://prehraj.to/nostradamus-cz-dabing-2000/5a06406f2125d
+[11:02:14]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/2916079/N7MuWncp7IArc56Hx8hMacV3hzXUDkhnmHr8f…)
+[11:02:59]   downloaded 963.2 MB in 44.1s (21.8 MB/s)
+[11:03:56]   upload done video_id=25139493 in 56.4s
