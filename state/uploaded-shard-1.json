@@ -121432,6 +121432,25 @@
         "download_sec": 32.2,
         "upload_sec": 39.2
       }
+    },
+    {
+      "cr_film_id": 24767,
+      "cr_slug": "kralovsky-slib",
+      "title": "Královský slib",
+      "year": 2001,
+      "display_name": "Královský slib (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b79ff7f99846",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25141918,
+      "size_bytes": 832567572,
+      "uploaded_at": "2026-05-23T12:29:35Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 33.7,
+        "upload_sec": 47.3
+      }
     }
   ],
   "failed_attempts": [
@@ -123249,5 +123268,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T12:28:10Z"
+  "last_updated": "2026-05-23T12:29:35Z"
 }
