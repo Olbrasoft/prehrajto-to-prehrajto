@@ -121717,6 +121717,25 @@
         "download_sec": 29.2,
         "upload_sec": 35.0
       }
+    },
+    {
+      "cr_film_id": 24817,
+      "cr_slug": "zaklinac",
+      "title": "Zaklínač",
+      "year": 2001,
+      "display_name": "Zaklínač (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bd57abfe6b2d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25142659,
+      "size_bytes": 1105320458,
+      "uploaded_at": "2026-05-23T12:56:03Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 52.3,
+        "upload_sec": 62.8
+      }
     }
   ],
   "failed_attempts": [
@@ -123534,5 +123553,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T12:53:42Z"
+  "last_updated": "2026-05-23T12:56:03Z"
 }
