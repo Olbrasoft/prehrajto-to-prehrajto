@@ -42283,3 +42283,14 @@
 [03:27:01]   upload done video_id=25126445 in 27.1s
 [03:27:03] film cr_film_id=23675 OK in 56.3s
 [03:27:03] batch-end ok=20 failed=0 dur=1327.2s avg/film=66.4s remaining=11604 eta_hours=214.0
+
+===== run 2026-05-23T03:36:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26322453862) =====
+[03:36:49] batch-start shard=1/2 count=20 backlog=17650 uploads=6046 failed_attempts=249
+[03:36:49] login
+[03:36:50] login done
+[03:36:50] iteration 1/20
+[03:36:50] film cr_film_id=23677 name='Krev a víno (1996) CZ' candidates=1
+[03:36:50]   candidate upload_id=5aac5e9d6f3e0 url=https://prehraj.to/krev-a-vino-1996/5aac5e9d6f3e0
+[03:36:51]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/3657613/YolUmLF19Hynt8jfgRHEJFomtxVt3RSzmcVaS…)
+[03:37:39]   downloaded 1,337.1 MB in 45.5s (29.4 MB/s)
+[03:38:43]   upload done video_id=25126834 in 64.2s
