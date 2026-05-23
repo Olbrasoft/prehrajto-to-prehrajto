@@ -117499,6 +117499,25 @@
         "download_sec": 23.9,
         "upload_sec": 31.5
       }
+    },
+    {
+      "cr_film_id": 24133,
+      "cr_slug": "opoparchant",
+      "title": "Opoparchant",
+      "year": 2001,
+      "display_name": "Opoparchant (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "582115045b18d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25133425,
+      "size_bytes": 433054246,
+      "uploaded_at": "2026-05-23T07:17:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.1,
+        "upload_sec": 35.6
+      }
     }
   ],
   "failed_attempts": [
@@ -119316,5 +119335,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T07:16:32Z"
+  "last_updated": "2026-05-23T07:17:33Z"
 }
