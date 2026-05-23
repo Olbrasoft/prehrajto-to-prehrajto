@@ -113243,6 +113243,25 @@
         "download_sec": 27.0,
         "upload_sec": 38.3
       }
+    },
+    {
+      "cr_film_id": 23381,
+      "cr_slug": "pevnost-strachu",
+      "title": "Pevnost strachu",
+      "year": 1992,
+      "display_name": "Pevnost strachu (1992) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ba6b5f9ab0bb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25120255,
+      "size_bytes": 2030555018,
+      "uploaded_at": "2026-05-23T01:04:42Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 78.7,
+        "upload_sec": 71.0
+      }
     }
   ],
   "failed_attempts": [
@@ -115053,5 +115072,5 @@
       "failed_at": "2026-05-22T20:51:13Z"
     }
   ],
-  "last_updated": "2026-05-23T01:02:09Z"
+  "last_updated": "2026-05-23T01:04:42Z"
 }
