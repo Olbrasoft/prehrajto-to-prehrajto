@@ -43747,3 +43747,14 @@
 [09:30:10]   upload done video_id=25136948 in 26.7s
 [09:30:12] film cr_film_id=24182 OK in 50.5s
 [09:30:12] batch-end ok=20 failed=0 dur=1330.4s avg/film=66.5s remaining=11370 eta_hours=210.0
+
+===== run 2026-05-23T09:30:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26329303207) =====
+[09:30:52] batch-start shard=0/2 count=20 backlog=17650 uploads=6280 failed_attempts=740
+[09:30:52] login
+[09:30:53] login done
+[09:30:53] iteration 1/20
+[09:30:53] film cr_film_id=24186 name='Jezdec formule risk (1973) CZ Dabing' candidates=1
+[09:30:53]   candidate upload_id=61f1ff9ecaae7 url=https://prehraj.to/jezdec-formule-risk-1973-czdab/61f1ff9ecaae7
+[09:30:55]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/28757262/MRzFzMibPTZluPet24F0Mi8MIjrUaeTElT7v…)
+[09:31:33]   downloaded 684.4 MB in 36.3s (18.9 MB/s)
+[09:32:20]   upload done video_id=25136998 in 46.5s
