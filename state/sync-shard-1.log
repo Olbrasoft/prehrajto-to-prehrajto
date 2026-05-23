@@ -46227,3 +46227,14 @@
 [17:14:57]   upload done video_id=25151278 in 30.5s
 [17:14:59] film cr_film_id=25379 OK in 62.1s
 [17:14:59] batch-end ok=20 failed=0 dur=1730.2s avg/film=86.5s remaining=11064 eta_hours=265.8
+
+===== run 2026-05-23T17:16:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26338794499) =====
+[17:16:31] batch-start shard=1/2 count=20 backlog=17650 uploads=6586 failed_attempts=250
+[17:16:31] login
+[17:16:32] login done
+[17:16:32] iteration 1/20
+[17:16:32] film cr_film_id=25381 name='Láska v horách (2005) CZ' candidates=1
+[17:16:32]   candidate upload_id=5aa856f8cded9 url=https://prehraj.to/laska-v-horach-2005/5aa856f8cded9
+[17:16:34]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3627078/J3qUp3CDWIPWca4H4kCPlCnqIZyhaec5mTlLc…)
+[17:17:04]   downloaded 558.4 MB in 27.9s (20.0 MB/s)
+[17:17:37]   upload done video_id=25151327 in 33.0s
