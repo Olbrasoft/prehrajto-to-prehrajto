@@ -43893,3 +43893,14 @@
 [10:02:12]   upload done video_id=25137801 in 66.0s
 [10:02:14] film cr_film_id=24258 OK in 130.9s
 [10:02:14] batch-end ok=20 failed=0 dur=1880.7s avg/film=94.0s remaining=11350 eta_hours=296.4
+
+===== run 2026-05-23T10:02:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26329885901) =====
+[10:02:48] batch-start shard=0/2 count=20 backlog=17650 uploads=6300 failed_attempts=740
+[10:02:48] login
+[10:02:49] login done
+[10:02:49] iteration 1/20
+[10:02:49] film cr_film_id=24260 name='Rytířem na hradě Camelot (1998) CZ Dabing' candidates=2
+[10:02:49]   candidate upload_id=59bf7cae45e31 url=https://prehraj.to/rytirem-na-hrade-camelot-1998-cz-dabing/59bf7cae45e31
+[10:02:50]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/2639825/ELKTjpcLkTzQfX8CVnHZNcyDtm9sldurqFL1F…)
+[10:03:13]   downloaded 595.2 MB in 20.6s (28.9 MB/s)
+[10:03:36]   upload done video_id=25137856 in 23.4s
