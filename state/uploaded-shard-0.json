@@ -123558,6 +123558,25 @@
         "download_sec": 18.3,
         "upload_sec": 20.8
       }
+    },
+    {
+      "cr_film_id": 24944,
+      "cr_slug": "jama",
+      "title": "Jáma",
+      "year": 2003,
+      "display_name": "Jáma (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c30048958076",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25148057,
+      "size_bytes": 510502290,
+      "uploaded_at": "2026-05-23T14:49:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.6,
+        "upload_sec": 21.7
+      }
     }
   ],
   "failed_attempts": [
@@ -128830,5 +128849,5 @@
       "failed_at": "2026-05-23T12:37:25Z"
     }
   ],
-  "last_updated": "2026-05-23T14:48:43Z"
+  "last_updated": "2026-05-23T14:49:26Z"
 }
