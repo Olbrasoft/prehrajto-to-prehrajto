@@ -120862,6 +120862,25 @@
         "download_sec": 18.7,
         "upload_sec": 25.0
       }
+    },
+    {
+      "cr_film_id": 24687,
+      "cr_slug": "lidi-co-znam",
+      "title": "Lidi, co znám",
+      "year": 2002,
+      "display_name": "Lidi, co znám (2002) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58b6d64acc847",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25140856,
+      "size_bytes": 349130767,
+      "uploaded_at": "2026-05-23T11:51:00Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 14.6,
+        "upload_sec": 21.0
+      }
     }
   ],
   "failed_attempts": [
@@ -122679,5 +122698,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T11:50:21Z"
+  "last_updated": "2026-05-23T11:51:00Z"
 }
