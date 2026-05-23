@@ -124339,6 +124339,25 @@
         "download_sec": 30.4,
         "upload_sec": 34.0
       }
+    },
+    {
+      "cr_film_id": 25241,
+      "cr_slug": "tajna-prani",
+      "title": "Tajná přání",
+      "year": 2005,
+      "display_name": "Tajná přání (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c36cbc0ad46b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25149931,
+      "size_bytes": 388172128,
+      "uploaded_at": "2026-05-23T16:10:22Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 13.4,
+        "upload_sec": 18.5
+      }
     }
   ],
   "failed_attempts": [
@@ -126156,5 +126175,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T16:09:44Z"
+  "last_updated": "2026-05-23T16:10:22Z"
 }
