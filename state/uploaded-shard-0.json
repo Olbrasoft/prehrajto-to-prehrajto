@@ -115730,6 +115730,25 @@
         "download_sec": 18.5,
         "upload_sec": 20.3
       }
+    },
+    {
+      "cr_film_id": 23548,
+      "cr_slug": "archa-nevinatek",
+      "title": "Archa neviňátek",
+      "year": 1993,
+      "display_name": "Archa neviňátek (1993) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "630e756208b6e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25128468,
+      "size_bytes": 709933037,
+      "uploaded_at": "2026-05-23T04:28:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.9,
+        "upload_sec": 36.1
+      }
     }
   ],
   "failed_attempts": [
@@ -120995,5 +121014,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T04:27:40Z"
+  "last_updated": "2026-05-23T04:28:43Z"
 }
