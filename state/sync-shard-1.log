@@ -42869,3 +42869,14 @@
 [05:41:17]   upload done video_id=25130840 in 26.7s
 [05:41:19] film cr_film_id=23927 OK in 55.3s
 [05:41:19] batch-end ok=20 failed=0 dur=2170.1s avg/film=108.5s remaining=11524 eta_hours=347.3
+
+===== run 2026-05-23T05:43:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26324900952) =====
+[05:43:04] batch-start shard=1/2 count=20 backlog=17650 uploads=6126 failed_attempts=250
+[05:43:04] login
+[05:43:05] login done
+[05:43:05] iteration 1/20
+[05:43:05] film cr_film_id=23929 name='Není král jako král (2000) CZ Dabing' candidates=3
+[05:43:05]   candidate upload_id=6745d038b4d56 url=https://prehraj.to/neni-kral-jako-kral-2000-cz-dab/6745d038b4d56
+[05:43:07]   resolved in 1.7s → 720p (https://pf-storage1.premiumcdn.net/112336076/kpwcDlHlVTrYUQNCzeflDHolTLoCalsZQS8…)
+[05:43:46]   downloaded 815.6 MB in 36.4s (22.4 MB/s)
+[05:44:34]   upload done video_id=25130934 in 48.6s
