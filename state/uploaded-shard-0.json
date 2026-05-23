@@ -118884,6 +118884,25 @@
         "download_sec": 39.6,
         "upload_sec": 27.2
       }
+    },
+    {
+      "cr_film_id": 24100,
+      "cr_slug": "v-moci-snu",
+      "title": "V moci snů",
+      "year": 2000,
+      "display_name": "V moci snů (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c16c99070707",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25136267,
+      "size_bytes": 542901583,
+      "uploaded_at": "2026-05-23T09:04:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.9,
+        "upload_sec": 32.3
+      }
     }
   ],
   "failed_attempts": [
@@ -124149,5 +124168,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T09:03:13Z"
+  "last_updated": "2026-05-23T09:04:17Z"
 }
