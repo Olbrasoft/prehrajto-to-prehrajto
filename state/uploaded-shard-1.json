@@ -116302,6 +116302,25 @@
         "download_sec": 70.5,
         "upload_sec": 104.2
       }
+    },
+    {
+      "cr_film_id": 23915,
+      "cr_slug": "krvave-housle",
+      "title": "Krvavé housle",
+      "year": 1998,
+      "display_name": "Krvavé housle (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "581fefb082e7b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25130702,
+      "size_bytes": 658758572,
+      "uploaded_at": "2026-05-23T05:36:42Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.6,
+        "upload_sec": 29.4
+      }
     }
   ],
   "failed_attempts": [
@@ -118119,5 +118138,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T05:35:43Z"
+  "last_updated": "2026-05-23T05:36:42Z"
 }
