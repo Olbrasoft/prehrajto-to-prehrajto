@@ -127529,6 +127529,25 @@
         "download_sec": 24.9,
         "upload_sec": 36.2
       }
+    },
+    {
+      "cr_film_id": 25536,
+      "cr_slug": "barevny-zavoj",
+      "title": "Barevný závoj",
+      "year": 2006,
+      "display_name": "Barevný závoj (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64a4527f4d36e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25157630,
+      "size_bytes": 1230508528,
+      "uploaded_at": "2026-05-23T22:52:54Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 35.8,
+        "upload_sec": 46.9
+      }
     }
   ],
   "failed_attempts": [
@@ -132808,5 +132827,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T22:51:27Z"
+  "last_updated": "2026-05-23T22:52:54Z"
 }
