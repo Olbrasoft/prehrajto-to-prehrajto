@@ -46373,3 +46373,14 @@
 [17:51:21]   upload done video_id=25152111 in 26.8s
 [17:51:23] film cr_film_id=25445 OK in 56.0s
 [17:51:23] batch-end ok=20 failed=0 dur=2090.3s avg/film=104.5s remaining=11044 eta_hours=320.6
+
+===== run 2026-05-23T17:52:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26339543009) =====
+[17:53:00] batch-start shard=1/2 count=20 backlog=17650 uploads=6606 failed_attempts=250
+[17:53:00] login
+[17:53:02] login done
+[17:53:02] iteration 1/20
+[17:53:02] film cr_film_id=25447 name='Hui Buh - Zámecké strašidlo (2006) CZ Dabing' candidates=5
+[17:53:02]   candidate upload_id=55c77c779f934 url=https://prehraj.to/hui-buh-dobrodruzstvo-na-zamku-2006-cz-dab-p-p/55c77c779f934
+[17:53:03]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/120032/16dhz1iY2Ud5caWIMgUgdiqQCMNCLGfZvt7lsZ…)
+[17:53:44]   downloaded 697.6 MB in 39.2s (17.8 MB/s)
+[17:54:16]   upload done video_id=25152170 in 31.8s
