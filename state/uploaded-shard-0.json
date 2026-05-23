@@ -125667,6 +125667,25 @@
         "download_sec": 50.2,
         "upload_sec": 22.3
       }
+    },
+    {
+      "cr_film_id": 25250,
+      "cr_slug": "zlomyslny",
+      "title": "Zlomyslný",
+      "year": 2004,
+      "display_name": "Zlomyslný (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b4d7bb9ce9b0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25152686,
+      "size_bytes": 521295454,
+      "uploaded_at": "2026-05-23T18:17:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 37.1,
+        "upload_sec": 23.4
+      }
     }
   ],
   "failed_attempts": [
@@ -130946,5 +130965,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T18:15:59Z"
+  "last_updated": "2026-05-23T18:17:04Z"
 }
