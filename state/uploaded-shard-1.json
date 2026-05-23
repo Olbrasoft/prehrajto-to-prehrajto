@@ -123769,6 +123769,25 @@
         "download_sec": 76.3,
         "upload_sec": 109.9
       }
+    },
+    {
+      "cr_film_id": 25147,
+      "cr_slug": "jane-ma-schuzku",
+      "title": "Jane má schůzku",
+      "year": 2003,
+      "display_name": "Jane má schůzku (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5d0dfe91b17d3",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25149099,
+      "size_bytes": 780852166,
+      "uploaded_at": "2026-05-23T15:33:29Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 40.8,
+        "upload_sec": 52.7
+      }
     }
   ],
   "failed_attempts": [
@@ -125586,5 +125605,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T15:31:51Z"
+  "last_updated": "2026-05-23T15:33:29Z"
 }
