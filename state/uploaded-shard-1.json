@@ -124529,6 +124529,25 @@
         "download_sec": 43.5,
         "upload_sec": 56.8
       }
+    },
+    {
+      "cr_film_id": 25275,
+      "cr_slug": "robinson-crusoe-2003",
+      "title": "Robinson Crusoe",
+      "year": 2003,
+      "display_name": "Robinson Crusoe (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c2c36819d632",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25150310,
+      "size_bytes": 1158365792,
+      "uploaded_at": "2026-05-23T16:30:20Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 57.3,
+        "upload_sec": 82.0
+      }
     }
   ],
   "failed_attempts": [
@@ -126346,5 +126365,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T16:27:55Z"
+  "last_updated": "2026-05-23T16:30:20Z"
 }
