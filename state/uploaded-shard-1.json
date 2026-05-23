@@ -117366,6 +117366,25 @@
         "download_sec": 25.1,
         "upload_sec": 30.6
       }
+    },
+    {
+      "cr_film_id": 24111,
+      "cr_slug": "zaveste-prosim",
+      "title": "Zavěste, prosím",
+      "year": 2000,
+      "display_name": "Zavěste, prosím (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c50fc51dd257",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25133206,
+      "size_bytes": 505092824,
+      "uploaded_at": "2026-05-23T07:09:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.0,
+        "upload_sec": 28.2
+      }
     }
   ],
   "failed_attempts": [
@@ -119183,5 +119202,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T07:08:20Z"
+  "last_updated": "2026-05-23T07:09:17Z"
 }
