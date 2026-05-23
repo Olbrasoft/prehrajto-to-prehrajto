@@ -118599,6 +118599,25 @@
         "download_sec": 108.7,
         "upload_sec": 82.0
       }
+    },
+    {
+      "cr_film_id": 24062,
+      "cr_slug": "prijdu-hned",
+      "title": "Přijdu hned",
+      "year": 1942,
+      "display_name": "Přijdu hned (1942) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a9e1531984de",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25135616,
+      "size_bytes": 541558683,
+      "uploaded_at": "2026-05-23T08:38:37Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.5,
+        "upload_sec": 32.9
+      }
     }
   ],
   "failed_attempts": [
@@ -123864,5 +123883,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T08:37:29Z"
+  "last_updated": "2026-05-23T08:38:37Z"
 }
