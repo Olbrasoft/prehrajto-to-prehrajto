@@ -114495,6 +114495,25 @@
         "download_sec": 16.7,
         "upload_sec": 24.5
       }
+    },
+    {
+      "cr_film_id": 23314,
+      "cr_slug": "radio-flyer",
+      "title": "Radio Flyer",
+      "year": 1992,
+      "display_name": "Radio Flyer (1992) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5820598cecd1a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25124422,
+      "size_bytes": 570830653,
+      "uploaded_at": "2026-05-23T02:33:22Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 20.0,
+        "upload_sec": 21.3
+      }
     }
   ],
   "failed_attempts": [
@@ -119753,5 +119772,5 @@
       "failed_at": "2026-05-22T22:45:31Z"
     }
   ],
-  "last_updated": "2026-05-23T02:32:36Z"
+  "last_updated": "2026-05-23T02:33:22Z"
 }
