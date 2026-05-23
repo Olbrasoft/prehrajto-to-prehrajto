@@ -118202,6 +118202,25 @@
         "download_sec": 17.9,
         "upload_sec": 27.3
       }
+    },
+    {
+      "cr_film_id": 24247,
+      "cr_slug": "magnolia",
+      "title": "Magnolia",
+      "year": 1999,
+      "display_name": "Magnolia (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a134fbd0e1fdb001",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25135145,
+      "size_bytes": 4385354643,
+      "uploaded_at": "2026-05-23T08:23:08Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 118.1,
+        "upload_sec": 181.5
+      }
     }
   ],
   "failed_attempts": [
@@ -120019,5 +120038,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T08:18:05Z"
+  "last_updated": "2026-05-23T08:23:08Z"
 }
