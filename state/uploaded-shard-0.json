@@ -126902,6 +126902,25 @@
         "download_sec": 42.2,
         "upload_sec": 63.4
       }
+    },
+    {
+      "cr_film_id": 25442,
+      "cr_slug": "venom-2005",
+      "title": "Venom",
+      "year": 2005,
+      "display_name": "Venom (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67f202abf1883",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25156802,
+      "size_bytes": 1880456441,
+      "uploaded_at": "2026-05-23T22:14:29Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 72.6,
+        "upload_sec": 102.1
+      }
     }
   ],
   "failed_attempts": [
@@ -132181,5 +132200,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-23T22:11:29Z"
+  "last_updated": "2026-05-23T22:14:29Z"
 }
