@@ -125213,6 +125213,25 @@
         "download_sec": 16.0,
         "upload_sec": 19.8
       }
+    },
+    {
+      "cr_film_id": 25389,
+      "cr_slug": "annapolis",
+      "title": "Annapolis",
+      "year": 2006,
+      "display_name": "Annapolis (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68bc85be0e9f9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25151464,
+      "size_bytes": 4869495169,
+      "uploaded_at": "2026-05-23T17:28:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 210.3,
+        "upload_sec": 302.1
+      }
     }
   ],
   "failed_attempts": [
@@ -127030,5 +127049,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T17:20:00Z"
+  "last_updated": "2026-05-23T17:28:37Z"
 }
