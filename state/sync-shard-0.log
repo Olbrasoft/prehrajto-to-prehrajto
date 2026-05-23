@@ -46089,3 +46089,14 @@
 [17:40:37]   upload done video_id=25151848 in 24.6s
 [17:40:39] film cr_film_id=25200 OK in 45.5s
 [17:40:39] batch-end ok=20 failed=0 dur=1447.2s avg/film=72.4s remaining=11050 eta_hours=222.2
+
+===== run 2026-05-23T17:52:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26339543009) =====
+[17:52:58] batch-start shard=0/2 count=20 backlog=17650 uploads=6600 failed_attempts=742
+[17:52:58] login
+[17:52:59] login done
+[17:52:59] iteration 1/20
+[17:52:59] film cr_film_id=25202 name='Svádění (2005) CZ Dabing' candidates=2
+[17:52:59]   candidate upload_id=55e9e656d8673 url=https://prehraj.to/svadeni-2005-czdab/55e9e656d8673
+[17:53:00]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/277839/KMks4dfZqskXu34cAXIj3fJWiEAsDyskXhb5sD…)
+[17:53:25]   downloaded 575.3 MB in 23.1s (24.9 MB/s)
+[17:53:48]   upload done video_id=25152162 in 22.5s
