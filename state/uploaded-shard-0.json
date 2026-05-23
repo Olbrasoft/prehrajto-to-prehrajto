@@ -120062,6 +120062,25 @@
         "download_sec": 15.4,
         "upload_sec": 19.3
       }
+    },
+    {
+      "cr_film_id": 24338,
+      "cr_slug": "vyhnanec",
+      "title": "Vyhnanec",
+      "year": 1999,
+      "display_name": "Vyhnanec (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6208d5aa9b17b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25138522,
+      "size_bytes": 1328073800,
+      "uploaded_at": "2026-05-23T10:28:30Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 42.5,
+        "upload_sec": 68.6
+      }
     }
   ],
   "failed_attempts": [
@@ -125327,5 +125346,5 @@
       "failed_at": "2026-05-23T03:49:55Z"
     }
   ],
-  "last_updated": "2026-05-23T10:26:35Z"
+  "last_updated": "2026-05-23T10:28:30Z"
 }
