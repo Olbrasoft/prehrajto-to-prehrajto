@@ -124434,6 +124434,25 @@
         "download_sec": 25.9,
         "upload_sec": 45.4
       }
+    },
+    {
+      "cr_film_id": 25255,
+      "cr_slug": "salon-krasy",
+      "title": "Salon krásy",
+      "year": 2005,
+      "display_name": "Salon krásy (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57db117912c6e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25150139,
+      "size_bytes": 439282717,
+      "uploaded_at": "2026-05-23T16:21:01Z",
+      "timing": {
+        "resolve_sec": 3.8,
+        "download_sec": 21.3,
+        "upload_sec": 32.4
+      }
     }
   ],
   "failed_attempts": [
@@ -126251,5 +126270,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T16:19:59Z"
+  "last_updated": "2026-05-23T16:21:01Z"
 }
