@@ -53019,3 +53019,14 @@
 [22:11:20]   upload done video_id=25178836 in 93.8s
 [22:11:22] film cr_film_id=29573 OK in 184.3s
 [22:11:22] batch-end ok=20 failed=0 dur=2374.4s avg/film=118.7s remaining=10141 eta_hours=334.4
+
+===== run 2026-05-24T22:12:46Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26374173083) =====
+[22:12:47] batch-start shard=1/2 count=20 backlog=17650 uploads=7509 failed_attempts=264
+[22:12:47] login
+[22:12:48] login done
+[22:12:48] iteration 1/20
+[22:12:48] film cr_film_id=29591 name='Měsíc s dýmkou (1967) CZ Dabing' candidates=2
+[22:12:48]   candidate upload_id=60ca8952bc5f9 url=https://prehraj.to/mesic-s-dymkou-1967-czdab/60ca8952bc5f9
+[22:12:49]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/23917839/AbEIdYfLKIMDIm7hGQhL2fJZCkdcAYTrZI7M…)
+[22:13:08]   downloaded 408.2 MB in 16.9s (24.2 MB/s)
+[22:13:28]   upload done video_id=25178876 in 19.8s
