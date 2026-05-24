@@ -135739,6 +135739,25 @@
         "download_sec": 28.0,
         "upload_sec": 33.0
       }
+    },
+    {
+      "cr_film_id": 27575,
+      "cr_slug": "motorkar",
+      "title": "Motorkář",
+      "year": 2011,
+      "display_name": "Motorkář (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5cd4e38e3558e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25168491,
+      "size_bytes": 639275813,
+      "uploaded_at": "2026-05-24T09:34:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.9,
+        "upload_sec": 30.3
+      }
     }
   ],
   "failed_attempts": [
@@ -137587,5 +137606,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T09:33:38Z"
+  "last_updated": "2026-05-24T09:34:33Z"
 }
