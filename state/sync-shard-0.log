@@ -47227,3 +47227,14 @@
 [00:03:05]   upload done video_id=25158872 in 42.0s
 [00:03:07] film cr_film_id=25662 OK in 74.2s
 [00:03:07] batch-end ok=20 failed=0 dur=2085.1s avg/film=104.3s remaining=10894 eta_hours=315.6
+
+===== run 2026-05-24T00:04:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26347032431) =====
+[00:04:51] batch-start shard=0/2 count=20 backlog=17650 uploads=6756 failed_attempts=742
+[00:04:51] login
+[00:04:53] login done
+[00:04:53] iteration 1/20
+[00:04:53] film cr_film_id=25666 name='Rafťáci (2006) CZ Dabing' candidates=27
+[00:04:53]   candidate upload_id=68900496e0d32 url=https://prehraj.to/raftaci-2006-cz-dab-1080p/68900496e0d32
+[00:04:55]   resolved in 1.6s → 1080p (https://pf-storage5.premiumcdn.net/142893896/yvYTodsEvh59SmGhrkcOZsoOt0dUxQiX8T3…)
+[00:07:44]   downloaded 4,094.4 MB in 167.2s (24.5 MB/s)
+[00:12:15]   upload done video_id=25158938 in 270.8s

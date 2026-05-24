@@ -128365,6 +128365,25 @@
         "download_sec": 26.9,
         "upload_sec": 42.0
       }
+    },
+    {
+      "cr_film_id": 25666,
+      "cr_slug": "raftaci",
+      "title": "Rafťáci",
+      "year": 2006,
+      "display_name": "Rafťáci (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68900496e0d32",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25158938,
+      "size_bytes": 4094384977,
+      "uploaded_at": "2026-05-24T00:12:15Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 167.2,
+        "upload_sec": 270.8
+      }
     }
   ],
   "failed_attempts": [
@@ -133644,5 +133663,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T00:03:05Z"
+  "last_updated": "2026-05-24T00:12:15Z"
 }
