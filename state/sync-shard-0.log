@@ -47373,3 +47373,14 @@
 [00:40:49]   upload done video_id=25159392 in 67.6s
 [00:40:51] film cr_film_id=25724 OK in 131.5s
 [00:40:51] batch-end ok=20 failed=0 dur=2157.4s avg/film=107.9s remaining=10874 eta_hours=325.9
+
+===== run 2026-05-24T00:41:05Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26347413259) =====
+[00:41:07] batch-start shard=0/2 count=20 backlog=17650 uploads=6776 failed_attempts=742
+[00:41:07] login
+[00:41:08] login done
+[00:41:08] iteration 1/20
+[00:41:08] film cr_film_id=25726 name='Já jsem ty a ty jsi já (2006) CZ Dabing' candidates=7
+[00:41:08]   candidate upload_id=6057b4eedb41a url=https://prehraj.to/ja-jsem-ty-a-ty-jsi-ja-its-a-boy-girl-thing-2006-cz-dabing/6057b4eedb41a
+[00:41:10]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/22751285/NqLt01fZOtYnIr3U1Yhb3fknuZ2SqaF7ZI9O…)
+[00:41:26]   downloaded 496.3 MB in 15.1s (32.9 MB/s)
+[00:41:48]   upload done video_id=25159437 in 21.2s
