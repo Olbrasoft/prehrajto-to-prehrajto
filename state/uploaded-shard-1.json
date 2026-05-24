@@ -142275,6 +142275,25 @@
         "download_sec": 20.9,
         "upload_sec": 45.2
       }
+    },
+    {
+      "cr_film_id": 29433,
+      "cr_slug": "pravy-rytir",
+      "title": "Pravý rytíř",
+      "year": 2016,
+      "display_name": "Pravý rytíř (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6194c37f73176",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25177648,
+      "size_bytes": 685256319,
+      "uploaded_at": "2026-05-24T20:55:12Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 56.7,
+        "upload_sec": 26.8
+      }
     }
   ],
   "failed_attempts": [
@@ -144210,5 +144229,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T20:53:45Z"
+  "last_updated": "2026-05-24T20:55:12Z"
 }
