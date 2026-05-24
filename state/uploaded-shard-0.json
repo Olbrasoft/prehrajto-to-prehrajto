@@ -133438,6 +133438,25 @@
         "download_sec": 19.1,
         "upload_sec": 25.1
       }
+    },
+    {
+      "cr_film_id": 26632,
+      "cr_slug": "boxer-2009",
+      "title": "Boxer",
+      "year": 2009,
+      "display_name": "Boxer (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5baebdbfa404a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25165301,
+      "size_bytes": 519499215,
+      "uploaded_at": "2026-05-24T06:43:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 23.6,
+        "upload_sec": 29.1
+      }
     }
   ],
   "failed_attempts": [
@@ -138724,5 +138743,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T06:42:19Z"
+  "last_updated": "2026-05-24T06:43:17Z"
 }
