@@ -136801,6 +136801,25 @@
         "download_sec": 13.7,
         "upload_sec": 26.5
       }
+    },
+    {
+      "cr_film_id": 27466,
+      "cr_slug": "prava-laska",
+      "title": "Pravá láska",
+      "year": 2011,
+      "display_name": "Pravá láska (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab8e102ce918",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25169613,
+      "size_bytes": 436065280,
+      "uploaded_at": "2026-05-24T10:47:46Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.0,
+        "upload_sec": 21.0
+      }
     }
   ],
   "failed_attempts": [
@@ -142087,5 +142106,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T10:47:04Z"
+  "last_updated": "2026-05-24T10:47:46Z"
 }
