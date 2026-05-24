@@ -134485,6 +134485,25 @@
         "download_sec": 47.6,
         "upload_sec": 52.8
       }
+    },
+    {
+      "cr_film_id": 27289,
+      "cr_slug": "hrisnice",
+      "title": "Hříšnice",
+      "year": 2010,
+      "display_name": "Hříšnice (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f3b8e29ee88d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25166711,
+      "size_bytes": 889202452,
+      "uploaded_at": "2026-05-24T08:02:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.5,
+        "upload_sec": 40.5
+      }
     }
   ],
   "failed_attempts": [
@@ -136333,5 +136352,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T08:01:15Z"
+  "last_updated": "2026-05-24T08:02:31Z"
 }
