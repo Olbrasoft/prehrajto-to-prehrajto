@@ -49857,3 +49857,14 @@
 [08:47:04]   upload done video_id=25167353 in 41.5s
 [08:47:05] film cr_film_id=27108 OK in 73.1s
 [08:47:05] batch-end ok=20 failed=0 dur=1687.1s avg/film=84.4s remaining=10534 eta_hours=247.0
+
+===== run 2026-05-24T08:53:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26356863690) =====
+[08:53:54] batch-start shard=0/2 count=20 backlog=17650 uploads=7116 failed_attempts=743
+[08:53:54] login
+[08:53:55] login done
+[08:53:55] iteration 1/20
+[08:53:55] film cr_film_id=27112 name='Ivan Hrozný (2009) CZ Dabing' candidates=5
+[08:53:55]   candidate upload_id=5682a12b6d01e url=https://prehraj.to/ivan-hrozny-2009-cz-dab-historicky-p-p/5682a12b6d01e
+[08:53:56]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/522755/LOPcWZF6WHmKUkqHyNS8mFJBhX8ukQhQOi7ESx…)
+[08:54:16]   downloaded 537.6 MB in 18.4s (29.2 MB/s)
+[08:54:38]   upload done video_id=25167467 in 21.5s
