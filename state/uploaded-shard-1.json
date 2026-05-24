@@ -143472,6 +143472,25 @@
         "download_sec": 90.0,
         "upload_sec": 100.0
       }
+    },
+    {
+      "cr_film_id": 29959,
+      "cr_slug": "ve-jmenu-otce",
+      "title": "Ve jménu otce",
+      "year": 1993,
+      "display_name": "Ve jménu otce (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "674d35672c393",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25180012,
+      "size_bytes": 542221442,
+      "uploaded_at": "2026-05-24T23:43:18Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 24.6,
+        "upload_sec": 33.1
+      }
     }
   ],
   "failed_attempts": [
@@ -145405,7 +145424,14 @@
         "download_sec": 62.9,
         "upload_sec": 75.4
       }
+    },
+    {
+      "cr_film_id": 29959,
+      "upload_id": "28d538c458ac892b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ve-jmenu-otce-1993-cz-dabing-full-hd-drama-top-kvalita-7984/28d538c458ac892b",
+      "permanent": true,
+      "failed_at": "2026-05-24T23:42:13Z"
     }
   ],
-  "last_updated": "2026-05-24T23:42:09Z"
+  "last_updated": "2026-05-24T23:43:18Z"
 }
