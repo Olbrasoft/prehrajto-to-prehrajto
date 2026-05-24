@@ -48835,3 +48835,14 @@
 [05:12:19]   upload done video_id=25163751 in 32.6s
 [05:12:21] film cr_film_id=26434 OK in 60.2s
 [05:12:21] batch-end ok=20 failed=0 dur=1390.3s avg/film=69.5s remaining=10674 eta_hours=206.1
+
+===== run 2026-05-24T05:13:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26352670299) =====
+[05:13:39] batch-start shard=0/2 count=20 backlog=17650 uploads=6976 failed_attempts=743
+[05:13:39] login
+[05:13:40] login done
+[05:13:40] iteration 1/20
+[05:13:40] film cr_film_id=26436 name='Tom a Jerry: Louskáček (2007) CZ' candidates=1
+[05:13:40]   candidate upload_id=55a3453465b00 url=https://prehraj.to/tom-a-jerry-louskacek-animovany-komedie-rodinny-usa-46-min-hraji-t-strong-a-dalsi-sd-cz-2007-sebek73/55a3453465b00
+[05:13:42]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/504731/jN2f7Bc60sJ2Tlvi6qCm4cmpsElSgJTN0i8Ocw…)
+[05:14:07]   downloaded 526.8 MB in 23.3s (22.6 MB/s)
+[05:14:32]   upload done video_id=25163784 in 25.0s
