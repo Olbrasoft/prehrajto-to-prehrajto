@@ -49497,3 +49497,14 @@
 [07:06:06]   upload done video_id=25165721 in 47.5s
 [07:06:09] film cr_film_id=27009 OK in 92.0s
 [07:06:09] batch-end ok=20 failed=0 dur=2101.8s avg/film=105.1s remaining=10619 eta_hours=310.0
+
+===== run 2026-05-24T07:06:22Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26354639495) =====
+[07:06:24] batch-start shard=1/2 count=20 backlog=17650 uploads=7031 failed_attempts=253
+[07:06:24] login
+[07:06:25] login done
+[07:06:25] iteration 1/20
+[07:06:25] film cr_film_id=27019 name='Flicka 2 (2010) CZ Dabing' candidates=2
+[07:06:25]   candidate upload_id=610fc9a4d98a1 url=https://prehraj.to/flicka-2-2010-cz-dabing-novinka/610fc9a4d98a1
+[07:06:26]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/24554126/8Lzh4VFL4h34Foxt9PtMBFG0cjet6Nc9ahRv…)
+[07:06:48]   downloaded 598.3 MB in 20.6s (29.0 MB/s)
+[07:07:18]   upload done video_id=25165751 in 29.8s
