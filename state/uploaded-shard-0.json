@@ -130189,6 +130189,25 @@
         "download_sec": 43.3,
         "upload_sec": 55.5
       }
+    },
+    {
+      "cr_film_id": 25966,
+      "cr_slug": "spirit",
+      "title": "Spirit",
+      "year": 2008,
+      "display_name": "Spirit (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57f88f72a00e9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25161129,
+      "size_bytes": 621634462,
+      "uploaded_at": "2026-05-24T02:18:08Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 21.5,
+        "upload_sec": 23.0
+      }
     }
   ],
   "failed_attempts": [
@@ -135468,5 +135487,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T02:17:18Z"
+  "last_updated": "2026-05-24T02:18:08Z"
 }
