@@ -50519,3 +50519,14 @@
 [10:07:59]   upload done video_id=25169056 in 27.4s
 [10:08:00] film cr_film_id=27697 OK in 53.6s
 [10:08:00] batch-end ok=20 failed=0 dur=1514.3s avg/film=75.7s remaining=10479 eta_hours=220.4
+
+===== run 2026-05-24T10:08:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26358378152) =====
+[10:08:37] batch-start shard=1/2 count=20 backlog=17650 uploads=7171 failed_attempts=253
+[10:08:37] login
+[10:08:39] login done
+[10:08:39] iteration 1/20
+[10:08:39] film cr_film_id=27699 name='Thompsonovi: Hlad po krvi (2012) CZ Dabing' candidates=2
+[10:08:39]   candidate upload_id=56827bd61705b url=https://prehraj.to/hlad-po-krvi-2012-cz-dab-horor-p-p/56827bd61705b
+[10:08:40]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/522488/6xOiaQFblTmvtR9IvlSqJFeKIO9u7ocvqcB5SB…)
+[10:08:57]   downloaded 403.5 MB in 15.6s (25.9 MB/s)
+[10:09:14]   upload done video_id=25169076 in 17.6s
