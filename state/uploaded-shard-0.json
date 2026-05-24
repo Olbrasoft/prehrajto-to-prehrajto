@@ -137238,6 +137238,25 @@
         "download_sec": 31.1,
         "upload_sec": 34.0
       }
+    },
+    {
+      "cr_film_id": 27558,
+      "cr_slug": "nahlas-a-naplno",
+      "title": "Nahlas a naplno",
+      "year": 2012,
+      "display_name": "Nahlas a naplno (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "2f59c921c311f18e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25170071,
+      "size_bytes": 631398290,
+      "uploaded_at": "2026-05-24T11:20:49Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.9,
+        "upload_sec": 43.0
+      }
     }
   ],
   "failed_attempts": [
@@ -142524,5 +142543,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T11:19:36Z"
+  "last_updated": "2026-05-24T11:20:49Z"
 }
