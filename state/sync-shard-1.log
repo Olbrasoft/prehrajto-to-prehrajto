@@ -48623,3 +48623,14 @@
 [03:45:56]   upload done video_id=25162448 in 24.4s
 [03:45:57] film cr_film_id=26465 OK in 47.6s
 [03:45:57] batch-end ok=20 failed=0 dur=1772.7s avg/film=88.6s remaining=10737 eta_hours=264.2
+
+===== run 2026-05-24T03:46:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26351113752) =====
+[03:46:52] batch-start shard=1/2 count=20 backlog=17650 uploads=6913 failed_attempts=251
+[03:46:52] login
+[03:46:54] login done
+[03:46:54] iteration 1/20
+[03:46:54] film cr_film_id=26469 name='Hříšníci a svatí (2010) CZ Dabing' candidates=1
+[03:46:54]   candidate upload_id=5601934d2d551 url=https://prehraj.to/sinners-and-saints-2010-cz-dabing-hit/5601934d2d551
+[03:46:55]   resolved in 1.3s → 480p (https://pf-storage4.premiumcdn.net/357578/eJ7tYPsQyUezubVFv8fvVsX3fMDSzBS5WS8QuR…)
+[03:47:18]   downloaded 507.2 MB in 21.2s (23.9 MB/s)
+[03:47:48]   upload done video_id=25162480 in 29.6s
