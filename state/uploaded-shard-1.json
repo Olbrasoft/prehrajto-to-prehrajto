@@ -130343,6 +130343,25 @@
         "download_sec": 22.2,
         "upload_sec": 27.4
       }
+    },
+    {
+      "cr_film_id": 26241,
+      "cr_slug": "vrazedna-rychlost",
+      "title": "Vražedná rychlost",
+      "year": 2010,
+      "display_name": "Vražedná rychlost (2010) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ad9dd85ef61f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25161338,
+      "size_bytes": 1545635839,
+      "uploaded_at": "2026-05-24T02:32:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 55.0,
+        "upload_sec": 79.7
+      }
     }
   ],
   "failed_attempts": [
@@ -132172,5 +132191,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T02:30:27Z"
+  "last_updated": "2026-05-24T02:32:46Z"
 }
