@@ -130704,6 +130704,25 @@
         "download_sec": 39.1,
         "upload_sec": 77.7
       }
+    },
+    {
+      "cr_film_id": 26321,
+      "cr_slug": "tranzit",
+      "title": "Tranzit",
+      "year": 2012,
+      "display_name": "Tranzit (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60e7bfaf60ff9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25161784,
+      "size_bytes": 2210414575,
+      "uploaded_at": "2026-05-24T02:58:31Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 78.6,
+        "upload_sec": 89.8
+      }
     }
   ],
   "failed_attempts": [
@@ -132533,5 +132552,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T02:55:38Z"
+  "last_updated": "2026-05-24T02:58:31Z"
 }
