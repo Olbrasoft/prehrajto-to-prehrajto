@@ -134806,6 +134806,25 @@
         "download_sec": 39.0,
         "upload_sec": 44.9
       }
+    },
+    {
+      "cr_film_id": 27028,
+      "cr_slug": "amadeus-2018",
+      "title": "Amadeus",
+      "year": 2018,
+      "display_name": "Amadeus (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a7ed46fcaa5a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25166906,
+      "size_bytes": 1763534271,
+      "uploaded_at": "2026-05-24T08:17:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 62.9,
+        "upload_sec": 73.0
+      }
     }
   ],
   "failed_attempts": [
@@ -140092,5 +140111,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T08:14:39Z"
+  "last_updated": "2026-05-24T08:17:00Z"
 }
