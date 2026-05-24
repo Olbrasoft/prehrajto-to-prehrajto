@@ -143090,6 +143090,25 @@
         "download_sec": 47.6,
         "upload_sec": 53.5
       }
+    },
+    {
+      "cr_film_id": 29282,
+      "cr_slug": "korunni-princ",
+      "title": "Korunní princ",
+      "year": 2015,
+      "display_name": "Korunní princ (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "63a3167d71032",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25179294,
+      "size_bytes": 3116136181,
+      "uploaded_at": "2026-05-24T22:45:35Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 133.4,
+        "upload_sec": 174.4
+      }
     }
   ],
   "failed_attempts": [
@@ -148411,5 +148430,5 @@
       "failed_at": "2026-05-24T20:03:42Z"
     }
   ],
-  "last_updated": "2026-05-24T22:40:22Z"
+  "last_updated": "2026-05-24T22:45:35Z"
 }
