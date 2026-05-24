@@ -135585,6 +135585,25 @@
         "download_sec": 26.0,
         "upload_sec": 34.4
       }
+    },
+    {
+      "cr_film_id": 27182,
+      "cr_slug": "hangar-14",
+      "title": "Hangár 14",
+      "year": 2011,
+      "display_name": "Hangár 14 (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c23183d0512",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25168074,
+      "size_bytes": 497542435,
+      "uploaded_at": "2026-05-24T09:19:01Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.1,
+        "upload_sec": 21.4
+      }
     }
   ],
   "failed_attempts": [
@@ -140871,5 +140890,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T09:17:28Z"
+  "last_updated": "2026-05-24T09:19:01Z"
 }

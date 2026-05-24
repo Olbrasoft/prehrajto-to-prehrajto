@@ -50003,3 +50003,14 @@
 [09:17:28]   upload done video_id=25168024 in 34.4s
 [09:17:29] film cr_film_id=27180 OK in 64.1s
 [09:17:29] batch-end ok=20 failed=0 dur=1413.9s avg/film=70.7s remaining=10514 eta_hours=206.5
+
+===== run 2026-05-24T09:18:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26357366812) =====
+[09:18:21] batch-start shard=0/2 count=20 backlog=17650 uploads=7136 failed_attempts=743
+[09:18:21] login
+[09:18:22] login done
+[09:18:22] iteration 1/20
+[09:18:22] film cr_film_id=27182 name='Hangár 14 (2011) CZ Dabing' candidates=2
+[09:18:22]   candidate upload_id=55c23183d0512 url=https://prehraj.to/hangar-14-2011-czdab/55c23183d0512
+[09:18:23]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/72292/3J9tlaFjJC3vFmjizqSBmF5eCrbtKkilRuDxu6J…)
+[09:18:40]   downloaded 497.5 MB in 15.1s (32.9 MB/s)
+[09:19:01]   upload done video_id=25168074 in 21.4s
