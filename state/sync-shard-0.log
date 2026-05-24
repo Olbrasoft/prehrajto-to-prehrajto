@@ -50879,3 +50879,14 @@
 [12:01:43]   upload done video_id=25170742 in 25.6s
 [12:01:45] film cr_film_id=27684 OK in 49.9s
 [12:01:45] batch-end ok=20 failed=0 dur=1215.7s avg/film=60.8s remaining=10394 eta_hours=175.5
+
+===== run 2026-05-24T12:08:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26360828551) =====
+[12:08:54] batch-start shard=0/2 count=20 backlog=17650 uploads=7256 failed_attempts=743
+[12:08:54] login
+[12:08:56] login done
+[12:08:56] iteration 1/20
+[12:08:57] film cr_film_id=27688 name='Annie (2014) CZ Dabing' candidates=14
+[12:08:57]   candidate upload_id=582160398848a url=https://prehraj.to/annie-cz-dabing-2014/582160398848a
+[12:08:57]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/813595/lpEsj3Hy3ha1hMbU98IzvHL6f6kfgqU94FOMIA…)
+[12:09:19]   downloaded 629.4 MB in 19.5s (32.3 MB/s)
+[12:09:49]   upload done video_id=25170888 in 30.8s
