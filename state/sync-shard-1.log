@@ -49643,3 +49643,14 @@
 [07:29:35]   upload done video_id=25166205 in 40.9s
 [07:29:37] film cr_film_id=27105 OK in 79.5s
 [07:29:37] batch-end ok=20 failed=0 dur=1392.3s avg/film=69.6s remaining=10599 eta_hours=204.9
+
+===== run 2026-05-24T07:29:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26354746008) =====
+[07:29:51] batch-start shard=1/2 count=20 backlog=17650 uploads=7051 failed_attempts=253
+[07:29:51] login
+[07:29:52] login done
+[07:29:52] iteration 1/20
+[07:29:52] film cr_film_id=27107 name='Psí útulek (2010) CZ' candidates=1
+[07:29:52]   candidate upload_id=5aa8cc2d3436e url=https://prehraj.to/psi-utulek-2010/5aa8cc2d3436e
+[07:29:53]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3632691/3ZQfJVC02fq5tMktOLUlBCz4tg4s5psr7SLYH…)
+[07:30:13]   downloaded 581.8 MB in 18.1s (32.1 MB/s)
+[07:30:37]   upload done video_id=25166219 in 24.5s
