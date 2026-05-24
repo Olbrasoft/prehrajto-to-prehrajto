@@ -52491,3 +52491,14 @@
 [20:36:53]   upload done video_id=25177448 in 28.0s
 [20:36:55] film cr_film_id=28924 OK in 116.2s
 [20:36:55] batch-end ok=20 failed=0 dur=2591.8s avg/film=129.6s remaining=10175 eta_hours=366.3
+
+===== run 2026-05-24T20:37:08Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26371200431) =====
+[20:37:10] batch-start shard=0/2 count=20 backlog=17650 uploads=7475 failed_attempts=748
+[20:37:10] login
+[20:37:12] login done
+[20:37:12] iteration 1/20
+[20:37:12] film cr_film_id=28932 name='Malý dráček (2014) CZ' candidates=1
+[20:37:12]   candidate upload_id=5acb053fce943 url=https://prehraj.to/maly-dracek-2014/5acb053fce943
+[20:37:14]   resolved in 2.4s → 720p (https://pf-storage1.premiumcdn.net/3854898/2dAh0gcVNuxnHPyIDvHblcJeCV7iVkieyUnqT…)
+[20:38:06]   downloaded 1,053.2 MB in 49.7s (21.2 MB/s)
+[20:39:09]   upload done video_id=25177477 in 63.2s
