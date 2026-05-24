@@ -47893,3 +47893,14 @@
 [01:30:46]   upload done video_id=25160348 in 22.2s
 [01:30:47] film cr_film_id=26091 OK in 40.2s
 [01:30:47] batch-end ok=19 failed=1 dur=1276.3s avg/film=67.2s remaining=10837 eta_hours=202.3
+
+===== run 2026-05-24T01:31:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26348608329) =====
+[01:31:18] batch-start shard=1/2 count=20 backlog=17650 uploads=6813 failed_attempts=251
+[01:31:18] login
+[01:31:19] login done
+[01:31:19] iteration 1/20
+[01:31:19] film cr_film_id=26053 name='Jezdci Apokalypsy (2009) CZ Dabing' candidates=1
+[01:31:19]   candidate upload_id=63321b5fa5a51 url=https://prehraj.to/jezdci-apokalypsy-2009-czdab/63321b5fa5a51
+[01:31:22]   resolved in 2.5s → 1080p (https://pf-storage1.premiumcdn.net/33471190/gxOc5yskrU6oF0bfxMHvas6bS2yF9PIagI6m…)
+[01:32:37]   downloaded 2,658.9 MB in 74.2s (35.8 MB/s)
+[01:34:14]   upload done video_id=25160395 in 96.5s
