@@ -136231,6 +136231,25 @@
         "download_sec": 20.1,
         "upload_sec": 35.0
       }
+    },
+    {
+      "cr_film_id": 27356,
+      "cr_slug": "dobry-doktor",
+      "title": "Dobrý doktor",
+      "year": 2011,
+      "display_name": "Dobrý doktor (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5821393bbc04c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25168914,
+      "size_bytes": 435386262,
+      "uploaded_at": "2026-05-24T09:58:53Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.7,
+        "upload_sec": 31.2
+      }
     }
   ],
   "failed_attempts": [
@@ -141517,5 +141536,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T09:58:01Z"
+  "last_updated": "2026-05-24T09:58:53Z"
 }
