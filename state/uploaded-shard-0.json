@@ -135281,6 +135281,25 @@
         "download_sec": 60.5,
         "upload_sec": 82.8
       }
+    },
+    {
+      "cr_film_id": 27128,
+      "cr_slug": "pirati-2012",
+      "title": "Piráti!",
+      "year": 2012,
+      "display_name": "Piráti! (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60c4ad0139adb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25167565,
+      "size_bytes": 1566234122,
+      "uploaded_at": "2026-05-24T09:00:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 45.4,
+        "upload_sec": 63.5
+      }
     }
   ],
   "failed_attempts": [
@@ -140567,5 +140586,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T08:58:29Z"
+  "last_updated": "2026-05-24T09:00:23Z"
 }
