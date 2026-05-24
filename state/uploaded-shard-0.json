@@ -131101,6 +131101,25 @@
         "download_sec": 36.9,
         "upload_sec": 41.1
       }
+    },
+    {
+      "cr_film_id": 26114,
+      "cr_slug": "fantasticky-mazel",
+      "title": "Fantastický mazel",
+      "year": 2008,
+      "display_name": "Fantastický mazel (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "599f463515b86",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25162183,
+      "size_bytes": 889019781,
+      "uploaded_at": "2026-05-24T03:25:18Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 25.6,
+        "upload_sec": 43.7
+      }
     }
   ],
   "failed_attempts": [
@@ -136380,5 +136399,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T03:24:04Z"
+  "last_updated": "2026-05-24T03:25:18Z"
 }
