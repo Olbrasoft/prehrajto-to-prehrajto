@@ -51463,3 +51463,14 @@
 [14:04:39]   upload done video_id=25172802 in 27.0s
 [14:04:41] film cr_film_id=28100 OK in 53.5s
 [14:04:41] batch-end ok=20 failed=0 dur=2096.6s avg/film=104.8s remaining=10314 eta_hours=300.3
+
+===== run 2026-05-24T14:06:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26363408642) =====
+[14:06:14] batch-start shard=0/2 count=20 backlog=17650 uploads=7336 failed_attempts=743
+[14:06:14] login
+[14:06:15] login done
+[14:06:15] iteration 1/20
+[14:06:15] film cr_film_id=28102 name='Halimina cesta (2012) CZ Dabing' candidates=1
+[14:06:15]   candidate upload_id=5591ea02c8313 url=https://prehraj.to/halimina-cesta-2012-cz-dabing-drama/5591ea02c8313
+[14:06:16]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/424261/Qvot0BUyViP2S2ySYVCeKUDXcn2cwRujqsYBHW…)
+[14:06:49]   downloaded 762.7 MB in 30.7s (24.8 MB/s)
+[14:07:33]   upload done video_id=25172840 in 44.2s
