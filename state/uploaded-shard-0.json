@@ -134654,6 +134654,25 @@
         "download_sec": 39.4,
         "upload_sec": 43.7
       }
+    },
+    {
+      "cr_film_id": 27000,
+      "cr_slug": "stockholm",
+      "title": "Stockholm",
+      "year": 2018,
+      "display_name": "Stockholm (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d35bfc1b3b0e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25166734,
+      "size_bytes": 1195436608,
+      "uploaded_at": "2026-05-24T08:05:07Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 43.2,
+        "upload_sec": 50.3
+      }
     }
   ],
   "failed_attempts": [
@@ -139940,5 +139959,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T08:03:28Z"
+  "last_updated": "2026-05-24T08:05:07Z"
 }
