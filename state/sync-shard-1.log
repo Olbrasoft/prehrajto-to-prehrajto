@@ -49935,3 +49935,14 @@
 [08:17:58]   upload done video_id=25166921 in 53.3s
 [08:18:00] film cr_film_id=27345 OK in 105.4s
 [08:18:00] batch-end ok=20 failed=0 dur=1495.9s avg/film=74.8s remaining=10559 eta_hours=219.4
+
+===== run 2026-05-24T08:18:56Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26356165168) =====
+[08:18:57] batch-start shard=1/2 count=20 backlog=17650 uploads=7091 failed_attempts=253
+[08:18:57] login
+[08:18:58] login done
+[08:18:58] iteration 1/20
+[08:18:58] film cr_film_id=27353 name='Návrat mrtvých (2009) CZ Dabing' candidates=1
+[08:18:58]   candidate upload_id=5a6ab0cd90e57 url=https://prehraj.to/navrat-mrtvych-2009-cz-dabing/5a6ab0cd90e57
+[08:19:00]   resolved in 1.5s → 480p (https://pf-storage4.premiumcdn.net/3326527/KJxtj7Tdnh4ocMVU8AhYOTAJs6gS8guYEik4S…)
+[08:19:26]   downloaded 433.0 MB in 23.5s (18.4 MB/s)
+[08:19:52]   upload done video_id=25166955 in 26.7s
