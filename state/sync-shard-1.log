@@ -49351,3 +49351,14 @@
 [06:29:33]   upload done video_id=25164945 in 30.1s
 [06:29:35] film cr_film_id=26895 OK in 55.1s
 [06:29:35] batch-end ok=20 failed=0 dur=1826.2s avg/film=91.3s remaining=10639 eta_hours=269.8
+
+===== run 2026-05-24T06:31:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26354061948) =====
+[06:31:05] batch-start shard=1/2 count=20 backlog=17650 uploads=7011 failed_attempts=253
+[06:31:05] login
+[06:31:07] login done
+[06:31:07] iteration 1/20
+[06:31:07] film cr_film_id=26899 name='Merlin a kniha kouzel (2009) CZ Dabing' candidates=1
+[06:31:07]   candidate upload_id=5820f8e5d9e3f url=https://prehraj.to/barva-kouzel-vol-2-cz-dabing-2008/5820f8e5d9e3f
+[06:31:08]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/812120/NqNfnZsWDuxvIMoIkdCJws4pCLefpWcJ8iPNC1…)
+[06:31:50]   downloaded 779.0 MB in 39.4s (19.8 MB/s)
+[06:32:37]   upload done video_id=25165051 in 47.4s
