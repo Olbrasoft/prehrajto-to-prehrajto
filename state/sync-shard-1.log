@@ -51989,3 +51989,14 @@
 [15:12:26]   upload done video_id=25173658 in 42.4s
 [15:12:28] film cr_film_id=28707 OK in 84.8s
 [15:12:28] batch-end ok=20 failed=0 dur=1696.4s avg/film=84.8s remaining=10279 eta_hours=242.1
+
+===== run 2026-05-24T15:19:07Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26365038296) =====
+[15:19:08] batch-start shard=1/2 count=20 backlog=17650 uploads=7371 failed_attempts=257
+[15:19:08] login
+[15:19:10] login done
+[15:19:10] iteration 1/20
+[15:19:10] film cr_film_id=28711 name='Bábušky z Černobylu (2015) CZ' candidates=1
+[15:19:10]   candidate upload_id=5a9d9b1223b69 url=https://prehraj.to/babusky-z-cernobylu-2015/5a9d9b1223b69
+[15:19:11]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/3550123/w7nIlkUGBhqzTdZCZyfxkUZPua3uG6C6buO9I…)
+[15:19:49]   downloaded 1,118.9 MB in 36.3s (30.8 MB/s)
+[15:20:29]   upload done video_id=25173806 in 40.3s
