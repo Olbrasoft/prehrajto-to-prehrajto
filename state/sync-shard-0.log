@@ -49711,3 +49711,14 @@
 [08:17:00]   upload done video_id=25166906 in 73.0s
 [08:17:02] film cr_film_id=27028 OK in 140.8s
 [08:17:02] batch-end ok=20 failed=0 dur=1438.2s avg/film=71.9s remaining=10554 eta_hours=210.8
+
+===== run 2026-05-24T08:18:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26356165168) =====
+[08:18:57] batch-start shard=0/2 count=20 backlog=17650 uploads=7096 failed_attempts=743
+[08:18:57] login
+[08:18:58] login done
+[08:18:58] iteration 1/20
+[08:18:58] film cr_film_id=27030 name='The Wisdom of Trauma (2021) CZ Dabing' candidates=1
+[08:18:58]   candidate upload_id=661af73ae7536 url=https://prehraj.to/moudrost-traumatu-dr-gabor-mate-2021-cz-dab/661af73ae7536
+[08:18:59]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/76084463/QPds6mI5eTXjhMQC1ASv2IwYCPNfgMSgjtD2…)
+[08:19:14]   downloaded 349.9 MB in 12.8s (27.3 MB/s)
+[08:19:33]   upload done video_id=25166951 in 19.7s
