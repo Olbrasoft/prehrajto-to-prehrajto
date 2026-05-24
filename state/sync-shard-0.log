@@ -52947,3 +52947,15 @@
 [22:51:46]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/72010505/1oXUVYIbdCyJF6rcdVheMIDLi3Vu7ytYpsp0…)
 [22:53:28]   downloaded 2,635.3 MB in 100.0s (26.4 MB/s)
 [22:55:34]   upload done video_id=25179419 in 126.3s
+[22:55:37] film cr_film_id=29320 OK in 231.8s
+[22:55:37] iteration 3/20
+[22:55:37] film cr_film_id=29324 name='Hříšný tanec (2017) CZ' candidates=1
+[22:55:37]   candidate upload_id=658a99cbd2d90 url=https://prehraj.to/hrisny-tanec-2017/658a99cbd2d90
+[22:55:38]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hrisny-tanec-2017/658a99cbd2d90 (permanent=True)
+[22:55:38] film cr_film_id=29324 all candidates exhausted
+[22:55:38] iteration 4/20
+[22:55:38] film cr_film_id=29326 name='Noc plná zázraků 2 (2015) CZ' candidates=1
+[22:55:38]   candidate upload_id=5ac31adddeaa8 url=https://prehraj.to/noc-plna-zazraku-2-2015/5ac31adddeaa8
+[22:55:44]   resolved in 6.1s → 480p (https://pf-storage1.premiumcdn.net/3818395/24OteahDAsrWC3pTBkh7eh0Ncw8ImlsYPUxzI…)
+[22:56:31]   downloaded 1,041.1 MB in 45.4s (22.9 MB/s)
+[22:57:28]   upload done video_id=25179458 in 56.9s
