@@ -52137,3 +52137,14 @@
 [15:40:53]   upload done video_id=25174044 in 38.1s
 [15:40:55] film cr_film_id=28819 OK in 70.2s
 [15:40:55] batch-end ok=19 failed=1 dur=1304.8s avg/film=68.7s remaining=10260 eta_hours=195.8
+
+===== run 2026-05-24T16:15:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26366313229) =====
+[16:15:18] batch-start shard=1/2 count=20 backlog=17650 uploads=7390 failed_attempts=260
+[16:15:18] login
+[16:15:20] login done
+[16:15:20] iteration 1/20
+[16:15:20] film cr_film_id=28829 name='45 let (2015) CZ Dabing' candidates=1
+[16:15:20]   candidate upload_id=57bc800449063 url=https://prehraj.to/45-let-2015-czdabing/57bc800449063
+[16:15:21]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/10844/6lVszVS1EIxju3wF1bi8BSbmfwlH2Eh6BU5PcLa…)
+[16:15:45]   downloaded 413.5 MB in 22.3s (18.5 MB/s)
+[16:16:13]   upload done video_id=25174422 in 27.5s
