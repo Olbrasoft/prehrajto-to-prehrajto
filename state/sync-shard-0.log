@@ -53073,3 +53073,14 @@
 [23:36:36]   upload done video_id=25179913 in 101.7s
 [23:36:38] film cr_film_id=29454 OK in 200.6s
 [23:36:38] batch-end ok=19 failed=1 dur=2749.4s avg/film=144.7s remaining=10096 eta_hours=405.8
+
+===== run 2026-05-24T23:37:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26375952558) =====
+[23:37:48] batch-start shard=0/2 count=20 backlog=17650 uploads=7554 failed_attempts=749
+[23:37:48] login
+[23:37:50] login done
+[23:37:50] iteration 1/20
+[23:37:50] film cr_film_id=29472 name='Záhada Hailey Deanové: Smrtící láska (2016) CZ' candidates=1
+[23:37:50]   candidate upload_id=5ac9b97bcc946 url=https://prehraj.to/zahada-hailey-deanove-smrtici-laska-2016/5ac9b97bcc946
+[23:37:52]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/3849124/04mtMAI1gfjaCroTA2fA4IA6s6PfR3ijOUr4i…)
+[23:38:55]   downloaded 907.3 MB in 61.1s (14.9 MB/s)
+[23:39:48]   upload done video_id=25179971 in 53.0s
