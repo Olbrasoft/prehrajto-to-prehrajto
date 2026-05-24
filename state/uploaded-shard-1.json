@@ -141401,6 +141401,25 @@
         "download_sec": 755.9,
         "upload_sec": 33.6
       }
+    },
+    {
+      "cr_film_id": 29095,
+      "cr_slug": "sladky-utek",
+      "title": "Sladký útěk",
+      "year": 2015,
+      "display_name": "Sladký útěk (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a8d5ab43a401",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25176025,
+      "size_bytes": 1617661499,
+      "uploaded_at": "2026-05-24T18:34:31Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 49.6,
+        "upload_sec": 55.6
+      }
     }
   ],
   "failed_attempts": [
@@ -143324,5 +143343,5 @@
       "failed_at": "2026-05-24T18:12:39Z"
     }
   ],
-  "last_updated": "2026-05-24T18:32:41Z"
+  "last_updated": "2026-05-24T18:34:31Z"
 }
