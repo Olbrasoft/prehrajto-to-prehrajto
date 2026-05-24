@@ -142482,6 +142482,25 @@
         "download_sec": 35.5,
         "upload_sec": 39.8
       }
+    },
+    {
+      "cr_film_id": 29042,
+      "cr_slug": "waterloo-1967",
+      "title": "Waterloo",
+      "year": 1967,
+      "display_name": "Waterloo (1967) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6143c7f252fe5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25178369,
+      "size_bytes": 655466976,
+      "uploaded_at": "2026-05-24T21:38:38Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.8,
+        "upload_sec": 62.4
+      }
     }
   ],
   "failed_attempts": [
@@ -147803,5 +147822,5 @@
       "failed_at": "2026-05-24T20:03:42Z"
     }
   ],
-  "last_updated": "2026-05-24T21:37:01Z"
+  "last_updated": "2026-05-24T21:38:38Z"
 }
