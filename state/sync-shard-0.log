@@ -47957,3 +47957,14 @@
 [02:21:58]   upload done video_id=25161178 in 61.0s
 [02:22:00] film cr_film_id=25976 OK in 114.4s
 [02:22:00] batch-end ok=20 failed=0 dur=1306.0s avg/film=65.3s remaining=10794 eta_hours=195.8
+
+===== run 2026-05-24T02:23:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26349585989) =====
+[02:23:03] batch-start shard=0/2 count=20 backlog=17650 uploads=6856 failed_attempts=742
+[02:23:03] login
+[02:23:05] login done
+[02:23:05] iteration 1/20
+[02:23:05] film cr_film_id=25978 name='Northangerské opatství (2007) CZ' candidates=1
+[02:23:05]   candidate upload_id=5aa3b88675696 url=https://prehraj.to/northangerske-opatstvi-2007/5aa3b88675696
+[02:23:06]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/3589008/gbNsXDUkmtLnuKnUYACMeULmc1WI6kiAXHYMs…)
+[02:23:26]   downloaded 525.8 MB in 18.6s (28.3 MB/s)
+[02:23:52]   upload done video_id=25161221 in 25.3s
