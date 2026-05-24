@@ -130381,6 +130381,25 @@
         "download_sec": 21.0,
         "upload_sec": 23.9
       }
+    },
+    {
+      "cr_film_id": 26253,
+      "cr_slug": "pod-kuzi",
+      "title": "Pod kůží",
+      "year": 2008,
+      "display_name": "Pod kůží (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59ff598e3990c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25161395,
+      "size_bytes": 354933582,
+      "uploaded_at": "2026-05-24T02:34:13Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.4,
+        "upload_sec": 18.4
+      }
     }
   ],
   "failed_attempts": [
@@ -132210,5 +132229,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T02:33:36Z"
+  "last_updated": "2026-05-24T02:34:13Z"
 }
