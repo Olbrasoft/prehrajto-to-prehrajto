@@ -131673,6 +131673,25 @@
         "download_sec": 25.2,
         "upload_sec": 33.0
       }
+    },
+    {
+      "cr_film_id": 26545,
+      "cr_slug": "krasny-cas",
+      "title": "Krásný čas",
+      "year": 2006,
+      "display_name": "Krásný čas (2006) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab568cc032ef",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25162846,
+      "size_bytes": 1206816563,
+      "uploaded_at": "2026-05-24T04:12:20Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 53.3,
+        "upload_sec": 72.4
+      }
     }
   ],
   "failed_attempts": [
@@ -133502,5 +133521,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T04:10:09Z"
+  "last_updated": "2026-05-24T04:12:20Z"
 }
