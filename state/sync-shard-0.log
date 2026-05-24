@@ -49127,3 +49127,14 @@
 [06:17:37]   upload done video_id=25164684 in 30.0s
 [06:17:38] film cr_film_id=26606 OK in 56.8s
 [06:17:38] batch-end ok=20 failed=0 dur=1112.8s avg/film=55.6s remaining=10634 eta_hours=164.2
+
+===== run 2026-05-24T06:31:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26354061948) =====
+[06:31:04] batch-start shard=0/2 count=20 backlog=17650 uploads=7016 failed_attempts=743
+[06:31:04] login
+[06:31:06] login done
+[06:31:06] iteration 1/20
+[06:31:06] film cr_film_id=26608 name='Nesmrtelný bojovník (2007) CZ Dabing' candidates=1
+[06:31:06]   candidate upload_id=55e9a342cfcde url=https://prehraj.to/nesmrtelny-bojovnik-opapatika-2007-cz-dab/55e9a342cfcde
+[06:31:07]   resolved in 1.5s → 480p (https://pf-storage3.premiumcdn.net/277479/Ym7sGBfz8IeJSBMueOT5rfMZu6DCKAU6jtJ5hl…)
+[06:31:43]   downloaded 701.0 MB in 34.3s (20.4 MB/s)
+[06:32:31]   upload done video_id=25165050 in 47.1s
