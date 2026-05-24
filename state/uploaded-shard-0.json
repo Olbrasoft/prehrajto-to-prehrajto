@@ -134673,6 +134673,25 @@
         "download_sec": 43.2,
         "upload_sec": 50.3
       }
+    },
+    {
+      "cr_film_id": 27002,
+      "cr_slug": "nedodrzeny-slib",
+      "title": "Nedodržený slib",
+      "year": 2009,
+      "display_name": "Nedodržený slib (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d43e3ba7ce8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25166749,
+      "size_bytes": 843097147,
+      "uploaded_at": "2026-05-24T08:06:28Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 29.5,
+        "upload_sec": 47.2
+      }
     }
   ],
   "failed_attempts": [
@@ -139959,5 +139978,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T08:05:07Z"
+  "last_updated": "2026-05-24T08:06:28Z"
 }
