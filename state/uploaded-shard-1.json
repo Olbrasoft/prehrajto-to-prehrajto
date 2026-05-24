@@ -137791,6 +137791,25 @@
         "download_sec": 34.4,
         "upload_sec": 45.8
       }
+    },
+    {
+      "cr_film_id": 28041,
+      "cr_slug": "cerny-jezdec",
+      "title": "Černý jezdec",
+      "year": 2014,
+      "display_name": "Černý jezdec (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aacca322ca7c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25170907,
+      "size_bytes": 905303907,
+      "uploaded_at": "2026-05-24T12:11:31Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.8,
+        "upload_sec": 39.6
+      }
     }
   ],
   "failed_attempts": [
@@ -139660,5 +139679,5 @@
       "failed_at": "2026-05-24T11:19:06Z"
     }
   ],
-  "last_updated": "2026-05-24T12:10:17Z"
+  "last_updated": "2026-05-24T12:11:31Z"
 }
