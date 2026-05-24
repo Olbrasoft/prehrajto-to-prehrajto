@@ -132450,6 +132450,25 @@
         "download_sec": 122.7,
         "upload_sec": 154.6
       }
+    },
+    {
+      "cr_film_id": 26410,
+      "cr_slug": "tormented",
+      "title": "Tormented",
+      "year": 2009,
+      "display_name": "Tormented (2009) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "599c40653fd17",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25163709,
+      "size_bytes": 396019112,
+      "uploaded_at": "2026-05-24T05:08:50Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.1,
+        "upload_sec": 16.0
+      }
     }
   ],
   "failed_attempts": [
@@ -137736,5 +137755,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T05:08:16Z"
+  "last_updated": "2026-05-24T05:08:50Z"
 }
