@@ -137618,6 +137618,25 @@
         "download_sec": 19.5,
         "upload_sec": 21.5
       }
+    },
+    {
+      "cr_film_id": 27634,
+      "cr_slug": "silent-house",
+      "title": "Silent House",
+      "year": 2011,
+      "display_name": "Silent House (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a75ed3039000",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25170475,
+      "size_bytes": 277022358,
+      "uploaded_at": "2026-05-24T11:48:10Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 11.9,
+        "upload_sec": 15.3
+      }
     }
   ],
   "failed_attempts": [
@@ -142904,5 +142923,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T11:47:38Z"
+  "last_updated": "2026-05-24T11:48:10Z"
 }
