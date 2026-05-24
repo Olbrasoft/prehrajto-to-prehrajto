@@ -140886,6 +140886,25 @@
         "download_sec": 54.8,
         "upload_sec": 62.0
       }
+    },
+    {
+      "cr_film_id": 28566,
+      "cr_slug": "grace",
+      "title": "Grace",
+      "year": 2014,
+      "display_name": "Grace (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55d5bd8c73a52",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25175089,
+      "size_bytes": 473841725,
+      "uploaded_at": "2026-05-24T17:12:18Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 25.5,
+        "upload_sec": 28.9
+      }
     }
   ],
   "failed_attempts": [
@@ -146193,5 +146212,5 @@
       "failed_at": "2026-05-24T15:32:24Z"
     }
   ],
-  "last_updated": "2026-05-24T17:11:18Z"
+  "last_updated": "2026-05-24T17:12:18Z"
 }
