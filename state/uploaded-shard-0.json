@@ -130645,6 +130645,25 @@
         "download_sec": 22.2,
         "upload_sec": 27.6
       }
+    },
+    {
+      "cr_film_id": 26036,
+      "cr_slug": "potkan-007",
+      "title": "Potkan 007",
+      "year": 2006,
+      "display_name": "Potkan 007 (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58552fbe0f8b2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25161625,
+      "size_bytes": 291316872,
+      "uploaded_at": "2026-05-24T02:46:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 11.2,
+        "upload_sec": 14.7
+      }
     }
   ],
   "failed_attempts": [
@@ -135924,5 +135943,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T02:45:19Z"
+  "last_updated": "2026-05-24T02:46:27Z"
 }

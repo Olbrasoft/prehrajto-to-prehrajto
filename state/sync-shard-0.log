@@ -48103,3 +48103,14 @@
 [02:45:19]   upload done video_id=25161612 in 27.6s
 [02:45:21] film cr_film_id=26032 OK in 55.2s
 [02:45:21] batch-end ok=20 failed=0 dur=1336.7s avg/film=66.8s remaining=10774 eta_hours=199.9
+
+===== run 2026-05-24T02:45:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26350006147) =====
+[02:45:57] batch-start shard=0/2 count=20 backlog=17650 uploads=6876 failed_attempts=742
+[02:45:57] login
+[02:45:58] login done
+[02:45:58] iteration 1/20
+[02:45:58] film cr_film_id=26036 name='Potkan 007 (2006) CZ Dabing' candidates=1
+[02:45:58]   candidate upload_id=58552fbe0f8b2 url=https://prehraj.to/potkan-007-2006-czdub/58552fbe0f8b2
+[02:45:59]   resolved in 1.1s → 480p (https://pf-storage3.premiumcdn.net/1188167/WLYhpBfryU0ETQ4ClLF8QfW0TyDUZjIBEsYQS…)
+[02:46:12]   downloaded 291.3 MB in 11.2s (26.0 MB/s)
+[02:46:27]   upload done video_id=25161625 in 14.7s
