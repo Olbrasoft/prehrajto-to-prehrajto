@@ -143244,6 +143244,25 @@
         "download_sec": 48.0,
         "upload_sec": 79.8
       }
+    },
+    {
+      "cr_film_id": 29915,
+      "cr_slug": "vecirek",
+      "title": "Večírek",
+      "year": 1980,
+      "display_name": "Večírek (1980) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "605bd3cb03c78",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25179636,
+      "size_bytes": 735451695,
+      "uploaded_at": "2026-05-24T23:09:56Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 24.9,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -145179,5 +145198,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T23:08:55Z"
+  "last_updated": "2026-05-24T23:09:56Z"
 }
