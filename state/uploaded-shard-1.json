@@ -129089,6 +129089,25 @@
         "download_sec": 15.9,
         "upload_sec": 19.6
       }
+    },
+    {
+      "cr_film_id": 26035,
+      "cr_slug": "hrdinove-valky",
+      "title": "Hrdinové války",
+      "year": 2007,
+      "display_name": "Hrdinové války (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "558bd236a1d2b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25160032,
+      "size_bytes": 669958521,
+      "uploaded_at": "2026-05-24T01:10:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.7,
+        "upload_sec": 34.4
+      }
     }
   ],
   "failed_attempts": [
@@ -130906,5 +130925,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-24T01:09:13Z"
+  "last_updated": "2026-05-24T01:10:27Z"
 }
