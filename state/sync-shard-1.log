@@ -52727,3 +52727,14 @@
 [20:18:26]   upload done video_id=25177253 in 111.8s
 [20:18:28] film cr_film_id=29281 OK in 375.4s
 [20:18:28] batch-end ok=20 failed=0 dur=4926.1s avg/film=246.3s remaining=10181 eta_hours=696.6
+
+===== run 2026-05-24T20:18:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26371200431) =====
+[20:18:40] batch-start shard=1/2 count=20 backlog=17650 uploads=7469 failed_attempts=264
+[20:18:40] login
+[20:18:42] login done
+[20:18:42] iteration 1/20
+[20:18:42] film cr_film_id=29293 name='Můj šálek lásky (2016) CZ Dabing' candidates=1
+[20:18:42]   candidate upload_id=5ed50aa1a965f url=https://prehraj.to/muj-salek-lasky-2016-cz-dabing-bst/5ed50aa1a965f
+[20:18:43]   resolved in 1.1s → 480p (https://pf-storage3.premiumcdn.net/16735092/VrDFo5SBaTbyf1Dc3rcmVSpvC7EhLJcMos7R…)
+[20:20:17]   downloaded 583.6 MB in 92.5s (6.3 MB/s)
+[20:20:41]   upload done video_id=25177303 in 24.0s
