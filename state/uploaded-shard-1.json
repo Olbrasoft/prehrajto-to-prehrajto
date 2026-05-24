@@ -140299,6 +140299,25 @@
         "download_sec": 40.8,
         "upload_sec": 53.5
       }
+    },
+    {
+      "cr_film_id": 28799,
+      "cr_slug": "neohrozena",
+      "title": "Neohrožená",
+      "year": 2014,
+      "display_name": "Neohrožená (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "81ce70768c30838e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25173978,
+      "size_bytes": 2459866467,
+      "uploaded_at": "2026-05-24T15:35:10Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 71.7,
+        "upload_sec": 102.4
+      }
     }
   ],
   "failed_attempts": [
@@ -142201,5 +142220,5 @@
       "failed_at": "2026-05-24T15:22:42Z"
     }
   ],
-  "last_updated": "2026-05-24T15:32:12Z"
+  "last_updated": "2026-05-24T15:35:10Z"
 }
