@@ -51025,3 +51025,14 @@
 [12:31:24]   upload done video_id=25171206 in 31.5s
 [12:31:27] film cr_film_id=27760 OK in 65.4s
 [12:31:27] batch-end ok=20 failed=0 dur=1350.1s avg/film=67.5s remaining=10374 eta_hours=194.5
+
+===== run 2026-05-24T12:31:39Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26361042492) =====
+[12:31:40] batch-start shard=0/2 count=20 backlog=17650 uploads=7276 failed_attempts=743
+[12:31:40] login
+[12:31:42] login done
+[12:31:42] iteration 1/20
+[12:31:42] film cr_film_id=27764 name='Žraloci na s(o)uši (2011) CZ Dabing' candidates=2
+[12:31:42]   candidate upload_id=55f67281c9d94 url=https://prehraj.to/zraloci-na-s-o-usi-2011-czdab/55f67281c9d94
+[12:31:43]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/304248/ZgWtxMI41cGDSLYHvyfo1I0BHW6FBriYOUK0sa…)
+[12:32:19]   downloaded 647.3 MB in 33.5s (19.3 MB/s)
+[12:32:57]   upload done video_id=25171235 in 38.5s
