@@ -133554,6 +133554,25 @@
         "download_sec": 84.4,
         "upload_sec": 91.9
       }
+    },
+    {
+      "cr_film_id": 27005,
+      "cr_slug": "hrdinove-mlci",
+      "title": "Hrdinové mlčí",
+      "year": 1946,
+      "display_name": "Hrdinové mlčí (1946) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "57e2aee418215",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25165689,
+      "size_bytes": 417194619,
+      "uploaded_at": "2026-05-24T07:04:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.0,
+        "upload_sec": 28.0
+      }
     }
   ],
   "failed_attempts": [
@@ -135402,5 +135421,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T07:03:40Z"
+  "last_updated": "2026-05-24T07:04:34Z"
 }
