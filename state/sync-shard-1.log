@@ -48477,3 +48477,14 @@
 [03:15:14]   upload done video_id=25162025 in 28.8s
 [03:15:16] film cr_film_id=26377 OK in 54.7s
 [03:15:16] batch-end ok=20 failed=0 dur=1756.1s avg/film=87.8s remaining=10757 eta_hours=262.4
+
+===== run 2026-05-24T03:16:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26350572501) =====
+[03:16:22] batch-start shard=1/2 count=20 backlog=17650 uploads=6893 failed_attempts=251
+[03:16:22] login
+[03:16:25] login done
+[03:16:25] iteration 1/20
+[03:16:25] film cr_film_id=26379 name='Díra (2009) CZ Dabing' candidates=2
+[03:16:25]   candidate upload_id=57d02ca29ab4d url=https://prehraj.to/dira-2009-czdabing/57d02ca29ab4d
+[03:16:26]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/15046/LkLu81iB3fk7fWnuKbUkgixpI7xF2mUKmhNKt6K…)
+[03:16:52]   downloaded 656.5 MB in 25.0s (26.3 MB/s)
+[03:17:23]   upload done video_id=25162064 in 30.9s

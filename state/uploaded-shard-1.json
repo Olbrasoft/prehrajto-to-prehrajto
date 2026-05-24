@@ -130970,6 +130970,25 @@
         "download_sec": 22.2,
         "upload_sec": 28.8
       }
+    },
+    {
+      "cr_film_id": 26379,
+      "cr_slug": "dira-2009",
+      "title": "Díra",
+      "year": 2009,
+      "display_name": "Díra (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d02ca29ab4d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25162064,
+      "size_bytes": 656456160,
+      "uploaded_at": "2026-05-24T03:17:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.0,
+        "upload_sec": 30.9
+      }
     }
   ],
   "failed_attempts": [
@@ -132799,5 +132818,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T03:15:14Z"
+  "last_updated": "2026-05-24T03:17:23Z"
 }
