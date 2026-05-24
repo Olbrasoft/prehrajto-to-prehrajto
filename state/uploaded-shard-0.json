@@ -128631,6 +128631,25 @@
         "download_sec": 48.0,
         "upload_sec": 54.9
       }
+    },
+    {
+      "cr_film_id": 25712,
+      "cr_slug": "zamoreni",
+      "title": "Zamoření",
+      "year": 2006,
+      "display_name": "Zamoření (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b2508883e1f5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25159251,
+      "size_bytes": 301070987,
+      "uploaded_at": "2026-05-24T00:32:38Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.0,
+        "upload_sec": 18.9
+      }
     }
   ],
   "failed_attempts": [
@@ -133910,5 +133929,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T00:31:55Z"
+  "last_updated": "2026-05-24T00:32:38Z"
 }
