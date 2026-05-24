@@ -50441,3 +50441,14 @@
 [10:30:54]   upload done video_id=25169398 in 62.9s
 [10:30:55] film cr_film_id=27450 OK in 117.8s
 [10:30:55] batch-end ok=20 failed=0 dur=1336.6s avg/film=66.8s remaining=10454 eta_hours=194.0
+
+===== run 2026-05-24T10:43:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26359075911) =====
+[10:43:36] batch-start shard=0/2 count=20 backlog=17650 uploads=7196 failed_attempts=743
+[10:43:36] login
+[10:43:37] login done
+[10:43:37] iteration 1/20
+[10:43:37] film cr_film_id=27454 name='Vánoce s velkým V (2011) CZ Dabing' candidates=10
+[10:43:37]   candidate upload_id=5a3f490e1b5f7 url=https://prehraj.to/vanoce-s-velkym-v-2011-cz-dabing-vanocni-filmy/5a3f490e1b5f7
+[10:43:39]   resolved in 1.9s → 720p (https://pf-storage2.premiumcdn.net/3177388/1BmHpZUdrcELcw5t2JHNPUZPfjwIzeiV8fj7t…)
+[10:44:17]   downloaded 1,032.8 MB in 36.6s (28.2 MB/s)
+[10:44:58]   upload done video_id=25169565 in 40.9s
