@@ -128329,6 +128329,25 @@
         "download_sec": 41.3,
         "upload_sec": 50.7
       }
+    },
+    {
+      "cr_film_id": 25905,
+      "cr_slug": "rovnice-smrti",
+      "title": "Rovnice smrti",
+      "year": 2007,
+      "display_name": "Rovnice smrti (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f8560ab855c8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25158907,
+      "size_bytes": 584850331,
+      "uploaded_at": "2026-05-24T00:05:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.8,
+        "upload_sec": 34.4
+      }
     }
   ],
   "failed_attempts": [
@@ -130146,5 +130165,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-23T23:53:45Z"
+  "last_updated": "2026-05-24T00:05:54Z"
 }
