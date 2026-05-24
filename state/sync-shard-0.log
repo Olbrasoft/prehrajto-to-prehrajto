@@ -52637,3 +52637,14 @@
 [21:30:10]   upload done video_id=25178205 in 139.1s
 [21:30:12] film cr_film_id=29018 OK in 248.5s
 [21:30:12] batch-end ok=20 failed=0 dur=3180.4s avg/film=159.0s remaining=10155 eta_hours=448.5
+
+===== run 2026-05-24T21:31:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26373305476) =====
+[21:31:49] batch-start shard=0/2 count=20 backlog=17650 uploads=7495 failed_attempts=748
+[21:31:49] login
+[21:31:51] login done
+[21:31:51] iteration 1/20
+[21:31:51] film cr_film_id=29028 name='The Horde (2016) CZ' candidates=1
+[21:31:51]   candidate upload_id=58aada40adb99 url=https://prehraj.to/the-horde-2016-jazyk-aj-titulky-cj-v-obraze-horor-akcni-webrip/58aada40adb99
+[21:31:52]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1724435/wWGIrqh4XH3vhWbIKJfEqh0PiXKil7F3BTWMH…)
+[21:32:17]   downloaded 524.4 MB in 23.5s (22.3 MB/s)
+[21:32:45]   upload done video_id=25178256 in 27.6s
