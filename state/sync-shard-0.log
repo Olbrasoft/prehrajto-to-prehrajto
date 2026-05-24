@@ -51755,3 +51755,14 @@
 [15:17:28]   upload done video_id=25173737 in 63.5s
 [15:17:30] film cr_film_id=28328 OK in 110.1s
 [15:17:30] batch-end ok=20 failed=0 dur=1999.0s avg/film=100.0s remaining=10274 eta_hours=285.4
+
+===== run 2026-05-24T15:19:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26365038296) =====
+[15:19:13] batch-start shard=0/2 count=20 backlog=17650 uploads=7376 failed_attempts=743
+[15:19:13] login
+[15:19:15] login done
+[15:19:15] iteration 1/20
+[15:19:15] film cr_film_id=28330 name="Candice Renoir - Chacun dirige l'eau vers son moulin (2022) CZ" candidates=1
+[15:19:15]   candidate upload_id=68037c404491e url=https://prehraj.to/candice-renoirova-kazdy-smeruje-vodu-k-svojmu-mlynu-candice-renoir-chacun-dirige-l-eau-vers-son-moulin-2022-sk-tvrip-hevc-720p/68037c404491e
+[15:19:16]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/135620975/9y9HG3frlhQpTlPiARUqpf3YFqDtgRiO1Ua…)
+[15:20:20]   downloaded 1,372.1 MB in 61.6s (22.3 MB/s)
+[15:21:38]   upload done video_id=25173815 in 78.3s
