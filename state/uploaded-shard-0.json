@@ -141836,6 +141836,25 @@
         "download_sec": 12.9,
         "upload_sec": 24.6
       }
+    },
+    {
+      "cr_film_id": 28884,
+      "cr_slug": "pad-zeme",
+      "title": "Pád Země",
+      "year": 2015,
+      "display_name": "Pád Země (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5677b4bb34e7c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25177213,
+      "size_bytes": 440609166,
+      "uploaded_at": "2026-05-24T20:13:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 88.7,
+        "upload_sec": 18.0
+      }
     }
   ],
   "failed_attempts": [
@@ -147157,5 +147176,5 @@
       "failed_at": "2026-05-24T20:03:42Z"
     }
   ],
-  "last_updated": "2026-05-24T20:12:08Z"
+  "last_updated": "2026-05-24T20:13:58Z"
 }
