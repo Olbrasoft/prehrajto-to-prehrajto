@@ -49419,3 +49419,14 @@
 [07:26:26]   upload done video_id=25166146 in 29.7s
 [07:26:28] film cr_film_id=26780 OK in 57.6s
 [07:26:28] batch-end ok=20 failed=0 dur=1257.4s avg/film=62.9s remaining=10594 eta_hours=185.1
+
+===== run 2026-05-24T07:26:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26354746008) =====
+[07:26:43] batch-start shard=0/2 count=20 backlog=17650 uploads=7056 failed_attempts=743
+[07:26:43] login
+[07:26:44] login done
+[07:26:44] iteration 1/20
+[07:26:44] film cr_film_id=26786 name='Dívčí válka (1991) CZ' candidates=4
+[07:26:44]   candidate upload_id=6089365307b40 url=https://prehraj.to/divci-valka-komedie-1991-cz-dabing/6089365307b40
+[07:26:45]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/23292606/kJPfxesY8ip9hRkUrpC3wsOBSN0fvWHy9CWj…)
+[07:27:06]   downloaded 585.2 MB in 19.0s (30.8 MB/s)
+[07:27:28]   upload done video_id=25166174 in 22.2s
