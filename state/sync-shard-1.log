@@ -51255,3 +51255,14 @@
 [12:35:29]   upload done video_id=25171286 in 14.9s
 [12:35:31] film cr_film_id=28131 OK in 30.7s
 [12:35:31] batch-end ok=20 failed=0 dur=1597.7s avg/film=79.9s remaining=10379 eta_hours=230.4
+
+===== run 2026-05-24T12:35:43Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26361042492) =====
+[12:35:45] batch-start shard=1/2 count=20 backlog=17650 uploads=7271 failed_attempts=256
+[12:35:45] login
+[12:35:46] login done
+[12:35:46] iteration 1/20
+[12:35:46] film cr_film_id=28135 name='Ledové království (2013) CZ Dabing' candidates=7
+[12:35:46]   candidate upload_id=ed9d5fa573292651 url=https://prehraj.to/ledove-kralovstvi-2013-anim-czdab-m-mkv/ed9d5fa573292651
+[12:35:47]   resolved in 1.1s → 720p (https://pf-storage3.premiumcdn.net/167490944/ldpfWbUQ1SYpsaXugMilzU8Of4li3qh0nCO…)
+[12:36:35]   downloaded 1,635.0 MB in 47.2s (34.6 MB/s)
+[12:37:50]   upload done video_id=25171316 in 74.4s
