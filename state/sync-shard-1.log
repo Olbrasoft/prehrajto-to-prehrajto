@@ -50081,3 +50081,14 @@
 [08:52:21]   upload done video_id=25167421 in 36.0s
 [08:52:23] film cr_film_id=27431 OK in 72.6s
 [08:52:23] batch-end ok=20 failed=0 dur=2004.9s avg/film=100.2s remaining=10539 eta_hours=293.3
+
+===== run 2026-05-24T08:53:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26356863690) =====
+[08:53:56] batch-start shard=1/2 count=20 backlog=17650 uploads=7111 failed_attempts=253
+[08:53:56] login
+[08:53:58] login done
+[08:53:58] iteration 1/20
+[08:53:58] film cr_film_id=27435 name='Butch Cassidy: Bez osudu (2011) CZ Dabing' candidates=3
+[08:53:58]   candidate upload_id=5610fd753e790 url=https://prehraj.to/blackthorn-2011-cz-dab-western-p-p/5610fd753e790
+[08:53:59]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/390595/jPzU4Gco3hxpCnAHp4T8gcras34IexFGYhqQtn…)
+[08:54:18]   downloaded 524.5 MB in 17.8s (29.5 MB/s)
+[08:54:40]   upload done video_id=25167469 in 21.4s
