@@ -47601,3 +47601,14 @@
 [00:41:01]   upload done video_id=25159376 in 126.3s
 [00:41:03] film cr_film_id=25971 OK in 230.1s
 [00:41:03] batch-end ok=20 failed=0 dur=2174.5s avg/film=108.7s remaining=10876 eta_hours=328.4
+
+===== run 2026-05-24T00:41:19Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26347413259) =====
+[00:41:21] batch-start shard=1/2 count=20 backlog=17650 uploads=6774 failed_attempts=250
+[00:41:21] login
+[00:41:22] login done
+[00:41:22] iteration 1/20
+[00:41:22] film cr_film_id=25973 name='Jeptiška a komisař (2006) CZ' candidates=1
+[00:41:22]   candidate upload_id=5b117f8ac7ee8 url=https://prehraj.to/jeptiska-a-komisar-2006/5b117f8ac7ee8
+[00:41:24]   resolved in 1.3s → 720p (https://pf-storage2.premiumcdn.net/4346192/4m2FMOTlrsweI1rCgZCbMT3Du4viGWcYGimxH…)
+[00:42:22]   downloaded 1,292.1 MB in 56.7s (22.8 MB/s)
+[00:43:34]   upload done video_id=25159461 in 71.6s
