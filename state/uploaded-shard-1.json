@@ -133668,6 +133668,25 @@
         "download_sec": 51.7,
         "upload_sec": 74.3
       }
+    },
+    {
+      "cr_film_id": 27049,
+      "cr_slug": "obludarium-2009",
+      "title": "Obludárium",
+      "year": 2009,
+      "display_name": "Obludárium (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "606f547f6b9fc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25165868,
+      "size_bytes": 519809503,
+      "uploaded_at": "2026-05-24T07:12:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.9,
+        "upload_sec": 20.5
+      }
     }
   ],
   "failed_attempts": [
@@ -135516,5 +135535,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T07:11:23Z"
+  "last_updated": "2026-05-24T07:12:06Z"
 }
