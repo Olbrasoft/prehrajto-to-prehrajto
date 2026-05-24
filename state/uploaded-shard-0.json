@@ -137542,6 +137542,25 @@
         "download_sec": 20.1,
         "upload_sec": 32.4
       }
+    },
+    {
+      "cr_film_id": 27618,
+      "cr_slug": "prava-tvar",
+      "title": "Pravá tvář",
+      "year": 2011,
+      "display_name": "Pravá tvář (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55a94722a18a4",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25170424,
+      "size_bytes": 326530373,
+      "uploaded_at": "2026-05-24T11:45:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.0,
+        "upload_sec": 17.4
+      }
     }
   ],
   "failed_attempts": [
@@ -142828,5 +142847,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T11:44:26Z"
+  "last_updated": "2026-05-24T11:45:01Z"
 }
