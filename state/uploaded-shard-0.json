@@ -141703,6 +141703,25 @@
         "download_sec": 73.7,
         "upload_sec": 102.3
       }
+    },
+    {
+      "cr_film_id": 28850,
+      "cr_slug": "pravda-a-lez",
+      "title": "Pravda a Lež",
+      "year": 1992,
+      "display_name": "Pravda a Lež (1992) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c12afdd2eaa5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25177008,
+      "size_bytes": 496457171,
+      "uploaded_at": "2026-05-24T20:02:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.1,
+        "upload_sec": 36.6
+      }
     }
   ],
   "failed_attempts": [
@@ -147017,5 +147036,5 @@
       "failed_at": "2026-05-24T18:52:04Z"
     }
   ],
-  "last_updated": "2026-05-24T20:01:18Z"
+  "last_updated": "2026-05-24T20:02:20Z"
 }
