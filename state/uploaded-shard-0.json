@@ -138302,6 +138302,25 @@
         "download_sec": 55.5,
         "upload_sec": 69.7
       }
+    },
+    {
+      "cr_film_id": 27780,
+      "cr_slug": "nas-kamarad-yetti",
+      "title": "Náš kamarád Yetti",
+      "year": 2012,
+      "display_name": "Náš kamarád Yetti (2012) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a8bff12d971e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25171324,
+      "size_bytes": 741184495,
+      "uploaded_at": "2026-05-24T12:37:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 34.0,
+        "upload_sec": 55.4
+      }
     }
   ],
   "failed_attempts": [
@@ -143588,5 +143607,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T12:36:18Z"
+  "last_updated": "2026-05-24T12:37:53Z"
 }
