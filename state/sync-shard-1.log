@@ -48915,3 +48915,14 @@
 [04:47:50]   upload done video_id=25163371 in 35.3s
 [04:47:52] film cr_film_id=26653 OK in 72.4s
 [04:47:52] batch-end ok=19 failed=1 dur=1833.0s avg/film=96.5s remaining=10698 eta_hours=286.8
+
+===== run 2026-05-24T04:49:11Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26352237391) =====
+[04:49:12] batch-start shard=1/2 count=20 backlog=17650 uploads=6952 failed_attempts=252
+[04:49:12] login
+[04:49:14] login done
+[04:49:14] iteration 1/20
+[04:49:14] film cr_film_id=26609 name='Noc po svatbě (2020) CZ Dabing' candidates=1
+[04:49:14]   candidate upload_id=602b36a5c43c1 url=https://prehraj.to/noc-po-svatbe-2020-czdabing/602b36a5c43c1
+[04:49:15]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/22248311/XxMczAhKdtm1IxvuBxhM2hZYS3kSeOSE9hj1…)
+[04:50:01]   downloaded 1,437.1 MB in 44.8s (32.1 MB/s)
+[04:50:53]   upload done video_id=25163418 in 51.8s
