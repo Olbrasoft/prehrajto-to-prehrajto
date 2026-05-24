@@ -50227,3 +50227,14 @@
 [09:16:07]   upload done video_id=25167994 in 19.9s
 [09:16:09] film cr_film_id=27521 OK in 40.5s
 [09:16:09] batch-end ok=20 failed=0 dur=1331.0s avg/film=66.5s remaining=10519 eta_hours=194.3
+
+===== run 2026-05-24T09:18:19Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26357366812) =====
+[09:18:21] batch-start shard=1/2 count=20 backlog=17650 uploads=7131 failed_attempts=253
+[09:18:21] login
+[09:18:22] login done
+[09:18:22] iteration 1/20
+[09:18:22] film cr_film_id=27523 name='Simonův vesmír (2010) CZ Dabing' candidates=4
+[09:18:22]   candidate upload_id=6053c965a0581 url=https://prehraj.to/simonuv-vesmir-2010-czdab/6053c965a0581
+[09:18:23]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/22710179/MqosKVIodUyrfQNHr8F4YINJtoeHQ8CZKH3q…)
+[09:19:22]   downloaded 1,791.6 MB in 57.2s (31.3 MB/s)
+[09:20:31]   upload done video_id=25168091 in 69.0s
