@@ -136480,6 +136480,25 @@
         "download_sec": 21.5,
         "upload_sec": 30.0
       }
+    },
+    {
+      "cr_film_id": 27745,
+      "cr_slug": "zombie-apocalypse",
+      "title": "Zombie Apocalypse",
+      "year": 2011,
+      "display_name": "Zombie Apocalypse (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66640066532da",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25169386,
+      "size_bytes": 729424345,
+      "uploaded_at": "2026-05-24T10:28:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.6,
+        "upload_sec": 26.7
+      }
     }
   ],
   "failed_attempts": [
@@ -138328,5 +138347,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T10:27:47Z"
+  "last_updated": "2026-05-24T10:28:43Z"
 }
