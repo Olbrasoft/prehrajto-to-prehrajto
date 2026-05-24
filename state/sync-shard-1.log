@@ -50811,3 +50811,14 @@
 [11:07:47]   upload done video_id=25169894 in 28.6s
 [11:07:49] film cr_film_id=27855 OK in 59.7s
 [11:07:49] batch-end ok=20 failed=0 dur=1449.4s avg/film=72.5s remaining=10439 eta_hours=210.2
+
+===== run 2026-05-24T11:09:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26359598800) =====
+[11:09:33] batch-start shard=1/2 count=20 backlog=17650 uploads=7211 failed_attempts=253
+[11:09:33] login
+[11:09:34] login done
+[11:09:34] iteration 1/20
+[11:09:34] film cr_film_id=27857 name='Umělec a modelka (2012) CZ' candidates=1
+[11:09:34]   candidate upload_id=5aa6b3b0ed06f url=https://prehraj.to/umelec-a-modelka-2012/5aa6b3b0ed06f
+[11:09:35]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/3611709/57ZurEFE5fyeTKVFOmiM6FypCr0SkLUPbfDOu…)
+[11:10:01]   downloaded 737.7 MB in 23.9s (30.9 MB/s)
+[11:10:27]   upload done video_id=25169932 in 26.0s
