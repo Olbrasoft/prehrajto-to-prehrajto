@@ -129619,6 +129619,25 @@
         "download_sec": 55.8,
         "upload_sec": 71.0
       }
+    },
+    {
+      "cr_film_id": 25870,
+      "cr_slug": "hotel-pro-psy",
+      "title": "Hotel pro psy",
+      "year": 2009,
+      "display_name": "Hotel pro psy (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c3495984304",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25160538,
+      "size_bytes": 540027205,
+      "uploaded_at": "2026-05-24T01:41:22Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 24.3,
+        "upload_sec": 29.7
+      }
     }
   ],
   "failed_attempts": [
@@ -134898,5 +134917,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T01:40:23Z"
+  "last_updated": "2026-05-24T01:41:22Z"
 }
