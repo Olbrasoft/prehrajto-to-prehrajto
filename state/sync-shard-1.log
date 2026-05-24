@@ -50963,3 +50963,14 @@
 [11:40:00]   upload done video_id=25170353 in 16.6s
 [11:40:02] film cr_film_id=27931 OK in 41.2s
 [11:40:02] batch-end ok=20 failed=0 dur=1827.8s avg/film=91.4s remaining=10419 eta_hours=264.5
+
+===== run 2026-05-24T11:41:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26360254896) =====
+[11:41:27] batch-start shard=1/2 count=20 backlog=17650 uploads=7231 failed_attempts=256
+[11:41:27] login
+[11:41:28] login done
+[11:41:28] iteration 1/20
+[11:41:28] film cr_film_id=27933 name='Dobrodružství Hucka Finna (2012) CZ Dabing' candidates=1
+[11:41:28]   candidate upload_id=5a305b416b3c1 url=https://prehraj.to/dobrodruzstvi-hucka-finna-2012-cz-dabing/5a305b416b3c1
+[11:41:29]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3120918/Ryzhw9FbPUaQU27CYzHN3FQrs47IVxtD8sqBi…)
+[11:41:57]   downloaded 802.6 MB in 25.8s (31.1 MB/s)
+[11:42:25]   upload done video_id=25170384 in 28.1s
