@@ -138131,6 +138131,25 @@
         "download_sec": 20.4,
         "upload_sec": 31.3
       }
+    },
+    {
+      "cr_film_id": 27738,
+      "cr_slug": "smrtici-sestup",
+      "title": "Smrtící sestup",
+      "year": 2013,
+      "display_name": "Smrtící sestup (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5591535e3a7ef",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25171134,
+      "size_bytes": 557541254,
+      "uploaded_at": "2026-05-24T12:25:48Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 20.8,
+        "upload_sec": 23.3
+      }
     }
   ],
   "failed_attempts": [
@@ -143417,5 +143436,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T12:25:00Z"
+  "last_updated": "2026-05-24T12:25:48Z"
 }
