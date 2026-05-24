@@ -141760,6 +141760,25 @@
         "download_sec": 18.0,
         "upload_sec": 28.2
       }
+    },
+    {
+      "cr_film_id": 28868,
+      "cr_slug": "punisher-posledni-zuctovani",
+      "title": "Punisher: Poslední zúčtování",
+      "year": 2026,
+      "display_name": "Punisher: Poslední zúčtování (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6da5fff411e2a6ba",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25177051,
+      "size_bytes": 838143892,
+      "uploaded_at": "2026-05-24T20:05:15Z",
+      "timing": {
+        "resolve_sec": 7.2,
+        "download_sec": 38.9,
+        "upload_sec": 44.9
+      }
     }
   ],
   "failed_attempts": [
@@ -147072,7 +147091,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krvava-nevesta-hra-zacina-2026-cz-dabing-top-kvalita-mkv/a4abb8119aa51c53",
       "permanent": true,
       "failed_at": "2026-05-24T18:52:04Z"
+    },
+    {
+      "cr_film_id": 28868,
+      "upload_id": "9a73ff606e6b2c40",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/punisher-posledni-zuctovani-2026-akcni-thriller-czdab-mov/9a73ff606e6b2c40",
+      "permanent": true,
+      "failed_at": "2026-05-24T20:03:42Z"
     }
   ],
-  "last_updated": "2026-05-24T20:03:40Z"
+  "last_updated": "2026-05-24T20:05:15Z"
 }
