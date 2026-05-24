@@ -133153,6 +133153,25 @@
         "download_sec": 13.5,
         "upload_sec": 17.1
       }
+    },
+    {
+      "cr_film_id": 26574,
+      "cr_slug": "primy-kontakt",
+      "title": "Přímý kontakt",
+      "year": 2009,
+      "display_name": "Přímý kontakt (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56ab41bce2320",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25164569,
+      "size_bytes": 562523208,
+      "uploaded_at": "2026-05-24T06:11:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.9,
+        "upload_sec": 26.8
+      }
     }
   ],
   "failed_attempts": [
@@ -138439,5 +138458,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T06:10:43Z"
+  "last_updated": "2026-05-24T06:11:34Z"
 }
