@@ -135110,6 +135110,25 @@
         "download_sec": 15.4,
         "upload_sec": 18.6
       }
+    },
+    {
+      "cr_film_id": 27090,
+      "cr_slug": "vajicko",
+      "title": "Vajíčko",
+      "year": 1964,
+      "display_name": "Vajíčko (1964) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5e29ca5d8f3f8",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25167250,
+      "size_bytes": 721405152,
+      "uploaded_at": "2026-05-24T08:40:02Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 23.2,
+        "upload_sec": 34.0
+      }
     }
   ],
   "failed_attempts": [
@@ -140396,5 +140415,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T08:39:01Z"
+  "last_updated": "2026-05-24T08:40:02Z"
 }
