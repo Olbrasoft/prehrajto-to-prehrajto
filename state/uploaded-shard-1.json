@@ -140109,6 +140109,25 @@
         "download_sec": 20.4,
         "upload_sec": 22.9
       }
+    },
+    {
+      "cr_film_id": 28723,
+      "cr_slug": "apokalypsa-v-los-angeles",
+      "title": "Apokalypsa v Los Angeles",
+      "year": 2014,
+      "display_name": "Apokalypsa v Los Angeles (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a4acfd4b1783",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25173851,
+      "size_bytes": 490408249,
+      "uploaded_at": "2026-05-24T15:23:27Z",
+      "timing": {
+        "resolve_sec": 5.6,
+        "download_sec": 16.2,
+        "upload_sec": 21.2
+      }
     }
   ],
   "failed_attempts": [
@@ -141988,7 +142007,28 @@
         "download_sec": 70.4,
         "upload_sec": 0.0
       }
+    },
+    {
+      "cr_film_id": 28719,
+      "upload_id": "e37481ae5279c069",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nelituju-niceho-2025-cz-dabing-mkv/e37481ae5279c069",
+      "permanent": true,
+      "failed_at": "2026-05-24T15:22:30Z"
+    },
+    {
+      "cr_film_id": 28719,
+      "upload_id": "6497a979d2a914f8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nelituju-niceho-2025-cz-dabing/6497a979d2a914f8",
+      "permanent": true,
+      "failed_at": "2026-05-24T15:22:36Z"
+    },
+    {
+      "cr_film_id": 28719,
+      "upload_id": "12a5c791e9597fad",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nelituju-niceho-2025-cz-dabing/12a5c791e9597fad",
+      "permanent": true,
+      "failed_at": "2026-05-24T15:22:42Z"
     }
   ],
-  "last_updated": "2026-05-24T15:22:28Z"
+  "last_updated": "2026-05-24T15:23:27Z"
 }

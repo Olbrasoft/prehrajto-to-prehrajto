@@ -52014,3 +52014,19 @@
 [15:21:44]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/235429/YakS7VhyJiNkT3vF8ZiN7hPvHx8TK0cDZc4Zf8…)
 [15:22:06]   downloaded 624.9 MB in 20.4s (30.6 MB/s)
 [15:22:28]   upload done video_id=25173840 in 22.9s
+[15:22:30] film cr_film_id=28717 OK in 47.3s
+[15:22:30] iteration 4/20
+[15:22:30] film cr_film_id=28719 name='Nelituju ničeho (2025) CZ Dabing' candidates=3
+[15:22:30]   candidate upload_id=e37481ae5279c069 url=https://prehraj.to/nelituju-niceho-2025-cz-dabing-mkv/e37481ae5279c069
+[15:22:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nelituju-niceho-2025-cz-dabing-mkv/e37481ae5279c069 (permanent=True)
+[15:22:31]   candidate upload_id=6497a979d2a914f8 url=https://prehraj.to/nelituju-niceho-2025-cz-dabing/6497a979d2a914f8
+[15:22:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nelituju-niceho-2025-cz-dabing/6497a979d2a914f8 (permanent=True)
+[15:22:36]   candidate upload_id=12a5c791e9597fad url=https://prehraj.to/nelituju-niceho-2025-cz-dabing/12a5c791e9597fad
+[15:22:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nelituju-niceho-2025-cz-dabing/12a5c791e9597fad (permanent=True)
+[15:22:42] film cr_film_id=28719 all candidates exhausted
+[15:22:42] iteration 5/20
+[15:22:42] film cr_film_id=28723 name='Apokalypsa v Los Angeles (2014) CZ Dabing' candidates=3
+[15:22:42]   candidate upload_id=5a4acfd4b1783 url=https://prehraj.to/apokalypsa-v-los-angeles-2014-cz-dabing/5a4acfd4b1783
+[15:22:47]   resolved in 5.6s → 480p (https://pf-storage1.premiumcdn.net/3209046/ev3HdwhlnskQt57S09cK8hE3fJzI6ASqOSlwc…)
+[15:23:05]   downloaded 490.4 MB in 16.2s (30.3 MB/s)
+[15:23:27]   upload done video_id=25173851 in 21.2s
