@@ -128823,6 +128823,25 @@
         "download_sec": 39.7,
         "upload_sec": 50.8
       }
+    },
+    {
+      "cr_film_id": 26001,
+      "cr_slug": "peklo-v-podzemi",
+      "title": "Peklo v podzemí",
+      "year": 2006,
+      "display_name": "Peklo v podzemí (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58211687daa8a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25159655,
+      "size_bytes": 365785579,
+      "uploaded_at": "2026-05-24T00:50:41Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.1,
+        "upload_sec": 19.9
+      }
     }
   ],
   "failed_attempts": [
@@ -130640,5 +130659,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-24T00:49:58Z"
+  "last_updated": "2026-05-24T00:50:41Z"
 }
