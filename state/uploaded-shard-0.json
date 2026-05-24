@@ -132830,6 +132830,25 @@
         "download_sec": 57.1,
         "upload_sec": 67.8
       }
+    },
+    {
+      "cr_film_id": 26510,
+      "cr_slug": "retezova-zprava",
+      "title": "Řetězová zpráva",
+      "year": 2010,
+      "display_name": "Řetězová zpráva (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5aae426db4145",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25164027,
+      "size_bytes": 889440135,
+      "uploaded_at": "2026-05-24T05:31:41Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 36.5,
+        "upload_sec": 50.7
+      }
     }
   ],
   "failed_attempts": [
@@ -138116,5 +138135,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T05:30:10Z"
+  "last_updated": "2026-05-24T05:31:41Z"
 }
