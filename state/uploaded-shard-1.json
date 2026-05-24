@@ -132794,6 +132794,25 @@
         "download_sec": 32.0,
         "upload_sec": 39.1
       }
+    },
+    {
+      "cr_film_id": 26797,
+      "cr_slug": "venkovsky-ucitel",
+      "title": "Venkovský učitel",
+      "year": 2008,
+      "display_name": "Venkovský učitel (2008) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c5fe1a55157f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25164306,
+      "size_bytes": 4136726056,
+      "uploaded_at": "2026-05-24T05:56:51Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 711.2,
+        "upload_sec": 219.7
+      }
     }
   ],
   "failed_attempts": [
@@ -134633,7 +134652,14 @@
         "download_sec": 74.2,
         "upload_sec": 76.2
       }
+    },
+    {
+      "cr_film_id": 26795,
+      "upload_id": "68fe017636737",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scooby-doo-stastny-halloween-happy-halloween-scooby-doo-2020-sk-web-dl-1080-hevc/68fe017636737",
+      "permanent": true,
+      "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T05:41:10Z"
+  "last_updated": "2026-05-24T05:56:51Z"
 }
