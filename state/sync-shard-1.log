@@ -50373,3 +50373,14 @@
 [09:41:17]   upload done video_id=25168610 in 21.2s
 [09:41:18] film cr_film_id=27609 OK in 38.7s
 [09:41:18] batch-end ok=20 failed=0 dur=1376.6s avg/film=68.8s remaining=10499 eta_hours=200.6
+
+===== run 2026-05-24T09:42:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26357870273) =====
+[09:42:45] batch-start shard=1/2 count=20 backlog=17650 uploads=7151 failed_attempts=253
+[09:42:45] login
+[09:42:46] login done
+[09:42:46] iteration 1/20
+[09:42:46] film cr_film_id=27611 name='Zeď (2012) CZ Dabing' candidates=2
+[09:42:46]   candidate upload_id=5b7b9f50228b7 url=https://prehraj.to/zed-2012-cz-dabing/5b7b9f50228b7
+[09:42:47]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/5362301/a1kI67U16HE2iPkIqkHVKUdgFv8Fl9h6bimMs…)
+[09:43:07]   downloaded 588.8 MB in 18.6s (31.7 MB/s)
+[09:43:30]   upload done video_id=25168645 in 23.2s
