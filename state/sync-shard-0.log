@@ -51171,3 +51171,14 @@
 [12:59:34]   upload done video_id=25171765 in 26.0s
 [12:59:37] film cr_film_id=27848 OK in 53.5s
 [12:59:37] batch-end ok=20 failed=0 dur=1674.9s avg/film=83.7s remaining=10354 eta_hours=240.7
+
+===== run 2026-05-24T12:59:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26361452857) =====
+[12:59:51] batch-start shard=0/2 count=20 backlog=17650 uploads=7296 failed_attempts=743
+[12:59:51] login
+[12:59:53] login done
+[12:59:53] iteration 1/20
+[12:59:53] film cr_film_id=27852 name='Vlkodlak: Bestie mezi námi (2012) CZ Dabing' candidates=2
+[12:59:53]   candidate upload_id=55f1acfd5842a url=https://prehraj.to/vlkodlak-bestie-mezi-nami-2012-czdab/55f1acfd5842a
+[12:59:54]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/294454/YGdiEzSeGc5DTr6FBbSkrSvJCzwuoNi6gtEYiN…)
+[13:00:24]   downloaded 580.2 MB in 28.0s (20.7 MB/s)
+[13:01:06]   upload done video_id=25171785 in 41.3s
