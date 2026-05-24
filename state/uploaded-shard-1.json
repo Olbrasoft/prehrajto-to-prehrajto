@@ -141591,6 +141591,25 @@
         "download_sec": 206.6,
         "upload_sec": 15.2
       }
+    },
+    {
+      "cr_film_id": 29165,
+      "cr_slug": "pripad-platfus",
+      "title": "Případ Platfus",
+      "year": 1985,
+      "display_name": "Případ Platfus (1985) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "614a3719638f0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25176556,
+      "size_bytes": 527344612,
+      "uploaded_at": "2026-05-24T19:16:55Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 16.1,
+        "upload_sec": 19.9
+      }
     }
   ],
   "failed_attempts": [
@@ -143514,5 +143533,5 @@
       "failed_at": "2026-05-24T18:12:39Z"
     }
   ],
-  "last_updated": "2026-05-24T19:16:15Z"
+  "last_updated": "2026-05-24T19:16:55Z"
 }
