@@ -52429,3 +52429,14 @@
 [17:51:16]   upload done video_id=25175538 in 42.7s
 [17:51:18] film cr_film_id=29023 OK in 91.0s
 [17:51:18] batch-end ok=20 failed=0 dur=2303.2s avg/film=115.2s remaining=10220 eta_hours=327.0
+
+===== run 2026-05-24T17:58:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26368640384) =====
+[17:58:23] batch-start shard=1/2 count=20 backlog=17650 uploads=7430 failed_attempts=260
+[17:58:23] login
+[17:58:24] login done
+[17:58:24] iteration 1/20
+[17:58:24] film cr_film_id=29029 name='David Attenborough: Gorilí příběh (2026) CZ' candidates=2
+[17:58:24]   candidate upload_id=07a189df2c4f0848 url=https://prehraj.to/david-attenborough-gorili-pribeh-2026-dokumentarni-cz-en-ddp5-1-hdr10-av1-1080p-mkv/07a189df2c4f0848
+[17:58:25]   resolved in 1.0s → 1080p (https://pf-storage6.premiumcdn.net/169025461/z7XF3NiKRf3mibzHvasMPivbSMzurBSrOf4…)
+[17:59:22]   downloaded 1,945.8 MB in 55.5s (35.1 MB/s)
+[18:00:56]   upload done video_id=25175661 in 93.8s
