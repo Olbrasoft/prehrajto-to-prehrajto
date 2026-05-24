@@ -50149,3 +50149,14 @@
 [09:39:42]   upload done video_id=25168574 in 37.8s
 [09:39:44] film cr_film_id=27288 OK in 62.4s
 [09:39:44] batch-end ok=20 failed=0 dur=1281.7s avg/film=64.1s remaining=10494 eta_hours=186.9
+
+===== run 2026-05-24T09:42:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26357870273) =====
+[09:42:44] batch-start shard=0/2 count=20 backlog=17650 uploads=7156 failed_attempts=743
+[09:42:44] login
+[09:42:45] login done
+[09:42:45] iteration 1/20
+[09:42:45] film cr_film_id=27290 name='Pinocchiova dobrodružství (2007) CZ' candidates=1
+[09:42:45]   candidate upload_id=5a9cec69cbb4d url=https://prehraj.to/pinocchiova-dobrodruzstvi-2007/5a9cec69cbb4d
+[09:42:47]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/3541606/LNvUKesNEs0DcPbuQgi2es3zhXpS7Acn2Cdzf…)
+[09:43:04]   downloaded 455.6 MB in 15.9s (28.7 MB/s)
+[09:43:28]   upload done video_id=25168644 in 24.4s
