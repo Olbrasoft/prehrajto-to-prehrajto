@@ -134371,6 +134371,25 @@
         "download_sec": 30.5,
         "upload_sec": 37.0
       }
+    },
+    {
+      "cr_film_id": 27267,
+      "cr_slug": "kruh-osmi",
+      "title": "Kruh Osmi",
+      "year": 2009,
+      "display_name": "Kruh Osmi (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59d69cab11250",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25166600,
+      "size_bytes": 415164966,
+      "uploaded_at": "2026-05-24T07:54:54Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.3,
+        "upload_sec": 18.5
+      }
     }
   ],
   "failed_attempts": [
@@ -136219,5 +136238,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T07:54:14Z"
+  "last_updated": "2026-05-24T07:54:54Z"
 }
