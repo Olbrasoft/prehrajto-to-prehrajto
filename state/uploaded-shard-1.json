@@ -133877,6 +133877,25 @@
         "download_sec": 12.2,
         "upload_sec": 15.3
       }
+    },
+    {
+      "cr_film_id": 27089,
+      "cr_slug": "hop",
+      "title": "Hop",
+      "year": 2011,
+      "display_name": "Hop (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ae008a04e1852920",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25166122,
+      "size_bytes": 902257613,
+      "uploaded_at": "2026-05-24T07:24:54Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.6,
+        "upload_sec": 33.1
+      }
     }
   ],
   "failed_attempts": [
@@ -135725,5 +135744,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T07:23:46Z"
+  "last_updated": "2026-05-24T07:24:54Z"
 }
