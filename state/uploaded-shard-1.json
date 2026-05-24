@@ -140280,6 +140280,25 @@
         "download_sec": 22.9,
         "upload_sec": 29.9
       }
+    },
+    {
+      "cr_film_id": 28797,
+      "cr_slug": "med-v-hlave-2014",
+      "title": "Med v hlavě",
+      "year": 2014,
+      "display_name": "Med v hlavě (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab0a64f23e43",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25173953,
+      "size_bytes": 1335729207,
+      "uploaded_at": "2026-05-24T15:32:12Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 40.8,
+        "upload_sec": 53.5
+      }
     }
   ],
   "failed_attempts": [
@@ -142182,5 +142201,5 @@
       "failed_at": "2026-05-24T15:22:42Z"
     }
   ],
-  "last_updated": "2026-05-24T15:30:34Z"
+  "last_updated": "2026-05-24T15:32:12Z"
 }
