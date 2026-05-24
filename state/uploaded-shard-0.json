@@ -129524,6 +129524,25 @@
         "download_sec": 17.2,
         "upload_sec": 22.9
       }
+    },
+    {
+      "cr_film_id": 25858,
+      "cr_slug": "divoky-stomp",
+      "title": "Divoký Stomp",
+      "year": 2007,
+      "display_name": "Divoký Stomp (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b70db4aad4d5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25160403,
+      "size_bytes": 1279316801,
+      "uploaded_at": "2026-05-24T01:34:14Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 53.8,
+        "upload_sec": 71.5
+      }
     }
   ],
   "failed_attempts": [
@@ -134803,5 +134822,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T01:32:04Z"
+  "last_updated": "2026-05-24T01:34:14Z"
 }
