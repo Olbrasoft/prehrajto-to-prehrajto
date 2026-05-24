@@ -51109,3 +51109,14 @@
 [12:08:05]   upload done video_id=25170847 in 91.8s
 [12:08:06] film cr_film_id=28031 OK in 166.2s
 [12:08:06] batch-end ok=20 failed=0 dur=1598.0s avg/film=79.9s remaining=10399 eta_hours=230.8
+
+===== run 2026-05-24T12:08:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26360828551) =====
+[12:08:52] batch-start shard=1/2 count=20 backlog=17650 uploads=7251 failed_attempts=256
+[12:08:52] login
+[12:08:53] login done
+[12:08:53] iteration 1/20
+[12:08:53] film cr_film_id=28039 name='Sex, drogy a daně (2013) CZ' candidates=1
+[12:08:53]   candidate upload_id=5aa7b6821c95b url=https://prehraj.to/sex-drogy-a-dane-2013/5aa7b6821c95b
+[12:08:55]   resolved in 2.1s → 720p (https://pf-storage1.premiumcdn.net/3623026/7L0t9vikNhYjI8YckXTPVik1TzEsY3TapSQnT…)
+[12:09:31]   downloaded 1,092.0 MB in 34.4s (31.7 MB/s)
+[12:10:17]   upload done video_id=25170891 in 45.8s
