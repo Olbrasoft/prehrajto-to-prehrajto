@@ -139138,6 +139138,25 @@
         "download_sec": 18.9,
         "upload_sec": 22.3
       }
+    },
+    {
+      "cr_film_id": 28034,
+      "cr_slug": "pozice-ditete",
+      "title": "Pozice dítěte",
+      "year": 2013,
+      "display_name": "Pozice dítěte (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9d59583e14d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25172396,
+      "size_bytes": 1141749347,
+      "uploaded_at": "2026-05-24T13:38:35Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 40.0,
+        "upload_sec": 54.1
+      }
     }
   ],
   "failed_attempts": [
@@ -144424,5 +144443,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T13:36:56Z"
+  "last_updated": "2026-05-24T13:38:35Z"
 }
