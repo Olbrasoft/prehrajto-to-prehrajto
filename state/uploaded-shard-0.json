@@ -130569,6 +130569,25 @@
         "download_sec": 11.6,
         "upload_sec": 13.1
       }
+    },
+    {
+      "cr_film_id": 26026,
+      "cr_slug": "stazeni",
+      "title": "Stažení",
+      "year": 2007,
+      "display_name": "Stažení (2007) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9a6eea12195",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25161515,
+      "size_bytes": 985128274,
+      "uploaded_at": "2026-05-24T02:40:28Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 36.2,
+        "upload_sec": 49.5
+      }
     }
   ],
   "failed_attempts": [
@@ -135848,5 +135867,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T02:38:58Z"
+  "last_updated": "2026-05-24T02:40:28Z"
 }
