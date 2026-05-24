@@ -51907,3 +51907,14 @@
 [16:14:43]   upload done video_id=25174402 in 39.7s
 [16:14:45] film cr_film_id=28442 OK in 75.8s
 [16:14:45] batch-end ok=20 failed=0 dur=3330.1s avg/film=166.5s remaining=10254 eta_hours=474.2
+
+===== run 2026-05-24T16:15:16Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26366313229) =====
+[16:15:17] batch-start shard=0/2 count=20 backlog=17650 uploads=7396 failed_attempts=746
+[16:15:17] login
+[16:15:19] login done
+[16:15:19] iteration 1/20
+[16:15:19] film cr_film_id=28444 name='Ptáče (2024) CZ' candidates=1
+[16:15:19]   candidate upload_id=677165dd3347b url=https://prehraj.to/ptace-bird-2024-drama-en-aac-5-1-titulky-sk-en-hevc-1080p/677165dd3347b
+[16:15:20]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/126792818/J1KixpSQofVxu9YhkLFyaS9oIqlCOBTo5hZ…)
+[16:18:27]   downloaded 3,758.2 MB in 185.0s (20.3 MB/s)
+[16:22:11]   upload done video_id=25174462 in 224.1s
