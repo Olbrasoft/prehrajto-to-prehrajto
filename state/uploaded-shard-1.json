@@ -141306,6 +141306,25 @@
         "download_sec": 49.7,
         "upload_sec": 80.6
       }
+    },
+    {
+      "cr_film_id": 29059,
+      "cr_slug": "bibi-a-tina-zmatena-a-okouzlena",
+      "title": "Bibi a Tina: Zmatená a okouzlená",
+      "year": 2014,
+      "display_name": "Bibi a Tina: Zmatená a okouzlená (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6073630f7108c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25175848,
+      "size_bytes": 892012526,
+      "uploaded_at": "2026-05-24T18:17:02Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 211.8,
+        "upload_sec": 43.8
+      }
     }
   ],
   "failed_attempts": [
@@ -143206,7 +143225,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nelituju-niceho-2025-cz-dabing/12a5c791e9597fad",
       "permanent": true,
       "failed_at": "2026-05-24T15:22:42Z"
+    },
+    {
+      "cr_film_id": 29053,
+      "upload_id": "c39a47962cff2d13",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nekdo-to-rad-v-plzni-2026-cz-mp4/c39a47962cff2d13",
+      "permanent": true,
+      "failed_at": "2026-05-24T18:12:28Z"
+    },
+    {
+      "cr_film_id": 29053,
+      "upload_id": "9f1a8325e6e03e61",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nekdo-to-rad-v-plzni-2026-cz-mp4/9f1a8325e6e03e61",
+      "permanent": true,
+      "failed_at": "2026-05-24T18:12:33Z"
+    },
+    {
+      "cr_film_id": 29053,
+      "upload_id": "6200894d538e48c1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nekdo-to-rad-v-plzni-2026-cz/6200894d538e48c1",
+      "permanent": true,
+      "failed_at": "2026-05-24T18:12:39Z"
     }
   ],
-  "last_updated": "2026-05-24T18:12:25Z"
+  "last_updated": "2026-05-24T18:17:02Z"
 }

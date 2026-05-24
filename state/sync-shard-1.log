@@ -52482,3 +52482,19 @@
 [18:10:14]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/3801495/dQptK7HelhpmfYDHyRcZeH9WCaLf3YF5lIzRs…)
 [18:11:05]   downloaded 1,576.7 MB in 49.7s (31.7 MB/s)
 [18:12:25]   upload done video_id=25175789 in 80.6s
+[18:12:27] film cr_film_id=29051 OK in 134.5s
+[18:12:27] iteration 8/20
+[18:12:27] film cr_film_id=29053 name='Někdo to rád v Plzni (2026) CZ' candidates=3
+[18:12:27]   candidate upload_id=c39a47962cff2d13 url=https://prehraj.to/nekdo-to-rad-v-plzni-2026-cz-mp4/c39a47962cff2d13
+[18:12:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nekdo-to-rad-v-plzni-2026-cz-mp4/c39a47962cff2d13 (permanent=True)
+[18:12:28]   candidate upload_id=9f1a8325e6e03e61 url=https://prehraj.to/nekdo-to-rad-v-plzni-2026-cz-mp4/9f1a8325e6e03e61
+[18:12:33]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nekdo-to-rad-v-plzni-2026-cz-mp4/9f1a8325e6e03e61 (permanent=True)
+[18:12:33]   candidate upload_id=6200894d538e48c1 url=https://prehraj.to/nekdo-to-rad-v-plzni-2026-cz/6200894d538e48c1
+[18:12:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nekdo-to-rad-v-plzni-2026-cz/6200894d538e48c1 (permanent=True)
+[18:12:39] film cr_film_id=29053 all candidates exhausted
+[18:12:39] iteration 9/20
+[18:12:39] film cr_film_id=29059 name='Bibi a Tina: Zmatená a okouzlená (2014) CZ Dabing' candidates=2
+[18:12:39]   candidate upload_id=6073630f7108c url=https://prehraj.to/bibi-a-tina-zmatena-a-okouzlena-2014-czdabing-kukaj-cz-sleduj-online-filmy-a-serialy-2/6073630f7108c
+[18:12:45]   resolved in 5.9s → 480p (https://pf-storage2.premiumcdn.net/23074740/O9kSPkCRLTnBt6aUk2sA8COkfLAs40hoDIXz…)
+[18:16:19]   downloaded 892.0 MB in 211.8s (4.2 MB/s)
+[18:17:02]   upload done video_id=25175848 in 43.8s
