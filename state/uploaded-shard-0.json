@@ -138644,6 +138644,25 @@
         "download_sec": 28.0,
         "upload_sec": 41.3
       }
+    },
+    {
+      "cr_film_id": 27860,
+      "cr_slug": "manon-lescaut",
+      "title": "Manon Lescaut",
+      "year": 1970,
+      "display_name": "Manon Lescaut (1970) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60ecb48191e85",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25171808,
+      "size_bytes": 552520099,
+      "uploaded_at": "2026-05-24T13:02:17Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 27.2,
+        "upload_sec": 37.9
+      }
     }
   ],
   "failed_attempts": [
@@ -143930,5 +143949,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T13:01:06Z"
+  "last_updated": "2026-05-24T13:02:17Z"
 }
