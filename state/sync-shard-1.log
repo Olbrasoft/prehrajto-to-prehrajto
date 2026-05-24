@@ -48769,3 +48769,14 @@
 [04:15:23]   upload done video_id=25162931 in 62.4s
 [04:15:25] film cr_film_id=26561 OK in 123.5s
 [04:15:25] batch-end ok=20 failed=0 dur=1711.3s avg/film=85.6s remaining=10717 eta_hours=254.8
+
+===== run 2026-05-24T04:17:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26351671689) =====
+[04:17:18] batch-start shard=1/2 count=20 backlog=17650 uploads=6933 failed_attempts=251
+[04:17:18] login
+[04:17:19] login done
+[04:17:19] iteration 1/20
+[04:17:19] film cr_film_id=26565 name='Rychlá akce (2008) CZ Dabing' candidates=6
+[04:17:19]   candidate upload_id=5a891555662ad url=https://prehraj.to/rychla-akce-2008-cz-dabing/5a891555662ad
+[04:17:20]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3410901/7kVHdeFn7C4bIQgSG3s0nF1GTEwHDMsGeTMLf…)
+[04:17:53]   downloaded 627.2 MB in 30.3s (20.7 MB/s)
+[04:18:31]   upload done video_id=25163002 in 38.5s
