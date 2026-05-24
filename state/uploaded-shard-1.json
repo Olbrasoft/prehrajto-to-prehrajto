@@ -133649,6 +133649,25 @@
         "download_sec": 21.1,
         "upload_sec": 31.5
       }
+    },
+    {
+      "cr_film_id": 27047,
+      "cr_slug": "anny",
+      "title": "Anny",
+      "year": 2020,
+      "display_name": "Anny (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61d5fbd7e56d1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25165832,
+      "size_bytes": 1785794264,
+      "uploaded_at": "2026-05-24T07:11:23Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 51.7,
+        "upload_sec": 74.3
+      }
     }
   ],
   "failed_attempts": [
@@ -135497,5 +135516,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T07:09:12Z"
+  "last_updated": "2026-05-24T07:11:23Z"
 }
