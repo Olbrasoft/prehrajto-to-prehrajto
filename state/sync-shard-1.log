@@ -51551,3 +51551,14 @@
 [13:27:10]   upload done video_id=25172218 in 31.0s
 [13:27:12] film cr_film_id=28303 OK in 60.8s
 [13:27:12] batch-end ok=20 failed=0 dur=1629.5s avg/film=81.5s remaining=10339 eta_hours=234.1
+
+===== run 2026-05-24T13:29:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26362588947) =====
+[13:29:43] batch-start shard=1/2 count=20 backlog=17650 uploads=7311 failed_attempts=257
+[13:29:43] login
+[13:29:44] login done
+[13:29:44] iteration 1/20
+[13:29:44] film cr_film_id=28305 name='Mrzout (2014) CZ Dabing' candidates=1
+[13:29:44]   candidate upload_id=382e3d5db373474b url=https://prehraj.to/mrzout-2014-cz-dab-1920x1080p/382e3d5db373474b
+[13:29:46]   resolved in 1.7s → 1080p (https://pf-storage6.premiumcdn.net/169300513/kQMuEvsjdU6YfmkHnBidxsb0FqZC3GHVQTd…)
+[13:30:45]   downloaded 1,722.9 MB in 57.9s (29.8 MB/s)
+[13:31:56]   upload done video_id=25172281 in 71.2s
