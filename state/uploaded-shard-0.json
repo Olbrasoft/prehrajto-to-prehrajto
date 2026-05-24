@@ -141209,6 +141209,25 @@
         "download_sec": 55.0,
         "upload_sec": 62.7
       }
+    },
+    {
+      "cr_film_id": 28680,
+      "cr_slug": "stastna",
+      "title": "Šťastná",
+      "year": 2014,
+      "display_name": "Šťastná (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ff666d0c60a8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25175545,
+      "size_bytes": 253773329,
+      "uploaded_at": "2026-05-24T17:51:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 11.3,
+        "upload_sec": 16.7
+      }
     }
   ],
   "failed_attempts": [
@@ -146516,5 +146535,5 @@
       "failed_at": "2026-05-24T15:32:24Z"
     }
   ],
-  "last_updated": "2026-05-24T17:50:50Z"
+  "last_updated": "2026-05-24T17:51:23Z"
 }
