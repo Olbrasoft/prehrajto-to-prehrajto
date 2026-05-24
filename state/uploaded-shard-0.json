@@ -140050,6 +140050,25 @@
         "download_sec": 51.1,
         "upload_sec": 63.7
       }
+    },
+    {
+      "cr_film_id": 28306,
+      "cr_slug": "mercy-2",
+      "title": "Mercy",
+      "year": 2014,
+      "display_name": "Mercy (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "558bd236a10bb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25173585,
+      "size_bytes": 271171796,
+      "uploaded_at": "2026-05-24T15:07:42Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 14.9,
+        "upload_sec": 38.5
+      }
     }
   ],
   "failed_attempts": [
@@ -145336,5 +145355,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T15:06:43Z"
+  "last_updated": "2026-05-24T15:07:42Z"
 }
