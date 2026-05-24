@@ -139309,6 +139309,25 @@
         "download_sec": 38.9,
         "upload_sec": 57.3
       }
+    },
+    {
+      "cr_film_id": 28082,
+      "cr_slug": "plush",
+      "title": "Plush",
+      "year": 2013,
+      "display_name": "Plush (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55b7942907546",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25172661,
+      "size_bytes": 575379987,
+      "uploaded_at": "2026-05-24T13:54:37Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 22.8,
+        "upload_sec": 35.4
+      }
     }
   ],
   "failed_attempts": [
@@ -144595,5 +144614,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T13:53:34Z"
+  "last_updated": "2026-05-24T13:54:37Z"
 }
