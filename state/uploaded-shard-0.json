@@ -141114,6 +141114,25 @@
         "download_sec": 37.6,
         "upload_sec": 43.0
       }
+    },
+    {
+      "cr_film_id": 28640,
+      "cr_slug": "robocroc",
+      "title": "RoboCroc",
+      "year": 2013,
+      "display_name": "RoboCroc (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55db3e9266629",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25175415,
+      "size_bytes": 616377483,
+      "uploaded_at": "2026-05-24T17:41:31Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 231.6,
+        "upload_sec": 27.3
+      }
     }
   ],
   "failed_attempts": [
@@ -146421,5 +146440,5 @@
       "failed_at": "2026-05-24T15:32:24Z"
     }
   ],
-  "last_updated": "2026-05-24T17:37:07Z"
+  "last_updated": "2026-05-24T17:41:31Z"
 }
