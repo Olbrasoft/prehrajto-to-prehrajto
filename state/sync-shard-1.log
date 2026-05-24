@@ -53165,3 +53165,14 @@
 [22:49:51]   upload done video_id=25179365 in 95.8s
 [22:49:54] film cr_film_id=29803 OK in 179.3s
 [22:49:54] batch-end ok=20 failed=0 dur=2225.3s avg/film=111.3s remaining=10121 eta_hours=312.9
+
+===== run 2026-05-24T22:50:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26374973567) =====
+[22:50:46] batch-start shard=1/2 count=20 backlog=17650 uploads=7529 failed_attempts=264
+[22:50:46] login
+[22:50:47] login done
+[22:50:47] iteration 1/20
+[22:50:47] film cr_film_id=29813 name='Woodstock (2019) CZ Dabing' candidates=2
+[22:50:47]   candidate upload_id=600224da7578b url=https://prehraj.to/woodstock-festival-jedne-generace-2019-czdab/600224da7578b
+[22:50:49]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/21510162/51DTVJh4rFKdsrgTa3fDGhG8tEdINVTXRTEy…)
+[22:51:37]   downloaded 1,625.0 MB in 46.8s (34.7 MB/s)
+[22:52:57]   upload done video_id=25179405 in 80.2s
