@@ -48541,3 +48541,14 @@
 [04:16:01]   upload done video_id=25162960 in 24.3s
 [04:16:03] film cr_film_id=26258 OK in 46.5s
 [04:16:03] batch-end ok=20 failed=0 dur=1751.5s avg/film=87.6s remaining=10714 eta_hours=260.7
+
+===== run 2026-05-24T04:17:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26351671689) =====
+[04:17:17] batch-start shard=0/2 count=20 backlog=17650 uploads=6936 failed_attempts=742
+[04:17:17] login
+[04:17:18] login done
+[04:17:18] iteration 1/20
+[04:17:18] film cr_film_id=26264 name='Orel Deváté legie (2011) CZ Dabing' candidates=11
+[04:17:18]   candidate upload_id=60642876157ab url=https://prehraj.to/orel-devate-legie-2011-hd-cz-dabing/60642876157ab
+[04:17:20]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/22902198/z6JsKWhg8UR7f85uk0cW8hwDf5bIKqT56I68…)
+[04:18:47]   downloaded 2,437.2 MB in 86.0s (28.3 MB/s)
+[04:20:32]   upload done video_id=25163020 in 104.1s
