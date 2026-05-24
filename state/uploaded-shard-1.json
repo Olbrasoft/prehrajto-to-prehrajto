@@ -137506,6 +137506,25 @@
         "download_sec": 30.3,
         "upload_sec": 39.1
       }
+    },
+    {
+      "cr_film_id": 27959,
+      "cr_slug": "ochrance-2012",
+      "title": "Ochránce",
+      "year": 2012,
+      "display_name": "Ochránce (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "566cf573efff2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25170495,
+      "size_bytes": 501466508,
+      "uploaded_at": "2026-05-24T11:49:36Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.5,
+        "upload_sec": 27.2
+      }
     }
   ],
   "failed_attempts": [
@@ -139375,5 +139394,5 @@
       "failed_at": "2026-05-24T11:19:06Z"
     }
   ],
-  "last_updated": "2026-05-24T11:48:44Z"
+  "last_updated": "2026-05-24T11:49:36Z"
 }
