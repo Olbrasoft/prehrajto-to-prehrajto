@@ -52783,3 +52783,14 @@
 [22:07:29]   upload done video_id=25178803 in 52.0s
 [22:07:32] film cr_film_id=29164 OK in 87.7s
 [22:07:32] batch-end ok=20 failed=0 dur=2140.8s avg/film=107.0s remaining=10135 eta_hours=301.2
+
+===== run 2026-05-24T22:12:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26374173083) =====
+[22:12:48] batch-start shard=0/2 count=20 backlog=17650 uploads=7515 failed_attempts=748
+[22:12:48] login
+[22:12:49] login done
+[22:12:49] iteration 1/20
+[22:12:49] film cr_film_id=29166 name='Zaprášená tajemství: Pokoj smrti (2015) CZ Dabing' candidates=2
+[22:12:49]   candidate upload_id=5ec28ff6b47f9 url=https://prehraj.to/zaprasena-tajemstvi-svatebni-saty-2015-czdab-by-fdltko/5ec28ff6b47f9
+[22:12:51]   resolved in 1.4s → 480p (https://pf-storage3.premiumcdn.net/16577535/8BNc6NFm4SwLsWOc9luKRFjMiVLHQYhg0Tza…)
+[22:13:16]   downloaded 458.7 MB in 23.0s (19.9 MB/s)
+[22:13:48]   upload done video_id=25178878 in 31.9s
