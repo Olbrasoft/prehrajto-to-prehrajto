@@ -128441,6 +128441,25 @@
         "download_sec": 23.6,
         "upload_sec": 29.0
       }
+    },
+    {
+      "cr_film_id": 25678,
+      "cr_slug": "smoulove",
+      "title": "Šmoulové",
+      "year": 2011,
+      "display_name": "Šmoulové (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "607bfc0503287",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25159093,
+      "size_bytes": 2048258991,
+      "uploaded_at": "2026-05-24T00:20:35Z",
+      "timing": {
+        "resolve_sec": 2.6,
+        "download_sec": 82.8,
+        "upload_sec": 116.9
+      }
     }
   ],
   "failed_attempts": [
@@ -133720,5 +133739,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T00:17:09Z"
+  "last_updated": "2026-05-24T00:20:35Z"
 }
