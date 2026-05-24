@@ -141323,6 +141323,25 @@
         "download_sec": 55.0,
         "upload_sec": 61.7
       }
+    },
+    {
+      "cr_film_id": 28714,
+      "cr_slug": "mlha-nad-morem",
+      "title": "Mlha nad mořem",
+      "year": 2014,
+      "display_name": "Mlha nad mořem (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5abc951d0ce3e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25175703,
+      "size_bytes": 1256801458,
+      "uploaded_at": "2026-05-24T18:05:01Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 61.1,
+        "upload_sec": 89.6
+      }
     }
   ],
   "failed_attempts": [
@@ -146630,5 +146649,5 @@
       "failed_at": "2026-05-24T15:32:24Z"
     }
   ],
-  "last_updated": "2026-05-24T18:02:24Z"
+  "last_updated": "2026-05-24T18:05:01Z"
 }
