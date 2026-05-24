@@ -130455,6 +130455,25 @@
         "download_sec": 36.9,
         "upload_sec": 43.4
       }
+    },
+    {
+      "cr_film_id": 26008,
+      "cr_slug": "poradna-rana",
+      "title": "Pořádná rána",
+      "year": 2007,
+      "display_name": "Pořádná rána (2007) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ad563619fc4c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25161421,
+      "size_bytes": 533756656,
+      "uploaded_at": "2026-05-24T02:35:22Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 21.0,
+        "upload_sec": 23.1
+      }
     }
   ],
   "failed_attempts": [
@@ -135734,5 +135753,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T02:34:33Z"
+  "last_updated": "2026-05-24T02:35:22Z"
 }
