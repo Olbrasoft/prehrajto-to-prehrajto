@@ -136117,6 +136117,25 @@
         "download_sec": 45.3,
         "upload_sec": 52.3
       }
+    },
+    {
+      "cr_film_id": 27332,
+      "cr_slug": "legendary",
+      "title": "Legendary",
+      "year": 2010,
+      "display_name": "Legendary (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "584e20ad41a28",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25168799,
+      "size_bytes": 760090972,
+      "uploaded_at": "2026-05-24T09:51:11Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 25.6,
+        "upload_sec": 30.7
+      }
     }
   ],
   "failed_attempts": [
@@ -141403,5 +141422,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T09:50:10Z"
+  "last_updated": "2026-05-24T09:51:11Z"
 }
