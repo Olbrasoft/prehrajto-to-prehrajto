@@ -137124,6 +137124,25 @@
         "download_sec": 85.7,
         "upload_sec": 93.7
       }
+    },
+    {
+      "cr_film_id": 27538,
+      "cr_slug": "obri-sopka",
+      "title": "Obří sopka",
+      "year": 2011,
+      "display_name": "Obří sopka (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ce5d46935640",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25169986,
+      "size_bytes": 606331802,
+      "uploaded_at": "2026-05-24T11:13:36Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.8,
+        "upload_sec": 27.7
+      }
     }
   ],
   "failed_attempts": [
@@ -142410,5 +142429,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T11:12:38Z"
+  "last_updated": "2026-05-24T11:13:36Z"
 }
