@@ -136575,6 +136575,25 @@
         "download_sec": 14.1,
         "upload_sec": 15.2
       }
+    },
+    {
+      "cr_film_id": 27765,
+      "cr_slug": "the-hoarder",
+      "title": "The Hoarder",
+      "year": 2015,
+      "display_name": "The Hoarder (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5e53dfe05bf36",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25169479,
+      "size_bytes": 612842879,
+      "uploaded_at": "2026-05-24T10:36:49Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.0,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -138423,5 +138442,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T10:35:54Z"
+  "last_updated": "2026-05-24T10:36:49Z"
 }
