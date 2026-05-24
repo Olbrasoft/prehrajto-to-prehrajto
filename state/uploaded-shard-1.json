@@ -135587,6 +135587,25 @@
         "download_sec": 63.4,
         "upload_sec": 81.6
       }
+    },
+    {
+      "cr_film_id": 27543,
+      "cr_slug": "cerne-zlato",
+      "title": "Černé zlato",
+      "year": 2011,
+      "display_name": "Černé zlato (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5fc966c5a2f81",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25168267,
+      "size_bytes": 883063120,
+      "uploaded_at": "2026-05-24T09:26:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.2,
+        "upload_sec": 40.0
+      }
     }
   ],
   "failed_attempts": [
@@ -137435,5 +137454,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T09:25:13Z"
+  "last_updated": "2026-05-24T09:26:27Z"
 }
