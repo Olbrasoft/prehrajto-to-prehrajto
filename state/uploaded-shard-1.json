@@ -132490,6 +132490,25 @@
         "download_sec": 28.0,
         "upload_sec": 34.5
       }
+    },
+    {
+      "cr_film_id": 26735,
+      "cr_slug": "serena",
+      "title": "Serena",
+      "year": 2014,
+      "display_name": "Serena (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6181365b75a6a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25163798,
+      "size_bytes": 1006143036,
+      "uploaded_at": "2026-05-24T05:16:36Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 50.7,
+        "upload_sec": 56.8
+      }
     }
   ],
   "failed_attempts": [
@@ -134331,5 +134350,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T05:14:43Z"
+  "last_updated": "2026-05-24T05:16:36Z"
 }
