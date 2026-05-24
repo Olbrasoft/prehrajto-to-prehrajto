@@ -52873,3 +52873,14 @@
 [20:55:12]   upload done video_id=25177648 in 26.8s
 [20:55:14] film cr_film_id=29433 OK in 87.6s
 [20:55:14] batch-end ok=20 failed=0 dur=2192.5s avg/film=109.6s remaining=10161 eta_hours=309.3
+
+===== run 2026-05-24T21:31:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26373305476) =====
+[21:31:46] batch-start shard=1/2 count=20 backlog=17650 uploads=7489 failed_attempts=264
+[21:31:46] login
+[21:31:47] login done
+[21:31:47] iteration 1/20
+[21:31:47] film cr_film_id=29439 name='Rubín má barvu krve (1989) CZ' candidates=1
+[21:31:47]   candidate upload_id=5c18da7a4153a url=https://prehraj.to/rubin-ma-barvu-krve-1989/5c18da7a4153a
+[21:31:49]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/9608399/kJwhVbFrJiAvFnxHV7IwYF6Nf07HgJuwniQ5C…)
+[21:32:21]   downloaded 839.3 MB in 30.7s (27.3 MB/s)
+[21:32:58]   upload done video_id=25178257 in 36.8s
