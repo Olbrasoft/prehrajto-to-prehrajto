@@ -50295,3 +50295,14 @@
 [10:04:24]   upload done video_id=25168980 in 51.8s
 [10:04:26] film cr_film_id=27370 OK in 92.3s
 [10:04:26] batch-end ok=20 failed=0 dur=1300.9s avg/film=65.0s remaining=10474 eta_hours=189.1
+
+===== run 2026-05-24T10:08:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26358378152) =====
+[10:08:38] batch-start shard=0/2 count=20 backlog=17650 uploads=7176 failed_attempts=743
+[10:08:38] login
+[10:08:39] login done
+[10:08:39] iteration 1/20
+[10:08:39] film cr_film_id=27374 name='Všechno, co chceš (2010) CZ' candidates=1
+[10:08:39]   candidate upload_id=5ab71a9f6b4c2 url=https://prehraj.to/vsechno-co-chces-2010/5ab71a9f6b4c2
+[10:08:40]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/3727740/7Kecdkip3TDxUPBtgaF08iaOSgOtJAH5PfKOH…)
+[10:08:57]   downloaded 429.6 MB in 15.3s (28.1 MB/s)
+[10:09:25]   upload done video_id=25169077 in 27.7s
