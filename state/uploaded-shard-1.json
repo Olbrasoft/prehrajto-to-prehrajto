@@ -142788,6 +142788,25 @@
         "download_sec": 25.5,
         "upload_sec": 47.1
       }
+    },
+    {
+      "cr_film_id": 29669,
+      "cr_slug": "kyborgove",
+      "title": "Kyborgové",
+      "year": 2017,
+      "display_name": "Kyborgové (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c74e9eddf1ed",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25179008,
+      "size_bytes": 434308666,
+      "uploaded_at": "2026-05-24T22:22:26Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 17.2,
+        "upload_sec": 20.6
+      }
     }
   ],
   "failed_attempts": [
@@ -144723,5 +144742,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T22:21:44Z"
+  "last_updated": "2026-05-24T22:22:26Z"
 }
