@@ -128994,6 +128994,25 @@
         "download_sec": 67.4,
         "upload_sec": 95.7
       }
+    },
+    {
+      "cr_film_id": 26021,
+      "cr_slug": "cerny-kun",
+      "title": "Černý kůň",
+      "year": 2008,
+      "display_name": "Černý kůň (2008) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5acf47d0e688d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25159918,
+      "size_bytes": 1431528722,
+      "uploaded_at": "2026-05-24T01:03:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 62.5,
+        "upload_sec": 72.4
+      }
     }
   ],
   "failed_attempts": [
@@ -130811,5 +130830,5 @@
       "failed_at": "2026-05-23T05:32:40Z"
     }
   ],
-  "last_updated": "2026-05-24T01:00:47Z"
+  "last_updated": "2026-05-24T01:03:07Z"
 }
