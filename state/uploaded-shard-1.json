@@ -131255,6 +131255,25 @@
         "download_sec": 19.7,
         "upload_sec": 26.7
       }
+    },
+    {
+      "cr_film_id": 26457,
+      "cr_slug": "dospelost-2008",
+      "title": "Dospělost",
+      "year": 2008,
+      "display_name": "Dospělost (2008) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "583d8be9e329d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25162348,
+      "size_bytes": 495060086,
+      "uploaded_at": "2026-05-24T03:37:59Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 19.7,
+        "upload_sec": 25.4
+      }
     }
   ],
   "failed_attempts": [
@@ -133084,5 +133103,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T03:37:09Z"
+  "last_updated": "2026-05-24T03:37:59Z"
 }
