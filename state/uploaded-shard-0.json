@@ -133210,6 +133210,25 @@
         "download_sec": 28.1,
         "upload_sec": 33.9
       }
+    },
+    {
+      "cr_film_id": 26584,
+      "cr_slug": "stan-helsing",
+      "title": "Stan Helsing",
+      "year": 2009,
+      "display_name": "Stan Helsing (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57dcda248d4f4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25164635,
+      "size_bytes": 551806621,
+      "uploaded_at": "2026-05-24T06:14:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.0,
+        "upload_sec": 21.8
+      }
     }
   ],
   "failed_attempts": [
@@ -138496,5 +138515,5 @@
       "failed_at": "2026-05-24T04:50:42Z"
     }
   ],
-  "last_updated": "2026-05-24T06:13:22Z"
+  "last_updated": "2026-05-24T06:14:07Z"
 }
