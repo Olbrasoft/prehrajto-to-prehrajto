@@ -50665,3 +50665,14 @@
 [10:41:55]   upload done video_id=25169535 in 19.1s
 [10:41:56] film cr_film_id=27771 OK in 37.1s
 [10:41:56] batch-end ok=20 failed=0 dur=1997.5s avg/film=99.9s remaining=10459 eta_hours=290.2
+
+===== run 2026-05-24T10:43:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26359075911) =====
+[10:43:38] batch-start shard=1/2 count=20 backlog=17650 uploads=7191 failed_attempts=253
+[10:43:38] login
+[10:43:39] login done
+[10:43:39] iteration 1/20
+[10:43:39] film cr_film_id=27779 name='Dokonalá skrýš (2012) CZ Dabing' candidates=4
+[10:43:39]   candidate upload_id=55c04b4538093 url=https://prehraj.to/dokonala-skrys-2012-czdab/55c04b4538093
+[10:43:41]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/70255/a4QtGQT7asZEHR3FWbFy6TvDFOxfqOU08u39s5Q…)
+[10:44:08]   downloaded 490.3 MB in 24.7s (19.9 MB/s)
+[10:44:37]   upload done video_id=25169562 in 29.5s
