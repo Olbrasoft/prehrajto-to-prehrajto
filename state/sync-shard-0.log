@@ -52929,3 +52929,14 @@
 [22:48:03]   upload done video_id=25179361 in 28.3s
 [22:48:05] film cr_film_id=29312 OK in 56.8s
 [22:48:05] batch-end ok=20 failed=0 dur=2115.6s avg/film=105.8s remaining=10115 eta_hours=297.3
+
+===== run 2026-05-24T22:50:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26374973567) =====
+[22:50:47] batch-start shard=0/2 count=20 backlog=17650 uploads=7535 failed_attempts=748
+[22:50:47] login
+[22:50:49] login done
+[22:50:49] iteration 1/20
+[22:50:49] film cr_film_id=29316 name='Záhada v květinářství: Držet jazyk za zuby (2016) CZ Dabing' candidates=3
+[22:50:49]   candidate upload_id=592ca92000b55 url=https://prehraj.to/zahada-v-kvetinarstvi-utnuto-v-pocatku-2016-cz-dabing/592ca92000b55
+[22:50:50]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/2277402/gePIPefPBt7Qhw3Tg4sdXfoDU7wilVi9bswAc…)
+[22:51:16]   downloaded 488.6 MB in 23.4s (20.9 MB/s)
+[22:51:43]   upload done video_id=25179401 in 27.5s
