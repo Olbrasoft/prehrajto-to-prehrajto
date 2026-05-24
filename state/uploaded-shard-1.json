@@ -142446,6 +142446,25 @@
         "download_sec": 20.2,
         "upload_sec": 43.4
       }
+    },
+    {
+      "cr_film_id": 29499,
+      "cr_slug": "propast-1982",
+      "title": "Propast",
+      "year": 1982,
+      "display_name": "Propast (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61c0df6e6a8f4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25178522,
+      "size_bytes": 1681349636,
+      "uploaded_at": "2026-05-24T21:50:08Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 59.5,
+        "upload_sec": 74.8
+      }
     }
   ],
   "failed_attempts": [
@@ -144381,5 +144400,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-24T21:47:49Z"
+  "last_updated": "2026-05-24T21:50:08Z"
 }
