@@ -136841,6 +136841,25 @@
         "download_sec": 25.1,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 27819,
+      "cr_slug": "prerusene-ticho",
+      "title": "Přerušené ticho",
+      "year": 2012,
+      "display_name": "Přerušené ticho (2012) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6181961c7e412",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25169741,
+      "size_bytes": 426330584,
+      "uploaded_at": "2026-05-24T10:56:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.6,
+        "upload_sec": 26.0
+      }
     }
   ],
   "failed_attempts": [
@@ -138689,5 +138708,5 @@
       "failed_at": "2026-05-24T05:41:13Z"
     }
   ],
-  "last_updated": "2026-05-24T10:56:02Z"
+  "last_updated": "2026-05-24T10:56:56Z"
 }
