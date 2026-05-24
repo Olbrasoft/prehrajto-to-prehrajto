@@ -138551,6 +138551,25 @@
         "download_sec": 22.5,
         "upload_sec": 32.2
       }
+    },
+    {
+      "cr_film_id": 28211,
+      "cr_slug": "likvidatori-2013",
+      "title": "Likvidátoři",
+      "year": 2013,
+      "display_name": "Likvidátoři (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ac74a67c1c30",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25171807,
+      "size_bytes": 1017595798,
+      "uploaded_at": "2026-05-24T13:02:16Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 33.3,
+        "upload_sec": 39.0
+      }
     }
   ],
   "failed_attempts": [
@@ -140420,5 +140439,5 @@
       "failed_at": "2026-05-24T11:19:06Z"
     }
   ],
-  "last_updated": "2026-05-24T13:00:59Z"
+  "last_updated": "2026-05-24T13:02:16Z"
 }
