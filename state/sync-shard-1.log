@@ -49061,3 +49061,14 @@
 [05:09:42]   upload done video_id=25163724 in 20.5s
 [05:09:44] film cr_film_id=26731 OK in 42.6s
 [05:09:44] batch-end ok=20 failed=0 dur=1229.9s avg/film=61.5s remaining=10678 eta_hours=182.4
+
+===== run 2026-05-24T05:13:34Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26352670299) =====
+[05:13:36] batch-start shard=1/2 count=20 backlog=17650 uploads=6972 failed_attempts=252
+[05:13:36] login
+[05:13:37] login done
+[05:13:37] iteration 1/20
+[05:13:37] film cr_film_id=26733 name='Pan Dokonalý (2009) CZ Dabing' candidates=1
+[05:13:37]   candidate upload_id=5ce32f847d81f url=https://prehraj.to/pan-dokonaly-2009-cz-dabing/5ce32f847d81f
+[05:13:39]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/13515246/wpqhJBH18SOVHbQsdYSNaHdnc7Rsn8tNkIzj…)
+[05:14:09]   downloaded 523.2 MB in 28.0s (18.7 MB/s)
+[05:14:43]   upload done video_id=25163785 in 34.5s
