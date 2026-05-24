@@ -131747,6 +131747,25 @@
         "download_sec": 22.0,
         "upload_sec": 28.0
       }
+    },
+    {
+      "cr_film_id": 26254,
+      "cr_slug": "na-plny-plyn-2008",
+      "title": "Na plný plyn",
+      "year": 2008,
+      "display_name": "Na plný plyn (2008) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9ef36b04305",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25162943,
+      "size_bytes": 592358508,
+      "uploaded_at": "2026-05-24T04:15:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.4,
+        "upload_sec": 26.0
+      }
     }
   ],
   "failed_attempts": [
@@ -137026,5 +137045,5 @@
       "failed_at": "2026-05-23T16:25:46Z"
     }
   ],
-  "last_updated": "2026-05-24T04:14:25Z"
+  "last_updated": "2026-05-24T04:15:15Z"
 }
