@@ -156316,6 +156316,25 @@
         "download_sec": 30.9,
         "upload_sec": 37.1
       }
+    },
+    {
+      "cr_film_id": 33313,
+      "cr_slug": "prepadeni-2011",
+      "title": "Přepadení",
+      "year": 2011,
+      "display_name": "Přepadení (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ad8899bbf3c6",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25212045,
+      "size_bytes": 606550330,
+      "uploaded_at": "2026-05-25T21:29:17Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 30.5,
+        "upload_sec": 38.6
+      }
     }
   ],
   "failed_attempts": [
@@ -158363,5 +158382,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T21:28:02Z"
+  "last_updated": "2026-05-25T21:29:17Z"
 }
