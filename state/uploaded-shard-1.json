@@ -145201,6 +145201,25 @@
         "download_sec": 26.6,
         "upload_sec": 31.8
       }
+    },
+    {
+      "cr_film_id": 30225,
+      "cr_slug": "ponorka-x-1",
+      "title": "Ponorka X-1",
+      "year": 1968,
+      "display_name": "Ponorka X-1 (1968) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "636d155a274a6a45",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25181528,
+      "size_bytes": 523893947,
+      "uploaded_at": "2026-05-25T02:12:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.1,
+        "upload_sec": 22.0
+      }
     }
   ],
   "failed_attempts": [
@@ -147157,5 +147176,5 @@
       "failed_at": "2026-05-25T01:07:26Z"
     }
   ],
-  "last_updated": "2026-05-25T02:11:19Z"
+  "last_updated": "2026-05-25T02:12:04Z"
 }
