@@ -55541,3 +55541,14 @@
 [10:39:11]   upload done video_id=25193023 in 28.5s
 [10:39:13] film cr_film_id=31528 OK in 56.5s
 [10:39:13] batch-end ok=17 failed=3 dur=1731.3s avg/film=101.8s remaining=9767 eta_hours=276.2
+
+===== run 2026-05-25T10:40:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26396323701) =====
+[10:40:48] batch-start shard=0/2 count=20 backlog=17650 uploads=7883 failed_attempts=764
+[10:40:48] login
+[10:40:50] login done
+[10:40:50] iteration 1/20
+[10:40:50] film cr_film_id=31534 name='Pár Pařmenů: Společenstvo žlutého tentononcu (2004) CZ Dabing' candidates=7
+[10:40:50]   candidate upload_id=60eb2c775ec3e url=https://prehraj.to/par-parmenu-spolecenstvo-zluteho-tentononcu-s-peknou-basnickou-uvnitr-2019-cz-dabing/60eb2c775ec3e
+[10:40:51]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/24236292/x38Uw4sqeTLwhevURWIK2s8PCRmCwah4ZTKQ…)
+[10:42:17]   downloaded 2,708.4 MB in 85.1s (31.8 MB/s)
+[10:44:04]   upload done video_id=25193157 in 106.6s
