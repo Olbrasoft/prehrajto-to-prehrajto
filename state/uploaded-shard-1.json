@@ -146037,6 +146037,25 @@
         "download_sec": 32.4,
         "upload_sec": 41.7
       }
+    },
+    {
+      "cr_film_id": 30347,
+      "cr_slug": "westerplatte",
+      "title": "Westerplatte",
+      "year": 1967,
+      "display_name": "Westerplatte (1967) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "abf27e69a5072b38",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25182631,
+      "size_bytes": 2111489954,
+      "uploaded_at": "2026-05-25T03:58:35Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 90.7,
+        "upload_sec": 100.0
+      }
     }
   ],
   "failed_attempts": [
@@ -148000,5 +148019,5 @@
       "failed_at": "2026-05-25T02:42:46Z"
     }
   ],
-  "last_updated": "2026-05-25T03:44:28Z"
+  "last_updated": "2026-05-25T03:58:35Z"
 }
