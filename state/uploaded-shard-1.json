@@ -147310,6 +147310,25 @@
         "download_sec": 60.9,
         "upload_sec": 70.0
       }
+    },
+    {
+      "cr_film_id": 30981,
+      "cr_slug": "cry-havoc",
+      "title": "Cry Havoc",
+      "year": 2020,
+      "display_name": "Cry Havoc (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67c19c85d2b12",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25184084,
+      "size_bytes": 604353932,
+      "uploaded_at": "2026-05-25T06:26:18Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 24.3,
+        "upload_sec": 26.8
+      }
     }
   ],
   "failed_attempts": [
@@ -149294,5 +149313,5 @@
       "failed_at": "2026-05-25T05:38:44Z"
     }
   ],
-  "last_updated": "2026-05-25T06:25:22Z"
+  "last_updated": "2026-05-25T06:26:18Z"
 }
