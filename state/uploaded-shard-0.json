@@ -152476,6 +152476,25 @@
         "download_sec": 21.1,
         "upload_sec": 22.6
       }
+    },
+    {
+      "cr_film_id": 32028,
+      "cr_slug": "john-na-konci-zemre",
+      "title": "John na konci zemře",
+      "year": 2013,
+      "display_name": "John na konci zemře (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aa5021aa3821",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25202126,
+      "size_bytes": 1157344262,
+      "uploaded_at": "2026-05-25T14:46:33Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 50.1,
+        "upload_sec": 62.3
+      }
     }
   ],
   "failed_attempts": [
@@ -157916,5 +157935,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T14:44:35Z"
+  "last_updated": "2026-05-25T14:46:33Z"
 }
