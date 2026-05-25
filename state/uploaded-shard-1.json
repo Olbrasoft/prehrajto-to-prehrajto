@@ -152136,6 +152136,25 @@
         "download_sec": 18.2,
         "upload_sec": 27.2
       }
+    },
+    {
+      "cr_film_id": 32351,
+      "cr_slug": "superpes",
+      "title": "Superpes",
+      "year": 2007,
+      "display_name": "Superpes (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "573f8cb10674b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25201669,
+      "size_bytes": 484868807,
+      "uploaded_at": "2026-05-25T14:29:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.4,
+        "upload_sec": 19.8
+      }
     }
   ],
   "failed_attempts": [
@@ -154183,5 +154202,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T14:28:31Z"
+  "last_updated": "2026-05-25T14:29:11Z"
 }
