@@ -146225,6 +146225,25 @@
         "download_sec": 74.5,
         "upload_sec": 93.0
       }
+    },
+    {
+      "cr_film_id": 30178,
+      "cr_slug": "jimmy-reardon",
+      "title": "Jimmy Reardon",
+      "year": 1988,
+      "display_name": "Jimmy Reardon (1988) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68ec3fba12a08",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25182758,
+      "size_bytes": 1103678824,
+      "uploaded_at": "2026-05-25T04:11:11Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 55.7,
+        "upload_sec": 63.5
+      }
     }
   ],
   "failed_attempts": [
@@ -151581,5 +151600,5 @@
       "failed_at": "2026-05-25T03:08:19Z"
     }
   ],
-  "last_updated": "2026-05-25T04:09:06Z"
+  "last_updated": "2026-05-25T04:11:11Z"
 }
