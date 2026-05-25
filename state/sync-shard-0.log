@@ -56999,3 +56999,14 @@
 [16:20:15]   upload done video_id=25204757 in 23.6s
 [16:20:17] film cr_film_id=32208 OK in 46.0s
 [16:20:17] batch-end ok=20 failed=0 dur=1947.9s avg/film=97.4s remaining=9568 eta_hours=258.9
+
+===== run 2026-05-25T16:21:14Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26409971849) =====
+[16:21:15] batch-start shard=0/2 count=20 backlog=17650 uploads=8082 failed_attempts=765
+[16:21:15] login
+[16:21:16] login done
+[16:21:16] iteration 1/20
+[16:21:16] film cr_film_id=32210 name='Smrtící lék (2014) CZ Dabing' candidates=1
+[16:21:16]   candidate upload_id=559224cb73646 url=https://prehraj.to/smrtici-lek-2014-cz-dabing-akcni-thriller/559224cb73646
+[16:21:18]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/438567/KyXI2niMJhKwUy5sEQCeMiGyI54IgkU4vtM1uL…)
+[16:21:35]   downloaded 467.1 MB in 15.6s (29.9 MB/s)
+[16:21:57]   upload done video_id=25204793 in 21.9s
