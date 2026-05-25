@@ -54184,3 +54184,14 @@
 [02:52:09]   upload done video_id=25182009 in 22.1s
 [02:52:11] film cr_film_id=30299 OK in 45.9s
 [02:52:11] batch-end ok=19 failed=1 dur=1644.3s avg/film=86.5s remaining=9984 eta_hours=239.9
+
+===== run 2026-05-25T02:55:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26380752402) =====
+[02:55:13] batch-start shard=1/2 count=20 backlog=17650 uploads=7666 failed_attempts=268
+[02:55:13] login
+[02:55:15] login done
+[02:55:15] iteration 1/20
+[02:55:15] film cr_film_id=30301 name='Máte doma lva? (1964) CZ Dabing' candidates=3
+[02:55:15]   candidate upload_id=50a75183731bc4b8 url=https://prehraj.to/mate-doma-lva-1964-cz-dabing/50a75183731bc4b8
+[02:55:17]   resolved in 2.1s → 480p (https://pf-storage1.premiumcdn.net/169584910/bDncL8fXDt0WTXeivyiNGf9EiXNSLwtRKIv…)
+[02:55:44]   downloaded 458.6 MB in 24.8s (18.5 MB/s)
+[02:56:12]   upload done video_id=25182040 in 27.8s
