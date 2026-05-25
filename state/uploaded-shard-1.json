@@ -147842,6 +147842,25 @@
         "download_sec": 37.5,
         "upload_sec": 42.9
       }
+    },
+    {
+      "cr_film_id": 31279,
+      "cr_slug": "muz-z-hliny",
+      "title": "Muž z hlíny",
+      "year": 2023,
+      "display_name": "Muž z hlíny (2023) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68aa47e18c1dd",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25184519,
+      "size_bytes": 1594065078,
+      "uploaded_at": "2026-05-25T07:20:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 54.5,
+        "upload_sec": 68.2
+      }
     }
   ],
   "failed_attempts": [
@@ -149847,5 +149866,5 @@
       "failed_at": "2026-05-25T07:07:53Z"
     }
   ],
-  "last_updated": "2026-05-25T07:18:01Z"
+  "last_updated": "2026-05-25T07:20:08Z"
 }
