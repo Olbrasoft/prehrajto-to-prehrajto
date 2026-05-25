@@ -150709,6 +150709,25 @@
         "download_sec": 21.7,
         "upload_sec": 26.6
       }
+    },
+    {
+      "cr_film_id": 31740,
+      "cr_slug": "ta-treti",
+      "title": "Ta třetí",
+      "year": 2002,
+      "display_name": "Ta třetí (2002) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5bd579049ac2b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25198179,
+      "size_bytes": 585361730,
+      "uploaded_at": "2026-05-25T12:13:39Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.9,
+        "upload_sec": 27.3
+      }
     }
   ],
   "failed_attempts": [
@@ -156149,5 +156168,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T12:12:49Z"
+  "last_updated": "2026-05-25T12:13:39Z"
 }
