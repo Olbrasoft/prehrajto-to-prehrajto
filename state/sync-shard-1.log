@@ -58846,3 +58846,14 @@
 [23:26:50]   upload done video_id=25214111 in 24.8s
 [23:26:52] film cr_film_id=33793 OK in 52.3s
 [23:26:52] batch-end ok=20 failed=0 dur=1513.7s avg/film=75.7s remaining=9353 eta_hours=196.7
+
+===== run 2026-05-25T23:35:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26424035009) =====
+[23:35:01] batch-start shard=1/2 count=20 backlog=17650 uploads=8297 failed_attempts=281
+[23:35:01] login
+[23:35:02] login done
+[23:35:02] iteration 1/20
+[23:35:02] film cr_film_id=33795 name='Život je truba (2015) CZ' candidates=1
+[23:35:02]   candidate upload_id=60d05a268a63b url=https://prehraj.to/ivot-je-zivot-2015/60d05a268a63b
+[23:35:03]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/23979759/lrNilNcmvhqxu9kCoRSkPcP0U1kFbQse7IGQ…)
+[23:35:21]   downloaded 455.2 MB in 15.7s (29.0 MB/s)
+[23:35:40]   upload done video_id=25214323 in 18.9s
