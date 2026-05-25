@@ -58264,3 +58264,14 @@
 [21:11:31]   upload done video_id=25211774 in 22.5s
 [21:11:32] film cr_film_id=33267 OK in 44.8s
 [21:11:32] batch-end ok=20 failed=0 dur=2372.3s avg/film=118.6s remaining=9432 eta_hours=310.7
+
+===== run 2026-05-25T21:12:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26419970230) =====
+[21:12:24] batch-start shard=1/2 count=20 backlog=17650 uploads=8218 failed_attempts=280
+[21:12:24] login
+[21:12:26] login done
+[21:12:26] iteration 1/20
+[21:12:26] film cr_film_id=33269 name='Vojna a mír I: Andrej Bolkonskij (1966) CZ' candidates=1
+[21:12:26]   candidate upload_id=5ac88325001f6 url=https://prehraj.to/vojna-a-mir-i-andrej-bolkonskij-1965/5ac88325001f6
+[21:12:27]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3844078/MXPHZVTj0CXNu8muvLUKpTMPI0xCMwC2lS9Gi…)
+[21:13:23]   downloaded 900.2 MB in 53.6s (16.8 MB/s)
+[21:14:17]   upload done video_id=25211805 in 54.3s
