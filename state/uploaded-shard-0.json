@@ -147688,6 +147688,25 @@
         "download_sec": 85.4,
         "upload_sec": 100.1
       }
+    },
+    {
+      "cr_film_id": 30436,
+      "cr_slug": "nenapadne-zlo",
+      "title": "Nenápadné zlo",
+      "year": 2015,
+      "display_name": "Nenápadné zlo (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59bd5bfa90a16",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25184250,
+      "size_bytes": 350488008,
+      "uploaded_at": "2026-05-25T06:53:22Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 17.0,
+        "upload_sec": 19.0
+      }
     }
   ],
   "failed_attempts": [
@@ -153070,7 +153089,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/flintstoneovi-wwe-mela-doby-kamenne-2015-en-cz-dabing-mp4/d1b8b48c5a3cc7c1",
       "permanent": true,
       "failed_at": "2026-05-25T06:48:36Z"
+    },
+    {
+      "cr_film_id": 30434,
+      "upload_id": "c0f6352c80cec18f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bessie-2015-en-cz-dabing-mp4/c0f6352c80cec18f",
+      "permanent": true,
+      "failed_at": "2026-05-25T06:52:38Z"
     }
   ],
-  "last_updated": "2026-05-25T06:52:34Z"
+  "last_updated": "2026-05-25T06:53:22Z"
 }
