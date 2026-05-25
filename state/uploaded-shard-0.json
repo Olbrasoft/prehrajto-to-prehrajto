@@ -152761,6 +152761,25 @@
         "download_sec": 19.0,
         "upload_sec": 21.0
       }
+    },
+    {
+      "cr_film_id": 32070,
+      "cr_slug": "peklo-ve-meste",
+      "title": "Peklo ve městě",
+      "year": 2002,
+      "display_name": "Peklo ve městě (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c367cb82eaa6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25203057,
+      "size_bytes": 712574408,
+      "uploaded_at": "2026-05-25T15:16:40Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.3,
+        "upload_sec": 38.0
+      }
     }
   ],
   "failed_attempts": [
@@ -158201,5 +158220,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T15:15:25Z"
+  "last_updated": "2026-05-25T15:16:40Z"
 }
