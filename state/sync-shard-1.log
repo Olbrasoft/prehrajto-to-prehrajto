@@ -54618,3 +54618,14 @@
 [05:07:00]   upload done video_id=25183456 in 31.9s
 [05:07:02] film cr_film_id=30527 OK in 55.0s
 [05:07:02] batch-end ok=20 failed=0 dur=1480.0s avg/film=74.0s remaining=9926 eta_hours=204.0
+
+===== run 2026-05-25T05:29:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26384938814) =====
+[05:29:26] batch-start shard=1/2 count=20 backlog=17650 uploads=7724 failed_attempts=270
+[05:29:26] login
+[05:29:27] login done
+[05:29:27] iteration 1/20
+[05:29:27] film cr_film_id=30533 name='Chronicky metropolitní (2016) CZ Dabing' candidates=2
+[05:29:27]   candidate upload_id=5991f1446efe4 url=https://prehraj.to/chronicky-metropolitni-2016-cz-dabing/5991f1446efe4
+[05:29:29]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/2555866/qwDu5VclNiwGFjqsQqCw1cv2FmQH0OUzBS48U…)
+[05:29:52]   downloaded 361.6 MB in 20.8s (17.4 MB/s)
+[05:30:15]   upload done video_id=25183667 in 23.0s
