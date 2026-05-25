@@ -155404,6 +155404,25 @@
         "download_sec": 26.0,
         "upload_sec": 28.9
       }
+    },
+    {
+      "cr_film_id": 33131,
+      "cr_slug": "manzelska-klec",
+      "title": "Manželská klec",
+      "year": 2008,
+      "display_name": "Manželská klec (2008) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aa1e88b248b1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25210017,
+      "size_bytes": 351778131,
+      "uploaded_at": "2026-05-25T19:47:29Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 62.8,
+        "upload_sec": 22.3
+      }
     }
   ],
   "failed_attempts": [
@@ -157451,5 +157470,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T19:45:58Z"
+  "last_updated": "2026-05-25T19:47:29Z"
 }
