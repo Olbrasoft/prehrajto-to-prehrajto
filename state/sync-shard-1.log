@@ -57388,3 +57388,14 @@
 [16:45:12]   upload done video_id=25205381 in 30.0s
 [16:45:14] film cr_film_id=32747 OK in 59.2s
 [16:45:14] batch-end ok=20 failed=0 dur=1435.3s avg/film=71.8s remaining=9552 eta_hours=190.5
+
+===== run 2026-05-25T16:45:37Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26410846346) =====
+[16:45:38] batch-start shard=1/2 count=20 backlog=17650 uploads=8098 failed_attempts=280
+[16:45:38] login
+[16:45:40] login done
+[16:45:40] iteration 1/20
+[16:45:40] film cr_film_id=32755 name='Pršelo jim štěstí (1964) CZ Dabing' candidates=1
+[16:45:40]   candidate upload_id=609ef50c115ad url=https://prehraj.to/prselo-jim-stesti-1963-czdab/609ef50c115ad
+[16:45:41]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/23517108/352iJxFqXC0EfgoF0AhlQFKNs20CPZfl2hoY…)
+[16:46:46]   downloaded 1,266.1 MB in 62.4s (20.3 MB/s)
+[16:48:02]   upload done video_id=25205439 in 75.9s
