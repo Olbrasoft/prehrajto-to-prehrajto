@@ -58118,3 +58118,14 @@
 [20:31:42]   upload done video_id=25211031 in 34.8s
 [20:31:45] film cr_film_id=33209 OK in 463.4s
 [20:31:45] batch-end ok=20 failed=0 dur=2804.8s avg/film=140.2s remaining=9452 eta_hours=368.1
+
+===== run 2026-05-25T20:31:57Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26417120478) =====
+[20:31:58] batch-start shard=1/2 count=20 backlog=17650 uploads=8198 failed_attempts=280
+[20:31:58] login
+[20:32:00] login done
+[20:32:00] iteration 1/20
+[20:32:00] film cr_film_id=33211 name='Blue Demon (2004) CZ' candidates=1
+[20:32:00]   candidate upload_id=5aba1e96b9d6c url=https://prehraj.to/modry-demon-2004/5aba1e96b9d6c
+[20:32:01]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3748447/e92cGOF6Dtlrsrzh7gImYFODtdKH2pi3Yia9t…)
+[20:32:21]   downloaded 559.7 MB in 18.7s (29.9 MB/s)
+[20:33:03]   upload done video_id=25211059 in 41.6s

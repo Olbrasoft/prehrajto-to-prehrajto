@@ -155765,6 +155765,25 @@
         "download_sec": 422.4,
         "upload_sec": 34.8
       }
+    },
+    {
+      "cr_film_id": 33211,
+      "cr_slug": "blue-demon",
+      "title": "Blue Demon",
+      "year": 2004,
+      "display_name": "Blue Demon (2004) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aba1e96b9d6c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25211059,
+      "size_bytes": 559741262,
+      "uploaded_at": "2026-05-25T20:33:03Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.7,
+        "upload_sec": 41.6
+      }
     }
   ],
   "failed_attempts": [
@@ -157812,5 +157831,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T20:31:42Z"
+  "last_updated": "2026-05-25T20:33:03Z"
 }
