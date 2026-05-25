@@ -157456,6 +157456,25 @@
         "download_sec": 16.6,
         "upload_sec": 24.0
       }
+    },
+    {
+      "cr_film_id": 33735,
+      "cr_slug": "mali-kovbojove",
+      "title": "Malí kovbojové",
+      "year": 1972,
+      "display_name": "Malí kovbojové (1972) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "609ad1f95c6d6",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25213959,
+      "size_bytes": 698798033,
+      "uploaded_at": "2026-05-25T23:18:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.3,
+        "upload_sec": 27.1
+      }
     }
   ],
   "failed_attempts": [
@@ -159510,5 +159529,5 @@
       "failed_at": "2026-05-25T22:48:37Z"
     }
   ],
-  "last_updated": "2026-05-25T23:17:25Z"
+  "last_updated": "2026-05-25T23:18:18Z"
 }
