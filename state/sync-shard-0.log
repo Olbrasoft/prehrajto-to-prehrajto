@@ -54529,3 +54529,14 @@
 [05:57:42]   upload done video_id=25183871 in 38.7s
 [05:57:44] film cr_film_id=30330 OK in 74.4s
 [05:57:44] batch-end ok=20 failed=0 dur=1702.6s avg/film=85.1s remaining=9900 eta_hours=234.0
+
+===== run 2026-05-25T05:58:17Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26385813026) =====
+[05:58:18] batch-start shard=0/2 count=20 backlog=17650 uploads=7750 failed_attempts=755
+[05:58:18] login
+[05:58:20] login done
+[05:58:20] iteration 1/20
+[05:58:20] film cr_film_id=30332 name='Barbie a růžové balerínky (2013) CZ Dabing' candidates=1
+[05:58:20]   candidate upload_id=fb433806853d54cf url=https://prehraj.to/barbie-a-ruzove-balerinky-2013-en-cz-dabing/fb433806853d54cf
+[05:58:21]   resolved in 1.1s → 480p (https://pf-storage6.premiumcdn.net/169660747/mo7tYlFxWijAs1RHGeuweFNoH6Mh5NuxEHa…)
+[05:58:41]   downloaded 445.8 MB in 18.6s (24.0 MB/s)
+[05:59:07]   upload done video_id=25183879 in 25.9s
