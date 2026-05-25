@@ -157722,6 +157722,25 @@
         "download_sec": 17.8,
         "upload_sec": 22.2
       }
+    },
+    {
+      "cr_film_id": 33813,
+      "cr_slug": "let-there-be-light",
+      "title": "Let There Be Light",
+      "year": 2017,
+      "display_name": "Let There Be Light (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60f6e128282b9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25214405,
+      "size_bytes": 840596863,
+      "uploaded_at": "2026-05-25T23:40:37Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 26.6,
+        "upload_sec": 33.5
+      }
     }
   ],
   "failed_attempts": [
@@ -159776,5 +159795,5 @@
       "failed_at": "2026-05-25T22:48:37Z"
     }
   ],
-  "last_updated": "2026-05-25T23:39:33Z"
+  "last_updated": "2026-05-25T23:40:37Z"
 }
