@@ -144099,6 +144099,25 @@
         "download_sec": 20.3,
         "upload_sec": 25.4
       }
+    },
+    {
+      "cr_film_id": 30051,
+      "cr_slug": "rozmarny-duch-1945",
+      "title": "Rozmarný duch",
+      "year": 1945,
+      "display_name": "Rozmarný duch (1945) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "951675f64bf1f2f7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25180682,
+      "size_bytes": 467255026,
+      "uploaded_at": "2026-05-25T00:49:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 23.8,
+        "upload_sec": 27.0
+      }
     }
   ],
   "failed_attempts": [
@@ -146048,5 +146067,5 @@
       "failed_at": "2026-05-24T23:43:21Z"
     }
   ],
-  "last_updated": "2026-05-25T00:48:58Z"
+  "last_updated": "2026-05-25T00:49:54Z"
 }
