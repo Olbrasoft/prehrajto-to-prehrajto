@@ -152611,6 +152611,25 @@
         "download_sec": 26.3,
         "upload_sec": 33.6
       }
+    },
+    {
+      "cr_film_id": 32447,
+      "cr_slug": "experiment-eva",
+      "title": "Experiment Eva",
+      "year": 1986,
+      "display_name": "Experiment Eva (1986) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58289c2686640",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25202433,
+      "size_bytes": 677440146,
+      "uploaded_at": "2026-05-25T14:54:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 31.7,
+        "upload_sec": 33.8
+      }
     }
   ],
   "failed_attempts": [
@@ -154658,5 +154677,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T14:53:42Z"
+  "last_updated": "2026-05-25T14:54:53Z"
 }
