@@ -153407,6 +153407,25 @@
         "download_sec": 66.1,
         "upload_sec": 83.4
       }
+    },
+    {
+      "cr_film_id": 32184,
+      "cr_slug": "jarek",
+      "title": "Jarek",
+      "year": 2025,
+      "display_name": "Jarek (2025) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "7b9f89da7ad7c81b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25204439,
+      "size_bytes": 3157069763,
+      "uploaded_at": "2026-05-25T16:09:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 87.0,
+        "upload_sec": 134.6
+      }
     }
   ],
   "failed_attempts": [
@@ -158847,5 +158866,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T16:05:47Z"
+  "last_updated": "2026-05-25T16:09:34Z"
 }
