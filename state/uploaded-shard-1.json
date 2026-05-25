@@ -150597,6 +150597,25 @@
         "download_sec": 38.9,
         "upload_sec": 50.4
       }
+    },
+    {
+      "cr_film_id": 32005,
+      "cr_slug": "kontrakt",
+      "title": "Kontrakt",
+      "year": 2006,
+      "display_name": "Kontrakt (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59d7cf7fe70df",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25198180,
+      "size_bytes": 591776522,
+      "uploaded_at": "2026-05-25T12:13:41Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 26.5,
+        "upload_sec": 28.7
+      }
     }
   ],
   "failed_attempts": [
@@ -152644,5 +152663,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T12:12:40Z"
+  "last_updated": "2026-05-25T12:13:41Z"
 }
