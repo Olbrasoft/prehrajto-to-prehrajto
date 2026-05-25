@@ -56561,3 +56561,14 @@
 [14:38:31]   upload done video_id=25201913 in 23.4s
 [14:38:33] film cr_film_id=32008 OK in 48.4s
 [14:38:33] batch-end ok=20 failed=0 dur=1054.2s avg/film=52.7s remaining=9628 eta_hours=140.9
+
+===== run 2026-05-25T14:39:23Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26405967638) =====
+[14:39:24] batch-start shard=0/2 count=20 backlog=17650 uploads=8022 failed_attempts=765
+[14:39:24] login
+[14:39:26] login done
+[14:39:26] iteration 1/20
+[14:39:26] film cr_film_id=32010 name='Císařův slavík (1949) CZ Dabing' candidates=3
+[14:39:26]   candidate upload_id=5a480d6ecb602 url=https://prehraj.to/cisaruv-slavik-cz-dabing-1948/5a480d6ecb602
+[14:39:32]   resolved in 6.2s → 480p (https://pf-storage2.premiumcdn.net/3200958/KZEIyNHD0u91Sn6Ux6iQeHO6SK7cW9Fp5TjPf…)
+[14:40:15]   downloaded 684.3 MB in 32.7s (20.9 MB/s)
+[14:40:52]   upload done video_id=25201972 in 36.7s
