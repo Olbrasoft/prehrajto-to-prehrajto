@@ -150844,6 +150844,25 @@
         "download_sec": 26.2,
         "upload_sec": 32.7
       }
+    },
+    {
+      "cr_film_id": 32045,
+      "cr_slug": "zlata-slepice",
+      "title": "Zlatá slepice",
+      "year": 1981,
+      "display_name": "Zlatá slepice (1981) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5840b2be4938f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25198673,
+      "size_bytes": 345740219,
+      "uploaded_at": "2026-05-25T12:33:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.1,
+        "upload_sec": 24.5
+      }
     }
   ],
   "failed_attempts": [
@@ -152891,5 +152910,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T12:32:51Z"
+  "last_updated": "2026-05-25T12:33:40Z"
 }
