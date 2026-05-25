@@ -55251,3 +55251,14 @@
 [09:28:52]   upload done video_id=25190304 in 34.3s
 [09:28:54] film cr_film_id=31280 OK in 67.2s
 [09:28:54] batch-end ok=20 failed=0 dur=2399.1s avg/film=120.0s remaining=9804 eta_hours=326.8
+
+===== run 2026-05-25T09:30:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26393590230) =====
+[09:30:45] batch-start shard=0/2 count=20 backlog=17650 uploads=7846 failed_attempts=759
+[09:30:45] login
+[09:30:47] login done
+[09:30:47] iteration 1/20
+[09:30:47] film cr_film_id=31286 name='Jak Honza ke štěstí přišel (1967) CZ Dabing' candidates=1
+[09:30:47]   candidate upload_id=0f7f6619f692b923 url=https://prehraj.to/jak-honza-ke-stesti-prisel-1967-cz-dabing-mp4/0f7f6619f692b923
+[09:30:49]   resolved in 2.1s → 1080p (https://pf-storage6.premiumcdn.net/169582963/n4QSYVcjzT7qTyAfb5TXKcQvt8kUy1FE7ie…)
+[09:31:56]   downloaded 2,080.9 MB in 66.1s (31.5 MB/s)
+[09:33:22]   upload done video_id=25190472 in 86.1s
