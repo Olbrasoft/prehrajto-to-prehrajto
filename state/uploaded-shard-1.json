@@ -145809,6 +145809,25 @@
         "download_sec": 179.1,
         "upload_sec": 204.0
       }
+    },
+    {
+      "cr_film_id": 30321,
+      "cr_slug": "strazce-lvu",
+      "title": "Strážce lvů",
+      "year": 1999,
+      "display_name": "Strážce lvů (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "dddf9893196e1aa5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25182270,
+      "size_bytes": 1112932013,
+      "uploaded_at": "2026-05-25T03:22:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 56.3,
+        "upload_sec": 64.9
+      }
     }
   ],
   "failed_attempts": [
@@ -147772,5 +147791,5 @@
       "failed_at": "2026-05-25T02:42:46Z"
     }
   ],
-  "last_updated": "2026-05-25T03:20:28Z"
+  "last_updated": "2026-05-25T03:22:36Z"
 }
