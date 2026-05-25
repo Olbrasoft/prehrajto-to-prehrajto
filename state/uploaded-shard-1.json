@@ -155442,6 +155442,25 @@
         "download_sec": 50.0,
         "upload_sec": 58.2
       }
+    },
+    {
+      "cr_film_id": 33141,
+      "cr_slug": "bakhita",
+      "title": "Bakhita",
+      "year": 2009,
+      "display_name": "Bakhita (2009) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aa4dc6242984",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25210111,
+      "size_bytes": 526209428,
+      "uploaded_at": "2026-05-25T19:52:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 124.2,
+        "upload_sec": 33.4
+      }
     }
   ],
   "failed_attempts": [
@@ -157489,5 +157508,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T19:49:23Z"
+  "last_updated": "2026-05-25T19:52:07Z"
 }
