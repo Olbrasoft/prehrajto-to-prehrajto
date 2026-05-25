@@ -151832,6 +151832,25 @@
         "download_sec": 23.5,
         "upload_sec": 30.7
       }
+    },
+    {
+      "cr_film_id": 32289,
+      "cr_slug": "pro-vetsi-slavu",
+      "title": "Pro větší slávu",
+      "year": 2012,
+      "display_name": "Pro větší slávu (2012) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55be209b717a0",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25201186,
+      "size_bytes": 707072907,
+      "uploaded_at": "2026-05-25T14:10:53Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 28.0,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -153879,5 +153898,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T14:09:51Z"
+  "last_updated": "2026-05-25T14:10:53Z"
 }
