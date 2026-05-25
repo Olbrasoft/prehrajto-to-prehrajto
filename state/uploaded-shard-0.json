@@ -151792,6 +151792,25 @@
         "download_sec": 24.7,
         "upload_sec": 26.4
       }
+    },
+    {
+      "cr_film_id": 31900,
+      "cr_slug": "go-goa-gone",
+      "title": "Go Goa Gone",
+      "year": 2013,
+      "display_name": "Go Goa Gone (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58e13dacc2f7a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25200415,
+      "size_bytes": 723510679,
+      "uploaded_at": "2026-05-25T13:45:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 37.1,
+        "upload_sec": 41.0
+      }
     }
   ],
   "failed_attempts": [
@@ -157232,5 +157251,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T13:43:47Z"
+  "last_updated": "2026-05-25T13:45:10Z"
 }
