@@ -147384,6 +147384,25 @@
         "download_sec": 18.9,
         "upload_sec": 26.0
       }
+    },
+    {
+      "cr_film_id": 30360,
+      "cr_slug": "bod-zvratu-1981",
+      "title": "Bod zvratu",
+      "year": 1981,
+      "display_name": "Bod zvratu (1981) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5605fba176ab9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25183945,
+      "size_bytes": 488443718,
+      "uploaded_at": "2026-05-25T06:08:17Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 22.3,
+        "upload_sec": 24.1
+      }
     }
   ],
   "failed_attempts": [
@@ -152754,5 +152773,5 @@
       "failed_at": "2026-05-25T05:30:52Z"
     }
   ],
-  "last_updated": "2026-05-25T06:07:26Z"
+  "last_updated": "2026-05-25T06:08:17Z"
 }
