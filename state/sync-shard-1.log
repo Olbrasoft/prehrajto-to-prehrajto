@@ -55926,3 +55926,14 @@
 [11:20:51]   upload done video_id=25194563 in 41.5s
 [11:20:53] film cr_film_id=31899 OK in 82.3s
 [11:20:53] batch-end ok=20 failed=0 dur=2402.6s avg/film=120.1s remaining=9752 eta_hours=325.3
+
+===== run 2026-05-25T11:21:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26397878795) =====
+[11:21:50] batch-start shard=1/2 count=20 backlog=17650 uploads=7898 failed_attempts=279
+[11:21:50] login
+[11:21:51] login done
+[11:21:51] iteration 1/20
+[11:21:51] film cr_film_id=31905 name='Nukleární cíl (2006) CZ Dabing' candidates=2
+[11:21:51]   candidate upload_id=55decc8ac6b33 url=https://prehraj.to/nuklearni-cil-2005-czdab/55decc8ac6b33
+[11:21:53]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/240334/VDVIQ5so9cYQfqOCJPh1ksWjilJcERhROhX0iN…)
+[11:22:20]   downloaded 511.6 MB in 25.1s (20.4 MB/s)
+[11:22:51]   upload done video_id=25194875 in 30.9s
