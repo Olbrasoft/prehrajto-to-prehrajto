@@ -151680,6 +151680,25 @@
         "download_sec": 14.9,
         "upload_sec": 22.2
       }
+    },
+    {
+      "cr_film_id": 32237,
+      "cr_slug": "general-elias",
+      "title": "Generál Eliáš",
+      "year": 1994,
+      "display_name": "Generál Eliáš (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55b4761d30274",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25200985,
+      "size_bytes": 413319979,
+      "uploaded_at": "2026-05-25T14:03:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.7,
+        "upload_sec": 24.7
+      }
     }
   ],
   "failed_attempts": [
@@ -153727,5 +153746,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T14:02:23Z"
+  "last_updated": "2026-05-25T14:03:10Z"
 }
