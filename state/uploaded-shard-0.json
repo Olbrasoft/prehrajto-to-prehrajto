@@ -145769,6 +145769,25 @@
         "download_sec": 101.5,
         "upload_sec": 124.4
       }
+    },
+    {
+      "cr_film_id": 30120,
+      "cr_slug": "dobra-carodejka",
+      "title": "Dobrá čarodějka",
+      "year": 2008,
+      "display_name": "Dobrá čarodějka (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "402e3986fca85c2a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25182041,
+      "size_bytes": 564736744,
+      "uploaded_at": "2026-05-25T02:56:16Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 24.7,
+        "upload_sec": 31.2
+      }
     }
   ],
   "failed_attempts": [
@@ -151118,5 +151137,5 @@
       "failed_at": "2026-05-25T02:48:58Z"
     }
   ],
-  "last_updated": "2026-05-25T02:53:21Z"
+  "last_updated": "2026-05-25T02:56:16Z"
 }

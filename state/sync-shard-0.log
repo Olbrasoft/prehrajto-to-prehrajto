@@ -53947,3 +53947,14 @@
 [02:53:21]   upload done video_id=25181999 in 124.4s
 [02:53:24] film cr_film_id=30118 OK in 230.7s
 [02:53:24] batch-end ok=19 failed=1 dur=1717.7s avg/film=90.4s remaining=9978 eta_hours=250.6
+
+===== run 2026-05-25T02:55:13Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26380752402) =====
+[02:55:14] batch-start shard=0/2 count=20 backlog=17650 uploads=7672 failed_attempts=752
+[02:55:14] login
+[02:55:17] login done
+[02:55:17] iteration 1/20
+[02:55:17] film cr_film_id=30120 name='Dobrá čarodějka (2008) CZ Dabing' candidates=1
+[02:55:17]   candidate upload_id=402e3986fca85c2a url=https://prehraj.to/dobra-carodejka-2008-cz-dabing/402e3986fca85c2a
+[02:55:18]   resolved in 1.2s → 480p (https://pf-storage6.premiumcdn.net/169560388/YD5iOnTEeuXjHlpuLOf1gT4nIWltl8Cb7Fd…)
+[02:55:44]   downloaded 564.7 MB in 24.7s (22.9 MB/s)
+[02:56:16]   upload done video_id=25182041 in 31.2s
