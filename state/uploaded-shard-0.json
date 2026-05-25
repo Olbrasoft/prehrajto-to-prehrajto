@@ -144458,6 +144458,25 @@
         "download_sec": 56.4,
         "upload_sec": 67.9
       }
+    },
+    {
+      "cr_film_id": 29932,
+      "cr_slug": "smrt-panen",
+      "title": "Smrt panen",
+      "year": 1999,
+      "display_name": "Smrt panen (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "1794f881dd58e511",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25180828,
+      "size_bytes": 458224569,
+      "uploaded_at": "2026-05-25T01:03:35Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.0,
+        "upload_sec": 22.8
+      }
     }
   ],
   "failed_attempts": [
@@ -149793,5 +149812,5 @@
       "failed_at": "2026-05-25T00:59:59Z"
     }
   ],
-  "last_updated": "2026-05-25T01:02:54Z"
+  "last_updated": "2026-05-25T01:03:35Z"
 }
