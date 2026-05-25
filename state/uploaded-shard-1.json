@@ -151794,6 +151794,25 @@
         "download_sec": 34.4,
         "upload_sec": 50.9
       }
+    },
+    {
+      "cr_film_id": 32285,
+      "cr_slug": "zakleta-nevesta",
+      "title": "Zakletá nevěsta",
+      "year": 1940,
+      "display_name": "Zakletá nevěsta (1940) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55bd8f4e8e834",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25201132,
+      "size_bytes": 584481872,
+      "uploaded_at": "2026-05-25T14:08:53Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 23.8,
+        "upload_sec": 34.6
+      }
     }
   ],
   "failed_attempts": [
@@ -153841,5 +153860,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T14:07:50Z"
+  "last_updated": "2026-05-25T14:08:53Z"
 }
