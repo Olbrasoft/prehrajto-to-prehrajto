@@ -156031,6 +156031,25 @@
         "download_sec": 19.2,
         "upload_sec": 23.9
       }
+    },
+    {
+      "cr_film_id": 33255,
+      "cr_slug": "stav-ztroskotani",
+      "title": "Stav ztroskotání",
+      "year": 1984,
+      "display_name": "Stav ztroskotání (1984) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ac2f2f9bd401",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25211643,
+      "size_bytes": 843612845,
+      "uploaded_at": "2026-05-25T21:02:41Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.9,
+        "upload_sec": 30.8
+      }
     }
   ],
   "failed_attempts": [
@@ -158078,5 +158097,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T21:01:40Z"
+  "last_updated": "2026-05-25T21:02:41Z"
 }
