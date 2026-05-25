@@ -150768,6 +150768,25 @@
         "download_sec": 65.2,
         "upload_sec": 70.0
       }
+    },
+    {
+      "cr_film_id": 32027,
+      "cr_slug": "barva-pleti",
+      "title": "Barva pleti",
+      "year": 2009,
+      "display_name": "Barva pleti (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5820fb7ea6ef2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25198509,
+      "size_bytes": 878275020,
+      "uploaded_at": "2026-05-25T12:27:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 38.0,
+        "upload_sec": 46.3
+      }
     }
   ],
   "failed_attempts": [
@@ -152815,5 +152834,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T12:25:35Z"
+  "last_updated": "2026-05-25T12:27:05Z"
 }
