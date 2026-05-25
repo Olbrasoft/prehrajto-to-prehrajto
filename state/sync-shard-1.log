@@ -56658,3 +56658,14 @@
 [14:19:31]   upload done video_id=25201405 in 34.4s
 [14:19:33] film cr_film_id=32313 OK in 64.2s
 [14:19:33] batch-end ok=20 failed=0 dur=1319.5s avg/film=66.0s remaining=9652 eta_hours=177.0
+
+===== run 2026-05-25T14:20:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26405188091) =====
+[14:20:59] batch-start shard=1/2 count=20 backlog=17650 uploads=7998 failed_attempts=280
+[14:20:59] login
+[14:21:01] login done
+[14:21:01] iteration 1/20
+[14:21:01] film cr_film_id=32315 name='Únos Šogunova následníka (1989) CZ' candidates=1
+[14:21:01]   candidate upload_id=55f97b911b32e url=https://prehraj.to/sogunuv-naslednik-1989/55f97b911b32e
+[14:21:02]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/314770/g81He5f8pSJEtbntvqs7xfgrsjNFKmSgYSNosW…)
+[14:21:23]   downloaded 536.2 MB in 19.3s (27.8 MB/s)
+[14:21:57]   upload done video_id=25201473 in 34.0s
