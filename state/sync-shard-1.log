@@ -55342,3 +55342,14 @@
 [08:42:58]   upload done video_id=25188273 in 120.8s
 [08:43:00] film cr_film_id=31585 OK in 219.3s
 [08:43:00] batch-end ok=17 failed=3 dur=1851.1s avg/film=108.9s remaining=9832 eta_hours=297.4
+
+===== run 2026-05-25T08:43:15Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26390601592) =====
+[08:43:16] batch-start shard=1/2 count=20 backlog=17650 uploads=7818 failed_attempts=279
+[08:43:16] login
+[08:43:17] login done
+[08:43:17] iteration 1/20
+[08:43:17] film cr_film_id=31635 name='Holka na krátkou trať (1985) CZ Dabing' candidates=1
+[08:43:17]   candidate upload_id=606a0b799ff47 url=https://prehraj.to/holka-na-kratkou-trat-1984-czdab/606a0b799ff47
+[08:43:19]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/22963839/RVKuyAfJlhlac3XI6zcGrf5Xig6uMLUwrUGY…)
+[08:44:06]   downloaded 1,064.3 MB in 45.2s (23.5 MB/s)
+[08:45:02]   upload done video_id=25188413 in 56.2s
