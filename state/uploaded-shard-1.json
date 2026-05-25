@@ -148013,6 +148013,25 @@
         "download_sec": 17.8,
         "upload_sec": 25.5
       }
+    },
+    {
+      "cr_film_id": 31335,
+      "cr_slug": "cerni-cesi",
+      "title": "Černí Češi",
+      "year": 2022,
+      "display_name": "Černí Češi (2022) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "ad8cff151d0e1f36",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25185263,
+      "size_bytes": 1694914165,
+      "uploaded_at": "2026-05-25T07:44:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 60.4,
+        "upload_sec": 80.1
+      }
     }
   ],
   "failed_attempts": [
@@ -150018,5 +150037,5 @@
       "failed_at": "2026-05-25T07:07:53Z"
     }
   ],
-  "last_updated": "2026-05-25T07:41:35Z"
+  "last_updated": "2026-05-25T07:44:00Z"
 }
