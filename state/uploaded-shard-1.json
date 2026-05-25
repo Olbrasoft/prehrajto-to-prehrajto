@@ -150103,6 +150103,25 @@
         "download_sec": 26.2,
         "upload_sec": 31.9
       }
+    },
+    {
+      "cr_film_id": 31909,
+      "cr_slug": "waynuv-svet",
+      "title": "Waynův svět",
+      "year": 1992,
+      "display_name": "Waynův svět (1992) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56f4311dc269b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25195205,
+      "size_bytes": 713804553,
+      "uploaded_at": "2026-05-25T11:25:21Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 35.2,
+        "upload_sec": 38.5
+      }
     }
   ],
   "failed_attempts": [
@@ -152141,7 +152160,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jidelni-vuz-divadelni-zaznam-2025-cz-mp4/6e0f70ebbd3a675b",
       "permanent": true,
       "failed_at": "2026-05-25T08:32:08Z"
+    },
+    {
+      "cr_film_id": 31909,
+      "upload_id": "68dc676d212ec",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/waynuv-svet-1992-cz-dab-1080p/68dc676d212ec",
+      "permanent": true,
+      "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T11:23:57Z"
+  "last_updated": "2026-05-25T11:25:21Z"
 }
