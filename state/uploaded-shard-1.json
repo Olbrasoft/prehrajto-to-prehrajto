@@ -148450,6 +148450,25 @@
         "download_sec": 81.2,
         "upload_sec": 107.0
       }
+    },
+    {
+      "cr_film_id": 31559,
+      "cr_slug": "the-boy-who-loved-trolls",
+      "title": "The Boy Who Loved Trolls",
+      "year": 1984,
+      "display_name": "The Boy Who Loved Trolls (1984) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60bb5ecc0ad3e963",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25187921,
+      "size_bytes": 732917932,
+      "uploaded_at": "2026-05-25T08:33:05Z",
+      "timing": {
+        "resolve_sec": 5.6,
+        "download_sec": 23.9,
+        "upload_sec": 26.5
+      }
     }
   ],
   "failed_attempts": [
@@ -150481,7 +150500,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bratri-menendezovi-2024-cz-dabing-mp4/e1a1a1eb4ac70607",
       "permanent": true,
       "failed_at": "2026-05-25T08:20:45Z"
+    },
+    {
+      "cr_film_id": 31545,
+      "upload_id": "6e0f70ebbd3a675b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jidelni-vuz-divadelni-zaznam-2025-cz-mp4/6e0f70ebbd3a675b",
+      "permanent": true,
+      "failed_at": "2026-05-25T08:32:08Z"
     }
   ],
-  "last_updated": "2026-05-25T08:32:05Z"
+  "last_updated": "2026-05-25T08:33:05Z"
 }

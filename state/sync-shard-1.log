@@ -55300,3 +55300,15 @@
 [08:28:56]   resolved in 1.0s → 1080p (https://pf-storage6.premiumcdn.net/169474876/d0zSxkfe6SMDiV8ckXFkJfyxCzZSApUP4im…)
 [08:30:18]   downloaded 2,620.8 MB in 81.2s (32.3 MB/s)
 [08:32:05]   upload done video_id=25187809 in 107.0s
+[08:32:08] film cr_film_id=31543 OK in 192.3s
+[08:32:08] iteration 15/20
+[08:32:08] film cr_film_id=31545 name='Jídelní vůz (divadelní záznam) (2025) CZ' candidates=1
+[08:32:08]   candidate upload_id=6e0f70ebbd3a675b url=https://prehraj.to/jidelni-vuz-divadelni-zaznam-2025-cz-mp4/6e0f70ebbd3a675b
+[08:32:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jidelni-vuz-divadelni-zaznam-2025-cz-mp4/6e0f70ebbd3a675b (permanent=True)
+[08:32:08] film cr_film_id=31545 all candidates exhausted
+[08:32:08] iteration 16/20
+[08:32:08] film cr_film_id=31559 name='The Boy Who Loved Trolls (1984) CZ Dabing' candidates=1
+[08:32:08]   candidate upload_id=60bb5ecc0ad3e963 url=https://prehraj.to/the-boy-who-loved-trolls-1984-cz-mp4/60bb5ecc0ad3e963
+[08:32:14]   resolved in 5.6s → 480p (https://pf-storage6.premiumcdn.net/170610665/NWaFBacm3u1vFlgfbnuz9cpkuOMikySbptM…)
+[08:32:39]   downloaded 732.9 MB in 23.9s (30.7 MB/s)
+[08:33:05]   upload done video_id=25187921 in 26.5s
