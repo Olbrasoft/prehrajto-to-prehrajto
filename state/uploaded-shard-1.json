@@ -145030,6 +145030,25 @@
         "download_sec": 18.9,
         "upload_sec": 27.0
       }
+    },
+    {
+      "cr_film_id": 30193,
+      "cr_slug": "larva",
+      "title": "Larva",
+      "year": 2005,
+      "display_name": "Larva (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66cc09a473c22",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25181406,
+      "size_bytes": 396086259,
+      "uploaded_at": "2026-05-25T02:03:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.8,
+        "upload_sec": 17.3
+      }
     }
   ],
   "failed_attempts": [
@@ -146986,5 +147005,5 @@
       "failed_at": "2026-05-25T01:07:26Z"
     }
   ],
-  "last_updated": "2026-05-25T02:02:37Z"
+  "last_updated": "2026-05-25T02:03:12Z"
 }
