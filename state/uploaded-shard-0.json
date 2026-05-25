@@ -154680,6 +154680,25 @@
         "download_sec": 31.4,
         "upload_sec": 26.2
       }
+    },
+    {
+      "cr_film_id": 32456,
+      "cr_slug": "yellowbeard",
+      "title": "Yellowbeard",
+      "year": 1983,
+      "display_name": "Yellowbeard (1983) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5828ba84d7ea3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25206864,
+      "size_bytes": 574643535,
+      "uploaded_at": "2026-05-25T17:41:36Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 65.9,
+        "upload_sec": 24.3
+      }
     }
   ],
   "failed_attempts": [
@@ -160120,5 +160139,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T17:40:02Z"
+  "last_updated": "2026-05-25T17:41:36Z"
 }
