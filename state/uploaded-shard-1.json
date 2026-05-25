@@ -157570,6 +157570,25 @@
         "download_sec": 59.2,
         "upload_sec": 74.7
       }
+    },
+    {
+      "cr_film_id": 33781,
+      "cr_slug": "stika-v-rybnice",
+      "title": "Štika v rybníce",
+      "year": 1952,
+      "display_name": "Štika v rybníce (1952) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60b3233785cf1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25214067,
+      "size_bytes": 23482544,
+      "uploaded_at": "2026-05-25T23:24:09Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 2.7,
+        "upload_sec": 3.2
+      }
     }
   ],
   "failed_attempts": [
@@ -159624,5 +159643,5 @@
       "failed_at": "2026-05-25T22:48:37Z"
     }
   ],
-  "last_updated": "2026-05-25T23:23:59Z"
+  "last_updated": "2026-05-25T23:24:09Z"
 }
