@@ -150291,6 +150291,25 @@
         "download_sec": 26.8,
         "upload_sec": 31.5
       }
+    },
+    {
+      "cr_film_id": 31664,
+      "cr_slug": "florian",
+      "title": "Florián",
+      "year": 1961,
+      "display_name": "Florián (1961) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "cfc0377f55bf40db",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25196838,
+      "size_bytes": 637790563,
+      "uploaded_at": "2026-05-25T11:38:20Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.9,
+        "upload_sec": 36.0
+      }
     }
   ],
   "failed_attempts": [
@@ -155724,5 +155743,5 @@
       "failed_at": "2026-05-25T10:37:35Z"
     }
   ],
-  "last_updated": "2026-05-25T11:37:08Z"
+  "last_updated": "2026-05-25T11:38:20Z"
 }
