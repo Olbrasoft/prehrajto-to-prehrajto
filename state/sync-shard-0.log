@@ -53219,3 +53219,14 @@
 [00:16:19]   upload done video_id=25180384 in 39.0s
 [00:16:21] film cr_film_id=29628 OK in 80.8s
 [00:16:21] batch-end ok=20 failed=0 dur=2310.8s avg/film=115.5s remaining=10076 eta_hours=323.3
+
+===== run 2026-05-25T00:17:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26376805874) =====
+[00:17:16] batch-start shard=0/2 count=20 backlog=17650 uploads=7574 failed_attempts=749
+[00:17:16] login
+[00:17:17] login done
+[00:17:17] iteration 1/20
+[00:17:17] film cr_film_id=29640 name='Lokomotiva Tomáš - Velká dobrodružství ve velkém světě (2018) CZ' candidates=4
+[00:17:17]   candidate upload_id=5cec02aa07e47 url=https://prehraj.to/adventures-of-aladdin-dobrodruzny-2019-1080p-5-1-h264-bez-titulku-sten-ok/5cec02aa07e47
+[00:17:18]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/13657800/vvWcJnhLecMKcE3fqNS5xhegT4OiavsWlIqw…)
+[00:18:46]   downloaded 2,745.9 MB in 86.5s (31.7 MB/s)
+[00:20:41]   upload done video_id=25180417 in 114.3s
