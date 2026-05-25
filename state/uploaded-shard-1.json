@@ -155746,6 +155746,25 @@
         "download_sec": 52.9,
         "upload_sec": 65.0
       }
+    },
+    {
+      "cr_film_id": 33209,
+      "cr_slug": "linie-obrany",
+      "title": "Linie obrany",
+      "year": 1988,
+      "display_name": "Linie obrany (1988) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6886c1dd36c46",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25211031,
+      "size_bytes": 519565002,
+      "uploaded_at": "2026-05-25T20:31:42Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 422.4,
+        "upload_sec": 34.8
+      }
     }
   ],
   "failed_attempts": [
@@ -157793,5 +157812,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T20:23:59Z"
+  "last_updated": "2026-05-25T20:31:42Z"
 }
