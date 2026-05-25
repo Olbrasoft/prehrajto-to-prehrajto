@@ -155974,6 +155974,25 @@
         "download_sec": 53.2,
         "upload_sec": 60.7
       }
+    },
+    {
+      "cr_film_id": 33249,
+      "cr_slug": "me-and-orson-welles",
+      "title": "Me and Orson Welles",
+      "year": 2008,
+      "display_name": "Me and Orson Welles (2008) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ac1e451b57d3",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25211568,
+      "size_bytes": 1091815408,
+      "uploaded_at": "2026-05-25T20:58:49Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 78.9,
+        "upload_sec": 41.8
+      }
     }
   ],
   "failed_attempts": [
@@ -158021,5 +158040,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T20:56:44Z"
+  "last_updated": "2026-05-25T20:58:49Z"
 }
