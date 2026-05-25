@@ -148448,6 +148448,25 @@
         "download_sec": 200.9,
         "upload_sec": 235.5
       }
+    },
+    {
+      "cr_film_id": 30874,
+      "cr_slug": "klikar",
+      "title": "Klikař",
+      "year": 2019,
+      "display_name": "Klikař (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "22eb4598170d4936",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25187298,
+      "size_bytes": 1005881165,
+      "uploaded_at": "2026-05-25T08:20:45Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 48.5,
+        "upload_sec": 57.0
+      }
     }
   ],
   "failed_attempts": [
@@ -153846,5 +153865,5 @@
       "failed_at": "2026-05-25T07:35:20Z"
     }
   ],
-  "last_updated": "2026-05-25T08:18:52Z"
+  "last_updated": "2026-05-25T08:20:45Z"
 }
