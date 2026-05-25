@@ -145733,6 +145733,25 @@
         "download_sec": 181.7,
         "upload_sec": 229.1
       }
+    },
+    {
+      "cr_film_id": 30311,
+      "cr_slug": "hra-bez-pravidel-1994",
+      "title": "Hra bez pravidel",
+      "year": 1994,
+      "display_name": "Hra bez pravidel (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "8686f5f833bf6207",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25182144,
+      "size_bytes": 591394075,
+      "uploaded_at": "2026-05-25T03:06:56Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 32.5,
+        "upload_sec": 35.7
+      }
     }
   ],
   "failed_attempts": [
@@ -147696,5 +147715,5 @@
       "failed_at": "2026-05-25T02:42:46Z"
     }
   ],
-  "last_updated": "2026-05-25T03:05:41Z"
+  "last_updated": "2026-05-25T03:06:56Z"
 }
