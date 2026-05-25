@@ -156411,6 +156411,25 @@
         "download_sec": 92.9,
         "upload_sec": 104.3
       }
+    },
+    {
+      "cr_film_id": 33329,
+      "cr_slug": "robinsonka-1957",
+      "title": "Robinsonka",
+      "year": 1957,
+      "display_name": "Robinsonka (1957) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5b43232e8a26c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25212198,
+      "size_bytes": 810956009,
+      "uploaded_at": "2026-05-25T21:38:43Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 40.7,
+        "upload_sec": 46.3
+      }
     }
   ],
   "failed_attempts": [
@@ -158458,5 +158477,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T21:37:10Z"
+  "last_updated": "2026-05-25T21:38:43Z"
 }
