@@ -56707,3 +56707,14 @@
 [15:17:43]   upload done video_id=25203088 in 31.8s
 [15:17:45] film cr_film_id=32072 OK in 63.2s
 [15:17:45] batch-end ok=20 failed=0 dur=2299.2s avg/film=115.0s remaining=9608 eta_hours=306.9
+
+===== run 2026-05-25T15:18:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26407579088) =====
+[15:18:51] batch-start shard=0/2 count=20 backlog=17650 uploads=8042 failed_attempts=765
+[15:18:51] login
+[15:18:53] login done
+[15:18:53] iteration 1/20
+[15:18:53] film cr_film_id=32074 name='V trestném území (1951) CZ' candidates=2
+[15:18:53]   candidate upload_id=5c089f7e6a5f1 url=https://prehraj.to/v-trestnem-uzemi-1950-ceskoslovensky-film/5c089f7e6a5f1
+[15:18:54]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/9123383/WQnhbNSe5iPyu7mUNMh8LSPgCWXT4Ecvncl2H…)
+[15:19:15]   downloaded 554.5 MB in 18.9s (29.3 MB/s)
+[15:19:38]   upload done video_id=25203138 in 23.6s
