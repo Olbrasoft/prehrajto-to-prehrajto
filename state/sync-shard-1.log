@@ -57242,3 +57242,14 @@
 [16:06:18]   upload done video_id=25204398 in 34.7s
 [16:06:21] film cr_film_id=32659 OK in 60.1s
 [16:06:21] batch-end ok=20 failed=0 dur=1113.0s avg/film=55.6s remaining=9572 eta_hours=147.8
+
+===== run 2026-05-25T16:21:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26409971849) =====
+[16:21:17] batch-start shard=1/2 count=20 backlog=17650 uploads=8078 failed_attempts=280
+[16:21:17] login
+[16:21:18] login done
+[16:21:18] iteration 1/20
+[16:21:19] film cr_film_id=32661 name='Les filles du botaniste (2006) CZ' candidates=1
+[16:21:19]   candidate upload_id=58671b2e53e7e url=https://prehraj.to/les-filles-du-botaniste-zakazana-laska-2006-sk-tit/58671b2e53e7e
+[16:21:20]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1259742/78khQ3fJqFErcmxiWDul8fdztVWTE0i54tdyC…)
+[16:21:41]   downloaded 373.0 MB in 19.1s (19.5 MB/s)
+[16:22:02]   upload done video_id=25204799 in 20.8s
