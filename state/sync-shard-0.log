@@ -54237,3 +54237,14 @@
 [04:41:09]   upload done video_id=25183102 in 22.3s
 [04:41:11] film cr_film_id=30214 OK in 47.6s
 [04:41:11] batch-end ok=20 failed=0 dur=2748.9s avg/film=137.4s remaining=9939 eta_hours=379.3
+
+===== run 2026-05-25T04:42:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26383590970) =====
+[04:42:22] batch-start shard=0/2 count=20 backlog=17650 uploads=7711 failed_attempts=753
+[04:42:22] login
+[04:42:24] login done
+[04:42:24] iteration 1/20
+[04:42:24] film cr_film_id=30216 name='Sbohem, Kalifornie (1977) CZ Dabing' candidates=1
+[04:42:24]   candidate upload_id=9dcced74bc9064c8 url=https://prehraj.to/sbohem-kalifornie-1977-cz-dabing/9dcced74bc9064c8
+[04:42:25]   resolved in 1.5s → 1080p (https://pf-storage6.premiumcdn.net/169576765/QaVsnouP6F3vu5zCLeir8uKyFM9i6Esd5Ul…)
+[04:44:05]   downloaded 2,180.5 MB in 97.8s (22.3 MB/s)
+[04:45:58]   upload done video_id=25183134 in 112.7s
