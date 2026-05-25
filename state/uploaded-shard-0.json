@@ -150139,6 +150139,25 @@
         "download_sec": 64.4,
         "upload_sec": 82.6
       }
+    },
+    {
+      "cr_film_id": 31622,
+      "cr_slug": "dum-pro-dva",
+      "title": "Dům pro dva",
+      "year": 1988,
+      "display_name": "Dům pro dva (1988) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f3ca1f8d04eb8399",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25194044,
+      "size_bytes": 1245737720,
+      "uploaded_at": "2026-05-25T11:11:41Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 40.2,
+        "upload_sec": 48.8
+      }
     }
   ],
   "failed_attempts": [
@@ -155572,5 +155591,5 @@
       "failed_at": "2026-05-25T10:37:35Z"
     }
   ],
-  "last_updated": "2026-05-25T11:10:07Z"
+  "last_updated": "2026-05-25T11:11:41Z"
 }
