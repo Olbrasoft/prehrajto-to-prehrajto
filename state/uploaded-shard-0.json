@@ -148847,6 +148847,25 @@
         "download_sec": 16.3,
         "upload_sec": 24.5
       }
+    },
+    {
+      "cr_film_id": 31164,
+      "cr_slug": "moby-doc",
+      "title": "Moby Doc",
+      "year": 2021,
+      "display_name": "Moby Doc (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6463ed02749c7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25189272,
+      "size_bytes": 2369426034,
+      "uploaded_at": "2026-05-25T09:05:56Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 73.8,
+        "upload_sec": 105.6
+      }
     }
   ],
   "failed_attempts": [
@@ -154245,5 +154264,5 @@
       "failed_at": "2026-05-25T07:35:20Z"
     }
   ],
-  "last_updated": "2026-05-25T09:02:47Z"
+  "last_updated": "2026-05-25T09:05:56Z"
 }
