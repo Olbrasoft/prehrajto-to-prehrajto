@@ -152438,6 +152438,25 @@
         "download_sec": 32.7,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 32014,
+      "cr_slug": "purple-rain",
+      "title": "Purple Rain",
+      "year": 1984,
+      "display_name": "Purple Rain (1984) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a8eddbd1c2c7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25202021,
+      "size_bytes": 1751544885,
+      "uploaded_at": "2026-05-25T14:43:44Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 78.4,
+        "upload_sec": 88.8
+      }
     }
   ],
   "failed_attempts": [
@@ -157878,5 +157897,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T14:40:52Z"
+  "last_updated": "2026-05-25T14:43:44Z"
 }
