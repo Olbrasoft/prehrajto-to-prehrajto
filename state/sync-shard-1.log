@@ -55634,3 +55634,14 @@
 [09:59:21]   upload done video_id=25191562 in 23.2s
 [09:59:23] film cr_film_id=31771 OK in 45.3s
 [09:59:23] batch-end ok=20 failed=0 dur=1715.4s avg/film=85.8s remaining=9792 eta_hours=233.4
+
+===== run 2026-05-25T10:10:20Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26395146687) =====
+[10:10:21] batch-start shard=1/2 count=20 backlog=17650 uploads=7858 failed_attempts=279
+[10:10:21] login
+[10:10:23] login done
+[10:10:23] iteration 1/20
+[10:10:23] film cr_film_id=31773 name='Operace ENTEBBE (1977) CZ Dabing' candidates=4
+[10:10:23]   candidate upload_id=5c4911c39d528 url=https://prehraj.to/operace-entebble-cz-dabing-2018/5c4911c39d528
+[10:10:24]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/11257519/kmpH9mirNS2otrxfAKtpJiX8tnKfVLUlgHZQ…)
+[10:10:45]   downloaded 461.3 MB in 19.2s (24.0 MB/s)
+[10:11:06]   upload done video_id=25192004 in 20.7s
