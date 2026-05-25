@@ -146455,6 +146455,25 @@
         "download_sec": 77.3,
         "upload_sec": 127.7
       }
+    },
+    {
+      "cr_film_id": 30429,
+      "cr_slug": "serenity-2015",
+      "title": "Serenity",
+      "year": 2015,
+      "display_name": "Serenity (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "8b00508c8c9fc32b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25183228,
+      "size_bytes": 556722392,
+      "uploaded_at": "2026-05-25T04:51:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.0,
+        "upload_sec": 24.0
+      }
     }
   ],
   "failed_attempts": [
@@ -148432,5 +148451,5 @@
       "failed_at": "2026-05-25T04:20:47Z"
     }
   ],
-  "last_updated": "2026-05-25T04:51:10Z"
+  "last_updated": "2026-05-25T04:51:58Z"
 }
