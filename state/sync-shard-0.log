@@ -54815,3 +54815,14 @@
 [07:13:59]   upload done video_id=25184450 in 20.7s
 [07:14:02] film cr_film_id=30544 OK in 45.1s
 [07:14:02] batch-end ok=18 failed=2 dur=1626.0s avg/film=90.3s remaining=9863 eta_hours=247.4
+
+===== run 2026-05-25T07:21:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26388642494) =====
+[07:21:53] batch-start shard=0/2 count=20 backlog=17650 uploads=7787 failed_attempts=758
+[07:21:53] login
+[07:21:54] login done
+[07:21:54] iteration 1/20
+[07:21:54] film cr_film_id=30560 name='Jak se Franta naučil bát (1959) CZ Dabing' candidates=5
+[07:21:54]   candidate upload_id=5a17df785b257 url=https://prehraj.to/jak-se-franta-naucil-bat-cz-dabing-1959-mp4/5a17df785b257
+[07:21:56]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/2983809/VozsVwcOptemTlEh2GsYRcEPfnvTNjFYoiMvU…)
+[07:22:19]   downloaded 439.5 MB in 21.4s (20.5 MB/s)
+[07:22:46]   upload done video_id=25184531 in 26.8s
