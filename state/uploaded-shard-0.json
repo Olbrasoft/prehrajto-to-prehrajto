@@ -152552,6 +152552,25 @@
         "download_sec": 88.1,
         "upload_sec": 97.8
       }
+    },
+    {
+      "cr_film_id": 32042,
+      "cr_slug": "kate-leopold",
+      "title": "Kate & Leopold",
+      "year": 2001,
+      "display_name": "Kate & Leopold (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bad07504eee3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25202445,
+      "size_bytes": 2896376050,
+      "uploaded_at": "2026-05-25T14:56:58Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 121.3,
+        "upload_sec": 140.5
+      }
     }
   ],
   "failed_attempts": [
@@ -157992,5 +158011,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T14:52:30Z"
+  "last_updated": "2026-05-25T14:56:58Z"
 }
