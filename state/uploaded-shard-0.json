@@ -146491,6 +146491,25 @@
         "download_sec": 22.5,
         "upload_sec": 29.2
       }
+    },
+    {
+      "cr_film_id": 30214,
+      "cr_slug": "nebezpecny-pacient",
+      "title": "Nebezpečný pacient",
+      "year": 2007,
+      "display_name": "Nebezpečný pacient (2007) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab22b1184769",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25183102,
+      "size_bytes": 351658053,
+      "uploaded_at": "2026-05-25T04:41:09Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.0,
+        "upload_sec": 22.3
+      }
     }
   ],
   "failed_attempts": [
@@ -151847,5 +151866,5 @@
       "failed_at": "2026-05-25T03:08:19Z"
     }
   ],
-  "last_updated": "2026-05-25T04:40:21Z"
+  "last_updated": "2026-05-25T04:41:09Z"
 }
