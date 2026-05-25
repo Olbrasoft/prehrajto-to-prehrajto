@@ -149854,6 +149854,25 @@
         "download_sec": 53.4,
         "upload_sec": 56.5
       }
+    },
+    {
+      "cr_film_id": 31548,
+      "cr_slug": "holcici-kapela",
+      "title": "Holčičí kapela",
+      "year": null,
+      "display_name": "Holčičí kapela CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "ead4372053df7253",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25193436,
+      "size_bytes": 292555138,
+      "uploaded_at": "2026-05-25T10:50:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 11.3,
+        "upload_sec": 12.9
+      }
     }
   ],
   "failed_attempts": [
@@ -155287,5 +155306,5 @@
       "failed_at": "2026-05-25T10:37:35Z"
     }
   ],
-  "last_updated": "2026-05-25T10:50:21Z"
+  "last_updated": "2026-05-25T10:50:50Z"
 }
