@@ -152554,6 +152554,25 @@
         "download_sec": 21.1,
         "upload_sec": 22.4
       }
+    },
+    {
+      "cr_film_id": 32431,
+      "cr_slug": "zlaty-pavouk",
+      "title": "Zlatý pavouk",
+      "year": 1957,
+      "display_name": "Zlatý pavouk (1957) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6112f64b93c3f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25202334,
+      "size_bytes": 364346128,
+      "uploaded_at": "2026-05-25T14:51:35Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.8,
+        "upload_sec": 19.5
+      }
     }
   ],
   "failed_attempts": [
@@ -154601,5 +154620,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T14:50:53Z"
+  "last_updated": "2026-05-25T14:51:35Z"
 }
