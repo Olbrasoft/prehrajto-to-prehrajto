@@ -155784,6 +155784,25 @@
         "download_sec": 18.7,
         "upload_sec": 41.6
       }
+    },
+    {
+      "cr_film_id": 33217,
+      "cr_slug": "kridla",
+      "title": "Křídla",
+      "year": 1927,
+      "display_name": "Křídla (1927) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5abaaed46a344",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25211087,
+      "size_bytes": 629888288,
+      "uploaded_at": "2026-05-25T20:34:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 43.5,
+        "upload_sec": 37.5
+      }
     }
   ],
   "failed_attempts": [
@@ -157831,5 +157850,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T20:33:03Z"
+  "last_updated": "2026-05-25T20:34:29Z"
 }
