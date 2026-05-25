@@ -149191,6 +149191,25 @@
         "download_sec": 31.5,
         "upload_sec": 42.4
       }
+    },
+    {
+      "cr_film_id": 31759,
+      "cr_slug": "pk",
+      "title": "PK",
+      "year": 2014,
+      "display_name": "PK (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "61c25803e6518",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25191327,
+      "size_bytes": 1725665083,
+      "uploaded_at": "2026-05-25T09:54:01Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 63.6,
+        "upload_sec": 74.7
+      }
     }
   ],
   "failed_attempts": [
@@ -151231,5 +151250,5 @@
       "failed_at": "2026-05-25T08:32:08Z"
     }
   ],
-  "last_updated": "2026-05-25T09:51:39Z"
+  "last_updated": "2026-05-25T09:54:01Z"
 }
