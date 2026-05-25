@@ -58700,3 +58700,14 @@
 [23:01:14]   upload done video_id=25213662 in 40.7s
 [23:01:16] film cr_film_id=33673 OK in 76.1s
 [23:01:16] batch-end ok=19 failed=1 dur=2252.6s avg/film=118.6s remaining=9373 eta_hours=308.8
+
+===== run 2026-05-25T23:01:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26423156891) =====
+[23:01:37] batch-start shard=1/2 count=20 backlog=17650 uploads=8277 failed_attempts=281
+[23:01:37] login
+[23:01:39] login done
+[23:01:39] iteration 1/20
+[23:01:39] film cr_film_id=33675 name='You Might Be the Killer (2019) CZ' candidates=1
+[23:01:39]   candidate upload_id=603a7cadc1a43 url=https://prehraj.to/treba-jsi-vrah-horor-2018-cz-titulky/603a7cadc1a43
+[23:01:40]   resolved in 1.1s → 720p (https://pf-storage3.premiumcdn.net/22466564/4dgcAmuB1f9DHWwcwysaZuE2FXKT9LCXMh1D…)
+[23:02:13]   downloaded 954.6 MB in 31.2s (30.6 MB/s)
+[23:03:05]   upload done video_id=25213690 in 52.1s
