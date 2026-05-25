@@ -157513,6 +157513,25 @@
         "download_sec": 18.7,
         "upload_sec": 25.1
       }
+    },
+    {
+      "cr_film_id": 33773,
+      "cr_slug": "the-sheepman",
+      "title": "The Sheepman",
+      "year": 1958,
+      "display_name": "The Sheepman (1958) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60ad52b0d55a0",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25214011,
+      "size_bytes": 615309772,
+      "uploaded_at": "2026-05-25T23:21:01Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.1,
+        "upload_sec": 28.1
+      }
     }
   ],
   "failed_attempts": [
@@ -159567,5 +159586,5 @@
       "failed_at": "2026-05-25T22:48:37Z"
     }
   ],
-  "last_updated": "2026-05-25T23:20:08Z"
+  "last_updated": "2026-05-25T23:21:01Z"
 }
