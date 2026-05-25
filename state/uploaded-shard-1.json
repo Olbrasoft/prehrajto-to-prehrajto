@@ -147196,6 +147196,25 @@
         "download_sec": 98.0,
         "upload_sec": 168.4
       }
+    },
+    {
+      "cr_film_id": 30853,
+      "cr_slug": "casablanca-beats",
+      "title": "Casablanca Beats",
+      "year": 2021,
+      "display_name": "Casablanca Beats (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "07eea60567058303",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25183964,
+      "size_bytes": 614817596,
+      "uploaded_at": "2026-05-25T06:11:41Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 24.5,
+        "upload_sec": 32.6
+      }
     }
   ],
   "failed_attempts": [
@@ -149180,5 +149199,5 @@
       "failed_at": "2026-05-25T05:38:44Z"
     }
   ],
-  "last_updated": "2026-05-25T06:10:38Z"
+  "last_updated": "2026-05-25T06:11:41Z"
 }
