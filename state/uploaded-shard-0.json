@@ -156637,6 +156637,25 @@
         "download_sec": 23.8,
         "upload_sec": 29.8
       }
+    },
+    {
+      "cr_film_id": 32986,
+      "cr_slug": "greenfingers",
+      "title": "Greenfingers",
+      "year": 2001,
+      "display_name": "Greenfingers (2001) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58b3bbe2acedb",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25212376,
+      "size_bytes": 689881006,
+      "uploaded_at": "2026-05-25T21:50:09Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 23.2,
+        "upload_sec": 33.9
+      }
     }
   ],
   "failed_attempts": [
@@ -162084,5 +162103,5 @@
       "failed_at": "2026-05-25T20:49:11Z"
     }
   ],
-  "last_updated": "2026-05-25T21:49:08Z"
+  "last_updated": "2026-05-25T21:50:09Z"
 }
