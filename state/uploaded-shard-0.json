@@ -153825,6 +153825,25 @@
         "download_sec": 14.1,
         "upload_sec": 19.2
       }
+    },
+    {
+      "cr_film_id": 32282,
+      "cr_slug": "prazsky-flamendr-1942",
+      "title": "Pražský flamendr",
+      "year": 1942,
+      "display_name": "Pražský flamendr (1942) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55bd20e4309aa",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25205057,
+      "size_bytes": 662670400,
+      "uploaded_at": "2026-05-25T16:32:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.5,
+        "upload_sec": 28.0
+      }
     }
   ],
   "failed_attempts": [
@@ -159265,5 +159284,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T16:31:50Z"
+  "last_updated": "2026-05-25T16:32:44Z"
 }
