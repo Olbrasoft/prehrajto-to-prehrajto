@@ -144707,6 +144707,25 @@
         "download_sec": 15.7,
         "upload_sec": 21.0
       }
+    },
+    {
+      "cr_film_id": 30143,
+      "cr_slug": "zla-pulnoc",
+      "title": "Zlá půlnoc",
+      "year": 1989,
+      "display_name": "Zlá půlnoc (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f1d562bab5a1f5ea",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25181236,
+      "size_bytes": 1625585761,
+      "uploaded_at": "2026-05-25T01:47:29Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 50.5,
+        "upload_sec": 76.4
+      }
     }
   ],
   "failed_attempts": [
@@ -146663,5 +146682,5 @@
       "failed_at": "2026-05-25T01:07:26Z"
     }
   ],
-  "last_updated": "2026-05-25T01:45:18Z"
+  "last_updated": "2026-05-25T01:47:29Z"
 }
