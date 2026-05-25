@@ -155081,6 +155081,25 @@
         "download_sec": 172.6,
         "upload_sec": 41.5
       }
+    },
+    {
+      "cr_film_id": 33055,
+      "cr_slug": "zase-doma",
+      "title": "Zase doma",
+      "year": 2014,
+      "display_name": "Zase doma (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a5f548620b46",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25208149,
+      "size_bytes": 408528358,
+      "uploaded_at": "2026-05-25T18:32:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.6,
+        "upload_sec": 18.1
+      }
     }
   ],
   "failed_attempts": [
@@ -157128,5 +157147,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T18:32:09Z"
+  "last_updated": "2026-05-25T18:32:45Z"
 }
