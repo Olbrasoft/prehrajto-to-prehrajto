@@ -148467,6 +148467,25 @@
         "download_sec": 48.5,
         "upload_sec": 57.0
       }
+    },
+    {
+      "cr_film_id": 30888,
+      "cr_slug": "kolej-2021",
+      "title": "Kolej",
+      "year": 2021,
+      "display_name": "Kolej (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "629cf6869bded",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25187402,
+      "size_bytes": 1576896776,
+      "uploaded_at": "2026-05-25T08:23:38Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 76.4,
+        "upload_sec": 89.9
+      }
     }
   ],
   "failed_attempts": [
@@ -153865,5 +153884,5 @@
       "failed_at": "2026-05-25T07:35:20Z"
     }
   ],
-  "last_updated": "2026-05-25T08:20:45Z"
+  "last_updated": "2026-05-25T08:23:38Z"
 }
