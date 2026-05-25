@@ -148887,6 +148887,25 @@
         "download_sec": 18.9,
         "upload_sec": 25.9
       }
+    },
+    {
+      "cr_film_id": 31703,
+      "cr_slug": "posledni-tvar",
+      "title": "Poslední tvář",
+      "year": 2017,
+      "display_name": "Poslední tvář (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59ec5b15e8980",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25190163,
+      "size_bytes": 1342811273,
+      "uploaded_at": "2026-05-25T09:26:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 54.9,
+        "upload_sec": 82.6
+      }
     }
   ],
   "failed_attempts": [
@@ -150927,5 +150946,5 @@
       "failed_at": "2026-05-25T08:32:08Z"
     }
   ],
-  "last_updated": "2026-05-25T09:24:08Z"
+  "last_updated": "2026-05-25T09:26:31Z"
 }
