@@ -54362,3 +54362,15 @@
 [04:01:27]   resolved in 1.4s → 480p (https://pf-storage6.premiumcdn.net/169549306/1BeilLSjEtoyFJxTXyIgRSQYCNvtERIAQhZ…)
 [04:01:47]   downloaded 367.7 MB in 18.4s (20.0 MB/s)
 [04:02:11]   upload done video_id=25182667 in 23.8s
+[04:02:13] film cr_film_id=30359 OK in 47.4s
+[04:02:13] iteration 5/20
+[04:02:13] film cr_film_id=30363 name='Otec Mrazík (2013) CZ Dabing' candidates=1
+[04:02:13]   candidate upload_id=8ed54a9053f1ea2c url=https://prehraj.to/otec-mrazik-2013-cz-dabing-mp4/8ed54a9053f1ea2c
+[04:02:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otec-mrazik-2013-cz-dabing-mp4/8ed54a9053f1ea2c (permanent=True)
+[04:02:14] film cr_film_id=30363 all candidates exhausted
+[04:02:14] iteration 6/20
+[04:02:14] film cr_film_id=30365 name='Dark World: Equilibrium (2013) CZ Dabing' candidates=1
+[04:02:14]   candidate upload_id=0d5a09070772476a url=https://prehraj.to/dark-world-equilibrium-2013-ru-cz-dabing-mp4/0d5a09070772476a
+[04:02:20]   resolved in 6.3s → 480p (https://pf-storage6.premiumcdn.net/169661140/y7xS0aHk1u0miBxtaQU9wHPJhJ8F49Tl5uJ…)
+[04:02:44]   downloaded 460.7 MB in 22.2s (20.8 MB/s)
+[04:03:16]   upload done video_id=25182675 in 32.3s
