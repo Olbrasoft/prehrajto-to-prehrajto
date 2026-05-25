@@ -150274,6 +150274,25 @@
         "download_sec": 87.3,
         "upload_sec": 96.9
       }
+    },
+    {
+      "cr_film_id": 31939,
+      "cr_slug": "cherry-2000",
+      "title": "Cherry 2000",
+      "year": 1987,
+      "display_name": "Cherry 2000 (1987) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "580f55bbe1d92",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25196821,
+      "size_bytes": 526247638,
+      "uploaded_at": "2026-05-25T11:38:05Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 26.1,
+        "upload_sec": 29.5
+      }
     }
   ],
   "failed_attempts": [
@@ -152321,5 +152340,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T11:37:03Z"
+  "last_updated": "2026-05-25T11:38:05Z"
 }
