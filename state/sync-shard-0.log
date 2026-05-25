@@ -54091,3 +54091,14 @@
 [03:25:43]   upload done video_id=25182312 in 30.7s
 [03:25:45] film cr_film_id=30162 OK in 64.6s
 [03:25:45] batch-end ok=19 failed=1 dur=1828.5s avg/film=96.2s remaining=9959 eta_hours=266.1
+
+===== run 2026-05-25T03:55:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26382328471) =====
+[03:55:20] batch-start shard=0/2 count=20 backlog=17650 uploads=7691 failed_attempts=753
+[03:55:20] login
+[03:55:22] login done
+[03:55:22] iteration 1/20
+[03:55:22] film cr_film_id=30164 name='Krev není voda (2008) CZ Dabing' candidates=4
+[03:55:22]   candidate upload_id=63bb247fa484f url=https://prehraj.to/krev-neni-voda-dvojcata-2008-krimi-drama-cz-dabing/63bb247fa484f
+[03:55:23]   resolved in 1.2s → 1080p (https://pf-storage2.premiumcdn.net/36097153/8xaugKFYKHeyU8Ecz0hJkFANtnBTWkC9eCKw…)
+[03:57:35]   downloaded 2,714.8 MB in 129.6s (20.9 MB/s)
+[04:00:04]   upload done video_id=25182636 in 148.4s
