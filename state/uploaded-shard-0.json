@@ -145389,6 +145389,25 @@
         "download_sec": 13.0,
         "upload_sec": 15.6
       }
+    },
+    {
+      "cr_film_id": 30064,
+      "cr_slug": "hodina-duchu",
+      "title": "Hodina duchů",
+      "year": 2007,
+      "display_name": "Hodina duchů (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ac1ee898d4f737e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25181700,
+      "size_bytes": 1634628396,
+      "uploaded_at": "2026-05-25T02:24:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 52.7,
+        "upload_sec": 63.3
+      }
     }
   ],
   "failed_attempts": [
@@ -150731,5 +150750,5 @@
       "failed_at": "2026-05-25T02:13:38Z"
     }
   ],
-  "last_updated": "2026-05-25T02:22:19Z"
+  "last_updated": "2026-05-25T02:24:19Z"
 }
