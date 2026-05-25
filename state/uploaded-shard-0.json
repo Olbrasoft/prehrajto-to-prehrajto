@@ -151678,6 +151678,25 @@
         "download_sec": 37.2,
         "upload_sec": 48.9
       }
+    },
+    {
+      "cr_film_id": 31884,
+      "cr_slug": "my-friend-flicka",
+      "title": "My Friend Flicka",
+      "year": 1943,
+      "display_name": "My Friend Flicka (1943) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "558bd237b4cc2",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25200240,
+      "size_bytes": 316515153,
+      "uploaded_at": "2026-05-25T13:38:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.9,
+        "upload_sec": 19.5
+      }
     }
   ],
   "failed_attempts": [
@@ -157118,5 +157137,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T13:38:02Z"
+  "last_updated": "2026-05-25T13:38:44Z"
 }
