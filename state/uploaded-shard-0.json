@@ -149683,6 +149683,25 @@
         "download_sec": 22.4,
         "upload_sec": 35.0
       }
+    },
+    {
+      "cr_film_id": 31502,
+      "cr_slug": "mango",
+      "title": "Mango",
+      "year": 2025,
+      "display_name": "Mango (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ef01b67a01936261",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25192754,
+      "size_bytes": 1901525945,
+      "uploaded_at": "2026-05-25T10:33:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 64.4,
+        "upload_sec": 82.4
+      }
     }
   ],
   "failed_attempts": [
@@ -155109,5 +155128,5 @@
       "failed_at": "2026-05-25T10:16:58Z"
     }
   ],
-  "last_updated": "2026-05-25T10:30:53Z"
+  "last_updated": "2026-05-25T10:33:24Z"
 }
