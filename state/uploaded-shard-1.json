@@ -148659,6 +148659,25 @@
         "download_sec": 60.1,
         "upload_sec": 79.9
       }
+    },
+    {
+      "cr_film_id": 31661,
+      "cr_slug": "love-story",
+      "title": "Love Story",
+      "year": 1970,
+      "display_name": "Love Story (1970) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "669b7fa3d270e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25189368,
+      "size_bytes": 4065761274,
+      "uploaded_at": "2026-05-25T09:09:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 160.6,
+        "upload_sec": 207.4
+      }
     }
   ],
   "failed_attempts": [
@@ -150699,5 +150718,5 @@
       "failed_at": "2026-05-25T08:32:08Z"
     }
   ],
-  "last_updated": "2026-05-25T09:03:38Z"
+  "last_updated": "2026-05-25T09:09:56Z"
 }
