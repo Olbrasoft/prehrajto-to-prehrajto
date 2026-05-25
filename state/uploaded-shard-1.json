@@ -148298,6 +148298,25 @@
         "download_sec": 50.6,
         "upload_sec": 68.4
       }
+    },
+    {
+      "cr_film_id": 31479,
+      "cr_slug": "caligula-2014",
+      "title": "Caligula",
+      "year": 2014,
+      "display_name": "Caligula (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68366b9c4f046",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25187308,
+      "size_bytes": 980308699,
+      "uploaded_at": "2026-05-25T08:20:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 29.0,
+        "upload_sec": 44.6
+      }
     }
   ],
   "failed_attempts": [
@@ -150324,5 +150343,5 @@
       "failed_at": "2026-05-25T08:16:42Z"
     }
   ],
-  "last_updated": "2026-05-25T08:19:25Z"
+  "last_updated": "2026-05-25T08:20:43Z"
 }
