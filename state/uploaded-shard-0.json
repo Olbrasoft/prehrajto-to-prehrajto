@@ -146700,6 +146700,25 @@
         "download_sec": 22.0,
         "upload_sec": 27.7
       }
+    },
+    {
+      "cr_film_id": 30244,
+      "cr_slug": "spirit-2001",
+      "title": "Spirit",
+      "year": 2001,
+      "display_name": "Spirit (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "9c761bd545d6cf79",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25183479,
+      "size_bytes": 637824224,
+      "uploaded_at": "2026-05-25T05:10:41Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 32.2,
+        "upload_sec": 37.9
+      }
     }
   ],
   "failed_attempts": [
@@ -152056,5 +152075,5 @@
       "failed_at": "2026-05-25T03:08:19Z"
     }
   ],
-  "last_updated": "2026-05-25T05:09:26Z"
+  "last_updated": "2026-05-25T05:10:41Z"
 }
