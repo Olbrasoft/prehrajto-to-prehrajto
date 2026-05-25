@@ -56804,3 +56804,14 @@
 [14:37:03]   upload done video_id=25201874 in 22.3s
 [14:37:05] film cr_film_id=32381 OK in 46.7s
 [14:37:05] batch-end ok=20 failed=0 dur=964.3s avg/film=48.2s remaining=9632 eta_hours=129.0
+
+===== run 2026-05-25T14:39:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26405967638) =====
+[14:39:22] batch-start shard=1/2 count=20 backlog=17650 uploads=8018 failed_attempts=280
+[14:39:22] login
+[14:39:24] login done
+[14:39:24] iteration 1/20
+[14:39:24] film cr_film_id=32387 name='40 dnů a nocí (2012) CZ' candidates=1
+[14:39:24]   candidate upload_id=57f840fb30553 url=https://prehraj.to/40-dnu-a-noci-2012-cz-dabing/57f840fb30553
+[14:39:25]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/680426/aYbh4WC3Ni9PsV1T9DH2KCbmh0ztoOSyWt76fB…)
+[14:39:54]   downloaded 574.7 MB in 27.5s (20.9 MB/s)
+[14:40:26]   upload done video_id=25201960 in 31.6s
