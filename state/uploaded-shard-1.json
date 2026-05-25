@@ -146018,6 +146018,25 @@
         "download_sec": 40.2,
         "upload_sec": 51.0
       }
+    },
+    {
+      "cr_film_id": 30345,
+      "cr_slug": "vlci-jama",
+      "title": "Vlčí jáma",
+      "year": 1958,
+      "display_name": "Vlčí jáma (1958) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9801eb431d8",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25182509,
+      "size_bytes": 713859041,
+      "uploaded_at": "2026-05-25T03:44:28Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 32.4,
+        "upload_sec": 41.7
+      }
     }
   ],
   "failed_attempts": [
@@ -147981,5 +148000,5 @@
       "failed_at": "2026-05-25T02:42:46Z"
     }
   ],
-  "last_updated": "2026-05-25T03:43:09Z"
+  "last_updated": "2026-05-25T03:44:28Z"
 }
