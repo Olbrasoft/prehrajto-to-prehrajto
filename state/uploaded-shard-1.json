@@ -144973,6 +144973,25 @@
         "download_sec": 2.8,
         "upload_sec": 3.4
       }
+    },
+    {
+      "cr_film_id": 30187,
+      "cr_slug": "traja-chrobaci",
+      "title": "Traja chrobáci",
+      "year": 1976,
+      "display_name": "Traja chrobáci (1976) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "75dbb5a1d46d822b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25181381,
+      "size_bytes": 328963575,
+      "uploaded_at": "2026-05-25T02:01:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 11.6,
+        "upload_sec": 13.2
+      }
     }
   ],
   "failed_attempts": [
@@ -146929,5 +146948,5 @@
       "failed_at": "2026-05-25T01:07:26Z"
     }
   ],
-  "last_updated": "2026-05-25T02:00:32Z"
+  "last_updated": "2026-05-25T02:01:01Z"
 }
