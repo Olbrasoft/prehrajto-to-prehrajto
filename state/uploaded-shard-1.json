@@ -152003,6 +152003,25 @@
         "download_sec": 25.8,
         "upload_sec": 31.0
       }
+    },
+    {
+      "cr_film_id": 32319,
+      "cr_slug": "savior",
+      "title": "Savior",
+      "year": 1998,
+      "display_name": "Savior (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55fad14e24f54",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25201524,
+      "size_bytes": 498620346,
+      "uploaded_at": "2026-05-25T14:23:42Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.5,
+        "upload_sec": 21.2
+      }
     }
   ],
   "failed_attempts": [
@@ -154050,5 +154069,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T14:22:59Z"
+  "last_updated": "2026-05-25T14:23:42Z"
 }
