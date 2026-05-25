@@ -144857,6 +144857,25 @@
         "download_sec": 40.3,
         "upload_sec": 53.5
       }
+    },
+    {
+      "cr_film_id": 29984,
+      "cr_slug": "rollerball-1975",
+      "title": "Rollerball",
+      "year": 1975,
+      "display_name": "Rollerball (1975) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5828b19be20b9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25181151,
+      "size_bytes": 735075827,
+      "uploaded_at": "2026-05-25T01:38:49Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 28.0,
+        "upload_sec": 35.5
+      }
     }
   ],
   "failed_attempts": [
@@ -150192,5 +150211,5 @@
       "failed_at": "2026-05-25T00:59:59Z"
     }
   ],
-  "last_updated": "2026-05-25T01:37:41Z"
+  "last_updated": "2026-05-25T01:38:49Z"
 }
