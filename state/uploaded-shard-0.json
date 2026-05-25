@@ -150766,6 +150766,25 @@
         "download_sec": 23.0,
         "upload_sec": 34.1
       }
+    },
+    {
+      "cr_film_id": 31746,
+      "cr_slug": "bez-trenek",
+      "title": "Bez trenek",
+      "year": 2025,
+      "display_name": "Bez trenek (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67c337ece81a3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25198254,
+      "size_bytes": 1058184717,
+      "uploaded_at": "2026-05-25T12:16:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 31.4,
+        "upload_sec": 49.9
+      }
     }
   ],
   "failed_attempts": [
@@ -156206,5 +156225,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T12:15:26Z"
+  "last_updated": "2026-05-25T12:16:52Z"
 }
