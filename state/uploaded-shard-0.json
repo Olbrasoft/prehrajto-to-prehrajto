@@ -149911,6 +149911,25 @@
         "download_sec": 21.6,
         "upload_sec": 31.3
       }
+    },
+    {
+      "cr_film_id": 31558,
+      "cr_slug": "emma-2",
+      "title": "Emma",
+      "year": 1996,
+      "display_name": "Emma (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57110beeead11",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25193545,
+      "size_bytes": 590362106,
+      "uploaded_at": "2026-05-25T10:54:04Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 18.5,
+        "upload_sec": 22.6
+      }
     }
   ],
   "failed_attempts": [
@@ -155344,5 +155363,5 @@
       "failed_at": "2026-05-25T10:37:35Z"
     }
   ],
-  "last_updated": "2026-05-25T10:53:19Z"
+  "last_updated": "2026-05-25T10:54:04Z"
 }
