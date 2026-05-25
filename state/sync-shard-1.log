@@ -55780,3 +55780,14 @@
 [10:37:20]   upload done video_id=25192948 in 31.4s
 [10:37:22] film cr_film_id=31843 OK in 57.7s
 [10:37:22] batch-end ok=20 failed=0 dur=1618.3s avg/film=80.9s remaining=9772 eta_hours=219.6
+
+===== run 2026-05-25T10:40:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26396323701) =====
+[10:40:49] batch-start shard=1/2 count=20 backlog=17650 uploads=7878 failed_attempts=279
+[10:40:49] login
+[10:40:51] login done
+[10:40:51] iteration 1/20
+[10:40:51] film cr_film_id=31845 name='Veselý souboj (1951) CZ' candidates=3
+[10:40:51]   candidate upload_id=5c089a72ae7d0 url=https://prehraj.to/vesely-souboj-1950-ceskoslovensky-film/5c089a72ae7d0
+[10:40:52]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/9122249/Y45fmWCmli8bhyghkEF57CkEikZTNVcNkfd5H…)
+[10:41:28]   downloaded 675.7 MB in 33.6s (20.1 MB/s)
+[10:42:24]   upload done video_id=25193127 in 55.8s
