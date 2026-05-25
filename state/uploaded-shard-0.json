@@ -144287,6 +144287,25 @@
         "download_sec": 27.7,
         "upload_sec": 33.5
       }
+    },
+    {
+      "cr_film_id": 29886,
+      "cr_slug": "no-way-out",
+      "title": "No Way Out",
+      "year": 2022,
+      "display_name": "No Way Out (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62f69ba1c4691",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25180680,
+      "size_bytes": 1688588714,
+      "uploaded_at": "2026-05-25T00:50:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 52.7,
+        "upload_sec": 72.4
+      }
     }
   ],
   "failed_attempts": [
@@ -149615,5 +149634,5 @@
       "failed_at": "2026-05-24T22:55:38Z"
     }
   ],
-  "last_updated": "2026-05-25T00:48:01Z"
+  "last_updated": "2026-05-25T00:50:26Z"
 }

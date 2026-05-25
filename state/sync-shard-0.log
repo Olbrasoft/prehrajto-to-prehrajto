@@ -53365,3 +53365,14 @@
 [00:48:01]   upload done video_id=25180664 in 33.5s
 [00:48:03] film cr_film_id=29882 OK in 64.8s
 [00:48:03] batch-end ok=20 failed=0 dur=1845.3s avg/film=92.3s remaining=10056 eta_hours=257.8
+
+===== run 2026-05-25T00:48:15Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26377044038) =====
+[00:48:17] batch-start shard=0/2 count=20 backlog=17650 uploads=7594 failed_attempts=749
+[00:48:17] login
+[00:48:18] login done
+[00:48:18] iteration 1/20
+[00:48:18] film cr_film_id=29886 name='No Way Out (2022) CZ Dabing' candidates=1
+[00:48:18]   candidate upload_id=62f69ba1c4691 url=https://prehraj.to/no-way-out-2022-cz-dabing-1080p/62f69ba1c4691
+[00:48:19]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/32071180/K8kHkVivwu0ns9ncMjs3DiBPuL7habS5kh1V…)
+[00:49:13]   downloaded 1,688.6 MB in 52.7s (32.0 MB/s)
+[00:50:26]   upload done video_id=25180680 in 72.4s
