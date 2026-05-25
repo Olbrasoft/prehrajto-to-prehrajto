@@ -151148,6 +151148,25 @@
         "download_sec": 18.9,
         "upload_sec": 20.5
       }
+    },
+    {
+      "cr_film_id": 32125,
+      "cr_slug": "zrcadleni-tmy",
+      "title": "Zrcadlení tmy",
+      "year": 2020,
+      "display_name": "Zrcadlení tmy (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5fb6a5a28d6b2",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25199386,
+      "size_bytes": 2521719496,
+      "uploaded_at": "2026-05-25T13:05:04Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 127.9,
+        "upload_sec": 153.9
+      }
     }
   ],
   "failed_attempts": [
@@ -153195,5 +153214,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T13:00:17Z"
+  "last_updated": "2026-05-25T13:05:04Z"
 }
