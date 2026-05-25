@@ -149531,6 +149531,25 @@
         "download_sec": 54.6,
         "upload_sec": 73.1
       }
+    },
+    {
+      "cr_film_id": 31454,
+      "cr_slug": "hitler-jak-se-rodi-monstrum",
+      "title": "Hitler - Jak se rodí monstrum",
+      "year": 2023,
+      "display_name": "Hitler - Jak se rodí monstrum (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f720e974d064c2c2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25192262,
+      "size_bytes": 1715574422,
+      "uploaded_at": "2026-05-25T10:19:12Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 54.6,
+        "upload_sec": 72.1
+      }
     }
   ],
   "failed_attempts": [
@@ -154934,7 +154953,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dora-say-hola-to-adventure-2023-cz-dabing-mp4/48e75dd1945ab11b",
       "permanent": true,
       "failed_at": "2026-05-25T10:10:22Z"
+    },
+    {
+      "cr_film_id": 31452,
+      "upload_id": "3480dcf2835e887d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-z-nebes-2025-cz-dab-1080p/3480dcf2835e887d",
+      "permanent": true,
+      "failed_at": "2026-05-25T10:16:46Z"
+    },
+    {
+      "cr_film_id": 31452,
+      "upload_id": "faef09ef220becf4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-z-nebes-2025-cz-dab-1080p-mp4/faef09ef220becf4",
+      "permanent": true,
+      "failed_at": "2026-05-25T10:16:52Z"
+    },
+    {
+      "cr_film_id": 31452,
+      "upload_id": "e7b8e67de18e7db7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-z-nebes-2025-cz-dabing/e7b8e67de18e7db7",
+      "permanent": true,
+      "failed_at": "2026-05-25T10:16:58Z"
     }
   ],
-  "last_updated": "2026-05-25T10:16:43Z"
+  "last_updated": "2026-05-25T10:19:12Z"
 }
