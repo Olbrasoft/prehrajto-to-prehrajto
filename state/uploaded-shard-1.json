@@ -152022,6 +152022,25 @@
         "download_sec": 17.5,
         "upload_sec": 21.2
       }
+    },
+    {
+      "cr_film_id": 32327,
+      "cr_slug": "mezi-svety-2005",
+      "title": "Mezi světy",
+      "year": 2005,
+      "display_name": "Mezi světy (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "564b7ec2686f2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25201538,
+      "size_bytes": 454693950,
+      "uploaded_at": "2026-05-25T14:24:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.1,
+        "upload_sec": 24.1
+      }
     }
   ],
   "failed_attempts": [
@@ -154069,5 +154088,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T14:23:42Z"
+  "last_updated": "2026-05-25T14:24:27Z"
 }
