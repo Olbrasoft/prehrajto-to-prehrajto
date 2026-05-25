@@ -148317,6 +148317,25 @@
         "download_sec": 29.0,
         "upload_sec": 44.6
       }
+    },
+    {
+      "cr_film_id": 31489,
+      "cr_slug": "marie-2024",
+      "title": "MARIE",
+      "year": 2024,
+      "display_name": "MARIE (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "675309b2da066",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25187392,
+      "size_bytes": 1993881817,
+      "uploaded_at": "2026-05-25T08:23:03Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 61.4,
+        "upload_sec": 68.8
+      }
     }
   ],
   "failed_attempts": [
@@ -150341,7 +150360,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/godzilla-vs-gomora-part-3-2016-en-cz-dabing-mp4/f9eef40d48f0c8f7",
       "permanent": true,
       "failed_at": "2026-05-25T08:16:42Z"
+    },
+    {
+      "cr_film_id": 31483,
+      "upload_id": "e1a1a1eb4ac70607",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bratri-menendezovi-2024-cz-dabing-mp4/e1a1a1eb4ac70607",
+      "permanent": true,
+      "failed_at": "2026-05-25T08:20:45Z"
     }
   ],
-  "last_updated": "2026-05-25T08:20:43Z"
+  "last_updated": "2026-05-25T08:23:03Z"
 }
