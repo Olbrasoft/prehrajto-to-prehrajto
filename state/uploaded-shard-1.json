@@ -154663,6 +154663,25 @@
         "download_sec": 15.1,
         "upload_sec": 21.0
       }
+    },
+    {
+      "cr_film_id": 32965,
+      "cr_slug": "l-eclisse",
+      "title": "L'eclisse",
+      "year": 1962,
+      "display_name": "L'eclisse (1962) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5892356858a7e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25206997,
+      "size_bytes": 825421189,
+      "uploaded_at": "2026-05-25T17:47:38Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 42.0,
+        "upload_sec": 51.7
+      }
     }
   ],
   "failed_attempts": [
@@ -156710,5 +156729,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T17:45:59Z"
+  "last_updated": "2026-05-25T17:47:38Z"
 }
