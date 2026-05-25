@@ -145731,6 +145731,25 @@
         "download_sec": 92.5,
         "upload_sec": 107.8
       }
+    },
+    {
+      "cr_film_id": 30112,
+      "cr_slug": "casper-a-strasidelna-skola",
+      "title": "Casper a strašidelná škola",
+      "year": 2006,
+      "display_name": "Casper a strašidelná škola (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "675ddb217ff66",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25181979,
+      "size_bytes": 351189405,
+      "uploaded_at": "2026-05-25T02:49:31Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 11.5,
+        "upload_sec": 14.6
+      }
     }
   ],
   "failed_attempts": [
@@ -151071,7 +151090,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/solista-2009-cz-dabing/adcd0e482d178ced",
       "permanent": true,
       "failed_at": "2026-05-25T02:13:38Z"
+    },
+    {
+      "cr_film_id": 30110,
+      "upload_id": "1f7e13f5645e7f54",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/slepy-pistolnik-1971-cz-dabing-mp4/1f7e13f5645e7f54",
+      "permanent": true,
+      "failed_at": "2026-05-25T02:48:58Z"
     }
   ],
-  "last_updated": "2026-05-25T02:48:55Z"
+  "last_updated": "2026-05-25T02:49:31Z"
 }
