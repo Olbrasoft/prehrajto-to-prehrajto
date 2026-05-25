@@ -150502,6 +150502,25 @@
         "download_sec": 31.9,
         "upload_sec": 39.0
       }
+    },
+    {
+      "cr_film_id": 31995,
+      "cr_slug": "lupici",
+      "title": "Lupiči",
+      "year": 2016,
+      "display_name": "Lupiči (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5916b76bb6146",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25198021,
+      "size_bytes": 657256853,
+      "uploaded_at": "2026-05-25T12:07:23Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.6,
+        "upload_sec": 35.0
+      }
     }
   ],
   "failed_attempts": [
@@ -152549,5 +152568,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T12:06:16Z"
+  "last_updated": "2026-05-25T12:07:23Z"
 }
