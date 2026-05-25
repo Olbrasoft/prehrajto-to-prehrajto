@@ -54040,3 +54040,14 @@
 [02:19:03]   upload done video_id=25181641 in 70.0s
 [02:19:05] film cr_film_id=30241 OK in 129.5s
 [02:19:05] batch-end ok=20 failed=0 dur=1212.8s avg/film=60.6s remaining=10003 eta_hours=168.4
+
+===== run 2026-05-25T02:24:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26379958943) =====
+[02:24:45] batch-start shard=1/2 count=20 backlog=17650 uploads=7647 failed_attempts=267
+[02:24:45] login
+[02:24:47] login done
+[02:24:47] iteration 1/20
+[02:24:47] film cr_film_id=30243 name='Sněhová královna (1957) CZ Dabing' candidates=1
+[02:24:47]   candidate upload_id=5419a90546076c76 url=https://prehraj.to/snehova-kralovna-1957-cz-dabing/5419a90546076c76
+[02:24:48]   resolved in 1.3s → 480p (https://pf-storage6.premiumcdn.net/169587394/7BzSONuo8i25s89HjpsrKujkHlYUB8tP1I4…)
+[02:25:08]   downloaded 525.3 MB in 17.5s (30.0 MB/s)
+[02:25:29]   upload done video_id=25181720 in 21.2s
