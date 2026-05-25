@@ -145068,6 +145068,25 @@
         "download_sec": 16.0,
         "upload_sec": 19.3
       }
+    },
+    {
+      "cr_film_id": 30197,
+      "cr_slug": "air-force-2",
+      "title": "Air Force 2",
+      "year": 2006,
+      "display_name": "Air Force 2 (2006) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68177c701b3ca",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25181414,
+      "size_bytes": 879251332,
+      "uploaded_at": "2026-05-25T02:04:56Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 29.2,
+        "upload_sec": 31.8
+      }
     }
   ],
   "failed_attempts": [
@@ -147024,5 +147043,5 @@
       "failed_at": "2026-05-25T01:07:26Z"
     }
   ],
-  "last_updated": "2026-05-25T02:03:51Z"
+  "last_updated": "2026-05-25T02:04:56Z"
 }
