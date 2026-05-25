@@ -145049,6 +145049,25 @@
         "download_sec": 12.8,
         "upload_sec": 17.3
       }
+    },
+    {
+      "cr_film_id": 30195,
+      "cr_slug": "frankie-alice",
+      "title": "Frankie & Alice",
+      "year": 2010,
+      "display_name": "Frankie & Alice (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5970fa75d1016",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25181411,
+      "size_bytes": 449208501,
+      "uploaded_at": "2026-05-25T02:03:51Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 16.0,
+        "upload_sec": 19.3
+      }
     }
   ],
   "failed_attempts": [
@@ -147005,5 +147024,5 @@
       "failed_at": "2026-05-25T01:07:26Z"
     }
   ],
-  "last_updated": "2026-05-25T02:03:12Z"
+  "last_updated": "2026-05-25T02:03:51Z"
 }
