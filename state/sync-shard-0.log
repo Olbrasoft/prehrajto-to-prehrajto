@@ -57437,3 +57437,14 @@
 [17:41:36]   upload done video_id=25206864 in 24.3s
 [17:41:38] film cr_film_id=32456 OK in 93.8s
 [17:41:38] batch-end ok=20 failed=0 dur=1532.5s avg/film=76.6s remaining=9508 eta_hours=202.3
+
+===== run 2026-05-25T17:43:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26412889977) =====
+[17:43:29] batch-start shard=0/2 count=20 backlog=17650 uploads=8142 failed_attempts=765
+[17:43:29] login
+[17:43:31] login done
+[17:43:31] iteration 1/20
+[17:43:31] film cr_film_id=32458 name='Ceremoniář (1996) CZ' candidates=1
+[17:43:31]   candidate upload_id=5828c0e5ddea6 url=https://prehraj.to/ceremoniar-cz-film-1996-by-kamer/5828c0e5ddea6
+[17:43:32]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/860825/KaKh0lcDwT0aCR2HaMteYcOPHbqIXkUY0TVgTa…)
+[17:44:40]   downloaded 423.9 MB in 66.6s (6.4 MB/s)
+[17:44:57]   upload done video_id=25206944 in 16.9s
