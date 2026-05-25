@@ -54381,3 +54381,14 @@
 [05:28:21]   upload done video_id=25183655 in 22.7s
 [05:28:23] film cr_film_id=30268 OK in 49.6s
 [05:28:23] batch-end ok=19 failed=1 dur=2758.9s avg/film=145.2s remaining=9920 eta_hours=400.1
+
+===== run 2026-05-25T05:29:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26384938814) =====
+[05:29:20] batch-start shard=0/2 count=20 backlog=17650 uploads=7730 failed_attempts=754
+[05:29:20] login
+[05:29:22] login done
+[05:29:22] iteration 1/20
+[05:29:22] film cr_film_id=30270 name='Chlapectví (2014) CZ Dabing' candidates=1
+[05:29:22]   candidate upload_id=cb19ab3d9ea067e8 url=https://prehraj.to/chlapectvi-2014-en-cz-dabing/cb19ab3d9ea067e8
+[05:29:23]   resolved in 1.0s → 480p (https://pf-storage6.premiumcdn.net/169658287/E4qTmWU7VsBxtz1sYlfV3U0yfxMi41IyNir…)
+[05:29:58]   downloaded 1,225.5 MB in 34.0s (36.0 MB/s)
+[05:30:50]   upload done video_id=25183668 in 51.5s
