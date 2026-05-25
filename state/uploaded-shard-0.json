@@ -156428,6 +156428,25 @@
         "download_sec": 30.0,
         "upload_sec": 43.5
       }
+    },
+    {
+      "cr_film_id": 32904,
+      "cr_slug": "visnovy-sad",
+      "title": "Višňový sad",
+      "year": 1978,
+      "display_name": "Višňový sad (1978) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "588a5462c3ed9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25212016,
+      "size_bytes": 483827663,
+      "uploaded_at": "2026-05-25T21:27:09Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 20.7,
+        "upload_sec": 23.9
+      }
     }
   ],
   "failed_attempts": [
@@ -161875,5 +161894,5 @@
       "failed_at": "2026-05-25T20:49:11Z"
     }
   ],
-  "last_updated": "2026-05-25T21:26:20Z"
+  "last_updated": "2026-05-25T21:27:09Z"
 }
