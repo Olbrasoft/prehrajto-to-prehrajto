@@ -156732,6 +156732,25 @@
         "download_sec": 43.6,
         "upload_sec": 21.2
       }
+    },
+    {
+      "cr_film_id": 33012,
+      "cr_slug": "mezicas",
+      "title": "Mezičas",
+      "year": 1982,
+      "display_name": "Mezičas (1982) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58c7c83cdc587",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25212453,
+      "size_bytes": 818966885,
+      "uploaded_at": "2026-05-25T21:54:36Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 27.5,
+        "upload_sec": 36.5
+      }
     }
   ],
   "failed_attempts": [
@@ -162179,5 +162198,5 @@
       "failed_at": "2026-05-25T20:49:11Z"
     }
   ],
-  "last_updated": "2026-05-25T21:53:28Z"
+  "last_updated": "2026-05-25T21:54:36Z"
 }
