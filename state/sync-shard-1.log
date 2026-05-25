@@ -53603,3 +53603,14 @@
 [01:00:20]   upload done video_id=25180779 in 76.9s
 [01:00:23] film cr_film_id=30057 OK in 147.0s
 [01:00:23] batch-end ok=20 failed=0 dur=2584.4s avg/film=129.2s remaining=10062 eta_hours=361.1
+
+===== run 2026-05-25T01:00:36Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26377044038) =====
+[01:00:38] batch-start shard=1/2 count=20 backlog=17650 uploads=7588 failed_attempts=266
+[01:00:38] login
+[01:00:39] login done
+[01:00:39] iteration 1/20
+[01:00:39] film cr_film_id=30059 name='Poslední samuraj (1999) CZ Dabing' candidates=2
+[01:00:39]   candidate upload_id=261aba337ae88a2b url=https://prehraj.to/posledni-samuraj-1999-cz-dab-1080p/261aba337ae88a2b
+[01:00:40]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/163879556/r78FoLs4yfMoFXJTnMTXzsO1u38FJ0FpgtP…)
+[01:01:37]   downloaded 1,744.8 MB in 55.7s (31.3 MB/s)
+[01:02:39]   upload done video_id=25180809 in 61.5s
