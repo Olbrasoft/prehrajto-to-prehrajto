@@ -151566,6 +151566,25 @@
         "download_sec": 16.7,
         "upload_sec": 21.9
       }
+    },
+    {
+      "cr_film_id": 32207,
+      "cr_slug": "zjeveni-zla",
+      "title": "Zjevení zla",
+      "year": 2013,
+      "display_name": "Zjevení zla (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "600953fcc0472",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25200824,
+      "size_bytes": 440769068,
+      "uploaded_at": "2026-05-25T13:57:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.4,
+        "upload_sec": 22.8
+      }
     }
   ],
   "failed_attempts": [
@@ -153613,5 +153632,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T13:56:31Z"
+  "last_updated": "2026-05-25T13:57:16Z"
 }
