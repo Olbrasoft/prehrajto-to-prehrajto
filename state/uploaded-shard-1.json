@@ -151224,6 +151224,25 @@
         "download_sec": 42.8,
         "upload_sec": 48.4
       }
+    },
+    {
+      "cr_film_id": 32139,
+      "cr_slug": "ruzovy-hubert",
+      "title": "Růžový Hubert",
+      "year": 1986,
+      "display_name": "Růžový Hubert (1986) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "604d33e1a8d6a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25199759,
+      "size_bytes": 2053853757,
+      "uploaded_at": "2026-05-25T13:20:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 68.1,
+        "upload_sec": 97.7
+      }
     }
   ],
   "failed_attempts": [
@@ -153271,5 +153290,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T13:17:21Z"
+  "last_updated": "2026-05-25T13:20:11Z"
 }
