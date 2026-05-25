@@ -56415,3 +56415,14 @@
 [13:58:32]   upload done video_id=25200849 in 32.1s
 [13:58:35] film cr_film_id=31932 OK in 62.2s
 [13:58:35] batch-end ok=20 failed=0 dur=1323.1s avg/film=66.2s remaining=9648 eta_hours=177.4
+
+===== run 2026-05-25T14:20:56Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26405188091) =====
+[14:20:57] batch-start shard=0/2 count=20 backlog=17650 uploads=8002 failed_attempts=765
+[14:20:57] login
+[14:20:59] login done
+[14:20:59] iteration 1/20
+[14:20:59] film cr_film_id=31934 name='Romeo, Julie a tma (1960) CZ Dabing' candidates=20
+[14:20:59]   candidate upload_id=5a112de9ef473 url=https://prehraj.to/romeo-julie-a-tma-cz-dabing-1959/5a112de9ef473
+[14:21:00]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/2940377/JeAhaziewuBgfy4I1vtM0ijYcA3H8ZcX2HQ3I…)
+[14:21:18]   downloaded 535.8 MB in 17.1s (31.3 MB/s)
+[14:21:46]   upload done video_id=25201470 in 28.0s
