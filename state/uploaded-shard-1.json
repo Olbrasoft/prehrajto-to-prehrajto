@@ -144726,6 +144726,25 @@
         "download_sec": 50.5,
         "upload_sec": 76.4
       }
+    },
+    {
+      "cr_film_id": 30145,
+      "cr_slug": "doba-kamenna",
+      "title": "Doba Kamenná",
+      "year": 2007,
+      "display_name": "Doba Kamenná (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58214eba2df19",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25181249,
+      "size_bytes": 783797917,
+      "uploaded_at": "2026-05-25T01:48:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.4,
+        "upload_sec": 33.5
+      }
     }
   ],
   "failed_attempts": [
@@ -146682,5 +146701,5 @@
       "failed_at": "2026-05-25T01:07:26Z"
     }
   ],
-  "last_updated": "2026-05-25T01:47:29Z"
+  "last_updated": "2026-05-25T01:48:32Z"
 }
