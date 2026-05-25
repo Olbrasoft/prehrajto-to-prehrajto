@@ -149417,6 +149417,25 @@
         "download_sec": 50.8,
         "upload_sec": 59.3
       }
+    },
+    {
+      "cr_film_id": 31404,
+      "cr_slug": "scanners-1",
+      "title": "Scanners 1",
+      "year": 2020,
+      "display_name": "Scanners 1 (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e151e8d2af3b7f5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25191873,
+      "size_bytes": 449760646,
+      "uploaded_at": "2026-05-25T10:07:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.9,
+        "upload_sec": 26.7
+      }
     }
   ],
   "failed_attempts": [
@@ -154815,5 +154834,5 @@
       "failed_at": "2026-05-25T07:35:20Z"
     }
   ],
-  "last_updated": "2026-05-25T10:06:45Z"
+  "last_updated": "2026-05-25T10:07:32Z"
 }
