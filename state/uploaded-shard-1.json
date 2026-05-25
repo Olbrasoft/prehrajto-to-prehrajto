@@ -149761,6 +149761,25 @@
         "download_sec": 32.2,
         "upload_sec": 38.4
       }
+    },
+    {
+      "cr_film_id": 31857,
+      "cr_slug": "asistentka",
+      "title": "Asistentka",
+      "year": 2020,
+      "display_name": "Asistentka (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f97770349577",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25193310,
+      "size_bytes": 1111400614,
+      "uploaded_at": "2026-05-25T10:48:02Z",
+      "timing": {
+        "resolve_sec": 2.1,
+        "download_sec": 48.1,
+        "upload_sec": 67.7
+      }
     }
   ],
   "failed_attempts": [
@@ -151801,5 +151820,5 @@
       "failed_at": "2026-05-25T08:32:08Z"
     }
   ],
-  "last_updated": "2026-05-25T10:46:00Z"
+  "last_updated": "2026-05-25T10:48:02Z"
 }
