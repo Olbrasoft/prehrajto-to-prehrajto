@@ -54673,3 +54673,14 @@
 [06:25:50]   upload done video_id=25184083 in 37.8s
 [06:25:52] film cr_film_id=30394 OK in 71.9s
 [06:25:52] batch-end ok=19 failed=1 dur=1652.2s avg/film=87.0s remaining=9881 eta_hours=238.8
+
+===== run 2026-05-25T06:46:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26387394266) =====
+[06:46:54] batch-start shard=0/2 count=20 backlog=17650 uploads=7769 failed_attempts=756
+[06:46:54] login
+[06:46:56] login done
+[06:46:56] iteration 1/20
+[06:46:56] film cr_film_id=30400 name='Výchovný poradce (2014) CZ Dabing' candidates=6
+[06:46:56]   candidate upload_id=5b30908e49933 url=https://prehraj.to/vychovny-poradce-2014-cz-dabing-mp4/5b30908e49933
+[06:46:57]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/4504148/rLrsM0HkEIwAu6viM3T2GH2KuJDfNdt3Xid4S…)
+[06:47:20]   downloaded 468.2 MB in 21.5s (21.8 MB/s)
+[06:47:47]   upload done video_id=25184217 in 26.2s
