@@ -155518,6 +155518,25 @@
         "download_sec": 49.5,
         "upload_sec": 96.7
       }
+    },
+    {
+      "cr_film_id": 33157,
+      "cr_slug": "gomez-a-tavarez",
+      "title": "Gomez a Tavaréz",
+      "year": 2003,
+      "display_name": "Gomez a Tavaréz (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aaa31961d338",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25210239,
+      "size_bytes": 951973481,
+      "uploaded_at": "2026-05-25T19:59:13Z",
+      "timing": {
+        "resolve_sec": 4.4,
+        "download_sec": 48.3,
+        "upload_sec": 56.1
+      }
     }
   ],
   "failed_attempts": [
@@ -157565,5 +157584,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T19:57:20Z"
+  "last_updated": "2026-05-25T19:59:13Z"
 }
