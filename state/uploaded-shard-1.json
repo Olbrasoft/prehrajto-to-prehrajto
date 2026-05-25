@@ -157133,6 +157133,25 @@
         "download_sec": 46.2,
         "upload_sec": 53.5
       }
+    },
+    {
+      "cr_film_id": 33631,
+      "cr_slug": "silent-night",
+      "title": "Silent Night",
+      "year": 2002,
+      "display_name": "Silent Night (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60169bf0681fc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25213480,
+      "size_bytes": 433737148,
+      "uploaded_at": "2026-05-25T22:49:32Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 18.0,
+        "upload_sec": 29.3
+      }
     }
   ],
   "failed_attempts": [
@@ -159178,7 +159197,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/waynuv-svet-1992-cz-dab-1080p/68dc676d212ec",
       "permanent": true,
       "failed_at": "2026-05-25T11:24:00Z"
+    },
+    {
+      "cr_film_id": 33629,
+      "upload_id": "6216521a2fc00",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/u-brany-vecnosti-2018-julian-schnabel-bluray-1080p-dts-hd-ma-5-1-en-cz-sub/6216521a2fc00",
+      "permanent": true,
+      "failed_at": "2026-05-25T22:48:37Z"
     }
   ],
-  "last_updated": "2026-05-25T22:48:35Z"
+  "last_updated": "2026-05-25T22:49:32Z"
 }
