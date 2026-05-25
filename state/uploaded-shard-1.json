@@ -150521,6 +150521,25 @@
         "download_sec": 26.6,
         "upload_sec": 35.0
       }
+    },
+    {
+      "cr_film_id": 31997,
+      "cr_slug": "lost-boy",
+      "title": "Lost Boy",
+      "year": 2015,
+      "display_name": "Lost Boy (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "592c66a38f681",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25198049,
+      "size_bytes": 441401894,
+      "uploaded_at": "2026-05-25T12:08:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.4,
+        "upload_sec": 24.1
+      }
     }
   ],
   "failed_attempts": [
@@ -152568,5 +152587,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T12:07:23Z"
+  "last_updated": "2026-05-25T12:08:11Z"
 }
