@@ -56853,3 +56853,14 @@
 [15:47:04]   upload done video_id=25203905 in 52.2s
 [15:47:06] film cr_film_id=32132 OK in 98.5s
 [15:47:06] batch-end ok=20 failed=0 dur=1693.3s avg/film=84.7s remaining=9588 eta_hours=225.6
+
+===== run 2026-05-25T15:47:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26408714305) =====
+[15:47:48] batch-start shard=0/2 count=20 backlog=17650 uploads=8062 failed_attempts=765
+[15:47:48] login
+[15:47:49] login done
+[15:47:49] iteration 1/20
+[15:47:49] film cr_film_id=32134 name='Prokletá vesnice (2019) CZ' candidates=2
+[15:47:49]   candidate upload_id=606a59d45bfc8 url=https://prehraj.to/princezna-prokleta-v-case-2020-cz-film/606a59d45bfc8
+[15:47:50]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/22966827/YXgcMvf5OiKDIRlCzKhGVfE8cDmTNEC6vIJ2…)
+[15:48:34]   downloaded 1,487.4 MB in 42.5s (35.0 MB/s)
+[15:49:39]   upload done video_id=25203972 in 64.8s
