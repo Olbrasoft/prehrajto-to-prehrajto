@@ -148070,6 +148070,25 @@
         "download_sec": 68.5,
         "upload_sec": 84.3
       }
+    },
+    {
+      "cr_film_id": 31347,
+      "cr_slug": "sisters",
+      "title": "Sisters",
+      "year": 2018,
+      "display_name": "Sisters (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "1732ebcc7f14ea9f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25185899,
+      "size_bytes": 1455768086,
+      "uploaded_at": "2026-05-25T07:53:36Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 50.0,
+        "upload_sec": 75.9
+      }
     }
   ],
   "failed_attempts": [
@@ -150075,5 +150094,5 @@
       "failed_at": "2026-05-25T07:07:53Z"
     }
   ],
-  "last_updated": "2026-05-25T07:51:25Z"
+  "last_updated": "2026-05-25T07:53:36Z"
 }
