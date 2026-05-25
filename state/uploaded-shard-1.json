@@ -145600,6 +145600,25 @@
         "download_sec": 64.1,
         "upload_sec": 70.9
       }
+    },
+    {
+      "cr_film_id": 30295,
+      "cr_slug": "valka-samuraju",
+      "title": "Válka samurajů",
+      "year": 1979,
+      "display_name": "Válka samurajů (1979) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "736dd6fe03effb71",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25181977,
+      "size_bytes": 754261325,
+      "uploaded_at": "2026-05-25T02:49:44Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.3,
+        "upload_sec": 40.0
+      }
     }
   ],
   "failed_attempts": [
@@ -147563,5 +147582,5 @@
       "failed_at": "2026-05-25T02:42:46Z"
     }
   ],
-  "last_updated": "2026-05-25T02:48:35Z"
+  "last_updated": "2026-05-25T02:49:44Z"
 }
