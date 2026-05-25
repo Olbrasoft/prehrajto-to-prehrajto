@@ -156713,6 +156713,25 @@
         "download_sec": 22.4,
         "upload_sec": 26.3
       }
+    },
+    {
+      "cr_film_id": 33006,
+      "cr_slug": "anna-proletarka",
+      "title": "Anna proletářka",
+      "year": 1953,
+      "display_name": "Anna proletářka (1953) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58b8319c0fc3c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25212440,
+      "size_bytes": 388472330,
+      "uploaded_at": "2026-05-25T21:53:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 43.6,
+        "upload_sec": 21.2
+      }
     }
   ],
   "failed_attempts": [
@@ -162160,5 +162179,5 @@
       "failed_at": "2026-05-25T20:49:11Z"
     }
   ],
-  "last_updated": "2026-05-25T21:52:19Z"
+  "last_updated": "2026-05-25T21:53:28Z"
 }
