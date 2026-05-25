@@ -150160,6 +150160,25 @@
         "download_sec": 24.8,
         "upload_sec": 33.7
       }
+    },
+    {
+      "cr_film_id": 31921,
+      "cr_slug": "snehova-kralovna-2002",
+      "title": "Sněhová královna",
+      "year": 2002,
+      "display_name": "Sněhová královna (2002) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "56e5166aa2741",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25195592,
+      "size_bytes": 602934140,
+      "uploaded_at": "2026-05-25T11:28:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.6,
+        "upload_sec": 33.0
+      }
     }
   ],
   "failed_attempts": [
@@ -152207,5 +152226,5 @@
       "failed_at": "2026-05-25T11:24:00Z"
     }
   ],
-  "last_updated": "2026-05-25T11:27:01Z"
+  "last_updated": "2026-05-25T11:28:10Z"
 }
