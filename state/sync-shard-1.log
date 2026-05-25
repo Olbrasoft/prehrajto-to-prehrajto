@@ -56950,3 +56950,14 @@
 [15:00:26]   upload done video_id=25202607 in 27.2s
 [15:00:28] film cr_film_id=32457 OK in 56.4s
 [15:00:28] batch-end ok=20 failed=0 dur=1264.6s avg/film=63.2s remaining=9612 eta_hours=168.7
+
+===== run 2026-05-25T15:18:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26407579088) =====
+[15:18:52] batch-start shard=1/2 count=20 backlog=17650 uploads=8038 failed_attempts=280
+[15:18:52] login
+[15:18:54] login done
+[15:18:54] iteration 1/20
+[15:18:54] film cr_film_id=32461 name='Kdo se bojí Virginie Woolfové? (1966) CZ' candidates=1
+[15:18:54]   candidate upload_id=583628f3d97d9 url=https://prehraj.to/kdo-se-boji-virginie-woolfove-1996-cz-dab/583628f3d97d9
+[15:18:55]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/918828/r7LsrKH8pIVacb0Cp7S35HWJfj2i6osZPhqGTn…)
+[15:19:20]   downloaded 661.9 MB in 22.7s (29.2 MB/s)
+[15:19:48]   upload done video_id=25203142 in 28.0s
