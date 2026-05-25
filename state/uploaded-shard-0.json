@@ -153103,6 +153103,25 @@
         "download_sec": 29.0,
         "upload_sec": 43.8
       }
+    },
+    {
+      "cr_film_id": 32122,
+      "cr_slug": "intrikani",
+      "title": "Intrikáni",
+      "year": 2020,
+      "display_name": "Intrikáni (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f814909611b0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25203678,
+      "size_bytes": 1919548558,
+      "uploaded_at": "2026-05-25T15:40:09Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 58.7,
+        "upload_sec": 70.1
+      }
     }
   ],
   "failed_attempts": [
@@ -158543,5 +158562,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T15:37:55Z"
+  "last_updated": "2026-05-25T15:40:09Z"
 }
