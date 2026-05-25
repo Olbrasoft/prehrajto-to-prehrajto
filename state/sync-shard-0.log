@@ -55687,3 +55687,14 @@
 [11:11:41]   upload done video_id=25194044 in 48.8s
 [11:11:43] film cr_film_id=31622 OK in 93.7s
 [11:11:43] batch-end ok=20 failed=0 dur=1853.4s avg/film=92.7s remaining=9747 eta_hours=251.0
+
+===== run 2026-05-25T11:21:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26397878795) =====
+[11:21:49] batch-start shard=0/2 count=20 backlog=17650 uploads=7903 failed_attempts=764
+[11:21:49] login
+[11:21:50] login done
+[11:21:50] iteration 1/20
+[11:21:50] film cr_film_id=31626 name='Testament mládí (2015) CZ Dabing' candidates=5
+[11:21:50]   candidate upload_id=563b1e9483560 url=https://prehraj.to/testament-mladi-testament-of-youth-2014-cz-dab-zivotopis-valec-drama/563b1e9483560
+[11:21:52]   resolved in 1.9s → 480p (https://pf-storage4.premiumcdn.net/321858/Rb7sK4HzvCYbfzmhOqIymHDyCLltE8tvLfZpsa…)
+[11:22:20]   downloaded 567.4 MB in 26.0s (21.8 MB/s)
+[11:22:50]   upload done video_id=25194876 in 29.7s
