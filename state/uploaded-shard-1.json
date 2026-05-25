@@ -146949,6 +146949,25 @@
         "download_sec": 90.3,
         "upload_sec": 99.9
       }
+    },
+    {
+      "cr_film_id": 30593,
+      "cr_slug": "spravedlnost-2017",
+      "title": "Spravedlnost",
+      "year": 2017,
+      "display_name": "Spravedlnost (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "67124c2d12d97",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25183765,
+      "size_bytes": 716422431,
+      "uploaded_at": "2026-05-25T05:43:30Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 35.8,
+        "upload_sec": 45.5
+      }
     }
   ],
   "failed_attempts": [
@@ -148933,5 +148952,5 @@
       "failed_at": "2026-05-25T05:38:44Z"
     }
   ],
-  "last_updated": "2026-05-25T05:42:02Z"
+  "last_updated": "2026-05-25T05:43:30Z"
 }
