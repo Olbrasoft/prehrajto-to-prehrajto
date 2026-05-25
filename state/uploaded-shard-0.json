@@ -155440,6 +155440,25 @@
         "download_sec": 61.9,
         "upload_sec": 48.6
       }
+    },
+    {
+      "cr_film_id": 32666,
+      "cr_slug": "beatrice-cenci",
+      "title": "Beatrice Cenci",
+      "year": 1969,
+      "display_name": "Beatrice Cenci (1969) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "586728fb74360",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25209485,
+      "size_bytes": 508070052,
+      "uploaded_at": "2026-05-25T19:24:35Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 24.9,
+        "upload_sec": 29.8
+      }
     }
   ],
   "failed_attempts": [
@@ -160880,5 +160899,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T19:23:35Z"
+  "last_updated": "2026-05-25T19:24:35Z"
 }
