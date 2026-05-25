@@ -154471,6 +154471,25 @@
         "download_sec": 42.6,
         "upload_sec": 64.3
       }
+    },
+    {
+      "cr_film_id": 32430,
+      "cr_slug": "lev-s-bilou-hrivou",
+      "title": "Lev s bílou hřívou",
+      "year": 1987,
+      "display_name": "Lev s bílou hřívou (1987) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "604dc40e7b5a1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25206571,
+      "size_bytes": 2821492490,
+      "uploaded_at": "2026-05-25T17:30:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 99.9,
+        "upload_sec": 105.6
+      }
     }
   ],
   "failed_attempts": [
@@ -159911,5 +159930,5 @@
       "failed_at": "2026-05-25T11:53:02Z"
     }
   ],
-  "last_updated": "2026-05-25T17:26:51Z"
+  "last_updated": "2026-05-25T17:30:21Z"
 }
