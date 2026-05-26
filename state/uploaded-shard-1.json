@@ -161750,6 +161750,25 @@
         "download_sec": 58.2,
         "upload_sec": 66.2
       }
+    },
+    {
+      "cr_film_id": 35387,
+      "cr_slug": "film-53",
+      "title": "Пять невест",
+      "year": 2011,
+      "display_name": "Пять невест (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab6ef3eaf471",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25221082,
+      "size_bytes": 1650291765,
+      "uploaded_at": "2026-05-26T07:39:57Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 79.7,
+        "upload_sec": 86.9
+      }
     }
   ],
   "failed_attempts": [
@@ -163832,5 +163851,5 @@
       "failed_at": "2026-05-26T05:29:39Z"
     }
   ],
-  "last_updated": "2026-05-26T07:36:45Z"
+  "last_updated": "2026-05-26T07:39:57Z"
 }
