@@ -165510,6 +165510,25 @@
         "download_sec": 69.3,
         "upload_sec": 40.1
       }
+    },
+    {
+      "cr_film_id": 36902,
+      "cr_slug": "planeta-praha",
+      "title": "Planeta Praha",
+      "year": 2022,
+      "display_name": "Planeta Praha (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "659edab062936",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25230844,
+      "size_bytes": 3184660344,
+      "uploaded_at": "2026-05-26T18:48:59Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 199.9,
+        "upload_sec": 199.7
+      }
     }
   ],
   "failed_attempts": [
@@ -171053,5 +171072,5 @@
       "failed_at": "2026-05-26T16:07:14Z"
     }
   ],
-  "last_updated": "2026-05-26T18:42:14Z"
+  "last_updated": "2026-05-26T18:48:59Z"
 }
