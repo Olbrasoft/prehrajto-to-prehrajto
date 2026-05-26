@@ -161180,6 +161180,25 @@
         "download_sec": 24.6,
         "upload_sec": 29.0
       }
+    },
+    {
+      "cr_film_id": 35223,
+      "cr_slug": "facing-ali",
+      "title": "Facing Ali",
+      "year": 2009,
+      "display_name": "Facing Ali (2009) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9f0e945149b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25220504,
+      "size_bytes": 1506639970,
+      "uploaded_at": "2026-05-26T06:59:12Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 48.9,
+        "upload_sec": 60.5
+      }
     }
   ],
   "failed_attempts": [
@@ -163262,5 +163281,5 @@
       "failed_at": "2026-05-26T05:29:39Z"
     }
   ],
-  "last_updated": "2026-05-26T06:57:18Z"
+  "last_updated": "2026-05-26T06:59:12Z"
 }
