@@ -59284,3 +59284,14 @@
 [01:35:16]   upload done video_id=25216249 in 55.3s
 [01:35:19] film cr_film_id=34157 OK in 105.7s
 [01:35:19] batch-end ok=20 failed=0 dur=2670.8s avg/film=133.5s remaining=9293 eta_hours=344.6
+
+===== run 2026-05-26T01:35:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26426060741) =====
+[01:35:38] batch-start shard=1/2 count=20 backlog=17650 uploads=8357 failed_attempts=281
+[01:35:38] login
+[01:35:42] login done
+[01:35:42] iteration 1/20
+[01:35:42] film cr_film_id=34159 name='V prachu a krvi (2024) CZ Dabing' candidates=1
+[01:35:42]   candidate upload_id=66b1ec7d667ab url=https://prehraj.to/v-prachu-a-krvi-2023-cz-dabing-1080p/66b1ec7d667ab
+[01:35:44]   resolved in 1.7s → 1080p (https://pf-storage5.premiumcdn.net/89110367/KAQSGDUwQIyPCW8S9PHJeU9Vu8DFQruYmf8K…)
+[01:36:49]   downloaded 1,275.7 MB in 63.1s (20.2 MB/s)
+[01:38:00]   upload done video_id=25216279 in 70.2s
