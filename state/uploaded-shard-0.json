@@ -164883,6 +164883,25 @@
         "download_sec": 24.8,
         "upload_sec": 40.8
       }
+    },
+    {
+      "cr_film_id": 36654,
+      "cr_slug": "den-delfina",
+      "title": "Den delfína",
+      "year": 1973,
+      "display_name": "Den delfína (1973) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "7448777e19878116",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25229833,
+      "size_bytes": 2920837470,
+      "uploaded_at": "2026-05-26T17:16:57Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 123.3,
+        "upload_sec": 164.5
+      }
     }
   ],
   "failed_attempts": [
@@ -170426,5 +170445,5 @@
       "failed_at": "2026-05-26T16:07:14Z"
     }
   ],
-  "last_updated": "2026-05-26T17:12:03Z"
+  "last_updated": "2026-05-26T17:16:57Z"
 }
