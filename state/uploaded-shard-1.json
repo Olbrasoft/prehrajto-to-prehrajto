@@ -161332,6 +161332,25 @@
         "download_sec": 32.1,
         "upload_sec": 43.8
       }
+    },
+    {
+      "cr_film_id": 35263,
+      "cr_slug": "double-dare",
+      "title": "Double Dare",
+      "year": 2004,
+      "display_name": "Double Dare (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5821007b6b93d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25220641,
+      "size_bytes": 592901270,
+      "uploaded_at": "2026-05-26T07:09:40Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 20.2,
+        "upload_sec": 22.4
+      }
     }
   ],
   "failed_attempts": [
@@ -163414,5 +163433,5 @@
       "failed_at": "2026-05-26T05:29:39Z"
     }
   ],
-  "last_updated": "2026-05-26T07:08:54Z"
+  "last_updated": "2026-05-26T07:09:40Z"
 }
