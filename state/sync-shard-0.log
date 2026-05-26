@@ -59916,3 +59916,14 @@
 [06:48:52]   upload done video_id=25220332 in 171.8s
 [06:48:54] film cr_film_id=34398 OK in 319.4s
 [06:48:54] batch-end ok=20 failed=0 dur=3030.8s avg/film=151.5s remaining=9170 eta_hours=385.9
+
+===== run 2026-05-26T06:49:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26437000708) =====
+[06:49:54] batch-start shard=0/2 count=20 backlog=17650 uploads=8480 failed_attempts=767
+[06:49:54] login
+[06:49:55] login done
+[06:49:55] iteration 1/20
+[06:49:55] film cr_film_id=34400 name='Muž na útěku (1969) CZ Dabing' candidates=1
+[06:49:55]   candidate upload_id=4515d5802a1beb94 url=https://prehraj.to/muz-na-uteku-1968-czdabing/4515d5802a1beb94
+[06:49:57]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/165139514/yjJHroSbXF2Ni7ZTZvtqXSgLCPxUG4CMAh1…)
+[06:50:32]   downloaded 617.8 MB in 32.8s (18.8 MB/s)
+[06:51:12]   upload done video_id=25220397 in 40.7s
