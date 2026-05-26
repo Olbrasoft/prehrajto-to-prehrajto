@@ -161465,6 +161465,25 @@
         "download_sec": 42.4,
         "upload_sec": 51.5
       }
+    },
+    {
+      "cr_film_id": 35303,
+      "cr_slug": "the-borrowers",
+      "title": "The Borrowers",
+      "year": 2011,
+      "display_name": "The Borrowers (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ac687e1bd7fa",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25220789,
+      "size_bytes": 375010943,
+      "uploaded_at": "2026-05-26T07:18:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.1,
+        "upload_sec": 18.6
+      }
     }
   ],
   "failed_attempts": [
@@ -163547,5 +163566,5 @@
       "failed_at": "2026-05-26T05:29:39Z"
     }
   ],
-  "last_updated": "2026-05-26T07:17:32Z"
+  "last_updated": "2026-05-26T07:18:11Z"
 }
