@@ -1,28 +1,17 @@
 name: sync-final
-# User trigger poke: 2026-05-26T11:58Z
-# Trigger bump: 2026-05-26T11:44Z
 
 on:
-  # One-shot GitHub-only rescue trigger. This workflow runs when this file is
-  # pushed/updated, but later state commits do not retrigger it.
+  # One-shot GitHub-only rescue trigger. It intentionally watches a normal
+  # marker file, not workflow_dispatch, because GitHub is returning HTTP 500
+  # when queuing this repository's manual workflow runs.
   push:
     branches: [main]
     paths:
-      - ".github/workflows/sync-final.yml"
-  workflow_dispatch:
-    inputs:
-      batch_size:
-        description: "Number of films to upload in one run"
-        required: false
-        default: "20"
-      num_shards:
-        description: "Total parallel shards (1 = legacy single-runner mode)"
-        required: false
-        default: "2"
+      - ".github/sync-final-trigger"
 
 jobs:
   upload-batch:
-    name: Upload N missing films (shard ${{ matrix.shard }}/${{ inputs.num_shards || '2' }})
+    name: Upload final missing films (shard ${{ matrix.shard }}/2)
     runs-on: ubuntu-latest
     timeout-minutes: 350
     permissions:
@@ -39,10 +28,10 @@ jobs:
     # parallel. cancel-in-progress: false so a queued run waits for the
     # current one instead of killing it mid-upload.
     concurrency:
-      group: prehrajto-sync-shard-${{ matrix.shard }}
+      group: prehrajto-final-sync-shard-${{ matrix.shard }}
       cancel-in-progress: false
     env:
-      SYNC_NUM_SHARDS: ${{ inputs.num_shards || '2' }}
+      SYNC_NUM_SHARDS: "2"
       SYNC_SHARD_ID: ${{ matrix.shard }}
     steps:
       - uses: actions/checkout@v4
@@ -81,7 +70,7 @@ jobs:
           RUN_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           {
             echo ""
-            echo "===== run $RUN_TS shard=${SYNC_SHARD_ID}/${SYNC_NUM_SHARDS} batch_size=${{ inputs.batch_size }} ($RUN_URL) ====="
+            echo "===== run $RUN_TS shard=${SYNC_SHARD_ID}/${SYNC_NUM_SHARDS} batch_size=20 ($RUN_URL) ====="
           } >> "$LOG"
 
       - name: Configure git for in-job pushes
@@ -104,7 +93,7 @@ jobs:
           CZ_PROXY_URL: ${{ secrets.CZ_PROXY_URL }}
           CZ_PROXY_KEY: ${{ secrets.CZ_PROXY_KEY }}
         run: |
-          python src/sync_batch.py --count "${{ inputs.batch_size || '20' }}"
+          python src/sync_batch.py --count 20
 
       - name: Commit state + log
         if: always()
