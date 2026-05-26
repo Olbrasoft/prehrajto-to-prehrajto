@@ -159774,6 +159774,25 @@
         "download_sec": 23.4,
         "upload_sec": 26.2
       }
+    },
+    {
+      "cr_film_id": 34631,
+      "cr_slug": "slidil-1972",
+      "title": "Slídil",
+      "year": 1972,
+      "display_name": "Slídil (1972) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58617c15a2e83",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25217908,
+      "size_bytes": 394056072,
+      "uploaded_at": "2026-05-26T03:40:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.3,
+        "upload_sec": 19.5
+      }
     }
   ],
   "failed_attempts": [
@@ -161835,5 +161854,5 @@
       "failed_at": "2026-05-26T03:25:19Z"
     }
   ],
-  "last_updated": "2026-05-26T03:39:29Z"
+  "last_updated": "2026-05-26T03:40:11Z"
 }
