@@ -163593,6 +163593,25 @@
         "download_sec": 42.4,
         "upload_sec": 90.5
       }
+    },
+    {
+      "cr_film_id": 36999,
+      "cr_slug": "hansuv-svet",
+      "title": "Hansův svět",
+      "year": 2024,
+      "display_name": "Hansův svět (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67d881498b906",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25226450,
+      "size_bytes": 1184399771,
+      "uploaded_at": "2026-05-26T13:42:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 34.8,
+        "upload_sec": 46.5
+      }
     }
   ],
   "failed_attempts": [
@@ -165703,5 +165722,5 @@
       "failed_at": "2026-05-26T13:26:38Z"
     }
   ],
-  "last_updated": "2026-05-26T13:40:48Z"
+  "last_updated": "2026-05-26T13:42:15Z"
 }
