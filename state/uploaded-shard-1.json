@@ -163460,6 +163460,25 @@
         "download_sec": 42.6,
         "upload_sec": 50.9
       }
+    },
+    {
+      "cr_film_id": 36907,
+      "cr_slug": "pongo-calling",
+      "title": "Pongo Calling",
+      "year": 2022,
+      "display_name": "Pongo Calling (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "653f029c560e0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25225424,
+      "size_bytes": 2157989956,
+      "uploaded_at": "2026-05-26T13:29:43Z",
+      "timing": {
+        "resolve_sec": 7.0,
+        "download_sec": 69.1,
+        "upload_sec": 108.0
+      }
     }
   ],
   "failed_attempts": [
@@ -165561,7 +165580,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svatebni-prsten-2021-cz-dab-1080p/9e23e95f7ccbb50d",
       "permanent": true,
       "failed_at": "2026-05-26T12:43:50Z"
+    },
+    {
+      "cr_film_id": 36905,
+      "upload_id": "a85f2c0eca076a2d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zivot-kotete-2023-cz-dabing-hd-1080p/a85f2c0eca076a2d",
+      "permanent": true,
+      "failed_at": "2026-05-26T13:26:38Z"
     }
   ],
-  "last_updated": "2026-05-26T13:26:34Z"
+  "last_updated": "2026-05-26T13:29:43Z"
 }

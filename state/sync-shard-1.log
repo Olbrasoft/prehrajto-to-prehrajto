@@ -61121,3 +61121,15 @@
 [13:24:59]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/154686648/NEWSgPsmJUYxTrkF0ET52sn4tdxUeyFGjUz…)
 [13:25:43]   downloaded 1,350.8 MB in 42.6s (31.7 MB/s)
 [13:26:34]   upload done video_id=25225397 in 50.9s
+[13:26:37] film cr_film_id=36893 OK in 99.1s
+[13:26:37] iteration 2/20
+[13:26:37] film cr_film_id=36905 name='Život kotěte (2023) CZ Dabing' candidates=1
+[13:26:37]   candidate upload_id=a85f2c0eca076a2d url=https://prehraj.to/zivot-kotete-2023-cz-dabing-hd-1080p/a85f2c0eca076a2d
+[13:26:38]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zivot-kotete-2023-cz-dabing-hd-1080p/a85f2c0eca076a2d (permanent=True)
+[13:26:38] film cr_film_id=36905 all candidates exhausted
+[13:26:38] iteration 3/20
+[13:26:38] film cr_film_id=36907 name='Pongo Calling (2022) CZ Dabing' candidates=1
+[13:26:38]   candidate upload_id=653f029c560e0 url=https://prehraj.to/pongo-calling-2022-czdab/653f029c560e0
+[13:26:45]   resolved in 7.0s → 1080p (https://pf-storage1.premiumcdn.net/50023283/Ly8t41TxMCEZC0Ai7ysdbTgOIGVT2qh91ulv…)
+[13:27:55]   downloaded 2,158.0 MB in 69.1s (31.2 MB/s)
+[13:29:43]   upload done video_id=25225424 in 108.0s
