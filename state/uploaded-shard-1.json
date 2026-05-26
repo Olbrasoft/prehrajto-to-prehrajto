@@ -159622,6 +159622,25 @@
         "download_sec": 31.2,
         "upload_sec": 30.6
       }
+    },
+    {
+      "cr_film_id": 34515,
+      "cr_slug": "the-river-s-edge",
+      "title": "The River's Edge",
+      "year": 1957,
+      "display_name": "The River's Edge (1957) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "586a551dc79ac",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25217799,
+      "size_bytes": 553980310,
+      "uploaded_at": "2026-05-26T03:31:02Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.8,
+        "upload_sec": 25.5
+      }
     }
   ],
   "failed_attempts": [
@@ -161683,5 +161702,5 @@
       "failed_at": "2026-05-26T03:25:19Z"
     }
   ],
-  "last_updated": "2026-05-26T03:30:05Z"
+  "last_updated": "2026-05-26T03:31:02Z"
 }
