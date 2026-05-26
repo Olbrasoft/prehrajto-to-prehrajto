@@ -163137,6 +163137,25 @@
         "download_sec": 25.4,
         "upload_sec": 32.9
       }
+    },
+    {
+      "cr_film_id": 36709,
+      "cr_slug": "rene",
+      "title": "René",
+      "year": 2008,
+      "display_name": "René (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "646a68a827d92d2b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25224645,
+      "size_bytes": 302033485,
+      "uploaded_at": "2026-05-26T12:19:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.9,
+        "upload_sec": 16.1
+      }
     }
   ],
   "failed_attempts": [
@@ -165233,5 +165252,5 @@
       "failed_at": "2026-05-26T10:30:40Z"
     }
   ],
-  "last_updated": "2026-05-26T12:19:00Z"
+  "last_updated": "2026-05-26T12:19:39Z"
 }
