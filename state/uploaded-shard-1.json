@@ -158805,6 +158805,25 @@
         "download_sec": 63.1,
         "upload_sec": 70.2
       }
+    },
+    {
+      "cr_film_id": 34163,
+      "cr_slug": "boa-vs-python",
+      "title": "Boa vs. Python",
+      "year": 2004,
+      "display_name": "Boa vs. Python (2004) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "66c307143a956",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25216303,
+      "size_bytes": 588653046,
+      "uploaded_at": "2026-05-26T01:39:09Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 28.4,
+        "upload_sec": 34.8
+      }
     }
   ],
   "failed_attempts": [
@@ -160859,5 +160878,5 @@
       "failed_at": "2026-05-25T22:48:37Z"
     }
   ],
-  "last_updated": "2026-05-26T01:38:00Z"
+  "last_updated": "2026-05-26T01:39:09Z"
 }
