@@ -59040,3 +59040,14 @@
 [01:11:18]   upload done video_id=25215922 in 22.7s
 [01:11:20] film cr_film_id=33718 OK in 42.5s
 [01:11:20] batch-end ok=20 failed=0 dur=2162.9s avg/film=108.1s remaining=9290 eta_hours=279.0
+
+===== run 2026-05-26T01:11:32Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26426060741) =====
+[01:11:33] batch-start shard=0/2 count=20 backlog=17650 uploads=8360 failed_attempts=767
+[01:11:33] login
+[01:11:34] login done
+[01:11:34] iteration 1/20
+[01:11:34] film cr_film_id=33724 name='The Tenth Man (1988) CZ' candidates=1
+[01:11:34]   candidate upload_id=608c7c12b2a36 url=https://prehraj.to/desaty-muz-drama-1988-cz-dabing/608c7c12b2a36
+[01:11:35]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/23330355/MZbf1niNJiZkTAPFgec8aidESqwSY4uLaFpW…)
+[01:11:51]   downloaded 423.0 MB in 15.0s (28.2 MB/s)
+[01:12:10]   upload done video_id=25215935 in 18.5s
