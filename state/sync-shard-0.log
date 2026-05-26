@@ -61378,3 +61378,14 @@
 [16:23:23]   upload done video_id=25229405 in 38.2s
 [16:23:26] film cr_film_id=36632 OK in 79.6s
 [16:23:26] batch-end ok=19 failed=1 dur=2125.8s avg/film=111.9s remaining=8976 eta_hours=279.0
+
+===== run 2026-05-26T17:00:41Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26462833868) =====
+[17:00:42] batch-start shard=0/2 count=20 backlog=17650 uploads=8674 failed_attempts=779
+[17:00:42] login
+[17:00:44] login done
+[17:00:44] iteration 1/20
+[17:00:44] film cr_film_id=36636 name='Cvokař (2009) CZ Dabing' candidates=2
+[17:00:44]   candidate upload_id=672ec1c58071e url=https://prehraj.to/cvokar-2009-cz-dab/672ec1c58071e
+[17:00:45]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/105542192/rJriEQs36Sg3ueWiXOUdjsx3FrgHpWIV6s3…)
+[17:01:05]   downloaded 389.8 MB in 18.3s (21.3 MB/s)
+[17:01:26]   upload done video_id=25229717 in 21.2s
