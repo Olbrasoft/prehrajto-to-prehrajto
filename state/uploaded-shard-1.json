@@ -162833,6 +162833,25 @@
         "download_sec": 30.1,
         "upload_sec": 41.6
       }
+    },
+    {
+      "cr_film_id": 36631,
+      "cr_slug": "zastavarnik",
+      "title": "Zastavárník",
+      "year": 1965,
+      "display_name": "Zastavárník (1965) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68174a15234fa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25223078,
+      "size_bytes": 2152994604,
+      "uploaded_at": "2026-05-26T10:13:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 100.5,
+        "upload_sec": 113.6
+      }
     }
   ],
   "failed_attempts": [
@@ -164922,5 +164941,5 @@
       "failed_at": "2026-05-26T09:24:07Z"
     }
   ],
-  "last_updated": "2026-05-26T10:09:55Z"
+  "last_updated": "2026-05-26T10:13:34Z"
 }
