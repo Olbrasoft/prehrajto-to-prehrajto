@@ -60062,3 +60062,14 @@
 [07:30:10]   upload done video_id=25220946 in 42.6s
 [07:30:12] film cr_film_id=34596 OK in 99.2s
 [07:30:12] batch-end ok=15 failed=5 dur=2416.9s avg/film=161.1s remaining=9155 eta_hours=409.7
+
+===== run 2026-05-26T07:30:27Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26437691643) =====
+[07:30:28] batch-start shard=0/2 count=20 backlog=17650 uploads=8495 failed_attempts=776
+[07:30:28] login
+[07:30:29] login done
+[07:30:29] iteration 1/20
+[07:30:29] film cr_film_id=34516 name='Věrni zůstaneme (1945) CZ' candidates=1
+[07:30:29]   candidate upload_id=587d77368204a url=https://prehraj.to/verni-zustaneme-1988-cz/587d77368204a
+[07:30:30]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/1458500/39RS68iWEHVkIZrUVgCmyiRMhqmUO4C1dHymU…)
+[07:31:18]   downloaded 910.7 MB in 44.8s (20.3 MB/s)
+[07:32:08]   upload done video_id=25220976 in 50.0s
