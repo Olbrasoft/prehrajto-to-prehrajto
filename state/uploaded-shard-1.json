@@ -160401,6 +160401,25 @@
         "download_sec": 18.4,
         "upload_sec": 23.1
       }
+    },
+    {
+      "cr_film_id": 34953,
+      "cr_slug": "anatomie",
+      "title": "Anatomie",
+      "year": 2000,
+      "display_name": "Anatomie (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d35310cc61b58323",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25219318,
+      "size_bytes": 472051096,
+      "uploaded_at": "2026-05-26T05:28:07Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.1,
+        "upload_sec": 18.5
+      }
     }
   ],
   "failed_attempts": [
@@ -162476,5 +162495,5 @@
       "failed_at": "2026-05-26T04:22:53Z"
     }
   ],
-  "last_updated": "2026-05-26T05:27:30Z"
+  "last_updated": "2026-05-26T05:28:07Z"
 }
