@@ -158347,6 +158347,25 @@
         "download_sec": 21.7,
         "upload_sec": 24.4
       }
+    },
+    {
+      "cr_film_id": 33472,
+      "cr_slug": "zrcadleni",
+      "title": "Zrcadlení",
+      "year": 1978,
+      "display_name": "Zrcadlení (1978) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5de40e49d17db",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25215231,
+      "size_bytes": 373024823,
+      "uploaded_at": "2026-05-26T00:28:24Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 18.4,
+        "upload_sec": 20.0
+      }
     }
   ],
   "failed_attempts": [
@@ -163801,5 +163820,5 @@
       "failed_at": "2026-05-25T21:57:47Z"
     }
   ],
-  "last_updated": "2026-05-26T00:27:40Z"
+  "last_updated": "2026-05-26T00:28:24Z"
 }
