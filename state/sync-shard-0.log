@@ -59927,3 +59927,17 @@
 [06:49:57]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/165139514/yjJHroSbXF2Ni7ZTZvtqXSgLCPxUG4CMAh1…)
 [06:50:32]   downloaded 617.8 MB in 32.8s (18.8 MB/s)
 [06:51:12]   upload done video_id=25220397 in 40.7s
+[06:51:15] film cr_film_id=34400 OK in 79.0s
+[06:51:15] iteration 2/20
+[06:51:15] film cr_film_id=34402 name='Christy (2025) CZ Dabing' candidates=2
+[06:51:15]   candidate upload_id=31423b09ad1126b4 url=https://prehraj.to/christy-2025-cz-dabing-mp4/31423b09ad1126b4
+[06:51:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/christy-2025-cz-dabing-mp4/31423b09ad1126b4 (permanent=True)
+[06:51:15]   candidate upload_id=8f472eaa1610c8e9 url=https://prehraj.to/christy-2025-cz-dabing-mp4/8f472eaa1610c8e9
+[06:51:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/christy-2025-cz-dabing-mp4/8f472eaa1610c8e9 (permanent=True)
+[06:51:21] film cr_film_id=34402 all candidates exhausted
+[06:51:21] iteration 3/20
+[06:51:21] film cr_film_id=34404 name='Hon na kočku (1980) CZ' candidates=1
+[06:51:21]   candidate upload_id=caf7e40eb0ee778e url=https://prehraj.to/hon-na-kocku-1979/caf7e40eb0ee778e
+[06:51:28]   resolved in 6.1s → 480p (https://pf-storage3.premiumcdn.net/166128101/0xaijxcJ1SDnUr1uwmTydcyYCRvsQBTqYUl…)
+[06:51:53]   downloaded 426.2 MB in 23.3s (18.3 MB/s)
+[06:52:22]   upload done video_id=25220415 in 29.2s

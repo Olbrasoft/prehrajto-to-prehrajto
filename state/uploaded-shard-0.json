@@ -161140,6 +161140,25 @@
         "download_sec": 32.8,
         "upload_sec": 40.7
       }
+    },
+    {
+      "cr_film_id": 34404,
+      "cr_slug": "hon-na-kocku",
+      "title": "Hon na kočku",
+      "year": 1980,
+      "display_name": "Hon na kočku (1980) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "caf7e40eb0ee778e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25220415,
+      "size_bytes": 426179730,
+      "uploaded_at": "2026-05-26T06:52:22Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 23.3,
+        "upload_sec": 29.2
+      }
     }
   ],
   "failed_attempts": [
@@ -166592,7 +166611,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tri-kralove-1999-uhdrdv-cz-en/68f606e2de9fc",
       "permanent": true,
       "failed_at": "2026-05-25T21:57:47Z"
+    },
+    {
+      "cr_film_id": 34402,
+      "upload_id": "31423b09ad1126b4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/christy-2025-cz-dabing-mp4/31423b09ad1126b4",
+      "permanent": true,
+      "failed_at": "2026-05-26T06:51:15Z"
+    },
+    {
+      "cr_film_id": 34402,
+      "upload_id": "8f472eaa1610c8e9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/christy-2025-cz-dabing-mp4/8f472eaa1610c8e9",
+      "permanent": true,
+      "failed_at": "2026-05-26T06:51:21Z"
     }
   ],
-  "last_updated": "2026-05-26T06:51:12Z"
+  "last_updated": "2026-05-26T06:52:22Z"
 }
