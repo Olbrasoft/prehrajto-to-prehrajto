@@ -60590,3 +60590,14 @@
 [08:05:04]   upload done video_id=25221439 in 21.5s
 [08:05:06] film cr_film_id=35543 OK in 45.4s
 [08:05:06] batch-end ok=20 failed=0 dur=1679.6s avg/film=84.0s remaining=9117 eta_hours=212.7
+
+===== run 2026-05-26T09:00:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26442743421) =====
+[09:00:17] batch-start shard=1/2 count=20 backlog=17650 uploads=8533 failed_attempts=285
+[09:00:17] login
+[09:00:19] login done
+[09:00:19] iteration 1/20
+[09:00:19] film cr_film_id=35565 name='אסקימו לימון 2: יוצאים קבוע (1979) CZ Dabing' candidates=1
+[09:00:19]   candidate upload_id=60bc95607641b url=https://prehraj.to/zmrzlina-na-klacku-2-1979-cz-dabing/60bc95607641b
+[09:00:20]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/23783874/qx6IeOCGaUdncAlF1ZSNnCGKUMLFM3FNQH7E…)
+[09:00:41]   downloaded 486.8 MB in 19.0s (25.6 MB/s)
+[09:01:14]   upload done video_id=25222148 in 32.8s
