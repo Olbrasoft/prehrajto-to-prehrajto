@@ -1,6 +1,8 @@
 name: sync
 
 on:
+  repository_dispatch:
+    types: [sync-final]
   workflow_dispatch:
     inputs:
       batch_size:
