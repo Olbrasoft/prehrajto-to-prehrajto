@@ -61340,3 +61340,19 @@
 [14:41:05]   resolved in 0.9s → 720p (https://pf-storage6.premiumcdn.net/170847143/vYbudBFwNidMcVPI0MfGkFOBfA2s4Ku82IW…)
 [14:41:55]   downloaded 1,426.8 MB in 48.2s (29.6 MB/s)
 [14:42:52]   upload done video_id=25228529 in 57.2s
+[14:42:55] film cr_film_id=37205 OK in 110.9s
+[14:42:55] iteration 13/20
+[14:42:55] film cr_film_id=37215 name='Architekt (2025) CZ Dabing' candidates=3
+[14:42:55]   candidate upload_id=bb281716e0feae7a url=https://prehraj.to/architekt-2025-cz-dab-1080p/bb281716e0feae7a
+[14:42:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/architekt-2025-cz-dab-1080p/bb281716e0feae7a (permanent=True)
+[14:42:56]   candidate upload_id=b7eb81b80b0a0c5c url=https://prehraj.to/architekt-2025-cz-dabing-1080p-mkv/b7eb81b80b0a0c5c
+[14:43:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/architekt-2025-cz-dabing-1080p-mkv/b7eb81b80b0a0c5c (permanent=True)
+[14:43:02]   candidate upload_id=a17d3785a36f2214 url=https://prehraj.to/architekt-l-inconnu-de-la-grande-arche-2025-cz-dabing-mkv/a17d3785a36f2214
+[14:43:07]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/architekt-l-inconnu-de-la-grande-arche-2025-cz-dabing-mkv/a17d3785a36f2214 (permanent=True)
+[14:43:07] film cr_film_id=37215 all candidates exhausted
+[14:43:07] iteration 14/20
+[14:43:07] film cr_film_id=37227 name='Odpoutaný Frankenstein (1990) CZ Dabing' candidates=1
+[14:43:07]   candidate upload_id=689c78df260cd url=https://prehraj.to/odpoutany-frankenstein-r-1990-cz-dab-368p/689c78df260cd
+[14:43:13]   resolved in 5.9s → 480p (https://pf-storage4.premiumcdn.net/143554244/Lz6iPYsNgsbOtDJIMaSmOszxueLTaMIY9ta…)
+[14:43:32]   downloaded 499.7 MB in 17.0s (29.4 MB/s)
+[14:43:52]   upload done video_id=25228551 in 19.7s
