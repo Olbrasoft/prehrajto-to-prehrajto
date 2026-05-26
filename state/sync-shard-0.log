@@ -59978,3 +59978,22 @@
 [06:59:33]   resolved in 1.1s → 1080p (https://pf-storage6.premiumcdn.net/168933376/xyqSqjHq5ijls69hPXHJEHjaTBjIBjuZNTp…)
 [07:01:04]   downloaded 1,918.8 MB in 89.1s (21.5 MB/s)
 [07:03:11]   upload done video_id=25220538 in 126.9s
+[07:03:13] film cr_film_id=34430 OK in 221.6s
+[07:03:13] iteration 9/20
+[07:03:13] film cr_film_id=34432 name='Šviháci (2026) CZ Dabing' candidates=2
+[07:03:13]   candidate upload_id=666787a332f2c0f3 url=https://prehraj.to/svihaci-1080p-2026-cz-dabing-mkv/666787a332f2c0f3
+[07:03:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svihaci-1080p-2026-cz-dabing-mkv/666787a332f2c0f3 (permanent=True)
+[07:03:14]   candidate upload_id=2067427d8701f4e8 url=https://prehraj.to/svihaci-2026-cz-dabing-mkv/2067427d8701f4e8
+[07:03:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svihaci-2026-cz-dabing-mkv/2067427d8701f4e8 (permanent=True)
+[07:03:20] film cr_film_id=34432 all candidates exhausted
+[07:03:20] iteration 10/20
+[07:03:20] film cr_film_id=34434 name='Rozum a cit (1995) CZ' candidates=1
+[07:03:20]   candidate upload_id=756ea48e71c03703 url=https://prehraj.to/rozum-a-cit-sense-and-sensibility-1995-720p-bluray-h264-aac-ceske-titulky/756ea48e71c03703
+[07:03:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozum-a-cit-sense-and-sensibility-1995-720p-bluray-h264-aac-ceske-titulky/756ea48e71c03703 (permanent=True)
+[07:03:25] film cr_film_id=34434 all candidates exhausted
+[07:03:25] iteration 11/20
+[07:03:25] film cr_film_id=34494 name='Osudy dobrého vojáka Švejka – Švejkova budějovická anabase (1956) CZ' candidates=3
+[07:03:25]   candidate upload_id=66f68b4657f76 url=https://prehraj.to/osudy-dobreho-vojaka-svejka-1957-hq-fhd-cz-dts-hd-ma-2-0-remastered/66f68b4657f76
+[07:03:32]   resolved in 6.3s → 1080p (https://pf-storage1.premiumcdn.net/98644862/MQgczMCNkC97IaQiGWu9JC3Di1Oi0QIg6hPX…)
+[07:06:11]   downloaded 2,971.8 MB in 157.3s (18.9 MB/s)
+[07:09:19]   upload done video_id=25220602 in 188.0s

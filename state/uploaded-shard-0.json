@@ -161235,6 +161235,25 @@
         "download_sec": 89.1,
         "upload_sec": 126.9
       }
+    },
+    {
+      "cr_film_id": 34494,
+      "cr_slug": "osudy-dobreho-vojaka-svejka-svejkova-budejovicka-anabase",
+      "title": "Osudy dobrého vojáka Švejka – Švejkova budějovická anabase",
+      "year": 1956,
+      "display_name": "Osudy dobrého vojáka Švejka – Švejkova budějovická anabase (1956) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "66f68b4657f76",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25220602,
+      "size_bytes": 2971790077,
+      "uploaded_at": "2026-05-26T07:09:19Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 157.3,
+        "upload_sec": 188.0
+      }
     }
   ],
   "failed_attempts": [
@@ -166722,7 +166741,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodejuv-ucen-1977-dvd9/01332efbbd09cda3",
       "permanent": true,
       "failed_at": "2026-05-26T06:52:37Z"
+    },
+    {
+      "cr_film_id": 34432,
+      "upload_id": "666787a332f2c0f3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svihaci-1080p-2026-cz-dabing-mkv/666787a332f2c0f3",
+      "permanent": true,
+      "failed_at": "2026-05-26T07:03:14Z"
+    },
+    {
+      "cr_film_id": 34432,
+      "upload_id": "2067427d8701f4e8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svihaci-2026-cz-dabing-mkv/2067427d8701f4e8",
+      "permanent": true,
+      "failed_at": "2026-05-26T07:03:20Z"
+    },
+    {
+      "cr_film_id": 34434,
+      "upload_id": "756ea48e71c03703",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozum-a-cit-sense-and-sensibility-1995-720p-bluray-h264-aac-ceske-titulky/756ea48e71c03703",
+      "permanent": true,
+      "failed_at": "2026-05-26T07:03:25Z"
     }
   ],
-  "last_updated": "2026-05-26T07:03:11Z"
+  "last_updated": "2026-05-26T07:09:19Z"
 }
