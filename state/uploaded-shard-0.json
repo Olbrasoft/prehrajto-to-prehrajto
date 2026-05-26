@@ -165396,6 +165396,25 @@
         "download_sec": 39.7,
         "upload_sec": 48.7
       }
+    },
+    {
+      "cr_film_id": 36812,
+      "cr_slug": "probuzeni-2018",
+      "title": "Probuzení",
+      "year": 2018,
+      "display_name": "Probuzení (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65dbde58b3dc6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25230641,
+      "size_bytes": 350525260,
+      "uploaded_at": "2026-05-26T18:29:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.8,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -170939,5 +170958,5 @@
       "failed_at": "2026-05-26T16:07:14Z"
     }
   ],
-  "last_updated": "2026-05-26T18:28:46Z"
+  "last_updated": "2026-05-26T18:29:51Z"
 }
