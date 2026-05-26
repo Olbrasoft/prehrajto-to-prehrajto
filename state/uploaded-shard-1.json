@@ -163764,6 +163764,25 @@
         "download_sec": 11.9,
         "upload_sec": 15.5
       }
+    },
+    {
+      "cr_film_id": 37129,
+      "cr_slug": "odd-man-out",
+      "title": "Odd Man Out",
+      "year": 1947,
+      "display_name": "Odd Man Out (1947) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b4d4df6dfd9ba506",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25228222,
+      "size_bytes": 2590272725,
+      "uploaded_at": "2026-05-26T14:03:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 79.3,
+        "upload_sec": 104.6
+      }
     }
   ],
   "failed_attempts": [
@@ -165874,5 +165893,5 @@
       "failed_at": "2026-05-26T13:26:38Z"
     }
   ],
-  "last_updated": "2026-05-26T14:00:09Z"
+  "last_updated": "2026-05-26T14:03:18Z"
 }
