@@ -164332,6 +164332,25 @@
         "download_sec": 20.5,
         "upload_sec": 23.5
       }
+    },
+    {
+      "cr_film_id": 35674,
+      "cr_slug": "last-chance-for-christmas",
+      "title": "Last Chance for Christmas",
+      "year": 2015,
+      "display_name": "Last Chance for Christmas (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "617bb23fcbb58",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25228524,
+      "size_bytes": 1280864954,
+      "uploaded_at": "2026-05-26T14:41:59Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 36.0,
+        "upload_sec": 47.0
+      }
     }
   ],
   "failed_attempts": [
@@ -169854,5 +169873,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-26T14:40:32Z"
+  "last_updated": "2026-05-26T14:41:59Z"
 }
