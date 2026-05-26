@@ -159128,6 +159128,25 @@
         "download_sec": 95.6,
         "upload_sec": 107.0
       }
+    },
+    {
+      "cr_film_id": 34241,
+      "cr_slug": "flek",
+      "title": "Flek",
+      "year": 2001,
+      "display_name": "Flek (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67dc6bf475817",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25217017,
+      "size_bytes": 568647995,
+      "uploaded_at": "2026-05-26T02:30:10Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 27.5,
+        "upload_sec": 33.5
+      }
     }
   ],
   "failed_attempts": [
@@ -161182,5 +161201,5 @@
       "failed_at": "2026-05-25T22:48:37Z"
     }
   ],
-  "last_updated": "2026-05-26T02:29:00Z"
+  "last_updated": "2026-05-26T02:30:10Z"
 }
