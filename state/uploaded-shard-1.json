@@ -158862,6 +158862,25 @@
         "download_sec": 20.6,
         "upload_sec": 28.4
       }
+    },
+    {
+      "cr_film_id": 34173,
+      "cr_slug": "lessie-se-vraci",
+      "title": "Lessie se vrací",
+      "year": 1943,
+      "display_name": "Lessie se vrací (1943) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "66fa49b15ebd7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25216386,
+      "size_bytes": 2479972277,
+      "uploaded_at": "2026-05-26T01:46:46Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 108.4,
+        "upload_sec": 157.6
+      }
     }
   ],
   "failed_attempts": [
@@ -160916,5 +160935,5 @@
       "failed_at": "2026-05-25T22:48:37Z"
     }
   ],
-  "last_updated": "2026-05-26T01:42:14Z"
+  "last_updated": "2026-05-26T01:46:46Z"
 }
