@@ -165149,6 +165149,25 @@
         "download_sec": 30.1,
         "upload_sec": 35.3
       }
+    },
+    {
+      "cr_film_id": 36716,
+      "cr_slug": "bez-kormidla",
+      "title": "Bez kormidla",
+      "year": 2014,
+      "display_name": "Bez kormidla (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59876862c22d4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25230180,
+      "size_bytes": 867904898,
+      "uploaded_at": "2026-05-26T17:45:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 37.4,
+        "upload_sec": 44.9
+      }
     }
   ],
   "failed_attempts": [
@@ -170692,5 +170711,5 @@
       "failed_at": "2026-05-26T16:07:14Z"
     }
   ],
-  "last_updated": "2026-05-26T17:43:57Z"
+  "last_updated": "2026-05-26T17:45:24Z"
 }
