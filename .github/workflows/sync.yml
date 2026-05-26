@@ -12,9 +12,9 @@ on:
         required: false
         default: "2"
   schedule:
-    # Every 6 hours per shard. Each shard has its own concurrency lock so
-    # they overlap freely; matrix below fans the cron firing across shards.
-    - cron: "0 */6 * * *"
+    # Temporary final-drain cadence while workflow_dispatch returns GitHub HTTP 500.
+    # Revert to "0 */6 * * *" after Phase 1 is exhausted.
+    - cron: "*/10 * * * *"
 
 jobs:
   upload-batch:
