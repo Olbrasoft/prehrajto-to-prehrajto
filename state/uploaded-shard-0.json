@@ -163724,6 +163724,25 @@
         "download_sec": 33.4,
         "upload_sec": 38.0
       }
+    },
+    {
+      "cr_film_id": 35520,
+      "cr_slug": "film-1959",
+      "title": "野火",
+      "year": 1959,
+      "display_name": "野火 (1959) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "586c561811cdb",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25225412,
+      "size_bytes": 741625577,
+      "uploaded_at": "2026-05-26T13:27:56Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 24.2,
+        "upload_sec": 29.2
+      }
     }
   ],
   "failed_attempts": [
@@ -169246,5 +169265,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-26T13:26:57Z"
+  "last_updated": "2026-05-26T13:27:56Z"
 }
