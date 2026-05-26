@@ -60500,3 +60500,14 @@
 [09:30:50]   upload done video_id=25222507 in 57.4s
 [09:30:52] film cr_film_id=35156 OK in 99.8s
 [09:30:52] batch-end ok=20 failed=0 dur=1832.5s avg/film=91.6s remaining=9095 eta_hours=231.4
+
+===== run 2026-05-26T09:32:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26444265521) =====
+[09:32:13] batch-start shard=0/2 count=20 backlog=17650 uploads=8555 failed_attempts=776
+[09:32:13] login
+[09:32:15] login done
+[09:32:15] iteration 1/20
+[09:32:15] film cr_film_id=35158 name='Top Gear: Barmský speciál (2014) CZ Dabing' candidates=1
+[09:32:15]   candidate upload_id=66ee58c04a6d2 url=https://prehraj.to/top-gear-the-burma-special-2014-cz-dab/66ee58c04a6d2
+[09:32:16]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/97509167/MKPuOKhBLHx5HMjHomUWLhGgFMmtjlcbxu3K…)
+[09:33:46]   downloaded 2,821.4 MB in 89.2s (31.6 MB/s)
+[09:35:36]   upload done video_id=25222545 in 109.7s
