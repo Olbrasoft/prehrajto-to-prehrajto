@@ -61110,3 +61110,14 @@
 [12:53:21]   upload done video_id=25225084 in 89.0s
 [12:53:23] film cr_film_id=36887 OK in 165.6s
 [12:53:23] batch-end ok=19 failed=1 dur=2275.2s avg/film=119.7s remaining=9048 eta_hours=300.8
+
+===== run 2026-05-26T13:24:55Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26450750516) =====
+[13:24:56] batch-start shard=1/2 count=20 backlog=17650 uploads=8602 failed_attempts=288
+[13:24:56] login
+[13:24:58] login done
+[13:24:58] iteration 1/20
+[13:24:58] film cr_film_id=36893 name='Fantastická parta (2024) CZ Dabing' candidates=3
+[13:24:58]   candidate upload_id=69050ad6ee287 url=https://prehraj.to/fantasticka-parta-2024-hd-cz-dabing/69050ad6ee287
+[13:24:59]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/154686648/NEWSgPsmJUYxTrkF0ET52sn4tdxUeyFGjUz…)
+[13:25:43]   downloaded 1,350.8 MB in 42.6s (31.7 MB/s)
+[13:26:34]   upload done video_id=25225397 in 50.9s
