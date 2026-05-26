@@ -160458,6 +160458,25 @@
         "download_sec": 16.6,
         "upload_sec": 23.6
       }
+    },
+    {
+      "cr_film_id": 34975,
+      "cr_slug": "lebkouni-dedictvi-udary",
+      "title": "Lebkouni: Dědictví Udary",
+      "year": 1997,
+      "display_name": "Lebkouni: Dědictví Udary (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65db46f0a17ba",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25219347,
+      "size_bytes": 465944133,
+      "uploaded_at": "2026-05-26T05:30:21Z",
+      "timing": {
+        "resolve_sec": 5.6,
+        "download_sec": 16.5,
+        "upload_sec": 18.4
+      }
     }
   ],
   "failed_attempts": [
@@ -162531,7 +162550,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/clean-2021-cz-dab-1080p/dc2af2acbee6d76b",
       "permanent": true,
       "failed_at": "2026-05-26T04:22:53Z"
+    },
+    {
+      "cr_film_id": 34969,
+      "upload_id": "5dd3b8549415c49b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/snehurka-pribeh-hruzy-1997-czdab-avi/5dd3b8549415c49b",
+      "permanent": true,
+      "failed_at": "2026-05-26T05:29:39Z"
     }
   ],
-  "last_updated": "2026-05-26T05:29:37Z"
+  "last_updated": "2026-05-26T05:30:21Z"
 }
