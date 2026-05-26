@@ -59941,3 +59941,19 @@
 [06:51:28]   resolved in 6.1s → 480p (https://pf-storage3.premiumcdn.net/166128101/0xaijxcJ1SDnUr1uwmTydcyYCRvsQBTqYUl…)
 [06:51:53]   downloaded 426.2 MB in 23.3s (18.3 MB/s)
 [06:52:22]   upload done video_id=25220415 in 29.2s
+[06:52:25] film cr_film_id=34404 OK in 63.2s
+[06:52:25] iteration 4/20
+[06:52:25] film cr_film_id=34406 name='Čarodějův učeň (1978) CZ Dabing' candidates=3
+[06:52:25]   candidate upload_id=b39dbfc86ba6b4c4 url=https://prehraj.to/carodejuv-ucen-1977-czdab/b39dbfc86ba6b4c4
+[06:52:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodejuv-ucen-1977-czdab/b39dbfc86ba6b4c4 (permanent=True)
+[06:52:26]   candidate upload_id=1b9c2540fcff1996 url=https://prehraj.to/carodejuv-ucen-krabat-karel-zeman-1977-ceskoslovensko/1b9c2540fcff1996
+[06:52:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodejuv-ucen-krabat-karel-zeman-1977-ceskoslovensko/1b9c2540fcff1996 (permanent=True)
+[06:52:31]   candidate upload_id=01332efbbd09cda3 url=https://prehraj.to/carodejuv-ucen-1977-dvd9/01332efbbd09cda3
+[06:52:37]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodejuv-ucen-1977-dvd9/01332efbbd09cda3 (permanent=True)
+[06:52:37] film cr_film_id=34406 all candidates exhausted
+[06:52:37] iteration 5/20
+[06:52:37] film cr_film_id=34414 name='Nedáme trojku? (2025) CZ Dabing' candidates=1
+[06:52:37]   candidate upload_id=921b7d47f4fbaa2e url=https://prehraj.to/nedame-trojku-2025-cz-dabing/921b7d47f4fbaa2e
+[06:52:43]   resolved in 6.0s → 1080p (https://pf-storage3.premiumcdn.net/167400518/XplIXviQqFryfJPTA5TPwirnsO8Ul7cYDhL…)
+[06:54:26]   downloaded 2,146.9 MB in 101.8s (21.1 MB/s)
+[06:56:22]   upload done video_id=25220453 in 116.0s

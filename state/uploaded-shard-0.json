@@ -161159,6 +161159,25 @@
         "download_sec": 23.3,
         "upload_sec": 29.2
       }
+    },
+    {
+      "cr_film_id": 34414,
+      "cr_slug": "nedame-trojku",
+      "title": "Nedáme trojku?",
+      "year": 2025,
+      "display_name": "Nedáme trojku? (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "921b7d47f4fbaa2e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25220453,
+      "size_bytes": 2146867678,
+      "uploaded_at": "2026-05-26T06:56:22Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 101.8,
+        "upload_sec": 116.0
+      }
     }
   ],
   "failed_attempts": [
@@ -166625,7 +166644,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/christy-2025-cz-dabing-mp4/8f472eaa1610c8e9",
       "permanent": true,
       "failed_at": "2026-05-26T06:51:21Z"
+    },
+    {
+      "cr_film_id": 34406,
+      "upload_id": "b39dbfc86ba6b4c4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodejuv-ucen-1977-czdab/b39dbfc86ba6b4c4",
+      "permanent": true,
+      "failed_at": "2026-05-26T06:52:25Z"
+    },
+    {
+      "cr_film_id": 34406,
+      "upload_id": "1b9c2540fcff1996",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodejuv-ucen-krabat-karel-zeman-1977-ceskoslovensko/1b9c2540fcff1996",
+      "permanent": true,
+      "failed_at": "2026-05-26T06:52:31Z"
+    },
+    {
+      "cr_film_id": 34406,
+      "upload_id": "01332efbbd09cda3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodejuv-ucen-1977-dvd9/01332efbbd09cda3",
+      "permanent": true,
+      "failed_at": "2026-05-26T06:52:37Z"
     }
   ],
-  "last_updated": "2026-05-26T06:52:22Z"
+  "last_updated": "2026-05-26T06:56:22Z"
 }
