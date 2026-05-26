@@ -163403,6 +163403,25 @@
         "download_sec": 113.3,
         "upload_sec": 137.2
       }
+    },
+    {
+      "cr_film_id": 36867,
+      "cr_slug": "moje-noc",
+      "title": "Moje noc",
+      "year": 2022,
+      "display_name": "Moje noc (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ebdd67e8f079c5e6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25225055,
+      "size_bytes": 1582588777,
+      "uploaded_at": "2026-05-26T12:50:35Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 62.7,
+        "upload_sec": 79.1
+      }
     }
   ],
   "failed_attempts": [
@@ -165506,5 +165525,5 @@
       "failed_at": "2026-05-26T12:43:50Z"
     }
   ],
-  "last_updated": "2026-05-26T12:48:08Z"
+  "last_updated": "2026-05-26T12:50:35Z"
 }
