@@ -158727,6 +158727,25 @@
         "download_sec": 24.0,
         "upload_sec": 36.4
       }
+    },
+    {
+      "cr_film_id": 33662,
+      "cr_slug": "niagara-falls",
+      "title": "Niagara Falls",
+      "year": 1941,
+      "display_name": "Niagara Falls (1941) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "602357b2f27df",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25215774,
+      "size_bytes": 1739388982,
+      "uploaded_at": "2026-05-26T01:00:41Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 61.6,
+        "upload_sec": 77.4
+      }
     }
   ],
   "failed_attempts": [
@@ -164181,5 +164200,5 @@
       "failed_at": "2026-05-25T21:57:47Z"
     }
   ],
-  "last_updated": "2026-05-26T00:58:18Z"
+  "last_updated": "2026-05-26T01:00:41Z"
 }
