@@ -158558,6 +158558,25 @@
         "download_sec": 48.7,
         "upload_sec": 73.0
       }
+    },
+    {
+      "cr_film_id": 34075,
+      "cr_slug": "letiste",
+      "title": "Letiště",
+      "year": 1970,
+      "display_name": "Letiště (1970) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ca8661c556b3edf",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25215903,
+      "size_bytes": 4513341216,
+      "uploaded_at": "2026-05-26T01:12:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 122.8,
+        "upload_sec": 203.1
+      }
     }
   ],
   "failed_attempts": [
@@ -160612,5 +160631,5 @@
       "failed_at": "2026-05-25T22:48:37Z"
     }
   ],
-  "last_updated": "2026-05-26T01:07:09Z"
+  "last_updated": "2026-05-26T01:12:39Z"
 }
