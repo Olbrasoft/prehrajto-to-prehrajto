@@ -61670,3 +61670,14 @@
 [18:54:25]   upload done video_id=25230977 in 63.3s
 [18:54:28] film cr_film_id=36910 OK in 116.2s
 [18:54:28] batch-end ok=20 failed=0 dur=2797.9s avg/film=139.9s remaining=8936 eta_hours=347.3
+
+===== run 2026-05-26T19:03:50Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26469063787) =====
+[19:03:51] batch-start shard=0/2 count=20 backlog=17650 uploads=8714 failed_attempts=779
+[19:03:51] login
+[19:03:52] login done
+[19:03:52] iteration 1/20
+[19:03:52] film cr_film_id=36912 name='Plná 6 (2022) CZ Dabing' candidates=5
+[19:03:52]   candidate upload_id=6508d03f893fc url=https://prehraj.to/plna-6-czdab/6508d03f893fc
+[19:03:54]   resolved in 1.6s → 1080p (https://pf-storage4.premiumcdn.net/45425411/LgLTQ7uLdTwrI0xfpPsOGu2RTZzFBxh7kTxD…)
+[19:07:11]   downloaded 3,301.6 MB in 194.8s (16.9 MB/s)
+[19:09:40]   upload done video_id=25231136 in 149.2s
