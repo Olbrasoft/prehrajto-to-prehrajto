@@ -161085,6 +161085,25 @@
         "download_sec": 18.0,
         "upload_sec": 19.6
       }
+    },
+    {
+      "cr_film_id": 35211,
+      "cr_slug": "iq",
+      "title": "IQ",
+      "year": 1994,
+      "display_name": "IQ (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57cce1e39ddd5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25220444,
+      "size_bytes": 537517253,
+      "uploaded_at": "2026-05-26T06:54:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.5,
+        "upload_sec": 20.8
+      }
     }
   ],
   "failed_attempts": [
@@ -163167,5 +163186,5 @@
       "failed_at": "2026-05-26T05:29:39Z"
     }
   ],
-  "last_updated": "2026-05-26T06:53:32Z"
+  "last_updated": "2026-05-26T06:54:16Z"
 }
