@@ -163194,6 +163194,25 @@
         "download_sec": 177.1,
         "upload_sec": 212.1
       }
+    },
+    {
+      "cr_film_id": 36717,
+      "cr_slug": "mr-turner",
+      "title": "Mr. Turner",
+      "year": 2014,
+      "display_name": "Mr. Turner (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55920695b006d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25224754,
+      "size_bytes": 593335356,
+      "uploaded_at": "2026-05-26T12:28:35Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 26.4,
+        "upload_sec": 28.6
+      }
     }
   ],
   "failed_attempts": [
@@ -165290,5 +165309,5 @@
       "failed_at": "2026-05-26T10:30:40Z"
     }
   ],
-  "last_updated": "2026-05-26T12:27:33Z"
+  "last_updated": "2026-05-26T12:28:35Z"
 }
