@@ -59862,3 +59862,14 @@
 [04:57:08]   upload done video_id=25218953 in 39.6s
 [04:57:10] film cr_film_id=34905 OK in 80.6s
 [04:57:10] batch-end ok=19 failed=1 dur=2058.4s avg/film=108.3s remaining=9216 eta_hours=277.2
+
+===== run 2026-05-26T05:20:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26433864397) =====
+[05:20:26] batch-start shard=1/2 count=20 backlog=17650 uploads=8434 failed_attempts=284
+[05:20:26] login
+[05:20:27] login done
+[05:20:27] iteration 1/20
+[05:20:27] film cr_film_id=34909 name='Predátor X (2010) CZ Dabing' candidates=2
+[05:20:27]   candidate upload_id=6833a6f37700c url=https://prehraj.to/predator-x-2010-horor-sci-fi-thriller-czdab/6833a6f37700c
+[05:20:29]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/138614642/NPDSYoT1DhvEskPInEhMgTAyIZpudoH5KFE…)
+[05:20:52]   downloaded 623.3 MB in 21.4s (29.1 MB/s)
+[05:21:15]   upload done video_id=25219244 in 23.9s

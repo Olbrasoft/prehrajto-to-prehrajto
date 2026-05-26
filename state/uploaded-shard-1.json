@@ -160249,6 +160249,25 @@
         "download_sec": 35.8,
         "upload_sec": 39.6
       }
+    },
+    {
+      "cr_film_id": 34909,
+      "cr_slug": "predator-x",
+      "title": "Predátor X",
+      "year": 2010,
+      "display_name": "Predátor X (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6833a6f37700c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25219244,
+      "size_bytes": 623330702,
+      "uploaded_at": "2026-05-26T05:21:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.4,
+        "upload_sec": 23.9
+      }
     }
   ],
   "failed_attempts": [
@@ -162324,5 +162343,5 @@
       "failed_at": "2026-05-26T04:22:53Z"
     }
   ],
-  "last_updated": "2026-05-26T04:57:08Z"
+  "last_updated": "2026-05-26T05:21:15Z"
 }
