@@ -15,6 +15,7 @@ on:
         default: "2"
   schedule:
     # Temporary final-drain cadence while workflow_dispatch returns GitHub HTTP 500.
+    # Trigger poke: user-authored push 2026-05-26T11:56Z
     # Revert to "0 */6 * * *" after Phase 1 is exhausted.
     - cron: "*/10 * * * *"
 
