@@ -162318,6 +162318,25 @@
         "download_sec": 21.6,
         "upload_sec": 24.2
       }
+    },
+    {
+      "cr_film_id": 34976,
+      "cr_slug": "nitro-2019",
+      "title": "Nitro",
+      "year": 2019,
+      "display_name": "Nitro (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60c7289caa11a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25222275,
+      "size_bytes": 626449793,
+      "uploaded_at": "2026-05-26T09:12:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 27.6,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -167840,5 +167859,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-26T09:11:41Z"
+  "last_updated": "2026-05-26T09:12:46Z"
 }
