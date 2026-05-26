@@ -59718,3 +59718,19 @@
 [03:52:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vonava-laska-2021-cz-dab-1080p/102f0d9386a301f2 (permanent=True)
 [03:52:19] film cr_film_id=34761 all candidates exhausted
 [03:52:19] batch-end ok=18 failed=2 dur=1621.0s avg/film=90.1s remaining=9235 eta_hours=231.1
+
+===== run 2026-05-26T04:22:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26432105978) =====
+[04:22:50] batch-start shard=1/2 count=20 backlog=17650 uploads=8415 failed_attempts=283
+[04:22:50] login
+[04:22:52] login done
+[04:22:52] iteration 1/20
+[04:22:52] film cr_film_id=34765 name='Clean (2021) CZ Dabing' candidates=1
+[04:22:52]   candidate upload_id=dc2af2acbee6d76b url=https://prehraj.to/clean-2021-cz-dab-1080p/dc2af2acbee6d76b
+[04:22:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/clean-2021-cz-dab-1080p/dc2af2acbee6d76b (permanent=True)
+[04:22:53] film cr_film_id=34765 all candidates exhausted
+[04:22:53] iteration 2/20
+[04:22:53] film cr_film_id=34767 name='Dave Chappelle: Snílek (2023) CZ Dabing' candidates=1
+[04:22:53]   candidate upload_id=c191dbe10fcbaaba url=https://prehraj.to/dave-chappelle-snilek-2023-cz-mp4/c191dbe10fcbaaba
+[04:22:59]   resolved in 5.9s → 720p (https://pf-storage6.premiumcdn.net/170598410/k7oIOEHRKtwmcByhnKUJnHadhXAhweCamsA…)
+[04:23:28]   downloaded 562.9 MB in 27.4s (20.5 MB/s)
+[04:24:00]   upload done video_id=25218485 in 32.4s

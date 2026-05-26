@@ -159888,6 +159888,25 @@
         "download_sec": 127.3,
         "upload_sec": 170.9
       }
+    },
+    {
+      "cr_film_id": 34767,
+      "cr_slug": "dave-chappelle-snilek",
+      "title": "Dave Chappelle: Snílek",
+      "year": 2023,
+      "display_name": "Dave Chappelle: Snílek (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c191dbe10fcbaaba",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25218485,
+      "size_bytes": 562920214,
+      "uploaded_at": "2026-05-26T04:24:00Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 27.4,
+        "upload_sec": 32.4
+      }
     }
   ],
   "failed_attempts": [
@@ -161954,7 +161973,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vonava-laska-2021-cz-dab-1080p/102f0d9386a301f2",
       "permanent": true,
       "failed_at": "2026-05-26T03:52:19Z"
+    },
+    {
+      "cr_film_id": 34765,
+      "upload_id": "dc2af2acbee6d76b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/clean-2021-cz-dab-1080p/dc2af2acbee6d76b",
+      "permanent": true,
+      "failed_at": "2026-05-26T04:22:53Z"
     }
   ],
-  "last_updated": "2026-05-26T03:52:19Z"
+  "last_updated": "2026-05-26T04:24:00Z"
 }
