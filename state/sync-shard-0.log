@@ -59770,3 +59770,14 @@
 [05:57:50]   upload done video_id=25219717 in 33.2s
 [05:57:52] film cr_film_id=34284 OK in 64.8s
 [05:57:52] batch-end ok=20 failed=0 dur=2247.0s avg/film=112.3s remaining=9190 eta_hours=286.7
+
+===== run 2026-05-26T05:58:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26435123594) =====
+[05:58:22] batch-start shard=0/2 count=20 backlog=17650 uploads=8460 failed_attempts=767
+[05:58:22] login
+[05:58:23] login done
+[05:58:23] iteration 1/20
+[05:58:23] film cr_film_id=34290 name='Django sfida Sartana (1970) CZ Dabing' candidates=1
+[05:58:23]   candidate upload_id=682b79d6a97f9 url=https://prehraj.to/western-mkv-cz-dab-souboj-django-vs-sartana-cz-dab-1970-remasted/682b79d6a97f9
+[05:58:25]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/138289994/69dT8oc2DcgBfJAIKeHdDcG5urmto2uOdFB…)
+[06:00:06]   downloaded 2,637.7 MB in 99.4s (26.5 MB/s)
+[06:02:14]   upload done video_id=25219752 in 128.2s
