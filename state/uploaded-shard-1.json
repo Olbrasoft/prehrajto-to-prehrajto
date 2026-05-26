@@ -163004,6 +163004,25 @@
         "download_sec": 122.2,
         "upload_sec": 155.1
       }
+    },
+    {
+      "cr_film_id": 36681,
+      "cr_slug": "secrets-from-her-past",
+      "title": "Secrets From Her Past",
+      "year": 2011,
+      "display_name": "Secrets From Her Past (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d87d756f8afdbf16",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25223355,
+      "size_bytes": 650168314,
+      "uploaded_at": "2026-05-26T10:31:42Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 22.2,
+        "upload_sec": 31.4
+      }
     }
   ],
   "failed_attempts": [
@@ -165091,7 +165110,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/karel-2020-czdab/622d50a664bd2",
       "permanent": true,
       "failed_at": "2026-05-26T09:24:07Z"
+    },
+    {
+      "cr_film_id": 36679,
+      "upload_id": "f4869fe7c84d0606",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/marie-octobre-1959-cz-dabing-full-hd-drama-top-kvalita-76777/f4869fe7c84d0606",
+      "permanent": true,
+      "failed_at": "2026-05-26T10:30:40Z"
     }
   ],
-  "last_updated": "2026-05-26T10:30:37Z"
+  "last_updated": "2026-05-26T10:31:42Z"
 }
