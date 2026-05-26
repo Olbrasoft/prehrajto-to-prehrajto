@@ -161693,6 +161693,25 @@
         "download_sec": 75.6,
         "upload_sec": 95.9
       }
+    },
+    {
+      "cr_film_id": 35373,
+      "cr_slug": "off-the-map",
+      "title": "Off the Map",
+      "year": 2003,
+      "display_name": "Off the Map (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55ad9c2ae94e3",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25221003,
+      "size_bytes": 462405557,
+      "uploaded_at": "2026-05-26T07:33:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.8,
+        "upload_sec": 21.6
+      }
     }
   ],
   "failed_attempts": [
@@ -163775,5 +163794,5 @@
       "failed_at": "2026-05-26T05:29:39Z"
     }
   ],
-  "last_updated": "2026-05-26T07:32:14Z"
+  "last_updated": "2026-05-26T07:33:00Z"
 }
