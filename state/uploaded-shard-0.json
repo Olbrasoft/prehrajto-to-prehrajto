@@ -162033,6 +162033,25 @@
         "download_sec": 27.1,
         "upload_sec": 32.6
       }
+    },
+    {
+      "cr_film_id": 34880,
+      "cr_slug": "ucho",
+      "title": "Ucho",
+      "year": 1970,
+      "display_name": "Ucho (1970) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "24ae718f15f32236",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25221995,
+      "size_bytes": 2444871351,
+      "uploaded_at": "2026-05-26T08:50:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 92.7,
+        "upload_sec": 130.7
+      }
     }
   ],
   "failed_attempts": [
@@ -167555,5 +167574,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-26T08:46:11Z"
+  "last_updated": "2026-05-26T08:50:00Z"
 }
