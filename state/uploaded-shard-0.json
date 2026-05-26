@@ -160247,6 +160247,25 @@
         "download_sec": 167.3,
         "upload_sec": 234.0
       }
+    },
+    {
+      "cr_film_id": 34108,
+      "cr_slug": "alibi-na-vode",
+      "title": "Alibi na vodě",
+      "year": 1966,
+      "display_name": "Alibi na vodě (1966) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "65c07099592e7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25219084,
+      "size_bytes": 505973085,
+      "uploaded_at": "2026-05-26T05:08:06Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 22.0,
+        "upload_sec": 31.3
+      }
     }
   ],
   "failed_attempts": [
@@ -165701,5 +165720,5 @@
       "failed_at": "2026-05-25T21:57:47Z"
     }
   ],
-  "last_updated": "2026-05-26T05:07:07Z"
+  "last_updated": "2026-05-26T05:08:06Z"
 }
