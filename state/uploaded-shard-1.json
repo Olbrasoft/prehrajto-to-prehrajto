@@ -158083,6 +158083,25 @@
         "download_sec": 62.7,
         "upload_sec": 74.0
       }
+    },
+    {
+      "cr_film_id": 33957,
+      "cr_slug": "film-32",
+      "title": "中国医生",
+      "year": 2021,
+      "display_name": "中国医生 (2021) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6215fbe311bba",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25214964,
+      "size_bytes": 1398184926,
+      "uploaded_at": "2026-05-26T00:14:46Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 44.6,
+        "upload_sec": 48.9
+      }
     }
   ],
   "failed_attempts": [
@@ -160137,5 +160156,5 @@
       "failed_at": "2026-05-25T22:48:37Z"
     }
   ],
-  "last_updated": "2026-05-26T00:13:06Z"
+  "last_updated": "2026-05-26T00:14:46Z"
 }
