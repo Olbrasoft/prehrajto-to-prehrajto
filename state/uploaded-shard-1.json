@@ -163308,6 +163308,25 @@
         "download_sec": 59.0,
         "upload_sec": 62.8
       }
+    },
+    {
+      "cr_film_id": 36813,
+      "cr_slug": "posledni-autobus",
+      "title": "Poslední autobus",
+      "year": 2021,
+      "display_name": "Poslední autobus (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6823bc8fc16f7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25224883,
+      "size_bytes": 1708486113,
+      "uploaded_at": "2026-05-26T12:38:43Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 67.2,
+        "upload_sec": 103.7
+      }
     }
   ],
   "failed_attempts": [
@@ -165404,5 +165423,5 @@
       "failed_at": "2026-05-26T10:30:40Z"
     }
   ],
-  "last_updated": "2026-05-26T12:35:46Z"
+  "last_updated": "2026-05-26T12:38:43Z"
 }
