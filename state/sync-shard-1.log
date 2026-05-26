@@ -59430,3 +59430,14 @@
 [02:32:13]   upload done video_id=25217041 in 68.2s
 [02:32:15] film cr_film_id=34245 OK in 122.6s
 [02:32:15] batch-end ok=20 failed=0 dur=3392.9s avg/film=169.6s remaining=9273 eta_hours=436.9
+
+===== run 2026-05-26T02:33:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26428951077) =====
+[02:33:46] batch-start shard=1/2 count=20 backlog=17650 uploads=8377 failed_attempts=281
+[02:33:46] login
+[02:33:47] login done
+[02:33:47] iteration 1/20
+[02:33:47] film cr_film_id=34279 name='Super Icyclone (2025) CZ' candidates=1
+[02:33:47]   candidate upload_id=682888117c414 url=https://prehraj.to/mraziva-smrst-super-icyclone-2024-cz/682888117c414
+[02:33:53]   resolved in 5.2s → 720p (https://pf-storage5.premiumcdn.net/138173771/Gypc6ohOYTAehabt1pI4zh81ULoc3XCybf1…)
+[02:34:46]   downloaded 1,035.0 MB in 51.4s (20.1 MB/s)
+[02:35:49]   upload done video_id=25217083 in 62.5s
