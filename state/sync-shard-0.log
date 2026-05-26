@@ -61812,3 +61812,14 @@
 [19:49:47]   upload done video_id=25231662 in 89.8s
 [19:49:50] film cr_film_id=37188 OK in 159.2s
 [19:49:50] batch-end ok=18 failed=2 dur=2757.3s avg/film=153.2s remaining=8918 eta_hours=379.5
+
+===== run 2026-05-26T19:50:20Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26471392404) =====
+[19:50:21] batch-start shard=0/2 count=20 backlog=17650 uploads=8732 failed_attempts=781
+[19:50:21] login
+[19:50:22] login done
+[19:50:22] iteration 1/20
+[19:50:22] film cr_film_id=37214 name='Pozoruhodně bystrá stvoření (2026) CZ Dabing' candidates=2
+[19:50:22]   candidate upload_id=bfad047c264e6312 url=https://prehraj.to/pozoruhodne-bystra-stvoreni-2026-cz-dabing-1080p-mkv/bfad047c264e6312
+[19:50:24]   resolved in 2.3s → 1080p (https://pf-storage6.premiumcdn.net/171026129/kg4ijyfY6TWpuqaIOGtJyfq6TMzCk5ivZup…)
+[19:52:04]   downloaded 2,967.2 MB in 97.5s (30.4 MB/s)
+[19:53:56]   upload done video_id=25231711 in 111.9s
