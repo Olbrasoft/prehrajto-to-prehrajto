@@ -164617,6 +164617,25 @@
         "download_sec": 82.2,
         "upload_sec": 103.3
       }
+    },
+    {
+      "cr_film_id": 36604,
+      "cr_slug": "poutnice-ze-sans-souci",
+      "title": "Poutnice ze Sans-Souci",
+      "year": 1982,
+      "display_name": "Poutnice ze Sans-Souci (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0b84053d8d446203",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25229277,
+      "size_bytes": 946870142,
+      "uploaded_at": "2026-05-26T16:08:40Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 36.3,
+        "upload_sec": 41.7
+      }
     }
   ],
   "failed_attempts": [
@@ -170151,7 +170170,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznivy-marsupilami-2026-cz-dabing-novinka/403d3448bd5f6d18",
       "permanent": true,
       "failed_at": "2026-05-26T16:03:55Z"
+    },
+    {
+      "cr_film_id": 36598,
+      "upload_id": "c2603abbbb6ee4ba",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zrudy-1932-cz-dabing-full-hd-drama-top-kvalita-136/c2603abbbb6ee4ba",
+      "permanent": true,
+      "failed_at": "2026-05-26T16:07:14Z"
     }
   ],
-  "last_updated": "2026-05-26T16:07:10Z"
+  "last_updated": "2026-05-26T16:08:40Z"
 }
