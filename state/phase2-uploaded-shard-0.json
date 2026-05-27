@@ -209,6 +209,25 @@
         "download_sec": 84.0,
         "upload_sec": 103.5
       }
+    },
+    {
+      "cr_film_id": 16032,
+      "cr_slug": "hotel-holiday",
+      "title": "Hotel Holiday",
+      "year": 2023,
+      "display_name": "Hotel Holiday (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "679e44a892a32",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25237359,
+      "size_bytes": 2275276822,
+      "uploaded_at": "2026-05-27T08:10:45Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 112.7,
+        "upload_sec": 137.5
+      }
     }
   ],
   "failed_attempts": [
@@ -276,5 +295,5 @@
       "failed_at": "2026-05-27T07:34:23Z"
     }
   ],
-  "last_updated": "2026-05-27T08:06:29Z"
+  "last_updated": "2026-05-27T08:10:45Z"
 }
