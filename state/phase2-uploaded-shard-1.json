@@ -3230,6 +3230,25 @@
         "download_sec": 35.0,
         "upload_sec": 39.3
       }
+    },
+    {
+      "cr_film_id": 11879,
+      "cr_slug": "vetrny-demon",
+      "title": "Větrný démon",
+      "year": 1990,
+      "display_name": "Větrný démon (1990) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58414f2021ed1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25241016,
+      "size_bytes": 503686298,
+      "uploaded_at": "2026-05-27T16:39:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.7,
+        "upload_sec": 18.9
+      }
     }
   ],
   "failed_attempts": [
@@ -3346,5 +3365,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T16:38:51Z"
+  "last_updated": "2026-05-27T16:39:29Z"
 }
