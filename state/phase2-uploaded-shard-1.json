@@ -760,6 +760,25 @@
         "download_sec": 58.9,
         "upload_sec": 85.6
       }
+    },
+    {
+      "cr_film_id": 35273,
+      "cr_slug": "pari-2018",
+      "title": "Pari",
+      "year": 2018,
+      "display_name": "Pari (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "390aefcd3fb66b0b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25238746,
+      "size_bytes": 1309630346,
+      "uploaded_at": "2026-05-27T10:36:32Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 57.8,
+        "upload_sec": 72.6
+      }
     }
   ],
   "failed_attempts": [
@@ -827,5 +846,5 @@
       "failed_at": "2026-05-27T08:58:32Z"
     }
   ],
-  "last_updated": "2026-05-27T10:34:17Z"
+  "last_updated": "2026-05-27T10:36:32Z"
 }
