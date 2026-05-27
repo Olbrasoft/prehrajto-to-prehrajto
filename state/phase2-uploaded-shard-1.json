@@ -684,6 +684,25 @@
         "download_sec": 31.5,
         "upload_sec": 33.5
       }
+    },
+    {
+      "cr_film_id": 83,
+      "cr_slug": "avengers-endgame",
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "display_name": "Avengers: Endgame (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "cc295aa58683d620",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25237755,
+      "size_bytes": 3100044371,
+      "uploaded_at": "2026-05-27T09:17:30Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 87.9,
+        "upload_sec": 111.3
+      }
     }
   ],
   "failed_attempts": [
@@ -751,5 +770,5 @@
       "failed_at": "2026-05-27T08:58:32Z"
     }
   ],
-  "last_updated": "2026-05-27T09:14:08Z"
+  "last_updated": "2026-05-27T09:17:30Z"
 }
