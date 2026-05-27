@@ -1775,3 +1775,14 @@
 [19:26:20]   upload done video_id=25245454 in 44.7s
 [19:26:22] film cr_film_id=11536 OK in 78.6s
 [19:26:22] batch-end ok=20 failed=0 dur=2201.1s avg/film=110.1s remaining=9974 eta_hours=305.0
+
+===== run 2026-05-27T19:43:07Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26534526132) =====
+[19:43:08] batch-start shard=0/2 count=20 backlog=10210 uploads=236 failed_attempts=20
+[19:43:08] login
+[19:43:10] login done
+[19:43:10] iteration 1/20
+[19:43:10] film cr_film_id=22710 name='Superman 3 (1983) CZ Dabing' candidates=6
+[19:43:10]   candidate upload_id=5c4f48b2462c2 url=https://prehraj.to/superman-3-reeve-1983-cz-dabing/5c4f48b2462c2
+[19:43:14]   resolved in 3.8s → 480p (https://pf-storage1.premiumcdn.net/11417623/1M0IbQhkdS9MCzribASyBhoacQ5sRYI0js19…)
+[19:43:49]   downloaded 642.6 MB in 32.7s (19.7 MB/s)
+[19:44:31]   upload done video_id=25246195 in 42.7s
