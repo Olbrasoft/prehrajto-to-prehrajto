@@ -2660,6 +2660,25 @@
         "download_sec": 27.7,
         "upload_sec": 25.7
       }
+    },
+    {
+      "cr_film_id": 24355,
+      "cr_slug": "jill-rips",
+      "title": "Jill Rips",
+      "year": 2000,
+      "display_name": "Jill Rips (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57c498cdd27a0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25240782,
+      "size_bytes": 475205262,
+      "uploaded_at": "2026-05-27T15:57:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.8,
+        "upload_sec": 19.7
+      }
     }
   ],
   "failed_attempts": [
@@ -2769,5 +2788,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T15:56:34Z"
+  "last_updated": "2026-05-27T15:57:14Z"
 }
