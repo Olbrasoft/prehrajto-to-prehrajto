@@ -1337,3 +1337,14 @@
 [16:38:54]   upload done video_id=25241007 in 37.5s
 [16:38:56] film cr_film_id=23600 OK in 196.0s
 [16:38:56] batch-end ok=20 failed=0 dur=2899.8s avg/film=145.0s remaining=10034 eta_hours=404.1
+
+===== run 2026-05-27T16:39:11Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26523882144) =====
+[16:39:12] batch-start shard=0/2 count=20 backlog=10210 uploads=176 failed_attempts=20
+[16:39:12] login
+[16:39:13] login done
+[16:39:13] iteration 1/20
+[16:39:13] film cr_film_id=37246 name='Cyborg 3: Záchrana rasy (1995) CZ Dabing' candidates=6
+[16:39:13]   candidate upload_id=673f97735d61c url=https://prehraj.to/cyborg-3-zachrana-rasy-akcni-sci-fi-thriller-1994-cz-dab/673f97735d61c
+[16:39:14]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/109814234/dZKSzAU3aIN3TKZU97tdAUYXSDaszxt6mHa…)
+[16:39:31]   downloaded 441.5 MB in 15.3s (28.9 MB/s)
+[16:39:49]   upload done video_id=25241019 in 18.0s
