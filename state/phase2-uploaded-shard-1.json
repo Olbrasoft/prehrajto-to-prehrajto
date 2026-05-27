@@ -4028,6 +4028,25 @@
         "download_sec": 137.3,
         "upload_sec": 170.9
       }
+    },
+    {
+      "cr_film_id": 457,
+      "cr_slug": "kramerova-versus-kramer",
+      "title": "Kramerová versus Kramer",
+      "year": 1979,
+      "display_name": "Kramerová versus Kramer (1979) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "fa9a02cc34273284",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25246197,
+      "size_bytes": 700616283,
+      "uploaded_at": "2026-05-27T19:44:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 44.4,
+        "upload_sec": 25.7
+      }
     }
   ],
   "failed_attempts": [
@@ -4144,5 +4163,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T19:27:40Z"
+  "last_updated": "2026-05-27T19:44:16Z"
 }

@@ -1605,3 +1605,14 @@
 [19:27:40]   upload done video_id=25245424 in 170.9s
 [19:27:42] film cr_film_id=22499 OK in 311.5s
 [19:27:42] batch-end ok=20 failed=0 dur=2282.3s avg/film=114.1s remaining=9998 eta_hours=316.9
+
+===== run 2026-05-27T19:43:01Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26534526132) =====
+[19:43:02] batch-start shard=1/2 count=20 backlog=10210 uploads=212 failed_attempts=16
+[19:43:02] login
+[19:43:04] login done
+[19:43:04] iteration 1/20
+[19:43:04] film cr_film_id=457 name='Kramerová versus Kramer (1979) CZ Dabing' candidates=4
+[19:43:04]   candidate upload_id=fa9a02cc34273284 url=https://prehraj.to/kramerova-versus-kramer-1979-cz-dab-720p/fa9a02cc34273284
+[19:43:05]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/167060345/EVPHOLc7ksXrURphyDTBNcW0HnXHeQtPWi9…)
+[19:43:51]   downloaded 700.6 MB in 44.4s (15.8 MB/s)
+[19:44:16]   upload done video_id=25246197 in 25.7s
