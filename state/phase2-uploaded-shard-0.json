@@ -6213,6 +6213,25 @@
         "download_sec": 39.9,
         "upload_sec": 50.3
       }
+    },
+    {
+      "cr_film_id": 35530,
+      "cr_slug": "tarzan-s-peril",
+      "title": "Tarzan's Peril",
+      "year": 1951,
+      "display_name": "Tarzan's Peril (1951) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58741ae5742f8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25257878,
+      "size_bytes": 782610817,
+      "uploaded_at": "2026-05-27T23:41:58Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 26.3,
+        "upload_sec": 28.7
+      }
     }
   ],
   "failed_attempts": [
@@ -6357,5 +6376,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T23:40:59Z"
+  "last_updated": "2026-05-27T23:41:58Z"
 }
