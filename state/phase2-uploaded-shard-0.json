@@ -1425,6 +1425,25 @@
         "download_sec": 19.3,
         "upload_sec": 22.5
       }
+    },
+    {
+      "cr_film_id": 35744,
+      "cr_slug": "karla-jonas",
+      "title": "Karla & Jonas",
+      "year": 2010,
+      "display_name": "Karla & Jonas (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5875f15bb49f6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239228,
+      "size_bytes": 514072288,
+      "uploaded_at": "2026-05-27T12:32:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.3,
+        "upload_sec": 22.6
+      }
     }
   ],
   "failed_attempts": [
@@ -1520,5 +1539,5 @@
       "failed_at": "2026-05-27T08:54:16Z"
     }
   ],
-  "last_updated": "2026-05-27T12:31:55Z"
+  "last_updated": "2026-05-27T12:32:43Z"
 }
