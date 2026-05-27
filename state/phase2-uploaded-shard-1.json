@@ -4560,6 +4560,25 @@
         "download_sec": 22.2,
         "upload_sec": 25.6
       }
+    },
+    {
+      "cr_film_id": 22153,
+      "cr_slug": "americka-noc",
+      "title": "Americká noc",
+      "year": 1973,
+      "display_name": "Americká noc (1973) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "609fa9fbbd150",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25249558,
+      "size_bytes": 897454249,
+      "uploaded_at": "2026-05-27T20:57:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.8,
+        "upload_sec": 45.4
+      }
     }
   ],
   "failed_attempts": [
@@ -4676,5 +4695,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T20:55:49Z"
+  "last_updated": "2026-05-27T20:57:12Z"
 }
