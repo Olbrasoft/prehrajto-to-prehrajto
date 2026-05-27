@@ -6251,6 +6251,25 @@
         "download_sec": 17.4,
         "upload_sec": 19.5
       }
+    },
+    {
+      "cr_film_id": 21306,
+      "cr_slug": "muz-z-colorada",
+      "title": "Muž z Colorada",
+      "year": 1948,
+      "display_name": "Muž z Colorada (1948) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60b4a4ee15986",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25257914,
+      "size_bytes": 60000662,
+      "uploaded_at": "2026-05-27T23:42:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 4.1,
+        "upload_sec": 4.6
+      }
     }
   ],
   "failed_attempts": [
@@ -6395,5 +6414,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T23:42:38Z"
+  "last_updated": "2026-05-27T23:42:50Z"
 }
