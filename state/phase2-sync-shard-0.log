@@ -899,3 +899,14 @@
 [13:26:43]   upload done video_id=25239571 in 24.9s
 [13:26:45] film cr_film_id=25450 OK in 49.0s
 [13:26:45] batch-end ok=19 failed=1 dur=1116.3s avg/film=58.8s remaining=10094 eta_hours=164.9
+
+===== run 2026-05-27T13:26:59Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26513314648) =====
+[13:27:01] batch-start shard=0/2 count=20 backlog=10210 uploads=116 failed_attempts=20
+[13:27:01] login
+[13:27:02] login done
+[13:27:02] iteration 1/20
+[13:27:02] film cr_film_id=33668 name='Matrimonium (2005) CZ Dabing' candidates=1
+[13:27:02]   candidate upload_id=60323d086e246 url=https://prehraj.to/koruna-02-07-matrimonium-drama-2017-cz-dabing/60323d086e246
+[13:27:04]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/22355459/AdNf6QsE5Uqnto5UAli2AswGIN2HzBFAPFL6…)
+[13:27:53]   downloaded 963.4 MB in 46.8s (20.6 MB/s)
+[13:28:49]   upload done video_id=25239586 in 56.0s
