@@ -2280,6 +2280,25 @@
         "download_sec": 30.7,
         "upload_sec": 34.2
       }
+    },
+    {
+      "cr_film_id": 5976,
+      "cr_slug": "starsky-hutch",
+      "title": "Starsky & Hutch",
+      "year": 2004,
+      "display_name": "Starsky & Hutch (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58756b5028dd3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239635,
+      "size_bytes": 483689852,
+      "uploaded_at": "2026-05-27T13:33:35Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.8,
+        "upload_sec": 31.2
+      }
     }
   ],
   "failed_attempts": [
@@ -2424,5 +2443,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T13:32:34Z"
+  "last_updated": "2026-05-27T13:33:35Z"
 }
