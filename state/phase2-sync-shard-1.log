@@ -1023,3 +1023,14 @@
 [15:04:53]   upload done video_id=25240172 in 22.1s
 [15:04:54] film cr_film_id=24473 OK in 45.8s
 [15:04:54] batch-end ok=20 failed=0 dur=1729.0s avg/film=86.5s remaining=10077 eta_hours=242.1
+
+===== run 2026-05-27T15:50:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26522253459) =====
+[15:50:33] batch-start shard=1/2 count=20 backlog=10210 uploads=133 failed_attempts=15
+[15:50:33] login
+[15:50:34] login done
+[15:50:34] iteration 1/20
+[15:50:34] film cr_film_id=35467 name='Byl jsem mladým Faustem (2002) CZ Dabing' candidates=1
+[15:50:34]   candidate upload_id=58698eb5a4aa1 url=https://prehraj.to/byl-jsem-mladym-faustem-kan-usa-2001-cs-dabing-tvrip/58698eb5a4aa1
+[15:50:35]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/1268992/rw6hNJT0Rhwas84FlgHlATOnIQzix4iwECaec…)
+[15:50:53]   downloaded 458.8 MB in 15.9s (28.9 MB/s)
+[15:51:12]   upload done video_id=25240760 in 18.8s
