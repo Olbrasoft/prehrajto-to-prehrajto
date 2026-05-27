@@ -1368,6 +1368,25 @@
         "download_sec": 43.0,
         "upload_sec": 53.1
       }
+    },
+    {
+      "cr_film_id": 20011,
+      "cr_slug": "prezidentske-volby",
+      "title": "Prezidentské volby",
+      "year": 2012,
+      "display_name": "Prezidentské volby (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "562cb89d3c072",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239234,
+      "size_bytes": 531157849,
+      "uploaded_at": "2026-05-27T12:33:58Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.2,
+        "upload_sec": 28.4
+      }
     }
   ],
   "failed_attempts": [
@@ -1442,5 +1461,5 @@
       "failed_at": "2026-05-27T10:39:41Z"
     }
   ],
-  "last_updated": "2026-05-27T12:32:59Z"
+  "last_updated": "2026-05-27T12:33:58Z"
 }
