@@ -1,1 +1,12 @@
 
+
+===== run 2026-05-27T07:20:06Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26496888313) =====
+[07:20:07] batch-start shard=0/2 count=20 backlog=10210 uploads=0 failed_attempts=0
+[07:20:07] login
+[07:20:10] login done
+[07:20:10] iteration 1/20
+[07:20:10] film cr_film_id=37288 name="Tom Clancy's Jack Ryan: Válka duchů (2026) CZ Dabing" candidates=9
+[07:20:10]   candidate upload_id=3c4309b7ee943f04 url=https://prehraj.to/tom-clancy-s-jack-ryan-ghost-war-2026-1080p-cz-dabing/3c4309b7ee943f04
+[07:20:11]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/172273961/jmVHynSBdTYvizMf3OhZbSqoH1oCLdCyDsN…)
+[07:21:31]   downloaded 1,770.1 MB in 78.0s (22.7 MB/s)
+[07:23:12]   upload done video_id=25237199 in 101.1s
