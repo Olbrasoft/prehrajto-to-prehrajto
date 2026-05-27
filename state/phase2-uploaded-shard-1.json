@@ -3762,6 +3762,25 @@
         "download_sec": 85.9,
         "upload_sec": 38.4
       }
+    },
+    {
+      "cr_film_id": 25301,
+      "cr_slug": "james-bond-the-first-21-years",
+      "title": "James Bond: The First 21 Years",
+      "year": 1983,
+      "display_name": "James Bond: The First 21 Years (1983) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c529fe3886a3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25244214,
+      "size_bytes": 897550741,
+      "uploaded_at": "2026-05-27T19:02:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 27.8,
+        "upload_sec": 43.4
+      }
     }
   ],
   "failed_attempts": [
@@ -3878,5 +3897,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T19:01:07Z"
+  "last_updated": "2026-05-27T19:02:21Z"
 }
