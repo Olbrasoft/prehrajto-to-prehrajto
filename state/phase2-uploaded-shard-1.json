@@ -2242,6 +2242,25 @@
         "download_sec": 18.2,
         "upload_sec": 21.9
       }
+    },
+    {
+      "cr_film_id": 25283,
+      "cr_slug": "tyranosarie",
+      "title": "Tyranosarie",
+      "year": 2004,
+      "display_name": "Tyranosarie (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "585a4e43b211a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239974,
+      "size_bytes": 366927211,
+      "uploaded_at": "2026-05-27T14:43:01Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 15.5,
+        "upload_sec": 17.8
+      }
     }
   ],
   "failed_attempts": [
@@ -2351,5 +2370,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T14:42:24Z"
+  "last_updated": "2026-05-27T14:43:01Z"
 }
