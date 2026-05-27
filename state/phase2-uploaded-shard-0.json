@@ -5187,6 +5187,25 @@
         "download_sec": 46.1,
         "upload_sec": 69.2
       }
+    },
+    {
+      "cr_film_id": 22266,
+      "cr_slug": "patrola-1975",
+      "title": "Patrola",
+      "year": 1975,
+      "display_name": "Patrola (1975) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "609d3c0a7e494",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25250018,
+      "size_bytes": 618418539,
+      "uploaded_at": "2026-05-27T21:08:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.1,
+        "upload_sec": 31.7
+      }
     }
   ],
   "failed_attempts": [
@@ -5331,5 +5350,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T21:07:40Z"
+  "last_updated": "2026-05-27T21:08:37Z"
 }
