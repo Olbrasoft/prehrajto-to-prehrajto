@@ -3116,6 +3116,25 @@
         "download_sec": 44.8,
         "upload_sec": 50.7
       }
+    },
+    {
+      "cr_film_id": 23808,
+      "cr_slug": "funny-games",
+      "title": "Funny Games",
+      "year": 1997,
+      "display_name": "Funny Games (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "51cac9cb6032216e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25240869,
+      "size_bytes": 1630555213,
+      "uploaded_at": "2026-05-27T16:17:39Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 78.4,
+        "upload_sec": 95.6
+      }
     }
   ],
   "failed_attempts": [
@@ -3260,5 +3279,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T16:14:40Z"
+  "last_updated": "2026-05-27T16:17:39Z"
 }
