@@ -266,6 +266,25 @@
         "download_sec": 45.8,
         "upload_sec": 51.1
       }
+    },
+    {
+      "cr_film_id": 6787,
+      "cr_slug": "ema-a-smrtihlav",
+      "title": "Ema a smrtihlav",
+      "year": 2024,
+      "display_name": "Ema a smrtihlav (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d41b2a0dd4d3d8d9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25237297,
+      "size_bytes": 2475145146,
+      "uploaded_at": "2026-05-27T07:48:51Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 69.8,
+        "upload_sec": 89.3
+      }
     }
   ],
   "failed_attempts": [
@@ -284,5 +303,5 @@
       "failed_at": "2026-05-27T07:43:14Z"
     }
   ],
-  "last_updated": "2026-05-27T07:46:08Z"
+  "last_updated": "2026-05-27T07:48:51Z"
 }
