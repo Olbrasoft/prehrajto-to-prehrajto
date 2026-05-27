@@ -551,6 +551,25 @@
         "download_sec": 35.2,
         "upload_sec": 56.3
       }
+    },
+    {
+      "cr_film_id": 3763,
+      "cr_slug": "charm-city-kings",
+      "title": "Charm City Kings",
+      "year": 2020,
+      "display_name": "Charm City Kings (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b85e8ec6522c94fb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25237663,
+      "size_bytes": 925305454,
+      "uploaded_at": "2026-05-27T09:06:18Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 27.6,
+        "upload_sec": 38.6
+      }
     }
   ],
   "failed_attempts": [
@@ -618,5 +637,5 @@
       "failed_at": "2026-05-27T08:58:32Z"
     }
   ],
-  "last_updated": "2026-05-27T09:05:09Z"
+  "last_updated": "2026-05-27T09:06:18Z"
 }
