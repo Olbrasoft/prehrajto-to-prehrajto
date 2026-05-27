@@ -1,1 +1,12 @@
 
+
+===== run 2026-05-27T07:20:03Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26496888313) =====
+[07:20:04] batch-start shard=1/2 count=20 backlog=10210 uploads=0 failed_attempts=0
+[07:20:04] login
+[07:20:09] login done
+[07:20:09] iteration 1/20
+[07:20:09] film cr_film_id=37209 name='Krev mého srdce (2026) CZ Dabing' candidates=5
+[07:20:09]   candidate upload_id=08958d38aeb5b8f6 url=https://prehraj.to/krev-meho-srdce-2026-cz-dab-1080p/08958d38aeb5b8f6
+[07:20:10]   resolved in 1.3s → 720p (https://pf-storage6.premiumcdn.net/171056951/jN1fGYSRKiVnsnZI1LUKJS7PfxVHlMtBzT0…)
+[07:21:08]   downloaded 1,951.3 MB in 55.6s (35.1 MB/s)
+[07:22:16]   upload done video_id=25237195 in 68.7s
