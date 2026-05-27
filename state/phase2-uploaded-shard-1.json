@@ -2907,6 +2907,25 @@
         "download_sec": 22.4,
         "upload_sec": 26.8
       }
+    },
+    {
+      "cr_film_id": 35477,
+      "cr_slug": "sabotaz-1996",
+      "title": "Sabotáž",
+      "year": 1996,
+      "display_name": "Sabotáž (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c5343b1607e8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25240903,
+      "size_bytes": 581640941,
+      "uploaded_at": "2026-05-27T16:21:07Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.2,
+        "upload_sec": 24.6
+      }
     }
   ],
   "failed_attempts": [
@@ -3016,5 +3035,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T16:12:29Z"
+  "last_updated": "2026-05-27T16:21:07Z"
 }
