@@ -475,6 +475,25 @@
         "download_sec": 21.3,
         "upload_sec": 23.0
       }
+    },
+    {
+      "cr_film_id": 28499,
+      "cr_slug": "encanto-2021",
+      "title": "Encanto",
+      "year": 2021,
+      "display_name": "Encanto (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "4a92b72ad3488e8d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25237622,
+      "size_bytes": 1743952185,
+      "uploaded_at": "2026-05-27T09:00:56Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 50.6,
+        "upload_sec": 86.6
+      }
     }
   ],
   "failed_attempts": [
@@ -512,7 +531,35 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nocni-smena-2020-cz-dab-1080p/69eff2e8828944ac",
       "permanent": true,
       "failed_at": "2026-05-27T08:51:38Z"
+    },
+    {
+      "cr_film_id": 26789,
+      "upload_id": "be75e4ab1200b58b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/luca-2021-cz-dabing/be75e4ab1200b58b",
+      "permanent": true,
+      "failed_at": "2026-05-27T08:58:14Z"
+    },
+    {
+      "cr_film_id": 26789,
+      "upload_id": "535f3545596c145b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/luca-2021-cz-dabing-mp4/535f3545596c145b",
+      "permanent": true,
+      "failed_at": "2026-05-27T08:58:20Z"
+    },
+    {
+      "cr_film_id": 26789,
+      "upload_id": "acc41a98b0b7da8b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/luca-2021-sk-dab-1080p/acc41a98b0b7da8b",
+      "permanent": true,
+      "failed_at": "2026-05-27T08:58:26Z"
+    },
+    {
+      "cr_film_id": 26789,
+      "upload_id": "3d1a970c6e554319",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/luca-2021-animovany-dobrodruzny-rodinny-fantasy-bdrip-1080p-cz-sk-dabing/3d1a970c6e554319",
+      "permanent": true,
+      "failed_at": "2026-05-27T08:58:32Z"
     }
   ],
-  "last_updated": "2026-05-27T08:58:13Z"
+  "last_updated": "2026-05-27T09:00:56Z"
 }
