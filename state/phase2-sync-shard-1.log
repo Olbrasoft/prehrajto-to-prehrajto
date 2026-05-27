@@ -297,3 +297,14 @@
 [09:17:30]   upload done video_id=25237755 in 111.3s
 [09:17:32] film cr_film_id=83 OK in 202.7s
 [09:17:32] batch-end ok=19 failed=1 dur=1919.6s avg/film=101.0s remaining=10173 eta_hours=285.4
+
+===== run 2026-05-27T10:26:19Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26505599201) =====
+[10:26:20] batch-start shard=1/2 count=20 backlog=10210 uploads=37 failed_attempts=9
+[10:26:20] login
+[10:26:22] login done
+[10:26:22] iteration 1/20
+[10:26:22] film cr_film_id=7245 name='4x4 (2019) CZ Dabing' candidates=2
+[10:26:22]   candidate upload_id=61dddb0a52cbc url=https://prehraj.to/4x4-2019-480p-webrip-czdabing/61dddb0a52cbc
+[10:26:23]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/28271307/daecBAs3dfK7TAmF3Ahkas50T68SG2hQ2U4Q…)
+[10:26:43]   downloaded 368.3 MB in 18.1s (20.3 MB/s)
+[10:27:09]   upload done video_id=25238628 in 25.9s
