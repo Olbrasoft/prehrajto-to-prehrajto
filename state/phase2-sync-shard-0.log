@@ -309,3 +309,14 @@
 [09:21:39]   upload done video_id=25237788 in 47.8s
 [09:21:40] film cr_film_id=7284 OK in 90.6s
 [09:21:40] batch-end ok=20 failed=0 dur=2167.5s avg/film=108.4s remaining=10172 eta_hours=306.3
+
+===== run 2026-05-27T10:26:16Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26505599201) =====
+[10:26:17] batch-start shard=0/2 count=20 backlog=10210 uploads=38 failed_attempts=13
+[10:26:17] login
+[10:26:19] login done
+[10:26:19] iteration 1/20
+[10:26:19] film cr_film_id=16828 name='Sicilské přízraky (2017) CZ Dabing' candidates=1
+[10:26:19]   candidate upload_id=5da745514b57a url=https://prehraj.to/sicilske-prizraky-fernandez-2017-cz-dabing/5da745514b57a
+[10:26:20]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/15070816/JP1TVxUz3IW1hlyHB8UnwUe4frvIzmIMGcAZ…)
+[10:26:38]   downloaded 452.5 MB in 16.5s (27.4 MB/s)
+[10:27:01]   upload done video_id=25238627 in 23.5s
