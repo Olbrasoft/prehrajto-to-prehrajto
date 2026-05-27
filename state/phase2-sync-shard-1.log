@@ -1751,3 +1751,14 @@
 [20:19:44]   upload done video_id=25247877 in 33.7s
 [20:19:46] film cr_film_id=22211 OK in 62.0s
 [20:19:46] batch-end ok=20 failed=0 dur=2201.9s avg/film=110.1s remaining=9978 eta_hours=305.2
+
+===== run 2026-05-27T20:45:06Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26537684459) =====
+[20:45:07] batch-start shard=1/2 count=20 backlog=10210 uploads=232 failed_attempts=16
+[20:45:07] login
+[20:45:08] login done
+[20:45:08] iteration 1/20
+[20:45:08] film cr_film_id=32599 name='Návrat bílého tesáka (1974) CZ Dabing' candidates=1
+[20:45:08]   candidate upload_id=5857f030d49ff url=https://prehraj.to/navrat-bileho-tesaka-cz-dabing-1974-sabri/5857f030d49ff
+[20:45:10]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1193958/MreHbkU6BiL3u67sjXhEGUJ5UnJSgWIvKC03c…)
+[20:45:51]   downloaded 897.0 MB in 39.3s (22.8 MB/s)
+[20:46:40]   upload done video_id=25249136 in 49.4s
