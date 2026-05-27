@@ -2926,6 +2926,25 @@
         "download_sec": 20.3,
         "upload_sec": 24.1
       }
+    },
+    {
+      "cr_film_id": 24272,
+      "cr_slug": "nejmladsi-kmotr",
+      "title": "Nejmladší kmotr",
+      "year": 1999,
+      "display_name": "Nejmladší kmotr (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "589376f356db5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25240077,
+      "size_bytes": 1255519772,
+      "uploaded_at": "2026-05-27T14:55:58Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 46.9,
+        "upload_sec": 52.4
+      }
     }
   ],
   "failed_attempts": [
@@ -3070,5 +3089,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T14:54:15Z"
+  "last_updated": "2026-05-27T14:55:58Z"
 }
