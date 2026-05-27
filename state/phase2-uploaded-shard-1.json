@@ -2356,6 +2356,25 @@
         "download_sec": 15.0,
         "upload_sec": 26.3
       }
+    },
+    {
+      "cr_film_id": 24967,
+      "cr_slug": "klub-hruzy",
+      "title": "Klub hrůzy",
+      "year": 2004,
+      "display_name": "Klub hrůzy (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ca8486165b91",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25240015,
+      "size_bytes": 564681109,
+      "uploaded_at": "2026-05-27T14:47:59Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 22.1,
+        "upload_sec": 29.6
+      }
     }
   ],
   "failed_attempts": [
@@ -2465,5 +2484,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T14:47:03Z"
+  "last_updated": "2026-05-27T14:47:59Z"
 }
