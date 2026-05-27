@@ -589,6 +589,25 @@
         "download_sec": 34.0,
         "upload_sec": 50.6
       }
+    },
+    {
+      "cr_film_id": 26229,
+      "cr_slug": "ostrov-monster",
+      "title": "Ostrov monster",
+      "year": 2019,
+      "display_name": "Ostrov monster (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "37b9513152987687",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25237678,
+      "size_bytes": 1257947330,
+      "uploaded_at": "2026-05-27T09:09:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 37.0,
+        "upload_sec": 52.9
+      }
     }
   ],
   "failed_attempts": [
@@ -656,5 +675,5 @@
       "failed_at": "2026-05-27T08:58:32Z"
     }
   ],
-  "last_updated": "2026-05-27T09:07:46Z"
+  "last_updated": "2026-05-27T09:09:19Z"
 }
