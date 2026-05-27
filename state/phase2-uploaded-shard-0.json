@@ -2470,6 +2470,25 @@
         "download_sec": 49.3,
         "upload_sec": 54.3
       }
+    },
+    {
+      "cr_film_id": 33142,
+      "cr_slug": "narkotika",
+      "title": "Narkotika",
+      "year": 2002,
+      "display_name": "Narkotika (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b74a0f24f5a6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239724,
+      "size_bytes": 724157551,
+      "uploaded_at": "2026-05-27T13:49:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 38.7,
+        "upload_sec": 40.6
+      }
     }
   ],
   "failed_attempts": [
@@ -2614,5 +2633,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T13:48:30Z"
+  "last_updated": "2026-05-27T13:49:54Z"
 }
