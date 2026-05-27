@@ -3211,6 +3211,25 @@
         "download_sec": 20.1,
         "upload_sec": 22.2
       }
+    },
+    {
+      "cr_film_id": 11953,
+      "cr_slug": "red-force-6",
+      "title": "Red Force 6",
+      "year": 1991,
+      "display_name": "Red Force 6 (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c52f8cac3d13",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25241006,
+      "size_bytes": 1086549779,
+      "uploaded_at": "2026-05-27T16:38:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 35.0,
+        "upload_sec": 39.3
+      }
     }
   ],
   "failed_attempts": [
@@ -3327,5 +3346,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T16:37:33Z"
+  "last_updated": "2026-05-27T16:38:51Z"
 }
