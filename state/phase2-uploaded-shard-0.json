@@ -399,6 +399,25 @@
         "download_sec": 45.5,
         "upload_sec": 66.0
       }
+    },
+    {
+      "cr_film_id": 7932,
+      "cr_slug": "kryci-jmeno-lev",
+      "title": "Krycí jméno Lev",
+      "year": 2020,
+      "display_name": "Krycí jméno Lev (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6671c88564dd3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25237554,
+      "size_bytes": 1488437770,
+      "uploaded_at": "2026-05-27T08:53:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 48.5,
+        "upload_sec": 66.1
+      }
     }
   ],
   "failed_attempts": [
@@ -487,5 +506,5 @@
       "failed_at": "2026-05-27T08:20:19Z"
     }
   ],
-  "last_updated": "2026-05-27T08:51:25Z"
+  "last_updated": "2026-05-27T08:53:24Z"
 }
