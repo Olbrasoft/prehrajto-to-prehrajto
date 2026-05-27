@@ -1368,6 +1368,25 @@
         "download_sec": 98.9,
         "upload_sec": 146.1
       }
+    },
+    {
+      "cr_film_id": 18240,
+      "cr_slug": "tacho",
+      "title": "TACHO",
+      "year": 2010,
+      "display_name": "TACHO (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "617c90d749e1c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239206,
+      "size_bytes": 625390670,
+      "uploaded_at": "2026-05-27T12:29:08Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.3,
+        "upload_sec": 26.8
+      }
     }
   ],
   "failed_attempts": [
@@ -1463,5 +1482,5 @@
       "failed_at": "2026-05-27T08:54:16Z"
     }
   ],
-  "last_updated": "2026-05-27T12:28:11Z"
+  "last_updated": "2026-05-27T12:29:08Z"
 }
