@@ -1900,6 +1900,25 @@
         "download_sec": 16.6,
         "upload_sec": 27.7
       }
+    },
+    {
+      "cr_film_id": 32477,
+      "cr_slug": "chvilkove-zatmeni",
+      "title": "Chvilkové zatmění",
+      "year": 2008,
+      "display_name": "Chvilkové zatmění (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63cb3de3434b3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25239548,
+      "size_bytes": 1157537029,
+      "uploaded_at": "2026-05-27T13:23:54Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 33.3,
+        "upload_sec": 45.8
+      }
     }
   ],
   "failed_attempts": [
@@ -2009,5 +2028,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T13:22:30Z"
+  "last_updated": "2026-05-27T13:23:54Z"
 }
