@@ -1897,3 +1897,14 @@
 [21:15:28]   upload done video_id=25250290 in 30.6s
 [21:15:29] film cr_film_id=30213 OK in 63.1s
 [21:15:29] batch-end ok=20 failed=0 dur=1820.9s avg/film=91.0s remaining=9958 eta_hours=251.7
+
+===== run 2026-05-27T21:36:14Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26540164128) =====
+[21:36:15] batch-start shard=1/2 count=20 backlog=10210 uploads=252 failed_attempts=16
+[21:36:15] login
+[21:36:16] login done
+[21:36:16] iteration 1/20
+[21:36:16] film cr_film_id=11003 name='Siréna od Mississippi (1969) CZ Dabing' candidates=2
+[21:36:16]   candidate upload_id=60a3e0a01c50d url=https://prehraj.to/sirena-od-mississippi-drama-1969-cz-dabing/60a3e0a01c50d
+[21:36:18]   resolved in 1.7s → 480p (https://pf-storage1.premiumcdn.net/23566443/kl1sxRhy4FXNtk3FRoCblh4Efg4ubqCG1H4p…)
+[21:36:50]   downloaded 669.5 MB in 30.0s (22.3 MB/s)
+[21:37:24]   upload done video_id=25251611 in 34.3s
