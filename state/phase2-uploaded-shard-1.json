@@ -95,6 +95,25 @@
         "download_sec": 48.5,
         "upload_sec": 53.1
       }
+    },
+    {
+      "cr_film_id": 1857,
+      "cr_slug": "thunderbolts",
+      "title": "Thunderbolts*",
+      "year": 2025,
+      "display_name": "Thunderbolts* (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "455e4b8672dfd3fc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25237232,
+      "size_bytes": 2103384360,
+      "uploaded_at": "2026-05-27T07:31:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 60.1,
+        "upload_sec": 72.4
+      }
     }
   ],
   "failed_attempts": [
@@ -106,5 +125,5 @@
       "failed_at": "2026-05-27T07:22:18Z"
     }
   ],
-  "last_updated": "2026-05-27T07:29:05Z"
+  "last_updated": "2026-05-27T07:31:21Z"
 }
