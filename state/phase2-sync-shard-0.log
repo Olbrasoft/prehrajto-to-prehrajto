@@ -455,3 +455,14 @@
 [10:54:17]   upload done video_id=25238852 in 17.2s
 [10:54:18] film cr_film_id=28084 OK in 34.4s
 [10:54:18] batch-end ok=20 failed=0 dur=1679.7s avg/film=84.0s remaining=10152 eta_hours=236.9
+
+===== run 2026-05-27T11:48:01Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26509220705) =====
+[11:48:02] batch-start shard=0/2 count=20 backlog=10210 uploads=58 failed_attempts=13
+[11:48:02] login
+[11:48:03] login done
+[11:48:03] iteration 1/20
+[11:48:03] film cr_film_id=19974 name='Pokrevní pouto (2013) CZ Dabing' candidates=2
+[11:48:03]   candidate upload_id=680fecf1e30ff url=https://prehraj.to/pokrevni-pouto-clive-owen-billy-crudup-mila-kunis-zoe-saldana-2013-krimi-drama-thriller-bdrip-1080p-cz-dabing/680fecf1e30ff
+[11:48:05]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/136491623/Az4T97IWxSg9sL4U95h15IdgcWVSr1SN9Co…)
+[11:49:32]   downloaded 1,878.1 MB in 85.8s (21.9 MB/s)
+[11:50:49]   upload done video_id=25239041 in 77.0s
