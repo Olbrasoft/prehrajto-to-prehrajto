@@ -1483,3 +1483,14 @@
 [17:03:02]   upload done video_id=25241321 in 23.1s
 [17:03:04] film cr_film_id=23176 OK in 47.0s
 [17:03:04] batch-end ok=20 failed=0 dur=1430.4s avg/film=71.5s remaining=10014 eta_hours=198.9
+
+===== run 2026-05-27T17:36:31Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26527938453) =====
+[17:36:32] batch-start shard=0/2 count=20 backlog=10210 uploads=196 failed_attempts=20
+[17:36:32] login
+[17:36:33] login done
+[17:36:33] iteration 1/20
+[17:36:33] film cr_film_id=23198 name='Únik (1991) CZ Dabing' candidates=1
+[17:36:33]   candidate upload_id=58952cc283cce url=https://prehraj.to/unik-1991-vhs-rip-cz-dabing/58952cc283cce
+[17:36:35]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/1615237/e9pFrBsBJIJvfQBC1mTemsDRfMaha7uqkHkAh…)
+[17:36:57]   downloaded 376.5 MB in 19.5s (19.3 MB/s)
+[17:37:22]   upload done video_id=25241865 in 25.3s
