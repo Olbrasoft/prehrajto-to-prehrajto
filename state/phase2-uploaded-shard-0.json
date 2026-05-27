@@ -1292,6 +1292,25 @@
         "download_sec": 17.0,
         "upload_sec": 16.7
       }
+    },
+    {
+      "cr_film_id": 27624,
+      "cr_slug": "titeuf-le-film",
+      "title": "Titeuf (Le Film)",
+      "year": 2011,
+      "display_name": "Titeuf (Le Film) (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58673e1daa67d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25239175,
+      "size_bytes": 710524427,
+      "uploaded_at": "2026-05-27T12:21:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 28.3,
+        "upload_sec": 34.2
+      }
     }
   ],
   "failed_attempts": [
@@ -1387,5 +1406,5 @@
       "failed_at": "2026-05-27T08:54:16Z"
     }
   ],
-  "last_updated": "2026-05-27T12:19:54Z"
+  "last_updated": "2026-05-27T12:21:19Z"
 }
