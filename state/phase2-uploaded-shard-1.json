@@ -3249,6 +3249,25 @@
         "download_sec": 15.7,
         "upload_sec": 18.9
       }
+    },
+    {
+      "cr_film_id": 11875,
+      "cr_slug": "china-o-brien",
+      "title": "China O'Brien",
+      "year": 1990,
+      "display_name": "China O'Brien (1990) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58415d1731d1c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25241021,
+      "size_bytes": 669845855,
+      "uploaded_at": "2026-05-27T16:40:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.7,
+        "upload_sec": 29.9
+      }
     }
   ],
   "failed_attempts": [
@@ -3365,5 +3384,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T16:39:29Z"
+  "last_updated": "2026-05-27T16:40:26Z"
 }
