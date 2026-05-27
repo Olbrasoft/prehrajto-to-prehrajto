@@ -753,3 +753,14 @@
 [13:07:52]   upload done video_id=25239411 in 30.9s
 [13:07:54] film cr_film_id=25974 OK in 60.1s
 [13:07:54] batch-end ok=19 failed=1 dur=1977.1s avg/film=104.1s remaining=10113 eta_hours=292.4
+
+===== run 2026-05-27T13:08:06Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26511948231) =====
+[13:08:07] batch-start shard=0/2 count=20 backlog=10210 uploads=97 failed_attempts=18
+[13:08:07] login
+[13:08:08] login done
+[13:08:08] iteration 1/20
+[13:08:08] film cr_film_id=33710 name='Odplata (2007) CZ Dabing' candidates=1
+[13:08:08]   candidate upload_id=606f26b97529f url=https://prehraj.to/odplata-thriller-2006-cz-dabing/606f26b97529f
+[13:08:09]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/23020240/XwxSoxux3FrXswziKwhM4uGASmosP0c8bcAJ…)
+[13:08:31]   downloaded 573.3 MB in 19.9s (28.8 MB/s)
+[13:09:01]   upload done video_id=25239420 in 30.3s
