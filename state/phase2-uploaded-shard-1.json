@@ -2774,6 +2774,25 @@
         "download_sec": 16.7,
         "upload_sec": 25.2
       }
+    },
+    {
+      "cr_film_id": 12403,
+      "cr_slug": "koule",
+      "title": "Koule",
+      "year": 1998,
+      "display_name": "Koule (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5cbb106b4b990",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25240816,
+      "size_bytes": 663939923,
+      "uploaded_at": "2026-05-27T16:04:27Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 20.0,
+        "upload_sec": 25.4
+      }
     }
   ],
   "failed_attempts": [
@@ -2883,5 +2902,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T16:03:38Z"
+  "last_updated": "2026-05-27T16:04:27Z"
 }
