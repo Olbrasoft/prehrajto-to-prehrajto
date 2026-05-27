@@ -2213,3 +2213,14 @@
 [22:10:51]   upload done video_id=25254842 in 37.3s
 [22:10:53] film cr_film_id=36662 OK in 73.6s
 [22:10:53] batch-end ok=20 failed=0 dur=2076.5s avg/film=103.8s remaining=9914 eta_hours=285.9
+
+===== run 2026-05-27T22:34:36Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26542741431) =====
+[22:34:37] batch-start shard=0/2 count=20 backlog=10210 uploads=296 failed_attempts=20
+[22:34:37] login
+[22:34:39] login done
+[22:34:39] iteration 1/20
+[22:34:39] film cr_film_id=21922 name='Lovci skalpů (1968) CZ Dabing' candidates=3
+[22:34:39]   candidate upload_id=5839865ac8942 url=https://prehraj.to/lovci-skalpu-cz-dabing-western-komedie-usa-1968-filmy-site88-net/5839865ac8942
+[22:34:40]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/938045/9KVTN6Fv4SPzcZgcpLUBWFJ4TVwhapu8JhmWTq…)
+[22:35:14]   downloaded 604.0 MB in 31.9s (18.9 MB/s)
+[22:35:52]   upload done video_id=25255927 in 37.9s
