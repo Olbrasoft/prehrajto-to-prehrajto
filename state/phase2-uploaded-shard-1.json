@@ -4142,6 +4142,25 @@
         "download_sec": 16.6,
         "upload_sec": 21.2
       }
+    },
+    {
+      "cr_film_id": 22369,
+      "cr_slug": "oranzsky-vojak",
+      "title": "Oranžský voják",
+      "year": 1977,
+      "display_name": "Oranžský voják (1977) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58152b32edfc8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25246624,
+      "size_bytes": 755533535,
+      "uploaded_at": "2026-05-27T19:54:07Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 114.4,
+        "upload_sec": 45.9
+      }
     }
   ],
   "failed_attempts": [
@@ -4258,5 +4277,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T19:51:22Z"
+  "last_updated": "2026-05-27T19:54:07Z"
 }
