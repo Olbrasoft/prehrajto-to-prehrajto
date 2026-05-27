@@ -6365,6 +6365,25 @@
         "download_sec": 72.9,
         "upload_sec": 87.3
       }
+    },
+    {
+      "cr_film_id": 16778,
+      "cr_slug": "wardriver",
+      "title": "Wardriver",
+      "year": 2026,
+      "display_name": "Wardriver (2026) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "44e2d20886481f77",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25258164,
+      "size_bytes": 1113262815,
+      "uploaded_at": "2026-05-27T23:52:06Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 36.4,
+        "upload_sec": 55.6
+      }
     }
   ],
   "failed_attempts": [
@@ -6509,5 +6528,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T23:50:30Z"
+  "last_updated": "2026-05-27T23:52:06Z"
 }
