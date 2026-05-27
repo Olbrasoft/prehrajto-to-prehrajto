@@ -591,3 +591,24 @@
 [12:40:36]   upload done video_id=25239267 in 42.2s
 [12:40:38] film cr_film_id=32333 OK in 85.1s
 [12:40:38] batch-end ok=20 failed=0 dur=3146.4s avg/film=157.3s remaining=10133 eta_hours=442.8
+
+===== run 2026-05-27T12:40:55Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26511738384) =====
+[12:40:56] batch-start shard=1/2 count=20 backlog=10210 uploads=77 failed_attempts=10
+[12:40:56] login
+[12:40:57] login done
+[12:40:57] iteration 1/20
+[12:40:57] film cr_film_id=27685 name='Tajemství Noemovy archy (2011) CZ Dabing' candidates=1
+[12:40:57]   candidate upload_id=5873ff518cc36 url=https://prehraj.to/tajemstvi-noemovy-archy-cz-dabing-2011/5873ff518cc36
+[12:40:59]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/tajemstvi-noemovy-archy-cz-dabing-2011/5873ff518cc36 (permanent=True)
+[12:40:59] film cr_film_id=27685 all candidates exhausted
+[12:40:59] iteration 2/20
+[12:40:59] film cr_film_id=27519 name='Territories (2010) CZ Dabing' candidates=1
+[12:40:59]   candidate upload_id=583b2542d0c72 url=https://prehraj.to/territories-2010-novinka-horor-cz-dabing/583b2542d0c72
+[12:41:05]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/territories-2010-novinka-horor-cz-dabing/583b2542d0c72 (permanent=True)
+[12:41:05] film cr_film_id=27519 all candidates exhausted
+[12:41:05] iteration 3/20
+[12:41:05] film cr_film_id=32701 name='Setkání s nebezpečím (2010) CZ Dabing' candidates=1
+[12:41:05]   candidate upload_id=5869bbf078eef url=https://prehraj.to/setkani-s-nebezpecim-2009-cz-dabing/5869bbf078eef
+[12:41:11]   resolved in 6.2s → 480p (https://pf-storage2.premiumcdn.net/1269412/396sM4fKwtl9FqkUBEfxLf0kFRquMvHpouAJu…)
+[12:41:32]   downloaded 354.3 MB in 19.1s (18.6 MB/s)
+[12:41:55]   upload done video_id=25239274 in 22.3s

@@ -1463,6 +1463,25 @@
         "download_sec": 37.4,
         "upload_sec": 42.2
       }
+    },
+    {
+      "cr_film_id": 32701,
+      "cr_slug": "setkani-s-nebezpecim",
+      "title": "Setkání s nebezpečím",
+      "year": 2010,
+      "display_name": "Setkání s nebezpečím (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5869bbf078eef",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239274,
+      "size_bytes": 354334093,
+      "uploaded_at": "2026-05-27T12:41:55Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 19.1,
+        "upload_sec": 22.3
+      }
     }
   ],
   "failed_attempts": [
@@ -1535,7 +1554,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jsem-bozska-2018-cz-dab-530p/bdf55df9346d6ac7",
       "permanent": true,
       "failed_at": "2026-05-27T10:39:41Z"
+    },
+    {
+      "cr_film_id": 27685,
+      "upload_id": "5873ff518cc36",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/tajemstvi-noemovy-archy-cz-dabing-2011/5873ff518cc36",
+      "permanent": true,
+      "failed_at": "2026-05-27T12:40:59Z"
+    },
+    {
+      "cr_film_id": 27519,
+      "upload_id": "583b2542d0c72",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/territories-2010-novinka-horor-cz-dabing/583b2542d0c72",
+      "permanent": true,
+      "failed_at": "2026-05-27T12:41:05Z"
     }
   ],
-  "last_updated": "2026-05-27T12:40:36Z"
+  "last_updated": "2026-05-27T12:41:55Z"
 }
