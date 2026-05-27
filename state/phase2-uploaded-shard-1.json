@@ -2394,6 +2394,25 @@
         "download_sec": 120.6,
         "upload_sec": 141.7
       }
+    },
+    {
+      "cr_film_id": 24625,
+      "cr_slug": "zakon-gangu",
+      "title": "Zákon Gangu",
+      "year": 2002,
+      "display_name": "Zákon Gangu (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0e625f058ac042c9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25240075,
+      "size_bytes": 4007348087,
+      "uploaded_at": "2026-05-27T14:57:53Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 129.8,
+        "upload_sec": 194.5
+      }
     }
   ],
   "failed_attempts": [
@@ -2503,5 +2522,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T14:52:25Z"
+  "last_updated": "2026-05-27T14:57:53Z"
 }
