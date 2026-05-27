@@ -6346,6 +6346,25 @@
         "download_sec": 18.9,
         "upload_sec": 24.4
       }
+    },
+    {
+      "cr_film_id": 20406,
+      "cr_slug": "zeta",
+      "title": "Zeta",
+      "year": 2026,
+      "display_name": "Zeta (2026) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "f0a6c6478dbb5957",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25258122,
+      "size_bytes": 2270451095,
+      "uploaded_at": "2026-05-27T23:50:30Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 72.9,
+        "upload_sec": 87.3
+      }
     }
   ],
   "failed_attempts": [
@@ -6490,5 +6509,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T23:47:47Z"
+  "last_updated": "2026-05-27T23:50:30Z"
 }
