@@ -4883,6 +4883,25 @@
         "download_sec": 29.4,
         "upload_sec": 37.8
       }
+    },
+    {
+      "cr_film_id": 10893,
+      "cr_slug": "nezdolne-trio",
+      "title": "Nezdolné trio",
+      "year": 1966,
+      "display_name": "Nezdolné trio (1966) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a797873a19f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25252761,
+      "size_bytes": 526650637,
+      "uploaded_at": "2026-05-27T21:45:43Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 24.4,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -4999,5 +5018,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T21:44:42Z"
+  "last_updated": "2026-05-27T21:45:43Z"
 }
