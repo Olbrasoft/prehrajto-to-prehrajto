@@ -798,6 +798,25 @@
         "download_sec": 71.6,
         "upload_sec": 110.9
       }
+    },
+    {
+      "cr_film_id": 7313,
+      "cr_slug": "jsem-bozska",
+      "title": "Jsem božská",
+      "year": 2018,
+      "display_name": "Jsem božská (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a0810c6b33903316",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25238771,
+      "size_bytes": 942156838,
+      "uploaded_at": "2026-05-27T10:41:31Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 38.8,
+        "upload_sec": 62.8
+      }
     }
   ],
   "failed_attempts": [
@@ -863,7 +882,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/luca-2021-animovany-dobrodruzny-rodinny-fantasy-bdrip-1080p-cz-sk-dabing/3d1a970c6e554319",
       "permanent": true,
       "failed_at": "2026-05-27T08:58:32Z"
+    },
+    {
+      "cr_film_id": 7313,
+      "upload_id": "bdf55df9346d6ac7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jsem-bozska-2018-cz-dab-530p/bdf55df9346d6ac7",
+      "permanent": true,
+      "failed_at": "2026-05-27T10:39:41Z"
     }
   ],
-  "last_updated": "2026-05-27T10:39:39Z"
+  "last_updated": "2026-05-27T10:41:31Z"
 }
