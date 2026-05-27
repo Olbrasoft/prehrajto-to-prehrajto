@@ -646,6 +646,25 @@
         "download_sec": 88.0,
         "upload_sec": 106.2
       }
+    },
+    {
+      "cr_film_id": 17126,
+      "cr_slug": "gloria-bell",
+      "title": "Gloria Bell",
+      "year": 2018,
+      "display_name": "Gloria Bell (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e36eba38d5a9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25237764,
+      "size_bytes": 385005717,
+      "uploaded_at": "2026-05-27T09:16:36Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.5,
+        "upload_sec": 18.5
+      }
     }
   ],
   "failed_attempts": [
@@ -741,5 +760,5 @@
       "failed_at": "2026-05-27T08:54:16Z"
     }
   ],
-  "last_updated": "2026-05-27T09:15:56Z"
+  "last_updated": "2026-05-27T09:16:36Z"
 }
