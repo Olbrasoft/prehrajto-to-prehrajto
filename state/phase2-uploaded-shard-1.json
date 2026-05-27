@@ -1292,6 +1292,25 @@
         "download_sec": 24.4,
         "upload_sec": 35.1
       }
+    },
+    {
+      "cr_film_id": 36687,
+      "cr_slug": "zasazen-bleskem",
+      "title": "Zasažen bleskem",
+      "year": 2013,
+      "display_name": "Zasažen bleskem (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57f0673684ffc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239204,
+      "size_bytes": 362515736,
+      "uploaded_at": "2026-05-27T12:28:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.1,
+        "upload_sec": 22.8
+      }
     }
   ],
   "failed_attempts": [
@@ -1366,5 +1385,5 @@
       "failed_at": "2026-05-27T10:39:41Z"
     }
   ],
-  "last_updated": "2026-05-27T12:28:05Z"
+  "last_updated": "2026-05-27T12:28:51Z"
 }
