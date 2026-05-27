@@ -4313,6 +4313,25 @@
         "download_sec": 26.2,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 22271,
+      "cr_slug": "rocky-horror-picture-show",
+      "title": "Rocky Horror Picture Show",
+      "year": 1975,
+      "display_name": "Rocky Horror Picture Show (1975) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57f7016f9d558",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25247621,
+      "size_bytes": 252690724,
+      "uploaded_at": "2026-05-27T20:13:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.2,
+        "upload_sec": 10.3
+      }
     }
   ],
   "failed_attempts": [
@@ -4429,5 +4448,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T20:13:15Z"
+  "last_updated": "2026-05-27T20:13:52Z"
 }
