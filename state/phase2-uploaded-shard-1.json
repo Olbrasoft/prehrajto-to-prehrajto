@@ -5738,6 +5738,25 @@
         "download_sec": 55.8,
         "upload_sec": 68.3
       }
+    },
+    {
+      "cr_film_id": 28821,
+      "cr_slug": "melania",
+      "title": "Melania",
+      "year": 2026,
+      "display_name": "Melania (2026) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "d1920efd2f78b085",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25258228,
+      "size_bytes": 1916265609,
+      "uploaded_at": "2026-05-27T23:54:48Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 61.0,
+        "upload_sec": 66.1
+      }
     }
   ],
   "failed_attempts": [
@@ -5861,5 +5880,5 @@
       "failed_at": "2026-05-27T23:46:23Z"
     }
   ],
-  "last_updated": "2026-05-27T23:52:37Z"
+  "last_updated": "2026-05-27T23:54:48Z"
 }
