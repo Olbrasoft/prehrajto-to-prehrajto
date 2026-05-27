@@ -1748,6 +1748,25 @@
         "download_sec": 18.3,
         "upload_sec": 22.8
       }
+    },
+    {
+      "cr_film_id": 30106,
+      "cr_slug": "ztraceni-v-pekingu",
+      "title": "Ztraceni v Pekingu",
+      "year": 2007,
+      "display_name": "Ztraceni v Pekingu (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5aa9e5c847629",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25239382,
+      "size_bytes": 1440319807,
+      "uploaded_at": "2026-05-27T13:03:57Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 53.5,
+        "upload_sec": 58.1
+      }
     }
   ],
   "failed_attempts": [
@@ -1848,7 +1867,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/seraphine-2008-czdab/637414738a624",
       "permanent": true,
       "failed_at": "2026-05-27T12:57:14Z"
+    },
+    {
+      "cr_film_id": 30106,
+      "upload_id": "586d2a28d003c",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/ztraceni-v-pekingu-cin-drama-2007-cs-dabing-tvrip/586d2a28d003c",
+      "permanent": true,
+      "failed_at": "2026-05-27T13:01:57Z"
     }
   ],
-  "last_updated": "2026-05-27T13:01:55Z"
+  "last_updated": "2026-05-27T13:03:57Z"
 }
