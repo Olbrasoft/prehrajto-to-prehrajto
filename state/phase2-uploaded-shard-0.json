@@ -323,6 +323,25 @@
         "download_sec": 149.1,
         "upload_sec": 177.9
       }
+    },
+    {
+      "cr_film_id": 14524,
+      "cr_slug": "fotr-je-zpatky",
+      "title": "Fotr je zpátky",
+      "year": 2021,
+      "display_name": "Fotr je zpátky (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61d091bad24c0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25237411,
+      "size_bytes": 1928852838,
+      "uploaded_at": "2026-05-27T08:29:27Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 94.7,
+        "upload_sec": 112.7
+      }
     }
   ],
   "failed_attempts": [
@@ -411,5 +430,5 @@
       "failed_at": "2026-05-27T08:20:19Z"
     }
   ],
-  "last_updated": "2026-05-27T08:25:55Z"
+  "last_updated": "2026-05-27T08:29:27Z"
 }
