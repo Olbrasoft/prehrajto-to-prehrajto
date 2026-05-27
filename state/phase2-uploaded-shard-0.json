@@ -3610,6 +3610,25 @@
         "download_sec": 38.9,
         "upload_sec": 42.3
       }
+    },
+    {
+      "cr_film_id": 23342,
+      "cr_slug": "americky-ninja-5",
+      "title": "Americký ninja 5",
+      "year": 1993,
+      "display_name": "Americký ninja 5 (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c5150b17d380",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25241233,
+      "size_bytes": 744412998,
+      "uploaded_at": "2026-05-27T16:57:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.6,
+        "upload_sec": 27.5
+      }
     }
   ],
   "failed_attempts": [
@@ -3754,5 +3773,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T16:56:44Z"
+  "last_updated": "2026-05-27T16:57:39Z"
 }
