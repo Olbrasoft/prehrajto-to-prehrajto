@@ -4256,6 +4256,25 @@
         "download_sec": 63.1,
         "upload_sec": 95.9
       }
+    },
+    {
+      "cr_film_id": 11205,
+      "cr_slug": "bitva-o-midway",
+      "title": "Bitva o Midway",
+      "year": 1976,
+      "display_name": "Bitva o Midway (1976) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "609c5f1b0fdf0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25247355,
+      "size_bytes": 1501136143,
+      "uploaded_at": "2026-05-27T20:09:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 55.0,
+        "upload_sec": 60.2
+      }
     }
   ],
   "failed_attempts": [
@@ -4372,5 +4391,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T20:07:27Z"
+  "last_updated": "2026-05-27T20:09:26Z"
 }
