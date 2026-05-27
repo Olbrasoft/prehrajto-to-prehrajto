@@ -4427,6 +4427,25 @@
         "download_sec": 39.3,
         "upload_sec": 49.4
       }
+    },
+    {
+      "cr_film_id": 34853,
+      "cr_slug": "karambol",
+      "title": "Karambol",
+      "year": 1974,
+      "display_name": "Karambol (1974) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "682b483489729",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25249203,
+      "size_bytes": 1241717964,
+      "uploaded_at": "2026-05-27T20:48:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 44.6,
+        "upload_sec": 53.6
+      }
     }
   ],
   "failed_attempts": [
@@ -4543,5 +4562,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T20:46:40Z"
+  "last_updated": "2026-05-27T20:48:23Z"
 }
