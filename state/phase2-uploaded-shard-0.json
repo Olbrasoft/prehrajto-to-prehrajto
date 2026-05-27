@@ -6099,6 +6099,25 @@
         "download_sec": 14.8,
         "upload_sec": 19.1
       }
+    },
+    {
+      "cr_film_id": 21434,
+      "cr_slug": "pan-roberts",
+      "title": "Pan Roberts",
+      "year": 1955,
+      "display_name": "Pan Roberts (1955) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60b01562e62b8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25257602,
+      "size_bytes": 669885873,
+      "uploaded_at": "2026-05-27T23:34:38Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.4,
+        "upload_sec": 25.4
+      }
     }
   ],
   "failed_attempts": [
@@ -6243,5 +6262,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T23:33:45Z"
+  "last_updated": "2026-05-27T23:34:38Z"
 }
