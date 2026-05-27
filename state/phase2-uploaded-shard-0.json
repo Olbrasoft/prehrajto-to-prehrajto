@@ -1957,6 +1957,25 @@
         "download_sec": 16.5,
         "upload_sec": 19.9
       }
+    },
+    {
+      "cr_film_id": 736,
+      "cr_slug": "volver",
+      "title": "Volver",
+      "year": 2006,
+      "display_name": "Volver (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d1cd59e3a0ad",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239458,
+      "size_bytes": 627305245,
+      "uploaded_at": "2026-05-27T13:13:47Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 21.7,
+        "upload_sec": 24.0
+      }
     }
   ],
   "failed_attempts": [
@@ -2087,5 +2106,5 @@
       "failed_at": "2026-05-27T13:06:55Z"
     }
   ],
-  "last_updated": "2026-05-27T13:12:58Z"
+  "last_updated": "2026-05-27T13:13:47Z"
 }
