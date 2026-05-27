@@ -5681,6 +5681,25 @@
         "download_sec": 35.0,
         "upload_sec": 50.2
       }
+    },
+    {
+      "cr_film_id": 7445,
+      "cr_slug": "one-mile-chapter-one",
+      "title": "One Mile: Chapter One",
+      "year": 2026,
+      "display_name": "One Mile: Chapter One (2026) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "df55d4bce4469898",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25258071,
+      "size_bytes": 2177344912,
+      "uploaded_at": "2026-05-27T23:48:49Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 62.5,
+        "upload_sec": 75.7
+      }
     }
   ],
   "failed_attempts": [
@@ -5795,7 +5814,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/house-party-1990-1-cz-dab/c62f098b62ae4b17",
       "permanent": true,
       "failed_at": "2026-05-27T16:29:53Z"
+    },
+    {
+      "cr_film_id": 9147,
+      "upload_id": "1d53f93a9bbf2e18",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/one-mile-chapter-two-2026-cz-tit-1080p/1d53f93a9bbf2e18",
+      "permanent": true,
+      "failed_at": "2026-05-27T23:46:23Z"
     }
   ],
-  "last_updated": "2026-05-27T23:46:21Z"
+  "last_updated": "2026-05-27T23:48:49Z"
 }
