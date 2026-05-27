@@ -646,6 +646,25 @@
         "download_sec": 34.3,
         "upload_sec": 56.8
       }
+    },
+    {
+      "cr_film_id": 2945,
+      "cr_slug": "judy",
+      "title": "Judy",
+      "year": 2019,
+      "display_name": "Judy (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60cc5f38eb08d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25237736,
+      "size_bytes": 565478722,
+      "uploaded_at": "2026-05-27T09:13:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.1,
+        "upload_sec": 25.3
+      }
     }
   ],
   "failed_attempts": [
@@ -713,5 +732,5 @@
       "failed_at": "2026-05-27T08:58:32Z"
     }
   ],
-  "last_updated": "2026-05-27T09:12:11Z"
+  "last_updated": "2026-05-27T09:13:00Z"
 }
