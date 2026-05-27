@@ -2166,6 +2166,25 @@
         "download_sec": 24.9,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 7733,
+      "cr_slug": "zbohatni-nebo-chcipni-cz",
+      "title": "Zbohatni nebo chcípni",
+      "year": 2005,
+      "display_name": "Zbohatni nebo chcípni (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6071f0abce47f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239935,
+      "size_bytes": 562395545,
+      "uploaded_at": "2026-05-27T14:38:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.5,
+        "upload_sec": 27.1
+      }
     }
   ],
   "failed_attempts": [
@@ -2275,5 +2294,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T14:37:10Z"
+  "last_updated": "2026-05-27T14:38:02Z"
 }
