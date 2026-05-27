@@ -4522,6 +4522,25 @@
         "download_sec": 67.3,
         "upload_sec": 90.2
       }
+    },
+    {
+      "cr_film_id": 22692,
+      "cr_slug": "phar-lap-narodni-hrdina",
+      "title": "Phar Lap: Národní hrdina",
+      "year": 1983,
+      "display_name": "Phar Lap: Národní hrdina (1983) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60944326b31f4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25246387,
+      "size_bytes": 654137665,
+      "uploaded_at": "2026-05-27T19:48:44Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 42.1,
+        "upload_sec": 43.2
+      }
     }
   ],
   "failed_attempts": [
@@ -4666,5 +4685,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T19:47:14Z"
+  "last_updated": "2026-05-27T19:48:44Z"
 }
