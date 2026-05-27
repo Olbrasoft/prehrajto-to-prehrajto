@@ -2698,6 +2698,25 @@
         "download_sec": 22.4,
         "upload_sec": 25.7
       }
+    },
+    {
+      "cr_film_id": 12840,
+      "cr_slug": "ve-stinu-upira",
+      "title": "Ve stínu upíra",
+      "year": 2000,
+      "display_name": "Ve stínu upíra (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "8142886be77d34fc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25239978,
+      "size_bytes": 1493555011,
+      "uploaded_at": "2026-05-27T14:44:00Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 48.6,
+        "upload_sec": 71.6
+      }
     }
   ],
   "failed_attempts": [
@@ -2842,5 +2861,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T14:41:56Z"
+  "last_updated": "2026-05-27T14:44:00Z"
 }
