@@ -6384,6 +6384,25 @@
         "download_sec": 36.4,
         "upload_sec": 55.6
       }
+    },
+    {
+      "cr_film_id": 10094,
+      "cr_slug": "the-strangers-chapter-3",
+      "title": "The Strangers: Chapter 3",
+      "year": 2026,
+      "display_name": "The Strangers: Chapter 3 (2026) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "c6a2b19880a065c3",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25258295,
+      "size_bytes": 1158755241,
+      "uploaded_at": "2026-05-27T23:57:00Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 36.1,
+        "upload_sec": 46.5
+      }
     }
   ],
   "failed_attempts": [
@@ -6526,7 +6545,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ctyri-bratri-2005-cz-dab-1080p/b1ec3e306c8180ae",
       "permanent": true,
       "failed_at": "2026-05-27T13:21:24Z"
+    },
+    {
+      "cr_film_id": 36992,
+      "upload_id": "da9f4546256d2eec",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/twisted-2026-cz-titulky/da9f4546256d2eec",
+      "permanent": true,
+      "failed_at": "2026-05-27T23:55:30Z"
     }
   ],
-  "last_updated": "2026-05-27T23:52:06Z"
+  "last_updated": "2026-05-27T23:57:00Z"
 }
