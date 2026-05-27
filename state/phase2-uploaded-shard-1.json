@@ -3496,6 +3496,25 @@
         "download_sec": 26.2,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 19397,
+      "cr_slug": "kacer-howard",
+      "title": "Kačer Howard",
+      "year": 1986,
+      "display_name": "Kačer Howard (1986) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60902427ecb7b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25241974,
+      "size_bytes": 624241829,
+      "uploaded_at": "2026-05-27T17:49:36Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 28.2,
+        "upload_sec": 33.6
+      }
     }
   ],
   "failed_attempts": [
@@ -3612,5 +3631,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T17:48:29Z"
+  "last_updated": "2026-05-27T17:49:36Z"
 }
