@@ -601,3 +601,14 @@
 [12:34:38]   upload done video_id=25239240 in 28.0s
 [12:34:39] film cr_film_id=27056 OK in 55.6s
 [12:34:39] batch-end ok=20 failed=0 dur=2795.7s avg/film=139.8s remaining=10132 eta_hours=393.5
+
+===== run 2026-05-27T12:34:54Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26510654685) =====
+[12:34:55] batch-start shard=0/2 count=20 backlog=10210 uploads=78 failed_attempts=13
+[12:34:55] login
+[12:34:57] login done
+[12:34:57] iteration 1/20
+[12:34:57] film cr_film_id=27354 name='UFO: Vím co jsem viděl (2009) CZ Dabing' candidates=1
+[12:34:57]   candidate upload_id=58529c78bebc9 url=https://prehraj.to/ufo-vim-co-jsem-videl-2009-cz-dabing/58529c78bebc9
+[12:34:58]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/1178283/RJ8iQ1TdqtkKSN6HPzTd2TrqhX2FydCPKUmdC…)
+[12:35:20]   downloaded 486.2 MB in 19.9s (24.4 MB/s)
+[12:35:45]   upload done video_id=25239245 in 25.0s
