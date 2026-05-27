@@ -3857,6 +3857,25 @@
         "download_sec": 35.1,
         "upload_sec": 43.5
       }
+    },
+    {
+      "cr_film_id": 23026,
+      "cr_slug": "zmrazeni",
+      "title": "Zmrazení",
+      "year": 1989,
+      "display_name": "Zmrazení (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "608bcc35a5fdb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25241993,
+      "size_bytes": 696940280,
+      "uploaded_at": "2026-05-27T17:52:02Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 34.6,
+        "upload_sec": 36.9
+      }
     }
   ],
   "failed_attempts": [
@@ -4001,5 +4020,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T17:50:46Z"
+  "last_updated": "2026-05-27T17:52:02Z"
 }
