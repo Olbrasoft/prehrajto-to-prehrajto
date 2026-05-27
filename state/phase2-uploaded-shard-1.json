@@ -3667,6 +3667,25 @@
         "download_sec": 46.7,
         "upload_sec": 28.1
       }
+    },
+    {
+      "cr_film_id": 11465,
+      "cr_slug": "don-camillo",
+      "title": "Don Camillo",
+      "year": 1984,
+      "display_name": "Don Camillo (1984) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60943ba43078f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25243580,
+      "size_bytes": 1157205359,
+      "uploaded_at": "2026-05-27T18:52:27Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 35.2,
+        "upload_sec": 51.0
+      }
     }
   ],
   "failed_attempts": [
@@ -3783,5 +3802,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T18:50:57Z"
+  "last_updated": "2026-05-27T18:52:27Z"
 }
