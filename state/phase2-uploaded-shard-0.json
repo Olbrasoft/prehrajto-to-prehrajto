@@ -5928,6 +5928,25 @@
         "download_sec": 33.9,
         "upload_sec": 38.1
       }
+    },
+    {
+      "cr_film_id": 10814,
+      "cr_slug": "cartouche",
+      "title": "Cartouche",
+      "year": 1962,
+      "display_name": "Cartouche (1962) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68c30686dbef5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25256908,
+      "size_bytes": 4076407671,
+      "uploaded_at": "2026-05-27T23:11:23Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 188.2,
+        "upload_sec": 224.3
+      }
     }
   ],
   "failed_attempts": [
@@ -6072,5 +6091,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T23:04:25Z"
+  "last_updated": "2026-05-27T23:11:23Z"
 }
