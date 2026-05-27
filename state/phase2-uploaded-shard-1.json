@@ -2280,6 +2280,25 @@
         "download_sec": 19.0,
         "upload_sec": 27.9
       }
+    },
+    {
+      "cr_film_id": 13345,
+      "cr_slug": "pravidla-boje",
+      "title": "Pravidla boje",
+      "year": 2004,
+      "display_name": "Pravidla boje (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60214f586b129",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239988,
+      "size_bytes": 492042549,
+      "uploaded_at": "2026-05-27T14:44:36Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 19.1,
+        "upload_sec": 21.5
+      }
     }
   ],
   "failed_attempts": [
@@ -2389,5 +2408,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T14:43:52Z"
+  "last_updated": "2026-05-27T14:44:36Z"
 }
