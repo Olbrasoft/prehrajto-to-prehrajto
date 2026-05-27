@@ -2451,6 +2451,25 @@
         "download_sec": 22.7,
         "upload_sec": 24.7
       }
+    },
+    {
+      "cr_film_id": 13071,
+      "cr_slug": "simone",
+      "title": "Simone",
+      "year": 2002,
+      "display_name": "Simone (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "580cdb1e4076a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25240127,
+      "size_bytes": 483800459,
+      "uploaded_at": "2026-05-27T15:00:14Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 20.0,
+        "upload_sec": 21.1
+      }
     }
   ],
   "failed_attempts": [
@@ -2560,5 +2579,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T14:59:29Z"
+  "last_updated": "2026-05-27T15:00:14Z"
 }
