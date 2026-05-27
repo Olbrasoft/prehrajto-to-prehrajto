@@ -152,6 +152,25 @@
         "download_sec": 77.5,
         "upload_sec": 93.2
       }
+    },
+    {
+      "cr_film_id": 36993,
+      "cr_slug": "pachova-stopa",
+      "title": "Pachová stopa",
+      "year": 2025,
+      "display_name": "Pachová stopa (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "76e3e86d5c013cdd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25237259,
+      "size_bytes": 2756846729,
+      "uploaded_at": "2026-05-27T07:38:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 88.3,
+        "upload_sec": 96.1
+      }
     }
   ],
   "failed_attempts": [
@@ -163,5 +182,5 @@
       "failed_at": "2026-05-27T07:22:18Z"
     }
   ],
-  "last_updated": "2026-05-27T07:35:19Z"
+  "last_updated": "2026-05-27T07:38:27Z"
 }
