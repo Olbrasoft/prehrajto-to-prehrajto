@@ -5529,6 +5529,25 @@
         "download_sec": 21.2,
         "upload_sec": 25.8
       }
+    },
+    {
+      "cr_film_id": 31191,
+      "cr_slug": "the-dresden-sun",
+      "title": "The Dresden Sun",
+      "year": 2026,
+      "display_name": "The Dresden Sun (2026) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "cced3473a313f84d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25256718,
+      "size_bytes": 1634658836,
+      "uploaded_at": "2026-05-27T23:00:48Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 52.0,
+        "upload_sec": 60.9
+      }
     }
   ],
   "failed_attempts": [
@@ -5645,5 +5664,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T22:58:53Z"
+  "last_updated": "2026-05-27T23:00:48Z"
 }
