@@ -6308,6 +6308,25 @@
         "download_sec": 25.1,
         "upload_sec": 33.7
       }
+    },
+    {
+      "cr_film_id": 35046,
+      "cr_slug": "na-svatem-kopecku",
+      "title": "Na Svatém Kopečku",
+      "year": 1934,
+      "display_name": "Na Svatém Kopečku (1934) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58493a369e93c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25258041,
+      "size_bytes": 513329233,
+      "uploaded_at": "2026-05-27T23:47:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.0,
+        "upload_sec": 20.0
+      }
     }
   ],
   "failed_attempts": [
@@ -6452,5 +6471,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T23:46:18Z"
+  "last_updated": "2026-05-27T23:47:00Z"
 }
