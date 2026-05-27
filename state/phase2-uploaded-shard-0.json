@@ -1919,6 +1919,25 @@
         "download_sec": 17.6,
         "upload_sec": 24.8
       }
+    },
+    {
+      "cr_film_id": 13836,
+      "cr_slug": "adolf-eichmann",
+      "title": "Adolf Eichmann",
+      "year": 2007,
+      "display_name": "Adolf Eichmann (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "606b2a3eaf871",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239444,
+      "size_bytes": 339241270,
+      "uploaded_at": "2026-05-27T13:12:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.6,
+        "upload_sec": 14.5
+      }
     }
   ],
   "failed_attempts": [
@@ -2049,5 +2068,5 @@
       "failed_at": "2026-05-27T13:06:55Z"
     }
   ],
-  "last_updated": "2026-05-27T13:11:47Z"
+  "last_updated": "2026-05-27T13:12:18Z"
 }
