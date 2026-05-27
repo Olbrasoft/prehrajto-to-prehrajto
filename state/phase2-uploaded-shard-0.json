@@ -4940,6 +4940,25 @@
         "download_sec": 29.5,
         "upload_sec": 47.8
       }
+    },
+    {
+      "cr_film_id": 22498,
+      "cr_slug": "bronco-billy",
+      "title": "Bronco Billy",
+      "year": 1980,
+      "display_name": "Bronco Billy (1980) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6097d32e5060c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25249343,
+      "size_bytes": 791100104,
+      "uploaded_at": "2026-05-27T20:51:17Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 26.5,
+        "upload_sec": 33.0
+      }
     }
   ],
   "failed_attempts": [
@@ -5084,5 +5103,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T20:50:14Z"
+  "last_updated": "2026-05-27T20:51:17Z"
 }
