@@ -4275,6 +4275,25 @@
         "download_sec": 55.0,
         "upload_sec": 60.2
       }
+    },
+    {
+      "cr_film_id": 33143,
+      "cr_slug": "anna-sestra-jany",
+      "title": "Anna, sestra Jany",
+      "year": 1976,
+      "display_name": "Anna, sestra Jany (1976) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a687b3b434d00bce",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25247471,
+      "size_bytes": 1895841913,
+      "uploaded_at": "2026-05-27T20:12:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 77.6,
+        "upload_sec": 84.7
+      }
     }
   ],
   "failed_attempts": [
@@ -4391,5 +4410,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T20:09:26Z"
+  "last_updated": "2026-05-27T20:12:12Z"
 }
