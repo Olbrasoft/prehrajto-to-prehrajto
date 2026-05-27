@@ -2603,6 +2603,25 @@
         "download_sec": 16.2,
         "upload_sec": 21.8
       }
+    },
+    {
+      "cr_film_id": 13172,
+      "cr_slug": "shaolin-fotbal",
+      "title": "Shaolin fotbal",
+      "year": 2001,
+      "display_name": "Shaolin fotbal (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6079980e8a82d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239933,
+      "size_bytes": 502084250,
+      "uploaded_at": "2026-05-27T14:37:30Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.5,
+        "upload_sec": 22.1
+      }
     }
   ],
   "failed_attempts": [
@@ -2747,5 +2766,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T14:36:45Z"
+  "last_updated": "2026-05-27T14:37:30Z"
 }
