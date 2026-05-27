@@ -5776,6 +5776,25 @@
         "download_sec": 28.0,
         "upload_sec": 36.2
       }
+    },
+    {
+      "cr_film_id": 32780,
+      "cr_slug": "balik-dolaru",
+      "title": "Balík dolarů",
+      "year": 1966,
+      "display_name": "Balík dolarů (1966) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5870148a30107",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25256551,
+      "size_bytes": 575603354,
+      "uploaded_at": "2026-05-27T22:54:09Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.3,
+        "upload_sec": 37.0
+      }
     }
   ],
   "failed_attempts": [
@@ -5920,5 +5939,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T22:52:57Z"
+  "last_updated": "2026-05-27T22:54:09Z"
 }
