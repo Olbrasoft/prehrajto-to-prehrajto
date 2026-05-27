@@ -3629,6 +3629,25 @@
         "download_sec": 27.3,
         "upload_sec": 31.3
       }
+    },
+    {
+      "cr_film_id": 31983,
+      "cr_slug": "pod-nohama-nebe",
+      "title": "Pod nohama nebe",
+      "year": 1984,
+      "display_name": "Pod nohama nebe (1984) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "cdc3f4a18d95679f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25242064,
+      "size_bytes": 877013692,
+      "uploaded_at": "2026-05-27T17:59:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 36.3,
+        "upload_sec": 44.9
+      }
     }
   ],
   "failed_attempts": [
@@ -3745,5 +3764,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T17:58:13Z"
+  "last_updated": "2026-05-27T17:59:39Z"
 }
