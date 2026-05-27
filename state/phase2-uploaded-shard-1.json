@@ -3933,6 +3933,25 @@
         "download_sec": 25.5,
         "upload_sec": 28.0
       }
+    },
+    {
+      "cr_film_id": 32577,
+      "cr_slug": "frightmare",
+      "title": "Frightmare",
+      "year": 1981,
+      "display_name": "Frightmare (1981) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58553a62bafbd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25245166,
+      "size_bytes": 407054914,
+      "uploaded_at": "2026-05-27T19:19:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 91.8,
+        "upload_sec": 21.2
+      }
     }
   ],
   "failed_attempts": [
@@ -4049,5 +4068,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T19:17:23Z"
+  "last_updated": "2026-05-27T19:19:19Z"
 }
