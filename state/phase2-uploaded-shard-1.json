@@ -3838,6 +3838,25 @@
         "download_sec": 123.0,
         "upload_sec": 27.5
       }
+    },
+    {
+      "cr_film_id": 22653,
+      "cr_slug": "panna-nebo-orel-1982",
+      "title": "Panna nebo orel",
+      "year": 1982,
+      "display_name": "Panna nebo orel (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6095527a83fa7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25244661,
+      "size_bytes": 573275050,
+      "uploaded_at": "2026-05-27T19:10:05Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.8,
+        "upload_sec": 46.9
+      }
     }
   ],
   "failed_attempts": [
@@ -3954,5 +3973,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T19:08:40Z"
+  "last_updated": "2026-05-27T19:10:05Z"
 }
