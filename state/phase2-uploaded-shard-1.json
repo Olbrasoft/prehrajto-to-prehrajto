@@ -2888,6 +2888,25 @@
         "download_sec": 24.9,
         "upload_sec": 36.0
       }
+    },
+    {
+      "cr_film_id": 32517,
+      "cr_slug": "sgt-bilko",
+      "title": "Sgt. Bilko",
+      "year": 1996,
+      "display_name": "Sgt. Bilko (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5846e641173d3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25240842,
+      "size_bytes": 657649127,
+      "uploaded_at": "2026-05-27T16:12:29Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 22.4,
+        "upload_sec": 26.8
+      }
     }
   ],
   "failed_attempts": [
@@ -2997,5 +3016,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T16:11:36Z"
+  "last_updated": "2026-05-27T16:12:29Z"
 }
