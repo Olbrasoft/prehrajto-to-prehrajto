@@ -1254,6 +1254,25 @@
         "download_sec": 24.6,
         "upload_sec": 39.7
       }
+    },
+    {
+      "cr_film_id": 324,
+      "cr_slug": "avengers",
+      "title": "Avengers",
+      "year": 2012,
+      "display_name": "Avengers (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "218d37c927478b63",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25239156,
+      "size_bytes": 2178569248,
+      "uploaded_at": "2026-05-27T12:18:49Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 72.4,
+        "upload_sec": 89.5
+      }
     }
   ],
   "failed_attempts": [
@@ -1349,5 +1368,5 @@
       "failed_at": "2026-05-27T08:54:16Z"
     }
   ],
-  "last_updated": "2026-05-27T12:13:14Z"
+  "last_updated": "2026-05-27T12:18:49Z"
 }
