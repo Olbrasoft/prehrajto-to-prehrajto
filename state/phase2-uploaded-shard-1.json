@@ -1520,6 +1520,25 @@
         "download_sec": 45.3,
         "upload_sec": 57.9
       }
+    },
+    {
+      "cr_film_id": 32465,
+      "cr_slug": "neni-zac",
+      "title": "Není zač",
+      "year": 2010,
+      "display_name": "Není zač (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67fc8aff6b758",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239349,
+      "size_bytes": 409234386,
+      "uploaded_at": "2026-05-27T12:57:59Z",
+      "timing": {
+        "resolve_sec": 6.6,
+        "download_sec": 20.9,
+        "upload_sec": 24.1
+      }
     }
   ],
   "failed_attempts": [
@@ -1606,7 +1625,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/territories-2010-novinka-horor-cz-dabing/583b2542d0c72",
       "permanent": true,
       "failed_at": "2026-05-27T12:41:05Z"
+    },
+    {
+      "cr_film_id": 32465,
+      "upload_id": "583d8d6e516f0",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/neni-zac-novinky-2010-komedie-cz-dabing/583d8d6e516f0",
+      "permanent": true,
+      "failed_at": "2026-05-27T12:57:05Z"
     }
   ],
-  "last_updated": "2026-05-27T12:45:11Z"
+  "last_updated": "2026-05-27T12:57:59Z"
 }
