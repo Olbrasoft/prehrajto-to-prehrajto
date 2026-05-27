@@ -2109,6 +2109,25 @@
         "download_sec": 13.9,
         "upload_sec": 27.3
       }
+    },
+    {
+      "cr_film_id": 25663,
+      "cr_slug": "hrozba-smrti-2",
+      "title": "Hrozba smrti 2",
+      "year": 2006,
+      "display_name": "Hrozba smrti 2 (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58558355ea51e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239648,
+      "size_bytes": 464085396,
+      "uploaded_at": "2026-05-27T13:34:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.1,
+        "upload_sec": 22.8
+      }
     }
   ],
   "failed_attempts": [
@@ -2218,5 +2237,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T13:34:13Z"
+  "last_updated": "2026-05-27T13:34:55Z"
 }
