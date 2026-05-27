@@ -1045,3 +1045,14 @@
 [14:00:32]   upload done video_id=25239773 in 31.7s
 [14:00:34] film cr_film_id=24602 OK in 63.6s
 [14:00:34] batch-end ok=20 failed=0 dur=2011.4s avg/film=100.6s remaining=10074 eta_hours=281.5
+
+===== run 2026-05-27T14:36:02Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26517993912) =====
+[14:36:03] batch-start shard=0/2 count=20 backlog=10210 uploads=136 failed_attempts=20
+[14:36:03] login
+[14:36:04] login done
+[14:36:04] iteration 1/20
+[14:36:04] film cr_film_id=32334 name='Taurus (2001) CZ Dabing' candidates=1
+[14:36:04]   candidate upload_id=5668de50d0d4e url=https://prehraj.to/taurus-konec-sveta-sci-fi-2000-cz-dabing-ldandasova/5668de50d0d4e
+[14:36:05]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/509416/kQMHRlcYDs7PIe4H3pfQzc2Ru10Sk9TnxszxhV…)
+[14:36:23]   downloaded 431.2 MB in 16.2s (26.6 MB/s)
+[14:36:45]   upload done video_id=25239921 in 21.8s
