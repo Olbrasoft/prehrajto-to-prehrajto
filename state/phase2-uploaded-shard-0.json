@@ -3363,6 +3363,25 @@
         "download_sec": 15.3,
         "upload_sec": 18.0
       }
+    },
+    {
+      "cr_film_id": 34834,
+      "cr_slug": "zboznuju-trable",
+      "title": "Zbožňuju trable",
+      "year": 1994,
+      "display_name": "Zbožňuju trable (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f3142c84e77f5a48",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25241025,
+      "size_bytes": 1596565825,
+      "uploaded_at": "2026-05-27T16:41:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 61.4,
+        "upload_sec": 62.2
+      }
     }
   ],
   "failed_attempts": [
@@ -3507,5 +3526,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T16:39:49Z"
+  "last_updated": "2026-05-27T16:41:56Z"
 }
