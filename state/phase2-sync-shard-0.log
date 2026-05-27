@@ -2067,3 +2067,14 @@
 [21:11:04]   upload done video_id=25250110 in 39.4s
 [21:11:05] film cr_film_id=22234 OK in 70.6s
 [21:11:05] batch-end ok=20 failed=0 dur=1555.3s avg/film=77.8s remaining=9934 eta_hours=214.7
+
+===== run 2026-05-27T21:36:14Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26540164128) =====
+[21:36:15] batch-start shard=0/2 count=20 backlog=10210 uploads=276 failed_attempts=20
+[21:36:15] login
+[21:36:16] login done
+[21:36:16] iteration 1/20
+[21:36:16] film cr_film_id=32446 name='Otec jednotek kamikaze (1974) CZ Dabing' candidates=1
+[21:36:16]   candidate upload_id=581533b1f38d9 url=https://prehraj.to/otec-jednotek-kamikaze-1974-dvdrip-xvid-ac3-cz-dabing/581533b1f38d9
+[21:36:18]   resolved in 1.8s → 480p (https://pf-storage5.premiumcdn.net/765568/jjNIypSnDsdOCa0TY9frpSDXig9FNGudph9ZSQ…)
+[21:36:47]   downloaded 580.6 MB in 26.8s (21.7 MB/s)
+[21:37:25]   upload done video_id=25251603 in 38.0s
