@@ -912,6 +912,25 @@
         "download_sec": 54.0,
         "upload_sec": 86.6
       }
+    },
+    {
+      "cr_film_id": 16452,
+      "cr_slug": "bez-moznosti-uniku",
+      "title": "Bez možnosti úniku",
+      "year": 2015,
+      "display_name": "Bez možnosti úniku (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e0cc71a8d9cd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25238773,
+      "size_bytes": 949389414,
+      "uploaded_at": "2026-05-27T10:41:54Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 31.6,
+        "upload_sec": 53.1
+      }
     }
   ],
   "failed_attempts": [
@@ -1007,5 +1026,5 @@
       "failed_at": "2026-05-27T08:54:16Z"
     }
   ],
-  "last_updated": "2026-05-27T10:40:26Z"
+  "last_updated": "2026-05-27T10:41:54Z"
 }
