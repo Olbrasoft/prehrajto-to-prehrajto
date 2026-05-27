@@ -2527,6 +2527,25 @@
         "download_sec": 27.7,
         "upload_sec": 33.8
       }
+    },
+    {
+      "cr_film_id": 13170,
+      "cr_slug": "kostka-2",
+      "title": "Kostka 2",
+      "year": 2002,
+      "display_name": "Kostka 2 (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "22f7448de0513abc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25239752,
+      "size_bytes": 3754865806,
+      "uploaded_at": "2026-05-27T13:58:47Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 170.2,
+        "upload_sec": 208.9
+      }
     }
   ],
   "failed_attempts": [
@@ -2671,5 +2690,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T13:52:24Z"
+  "last_updated": "2026-05-27T13:58:47Z"
 }
