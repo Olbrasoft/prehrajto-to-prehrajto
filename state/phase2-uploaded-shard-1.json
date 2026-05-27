@@ -38,6 +38,25 @@
         "download_sec": 47.0,
         "upload_sec": 57.2
       }
+    },
+    {
+      "cr_film_id": 37293,
+      "cr_slug": "bouracka",
+      "title": "Bouračka",
+      "year": 2026,
+      "display_name": "Bouračka (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c6a71ac934817506",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25237208,
+      "size_bytes": 926807700,
+      "uploaded_at": "2026-05-27T07:25:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 27.4,
+        "upload_sec": 34.1
+      }
     }
   ],
   "failed_attempts": [
@@ -49,5 +68,5 @@
       "failed_at": "2026-05-27T07:22:18Z"
     }
   ],
-  "last_updated": "2026-05-27T07:24:10Z"
+  "last_updated": "2026-05-27T07:25:15Z"
 }
