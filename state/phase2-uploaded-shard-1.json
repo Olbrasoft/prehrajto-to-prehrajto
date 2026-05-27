@@ -228,6 +228,25 @@
         "download_sec": 12.7,
         "upload_sec": 15.7
       }
+    },
+    {
+      "cr_film_id": 37269,
+      "cr_slug": "krasna-role",
+      "title": "Krásná role",
+      "year": 2024,
+      "display_name": "Krásná role (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d07cbb747cabd7fa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25237286,
+      "size_bytes": 961072885,
+      "uploaded_at": "2026-05-27T07:44:28Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 31.7,
+        "upload_sec": 35.0
+      }
     }
   ],
   "failed_attempts": [
@@ -237,7 +256,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyz-se-zhasne-2026-cz-dab-mkv/5c9a3b6a3bef1f3c",
       "permanent": true,
       "failed_at": "2026-05-27T07:22:18Z"
+    },
+    {
+      "cr_film_id": 6473,
+      "upload_id": "64fafff8158e8cf0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rok-vdovy-2024-novinka-cz-dabing-full-hd-1080p-pucci-film-mp4-mp4/64fafff8158e8cf0",
+      "permanent": true,
+      "failed_at": "2026-05-27T07:43:14Z"
     }
   ],
-  "last_updated": "2026-05-27T07:43:12Z"
+  "last_updated": "2026-05-27T07:44:28Z"
 }
