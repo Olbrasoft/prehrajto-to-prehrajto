@@ -731,3 +731,14 @@
 [13:15:50]   upload done video_id=25239475 in 30.4s
 [13:15:52] film cr_film_id=35689 OK in 57.6s
 [13:15:52] batch-end ok=16 failed=4 dur=2095.0s avg/film=130.9s remaining=10117 eta_hours=367.9
+
+===== run 2026-05-27T13:16:05Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26513314648) =====
+[13:16:06] batch-start shard=1/2 count=20 backlog=10210 uploads=93 failed_attempts=15
+[13:16:06] login
+[13:16:07] login done
+[13:16:07] iteration 1/20
+[13:16:07] film cr_film_id=35315 name='Toreador (2008) CZ Dabing' candidates=1
+[13:16:07]   candidate upload_id=5ce6df7e513df url=https://prehraj.to/toreador-2007-cz-dabing/5ce6df7e513df
+[13:16:08]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/13586091/3mgSLjceqHPmf4rhj2tgac9RTDeSJpsv2fw9…)
+[13:16:28]   downloaded 532.2 MB in 17.8s (29.9 MB/s)
+[13:16:54]   upload done video_id=25239485 in 26.9s
