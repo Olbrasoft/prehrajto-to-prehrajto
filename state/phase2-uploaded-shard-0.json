@@ -1634,6 +1634,25 @@
         "download_sec": 22.5,
         "upload_sec": 27.7
       }
+    },
+    {
+      "cr_film_id": 14052,
+      "cr_slug": "the-hive-2008",
+      "title": "The Hive",
+      "year": 2008,
+      "display_name": "The Hive (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60694acf52a0b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239340,
+      "size_bytes": 512024806,
+      "uploaded_at": "2026-05-27T12:55:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.2,
+        "upload_sec": 24.0
+      }
     }
   ],
   "failed_attempts": [
@@ -1729,5 +1748,5 @@
       "failed_at": "2026-05-27T08:54:16Z"
     }
   ],
-  "last_updated": "2026-05-27T12:50:25Z"
+  "last_updated": "2026-05-27T12:55:52Z"
 }
