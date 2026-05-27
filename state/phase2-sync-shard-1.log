@@ -2189,3 +2189,14 @@
 [23:00:48]   upload done video_id=25256718 in 60.9s
 [23:00:49] film cr_film_id=31191 OK in 116.0s
 [23:00:49] batch-end ok=20 failed=0 dur=1572.3s avg/film=78.6s remaining=9918 eta_hours=216.5
+
+===== run 2026-05-27T23:29:51Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26544860445) =====
+[23:29:51] batch-start shard=1/2 count=20 backlog=10210 uploads=292 failed_attempts=16
+[23:29:51] login
+[23:29:53] login done
+[23:29:53] iteration 1/20
+[23:29:53] film cr_film_id=16181 name='The Dreadful (2026) CZ Titulky' candidates=3
+[23:29:53]   candidate upload_id=e1be76fa732da158 url=https://prehraj.to/the-dreadful-2026-cz-titulky-2160p/e1be76fa732da158
+[23:29:54]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/166889348/QRMcO0Fklu3mFP0H7NUPeFdLUaXCaMuAQcx…)
+[23:31:02]   downloaded 2,108.0 MB in 66.4s (31.7 MB/s)
+[23:32:29]   upload done video_id=25257495 in 86.9s
