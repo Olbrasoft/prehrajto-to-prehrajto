@@ -6175,6 +6175,25 @@
         "download_sec": 15.8,
         "upload_sec": 17.7
       }
+    },
+    {
+      "cr_film_id": 21376,
+      "cr_slug": "stalag-17",
+      "title": "Stalag 17",
+      "year": 1953,
+      "display_name": "Stalag 17 (1953) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b659857b9464af20",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25257765,
+      "size_bytes": 1124319402,
+      "uploaded_at": "2026-05-27T23:39:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 37.2,
+        "upload_sec": 45.8
+      }
     }
   ],
   "failed_attempts": [
@@ -6319,5 +6338,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T23:37:58Z"
+  "last_updated": "2026-05-27T23:39:24Z"
 }
