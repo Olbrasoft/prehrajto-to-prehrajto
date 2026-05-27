@@ -5282,6 +5282,25 @@
         "download_sec": 33.2,
         "upload_sec": 39.5
       }
+    },
+    {
+      "cr_film_id": 21427,
+      "cr_slug": "jubal",
+      "title": "Jubal",
+      "year": 1956,
+      "display_name": "Jubal (1956) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60afc80f5d245",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25256246,
+      "size_bytes": 781645022,
+      "uploaded_at": "2026-05-27T22:42:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 26.4,
+        "upload_sec": 28.4
+      }
     }
   ],
   "failed_attempts": [
@@ -5398,5 +5417,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T22:41:06Z"
+  "last_updated": "2026-05-27T22:42:04Z"
 }
