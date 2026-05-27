@@ -5415,6 +5415,25 @@
         "download_sec": 96.3,
         "upload_sec": 126.0
       }
+    },
+    {
+      "cr_film_id": 21365,
+      "cr_slug": "hondo",
+      "title": "Hondo",
+      "year": 1953,
+      "display_name": "Hondo (1953) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60b163bd67355",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25256491,
+      "size_bytes": 1260454343,
+      "uploaded_at": "2026-05-27T22:51:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 36.1,
+        "upload_sec": 47.3
+      }
     }
   ],
   "failed_attempts": [
@@ -5531,5 +5550,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T22:50:25Z"
+  "last_updated": "2026-05-27T22:51:52Z"
 }
