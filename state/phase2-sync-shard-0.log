@@ -857,3 +857,15 @@
 [13:18:17]   resolved in 0.7s → 1080p (https://pf-storage5.premiumcdn.net/11466322/qbghebU0vhd4S7OuVXCdoUGWIrKup0injCa1…)
 [13:19:31]   downloaded 2,325.6 MB in 72.6s (32.0 MB/s)
 [13:21:22]   upload done video_id=25239512 in 110.9s
+[13:21:23] film cr_film_id=3830 OK in 186.9s
+[13:21:23] iteration 15/20
+[13:21:23] film cr_film_id=3156 name='Čtyři bratři (2005) CZ Dabing' candidates=1
+[13:21:23]   candidate upload_id=b1ec3e306c8180ae url=https://prehraj.to/ctyri-bratri-2005-cz-dab-1080p/b1ec3e306c8180ae
+[13:21:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ctyri-bratri-2005-cz-dab-1080p/b1ec3e306c8180ae (permanent=True)
+[13:21:24] film cr_film_id=3156 all candidates exhausted
+[13:21:24] iteration 16/20
+[13:21:24] film cr_film_id=25090 name='Valiant (2005) CZ Dabing' candidates=4
+[13:21:24]   candidate upload_id=583ae014d8fd7 url=https://prehraj.to/valiant-akcni-dobrodruzny-valecny-animovany-2005-cz-dab-film-do-mobilu-od-frenkyho/583ae014d8fd7
+[13:21:30]   resolved in 6.1s → 480p (https://pf-storage2.premiumcdn.net/945550/1PXixmCEVTnLhA1cr5sj8CElUnPcNVHzqcLbFM…)
+[13:21:38]   downloaded 195.0 MB in 7.1s (27.5 MB/s)
+[13:21:49]   upload done video_id=25239528 in 11.0s
