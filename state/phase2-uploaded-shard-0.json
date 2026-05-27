@@ -3990,6 +3990,25 @@
         "download_sec": 65.9,
         "upload_sec": 33.0
       }
+    },
+    {
+      "cr_film_id": 11758,
+      "cr_slug": "klauni-zabijaci",
+      "title": "Klauni zabijáci",
+      "year": 1988,
+      "display_name": "Klauni zabijáci (1988) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ff72ef3252bf",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25242120,
+      "size_bytes": 684749483,
+      "uploaded_at": "2026-05-27T18:06:33Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 42.0,
+        "upload_sec": 50.6
+      }
     }
   ],
   "failed_attempts": [
@@ -4134,5 +4153,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T18:04:57Z"
+  "last_updated": "2026-05-27T18:06:33Z"
 }
