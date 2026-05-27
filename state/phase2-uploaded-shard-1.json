@@ -5225,6 +5225,25 @@
         "download_sec": 19.2,
         "upload_sec": 27.4
       }
+    },
+    {
+      "cr_film_id": 37281,
+      "cr_slug": "sayonara",
+      "title": "Sayonara",
+      "year": 1957,
+      "display_name": "Sayonara (1957) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c37d42820f09fb67",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25256163,
+      "size_bytes": 1285904351,
+      "uploaded_at": "2026-05-27T22:39:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 41.3,
+        "upload_sec": 48.8
+      }
     }
   ],
   "failed_attempts": [
@@ -5341,5 +5360,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T22:37:47Z"
+  "last_updated": "2026-05-27T22:39:21Z"
 }
