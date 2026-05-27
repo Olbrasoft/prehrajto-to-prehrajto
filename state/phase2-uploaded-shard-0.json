@@ -2736,6 +2736,25 @@
         "download_sec": 22.8,
         "upload_sec": 24.7
       }
+    },
+    {
+      "cr_film_id": 24444,
+      "cr_slug": "kid-2000",
+      "title": "Kid",
+      "year": 2000,
+      "display_name": "Kid (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f27c74845b63",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25240000,
+      "size_bytes": 1131697735,
+      "uploaded_at": "2026-05-27T14:46:22Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 38.2,
+        "upload_sec": 47.1
+      }
     }
   ],
   "failed_attempts": [
@@ -2880,5 +2899,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T14:44:52Z"
+  "last_updated": "2026-05-27T14:46:22Z"
 }
