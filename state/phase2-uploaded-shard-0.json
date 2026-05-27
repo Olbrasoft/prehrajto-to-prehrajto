@@ -1767,6 +1767,25 @@
         "download_sec": 53.5,
         "upload_sec": 58.1
       }
+    },
+    {
+      "cr_film_id": 26396,
+      "cr_slug": "vetrelec-vs-lovec",
+      "title": "Vetřelec vs. Lovec",
+      "year": 2007,
+      "display_name": "Vetřelec vs. Lovec (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56063c9f13723",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239388,
+      "size_bytes": 459704203,
+      "uploaded_at": "2026-05-27T13:04:53Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 18.3,
+        "upload_sec": 27.8
+      }
     }
   ],
   "failed_attempts": [
@@ -1874,7 +1893,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/ztraceni-v-pekingu-cin-drama-2007-cs-dabing-tvrip/586d2a28d003c",
       "permanent": true,
       "failed_at": "2026-05-27T13:01:57Z"
+    },
+    {
+      "cr_film_id": 26396,
+      "upload_id": "5c4f623fcfeca",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/vetrelec-vs-predator-2-pasquale-2007-cz-dabing/5c4f623fcfeca",
+      "permanent": true,
+      "failed_at": "2026-05-27T13:03:59Z"
     }
   ],
-  "last_updated": "2026-05-27T13:03:57Z"
+  "last_updated": "2026-05-27T13:04:53Z"
 }
