@@ -2014,6 +2014,25 @@
         "download_sec": 16.1,
         "upload_sec": 31.4
       }
+    },
+    {
+      "cr_film_id": 4396,
+      "cr_slug": "lets-dance",
+      "title": "Let's Dance",
+      "year": 2006,
+      "display_name": "Let's Dance (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "690422bcb5519",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239478,
+      "size_bytes": 591958324,
+      "uploaded_at": "2026-05-27T13:16:14Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 18.0,
+        "upload_sec": 27.5
+      }
     }
   ],
   "failed_attempts": [
@@ -2142,7 +2161,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/paranoid-park-drama-francieusa-2007-cz-dab-720p/58443649a9c67",
       "permanent": true,
       "failed_at": "2026-05-27T13:06:55Z"
+    },
+    {
+      "cr_film_id": 4396,
+      "upload_id": "46c2eb11c8de0bd2",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/let-s-dance-2006-cz-dab-1080p/46c2eb11c8de0bd2",
+      "permanent": true,
+      "failed_at": "2026-05-27T13:15:21Z"
     }
   ],
-  "last_updated": "2026-05-27T13:15:19Z"
+  "last_updated": "2026-05-27T13:16:14Z"
 }
