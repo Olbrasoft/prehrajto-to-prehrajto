@@ -5453,6 +5453,25 @@
         "download_sec": 55.7,
         "upload_sec": 64.3
       }
+    },
+    {
+      "cr_film_id": 35047,
+      "cr_slug": "podivne-okouzleni",
+      "title": "Podivné okouzlení",
+      "year": 1952,
+      "display_name": "Podivné okouzlení (1952) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60b2484c4d481",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25256571,
+      "size_bytes": 406972212,
+      "uploaded_at": "2026-05-27T22:54:30Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 14.9,
+        "upload_sec": 17.4
+      }
     }
   ],
   "failed_attempts": [
@@ -5569,5 +5588,5 @@
       "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T22:53:55Z"
+  "last_updated": "2026-05-27T22:54:30Z"
 }
