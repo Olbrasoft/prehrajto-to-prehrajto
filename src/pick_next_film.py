@@ -28,7 +28,8 @@ import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-BACKLOG = REPO_ROOT / "backlog" / "prehrajto-films.jsonl.gz"
+BACKLOG = REPO_ROOT / os.environ.get("SYNC_BACKLOG", "backlog/prehrajto-films.jsonl.gz")
+STATE_PREFIX = os.environ.get("SYNC_STATE_PREFIX", "uploaded")
 
 NUM_SHARDS = int(os.environ.get("SYNC_NUM_SHARDS", "1"))
 SHARD_ID = int(os.environ.get("SYNC_SHARD_ID", "0"))
@@ -44,7 +45,7 @@ def state_path(shard_id: int | None = None) -> Path:
     sid = shard_id if shard_id is not None else SHARD_ID
     if NUM_SHARDS <= 1:
         return REPO_ROOT / "state" / "uploaded.json"
-    return REPO_ROOT / "state" / f"uploaded-shard-{sid}.json"
+    return REPO_ROOT / "state" / f"{STATE_PREFIX}-shard-{sid}.json"
 
 
 # Backward-compatible alias still imported by other modules.
@@ -128,7 +129,8 @@ def main() -> int:
         return 1
 
     print(f"[pick] cr_film_id={pick['cr_film_id']}")
-    print(f"[pick] display_name={pick['display_name']!r}")
+    display_name = pick.get("display_name") or pick.get("suggested_display_name")
+    print(f"[pick] display_name={display_name!r}")
     print(f"[pick] preferred_lang={pick['preferred_lang_class']}, "
           f"candidates={len(pick['candidates'])}")
     desc = pick.get("description") or ""

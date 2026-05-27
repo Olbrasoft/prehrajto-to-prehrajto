@@ -40,7 +40,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 # Legacy single-runner mode (NUM_SHARDS=1) keeps the original filename so
 # existing history stays where it was.
 LOG_PATH = REPO_ROOT / "state" / (
-    f"sync-shard-{SHARD_ID}.log" if NUM_SHARDS > 1 else "sync.log"
+    f"{os.environ.get('SYNC_LOG_PREFIX', 'sync')}-shard-{SHARD_ID}.log"
+    if NUM_SHARDS > 1 else f"{os.environ.get('SYNC_LOG_PREFIX', 'sync')}.log"
 )
 TMP_DIR = Path("/tmp")
 
@@ -146,7 +147,9 @@ def try_candidate(
     """Try one upload_id end-to-end. Returns True on full success."""
     upload_id = candidate["upload_id"]
     cr_film_id = film["cr_film_id"]
-    name = film["display_name"]
+    name = film.get("display_name") or film.get("suggested_display_name") or (
+        f"{film['title']} ({film.get('year')})" if film.get("year") else film["title"]
+    )
     description = film.get("description") or ""
     log(f"  candidate upload_id={upload_id} url={candidate['url']}")
 
@@ -238,7 +241,9 @@ def try_candidate(
 
 def process_film(film: dict, session, state: dict) -> bool:
     cr_film_id = film["cr_film_id"]
-    name = film["display_name"]
+    name = film.get("display_name") or film.get("suggested_display_name") or (
+        f"{film['title']} ({film.get('year')})" if film.get("year") else film["title"]
+    )
     log(f"film cr_film_id={cr_film_id} name={name!r} "
         f"candidates={len(film['candidates'])}")
     t = time.monotonic()

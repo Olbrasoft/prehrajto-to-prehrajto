@@ -1,6 +1,10 @@
-name: sync
+name: sync-phase2
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/sync-phase2-trigger"
   workflow_dispatch:
     inputs:
       batch_size:
@@ -8,32 +12,30 @@ on:
         required: false
         default: "20"
       num_shards:
-        description: "Total parallel shards (1 = legacy single-runner mode)"
+        description: "Total parallel shards"
         required: false
         default: "2"
+  schedule:
+    - cron: "*/30 * * * *"
 
 jobs:
   upload-batch:
-    name: Upload N missing films (shard ${{ matrix.shard }}/${{ inputs.num_shards || '2' }})
+    name: Upload Phase 2 films (shard ${{ matrix.shard }}/${{ inputs.num_shards || '2' }})
     runs-on: ubuntu-latest
     timeout-minutes: 350
     permissions:
       contents: write
     strategy:
-      # Shards run independently — one failing doesn't kill the other.
       fail-fast: false
       matrix:
-        # Default to two parallel shards. Override num_shards via dispatch
-        # input to scale up; matrix must be kept in sync if you do.
         shard: [0, 1]
-    # Per-shard concurrency lock: shard 0 and shard 1 each allow at most
-    # one in-flight job + one queued. Different groups → they run in
-    # parallel. cancel-in-progress: false so a queued run waits for the
-    # current one instead of killing it mid-upload.
     concurrency:
-      group: prehrajto-sync-shard-${{ matrix.shard }}
+      group: prehrajto-phase2-sync-shard-${{ matrix.shard }}
       cancel-in-progress: false
     env:
+      SYNC_BACKLOG: backlog/phase2-candidate-films.jsonl.gz
+      SYNC_STATE_PREFIX: phase2-uploaded
+      SYNC_LOG_PREFIX: phase2-sync
       SYNC_NUM_SHARDS: ${{ inputs.num_shards || '2' }}
       SYNC_SHARD_ID: ${{ matrix.shard }}
     steps:
@@ -43,13 +45,6 @@ jobs:
           ref: main
           persist-credentials: true
 
-      # Concurrency lock holds queued runs while the current one runs (up
-      # to 5 h). When the lock releases, the queued runner is already
-      # checked out at the SHA from dispatch time — which can be hours
-      # behind origin/main, and the shard's state file there has stale
-      # progress. Refresh to head-of-main so pick_next sees every
-      # already-uploaded cr_film_id (including any pushed by the OTHER
-      # shard in between).
       - name: Refresh to latest origin/main
         run: |
           git fetch origin main
@@ -67,8 +62,7 @@ jobs:
       - name: Init log entry
         run: |
           mkdir -p state
-          LOG="state/sync-shard-${SYNC_SHARD_ID}.log"
-          [ "$SYNC_NUM_SHARDS" = "1" ] && LOG="state/sync.log"
+          LOG="state/${SYNC_LOG_PREFIX}-shard-${SYNC_SHARD_ID}.log"
           touch "$LOG"
           RUN_TS=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           RUN_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
@@ -78,9 +72,6 @@ jobs:
           } >> "$LOG"
 
       - name: Configure git for in-job pushes
-        # sync_batch.py pushes the shard's state file after each successful
-        # film so progress survives runner cancellation and the other
-        # shard's near-simultaneous pushes rebase cleanly (different files).
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -89,11 +80,6 @@ jobs:
         env:
           PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
           PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
-          # prehraj.to website (detail/resolve) is geofenced to CZ residential
-          # IPs. Route HTML scraping through chobotnice.aspfree.cz/Proxy.ashx
-          # — same Czech ASP relay that cr-web uses for its stream resolver.
-          # Login + multipart upload still go direct (those endpoints are not
-          # geo-blocked, as proven by the existing prehrajto-sync workflow).
           CZ_PROXY_URL: ${{ secrets.CZ_PROXY_URL }}
           CZ_PROXY_KEY: ${{ secrets.CZ_PROXY_KEY }}
         run: |
@@ -103,12 +89,8 @@ jobs:
         if: always()
         run: |
           set -e
-          STATE="state/uploaded-shard-${SYNC_SHARD_ID}.json"
-          LOG="state/sync-shard-${SYNC_SHARD_ID}.log"
-          if [ "$SYNC_NUM_SHARDS" = "1" ]; then
-            STATE="state/uploaded.json"
-            LOG="state/sync.log"
-          fi
+          STATE="state/${SYNC_STATE_PREFIX}-shard-${SYNC_SHARD_ID}.json"
+          LOG="state/${SYNC_LOG_PREFIX}-shard-${SYNC_SHARD_ID}.log"
           mkdir -p state
           touch "$STATE" "$LOG"
           git add "$STATE" "$LOG"
@@ -116,7 +98,7 @@ jobs:
             echo "no state changes to commit"
           else
             UP_COUNT=$(python -c "import json,os; p='$STATE'; d=json.load(open(p)) if os.path.getsize(p)>0 else {}; print(len(d.get('uploads',[])))")
-            git commit -m "chore(shard ${SYNC_SHARD_ID}/${SYNC_NUM_SHARDS}): batch run — total uploads now ${UP_COUNT}"
+            git commit -m "chore(phase2 shard ${SYNC_SHARD_ID}/${SYNC_NUM_SHARDS}): batch run -- total uploads now ${UP_COUNT}"
             git pull --rebase origin main || true
-            git push
+            git push origin HEAD:main
           fi
