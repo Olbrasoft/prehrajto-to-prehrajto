@@ -1729,6 +1729,25 @@
         "download_sec": 36.4,
         "upload_sec": 55.5
       }
+    },
+    {
+      "cr_film_id": 33008,
+      "cr_slug": "kouzla-pana-howarda",
+      "title": "Kouzla pana Howarda",
+      "year": 2008,
+      "display_name": "Kouzla pana Howarda (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58b85554d6746",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239373,
+      "size_bytes": 444875553,
+      "uploaded_at": "2026-05-27T13:01:55Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 18.3,
+        "upload_sec": 22.8
+      }
     }
   ],
   "failed_attempts": [
@@ -1831,5 +1850,5 @@
       "failed_at": "2026-05-27T12:57:14Z"
     }
   ],
-  "last_updated": "2026-05-27T13:01:10Z"
+  "last_updated": "2026-05-27T13:01:55Z"
 }
