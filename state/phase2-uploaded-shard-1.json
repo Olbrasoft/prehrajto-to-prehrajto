@@ -3078,6 +3078,25 @@
         "download_sec": 23.3,
         "upload_sec": 27.0
       }
+    },
+    {
+      "cr_film_id": 12151,
+      "cr_slug": "hercules-a-amazonky",
+      "title": "Hercules a Amazonky",
+      "year": 1994,
+      "display_name": "Hercules a Amazonky (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "2dc00f775e1b58c7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25240963,
+      "size_bytes": 2676303554,
+      "uploaded_at": "2026-05-27T16:32:58Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 83.1,
+        "upload_sec": 93.9
+      }
     }
   ],
   "failed_attempts": [
@@ -3185,7 +3204,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/temny-dum-the-dark-house-cz-dab-2009-fullhd/61443e774e4e2",
       "permanent": true,
       "failed_at": "2026-05-27T13:05:01Z"
+    },
+    {
+      "cr_film_id": 37245,
+      "upload_id": "c62f098b62ae4b17",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/house-party-1990-1-cz-dab/c62f098b62ae4b17",
+      "permanent": true,
+      "failed_at": "2026-05-27T16:29:53Z"
     }
   ],
-  "last_updated": "2026-05-27T16:29:51Z"
+  "last_updated": "2026-05-27T16:32:58Z"
 }
