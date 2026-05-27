@@ -2793,6 +2793,25 @@
         "download_sec": 20.0,
         "upload_sec": 25.4
       }
+    },
+    {
+      "cr_film_id": 23869,
+      "cr_slug": "supertajna-zbran",
+      "title": "Supertajná zbraň",
+      "year": 1997,
+      "display_name": "Supertajná zbraň (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "583ae46b54ce7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25240817,
+      "size_bytes": 522696863,
+      "uploaded_at": "2026-05-27T16:05:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.8,
+        "upload_sec": 19.9
+      }
     }
   ],
   "failed_attempts": [
@@ -2902,5 +2921,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T16:04:27Z"
+  "last_updated": "2026-05-27T16:05:08Z"
 }
