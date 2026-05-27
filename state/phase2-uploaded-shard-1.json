@@ -570,6 +570,25 @@
         "download_sec": 27.6,
         "upload_sec": 38.6
       }
+    },
+    {
+      "cr_film_id": 26345,
+      "cr_slug": "western-stars",
+      "title": "Western Stars",
+      "year": 2019,
+      "display_name": "Western Stars (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "682b876cedf15",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25237671,
+      "size_bytes": 1161306401,
+      "uploaded_at": "2026-05-27T09:07:46Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 34.0,
+        "upload_sec": 50.6
+      }
     }
   ],
   "failed_attempts": [
@@ -637,5 +656,5 @@
       "failed_at": "2026-05-27T08:58:32Z"
     }
   ],
-  "last_updated": "2026-05-27T09:06:18Z"
+  "last_updated": "2026-05-27T09:07:46Z"
 }
