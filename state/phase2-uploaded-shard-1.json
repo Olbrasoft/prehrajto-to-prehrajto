@@ -1691,6 +1691,25 @@
         "download_sec": 20.1,
         "upload_sec": 26.0
       }
+    },
+    {
+      "cr_film_id": 2117,
+      "cr_slug": "bratri",
+      "title": "Bratři",
+      "year": 2009,
+      "display_name": "Bratři (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "45e9bfeacd1ed2d6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25239439,
+      "size_bytes": 1440036515,
+      "uploaded_at": "2026-05-27T13:12:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 63.1,
+        "upload_sec": 76.7
+      }
     }
   ],
   "failed_attempts": [
@@ -1800,5 +1819,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T13:10:13Z"
+  "last_updated": "2026-05-27T13:12:37Z"
 }
