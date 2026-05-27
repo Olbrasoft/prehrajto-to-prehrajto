@@ -4560,6 +4560,25 @@
         "download_sec": 28.0,
         "upload_sec": 30.2
       }
+    },
+    {
+      "cr_film_id": 11460,
+      "cr_slug": "otec-otec",
+      "title": "Otec & otec",
+      "year": 1983,
+      "display_name": "Otec & otec (1983) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "89b259987899ebed",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25246489,
+      "size_bytes": 669885546,
+      "uploaded_at": "2026-05-27T19:51:06Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 32.4,
+        "upload_sec": 40.0
+      }
     }
   ],
   "failed_attempts": [
@@ -4704,5 +4723,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T19:49:48Z"
+  "last_updated": "2026-05-27T19:51:06Z"
 }
