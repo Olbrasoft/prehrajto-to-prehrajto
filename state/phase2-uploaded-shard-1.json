@@ -1995,6 +1995,25 @@
         "download_sec": 43.7,
         "upload_sec": 65.3
       }
+    },
+    {
+      "cr_film_id": 33479,
+      "cr_slug": "zhave-napady",
+      "title": "Žhavé nápady",
+      "year": 2006,
+      "display_name": "Žhavé nápady (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5dec0c78d75bc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25239588,
+      "size_bytes": 335617116,
+      "uploaded_at": "2026-05-27T13:28:25Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 12.0,
+        "upload_sec": 13.4
+      }
     }
   ],
   "failed_attempts": [
@@ -2104,5 +2123,5 @@
       "failed_at": "2026-05-27T13:05:01Z"
     }
   ],
-  "last_updated": "2026-05-27T13:27:56Z"
+  "last_updated": "2026-05-27T13:28:25Z"
 }
