@@ -1921,3 +1921,14 @@
 [20:15:22]   upload done video_id=25247665 in 39.6s
 [20:15:23] film cr_film_id=22526 OK in 82.9s
 [20:15:23] batch-end ok=20 failed=0 dur=1933.7s avg/film=96.7s remaining=9954 eta_hours=267.4
+
+===== run 2026-05-27T20:45:07Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26537684459) =====
+[20:45:08] batch-start shard=0/2 count=20 backlog=10210 uploads=256 failed_attempts=20
+[20:45:08] login
+[20:45:09] login done
+[20:45:09] iteration 1/20
+[20:45:09] film cr_film_id=11344 name='Kagemuša (1980) CZ Dabing' candidates=1
+[20:45:09]   candidate upload_id=6097d71518461 url=https://prehraj.to/kagemusa-drama-1980-cz-dabing/6097d71518461
+[20:45:10]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/23442786/JbXfLMIeaFQptzls5du6XI4dTOdcvxCwPsEV…)
+[20:45:49]   downloaded 1,175.1 MB in 36.9s (31.8 MB/s)
+[20:46:39]   upload done video_id=25249135 in 49.7s
