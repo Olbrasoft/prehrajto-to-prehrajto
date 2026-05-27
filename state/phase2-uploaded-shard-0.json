@@ -3591,6 +3591,25 @@
         "download_sec": 26.8,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 23352,
+      "cr_slug": "batman-a-fantom",
+      "title": "Batman a fantom",
+      "year": 1993,
+      "display_name": "Batman a fantom (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6681a42d11d80",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25241220,
+      "size_bytes": 1185195010,
+      "uploaded_at": "2026-05-27T16:56:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 38.9,
+        "upload_sec": 42.3
+      }
     }
   ],
   "failed_attempts": [
@@ -3735,5 +3754,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T16:55:19Z"
+  "last_updated": "2026-05-27T16:56:44Z"
 }
