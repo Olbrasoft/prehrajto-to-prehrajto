@@ -4598,6 +4598,25 @@
         "download_sec": 34.0,
         "upload_sec": 41.9
       }
+    },
+    {
+      "cr_film_id": 11458,
+      "cr_slug": "christine-1983",
+      "title": "Christine",
+      "year": 1983,
+      "display_name": "Christine (1983) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60943d6f1118d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25246602,
+      "size_bytes": 499084388,
+      "uploaded_at": "2026-05-27T19:53:29Z",
+      "timing": {
+        "resolve_sec": 2.3,
+        "download_sec": 25.3,
+        "upload_sec": 31.4
+      }
     }
   ],
   "failed_attempts": [
@@ -4742,5 +4761,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T19:52:26Z"
+  "last_updated": "2026-05-27T19:53:29Z"
 }
