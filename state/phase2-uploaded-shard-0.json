@@ -2850,6 +2850,25 @@
         "download_sec": 21.8,
         "upload_sec": 23.9
       }
+    },
+    {
+      "cr_film_id": 12882,
+      "cr_slug": "beethoven-3",
+      "title": "Beethoven 3",
+      "year": 2000,
+      "display_name": "Beethoven 3 (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "607ab566761f3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25240041,
+      "size_bytes": 641476521,
+      "uploaded_at": "2026-05-27T14:51:01Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.1,
+        "upload_sec": 28.5
+      }
     }
   ],
   "failed_attempts": [
@@ -2994,5 +3013,5 @@
       "failed_at": "2026-05-27T13:21:24Z"
     }
   ],
-  "last_updated": "2026-05-27T14:50:04Z"
+  "last_updated": "2026-05-27T14:51:01Z"
 }
