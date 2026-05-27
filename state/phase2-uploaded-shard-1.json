@@ -361,6 +361,25 @@
         "download_sec": 60.1,
         "upload_sec": 87.9
       }
+    },
+    {
+      "cr_film_id": 7551,
+      "cr_slug": "bestie",
+      "title": "Bestie",
+      "year": 2022,
+      "display_name": "Bestie (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0fc60fcac8b5d35e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25237522,
+      "size_bytes": 1860014830,
+      "uploaded_at": "2026-05-27T08:50:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 53.6,
+        "upload_sec": 65.6
+      }
     }
   ],
   "failed_attempts": [
@@ -393,5 +412,5 @@
       "failed_at": "2026-05-27T07:53:21Z"
     }
   ],
-  "last_updated": "2026-05-27T08:48:03Z"
+  "last_updated": "2026-05-27T08:50:06Z"
 }
