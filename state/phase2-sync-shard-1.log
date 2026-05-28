@@ -4822,3 +4822,14 @@
 [17:51:14]   upload done video_id=25278740 in 101.9s
 [17:51:16] film cr_film_id=31219 OK in 183.7s
 [17:51:16] batch-end ok=19 failed=1 dur=2800.7s avg/film=147.4s remaining=9572 eta_hours=391.9
+
+===== run 2026-05-28T17:51:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26592219089) =====
+[17:51:44] batch-start shard=1/2 count=20 backlog=10210 uploads=638 failed_attempts=42
+[17:51:44] login
+[17:51:45] login done
+[17:51:45] iteration 1/20
+[17:51:45] film cr_film_id=8689 name='Rok, kdy jsem začala masturbovat (2022) CZ Titulky' candidates=1
+[17:51:45]   candidate upload_id=6476766217e83 url=https://prehraj.to/rok-kdy-jsem-zacala-masturbovat-2022-cztitulky/6476766217e83
+[17:51:46]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/41225164/bAvIlriNdiaJFm4hXWtL8ip3c78HRGIVmfrv…)
+[17:53:17]   downloaded 2,820.7 MB in 89.0s (31.7 MB/s)
+[17:54:59]   upload done video_id=25278841 in 101.7s
