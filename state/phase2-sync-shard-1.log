@@ -3219,3 +3219,14 @@
 [07:21:24]   upload done video_id=25268131 in 27.5s
 [07:21:25] film cr_film_id=15881 OK in 54.7s
 [07:21:25] batch-end ok=20 failed=0 dur=3115.4s avg/film=155.8s remaining=9784 eta_hours=423.4
+
+===== run 2026-05-28T07:47:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26561854843) =====
+[07:47:18] batch-start shard=1/2 count=20 backlog=10210 uploads=426 failed_attempts=30
+[07:47:18] login
+[07:47:19] login done
+[07:47:19] iteration 1/20
+[07:47:19] film cr_film_id=8109 name='Spermageddon (2024) CZ Titulky' candidates=1
+[07:47:19]   candidate upload_id=68d00dfb4188d url=https://prehraj.to/spermageddon-2024-cz-titulky/68d00dfb4188d
+[07:47:20]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/147735645/VJZTRBunvSy9f5NCXasbyudAC95sQPsgrSJ…)
+[07:48:01]   downloaded 1,111.7 MB in 39.0s (28.5 MB/s)
+[07:48:47]   upload done video_id=25268617 in 45.6s
