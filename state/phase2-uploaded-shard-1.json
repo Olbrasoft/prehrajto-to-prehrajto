@@ -13414,6 +13414,25 @@
         "download_sec": 67.8,
         "upload_sec": 115.7
       }
+    },
+    {
+      "cr_film_id": 4545,
+      "cr_slug": "deadstream",
+      "title": "Deadstream",
+      "year": 2022,
+      "display_name": "Deadstream (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "634fd1ab72591",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25283218,
+      "size_bytes": 2783037092,
+      "uploaded_at": "2026-05-28T21:11:16Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 125.0,
+        "upload_sec": 165.3
+      }
     }
   ],
   "failed_attempts": [
@@ -13727,5 +13746,5 @@
       "failed_at": "2026-05-28T17:14:53Z"
     }
   ],
-  "last_updated": "2026-05-28T21:06:20Z"
+  "last_updated": "2026-05-28T21:11:16Z"
 }
