@@ -12426,6 +12426,25 @@
         "download_sec": 60.5,
         "upload_sec": 64.5
       }
+    },
+    {
+      "cr_film_id": 6209,
+      "cr_slug": "natten-har-ojne",
+      "title": "Noc má oči",
+      "year": 2022,
+      "display_name": "Noc má oči (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "7b59dae48a055b2e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25279343,
+      "size_bytes": 529136069,
+      "uploaded_at": "2026-05-28T18:23:40Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.6,
+        "upload_sec": 27.0
+      }
     }
   ],
   "failed_attempts": [
@@ -12739,5 +12758,5 @@
       "failed_at": "2026-05-28T17:14:53Z"
     }
   ],
-  "last_updated": "2026-05-28T18:22:46Z"
+  "last_updated": "2026-05-28T18:23:40Z"
 }
