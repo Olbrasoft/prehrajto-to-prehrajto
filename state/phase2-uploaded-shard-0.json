@@ -7239,6 +7239,25 @@
         "download_sec": 45.7,
         "upload_sec": 60.9
       }
+    },
+    {
+      "cr_film_id": 31784,
+      "cr_slug": "stezka-zivota",
+      "title": "Stezka života",
+      "year": 2025,
+      "display_name": "Stezka života (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "68b960e995864",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25261114,
+      "size_bytes": 1949702279,
+      "uploaded_at": "2026-05-28T01:54:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 52.8,
+        "upload_sec": 80.4
+      }
     }
   ],
   "failed_attempts": [
@@ -7439,5 +7458,5 @@
       "failed_at": "2026-05-28T01:19:33Z"
     }
   ],
-  "last_updated": "2026-05-28T01:52:34Z"
+  "last_updated": "2026-05-28T01:54:51Z"
 }
