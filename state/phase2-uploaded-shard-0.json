@@ -8246,6 +8246,25 @@
         "download_sec": 59.7,
         "upload_sec": 71.1
       }
+    },
+    {
+      "cr_film_id": 37002,
+      "cr_slug": "attack-13",
+      "title": "Attack 13",
+      "year": 2025,
+      "display_name": "Attack 13 (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "bd7aa8b43042ea49",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25267073,
+      "size_bytes": 2665952374,
+      "uploaded_at": "2026-05-28T06:35:08Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 83.7,
+        "upload_sec": 116.5
+      }
     }
   ],
   "failed_attempts": [
@@ -8446,5 +8465,5 @@
       "failed_at": "2026-05-28T01:19:33Z"
     }
   ],
-  "last_updated": "2026-05-28T06:31:44Z"
+  "last_updated": "2026-05-28T06:35:08Z"
 }
