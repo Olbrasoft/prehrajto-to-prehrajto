@@ -13034,6 +13034,25 @@
         "download_sec": 64.8,
         "upload_sec": 106.5
       }
+    },
+    {
+      "cr_film_id": 7234,
+      "cr_slug": "shut-in",
+      "title": "Shut In",
+      "year": 2022,
+      "display_name": "Shut In (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "62694de28b7dc",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25280941,
+      "size_bytes": 1517059339,
+      "uploaded_at": "2026-05-28T19:38:40Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 73.8,
+        "upload_sec": 93.3
+      }
     }
   ],
   "failed_attempts": [
@@ -13318,5 +13337,5 @@
       "failed_at": "2026-05-28T19:17:05Z"
     }
   ],
-  "last_updated": "2026-05-28T19:35:48Z"
+  "last_updated": "2026-05-28T19:38:40Z"
 }
