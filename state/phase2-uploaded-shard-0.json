@@ -13661,6 +13661,25 @@
         "download_sec": 64.2,
         "upload_sec": 75.1
       }
+    },
+    {
+      "cr_film_id": 9766,
+      "cr_slug": "the-munsters",
+      "title": "Munsterovi",
+      "year": 2022,
+      "display_name": "Munsterovi (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63ab8c6d4079d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25283883,
+      "size_bytes": 1010210958,
+      "uploaded_at": "2026-05-28T21:42:26Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 49.6,
+        "upload_sec": 70.5
+      }
     }
   ],
   "failed_attempts": [
@@ -13973,5 +13992,5 @@
       "failed_at": "2026-05-28T21:29:31Z"
     }
   ],
-  "last_updated": "2026-05-28T21:40:21Z"
+  "last_updated": "2026-05-28T21:42:26Z"
 }
