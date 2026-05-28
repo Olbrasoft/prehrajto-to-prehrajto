@@ -12236,6 +12236,25 @@
         "download_sec": 107.2,
         "upload_sec": 128.1
       }
+    },
+    {
+      "cr_film_id": 33964,
+      "cr_slug": "film-2022",
+      "title": "桜のような僕の恋人",
+      "year": 2022,
+      "display_name": "桜のような僕の恋人 (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "624368464c678",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25277683,
+      "size_bytes": 2507376233,
+      "uploaded_at": "2026-05-28T16:43:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 80.6,
+        "upload_sec": 95.4
+      }
     }
   ],
   "failed_attempts": [
@@ -12478,5 +12497,5 @@
       "failed_at": "2026-05-28T16:33:19Z"
     }
   ],
-  "last_updated": "2026-05-28T16:40:59Z"
+  "last_updated": "2026-05-28T16:43:59Z"
 }
