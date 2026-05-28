@@ -7486,6 +7486,25 @@
         "download_sec": 18.9,
         "upload_sec": 35.3
       }
+    },
+    {
+      "cr_film_id": 27973,
+      "cr_slug": "year-10",
+      "title": "Year 10",
+      "year": 2024,
+      "display_name": "Year 10 (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6766fb4d2c68a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25265493,
+      "size_bytes": 1774022183,
+      "uploaded_at": "2026-05-28T05:16:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 55.8,
+        "upload_sec": 64.1
+      }
     }
   ],
   "failed_attempts": [
@@ -7698,5 +7717,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-28T05:14:21Z"
+  "last_updated": "2026-05-28T05:16:24Z"
 }
