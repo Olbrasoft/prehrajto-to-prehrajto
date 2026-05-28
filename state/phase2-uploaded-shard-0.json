@@ -12673,6 +12673,25 @@
         "download_sec": 50.3,
         "upload_sec": 59.3
       }
+    },
+    {
+      "cr_film_id": 14734,
+      "cr_slug": "the-system",
+      "title": "The System",
+      "year": 2022,
+      "display_name": "The System (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63b32686e9352",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25279618,
+      "size_bytes": 1250932341,
+      "uploaded_at": "2026-05-28T18:39:55Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 62.2,
+        "upload_sec": 71.7
+      }
     }
   ],
   "failed_attempts": [
@@ -12943,5 +12962,5 @@
       "failed_at": "2026-05-28T18:35:04Z"
     }
   ],
-  "last_updated": "2026-05-28T18:37:02Z"
+  "last_updated": "2026-05-28T18:39:55Z"
 }

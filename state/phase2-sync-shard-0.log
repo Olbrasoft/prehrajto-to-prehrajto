@@ -5003,3 +5003,14 @@
 [18:37:02]   upload done video_id=25279566 in 59.3s
 [18:37:03] film cr_film_id=19700 OK in 118.6s
 [18:37:03] batch-end ok=19 failed=1 dur=2715.4s avg/film=142.9s remaining=9543 eta_hours=378.8
+
+===== run 2026-05-28T18:37:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26594634255) =====
+[18:37:36] batch-start shard=0/2 count=20 backlog=10210 uploads=667 failed_attempts=38
+[18:37:36] login
+[18:37:37] login done
+[18:37:37] iteration 1/20
+[18:37:37] film cr_film_id=14734 name='The System (2022) CZ Titulky' candidates=2
+[18:37:37]   candidate upload_id=63b32686e9352 url=https://prehraj.to/the-system-2022-1080p-cz-sub-webrip-x265/63b32686e9352
+[18:37:38]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/35876758/PeMTwbF40tvdtRLha4uRVFlBfK0sX4hWXTVq…)
+[18:38:43]   downloaded 1,250.9 MB in 62.2s (20.1 MB/s)
+[18:39:55]   upload done video_id=25279618 in 71.7s
