@@ -12103,6 +12103,25 @@
         "download_sec": 60.5,
         "upload_sec": 78.2
       }
+    },
+    {
+      "cr_film_id": 8874,
+      "cr_slug": "barber",
+      "title": "Barber",
+      "year": 2023,
+      "display_name": "Barber (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "651a826fa0cab",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25277460,
+      "size_bytes": 896853915,
+      "uploaded_at": "2026-05-28T16:28:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.5,
+        "upload_sec": 56.8
+      }
     }
   ],
   "failed_attempts": [
@@ -12338,5 +12357,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T16:27:01Z"
+  "last_updated": "2026-05-28T16:28:32Z"
 }
