@@ -9918,6 +9918,25 @@
         "download_sec": 99.7,
         "upload_sec": 137.2
       }
+    },
+    {
+      "cr_film_id": 31376,
+      "cr_slug": "broken-rage",
+      "title": "Broken Rage",
+      "year": 2024,
+      "display_name": "Broken Rage (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67b3163e8e75b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25271636,
+      "size_bytes": 713856526,
+      "uploaded_at": "2026-05-28T10:42:56Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 32.7,
+        "upload_sec": 41.6
+      }
     }
   ],
   "failed_attempts": [
@@ -10132,5 +10151,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T10:41:37Z"
+  "last_updated": "2026-05-28T10:42:56Z"
 }
