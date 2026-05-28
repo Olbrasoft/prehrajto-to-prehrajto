@@ -13680,6 +13680,25 @@
         "download_sec": 49.6,
         "upload_sec": 70.5
       }
+    },
+    {
+      "cr_film_id": 3694,
+      "cr_slug": "mosty",
+      "title": "Mosty",
+      "year": 2022,
+      "display_name": "Mosty (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "123217c1f42d918e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25283918,
+      "size_bytes": 910992297,
+      "uploaded_at": "2026-05-28T21:44:08Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 44.3,
+        "upload_sec": 53.4
+      }
     }
   ],
   "failed_attempts": [
@@ -13992,5 +14011,5 @@
       "failed_at": "2026-05-28T21:29:31Z"
     }
   ],
-  "last_updated": "2026-05-28T21:42:26Z"
+  "last_updated": "2026-05-28T21:44:08Z"
 }
