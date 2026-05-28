@@ -5548,3 +5548,14 @@
 [22:42:49]   upload done video_id=25287315 in 110.4s
 [22:42:51] film cr_film_id=31225 OK in 207.2s
 [22:42:51] batch-end ok=19 failed=1 dur=3478.5s avg/film=183.1s remaining=9474 eta_hours=481.9
+
+===== run 2026-05-28T22:43:20Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26606614540) =====
+[22:43:22] batch-start shard=1/2 count=20 backlog=10210 uploads=736 failed_attempts=44
+[22:43:22] login
+[22:43:23] login done
+[22:43:23] iteration 1/20
+[22:43:23] film cr_film_id=27097 name='Záhady slečny dohazovačky: Umění zabíjet (2021) CZ Titulky' candidates=1
+[22:43:23]   candidate upload_id=626895d169932 url=https://prehraj.to/zahady-slecny-dohazovacky-umeni-zabijet-2021-cztitulky/626895d169932
+[22:43:24]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/30617642/NgBHy1Ugbtd3IE7c3lFOxUaESQLfAQcgMHzq…)
+[22:45:05]   downloaded 2,108.5 MB in 98.3s (21.4 MB/s)
+[22:47:02]   upload done video_id=25287389 in 117.2s
