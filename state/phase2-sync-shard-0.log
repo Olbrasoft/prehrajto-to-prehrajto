@@ -2649,3 +2649,14 @@
 [00:31:23]   upload done video_id=25259145 in 52.3s
 [00:31:24] film cr_film_id=37198 OK in 101.0s
 [00:31:24] batch-end ok=18 failed=2 dur=2155.3s avg/film=119.7s remaining=9856 eta_hours=327.7
+
+===== run 2026-05-28T00:46:24Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26547595161) =====
+[00:46:25] batch-start shard=0/2 count=20 backlog=10210 uploads=354 failed_attempts=23
+[00:46:25] login
+[00:46:26] login done
+[00:46:26] iteration 1/20
+[00:46:26] film cr_film_id=35724 name='Zatracení (2025) CZ Titulky' candidates=1
+[00:46:26]   candidate upload_id=6798d2c6eed3d url=https://prehraj.to/the-damned-2024-cz-titulky-1080p/6798d2c6eed3d
+[00:46:28]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/128405369/kGMiEQFxpSNOckWSmRcr6FEjsPKsAkiGMHw…)
+[00:47:31]   downloaded 1,587.9 MB in 61.5s (25.8 MB/s)
+[00:48:53]   upload done video_id=25259543 in 81.9s
