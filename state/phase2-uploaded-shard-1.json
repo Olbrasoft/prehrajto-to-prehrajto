@@ -14212,6 +14212,25 @@
         "download_sec": 179.2,
         "upload_sec": 223.0
       }
+    },
+    {
+      "cr_film_id": 21029,
+      "cr_slug": "warning",
+      "title": "Warning",
+      "year": 2021,
+      "display_name": "Warning (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "61a6ecec8baf2",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25287994,
+      "size_bytes": 1270768195,
+      "uploaded_at": "2026-05-28T23:24:53Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 61.4,
+        "upload_sec": 69.3
+      }
     }
   ],
   "failed_attempts": [
@@ -14539,5 +14558,5 @@
       "failed_at": "2026-05-28T21:52:41Z"
     }
   ],
-  "last_updated": "2026-05-28T23:22:37Z"
+  "last_updated": "2026-05-28T23:24:53Z"
 }
