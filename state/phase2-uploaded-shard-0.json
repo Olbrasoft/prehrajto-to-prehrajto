@@ -11818,6 +11818,25 @@
         "download_sec": 49.7,
         "upload_sec": 56.8
       }
+    },
+    {
+      "cr_film_id": 15090,
+      "cr_slug": "dark-asset",
+      "title": "Dark Asset",
+      "year": 2023,
+      "display_name": "Dark Asset (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6555830e1f67a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25276865,
+      "size_bytes": 1415880003,
+      "uploaded_at": "2026-05-28T15:56:20Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 45.4,
+        "upload_sec": 49.3
+      }
     }
   ],
   "failed_attempts": [
@@ -12053,5 +12072,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T15:54:42Z"
+  "last_updated": "2026-05-28T15:56:20Z"
 }
