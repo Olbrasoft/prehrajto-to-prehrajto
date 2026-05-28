@@ -9310,6 +9310,25 @@
         "download_sec": 36.5,
         "upload_sec": 41.4
       }
+    },
+    {
+      "cr_film_id": 36934,
+      "cr_slug": "my-dead-friend-zoe",
+      "title": "My Dead Friend Zoe",
+      "year": 2024,
+      "display_name": "My Dead Friend Zoe (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "68deab4e58ed5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25270351,
+      "size_bytes": 1468319314,
+      "uploaded_at": "2026-05-28T09:23:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 62.5,
+        "upload_sec": 84.6
+      }
     }
   ],
   "failed_attempts": [
@@ -9524,5 +9543,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T09:20:54Z"
+  "last_updated": "2026-05-28T09:23:27Z"
 }
