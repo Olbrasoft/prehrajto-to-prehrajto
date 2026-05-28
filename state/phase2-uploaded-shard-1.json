@@ -5947,6 +5947,25 @@
         "download_sec": 70.0,
         "upload_sec": 93.9
       }
+    },
+    {
+      "cr_film_id": 9299,
+      "cr_slug": "your-host",
+      "title": "Your Host",
+      "year": 2025,
+      "display_name": "Your Host (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "fbee3b113c9cc624",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25258723,
+      "size_bytes": 1256450473,
+      "uploaded_at": "2026-05-28T00:14:32Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 40.8,
+        "upload_sec": 52.9
+      }
     }
   ],
   "failed_attempts": [
@@ -6070,5 +6089,5 @@
       "failed_at": "2026-05-27T23:46:23Z"
     }
   ],
-  "last_updated": "2026-05-28T00:12:55Z"
+  "last_updated": "2026-05-28T00:14:32Z"
 }
