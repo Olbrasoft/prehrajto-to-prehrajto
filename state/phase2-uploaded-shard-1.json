@@ -11438,6 +11438,25 @@
         "download_sec": 28.7,
         "upload_sec": 31.9
       }
+    },
+    {
+      "cr_film_id": 14747,
+      "cr_slug": "vstupenka-do-raje-2022",
+      "title": "Vstupenka do ráje",
+      "year": 2022,
+      "display_name": "Vstupenka do ráje (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6360082e7b446",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25277342,
+      "size_bytes": 2239182239,
+      "uploaded_at": "2026-05-28T16:23:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 107.7,
+        "upload_sec": 119.7
+      }
     }
   ],
   "failed_attempts": [
@@ -11737,5 +11756,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-28T16:19:17Z"
+  "last_updated": "2026-05-28T16:23:10Z"
 }
