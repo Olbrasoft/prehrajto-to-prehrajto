@@ -13509,6 +13509,25 @@
         "download_sec": 13.1,
         "upload_sec": 14.8
       }
+    },
+    {
+      "cr_film_id": 26551,
+      "cr_slug": "catherine-called-birdy",
+      "title": "Catherine Called Birdy",
+      "year": 2022,
+      "display_name": "Catherine Called Birdy (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63418eb8614dd",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25283459,
+      "size_bytes": 1584593155,
+      "uploaded_at": "2026-05-28T21:21:53Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 74.5,
+        "upload_sec": 106.4
+      }
     }
   ],
   "failed_attempts": [
@@ -13820,7 +13839,14 @@
       "reason": "oversize: 7773268935 B",
       "permanent": true,
       "failed_at": "2026-05-28T17:14:53Z"
+    },
+    {
+      "cr_film_id": 31269,
+      "upload_id": "ab4f3f98276905c6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/chernobyl-the-lost-tapes-2022-en-cz-tit-mp4/ab4f3f98276905c6",
+      "permanent": true,
+      "failed_at": "2026-05-28T21:18:44Z"
     }
   ],
-  "last_updated": "2026-05-28T21:18:42Z"
+  "last_updated": "2026-05-28T21:21:53Z"
 }
