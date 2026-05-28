@@ -3509,3 +3509,14 @@
 [09:21:21]   upload done video_id=25270313 in 79.1s
 [09:21:22] film cr_film_id=17959 OK in 145.6s
 [09:21:22] batch-end ok=19 failed=1 dur=2834.0s avg/film=149.2s remaining=9746 eta_hours=403.9
+
+===== run 2026-05-28T09:23:53Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26566263430) =====
+[09:23:54] batch-start shard=1/2 count=20 backlog=10210 uploads=464 failed_attempts=32
+[09:23:54] login
+[09:23:56] login done
+[09:23:56] iteration 1/20
+[09:23:56] film cr_film_id=28429 name='Já a můj terapeut (2024) CZ Titulky' candidates=1
+[09:23:56]   candidate upload_id=71613a9c75cf6dfe url=https://prehraj.to/ja-a-muj-terapeut-jamais-sans-mon-psy-2024-komedie-cz-titulky-1080p-hevc-ac-3-5-1-fr/71613a9c75cf6dfe
+[09:23:57]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/167411444/BbMIQMsLwIJKtn7U70HD2sbncYEUjqtYLcL…)
+[09:24:49]   downloaded 1,793.9 MB in 51.1s (35.1 MB/s)
+[09:25:55]   upload done video_id=25270407 in 65.8s
