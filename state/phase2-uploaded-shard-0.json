@@ -6821,6 +6821,25 @@
         "download_sec": 186.1,
         "upload_sec": 215.1
       }
+    },
+    {
+      "cr_film_id": 36994,
+      "cr_slug": "votemos",
+      "title": "Votemos",
+      "year": 2025,
+      "display_name": "Votemos (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "b6c9feadc667b18c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25259918,
+      "size_bytes": 1131364548,
+      "uploaded_at": "2026-05-28T01:03:59Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 51.0,
+        "upload_sec": 54.7
+      }
     }
   ],
   "failed_attempts": [
@@ -6986,5 +7005,5 @@
       "failed_at": "2026-05-28T00:15:25Z"
     }
   ],
-  "last_updated": "2026-05-28T01:02:09Z"
+  "last_updated": "2026-05-28T01:03:59Z"
 }
