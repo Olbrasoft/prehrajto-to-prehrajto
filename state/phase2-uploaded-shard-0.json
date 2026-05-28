@@ -10203,6 +10203,25 @@
         "download_sec": 37.9,
         "upload_sec": 49.5
       }
+    },
+    {
+      "cr_film_id": 10544,
+      "cr_slug": "vriskot-6",
+      "title": "Vřískot 6",
+      "year": 2023,
+      "display_name": "Vřískot 6 (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "f5e70e07a3635975",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25272680,
+      "size_bytes": 1683845332,
+      "uploaded_at": "2026-05-28T11:44:25Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 53.7,
+        "upload_sec": 61.5
+      }
     }
   ],
   "failed_attempts": [
@@ -10417,5 +10436,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T11:42:26Z"
+  "last_updated": "2026-05-28T11:44:25Z"
 }
