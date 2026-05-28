@@ -4859,3 +4859,14 @@
 [17:17:20] film cr_film_id=27886 all candidates exhausted
 [17:17:20] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
 [17:17:20] batch-end ok=0 failed=3 dur=762.8s avg/film=0s remaining=9562 eta_hours=None
+
+===== run 2026-05-28T17:51:45Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26592219089) =====
+[17:51:46] batch-start shard=0/2 count=20 backlog=10210 uploads=648 failed_attempts=37
+[17:51:46] login
+[17:51:48] login done
+[17:51:48] iteration 1/20
+[17:51:48] film cr_film_id=3252 name='Zlato Rýna (2022) CZ Titulky' candidates=1
+[17:51:48]   candidate upload_id=6791e12a78b1a7a8 url=https://prehraj.to/zlato-ryna-rheingold-2022-webrip-720p-cz-titulky-v-obraze/6791e12a78b1a7a8
+[17:51:49]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/167881975/MKRF6Gc9rhbXs0ntmvfLxcKXIovT2oCNqhk…)
+[17:52:18]   downloaded 923.0 MB in 27.5s (33.6 MB/s)
+[17:52:53]   upload done video_id=25278816 in 35.3s
