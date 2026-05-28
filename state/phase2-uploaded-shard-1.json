@@ -11932,6 +11932,25 @@
         "download_sec": 99.7,
         "upload_sec": 124.7
       }
+    },
+    {
+      "cr_film_id": 20013,
+      "cr_slug": "svaty-pavouk",
+      "title": "Svatý pavouk",
+      "year": 2022,
+      "display_name": "Svatý pavouk (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "64c8a84a610cd",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25278361,
+      "size_bytes": 1745032910,
+      "uploaded_at": "2026-05-28T17:30:33Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 57.7,
+        "upload_sec": 73.7
+      }
     }
   ],
   "failed_attempts": [
@@ -12245,5 +12264,5 @@
       "failed_at": "2026-05-28T17:14:53Z"
     }
   ],
-  "last_updated": "2026-05-28T17:28:18Z"
+  "last_updated": "2026-05-28T17:30:33Z"
 }
