@@ -7543,6 +7543,25 @@
         "download_sec": 50.6,
         "upload_sec": 71.5
       }
+    },
+    {
+      "cr_film_id": 18587,
+      "cr_slug": "vermiglio",
+      "title": "Vermiglio",
+      "year": 2024,
+      "display_name": "Vermiglio (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "ed07d64f5220f4d0",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25265602,
+      "size_bytes": 983994174,
+      "uploaded_at": "2026-05-28T05:21:12Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 32.4,
+        "upload_sec": 36.7
+      }
     }
   ],
   "failed_attempts": [
@@ -7755,5 +7774,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-28T05:19:59Z"
+  "last_updated": "2026-05-28T05:21:12Z"
 }
