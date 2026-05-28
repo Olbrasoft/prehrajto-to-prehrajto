@@ -5573,3 +5573,14 @@
 [22:28:17]   upload FAILED after 75.4s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 [22:28:17] film cr_film_id=27670 all candidates exhausted
 [22:28:17] batch-end ok=18 failed=2 dur=2605.5s avg/film=144.8s remaining=9471 eta_hours=380.9
+
+===== run 2026-05-28T22:43:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26606614540) =====
+[22:43:16] batch-start shard=0/2 count=20 backlog=10210 uploads=739 failed_attempts=46
+[22:43:16] login
+[22:43:18] login done
+[22:43:18] iteration 1/20
+[22:43:18] film cr_film_id=27670 name='Kdo je tady hodný kluk? (2022) CZ Titulky' candidates=1
+[22:43:18]   candidate upload_id=638a687938957 url=https://prehraj.to/kdo-je-tady-hodny-kluk-2022-cztitulky/638a687938957
+[22:43:19]   resolved in 1.6s → 1080p (https://pf-storage3.premiumcdn.net/34967578/GlXFBgTQqtJ1fe5F5jUoLTP9hMzigDcr3H8m…)
+[22:44:29]   downloaded 1,940.9 MB in 67.7s (28.7 MB/s)
+[22:46:10]   upload done video_id=25287378 in 101.5s
