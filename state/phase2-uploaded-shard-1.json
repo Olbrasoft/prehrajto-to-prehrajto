@@ -7277,6 +7277,25 @@
         "download_sec": 71.4,
         "upload_sec": 95.0
       }
+    },
+    {
+      "cr_film_id": 16281,
+      "cr_slug": "alpha",
+      "title": "Alpha",
+      "year": 2025,
+      "display_name": "Alpha (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "426568d170a6a990",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25263932,
+      "size_bytes": 2514575415,
+      "uploaded_at": "2026-05-28T04:05:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 118.2,
+        "upload_sec": 131.4
+      }
     }
   ],
   "failed_attempts": [
@@ -7489,5 +7508,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-28T04:01:03Z"
+  "last_updated": "2026-05-28T04:05:17Z"
 }
