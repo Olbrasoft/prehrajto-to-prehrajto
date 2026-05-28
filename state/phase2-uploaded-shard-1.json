@@ -7467,6 +7467,25 @@
         "download_sec": 41.9,
         "upload_sec": 50.6
       }
+    },
+    {
+      "cr_film_id": 19707,
+      "cr_slug": "zataj-dech",
+      "title": "Zataj dech",
+      "year": 2024,
+      "display_name": "Zataj dech (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6701f0c10e15d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25265458,
+      "size_bytes": 604259226,
+      "uploaded_at": "2026-05-28T05:14:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.9,
+        "upload_sec": 35.3
+      }
     }
   ],
   "failed_attempts": [
@@ -7679,5 +7698,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-28T05:13:24Z"
+  "last_updated": "2026-05-28T05:14:21Z"
 }
