@@ -8987,6 +8987,25 @@
         "download_sec": 92.3,
         "upload_sec": 116.3
       }
+    },
+    {
+      "cr_film_id": 34202,
+      "cr_slug": "sebastian",
+      "title": "Sebastian",
+      "year": 2024,
+      "display_name": "Sebastian (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "679bb9c5e30ac",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25269434,
+      "size_bytes": 1767734578,
+      "uploaded_at": "2026-05-28T08:34:29Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 81.4,
+        "upload_sec": 95.3
+      }
     }
   ],
   "failed_attempts": [
@@ -9194,5 +9213,5 @@
       "failed_at": "2026-05-28T08:05:18Z"
     }
   ],
-  "last_updated": "2026-05-28T08:31:26Z"
+  "last_updated": "2026-05-28T08:34:29Z"
 }
