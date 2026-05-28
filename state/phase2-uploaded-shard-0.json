@@ -7163,6 +7163,25 @@
         "download_sec": 26.6,
         "upload_sec": 34.6
       }
+    },
+    {
+      "cr_film_id": 31500,
+      "cr_slug": "the-baltimorons",
+      "title": "The Baltimorons",
+      "year": 2025,
+      "display_name": "The Baltimorons (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "68e94687ce40f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25260937,
+      "size_bytes": 1845192080,
+      "uploaded_at": "2026-05-28T01:47:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 56.4,
+        "upload_sec": 66.7
+      }
     }
   ],
   "failed_attempts": [
@@ -7363,5 +7382,5 @@
       "failed_at": "2026-05-28T01:19:33Z"
     }
   ],
-  "last_updated": "2026-05-28T01:45:21Z"
+  "last_updated": "2026-05-28T01:47:28Z"
 }
