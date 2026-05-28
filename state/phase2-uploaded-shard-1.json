@@ -10431,6 +10431,25 @@
         "download_sec": 90.4,
         "upload_sec": 110.7
       }
+    },
+    {
+      "cr_film_id": 35683,
+      "cr_slug": "odemcena-identita",
+      "title": "Odemčená identita",
+      "year": 2023,
+      "display_name": "Odemčená identita (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63fe9b5026e98",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25274997,
+      "size_bytes": 1985928576,
+      "uploaded_at": "2026-05-28T14:02:39Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 64.9,
+        "upload_sec": 77.5
+      }
     }
   ],
   "failed_attempts": [
@@ -10683,5 +10702,5 @@
       "failed_at": "2026-05-28T11:59:09Z"
     }
   ],
-  "last_updated": "2026-05-28T14:00:12Z"
+  "last_updated": "2026-05-28T14:02:39Z"
 }
