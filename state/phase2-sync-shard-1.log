@@ -2778,3 +2778,14 @@
 [02:19:58]   upload done video_id=25261703 in 46.6s
 [02:19:59] film cr_film_id=28535 OK in 86.5s
 [02:19:59] batch-end ok=20 failed=0 dur=2534.8s avg/film=126.7s remaining=9844 eta_hours=346.5
+
+===== run 2026-05-28T03:12:21Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26552319095) =====
+[03:12:22] batch-start shard=1/2 count=20 backlog=10210 uploads=366 failed_attempts=29
+[03:12:22] login
+[03:12:23] login done
+[03:12:23] iteration 1/20
+[03:12:23] film cr_film_id=3573 name='Eleanor the Great (2025) CZ Titulky' candidates=8
+[03:12:23]   candidate upload_id=bcef007316bde49b url=https://prehraj.to/eleanor-the-great-2025-1080p-cz-tit-mp4/bcef007316bde49b
+[03:12:25]   resolved in 1.5s → 720p (https://pf-storage3.premiumcdn.net/155263605/bXKsJbSyRURQIB0HYQF90SvaIbNCoEu8AtZ…)
+[03:13:15]   downloaded 1,041.0 MB in 48.3s (21.6 MB/s)
+[03:14:13]   upload done video_id=25262906 in 58.1s
