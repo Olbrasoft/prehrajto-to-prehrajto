@@ -9956,6 +9956,25 @@
         "download_sec": 63.9,
         "upload_sec": 90.0
       }
+    },
+    {
+      "cr_film_id": 18642,
+      "cr_slug": "bardejov",
+      "title": "Bardejov",
+      "year": 2024,
+      "display_name": "Bardejov (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6614352055f4b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25271724,
+      "size_bytes": 1504919162,
+      "uploaded_at": "2026-05-28T10:48:04Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 67.2,
+        "upload_sec": 76.9
+      }
     }
   ],
   "failed_attempts": [
@@ -10170,5 +10189,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T10:45:35Z"
+  "last_updated": "2026-05-28T10:48:04Z"
 }
