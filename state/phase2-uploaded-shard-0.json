@@ -11229,6 +11229,25 @@
         "download_sec": 53.1,
         "upload_sec": 64.2
       }
+    },
+    {
+      "cr_film_id": 6202,
+      "cr_slug": "little-bone-lodge",
+      "title": "Little Bone Lodge",
+      "year": 2023,
+      "display_name": "Little Bone Lodge (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "64c2db390de67",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25275669,
+      "size_bytes": 1369867943,
+      "uploaded_at": "2026-05-28T14:37:47Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 66.9,
+        "upload_sec": 79.1
+      }
     }
   ],
   "failed_attempts": [
@@ -11464,5 +11483,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T14:35:16Z"
+  "last_updated": "2026-05-28T14:37:47Z"
 }
