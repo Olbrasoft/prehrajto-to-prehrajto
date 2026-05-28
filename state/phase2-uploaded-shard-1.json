@@ -6422,6 +6422,25 @@
         "download_sec": 45.8,
         "upload_sec": 66.6
       }
+    },
+    {
+      "cr_film_id": 28495,
+      "cr_slug": "pet-rande",
+      "title": "Pět rande",
+      "year": 2025,
+      "display_name": "Pět rande (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67cb1b4c1fafb",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25259904,
+      "size_bytes": 1655685314,
+      "uploaded_at": "2026-05-28T01:03:39Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 45.1,
+        "upload_sec": 59.3
+      }
     }
   ],
   "failed_attempts": [
@@ -6594,5 +6613,5 @@
       "failed_at": "2026-05-28T00:56:34Z"
     }
   ],
-  "last_updated": "2026-05-28T01:01:52Z"
+  "last_updated": "2026-05-28T01:03:39Z"
 }
