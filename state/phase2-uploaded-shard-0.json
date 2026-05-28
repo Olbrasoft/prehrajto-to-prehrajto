@@ -12901,6 +12901,25 @@
         "download_sec": 95.1,
         "upload_sec": 126.8
       }
+    },
+    {
+      "cr_film_id": 3692,
+      "cr_slug": "spirited",
+      "title": "Spirited",
+      "year": 2022,
+      "display_name": "Spirited (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "b74f7cc9333b6f7b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25280165,
+      "size_bytes": 2413588743,
+      "uploaded_at": "2026-05-28T19:10:24Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 107.7,
+        "upload_sec": 139.8
+      }
     }
   ],
   "failed_attempts": [
@@ -13178,5 +13197,5 @@
       "failed_at": "2026-05-28T18:57:05Z"
     }
   ],
-  "last_updated": "2026-05-28T19:06:11Z"
+  "last_updated": "2026-05-28T19:10:24Z"
 }
