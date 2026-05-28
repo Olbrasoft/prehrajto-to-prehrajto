@@ -4401,3 +4401,14 @@
 [14:30:04]   upload done video_id=25275546 in 73.3s
 [14:30:05] film cr_film_id=10290 OK in 140.8s
 [14:30:05] batch-end ok=20 failed=0 dur=2527.7s avg/film=126.4s remaining=9621 eta_hours=337.8
+
+===== run 2026-05-28T14:30:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26581132281) =====
+[14:30:36] batch-start shard=0/2 count=20 backlog=10210 uploads=589 failed_attempts=33
+[14:30:36] login
+[14:30:38] login done
+[14:30:38] iteration 1/20
+[14:30:38] film cr_film_id=20270 name='Medellín (2023) CZ Titulky' candidates=2
+[14:30:38]   candidate upload_id=647b48a86a1ec url=https://prehraj.to/medellin-2023-720p-amzn-web-dl-ddp5-1-h-264-zevia-cz-titulky/647b48a86a1ec
+[14:30:39]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/41296066/Ln4s2dhy2uLvi6VCZDSgyhn4SkGir2I2Rtwv…)
+[14:31:52]   downloaded 1,448.6 MB in 69.8s (20.8 MB/s)
+[14:33:13]   upload done video_id=25275599 in 81.4s
