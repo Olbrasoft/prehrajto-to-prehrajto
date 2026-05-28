@@ -9424,6 +9424,25 @@
         "download_sec": 82.8,
         "upload_sec": 93.7
       }
+    },
+    {
+      "cr_film_id": 5360,
+      "cr_slug": "lowlifes",
+      "title": "Lowlifes",
+      "year": 2024,
+      "display_name": "Lowlifes (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6634369222f45",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25270609,
+      "size_bytes": 708084026,
+      "uploaded_at": "2026-05-28T09:38:36Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 26.2,
+        "upload_sec": 34.7
+      }
     }
   ],
   "failed_attempts": [
@@ -9638,5 +9657,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T09:37:31Z"
+  "last_updated": "2026-05-28T09:38:36Z"
 }
