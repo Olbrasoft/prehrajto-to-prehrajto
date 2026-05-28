@@ -13471,6 +13471,25 @@
         "download_sec": 71.5,
         "upload_sec": 85.8
       }
+    },
+    {
+      "cr_film_id": 9975,
+      "cr_slug": "control",
+      "title": "Control",
+      "year": 2022,
+      "display_name": "Control (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63381b2a755ea",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25283391,
+      "size_bytes": 1051814447,
+      "uploaded_at": "2026-05-28T21:18:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 49.2,
+        "upload_sec": 71.4
+      }
     }
   ],
   "failed_attempts": [
@@ -13784,5 +13803,5 @@
       "failed_at": "2026-05-28T17:14:53Z"
     }
   ],
-  "last_updated": "2026-05-28T21:16:04Z"
+  "last_updated": "2026-05-28T21:18:09Z"
 }
