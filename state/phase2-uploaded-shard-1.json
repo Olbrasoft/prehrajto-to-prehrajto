@@ -8493,6 +8493,25 @@
         "download_sec": 114.3,
         "upload_sec": 131.0
       }
+    },
+    {
+      "cr_film_id": 37191,
+      "cr_slug": "madu",
+      "title": "Madu",
+      "year": 2024,
+      "display_name": "Madu (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "d486c6824e812ec5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25269627,
+      "size_bytes": 1729277914,
+      "uploaded_at": "2026-05-28T08:45:14Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 75.6,
+        "upload_sec": 84.7
+      }
     }
   ],
   "failed_attempts": [
@@ -8719,5 +8738,5 @@
       "failed_at": "2026-05-28T08:33:51Z"
     }
   ],
-  "last_updated": "2026-05-28T08:42:28Z"
+  "last_updated": "2026-05-28T08:45:14Z"
 }
