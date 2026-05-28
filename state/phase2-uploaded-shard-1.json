@@ -10526,6 +10526,25 @@
         "download_sec": 48.8,
         "upload_sec": 68.4
       }
+    },
+    {
+      "cr_film_id": 15277,
+      "cr_slug": "mutilator-2",
+      "title": "Mutilator 2",
+      "year": 2023,
+      "display_name": "Mutilator 2 (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "c277b8689e9f1790",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25275186,
+      "size_bytes": 1814195001,
+      "uploaded_at": "2026-05-28T14:11:45Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 59.1,
+        "upload_sec": 68.8
+      }
     }
   ],
   "failed_attempts": [
@@ -10776,7 +10795,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/theres-something-wrong-with-the-children-2023-cz-titulky/63d1a01b06373",
       "permanent": true,
       "failed_at": "2026-05-28T11:59:09Z"
+    },
+    {
+      "cr_film_id": 9329,
+      "upload_id": "e0cb33cd18163f04",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/my-animal-2023-cz-titulky-mp4/e0cb33cd18163f04",
+      "permanent": true,
+      "failed_at": "2026-05-28T14:09:29Z"
     }
   ],
-  "last_updated": "2026-05-28T14:09:27Z"
+  "last_updated": "2026-05-28T14:11:45Z"
 }
