@@ -2924,3 +2924,14 @@
 [04:13:14]   upload done video_id=25264112 in 94.1s
 [04:13:16] film cr_film_id=16961 OK in 172.0s
 [04:13:16] batch-end ok=20 failed=0 dur=3652.3s avg/film=182.6s remaining=9824 eta_hours=498.3
+
+===== run 2026-05-28T04:56:32Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26555573799) =====
+[04:56:33] batch-start shard=1/2 count=20 backlog=10210 uploads=386 failed_attempts=29
+[04:56:33] login
+[04:56:34] login done
+[04:56:34] iteration 1/20
+[04:56:34] film cr_film_id=36977 name='A Woman Scorned (2025) CZ Titulky' candidates=6
+[04:56:34]   candidate upload_id=246b58bda5e7c4e3 url=https://prehraj.to/a-woman-scorned-2025-cz-titulky-1080p-mkv/246b58bda5e7c4e3
+[04:56:36]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/155395892/11LiZLh0aHrbtXnSd0SLPh9zSKyFE1unrTj…)
+[04:57:09]   downloaded 936.2 MB in 31.0s (30.2 MB/s)
+[04:57:44]   upload done video_id=25265080 in 35.0s
