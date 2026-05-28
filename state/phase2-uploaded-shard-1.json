@@ -7619,6 +7619,25 @@
         "download_sec": 42.3,
         "upload_sec": 48.4
       }
+    },
+    {
+      "cr_film_id": 36945,
+      "cr_slug": "uranus-2324",
+      "title": "Uranus 2324",
+      "year": 2024,
+      "display_name": "Uranus 2324 (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67caa7da68e31",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25265889,
+      "size_bytes": 1535330443,
+      "uploaded_at": "2026-05-28T05:34:36Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 61.6,
+        "upload_sec": 57.6
+      }
     }
   ],
   "failed_attempts": [
@@ -7838,5 +7857,5 @@
       "failed_at": "2026-05-28T05:25:05Z"
     }
   ],
-  "last_updated": "2026-05-28T05:32:33Z"
+  "last_updated": "2026-05-28T05:34:36Z"
 }
