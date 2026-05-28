@@ -12597,6 +12597,25 @@
         "download_sec": 58.1,
         "upload_sec": 64.3
       }
+    },
+    {
+      "cr_film_id": 1610,
+      "cr_slug": "trojuhelnik-smutku",
+      "title": "Trojúhelník smutku",
+      "year": 2022,
+      "display_name": "Trojúhelník smutku (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "638aa7dff1a27",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25279438,
+      "size_bytes": 1953149356,
+      "uploaded_at": "2026-05-28T18:29:00Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 55.0,
+        "upload_sec": 75.6
+      }
     }
   ],
   "failed_attempts": [
@@ -12860,5 +12879,5 @@
       "failed_at": "2026-05-28T17:17:20Z"
     }
   ],
-  "last_updated": "2026-05-28T18:26:46Z"
+  "last_updated": "2026-05-28T18:29:00Z"
 }
