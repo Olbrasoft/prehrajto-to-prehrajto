@@ -12825,6 +12825,25 @@
         "download_sec": 57.1,
         "upload_sec": 82.1
       }
+    },
+    {
+      "cr_film_id": 31237,
+      "cr_slug": "klondike",
+      "title": "Klondike",
+      "year": 2022,
+      "display_name": "Klondike (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "64bf5b90256f5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25280610,
+      "size_bytes": 1681778831,
+      "uploaded_at": "2026-05-28T19:25:52Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 72.2,
+        "upload_sec": 93.3
+      }
     }
   ],
   "failed_attempts": [
@@ -13138,5 +13157,5 @@
       "failed_at": "2026-05-28T17:14:53Z"
     }
   ],
-  "last_updated": "2026-05-28T19:23:02Z"
+  "last_updated": "2026-05-28T19:25:52Z"
 }
