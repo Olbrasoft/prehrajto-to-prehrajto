@@ -5260,3 +5260,14 @@
 [20:40:35]   upload done video_id=25282536 in 71.8s
 [20:40:36] film cr_film_id=10041 OK in 126.1s
 [20:40:36] batch-end ok=20 failed=0 dur=4064.3s avg/film=203.2s remaining=9512 eta_hours=536.9
+
+===== run 2026-05-28T20:41:05Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26600965659) =====
+[20:41:05] batch-start shard=1/2 count=20 backlog=10210 uploads=698 failed_attempts=42
+[20:41:05] login
+[20:41:07] login done
+[20:41:07] iteration 1/20
+[20:41:07] film cr_film_id=34041 name='Emergency Declaration (2022) CZ Titulky' candidates=1
+[20:41:07]   candidate upload_id=6391017445397 url=https://prehraj.to/emergency-declaration-2022-cztitulky/6391017445397
+[20:41:08]   resolved in 1.6s → 1080p (https://pf-storage3.premiumcdn.net/35219800/1RwIwEsBycGoSY6s6pcKXsgeupgCQ2I08Sv3…)
+[20:43:55]   downloaded 2,982.1 MB in 164.9s (18.1 MB/s)
+[20:47:15]   upload done video_id=25282656 in 199.2s
