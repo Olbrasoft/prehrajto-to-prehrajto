@@ -4968,3 +4968,14 @@
 [18:28:59]   upload done video_id=25279429 in 80.8s
 [18:29:01] film cr_film_id=28345 OK in 150.8s
 [18:29:01] batch-end ok=20 failed=0 dur=2236.1s avg/film=111.8s remaining=9552 eta_hours=296.6
+
+===== run 2026-05-28T18:37:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26594634255) =====
+[18:37:32] batch-start shard=1/2 count=20 backlog=10210 uploads=658 failed_attempts=42
+[18:37:32] login
+[18:37:34] login done
+[18:37:34] iteration 1/20
+[18:37:34] film cr_film_id=19909 name='Neomanželka (2022) CZ Titulky' candidates=2
+[18:37:34]   candidate upload_id=639143ac58514 url=https://prehraj.to/wifelike-2022-cztitulky/639143ac58514
+[18:37:35]   resolved in 1.4s → 720p (https://pf-storage4.premiumcdn.net/35222923/E1oUn6IKDtgLcBEU6KcPLI47T5ZSXAFp4H8B…)
+[18:38:27]   downloaded 1,224.7 MB in 49.7s (24.6 MB/s)
+[18:39:28]   upload done video_id=25279604 in 61.0s
