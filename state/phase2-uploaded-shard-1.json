@@ -12616,6 +12616,25 @@
         "download_sec": 32.7,
         "upload_sec": 40.5
       }
+    },
+    {
+      "cr_film_id": 6233,
+      "cr_slug": "men",
+      "title": "Men",
+      "year": 2022,
+      "display_name": "Men (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "632a486b56abf",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25279818,
+      "size_bytes": 1834896339,
+      "uploaded_at": "2026-05-28T18:51:44Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 82.1,
+        "upload_sec": 100.0
+      }
     }
   ],
   "failed_attempts": [
@@ -12929,5 +12948,5 @@
       "failed_at": "2026-05-28T17:14:53Z"
     }
   ],
-  "last_updated": "2026-05-28T18:48:36Z"
+  "last_updated": "2026-05-28T18:51:44Z"
 }
