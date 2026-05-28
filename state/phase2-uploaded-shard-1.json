@@ -7695,6 +7695,25 @@
         "download_sec": 32.6,
         "upload_sec": 43.0
       }
+    },
+    {
+      "cr_film_id": 34137,
+      "cr_slug": "the-seeding",
+      "title": "The Seeding",
+      "year": 2024,
+      "display_name": "The Seeding (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "65ec82f3d8f94",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25266039,
+      "size_bytes": 2882546647,
+      "uploaded_at": "2026-05-28T05:42:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 90.6,
+        "upload_sec": 102.1
+      }
     }
   ],
   "failed_attempts": [
@@ -7914,5 +7933,5 @@
       "failed_at": "2026-05-28T05:25:05Z"
     }
   ],
-  "last_updated": "2026-05-28T05:39:00Z"
+  "last_updated": "2026-05-28T05:42:16Z"
 }
