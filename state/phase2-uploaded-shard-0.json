@@ -12521,6 +12521,25 @@
         "download_sec": 40.4,
         "upload_sec": 60.1
       }
+    },
+    {
+      "cr_film_id": 19636,
+      "cr_slug": "utama",
+      "title": "Utama",
+      "year": 2022,
+      "display_name": "Utama (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63be24db3cf60",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25279269,
+      "size_bytes": 1095522834,
+      "uploaded_at": "2026-05-28T18:20:06Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 41.3,
+        "upload_sec": 43.6
+      }
     }
   ],
   "failed_attempts": [
@@ -12784,5 +12803,5 @@
       "failed_at": "2026-05-28T17:17:20Z"
     }
   ],
-  "last_updated": "2026-05-28T18:18:37Z"
+  "last_updated": "2026-05-28T18:20:06Z"
 }
