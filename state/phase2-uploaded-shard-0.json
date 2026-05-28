@@ -6802,6 +6802,25 @@
         "download_sec": 52.9,
         "upload_sec": 57.9
       }
+    },
+    {
+      "cr_film_id": 28402,
+      "cr_slug": "war-2",
+      "title": "War 2",
+      "year": 2025,
+      "display_name": "War 2 (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "14faedd5e638f281",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25259808,
+      "size_bytes": 4461526231,
+      "uploaded_at": "2026-05-28T01:02:09Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 186.1,
+        "upload_sec": 215.1
+      }
     }
   ],
   "failed_attempts": [
@@ -6967,5 +6986,5 @@
       "failed_at": "2026-05-28T00:15:25Z"
     }
   ],
-  "last_updated": "2026-05-28T00:55:23Z"
+  "last_updated": "2026-05-28T01:02:09Z"
 }
