@@ -3801,3 +3801,14 @@
 [11:30:24]   upload done video_id=25272446 in 87.0s
 [11:30:26] film cr_film_id=5827 OK in 162.5s
 [11:30:26] batch-end ok=20 failed=0 dur=4706.2s avg/film=235.3s remaining=9706 eta_hours=634.4
+
+===== run 2026-05-28T11:30:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26572007910) =====
+[11:30:51] batch-start shard=1/2 count=20 backlog=10210 uploads=504 failed_attempts=32
+[11:30:51] login
+[11:30:53] login done
+[11:30:53] iteration 1/20
+[11:30:53] film cr_film_id=15893 name='Útok zdrogovaného aligátora (2023) CZ Titulky' candidates=5
+[11:30:53]   candidate upload_id=6853e822abd6d url=https://prehraj.to/syfy-mkv-attack-of-the-meth-gator-2023-720p-webrip-x264-aac-yts-mx-cz-tit-mp4/6853e822abd6d
+[11:30:54]   resolved in 1.1s → 480p (https://pf-storage3.premiumcdn.net/140250449/09ZsMBul2TWJfXnFgAF31u1Ai10ULXI1mIe…)
+[11:31:31]   downloaded 1,089.2 MB in 35.6s (30.6 MB/s)
+[11:32:13]   upload done video_id=25272480 in 41.8s
