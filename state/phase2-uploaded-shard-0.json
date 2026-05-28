@@ -6517,6 +6517,25 @@
         "download_sec": 91.6,
         "upload_sec": 126.7
       }
+    },
+    {
+      "cr_film_id": 15292,
+      "cr_slug": "psycho-killer",
+      "title": "Psycho Killer",
+      "year": 2026,
+      "display_name": "Psycho Killer (2026) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "405db425d2cb65da",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25258646,
+      "size_bytes": 1300551739,
+      "uploaded_at": "2026-05-28T00:11:24Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 36.3,
+        "upload_sec": 45.7
+      }
     }
   ],
   "failed_attempts": [
@@ -6668,5 +6687,5 @@
       "failed_at": "2026-05-27T23:55:30Z"
     }
   ],
-  "last_updated": "2026-05-28T00:09:59Z"
+  "last_updated": "2026-05-28T00:11:24Z"
 }
