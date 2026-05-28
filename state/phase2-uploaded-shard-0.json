@@ -11248,6 +11248,25 @@
         "download_sec": 66.9,
         "upload_sec": 79.1
       }
+    },
+    {
+      "cr_film_id": 36918,
+      "cr_slug": "le-vourdalak",
+      "title": "Le Vourdalak",
+      "year": 2023,
+      "display_name": "Le Vourdalak (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "90855c04fcb35bc6",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25275716,
+      "size_bytes": 1493166794,
+      "uploaded_at": "2026-05-28T14:40:31Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 71.1,
+        "upload_sec": 88.0
+      }
     }
   ],
   "failed_attempts": [
@@ -11483,5 +11502,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T14:37:47Z"
+  "last_updated": "2026-05-28T14:40:31Z"
 }
