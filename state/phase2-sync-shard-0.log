@@ -4255,3 +4255,14 @@
 [12:47:52]   upload done video_id=25273635 in 87.2s
 [12:47:53] film cr_film_id=4960 OK in 167.5s
 [12:47:53] batch-end ok=20 failed=0 dur=2144.1s avg/film=107.2s remaining=9641 eta_hours=287.1
+
+===== run 2026-05-28T13:47:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26578705978) =====
+[13:47:56] batch-start shard=0/2 count=20 backlog=10210 uploads=569 failed_attempts=33
+[13:47:56] login
+[13:47:57] login done
+[13:47:57] iteration 1/20
+[13:47:57] film cr_film_id=36880 name='Raging Grace (2023) CZ Titulky' candidates=1
+[13:47:57]   candidate upload_id=a2259a30c251c925 url=https://prehraj.to/raging-grace-2023-cz-titulky/a2259a30c251c925
+[13:47:59]   resolved in 1.2s → 1080p (https://pf-storage6.premiumcdn.net/170853044/2W1fvLSm2to7FjGuMOcmKSMJiVlhLNCVaso…)
+[13:48:53]   downloaded 1,607.1 MB in 52.3s (30.7 MB/s)
+[13:49:57]   upload done video_id=25274772 in 64.8s
