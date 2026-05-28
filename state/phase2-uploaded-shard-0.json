@@ -11343,6 +11343,25 @@
         "download_sec": 78.8,
         "upload_sec": 92.4
       }
+    },
+    {
+      "cr_film_id": 20156,
+      "cr_slug": "jen-my-dva",
+      "title": "Jen my dva",
+      "year": 2023,
+      "display_name": "Jen my dva (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "66bf73f1e168d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25275914,
+      "size_bytes": 1463491496,
+      "uploaded_at": "2026-05-28T14:53:21Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 72.3,
+        "upload_sec": 89.0
+      }
     }
   ],
   "failed_attempts": [
@@ -11578,5 +11597,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T14:50:34Z"
+  "last_updated": "2026-05-28T14:53:21Z"
 }
