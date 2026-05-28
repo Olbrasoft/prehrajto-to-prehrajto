@@ -12844,6 +12844,25 @@
         "download_sec": 75.0,
         "upload_sec": 86.1
       }
+    },
+    {
+      "cr_film_id": 31178,
+      "cr_slug": "tethered",
+      "title": "Tethered",
+      "year": 2022,
+      "display_name": "Tethered (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "623ced4a7664c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25279976,
+      "size_bytes": 1507393254,
+      "uploaded_at": "2026-05-28T19:00:07Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 74.7,
+        "upload_sec": 98.8
+      }
     }
   ],
   "failed_attempts": [
@@ -13112,7 +13131,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/there-are-no-saints-2022-en-cz-tit-mp4/9810be4f53d0d706",
       "permanent": true,
       "failed_at": "2026-05-28T18:35:04Z"
+    },
+    {
+      "cr_film_id": 31272,
+      "upload_id": "3ff8ec0b3999a8df",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-aviary-2022-en-cz-tit-mp4/3ff8ec0b3999a8df",
+      "permanent": true,
+      "failed_at": "2026-05-28T18:57:05Z"
     }
   ],
-  "last_updated": "2026-05-28T18:57:03Z"
+  "last_updated": "2026-05-28T19:00:07Z"
 }

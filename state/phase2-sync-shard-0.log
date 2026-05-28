@@ -5070,3 +5070,15 @@
 [18:54:20]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/46012451/MDms49S1VHXYTKGSxeH5zSM0ig7T7YH2VIz2…)
 [18:55:37]   downloaded 1,339.7 MB in 75.0s (17.9 MB/s)
 [18:57:03]   upload done video_id=25279922 in 86.1s
+[18:57:05] film cr_film_id=6524 OK in 166.1s
+[18:57:05] iteration 10/20
+[18:57:05] film cr_film_id=31272 name='The Aviary (2022) CZ Titulky' candidates=1
+[18:57:05]   candidate upload_id=3ff8ec0b3999a8df url=https://prehraj.to/the-aviary-2022-en-cz-tit-mp4/3ff8ec0b3999a8df
+[18:57:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-aviary-2022-en-cz-tit-mp4/3ff8ec0b3999a8df (permanent=True)
+[18:57:05] film cr_film_id=31272 all candidates exhausted
+[18:57:05] iteration 11/20
+[18:57:05] film cr_film_id=31178 name='Tethered (2022) CZ Titulky' candidates=1
+[18:57:05]   candidate upload_id=623ced4a7664c url=https://prehraj.to/tethered-2022-cztitulky/623ced4a7664c
+[18:57:11]   resolved in 6.2s → 720p (https://pf-storage4.premiumcdn.net/30197804/E9RIDXimLCwXHEmfN3I3diGxsEQh0jsayhwK…)
+[18:58:28]   downloaded 1,507.4 MB in 74.7s (20.2 MB/s)
+[19:00:07]   upload done video_id=25279976 in 98.8s
