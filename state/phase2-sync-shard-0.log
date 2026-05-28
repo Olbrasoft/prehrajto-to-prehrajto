@@ -4837,3 +4837,25 @@
 [16:51:03]   upload done video_id=25277755 in 84.3s
 [16:51:04] film cr_film_id=6554 OK in 155.7s
 [16:51:04] batch-end ok=19 failed=1 dur=2332.9s avg/film=122.8s remaining=9562 eta_hours=326.2
+
+===== run 2026-05-28T17:04:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26589732591) =====
+[17:04:36] batch-start shard=0/2 count=20 backlog=10210 uploads=648 failed_attempts=34
+[17:04:36] login
+[17:04:37] login done
+[17:04:37] iteration 1/20
+[17:04:37] film cr_film_id=3252 name='Zlato Rýna (2022) CZ Titulky' candidates=1
+[17:04:37]   candidate upload_id=6791e12a78b1a7a8 url=https://prehraj.to/zlato-ryna-rheingold-2022-webrip-720p-cz-titulky-v-obraze/6791e12a78b1a7a8
+[17:08:52]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fzlato-ryna-rheingold-2022-webrip-720p-cz-titulky-v-obraze%2F6791e12a78b1a7a8 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fc06fe34ad0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/zlato-ryna-rheingold-2022-webrip-720p-cz-titulky-v-obraze/6791e12a78b1a7a8 (permanent=False)
+[17:08:52] film cr_film_id=3252 all candidates exhausted
+[17:08:52] iteration 2/20
+[17:08:52] film cr_film_id=18318 name='Zimní sen (2022) CZ Titulky' candidates=1
+[17:08:52]   candidate upload_id=6250fb62e0d68 url=https://prehraj.to/zimni-sen-2022-sk-cz-titulky/6250fb62e0d68
+[17:13:06]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fzimni-sen-2022-sk-cz-titulky%2F6250fb62e0d68 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fc06fe37a70>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/zimni-sen-2022-sk-cz-titulky/6250fb62e0d68 (permanent=False)
+[17:13:06] film cr_film_id=18318 all candidates exhausted
+[17:13:06] iteration 3/20
+[17:13:06] film cr_film_id=27886 name='What Is a Woman? (2022) CZ Titulky' candidates=1
+[17:13:06]   candidate upload_id=62f58a7ce31ed url=https://prehraj.to/what-is-a-woman-2022-cztitulky/62f58a7ce31ed
+[17:17:20]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fwhat-is-a-woman-2022-cztitulky%2F62f58a7ce31ed (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fc06fe36990>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/what-is-a-woman-2022-cztitulky/62f58a7ce31ed (permanent=False)
+[17:17:20] film cr_film_id=27886 all candidates exhausted
+[17:17:20] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
+[17:17:20] batch-end ok=0 failed=3 dur=762.8s avg/film=0s remaining=9562 eta_hours=None

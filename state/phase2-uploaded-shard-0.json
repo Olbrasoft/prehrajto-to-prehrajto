@@ -12552,7 +12552,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/after-everything-after-odlouceni-2023-romanticky-cztit/269b77f7708dade8",
       "permanent": true,
       "failed_at": "2026-05-28T16:33:19Z"
+    },
+    {
+      "cr_film_id": 3252,
+      "upload_id": "6791e12a78b1a7a8",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fzlato-ryna-rheingold-2022-webrip-720p-cz-titulky-v-obraze%2F6791e12a78b1a7a8 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fc06fe34ad0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/zlato-ryna-rheingold-2022-webrip-720p-cz-titulky-v-obraze/6791e12a78b1a7a8",
+      "permanent": false,
+      "failed_at": "2026-05-28T17:08:52Z"
+    },
+    {
+      "cr_film_id": 18318,
+      "upload_id": "6250fb62e0d68",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fzimni-sen-2022-sk-cz-titulky%2F6250fb62e0d68 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fc06fe37a70>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/zimni-sen-2022-sk-cz-titulky/6250fb62e0d68",
+      "permanent": false,
+      "failed_at": "2026-05-28T17:13:06Z"
+    },
+    {
+      "cr_film_id": 27886,
+      "upload_id": "62f58a7ce31ed",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fwhat-is-a-woman-2022-cztitulky%2F62f58a7ce31ed (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fc06fe36990>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/what-is-a-woman-2022-cztitulky/62f58a7ce31ed",
+      "permanent": false,
+      "failed_at": "2026-05-28T17:17:20Z"
     }
   ],
-  "last_updated": "2026-05-28T16:51:03Z"
+  "last_updated": "2026-05-28T17:17:20Z"
 }
