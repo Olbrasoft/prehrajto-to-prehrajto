@@ -7467,6 +7467,25 @@
         "download_sec": 96.9,
         "upload_sec": 138.1
       }
+    },
+    {
+      "cr_film_id": 2472,
+      "cr_slug": "ministranti",
+      "title": "Ministranti",
+      "year": 2025,
+      "display_name": "Ministranti (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "db25575d7370e281",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25262914,
+      "size_bytes": 1626974440,
+      "uploaded_at": "2026-05-28T03:15:22Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 79.4,
+        "upload_sec": 99.5
+      }
     }
   ],
   "failed_attempts": [
@@ -7667,5 +7686,5 @@
       "failed_at": "2026-05-28T01:19:33Z"
     }
   ],
-  "last_updated": "2026-05-28T02:20:46Z"
+  "last_updated": "2026-05-28T03:15:22Z"
 }

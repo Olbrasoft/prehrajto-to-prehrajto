@@ -2947,3 +2947,14 @@
 [02:20:46]   upload done video_id=25261689 in 138.1s
 [02:20:48] film cr_film_id=28800 OK in 238.5s
 [02:20:48] batch-end ok=20 failed=0 dur=2581.7s avg/film=129.1s remaining=9817 eta_hours=352.0
+
+===== run 2026-05-28T03:12:17Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26552319095) =====
+[03:12:17] batch-start shard=0/2 count=20 backlog=10210 uploads=393 failed_attempts=28
+[03:12:17] login
+[03:12:19] login done
+[03:12:19] iteration 1/20
+[03:12:19] film cr_film_id=2472 name='Ministranti (2025) CZ Titulky' candidates=1
+[03:12:19]   candidate upload_id=db25575d7370e281 url=https://prehraj.to/ministranci-2025-cztitulky/db25575d7370e281
+[03:12:21]   resolved in 2.0s → 720p (https://pf-storage4.premiumcdn.net/167231495/D0Dsy0SP9UK8Fy0H41SL2S46hPxHqeIbKUe…)
+[03:13:43]   downloaded 1,627.0 MB in 79.4s (20.5 MB/s)
+[03:15:22]   upload done video_id=25262914 in 99.5s
