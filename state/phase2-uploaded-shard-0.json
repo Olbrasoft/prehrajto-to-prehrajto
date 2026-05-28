@@ -11628,6 +11628,25 @@
         "download_sec": 56.4,
         "upload_sec": 76.9
       }
+    },
+    {
+      "cr_film_id": 31262,
+      "cr_slug": "elfni-me",
+      "title": "Elfni mě",
+      "year": 2023,
+      "display_name": "Elfni mě (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6561d2599ce26",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25276576,
+      "size_bytes": 1349155311,
+      "uploaded_at": "2026-05-28T15:36:53Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 43.8,
+        "upload_sec": 46.6
+      }
     }
   ],
   "failed_attempts": [
@@ -11863,5 +11882,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T15:35:18Z"
+  "last_updated": "2026-05-28T15:36:53Z"
 }
