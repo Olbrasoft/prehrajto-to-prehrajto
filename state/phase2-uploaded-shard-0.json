@@ -13015,6 +13015,25 @@
         "download_sec": 100.7,
         "upload_sec": 115.1
       }
+    },
+    {
+      "cr_film_id": 31278,
+      "cr_slug": "sidney",
+      "title": "Sidney",
+      "year": 2022,
+      "display_name": "Sidney (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "bff20cfc034456bf",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25280854,
+      "size_bytes": 1281679639,
+      "uploaded_at": "2026-05-28T19:35:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 64.8,
+        "upload_sec": 106.5
+      }
     }
   ],
   "failed_attempts": [
@@ -13299,5 +13318,5 @@
       "failed_at": "2026-05-28T19:17:05Z"
     }
   ],
-  "last_updated": "2026-05-28T19:24:21Z"
+  "last_updated": "2026-05-28T19:35:48Z"
 }
