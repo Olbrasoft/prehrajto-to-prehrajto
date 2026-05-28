@@ -6688,6 +6688,25 @@
         "download_sec": 108.1,
         "upload_sec": 117.9
       }
+    },
+    {
+      "cr_film_id": 34591,
+      "cr_slug": "modrou-stezkou",
+      "title": "Modrou stezkou",
+      "year": 2025,
+      "display_name": "Modrou stezkou (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "b5b775413c081685",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25261104,
+      "size_bytes": 1609992092,
+      "uploaded_at": "2026-05-28T01:54:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 51.6,
+        "upload_sec": 58.6
+      }
     }
   ],
   "failed_attempts": [
@@ -6888,5 +6907,5 @@
       "failed_at": "2026-05-28T01:12:07Z"
     }
   ],
-  "last_updated": "2026-05-28T01:52:18Z"
+  "last_updated": "2026-05-28T01:54:12Z"
 }
