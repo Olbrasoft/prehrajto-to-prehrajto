@@ -7752,6 +7752,25 @@
         "download_sec": 63.5,
         "upload_sec": 75.3
       }
+    },
+    {
+      "cr_film_id": 31443,
+      "cr_slug": "the-lost-tiger",
+      "title": "The Lost Tiger",
+      "year": 2024,
+      "display_name": "The Lost Tiger (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "ae3b3ed351844686",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25267111,
+      "size_bytes": 1859855145,
+      "uploaded_at": "2026-05-28T06:37:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 82.8,
+        "upload_sec": 108.2
+      }
     }
   ],
   "failed_attempts": [
@@ -7971,5 +7990,5 @@
       "failed_at": "2026-05-28T05:25:05Z"
     }
   ],
-  "last_updated": "2026-05-28T06:33:44Z"
+  "last_updated": "2026-05-28T06:37:00Z"
 }
