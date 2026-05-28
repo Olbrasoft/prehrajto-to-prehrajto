@@ -6935,6 +6935,25 @@
         "download_sec": 77.6,
         "upload_sec": 97.2
       }
+    },
+    {
+      "cr_film_id": 20362,
+      "cr_slug": "together",
+      "title": "Together",
+      "year": 2025,
+      "display_name": "Together (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "68e81a1288191",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25260290,
+      "size_bytes": 1269321593,
+      "uploaded_at": "2026-05-28T01:19:07Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 51.0,
+        "upload_sec": 61.4
+      }
     }
   ],
   "failed_attempts": [
@@ -7100,5 +7119,5 @@
       "failed_at": "2026-05-28T00:15:25Z"
     }
   ],
-  "last_updated": "2026-05-28T01:17:10Z"
+  "last_updated": "2026-05-28T01:19:07Z"
 }
