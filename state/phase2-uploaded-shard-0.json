@@ -13509,6 +13509,25 @@
         "download_sec": 101.6,
         "upload_sec": 137.3
       }
+    },
+    {
+      "cr_film_id": 18480,
+      "cr_slug": "nevesele-vanoce",
+      "title": "Neveselé Vánoce",
+      "year": 2022,
+      "display_name": "Neveselé Vánoce (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63a4eb2558ee0",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25283353,
+      "size_bytes": 2352539098,
+      "uploaded_at": "2026-05-28T21:17:22Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 107.2,
+        "upload_sec": 126.6
+      }
     }
   ],
   "failed_attempts": [
@@ -13814,5 +13833,5 @@
       "failed_at": "2026-05-28T20:08:08Z"
     }
   ],
-  "last_updated": "2026-05-28T21:13:22Z"
+  "last_updated": "2026-05-28T21:17:22Z"
 }
