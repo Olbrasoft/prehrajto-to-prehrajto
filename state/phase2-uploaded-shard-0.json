@@ -8740,6 +8740,25 @@
         "download_sec": 47.4,
         "upload_sec": 61.2
       }
+    },
+    {
+      "cr_film_id": 28528,
+      "cr_slug": "the-prosecutor",
+      "title": "The Prosecutor",
+      "year": 2024,
+      "display_name": "The Prosecutor (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67ed72dded684",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25268868,
+      "size_bytes": 2124072766,
+      "uploaded_at": "2026-05-28T08:03:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 72.1,
+        "upload_sec": 91.6
+      }
     }
   ],
   "failed_attempts": [
@@ -8940,5 +8959,5 @@
       "failed_at": "2026-05-28T01:19:33Z"
     }
   ],
-  "last_updated": "2026-05-28T08:00:56Z"
+  "last_updated": "2026-05-28T08:03:44Z"
 }
