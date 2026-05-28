@@ -10507,6 +10507,25 @@
         "download_sec": 48.4,
         "upload_sec": 59.2
       }
+    },
+    {
+      "cr_film_id": 10202,
+      "cr_slug": "the-ghost-within",
+      "title": "The Ghost Within",
+      "year": 2023,
+      "display_name": "The Ghost Within (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6893e54d3fa2a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25273219,
+      "size_bytes": 161900422,
+      "uploaded_at": "2026-05-28T12:17:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 7.2,
+        "upload_sec": 10.9
+      }
     }
   ],
   "failed_attempts": [
@@ -10742,5 +10761,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T12:17:37Z"
+  "last_updated": "2026-05-28T12:17:59Z"
 }
