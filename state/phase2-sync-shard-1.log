@@ -3073,3 +3073,14 @@
 [05:42:16]   upload done video_id=25266039 in 102.1s
 [05:42:16] film cr_film_id=34137 OK in 195.8s
 [05:42:16] batch-end ok=20 failed=0 dur=2742.0s avg/film=137.1s remaining=9804 eta_hours=373.4
+
+===== run 2026-05-28T06:29:28Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26558678931) =====
+[06:29:28] batch-start shard=1/2 count=20 backlog=10210 uploads=406 failed_attempts=30
+[06:29:28] login
+[06:29:30] login done
+[06:29:30] iteration 1/20
+[06:29:30] film cr_film_id=21071 name='The People in the Walls (2024) CZ Titulky' candidates=2
+[06:29:30]   candidate upload_id=61ba8d00e618881e url=https://prehraj.to/the-people-in-the-walls-2024-1080p-amzn-web-dl-dd-2-0-h264-titulky-sk/61ba8d00e618881e
+[06:29:31]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/168935836/amnsXyin0SEMS3PHk0tmLi6kSAxFyPhBbTy…)
+[06:30:17]   downloaded 988.8 MB in 43.7s (22.6 MB/s)
+[06:31:20]   upload done video_id=25267012 in 63.6s
