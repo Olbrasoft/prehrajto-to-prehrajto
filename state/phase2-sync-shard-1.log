@@ -3655,3 +3655,14 @@
 [10:04:51]   upload done video_id=25271039 in 43.8s
 [10:04:52] film cr_film_id=7477 OK in 81.9s
 [10:04:52] batch-end ok=20 failed=0 dur=2456.6s avg/film=122.8s remaining=9726 eta_hours=331.8
+
+===== run 2026-05-28T10:11:57Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26568507289) =====
+[10:11:58] batch-start shard=1/2 count=20 backlog=10210 uploads=484 failed_attempts=32
+[10:11:58] login
+[10:12:00] login done
+[10:12:00] iteration 1/20
+[10:12:00] film cr_film_id=31447 name='Cunk on Life (2024) CZ Titulky' candidates=3
+[10:12:00]   candidate upload_id=54a41aa714178f1b url=https://prehraj.to/cunk-on-life-2024-cz-titulky/54a41aa714178f1b
+[10:12:01]   resolved in 1.2s → 720p (https://pf-storage6.premiumcdn.net/169479091/OYwukqcAMtK4T7ZIY3U4xcRKiMGS9eijqfr…)
+[10:12:52]   downloaded 975.2 MB in 48.3s (20.2 MB/s)
+[10:13:53]   upload done video_id=25271157 in 61.3s
