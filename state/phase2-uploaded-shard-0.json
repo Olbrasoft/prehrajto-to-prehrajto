@@ -9747,6 +9747,25 @@
         "download_sec": 82.0,
         "upload_sec": 91.8
       }
+    },
+    {
+      "cr_film_id": 15754,
+      "cr_slug": "drive-back",
+      "title": "Drive Back",
+      "year": 2024,
+      "display_name": "Drive Back (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "90b50bf5a9d07bf3",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25271223,
+      "size_bytes": 582921812,
+      "uploaded_at": "2026-05-28T10:18:22Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 27.8,
+        "upload_sec": 31.5
+      }
     }
   ],
   "failed_attempts": [
@@ -9961,5 +9980,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T10:17:17Z"
+  "last_updated": "2026-05-28T10:18:22Z"
 }
