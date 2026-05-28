@@ -8246,6 +8246,25 @@
         "download_sec": 42.4,
         "upload_sec": 53.3
       }
+    },
+    {
+      "cr_film_id": 34233,
+      "cr_slug": "provokateri",
+      "title": "Provokatéři",
+      "year": 2024,
+      "display_name": "Provokatéři (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67c3c2287e5a7",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25268995,
+      "size_bytes": 1452916351,
+      "uploaded_at": "2026-05-28T08:09:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 50.8,
+        "upload_sec": 70.0
+      }
     }
   ],
   "failed_attempts": [
@@ -8465,5 +8484,5 @@
       "failed_at": "2026-05-28T05:25:05Z"
     }
   ],
-  "last_updated": "2026-05-28T08:07:27Z"
+  "last_updated": "2026-05-28T08:09:32Z"
 }
