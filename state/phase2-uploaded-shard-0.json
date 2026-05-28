@@ -6422,6 +6422,25 @@
         "download_sec": 28.8,
         "upload_sec": 41.5
       }
+    },
+    {
+      "cr_film_id": 28836,
+      "cr_slug": "the-moment",
+      "title": "The Moment",
+      "year": 2026,
+      "display_name": "The Moment (2026) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "df3a6689932dfe7f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25258383,
+      "size_bytes": 3003783022,
+      "uploaded_at": "2026-05-28T00:01:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 90.7,
+        "upload_sec": 105.4
+      }
     }
   ],
   "failed_attempts": [
@@ -6573,5 +6592,5 @@
       "failed_at": "2026-05-27T23:55:30Z"
     }
   ],
-  "last_updated": "2026-05-27T23:58:14Z"
+  "last_updated": "2026-05-28T00:01:34Z"
 }
