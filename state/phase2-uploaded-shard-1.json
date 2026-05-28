@@ -9424,6 +9424,25 @@
         "download_sec": 74.7,
         "upload_sec": 92.2
       }
+    },
+    {
+      "cr_film_id": 16225,
+      "cr_slug": "amber-alert",
+      "title": "Amber Alert",
+      "year": 2024,
+      "display_name": "Amber Alert (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6725fca6557d4",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25272138,
+      "size_bytes": 1229843094,
+      "uploaded_at": "2026-05-28T11:09:23Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 89.3,
+        "upload_sec": 83.6
+      }
     }
   ],
   "failed_attempts": [
@@ -9662,5 +9681,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-28T11:06:25Z"
+  "last_updated": "2026-05-28T11:09:23Z"
 }
