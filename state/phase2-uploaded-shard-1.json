@@ -6517,6 +6517,25 @@
         "download_sec": 34.9,
         "upload_sec": 46.8
       }
+    },
+    {
+      "cr_film_id": 9451,
+      "cr_slug": "osiris",
+      "title": "Osiris",
+      "year": 2025,
+      "display_name": "Osiris (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6883b28d9cda1",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25260198,
+      "size_bytes": 1515686774,
+      "uploaded_at": "2026-05-28T01:15:21Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 41.4,
+        "upload_sec": 60.6
+      }
     }
   ],
   "failed_attempts": [
@@ -6717,5 +6736,5 @@
       "failed_at": "2026-05-28T01:12:07Z"
     }
   ],
-  "last_updated": "2026-05-28T01:13:36Z"
+  "last_updated": "2026-05-28T01:15:21Z"
 }
