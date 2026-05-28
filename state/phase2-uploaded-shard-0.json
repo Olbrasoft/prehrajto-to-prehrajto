@@ -11685,6 +11685,25 @@
         "download_sec": 45.3,
         "upload_sec": 70.0
       }
+    },
+    {
+      "cr_film_id": 7178,
+      "cr_slug": "druha-sance-2023",
+      "title": "Druhá šance",
+      "year": 2023,
+      "display_name": "Druhá šance (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "65ffcbcaa686c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25276657,
+      "size_bytes": 2030695037,
+      "uploaded_at": "2026-05-28T15:42:40Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 64.7,
+        "upload_sec": 74.4
+      }
     }
   ],
   "failed_attempts": [
@@ -11920,5 +11939,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T15:40:17Z"
+  "last_updated": "2026-05-28T15:42:40Z"
 }
