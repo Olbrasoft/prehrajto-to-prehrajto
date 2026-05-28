@@ -11058,6 +11058,25 @@
         "download_sec": 28.7,
         "upload_sec": 34.8
       }
+    },
+    {
+      "cr_film_id": 9759,
+      "cr_slug": "bone-cold",
+      "title": "Bone Cold",
+      "year": 2023,
+      "display_name": "Bone Cold (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "651aab0a066ac",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25276599,
+      "size_bytes": 1656358893,
+      "uploaded_at": "2026-05-28T15:38:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 55.9,
+        "upload_sec": 64.4
+      }
     }
   ],
   "failed_attempts": [
@@ -11345,5 +11364,5 @@
       "failed_at": "2026-05-28T15:01:48Z"
     }
   ],
-  "last_updated": "2026-05-28T15:36:23Z"
+  "last_updated": "2026-05-28T15:38:27Z"
 }
