@@ -8607,6 +8607,25 @@
         "download_sec": 57.4,
         "upload_sec": 66.8
       }
+    },
+    {
+      "cr_film_id": 16241,
+      "cr_slug": "invasive",
+      "title": "Invasive",
+      "year": 2024,
+      "display_name": "Invasive (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67bc9fad2f2f5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25269893,
+      "size_bytes": 1047763437,
+      "uploaded_at": "2026-05-28T08:59:27Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 47.5,
+        "upload_sec": 61.7
+      }
     }
   ],
   "failed_attempts": [
@@ -8845,5 +8864,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-28T08:57:32Z"
+  "last_updated": "2026-05-28T08:59:27Z"
 }
