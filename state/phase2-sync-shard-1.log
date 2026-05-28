@@ -4093,3 +4093,14 @@
 [13:47:26]   upload done video_id=25274737 in 71.6s
 [13:47:28] film cr_film_id=14017 OK in 605.3s
 [13:47:28] batch-end ok=20 failed=0 dur=5719.7s avg/film=286.0s remaining=9667 eta_hours=768.0
+
+===== run 2026-05-28T13:47:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26578705978) =====
+[13:48:01] batch-start shard=1/2 count=20 backlog=10210 uploads=543 failed_attempts=34
+[13:48:01] login
+[13:48:03] login done
+[13:48:03] iteration 1/20
+[13:48:03] film cr_film_id=15619 name='Ráj (2023) CZ Titulky' candidates=5
+[13:48:03]   candidate upload_id=b7071d5b9e26b30c url=https://prehraj.to/raj-el-paraiso-2023-ita-cz-tit-mkv-mp4/b7071d5b9e26b30c
+[13:48:04]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/161717864/1E9TV8FG1hRdcWwT48FdvFbKCw8iGPFRzhP…)
+[13:49:21]   downloaded 2,442.9 MB in 75.5s (32.4 MB/s)
+[13:50:52]   upload done video_id=25274784 in 91.3s
