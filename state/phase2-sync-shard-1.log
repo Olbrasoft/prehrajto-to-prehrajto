@@ -3363,3 +3363,14 @@
 [08:33:51]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/millers-in-marriage-2024-cz-titulky/8e552a2aae086b6f (permanent=True)
 [08:33:51] film cr_film_id=36983 all candidates exhausted
 [08:33:51] batch-end ok=19 failed=1 dur=2792.3s avg/film=147.0s remaining=9765 eta_hours=398.7
+
+===== run 2026-05-28T08:34:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26561977034) =====
+[08:34:07] batch-start shard=1/2 count=20 backlog=10210 uploads=445 failed_attempts=31
+[08:34:07] login
+[08:34:08] login done
+[08:34:08] iteration 1/20
+[08:34:08] film cr_film_id=16269 name='McVeigh (2024) CZ Titulky' candidates=8
+[08:34:08]   candidate upload_id=67e281b868b23 url=https://prehraj.to/mcveigh-2024-cztit-1080p-bydejv/67e281b868b23
+[08:34:10]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/133233956/bzoi9vIP4SxvSjLTn8tYgI7qszAhols0Pun…)
+[08:35:58]   downloaded 2,385.9 MB in 105.7s (22.6 MB/s)
+[08:38:18]   upload done video_id=25269480 in 140.5s
