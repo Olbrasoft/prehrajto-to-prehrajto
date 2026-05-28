@@ -14345,6 +14345,25 @@
         "download_sec": 97.9,
         "upload_sec": 129.9
       }
+    },
+    {
+      "cr_film_id": 18041,
+      "cr_slug": "ve-vate",
+      "title": "Ve vatě",
+      "year": 2021,
+      "display_name": "Ve vatě (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6355307d3bb09",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25288445,
+      "size_bytes": 1840628949,
+      "uploaded_at": "2026-05-28T23:49:21Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 77.1,
+        "upload_sec": 107.9
+      }
     }
   ],
   "failed_attempts": [
@@ -14672,5 +14691,5 @@
       "failed_at": "2026-05-28T21:52:41Z"
     }
   ],
-  "last_updated": "2026-05-28T23:46:12Z"
+  "last_updated": "2026-05-28T23:49:21Z"
 }
