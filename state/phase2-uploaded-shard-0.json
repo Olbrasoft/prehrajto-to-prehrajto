@@ -6897,6 +6897,25 @@
         "download_sec": 54.1,
         "upload_sec": 63.5
       }
+    },
+    {
+      "cr_film_id": 28862,
+      "cr_slug": "undertone",
+      "title": "Undertone",
+      "year": 2025,
+      "display_name": "Undertone (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "0a1c5e76b4e23fe2",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25260167,
+      "size_bytes": 1114415900,
+      "uploaded_at": "2026-05-28T01:14:10Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 50.5,
+        "upload_sec": 55.5
+      }
     }
   ],
   "failed_attempts": [
@@ -7062,5 +7081,5 @@
       "failed_at": "2026-05-28T00:15:25Z"
     }
   ],
-  "last_updated": "2026-05-28T01:12:19Z"
+  "last_updated": "2026-05-28T01:14:10Z"
 }
