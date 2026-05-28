@@ -3093,3 +3093,14 @@
 [04:19:47]   upload done video_id=25264237 in 114.3s
 [04:19:48] film cr_film_id=15808 OK in 213.9s
 [04:19:48] batch-end ok=20 failed=0 dur=4049.0s avg/film=202.4s remaining=9797 eta_hours=550.8
+
+===== run 2026-05-28T04:56:34Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26555573799) =====
+[04:56:35] batch-start shard=0/2 count=20 backlog=10210 uploads=413 failed_attempts=28
+[04:56:35] login
+[04:56:36] login done
+[04:56:36] iteration 1/20
+[04:56:36] film cr_film_id=35758 name='Gaua (2025) CZ Titulky' candidates=1
+[04:56:36]   candidate upload_id=da22e20ac3b9c1fc url=https://prehraj.to/noche-gaua-cz-tit-2025-1080p-esp-sktit/da22e20ac3b9c1fc
+[04:56:37]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/164530082/k4biA3IRxTm6fqZtwkHWlIXDFadCEXi1QtR…)
+[04:57:14]   downloaded 1,280.0 MB in 35.5s (36.1 MB/s)
+[04:57:58]   upload done video_id=25265082 in 43.5s
