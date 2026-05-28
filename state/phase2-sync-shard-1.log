@@ -2333,3 +2333,14 @@
 [00:07:08]   upload done video_id=25258533 in 60.1s
 [00:07:09] film cr_film_id=33871 OK in 108.3s
 [00:07:09] batch-end ok=19 failed=1 dur=2236.0s avg/film=117.7s remaining=9899 eta_hours=323.6
+
+===== run 2026-05-28T00:07:21Z shard=1/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26545812622) =====
+[00:07:21] batch-start shard=1/2 count=20 backlog=10210 uploads=311 failed_attempts=17
+[00:07:21] login
+[00:07:23] login done
+[00:07:23] iteration 1/20
+[00:07:23] film cr_film_id=31537 name='Caught by Love (2026) CZ Titulky' candidates=2
+[00:07:23]   candidate upload_id=ecc83b5895500602 url=https://prehraj.to/caught-by-love-2026-hd-cz-tit-mp4/ecc83b5895500602
+[00:07:24]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/164230283/R01TPES3kibPUv7UYEFnGSWYT4RIbOIx3Hm…)
+[00:08:38]   downloaded 2,289.5 MB in 72.5s (31.6 MB/s)
+[00:10:07]   upload done video_id=25258595 in 89.3s
