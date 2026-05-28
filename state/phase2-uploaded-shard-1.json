@@ -8398,6 +8398,25 @@
         "download_sec": 95.3,
         "upload_sec": 104.8
       }
+    },
+    {
+      "cr_film_id": 15061,
+      "cr_slug": "na-kordy",
+      "title": "Na kordy",
+      "year": 2024,
+      "display_name": "Na kordy (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "ed3c6c430d7b7b56",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25269359,
+      "size_bytes": 2627899457,
+      "uploaded_at": "2026-05-28T08:30:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 98.9,
+        "upload_sec": 111.0
+      }
     }
   ],
   "failed_attempts": [
@@ -8617,5 +8636,5 @@
       "failed_at": "2026-05-28T05:25:05Z"
     }
   ],
-  "last_updated": "2026-05-28T08:26:37Z"
+  "last_updated": "2026-05-28T08:30:11Z"
 }
