@@ -7828,6 +7828,25 @@
         "download_sec": 40.5,
         "upload_sec": 50.1
       }
+    },
+    {
+      "cr_film_id": 15808,
+      "cr_slug": "gunslingers",
+      "title": "Gunslingers",
+      "year": 2025,
+      "display_name": "Gunslingers (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "683e116bbcb07",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25264237,
+      "size_bytes": 1905262193,
+      "uploaded_at": "2026-05-28T04:19:47Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 95.1,
+        "upload_sec": 114.3
+      }
     }
   ],
   "failed_attempts": [
@@ -8028,5 +8047,5 @@
       "failed_at": "2026-05-28T01:19:33Z"
     }
   ],
-  "last_updated": "2026-05-28T04:16:13Z"
+  "last_updated": "2026-05-28T04:19:47Z"
 }
