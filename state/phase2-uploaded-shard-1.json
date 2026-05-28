@@ -6574,6 +6574,25 @@
         "download_sec": 54.3,
         "upload_sec": 64.3
       }
+    },
+    {
+      "cr_film_id": 31425,
+      "cr_slug": "obex",
+      "title": "OBEX",
+      "year": 2025,
+      "display_name": "OBEX (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6243e4df4afad0dd",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25260755,
+      "size_bytes": 975579158,
+      "uploaded_at": "2026-05-28T01:38:56Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 32.8,
+        "upload_sec": 35.6
+      }
     }
   ],
   "failed_attempts": [
@@ -6774,5 +6793,5 @@
       "failed_at": "2026-05-28T01:12:07Z"
     }
   ],
-  "last_updated": "2026-05-28T01:19:18Z"
+  "last_updated": "2026-05-28T01:38:56Z"
 }
