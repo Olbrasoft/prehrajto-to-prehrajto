@@ -10203,6 +10203,25 @@
         "download_sec": 33.4,
         "upload_sec": 43.1
       }
+    },
+    {
+      "cr_film_id": 9757,
+      "cr_slug": "slotherhouse",
+      "title": "Slotherhouse",
+      "year": 2023,
+      "display_name": "Slotherhouse (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6555cbd27e923",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25274092,
+      "size_bytes": 1542100640,
+      "uploaded_at": "2026-05-28T13:18:26Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 65.2,
+        "upload_sec": 66.9
+      }
     }
   ],
   "failed_attempts": [
@@ -10455,5 +10474,5 @@
       "failed_at": "2026-05-28T11:59:09Z"
     }
   ],
-  "last_updated": "2026-05-28T13:16:09Z"
+  "last_updated": "2026-05-28T13:18:26Z"
 }
