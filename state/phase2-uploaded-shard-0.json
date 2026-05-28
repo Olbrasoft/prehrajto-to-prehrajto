@@ -9804,6 +9804,25 @@
         "download_sec": 99.4,
         "upload_sec": 115.3
       }
+    },
+    {
+      "cr_film_id": 15988,
+      "cr_slug": "do-patti",
+      "title": "Do Patti",
+      "year": 2024,
+      "display_name": "Do Patti (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "672286df5ee47",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25271330,
+      "size_bytes": 1858193842,
+      "uploaded_at": "2026-05-28T10:27:45Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 81.8,
+        "upload_sec": 96.2
+      }
     }
   ],
   "failed_attempts": [
@@ -10018,5 +10037,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T10:24:42Z"
+  "last_updated": "2026-05-28T10:27:45Z"
 }
