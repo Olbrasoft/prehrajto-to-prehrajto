@@ -9975,6 +9975,25 @@
         "download_sec": 34.2,
         "upload_sec": 58.2
       }
+    },
+    {
+      "cr_film_id": 9487,
+      "cr_slug": "dobra-matka",
+      "title": "The Good Mother",
+      "year": 2023,
+      "display_name": "The Good Mother (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6515847330a40",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25273208,
+      "size_bytes": 1227831817,
+      "uploaded_at": "2026-05-28T12:18:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 52.5,
+        "upload_sec": 56.4
+      }
     }
   ],
   "failed_attempts": [
@@ -10227,5 +10246,5 @@
       "failed_at": "2026-05-28T11:59:09Z"
     }
   ],
-  "last_updated": "2026-05-28T12:16:05Z"
+  "last_updated": "2026-05-28T12:18:03Z"
 }
