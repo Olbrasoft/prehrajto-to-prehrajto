@@ -4053,3 +4053,17 @@
 [11:52:40]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/43075466/q1RCVMTLzt2mF4lCjRFWjTr2UqzH45f7mc4w…)
 [11:53:43]   downloaded 1,927.3 MB in 61.1s (31.5 MB/s)
 [11:54:58]   upload done video_id=25272849 in 75.2s
+[11:54:59] film cr_film_id=35002 OK in 140.2s
+[11:54:59] iteration 13/20
+[11:54:59] film cr_film_id=35778 name='Umění jíst a milovat (2023) CZ Titulky' candidates=2
+[11:54:59]   candidate upload_id=39bd1e2ea7f809e0 url=https://prehraj.to/umeni-jist-a-milovat-2023-cz-titulky-1080p/39bd1e2ea7f809e0
+[11:55:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/umeni-jist-a-milovat-2023-cz-titulky-1080p/39bd1e2ea7f809e0 (permanent=True)
+[11:55:00]   candidate upload_id=c8a108e125703171 url=https://prehraj.to/umeni-jist-a-milovat-2023/c8a108e125703171
+[11:55:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/umeni-jist-a-milovat-2023/c8a108e125703171 (permanent=True)
+[11:55:05] film cr_film_id=35778 all candidates exhausted
+[11:55:05] iteration 14/20
+[11:55:05] film cr_film_id=9468 name='Ultima Ratio (2023) CZ Titulky' candidates=1
+[11:55:05]   candidate upload_id=abf7654e86fd5215 url=https://prehraj.to/ultima-ratio-2023-cz-titulky/abf7654e86fd5215
+[11:55:11]   resolved in 6.0s → 480p (https://pf-storage6.premiumcdn.net/170626778/p31u8QcLju9bCR8symh1rcl0CmJCqrUOqF0…)
+[11:55:34]   downloaded 624.4 MB in 21.1s (29.6 MB/s)
+[11:56:00]   upload done video_id=25272881 in 26.1s
