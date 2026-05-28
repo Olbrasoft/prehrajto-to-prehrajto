@@ -9120,6 +9120,25 @@
         "download_sec": 117.5,
         "upload_sec": 161.5
       }
+    },
+    {
+      "cr_film_id": 15950,
+      "cr_slug": "partyzanka",
+      "title": "Partyzánka",
+      "year": 2024,
+      "display_name": "Partyzánka (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6901a148ead81",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25269867,
+      "size_bytes": 2069680409,
+      "uploaded_at": "2026-05-28T08:58:37Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 96.1,
+        "upload_sec": 103.9
+      }
     }
   ],
   "failed_attempts": [
@@ -9327,5 +9346,5 @@
       "failed_at": "2026-05-28T08:05:18Z"
     }
   ],
-  "last_updated": "2026-05-28T08:55:12Z"
+  "last_updated": "2026-05-28T08:58:37Z"
 }
