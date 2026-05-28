@@ -12350,6 +12350,25 @@
         "download_sec": 30.5,
         "upload_sec": 37.7
       }
+    },
+    {
+      "cr_film_id": 6535,
+      "cr_slug": "odna",
+      "title": "Odna",
+      "year": 2022,
+      "display_name": "Odna (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "636049c98f103",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25279190,
+      "size_bytes": 2287805127,
+      "uploaded_at": "2026-05-28T18:16:05Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 71.1,
+        "upload_sec": 83.7
+      }
     }
   ],
   "failed_attempts": [
@@ -12663,5 +12682,5 @@
       "failed_at": "2026-05-28T17:14:53Z"
     }
   ],
-  "last_updated": "2026-05-28T18:13:26Z"
+  "last_updated": "2026-05-28T18:16:05Z"
 }
