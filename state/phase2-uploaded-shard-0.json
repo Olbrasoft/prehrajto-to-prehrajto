@@ -13243,6 +13243,25 @@
         "download_sec": 41.1,
         "upload_sec": 46.8
       }
+    },
+    {
+      "cr_film_id": 31168,
+      "cr_slug": "pohotovost",
+      "title": "Pohotovost",
+      "year": 2022,
+      "display_name": "Pohotovost (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "edc9b4a9269c1575",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25281674,
+      "size_bytes": 1415900598,
+      "uploaded_at": "2026-05-28T20:10:47Z",
+      "timing": {
+        "resolve_sec": 7.6,
+        "download_sec": 70.1,
+        "upload_sec": 79.3
+      }
     }
   ],
   "failed_attempts": [
@@ -13532,7 +13551,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/section-8-2022-cz-titulky/200d6b2ed5227d9a",
       "permanent": true,
       "failed_at": "2026-05-28T19:38:43Z"
+    },
+    {
+      "cr_film_id": 36824,
+      "upload_id": "a0e4cc66f11a95c8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/press-play-2022-cz-titulky/a0e4cc66f11a95c8",
+      "permanent": true,
+      "failed_at": "2026-05-28T20:08:02Z"
+    },
+    {
+      "cr_film_id": 9054,
+      "upload_id": "6442b132e017f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/posedlost-2022-cz-titulky-1080p/6442b132e017f",
+      "permanent": true,
+      "failed_at": "2026-05-28T20:08:08Z"
     }
   ],
-  "last_updated": "2026-05-28T20:07:59Z"
+  "last_updated": "2026-05-28T20:10:47Z"
 }
