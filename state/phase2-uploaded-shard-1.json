@@ -10032,6 +10032,25 @@
         "download_sec": 456.3,
         "upload_sec": 83.8
       }
+    },
+    {
+      "cr_film_id": 10421,
+      "cr_slug": "the-collective",
+      "title": "The Collective",
+      "year": 2023,
+      "display_name": "The Collective (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "653e6561a0381",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25273400,
+      "size_bytes": 2127543737,
+      "uploaded_at": "2026-05-28T12:32:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 84.4,
+        "upload_sec": 95.3
+      }
     }
   ],
   "failed_attempts": [
@@ -10284,5 +10303,5 @@
       "failed_at": "2026-05-28T11:59:09Z"
     }
   ],
-  "last_updated": "2026-05-28T12:29:02Z"
+  "last_updated": "2026-05-28T12:32:06Z"
 }
