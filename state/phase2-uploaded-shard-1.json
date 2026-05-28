@@ -9766,6 +9766,25 @@
         "download_sec": 9.0,
         "upload_sec": 12.6
       }
+    },
+    {
+      "cr_film_id": 34097,
+      "cr_slug": "tiger-3",
+      "title": "Tiger 3",
+      "year": 2023,
+      "display_name": "Tiger 3 (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "659ad21f276ae",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25272887,
+      "size_bytes": 3100620171,
+      "uploaded_at": "2026-05-28T11:57:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 96.8,
+        "upload_sec": 117.4
+      }
     }
   ],
   "failed_attempts": [
@@ -10004,5 +10023,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-28T11:54:20Z"
+  "last_updated": "2026-05-28T11:57:58Z"
 }
