@@ -11609,6 +11609,25 @@
         "download_sec": 20.2,
         "upload_sec": 27.7
       }
+    },
+    {
+      "cr_film_id": 31408,
+      "cr_slug": "friends-family-christmas",
+      "title": "Friends & Family Christmas",
+      "year": 2023,
+      "display_name": "Friends & Family Christmas (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "659ce28f7a388",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25276545,
+      "size_bytes": 1790306134,
+      "uploaded_at": "2026-05-28T15:35:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 56.4,
+        "upload_sec": 76.9
+      }
     }
   ],
   "failed_attempts": [
@@ -11844,5 +11863,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T15:33:01Z"
+  "last_updated": "2026-05-28T15:35:18Z"
 }
