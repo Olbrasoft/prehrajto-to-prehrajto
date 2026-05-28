@@ -6099,6 +6099,25 @@
         "download_sec": 37.3,
         "upload_sec": 44.5
       }
+    },
+    {
+      "cr_film_id": 16091,
+      "cr_slug": "the-morrigan",
+      "title": "The Morrigan",
+      "year": 2025,
+      "display_name": "The Morrigan (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "eb9fbd0dfa002b4d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25259051,
+      "size_bytes": 960463605,
+      "uploaded_at": "2026-05-28T00:27:17Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 28.2,
+        "upload_sec": 38.5
+      }
     }
   ],
   "failed_attempts": [
@@ -6222,5 +6241,5 @@
       "failed_at": "2026-05-27T23:46:23Z"
     }
   ],
-  "last_updated": "2026-05-28T00:26:07Z"
+  "last_updated": "2026-05-28T00:27:17Z"
 }
