@@ -11761,6 +11761,25 @@
         "download_sec": 39.1,
         "upload_sec": 55.7
       }
+    },
+    {
+      "cr_film_id": 9332,
+      "cr_slug": "deliver-us",
+      "title": "Deliver Us",
+      "year": 2023,
+      "display_name": "Deliver Us (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "651f13b1a374d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25276758,
+      "size_bytes": 830200171,
+      "uploaded_at": "2026-05-28T15:50:13Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 24.9,
+        "upload_sec": 35.3
+      }
     }
   ],
   "failed_attempts": [
@@ -11996,5 +12015,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T15:49:10Z"
+  "last_updated": "2026-05-28T15:50:13Z"
 }
