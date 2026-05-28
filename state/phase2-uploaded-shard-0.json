@@ -10564,6 +10564,25 @@
         "download_sec": 39.8,
         "upload_sec": 57.8
       }
+    },
+    {
+      "cr_film_id": 6168,
+      "cr_slug": "the-critic",
+      "title": "The Critic",
+      "year": 2023,
+      "display_name": "The Critic (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67cb1f2611d38",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25273275,
+      "size_bytes": 1220445547,
+      "uploaded_at": "2026-05-28T12:22:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 39.3,
+        "upload_sec": 42.5
+      }
     }
   ],
   "failed_attempts": [
@@ -10799,5 +10818,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T12:21:13Z"
+  "last_updated": "2026-05-28T12:22:39Z"
 }
