@@ -12445,6 +12445,25 @@
         "download_sec": 22.6,
         "upload_sec": 27.0
       }
+    },
+    {
+      "cr_film_id": 10305,
+      "cr_slug": "nix",
+      "title": "Nix",
+      "year": 2022,
+      "display_name": "Nix (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "634f0d041bbf1",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25279370,
+      "size_bytes": 1539372518,
+      "uploaded_at": "2026-05-28T18:25:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 48.2,
+        "upload_sec": 56.2
+      }
     }
   ],
   "failed_attempts": [
@@ -12758,5 +12777,5 @@
       "failed_at": "2026-05-28T17:14:53Z"
     }
   ],
-  "last_updated": "2026-05-28T18:23:40Z"
+  "last_updated": "2026-05-28T18:25:28Z"
 }
