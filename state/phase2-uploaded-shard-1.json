@@ -13452,6 +13452,25 @@
         "download_sec": 58.7,
         "upload_sec": 62.3
       }
+    },
+    {
+      "cr_film_id": 9857,
+      "cr_slug": "dark-nature",
+      "title": "Dark Nature",
+      "year": 2022,
+      "display_name": "Dark Nature (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "64e04cfd052e1",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25283345,
+      "size_bytes": 1506818285,
+      "uploaded_at": "2026-05-28T21:16:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 71.5,
+        "upload_sec": 85.8
+      }
     }
   ],
   "failed_attempts": [
@@ -13765,5 +13784,5 @@
       "failed_at": "2026-05-28T17:14:53Z"
     }
   ],
-  "last_updated": "2026-05-28T21:13:22Z"
+  "last_updated": "2026-05-28T21:16:04Z"
 }
