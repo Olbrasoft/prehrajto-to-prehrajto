@@ -12502,6 +12502,25 @@
         "download_sec": 45.6,
         "upload_sec": 71.5
       }
+    },
+    {
+      "cr_film_id": 9166,
+      "cr_slug": "v-zajeti-noci",
+      "title": "V zajetí noci",
+      "year": 2022,
+      "display_name": "V zajetí noci (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63989fc4b865c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25279245,
+      "size_bytes": 1262021459,
+      "uploaded_at": "2026-05-28T18:18:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 40.4,
+        "upload_sec": 60.1
+      }
     }
   ],
   "failed_attempts": [
@@ -12765,5 +12784,5 @@
       "failed_at": "2026-05-28T17:17:20Z"
     }
   ],
-  "last_updated": "2026-05-28T18:16:52Z"
+  "last_updated": "2026-05-28T18:18:37Z"
 }
