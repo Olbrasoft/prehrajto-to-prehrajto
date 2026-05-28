@@ -5719,3 +5719,14 @@
 [23:51:11]   upload done video_id=25288502 in 22.4s
 [23:51:12] film cr_film_id=27110 OK in 45.7s
 [23:51:12] batch-end ok=20 failed=0 dur=4074.8s avg/film=203.7s remaining=9451 eta_hours=534.8
+
+===== run 2026-05-28T23:51:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26609197977) =====
+[23:51:36] batch-start shard=0/2 count=20 backlog=10210 uploads=759 failed_attempts=46
+[23:51:36] login
+[23:51:38] login done
+[23:51:38] iteration 1/20
+[23:51:38] film cr_film_id=15340 name='Evin Adam: Kreslený živák (2022) CZ Titulky' candidates=2
+[23:51:38]   candidate upload_id=62338ddb56054 url=https://prehraj.to/evin-adam-kresleny-zivak-2022-cztitulky/62338ddb56054
+[23:51:39]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/30112560/oOwUXxImJc2kCXJCEWierIk6sqGh8xTAnCXx…)
+[23:52:57]   downloaded 1,560.1 MB in 75.4s (20.7 MB/s)
+[23:54:24]   upload done video_id=25288545 in 87.0s
