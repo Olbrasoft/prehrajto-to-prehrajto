@@ -5429,3 +5429,19 @@
 [21:44:08]   upload done video_id=25283918 in 53.4s
 [21:44:10] film cr_film_id=3694 OK in 102.0s
 [21:44:10] batch-end ok=19 failed=1 dur=3781.9s avg/film=199.0s remaining=9489 eta_hours=524.5
+
+===== run 2026-05-28T21:44:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26604091201) =====
+[21:44:50] batch-start shard=0/2 count=20 backlog=10210 uploads=721 failed_attempts=44
+[21:44:50] login
+[21:44:52] login done
+[21:44:52] iteration 1/20
+[21:44:52] film cr_film_id=36900 name='Moonage Daydream (2022) CZ Titulky' candidates=1
+[21:44:52]   candidate upload_id=a143b346bca0b388 url=https://prehraj.to/moonage-daydream-2022-cz-titulky/a143b346bca0b388
+[21:44:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/moonage-daydream-2022-cz-titulky/a143b346bca0b388 (permanent=True)
+[21:44:52] film cr_film_id=36900 all candidates exhausted
+[21:44:52] iteration 2/20
+[21:44:52] film cr_film_id=19972 name='Moon Crash (2022) CZ Titulky' candidates=3
+[21:44:52]   candidate upload_id=626c4f37a3408 url=https://prehraj.to/moon-crash-2022-cztitulky/626c4f37a3408
+[21:44:58]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/30654884/mmetk7TO1In4urNiMoCxdTOYFXliG0fOASzD…)
+[21:45:54]   downloaded 1,767.2 MB in 54.0s (32.7 MB/s)
+[21:46:55]   upload done video_id=25283954 in 61.1s
