@@ -10830,6 +10830,25 @@
         "download_sec": 199.9,
         "upload_sec": 255.0
       }
+    },
+    {
+      "cr_film_id": 18183,
+      "cr_slug": "ghosted",
+      "title": "Ghosted",
+      "year": 2023,
+      "display_name": "Ghosted (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "7a09952f077b9ec8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25276099,
+      "size_bytes": 2465370425,
+      "uploaded_at": "2026-05-28T15:05:54Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 102.1,
+        "upload_sec": 135.6
+      }
     }
   ],
   "failed_attempts": [
@@ -11108,7 +11127,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/kufr-uveznena-2023-cz-titulky-mp4/2d596336f2554058",
       "permanent": true,
       "failed_at": "2026-05-28T14:30:49Z"
+    },
+    {
+      "cr_film_id": 31369,
+      "upload_id": "143ff0b876786d7a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/good-burger-2-2023-en-cz-tit/143ff0b876786d7a",
+      "permanent": true,
+      "failed_at": "2026-05-28T15:01:48Z"
     }
   ],
-  "last_updated": "2026-05-28T15:01:45Z"
+  "last_updated": "2026-05-28T15:05:54Z"
 }
