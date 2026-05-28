@@ -9367,6 +9367,25 @@
         "download_sec": 55.3,
         "upload_sec": 75.8
       }
+    },
+    {
+      "cr_film_id": 9456,
+      "cr_slug": "megalopolis",
+      "title": "Megalopolis",
+      "year": 2024,
+      "display_name": "Megalopolis (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "676bde8ec31ea",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25270502,
+      "size_bytes": 2117743643,
+      "uploaded_at": "2026-05-28T09:32:07Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 79.7,
+        "upload_sec": 89.3
+      }
     }
   ],
   "failed_attempts": [
@@ -9581,5 +9600,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T09:29:14Z"
+  "last_updated": "2026-05-28T09:32:07Z"
 }
