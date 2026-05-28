@@ -14358,7 +14358,19 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/moonage-daydream-2022-cz-titulky/a143b346bca0b388",
       "permanent": true,
       "failed_at": "2026-05-28T21:44:52Z"
+    },
+    {
+      "cr_film_id": 27670,
+      "upload_id": "638a687938957",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-05-28T22:28:17Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 64.6,
+        "upload_sec": 75.4
+      }
     }
   ],
-  "last_updated": "2026-05-28T22:25:54Z"
+  "last_updated": "2026-05-28T22:28:17Z"
 }

@@ -5564,3 +5564,12 @@
 [22:24:20]   resolved in 1.0s → 480p (https://pf-storage6.premiumcdn.net/170637227/ozGtXwcdAIbYh5XCdmf6bcg9I83tXLFpvhO…)
 [22:25:00]   downloaded 1,187.2 MB in 37.5s (31.7 MB/s)
 [22:25:54]   upload done video_id=25285595 in 54.1s
+[22:25:55] film cr_film_id=14416 OK in 95.2s
+[22:25:55] iteration 20/20
+[22:25:55] film cr_film_id=27670 name='Kdo je tady hodný kluk? (2022) CZ Titulky' candidates=1
+[22:25:55]   candidate upload_id=638a687938957 url=https://prehraj.to/kdo-je-tady-hodny-kluk-2022-cztitulky/638a687938957
+[22:25:56]   resolved in 0.9s → 1080p (https://pf-storage3.premiumcdn.net/34967578/GlXFBgTQqtJ1fe5F5jUoLTP9hMzigDcr3H8m…)
+[22:27:01]   downloaded 1,940.9 MB in 64.6s (30.0 MB/s)
+[22:28:17]   upload FAILED after 75.4s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[22:28:17] film cr_film_id=27670 all candidates exhausted
+[22:28:17] batch-end ok=18 failed=2 dur=2605.5s avg/film=144.8s remaining=9471 eta_hours=380.9
