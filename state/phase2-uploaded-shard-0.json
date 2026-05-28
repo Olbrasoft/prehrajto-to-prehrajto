@@ -7714,6 +7714,25 @@
         "download_sec": 96.5,
         "upload_sec": 107.6
       }
+    },
+    {
+      "cr_film_id": 35458,
+      "cr_slug": "icefall",
+      "title": "Icefall",
+      "year": 2025,
+      "display_name": "Icefall (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "2769e4b77ff3dd99",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25263912,
+      "size_bytes": 1589929877,
+      "uploaded_at": "2026-05-28T04:03:57Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 74.2,
+        "upload_sec": 96.4
+      }
     }
   ],
   "failed_attempts": [
@@ -7914,5 +7933,5 @@
       "failed_at": "2026-05-28T01:19:33Z"
     }
   ],
-  "last_updated": "2026-05-28T04:01:00Z"
+  "last_updated": "2026-05-28T04:03:57Z"
 }
