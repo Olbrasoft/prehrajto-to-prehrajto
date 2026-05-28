@@ -9937,6 +9937,25 @@
         "download_sec": 32.7,
         "upload_sec": 41.6
       }
+    },
+    {
+      "cr_film_id": 15890,
+      "cr_slug": "bone-lake",
+      "title": "Bone Lake",
+      "year": 2024,
+      "display_name": "Bone Lake (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "a7cab5edd4ed07f2",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25271673,
+      "size_bytes": 1620435808,
+      "uploaded_at": "2026-05-28T10:45:35Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 63.9,
+        "upload_sec": 90.0
+      }
     }
   ],
   "failed_attempts": [
@@ -10151,5 +10170,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T10:42:56Z"
+  "last_updated": "2026-05-28T10:45:35Z"
 }
