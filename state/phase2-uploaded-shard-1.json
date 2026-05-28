@@ -11172,6 +11172,25 @@
         "download_sec": 53.5,
         "upload_sec": 66.4
       }
+    },
+    {
+      "cr_film_id": 8131,
+      "cr_slug": "all-you-need-is-death",
+      "title": "All You Need Is Death",
+      "year": 2023,
+      "display_name": "All You Need Is Death (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "66ab965712220",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25276753,
+      "size_bytes": 751833595,
+      "uploaded_at": "2026-05-28T15:49:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.6,
+        "upload_sec": 32.4
+      }
     }
   ],
   "failed_attempts": [
@@ -11459,5 +11478,5 @@
       "failed_at": "2026-05-28T15:01:48Z"
     }
   ],
-  "last_updated": "2026-05-28T15:48:41Z"
+  "last_updated": "2026-05-28T15:49:43Z"
 }
