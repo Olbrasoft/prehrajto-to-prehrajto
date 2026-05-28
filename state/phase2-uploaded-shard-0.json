@@ -12179,6 +12179,25 @@
         "download_sec": 43.8,
         "upload_sec": 50.6
       }
+    },
+    {
+      "cr_film_id": 3630,
+      "cr_slug": "adagio",
+      "title": "Adagio",
+      "year": 2023,
+      "display_name": "Adagio (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6643983ca9165",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25277560,
+      "size_bytes": 1968824484,
+      "uploaded_at": "2026-05-28T16:35:39Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 62.8,
+        "upload_sec": 69.5
+      }
     }
   ],
   "failed_attempts": [
@@ -12412,7 +12431,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/to-end-all-war-oppenheimer-the-atomic-bomb-2023-en-cz-tit-mp4/2396e867189d6fb7",
       "permanent": true,
       "failed_at": "2026-05-28T11:57:51Z"
+    },
+    {
+      "cr_film_id": 9330,
+      "upload_id": "269b77f7708dade8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/after-everything-after-odlouceni-2023-romanticky-cztit/269b77f7708dade8",
+      "permanent": true,
+      "failed_at": "2026-05-28T16:33:19Z"
     }
   ],
-  "last_updated": "2026-05-28T16:33:17Z"
+  "last_updated": "2026-05-28T16:35:39Z"
 }
