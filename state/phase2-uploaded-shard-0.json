@@ -12654,6 +12654,25 @@
         "download_sec": 82.4,
         "upload_sec": 92.2
       }
+    },
+    {
+      "cr_film_id": 19700,
+      "cr_slug": "the-twin",
+      "title": "The Twin",
+      "year": 2022,
+      "display_name": "The Twin (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "62f03771bb34b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25279566,
+      "size_bytes": 1555532090,
+      "uploaded_at": "2026-05-28T18:37:02Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 50.3,
+        "upload_sec": 59.3
+      }
     }
   ],
   "failed_attempts": [
@@ -12915,7 +12934,14 @@
       "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fwhat-is-a-woman-2022-cztitulky%2F62f58a7ce31ed (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fc06fe36990>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/what-is-a-woman-2022-cztitulky/62f58a7ce31ed",
       "permanent": false,
       "failed_at": "2026-05-28T17:17:20Z"
+    },
+    {
+      "cr_film_id": 30382,
+      "upload_id": "9810be4f53d0d706",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/there-are-no-saints-2022-en-cz-tit-mp4/9810be4f53d0d706",
+      "permanent": true,
+      "failed_at": "2026-05-28T18:35:04Z"
     }
   ],
-  "last_updated": "2026-05-28T18:35:03Z"
+  "last_updated": "2026-05-28T18:37:02Z"
 }
