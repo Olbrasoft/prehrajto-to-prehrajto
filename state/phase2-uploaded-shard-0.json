@@ -6954,6 +6954,25 @@
         "download_sec": 51.0,
         "upload_sec": 61.4
       }
+    },
+    {
+      "cr_film_id": 15874,
+      "cr_slug": "the-wrecker",
+      "title": "The Wrecker",
+      "year": 2025,
+      "display_name": "The Wrecker (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "4b51cef5ab5783bf",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25260357,
+      "size_bytes": 1685184686,
+      "uploaded_at": "2026-05-28T01:22:22Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 74.3,
+        "upload_sec": 85.9
+      }
     }
   ],
   "failed_attempts": [
@@ -7117,7 +7136,42 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mike-a-nick-a-nick-a-alice-2026-akcni-komedie-usa-cztit-1080p/b57a3f82935cba5c",
       "permanent": true,
       "failed_at": "2026-05-28T00:15:25Z"
+    },
+    {
+      "cr_film_id": 16398,
+      "upload_id": "719b641fa113b28a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-night-deadly-night-2025-1080p-cz-titulky-mp4/719b641fa113b28a",
+      "permanent": true,
+      "failed_at": "2026-05-28T01:19:10Z"
+    },
+    {
+      "cr_film_id": 16398,
+      "upload_id": "4cdc4f6848110e2a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-night-deadly-night-2025-cz-sk-titulky-topkvalita-mp4/4cdc4f6848110e2a",
+      "permanent": true,
+      "failed_at": "2026-05-28T01:19:15Z"
+    },
+    {
+      "cr_film_id": 16398,
+      "upload_id": "aaf681f5c03cdec4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-night-deadly-night-2025-cz-sk-titulky-topkvalita-mkv-mp4/aaf681f5c03cdec4",
+      "permanent": true,
+      "failed_at": "2026-05-28T01:19:22Z"
+    },
+    {
+      "cr_film_id": 16398,
+      "upload_id": "91694cb5134ba890",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-night-deadly-night-2025-titulky-cz-sk-mp4/91694cb5134ba890",
+      "permanent": true,
+      "failed_at": "2026-05-28T01:19:28Z"
+    },
+    {
+      "cr_film_id": 16398,
+      "upload_id": "0a232080495d7b54",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-night-deadly-night-2025-titulky-cz-sk-mkv-mp4/0a232080495d7b54",
+      "permanent": true,
+      "failed_at": "2026-05-28T01:19:33Z"
     }
   ],
-  "last_updated": "2026-05-28T01:19:07Z"
+  "last_updated": "2026-05-28T01:22:22Z"
 }
