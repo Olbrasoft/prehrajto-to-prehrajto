@@ -15,8 +15,6 @@ on:
         description: "Total parallel shards"
         required: false
         default: "2"
-  schedule:
-    - cron: "*/30 * * * *"
 
 jobs:
   upload-batch:
@@ -102,3 +100,73 @@ jobs:
             git pull --rebase origin main || true
             git push origin HEAD:main
           fi
+
+  enqueue-next:
+    name: Enqueue next Phase 2 batch
+    runs-on: ubuntu-latest
+    needs: upload-batch
+    if: ${{ always() && !cancelled() }}
+    permissions:
+      contents: read
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PUSH_TOKEN }}
+          ref: main
+
+      - name: Refresh to latest origin/main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Check remaining Phase 2 films
+        id: remaining
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import gzip
+          import json
+          from pathlib import Path
+
+          backlog_path = Path("backlog/phase2-candidate-films.jsonl.gz")
+          states = [Path(f"state/phase2-uploaded-shard-{i}.json") for i in (0, 1)]
+
+          uploaded = set()
+          burned = set()
+          for path in states:
+              if not path.exists():
+                  continue
+              state = json.loads(path.read_text())
+              uploaded.update(u["cr_film_id"] for u in state.get("uploads", []))
+              burned.update(
+                  a["upload_id"]
+                  for a in state.get("failed_attempts", [])
+                  if a.get("permanent")
+              )
+
+          total = 0
+          live = 0
+          with gzip.open(backlog_path, "rt", encoding="utf-8") as fh:
+              for line in fh:
+                  if not line.strip():
+                      continue
+                  total += 1
+                  film = json.loads(line)
+                  if film["cr_film_id"] in uploaded:
+                      continue
+                  if any(c["upload_id"] not in burned for c in film.get("candidates", [])):
+                      live += 1
+
+          print(f"total={total}")
+          print(f"uploaded={len(uploaded)}")
+          print(f"live_remaining={live}")
+          print(f"should_continue={'true' if live else 'false'}")
+          PY
+
+      - name: Dispatch next Phase 2 batch
+        if: ${{ steps.remaining.outputs.should_continue == 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
+        run: |
+          echo "Live remaining: ${{ steps.remaining.outputs.live_remaining }}"
+          gh workflow run sync-phase2.yml -f batch_size=20 -f num_shards=2
