@@ -8949,6 +8949,25 @@
         "download_sec": 85.0,
         "upload_sec": 105.7
       }
+    },
+    {
+      "cr_film_id": 16352,
+      "cr_slug": "sorop",
+      "title": "Sorop",
+      "year": 2024,
+      "display_name": "Sorop (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "684b135c9492e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25269329,
+      "size_bytes": 1138600686,
+      "uploaded_at": "2026-05-28T08:27:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 44.5,
+        "upload_sec": 52.8
+      }
     }
   ],
   "failed_attempts": [
@@ -9156,5 +9175,5 @@
       "failed_at": "2026-05-28T08:05:18Z"
     }
   ],
-  "last_updated": "2026-05-28T08:25:53Z"
+  "last_updated": "2026-05-28T08:27:34Z"
 }
