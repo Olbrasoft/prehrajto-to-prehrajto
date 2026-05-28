@@ -2509,3 +2509,25 @@
 [00:54:25]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/156804110/j6PS4qHQ6tY6uVXI14I9eH0lSX6I8NfOzf2…)
 [00:55:13]   downloaded 1,500.2 MB in 46.6s (32.2 MB/s)
 [00:56:04]   upload done video_id=25259732 in 50.5s
+[00:56:05] film cr_film_id=8639 OK in 100.4s
+[00:56:05] iteration 5/20
+[00:56:05] film cr_film_id=9743 name='Rituál (2025) CZ Titulky' candidates=4
+[00:56:05]   candidate upload_id=c930844ad262812b url=https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv/c930844ad262812b
+[00:56:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv/c930844ad262812b (permanent=True)
+[00:56:05]   candidate upload_id=2c3bf709767ebc2e url=https://prehraj.to/the-ritual-2025-en-cztit-1080p-bh/2c3bf709767ebc2e
+[00:56:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-ritual-2025-en-cztit-1080p-bh/2c3bf709767ebc2e (permanent=True)
+[00:56:11]   candidate upload_id=8870a4ddbfe58b97 url=https://prehraj.to/the-ritual-2025-en-cztit-1080p/8870a4ddbfe58b97
+[00:56:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-ritual-2025-en-cztit-1080p/8870a4ddbfe58b97 (permanent=True)
+[00:56:17]   candidate upload_id=10b80301cc024b5f url=https://prehraj.to/the-ritual-2025-en-cztit-1080p-behe/10b80301cc024b5f
+[00:56:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-ritual-2025-en-cztit-1080p-behe/10b80301cc024b5f (permanent=True)
+[00:56:23] film cr_film_id=9743 all candidates exhausted
+[00:56:23] iteration 6/20
+[00:56:23] film cr_film_id=31507 name='Ritual (2025) CZ Titulky' candidates=5
+[00:56:23]   candidate upload_id=eef1d0c28f8aa6a7 url=https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv-mp4/eef1d0c28f8aa6a7
+[00:56:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv-mp4/eef1d0c28f8aa6a7 (permanent=True)
+[00:56:28]   candidate upload_id=f409b469ab91f913 url=https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv-mp4/f409b469ab91f913
+[00:56:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv-mp4/f409b469ab91f913 (permanent=True)
+[00:56:34]   candidate upload_id=6056dcbbdc4d4391 url=https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv-mp4/6056dcbbdc4d4391
+[00:56:40]   resolved in 6.1s → 720p (https://pf-storage5.premiumcdn.net/156163295/84vSWOF2yF7VIZRTDmH0BFRlc1DU9BU18hn…)
+[00:57:06]   downloaded 904.3 MB in 25.3s (35.7 MB/s)
+[00:57:39]   upload done video_id=25259771 in 32.3s

@@ -6346,6 +6346,25 @@
         "download_sec": 46.6,
         "upload_sec": 50.5
       }
+    },
+    {
+      "cr_film_id": 31507,
+      "cr_slug": "ritual-2025",
+      "title": "Ritual",
+      "year": 2025,
+      "display_name": "Ritual (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6056dcbbdc4d4391",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25259771,
+      "size_bytes": 904297640,
+      "uploaded_at": "2026-05-28T00:57:39Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 25.3,
+        "upload_sec": 32.3
+      }
     }
   ],
   "failed_attempts": [
@@ -6474,7 +6493,49 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-king-of-kings-2025-cztit-1080p/6873c93f5bf46",
       "permanent": true,
       "failed_at": "2026-05-28T00:27:38Z"
+    },
+    {
+      "cr_film_id": 9743,
+      "upload_id": "c930844ad262812b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv/c930844ad262812b",
+      "permanent": true,
+      "failed_at": "2026-05-28T00:56:05Z"
+    },
+    {
+      "cr_film_id": 9743,
+      "upload_id": "2c3bf709767ebc2e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-ritual-2025-en-cztit-1080p-bh/2c3bf709767ebc2e",
+      "permanent": true,
+      "failed_at": "2026-05-28T00:56:11Z"
+    },
+    {
+      "cr_film_id": 9743,
+      "upload_id": "8870a4ddbfe58b97",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-ritual-2025-en-cztit-1080p/8870a4ddbfe58b97",
+      "permanent": true,
+      "failed_at": "2026-05-28T00:56:17Z"
+    },
+    {
+      "cr_film_id": 9743,
+      "upload_id": "10b80301cc024b5f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-ritual-2025-en-cztit-1080p-behe/10b80301cc024b5f",
+      "permanent": true,
+      "failed_at": "2026-05-28T00:56:23Z"
+    },
+    {
+      "cr_film_id": 31507,
+      "upload_id": "eef1d0c28f8aa6a7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv-mp4/eef1d0c28f8aa6a7",
+      "permanent": true,
+      "failed_at": "2026-05-28T00:56:28Z"
+    },
+    {
+      "cr_film_id": 31507,
+      "upload_id": "f409b469ab91f913",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv-mp4/f409b469ab91f913",
+      "permanent": true,
+      "failed_at": "2026-05-28T00:56:34Z"
     }
   ],
-  "last_updated": "2026-05-28T00:56:04Z"
+  "last_updated": "2026-05-28T00:57:39Z"
 }
