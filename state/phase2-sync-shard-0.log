@@ -3652,3 +3652,15 @@
 [09:15:52]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/89937860/LgAIa1UeluwrcrMS2YImMUADieWt38H8XfRd…)
 [09:17:30]   downloaded 2,258.1 MB in 95.4s (23.7 MB/s)
 [09:19:25]   upload done video_id=25270265 in 115.0s
+[09:19:27] film cr_film_id=7490 OK in 215.7s
+[09:19:27] iteration 18/20
+[09:19:27] film cr_film_id=37180 name='Nedělej vlny (2024) CZ Titulky' candidates=1
+[09:19:27]   candidate upload_id=02f3fc50e8d50491 url=https://prehraj.to/nedelej-vlny-2024-cz-titulky/02f3fc50e8d50491
+[09:19:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nedelej-vlny-2024-cz-titulky/02f3fc50e8d50491 (permanent=True)
+[09:19:28] film cr_film_id=37180 all candidates exhausted
+[09:19:28] iteration 19/20
+[09:19:28] film cr_film_id=31466 name='My Two Husbands (2024) CZ Titulky' candidates=1
+[09:19:28]   candidate upload_id=0aff2a3558d59f81 url=https://prehraj.to/my-two-husbands-2024-en-cz-tit/0aff2a3558d59f81
+[09:19:34]   resolved in 6.4s → 720p (https://pf-storage6.premiumcdn.net/169720597/agrt8GFPRHr8H7EIJeI9wF8nhOBSqETV3H1…)
+[09:20:13]   downloaded 755.2 MB in 36.5s (20.7 MB/s)
+[09:20:54]   upload done video_id=25270317 in 41.4s
