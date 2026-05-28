@@ -10735,6 +10735,25 @@
         "download_sec": 48.4,
         "upload_sec": 71.6
       }
+    },
+    {
+      "cr_film_id": 9038,
+      "cr_slug": "shrapnel",
+      "title": "Shrapnel",
+      "year": 2023,
+      "display_name": "Shrapnel (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "652c82a87d138",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25273525,
+      "size_bytes": 2291224757,
+      "uploaded_at": "2026-05-28T12:41:01Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 71.9,
+        "upload_sec": 82.1
+      }
     }
   ],
   "failed_attempts": [
@@ -10970,5 +10989,5 @@
       "failed_at": "2026-05-28T11:57:51Z"
     }
   ],
-  "last_updated": "2026-05-28T12:38:23Z"
+  "last_updated": "2026-05-28T12:41:01Z"
 }
