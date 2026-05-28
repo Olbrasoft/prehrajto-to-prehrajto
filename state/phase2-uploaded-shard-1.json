@@ -6783,6 +6783,25 @@
         "download_sec": 44.4,
         "upload_sec": 54.9
       }
+    },
+    {
+      "cr_film_id": 31493,
+      "cr_slug": "kalendarovy-vrah",
+      "title": "Kalendářový vrah",
+      "year": 2025,
+      "display_name": "Kalendářový vrah (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6790fe0261448",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25261304,
+      "size_bytes": 1182457817,
+      "uploaded_at": "2026-05-28T02:03:00Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 38.4,
+        "upload_sec": 50.0
+      }
     }
   ],
   "failed_attempts": [
@@ -6983,5 +7002,5 @@
       "failed_at": "2026-05-28T01:12:07Z"
     }
   ],
-  "last_updated": "2026-05-28T02:01:27Z"
+  "last_updated": "2026-05-28T02:03:00Z"
 }
