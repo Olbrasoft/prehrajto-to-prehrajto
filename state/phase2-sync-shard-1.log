@@ -2586,3 +2586,22 @@
 [01:09:54]   resolved in 1.6s → 720p (https://pf-storage3.premiumcdn.net/155207346/a1AtQvulWs1ZidlTmyhkeuyWCRliwmsE8Ua…)
 [01:10:49]   downloaded 1,975.6 MB in 54.2s (36.5 MB/s)
 [01:11:54]   upload done video_id=25260110 in 64.9s
+[01:11:55] film cr_film_id=1273 OK in 123.1s
+[01:11:55] iteration 15/20
+[01:11:55] film cr_film_id=35785 name='Pan Nikdo proti Putinovi (2025) CZ Titulky' candidates=2
+[01:11:55]   candidate upload_id=87aec3e89d213cf8 url=https://prehraj.to/pan-nikdo-proti-putinovi-2025-cz-tit-1080p/87aec3e89d213cf8
+[01:11:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pan-nikdo-proti-putinovi-2025-cz-tit-1080p/87aec3e89d213cf8 (permanent=True)
+[01:11:56]   candidate upload_id=b31818641b5d1bbf url=https://prehraj.to/pan-nikdo-proti-putinovi-mr-nobody-mod-putin-2025/b31818641b5d1bbf
+[01:12:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pan-nikdo-proti-putinovi-mr-nobody-mod-putin-2025/b31818641b5d1bbf (permanent=True)
+[01:12:01] film cr_film_id=35785 all candidates exhausted
+[01:12:01] iteration 16/20
+[01:12:01] film cr_film_id=8619 name='Ozvěna (2025) CZ Titulky' candidates=1
+[01:12:01]   candidate upload_id=98cd85c12816fce9 url=https://prehraj.to/ozvena-2025-hd-cz-tit/98cd85c12816fce9
+[01:12:07]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ozvena-2025-hd-cz-tit/98cd85c12816fce9 (permanent=True)
+[01:12:07] film cr_film_id=8619 all candidates exhausted
+[01:12:07] iteration 17/20
+[01:12:07] film cr_film_id=37011 name='Our Girls (2025) CZ Titulky' candidates=4
+[01:12:07]   candidate upload_id=523029fd603b9ac9 url=https://prehraj.to/our-girls-2025-cz-tit-mkv/523029fd603b9ac9
+[01:12:13]   resolved in 6.0s → 720p (https://pf-storage1.premiumcdn.net/161874086/JjDFwLc0oF3wcVPsJRtY2cnJF8GI7KcQjTn…)
+[01:12:49]   downloaded 1,103.1 MB in 34.9s (31.6 MB/s)
+[01:13:36]   upload done video_id=25260158 in 46.8s

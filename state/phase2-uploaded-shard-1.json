@@ -6498,6 +6498,25 @@
         "download_sec": 54.2,
         "upload_sec": 64.9
       }
+    },
+    {
+      "cr_film_id": 37011,
+      "cr_slug": "our-girls",
+      "title": "Our Girls",
+      "year": 2025,
+      "display_name": "Our Girls (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "523029fd603b9ac9",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25260158,
+      "size_bytes": 1103076847,
+      "uploaded_at": "2026-05-28T01:13:36Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 34.9,
+        "upload_sec": 46.8
+      }
     }
   ],
   "failed_attempts": [
@@ -6675,7 +6694,28 @@
       "reason": "oversize: 6522978672 B",
       "permanent": true,
       "failed_at": "2026-05-28T01:03:42Z"
+    },
+    {
+      "cr_film_id": 35785,
+      "upload_id": "87aec3e89d213cf8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pan-nikdo-proti-putinovi-2025-cz-tit-1080p/87aec3e89d213cf8",
+      "permanent": true,
+      "failed_at": "2026-05-28T01:11:56Z"
+    },
+    {
+      "cr_film_id": 35785,
+      "upload_id": "b31818641b5d1bbf",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pan-nikdo-proti-putinovi-mr-nobody-mod-putin-2025/b31818641b5d1bbf",
+      "permanent": true,
+      "failed_at": "2026-05-28T01:12:01Z"
+    },
+    {
+      "cr_film_id": 8619,
+      "upload_id": "98cd85c12816fce9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ozvena-2025-hd-cz-tit/98cd85c12816fce9",
+      "permanent": true,
+      "failed_at": "2026-05-28T01:12:07Z"
     }
   ],
-  "last_updated": "2026-05-28T01:11:54Z"
+  "last_updated": "2026-05-28T01:13:36Z"
 }
