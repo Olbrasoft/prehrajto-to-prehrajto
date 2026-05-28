@@ -3889,3 +3889,17 @@
 [11:58:00]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/77583068/wqktXBTVGHrkSd7iBlTxoT5AInMfovhl4U2Q…)
 [11:58:30]   downloaded 843.0 MB in 28.3s (29.8 MB/s)
 [11:59:01]   upload done video_id=25272920 in 30.9s
+[11:59:02] film cr_film_id=10465 OK in 62.8s
+[11:59:02] iteration 13/20
+[11:59:02] film cr_film_id=19917 name="There's Something Wrong with the Children (2023) CZ Titulky" candidates=2
+[11:59:02]   candidate upload_id=63dadb369e384 url=https://prehraj.to/theres-something-wrong-with-the-children-2023-cz-sub-1080p/63dadb369e384
+[11:59:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/theres-something-wrong-with-the-children-2023-cz-sub-1080p/63dadb369e384 (permanent=True)
+[11:59:03]   candidate upload_id=63d1a01b06373 url=https://prehraj.to/theres-something-wrong-with-the-children-2023-cz-titulky/63d1a01b06373
+[11:59:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/theres-something-wrong-with-the-children-2023-cz-titulky/63d1a01b06373 (permanent=True)
+[11:59:09] film cr_film_id=19917 all candidates exhausted
+[11:59:09] iteration 14/20
+[11:59:09] film cr_film_id=3257 name='The Wandering Earth II (2023) CZ Titulky' candidates=4
+[11:59:09]   candidate upload_id=647920a4206b2 url=https://prehraj.to/the-wandering-earth-2-liu-lang-di-qiu-2-2023-720p-cz-titulky-v-obraze-sci-fi-dobrodruzny-katastroficky/647920a4206b2
+[11:59:14]   resolved in 5.9s → 480p (https://pf-storage4.premiumcdn.net/41265907/GyBs34IaPTxmuklSnWHvbIjPSj8ck7Hy7cdO…)
+[12:00:02]   downloaded 1,584.6 MB in 46.3s (34.2 MB/s)
+[12:01:05]   upload done video_id=25272944 in 62.1s
