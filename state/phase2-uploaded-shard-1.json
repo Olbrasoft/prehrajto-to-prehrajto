@@ -9272,6 +9272,25 @@
         "download_sec": 130.4,
         "upload_sec": 167.7
       }
+    },
+    {
+      "cr_film_id": 31421,
+      "cr_slug": "bila-odvaha",
+      "title": "Bílá odvaha",
+      "year": 2024,
+      "display_name": "Bílá odvaha (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "bdc19603e945ba94",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25271399,
+      "size_bytes": 2517982982,
+      "uploaded_at": "2026-05-28T10:32:12Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 110.9,
+        "upload_sec": 144.6
+      }
     }
   ],
   "failed_attempts": [
@@ -9510,5 +9529,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-28T10:27:51Z"
+  "last_updated": "2026-05-28T10:32:12Z"
 }
