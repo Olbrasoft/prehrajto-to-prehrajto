@@ -10260,6 +10260,25 @@
         "download_sec": 68.0,
         "upload_sec": 80.7
       }
+    },
+    {
+      "cr_film_id": 28046,
+      "cr_slug": "visions",
+      "title": "Visions",
+      "year": 2023,
+      "display_name": "Visions (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "661557a8af37b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25272787,
+      "size_bytes": 1704425685,
+      "uploaded_at": "2026-05-28T11:50:28Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 54.5,
+        "upload_sec": 58.9
+      }
     }
   ],
   "failed_attempts": [
@@ -10474,5 +10493,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T11:48:31Z"
+  "last_updated": "2026-05-28T11:50:28Z"
 }
