@@ -11457,6 +11457,25 @@
         "download_sec": 107.7,
         "upload_sec": 119.7
       }
+    },
+    {
+      "cr_film_id": 15595,
+      "cr_slug": "vizinhos",
+      "title": "Vizinhos",
+      "year": 2022,
+      "display_name": "Vizinhos (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "55eb4344491498db",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25277399,
+      "size_bytes": 1123741373,
+      "uploaded_at": "2026-05-28T16:25:14Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 56.6,
+        "upload_sec": 62.6
+      }
     }
   ],
   "failed_attempts": [
@@ -11756,5 +11775,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-28T16:23:10Z"
+  "last_updated": "2026-05-28T16:25:14Z"
 }
