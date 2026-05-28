@@ -9025,6 +9025,25 @@
         "download_sec": 64.2,
         "upload_sec": 77.4
       }
+    },
+    {
+      "cr_film_id": 14150,
+      "cr_slug": "rust",
+      "title": "Rust",
+      "year": 2024,
+      "display_name": "Rust (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "ddd56d9681ba280d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25269514,
+      "size_bytes": 1341339402,
+      "uploaded_at": "2026-05-28T08:39:06Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 55.9,
+        "upload_sec": 70.0
+      }
     }
   ],
   "failed_attempts": [
@@ -9232,5 +9251,5 @@
       "failed_at": "2026-05-28T08:05:18Z"
     }
   ],
-  "last_updated": "2026-05-28T08:36:55Z"
+  "last_updated": "2026-05-28T08:39:06Z"
 }
