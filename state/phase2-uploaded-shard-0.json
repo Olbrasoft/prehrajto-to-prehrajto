@@ -13167,6 +13167,25 @@
         "download_sec": 69.9,
         "upload_sec": 83.4
       }
+    },
+    {
+      "cr_film_id": 19300,
+      "cr_slug": "rrr",
+      "title": "RRR",
+      "year": 2022,
+      "display_name": "RRR (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "8611cbcbdc50030c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25281312,
+      "size_bytes": 2618055066,
+      "uploaded_at": "2026-05-28T20:00:40Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 124.3,
+        "upload_sec": 144.1
+      }
     }
   ],
   "failed_attempts": [
@@ -13458,5 +13477,5 @@
       "failed_at": "2026-05-28T19:38:43Z"
     }
   ],
-  "last_updated": "2026-05-28T19:56:07Z"
+  "last_updated": "2026-05-28T20:00:40Z"
 }
