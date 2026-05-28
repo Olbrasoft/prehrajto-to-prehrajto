@@ -5694,3 +5694,14 @@
 [23:49:21]   upload done video_id=25288445 in 107.9s
 [23:49:23] film cr_film_id=18041 OK in 189.3s
 [23:49:23] batch-end ok=20 failed=0 dur=3959.7s avg/film=198.0s remaining=9454 eta_hours=520.0
+
+===== run 2026-05-28T23:51:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26609197977) =====
+[23:51:35] batch-start shard=1/2 count=20 backlog=10210 uploads=756 failed_attempts=44
+[23:51:35] login
+[23:51:37] login done
+[23:51:37] iteration 1/20
+[23:51:37] film cr_film_id=36835 name='Useless Humans (2021) CZ Titulky' candidates=5
+[23:51:37]   candidate upload_id=5f95f19815535 url=https://prehraj.to/useless-humans-2020-cztitulky/5f95f19815535
+[23:51:38]   resolved in 1.4s → 720p (https://pf-storage2.premiumcdn.net/19497266/E8QcVaf3PT5MHa2idNSjGfaDF2kFMRI1Qsqn…)
+[23:52:33]   downloaded 1,035.2 MB in 52.5s (19.7 MB/s)
+[23:53:39]   upload done video_id=25288527 in 66.1s
