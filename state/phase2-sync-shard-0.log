@@ -2801,3 +2801,14 @@
 [01:36:11]   upload done video_id=25260691 in 43.3s
 [01:36:12] film cr_film_id=36958 OK in 87.4s
 [01:36:12] batch-end ok=19 failed=1 dur=2986.2s avg/film=157.2s remaining=9837 eta_hours=429.5
+
+===== run 2026-05-28T01:37:43Z shard=0/2 batch_size= (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26549312607) =====
+[01:37:44] batch-start shard=0/2 count=20 backlog=10210 uploads=373 failed_attempts=28
+[01:37:44] login
+[01:37:46] login done
+[01:37:46] iteration 1/20
+[01:37:46] film cr_film_id=36960 name='The Italians (2025) CZ Titulky' candidates=1
+[01:37:46]   candidate upload_id=c11761f35ff1abde url=https://prehraj.to/the-italians-2025-cz-titulky/c11761f35ff1abde
+[01:37:47]   resolved in 1.1s → 1080p (https://pf-storage6.premiumcdn.net/170854040/VY3FbNIYjh2qS7RTO0SZBIlqHkbhlLuXYFa…)
+[01:39:13]   downloaded 2,820.2 MB in 84.5s (33.4 MB/s)
+[01:40:52]   upload done video_id=25260771 in 98.9s

@@ -7087,6 +7087,25 @@
         "download_sec": 39.9,
         "upload_sec": 43.3
       }
+    },
+    {
+      "cr_film_id": 36960,
+      "cr_slug": "the-italians",
+      "title": "The Italians",
+      "year": 2025,
+      "display_name": "The Italians (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "c11761f35ff1abde",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25260771,
+      "size_bytes": 2820187050,
+      "uploaded_at": "2026-05-28T01:40:52Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 84.5,
+        "upload_sec": 98.9
+      }
     }
   ],
   "failed_attempts": [
@@ -7287,5 +7306,5 @@
       "failed_at": "2026-05-28T01:19:33Z"
     }
   ],
-  "last_updated": "2026-05-28T01:36:11Z"
+  "last_updated": "2026-05-28T01:40:52Z"
 }
