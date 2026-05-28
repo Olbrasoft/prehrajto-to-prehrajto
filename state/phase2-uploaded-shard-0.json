@@ -9462,6 +9462,25 @@
         "download_sec": 78.5,
         "upload_sec": 94.4
       }
+    },
+    {
+      "cr_film_id": 36936,
+      "cr_slug": "little-bites",
+      "title": "Little Bites",
+      "year": 2024,
+      "display_name": "Little Bites (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67036b546bce8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25270703,
+      "size_bytes": 1938390588,
+      "uploaded_at": "2026-05-28T09:44:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 73.8,
+        "upload_sec": 84.7
+      }
     }
   ],
   "failed_attempts": [
@@ -9676,5 +9695,5 @@
       "failed_at": "2026-05-28T09:19:28Z"
     }
   ],
-  "last_updated": "2026-05-28T09:41:34Z"
+  "last_updated": "2026-05-28T09:44:17Z"
 }
