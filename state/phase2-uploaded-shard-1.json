@@ -12407,6 +12407,25 @@
         "download_sec": 84.5,
         "upload_sec": 100.3
       }
+    },
+    {
+      "cr_film_id": 31325,
+      "cr_slug": "nocni-reziser",
+      "title": "Noční režisér",
+      "year": 2022,
+      "display_name": "Noční režisér (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "eda05a0dd9bf9f5d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25279309,
+      "size_bytes": 1868864718,
+      "uploaded_at": "2026-05-28T18:22:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 60.5,
+        "upload_sec": 64.5
+      }
     }
   ],
   "failed_attempts": [
@@ -12720,5 +12739,5 @@
       "failed_at": "2026-05-28T17:14:53Z"
     }
   ],
-  "last_updated": "2026-05-28T18:20:37Z"
+  "last_updated": "2026-05-28T18:22:46Z"
 }
