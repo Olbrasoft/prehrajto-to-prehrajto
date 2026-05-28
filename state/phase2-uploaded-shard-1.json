@@ -6289,6 +6289,25 @@
         "download_sec": 73.6,
         "upload_sec": 96.2
       }
+    },
+    {
+      "cr_film_id": 36951,
+      "cr_slug": "shook",
+      "title": "Shook",
+      "year": 2025,
+      "display_name": "Shook (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6473dc970ebb6787",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25259668,
+      "size_bytes": 1346619697,
+      "uploaded_at": "2026-05-28T00:53:02Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 41.3,
+        "upload_sec": 47.4
+      }
     }
   ],
   "failed_attempts": [
@@ -6419,5 +6438,5 @@
       "failed_at": "2026-05-28T00:27:38Z"
     }
   ],
-  "last_updated": "2026-05-28T00:51:30Z"
+  "last_updated": "2026-05-28T00:53:02Z"
 }
