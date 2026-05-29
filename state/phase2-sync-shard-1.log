@@ -8022,3 +8022,14 @@
 [14:08:18]   upload done video_id=25300087 in 46.5s
 [14:08:19] film cr_film_id=30869 OK in 90.9s
 [14:08:19] batch-end ok=20 failed=0 dur=2949.6s avg/film=147.5s remaining=9141 eta_hours=374.5
+
+===== run 2026-05-29T14:08:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26642067907) =====
+[14:08:50] batch-start shard=1/2 count=20 backlog=10210 uploads=1069 failed_attempts=53
+[14:08:50] login
+[14:08:53] login done
+[14:08:53] iteration 1/20
+[14:08:53] film cr_film_id=33591 name='Zábava, zábava (2019) CZ Titulky' candidates=1
+[14:08:53]   candidate upload_id=5fe690b8c94a9 url=https://prehraj.to/zabava-zabava-2018-cztitulky/5fe690b8c94a9
+[14:08:54]   resolved in 1.5s → 720p (https://pf-storage1.premiumcdn.net/21027042/wV5sR1hOVuWkIgMhdpiLyhyNI24IgAtX5i3j…)
+[14:10:01]   downloaded 1,299.3 MB in 64.6s (20.1 MB/s)
+[14:11:24]   upload done video_id=25300131 in 82.6s
