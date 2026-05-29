@@ -8044,3 +8044,14 @@
 [14:03:31]   upload done video_id=25300027 in 47.3s
 [14:03:33] film cr_film_id=8736 OK in 94.3s
 [14:03:33] batch-end ok=20 failed=0 dur=2664.3s avg/film=133.2s remaining=9137 eta_hours=338.1
+
+===== run 2026-05-29T14:08:45Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26642067907) =====
+[14:08:46] batch-start shard=0/2 count=20 backlog=10210 uploads=1073 failed_attempts=52
+[14:08:46] login
+[14:08:48] login done
+[14:08:48] iteration 1/20
+[14:08:48] film cr_film_id=36800 name='Last Call (2020) CZ Titulky' candidates=4
+[14:08:48]   candidate upload_id=60689607d0bc0 url=https://prehraj.to/last-call-2020-cz-titulky/60689607d0bc0
+[14:08:49]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/22945476/oa5FwdSyktdBcbWsZAIX4SReF3aIo2HgOtpd…)
+[14:09:20]   downloaded 903.6 MB in 29.3s (30.8 MB/s)
+[14:10:03]   upload done video_id=25300118 in 43.4s
