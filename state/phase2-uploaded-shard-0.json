@@ -15827,6 +15827,25 @@
         "download_sec": 123.9,
         "upload_sec": 149.0
       }
+    },
+    {
+      "cr_film_id": 19860,
+      "cr_slug": "solncepjok",
+      "title": "Solncepjok",
+      "year": 2021,
+      "display_name": "Solncepjok (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63578c1a81adf",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25292065,
+      "size_bytes": 3491438944,
+      "uploaded_at": "2026-05-29T03:41:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 440.0,
+        "upload_sec": 174.5
+      }
     }
   ],
   "failed_attempts": [
@@ -16172,5 +16191,5 @@
       "failed_at": "2026-05-29T00:57:07Z"
     }
   ],
-  "last_updated": "2026-05-29T03:31:11Z"
+  "last_updated": "2026-05-29T03:41:29Z"
 }
