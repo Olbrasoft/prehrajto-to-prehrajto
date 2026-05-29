@@ -7172,3 +7172,14 @@
 [09:09:20]   upload done video_id=25296190 in 50.5s
 [09:09:22] film cr_film_id=31124 OK in 98.8s
 [09:09:22] batch-end ok=20 failed=0 dur=3589.5s avg/film=179.5s remaining=9255 eta_hours=461.5
+
+===== run 2026-05-29T09:09:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26628666296) =====
+[09:09:50] batch-start shard=0/2 count=20 backlog=10210 uploads=955 failed_attempts=50
+[09:09:50] login
+[09:09:51] login done
+[09:09:51] iteration 1/20
+[09:09:51] film cr_film_id=29864 name="A Writer's Odyssey (2021) CZ Titulky" candidates=8
+[09:09:51]   candidate upload_id=60bd1a6da8478 url=https://prehraj.to/a-writer-s-odyssey-2021-cz-titulky-hd/60bd1a6da8478
+[09:09:52]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/23792634/OGatjgFn4IwoubQiDguG3Fn3CbkcPrUolH7B…)
+[09:10:40]   downloaded 1,503.6 MB in 46.3s (32.5 MB/s)
+[09:11:43]   upload done video_id=25296222 in 62.2s
