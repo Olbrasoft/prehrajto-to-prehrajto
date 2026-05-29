@@ -23237,6 +23237,25 @@
         "download_sec": 86.0,
         "upload_sec": 98.1
       }
+    },
+    {
+      "cr_film_id": 29621,
+      "cr_slug": "clementine",
+      "title": "Clementine",
+      "year": 2019,
+      "display_name": "Clementine (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f2db113b13fd",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25307372,
+      "size_bytes": 1132938421,
+      "uploaded_at": "2026-05-29T20:27:58Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 50.6,
+        "upload_sec": 68.7
+      }
     }
   ],
   "failed_attempts": [
@@ -23632,5 +23651,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T20:25:54Z"
+  "last_updated": "2026-05-29T20:27:58Z"
 }
