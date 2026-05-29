@@ -22667,6 +22667,25 @@
         "download_sec": 42.5,
         "upload_sec": 48.7
       }
+    },
+    {
+      "cr_film_id": 33442,
+      "cr_slug": "starfish",
+      "title": "Starfish",
+      "year": 2019,
+      "display_name": "Starfish (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5d00e3b6186f3",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25306345,
+      "size_bytes": 1628595008,
+      "uploaded_at": "2026-05-29T19:13:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 61.1,
+        "upload_sec": 73.1
+      }
     }
   ],
   "failed_attempts": [
@@ -23047,5 +23066,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T19:11:19Z"
+  "last_updated": "2026-05-29T19:13:37Z"
 }
