@@ -23503,6 +23503,25 @@
         "download_sec": 20.7,
         "upload_sec": 23.1
       }
+    },
+    {
+      "cr_film_id": 33626,
+      "cr_slug": "mapplethorpe",
+      "title": "Mapplethorpe",
+      "year": 2019,
+      "display_name": "Mapplethorpe (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "600f187c6a27c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25307812,
+      "size_bytes": 1241593811,
+      "uploaded_at": "2026-05-29T21:02:44Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 40.0,
+        "upload_sec": 48.1
+      }
     }
   ],
   "failed_attempts": [
@@ -23897,5 +23916,5 @@
       "failed_at": "2026-05-29T20:34:16Z"
     }
   ],
-  "last_updated": "2026-05-29T21:01:13Z"
+  "last_updated": "2026-05-29T21:02:44Z"
 }
