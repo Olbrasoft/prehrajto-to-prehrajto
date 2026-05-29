@@ -23940,6 +23940,25 @@
         "download_sec": 27.0,
         "upload_sec": 38.4
       }
+    },
+    {
+      "cr_film_id": 20979,
+      "cr_slug": "aga",
+      "title": "Ága",
+      "year": 2018,
+      "display_name": "Ága (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6001d2ac4ec85",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25308455,
+      "size_bytes": 1402765809,
+      "uploaded_at": "2026-05-29T21:57:10Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 66.0,
+        "upload_sec": 74.6
+      }
     }
   ],
   "failed_attempts": [
@@ -24335,5 +24354,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T21:54:44Z"
+  "last_updated": "2026-05-29T21:57:10Z"
 }
