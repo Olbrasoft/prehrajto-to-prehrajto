@@ -7601,3 +7601,10 @@
 [11:53:46]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/15937285/RqQu5eFBQUwdUZRSN8uzqFJdcGOhljClosrZ…)
 [11:54:27]   downloaded 747.0 MB in 38.4s (19.5 MB/s)
 [11:55:09]   upload done video_id=25298629 in 42.5s
+[11:55:11] film cr_film_id=33506 OK in 86.0s
+[11:55:11] iteration 20/20
+[11:55:11] film cr_film_id=30938 name='Superman: Man of Tomorrow (2020) CZ Titulky' candidates=1
+[11:55:11]   candidate upload_id=c63d9a7cc35e76cc url=https://prehraj.to/superman-man-of-tomorrow-2020-en-cz-tit/c63d9a7cc35e76cc
+[11:55:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superman-man-of-tomorrow-2020-en-cz-tit/c63d9a7cc35e76cc (permanent=True)
+[11:55:11] film cr_film_id=30938 all candidates exhausted
+[11:55:11] batch-end ok=19 failed=1 dur=2918.0s avg/film=153.6s remaining=9196 eta_hours=392.4
