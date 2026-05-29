@@ -8188,3 +8188,14 @@
 [14:47:16]   upload done video_id=25302957 in 75.4s
 [14:47:17] film cr_film_id=32156 OK in 133.7s
 [14:47:17] batch-end ok=19 failed=1 dur=2309.7s avg/film=121.6s remaining=9118 eta_hours=308.0
+
+===== run 2026-05-29T15:03:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26644885296) =====
+[15:03:34] batch-start shard=0/2 count=20 backlog=10210 uploads=1092 failed_attempts=53
+[15:03:34] login
+[15:03:35] login done
+[15:03:35] iteration 1/20
+[15:03:35] film cr_film_id=36830 name='Horizont poznání (2020) CZ Titulky' candidates=1
+[15:03:35]   candidate upload_id=60b7bfacb494e url=https://prehraj.to/horizont-poznani-2020-cztitulky/60b7bfacb494e
+[15:03:37]   resolved in 2.2s → 1080p (https://pf-storage3.premiumcdn.net/23736093/X4QFBGCpwTyLcPpuEPiwKCn3hR8hM9iBeS81…)
+[15:05:14]   downloaded 2,615.5 MB in 94.4s (27.7 MB/s)
+[15:07:05]   upload done video_id=25303254 in 111.8s
