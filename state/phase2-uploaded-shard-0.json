@@ -21945,6 +21945,25 @@
         "download_sec": 116.8,
         "upload_sec": 150.9
       }
+    },
+    {
+      "cr_film_id": 566,
+      "cr_slug": "zvuk-metalu",
+      "title": "Zvuk metalu",
+      "year": 2019,
+      "display_name": "Zvuk metalu (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fe4a9d7dabca",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25305078,
+      "size_bytes": 1089266846,
+      "uploaded_at": "2026-05-29T17:37:05Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 49.1,
+        "upload_sec": 68.1
+      }
     }
   ],
   "failed_attempts": [
@@ -22325,5 +22344,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T17:35:02Z"
+  "last_updated": "2026-05-29T17:37:05Z"
 }
