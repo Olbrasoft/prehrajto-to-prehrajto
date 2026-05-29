@@ -24909,6 +24909,25 @@
         "download_sec": 45.2,
         "upload_sec": 57.7
       }
+    },
+    {
+      "cr_film_id": 14062,
+      "cr_slug": "barot-house",
+      "title": "Barot House",
+      "year": 2019,
+      "display_name": "Barot House (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6005c03d90e21",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25309665,
+      "size_bytes": 1916000005,
+      "uploaded_at": "2026-05-29T23:37:38Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 53.0,
+        "upload_sec": 87.9
+      }
     }
   ],
   "failed_attempts": [
@@ -25310,5 +25329,5 @@
       "failed_at": "2026-05-29T22:00:53Z"
     }
   ],
-  "last_updated": "2026-05-29T23:35:14Z"
+  "last_updated": "2026-05-29T23:37:38Z"
 }
