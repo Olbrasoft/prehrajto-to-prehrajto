@@ -20140,6 +20140,25 @@
         "download_sec": 59.9,
         "upload_sec": 77.5
       }
+    },
+    {
+      "cr_film_id": 14575,
+      "cr_slug": "a-gruta",
+      "title": "A Gruta",
+      "year": 2020,
+      "display_name": "A Gruta (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60dab6c649629",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25299874,
+      "size_bytes": 1488855831,
+      "uploaded_at": "2026-05-29T13:48:40Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 64.6,
+        "upload_sec": 82.8
+      }
     }
   ],
   "failed_attempts": [
@@ -20535,5 +20554,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T13:46:06Z"
+  "last_updated": "2026-05-29T13:48:40Z"
 }
