@@ -20463,6 +20463,25 @@
         "download_sec": 72.4,
         "upload_sec": 85.3
       }
+    },
+    {
+      "cr_film_id": 14718,
+      "cr_slug": "komplic-2020",
+      "title": "Komplic",
+      "year": 2020,
+      "display_name": "Komplic (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6022e4df92973",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25300238,
+      "size_bytes": 3447720941,
+      "uploaded_at": "2026-05-29T14:20:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 104.8,
+        "upload_sec": 121.2
+      }
     }
   ],
   "failed_attempts": [
@@ -20836,5 +20855,5 @@
       "failed_at": "2026-05-29T13:08:56Z"
     }
   ],
-  "last_updated": "2026-05-29T14:16:18Z"
+  "last_updated": "2026-05-29T14:20:07Z"
 }
