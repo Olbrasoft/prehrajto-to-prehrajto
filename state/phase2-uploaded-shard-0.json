@@ -23294,6 +23294,25 @@
         "download_sec": 23.8,
         "upload_sec": 22.5
       }
+    },
+    {
+      "cr_film_id": 21060,
+      "cr_slug": "naeaneui-geunom",
+      "title": "Naeaneui geunom",
+      "year": 2019,
+      "display_name": "Naeaneui geunom (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fa2ac4dc1a18",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25307500,
+      "size_bytes": 1954583678,
+      "uploaded_at": "2026-05-29T20:37:31Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 86.8,
+        "upload_sec": 100.5
+      }
     }
   ],
   "failed_attempts": [
@@ -23679,7 +23698,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/snatchers-2019-en-cz-tit-mp4/50dca75fa61db108",
       "permanent": true,
       "failed_at": "2026-05-29T19:20:17Z"
+    },
+    {
+      "cr_film_id": 30674,
+      "upload_id": "ca3714448e5f5ccd",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/never-grow-old-2019-en-cz-tit/ca3714448e5f5ccd",
+      "permanent": true,
+      "failed_at": "2026-05-29T20:34:16Z"
     }
   ],
-  "last_updated": "2026-05-29T20:34:13Z"
+  "last_updated": "2026-05-29T20:37:31Z"
 }
