@@ -7771,3 +7771,15 @@
 [12:42:08]   resolved in 2.7s → 720p (https://pf-storage1.premiumcdn.net/167193911/xZ5InbTgQsmkU82HwdFYnTQjCbJhZlskVin…)
 [12:42:51]   downloaded 1,310.7 MB in 42.2s (31.1 MB/s)
 [12:43:40]   upload done video_id=25299178 in 48.9s
+[12:43:42] film cr_film_id=17909 OK in 96.5s
+[12:43:42] iteration 6/20
+[12:43:42] film cr_film_id=17617 name='Chlapec jménem Adú (2020) CZ Titulky' candidates=1
+[12:43:42]   candidate upload_id=c8bcd43e83c0198e url=https://prehraj.to/chlapec-jmenem-adu-2020-cz-titulky/c8bcd43e83c0198e
+[12:43:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/chlapec-jmenem-adu-2020-cz-titulky/c8bcd43e83c0198e (permanent=True)
+[12:43:42] film cr_film_id=17617 all candidates exhausted
+[12:43:42] iteration 7/20
+[12:43:42] film cr_film_id=10253 name='Children of the Corn (2020) CZ Titulky' candidates=1
+[12:43:42]   candidate upload_id=64215e5e41911 url=https://prehraj.to/children-of-the-corn-2020-1080p-cz-sub/64215e5e41911
+[12:43:49]   resolved in 6.6s → 720p (https://pf-storage3.premiumcdn.net/38719702/gxJH5jU5lcmpudYCA2swYUyAulAfjJSwYCLX…)
+[12:44:54]   downloaded 2,021.4 MB in 63.8s (31.7 MB/s)
+[12:46:06]   upload done video_id=25299189 in 72.4s
