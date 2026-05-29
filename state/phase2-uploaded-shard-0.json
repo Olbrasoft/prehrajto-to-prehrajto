@@ -14687,6 +14687,25 @@
         "download_sec": 99.8,
         "upload_sec": 134.1
       }
+    },
+    {
+      "cr_film_id": 5408,
+      "cr_slug": "clerks-iii",
+      "title": "Clerks III",
+      "year": 2022,
+      "display_name": "Clerks III (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "635aca5b32dc7",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25289304,
+      "size_bytes": 2245719988,
+      "uploaded_at": "2026-05-29T00:38:01Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 106.3,
+        "upload_sec": 125.0
+      }
     }
   ],
   "failed_attempts": [
@@ -15025,5 +15044,5 @@
       "failed_at": "2026-05-29T00:26:18Z"
     }
   ],
-  "last_updated": "2026-05-29T00:34:05Z"
+  "last_updated": "2026-05-29T00:38:01Z"
 }
