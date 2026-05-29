@@ -20710,6 +20710,25 @@
         "download_sec": 105.1,
         "upload_sec": 118.9
       }
+    },
+    {
+      "cr_film_id": 17568,
+      "cr_slug": "hranice-odvahy",
+      "title": "Hranice odvahy",
+      "year": 2020,
+      "display_name": "Hranice odvahy (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6313ff0133531",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25302759,
+      "size_bytes": 2009759645,
+      "uploaded_at": "2026-05-29T14:45:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 60.9,
+        "upload_sec": 70.3
+      }
     }
   ],
   "failed_attempts": [
@@ -21090,5 +21109,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T14:42:47Z"
+  "last_updated": "2026-05-29T14:45:02Z"
 }
