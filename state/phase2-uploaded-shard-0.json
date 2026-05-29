@@ -18107,6 +18107,25 @@
         "download_sec": 55.1,
         "upload_sec": 65.2
       }
+    },
+    {
+      "cr_film_id": 14856,
+      "cr_slug": "american-refugee",
+      "title": "American Refugee",
+      "year": 2021,
+      "display_name": "American Refugee (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "621a85457714a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25296145,
+      "size_bytes": 1703050903,
+      "uploaded_at": "2026-05-29T09:07:42Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 74.5,
+        "upload_sec": 95.0
+      }
     }
   ],
   "failed_attempts": [
@@ -18466,5 +18485,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T09:04:47Z"
+  "last_updated": "2026-05-29T09:07:42Z"
 }
