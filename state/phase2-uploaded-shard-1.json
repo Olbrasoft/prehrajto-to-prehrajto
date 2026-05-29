@@ -14953,6 +14953,25 @@
         "download_sec": 91.0,
         "upload_sec": 104.6
       }
+    },
+    {
+      "cr_film_id": 30975,
+      "cr_slug": "seance",
+      "title": "Seance",
+      "year": 2021,
+      "display_name": "Seance (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5abc2f293081a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25289991,
+      "size_bytes": 409435817,
+      "uploaded_at": "2026-05-29T01:19:26Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 23.3,
+        "upload_sec": 25.3
+      }
     }
   ],
   "failed_attempts": [
@@ -15285,7 +15304,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/survive-the-game-2021-cz-titulky/19f231fdc665f9b9",
       "permanent": true,
       "failed_at": "2026-05-29T00:57:08Z"
+    },
+    {
+      "cr_film_id": 30975,
+      "upload_id": "cd870a9393d9fc45",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/seance-2021-en-cz-tit-mp4/cd870a9393d9fc45",
+      "permanent": true,
+      "failed_at": "2026-05-29T01:18:29Z"
     }
   ],
-  "last_updated": "2026-05-29T01:18:26Z"
+  "last_updated": "2026-05-29T01:19:26Z"
 }
