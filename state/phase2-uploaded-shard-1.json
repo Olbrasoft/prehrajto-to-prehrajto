@@ -17575,6 +17575,25 @@
         "download_sec": 34.5,
         "upload_sec": 41.9
       }
+    },
+    {
+      "cr_film_id": 14163,
+      "cr_slug": "the-stylist",
+      "title": "The Stylist",
+      "year": 2020,
+      "display_name": "The Stylist (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6053883d100f8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25295223,
+      "size_bytes": 1370869716,
+      "uploaded_at": "2026-05-29T07:39:00Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 45.0,
+        "upload_sec": 47.6
+      }
     }
   ],
   "failed_attempts": [
@@ -17942,5 +17961,5 @@
       "failed_at": "2026-05-29T04:18:47Z"
     }
   ],
-  "last_updated": "2026-05-29T07:37:25Z"
+  "last_updated": "2026-05-29T07:39:00Z"
 }
