@@ -7876,3 +7876,14 @@
 [13:08:44]   upload done video_id=25299434 in 61.5s
 [13:08:46] film cr_film_id=4609 OK in 111.1s
 [13:08:46] batch-end ok=19 failed=1 dur=2085.2s avg/film=109.7s remaining=9161 eta_hours=279.2
+
+===== run 2026-05-29T13:19:07Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26639571168) =====
+[13:19:08] batch-start shard=1/2 count=20 backlog=10210 uploads=1049 failed_attempts=53
+[13:19:08] login
+[13:19:10] login done
+[13:19:10] iteration 1/20
+[13:19:10] film cr_film_id=16719 name='Bad Hair (2020) CZ Titulky' candidates=15
+[13:19:10]   candidate upload_id=689ab45f7d69f url=https://prehraj.to/bad-hair-2020-cz-tit/689ab45f7d69f
+[13:19:11]   resolved in 1.5s → 480p (https://pf-storage3.premiumcdn.net/143480789/dxosVDFYofdecJohWXIx7Fj6s72fWwimyCq…)
+[13:19:26]   downloaded 233.2 MB in 13.0s (17.9 MB/s)
+[13:19:43]   upload done video_id=25299549 in 17.0s
