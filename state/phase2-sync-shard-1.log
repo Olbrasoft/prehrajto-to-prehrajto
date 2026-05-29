@@ -9336,3 +9336,14 @@
 [21:25:49]   upload done video_id=25308053 in 39.8s
 [21:25:50] film cr_film_id=29769 OK in 78.7s
 [21:25:50] batch-end ok=20 failed=0 dur=2190.7s avg/film=109.5s remaining=8961 eta_hours=272.6
+
+===== run 2026-05-29T21:26:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26663009264) =====
+[21:26:16] batch-start shard=1/2 count=20 backlog=10210 uploads=1249 failed_attempts=53
+[21:26:16] login
+[21:26:18] login done
+[21:26:18] iteration 1/20
+[21:26:18] film cr_film_id=16589 name='After We Leave (2019) CZ Titulky' candidates=5
+[21:26:18]   candidate upload_id=5fa03f3b66d36 url=https://prehraj.to/after-we-leave-2019-cztitulky/5fa03f3b66d36
+[21:26:19]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/19674258/kMEhDPHrWum6c7BUdlI29HNbuvlF4mhWvFMP…)
+[21:27:38]   downloaded 1,687.1 MB in 76.9s (21.9 MB/s)
+[21:29:20]   upload done video_id=25308089 in 101.6s
