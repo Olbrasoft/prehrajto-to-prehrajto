@@ -24130,6 +24130,25 @@
         "download_sec": 63.8,
         "upload_sec": 81.4
       }
+    },
+    {
+      "cr_film_id": 20947,
+      "cr_slug": "vzplanuti",
+      "title": "Vzplanutí",
+      "year": 2018,
+      "display_name": "Vzplanutí (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5d88aa5ae84e8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25308625,
+      "size_bytes": 643225398,
+      "uploaded_at": "2026-05-29T22:18:19Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.1,
+        "upload_sec": 38.1
+      }
     }
   ],
   "failed_attempts": [
@@ -24525,5 +24544,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T22:17:14Z"
+  "last_updated": "2026-05-29T22:18:19Z"
 }
