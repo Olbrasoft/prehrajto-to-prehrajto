@@ -20539,6 +20539,25 @@
         "download_sec": 31.5,
         "upload_sec": 35.7
       }
+    },
+    {
+      "cr_film_id": 31074,
+      "cr_slug": "jsme-v-tom-spolecne",
+      "title": "Jsme v tom společně",
+      "year": 2020,
+      "display_name": "Jsme v tom společně (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "fd61c885e768a309",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25300788,
+      "size_bytes": 1596858433,
+      "uploaded_at": "2026-05-29T14:27:32Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 60.2,
+        "upload_sec": 67.6
+      }
     }
   ],
   "failed_attempts": [
@@ -20910,7 +20929,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neco-jako-bratri-2020-cz-titulky/3951181398359cb9",
       "permanent": true,
       "failed_at": "2026-05-29T13:08:56Z"
+    },
+    {
+      "cr_film_id": 30936,
+      "upload_id": "2b27e32efdf0c357",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/justice-league-dark-apokolips-war-2020-en-cz-tit-mp4/2b27e32efdf0c357",
+      "permanent": true,
+      "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T14:25:15Z"
+  "last_updated": "2026-05-29T14:27:32Z"
 }
