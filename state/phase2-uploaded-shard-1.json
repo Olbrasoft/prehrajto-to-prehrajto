@@ -18411,6 +18411,25 @@
         "download_sec": 30.3,
         "upload_sec": 42.6
       }
+    },
+    {
+      "cr_film_id": 17475,
+      "cr_slug": "ocas-tygra",
+      "title": "Ocas tygra",
+      "year": 2020,
+      "display_name": "Ocas tygra (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e9b82d32fcfd",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25297194,
+      "size_bytes": 306309320,
+      "uploaded_at": "2026-05-29T09:59:29Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.8,
+        "upload_sec": 20.5
+      }
     }
   ],
   "failed_attempts": [
@@ -18785,5 +18804,5 @@
       "failed_at": "2026-05-29T08:45:07Z"
     }
   ],
-  "last_updated": "2026-05-29T09:58:45Z"
+  "last_updated": "2026-05-29T09:59:29Z"
 }
