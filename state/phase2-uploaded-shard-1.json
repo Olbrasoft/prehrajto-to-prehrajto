@@ -21394,6 +21394,25 @@
         "download_sec": 82.2,
         "upload_sec": 123.5
       }
+    },
+    {
+      "cr_film_id": 31025,
+      "cr_slug": "rozhodujici-utkani",
+      "title": "Rozhodující utkání",
+      "year": 2019,
+      "display_name": "Rozhodující utkání (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "2c957ef88d3593e4",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25304100,
+      "size_bytes": 2087836416,
+      "uploaded_at": "2026-05-29T16:31:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 89.8,
+        "upload_sec": 100.7
+      }
     }
   ],
   "failed_attempts": [
@@ -21789,5 +21808,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T16:27:57Z"
+  "last_updated": "2026-05-29T16:31:12Z"
 }
