@@ -15542,6 +15542,25 @@
         "download_sec": 168.5,
         "upload_sec": 53.7
       }
+    },
+    {
+      "cr_film_id": 31158,
+      "cr_slug": "trigger-point",
+      "title": "Trigger Point",
+      "year": 2021,
+      "display_name": "Trigger Point (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63ba443dcbf69",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25291350,
+      "size_bytes": 1073853906,
+      "uploaded_at": "2026-05-29T02:55:35Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 45.3,
+        "upload_sec": 65.8
+      }
     }
   ],
   "failed_attempts": [
@@ -15887,5 +15906,5 @@
       "failed_at": "2026-05-29T00:57:07Z"
     }
   ],
-  "last_updated": "2026-05-29T02:53:39Z"
+  "last_updated": "2026-05-29T02:55:35Z"
 }
