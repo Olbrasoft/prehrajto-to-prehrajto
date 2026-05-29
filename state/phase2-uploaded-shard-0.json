@@ -17594,6 +17594,25 @@
         "download_sec": 28.6,
         "upload_sec": 31.6
       }
+    },
+    {
+      "cr_film_id": 26738,
+      "cr_slug": "doors",
+      "title": "Doors",
+      "year": 2021,
+      "display_name": "Doors (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60d08f59397bd",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25295417,
+      "size_bytes": 409553853,
+      "uploaded_at": "2026-05-29T07:50:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.9,
+        "upload_sec": 23.9
+      }
     }
   ],
   "failed_attempts": [
@@ -17953,5 +17972,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T07:49:14Z"
+  "last_updated": "2026-05-29T07:50:04Z"
 }
