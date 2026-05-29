@@ -23598,6 +23598,25 @@
         "download_sec": 58.2,
         "upload_sec": 72.6
       }
+    },
+    {
+      "cr_film_id": 30669,
+      "cr_slug": "atlantique",
+      "title": "Atlantique",
+      "year": 2019,
+      "display_name": "Atlantique (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5de42d4123496",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25307975,
+      "size_bytes": 1035375822,
+      "uploaded_at": "2026-05-29T21:17:47Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 36.7,
+        "upload_sec": 46.0
+      }
     }
   ],
   "failed_attempts": [
@@ -23993,5 +24012,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T21:16:21Z"
+  "last_updated": "2026-05-29T21:17:47Z"
 }
