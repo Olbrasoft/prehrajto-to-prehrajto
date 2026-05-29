@@ -23446,6 +23446,25 @@
         "download_sec": 91.0,
         "upload_sec": 125.4
       }
+    },
+    {
+      "cr_film_id": 14206,
+      "cr_slug": "meander",
+      "title": "Meander",
+      "year": 2019,
+      "display_name": "Meander (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60deb88e7edd2",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25307766,
+      "size_bytes": 1529239298,
+      "uploaded_at": "2026-05-29T21:00:03Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 44.6,
+        "upload_sec": 53.0
+      }
     }
   ],
   "failed_attempts": [
@@ -23840,5 +23859,5 @@
       "failed_at": "2026-05-29T20:34:16Z"
     }
   ],
-  "last_updated": "2026-05-29T20:58:22Z"
+  "last_updated": "2026-05-29T21:00:03Z"
 }
