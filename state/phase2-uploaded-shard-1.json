@@ -14478,6 +14478,25 @@
         "download_sec": 75.4,
         "upload_sec": 90.4
       }
+    },
+    {
+      "cr_film_id": 31165,
+      "cr_slug": "the-spore",
+      "title": "The Spore",
+      "year": 2021,
+      "display_name": "The Spore (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "69061abb67b4a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25288919,
+      "size_bytes": 688708484,
+      "uploaded_at": "2026-05-29T00:15:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 35.6,
+        "upload_sec": 42.6
+      }
     }
   ],
   "failed_attempts": [
@@ -14805,5 +14824,5 @@
       "failed_at": "2026-05-28T21:52:41Z"
     }
   ],
-  "last_updated": "2026-05-29T00:13:37Z"
+  "last_updated": "2026-05-29T00:15:00Z"
 }
