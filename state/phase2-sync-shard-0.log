@@ -7754,3 +7754,14 @@
 [12:33:34]   upload done video_id=25299072 in 31.1s
 [12:33:35] film cr_film_id=29686 OK in 56.4s
 [12:33:35] batch-end ok=20 failed=0 dur=2277.5s avg/film=113.9s remaining=9176 eta_hours=290.3
+
+===== run 2026-05-29T12:34:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26637471936) =====
+[12:34:02] batch-start shard=0/2 count=20 backlog=10210 uploads=1034 failed_attempts=51
+[12:34:02] login
+[12:34:03] login done
+[12:34:03] iteration 1/20
+[12:34:03] film cr_film_id=4634 name='Půjčovna masa: Nové pouzdro (2020) CZ Titulky' candidates=2
+[12:34:03]   candidate upload_id=5e738e0a785b5 url=https://prehraj.to/pujcovna-masa-nove-pouzdro-animovane-sci-fi-japonsko-2020-1080p-5-1-x264-s-cztitulky-sten-ok/5e738e0a785b5
+[12:34:04]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/16039390/gzGSMbUemcJYubluMRIkYUQwCQGhnzfNEubP…)
+[12:35:41]   downloaded 2,223.1 MB in 94.8s (23.5 MB/s)
+[12:37:50]   upload done video_id=25299103 in 128.6s
