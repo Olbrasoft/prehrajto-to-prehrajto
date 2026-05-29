@@ -6154,3 +6154,14 @@
 [02:49:26]   upload done video_id=25291261 in 67.3s
 [02:49:27] film cr_film_id=9980 OK in 124.4s
 [02:49:27] batch-end ok=20 failed=0 dur=3963.3s avg/film=198.2s remaining=9393 eta_hours=517.1
+
+===== run 2026-05-29T02:49:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26614989220) =====
+[02:49:52] batch-start shard=0/2 count=20 backlog=10210 uploads=817 failed_attempts=48
+[02:49:52] login
+[02:49:54] login done
+[02:49:54] iteration 1/20
+[02:49:54] film cr_film_id=29052 name='Trust (2021) CZ Titulky' candidates=3
+[02:49:54]   candidate upload_id=60bfbaf3c78d2 url=https://prehraj.to/trust-2021-cztitulky/60bfbaf3c78d2
+[02:49:55]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/23817249/qq4fWPcxkiVMUxeI5GC93c2eHAYFrYUmwhl5…)
+[02:52:46]   downloaded 989.3 MB in 168.5s (5.9 MB/s)
+[02:53:39]   upload done video_id=25291331 in 53.7s
