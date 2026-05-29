@@ -8168,3 +8168,14 @@
 [15:03:01]   upload done video_id=25303233 in 66.5s
 [15:03:03] film cr_film_id=30971 OK in 128.4s
 [15:03:03] batch-end ok=20 failed=0 dur=3250.0s avg/film=162.5s remaining=9121 eta_hours=411.7
+
+===== run 2026-05-29T15:03:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26644885296) =====
+[15:03:36] batch-start shard=1/2 count=20 backlog=10210 uploads=1089 failed_attempts=53
+[15:03:36] login
+[15:03:37] login done
+[15:03:37] iteration 1/20
+[15:03:37] film cr_film_id=30829 name='Untouchable (2019) CZ Titulky' candidates=1
+[15:03:37]   candidate upload_id=d48a20fd754281b3 url=https://prehraj.to/untouchable-2019-en-cz-tit/d48a20fd754281b3
+[15:03:39]   resolved in 1.3s → 1080p (https://pf-storage6.premiumcdn.net/169688761/oZWSwgU6MF5BcGbuy8s6wU1pSv9uG4uqvix…)
+[15:04:57]   downloaded 1,902.9 MB in 76.6s (24.8 MB/s)
+[15:06:32]   upload done video_id=25303253 in 95.0s
