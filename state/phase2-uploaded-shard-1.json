@@ -14459,6 +14459,25 @@
         "download_sec": 165.8,
         "upload_sec": 204.7
       }
+    },
+    {
+      "cr_film_id": 9081,
+      "cr_slug": "the-virtuoso",
+      "title": "The Virtuoso",
+      "year": 2021,
+      "display_name": "The Virtuoso (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60870b0c363a4",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25288864,
+      "size_bytes": 1578630181,
+      "uploaded_at": "2026-05-29T00:13:37Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 75.4,
+        "upload_sec": 90.4
+      }
     }
   ],
   "failed_attempts": [
@@ -14786,5 +14805,5 @@
       "failed_at": "2026-05-28T21:52:41Z"
     }
   ],
-  "last_updated": "2026-05-29T00:10:46Z"
+  "last_updated": "2026-05-29T00:13:37Z"
 }
