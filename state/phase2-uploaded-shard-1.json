@@ -21698,6 +21698,25 @@
         "download_sec": 22.1,
         "upload_sec": 27.0
       }
+    },
+    {
+      "cr_film_id": 17313,
+      "cr_slug": "posledni-leto",
+      "title": "Poslední léto",
+      "year": 2019,
+      "display_name": "Poslední léto (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5cd14212cd0de",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25304672,
+      "size_bytes": 2394809785,
+      "uploaded_at": "2026-05-29T17:09:01Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 111.2,
+        "upload_sec": 125.9
+      }
     }
   ],
   "failed_attempts": [
@@ -22093,5 +22112,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T17:04:59Z"
+  "last_updated": "2026-05-29T17:09:01Z"
 }
