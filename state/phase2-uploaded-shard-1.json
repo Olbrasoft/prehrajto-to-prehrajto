@@ -21983,6 +21983,25 @@
         "download_sec": 38.8,
         "upload_sec": 45.9
       }
+    },
+    {
+      "cr_film_id": 1317,
+      "cr_slug": "nas-pritel",
+      "title": "Náš přítel",
+      "year": 2019,
+      "display_name": "Náš přítel (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "61368079d932e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25305124,
+      "size_bytes": 1399106918,
+      "uploaded_at": "2026-05-29T17:40:23Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 61.9,
+        "upload_sec": 72.6
+      }
     }
   ],
   "failed_attempts": [
@@ -22378,5 +22397,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T17:38:03Z"
+  "last_updated": "2026-05-29T17:40:23Z"
 }
