@@ -14877,6 +14877,25 @@
         "download_sec": 70.9,
         "upload_sec": 81.9
       }
+    },
+    {
+      "cr_film_id": 31284,
+      "cr_slug": "blind-war",
+      "title": "Blind War",
+      "year": 2022,
+      "display_name": "Blind War (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "d84083b7bfc47479",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25289753,
+      "size_bytes": 1750526463,
+      "uploaded_at": "2026-05-29T01:06:30Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 76.2,
+        "upload_sec": 84.0
+      }
     }
   ],
   "failed_attempts": [
@@ -15222,5 +15241,5 @@
       "failed_at": "2026-05-29T00:57:07Z"
     }
   ],
-  "last_updated": "2026-05-29T01:03:45Z"
+  "last_updated": "2026-05-29T01:06:30Z"
 }
