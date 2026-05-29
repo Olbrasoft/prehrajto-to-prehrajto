@@ -23370,6 +23370,25 @@
         "download_sec": 161.0,
         "upload_sec": 194.8
       }
+    },
+    {
+      "cr_film_id": 30697,
+      "cr_slug": "bolden",
+      "title": "Bolden",
+      "year": 2019,
+      "display_name": "Bolden (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5d4d475147cfe",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25307730,
+      "size_bytes": 1179054715,
+      "uploaded_at": "2026-05-29T20:56:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 36.6,
+        "upload_sec": 43.9
+      }
     }
   ],
   "failed_attempts": [
@@ -23765,5 +23784,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T20:55:18Z"
+  "last_updated": "2026-05-29T20:56:50Z"
 }
