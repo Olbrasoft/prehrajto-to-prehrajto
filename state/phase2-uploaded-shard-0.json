@@ -22458,6 +22458,25 @@
         "download_sec": 41.1,
         "upload_sec": 76.9
       }
+    },
+    {
+      "cr_film_id": 6624,
+      "cr_slug": "the-kid",
+      "title": "The Kid",
+      "year": 2019,
+      "display_name": "The Kid (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5d5fdb8590e85",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25305864,
+      "size_bytes": 1416220302,
+      "uploaded_at": "2026-05-29T18:36:23Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 45.6,
+        "upload_sec": 51.4
+      }
     }
   ],
   "failed_attempts": [
@@ -22838,5 +22857,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T18:34:43Z"
+  "last_updated": "2026-05-29T18:36:23Z"
 }
