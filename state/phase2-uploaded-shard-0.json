@@ -21375,6 +21375,25 @@
         "download_sec": 59.8,
         "upload_sec": 80.5
       }
+    },
+    {
+      "cr_film_id": 19638,
+      "cr_slug": "breeder",
+      "title": "Breeder",
+      "year": 2020,
+      "display_name": "Breeder (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "61a590b51105f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25303908,
+      "size_bytes": 1264997769,
+      "uploaded_at": "2026-05-29T16:12:16Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 41.1,
+        "upload_sec": 50.3
+      }
     }
   ],
   "failed_attempts": [
@@ -21755,5 +21774,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T16:10:40Z"
+  "last_updated": "2026-05-29T16:12:16Z"
 }
