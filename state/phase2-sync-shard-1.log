@@ -9482,3 +9482,14 @@
 [22:09:00]   upload done video_id=25308553 in 72.0s
 [22:09:01] film cr_film_id=9553 OK in 142.5s
 [22:09:01] batch-end ok=20 failed=0 dur=2563.6s avg/film=128.2s remaining=8941 eta_hours=318.4
+
+===== run 2026-05-29T22:14:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26664926046) =====
+[22:14:44] batch-start shard=1/2 count=20 backlog=10210 uploads=1269 failed_attempts=53
+[22:14:44] login
+[22:14:46] login done
+[22:14:46] iteration 1/20
+[22:14:46] film cr_film_id=29797 name='Věřte mi: Únos Lisy McVeyové (2018) CZ Titulky' candidates=14
+[22:14:46]   candidate upload_id=6122293cc6270 url=https://prehraj.to/believe-me-the-abduction-of-lisa-mcvey-2018-1080p-webrip-x264-rarbg-cz-tit/6122293cc6270
+[22:14:47]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/24674447/JeEtrehXMslVuxMCndFR7h0rUNBFEbs31CYw…)
+[22:15:52]   downloaded 2,035.0 MB in 63.8s (31.9 MB/s)
+[22:17:14]   upload done video_id=25308615 in 81.4s
