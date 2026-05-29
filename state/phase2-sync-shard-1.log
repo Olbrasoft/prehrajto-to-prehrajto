@@ -6862,3 +6862,14 @@
 [07:19:31]   upload done video_id=25294999 in 68.9s
 [07:19:32] film cr_film_id=10221 OK in 138.0s
 [07:19:32] batch-end ok=20 failed=0 dur=3214.1s avg/film=160.7s remaining=9297 eta_hours=415.0
+
+===== run 2026-05-29T07:19:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26623922023) =====
+[07:19:55] batch-start shard=1/2 count=20 backlog=10210 uploads=913 failed_attempts=49
+[07:19:55] login
+[07:19:57] login done
+[07:19:57] iteration 1/20
+[07:19:57] film cr_film_id=31073 name='Urzila Carlson: Překvalifikovaná zoufalka (2020) CZ Titulky' candidates=1
+[07:19:57]   candidate upload_id=eeb974875b990f21 url=https://prehraj.to/jim-jefferies-intolerance-2020-cz-titulky-mp4/eeb974875b990f21
+[07:19:58]   resolved in 1.0s → 720p (https://pf-storage6.premiumcdn.net/169533895/Go8u38TqrtEMt72IrecBVTX9uWjSpZsBXHg…)
+[07:20:36]   downloaded 831.7 MB in 36.9s (22.5 MB/s)
+[07:21:07]   upload done video_id=25295034 in 30.2s
