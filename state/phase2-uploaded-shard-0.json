@@ -16283,6 +16283,25 @@
         "download_sec": 60.1,
         "upload_sec": 79.8
       }
+    },
+    {
+      "cr_film_id": 30896,
+      "cr_slug": "peter-tatchell-laska-a-nenavist",
+      "title": "Peter Tatchell: Láska a nenávist",
+      "year": 2021,
+      "display_name": "Peter Tatchell: Láska a nenávist (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "b78117eecc1e4b77",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25292817,
+      "size_bytes": 2392366279,
+      "uploaded_at": "2026-05-29T04:48:07Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 82.4,
+        "upload_sec": 107.8
+      }
     }
   ],
   "failed_attempts": [
@@ -16633,7 +16652,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scooby-doo-the-sword-and-the-scoob-2021-en-cz-tit-mp4/9af0353c1e7c8d69",
       "permanent": true,
       "failed_at": "2026-05-29T03:58:12Z"
+    },
+    {
+      "cr_film_id": 31196,
+      "upload_id": "bbac7be50a57387a",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/phil-wang-philly-philly-wang-wang-2021-cz-titulky-mp4/bbac7be50a57387a",
+      "permanent": true,
+      "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T04:44:46Z"
+  "last_updated": "2026-05-29T04:48:07Z"
 }
