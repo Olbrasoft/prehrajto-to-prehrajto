@@ -18259,6 +18259,25 @@
         "download_sec": 68.8,
         "upload_sec": 85.3
       }
+    },
+    {
+      "cr_film_id": 14310,
+      "cr_slug": "cas-lovit",
+      "title": "Čas lovit",
+      "year": 2020,
+      "display_name": "Čas lovit (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ea2f7df1e867",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25296518,
+      "size_bytes": 2417086608,
+      "uploaded_at": "2026-05-29T09:26:48Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 63.3,
+        "upload_sec": 85.5
+      }
     }
   ],
   "failed_attempts": [
@@ -18618,5 +18637,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T09:24:16Z"
+  "last_updated": "2026-05-29T09:26:48Z"
 }
