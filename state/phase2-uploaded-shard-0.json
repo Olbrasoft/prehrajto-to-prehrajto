@@ -21356,6 +21356,25 @@
         "download_sec": 5.7,
         "upload_sec": 7.0
       }
+    },
+    {
+      "cr_film_id": 26714,
+      "cr_slug": "bulbbul",
+      "title": "Bulbbul",
+      "year": 2020,
+      "display_name": "Bulbbul (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ef4e358c5605",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25303881,
+      "size_bytes": 1854748728,
+      "uploaded_at": "2026-05-29T16:10:40Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 59.8,
+        "upload_sec": 80.5
+      }
     }
   ],
   "failed_attempts": [
@@ -21736,5 +21755,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T16:08:17Z"
+  "last_updated": "2026-05-29T16:10:40Z"
 }
