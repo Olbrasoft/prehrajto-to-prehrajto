@@ -16530,6 +16530,25 @@
         "download_sec": 22.9,
         "upload_sec": 28.3
       }
+    },
+    {
+      "cr_film_id": 6573,
+      "cr_slug": "brouci-v-hlave",
+      "title": "Brouci v hlavě",
+      "year": 2021,
+      "display_name": "Brouci v hlavě (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "61b3b949e06d3",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25293131,
+      "size_bytes": 1535559187,
+      "uploaded_at": "2026-05-29T05:14:37Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 49.2,
+        "upload_sec": 64.0
+      }
     }
   ],
   "failed_attempts": [
@@ -16897,5 +16916,5 @@
       "failed_at": "2026-05-29T04:18:47Z"
     }
   ],
-  "last_updated": "2026-05-29T05:12:40Z"
+  "last_updated": "2026-05-29T05:14:37Z"
 }
