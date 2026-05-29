@@ -9496,3 +9496,14 @@
 [22:14:20]   upload done video_id=25308579 in 173.8s
 [22:14:22] film cr_film_id=2304 OK in 316.5s
 [22:14:22] batch-end ok=19 failed=1 dur=2881.9s avg/film=151.7s remaining=8941 eta_hours=376.8
+
+===== run 2026-05-29T22:14:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26664926046) =====
+[22:14:47] batch-start shard=0/2 count=20 backlog=10210 uploads=1269 failed_attempts=56
+[22:14:47] login
+[22:14:49] login done
+[22:14:49] iteration 1/20
+[22:14:49] film cr_film_id=21048 name='Hello World (2019) CZ Titulky' candidates=2
+[22:14:49]   candidate upload_id=5fe4b09f80e8f url=https://prehraj.to/hello-world-2019-cztitulky/5fe4b09f80e8f
+[22:14:50]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/21003360/D3ZTRkSm4C8wijXFgqUZvSJzUW4teXFrqTOB…)
+[22:16:12]   downloaded 2,483.5 MB in 80.8s (30.7 MB/s)
+[22:18:00]   upload done video_id=25308619 in 108.0s
