@@ -22933,6 +22933,25 @@
         "download_sec": 38.0,
         "upload_sec": 41.9
       }
+    },
+    {
+      "cr_film_id": 6943,
+      "cr_slug": "eli",
+      "title": "Eli",
+      "year": 2019,
+      "display_name": "Eli (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "64b2302b2c260",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25306690,
+      "size_bytes": 1730797991,
+      "uploaded_at": "2026-05-29T19:39:36Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 46.6,
+        "upload_sec": 61.0
+      }
     }
   ],
   "failed_attempts": [
@@ -23328,5 +23347,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T19:37:44Z"
+  "last_updated": "2026-05-29T19:39:36Z"
 }
