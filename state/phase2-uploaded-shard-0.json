@@ -18962,6 +18962,25 @@
         "download_sec": 89.1,
         "upload_sec": 111.9
       }
+    },
+    {
+      "cr_film_id": 14340,
+      "cr_slug": "the-priest",
+      "title": "The Priest",
+      "year": 2020,
+      "display_name": "The Priest (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "e12a84683e09677c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25298239,
+      "size_bytes": 1109422718,
+      "uploaded_at": "2026-05-29T11:18:58Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 59.9,
+        "upload_sec": 68.4
+      }
     }
   ],
   "failed_attempts": [
@@ -19321,5 +19340,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T11:16:45Z"
+  "last_updated": "2026-05-29T11:18:58Z"
 }
