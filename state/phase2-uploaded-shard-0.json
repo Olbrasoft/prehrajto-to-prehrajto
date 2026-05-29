@@ -20121,6 +20121,25 @@
         "download_sec": 75.3,
         "upload_sec": 82.5
       }
+    },
+    {
+      "cr_film_id": 7252,
+      "cr_slug": "masa",
+      "title": "Máša",
+      "year": 2020,
+      "display_name": "Máša (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "fb8f82fa829d6943",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25299706,
+      "size_bytes": 988318562,
+      "uploaded_at": "2026-05-29T13:34:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.4,
+        "upload_sec": 40.3
+      }
     }
   ],
   "failed_attempts": [
@@ -20494,5 +20513,5 @@
       "failed_at": "2026-05-29T13:08:56Z"
     }
   ],
-  "last_updated": "2026-05-29T13:32:43Z"
+  "last_updated": "2026-05-29T13:34:02Z"
 }
