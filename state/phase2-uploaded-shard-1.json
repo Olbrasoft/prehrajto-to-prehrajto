@@ -14820,6 +14820,25 @@
         "download_sec": 69.4,
         "upload_sec": 80.3
       }
+    },
+    {
+      "cr_film_id": 33961,
+      "cr_slug": "strasidlo",
+      "title": "Strašidlo",
+      "year": 2021,
+      "display_name": "Strašidlo (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "622d2245b4894",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25289703,
+      "size_bytes": 1135709404,
+      "uploaded_at": "2026-05-29T01:02:56Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 55.3,
+        "upload_sec": 65.3
+      }
     }
   ],
   "failed_attempts": [
@@ -15154,5 +15173,5 @@
       "failed_at": "2026-05-29T00:57:08Z"
     }
   ],
-  "last_updated": "2026-05-29T01:00:51Z"
+  "last_updated": "2026-05-29T01:02:56Z"
 }
