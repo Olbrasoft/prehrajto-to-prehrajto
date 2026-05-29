@@ -8606,3 +8606,14 @@
 [17:23:28]   upload done video_id=25304849 in 65.0s
 [17:23:29] film cr_film_id=29673 OK in 128.2s
 [17:23:29] batch-end ok=20 failed=0 dur=2911.6s avg/film=145.6s remaining=9061 eta_hours=366.5
+
+===== run 2026-05-29T17:23:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26651844132) =====
+[17:24:00] batch-start shard=1/2 count=20 backlog=10210 uploads=1149 failed_attempts=53
+[17:24:00] login
+[17:24:01] login done
+[17:24:01] iteration 1/20
+[17:24:01] film cr_film_id=19313 name='Pardon, nezastihli jsme vás (2019) CZ Titulky' candidates=2
+[17:24:01]   candidate upload_id=5e5644bf9e69c url=https://prehraj.to/pardon-nezastihli-jsme-vas-drama-2019-720p-bluray-h264-s-cztitulky-78-sten-ok/5e5644bf9e69c
+[17:24:04]   resolved in 2.2s → 480p (https://pf-storage5.premiumcdn.net/15914902/6enuNBFybUNQsQ5CaYSlbFr7hnpsAQueZiNP…)
+[17:24:38]   downloaded 676.1 MB in 32.0s (21.1 MB/s)
+[17:25:12]   upload done video_id=25304869 in 34.5s
