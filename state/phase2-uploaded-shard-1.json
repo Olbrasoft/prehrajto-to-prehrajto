@@ -21584,6 +21584,25 @@
         "download_sec": 55.5,
         "upload_sec": 68.3
       }
+    },
+    {
+      "cr_film_id": 36795,
+      "cr_slug": "prvni-zradce",
+      "title": "První zrádce",
+      "year": 2019,
+      "display_name": "První zrádce (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "0c7c306bdf15ae52",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25304498,
+      "size_bytes": 992129283,
+      "uploaded_at": "2026-05-29T16:55:47Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 44.1,
+        "upload_sec": 56.9
+      }
     }
   ],
   "failed_attempts": [
@@ -21979,5 +21998,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T16:54:01Z"
+  "last_updated": "2026-05-29T16:55:47Z"
 }
