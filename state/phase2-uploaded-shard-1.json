@@ -24358,6 +24358,25 @@
         "download_sec": 15.0,
         "upload_sec": 15.8
       }
+    },
+    {
+      "cr_film_id": 35241,
+      "cr_slug": "the-wind",
+      "title": "The Wind",
+      "year": 2018,
+      "display_name": "The Wind (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5cdf447db8faa",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25308759,
+      "size_bytes": 1040524705,
+      "uploaded_at": "2026-05-29T22:34:30Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 37.7,
+        "upload_sec": 38.6
+      }
     }
   ],
   "failed_attempts": [
@@ -24753,5 +24772,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T22:33:10Z"
+  "last_updated": "2026-05-29T22:34:30Z"
 }
