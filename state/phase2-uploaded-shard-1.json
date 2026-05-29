@@ -23066,6 +23066,25 @@
         "download_sec": 74.8,
         "upload_sec": 92.1
       }
+    },
+    {
+      "cr_film_id": 26373,
+      "cr_slug": "detention-2019",
+      "title": "Detention",
+      "year": 2019,
+      "display_name": "Detention (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f1aa9ae12f1b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25307055,
+      "size_bytes": 686255826,
+      "uploaded_at": "2026-05-29T20:09:17Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 35.6,
+        "upload_sec": 41.9
+      }
     }
   ],
   "failed_attempts": [
@@ -23461,5 +23480,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T20:07:55Z"
+  "last_updated": "2026-05-29T20:09:17Z"
 }
