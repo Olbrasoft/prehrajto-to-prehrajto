@@ -7464,3 +7464,14 @@
 [10:45:43]   upload done video_id=25297948 in 37.0s
 [10:45:44] film cr_film_id=7282 OK in 74.4s
 [10:45:44] batch-end ok=20 failed=0 dur=2439.8s avg/film=122.0s remaining=9215 eta_hours=312.3
+
+===== run 2026-05-29T11:06:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26633738262) =====
+[11:06:32] batch-start shard=0/2 count=20 backlog=10210 uploads=995 failed_attempts=50
+[11:06:32] login
+[11:06:33] login done
+[11:06:33] iteration 1/20
+[11:06:33] film cr_film_id=9218 name='The Reckoning (2020) CZ Titulky' candidates=12
+[11:06:33]   candidate upload_id=60243ac5d18cc url=https://prehraj.to/the-reckoning-horor-2020-1080p-web-5-1-h264-s-cztitulky-44-sten-ok/60243ac5d18cc
+[11:06:35]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/22120899/mDyi9jU56uXDSYQUApfA7UODi4PfrAtmKHgD…)
+[11:07:56]   downloaded 1,574.2 MB in 78.6s (20.0 MB/s)
+[11:09:33]   upload done video_id=25298146 in 97.1s
