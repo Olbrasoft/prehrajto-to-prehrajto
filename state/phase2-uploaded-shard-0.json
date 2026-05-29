@@ -16112,6 +16112,25 @@
         "download_sec": 42.0,
         "upload_sec": 47.4
       }
+    },
+    {
+      "cr_film_id": 31204,
+      "cr_slug": "procesi",
+      "title": "Procesí",
+      "year": 2021,
+      "display_name": "Procesí (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "ac4deb4e49b954c5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25292478,
+      "size_bytes": 434680454,
+      "uploaded_at": "2026-05-29T04:11:49Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.7,
+        "upload_sec": 17.3
+      }
     }
   ],
   "failed_attempts": [
@@ -16464,5 +16483,5 @@
       "failed_at": "2026-05-29T03:58:12Z"
     }
   ],
-  "last_updated": "2026-05-29T04:11:13Z"
+  "last_updated": "2026-05-29T04:11:49Z"
 }
