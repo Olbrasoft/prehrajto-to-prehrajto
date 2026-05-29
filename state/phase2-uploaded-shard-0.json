@@ -15466,6 +15466,25 @@
         "download_sec": 88.9,
         "upload_sec": 105.8
       }
+    },
+    {
+      "cr_film_id": 5446,
+      "cr_slug": "v-oblezeni-2021",
+      "title": "V obležení",
+      "year": 2021,
+      "display_name": "V obležení (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "616d9c3581545",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25291177,
+      "size_bytes": 1649970631,
+      "uploaded_at": "2026-05-29T02:43:33Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 65.2,
+        "upload_sec": 84.0
+      }
     }
   ],
   "failed_attempts": [
@@ -15811,5 +15830,5 @@
       "failed_at": "2026-05-29T00:57:07Z"
     }
   ],
-  "last_updated": "2026-05-29T02:40:59Z"
+  "last_updated": "2026-05-29T02:43:33Z"
 }
