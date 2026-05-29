@@ -19950,6 +19950,25 @@
         "download_sec": 37.2,
         "upload_sec": 45.6
       }
+    },
+    {
+      "cr_film_id": 1120,
+      "cr_slug": "nikam-zvlast",
+      "title": "Nikam zvlášť",
+      "year": 2020,
+      "display_name": "Nikam zvlášť (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "618ae164e629d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25299499,
+      "size_bytes": 1283541271,
+      "uploaded_at": "2026-05-29T13:14:58Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 55.5,
+        "upload_sec": 64.9
+      }
     }
   ],
   "failed_attempts": [
@@ -20323,5 +20342,5 @@
       "failed_at": "2026-05-29T13:08:56Z"
     }
   ],
-  "last_updated": "2026-05-29T13:12:53Z"
+  "last_updated": "2026-05-29T13:14:58Z"
 }
