@@ -9044,3 +9044,14 @@
 [19:41:36]   upload done video_id=25306712 in 56.9s
 [19:41:37] film cr_film_id=29583 OK in 119.3s
 [19:41:37] batch-end ok=20 failed=0 dur=1912.7s avg/film=95.6s remaining=9001 eta_hours=239.0
+
+===== run 2026-05-29T19:56:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26659090940) =====
+[19:56:51] batch-start shard=1/2 count=20 backlog=10210 uploads=1209 failed_attempts=53
+[19:56:51] login
+[19:56:52] login done
+[19:56:52] iteration 1/20
+[19:56:52] film cr_film_id=30925 name='Druhý život, jedna láska (2019) CZ Titulky' candidates=2
+[19:56:52]   candidate upload_id=5e15c90caa638 url=https://prehraj.to/druhy-zivot-jedna-laska-drama-spanelsko-2019-1080p-5-1-h264-s-cztitulky-sten-ok/5e15c90caa638
+[19:56:54]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/15621310/9G3s1Of4JT7zupVtLAhdzf9ahd6CNduqbirR…)
+[19:58:04]   downloaded 1,059.6 MB in 68.6s (15.4 MB/s)
+[19:59:12]   upload done video_id=25306937 in 67.5s
