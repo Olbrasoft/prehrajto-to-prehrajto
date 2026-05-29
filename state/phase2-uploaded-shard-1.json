@@ -24738,6 +24738,25 @@
         "download_sec": 42.0,
         "upload_sec": 90.2
       }
+    },
+    {
+      "cr_film_id": 33279,
+      "cr_slug": "the-ashram",
+      "title": "The Ashram",
+      "year": 2018,
+      "display_name": "The Ashram (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5acd3377278be",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25309196,
+      "size_bytes": 383022554,
+      "uploaded_at": "2026-05-29T23:14:54Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 14.6,
+        "upload_sec": 20.3
+      }
     }
   ],
   "failed_attempts": [
@@ -25133,5 +25152,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T23:14:16Z"
+  "last_updated": "2026-05-29T23:14:54Z"
 }
