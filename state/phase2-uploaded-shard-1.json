@@ -20007,6 +20007,25 @@
         "download_sec": 51.8,
         "upload_sec": 66.6
       }
+    },
+    {
+      "cr_film_id": 31019,
+      "cr_slug": "american-utopia",
+      "title": "American Utopia",
+      "year": 2020,
+      "display_name": "American Utopia (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fd2b092057db",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25299657,
+      "size_bytes": 1839591316,
+      "uploaded_at": "2026-05-29T13:31:16Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 144.3,
+        "upload_sec": 106.0
+      }
     }
   ],
   "failed_attempts": [
@@ -20402,5 +20421,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T13:27:01Z"
+  "last_updated": "2026-05-29T13:31:16Z"
 }
