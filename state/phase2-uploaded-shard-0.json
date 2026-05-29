@@ -17499,6 +17499,25 @@
         "download_sec": 137.6,
         "upload_sec": 138.2
       }
+    },
+    {
+      "cr_film_id": 31030,
+      "cr_slug": "el-ascensor",
+      "title": "El ascensor",
+      "year": 2021,
+      "display_name": "El ascensor (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6462e5b7c4ec4",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25295225,
+      "size_bytes": 665118391,
+      "uploaded_at": "2026-05-29T07:38:56Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 33.3,
+        "upload_sec": 39.0
+      }
     }
   ],
   "failed_attempts": [
@@ -17858,5 +17877,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T07:37:39Z"
+  "last_updated": "2026-05-29T07:38:56Z"
 }
