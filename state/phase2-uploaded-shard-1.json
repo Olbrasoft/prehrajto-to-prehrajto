@@ -14649,6 +14649,25 @@
         "download_sec": 50.5,
         "upload_sec": 73.6
       }
+    },
+    {
+      "cr_film_id": 21043,
+      "cr_slug": "the-djinn",
+      "title": "The Djinn",
+      "year": 2021,
+      "display_name": "The Djinn (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "609fa26762568",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25289283,
+      "size_bytes": 843906953,
+      "uploaded_at": "2026-05-29T00:35:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 41.0,
+        "upload_sec": 48.2
+      }
     }
   ],
   "failed_attempts": [
@@ -14976,5 +14995,5 @@
       "failed_at": "2026-05-28T21:52:41Z"
     }
   ],
-  "last_updated": "2026-05-29T00:33:46Z"
+  "last_updated": "2026-05-29T00:35:20Z"
 }
