@@ -6444,3 +6444,14 @@
 [04:25:36]   upload done video_id=25292580 in 40.1s
 [04:25:37] film cr_film_id=15004 OK in 73.9s
 [04:25:37] batch-end ok=19 failed=1 dur=2144.4s avg/film=112.9s remaining=9354 eta_hours=293.4
+
+===== run 2026-05-29T04:42:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26618413246) =====
+[04:42:20] batch-start shard=0/2 count=20 backlog=10210 uploads=856 failed_attempts=49
+[04:42:20] login
+[04:42:23] login done
+[04:42:23] iteration 1/20
+[04:42:23] film cr_film_id=14182 name='Pirátská vysílání (2021) CZ Titulky' candidates=1
+[04:42:23]   candidate upload_id=61d375c225758 url=https://prehraj.to/piratska-vysilani-2021-cztitulky/61d375c225758
+[04:42:24]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/28039239/MeNcVkI7yhJVUg1IYdUbZI5nUNLTvdh19H4r…)
+[04:43:26]   downloaded 1,470.4 MB in 60.1s (24.5 MB/s)
+[04:44:46]   upload done video_id=25292777 in 79.8s
