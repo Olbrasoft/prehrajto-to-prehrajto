@@ -6424,3 +6424,14 @@
 [04:41:53]   upload done video_id=25292732 in 105.5s
 [04:41:54] film cr_film_id=29783 OK in 210.7s
 [04:41:54] batch-end ok=19 failed=1 dur=3117.4s avg/film=164.1s remaining=9357 eta_hours=426.5
+
+===== run 2026-05-29T04:42:18Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26618413246) =====
+[04:42:19] batch-start shard=1/2 count=20 backlog=10210 uploads=853 failed_attempts=49
+[04:42:19] login
+[04:42:21] login done
+[04:42:21] iteration 1/20
+[04:42:21] film cr_film_id=33835 name='Dávné rituály (2021) CZ Titulky' candidates=2
+[04:42:21]   candidate upload_id=6127f69792629 url=https://prehraj.to/the-old-ways-2020-1080p-nf-web-dl-ddp5-1-cz-titulky/6127f69792629
+[04:42:22]   resolved in 1.6s → 1080p (https://pf-storage1.premiumcdn.net/24725606/MJgivWf8jHJlcoxF8NUZXfqOFxXt6vhbATOx…)
+[04:43:15]   downloaded 1,594.9 MB in 51.4s (31.0 MB/s)
+[04:44:24]   upload done video_id=25292776 in 69.0s
