@@ -24301,6 +24301,25 @@
         "download_sec": 40.5,
         "upload_sec": 51.2
       }
+    },
+    {
+      "cr_film_id": 30779,
+      "cr_slug": "tkanicky",
+      "title": "Tkaničky",
+      "year": 2018,
+      "display_name": "Tkaničky (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "a7003e54a550c881",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25308730,
+      "size_bytes": 1491487388,
+      "uploaded_at": "2026-05-29T22:31:56Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 53.9,
+        "upload_sec": 60.6
+      }
     }
   ],
   "failed_attempts": [
@@ -24696,5 +24715,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T22:29:57Z"
+  "last_updated": "2026-05-29T22:31:56Z"
 }
