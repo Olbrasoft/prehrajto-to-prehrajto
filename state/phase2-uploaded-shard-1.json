@@ -16131,6 +16131,25 @@
         "download_sec": 43.6,
         "upload_sec": 49.5
       }
+    },
+    {
+      "cr_film_id": 2575,
+      "cr_slug": "finch",
+      "title": "Finch",
+      "year": 2021,
+      "display_name": "Finch (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "689c525bc7d2f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25292663,
+      "size_bytes": 2045753857,
+      "uploaded_at": "2026-05-29T04:34:48Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 79.3,
+        "upload_sec": 110.5
+      }
     }
   ],
   "failed_attempts": [
@@ -16498,5 +16517,5 @@
       "failed_at": "2026-05-29T04:18:47Z"
     }
   ],
-  "last_updated": "2026-05-29T04:31:33Z"
+  "last_updated": "2026-05-29T04:34:48Z"
 }
