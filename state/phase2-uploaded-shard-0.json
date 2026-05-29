@@ -18734,6 +18734,25 @@
         "download_sec": 75.1,
         "upload_sec": 104.9
       }
+    },
+    {
+      "cr_film_id": 14128,
+      "cr_slug": "ultras",
+      "title": "Ultras",
+      "year": 2020,
+      "display_name": "Ultras (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e75e1186c01c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25297833,
+      "size_bytes": 2551814423,
+      "uploaded_at": "2026-05-29T10:32:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 81.4,
+        "upload_sec": 93.8
+      }
     }
   ],
   "failed_attempts": [
@@ -19093,5 +19112,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T10:29:01Z"
+  "last_updated": "2026-05-29T10:32:00Z"
 }
