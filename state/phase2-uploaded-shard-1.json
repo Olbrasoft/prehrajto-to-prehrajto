@@ -14782,6 +14782,25 @@
         "download_sec": 59.0,
         "upload_sec": 71.8
       }
+    },
+    {
+      "cr_film_id": 31181,
+      "cr_slug": "superpriserky-bylo-nebylo",
+      "title": "Superpříšerky: Bylo nebylo",
+      "year": 2021,
+      "display_name": "Superpříšerky: Bylo nebylo (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "c6b9207046d5d223",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25289639,
+      "size_bytes": 542073371,
+      "uploaded_at": "2026-05-29T00:58:16Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 28.0,
+        "upload_sec": 31.7
+      }
     }
   ],
   "failed_attempts": [
@@ -15107,7 +15126,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blowback-2022-cz-titulky/76b7bd494a6b8085",
       "permanent": true,
       "failed_at": "2026-05-28T21:52:41Z"
+    },
+    {
+      "cr_film_id": 14477,
+      "upload_id": "19f231fdc665f9b9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/survive-the-game-2021-cz-titulky/19f231fdc665f9b9",
+      "permanent": true,
+      "failed_at": "2026-05-29T00:57:08Z"
     }
   ],
-  "last_updated": "2026-05-29T00:57:06Z"
+  "last_updated": "2026-05-29T00:58:16Z"
 }
