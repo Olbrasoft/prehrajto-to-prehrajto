@@ -24244,6 +24244,25 @@
         "download_sec": 15.7,
         "upload_sec": 19.1
       }
+    },
+    {
+      "cr_film_id": 949,
+      "cr_slug": "tisnove-volani",
+      "title": "Tísňové volání",
+      "year": 2018,
+      "display_name": "Tísňové volání (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5c5c0494ec8e8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25308697,
+      "size_bytes": 953023851,
+      "uploaded_at": "2026-05-29T22:27:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 34.5,
+        "upload_sec": 45.0
+      }
     }
   ],
   "failed_attempts": [
@@ -24639,5 +24658,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T22:26:03Z"
+  "last_updated": "2026-05-29T22:27:27Z"
 }
