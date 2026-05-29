@@ -15105,6 +15105,25 @@
         "download_sec": 95.5,
         "upload_sec": 113.1
       }
+    },
+    {
+      "cr_film_id": 26603,
+      "cr_slug": "psanci",
+      "title": "Psanci",
+      "year": 2021,
+      "display_name": "Psanci (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "619d625cc3f7c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25290427,
+      "size_bytes": 2421387428,
+      "uploaded_at": "2026-05-29T01:47:02Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 92.2,
+        "upload_sec": 122.6
+      }
     }
   ],
   "failed_attempts": [
@@ -15446,5 +15465,5 @@
       "failed_at": "2026-05-29T01:18:29Z"
     }
   ],
-  "last_updated": "2026-05-29T01:37:51Z"
+  "last_updated": "2026-05-29T01:47:02Z"
 }

@@ -5986,3 +5986,14 @@
 [01:37:51]   upload done video_id=25290324 in 113.1s
 [01:37:52] film cr_film_id=27463 OK in 213.4s
 [01:37:52] batch-end ok=19 failed=1 dur=2770.8s avg/film=145.8s remaining=9415 eta_hours=381.3
+
+===== run 2026-05-29T01:43:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26612935996) =====
+[01:43:22] batch-start shard=1/2 count=20 backlog=10210 uploads=795 failed_attempts=46
+[01:43:22] login
+[01:43:24] login done
+[01:43:24] iteration 1/20
+[01:43:24] film cr_film_id=26603 name='Psanci (2021) CZ Titulky' candidates=1
+[01:43:24]   candidate upload_id=619d625cc3f7c url=https://prehraj.to/psanci-2021-cztitulky/619d625cc3f7c
+[01:43:25]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/26771392/zadcY1UA6SnOtdAI6at57UbLHp0IgMTqwF1r…)
+[01:45:00]   downloaded 2,421.4 MB in 92.2s (26.3 MB/s)
+[01:47:02]   upload done video_id=25290427 in 122.6s
