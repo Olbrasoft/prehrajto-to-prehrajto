@@ -17556,6 +17556,25 @@
         "download_sec": 36.0,
         "upload_sec": 43.3
       }
+    },
+    {
+      "cr_film_id": 18108,
+      "cr_slug": "drive-my-car",
+      "title": "Drive My Car",
+      "year": 2021,
+      "display_name": "Drive My Car (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "61e7072a7af46",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25295367,
+      "size_bytes": 3591945257,
+      "uploaded_at": "2026-05-29T07:48:09Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 142.1,
+        "upload_sec": 192.5
+      }
     }
   ],
   "failed_attempts": [
@@ -17915,5 +17934,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T07:42:30Z"
+  "last_updated": "2026-05-29T07:48:09Z"
 }
