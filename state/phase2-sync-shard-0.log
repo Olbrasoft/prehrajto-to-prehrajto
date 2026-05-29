@@ -8772,3 +8772,14 @@
 [18:16:51]   upload done video_id=25305588 in 83.8s
 [18:16:53] film cr_film_id=30712 OK in 155.3s
 [18:16:53] batch-end ok=20 failed=0 dur=3172.2s avg/film=158.6s remaining=9038 eta_hours=398.2
+
+===== run 2026-05-29T18:17:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26654377468) =====
+[18:17:23] batch-start shard=0/2 count=20 backlog=10210 uploads=1172 failed_attempts=53
+[18:17:23] login
+[18:17:24] login done
+[18:17:24] iteration 1/20
+[18:17:24] film cr_film_id=152 name='Uri: The Surgical Strike (2019) CZ Titulky' candidates=3
+[18:17:24]   candidate upload_id=5d5820e1a5981 url=https://prehraj.to/uri-the-surgical-strike-akcni-drama-indie-2019-1080p-2-0-x264-s-cztitulky-65-sten-ok/5d5820e1a5981
+[18:17:25]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/14632212/WXGH3ViVehjBFX8TeaTBxiOVc0vh86c5xcXy…)
+[18:18:33]   downloaded 2,116.8 MB in 66.5s (31.8 MB/s)
+[18:19:58]   upload done video_id=25305626 in 84.5s
