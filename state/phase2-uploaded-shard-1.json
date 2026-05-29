@@ -24624,6 +24624,25 @@
         "download_sec": 37.0,
         "upload_sec": 44.6
       }
+    },
+    {
+      "cr_film_id": 17463,
+      "cr_slug": "the-dead-center",
+      "title": "The Dead Center",
+      "year": 2018,
+      "display_name": "The Dead Center (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5df5490609cc1",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25309117,
+      "size_bytes": 556593125,
+      "uploaded_at": "2026-05-29T23:09:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 20.4,
+        "upload_sec": 22.1
+      }
     }
   ],
   "failed_attempts": [
@@ -25019,5 +25038,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T23:08:33Z"
+  "last_updated": "2026-05-29T23:09:19Z"
 }
