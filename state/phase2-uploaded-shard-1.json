@@ -14687,6 +14687,25 @@
         "download_sec": 80.3,
         "upload_sec": 90.5
       }
+    },
+    {
+      "cr_film_id": 27119,
+      "cr_slug": "the-box",
+      "title": "The Box",
+      "year": 2021,
+      "display_name": "The Box (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60f5fef8579e0",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25289354,
+      "size_bytes": 1820836264,
+      "uploaded_at": "2026-05-29T00:41:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 87.5,
+        "upload_sec": 98.6
+      }
     }
   ],
   "failed_attempts": [
@@ -15014,5 +15033,5 @@
       "failed_at": "2026-05-28T21:52:41Z"
     }
   ],
-  "last_updated": "2026-05-29T00:38:16Z"
+  "last_updated": "2026-05-29T00:41:27Z"
 }
