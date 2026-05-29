@@ -7590,3 +7590,14 @@
 [11:52:26]   upload done video_id=25298589 in 143.9s
 [11:52:27] film cr_film_id=26535 OK in 269.4s
 [11:52:27] batch-end ok=20 failed=0 dur=2757.2s avg/film=137.9s remaining=9198 eta_hours=352.3
+
+===== run 2026-05-29T11:55:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26635822207) =====
+[11:55:36] batch-start shard=1/2 count=20 backlog=10210 uploads=1012 failed_attempts=50
+[11:55:36] login
+[11:55:38] login done
+[11:55:38] iteration 1/20
+[11:55:38] film cr_film_id=37159 name='Hannah Gadsby: Douglas (2020) CZ Titulky' candidates=1
+[11:55:38]   candidate upload_id=099b8a09afa35da1 url=https://prehraj.to/hannah-gadsby-douglas-2020-cz-titulky/099b8a09afa35da1
+[11:55:39]   resolved in 1.0s → 720p (https://pf-storage6.premiumcdn.net/170858195/VxafbOFokSVpsyxu4xF4lFZKSaNc6WfqNCx…)
+[11:56:03]   downloaded 674.4 MB in 22.7s (29.7 MB/s)
+[11:56:30]   upload done video_id=25298647 in 26.8s
