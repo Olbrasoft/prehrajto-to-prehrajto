@@ -23256,6 +23256,25 @@
         "download_sec": 50.6,
         "upload_sec": 68.7
       }
+    },
+    {
+      "cr_film_id": 26501,
+      "cr_slug": "city-of-trees",
+      "title": "City of Trees",
+      "year": 2019,
+      "display_name": "City of Trees (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "606610ecd581e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25307398,
+      "size_bytes": 468864984,
+      "uploaded_at": "2026-05-29T20:28:57Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 22.7,
+        "upload_sec": 30.7
+      }
     }
   ],
   "failed_attempts": [
@@ -23651,5 +23670,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T20:27:58Z"
+  "last_updated": "2026-05-29T20:28:57Z"
 }
