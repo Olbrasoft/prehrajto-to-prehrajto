@@ -17480,6 +17480,25 @@
         "download_sec": 38.2,
         "upload_sec": 50.1
       }
+    },
+    {
+      "cr_film_id": 6569,
+      "cr_slug": "tlustoch",
+      "title": "Tlusťoch",
+      "year": 2020,
+      "display_name": "Tlusťoch (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fc1f93918e12",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25295134,
+      "size_bytes": 1286693693,
+      "uploaded_at": "2026-05-29T07:31:03Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 41.8,
+        "upload_sec": 49.7
+      }
     }
   ],
   "failed_attempts": [
@@ -17847,5 +17866,5 @@
       "failed_at": "2026-05-29T04:18:47Z"
     }
   ],
-  "last_updated": "2026-05-29T07:29:28Z"
+  "last_updated": "2026-05-29T07:31:03Z"
 }
