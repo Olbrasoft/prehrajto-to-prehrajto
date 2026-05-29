@@ -20159,6 +20159,25 @@
         "download_sec": 64.6,
         "upload_sec": 82.8
       }
+    },
+    {
+      "cr_film_id": 31029,
+      "cr_slug": "a-christmas-gift-from-bob",
+      "title": "A Christmas Gift from Bob",
+      "year": 2020,
+      "display_name": "A Christmas Gift from Bob (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6067485c9f21a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25299904,
+      "size_bytes": 1614496712,
+      "uploaded_at": "2026-05-29T13:51:33Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 68.5,
+        "upload_sec": 99.3
+      }
     }
   ],
   "failed_attempts": [
@@ -20554,5 +20573,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T13:48:40Z"
+  "last_updated": "2026-05-29T13:51:33Z"
 }
