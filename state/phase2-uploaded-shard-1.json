@@ -21261,6 +21261,25 @@
         "download_sec": 47.3,
         "upload_sec": 58.2
       }
+    },
+    {
+      "cr_film_id": 19659,
+      "cr_slug": "sedlak",
+      "title": "Sedlák",
+      "year": 2019,
+      "display_name": "Sedlák (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ea5ceca26d78",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25303928,
+      "size_bytes": 2056484351,
+      "uploaded_at": "2026-05-29T16:15:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 87.1,
+        "upload_sec": 94.7
+      }
     }
   ],
   "failed_attempts": [
@@ -21656,5 +21675,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T16:12:06Z"
+  "last_updated": "2026-05-29T16:15:12Z"
 }
