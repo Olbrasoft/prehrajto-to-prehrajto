@@ -23731,6 +23731,25 @@
         "download_sec": 41.1,
         "upload_sec": 47.0
       }
+    },
+    {
+      "cr_film_id": 8528,
+      "cr_slug": "kraj-sveta",
+      "title": "Kraj světa",
+      "year": 2019,
+      "display_name": "Kraj světa (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ce8dd9c802cc",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25308026,
+      "size_bytes": 1762452080,
+      "uploaded_at": "2026-05-29T21:23:51Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 59.0,
+        "upload_sec": 68.5
+      }
     }
   ],
   "failed_attempts": [
@@ -24125,5 +24144,5 @@
       "failed_at": "2026-05-29T20:34:16Z"
     }
   ],
-  "last_updated": "2026-05-29T21:21:40Z"
+  "last_updated": "2026-05-29T21:23:51Z"
 }
