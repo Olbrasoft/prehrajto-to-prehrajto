@@ -19323,6 +19323,25 @@
         "download_sec": 79.4,
         "upload_sec": 101.7
       }
+    },
+    {
+      "cr_film_id": 26453,
+      "cr_slug": "full-out-2-you-got-this",
+      "title": "Full Out 2: You Got This!",
+      "year": 2020,
+      "display_name": "Full Out 2: You Got This! (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fef9c20614ae",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25298757,
+      "size_bytes": 1493699379,
+      "uploaded_at": "2026-05-29T12:08:11Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 47.0,
+        "upload_sec": 58.6
+      }
     }
   ],
   "failed_attempts": [
@@ -19695,7 +19714,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/soudcova-dcera-2020-cz-titulky-mp4/d56c5db5631d89c2",
       "permanent": true,
       "failed_at": "2026-05-29T08:45:07Z"
+    },
+    {
+      "cr_film_id": 9371,
+      "upload_id": "52e50ae1cfafd62b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ferovka-2020-cz-titulky-mp4/52e50ae1cfafd62b",
+      "permanent": true,
+      "failed_at": "2026-05-29T12:06:18Z"
     }
   ],
-  "last_updated": "2026-05-29T12:06:16Z"
+  "last_updated": "2026-05-29T12:08:11Z"
 }
