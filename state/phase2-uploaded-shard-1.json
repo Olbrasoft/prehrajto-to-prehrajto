@@ -19399,6 +19399,25 @@
         "download_sec": 33.4,
         "upload_sec": 43.7
       }
+    },
+    {
+      "cr_film_id": 19657,
+      "cr_slug": "feels-good-man",
+      "title": "Feels Good Man",
+      "year": 2020,
+      "display_name": "Feels Good Man (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "62c875c27c60a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25298831,
+      "size_bytes": 2573416524,
+      "uploaded_at": "2026-05-29T12:15:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 79.7,
+        "upload_sec": 93.3
+      }
     }
   ],
   "failed_attempts": [
@@ -19780,5 +19799,5 @@
       "failed_at": "2026-05-29T12:06:18Z"
     }
   ],
-  "last_updated": "2026-05-29T12:12:47Z"
+  "last_updated": "2026-05-29T12:15:44Z"
 }
