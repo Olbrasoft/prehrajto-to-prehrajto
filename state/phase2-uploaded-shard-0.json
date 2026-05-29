@@ -21223,6 +21223,25 @@
         "download_sec": 39.2,
         "upload_sec": 51.6
       }
+    },
+    {
+      "cr_film_id": 8750,
+      "cr_slug": "coffee-kareem",
+      "title": "Coffee & Kareem",
+      "year": 2020,
+      "display_name": "Coffee & Kareem (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e89fc36c4f11",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25303741,
+      "size_bytes": 423795767,
+      "uploaded_at": "2026-05-29T15:59:07Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 15.0,
+        "upload_sec": 19.7
+      }
     }
   ],
   "failed_attempts": [
@@ -21603,5 +21622,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T15:58:28Z"
+  "last_updated": "2026-05-29T15:59:07Z"
 }
