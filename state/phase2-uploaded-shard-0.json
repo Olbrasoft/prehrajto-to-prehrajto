@@ -17138,6 +17138,25 @@
         "download_sec": 43.7,
         "upload_sec": 55.1
       }
+    },
+    {
+      "cr_film_id": 18126,
+      "cr_slug": "hyacint",
+      "title": "Hyacint",
+      "year": 2021,
+      "display_name": "Hyacint (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "616867891484a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25294344,
+      "size_bytes": 2738897596,
+      "uploaded_at": "2026-05-29T06:39:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 76.8,
+        "upload_sec": 100.2
+      }
     }
   ],
   "failed_attempts": [
@@ -17497,5 +17516,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T06:36:51Z"
+  "last_updated": "2026-05-29T06:39:51Z"
 }
