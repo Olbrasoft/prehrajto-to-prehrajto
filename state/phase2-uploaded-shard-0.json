@@ -18164,6 +18164,25 @@
         "download_sec": 46.3,
         "upload_sec": 62.2
       }
+    },
+    {
+      "cr_film_id": 31224,
+      "cr_slug": "a-man-named-scott",
+      "title": "A Man Named Scott",
+      "year": 2021,
+      "display_name": "A Man Named Scott (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "b9064f61df44b1e6",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25296293,
+      "size_bytes": 2823091414,
+      "uploaded_at": "2026-05-29T09:14:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 75.9,
+        "upload_sec": 103.9
+      }
     }
   ],
   "failed_attempts": [
@@ -18523,5 +18542,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T09:11:43Z"
+  "last_updated": "2026-05-29T09:14:46Z"
 }
