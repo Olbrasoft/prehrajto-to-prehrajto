@@ -20254,6 +20254,25 @@
         "download_sec": 20.4,
         "upload_sec": 23.7
       }
+    },
+    {
+      "cr_film_id": 30634,
+      "cr_slug": "mala-anastazie",
+      "title": "Malá Anastázie",
+      "year": 2020,
+      "display_name": "Malá Anastázie (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6f60c08d32c158fd",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25299877,
+      "size_bytes": 2607716639,
+      "uploaded_at": "2026-05-29T13:49:47Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 81.9,
+        "upload_sec": 104.8
+      }
     }
   ],
   "failed_attempts": [
@@ -20627,5 +20646,5 @@
       "failed_at": "2026-05-29T13:08:56Z"
     }
   ],
-  "last_updated": "2026-05-29T13:46:36Z"
+  "last_updated": "2026-05-29T13:49:47Z"
 }
