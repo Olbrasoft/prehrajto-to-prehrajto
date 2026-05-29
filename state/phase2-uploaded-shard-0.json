@@ -18753,6 +18753,25 @@
         "download_sec": 81.4,
         "upload_sec": 93.8
       }
+    },
+    {
+      "cr_film_id": 7620,
+      "cr_slug": "tuseni",
+      "title": "Tušení",
+      "year": 2020,
+      "display_name": "Tušení (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ed033197475d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25297849,
+      "size_bytes": 1995187509,
+      "uploaded_at": "2026-05-29T10:34:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 63.4,
+        "upload_sec": 74.2
+      }
     }
   ],
   "failed_attempts": [
@@ -19112,5 +19131,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T10:32:00Z"
+  "last_updated": "2026-05-29T10:34:21Z"
 }
