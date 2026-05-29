@@ -9062,3 +9062,14 @@
 [19:56:24]   upload done video_id=25306876 in 141.7s
 [19:56:25] film cr_film_id=5106 OK in 261.8s
 [19:56:25] batch-end ok=19 failed=1 dur=2800.4s avg/film=147.4s remaining=8999 eta_hours=368.5
+
+===== run 2026-05-29T19:56:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26659090940) =====
+[19:56:51] batch-start shard=0/2 count=20 backlog=10210 uploads=1211 failed_attempts=54
+[19:56:51] login
+[19:56:53] login done
+[19:56:53] iteration 1/20
+[19:56:53] film cr_film_id=29058 name='Pod vlivem (2019) CZ Titulky' candidates=2
+[19:56:53]   candidate upload_id=5da4c120e6de5 url=https://prehraj.to/the-influence-pod-vlivem-2019-cz-titulky/5da4c120e6de5
+[19:56:54]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/15058564/6RGuG8fRoU3afrRIgdiQKfrYF3WCLoC9BH7x…)
+[19:57:56]   downloaded 1,415.0 MB in 60.0s (23.6 MB/s)
+[19:59:09]   upload done video_id=25306935 in 72.4s
