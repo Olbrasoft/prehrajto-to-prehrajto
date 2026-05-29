@@ -16777,6 +16777,25 @@
         "download_sec": 65.8,
         "upload_sec": 81.3
       }
+    },
+    {
+      "cr_film_id": 36881,
+      "cr_slug": "angeliena",
+      "title": "Angeliena",
+      "year": 2021,
+      "display_name": "Angeliena (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "616d8bf1128cc",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25293740,
+      "size_bytes": 2678533002,
+      "uploaded_at": "2026-05-29T06:00:18Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 115.7,
+        "upload_sec": 141.3
+      }
     }
   ],
   "failed_attempts": [
@@ -17144,5 +17163,5 @@
       "failed_at": "2026-05-29T04:18:47Z"
     }
   ],
-  "last_updated": "2026-05-29T05:55:57Z"
+  "last_updated": "2026-05-29T06:00:18Z"
 }
