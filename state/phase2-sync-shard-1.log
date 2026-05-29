@@ -6280,3 +6280,14 @@
 [03:40:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/justice-society-world-war-ii-2021-en-cz-tit-mp4/aeb71c75a7b85ca4 (permanent=True)
 [03:40:56] film cr_film_id=31095 all candidates exhausted
 [03:40:56] batch-end ok=19 failed=1 dur=3063.9s avg/film=161.3s remaining=9376 eta_hours=420.1
+
+===== run 2026-05-29T03:49:54Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26616800437) =====
+[03:49:55] batch-start shard=1/2 count=20 backlog=10210 uploads=834 failed_attempts=48
+[03:49:55] login
+[03:49:56] login done
+[03:49:56] iteration 1/20
+[03:49:56] film cr_film_id=27249 name='Jsme jedné krve: Malcolm X a Muhammad Ali (2021) CZ Titulky' candidates=1
+[03:49:56]   candidate upload_id=613e620840a54 url=https://prehraj.to/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-cztitulky/613e620840a54
+[03:49:58]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/24888095/wrbsq3Fy4c52UwWTN8skoFlXS74sjnCkASmO…)
+[03:52:15]   downloaded 3,267.2 MB in 135.5s (24.1 MB/s)
+[03:55:00]   upload done video_id=25292280 in 164.5s
