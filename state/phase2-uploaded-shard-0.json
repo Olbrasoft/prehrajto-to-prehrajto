@@ -17176,6 +17176,25 @@
         "download_sec": 87.2,
         "upload_sec": 99.5
       }
+    },
+    {
+      "cr_film_id": 31938,
+      "cr_slug": "hluboka-voda",
+      "title": "Hluboká voda",
+      "year": 2021,
+      "display_name": "Hluboká voda (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "62378b30c7142",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25294397,
+      "size_bytes": 888075406,
+      "uploaded_at": "2026-05-29T06:44:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 26.9,
+        "upload_sec": 32.2
+      }
     }
   ],
   "failed_attempts": [
@@ -17535,5 +17554,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T06:43:01Z"
+  "last_updated": "2026-05-29T06:44:04Z"
 }
