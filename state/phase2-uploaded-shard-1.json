@@ -19342,6 +19342,25 @@
         "download_sec": 47.0,
         "upload_sec": 58.6
       }
+    },
+    {
+      "cr_film_id": 19347,
+      "cr_slug": "fried-barry",
+      "title": "Fried Barry",
+      "year": 2020,
+      "display_name": "Fried Barry (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "619bdd647a2e2",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25298775,
+      "size_bytes": 1646308838,
+      "uploaded_at": "2026-05-29T12:10:13Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 50.7,
+        "upload_sec": 67.9
+      }
     }
   ],
   "failed_attempts": [
@@ -19723,5 +19742,5 @@
       "failed_at": "2026-05-29T12:06:18Z"
     }
   ],
-  "last_updated": "2026-05-29T12:08:11Z"
+  "last_updated": "2026-05-29T12:10:13Z"
 }
