@@ -21869,6 +21869,25 @@
         "download_sec": 40.0,
         "upload_sec": 50.0
       }
+    },
+    {
+      "cr_film_id": 30948,
+      "cr_slug": "rekni-mi-kdo-vlastne-jsem",
+      "title": "Řekni mi, kdo vlastně jsem",
+      "year": 2019,
+      "display_name": "Řekni mi, kdo vlastně jsem (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "461f8d0db48b9680",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25304751,
+      "size_bytes": 513728036,
+      "uploaded_at": "2026-05-29T17:13:27Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 17.8,
+        "upload_sec": 20.4
+      }
     }
   ],
   "failed_attempts": [
@@ -22249,5 +22268,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T17:12:45Z"
+  "last_updated": "2026-05-29T17:13:27Z"
 }
