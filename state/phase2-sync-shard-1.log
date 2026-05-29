@@ -9628,3 +9628,14 @@
 [22:45:30]   upload done video_id=25308845 in 27.9s
 [22:45:31] film cr_film_id=30799 OK in 54.9s
 [22:45:31] batch-end ok=20 failed=0 dur=1845.2s avg/film=92.3s remaining=8921 eta_hours=228.7
+
+===== run 2026-05-29T22:57:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26666413928) =====
+[22:57:02] batch-start shard=1/2 count=20 backlog=10210 uploads=1289 failed_attempts=53
+[22:57:02] login
+[22:57:04] login done
+[22:57:04] iteration 1/20
+[22:57:04] film cr_film_id=30423 name='The Legacy of a Whitetail Deer Hunter (2018) CZ Titulky' candidates=1
+[22:57:04]   candidate upload_id=794054da43db5a6b url=https://prehraj.to/the-legacy-of-a-whitetail-deer-hunter-2018-en-cz-tit/794054da43db5a6b
+[22:57:05]   resolved in 1.2s → 480p (https://pf-storage6.premiumcdn.net/169662268/XQmsjAHOkcpOU74IQ7cqaHbKuRatL1F3afa…)
+[22:57:45]   downloaded 1,111.3 MB in 38.0s (29.2 MB/s)
+[22:58:27]   upload done video_id=25308977 in 42.2s
