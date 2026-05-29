@@ -15333,6 +15333,25 @@
         "download_sec": 50.4,
         "upload_sec": 58.4
       }
+    },
+    {
+      "cr_film_id": 17115,
+      "cr_slug": "palmer",
+      "title": "Palmer",
+      "year": 2021,
+      "display_name": "Palmer (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "1c7c8745cc912321",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25290860,
+      "size_bytes": 815810196,
+      "uploaded_at": "2026-05-29T02:17:23Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 33.7,
+        "upload_sec": 41.8
+      }
     }
   ],
   "failed_attempts": [
@@ -15674,5 +15693,5 @@
       "failed_at": "2026-05-29T01:18:29Z"
     }
   ],
-  "last_updated": "2026-05-29T02:16:03Z"
+  "last_updated": "2026-05-29T02:17:23Z"
 }
