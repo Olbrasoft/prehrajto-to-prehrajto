@@ -23028,6 +23028,25 @@
         "download_sec": 64.2,
         "upload_sec": 75.8
       }
+    },
+    {
+      "cr_film_id": 19351,
+      "cr_slug": "dokonaly-pacient",
+      "title": "Dokonalý pacient",
+      "year": 2019,
+      "display_name": "Dokonalý pacient (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e6d2b852a3ca",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25307024,
+      "size_bytes": 480345966,
+      "uploaded_at": "2026-05-29T20:05:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 56.1,
+        "upload_sec": 28.9
+      }
     }
   ],
   "failed_attempts": [
@@ -23423,5 +23442,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T20:03:33Z"
+  "last_updated": "2026-05-29T20:05:03Z"
 }
