@@ -16606,6 +16606,25 @@
         "download_sec": 36.9,
         "upload_sec": 53.2
       }
+    },
+    {
+      "cr_film_id": 31198,
+      "cr_slug": "nad-vodou",
+      "title": "Nad vodou",
+      "year": 2021,
+      "display_name": "Nad vodou (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "7db64681993b4036",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25293260,
+      "size_bytes": 1528945724,
+      "uploaded_at": "2026-05-29T05:28:06Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 61.3,
+        "upload_sec": 68.9
+      }
     }
   ],
   "failed_attempts": [
@@ -16965,5 +16984,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T05:25:53Z"
+  "last_updated": "2026-05-29T05:28:06Z"
 }
