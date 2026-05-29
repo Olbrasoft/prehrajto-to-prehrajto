@@ -17632,6 +17632,25 @@
         "download_sec": 89.1,
         "upload_sec": 109.4
       }
+    },
+    {
+      "cr_film_id": 31499,
+      "cr_slug": "the-night",
+      "title": "The Night",
+      "year": 2020,
+      "display_name": "The Night (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "606a6c0f88fd0",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25295361,
+      "size_bytes": 1020550356,
+      "uploaded_at": "2026-05-29T07:45:08Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 33.6,
+        "upload_sec": 39.8
+      }
     }
   ],
   "failed_attempts": [
@@ -17999,5 +18018,5 @@
       "failed_at": "2026-05-29T04:18:47Z"
     }
   ],
-  "last_updated": "2026-05-29T07:43:51Z"
+  "last_updated": "2026-05-29T07:45:08Z"
 }
