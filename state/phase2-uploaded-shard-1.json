@@ -24833,6 +24833,25 @@
         "download_sec": 30.7,
         "upload_sec": 38.0
       }
+    },
+    {
+      "cr_film_id": 29249,
+      "cr_slug": "swiped-2018",
+      "title": "Swiped",
+      "year": 2018,
+      "display_name": "Swiped (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60074fdbe7625",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25309438,
+      "size_bytes": 1043237748,
+      "uploaded_at": "2026-05-29T23:27:12Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 31.4,
+        "upload_sec": 40.9
+      }
     }
   ],
   "failed_attempts": [
@@ -25228,5 +25247,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T23:25:56Z"
+  "last_updated": "2026-05-29T23:27:12Z"
 }
