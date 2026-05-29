@@ -24453,6 +24453,25 @@
         "download_sec": 25.0,
         "upload_sec": 42.6
       }
+    },
+    {
+      "cr_film_id": 18867,
+      "cr_slug": "the-nightingale",
+      "title": "The Nightingale",
+      "year": 2018,
+      "display_name": "The Nightingale (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e5fb02ec1fc9",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25308829,
+      "size_bytes": 2764899096,
+      "uploaded_at": "2026-05-29T22:44:35Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 90.7,
+        "upload_sec": 112.9
+      }
     }
   ],
   "failed_attempts": [
@@ -24848,5 +24867,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T22:41:07Z"
+  "last_updated": "2026-05-29T22:44:35Z"
 }
