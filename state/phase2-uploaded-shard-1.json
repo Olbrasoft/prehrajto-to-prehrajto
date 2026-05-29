@@ -24966,6 +24966,25 @@
         "download_sec": 30.9,
         "upload_sec": 51.5
       }
+    },
+    {
+      "cr_film_id": 30725,
+      "cr_slug": "sheherazade",
+      "title": "Shéhérazade",
+      "year": 2018,
+      "display_name": "Shéhérazade (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60462f59c789e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25309740,
+      "size_bytes": 1164630525,
+      "uploaded_at": "2026-05-29T23:42:59Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 43.4,
+        "upload_sec": 54.9
+      }
     }
   ],
   "failed_attempts": [
@@ -25361,5 +25380,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T23:41:17Z"
+  "last_updated": "2026-05-29T23:42:59Z"
 }
