@@ -14516,6 +14516,25 @@
         "download_sec": 61.2,
         "upload_sec": 72.8
       }
+    },
+    {
+      "cr_film_id": 31159,
+      "cr_slug": "the-sailor",
+      "title": "The Sailor",
+      "year": 2021,
+      "display_name": "The Sailor (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "2e42fe127e7b2a64",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25289003,
+      "size_bytes": 2041594651,
+      "uploaded_at": "2026-05-29T00:20:55Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 96.7,
+        "upload_sec": 114.0
+      }
     }
   ],
   "failed_attempts": [
@@ -14843,5 +14862,5 @@
       "failed_at": "2026-05-28T21:52:41Z"
     }
   ],
-  "last_updated": "2026-05-29T00:17:19Z"
+  "last_updated": "2026-05-29T00:20:55Z"
 }
