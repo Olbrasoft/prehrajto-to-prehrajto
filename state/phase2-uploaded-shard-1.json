@@ -19285,6 +19285,25 @@
         "download_sec": 55.9,
         "upload_sec": 75.1
       }
+    },
+    {
+      "cr_film_id": 17053,
+      "cr_slug": "ghosts-of-war",
+      "title": "Ghosts of War",
+      "year": 2020,
+      "display_name": "Ghosts of War (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6002e79ea6f2a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25298702,
+      "size_bytes": 1116620089,
+      "uploaded_at": "2026-05-29T12:03:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 31.7,
+        "upload_sec": 43.5
+      }
     }
   ],
   "failed_attempts": [
@@ -19659,5 +19678,5 @@
       "failed_at": "2026-05-29T08:45:07Z"
     }
   ],
-  "last_updated": "2026-05-29T12:01:52Z"
+  "last_updated": "2026-05-29T12:03:11Z"
 }
