@@ -22344,6 +22344,25 @@
         "download_sec": 44.7,
         "upload_sec": 42.5
       }
+    },
+    {
+      "cr_film_id": 33508,
+      "cr_slug": "ticho-ve-sneznem-meste",
+      "title": "Ticho ve sněžném městě",
+      "year": 2019,
+      "display_name": "Ticho ve sněžném městě (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e65180632da5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25305722,
+      "size_bytes": 1648984097,
+      "uploaded_at": "2026-05-29T18:26:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 51.9,
+        "upload_sec": 63.4
+      }
     }
   ],
   "failed_attempts": [
@@ -22724,5 +22743,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T18:24:09Z"
+  "last_updated": "2026-05-29T18:26:09Z"
 }
