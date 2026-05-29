@@ -20292,6 +20292,25 @@
         "download_sec": 61.0,
         "upload_sec": 81.4
       }
+    },
+    {
+      "cr_film_id": 29610,
+      "cr_slug": "ludo",
+      "title": "Ludo",
+      "year": 2020,
+      "display_name": "Ludo (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60a21bdf7f315",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25299942,
+      "size_bytes": 2563371884,
+      "uploaded_at": "2026-05-29T13:55:16Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 80.4,
+        "upload_sec": 97.9
+      }
     }
   ],
   "failed_attempts": [
@@ -20665,5 +20684,5 @@
       "failed_at": "2026-05-29T13:08:56Z"
     }
   ],
-  "last_updated": "2026-05-29T13:52:13Z"
+  "last_updated": "2026-05-29T13:55:16Z"
 }
