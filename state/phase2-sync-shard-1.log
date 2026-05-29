@@ -6273,3 +6273,10 @@
 [03:38:14]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/26298745/8gmt7ghjeszDc7mFW3iEVhERTXAuAXiNltel…)
 [03:39:24]   downloaded 1,896.6 MB in 68.6s (27.6 MB/s)
 [03:40:54]   upload done video_id=25292081 in 90.4s
+[03:40:55] film cr_film_id=19877 OK in 163.0s
+[03:40:55] iteration 20/20
+[03:40:55] film cr_film_id=31095 name='Justice Society: World War II (2021) CZ Titulky' candidates=1
+[03:40:55]   candidate upload_id=aeb71c75a7b85ca4 url=https://prehraj.to/justice-society-world-war-ii-2021-en-cz-tit-mp4/aeb71c75a7b85ca4
+[03:40:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/justice-society-world-war-ii-2021-en-cz-tit-mp4/aeb71c75a7b85ca4 (permanent=True)
+[03:40:56] film cr_film_id=31095 all candidates exhausted
+[03:40:56] batch-end ok=19 failed=1 dur=3063.9s avg/film=161.3s remaining=9376 eta_hours=420.1
