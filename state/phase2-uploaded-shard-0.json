@@ -24358,6 +24358,25 @@
         "download_sec": 84.5,
         "upload_sec": 96.9
       }
+    },
+    {
+      "cr_film_id": 21026,
+      "cr_slug": "ema",
+      "title": "Ema",
+      "year": 2019,
+      "display_name": "Ema (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f40181ae7705",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25308830,
+      "size_bytes": 1678604294,
+      "uploaded_at": "2026-05-29T22:43:57Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 48.8,
+        "upload_sec": 60.0
+      }
     }
   ],
   "failed_attempts": [
@@ -24759,5 +24778,5 @@
       "failed_at": "2026-05-29T22:00:53Z"
     }
   ],
-  "last_updated": "2026-05-29T22:42:05Z"
+  "last_updated": "2026-05-29T22:43:57Z"
 }
