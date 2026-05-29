@@ -8480,3 +8480,14 @@
 [16:27:39]   upload done video_id=25304072 in 60.9s
 [16:27:40] film cr_film_id=31058 OK in 111.7s
 [16:27:40] batch-end ok=20 failed=0 dur=2358.4s avg/film=117.9s remaining=9078 eta_hours=297.3
+
+===== run 2026-05-29T16:34:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26649514809) =====
+[16:34:54] batch-start shard=0/2 count=20 backlog=10210 uploads=1132 failed_attempts=53
+[16:34:54] login
+[16:34:55] login done
+[16:34:55] iteration 1/20
+[16:34:55] film cr_film_id=30734 name='Becoming (2020) CZ Titulky' candidates=2
+[16:34:55]   candidate upload_id=5e78ac98830c0 url=https://prehraj.to/vasen-a-cit-becoming-romanticky-2020-1080p-h264-s-cztitulky-67-sten-ok/5e78ac98830c0
+[16:34:56]   resolved in 1.1s → 720p (https://pf-storage2.premiumcdn.net/16056976/9OXsNoTXnf0yHErioytnBTN7fb0hbzu8Gs9r…)
+[16:35:41]   downloaded 1,326.3 MB in 43.1s (30.8 MB/s)
+[16:36:31]   upload done video_id=25304172 in 49.6s
