@@ -23123,6 +23123,25 @@
         "download_sec": 48.1,
         "upload_sec": 57.1
       }
+    },
+    {
+      "cr_film_id": 19345,
+      "cr_slug": "dark-waters",
+      "title": "Dark Waters",
+      "year": 2019,
+      "display_name": "Dark Waters (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fe7caf90f44e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25307137,
+      "size_bytes": 948884470,
+      "uploaded_at": "2026-05-29T20:14:35Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 47.6,
+        "upload_sec": 58.7
+      }
     }
   ],
   "failed_attempts": [
@@ -23518,5 +23537,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T20:12:44Z"
+  "last_updated": "2026-05-29T20:14:35Z"
 }
