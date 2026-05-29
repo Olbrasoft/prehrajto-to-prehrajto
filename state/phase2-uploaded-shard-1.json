@@ -24681,6 +24681,25 @@
         "download_sec": 15.8,
         "upload_sec": 20.9
       }
+    },
+    {
+      "cr_film_id": 30721,
+      "cr_slug": "the-campus",
+      "title": "The Campus",
+      "year": 2018,
+      "display_name": "The Campus (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "689f61463842c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25309142,
+      "size_bytes": 140646856,
+      "uploaded_at": "2026-05-29T23:11:05Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 6.7,
+        "upload_sec": 8.6
+      }
     }
   ],
   "failed_attempts": [
@@ -25076,5 +25095,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T23:10:46Z"
+  "last_updated": "2026-05-29T23:11:05Z"
 }
