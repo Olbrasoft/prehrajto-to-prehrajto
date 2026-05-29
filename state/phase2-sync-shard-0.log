@@ -8334,3 +8334,14 @@
 [15:46:49]   upload done video_id=25303572 in 80.3s
 [15:46:52] film cr_film_id=37170 OK in 147.4s
 [15:46:52] batch-end ok=20 failed=0 dur=2596.6s avg/film=129.8s remaining=9098 eta_hours=328.0
+
+===== run 2026-05-29T15:48:17Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26647137604) =====
+[15:48:20] batch-start shard=0/2 count=20 backlog=10210 uploads=1112 failed_attempts=53
+[15:48:20] login
+[15:48:22] login done
+[15:48:22] iteration 1/20
+[15:48:22] film cr_film_id=14132 name='Death of a Telemarketer (2020) CZ Titulky' candidates=2
+[15:48:22]   candidate upload_id=61eeeac4905c7 url=https://prehraj.to/death-of-a-telemarketer-2020-cztitulky/61eeeac4905c7
+[15:48:23]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/28688379/xpeIE8cg4sb6uVZiDaS9ycN7U0DuRZIZbugp…)
+[15:49:00]   downloaded 1,098.6 MB in 35.5s (30.9 MB/s)
+[15:49:50]   upload done video_id=25303610 in 50.0s
