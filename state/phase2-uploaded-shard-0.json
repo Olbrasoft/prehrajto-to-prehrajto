@@ -25004,6 +25004,25 @@
         "download_sec": 28.4,
         "upload_sec": 35.8
       }
+    },
+    {
+      "cr_film_id": 6286,
+      "cr_slug": "avanpost",
+      "title": "Avanpost",
+      "year": 2019,
+      "display_name": "Avanpost (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5eda9e86876d8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25309782,
+      "size_bytes": 2122505151,
+      "uploaded_at": "2026-05-29T23:46:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 60.5,
+        "upload_sec": 86.3
+      }
     }
   ],
   "failed_attempts": [
@@ -25405,5 +25424,5 @@
       "failed_at": "2026-05-29T22:00:53Z"
     }
   ],
-  "last_updated": "2026-05-29T23:44:07Z"
+  "last_updated": "2026-05-29T23:46:37Z"
 }
