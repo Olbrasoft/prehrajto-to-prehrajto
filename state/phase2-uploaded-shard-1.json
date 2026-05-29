@@ -21679,6 +21679,25 @@
         "download_sec": 16.9,
         "upload_sec": 19.2
       }
+    },
+    {
+      "cr_film_id": 19255,
+      "cr_slug": "potichu",
+      "title": "Potichu",
+      "year": 2019,
+      "display_name": "Potichu (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "603fadee7c5a8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25304647,
+      "size_bytes": 464558237,
+      "uploaded_at": "2026-05-29T17:04:59Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 22.1,
+        "upload_sec": 27.0
+      }
     }
   ],
   "failed_attempts": [
@@ -22074,5 +22093,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T17:04:05Z"
+  "last_updated": "2026-05-29T17:04:59Z"
 }
