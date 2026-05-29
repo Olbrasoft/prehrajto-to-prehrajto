@@ -7008,3 +7008,14 @@
 [07:49:42]   upload done video_id=25295415 in 32.7s
 [07:49:44] film cr_film_id=17601 OK in 56.3s
 [07:49:44] batch-end ok=20 failed=0 dur=1786.8s avg/film=89.3s remaining=9277 eta_hours=230.1
+
+===== run 2026-05-29T08:09:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26626012828) =====
+[08:09:32] batch-start shard=1/2 count=20 backlog=10210 uploads=933 failed_attempts=49
+[08:09:32] login
+[08:09:34] login done
+[08:09:34] iteration 1/20
+[08:09:34] film cr_film_id=36845 name='The End of the Storm (2020) CZ Titulky' candidates=12
+[08:09:34]   candidate upload_id=6029882d89299 url=https://prehraj.to/the-end-of-the-storm-2020-cztitulky/6029882d89299
+[08:09:35]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/22217261/jEwtrNhv0SBeFVPUOZIBAhZAidauL7c2lCrY…)
+[08:10:55]   downloaded 1,549.8 MB in 77.6s (20.0 MB/s)
+[08:12:20]   upload done video_id=25295600 in 85.1s
