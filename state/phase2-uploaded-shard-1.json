@@ -15257,6 +15257,25 @@
         "download_sec": 63.0,
         "upload_sec": 82.0
       }
+    },
+    {
+      "cr_film_id": 18107,
+      "cr_slug": "policejni-film",
+      "title": "Policejní film",
+      "year": 2021,
+      "display_name": "Policejní film (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6185bf5940538",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25290663,
+      "size_bytes": 1618333805,
+      "uploaded_at": "2026-05-29T02:05:19Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 70.8,
+        "upload_sec": 81.2
+      }
     }
   ],
   "failed_attempts": [
@@ -15598,5 +15617,5 @@
       "failed_at": "2026-05-29T01:18:29Z"
     }
   ],
-  "last_updated": "2026-05-29T02:02:42Z"
+  "last_updated": "2026-05-29T02:05:19Z"
 }
