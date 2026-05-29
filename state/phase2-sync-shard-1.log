@@ -7152,3 +7152,14 @@
 [08:56:27]   upload done video_id=25296017 in 139.0s
 [08:56:28] film cr_film_id=4597 OK in 263.8s
 [08:56:28] batch-end ok=19 failed=1 dur=2814.4s avg/film=148.1s remaining=9258 eta_hours=380.9
+
+===== run 2026-05-29T09:09:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26628666296) =====
+[09:09:51] batch-start shard=1/2 count=20 backlog=10210 uploads=952 failed_attempts=50
+[09:09:51] login
+[09:09:52] login done
+[09:09:52] iteration 1/20
+[09:09:52] film cr_film_id=19373 name='Slaxx (2020) CZ Titulky' candidates=3
+[09:09:52]   candidate upload_id=6086e02df1055 url=https://prehraj.to/slaxx-2020-cz-titulky-ke-stazeni-v-souboru-srt-1080p-komedie-horor/6086e02df1055
+[09:09:55]   resolved in 2.9s → 720p (https://pf-storage5.premiumcdn.net/23271762/35dIPACRmSexFXxibYSv6Cr5Hlqc0Vs9Dclq…)
+[09:10:37]   downloaded 784.4 MB in 40.4s (19.4 MB/s)
+[09:11:29]   upload done video_id=25296221 in 51.9s
