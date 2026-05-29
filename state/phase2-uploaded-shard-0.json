@@ -22363,6 +22363,25 @@
         "download_sec": 51.9,
         "upload_sec": 63.4
       }
+    },
+    {
+      "cr_film_id": 5470,
+      "cr_slug": "the-wave",
+      "title": "The Wave",
+      "year": 2019,
+      "display_name": "The Wave (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6009afb156768",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25305747,
+      "size_bytes": 1140593919,
+      "uploaded_at": "2026-05-29T18:27:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 36.3,
+        "upload_sec": 53.7
+      }
     }
   ],
   "failed_attempts": [
@@ -22743,5 +22762,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T18:26:09Z"
+  "last_updated": "2026-05-29T18:27:43Z"
 }
