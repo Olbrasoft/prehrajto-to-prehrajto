@@ -21166,6 +21166,25 @@
         "download_sec": 81.3,
         "upload_sec": 70.6
       }
+    },
+    {
+      "cr_film_id": 30739,
+      "cr_slug": "spinster",
+      "title": "Spinster",
+      "year": 2019,
+      "display_name": "Spinster (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fbc319feb056",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25303747,
+      "size_bytes": 1822394926,
+      "uploaded_at": "2026-05-29T16:00:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 73.0,
+        "upload_sec": 85.7
+      }
     }
   ],
   "failed_attempts": [
@@ -21561,5 +21580,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T15:58:09Z"
+  "last_updated": "2026-05-29T16:00:52Z"
 }
