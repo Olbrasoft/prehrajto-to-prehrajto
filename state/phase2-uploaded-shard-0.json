@@ -19570,6 +19570,25 @@
         "download_sec": 58.4,
         "upload_sec": 64.6
       }
+    },
+    {
+      "cr_film_id": 33944,
+      "cr_slug": "rialto",
+      "title": "Rialto",
+      "year": 2020,
+      "display_name": "Rialto (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "61e89ef358671",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25298998,
+      "size_bytes": 986410704,
+      "uploaded_at": "2026-05-29T12:28:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 32.1,
+        "upload_sec": 35.9
+      }
     }
   ],
   "failed_attempts": [
@@ -19936,5 +19955,5 @@
       "failed_at": "2026-05-29T11:55:11Z"
     }
   ],
-  "last_updated": "2026-05-29T12:27:04Z"
+  "last_updated": "2026-05-29T12:28:16Z"
 }
