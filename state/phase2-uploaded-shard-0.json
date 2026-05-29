@@ -21907,6 +21907,25 @@
         "download_sec": 80.3,
         "upload_sec": 111.7
       }
+    },
+    {
+      "cr_film_id": 19302,
+      "cr_slug": "cerkasy",
+      "title": "Čerkasy",
+      "year": 2019,
+      "display_name": "Čerkasy (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6237042b3f382",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25304966,
+      "size_bytes": 1933439801,
+      "uploaded_at": "2026-05-29T17:30:29Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 84.2,
+        "upload_sec": 101.6
+      }
     }
   ],
   "failed_attempts": [
@@ -22287,5 +22306,5 @@
       "failed_at": "2026-05-29T14:25:17Z"
     }
   ],
-  "last_updated": "2026-05-29T17:27:18Z"
+  "last_updated": "2026-05-29T17:30:29Z"
 }
