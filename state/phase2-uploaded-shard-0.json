@@ -17100,6 +17100,25 @@
         "download_sec": 46.0,
         "upload_sec": 55.3
       }
+    },
+    {
+      "cr_film_id": 14922,
+      "cr_slug": "invincible",
+      "title": "Invincible",
+      "year": 2021,
+      "display_name": "Invincible (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60315ccd1590a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25294286,
+      "size_bytes": 1491484765,
+      "uploaded_at": "2026-05-29T06:35:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 48.4,
+        "upload_sec": 55.9
+      }
     }
   ],
   "failed_attempts": [
@@ -17459,5 +17478,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T06:33:21Z"
+  "last_updated": "2026-05-29T06:35:09Z"
 }
