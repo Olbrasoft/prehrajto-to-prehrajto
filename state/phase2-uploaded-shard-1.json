@@ -18259,6 +18259,25 @@
         "download_sec": 100.4,
         "upload_sec": 122.2
       }
+    },
+    {
+      "cr_film_id": 4213,
+      "cr_slug": "possessor",
+      "title": "Possessor",
+      "year": 2020,
+      "display_name": "Possessor (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fa3d03111e57",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25296641,
+      "size_bytes": 2066958205,
+      "uploaded_at": "2026-05-29T09:36:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 100.4,
+        "upload_sec": 115.6
+      }
     }
   ],
   "failed_attempts": [
@@ -18633,5 +18652,5 @@
       "failed_at": "2026-05-29T08:45:07Z"
     }
   ],
-  "last_updated": "2026-05-29T09:32:31Z"
+  "last_updated": "2026-05-29T09:36:12Z"
 }
