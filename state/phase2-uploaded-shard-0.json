@@ -16473,6 +16473,25 @@
         "download_sec": 79.6,
         "upload_sec": 77.8
       }
+    },
+    {
+      "cr_film_id": 18860,
+      "cr_slug": "nevinatka",
+      "title": "Neviňátka",
+      "year": 2021,
+      "display_name": "Neviňátka (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "61d9e6492c778",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25293120,
+      "size_bytes": 2129005694,
+      "uploaded_at": "2026-05-29T05:13:14Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 73.8,
+        "upload_sec": 88.8
+      }
     }
   ],
   "failed_attempts": [
@@ -16832,5 +16851,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T05:10:27Z"
+  "last_updated": "2026-05-29T05:13:14Z"
 }
