@@ -19057,6 +19057,25 @@
         "download_sec": 24.8,
         "upload_sec": 30.6
       }
+    },
+    {
+      "cr_film_id": 30943,
+      "cr_slug": "icci",
+      "title": "Ičči",
+      "year": 2020,
+      "display_name": "Ičči (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "656bcd7e34b79",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25298369,
+      "size_bytes": 1810752149,
+      "uploaded_at": "2026-05-29T11:31:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 57.3,
+        "upload_sec": 114.0
+      }
     }
   ],
   "failed_attempts": [
@@ -19431,5 +19450,5 @@
       "failed_at": "2026-05-29T08:45:07Z"
     }
   ],
-  "last_updated": "2026-05-29T11:28:44Z"
+  "last_updated": "2026-05-29T11:31:39Z"
 }
