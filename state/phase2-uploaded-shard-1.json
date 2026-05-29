@@ -16435,6 +16435,25 @@
         "download_sec": 88.1,
         "upload_sec": 101.3
       }
+    },
+    {
+      "cr_film_id": 26847,
+      "cr_slug": "dancing-queens",
+      "title": "Dancing Queens",
+      "year": 2021,
+      "display_name": "Dancing Queens (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60ba52f0e236b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25293082,
+      "size_bytes": 2951272950,
+      "uploaded_at": "2026-05-29T05:08:53Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 92.7,
+        "upload_sec": 106.1
+      }
     }
   ],
   "failed_attempts": [
@@ -16802,5 +16821,5 @@
       "failed_at": "2026-05-29T04:18:47Z"
     }
   ],
-  "last_updated": "2026-05-29T05:05:31Z"
+  "last_updated": "2026-05-29T05:08:53Z"
 }
