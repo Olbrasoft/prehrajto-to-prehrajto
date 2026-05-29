@@ -7444,3 +7444,14 @@
 [11:06:01]   upload done video_id=25298118 in 133.9s
 [11:06:02] film cr_film_id=2599 OK in 257.1s
 [11:06:02] batch-end ok=20 failed=0 dur=3659.7s avg/film=183.0s remaining=9218 eta_hours=468.6
+
+===== run 2026-05-29T11:06:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26633738262) =====
+[11:06:29] batch-start shard=1/2 count=20 backlog=10210 uploads=992 failed_attempts=50
+[11:06:29] login
+[11:06:30] login done
+[11:06:30] iteration 1/20
+[11:06:30] film cr_film_id=2597 name='Léto 85 (2020) CZ Titulky' candidates=2
+[11:06:30]   candidate upload_id=928dfe5c2d43cb1f url=https://prehraj.to/leto-85-ete-85-summer-of-85-2020-f-cz-tit-mkv/928dfe5c2d43cb1f
+[11:06:31]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/161648285/8decV4s1MIaeTWOcoVIw3sbrSR9t01S5RIV…)
+[11:07:18]   downloaded 1,528.7 MB in 44.6s (34.3 MB/s)
+[11:08:15]   upload done video_id=25298138 in 57.1s
