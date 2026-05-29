@@ -19152,6 +19152,25 @@
         "download_sec": 54.9,
         "upload_sec": 70.1
       }
+    },
+    {
+      "cr_film_id": 21053,
+      "cr_slug": "hosts",
+      "title": "Hosts",
+      "year": 2020,
+      "display_name": "Hosts (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f9e4eb318d9a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25298531,
+      "size_bytes": 1288271087,
+      "uploaded_at": "2026-05-29T11:43:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 41.7,
+        "upload_sec": 46.5
+      }
     }
   ],
   "failed_attempts": [
@@ -19526,5 +19545,5 @@
       "failed_at": "2026-05-29T08:45:07Z"
     }
   ],
-  "last_updated": "2026-05-29T11:41:40Z"
+  "last_updated": "2026-05-29T11:43:12Z"
 }
