@@ -19532,6 +19532,25 @@
         "download_sec": 44.4,
         "upload_sec": 55.4
       }
+    },
+    {
+      "cr_film_id": 17107,
+      "cr_slug": "day-13",
+      "title": "Day 13",
+      "year": 2020,
+      "display_name": "Day 13 (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ffcbf843e901",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25298984,
+      "size_bytes": 1124482044,
+      "uploaded_at": "2026-05-29T12:27:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 36.9,
+        "upload_sec": 55.8
+      }
     }
   ],
   "failed_attempts": [
@@ -19913,5 +19932,5 @@
       "failed_at": "2026-05-29T12:06:18Z"
     }
   ],
-  "last_updated": "2026-05-29T12:26:18Z"
+  "last_updated": "2026-05-29T12:27:55Z"
 }
