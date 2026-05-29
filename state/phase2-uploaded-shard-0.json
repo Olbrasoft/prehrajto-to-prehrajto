@@ -22743,6 +22743,25 @@
         "download_sec": 104.0,
         "upload_sec": 126.2
       }
+    },
+    {
+      "cr_film_id": 1974,
+      "cr_slug": "slunovrat",
+      "title": "Slunovrat",
+      "year": 2019,
+      "display_name": "Slunovrat (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "610e6bb29da85",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25306492,
+      "size_bytes": 2352654107,
+      "uploaded_at": "2026-05-29T19:25:14Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 185.1,
+        "upload_sec": 104.7
+      }
     }
   ],
   "failed_attempts": [
@@ -23121,7 +23140,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/justice-league-dark-apokolips-war-2020-en-cz-tit-mp4/2b27e32efdf0c357",
       "permanent": true,
       "failed_at": "2026-05-29T14:25:17Z"
+    },
+    {
+      "cr_film_id": 30862,
+      "upload_id": "50dca75fa61db108",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/snatchers-2019-en-cz-tit-mp4/50dca75fa61db108",
+      "permanent": true,
+      "failed_at": "2026-05-29T19:20:17Z"
     }
   ],
-  "last_updated": "2026-05-29T19:20:14Z"
+  "last_updated": "2026-05-29T19:25:14Z"
 }
