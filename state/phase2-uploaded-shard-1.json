@@ -16359,6 +16359,25 @@
         "download_sec": 48.6,
         "upload_sec": 55.0
       }
+    },
+    {
+      "cr_film_id": 19751,
+      "cr_slug": "dawn-of-the-beast",
+      "title": "Dawn of the Beast",
+      "year": 2021,
+      "display_name": "Dawn of the Beast (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60adeba594fef",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25292955,
+      "size_bytes": 905081842,
+      "uploaded_at": "2026-05-29T04:57:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.1,
+        "upload_sec": 32.9
+      }
     }
   ],
   "failed_attempts": [
@@ -16726,5 +16745,5 @@
       "failed_at": "2026-05-29T04:18:47Z"
     }
   ],
-  "last_updated": "2026-05-29T04:56:26Z"
+  "last_updated": "2026-05-29T04:57:32Z"
 }
