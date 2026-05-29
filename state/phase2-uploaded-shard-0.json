@@ -15238,6 +15238,25 @@
         "download_sec": 82.3,
         "upload_sec": 100.8
       }
+    },
+    {
+      "cr_film_id": 27240,
+      "cr_slug": "zeleny-had",
+      "title": "Zelený had",
+      "year": 2021,
+      "display_name": "Zelený had (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "61a99cf8f03dc",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25290617,
+      "size_bytes": 4318914602,
+      "uploaded_at": "2026-05-29T02:03:55Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 184.6,
+        "upload_sec": 210.6
+      }
     }
   ],
   "failed_attempts": [
@@ -15583,5 +15602,5 @@
       "failed_at": "2026-05-29T00:57:07Z"
     }
   ],
-  "last_updated": "2026-05-29T01:57:15Z"
+  "last_updated": "2026-05-29T02:03:55Z"
 }
