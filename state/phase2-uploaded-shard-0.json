@@ -23674,6 +23674,25 @@
         "download_sec": 65.7,
         "upload_sec": 87.3
       }
+    },
+    {
+      "cr_film_id": 28794,
+      "cr_slug": "lancaster-skies",
+      "title": "Lancaster Skies",
+      "year": 2019,
+      "display_name": "Lancaster Skies (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5d0132b0a0fdf",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25307966,
+      "size_bytes": 660080009,
+      "uploaded_at": "2026-05-29T21:17:27Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 23.5,
+        "upload_sec": 28.7
+      }
     }
   ],
   "failed_attempts": [
@@ -24068,5 +24087,5 @@
       "failed_at": "2026-05-29T20:34:16Z"
     }
   ],
-  "last_updated": "2026-05-29T21:16:31Z"
+  "last_updated": "2026-05-29T21:17:27Z"
 }
