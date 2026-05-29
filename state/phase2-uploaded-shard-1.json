@@ -24035,6 +24035,25 @@
         "download_sec": 32.2,
         "upload_sec": 42.0
       }
+    },
+    {
+      "cr_film_id": 30701,
+      "cr_slug": "zion",
+      "title": "Zion",
+      "year": 2018,
+      "display_name": "Zion (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "eb06c1a26076fe08",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25308517,
+      "size_bytes": 210452004,
+      "uploaded_at": "2026-05-29T22:03:36Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 12.7,
+        "upload_sec": 14.6
+      }
     }
   ],
   "failed_attempts": [
@@ -24430,5 +24449,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T22:03:03Z"
+  "last_updated": "2026-05-29T22:03:36Z"
 }
