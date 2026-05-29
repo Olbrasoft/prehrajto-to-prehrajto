@@ -9206,3 +9206,14 @@
 [20:48:49]   upload done video_id=25307639 in 39.8s
 [20:48:50] film cr_film_id=16758 OK in 78.5s
 [20:48:50] batch-end ok=19 failed=1 dur=3117.1s avg/film=164.1s remaining=8980 eta_hours=409.3
+
+===== run 2026-05-29T20:49:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26661447916) =====
+[20:49:16] batch-start shard=0/2 count=20 backlog=10210 uploads=1230 failed_attempts=55
+[20:49:16] login
+[20:49:17] login done
+[20:49:17] iteration 1/20
+[20:49:17] film cr_film_id=29822 name='Mosul (2019) CZ Titulky' candidates=10
+[20:49:17]   candidate upload_id=5fc2cc477614f url=https://prehraj.to/mosul-akcni-2019-cz-titulky/5fc2cc477614f
+[20:49:18]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/20389677/L04uo8fvzuB8UQeHe9hOgf5XuR2hwXUVdhB3…)
+[20:50:38]   downloaded 2,257.0 MB in 77.9s (29.0 MB/s)
+[20:52:03]   upload done video_id=25307664 in 84.9s
