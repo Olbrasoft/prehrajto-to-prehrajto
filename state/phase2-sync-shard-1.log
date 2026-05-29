@@ -8460,3 +8460,14 @@
 [16:34:24]   upload done video_id=25304145 in 46.6s
 [16:34:26] film cr_film_id=30995 OK in 90.0s
 [16:34:26] batch-end ok=20 failed=0 dur=2770.3s avg/film=138.5s remaining=9081 eta_hours=349.4
+
+===== run 2026-05-29T16:34:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26649514809) =====
+[16:34:56] batch-start shard=1/2 count=20 backlog=10210 uploads=1129 failed_attempts=53
+[16:34:56] login
+[16:34:58] login done
+[16:34:58] iteration 1/20
+[16:34:58] film cr_film_id=7969 name='Robert the Bruce (2019) CZ Titulky' candidates=6
+[16:34:58]   candidate upload_id=5f1b8e8848b06 url=https://prehraj.to/robert-the-bruce-2019-cztitulky/5f1b8e8848b06
+[16:34:59]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/17487828/nGQH4eUxJtQ2u4dTldFZLUq7sBxC2ATJmtaG…)
+[16:37:05]   downloaded 2,662.3 MB in 123.4s (21.6 MB/s)
+[16:39:40]   upload done video_id=25304196 in 155.5s
