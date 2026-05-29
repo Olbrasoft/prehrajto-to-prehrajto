@@ -9642,3 +9642,14 @@
 [22:56:37]   upload done video_id=25308957 in 46.3s
 [22:56:38] film cr_film_id=30944 OK in 88.5s
 [22:56:38] batch-end ok=20 failed=0 dur=2509.5s avg/film=125.5s remaining=8921 eta_hours=311.0
+
+===== run 2026-05-29T22:57:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26666413928) =====
+[22:57:02] batch-start shard=0/2 count=20 backlog=10210 uploads=1289 failed_attempts=56
+[22:57:02] login
+[22:57:04] login done
+[22:57:04] iteration 1/20
+[22:57:04] film cr_film_id=30744 name='Darkness Visible (2019) CZ Titulky' candidates=1
+[22:57:04]   candidate upload_id=6005c61092025 url=https://prehraj.to/darkness-visible-2019-cztitulky/6005c61092025
+[22:57:05]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/21585675/l1dfWNFEQf13sBJfaETpyFOYUxyUzntmQSDk…)
+[22:57:52]   downloaded 1,357.1 MB in 45.6s (29.8 MB/s)
+[22:58:43]   upload done video_id=25308979 in 51.4s
