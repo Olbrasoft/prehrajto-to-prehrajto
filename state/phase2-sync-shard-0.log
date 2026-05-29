@@ -7608,3 +7608,14 @@
 [11:55:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superman-man-of-tomorrow-2020-en-cz-tit/c63d9a7cc35e76cc (permanent=True)
 [11:55:11] film cr_film_id=30938 all candidates exhausted
 [11:55:11] batch-end ok=19 failed=1 dur=2918.0s avg/film=153.6s remaining=9196 eta_hours=392.4
+
+===== run 2026-05-29T11:55:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26635822207) =====
+[11:55:37] batch-start shard=0/2 count=20 backlog=10210 uploads=1014 failed_attempts=51
+[11:55:37] login
+[11:55:38] login done
+[11:55:38] iteration 1/20
+[11:55:38] film cr_film_id=20672 name='Stargirl (2020) CZ Titulky' candidates=2
+[11:55:38]   candidate upload_id=5e8387383d8cb url=https://prehraj.to/stargirl-2020-cz-titulky/5e8387383d8cb
+[11:55:39]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/16104841/XO2SX7H5RsKpTOrUX2tBkHlvC8YSqVh5bivK…)
+[11:56:02]   downloaded 632.7 MB in 21.8s (29.0 MB/s)
+[11:56:27]   upload done video_id=25298646 in 24.7s
