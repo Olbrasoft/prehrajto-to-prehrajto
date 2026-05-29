@@ -22724,6 +22724,25 @@
         "download_sec": 47.6,
         "upload_sec": 59.7
       }
+    },
+    {
+      "cr_film_id": 30565,
+      "cr_slug": "havana-darkness",
+      "title": "Havana Darkness",
+      "year": 2019,
+      "display_name": "Havana Darkness (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "61ce52125ae29",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25306435,
+      "size_bytes": 533092104,
+      "uploaded_at": "2026-05-29T19:19:41Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.4,
+        "upload_sec": 22.3
+      }
     }
   ],
   "failed_attempts": [
@@ -23119,5 +23138,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-29T19:18:59Z"
+  "last_updated": "2026-05-29T19:19:41Z"
 }
