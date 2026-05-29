@@ -19532,6 +19532,25 @@
         "download_sec": 64.2,
         "upload_sec": 77.0
       }
+    },
+    {
+      "cr_film_id": 17452,
+      "cr_slug": "sergio",
+      "title": "Sergio",
+      "year": 2020,
+      "display_name": "Sergio (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e9aeee5d0474",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25298946,
+      "size_bytes": 1700099025,
+      "uploaded_at": "2026-05-29T12:24:58Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 53.2,
+        "upload_sec": 60.3
+      }
     }
   ],
   "failed_attempts": [
@@ -19898,5 +19917,5 @@
       "failed_at": "2026-05-29T11:55:11Z"
     }
   ],
-  "last_updated": "2026-05-29T12:23:01Z"
+  "last_updated": "2026-05-29T12:24:58Z"
 }
