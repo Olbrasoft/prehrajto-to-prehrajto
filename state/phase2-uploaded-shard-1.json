@@ -15371,6 +15371,25 @@
         "download_sec": 111.5,
         "upload_sec": 131.2
       }
+    },
+    {
+      "cr_film_id": 1339,
+      "cr_slug": "old-henry",
+      "title": "Old Henry",
+      "year": 2021,
+      "display_name": "Old Henry (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6167327800ce6",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25290948,
+      "size_bytes": 3671049711,
+      "uploaded_at": "2026-05-29T02:27:39Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 157.8,
+        "upload_sec": 204.9
+      }
     }
   ],
   "failed_attempts": [
@@ -15712,5 +15731,5 @@
       "failed_at": "2026-05-29T01:18:29Z"
     }
   ],
-  "last_updated": "2026-05-29T02:21:31Z"
+  "last_updated": "2026-05-29T02:27:39Z"
 }
