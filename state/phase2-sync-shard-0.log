@@ -6880,3 +6880,14 @@
 [07:02:02]   upload done video_id=25294624 in 37.3s
 [07:02:04] film cr_film_id=7594 OK in 75.8s
 [07:02:04] batch-end ok=20 failed=0 dur=2168.9s avg/film=108.4s remaining=9295 eta_hours=279.9
+
+===== run 2026-05-29T07:19:59Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26623922023) =====
+[07:20:00] batch-start shard=0/2 count=20 backlog=10210 uploads=915 failed_attempts=50
+[07:20:00] login
+[07:20:02] login done
+[07:20:02] iteration 1/20
+[07:20:02] film cr_film_id=27070 name='Fit for a Prince (2021) CZ Titulky' candidates=4
+[07:20:02]   candidate upload_id=60d316305f2eb url=https://prehraj.to/fit-for-a-prince-komedie-2021-cz-titulky/60d316305f2eb
+[07:20:06]   resolved in 4.5s → 720p (https://pf-storage2.premiumcdn.net/24007365/eEGtZGfWGU3lfDgSAwimEfp6ce7hdqc9WtKb…)
+[07:21:00]   downloaded 1,108.1 MB in 51.7s (21.4 MB/s)
+[07:22:08]   upload done video_id=25295035 in 67.7s
