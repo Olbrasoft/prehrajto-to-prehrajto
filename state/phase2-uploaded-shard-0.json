@@ -19038,6 +19038,25 @@
         "download_sec": 93.8,
         "upload_sec": 122.8
       }
+    },
+    {
+      "cr_film_id": 31046,
+      "cr_slug": "the-dinner-party",
+      "title": "The Dinner Party",
+      "year": 2020,
+      "display_name": "The Dinner Party (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6905db37100d2",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25298359,
+      "size_bytes": 885121908,
+      "uploaded_at": "2026-05-29T11:29:49Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 45.1,
+        "upload_sec": 53.5
+      }
     }
   ],
   "failed_attempts": [
@@ -19397,5 +19416,5 @@
       "failed_at": "2026-05-29T04:44:49Z"
     }
   ],
-  "last_updated": "2026-05-29T11:28:05Z"
+  "last_updated": "2026-05-29T11:29:49Z"
 }
