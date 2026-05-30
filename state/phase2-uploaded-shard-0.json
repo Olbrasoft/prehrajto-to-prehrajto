@@ -28082,6 +28082,25 @@
         "download_sec": 30.3,
         "upload_sec": 37.0
       }
+    },
+    {
+      "cr_film_id": 29712,
+      "cr_slug": "andhadhun",
+      "title": "Andhadhun",
+      "year": 2018,
+      "display_name": "Andhadhun (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5da0b1d10d868",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25313026,
+      "size_bytes": 1005644066,
+      "uploaded_at": "2026-05-30T05:10:57Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 43.4,
+        "upload_sec": 58.2
+      }
     }
   ],
   "failed_attempts": [
@@ -28490,5 +28509,5 @@
       "failed_at": "2026-05-30T01:20:49Z"
     }
   ],
-  "last_updated": "2026-05-30T05:09:11Z"
+  "last_updated": "2026-05-30T05:10:57Z"
 }
