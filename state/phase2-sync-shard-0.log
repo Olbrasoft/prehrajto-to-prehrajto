@@ -11250,3 +11250,14 @@
 [06:10:02]   upload done video_id=25313612 in 18.5s
 [06:10:04] film cr_film_id=19040 OK in 38.9s
 [06:10:04] batch-end ok=20 failed=0 dur=2357.1s avg/film=117.9s remaining=8702 eta_hours=285.0
+
+===== run 2026-05-30T06:10:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26676530573) =====
+[06:10:33] batch-start shard=0/2 count=20 backlog=10210 uploads=1508 failed_attempts=58
+[06:10:33] login
+[06:10:35] login done
+[06:10:35] iteration 1/20
+[06:10:35] film cr_film_id=29646 name='The House Next Door (2017) CZ Titulky' candidates=2
+[06:10:35]   candidate upload_id=5b6594fd4b489 url=https://prehraj.to/the-house-next-door-2017-cz-titulky-vlozene/5b6594fd4b489
+[06:10:36]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/5184673/eZwcEauA5I5ZsxRfOxUBnu7lSbkigYIZDSNgS…)
+[06:12:02]   downloaded 1,989.2 MB in 83.7s (23.8 MB/s)
+[06:13:36]   upload done video_id=25313638 in 94.5s
