@@ -36879,6 +36879,25 @@
         "download_sec": 16.7,
         "upload_sec": 29.9
       }
+    },
+    {
+      "cr_film_id": 20060,
+      "cr_slug": "chained",
+      "title": "Chained",
+      "year": 2012,
+      "display_name": "Chained (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "689d7683a3251",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25362387,
+      "size_bytes": 158101523,
+      "uploaded_at": "2026-05-30T19:20:50Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 6.5,
+        "upload_sec": 15.7
+      }
     }
   ],
   "failed_attempts": [
@@ -37306,5 +37325,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T19:20:25Z"
+  "last_updated": "2026-05-30T19:20:50Z"
 }
