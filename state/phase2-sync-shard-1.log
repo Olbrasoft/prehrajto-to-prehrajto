@@ -10502,3 +10502,14 @@
 [02:45:10]   upload done video_id=25311481 in 34.9s
 [02:45:11] film cr_film_id=19201 OK in 64.0s
 [02:45:11] batch-end ok=19 failed=1 dur=1826.3s avg/film=96.1s remaining=8802 eta_hours=235.0
+
+===== run 2026-05-30T03:00:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26672658268) =====
+[03:00:28] batch-start shard=1/2 count=20 backlog=10210 uploads=1408 failed_attempts=54
+[03:00:28] login
+[03:00:29] login done
+[03:00:29] iteration 1/20
+[03:00:29] film cr_film_id=9555 name='Big Legend (2018) CZ Titulky' candidates=5
+[03:00:29]   candidate upload_id=5b830c408852a url=https://prehraj.to/big-legend-2018-cz-titulky-vlozene/5b830c408852a
+[03:00:31]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/5521659/PWJtaLTPeF6qcQnhBPTerTo2iBLIePsd0Sp0f…)
+[03:01:40]   downloaded 1,537.0 MB in 67.0s (22.9 MB/s)
+[03:02:53]   upload done video_id=25311627 in 73.7s
