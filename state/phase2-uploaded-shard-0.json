@@ -38532,6 +38532,25 @@
         "download_sec": 41.7,
         "upload_sec": 57.2
       }
+    },
+    {
+      "cr_film_id": 26046,
+      "cr_slug": "dream-boy",
+      "title": "Dream Boy",
+      "year": 2008,
+      "display_name": "Dream Boy (2008) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "586996925c193",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25370751,
+      "size_bytes": 460798092,
+      "uploaded_at": "2026-05-30T23:38:55Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.4,
+        "upload_sec": 33.2
+      }
     }
   ],
   "failed_attempts": [
@@ -38959,5 +38978,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T23:37:55Z"
+  "last_updated": "2026-05-30T23:38:55Z"
 }
