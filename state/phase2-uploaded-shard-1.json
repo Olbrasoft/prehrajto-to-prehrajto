@@ -36043,6 +36043,25 @@
         "download_sec": 23.9,
         "upload_sec": 48.2
       }
+    },
+    {
+      "cr_film_id": 30211,
+      "cr_slug": "max-schmeling",
+      "title": "Max Schmeling",
+      "year": 2010,
+      "display_name": "Max Schmeling (2010) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "684f5306a3b99",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25327808,
+      "size_bytes": 1476267650,
+      "uploaded_at": "2026-05-30T17:31:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 125.4,
+        "upload_sec": 64.3
+      }
     }
   ],
   "failed_attempts": [
@@ -36464,5 +36483,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T17:27:53Z"
+  "last_updated": "2026-05-30T17:31:06Z"
 }
