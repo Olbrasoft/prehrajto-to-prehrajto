@@ -14606,3 +14606,14 @@
 [21:18:51]   upload done video_id=25365216 in 48.4s
 [21:18:53] film cr_film_id=19980 OK in 1325.7s
 [21:18:53] batch-end ok=20 failed=0 dur=3841.7s avg/film=192.1s remaining=8243 eta_hours=439.9
+
+===== run 2026-05-30T21:19:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26695186820) =====
+[21:19:21] batch-start shard=0/2 count=20 backlog=10210 uploads=1967 failed_attempts=59
+[21:19:21] login
+[21:19:23] login done
+[21:19:23] iteration 1/20
+[21:19:23] film cr_film_id=27644 name='Konecná uprostred cesty (2011) CZ Titulky' candidates=1
+[21:19:23]   candidate upload_id=5fea53ff4fe2c url=https://prehraj.to/konecna-uprostred-cesty-2011-cztitulky/5fea53ff4fe2c
+[21:19:24]   resolved in 1.7s → 480p (https://pf-storage5.premiumcdn.net/21079245/84zuYPFvmUaKUlBf57im9F5lt4mHV3savUGm…)
+[21:20:02]   downloaded 720.6 MB in 35.6s (20.2 MB/s)
+[21:20:53]   upload done video_id=25365259 in 50.7s
