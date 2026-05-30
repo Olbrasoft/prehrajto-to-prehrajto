@@ -28196,6 +28196,25 @@
         "download_sec": 31.6,
         "upload_sec": 37.4
       }
+    },
+    {
+      "cr_film_id": 33507,
+      "cr_slug": "mudbound",
+      "title": "Mudbound",
+      "year": 2017,
+      "display_name": "Mudbound (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e5c23007a62d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25313075,
+      "size_bytes": 2131963786,
+      "uploaded_at": "2026-05-30T05:20:23Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 86.3,
+        "upload_sec": 125.6
+      }
     }
   ],
   "failed_attempts": [
@@ -28598,5 +28617,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T05:16:47Z"
+  "last_updated": "2026-05-30T05:20:23Z"
 }
