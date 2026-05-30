@@ -32471,6 +32471,25 @@
         "download_sec": 16.2,
         "upload_sec": 34.6
       }
+    },
+    {
+      "cr_film_id": 30430,
+      "cr_slug": "wild-horses",
+      "title": "Wild Horses",
+      "year": 2015,
+      "display_name": "Wild Horses (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "55d0d285b516d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25317235,
+      "size_bytes": 461951470,
+      "uploaded_at": "2026-05-30T12:22:28Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.1,
+        "upload_sec": 33.3
+      }
     }
   ],
   "failed_attempts": [
@@ -32898,5 +32917,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T12:21:27Z"
+  "last_updated": "2026-05-30T12:22:28Z"
 }
