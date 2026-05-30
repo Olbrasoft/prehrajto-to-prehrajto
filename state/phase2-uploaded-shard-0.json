@@ -31008,6 +31008,25 @@
         "download_sec": 21.0,
         "upload_sec": 24.9
       }
+    },
+    {
+      "cr_film_id": 33326,
+      "cr_slug": "shin-godzilla",
+      "title": "Shin Godzilla",
+      "year": 2016,
+      "display_name": "Shin Godzilla (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "687c14672dca5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25315938,
+      "size_bytes": 666239459,
+      "uploaded_at": "2026-05-30T10:04:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 28.2,
+        "upload_sec": 37.4
+      }
     }
   ],
   "failed_attempts": [
@@ -31435,5 +31454,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T10:03:43Z"
+  "last_updated": "2026-05-30T10:04:53Z"
 }
