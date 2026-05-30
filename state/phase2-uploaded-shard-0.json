@@ -37202,6 +37202,25 @@
         "download_sec": 37.2,
         "upload_sec": 42.8
       }
+    },
+    {
+      "cr_film_id": 27698,
+      "cr_slug": "romeo-a-romeo",
+      "title": "Romeo a Romeo",
+      "year": 2011,
+      "display_name": "Romeo a Romeo (2011) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5feb9ee44ad0a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25364220,
+      "size_bytes": 641443936,
+      "uploaded_at": "2026-05-30T20:35:11Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 39.7,
+        "upload_sec": 46.7
+      }
     }
   ],
   "failed_attempts": [
@@ -37629,5 +37648,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T20:33:39Z"
+  "last_updated": "2026-05-30T20:35:11Z"
 }
