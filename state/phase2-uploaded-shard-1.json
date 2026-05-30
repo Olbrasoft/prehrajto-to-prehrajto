@@ -26144,6 +26144,25 @@
         "download_sec": 73.3,
         "upload_sec": 93.6
       }
+    },
+    {
+      "cr_film_id": 17035,
+      "cr_slug": "fast-color",
+      "title": "Fast Color",
+      "year": 2018,
+      "display_name": "Fast Color (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e232fd485b4e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25311026,
+      "size_bytes": 529223475,
+      "uploaded_at": "2026-05-30T01:36:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.2,
+        "upload_sec": 23.9
+      }
     }
   ],
   "failed_attempts": [
@@ -26539,5 +26558,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-30T01:35:21Z"
+  "last_updated": "2026-05-30T01:36:11Z"
 }
