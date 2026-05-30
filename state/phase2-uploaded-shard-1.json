@@ -38190,6 +38190,25 @@
         "download_sec": 30.5,
         "upload_sec": 44.0
       }
+    },
+    {
+      "cr_film_id": 31915,
+      "cr_slug": "jagarna",
+      "title": "Jägarna",
+      "year": 1996,
+      "display_name": "Jägarna (1996) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "56553ebaa9a8a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25369977,
+      "size_bytes": 912004604,
+      "uploaded_at": "2026-05-30T23:00:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 41.6,
+        "upload_sec": 65.2
+      }
     }
   ],
   "failed_attempts": [
@@ -38623,5 +38642,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T22:58:44Z"
+  "last_updated": "2026-05-30T23:00:36Z"
 }
