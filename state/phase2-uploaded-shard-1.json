@@ -36100,6 +36100,25 @@
         "download_sec": 51.0,
         "upload_sec": 65.2
       }
+    },
+    {
+      "cr_film_id": 26967,
+      "cr_slug": "klinika",
+      "title": "Klinika",
+      "year": 2010,
+      "display_name": "Klinika (2010) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fda618ea4a8c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25327910,
+      "size_bytes": 390316045,
+      "uploaded_at": "2026-05-30T17:34:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.2,
+        "upload_sec": 28.8
+      }
     }
   ],
   "failed_attempts": [
@@ -36521,5 +36540,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T17:33:49Z"
+  "last_updated": "2026-05-30T17:34:33Z"
 }
