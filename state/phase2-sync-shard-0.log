@@ -14314,3 +14314,14 @@
 [18:26:04]   upload done video_id=25337735 in 20.3s
 [18:26:05] film cr_film_id=27822 OK in 34.7s
 [18:26:05] batch-end ok=20 failed=0 dur=2136.2s avg/film=106.8s remaining=8283 eta_hours=245.7
+
+===== run 2026-05-30T18:26:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26691534100) =====
+[18:26:27] batch-start shard=0/2 count=20 backlog=10210 uploads=1927 failed_attempts=59
+[18:26:27] login
+[18:26:28] login done
+[18:26:28] iteration 1/20
+[18:26:28] film cr_film_id=30284 name='Odhalený přístav (2012) CZ Titulky' candidates=3
+[18:26:28]   candidate upload_id=5852342477ba7 url=https://prehraj.to/naked-harbour-2012-cztit-v-obraze-mp4/5852342477ba7
+[18:26:29]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1176519/KqQHYmIBztN6UnKuoNUlaIabCdgCyQtBdTQoT…)
+[18:31:59]   downloaded 539.0 MB in 328.2s (1.6 MB/s)
+[18:32:30]   upload done video_id=25340149 in 30.8s

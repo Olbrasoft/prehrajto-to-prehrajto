@@ -36613,6 +36613,25 @@
         "download_sec": 11.0,
         "upload_sec": 20.3
       }
+    },
+    {
+      "cr_film_id": 30284,
+      "cr_slug": "odhaleny-pristav",
+      "title": "Odhalený přístav",
+      "year": 2012,
+      "display_name": "Odhalený přístav (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5852342477ba7",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25340149,
+      "size_bytes": 539036419,
+      "uploaded_at": "2026-05-30T18:32:30Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 328.2,
+        "upload_sec": 30.8
+      }
     }
   ],
   "failed_attempts": [
@@ -37040,5 +37059,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T18:26:04Z"
+  "last_updated": "2026-05-30T18:32:30Z"
 }
