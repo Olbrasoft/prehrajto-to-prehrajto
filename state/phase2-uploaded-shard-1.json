@@ -29602,6 +29602,25 @@
         "download_sec": 16.2,
         "upload_sec": 25.2
       }
+    },
+    {
+      "cr_film_id": 16705,
+      "cr_slug": "the-exception",
+      "title": "The Exception",
+      "year": 2016,
+      "display_name": "The Exception (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "59c51b454c22a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25314401,
+      "size_bytes": 371585582,
+      "uploaded_at": "2026-05-30T07:44:55Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 12.6,
+        "upload_sec": 22.7
+      }
     }
   ],
   "failed_attempts": [
@@ -30023,5 +30042,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T07:44:15Z"
+  "last_updated": "2026-05-30T07:44:55Z"
 }
