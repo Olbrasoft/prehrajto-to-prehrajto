@@ -38570,6 +38570,25 @@
         "download_sec": 22.8,
         "upload_sec": 41.0
       }
+    },
+    {
+      "cr_film_id": 19522,
+      "cr_slug": "autopsy",
+      "title": "Autopsy",
+      "year": 2008,
+      "display_name": "Autopsy (2008) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60748fabd7275",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25370802,
+      "size_bytes": 503159362,
+      "uploaded_at": "2026-05-30T23:41:05Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 21.9,
+        "upload_sec": 35.3
+      }
     }
   ],
   "failed_attempts": [
@@ -38997,5 +39016,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T23:40:04Z"
+  "last_updated": "2026-05-30T23:41:05Z"
 }
