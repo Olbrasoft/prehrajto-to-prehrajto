@@ -28215,6 +28215,25 @@
         "download_sec": 96.1,
         "upload_sec": 111.2
       }
+    },
+    {
+      "cr_film_id": 31852,
+      "cr_slug": "25-km-h",
+      "title": "25 km/h",
+      "year": 2018,
+      "display_name": "25 km/h (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f70d6d6b4e98",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25313123,
+      "size_bytes": 1139596715,
+      "uploaded_at": "2026-05-30T05:28:06Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 56.1,
+        "upload_sec": 63.2
+      }
     }
   ],
   "failed_attempts": [
@@ -28623,5 +28642,5 @@
       "failed_at": "2026-05-30T01:20:49Z"
     }
   ],
-  "last_updated": "2026-05-30T05:26:02Z"
+  "last_updated": "2026-05-30T05:28:06Z"
 }
