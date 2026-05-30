@@ -30856,6 +30856,25 @@
         "download_sec": 22.5,
         "upload_sec": 27.2
       }
+    },
+    {
+      "cr_film_id": 7904,
+      "cr_slug": "terrifier",
+      "title": "Terrifier",
+      "year": 2016,
+      "display_name": "Terrifier (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "4605bdc1d16a5d64",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25315815,
+      "size_bytes": 2667581099,
+      "uploaded_at": "2026-05-30T09:51:55Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 112.1,
+        "upload_sec": 141.7
+      }
     }
   ],
   "failed_attempts": [
@@ -31283,5 +31302,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T09:47:37Z"
+  "last_updated": "2026-05-30T09:51:55Z"
 }
