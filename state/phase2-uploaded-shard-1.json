@@ -31445,6 +31445,25 @@
         "download_sec": 19.4,
         "upload_sec": 21.1
       }
+    },
+    {
+      "cr_film_id": 28037,
+      "cr_slug": "safelight",
+      "title": "Safelight",
+      "year": 2015,
+      "display_name": "Safelight (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "576d904ec9827",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25316320,
+      "size_bytes": 791152491,
+      "uploaded_at": "2026-05-30T10:45:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 37.3,
+        "upload_sec": 40.3
+      }
     }
   ],
   "failed_attempts": [
@@ -31866,5 +31885,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T10:44:05Z"
+  "last_updated": "2026-05-30T10:45:27Z"
 }
