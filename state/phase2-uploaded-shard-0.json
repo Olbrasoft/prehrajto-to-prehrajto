@@ -36841,6 +36841,25 @@
         "download_sec": 256.9,
         "upload_sec": 19.1
       }
+    },
+    {
+      "cr_film_id": 27808,
+      "cr_slug": "cherry-2012",
+      "title": "Cherry",
+      "year": 2012,
+      "display_name": "Cherry (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fe49fa20ff45",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25362338,
+      "size_bytes": 1383827587,
+      "uploaded_at": "2026-05-30T19:19:35Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 44.0,
+        "upload_sec": 57.8
+      }
     }
   ],
   "failed_attempts": [
@@ -37268,5 +37287,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T19:17:49Z"
+  "last_updated": "2026-05-30T19:19:35Z"
 }
