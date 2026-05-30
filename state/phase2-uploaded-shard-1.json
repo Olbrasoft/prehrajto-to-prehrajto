@@ -26980,6 +26980,25 @@
         "download_sec": 27.0,
         "upload_sec": 30.2
       }
+    },
+    {
+      "cr_film_id": 17275,
+      "cr_slug": "another-round",
+      "title": "Another Round",
+      "year": 2018,
+      "display_name": "Another Round (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "c3bf3cd69e964830",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25311883,
+      "size_bytes": 798622319,
+      "uploaded_at": "2026-05-30T03:27:31Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 36.7,
+        "upload_sec": 41.8
+      }
     }
   ],
   "failed_attempts": [
@@ -27382,5 +27401,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T03:26:08Z"
+  "last_updated": "2026-05-30T03:27:31Z"
 }
