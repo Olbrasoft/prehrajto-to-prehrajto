@@ -26904,6 +26904,25 @@
         "download_sec": 121.9,
         "upload_sec": 139.1
       }
+    },
+    {
+      "cr_film_id": 20663,
+      "cr_slug": "astral",
+      "title": "Astral",
+      "year": 2018,
+      "display_name": "Astral (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5c3dcdb93d9c1",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25311811,
+      "size_bytes": 807870137,
+      "uploaded_at": "2026-05-30T03:21:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 36.9,
+        "upload_sec": 45.0
+      }
     }
   ],
   "failed_attempts": [
@@ -27306,5 +27325,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T03:19:46Z"
+  "last_updated": "2026-05-30T03:21:12Z"
 }
