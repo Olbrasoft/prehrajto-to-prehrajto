@@ -36100,6 +36100,25 @@
         "download_sec": 16.6,
         "upload_sec": 27.2
       }
+    },
+    {
+      "cr_film_id": 27976,
+      "cr_slug": "code-red",
+      "title": "Code Red",
+      "year": 2013,
+      "display_name": "Code Red (2013) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "55c94eab8d48b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25328134,
+      "size_bytes": 593249861,
+      "uploaded_at": "2026-05-30T17:42:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.0,
+        "upload_sec": 31.0
+      }
     }
   ],
   "failed_attempts": [
@@ -36527,5 +36546,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T17:41:34Z"
+  "last_updated": "2026-05-30T17:42:28Z"
 }
