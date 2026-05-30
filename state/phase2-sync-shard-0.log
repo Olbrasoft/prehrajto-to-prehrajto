@@ -10224,3 +10224,14 @@
 [01:25:26]   upload done video_id=25310871 in 40.7s
 [01:25:27] film cr_film_id=30692 OK in 77.2s
 [01:25:27] batch-end ok=19 failed=1 dur=2115.6s avg/film=111.3s remaining=8842 eta_hours=273.4
+
+===== run 2026-05-30T01:25:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26670618554) =====
+[01:25:49] batch-start shard=0/2 count=20 backlog=10210 uploads=1368 failed_attempts=57
+[01:25:49] login
+[01:25:50] login done
+[01:25:50] iteration 1/20
+[01:25:50] film cr_film_id=17222 name='The Boat (2018) CZ Titulky' candidates=1
+[01:25:50]   candidate upload_id=5d74d84f04678 url=https://prehraj.to/the-boat-thriller-v-b-2018-1080p-h264-s-cztitulky-sten-ok/5d74d84f04678
+[01:25:52]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/14793636/jwQu8oF6ZheZcbVipOH7OF2LI9WSXVHx3hpn…)
+[01:27:11]   downloaded 1,789.2 MB in 77.2s (23.2 MB/s)
+[01:28:40]   upload done video_id=25310906 in 88.9s
