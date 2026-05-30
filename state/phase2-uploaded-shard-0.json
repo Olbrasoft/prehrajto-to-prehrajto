@@ -34238,6 +34238,25 @@
         "download_sec": 52.4,
         "upload_sec": 72.1
       }
+    },
+    {
+      "cr_film_id": 18520,
+      "cr_slug": "slepa",
+      "title": "Slepá",
+      "year": 2014,
+      "display_name": "Slepá (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5648f3049425e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25322054,
+      "size_bytes": 306581690,
+      "uploaded_at": "2026-05-30T14:41:49Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.3,
+        "upload_sec": 32.8
+      }
     }
   ],
   "failed_attempts": [
@@ -34665,5 +34684,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T14:40:54Z"
+  "last_updated": "2026-05-30T14:41:49Z"
 }
