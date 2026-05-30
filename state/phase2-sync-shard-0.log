@@ -14168,3 +14168,14 @@
 [17:50:01]   upload done video_id=25328327 in 32.3s
 [17:50:02] film cr_film_id=19818 OK in 56.0s
 [17:50:02] batch-end ok=20 failed=0 dur=1924.8s avg/film=96.2s remaining=8303 eta_hours=221.9
+
+===== run 2026-05-30T17:50:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26690766219) =====
+[17:50:28] batch-start shard=0/2 count=20 backlog=10210 uploads=1907 failed_attempts=59
+[17:50:28] login
+[17:50:29] login done
+[17:50:29] iteration 1/20
+[17:50:29] film cr_film_id=28200 name='Bhaag Milkha Bhaag (2013) CZ Titulky' candidates=2
+[17:50:29]   candidate upload_id=567835df28474 url=https://prehraj.to/bhaag-milkha-bhaag-2013-cz-tit-zivotopis-drama-koko/567835df28474
+[17:50:30]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/517292/O2RIdaiw6SdQC3kTeJsYNiNKFvxuYoFvBuY8s1…)
+[17:51:46]   downloaded 2,568.4 MB in 74.5s (34.5 MB/s)
+[17:53:21]   upload done video_id=25328390 in 94.7s
