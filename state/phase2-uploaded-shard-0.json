@@ -25308,6 +25308,25 @@
         "download_sec": 37.7,
         "upload_sec": 57.7
       }
+    },
+    {
+      "cr_film_id": 20924,
+      "cr_slug": "zahadna-boure",
+      "title": "Záhadná bouře",
+      "year": 2018,
+      "display_name": "Záhadná bouře (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5de531076594e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25310083,
+      "size_bytes": 426170401,
+      "uploaded_at": "2026-05-30T00:21:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 14.6,
+        "upload_sec": 24.6
+      }
     }
   ],
   "failed_attempts": [
@@ -25709,5 +25728,5 @@
       "failed_at": "2026-05-29T22:00:53Z"
     }
   ],
-  "last_updated": "2026-05-30T00:20:44Z"
+  "last_updated": "2026-05-30T00:21:27Z"
 }
