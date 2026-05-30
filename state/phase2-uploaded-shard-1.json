@@ -35264,6 +35264,25 @@
         "download_sec": 52.6,
         "upload_sec": 79.1
       }
+    },
+    {
+      "cr_film_id": 27583,
+      "cr_slug": "stud",
+      "title": "Stud",
+      "year": 2011,
+      "display_name": "Stud (2011) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58ad5c347ccd3",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25325512,
+      "size_bytes": 327397293,
+      "uploaded_at": "2026-05-30T16:11:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.0,
+        "upload_sec": 29.9
+      }
     }
   ],
   "failed_attempts": [
@@ -35685,5 +35704,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T16:10:40Z"
+  "last_updated": "2026-05-30T16:11:32Z"
 }
