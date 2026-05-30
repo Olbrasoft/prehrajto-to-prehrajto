@@ -10370,3 +10370,14 @@
 [02:14:10]   upload done video_id=25311315 in 38.0s
 [02:14:11] film cr_film_id=30670 OK in 76.7s
 [02:14:11] batch-end ok=20 failed=0 dur=2900.6s avg/film=145.0s remaining=8822 eta_hours=355.3
+
+===== run 2026-05-30T02:14:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26671700633) =====
+[02:14:38] batch-start shard=0/2 count=20 backlog=10210 uploads=1388 failed_attempts=57
+[02:14:38] login
+[02:14:40] login done
+[02:14:40] iteration 1/20
+[02:14:40] film cr_film_id=33388 name='Rampant (2018) CZ Titulky' candidates=2
+[02:14:40]   candidate upload_id=5c44ce193a822 url=https://prehraj.to/rampant-2018-cz-titulky-vlozene/5c44ce193a822
+[02:14:41]   resolved in 1.7s → 480p (https://pf-storage1.premiumcdn.net/11127568/KgEuP2F5NU2QT8AS9rh2rFK6UpycWYcKycb7…)
+[02:15:36]   downloaded 1,094.4 MB in 52.8s (20.7 MB/s)
+[02:16:40]   upload done video_id=25311327 in 63.6s
