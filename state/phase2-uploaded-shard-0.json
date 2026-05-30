@@ -36043,6 +36043,25 @@
         "download_sec": 97.1,
         "upload_sec": 129.1
       }
+    },
+    {
+      "cr_film_id": 27122,
+      "cr_slug": "dark-feed",
+      "title": "Dark Feed",
+      "year": 2013,
+      "display_name": "Dark Feed (2013) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "55c9390365cf5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25328017,
+      "size_bytes": 1847188758,
+      "uploaded_at": "2026-05-30T17:39:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 57.7,
+        "upload_sec": 93.4
+      }
     }
   ],
   "failed_attempts": [
@@ -36470,5 +36489,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T17:36:50Z"
+  "last_updated": "2026-05-30T17:39:24Z"
 }
