@@ -33687,6 +33687,25 @@
         "download_sec": 13.8,
         "upload_sec": 21.2
       }
+    },
+    {
+      "cr_film_id": 20690,
+      "cr_slug": "az-na-vrchol",
+      "title": "Až na vrchol",
+      "year": 2015,
+      "display_name": "Až na vrchol (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "56a003e167654",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25319828,
+      "size_bytes": 1442886091,
+      "uploaded_at": "2026-05-30T13:52:20Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 53.0,
+        "upload_sec": 61.8
+      }
     }
   ],
   "failed_attempts": [
@@ -34114,5 +34133,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T13:50:21Z"
+  "last_updated": "2026-05-30T13:52:20Z"
 }
