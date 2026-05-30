@@ -12854,3 +12854,14 @@
 [12:48:01]   upload done video_id=25317405 in 36.2s
 [12:48:03] film cr_film_id=29300 OK in 65.7s
 [12:48:03] batch-end ok=20 failed=0 dur=1751.9s avg/film=87.6s remaining=8483 eta_hours=206.4
+
+===== run 2026-05-30T12:51:06Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26684266048) =====
+[12:51:06] batch-start shard=0/2 count=20 backlog=10210 uploads=1727 failed_attempts=59
+[12:51:06] login
+[12:51:08] login done
+[12:51:08] iteration 1/20
+[12:51:08] film cr_film_id=18996 name='Southbound (2015) CZ Titulky' candidates=4
+[12:51:08]   candidate upload_id=56f89de88e779 url=https://prehraj.to/southbound-2015-cz-titulky-hdrip-xvid/56f89de88e779
+[12:51:09]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/22255/J5Xfvbc1YhbduqDuK9UoBcdos9Eup1sG0IRZSjo…)
+[12:51:22]   downloaded 365.7 MB in 11.8s (31.0 MB/s)
+[12:51:51]   upload done video_id=25317445 in 28.9s
