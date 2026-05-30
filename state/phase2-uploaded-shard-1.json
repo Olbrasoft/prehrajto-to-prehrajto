@@ -25574,6 +25574,25 @@
         "download_sec": 42.7,
         "upload_sec": 47.7
       }
+    },
+    {
+      "cr_film_id": 29505,
+      "cr_slug": "mi-mejor-amigo",
+      "title": "Mi mejor amigo",
+      "year": 2018,
+      "display_name": "Mi mejor amigo (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "600f19cb7df6a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25310439,
+      "size_bytes": 935318064,
+      "uploaded_at": "2026-05-30T00:43:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 27.3,
+        "upload_sec": 35.5
+      }
     }
   ],
   "failed_attempts": [
@@ -25969,5 +25988,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-30T00:42:50Z"
+  "last_updated": "2026-05-30T00:43:56Z"
 }
