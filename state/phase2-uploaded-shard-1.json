@@ -28918,6 +28918,25 @@
         "download_sec": 46.3,
         "upload_sec": 51.6
       }
+    },
+    {
+      "cr_film_id": 18251,
+      "cr_slug": "beyond-skyline",
+      "title": "Beyond Skyline",
+      "year": 2017,
+      "display_name": "Beyond Skyline (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5a39a2481f6ed",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25313761,
+      "size_bytes": 629565944,
+      "uploaded_at": "2026-05-30T06:32:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.4,
+        "upload_sec": 23.7
+      }
     }
   ],
   "failed_attempts": [
@@ -29320,5 +29339,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T06:31:23Z"
+  "last_updated": "2026-05-30T06:32:11Z"
 }
