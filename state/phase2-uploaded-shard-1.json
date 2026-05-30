@@ -32395,6 +32395,25 @@
         "download_sec": 28.8,
         "upload_sec": 43.4
       }
+    },
+    {
+      "cr_film_id": 33301,
+      "cr_slug": "x-y",
+      "title": "X+Y",
+      "year": 2014,
+      "display_name": "X+Y (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5cf876dccfc23",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25317188,
+      "size_bytes": 507727910,
+      "uploaded_at": "2026-05-30T12:14:25Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.6,
+        "upload_sec": 29.9
+      }
     }
   ],
   "failed_attempts": [
@@ -32816,5 +32835,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T12:13:35Z"
+  "last_updated": "2026-05-30T12:14:25Z"
 }
