@@ -34865,6 +34865,25 @@
         "download_sec": 21.3,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 18546,
+      "cr_slug": "i-am-soldier",
+      "title": "I Am Soldier",
+      "year": 2014,
+      "display_name": "I Am Soldier (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "56829bbad9ddc",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25324217,
+      "size_bytes": 410143042,
+      "uploaded_at": "2026-05-30T15:35:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 65.9,
+        "upload_sec": 28.9
+      }
     }
   ],
   "failed_attempts": [
@@ -35292,5 +35311,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T15:34:12Z"
+  "last_updated": "2026-05-30T15:35:51Z"
 }
