@@ -11832,3 +11832,14 @@
 [08:54:43]   upload done video_id=25315218 in 105.9s
 [08:54:44] film cr_film_id=29446 OK in 182.9s
 [08:54:44] batch-end ok=19 failed=1 dur=3065.3s avg/film=161.3s remaining=8623 eta_hours=386.4
+
+===== run 2026-05-30T08:55:06Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26679750519) =====
+[08:55:06] batch-start shard=0/2 count=20 backlog=10210 uploads=1587 failed_attempts=59
+[08:55:06] login
+[08:55:08] login done
+[08:55:08] iteration 1/20
+[08:55:08] film cr_film_id=33040 name='Cesta divočinou (2017) CZ Titulky' candidates=2
+[08:55:08]   candidate upload_id=5aae1b2a07e28 url=https://prehraj.to/walking-out-dobrodruzny-2017-1080p-s-cz-titulky-sten-ok/5aae1b2a07e28
+[08:55:09]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/3676865/6mDhyzUEzT30UpRTyLtedUvECMjTYbHyYcKns…)
+[08:56:17]   downloaded 2,145.2 MB in 66.6s (32.2 MB/s)
+[08:57:50]   upload done video_id=25315242 in 93.2s
