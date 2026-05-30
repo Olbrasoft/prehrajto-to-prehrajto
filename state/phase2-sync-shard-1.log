@@ -14154,3 +14154,14 @@
 [17:41:59]   upload done video_id=25328115 in 39.3s
 [17:42:00] film cr_film_id=19813 OK in 70.2s
 [17:42:00] batch-end ok=20 failed=0 dur=1441.9s avg/film=72.1s remaining=8303 eta_hours=166.3
+
+===== run 2026-05-30T17:50:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26690766219) =====
+[17:50:31] batch-start shard=1/2 count=20 backlog=10210 uploads=1907 failed_attempts=56
+[17:50:31] login
+[17:50:32] login done
+[17:50:32] iteration 1/20
+[17:50:32] film cr_film_id=32401 name='Burke & Hare (2010) CZ Titulky' candidates=2
+[17:50:32]   candidate upload_id=580ed5ba2b027 url=https://prehraj.to/burke-and-hare-2010-best-quality-cz-tit/580ed5ba2b027
+[17:50:33]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/749008/bvnHxZTxzcQdFvJCL7UrvTP4hX4UjaCqxuNYfY…)
+[17:50:57]   downloaded 438.6 MB in 21.0s (20.9 MB/s)
+[17:51:30]   upload done video_id=25328367 in 32.9s
