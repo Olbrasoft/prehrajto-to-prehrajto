@@ -15030,3 +15030,14 @@
 [23:35:42]   upload done video_id=25370693 in 41.2s
 [23:35:43] film cr_film_id=23199 OK in 75.2s
 [23:35:43] batch-end ok=20 failed=0 dur=2724.1s avg/film=136.2s remaining=8184 eta_hours=309.6
+
+===== run 2026-05-30T23:36:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26697922636) =====
+[23:36:05] batch-start shard=1/2 count=20 backlog=10210 uploads=2026 failed_attempts=57
+[23:36:05] login
+[23:36:06] login done
+[23:36:06] iteration 1/20
+[23:36:06] film cr_film_id=11959 name='Godzilla vs. King Ghidorah (1991) CZ Titulky' candidates=1
+[23:36:06]   candidate upload_id=fe62f1fab37df998 url=https://prehraj.to/godzilla-vs-king-ghidorah-1991-cz-titulky/fe62f1fab37df998
+[23:36:07]   resolved in 1.1s → 480p (https://pf-storage6.premiumcdn.net/170635817/qqJf8nHORFPBFd4cm3INOH10ubDCZDIeVfA…)
+[23:36:34]   downloaded 759.0 MB in 25.5s (29.8 MB/s)
+[23:37:04]   upload done video_id=25370713 in 29.4s
