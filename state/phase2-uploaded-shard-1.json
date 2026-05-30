@@ -26163,6 +26163,25 @@
         "download_sec": 21.2,
         "upload_sec": 23.9
       }
+    },
+    {
+      "cr_film_id": 10067,
+      "cr_slug": "family-blood",
+      "title": "Family Blood",
+      "year": 2018,
+      "display_name": "Family Blood (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5b2cb34e8f12c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25311037,
+      "size_bytes": 290876929,
+      "uploaded_at": "2026-05-30T01:36:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 12.8,
+        "upload_sec": 15.8
+      }
     }
   ],
   "failed_attempts": [
@@ -26558,5 +26577,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-30T01:36:11Z"
+  "last_updated": "2026-05-30T01:36:43Z"
 }
