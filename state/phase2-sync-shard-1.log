@@ -11818,3 +11818,14 @@
 [08:26:06]   upload done video_id=25314893 in 32.1s
 [08:26:07] film cr_film_id=29217 OK in 48.9s
 [08:26:07] batch-end ok=20 failed=0 dur=1351.7s avg/film=67.6s remaining=8623 eta_hours=161.9
+
+===== run 2026-05-30T08:55:08Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26679750519) =====
+[08:55:09] batch-start shard=1/2 count=20 backlog=10210 uploads=1587 failed_attempts=56
+[08:55:09] login
+[08:55:10] login done
+[08:55:10] iteration 1/20
+[08:55:10] film cr_film_id=30481 name='Mindhorn (2016) CZ Titulky' candidates=3
+[08:55:10]   candidate upload_id=5a6b670a7bd50 url=https://prehraj.to/mindhorn-2016-cztit-v-obraze-bluray/5a6b670a7bd50
+[08:55:11]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3328677/MGJUpNFmDh0lfVbfzZc6bFB3fadHlLfGOsX4H…)
+[08:55:31]   downloaded 444.7 MB in 17.9s (24.8 MB/s)
+[08:56:00]   upload done video_id=25315233 in 29.0s
