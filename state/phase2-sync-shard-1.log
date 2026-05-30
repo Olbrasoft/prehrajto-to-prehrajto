@@ -13424,3 +13424,14 @@
 [14:33:02]   upload done video_id=25321680 in 35.8s
 [14:33:03] film cr_film_id=20071 OK in 62.3s
 [14:33:03] batch-end ok=20 failed=0 dur=1400.2s avg/film=70.0s remaining=8403 eta_hours=163.4
+
+===== run 2026-05-30T14:50:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26686787586) =====
+[14:50:32] batch-start shard=1/2 count=20 backlog=10210 uploads=1807 failed_attempts=56
+[14:50:32] login
+[14:50:34] login done
+[14:50:34] iteration 1/20
+[14:50:34] film cr_film_id=20151 name='Contracted (2013) CZ Titulky' candidates=6
+[14:50:34]   candidate upload_id=5ad5c9cd92d66 url=https://prehraj.to/contracted-2013-cztit-v-obraze-bluray-720p/5ad5c9cd92d66
+[14:50:35]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/3888917/qQ7ckvHBWtaKCQLSL1slqHPySeOSgDf6mc28s…)
+[14:50:56]   downloaded 559.9 MB in 19.3s (29.0 MB/s)
+[14:51:25]   upload done video_id=25322465 in 29.5s
