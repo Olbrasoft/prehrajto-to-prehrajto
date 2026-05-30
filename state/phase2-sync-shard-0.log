@@ -14752,3 +14752,14 @@
 [22:16:48]   upload done video_id=25369034 in 32.7s
 [22:16:49] film cr_film_id=27184 OK in 58.6s
 [22:16:49] batch-end ok=20 failed=0 dur=3446.4s avg/film=172.3s remaining=8223 eta_hours=393.6
+
+===== run 2026-05-30T22:17:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26696369772) =====
+[22:17:12] batch-start shard=0/2 count=20 backlog=10210 uploads=1987 failed_attempts=59
+[22:17:12] login
+[22:17:14] login done
+[22:17:14] iteration 1/20
+[22:17:14] film cr_film_id=33846 name='The River Why (2010) CZ Titulky' candidates=1
+[22:17:14]   candidate upload_id=613f735d98632 url=https://prehraj.to/the-river-why-2010-cz-titulky/613f735d98632
+[22:17:15]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/24895670/k9NsBwulZiJXt3zTrXceWu2eHwGS9ksQMfrw…)
+[22:17:50]   downloaded 1,033.8 MB in 33.7s (30.7 MB/s)
+[22:18:39]   upload done video_id=25369073 in 48.4s
