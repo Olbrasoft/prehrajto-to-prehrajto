@@ -12708,3 +12708,14 @@
 [12:18:22]   upload done video_id=25317213 in 26.9s
 [12:18:23] film cr_film_id=19910 OK in 57.2s
 [12:18:23] batch-end ok=20 failed=0 dur=1978.1s avg/film=98.9s remaining=8503 eta_hours=233.6
+
+===== run 2026-05-30T12:18:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26683622766) =====
+[12:18:49] batch-start shard=0/2 count=20 backlog=10210 uploads=1707 failed_attempts=59
+[12:18:49] login
+[12:18:51] login done
+[12:18:51] iteration 1/20
+[12:18:51] film cr_film_id=18888 name='Wrecker (2015) CZ Titulky' candidates=6
+[12:18:51]   candidate upload_id=5a86cf65977a0 url=https://prehraj.to/wrecker-2015-cztit-v-obraze-720p/5a86cf65977a0
+[12:18:52]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/3399308/xENTVwF97IROsgaF4OFONFJ2F5eHgBfMwIOPi…)
+[12:19:35]   downloaded 895.1 MB in 40.8s (21.9 MB/s)
+[12:20:31]   upload done video_id=25317222 in 56.0s
