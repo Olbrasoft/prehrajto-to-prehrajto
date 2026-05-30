@@ -33763,6 +33763,25 @@
         "download_sec": 13.6,
         "upload_sec": 29.1
       }
+    },
+    {
+      "cr_film_id": 36720,
+      "cr_slug": "alex-of-venice",
+      "title": "Alex of Venice",
+      "year": 2015,
+      "display_name": "Alex of Venice (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "55ed7f5033c23",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25320069,
+      "size_bytes": 799592797,
+      "uploaded_at": "2026-05-30T13:57:07Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 34.5,
+        "upload_sec": 46.5
+      }
     }
   ],
   "failed_attempts": [
@@ -34190,5 +34209,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T13:55:43Z"
+  "last_updated": "2026-05-30T13:57:07Z"
 }
