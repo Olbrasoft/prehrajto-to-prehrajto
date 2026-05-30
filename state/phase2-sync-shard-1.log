@@ -13132,3 +13132,14 @@
 [13:43:31]   upload done video_id=25319371 in 52.1s
 [13:43:32] film cr_film_id=16337 OK in 74.5s
 [13:43:32] batch-end ok=20 failed=0 dur=1467.7s avg/film=73.4s remaining=8443 eta_hours=172.1
+
+===== run 2026-05-30T13:44:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26685346946) =====
+[13:44:07] batch-start shard=1/2 count=20 backlog=10210 uploads=1767 failed_attempts=56
+[13:44:07] login
+[13:44:08] login done
+[13:44:08] iteration 1/20
+[13:44:08] film cr_film_id=33615 name='Burning Blue (2014) CZ Titulky' candidates=1
+[13:44:08]   candidate upload_id=5fff0d72ea6e7 url=https://prehraj.to/burning-blue-2013-cztitulky/5fff0d72ea6e7
+[13:44:09]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/21453090/QQri0oS9XtwRFMAFX5C0qSGxHMah5jc3zcQX…)
+[13:44:30]   downloaded 529.0 MB in 18.6s (28.4 MB/s)
+[13:44:59]   upload done video_id=25319471 in 29.5s
