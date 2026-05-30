@@ -30039,6 +30039,25 @@
         "download_sec": 18.6,
         "upload_sec": 29.5
       }
+    },
+    {
+      "cr_film_id": 20509,
+      "cr_slug": "pandemie",
+      "title": "Pandemie",
+      "year": 2016,
+      "display_name": "Pandemie (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5734dfe50e3b5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25314799,
+      "size_bytes": 442149464,
+      "uploaded_at": "2026-05-30T08:20:10Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.6,
+        "upload_sec": 26.1
+      }
     }
   ],
   "failed_attempts": [
@@ -30460,5 +30479,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T08:19:25Z"
+  "last_updated": "2026-05-30T08:20:10Z"
 }
