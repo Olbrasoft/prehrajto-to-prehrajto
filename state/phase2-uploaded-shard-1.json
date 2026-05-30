@@ -26106,6 +26106,25 @@
         "download_sec": 18.5,
         "upload_sec": 28.7
       }
+    },
+    {
+      "cr_film_id": 29727,
+      "cr_slug": "fractured",
+      "title": "Fractured",
+      "year": 2018,
+      "display_name": "Fractured (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5c3a16d3df021",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25310975,
+      "size_bytes": 672509099,
+      "uploaded_at": "2026-05-30T01:32:30Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 22.4,
+        "upload_sec": 28.2
+      }
     }
   ],
   "failed_attempts": [
@@ -26501,5 +26520,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-30T01:31:35Z"
+  "last_updated": "2026-05-30T01:32:30Z"
 }
