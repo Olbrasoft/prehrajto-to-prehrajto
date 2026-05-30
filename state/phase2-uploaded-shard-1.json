@@ -35454,6 +35454,25 @@
         "download_sec": 28.7,
         "upload_sec": 40.4
       }
+    },
+    {
+      "cr_film_id": 30271,
+      "cr_slug": "neviditelna-2012",
+      "title": "Neviditelná",
+      "year": 2011,
+      "display_name": "Neviditelná (2011) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6098a29438ab9",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25326300,
+      "size_bytes": 1188828457,
+      "uploaded_at": "2026-05-30T16:36:16Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 60.2,
+        "upload_sec": 81.3
+      }
     }
   ],
   "failed_attempts": [
@@ -35875,5 +35894,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T16:33:50Z"
+  "last_updated": "2026-05-30T16:36:16Z"
 }
