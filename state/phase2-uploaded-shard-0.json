@@ -34523,6 +34523,25 @@
         "download_sec": 36.5,
         "upload_sec": 51.4
       }
+    },
+    {
+      "cr_film_id": 28874,
+      "cr_slug": "mami",
+      "title": "Mami!",
+      "year": 2014,
+      "display_name": "Mami! (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ff4db6b02171",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25323069,
+      "size_bytes": 590215541,
+      "uploaded_at": "2026-05-30T15:06:13Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 47.2,
+        "upload_sec": 39.5
+      }
     }
   ],
   "failed_attempts": [
@@ -34950,5 +34969,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T15:04:42Z"
+  "last_updated": "2026-05-30T15:06:13Z"
 }
