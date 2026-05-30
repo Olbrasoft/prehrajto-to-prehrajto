@@ -34257,6 +34257,25 @@
         "download_sec": 18.3,
         "upload_sec": 32.8
       }
+    },
+    {
+      "cr_film_id": 29104,
+      "cr_slug": "schmitke",
+      "title": "Schmitke",
+      "year": 2014,
+      "display_name": "Schmitke (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ff4ffcbcbc5c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25322104,
+      "size_bytes": 454016149,
+      "uploaded_at": "2026-05-30T14:42:56Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 24.9,
+        "upload_sec": 36.8
+      }
     }
   ],
   "failed_attempts": [
@@ -34684,5 +34703,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T14:41:49Z"
+  "last_updated": "2026-05-30T14:42:56Z"
 }
