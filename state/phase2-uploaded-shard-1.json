@@ -31122,6 +31122,25 @@
         "download_sec": 99.5,
         "upload_sec": 118.4
       }
+    },
+    {
+      "cr_film_id": 29331,
+      "cr_slug": "vabeni-siren",
+      "title": "Vábení sirén",
+      "year": 2015,
+      "display_name": "Vábení sirén (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "609b0bf38f903",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25316187,
+      "size_bytes": 2228895758,
+      "uploaded_at": "2026-05-30T10:24:43Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 95.7,
+        "upload_sec": 118.0
+      }
     }
   ],
   "failed_attempts": [
@@ -31543,5 +31562,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T10:21:04Z"
+  "last_updated": "2026-05-30T10:24:43Z"
 }
