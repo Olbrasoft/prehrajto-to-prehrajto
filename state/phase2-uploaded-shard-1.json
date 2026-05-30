@@ -30571,6 +30571,25 @@
         "download_sec": 22.5,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 32785,
+      "cr_slug": "first-born",
+      "title": "First Born",
+      "year": 2016,
+      "display_name": "First Born (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58720beaa2e10",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25315541,
+      "size_bytes": 343677842,
+      "uploaded_at": "2026-05-30T09:27:39Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.3,
+        "upload_sec": 27.5
+      }
     }
   ],
   "failed_attempts": [
@@ -30992,5 +31011,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T09:26:50Z"
+  "last_updated": "2026-05-30T09:27:39Z"
 }
