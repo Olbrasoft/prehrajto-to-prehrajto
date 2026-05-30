@@ -36727,6 +36727,25 @@
         "download_sec": 506.9,
         "upload_sec": 34.3
       }
+    },
+    {
+      "cr_film_id": 27768,
+      "cr_slug": "klip",
+      "title": "Klip",
+      "year": 2012,
+      "display_name": "Klip (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67eb90c0e2deb",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25355604,
+      "size_bytes": 1473577206,
+      "uploaded_at": "2026-05-30T19:08:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 1227.1,
+        "upload_sec": 70.5
+      }
     }
   ],
   "failed_attempts": [
@@ -37154,5 +37173,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T18:47:04Z"
+  "last_updated": "2026-05-30T19:08:45Z"
 }
