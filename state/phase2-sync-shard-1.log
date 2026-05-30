@@ -12110,3 +12110,14 @@
 [09:55:46]   upload done video_id=25315853 in 53.7s
 [09:55:48] film cr_film_id=20789 OK in 106.8s
 [09:55:48] batch-end ok=20 failed=0 dur=1871.6s avg/film=93.6s remaining=8583 eta_hours=223.2
+
+===== run 2026-05-30T09:58:05Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26680951763) =====
+[09:58:06] batch-start shard=1/2 count=20 backlog=10210 uploads=1627 failed_attempts=56
+[09:58:06] login
+[09:58:07] login done
+[09:58:07] iteration 1/20
+[09:58:07] film cr_film_id=29233 name='#Selfie 69 (2016) CZ Titulky' candidates=1
+[09:58:07]   candidate upload_id=5f624d6f0d0c6 url=https://prehraj.to/selfie-69-2016-cztitulky/5f624d6f0d0c6
+[09:58:09]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/18666804/kkwtRwHn2FQ0SLGUelhn6HwytO7FmLT2Kfxw…)
+[09:59:02]   downloaded 1,150.1 MB in 51.7s (22.2 MB/s)
+[10:00:00]   upload done video_id=25315878 in 57.5s
