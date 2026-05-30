@@ -15044,3 +15044,14 @@
 [23:24:46]   upload done video_id=25370477 in 46.2s
 [23:24:47] film cr_film_id=17876 OK in 81.6s
 [23:24:47] batch-end ok=20 failed=0 dur=2071.5s avg/film=103.6s remaining=8183 eta_hours=235.5
+
+===== run 2026-05-30T23:36:10Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26697922636) =====
+[23:36:11] batch-start shard=0/2 count=20 backlog=10210 uploads=2027 failed_attempts=59
+[23:36:11] login
+[23:36:13] login done
+[23:36:13] iteration 1/20
+[23:36:13] film cr_film_id=37220 name='Fire and Ice: The Dragon Chronicles (2008) CZ Titulky' candidates=1
+[23:36:13]   candidate upload_id=687fbd988871b url=https://prehraj.to/asylum-mkv-fire-and-ice-the-dragon-chronicles-2008-cz-tit/687fbd988871b
+[23:36:14]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/141981455/XmNhgvf15S7VH30tYLUPOfYghmqTV9SJ4s4…)
+[23:36:57]   downloaded 918.2 MB in 41.7s (22.0 MB/s)
+[23:37:55]   upload done video_id=25370725 in 57.2s
