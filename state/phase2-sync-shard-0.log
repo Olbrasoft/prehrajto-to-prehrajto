@@ -11100,3 +11100,14 @@
 [05:30:17]   upload done video_id=25313156 in 36.3s
 [05:30:19] film cr_film_id=33616 OK in 72.0s
 [05:30:19] batch-end ok=20 failed=0 dur=2671.8s avg/film=133.6s remaining=8722 eta_hours=323.7
+
+===== run 2026-05-30T05:30:45Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26675748838) =====
+[05:30:45] batch-start shard=0/2 count=20 backlog=10210 uploads=1488 failed_attempts=57
+[05:30:45] login
+[05:30:47] login done
+[05:30:47] iteration 1/20
+[05:30:47] film cr_film_id=10230 name='Žralokonádo 5 (2017) CZ Titulky' candidates=3
+[05:30:47]   candidate upload_id=5ab37114677a7 url=https://prehraj.to/sharknado-5-global-swarming-sci-fi-horor-2017-1080p-x264-s-cztitulky-sten-ok/5ab37114677a7
+[05:30:48]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/3700745/M45H6WsdEtGjSzQCoqhJysDVUVYhRMCyEC2RC…)
+[05:32:49]   downloaded 2,986.6 MB in 118.6s (25.2 MB/s)
+[05:34:57]   upload done video_id=25313196 in 128.5s
