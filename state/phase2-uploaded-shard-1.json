@@ -26828,6 +26828,25 @@
         "download_sec": 104.6,
         "upload_sec": 118.8
       }
+    },
+    {
+      "cr_film_id": 30667,
+      "cr_slug": "bayoneta",
+      "title": "Bayoneta",
+      "year": 2018,
+      "display_name": "Bayoneta (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5cc1abb02ae99",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25311714,
+      "size_bytes": 562639504,
+      "uploaded_at": "2026-05-30T03:10:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.4,
+        "upload_sec": 29.0
+      }
     }
   ],
   "failed_attempts": [
@@ -27230,5 +27249,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T03:09:15Z"
+  "last_updated": "2026-05-30T03:10:17Z"
 }
