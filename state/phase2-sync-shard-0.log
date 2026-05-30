@@ -13146,3 +13146,14 @@
 [13:43:41]   upload done video_id=25319384 in 53.7s
 [13:43:42] film cr_film_id=20636 OK in 85.8s
 [13:43:42] batch-end ok=20 failed=0 dur=1477.6s avg/film=73.9s remaining=8443 eta_hours=173.3
+
+===== run 2026-05-30T13:44:05Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26685346946) =====
+[13:44:06] batch-start shard=0/2 count=20 backlog=10210 uploads=1767 failed_attempts=59
+[13:44:06] login
+[13:44:07] login done
+[13:44:07] iteration 1/20
+[13:44:07] film cr_film_id=20440 name='Bloodsucking Bastards (2015) CZ Titulky' candidates=2
+[13:44:07]   candidate upload_id=584422de89de1 url=https://prehraj.to/bloodsucking-bastards-cz-tit-v-obraze-csfd-69-hororova-komedie-2015/584422de89de1
+[13:44:09]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/996405/1zqf1KcXWUYyUBPuXRTQEc12fpjuw4FG4uXyiM…)
+[13:44:22]   downloaded 307.5 MB in 11.8s (26.1 MB/s)
+[13:44:45]   upload done video_id=25319465 in 23.0s
