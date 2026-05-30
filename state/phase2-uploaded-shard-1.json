@@ -32889,6 +32889,25 @@
         "download_sec": 15.4,
         "upload_sec": 25.1
       }
+    },
+    {
+      "cr_film_id": 18733,
+      "cr_slug": "samba",
+      "title": "Samba",
+      "year": 2014,
+      "display_name": "Samba (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5b5ea9b09f669",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25317499,
+      "size_bytes": 561517037,
+      "uploaded_at": "2026-05-30T12:57:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.9,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -33310,5 +33329,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T12:56:31Z"
+  "last_updated": "2026-05-30T12:57:28Z"
 }
