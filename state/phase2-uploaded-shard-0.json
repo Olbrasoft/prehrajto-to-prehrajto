@@ -32870,6 +32870,25 @@
         "download_sec": 11.2,
         "upload_sec": 22.6
       }
+    },
+    {
+      "cr_film_id": 7720,
+      "cr_slug": "rytir-poharu",
+      "title": "Rytíř pohárů",
+      "year": 2015,
+      "display_name": "Rytíř pohárů (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58a25ce111384",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25317465,
+      "size_bytes": 1197861874,
+      "uploaded_at": "2026-05-30T12:54:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 37.9,
+        "upload_sec": 52.6
+      }
     }
   ],
   "failed_attempts": [
@@ -33297,5 +33316,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T12:53:21Z"
+  "last_updated": "2026-05-30T12:54:55Z"
 }
