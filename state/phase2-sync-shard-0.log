@@ -11688,3 +11688,14 @@
 [08:03:09]   upload done video_id=25314576 in 37.4s
 [08:03:10] film cr_film_id=19110 OK in 62.9s
 [08:03:10] batch-end ok=20 failed=0 dur=1850.8s avg/film=92.5s remaining=8642 eta_hours=222.1
+
+===== run 2026-05-30T08:03:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26678759443) =====
+[08:03:37] batch-start shard=0/2 count=20 backlog=10210 uploads=1568 failed_attempts=58
+[08:03:37] login
+[08:03:39] login done
+[08:03:39] iteration 1/20
+[08:03:39] film cr_film_id=30528 name='Divoké vlny 2 (2017) CZ Titulky' candidates=2
+[08:03:39]   candidate upload_id=58db81b1a7818 url=https://prehraj.to/surf-s-up-2-wavemania-2017-cztit-v-obraze-1080p/58db81b1a7818
+[08:03:40]   resolved in 1.3s → 1080p (https://pf-storage2.premiumcdn.net/1945063/rjLfdXS82C1qfYySwXcNkSgDfQPcMoTZrTo3f…)
+[08:05:22]   downloaded 2,082.5 MB in 100.0s (20.8 MB/s)
+[08:07:47]   upload done video_id=25314604 in 144.9s
