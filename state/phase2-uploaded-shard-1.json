@@ -36613,6 +36613,25 @@
         "download_sec": 22.1,
         "upload_sec": 33.1
       }
+    },
+    {
+      "cr_film_id": 26367,
+      "cr_slug": "ajami",
+      "title": "Ajami",
+      "year": 2009,
+      "display_name": "Ajami (2009) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "586a3a28ced61",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25338039,
+      "size_bytes": 503546789,
+      "uploaded_at": "2026-05-30T18:27:43Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 26.4,
+        "upload_sec": 39.7
+      }
     }
   ],
   "failed_attempts": [
@@ -37034,5 +37053,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T18:22:04Z"
+  "last_updated": "2026-05-30T18:27:43Z"
 }

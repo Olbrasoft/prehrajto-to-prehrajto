@@ -14300,3 +14300,14 @@
 [18:22:04]   upload done video_id=25335934 in 33.1s
 [18:22:06] film cr_film_id=33989 OK in 59.8s
 [18:22:06] batch-end ok=20 failed=0 dur=1893.8s avg/film=94.7s remaining=8283 eta_hours=217.9
+
+===== run 2026-05-30T18:26:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26691534100) =====
+[18:26:32] batch-start shard=1/2 count=20 backlog=10210 uploads=1927 failed_attempts=56
+[18:26:32] login
+[18:26:33] login done
+[18:26:33] iteration 1/20
+[18:26:33] film cr_film_id=26367 name='Ajami (2009) CZ Titulky' candidates=1
+[18:26:33]   candidate upload_id=586a3a28ced61 url=https://prehraj.to/ajami-2009-cz-tit/586a3a28ced61
+[18:26:35]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/1272311/WbpS1piMZfmbFGdsaPtg6imJfLec5lSmlCAof…)
+[18:27:04]   downloaded 503.5 MB in 26.4s (19.1 MB/s)
+[18:27:43]   upload done video_id=25338039 in 39.7s
