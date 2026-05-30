@@ -9920,3 +9920,14 @@
 [00:14:51]   upload done video_id=25310024 in 118.9s
 [00:14:52] film cr_film_id=5545 OK in 204.5s
 [00:14:52] batch-end ok=20 failed=0 dur=2592.2s avg/film=129.6s remaining=8881 eta_hours=319.7
+
+===== run 2026-05-30T00:15:13Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26668801682) =====
+[00:15:14] batch-start shard=1/2 count=20 backlog=10210 uploads=1329 failed_attempts=53
+[00:15:14] login
+[00:15:16] login done
+[00:15:16] iteration 1/20
+[00:15:16] film cr_film_id=9691 name='Patient Zero (2018) CZ Titulky' candidates=5
+[00:15:16]   candidate upload_id=5ff01142b3a08 url=https://prehraj.to/patient-zero-2018-cz-titulky-horor-akcni-drama/5ff01142b3a08
+[00:15:17]   resolved in 1.1s → 720p (https://pf-storage2.premiumcdn.net/21193338/9RMhLzsBwSmeSk5c2MhWLsgGhopHNKiR2TLr…)
+[00:16:04]   downloaded 1,402.8 MB in 45.8s (30.6 MB/s)
+[00:16:57]   upload done video_id=25310048 in 52.3s
