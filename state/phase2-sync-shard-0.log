@@ -11396,3 +11396,14 @@
 [06:52:12]   upload done video_id=25313893 in 64.7s
 [06:52:13] film cr_film_id=9402 OK in 128.6s
 [06:52:13] batch-end ok=20 failed=0 dur=2498.2s avg/film=124.9s remaining=8682 eta_hours=301.2
+
+===== run 2026-05-30T06:52:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26677358862) =====
+[06:52:39] batch-start shard=0/2 count=20 backlog=10210 uploads=1528 failed_attempts=58
+[06:52:39] login
+[06:52:41] login done
+[06:52:41] iteration 1/20
+[06:52:41] film cr_film_id=20698 name='Our Souls at Night (2017) CZ Titulky' candidates=3
+[06:52:41]   candidate upload_id=5a6f3a802e190 url=https://prehraj.to/our-souls-at-night-2017-cztit-v-obraze/5a6f3a802e190
+[06:52:42]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3336530/MQocLViKPCegH0ACOlt5oiW2cX5fxPuYeuzgt…)
+[06:53:05]   downloaded 440.5 MB in 20.7s (21.3 MB/s)
+[06:53:30]   upload done video_id=25313906 in 24.6s
