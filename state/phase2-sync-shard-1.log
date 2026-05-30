@@ -12402,3 +12402,14 @@
 [11:01:05]   upload done video_id=25316520 in 46.4s
 [11:01:07] film cr_film_id=20217 OK in 83.4s
 [11:01:07] batch-end ok=20 failed=0 dur=1529.8s avg/film=76.5s remaining=8543 eta_hours=181.5
+
+===== run 2026-05-30T11:11:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26682331577) =====
+[11:11:30] batch-start shard=1/2 count=20 backlog=10210 uploads=1667 failed_attempts=56
+[11:11:30] login
+[11:11:31] login done
+[11:11:31] iteration 1/20
+[11:11:31] film cr_film_id=30457 name='Mejdan v Malibu (2015) CZ Titulky' candidates=5
+[11:11:31]   candidate upload_id=a7564019f4c956ba url=https://prehraj.to/american-beach-house-2015-720p-bluray-yts-mx-cz-tit-mkv-mp4/a7564019f4c956ba
+[11:11:32]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/155312904/vbkt4BHEGSNbi3Du0gh0YHYyFDYhlbIBYCK…)
+[11:12:18]   downloaded 1,395.8 MB in 43.9s (31.8 MB/s)
+[11:13:12]   upload done video_id=25316726 in 54.4s
