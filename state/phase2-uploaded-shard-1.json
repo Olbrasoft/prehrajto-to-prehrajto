@@ -36423,6 +36423,25 @@
         "download_sec": 87.6,
         "upload_sec": 117.4
       }
+    },
+    {
+      "cr_film_id": 26615,
+      "cr_slug": "polytechnika",
+      "title": "Polytechnika",
+      "year": 2009,
+      "display_name": "Polytechnika (2009) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "608e07f43b3fc",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25330293,
+      "size_bytes": 314483606,
+      "uploaded_at": "2026-05-30T18:08:45Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.4,
+        "upload_sec": 26.4
+      }
     }
   ],
   "failed_attempts": [
@@ -36844,5 +36863,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T18:07:57Z"
+  "last_updated": "2026-05-30T18:08:45Z"
 }
