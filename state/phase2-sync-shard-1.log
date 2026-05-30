@@ -13862,3 +13862,14 @@
 [16:36:16]   upload done video_id=25326300 in 81.3s
 [16:36:17] film cr_film_id=30271 OK in 146.2s
 [16:36:17] batch-end ok=20 failed=0 dur=2458.1s avg/film=122.9s remaining=8343 eta_hours=284.8
+
+===== run 2026-05-30T16:36:40Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26689158978) =====
+[16:36:41] batch-start shard=1/2 count=20 backlog=10210 uploads=1867 failed_attempts=56
+[16:36:41] login
+[16:36:43] login done
+[16:36:43] iteration 1/20
+[16:36:43] film cr_film_id=2669 name='Michael (2011) CZ Titulky' candidates=3
+[16:36:43]   candidate upload_id=5fe90bfaea0ef url=https://prehraj.to/michael-2011-cztitulky/5fe90bfaea0ef
+[16:36:44]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/21062004/RXkhbBsqaTGrHXVCZaSqesVNc16tLYcNbiRZ…)
+[16:37:17]   downloaded 941.4 MB in 31.8s (29.6 MB/s)
+[16:38:07]   upload done video_id=25326362 in 49.2s
