@@ -32604,6 +32604,25 @@
         "download_sec": 72.3,
         "upload_sec": 92.0
       }
+    },
+    {
+      "cr_film_id": 18511,
+      "cr_slug": "the-frame",
+      "title": "The Frame",
+      "year": 2014,
+      "display_name": "The Frame (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5999b66620684",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25317302,
+      "size_bytes": 559761238,
+      "uploaded_at": "2026-05-30T12:34:44Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.8,
+        "upload_sec": 38.0
+      }
     }
   ],
   "failed_attempts": [
@@ -33025,5 +33044,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T12:33:35Z"
+  "last_updated": "2026-05-30T12:34:44Z"
 }
