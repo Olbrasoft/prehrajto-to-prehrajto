@@ -36860,6 +36860,25 @@
         "download_sec": 38.1,
         "upload_sec": 46.4
       }
+    },
+    {
+      "cr_film_id": 31965,
+      "cr_slug": "hounddog",
+      "title": "Hounddog",
+      "year": 2008,
+      "display_name": "Hounddog (2008) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "584adc71e030e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25361674,
+      "size_bytes": 533575729,
+      "uploaded_at": "2026-05-30T19:16:50Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 25.6,
+        "upload_sec": 43.5
+      }
     }
   ],
   "failed_attempts": [
@@ -37281,5 +37300,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T19:15:36Z"
+  "last_updated": "2026-05-30T19:16:50Z"
 }
