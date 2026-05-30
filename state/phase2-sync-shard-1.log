@@ -10940,3 +10940,14 @@
 [04:43:43]   upload done video_id=25312704 in 26.0s
 [04:43:44] film cr_film_id=29449 OK in 48.0s
 [04:43:44] batch-end ok=20 failed=0 dur=1598.6s avg/film=79.9s remaining=8742 eta_hours=194.0
+
+===== run 2026-05-30T04:45:46Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26674838908) =====
+[04:45:47] batch-start shard=1/2 count=20 backlog=10210 uploads=1468 failed_attempts=54
+[04:45:47] login
+[04:45:49] login done
+[04:45:49] iteration 1/20
+[04:45:49] film cr_film_id=19159 name='Potvora (2017) CZ Titulky' candidates=7
+[04:45:49]   candidate upload_id=5b38fcb52bd84 url=https://prehraj.to/potvora-drama-dansko-2017-1080p-s-cztitulky-76-sten-ok/5b38fcb52bd84
+[04:45:50]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/4612865/BrlUnRIGntrxTQdcMDHGRIjVsxACv0CjKtdYi…)
+[04:46:43]   downloaded 1,208.2 MB in 51.1s (23.6 MB/s)
+[04:47:48]   upload done video_id=25312746 in 65.4s

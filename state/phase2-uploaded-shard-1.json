@@ -27892,6 +27892,25 @@
         "download_sec": 19.2,
         "upload_sec": 26.0
       }
+    },
+    {
+      "cr_film_id": 19159,
+      "cr_slug": "potvora",
+      "title": "Potvora",
+      "year": 2017,
+      "display_name": "Potvora (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5b38fcb52bd84",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25312746,
+      "size_bytes": 1208151374,
+      "uploaded_at": "2026-05-30T04:47:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 51.1,
+        "upload_sec": 65.4
+      }
     }
   ],
   "failed_attempts": [
@@ -28294,5 +28313,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T04:43:43Z"
+  "last_updated": "2026-05-30T04:47:48Z"
 }
