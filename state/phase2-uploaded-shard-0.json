@@ -30533,6 +30533,25 @@
         "download_sec": 23.7,
         "upload_sec": 35.0
       }
+    },
+    {
+      "cr_film_id": 10486,
+      "cr_slug": "zombies-2017",
+      "title": "Zombies",
+      "year": 2016,
+      "display_name": "Zombies (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5852b83c35f46",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25315521,
+      "size_bytes": 629917292,
+      "uploaded_at": "2026-05-30T09:25:55Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 32.4,
+        "upload_sec": 44.3
+      }
     }
   ],
   "failed_attempts": [
@@ -30960,5 +30979,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T09:24:07Z"
+  "last_updated": "2026-05-30T09:25:55Z"
 }
