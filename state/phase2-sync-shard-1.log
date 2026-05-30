@@ -14592,3 +14592,14 @@
 [21:17:12]   upload done video_id=25365175 in 48.4s
 [21:17:14] film cr_film_id=29961 OK in 84.8s
 [21:17:14] batch-end ok=20 failed=0 dur=3738.5s avg/film=186.9s remaining=8243 eta_hours=427.9
+
+===== run 2026-05-30T21:19:18Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26695186820) =====
+[21:19:19] batch-start shard=1/2 count=20 backlog=10210 uploads=1967 failed_attempts=56
+[21:19:19] login
+[21:19:20] login done
+[21:19:20] iteration 1/20
+[21:19:20] film cr_film_id=31173 name='Tři mušketýři (2005) CZ Titulky' candidates=1
+[21:19:20]   candidate upload_id=811b90be55ca96fe url=https://prehraj.to/tri-musketyri-2005-cz-titulky-mp4/811b90be55ca96fe
+[21:19:21]   resolved in 1.0s → 480p (https://pf-storage6.premiumcdn.net/169561777/9lmtY2sxpuPriVwTX2IXmsRjfObuKmtP5Hn…)
+[21:19:39]   downloaded 454.7 MB in 15.7s (29.0 MB/s)
+[21:20:06]   upload done video_id=25365250 in 27.5s
