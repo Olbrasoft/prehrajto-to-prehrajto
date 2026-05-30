@@ -34599,6 +34599,25 @@
         "download_sec": 18.8,
         "upload_sec": 30.2
       }
+    },
+    {
+      "cr_film_id": 18490,
+      "cr_slug": "late-phases",
+      "title": "Late Phases",
+      "year": 2014,
+      "display_name": "Late Phases (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e39e9f0db928",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25323407,
+      "size_bytes": 418483000,
+      "uploaded_at": "2026-05-30T15:14:46Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 17.6,
+        "upload_sec": 28.8
+      }
     }
   ],
   "failed_attempts": [
@@ -35026,5 +35045,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T15:13:55Z"
+  "last_updated": "2026-05-30T15:14:46Z"
 }
