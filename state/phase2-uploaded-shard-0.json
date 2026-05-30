@@ -37259,6 +37259,25 @@
         "download_sec": 58.2,
         "upload_sec": 58.1
       }
+    },
+    {
+      "cr_film_id": 4070,
+      "cr_slug": "procitnuti",
+      "title": "Procitnutí",
+      "year": 2011,
+      "display_name": "Procitnutí (2011) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5a7a8e20bb050",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25364339,
+      "size_bytes": 649106960,
+      "uploaded_at": "2026-05-30T20:40:22Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 67.0,
+        "upload_sec": 48.0
+      }
     }
   ],
   "failed_attempts": [
@@ -37686,5 +37705,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T20:38:21Z"
+  "last_updated": "2026-05-30T20:40:22Z"
 }
