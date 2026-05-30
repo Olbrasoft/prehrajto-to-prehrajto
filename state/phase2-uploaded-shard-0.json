@@ -26258,6 +26258,25 @@
         "download_sec": 41.0,
         "upload_sec": 57.5
       }
+    },
+    {
+      "cr_film_id": 30458,
+      "cr_slug": "sharon-1-2-3",
+      "title": "Sharon 1, 2, 3",
+      "year": 2018,
+      "display_name": "Sharon 1, 2, 3 (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "ec1c7af851932b7a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25311208,
+      "size_bytes": 548164021,
+      "uploaded_at": "2026-05-30T01:57:22Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.7,
+        "upload_sec": 28.8
+      }
     }
   ],
   "failed_attempts": [
@@ -26666,5 +26685,5 @@
       "failed_at": "2026-05-30T01:20:49Z"
     }
   ],
-  "last_updated": "2026-05-30T01:56:24Z"
+  "last_updated": "2026-05-30T01:57:22Z"
 }
