@@ -33839,6 +33839,25 @@
         "download_sec": 11.6,
         "upload_sec": 24.0
       }
+    },
+    {
+      "cr_film_id": 18808,
+      "cr_slug": "400-days",
+      "title": "400 Days",
+      "year": 2015,
+      "display_name": "400 Days (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "567dac2ecb0b6",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25320250,
+      "size_bytes": 776324925,
+      "uploaded_at": "2026-05-30T14:00:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.8,
+        "upload_sec": 45.0
+      }
     }
   ],
   "failed_attempts": [
@@ -34266,5 +34285,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T13:59:38Z"
+  "last_updated": "2026-05-30T14:00:52Z"
 }
