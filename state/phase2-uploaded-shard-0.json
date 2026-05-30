@@ -33155,6 +33155,25 @@
         "download_sec": 33.4,
         "upload_sec": 31.3
       }
+    },
+    {
+      "cr_film_id": 35234,
+      "cr_slug": "julia",
+      "title": "Julia",
+      "year": 2015,
+      "display_name": "Julia (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "62fceca685215",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25317659,
+      "size_bytes": 569384217,
+      "uploaded_at": "2026-05-30T13:14:12Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 17.7,
+        "upload_sec": 31.8
+      }
     }
   ],
   "failed_attempts": [
@@ -33582,5 +33601,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T13:13:18Z"
+  "last_updated": "2026-05-30T13:14:12Z"
 }
