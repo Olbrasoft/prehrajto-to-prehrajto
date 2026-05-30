@@ -34200,6 +34200,25 @@
         "download_sec": 10.5,
         "upload_sec": 20.0
       }
+    },
+    {
+      "cr_film_id": 8953,
+      "cr_slug": "haunt-2013",
+      "title": "Haunt",
+      "year": 2013,
+      "display_name": "Haunt (2013) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "558bd236a1ce7",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25321259,
+      "size_bytes": 259848983,
+      "uploaded_at": "2026-05-30T14:22:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 10.7,
+        "upload_sec": 19.4
+      }
     }
   ],
   "failed_attempts": [
@@ -34621,5 +34640,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T14:22:22Z"
+  "last_updated": "2026-05-30T14:22:55Z"
 }
