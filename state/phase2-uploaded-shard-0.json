@@ -36119,6 +36119,25 @@
         "download_sec": 20.0,
         "upload_sec": 31.0
       }
+    },
+    {
+      "cr_film_id": 28238,
+      "cr_slug": "cheap-thrills",
+      "title": "Cheap Thrills",
+      "year": 2013,
+      "display_name": "Cheap Thrills (2013) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5682988b258ba",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25328153,
+      "size_bytes": 361981959,
+      "uploaded_at": "2026-05-30T17:43:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.0,
+        "upload_sec": 23.8
+      }
     }
   ],
   "failed_attempts": [
@@ -36546,5 +36565,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T17:42:28Z"
+  "last_updated": "2026-05-30T17:43:09Z"
 }
