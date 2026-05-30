@@ -35074,6 +35074,25 @@
         "download_sec": 10.6,
         "upload_sec": 21.9
       }
+    },
+    {
+      "cr_film_id": 18377,
+      "cr_slug": "antiviral",
+      "title": "Antiviral",
+      "year": 2012,
+      "display_name": "Antiviral (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58458f2c0111d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25324922,
+      "size_bytes": 416051981,
+      "uploaded_at": "2026-05-30T15:54:50Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 13.4,
+        "upload_sec": 33.9
+      }
     }
   ],
   "failed_attempts": [
@@ -35495,5 +35514,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T15:54:00Z"
+  "last_updated": "2026-05-30T15:54:50Z"
 }
