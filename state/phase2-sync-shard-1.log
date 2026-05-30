@@ -11086,3 +11086,14 @@
 [05:26:15]   upload done video_id=25313115 in 22.7s
 [05:26:17] film cr_film_id=30615 OK in 49.8s
 [05:26:17] batch-end ok=20 failed=0 dur=2428.1s avg/film=121.4s remaining=8722 eta_hours=294.1
+
+===== run 2026-05-30T05:30:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26675748838) =====
+[05:30:43] batch-start shard=1/2 count=20 backlog=10210 uploads=1488 failed_attempts=54
+[05:30:43] login
+[05:30:45] login done
+[05:30:45] iteration 1/20
+[05:30:45] film cr_film_id=29615 name='Maktub (2017) CZ Titulky' candidates=1
+[05:30:45]   candidate upload_id=5f2c4151a84b2 url=https://prehraj.to/maktub-2017-cztitulky/5f2c4151a84b2
+[05:30:46]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/17844414/PqNcZAIpzin2uErHrWhlzI57tXpH4WCGei0N…)
+[05:31:34]   downloaded 1,286.3 MB in 46.7s (27.5 MB/s)
+[05:32:25]   upload done video_id=25313178 in 51.0s
