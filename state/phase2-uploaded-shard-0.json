@@ -37107,6 +37107,25 @@
         "download_sec": 77.1,
         "upload_sec": 37.1
       }
+    },
+    {
+      "cr_film_id": 27664,
+      "cr_slug": "tichaja-zastava",
+      "title": "Tichaja zastava",
+      "year": 2011,
+      "display_name": "Tichaja zastava (2011) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5febbb0b62a22",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25364036,
+      "size_bytes": 696525885,
+      "uploaded_at": "2026-05-30T20:27:14Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 37.5,
+        "upload_sec": 47.7
+      }
     }
   ],
   "failed_attempts": [
@@ -37534,5 +37553,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T20:25:44Z"
+  "last_updated": "2026-05-30T20:27:14Z"
 }
