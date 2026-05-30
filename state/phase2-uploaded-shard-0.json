@@ -26182,6 +26182,25 @@
         "download_sec": 27.0,
         "upload_sec": 30.6
       }
+    },
+    {
+      "cr_film_id": 30776,
+      "cr_slug": "sloni-kralovna",
+      "title": "Sloní královna",
+      "year": 2018,
+      "display_name": "Sloní královna (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58caeb295d556a05",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25311152,
+      "size_bytes": 2277298973,
+      "uploaded_at": "2026-05-30T01:51:27Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 105.1,
+        "upload_sec": 131.0
+      }
     }
   ],
   "failed_attempts": [
@@ -26590,5 +26609,5 @@
       "failed_at": "2026-05-30T01:20:49Z"
     }
   ],
-  "last_updated": "2026-05-30T01:47:27Z"
+  "last_updated": "2026-05-30T01:51:27Z"
 }
