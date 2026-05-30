@@ -27531,6 +27531,25 @@
         "download_sec": 27.9,
         "upload_sec": 36.4
       }
+    },
+    {
+      "cr_film_id": 17105,
+      "cr_slug": "the-great-war",
+      "title": "The Great War",
+      "year": 2017,
+      "display_name": "The Great War (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "cb1e5352837bd40e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25312435,
+      "size_bytes": 2845815248,
+      "uploaded_at": "2026-05-30T04:21:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 88.9,
+        "upload_sec": 111.9
+      }
     }
   ],
   "failed_attempts": [
@@ -27933,5 +27952,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T04:18:12Z"
+  "last_updated": "2026-05-30T04:21:37Z"
 }
