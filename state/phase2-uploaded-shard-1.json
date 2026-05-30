@@ -30077,6 +30077,25 @@
         "download_sec": 24.3,
         "upload_sec": 35.2
       }
+    },
+    {
+      "cr_film_id": 32501,
+      "cr_slug": "opici-kral-2",
+      "title": "Opičí Král 2",
+      "year": 2016,
+      "display_name": "Opičí Král 2 (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58403f1d996d4",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25314835,
+      "size_bytes": 1585251742,
+      "uploaded_at": "2026-05-30T08:23:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 45.6,
+        "upload_sec": 72.3
+      }
     }
   ],
   "failed_attempts": [
@@ -30498,5 +30517,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T08:21:13Z"
+  "last_updated": "2026-05-30T08:23:14Z"
 }
