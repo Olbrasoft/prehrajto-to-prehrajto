@@ -14446,3 +14446,14 @@
 [20:14:21]   upload done video_id=25363679 in 44.2s
 [20:14:22] film cr_film_id=26169 OK in 77.5s
 [20:14:22] batch-end ok=20 failed=0 dur=6468.9s avg/film=323.4s remaining=8263 eta_hours=742.3
+
+===== run 2026-05-30T20:14:53Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26693839803) =====
+[20:14:54] batch-start shard=1/2 count=20 backlog=10210 uploads=1947 failed_attempts=56
+[20:14:54] login
+[20:14:55] login done
+[20:14:55] iteration 1/20
+[20:14:55] film cr_film_id=25051 name="Punk's Not Dead (2007) CZ Titulky" candidates=1
+[20:14:55]   candidate upload_id=58b3aaa13764d url=https://prehraj.to/punk-s-not-dead-2007-cz-titulky/58b3aaa13764d
+[20:14:57]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/1760072/pZ3hKbTPxSXxU9Xc8WH2ZT7bfYBCgqidbIxRH…)
+[20:16:23]   downloaded 1,231.8 MB in 83.9s (14.7 MB/s)
+[20:17:40]   upload done video_id=25363761 in 77.0s
