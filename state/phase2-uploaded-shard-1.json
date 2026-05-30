@@ -27702,6 +27702,25 @@
         "download_sec": 11.4,
         "upload_sec": 14.7
       }
+    },
+    {
+      "cr_film_id": 30459,
+      "cr_slug": "smysl-konce",
+      "title": "Smysl konce",
+      "year": 2017,
+      "display_name": "Smysl konce (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "b9b51a2ae0f38cd5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25312533,
+      "size_bytes": 695916625,
+      "uploaded_at": "2026-05-30T04:31:55Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 20.5,
+        "upload_sec": 28.1
+      }
     }
   ],
   "failed_attempts": [
@@ -28104,5 +28123,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T04:31:03Z"
+  "last_updated": "2026-05-30T04:31:55Z"
 }
