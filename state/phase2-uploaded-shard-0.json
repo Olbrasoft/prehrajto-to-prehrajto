@@ -31179,6 +31179,25 @@
         "download_sec": 52.0,
         "upload_sec": 71.8
       }
+    },
+    {
+      "cr_film_id": 6032,
+      "cr_slug": "personal-shopper",
+      "title": "Personal Shopper",
+      "year": 2016,
+      "display_name": "Personal Shopper (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5b75e6b649667",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25316074,
+      "size_bytes": 432132317,
+      "uploaded_at": "2026-05-30T10:13:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.2,
+        "upload_sec": 25.2
+      }
     }
   ],
   "failed_attempts": [
@@ -31606,5 +31625,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T10:12:56Z"
+  "last_updated": "2026-05-30T10:13:46Z"
 }
