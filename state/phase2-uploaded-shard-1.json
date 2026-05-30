@@ -35093,6 +35093,25 @@
         "download_sec": 13.4,
         "upload_sec": 33.9
       }
+    },
+    {
+      "cr_film_id": 27843,
+      "cr_slug": "amputace",
+      "title": "Amputace",
+      "year": 2012,
+      "display_name": "Amputace (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5cda02bf385c8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25324985,
+      "size_bytes": 551587017,
+      "uploaded_at": "2026-05-30T15:56:31Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 28.4,
+        "upload_sec": 40.0
+      }
     }
   ],
   "failed_attempts": [
@@ -35514,5 +35533,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T15:54:50Z"
+  "last_updated": "2026-05-30T15:56:31Z"
 }

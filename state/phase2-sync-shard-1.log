@@ -13716,3 +13716,14 @@
 [15:54:50]   upload done video_id=25324922 in 33.9s
 [15:54:52] film cr_film_id=18377 OK in 50.1s
 [15:54:52] batch-end ok=20 failed=0 dur=1725.8s avg/film=86.3s remaining=8363 eta_hours=200.5
+
+===== run 2026-05-30T15:55:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26688238935) =====
+[15:55:17] batch-start shard=1/2 count=20 backlog=10210 uploads=1847 failed_attempts=56
+[15:55:17] login
+[15:55:19] login done
+[15:55:19] iteration 1/20
+[15:55:19] film cr_film_id=27843 name='Amputace (2012) CZ Titulky' candidates=2
+[15:55:19]   candidate upload_id=5cda02bf385c8 url=https://prehraj.to/excision-2012-cztitulky/5cda02bf385c8
+[15:55:21]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/13337658/QmWijvI4NsrRsLvc0qfgdIqrcezUa6SzwHZN…)
+[15:55:51]   downloaded 551.6 MB in 28.4s (19.4 MB/s)
+[15:56:31]   upload done video_id=25324985 in 40.0s
