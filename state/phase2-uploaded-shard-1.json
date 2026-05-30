@@ -30457,6 +30457,25 @@
         "download_sec": 16.5,
         "upload_sec": 28.0
       }
+    },
+    {
+      "cr_film_id": 29239,
+      "cr_slug": "here-alone",
+      "title": "Here Alone",
+      "year": 2016,
+      "display_name": "Here Alone (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5939082df1b54",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25315435,
+      "size_bytes": 436785153,
+      "uploaded_at": "2026-05-30T09:17:51Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.1,
+        "upload_sec": 31.3
+      }
     }
   ],
   "failed_attempts": [
@@ -30878,5 +30897,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T09:16:59Z"
+  "last_updated": "2026-05-30T09:17:51Z"
 }
