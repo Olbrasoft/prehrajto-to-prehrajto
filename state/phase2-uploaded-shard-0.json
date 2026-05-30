@@ -37620,6 +37620,25 @@
         "download_sec": 22.6,
         "upload_sec": 35.6
       }
+    },
+    {
+      "cr_film_id": 33600,
+      "cr_slug": "buck",
+      "title": "Buck",
+      "year": 2011,
+      "display_name": "Buck (2011) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ff0e0b416761",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25367606,
+      "size_bytes": 677167991,
+      "uploaded_at": "2026-05-30T21:58:52Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 64.9,
+        "upload_sec": 47.1
+      }
     }
   ],
   "failed_attempts": [
@@ -38047,5 +38066,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T21:56:54Z"
+  "last_updated": "2026-05-30T21:58:52Z"
 }
