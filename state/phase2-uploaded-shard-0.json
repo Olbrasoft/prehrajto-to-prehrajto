@@ -30932,6 +30932,25 @@
         "download_sec": 25.0,
         "upload_sec": 27.9
       }
+    },
+    {
+      "cr_film_id": 30550,
+      "cr_slug": "szurke-senkik",
+      "title": "Szürke senkik",
+      "year": 2016,
+      "display_name": "Szürke senkik (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "68539e9e7d332",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25315888,
+      "size_bytes": 467400787,
+      "uploaded_at": "2026-05-30T09:59:56Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 23.1,
+        "upload_sec": 25.5
+      }
     }
   ],
   "failed_attempts": [
@@ -31359,5 +31378,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T09:59:03Z"
+  "last_updated": "2026-05-30T09:59:56Z"
 }
