@@ -14460,3 +14460,14 @@
 [19:37:15]   upload done video_id=25362786 in 102.9s
 [19:37:16] film cr_film_id=27686 OK in 191.0s
 [19:37:16] batch-end ok=20 failed=0 dur=4248.2s avg/film=212.4s remaining=8263 eta_hours=487.5
+
+===== run 2026-05-30T20:14:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26693839803) =====
+[20:14:50] batch-start shard=0/2 count=20 backlog=10210 uploads=1947 failed_attempts=59
+[20:14:50] login
+[20:14:51] login done
+[20:14:51] iteration 1/20
+[20:14:51] film cr_film_id=32024 name='360 (2012) CZ Titulky' candidates=2
+[20:14:51]   candidate upload_id=5cf7f9e4bdd4c url=https://prehraj.to/360-2011-cz-tit/5cf7f9e4bdd4c
+[20:14:53]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/13819497/ZOjcWPsP1fKdTXVhGqS0zs52FdztLQhqOC1d…)
+[20:15:19]   downloaded 479.6 MB in 24.2s (19.8 MB/s)
+[20:15:58]   upload done video_id=25363726 in 38.3s
