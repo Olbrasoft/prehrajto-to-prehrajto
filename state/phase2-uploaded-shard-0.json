@@ -37069,6 +37069,25 @@
         "download_sec": 38.9,
         "upload_sec": 34.4
       }
+    },
+    {
+      "cr_film_id": 33446,
+      "cr_slug": "you-and-i",
+      "title": "You and I",
+      "year": 2011,
+      "display_name": "You and I (2011) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5d0f95f235507",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25363942,
+      "size_bytes": 575653600,
+      "uploaded_at": "2026-05-30T20:23:44Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 29.3,
+        "upload_sec": 52.4
+      }
     }
   ],
   "failed_attempts": [
@@ -37496,5 +37515,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T20:22:17Z"
+  "last_updated": "2026-05-30T20:23:44Z"
 }
