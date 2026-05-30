@@ -31198,6 +31198,25 @@
         "download_sec": 21.2,
         "upload_sec": 25.2
       }
+    },
+    {
+      "cr_film_id": 28420,
+      "cr_slug": "peelers",
+      "title": "Peelers",
+      "year": 2016,
+      "display_name": "Peelers (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "599b9895c829f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25316099,
+      "size_bytes": 413551771,
+      "uploaded_at": "2026-05-30T10:14:38Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.5,
+        "upload_sec": 25.7
+      }
     }
   ],
   "failed_attempts": [
@@ -31625,5 +31644,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T10:13:46Z"
+  "last_updated": "2026-05-30T10:14:38Z"
 }
