@@ -32908,6 +32908,25 @@
         "download_sec": 22.9,
         "upload_sec": 30.0
       }
+    },
+    {
+      "cr_film_id": 33025,
+      "cr_slug": "rosewater",
+      "title": "Rosewater",
+      "year": 2014,
+      "display_name": "Rosewater (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "599d5b50113f6",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25317511,
+      "size_bytes": 702917976,
+      "uploaded_at": "2026-05-30T12:58:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.2,
+        "upload_sec": 34.4
+      }
     }
   ],
   "failed_attempts": [
@@ -33329,5 +33348,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T12:57:28Z"
+  "last_updated": "2026-05-30T12:58:29Z"
 }
