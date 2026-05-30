@@ -30837,6 +30837,25 @@
         "download_sec": 73.1,
         "upload_sec": 98.2
       }
+    },
+    {
+      "cr_film_id": 20534,
+      "cr_slug": "the-call-up",
+      "title": "The Call Up",
+      "year": 2016,
+      "display_name": "The Call Up (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "57c87d80bfda4",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25315788,
+      "size_bytes": 426928996,
+      "uploaded_at": "2026-05-30T09:47:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.5,
+        "upload_sec": 27.2
+      }
     }
   ],
   "failed_attempts": [
@@ -31264,5 +31283,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T09:46:43Z"
+  "last_updated": "2026-05-30T09:47:37Z"
 }
