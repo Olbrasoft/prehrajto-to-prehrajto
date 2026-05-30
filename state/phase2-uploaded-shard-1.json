@@ -38760,6 +38760,25 @@
         "download_sec": 26.2,
         "upload_sec": 41.7
       }
+    },
+    {
+      "cr_film_id": 23005,
+      "cr_slug": "spoorloos",
+      "title": "Spoorloos",
+      "year": 1988,
+      "display_name": "Spoorloos (1988) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "689eb3d0d9005",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25371016,
+      "size_bytes": 250246321,
+      "uploaded_at": "2026-05-30T23:52:45Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 9.2,
+        "upload_sec": 18.9
+      }
     }
   ],
   "failed_attempts": [
@@ -39193,5 +39212,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T23:52:13Z"
+  "last_updated": "2026-05-30T23:52:45Z"
 }
