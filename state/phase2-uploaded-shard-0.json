@@ -25593,6 +25593,25 @@
         "download_sec": 33.7,
         "upload_sec": 45.0
       }
+    },
+    {
+      "cr_film_id": 30756,
+      "cr_slug": "tvuj-syn",
+      "title": "Tvůj syn",
+      "year": 2018,
+      "display_name": "Tvůj syn (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "e1d7c553bda24e2e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25310481,
+      "size_bytes": 1769149513,
+      "uploaded_at": "2026-05-30T00:48:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 58.8,
+        "upload_sec": 92.1
+      }
     }
   ],
   "failed_attempts": [
@@ -25994,5 +26013,5 @@
       "failed_at": "2026-05-29T22:00:53Z"
     }
   ],
-  "last_updated": "2026-05-30T00:45:31Z"
+  "last_updated": "2026-05-30T00:48:05Z"
 }
