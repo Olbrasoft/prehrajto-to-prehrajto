@@ -33801,6 +33801,25 @@
         "download_sec": 18.9,
         "upload_sec": 27.9
       }
+    },
+    {
+      "cr_film_id": 35707,
+      "cr_slug": "film-92",
+      "title": "Майор",
+      "year": 2013,
+      "display_name": "Майор (2013) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ffcbc6ad14ad",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25320264,
+      "size_bytes": 440883476,
+      "uploaded_at": "2026-05-30T14:01:05Z",
+      "timing": {
+        "resolve_sec": 3.1,
+        "download_sec": 14.2,
+        "upload_sec": 39.1
+      }
     }
   ],
   "failed_attempts": [
@@ -34222,5 +34241,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T14:00:07Z"
+  "last_updated": "2026-05-30T14:01:05Z"
 }
