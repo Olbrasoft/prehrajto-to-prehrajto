@@ -29659,6 +29659,25 @@
         "download_sec": 17.8,
         "upload_sec": 30.3
       }
+    },
+    {
+      "cr_film_id": 31713,
+      "cr_slug": "the-bronze",
+      "title": "The Bronze",
+      "year": 2016,
+      "display_name": "The Bronze (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "57a6479051215",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25314430,
+      "size_bytes": 571825133,
+      "uploaded_at": "2026-05-30T07:47:56Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 17.9,
+        "upload_sec": 32.5
+      }
     }
   ],
   "failed_attempts": [
@@ -30080,5 +30099,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T07:47:03Z"
+  "last_updated": "2026-05-30T07:47:56Z"
 }
