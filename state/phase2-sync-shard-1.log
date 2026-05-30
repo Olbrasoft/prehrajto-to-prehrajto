@@ -10066,3 +10066,14 @@
 [00:48:25]   upload done video_id=25310486 in 75.7s
 [00:48:26] film cr_film_id=30771 OK in 142.9s
 [00:48:26] batch-end ok=20 failed=0 dur=1990.1s avg/film=99.5s remaining=8861 eta_hours=244.9
+
+===== run 2026-05-30T00:50:07Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26669746381) =====
+[00:50:08] batch-start shard=1/2 count=20 backlog=10210 uploads=1349 failed_attempts=53
+[00:50:08] login
+[00:50:10] login done
+[00:50:10] iteration 1/20
+[00:50:10] film cr_film_id=30663 name='Láska mezi regály (2018) CZ Titulky' candidates=1
+[00:50:10]   candidate upload_id=5c096a2ca0974 url=https://prehraj.to/laska-mezi-regaly-2018-cz-titulky-vlozene/5c096a2ca0974
+[00:50:11]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/9187622/x5yFBKh0nFQOfqwsnRH5VhoRsgzujxcDqF87F…)
+[00:50:43]   downloaded 1,053.5 MB in 30.2s (34.9 MB/s)
+[00:51:25]   upload done video_id=25310543 in 42.1s
