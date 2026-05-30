@@ -10212,3 +10212,14 @@
 [01:18:12]   upload done video_id=25310813 in 48.0s
 [01:18:13] film cr_film_id=8935 OK in 79.9s
 [01:18:13] batch-end ok=20 failed=0 dur=1683.1s avg/film=84.2s remaining=8841 eta_hours=206.8
+
+===== run 2026-05-30T01:25:47Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26670618554) =====
+[01:25:48] batch-start shard=1/2 count=20 backlog=10210 uploads=1369 failed_attempts=53
+[01:25:48] login
+[01:25:50] login done
+[01:25:50] iteration 1/20
+[01:25:50] film cr_film_id=31841 name='Hichki (2018) CZ Titulky' candidates=3
+[01:25:50]   candidate upload_id=5b89430e7f67e url=https://prehraj.to/hichki-2018-cz-titulky-vlozene/5b89430e7f67e
+[01:25:51]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/5681110/N1NHyNcEpHDotNXtrRURqcjbfN3hjRhYWCbwH…)
+[01:26:57]   downloaded 1,807.0 MB in 64.5s (28.0 MB/s)
+[01:28:09]   upload done video_id=25310902 in 71.5s
