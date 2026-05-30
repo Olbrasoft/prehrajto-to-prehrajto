@@ -25631,6 +25631,25 @@
         "download_sec": 42.5,
         "upload_sec": 52.5
       }
+    },
+    {
+      "cr_film_id": 19214,
+      "cr_slug": "the-week-of",
+      "title": "The Week Of",
+      "year": 2018,
+      "display_name": "The Week Of (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "601218ed64384",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25310558,
+      "size_bytes": 3428926538,
+      "uploaded_at": "2026-05-30T00:54:05Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 106.9,
+        "upload_sec": 124.1
+      }
     }
   ],
   "failed_attempts": [
@@ -26032,5 +26051,5 @@
       "failed_at": "2026-05-29T22:00:53Z"
     }
   ],
-  "last_updated": "2026-05-30T00:49:44Z"
+  "last_updated": "2026-05-30T00:54:05Z"
 }

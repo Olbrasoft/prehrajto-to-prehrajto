@@ -10080,3 +10080,14 @@
 [00:49:44]   upload done video_id=25310511 in 52.5s
 [00:49:45] film cr_film_id=17294 OK in 98.7s
 [00:49:45] batch-end ok=20 failed=0 dur=2069.9s avg/film=103.5s remaining=8861 eta_hours=254.8
+
+===== run 2026-05-30T00:50:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26669746381) =====
+[00:50:10] batch-start shard=0/2 count=20 backlog=10210 uploads=1349 failed_attempts=56
+[00:50:10] login
+[00:50:11] login done
+[00:50:11] iteration 1/20
+[00:50:11] film cr_film_id=19214 name='The Week Of (2018) CZ Titulky' candidates=6
+[00:50:11]   candidate upload_id=601218ed64384 url=https://prehraj.to/the-week-of-2018-en-cz-tit-4gb/601218ed64384
+[00:50:12]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/21806316/wGQu8xfKvI2mF3kTkpFJkfN7ivYtXRtgqixg…)
+[00:52:01]   downloaded 3,428.9 MB in 106.9s (32.1 MB/s)
+[00:54:05]   upload done video_id=25310558 in 124.1s
