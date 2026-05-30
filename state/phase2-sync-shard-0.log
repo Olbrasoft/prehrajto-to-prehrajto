@@ -13584,3 +13584,14 @@
 [15:25:38]   upload done video_id=25323801 in 79.3s
 [15:25:39] film cr_film_id=20238 OK in 146.0s
 [15:25:39] batch-end ok=20 failed=0 dur=2104.9s avg/film=105.2s remaining=8383 eta_hours=245.0
+
+===== run 2026-05-30T15:26:05Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26687570203) =====
+[15:26:06] batch-start shard=0/2 count=20 backlog=10210 uploads=1827 failed_attempts=59
+[15:26:06] login
+[15:26:07] login done
+[15:26:07] iteration 1/20
+[15:26:07] film cr_film_id=18356 name='Kristy (2014) CZ Titulky' candidates=4
+[15:26:07]   candidate upload_id=584e283540f42 url=https://prehraj.to/kristy-2014-cztit-v-obraze/584e283540f42
+[15:26:08]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1127135/e4OSD1u42HYGFrWi8ZtmEuV7COLhN7f61ijOf…)
+[15:26:20]   downloaded 308.5 MB in 10.7s (28.8 MB/s)
+[15:26:48]   upload done video_id=25323875 in 27.7s
