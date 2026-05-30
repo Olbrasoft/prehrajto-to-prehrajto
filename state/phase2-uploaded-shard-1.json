@@ -25726,6 +25726,25 @@
         "download_sec": 22.5,
         "upload_sec": 25.0
       }
+    },
+    {
+      "cr_film_id": 5905,
+      "cr_slug": "le-collier-rouge",
+      "title": "Le Collier rouge",
+      "year": 2018,
+      "display_name": "Le Collier rouge (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "f61872fe8cf02412",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25310601,
+      "size_bytes": 591991896,
+      "uploaded_at": "2026-05-30T00:55:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.8,
+        "upload_sec": 22.7
+      }
     }
   ],
   "failed_attempts": [
@@ -26121,5 +26140,5 @@
       "failed_at": "2026-05-29T12:43:42Z"
     }
   ],
-  "last_updated": "2026-05-30T00:54:47Z"
+  "last_updated": "2026-05-30T00:55:34Z"
 }
