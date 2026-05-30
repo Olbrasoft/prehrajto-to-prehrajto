@@ -34599,6 +34599,25 @@
         "download_sec": 25.5,
         "upload_sec": 49.0
       }
+    },
+    {
+      "cr_film_id": 27929,
+      "cr_slug": "temer-dokonaly",
+      "title": "Téměř dokonalý",
+      "year": 2012,
+      "display_name": "Téměř dokonalý (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fe7e002ea5f1",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25323252,
+      "size_bytes": 832676192,
+      "uploaded_at": "2026-05-30T15:10:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.7,
+        "upload_sec": 46.5
+      }
     }
   ],
   "failed_attempts": [
@@ -35020,5 +35039,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T15:09:36Z"
+  "last_updated": "2026-05-30T15:10:53Z"
 }
