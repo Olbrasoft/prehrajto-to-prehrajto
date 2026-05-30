@@ -34789,6 +34789,25 @@
         "download_sec": 13.9,
         "upload_sec": 40.5
       }
+    },
+    {
+      "cr_film_id": 2444,
+      "cr_slug": "jack-strong",
+      "title": "Jack Strong",
+      "year": 2014,
+      "display_name": "Jack Strong (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58a14ff7355af",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25324029,
+      "size_bytes": 910430823,
+      "uploaded_at": "2026-05-30T15:31:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 30.4,
+        "upload_sec": 46.5
+      }
     }
   ],
   "failed_attempts": [
@@ -35216,5 +35235,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T15:29:50Z"
+  "last_updated": "2026-05-30T15:31:10Z"
 }
