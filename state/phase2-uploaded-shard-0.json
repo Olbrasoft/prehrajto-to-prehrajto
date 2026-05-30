@@ -25555,6 +25555,25 @@
         "download_sec": 72.4,
         "upload_sec": 83.1
       }
+    },
+    {
+      "cr_film_id": 29626,
+      "cr_slug": "uncle-drew",
+      "title": "Uncle Drew",
+      "year": 2018,
+      "display_name": "Uncle Drew (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "62859ddb8e9ad",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25310436,
+      "size_bytes": 1792718508,
+      "uploaded_at": "2026-05-30T00:44:08Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 50.6,
+        "upload_sec": 59.1
+      }
     }
   ],
   "failed_attempts": [
@@ -25956,5 +25975,5 @@
       "failed_at": "2026-05-29T22:00:53Z"
     }
   ],
-  "last_updated": "2026-05-30T00:42:14Z"
+  "last_updated": "2026-05-30T00:44:08Z"
 }
