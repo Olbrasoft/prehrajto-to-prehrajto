@@ -13570,3 +13570,14 @@
 [15:17:28]   upload done video_id=25323507 in 36.5s
 [15:17:29] film cr_film_id=33593 OK in 150.4s
 [15:17:29] batch-end ok=20 failed=0 dur=1615.6s avg/film=80.8s remaining=8383 eta_hours=188.2
+
+===== run 2026-05-30T15:26:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26687570203) =====
+[15:26:04] batch-start shard=1/2 count=20 backlog=10210 uploads=1827 failed_attempts=56
+[15:26:04] login
+[15:26:06] login done
+[15:26:06] iteration 1/20
+[15:26:06] film cr_film_id=27761 name='Sawney: Lidská flákota (2012) CZ Titulky' candidates=1
+[15:26:06]   candidate upload_id=652f31139019a url=https://prehraj.to/sawney-lidska-flakota-2012-cztitulky/652f31139019a
+[15:26:07]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/48692726/RRMiBXhzpINmC2VfgACrwhG7Hz9FbquGKHkB…)
+[15:26:59]   downloaded 1,613.8 MB in 50.6s (31.9 MB/s)
+[15:28:10]   upload done video_id=25323907 in 70.7s
