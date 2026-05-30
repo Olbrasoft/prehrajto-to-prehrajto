@@ -11378,3 +11378,14 @@
 [06:38:35]   upload done video_id=25313810 in 20.1s
 [06:38:36] film cr_film_id=32143 OK in 42.1s
 [06:38:36] batch-end ok=20 failed=0 dur=1682.2s avg/film=84.1s remaining=8682 eta_hours=202.8
+
+===== run 2026-05-30T06:52:41Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26677358862) =====
+[06:52:42] batch-start shard=1/2 count=20 backlog=10210 uploads=1528 failed_attempts=54
+[06:52:42] login
+[06:52:43] login done
+[06:52:43] iteration 1/20
+[06:52:43] film cr_film_id=30723 name='Another Kind of Wedding (2017) CZ Titulky' candidates=1
+[06:52:43]   candidate upload_id=05fd39bdae9d1499 url=https://prehraj.to/another-kind-of-wedding-2017-en-cz-tit/05fd39bdae9d1499
+[06:52:45]   resolved in 1.2s → 480p (https://pf-storage6.premiumcdn.net/169681135/a0GFyWHyWFDXSLPTZ7uYRHNkIA6Fx9IvGhg…)
+[06:53:11]   downloaded 467.8 MB in 24.5s (19.1 MB/s)
+[06:53:38]   upload done video_id=25313907 in 26.9s
