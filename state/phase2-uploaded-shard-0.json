@@ -32395,6 +32395,25 @@
         "download_sec": 77.7,
         "upload_sec": 98.3
       }
+    },
+    {
+      "cr_film_id": 18874,
+      "cr_slug": "zeme-kartelu",
+      "title": "Země kartelů",
+      "year": 2015,
+      "display_name": "Země kartelů (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58414803f289c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25317203,
+      "size_bytes": 1052676231,
+      "uploaded_at": "2026-05-30T12:17:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.6,
+        "upload_sec": 47.0
+      }
     }
   ],
   "failed_attempts": [
@@ -32822,5 +32841,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T12:16:00Z"
+  "last_updated": "2026-05-30T12:17:24Z"
 }
