@@ -12270,3 +12270,14 @@
 [10:21:05]   upload done video_id=25316163 in 27.9s
 [10:21:08] film cr_film_id=29244 OK in 58.7s
 [10:21:08] batch-end ok=20 failed=0 dur=1381.1s avg/film=69.1s remaining=8563 eta_hours=164.4
+
+===== run 2026-05-30T10:35:32Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26681654019) =====
+[10:35:33] batch-start shard=0/2 count=20 backlog=10210 uploads=1647 failed_attempts=59
+[10:35:33] login
+[10:35:34] login done
+[10:35:34] iteration 1/20
+[10:35:34] film cr_film_id=35666 name='No Beast So Fierce (2016) CZ Titulky' candidates=1
+[10:35:34]   candidate upload_id=5fb2c254ac847 url=https://prehraj.to/kill-for-me-2016-cztitulky/5fb2c254ac847
+[10:35:36]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/19980579/8AnIvQc5LiEkULYtrxHd4cpgfrPIEPU5QFd9…)
+[10:37:06]   downloaded 2,043.9 MB in 88.8s (23.0 MB/s)
+[10:39:11]   upload done video_id=25316274 in 124.2s
