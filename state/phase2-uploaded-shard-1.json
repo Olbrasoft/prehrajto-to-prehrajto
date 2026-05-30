@@ -38114,6 +38114,25 @@
         "download_sec": 16.9,
         "upload_sec": 30.9
       }
+    },
+    {
+      "cr_film_id": 36623,
+      "cr_slug": "charakter",
+      "title": "Charakter",
+      "year": 1997,
+      "display_name": "Charakter (1997) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "b61e4745dc44bede",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25369799,
+      "size_bytes": 403900570,
+      "uploaded_at": "2026-05-30T22:51:13Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 20.1,
+        "upload_sec": 30.3
+      }
     }
   ],
   "failed_attempts": [
@@ -38547,5 +38566,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T22:49:51Z"
+  "last_updated": "2026-05-30T22:51:13Z"
 }

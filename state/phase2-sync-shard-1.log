@@ -14884,3 +14884,14 @@
 [22:49:51]   upload done video_id=25369772 in 30.9s
 [22:49:52] film cr_film_id=33033 OK in 51.5s
 [22:49:52] batch-end ok=20 failed=0 dur=1958.1s avg/film=97.9s remaining=8204 eta_hours=223.1
+
+===== run 2026-05-30T22:50:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26697028132) =====
+[22:50:18] batch-start shard=1/2 count=20 backlog=10210 uploads=2006 failed_attempts=57
+[22:50:18] login
+[22:50:19] login done
+[22:50:19] iteration 1/20
+[22:50:19] film cr_film_id=36623 name='Charakter (1997) CZ Titulky' candidates=1
+[22:50:19]   candidate upload_id=b61e4745dc44bede url=https://prehraj.to/charakter-1997-cz-titulky/b61e4745dc44bede
+[22:50:21]   resolved in 1.3s → 480p (https://pf-storage6.premiumcdn.net/170848679/Am7id8hl2tg8S45uWjsDJhzXuwZCx4tPKUM…)
+[22:50:43]   downloaded 403.9 MB in 20.1s (20.1 MB/s)
+[22:51:13]   upload done video_id=25369799 in 30.3s
