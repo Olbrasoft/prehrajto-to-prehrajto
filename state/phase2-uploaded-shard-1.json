@@ -27284,6 +27284,25 @@
         "download_sec": 55.1,
         "upload_sec": 64.6
       }
+    },
+    {
+      "cr_film_id": 15575,
+      "cr_slug": "valka-vynalezcu",
+      "title": "Válka vynálezců",
+      "year": 2017,
+      "display_name": "Válka vynálezců (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f249dd175606",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25312146,
+      "size_bytes": 1432944566,
+      "uploaded_at": "2026-05-30T03:53:40Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 63.0,
+        "upload_sec": 77.7
+      }
     }
   ],
   "failed_attempts": [
@@ -27686,5 +27705,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T03:51:15Z"
+  "last_updated": "2026-05-30T03:53:40Z"
 }
