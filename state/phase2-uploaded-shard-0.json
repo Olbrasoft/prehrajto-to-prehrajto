@@ -30970,6 +30970,25 @@
         "download_sec": 23.5,
         "upload_sec": 25.9
       }
+    },
+    {
+      "cr_film_id": 18820,
+      "cr_slug": "somnio",
+      "title": "Somnio",
+      "year": 2016,
+      "display_name": "Somnio (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "59e8f6ca58c71",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25315917,
+      "size_bytes": 1131874015,
+      "uploaded_at": "2026-05-30T10:02:51Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 51.0,
+        "upload_sec": 65.9
+      }
     }
   ],
   "failed_attempts": [
@@ -31397,5 +31416,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T10:00:49Z"
+  "last_updated": "2026-05-30T10:02:51Z"
 }
