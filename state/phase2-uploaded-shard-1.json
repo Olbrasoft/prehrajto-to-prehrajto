@@ -34580,6 +34580,25 @@
         "download_sec": 34.2,
         "upload_sec": 45.4
       }
+    },
+    {
+      "cr_film_id": 27915,
+      "cr_slug": "treti-polocas-2012",
+      "title": "Třetí poločas",
+      "year": 2012,
+      "display_name": "Třetí poločas (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fe68802e08b1",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25323191,
+      "size_bytes": 764926587,
+      "uploaded_at": "2026-05-30T15:09:36Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 25.5,
+        "upload_sec": 49.0
+      }
     }
   ],
   "failed_attempts": [
@@ -35001,5 +35020,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T15:08:18Z"
+  "last_updated": "2026-05-30T15:09:36Z"
 }
