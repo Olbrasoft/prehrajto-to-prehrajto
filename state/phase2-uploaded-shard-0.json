@@ -29469,6 +29469,25 @@
         "download_sec": 24.4,
         "upload_sec": 34.4
       }
+    },
+    {
+      "cr_film_id": 16866,
+      "cr_slug": "hrdina-az-do-konce",
+      "title": "Hrdina až do konce",
+      "year": 2017,
+      "display_name": "Hrdina až do konce (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5a8bb8c8b6383",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25314323,
+      "size_bytes": 1392240705,
+      "uploaded_at": "2026-05-30T07:38:49Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 44.9,
+        "upload_sec": 89.0
+      }
     }
   ],
   "failed_attempts": [
@@ -29889,5 +29908,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T07:36:31Z"
+  "last_updated": "2026-05-30T07:38:49Z"
 }
