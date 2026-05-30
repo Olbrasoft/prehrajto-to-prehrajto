@@ -37639,6 +37639,25 @@
         "download_sec": 12.9,
         "upload_sec": 23.5
       }
+    },
+    {
+      "cr_film_id": 24683,
+      "cr_slug": "nonstop-party",
+      "title": "Nonstop párty",
+      "year": 2002,
+      "display_name": "Nonstop párty (2002) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f9b204a7ed69",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25366847,
+      "size_bytes": 1248424752,
+      "uploaded_at": "2026-05-30T21:52:51Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 238.2,
+        "upload_sec": 62.0
+      }
     }
   ],
   "failed_attempts": [
@@ -38058,7 +38077,19 @@
         "download_sec": 67.2,
         "upload_sec": 75.6
       }
+    },
+    {
+      "cr_film_id": 24973,
+      "upload_id": "58495019a0c7c",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-05-30T21:47:48Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 71.6,
+        "upload_sec": 0.1
+      }
     }
   ],
-  "last_updated": "2026-05-30T21:46:33Z"
+  "last_updated": "2026-05-30T21:52:51Z"
 }
