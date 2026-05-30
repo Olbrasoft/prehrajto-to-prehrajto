@@ -10954,3 +10954,14 @@
 [04:45:19]   upload done video_id=25312715 in 47.6s
 [04:45:20] film cr_film_id=30736 OK in 91.8s
 [04:45:20] batch-end ok=20 failed=0 dur=1695.9s avg/film=84.8s remaining=8742 eta_hours=205.9
+
+===== run 2026-05-30T04:45:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26674838908) =====
+[04:45:45] batch-start shard=0/2 count=20 backlog=10210 uploads=1468 failed_attempts=57
+[04:45:45] login
+[04:45:47] login done
+[04:45:47] iteration 1/20
+[04:45:47] film cr_film_id=30660 name='Ben Is Back (2018) CZ Titulky' candidates=6
+[04:45:47]   candidate upload_id=5ca317d56fa20 url=https://prehraj.to/ben-is-back-drama-2018-1080p-5-1-h264-j-roberts-s-cztitulky-62-sten-ok/5ca317d56fa20
+[04:45:49]   resolved in 1.7s → 720p (https://pf-storage1.premiumcdn.net/12741310/PAqspEI5Qc9qCAJijPFbJIvAsLXiyNC0rHj9…)
+[04:47:01]   downloaded 1,421.8 MB in 69.5s (20.5 MB/s)
+[04:48:19]   upload done video_id=25312750 in 78.4s
