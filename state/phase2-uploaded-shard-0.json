@@ -31977,6 +31977,25 @@
         "download_sec": 39.6,
         "upload_sec": 35.4
       }
+    },
+    {
+      "cr_film_id": 35640,
+      "cr_slug": "dag-ii",
+      "title": "Dağ II",
+      "year": 2016,
+      "display_name": "Dağ II (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e96eff68fb6b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25316960,
+      "size_bytes": 2515025179,
+      "uploaded_at": "2026-05-30T11:40:02Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 90.2,
+        "upload_sec": 111.6
+      }
     }
   ],
   "failed_attempts": [
@@ -32404,5 +32423,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T11:36:36Z"
+  "last_updated": "2026-05-30T11:40:02Z"
 }
