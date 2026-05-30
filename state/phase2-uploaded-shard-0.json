@@ -32699,6 +32699,25 @@
         "download_sec": 39.9,
         "upload_sec": 56.8
       }
+    },
+    {
+      "cr_film_id": 28742,
+      "cr_slug": "the-burning-dead",
+      "title": "The Burning Dead",
+      "year": 2015,
+      "display_name": "The Burning Dead (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "55c6ad0fadae9",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25317335,
+      "size_bytes": 751132235,
+      "uploaded_at": "2026-05-30T12:40:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 34.2,
+        "upload_sec": 47.1
+      }
     }
   ],
   "failed_attempts": [
@@ -33126,5 +33145,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T12:38:34Z"
+  "last_updated": "2026-05-30T12:40:00Z"
 }
