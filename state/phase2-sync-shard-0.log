@@ -12562,3 +12562,14 @@
 [11:45:00]   upload done video_id=25317016 in 25.4s
 [11:45:01] film cr_film_id=16682 OK in 44.4s
 [11:45:01] batch-end ok=20 failed=0 dur=2008.8s avg/film=100.4s remaining=8523 eta_hours=237.7
+
+===== run 2026-05-30T11:45:23Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26682976792) =====
+[11:45:23] batch-start shard=0/2 count=20 backlog=10210 uploads=1687 failed_attempts=59
+[11:45:23] login
+[11:45:25] login done
+[11:45:25] iteration 1/20
+[11:45:25] film cr_film_id=29252 name='Burn Your Maps (2016) CZ Titulky' candidates=1
+[11:45:25]   candidate upload_id=5e65176fa83fb url=https://prehraj.to/burn-your-maps-dobrodruzny-2016-cz-titulky/5e65176fa83fb
+[11:45:26]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/15978592/3DaI95i7qSzNTXmf2kIMZiXwIzXU3jCBycVm…)
+[11:46:17]   downloaded 1,534.2 MB in 49.4s (31.1 MB/s)
+[11:47:35]   upload done video_id=25317025 in 78.4s
