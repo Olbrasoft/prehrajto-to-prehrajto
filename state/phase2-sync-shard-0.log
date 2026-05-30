@@ -13292,3 +13292,14 @@
 [14:05:09]   upload done video_id=25320465 in 24.9s
 [14:05:10] film cr_film_id=20276 OK in 43.5s
 [14:05:10] batch-end ok=20 failed=0 dur=1263.1s avg/film=63.2s remaining=8423 eta_hours=147.9
+
+===== run 2026-05-30T14:09:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26685891380) =====
+[14:09:41] batch-start shard=0/2 count=20 backlog=10210 uploads=1787 failed_attempts=59
+[14:09:41] login
+[14:09:43] login done
+[14:09:43] iteration 1/20
+[14:09:43] film cr_film_id=20348 name='Who am I - žádný systém není bezpečný (2014) CZ Titulky' candidates=4
+[14:09:43]   candidate upload_id=603a5da5b7ffc url=https://prehraj.to/who-am-i-zadny-system-neni-bezpecny-thriller-nemecko-2014-1080p-5-1-h264-ger-s-cztitulky-81-sten-ok/603a5da5b7ffc
+[14:09:44]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/22465661/p3kc4kUwaTV3CvPhWvC2mUEGHY7u0aT2Js7J…)
+[14:11:09]   downloaded 1,851.5 MB in 83.1s (22.3 MB/s)
+[14:13:05]   upload done video_id=25320747 in 116.1s
