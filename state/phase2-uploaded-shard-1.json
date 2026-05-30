@@ -37468,6 +37468,25 @@
         "download_sec": 20.9,
         "upload_sec": 31.6
       }
+    },
+    {
+      "cr_film_id": 33971,
+      "cr_slug": "manderlay",
+      "title": "Manderlay",
+      "year": 2005,
+      "display_name": "Manderlay (2005) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "626550ef39001",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25365348,
+      "size_bytes": 1207842910,
+      "uploaded_at": "2026-05-30T21:24:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 38.7,
+        "upload_sec": 51.2
+      }
     }
   ],
   "failed_attempts": [
@@ -37889,5 +37908,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T21:23:10Z"
+  "last_updated": "2026-05-30T21:24:44Z"
 }
