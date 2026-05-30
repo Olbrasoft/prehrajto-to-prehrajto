@@ -30058,6 +30058,25 @@
         "download_sec": 112.5,
         "upload_sec": 150.8
       }
+    },
+    {
+      "cr_film_id": 6330,
+      "cr_slug": "cold-skin",
+      "title": "Cold Skin",
+      "year": 2017,
+      "display_name": "Cold Skin (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5a8813747d17f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25315109,
+      "size_bytes": 1856385825,
+      "uploaded_at": "2026-05-30T08:42:31Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 83.4,
+        "upload_sec": 115.8
+      }
     }
   ],
   "failed_attempts": [
@@ -30485,5 +30504,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T08:39:07Z"
+  "last_updated": "2026-05-30T08:42:31Z"
 }
