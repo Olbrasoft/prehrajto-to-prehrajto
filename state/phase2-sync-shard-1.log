@@ -12548,3 +12548,14 @@
 [11:43:09]   upload done video_id=25317001 in 59.6s
 [11:43:10] film cr_film_id=18491 OK in 108.0s
 [11:43:10] batch-end ok=20 failed=0 dur=1898.3s avg/film=94.9s remaining=8523 eta_hours=224.7
+
+===== run 2026-05-30T11:45:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26682976792) =====
+[11:45:24] batch-start shard=1/2 count=20 backlog=10210 uploads=1687 failed_attempts=56
+[11:45:24] login
+[11:45:25] login done
+[11:45:25] iteration 1/20
+[11:45:25] film cr_film_id=20605 name='Drishyam (2015) CZ Titulky' candidates=2
+[11:45:25]   candidate upload_id=577550e865b38 url=https://prehraj.to/drishyam-2015-cz-titulky/577550e865b38
+[11:45:26]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/150475/e9dSPxFaKHbEH9gfJdhbGFABH31f53hA1C75hw…)
+[11:46:27]   downloaded 1,788.5 MB in 60.2s (29.7 MB/s)
+[11:47:41]   upload done video_id=25317027 in 74.0s

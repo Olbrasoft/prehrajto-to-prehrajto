@@ -32053,6 +32053,25 @@
         "download_sec": 45.3,
         "upload_sec": 59.6
       }
+    },
+    {
+      "cr_film_id": 20605,
+      "cr_slug": "drishyam",
+      "title": "Drishyam",
+      "year": 2015,
+      "display_name": "Drishyam (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "577550e865b38",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25317027,
+      "size_bytes": 1788521255,
+      "uploaded_at": "2026-05-30T11:47:41Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 60.2,
+        "upload_sec": 74.0
+      }
     }
   ],
   "failed_attempts": [
@@ -32474,5 +32493,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T11:43:09Z"
+  "last_updated": "2026-05-30T11:47:41Z"
 }
