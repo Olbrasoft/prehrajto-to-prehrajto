@@ -31179,6 +31179,25 @@
         "download_sec": 30.0,
         "upload_sec": 37.4
       }
+    },
+    {
+      "cr_film_id": 16413,
+      "cr_slug": "vice-2015",
+      "title": "Vice",
+      "year": 2015,
+      "display_name": "Vice (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5821959d7d054",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25316222,
+      "size_bytes": 434428173,
+      "uploaded_at": "2026-05-30T10:29:48Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 21.5,
+        "upload_sec": 23.8
+      }
     }
   ],
   "failed_attempts": [
@@ -31600,5 +31619,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T10:28:58Z"
+  "last_updated": "2026-05-30T10:29:48Z"
 }
