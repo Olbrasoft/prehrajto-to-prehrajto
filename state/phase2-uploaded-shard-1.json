@@ -27569,6 +27569,25 @@
         "download_sec": 38.9,
         "upload_sec": 42.3
       }
+    },
+    {
+      "cr_film_id": 17171,
+      "cr_slug": "the-fortress",
+      "title": "The Fortress",
+      "year": 2017,
+      "display_name": "The Fortress (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5d4d926d39036",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25312463,
+      "size_bytes": 2804961297,
+      "uploaded_at": "2026-05-30T04:26:10Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 75.9,
+        "upload_sec": 107.9
+      }
     }
   ],
   "failed_attempts": [
@@ -27971,5 +27990,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T04:23:02Z"
+  "last_updated": "2026-05-30T04:26:10Z"
 }
