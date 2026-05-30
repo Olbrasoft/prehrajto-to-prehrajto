@@ -14898,3 +14898,14 @@
 [22:44:52]   upload done video_id=25369668 in 56.0s
 [22:44:54] film cr_film_id=4900 OK in 99.9s
 [22:44:54] batch-end ok=20 failed=0 dur=1660.0s avg/film=83.0s remaining=8203 eta_hours=189.1
+
+===== run 2026-05-30T22:50:14Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26697028132) =====
+[22:50:14] batch-start shard=0/2 count=20 backlog=10210 uploads=2007 failed_attempts=59
+[22:50:14] login
+[22:50:16] login done
+[22:50:16] iteration 1/20
+[22:50:16] film cr_film_id=26498 name='Stolen (2009) CZ Titulky' candidates=3
+[22:50:16]   candidate upload_id=5ce5f7a8a5924 url=https://prehraj.to/stolen-2009-cz-titulky/5ce5f7a8a5924
+[22:50:17]   resolved in 1.6s → 480p (https://pf-storage1.premiumcdn.net/13568643/gbZHGZiDxhB5UeDHogS0kiO7tMXClbF48SQq…)
+[22:50:40]   downloaded 351.8 MB in 19.9s (17.7 MB/s)
+[22:51:10]   upload done video_id=25369796 in 30.0s
