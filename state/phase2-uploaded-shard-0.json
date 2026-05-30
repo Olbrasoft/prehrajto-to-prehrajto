@@ -38285,6 +38285,25 @@
         "download_sec": 58.1,
         "upload_sec": 75.6
       }
+    },
+    {
+      "cr_film_id": 26132,
+      "cr_slug": "kanon",
+      "title": "Kaňon",
+      "year": 2009,
+      "display_name": "Kaňon (2009) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6066c1b2147f9",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25370100,
+      "size_bytes": 577382667,
+      "uploaded_at": "2026-05-30T23:06:50Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 29.9,
+        "upload_sec": 41.1
+      }
     }
   ],
   "failed_attempts": [
@@ -38712,5 +38731,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T23:05:33Z"
+  "last_updated": "2026-05-30T23:06:50Z"
 }
