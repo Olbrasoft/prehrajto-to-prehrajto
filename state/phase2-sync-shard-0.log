@@ -13876,3 +13876,14 @@
 [16:16:33]   upload done video_id=25325661 in 35.5s
 [16:16:35] film cr_film_id=32092 OK in 74.8s
 [16:16:35] batch-end ok=20 failed=0 dur=1279.3s avg/film=64.0s remaining=8343 eta_hours=148.3
+
+===== run 2026-05-30T16:36:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26689158978) =====
+[16:36:44] batch-start shard=0/2 count=20 backlog=10210 uploads=1867 failed_attempts=59
+[16:36:44] login
+[16:36:46] login done
+[16:36:46] iteration 1/20
+[16:36:46] film cr_film_id=27700 name='Úder 3 (2013) CZ Titulky' candidates=2
+[16:36:46]   candidate upload_id=5ffdf809e9ead url=https://prehraj.to/dhoom-3-2013-cztitulky/5ffdf809e9ead
+[16:36:47]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/21438549/gbrFXbcLrFqOI26SEpTP0c56sMqTrQhQ5tZe…)
+[16:39:07]   downloaded 3,272.8 MB in 138.2s (23.7 MB/s)
+[16:41:56]   upload done video_id=25326414 in 168.5s
