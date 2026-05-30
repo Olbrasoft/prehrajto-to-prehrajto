@@ -27493,6 +27493,25 @@
         "download_sec": 10.1,
         "upload_sec": 10.9
       }
+    },
+    {
+      "cr_film_id": 28735,
+      "cr_slug": "the-veil-2017",
+      "title": "The Veil",
+      "year": 2017,
+      "display_name": "The Veil (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5a8341224a86d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25312408,
+      "size_bytes": 842873952,
+      "uploaded_at": "2026-05-30T04:14:35Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 38.9,
+        "upload_sec": 43.0
+      }
     }
   ],
   "failed_attempts": [
@@ -27895,5 +27914,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T04:13:09Z"
+  "last_updated": "2026-05-30T04:14:35Z"
 }
