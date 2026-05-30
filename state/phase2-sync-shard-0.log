@@ -11542,3 +11542,14 @@
 [07:22:12]   upload done video_id=25314154 in 48.3s
 [07:22:13] film cr_film_id=29370 OK in 82.7s
 [07:22:13] batch-end ok=20 failed=0 dur=1772.4s avg/film=88.6s remaining=8662 eta_hours=213.2
+
+===== run 2026-05-30T07:32:17Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26678155004) =====
+[07:32:18] batch-start shard=0/2 count=20 backlog=10210 uploads=1548 failed_attempts=58
+[07:32:18] login
+[07:32:20] login done
+[07:32:20] iteration 1/20
+[07:32:20] film cr_film_id=19658 name='Jeepers Creepers 3 (2017) CZ Titulky' candidates=32
+[07:32:20]   candidate upload_id=62871e6ad6ec627c url=https://prehraj.to/jeepers-creepers-3-2017-cz-tit-1080p/62871e6ad6ec627c
+[07:32:21]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/168626188/XeVfjlHoaiYjTLBSgGtE4HJquw5CdVUPdcZ…)
+[07:33:13]   downloaded 1,749.8 MB in 50.4s (34.7 MB/s)
+[07:34:22]   upload done video_id=25314281 in 69.0s
