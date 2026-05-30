@@ -26581,6 +26581,25 @@
         "download_sec": 49.8,
         "upload_sec": 56.6
       }
+    },
+    {
+      "cr_film_id": 1377,
+      "cr_slug": "brankar",
+      "title": "Brankář",
+      "year": 2018,
+      "display_name": "Brankář (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f660c0edd299",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25311417,
+      "size_bytes": 2261401817,
+      "uploaded_at": "2026-05-30T02:34:15Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 87.4,
+        "upload_sec": 81.7
+      }
     }
   ],
   "failed_attempts": [
@@ -26983,5 +27002,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T02:31:23Z"
+  "last_updated": "2026-05-30T02:34:15Z"
 }
