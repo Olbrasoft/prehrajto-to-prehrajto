@@ -29602,6 +29602,25 @@
         "download_sec": 60.7,
         "upload_sec": 89.6
       }
+    },
+    {
+      "cr_film_id": 33732,
+      "cr_slug": "fair-haven",
+      "title": "Fair Haven",
+      "year": 2017,
+      "display_name": "Fair Haven (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60965aff9bf60",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25314441,
+      "size_bytes": 1876638317,
+      "uploaded_at": "2026-05-30T07:50:08Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 53.9,
+        "upload_sec": 87.7
+      }
     }
   ],
   "failed_attempts": [
@@ -30022,5 +30041,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T07:47:43Z"
+  "last_updated": "2026-05-30T07:50:08Z"
 }
