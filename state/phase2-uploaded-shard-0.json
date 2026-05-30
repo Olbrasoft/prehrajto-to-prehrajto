@@ -37221,6 +37221,25 @@
         "download_sec": 39.7,
         "upload_sec": 46.7
       }
+    },
+    {
+      "cr_film_id": 27326,
+      "cr_slug": "rogue-river",
+      "title": "Rogue River",
+      "year": 2011,
+      "display_name": "Rogue River (2011) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58800271735e3",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25364251,
+      "size_bytes": 472001715,
+      "uploaded_at": "2026-05-30T20:36:20Z",
+      "timing": {
+        "resolve_sec": 2.4,
+        "download_sec": 25.4,
+        "upload_sec": 37.6
+      }
     }
   ],
   "failed_attempts": [
@@ -37648,5 +37667,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-30T20:35:11Z"
+  "last_updated": "2026-05-30T20:36:20Z"
 }
