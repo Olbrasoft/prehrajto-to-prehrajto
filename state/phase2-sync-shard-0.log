@@ -13730,3 +13730,14 @@
 [15:51:28]   upload done video_id=25324742 in 105.5s
 [15:51:29] film cr_film_id=28636 OK in 193.2s
 [15:51:29] batch-end ok=20 failed=0 dur=1522.3s avg/film=76.1s remaining=8363 eta_hours=176.8
+
+===== run 2026-05-30T15:55:13Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26688238935) =====
+[15:55:14] batch-start shard=0/2 count=20 backlog=10210 uploads=1847 failed_attempts=59
+[15:55:14] login
+[15:55:15] login done
+[15:55:15] iteration 1/20
+[15:55:15] film cr_film_id=31914 name='Dark Was the Night (2014) CZ Titulky' candidates=3
+[15:55:15]   candidate upload_id=564a84eb49003 url=https://prehraj.to/dark-was-the-night-2014-cztit-v-obraze-720p/564a84eb49003
+[15:55:16]   resolved in 0.9s → 480p (https://pf-storage2.premiumcdn.net/324142/LWvc4GfZRcBGh0rC97iZqfn7TbJCrwUBji9Bc7…)
+[15:55:42]   downloaded 704.7 MB in 23.8s (29.6 MB/s)
+[15:56:16]   upload done video_id=25324978 in 34.7s
