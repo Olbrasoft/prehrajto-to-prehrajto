@@ -27816,6 +27816,25 @@
         "download_sec": 14.8,
         "upload_sec": 16.1
       }
+    },
+    {
+      "cr_film_id": 30425,
+      "cr_slug": "revolt",
+      "title": "Revolt",
+      "year": 2017,
+      "display_name": "Revolt (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5973636bb5f6e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25312644,
+      "size_bytes": 1117993355,
+      "uploaded_at": "2026-05-30T04:39:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 36.2,
+        "upload_sec": 40.0
+      }
     }
   ],
   "failed_attempts": [
@@ -28218,5 +28237,5 @@
       "failed_at": "2026-05-30T02:21:30Z"
     }
   ],
-  "last_updated": "2026-05-30T04:37:54Z"
+  "last_updated": "2026-05-30T04:39:14Z"
 }
