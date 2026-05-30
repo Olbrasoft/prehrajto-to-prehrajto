@@ -12986,3 +12986,14 @@
 [13:18:35]   upload done video_id=25317711 in 53.4s
 [13:18:37] film cr_film_id=28785 OK in 90.7s
 [13:18:37] batch-end ok=20 failed=0 dur=1648.5s avg/film=82.4s remaining=8463 eta_hours=193.7
+
+===== run 2026-05-30T13:19:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26684820536) =====
+[13:19:03] batch-start shard=1/2 count=20 backlog=10210 uploads=1747 failed_attempts=56
+[13:19:03] login
+[13:19:04] login done
+[13:19:04] iteration 1/20
+[13:19:04] film cr_film_id=28823 name='Joseonminyeo samchongsa (2014) CZ Titulky' candidates=1
+[13:19:04]   candidate upload_id=55c665cb15389 url=https://prehraj.to/joseonminyeo-samchongsa-cz-tit-v-obraze-akcni-komedie-2014/55c665cb15389
+[13:19:05]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/105494/8q8inPuQZImaHjvIdQfrLuDLc0vtLbirXsvOcB…)
+[13:19:26]   downloaded 576.8 MB in 19.1s (30.2 MB/s)
+[13:20:04]   upload done video_id=25317853 in 38.4s
