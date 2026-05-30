@@ -37734,6 +37734,25 @@
         "download_sec": 25.3,
         "upload_sec": 35.5
       }
+    },
+    {
+      "cr_film_id": 24973,
+      "cr_slug": "salome",
+      "title": "Salomé",
+      "year": 2002,
+      "display_name": "Salomé (2002) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58495019a0c7c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25369085,
+      "size_bytes": 509773630,
+      "uploaded_at": "2026-05-30T22:18:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 61.2,
+        "upload_sec": 33.6
+      }
     }
   ],
   "failed_attempts": [
@@ -38167,5 +38186,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T22:03:20Z"
+  "last_updated": "2026-05-30T22:18:52Z"
 }

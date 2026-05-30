@@ -14738,3 +14738,14 @@
 [22:03:20]   upload done video_id=25368141 in 35.5s
 [22:03:21] film cr_film_id=33695 OK in 64.7s
 [22:03:21] batch-end ok=19 failed=1 dur=2640.7s avg/film=139.0s remaining=8224 eta_hours=317.5
+
+===== run 2026-05-30T22:17:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26696369772) =====
+[22:17:13] batch-start shard=1/2 count=20 backlog=10210 uploads=1986 failed_attempts=57
+[22:17:13] login
+[22:17:14] login done
+[22:17:14] iteration 1/20
+[22:17:14] film cr_film_id=24973 name='Salomé (2002) CZ Titulky' candidates=1
+[22:17:14]   candidate upload_id=58495019a0c7c url=https://prehraj.to/salome-2002-cz-tit/58495019a0c7c
+[22:17:15]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1066708/03EukQUgNtKksjkF5kib7Ud4FrmuwmH52ca2H…)
+[22:18:18]   downloaded 509.8 MB in 61.2s (8.3 MB/s)
+[22:18:52]   upload done video_id=25369085 in 33.6s
