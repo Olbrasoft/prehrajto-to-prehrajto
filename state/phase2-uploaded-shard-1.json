@@ -31274,6 +31274,25 @@
         "download_sec": 47.6,
         "upload_sec": 55.6
       }
+    },
+    {
+      "cr_film_id": 28757,
+      "cr_slug": "the-sand",
+      "title": "The Sand",
+      "year": 2015,
+      "display_name": "The Sand (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "690619aea1a5b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25316256,
+      "size_bytes": 590493563,
+      "uploaded_at": "2026-05-30T10:35:05Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 27.7,
+        "upload_sec": 30.8
+      }
     }
   ],
   "failed_attempts": [
@@ -31695,5 +31714,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-30T10:34:03Z"
+  "last_updated": "2026-05-30T10:35:05Z"
 }
