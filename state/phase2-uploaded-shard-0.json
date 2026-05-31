@@ -42655,6 +42655,25 @@
         "download_sec": 28.4,
         "upload_sec": 38.9
       }
+    },
+    {
+      "cr_film_id": 30114,
+      "cr_slug": "ve-meste",
+      "title": "Ve městě",
+      "year": 1949,
+      "display_name": "Ve městě (1949) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "91820f064c87342f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25380556,
+      "size_bytes": 860212312,
+      "uploaded_at": "2026-05-31T08:11:50Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 111.4,
+        "upload_sec": 48.4
+      }
     }
   ],
   "failed_attempts": [
@@ -43096,5 +43115,5 @@
       "failed_at": "2026-05-31T04:20:54Z"
     }
   ],
-  "last_updated": "2026-05-31T07:53:16Z"
+  "last_updated": "2026-05-31T08:11:50Z"
 }
