@@ -42902,6 +42902,25 @@
         "download_sec": 146.1,
         "upload_sec": 70.6
       }
+    },
+    {
+      "cr_film_id": 29962,
+      "cr_slug": "zid-suss",
+      "title": "Žid Süss",
+      "year": 1940,
+      "display_name": "Žid Süss (1940) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5842ac205f6fa",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25381073,
+      "size_bytes": 1073133870,
+      "uploaded_at": "2026-05-31T08:40:17Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 163.5,
+        "upload_sec": 55.3
+      }
     }
   ],
   "failed_attempts": [
@@ -43343,5 +43362,5 @@
       "failed_at": "2026-05-31T04:20:54Z"
     }
   ],
-  "last_updated": "2026-05-31T08:36:34Z"
+  "last_updated": "2026-05-31T08:40:17Z"
 }
