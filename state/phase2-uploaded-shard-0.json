@@ -40641,6 +40641,25 @@
         "download_sec": 91.9,
         "upload_sec": 123.0
       }
+    },
+    {
+      "cr_film_id": 23202,
+      "cr_slug": "homo-faber",
+      "title": "Homo Faber",
+      "year": 1991,
+      "display_name": "Homo Faber (1991) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58553d9d527af",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25375846,
+      "size_bytes": 776341892,
+      "uploaded_at": "2026-05-31T03:30:24Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 35.7,
+        "upload_sec": 52.4
+      }
     }
   ],
   "failed_attempts": [
@@ -41075,5 +41094,5 @@
       "failed_at": "2026-05-31T02:46:14Z"
     }
   ],
-  "last_updated": "2026-05-31T03:28:51Z"
+  "last_updated": "2026-05-31T03:30:24Z"
 }
