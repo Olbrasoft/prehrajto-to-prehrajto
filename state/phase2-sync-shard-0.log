@@ -15190,3 +15190,14 @@
 [00:16:04]   upload done video_id=25371430 in 33.4s
 [00:16:06] film cr_film_id=25810 OK in 61.2s
 [00:16:06] batch-end ok=20 failed=0 dur=2393.3s avg/film=119.7s remaining=8163 eta_hours=271.4
+
+===== run 2026-05-31T00:16:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26698692832) =====
+[00:16:31] batch-start shard=0/2 count=20 backlog=10210 uploads=2047 failed_attempts=59
+[00:16:31] login
+[00:16:34] login done
+[00:16:34] iteration 1/20
+[00:16:34] film cr_film_id=25432 name='Like Minds (2006) CZ Titulky' candidates=1
+[00:16:34]   candidate upload_id=58b40952616e5 url=https://prehraj.to/like-minds-2006-cz-tit/58b40952616e5
+[00:16:35]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/1761100/7oDcBMhKASRVfGJiNxcAbh7LsegiXmSP3tneC…)
+[00:16:51]   downloaded 327.7 MB in 13.5s (24.3 MB/s)
+[00:17:16]   upload done video_id=25371460 in 25.7s
