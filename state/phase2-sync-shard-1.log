@@ -18110,3 +18110,14 @@
 [19:53:39]   upload done video_id=25394638 in 57.0s
 [19:53:40] film cr_film_id=12765 OK in 1034.8s
 [19:53:40] batch-end ok=20 failed=0 dur=6565.1s avg/film=328.3s remaining=7767 eta_hours=708.3
+
+===== run 2026-05-31T19:54:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26722825436) =====
+[19:54:02] batch-start shard=1/2 count=20 backlog=10210 uploads=2443 failed_attempts=70
+[19:54:02] login
+[19:54:04] login done
+[19:54:04] iteration 1/20
+[19:54:04] film cr_film_id=34871 name='Polnočná omša (1962) SK Dabing' candidates=2
+[19:54:04]   candidate upload_id=fd41aa2758a77948 url=https://prehraj.to/polnocna-omsa-1962-sk-dab-1080p/fd41aa2758a77948
+[19:54:05]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/167304842/voVclxU7KHN3T13TraTy5UbZs6Vh1qCNkTM…)
+[19:54:53]   downloaded 1,642.1 MB in 46.8s (35.1 MB/s)
+[19:57:05]   upload done video_id=25394660 in 132.0s
