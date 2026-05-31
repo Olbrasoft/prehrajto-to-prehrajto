@@ -18836,3 +18836,14 @@
 [23:36:03]   upload done video_id=25398934 in 75.1s
 [23:36:04] film cr_film_id=34422 OK in 133.1s
 [23:36:04] batch-end ok=19 failed=1 dur=2043.3s avg/film=107.5s remaining=7668 eta_hours=229.0
+
+===== run 2026-05-31T23:36:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26727757539) =====
+[23:36:25] batch-start shard=0/2 count=20 backlog=10210 uploads=2542 failed_attempts=65
+[23:36:25] login
+[23:36:27] login done
+[23:36:27] iteration 1/20
+[23:36:27] film cr_film_id=14664 name='Borderline (2025) SK Titulky' candidates=1
+[23:36:27]   candidate upload_id=67da013aa9d3c url=https://prehraj.to/borderline-2025-cz-sk-titulky-1080p/67da013aa9d3c
+[23:36:28]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/132609755/EGntAQIbLhd8Ho8u60HNZIb6sX2CQvFdxU0…)
+[23:37:53]   downloaded 2,046.3 MB in 83.5s (24.5 MB/s)
+[23:39:32]   upload done video_id=25399108 in 99.1s
