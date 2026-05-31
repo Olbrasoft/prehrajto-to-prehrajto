@@ -15628,3 +15628,14 @@
 [02:08:18]   upload done video_id=25374019 in 25.8s
 [02:08:19] film cr_film_id=12864 OK in 46.1s
 [02:08:19] batch-end ok=20 failed=0 dur=1615.0s avg/film=80.8s remaining=8103 eta_hours=181.9
+
+===== run 2026-05-31T02:28:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26701084411) =====
+[02:28:39] batch-start shard=0/2 count=20 backlog=10210 uploads=2107 failed_attempts=59
+[02:28:39] login
+[02:28:40] login done
+[02:28:40] iteration 1/20
+[02:28:40] film cr_film_id=24408 name='Goya en Burdeos (1999) CZ Titulky' candidates=1
+[02:28:40]   candidate upload_id=58742cb8a3282 url=https://prehraj.to/goya-en-burdeos-goya-v-bordeaux-1999-cz-tit/58742cb8a3282
+[02:28:41]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1404321/pYBcmAURJs7MsdAtE2TPkUbNs9OcGAt67f2Os…)
+[02:29:08]   downloaded 564.8 MB in 24.6s (23.0 MB/s)
+[02:29:41]   upload done video_id=25374315 in 33.6s
