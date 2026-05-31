@@ -39273,6 +39273,25 @@
         "download_sec": 41.3,
         "upload_sec": 54.7
       }
+    },
+    {
+      "cr_film_id": 22477,
+      "cr_slug": "la-luna",
+      "title": "La Luna",
+      "year": 1979,
+      "display_name": "La Luna (1979) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5de5896501c01",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25372325,
+      "size_bytes": 959297819,
+      "uploaded_at": "2026-05-31T00:57:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 42.9,
+        "upload_sec": 60.5
+      }
     }
   ],
   "failed_attempts": [
@@ -39706,5 +39725,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-31T00:56:08Z"
+  "last_updated": "2026-05-31T00:57:56Z"
 }
