@@ -44764,6 +44764,25 @@
         "download_sec": 70.4,
         "upload_sec": 103.0
       }
+    },
+    {
+      "cr_film_id": 9433,
+      "cr_slug": "attonitas",
+      "title": "Attonitas",
+      "year": 2012,
+      "display_name": "Attonitas (2012) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "55cd2aa183070",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25386724,
+      "size_bytes": 478766502,
+      "uploaded_at": "2026-05-31T13:21:47Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 16.6,
+        "upload_sec": 27.2
+      }
     }
   ],
   "failed_attempts": [
@@ -45281,5 +45300,5 @@
       "failed_at": "2026-05-31T08:05:13Z"
     }
   ],
-  "last_updated": "2026-05-31T13:20:59Z"
+  "last_updated": "2026-05-31T13:21:47Z"
 }
