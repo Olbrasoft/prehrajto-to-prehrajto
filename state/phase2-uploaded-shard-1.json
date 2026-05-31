@@ -48431,6 +48431,25 @@
         "download_sec": 25.0,
         "upload_sec": 40.4
       }
+    },
+    {
+      "cr_film_id": 29731,
+      "cr_slug": "438-dni",
+      "title": "438 dní",
+      "year": 2019,
+      "display_name": "438 dní (2019) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "621d5bbade355",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25399697,
+      "size_bytes": 2488107205,
+      "uploaded_at": "2026-05-31T23:53:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 75.8,
+        "upload_sec": 112.6
+      }
     }
   ],
   "failed_attempts": [
@@ -48969,5 +48988,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-05-31T23:49:59Z"
+  "last_updated": "2026-05-31T23:53:11Z"
 }
