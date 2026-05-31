@@ -41743,6 +41743,25 @@
         "download_sec": 16.5,
         "upload_sec": 29.2
       }
+    },
+    {
+      "cr_film_id": 34337,
+      "cr_slug": "lincoln",
+      "title": "Lincoln",
+      "year": 2012,
+      "display_name": "Lincoln (2012) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "67f74dcb5f7a1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25378164,
+      "size_bytes": 593104466,
+      "uploaded_at": "2026-05-31T05:39:22Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.7,
+        "upload_sec": 34.0
+      }
     }
   ],
   "failed_attempts": [
@@ -42176,5 +42195,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-31T05:38:21Z"
+  "last_updated": "2026-05-31T05:39:22Z"
 }
