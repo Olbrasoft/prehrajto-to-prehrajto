@@ -47633,6 +47633,25 @@
         "download_sec": 26.0,
         "upload_sec": 42.5
       }
+    },
+    {
+      "cr_film_id": 17634,
+      "cr_slug": "klebetnice",
+      "title": "Klebetnice",
+      "year": 1978,
+      "display_name": "Klebetnice (1978) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "612e68c0e8002",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25396763,
+      "size_bytes": 2032086542,
+      "uploaded_at": "2026-05-31T22:23:03Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 87.3,
+        "upload_sec": 113.3
+      }
     }
   ],
   "failed_attempts": [
@@ -48100,5 +48119,5 @@
       "failed_at": "2026-05-31T21:47:05Z"
     }
   ],
-  "last_updated": "2026-05-31T22:19:38Z"
+  "last_updated": "2026-05-31T22:23:03Z"
 }
