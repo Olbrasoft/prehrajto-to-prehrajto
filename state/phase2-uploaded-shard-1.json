@@ -41325,6 +41325,25 @@
         "download_sec": 14.5,
         "upload_sec": 23.1
       }
+    },
+    {
+      "cr_film_id": 21221,
+      "cr_slug": "union-pacific",
+      "title": "Union Pacific",
+      "year": 1939,
+      "display_name": "Union Pacific (1939) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58801165d9dc8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25377226,
+      "size_bytes": 1694051953,
+      "uploaded_at": "2026-05-31T04:45:45Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 53.8,
+        "upload_sec": 70.9
+      }
     }
   ],
   "failed_attempts": [
@@ -41758,5 +41777,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-31T04:43:37Z"
+  "last_updated": "2026-05-31T04:45:45Z"
 }
