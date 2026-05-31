@@ -48127,6 +48127,25 @@
         "download_sec": 52.7,
         "upload_sec": 70.1
       }
+    },
+    {
+      "cr_film_id": 1955,
+      "cr_slug": "queen-slim",
+      "title": "Queen & Slim",
+      "year": 2019,
+      "display_name": "Queen & Slim (2019) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "60720a71cf330",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25398311,
+      "size_bytes": 2206672701,
+      "uploaded_at": "2026-05-31T23:25:58Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 67.7,
+        "upload_sec": 91.6
+      }
     }
   ],
   "failed_attempts": [
@@ -48665,5 +48684,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-05-31T23:23:15Z"
+  "last_updated": "2026-05-31T23:25:58Z"
 }
