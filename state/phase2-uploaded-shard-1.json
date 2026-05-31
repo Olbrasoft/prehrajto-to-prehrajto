@@ -47044,6 +47044,25 @@
         "download_sec": 52.2,
         "upload_sec": 78.9
       }
+    },
+    {
+      "cr_film_id": 34393,
+      "cr_slug": "nurnberg",
+      "title": "Nürnberg",
+      "year": 2023,
+      "display_name": "Nürnberg (2023) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "d884c276b9a22eb4",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25395755,
+      "size_bytes": 1137122007,
+      "uploaded_at": "2026-05-31T21:20:40Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 44.9,
+        "upload_sec": 59.9
+      }
     }
   ],
   "failed_attempts": [
@@ -47582,5 +47601,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-05-31T21:18:51Z"
+  "last_updated": "2026-05-31T21:20:40Z"
 }
