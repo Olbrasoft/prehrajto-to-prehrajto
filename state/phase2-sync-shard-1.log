@@ -15614,3 +15614,14 @@
 [02:28:10]   upload done video_id=25374296 in 31.9s
 [02:28:12] film cr_film_id=32265 OK in 57.4s
 [02:28:12] batch-end ok=20 failed=0 dur=2807.3s avg/film=140.4s remaining=8104 eta_hours=316.1
+
+===== run 2026-05-31T02:28:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26701084411) =====
+[02:28:36] batch-start shard=1/2 count=20 backlog=10210 uploads=2106 failed_attempts=57
+[02:28:36] login
+[02:28:38] login done
+[02:28:38] iteration 1/20
+[02:28:38] film cr_film_id=33711 name='Doznání (1970) CZ Titulky' candidates=1
+[02:28:38]   candidate upload_id=6073829f0d719 url=https://prehraj.to/doznani-l-aveu-1970-f-cz-tit/6073829f0d719
+[02:28:39]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/23075517/0JzSnWsDeuJWhWnSa5TWZs0Bu7qh1yUq3uPo…)
+[02:28:55]   downloaded 446.0 MB in 15.2s (29.3 MB/s)
+[02:29:24]   upload done video_id=25374310 in 28.6s
