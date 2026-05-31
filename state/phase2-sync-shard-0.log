@@ -17083,3 +17083,14 @@
 [10:46:28]   upload done video_id=25383950 in 129.0s
 [10:46:29] film cr_film_id=31856 OK in 220.5s
 [10:46:29] batch-end ok=20 failed=0 dur=3795.9s avg/film=189.8s remaining=7906 eta_hours=416.8
+
+===== run 2026-05-31T10:46:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26710482348) =====
+[10:46:56] batch-start shard=0/2 count=20 backlog=10210 uploads=2304 failed_attempts=62
+[10:46:56] login
+[10:46:58] login done
+[10:46:58] iteration 1/20
+[10:46:58] film cr_film_id=16220 name='Vrahova dcera (2023) SK Dabing' candidates=4
+[10:46:58]   candidate upload_id=6708c29fde467 url=https://prehraj.to/vrahova-dcera-2023-skdab/6708c29fde467
+[10:47:00]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/101253653/AVofQvTb4FrKUb5HZncozTB4sP5IEaFMrcB…)
+[10:48:21]   downloaded 1,647.2 MB in 79.0s (20.9 MB/s)
+[10:50:01]   upload done video_id=25384036 in 100.4s
