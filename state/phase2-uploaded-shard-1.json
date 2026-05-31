@@ -48412,6 +48412,25 @@
         "download_sec": 50.8,
         "upload_sec": 69.5
       }
+    },
+    {
+      "cr_film_id": 30887,
+      "cr_slug": "athiran",
+      "title": "Athiran",
+      "year": 2019,
+      "display_name": "Athiran (2019) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "f0030f14e3667c21",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25399635,
+      "size_bytes": 659895837,
+      "uploaded_at": "2026-05-31T23:49:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.0,
+        "upload_sec": 40.4
+      }
     }
   ],
   "failed_attempts": [
@@ -48950,5 +48969,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-05-31T23:48:50Z"
+  "last_updated": "2026-05-31T23:49:59Z"
 }
