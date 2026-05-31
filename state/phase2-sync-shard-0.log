@@ -15482,3 +15482,14 @@
 [01:27:15]   upload done video_id=25373217 in 30.8s
 [01:27:17] film cr_film_id=35776 OK in 53.4s
 [01:27:17] batch-end ok=20 failed=0 dur=1969.9s avg/film=98.5s remaining=8123 eta_hours=222.3
+
+===== run 2026-05-31T01:41:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26700213747) =====
+[01:41:23] batch-start shard=0/2 count=20 backlog=10210 uploads=2087 failed_attempts=59
+[01:41:23] login
+[01:41:24] login done
+[01:41:24] iteration 1/20
+[01:41:24] film cr_film_id=32366 name='Skleněná past (2002) CZ Titulky' candidates=1
+[01:41:24]   candidate upload_id=61423ffdf084d url=https://prehraj.to/sklenena-past-2002-cztitulky/61423ffdf084d
+[01:41:25]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/24922280/6n4cYWiX9CzWf5YHbmFVliY9IGDCQLcWefBE…)
+[01:41:47]   downloaded 559.4 MB in 19.9s (28.1 MB/s)
+[01:42:18]   upload done video_id=25373502 in 31.2s
