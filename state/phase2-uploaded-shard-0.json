@@ -40375,6 +40375,25 @@
         "download_sec": 21.2,
         "upload_sec": 35.0
       }
+    },
+    {
+      "cr_film_id": 12266,
+      "cr_slug": "undercover",
+      "title": "Undercover",
+      "year": 1995,
+      "display_name": "Undercover (1995) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "120acc6bca688f00",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25375206,
+      "size_bytes": 821293681,
+      "uploaded_at": "2026-05-31T03:05:59Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 32.3,
+        "upload_sec": 44.2
+      }
     }
   ],
   "failed_attempts": [
@@ -40809,5 +40828,5 @@
       "failed_at": "2026-05-31T02:46:14Z"
     }
   ],
-  "last_updated": "2026-05-31T03:04:38Z"
+  "last_updated": "2026-05-31T03:05:59Z"
 }
