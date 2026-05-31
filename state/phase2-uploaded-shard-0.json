@@ -46569,6 +46569,25 @@
         "download_sec": 71.7,
         "upload_sec": 101.0
       }
+    },
+    {
+      "cr_film_id": 33936,
+      "cr_slug": "a-christmas-wish",
+      "title": "A Christmas Wish",
+      "year": 2011,
+      "display_name": "A Christmas Wish (2011) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "61bf9d48bdd70",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25394958,
+      "size_bytes": 1814548521,
+      "uploaded_at": "2026-05-31T20:22:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 64.5,
+        "upload_sec": 117.9
+      }
     }
   ],
   "failed_attempts": [
@@ -47017,5 +47036,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T20:19:37Z"
+  "last_updated": "2026-05-31T20:22:44Z"
 }
