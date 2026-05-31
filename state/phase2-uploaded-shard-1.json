@@ -44270,6 +44270,25 @@
         "download_sec": 31.9,
         "upload_sec": 48.2
       }
+    },
+    {
+      "cr_film_id": 20521,
+      "cr_slug": "koza",
+      "title": "Koza",
+      "year": 2015,
+      "display_name": "Koza (2015) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "5c0edbea0dbee",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25385734,
+      "size_bytes": 1475875583,
+      "uploaded_at": "2026-05-31T12:20:59Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 70.2,
+        "upload_sec": 93.9
+      }
     }
   ],
   "failed_attempts": [
@@ -44787,5 +44806,5 @@
       "failed_at": "2026-05-31T08:05:13Z"
     }
   ],
-  "last_updated": "2026-05-31T12:18:10Z"
+  "last_updated": "2026-05-31T12:20:59Z"
 }
