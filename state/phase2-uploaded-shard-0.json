@@ -46721,6 +46721,25 @@
         "download_sec": 82.8,
         "upload_sec": 137.3
       }
+    },
+    {
+      "cr_film_id": 13672,
+      "cr_slug": "drsnak",
+      "title": "Drsňák",
+      "year": 2006,
+      "display_name": "Drsňák (2006) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "608074f684f52",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25395142,
+      "size_bytes": 533681857,
+      "uploaded_at": "2026-05-31T20:36:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.4,
+        "upload_sec": 32.8
+      }
     }
   ],
   "failed_attempts": [
@@ -47181,5 +47200,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-31T20:35:17Z"
+  "last_updated": "2026-05-31T20:36:17Z"
 }
