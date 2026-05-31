@@ -17672,3 +17672,14 @@
 [14:28:52]   upload done video_id=25388014 in 71.0s
 [14:28:54] film cr_film_id=24371 OK in 116.2s
 [14:28:54] batch-end ok=20 failed=0 dur=2177.5s avg/film=108.9s remaining=7827 eta_hours=236.8
+
+===== run 2026-05-31T15:12:22Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26716306433) =====
+[15:12:22] batch-start shard=1/2 count=20 backlog=10210 uploads=2383 failed_attempts=70
+[15:12:22] login
+[15:12:24] login done
+[15:12:24] iteration 1/20
+[15:12:24] film cr_film_id=15419 name='Doloroso (1994) SK Dabing' candidates=1
+[15:12:24]   candidate upload_id=62042006b8a84 url=https://prehraj.to/doloroso-1994-skdab/62042006b8a84
+[15:12:26]   resolved in 2.0s → 1080p (https://pf-storage4.premiumcdn.net/29192460/grPSqaCqvuoOcyKfBeCKdCVqtMrHd0HdOS1d…)
+[15:13:10]   downloaded 941.0 MB in 41.4s (22.7 MB/s)
+[15:14:06]   upload done video_id=25388821 in 55.8s
