@@ -17524,3 +17524,14 @@
 [13:31:54]   upload done video_id=25386891 in 43.6s
 [13:31:55] film cr_film_id=10323 OK in 78.4s
 [13:31:55] batch-end ok=20 failed=0 dur=1783.3s avg/film=89.2s remaining=7847 eta_hours=194.4
+
+===== run 2026-05-31T13:52:34Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26714477071) =====
+[13:52:35] batch-start shard=1/2 count=20 backlog=10210 uploads=2363 failed_attempts=69
+[13:52:35] login
+[13:52:36] login done
+[13:52:36] iteration 1/20
+[13:52:36] film cr_film_id=30361 name='Jízda smrti (2006) SK Dabing' candidates=1
+[13:52:36]   candidate upload_id=ed5337da724f4f58 url=https://prehraj.to/jizda-smrti-2006-sk-mp4/ed5337da724f4f58
+[13:52:37]   resolved in 1.1s → 480p (https://pf-storage6.premiumcdn.net/169601452/Ng9S3RsGehbEuNGUMgtGXsgeu4EFRAF5Otx…)
+[13:52:53]   downloaded 328.4 MB in 14.4s (22.8 MB/s)
+[13:53:23]   upload done video_id=25387295 in 30.3s
