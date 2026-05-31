@@ -48279,6 +48279,25 @@
         "download_sec": 32.5,
         "upload_sec": 47.5
       }
+    },
+    {
+      "cr_film_id": 34422,
+      "cr_slug": "dom-dobry",
+      "title": "Dom dobry",
+      "year": 2025,
+      "display_name": "Dom dobry (2025) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "ba179510a855199c",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25398934,
+      "size_bytes": 1823558500,
+      "uploaded_at": "2026-05-31T23:36:03Z",
+      "timing": {
+        "resolve_sec": 2.7,
+        "download_sec": 52.4,
+        "upload_sec": 75.1
+      }
     }
   ],
   "failed_attempts": [
@@ -48753,5 +48772,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-05-31T23:33:49Z"
+  "last_updated": "2026-05-31T23:36:03Z"
 }
