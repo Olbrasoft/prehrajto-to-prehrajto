@@ -48298,6 +48298,25 @@
         "download_sec": 34.1,
         "upload_sec": 49.7
       }
+    },
+    {
+      "cr_film_id": 30815,
+      "cr_slug": "kalank",
+      "title": "Kalank",
+      "year": 2019,
+      "display_name": "Kalank (2019) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "fee0c54b61bf211c",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25399158,
+      "size_bytes": 1765865880,
+      "uploaded_at": "2026-05-31T23:40:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 54.3,
+        "upload_sec": 69.0
+      }
     }
   ],
   "failed_attempts": [
@@ -48836,5 +48855,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-05-31T23:37:55Z"
+  "last_updated": "2026-05-31T23:40:02Z"
 }
