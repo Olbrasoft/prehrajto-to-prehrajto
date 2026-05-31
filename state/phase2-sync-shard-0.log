@@ -18401,3 +18401,14 @@
 [21:23:49]   upload done video_id=25395803 in 55.5s
 [21:23:50] film cr_film_id=12482 OK in 89.2s
 [21:23:50] batch-end ok=20 failed=0 dur=2306.0s avg/film=115.3s remaining=7726 eta_hours=247.4
+
+===== run 2026-05-31T21:27:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26724954557) =====
+[21:27:38] batch-start shard=0/2 count=20 backlog=10210 uploads=2484 failed_attempts=63
+[21:27:38] login
+[21:27:40] login done
+[21:27:40] iteration 1/20
+[21:27:40] film cr_film_id=15398 name='Kráľovna noci v kamennom mori (1985) SK Dabing' candidates=2
+[21:27:40]   candidate upload_id=60e36ad48f9f8 url=https://prehraj.to/kralovna-noci-v-kamennom-mori-1985-skdab/60e36ad48f9f8
+[21:27:41]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/24185370/9QvcNwTNXTkdt1Gf9riZlTO5ck2S4aS1xSkZ…)
+[21:28:20]   downloaded 1,237.0 MB in 38.0s (32.6 MB/s)
+[21:29:11]   upload done video_id=25395890 in 50.6s
