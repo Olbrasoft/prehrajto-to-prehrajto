@@ -18545,3 +18545,14 @@
 [22:11:58]   upload done video_id=25396577 in 91.3s
 [22:11:59] film cr_film_id=16633 OK in 154.4s
 [22:11:59] batch-end ok=20 failed=0 dur=2657.1s avg/film=132.9s remaining=7709 eta_hours=284.6
+
+===== run 2026-05-31T22:12:22Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26725959942) =====
+[22:12:23] batch-start shard=1/2 count=20 backlog=10210 uploads=2501 failed_attempts=72
+[22:12:23] login
+[22:12:24] login done
+[22:12:24] iteration 1/20
+[22:12:24] film cr_film_id=14901 name='Show Me the Father (2021) SK Titulky' candidates=1
+[22:12:24]   candidate upload_id=61f063a0e7ed8 url=https://prehraj.to/show-me-the-father-2021-sktitulky/61f063a0e7ed8
+[22:12:25]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/28722297/pwDI8GijeSyzTJkt9yFdriYGcZbIDgCADUjq…)
+[22:13:34]   downloaded 2,207.6 MB in 67.1s (32.9 MB/s)
+[22:15:12]   upload done video_id=25396619 in 98.4s
