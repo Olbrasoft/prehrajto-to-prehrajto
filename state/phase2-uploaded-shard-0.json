@@ -39615,6 +39615,25 @@
         "download_sec": 33.8,
         "upload_sec": 55.4
       }
+    },
+    {
+      "cr_film_id": 25116,
+      "cr_slug": "a-tale-of-two-sisters",
+      "title": "A Tale of Two Sisters",
+      "year": 2003,
+      "display_name": "A Tale of Two Sisters (2003) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "ec42814fd1134b86",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25373150,
+      "size_bytes": 3092115436,
+      "uploaded_at": "2026-05-31T01:26:22Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 96.3,
+        "upload_sec": 134.0
+      }
     }
   ],
   "failed_attempts": [
@@ -40042,5 +40061,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-31T01:22:27Z"
+  "last_updated": "2026-05-31T01:26:22Z"
 }
