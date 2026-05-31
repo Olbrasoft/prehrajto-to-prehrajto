@@ -16940,3 +16940,14 @@
 [09:42:47]   upload done video_id=25382407 in 72.9s
 [09:42:48] film cr_film_id=17379 OK in 137.3s
 [09:42:48] batch-end ok=20 failed=0 dur=2626.8s avg/film=131.3s remaining=7927 eta_hours=289.1
+
+===== run 2026-05-31T09:43:13Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26709204709) =====
+[09:43:14] batch-start shard=1/2 count=20 backlog=10210 uploads=2283 failed_attempts=69
+[09:43:14] login
+[09:43:16] login done
+[09:43:16] iteration 1/20
+[09:43:16] film cr_film_id=17461 name='Vyměněné dárky (2018) SK Dabing' candidates=3
+[09:43:16]   candidate upload_id=60104badbada3 url=https://prehraj.to/zamenene-darceky-a-twist-of-christmas-2018-sk-dabing-webrip/60104badbada3
+[09:43:18]   resolved in 2.3s → 480p (https://pf-storage5.premiumcdn.net/21776169/pzBFM8i4YI6as0OUePfDniLEfWGs6qFQrHrD…)
+[09:43:43]   downloaded 566.2 MB in 23.3s (24.3 MB/s)
+[09:44:18]   upload done video_id=25382455 in 35.1s
