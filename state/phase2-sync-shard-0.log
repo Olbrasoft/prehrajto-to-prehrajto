@@ -17667,3 +17667,14 @@
 [15:11:54]   upload done video_id=25388759 in 124.4s
 [15:11:56] film cr_film_id=29674 OK in 207.5s
 [15:11:56] batch-end ok=20 failed=0 dur=4758.6s avg/film=237.9s remaining=7826 eta_hours=517.2
+
+===== run 2026-05-31T15:12:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26716306433) =====
+[15:12:22] batch-start shard=0/2 count=20 backlog=10210 uploads=2384 failed_attempts=62
+[15:12:22] login
+[15:12:24] login done
+[15:12:24] iteration 1/20
+[15:12:24] film cr_film_id=35244 name='Vymodlené dítě (2017) SK Dabing' candidates=2
+[15:12:24]   candidate upload_id=61b2d26d222a6 url=https://prehraj.to/unesene-babatko-2017-skdab/61b2d26d222a6
+[15:12:26]   resolved in 2.0s → 1080p (https://pf-storage4.premiumcdn.net/27272742/zg3TPOheqib6snksKwFDwhpeUwlfqyiK0iXp…)
+[15:13:54]   downloaded 2,401.7 MB in 86.1s (27.9 MB/s)
+[15:15:40]   upload done video_id=25388840 in 106.5s
