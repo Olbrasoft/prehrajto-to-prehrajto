@@ -39843,6 +39843,25 @@
         "download_sec": 39.4,
         "upload_sec": 58.5
       }
+    },
+    {
+      "cr_film_id": 32759,
+      "cr_slug": "utvandrarna",
+      "title": "Utvandrarna",
+      "year": 1971,
+      "display_name": "Utvandrarna (1971) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "586d8d5b1b7f9",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25373962,
+      "size_bytes": 1033319982,
+      "uploaded_at": "2026-05-31T02:06:14Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 49.6,
+        "upload_sec": 68.8
+      }
     }
   ],
   "failed_attempts": [
@@ -40276,5 +40295,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-31T02:04:10Z"
+  "last_updated": "2026-05-31T02:06:14Z"
 }
