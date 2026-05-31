@@ -16209,3 +16209,14 @@
 [05:16:18]   upload done video_id=25377763 in 44.3s
 [05:16:19] film cr_film_id=22200 OK in 78.8s
 [05:16:19] batch-end ok=20 failed=0 dur=2604.6s avg/film=130.2s remaining=8025 eta_hours=290.2
+
+===== run 2026-05-31T05:16:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26704067158) =====
+[05:16:43] batch-start shard=0/2 count=20 backlog=10210 uploads=2185 failed_attempts=61
+[05:16:43] login
+[05:16:45] login done
+[05:16:45] iteration 1/20
+[05:16:45] film cr_film_id=31274 name='Jabłka (1974) CZ Titulky' candidates=1
+[05:16:45]   candidate upload_id=2fc5543097c22114 url=https://prehraj.to/jablka-1974-pl-cz-tit/2fc5543097c22114
+[05:16:46]   resolved in 1.5s → 720p (https://pf-storage6.premiumcdn.net/169713283/LkzfoKUDEFK7TREheEsz3UanTqOFkjT7psy…)
+[05:17:21]   downloaded 648.2 MB in 32.8s (19.8 MB/s)
+[05:18:08]   upload done video_id=25377791 in 47.3s
