@@ -16498,3 +16498,14 @@
 [07:09:19]   upload done video_id=25379537 in 104.9s
 [07:09:20] film cr_film_id=15545 OK in 192.1s
 [07:09:20] batch-end ok=19 failed=1 dur=3735.3s avg/film=196.6s remaining=7986 eta_hours=436.1
+
+===== run 2026-05-31T07:09:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26706151192) =====
+[07:09:46] batch-start shard=1/2 count=20 backlog=10210 uploads=2224 failed_attempts=65
+[07:09:46] login
+[07:09:48] login done
+[07:09:48] iteration 1/20
+[07:09:48] film cr_film_id=15879 name='Pohádka o žabákovi a zlaté kouli (2022) SK Dabing' candidates=2
+[07:09:48]   candidate upload_id=448feaeead6354fa url=https://prehraj.to/pohadka-o-zabakovi-a-zlate-kouli-2022-sk-dab-1080p-mp4/448feaeead6354fa
+[07:09:49]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/169285147/DOvSYVUdVHVAhGxTR6cv0UmWuMjTeEslWCK…)
+[07:11:31]   downloaded 2,134.8 MB in 99.3s (21.5 MB/s)
+[07:13:37]   upload done video_id=25379600 in 125.7s
