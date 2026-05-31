@@ -45695,6 +45695,25 @@
         "download_sec": 57.4,
         "upload_sec": 80.2
       }
+    },
+    {
+      "cr_film_id": 14241,
+      "cr_slug": "dve-duse",
+      "title": "Dve duše",
+      "year": 1982,
+      "display_name": "Dve duše (1982) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "6064a80814b1b",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25390903,
+      "size_bytes": 1365015844,
+      "uploaded_at": "2026-05-31T16:50:45Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 65.3,
+        "upload_sec": 100.2
+      }
     }
   ],
   "failed_attempts": [
@@ -46219,5 +46238,5 @@
       "failed_at": "2026-05-31T13:54:16Z"
     }
   ],
-  "last_updated": "2026-05-31T16:47:54Z"
+  "last_updated": "2026-05-31T16:50:45Z"
 }
