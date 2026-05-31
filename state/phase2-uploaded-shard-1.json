@@ -45163,6 +45163,25 @@
         "download_sec": 15.8,
         "upload_sec": 25.6
       }
+    },
+    {
+      "cr_film_id": 34055,
+      "cr_slug": "rudolf",
+      "title": "Rudolf",
+      "year": 1998,
+      "display_name": "Rudolf (1998) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "63f5e0f817476",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25387854,
+      "size_bytes": 1218351099,
+      "uploaded_at": "2026-05-31T14:21:30Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 263.2,
+        "upload_sec": 65.7
+      }
     }
   ],
   "failed_attempts": [
@@ -45687,5 +45706,5 @@
       "failed_at": "2026-05-31T13:54:16Z"
     }
   ],
-  "last_updated": "2026-05-31T14:15:58Z"
+  "last_updated": "2026-05-31T14:21:30Z"
 }
