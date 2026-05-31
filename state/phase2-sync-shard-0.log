@@ -16501,3 +16501,14 @@
 [06:43:40]   upload done video_id=25379172 in 36.8s
 [06:43:41] film cr_film_id=21612 OK in 60.7s
 [06:43:41] batch-end ok=20 failed=0 dur=2196.8s avg/film=109.8s remaining=7985 eta_hours=243.5
+
+===== run 2026-05-31T07:09:45Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26706151192) =====
+[07:09:46] batch-start shard=0/2 count=20 backlog=10210 uploads=2225 failed_attempts=61
+[07:09:46] login
+[07:09:47] login done
+[07:09:47] iteration 1/20
+[07:09:47] film cr_film_id=21606 name='Stroj času (1960) CZ Titulky' candidates=1
+[07:09:47]   candidate upload_id=60aae9c470db2 url=https://prehraj.to/stroj-casu-sci-fi-1960-cz-titulky/60aae9c470db2
+[07:09:48]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/23639778/lYzTRwsZOTl5fxetyLCvNsk9U5oH0GIKkI1o…)
+[07:10:24]   downloaded 812.2 MB in 34.1s (23.8 MB/s)
+[07:11:15]   upload done video_id=25379583 in 50.3s
