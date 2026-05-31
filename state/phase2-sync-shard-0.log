@@ -17959,3 +17959,14 @@
 [17:31:23]   upload done video_id=25391823 in 27.3s
 [17:31:25] film cr_film_id=28712 OK in 46.0s
 [17:31:25] batch-end ok=20 failed=0 dur=2922.7s avg/film=146.1s remaining=7786 eta_hours=316.0
+
+===== run 2026-05-31T18:04:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26720286877) =====
+[18:04:13] batch-start shard=0/2 count=20 backlog=10210 uploads=2424 failed_attempts=62
+[18:04:13] login
+[18:04:14] login done
+[18:04:14] iteration 1/20
+[18:04:14] film cr_film_id=16440 name='Don Verdean (2015) SK Dabing' candidates=5
+[18:04:14]   candidate upload_id=5e32f5be84d93 url=https://prehraj.to/don-verdean-2015-sk-dabing-bst/5e32f5be84d93
+[18:04:16]   resolved in 1.6s → 480p (https://pf-storage5.premiumcdn.net/15750193/ozLTOjivjUm9hMlhGmHwLid5FP7CGzUKGhlG…)
+[18:04:54]   downloaded 573.1 MB in 35.9s (16.0 MB/s)
+[18:05:58]   upload done video_id=25392614 in 64.0s
