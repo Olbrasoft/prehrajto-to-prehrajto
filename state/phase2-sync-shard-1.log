@@ -17232,3 +17232,14 @@
 [11:21:20]   upload done video_id=25384640 in 35.6s
 [11:21:21] film cr_film_id=20745 OK in 63.2s
 [11:21:21] batch-end ok=20 failed=0 dur=2064.5s avg/film=103.2s remaining=7887 eta_hours=226.1
+
+===== run 2026-05-31T11:54:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26711887983) =====
+[11:54:26] batch-start shard=1/2 count=20 backlog=10210 uploads=2323 failed_attempts=69
+[11:54:26] login
+[11:54:27] login done
+[11:54:27] iteration 1/20
+[11:54:27] film cr_film_id=1441 name='Den patriotů (2016) SK Dabing' candidates=4
+[11:54:27]   candidate upload_id=61874c9318927 url=https://prehraj.to/den-patriotu-2016-1080p-cz-sk-dab/61874c9318927
+[11:54:29]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/26246662/4rzI2lUOMuyvc1DCx5C3lUw9HELF54H3oHmA…)
+[11:56:38]   downloaded 2,913.1 MB in 127.4s (22.9 MB/s)
+[11:59:38]   upload done video_id=25385341 in 179.4s
