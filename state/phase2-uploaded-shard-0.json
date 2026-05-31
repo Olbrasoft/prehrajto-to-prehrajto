@@ -39805,6 +39805,25 @@
         "download_sec": 22.6,
         "upload_sec": 33.5
       }
+    },
+    {
+      "cr_film_id": 24728,
+      "cr_slug": "millennium-mambo",
+      "title": "Millennium Mambo",
+      "year": 2001,
+      "display_name": "Millennium Mambo (2001) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58bb02e3b8568",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25373637,
+      "size_bytes": 443361955,
+      "uploaded_at": "2026-05-31T01:49:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.9,
+        "upload_sec": 29.4
+      }
     }
   ],
   "failed_attempts": [
@@ -40232,5 +40251,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-31T01:48:35Z"
+  "last_updated": "2026-05-31T01:49:24Z"
 }
