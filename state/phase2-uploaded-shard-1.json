@@ -46398,6 +46398,25 @@
         "download_sec": 77.2,
         "upload_sec": 91.5
       }
+    },
+    {
+      "cr_film_id": 12765,
+      "cr_slug": "tvar-v-okne",
+      "title": "Tvár v okne",
+      "year": 1963,
+      "display_name": "Tvár v okne (1963) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "618d6fb60c1ef",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25394638,
+      "size_bytes": 807236034,
+      "uploaded_at": "2026-05-31T19:53:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 973.1,
+        "upload_sec": 57.0
+      }
     }
   ],
   "failed_attempts": [
@@ -46922,5 +46941,5 @@
       "failed_at": "2026-05-31T13:54:16Z"
     }
   ],
-  "last_updated": "2026-05-31T19:36:24Z"
+  "last_updated": "2026-05-31T19:53:39Z"
 }
