@@ -46436,6 +46436,25 @@
         "download_sec": 46.8,
         "upload_sec": 132.0
       }
+    },
+    {
+      "cr_film_id": 10715,
+      "cr_slug": "sadko",
+      "title": "Sadko",
+      "year": 1953,
+      "display_name": "Sadko (1953) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "6250cdd89cdd5",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25394700,
+      "size_bytes": 1842021770,
+      "uploaded_at": "2026-05-31T19:59:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 78.3,
+        "upload_sec": 75.8
+      }
     }
   ],
   "failed_attempts": [
@@ -46960,5 +46979,5 @@
       "failed_at": "2026-05-31T13:54:16Z"
     }
   ],
-  "last_updated": "2026-05-31T19:57:05Z"
+  "last_updated": "2026-05-31T19:59:43Z"
 }
