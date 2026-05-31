@@ -16794,3 +16794,14 @@
 [08:58:37]   upload done video_id=25381445 in 72.3s
 [08:58:38] film cr_film_id=14695 OK in 126.1s
 [08:58:38] batch-end ok=20 failed=0 dur=2970.9s avg/film=148.5s remaining=7947 eta_hours=327.8
+
+===== run 2026-05-31T08:58:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26708316173) =====
+[08:59:00] batch-start shard=1/2 count=20 backlog=10210 uploads=2263 failed_attempts=69
+[08:59:00] login
+[08:59:01] login done
+[08:59:01] iteration 1/20
+[08:59:01] film cr_film_id=37155 name='Téměř dokonalý muž (2019) SK Dabing' candidates=1
+[08:59:01]   candidate upload_id=a17bab9e3031721a url=https://prehraj.to/temer-dokonaly-muz-2019-sk-dabing/a17bab9e3031721a
+[08:59:02]   resolved in 1.0s → 1080p (https://pf-storage6.premiumcdn.net/170856602/O2Qhg5cjdHX4UA0H4YcPqcEQuaPUAeiOmHx…)
+[09:00:12]   downloaded 2,220.7 MB in 68.9s (32.2 MB/s)
+[09:01:48]   upload done video_id=25381494 in 95.1s
