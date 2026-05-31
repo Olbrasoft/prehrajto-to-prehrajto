@@ -46227,6 +46227,25 @@
         "download_sec": 56.9,
         "upload_sec": 108.6
       }
+    },
+    {
+      "cr_film_id": 35240,
+      "cr_slug": "zazrak",
+      "title": "Zázrak",
+      "year": 2013,
+      "display_name": "Zázrak (2013) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "5c310bc2b4abf",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25393250,
+      "size_bytes": 374597962,
+      "uploaded_at": "2026-05-31T18:27:00Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 41.9,
+        "upload_sec": 31.9
+      }
     }
   ],
   "failed_attempts": [
@@ -46675,5 +46694,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T18:25:40Z"
+  "last_updated": "2026-05-31T18:27:00Z"
 }
