@@ -40204,6 +40204,25 @@
         "download_sec": 23.5,
         "upload_sec": 32.6
       }
+    },
+    {
+      "cr_film_id": 23834,
+      "cr_slug": "mrs-dalloway",
+      "title": "Mrs. Dalloway",
+      "year": 1997,
+      "display_name": "Mrs. Dalloway (1997) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6048136614a7e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25374592,
+      "size_bytes": 540826413,
+      "uploaded_at": "2026-05-31T02:48:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.7,
+        "upload_sec": 23.4
+      }
     }
   ],
   "failed_attempts": [
@@ -40638,5 +40657,5 @@
       "failed_at": "2026-05-31T02:46:14Z"
     }
   ],
-  "last_updated": "2026-05-31T02:47:19Z"
+  "last_updated": "2026-05-31T02:48:08Z"
 }
