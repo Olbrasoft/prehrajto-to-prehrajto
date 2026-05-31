@@ -45486,6 +45486,25 @@
         "download_sec": 94.3,
         "upload_sec": 152.2
       }
+    },
+    {
+      "cr_film_id": 15965,
+      "cr_slug": "posledna-hodina",
+      "title": "Posledná hodina",
+      "year": 1988,
+      "display_name": "Posledná hodina (1988) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "6064de14b1acd",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25390012,
+      "size_bytes": 1773833886,
+      "uploaded_at": "2026-05-31T16:06:45Z",
+      "timing": {
+        "resolve_sec": 2.1,
+        "download_sec": 76.2,
+        "upload_sec": 94.6
+      }
     }
   ],
   "failed_attempts": [
@@ -46010,5 +46029,5 @@
       "failed_at": "2026-05-31T13:54:16Z"
     }
   ],
-  "last_updated": "2026-05-31T16:03:48Z"
+  "last_updated": "2026-05-31T16:06:45Z"
 }
