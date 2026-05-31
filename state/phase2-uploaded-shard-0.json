@@ -40185,6 +40185,25 @@
         "download_sec": 18.1,
         "upload_sec": 28.1
       }
+    },
+    {
+      "cr_film_id": 34994,
+      "cr_slug": "passage",
+      "title": "Passage",
+      "year": 1997,
+      "display_name": "Passage (1997) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6889d757454d1",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25374564,
+      "size_bytes": 560525913,
+      "uploaded_at": "2026-05-31T02:47:19Z",
+      "timing": {
+        "resolve_sec": 7.2,
+        "download_sec": 23.5,
+        "upload_sec": 32.6
+      }
     }
   ],
   "failed_attempts": [
@@ -40610,7 +40629,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/danger-close-2017-cz-titulky-mp4/4ef1ff24616eda87",
       "permanent": true,
       "failed_at": "2026-05-30T08:21:19Z"
+    },
+    {
+      "cr_film_id": 12394,
+      "upload_id": "68bd4b9cc133d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/peacemaker-the-peacemaker-1997-1080p-h264-ac3-6ch-cztit-cz/68bd4b9cc133d",
+      "permanent": true,
+      "failed_at": "2026-05-31T02:46:14Z"
     }
   ],
-  "last_updated": "2026-05-31T02:46:12Z"
+  "last_updated": "2026-05-31T02:47:19Z"
 }
