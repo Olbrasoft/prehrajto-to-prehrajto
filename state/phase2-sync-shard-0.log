@@ -18105,3 +18105,14 @@
 [19:27:24]   upload done video_id=25394214 in 144.5s
 [19:27:26] film cr_film_id=28078 OK in 2239.2s
 [19:27:26] batch-end ok=20 failed=0 dur=4992.1s avg/film=249.6s remaining=7766 eta_hours=538.4
+
+===== run 2026-05-31T19:54:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26722825436) =====
+[19:54:02] batch-start shard=0/2 count=20 backlog=10210 uploads=2444 failed_attempts=62
+[19:54:02] login
+[19:54:04] login done
+[19:54:04] iteration 1/20
+[19:54:04] film cr_film_id=31828 name='Vánoční rande (2011) SK Dabing' candidates=4
+[19:54:04]   candidate upload_id=5a1fd5c96767c url=https://prehraj.to/vianocne-rande-sk-dabing-2011/5a1fd5c96767c
+[19:54:05]   resolved in 1.4s → 480p (https://pf-storage3.premiumcdn.net/3016407/nZLt4Zc2Bcr8UzOhEZuEMcejSL6TDWTebCmAS…)
+[20:02:36]   downloaded 380.6 MB in 509.6s (0.7 MB/s)
+[20:03:03]   upload done video_id=25394753 in 26.3s
