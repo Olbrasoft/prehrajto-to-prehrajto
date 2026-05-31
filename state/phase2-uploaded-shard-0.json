@@ -42883,6 +42883,25 @@
         "download_sec": 25.1,
         "upload_sec": 36.5
       }
+    },
+    {
+      "cr_film_id": 36596,
+      "cr_slug": "obcan-kane",
+      "title": "Občan Kane",
+      "year": 1941,
+      "display_name": "Občan Kane (1941) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "f161a004dcf19f2d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25381001,
+      "size_bytes": 1428281945,
+      "uploaded_at": "2026-05-31T08:36:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 146.1,
+        "upload_sec": 70.6
+      }
     }
   ],
   "failed_attempts": [
@@ -43324,5 +43343,5 @@
       "failed_at": "2026-05-31T04:20:54Z"
     }
   ],
-  "last_updated": "2026-05-31T08:32:54Z"
+  "last_updated": "2026-05-31T08:36:34Z"
 }
