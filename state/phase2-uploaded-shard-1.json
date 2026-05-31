@@ -40147,6 +40147,25 @@
         "download_sec": 42.2,
         "upload_sec": 53.4
       }
+    },
+    {
+      "cr_film_id": 35757,
+      "cr_slug": "stud-1968",
+      "title": "Stud",
+      "year": 1968,
+      "display_name": "Stud (1968) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "587eef2bf2d60",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25374466,
+      "size_bytes": 467729601,
+      "uploaded_at": "2026-05-31T02:40:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.9,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -40580,5 +40599,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-31T02:40:06Z"
+  "last_updated": "2026-05-31T02:40:57Z"
 }
