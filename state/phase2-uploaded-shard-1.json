@@ -47899,6 +47899,25 @@
         "download_sec": 30.6,
         "upload_sec": 57.5
       }
+    },
+    {
+      "cr_film_id": 31071,
+      "cr_slug": "heks",
+      "title": "Heks",
+      "year": 2020,
+      "display_name": "Heks (2020) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5fec5b3fd95de",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25397523,
+      "size_bytes": 783260994,
+      "uploaded_at": "2026-05-31T23:03:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.2,
+        "upload_sec": 34.8
+      }
     }
   ],
   "failed_attempts": [
@@ -48437,5 +48456,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-05-31T22:55:29Z"
+  "last_updated": "2026-05-31T23:03:03Z"
 }

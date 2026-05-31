@@ -18691,3 +18691,14 @@
 [22:55:29]   upload done video_id=25397430 in 57.5s
 [22:55:30] film cr_film_id=31119 OK in 91.4s
 [22:55:30] batch-end ok=20 failed=0 dur=2585.7s avg/film=129.3s remaining=7689 eta_hours=276.2
+
+===== run 2026-05-31T23:01:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26727018008) =====
+[23:01:59] batch-start shard=1/2 count=20 backlog=10210 uploads=2521 failed_attempts=72
+[23:01:59] login
+[23:02:00] login done
+[23:02:00] iteration 1/20
+[23:02:00] film cr_film_id=31071 name='Heks (2020) SK Titulky' candidates=1
+[23:02:00]   candidate upload_id=5fec5b3fd95de url=https://prehraj.to/heks-horor-2020-1080p-5-1-h-264-s-sktitulky-sten-ok/5fec5b3fd95de
+[23:02:01]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/21108138/PlxF17UYDi5ls7nf5ZSkKUgkfEkiZ7h7vcYG…)
+[23:02:28]   downloaded 783.3 MB in 25.2s (31.1 MB/s)
+[23:03:03]   upload done video_id=25397523 in 34.8s
