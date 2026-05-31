@@ -17229,3 +17229,14 @@
 [11:53:55]   upload done video_id=25385258 in 155.4s
 [11:53:57] film cr_film_id=9342 OK in 276.5s
 [11:53:57] batch-end ok=20 failed=0 dur=4018.9s avg/film=200.9s remaining=7886 eta_hours=440.1
+
+===== run 2026-05-31T11:54:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26711887983) =====
+[11:54:25] batch-start shard=0/2 count=20 backlog=10210 uploads=2324 failed_attempts=62
+[11:54:25] login
+[11:54:27] login done
+[11:54:27] iteration 1/20
+[11:54:27] film cr_film_id=14890 name='Odhalená (2021) SK Dabing' candidates=3
+[11:54:27]   candidate upload_id=66761014862aa url=https://prehraj.to/odhalena-mise-a-nu-2021-skdab/66761014862aa
+[11:54:28]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/79860887/63mFAnTEmSeRcRrhpQfwKTaxI9DCDzSazSnj…)
+[11:56:13]   downloaded 2,164.7 MB in 102.0s (21.2 MB/s)
+[11:58:19]   upload done video_id=25385337 in 126.8s
