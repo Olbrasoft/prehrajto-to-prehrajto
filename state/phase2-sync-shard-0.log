@@ -17813,3 +17813,14 @@
 [15:54:32]   upload done video_id=25389718 in 82.7s
 [15:54:34] film cr_film_id=16854 OK in 131.9s
 [15:54:34] batch-end ok=20 failed=0 dur=2530.0s avg/film=126.5s remaining=7806 eta_hours=274.3
+
+===== run 2026-05-31T16:42:40Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26718404342) =====
+[16:42:41] batch-start shard=0/2 count=20 backlog=10210 uploads=2404 failed_attempts=62
+[16:42:41] login
+[16:42:42] login done
+[16:42:42] iteration 1/20
+[16:42:42] film cr_film_id=29496 name='Vinnetou - Tajemství Stříbrného jezera (2016) SK Dabing' candidates=2
+[16:42:42]   candidate upload_id=5870307c932fe url=https://prehraj.to/winnetou-2-tajomstvo-strieborneho-jazera-sk-dabing-2016-das-geheimnis-vom-silbersee-lehi/5870307c932fe
+[16:42:43]   resolved in 1.1s → 720p (https://pf-storage2.premiumcdn.net/1361804/rdjH8Ou5yTEVij5TJ5fEPuDwfy1ivJtl0t1Wt…)
+[16:43:36]   downloaded 1,648.9 MB in 51.2s (32.2 MB/s)
+[16:45:12]   upload done video_id=25390805 in 95.7s
