@@ -15322,3 +15322,14 @@
 [00:53:58]   upload done video_id=25372230 in 33.6s
 [00:53:59] film cr_film_id=22491 OK in 61.5s
 [00:53:59] batch-end ok=20 failed=0 dur=2245.3s avg/film=112.3s remaining=8144 eta_hours=254.0
+
+===== run 2026-05-31T00:54:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26699374181) =====
+[00:54:27] batch-start shard=1/2 count=20 backlog=10210 uploads=2066 failed_attempts=57
+[00:54:27] login
+[00:54:28] login done
+[00:54:28] iteration 1/20
+[00:54:28] film cr_film_id=32749 name='Tarka the Otter (1979) CZ Titulky' candidates=1
+[00:54:28]   candidate upload_id=586c82a3a6a85 url=https://prehraj.to/vydra-tarka-tarka-the-otter-1979-ru-cz-tit/586c82a3a6a85
+[00:54:30]   resolved in 1.4s → 480p (https://pf-storage3.premiumcdn.net/1302286/lkxT1ZuM9SzdsvRIQOUwEu1gheJtNQtwxCK6h…)
+[00:55:13]   downloaded 822.1 MB in 41.3s (19.9 MB/s)
+[00:56:08]   upload done video_id=25372279 in 54.7s
