@@ -46550,6 +46550,25 @@
         "download_sec": 75.1,
         "upload_sec": 86.4
       }
+    },
+    {
+      "cr_film_id": 37007,
+      "cr_slug": "warden-2025",
+      "title": "Warden",
+      "year": 2025,
+      "display_name": "Warden (2025) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "67d839d5d6e58",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25394850,
+      "size_bytes": 1585201780,
+      "uploaded_at": "2026-05-31T20:12:05Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 50.9,
+        "upload_sec": 66.4
+      }
     }
   ],
   "failed_attempts": [
@@ -47074,5 +47093,5 @@
       "failed_at": "2026-05-31T13:54:16Z"
     }
   ],
-  "last_updated": "2026-05-31T20:10:03Z"
+  "last_updated": "2026-05-31T20:12:05Z"
 }
