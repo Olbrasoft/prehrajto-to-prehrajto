@@ -17818,3 +17818,14 @@
 [16:42:15]   upload done video_id=25390756 in 44.7s
 [16:42:17] film cr_film_id=22687 OK in 81.0s
 [16:42:17] batch-end ok=20 failed=0 dur=5392.4s avg/film=269.6s remaining=7807 eta_hours=584.7
+
+===== run 2026-05-31T16:42:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26718404342) =====
+[16:42:43] batch-start shard=1/2 count=20 backlog=10210 uploads=2403 failed_attempts=70
+[16:42:43] login
+[16:42:44] login done
+[16:42:44] iteration 1/20
+[16:42:44] film cr_film_id=13117 name='Husiarka a kráľ (1983) SK Dabing' candidates=5
+[16:42:44]   candidate upload_id=61647d69ce457 url=https://prehraj.to/husiarka-a-kral-1983-skdab/61647d69ce457
+[16:42:46]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/25434908/44Asq6C0ps4jIlPuPWC9QCjvugOt7Pho4ud3…)
+[16:43:41]   downloaded 1,069.1 MB in 52.8s (20.2 MB/s)
+[16:45:30]   upload done video_id=25390808 in 109.6s
