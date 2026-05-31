@@ -43586,6 +43586,25 @@
         "download_sec": 26.2,
         "upload_sec": 37.3
       }
+    },
+    {
+      "cr_film_id": 12594,
+      "cr_slug": "sextanka",
+      "title": "Sextánka",
+      "year": 1936,
+      "display_name": "Sextánka (1936) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "64d396d94f0db",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25383005,
+      "size_bytes": 2002904601,
+      "uploaded_at": "2026-05-31T10:15:03Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 111.0,
+        "upload_sec": 129.7
+      }
     }
   ],
   "failed_attempts": [
@@ -44034,5 +44053,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T10:10:57Z"
+  "last_updated": "2026-05-31T10:15:03Z"
 }
