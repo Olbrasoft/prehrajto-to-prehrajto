@@ -48089,6 +48089,25 @@
         "download_sec": 10.6,
         "upload_sec": 20.4
       }
+    },
+    {
+      "cr_film_id": 35768,
+      "cr_slug": "hive",
+      "title": "Hive",
+      "year": 2026,
+      "display_name": "Hive (2026) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "b49bc644bbfa2a24",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25397625,
+      "size_bytes": 1565796220,
+      "uploaded_at": "2026-05-31T23:14:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 45.7,
+        "upload_sec": 68.3
+      }
     }
   ],
   "failed_attempts": [
@@ -48556,5 +48575,5 @@
       "failed_at": "2026-05-31T21:47:05Z"
     }
   ],
-  "last_updated": "2026-05-31T23:12:42Z"
+  "last_updated": "2026-05-31T23:14:39Z"
 }
