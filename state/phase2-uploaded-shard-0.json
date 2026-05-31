@@ -40356,6 +40356,25 @@
         "download_sec": 54.7,
         "upload_sec": 72.6
       }
+    },
+    {
+      "cr_film_id": 23590,
+      "cr_slug": "elisa",
+      "title": "Élisa",
+      "year": 1995,
+      "display_name": "Élisa (1995) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5dfe0d20f1334",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25375181,
+      "size_bytes": 512263913,
+      "uploaded_at": "2026-05-31T03:04:38Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.2,
+        "upload_sec": 35.0
+      }
     }
   ],
   "failed_attempts": [
@@ -40790,5 +40809,5 @@
       "failed_at": "2026-05-31T02:46:14Z"
     }
   ],
-  "last_updated": "2026-05-31T03:03:37Z"
+  "last_updated": "2026-05-31T03:04:38Z"
 }
