@@ -16937,3 +16937,14 @@
 [09:38:40]   upload done video_id=25382312 in 63.4s
 [09:38:42] film cr_film_id=15150 OK in 111.5s
 [09:38:42] batch-end ok=19 failed=1 dur=2378.0s avg/film=125.2s remaining=7926 eta_hours=275.6
+
+===== run 2026-05-31T09:43:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26709204709) =====
+[09:43:12] batch-start shard=0/2 count=20 backlog=10210 uploads=2284 failed_attempts=62
+[09:43:12] login
+[09:43:13] login done
+[09:43:13] iteration 1/20
+[09:43:14] film cr_film_id=17050 name='Eric Clapton: Život ve dvanácti taktech (2017) CZ' candidates=2
+[09:43:14]   candidate upload_id=5d5ee5ce45b83 url=https://prehraj.to/eric-clapton-zivot-ve-dvanacti-taktech-2017/5d5ee5ce45b83
+[09:43:15]   resolved in 1.6s → 720p (https://pf-storage1.premiumcdn.net/14669754/BODTG8sq3Sy2flyH7nUxesymTArHv1SBahOR…)
+[09:44:27]   downloaded 1,456.5 MB in 70.0s (20.8 MB/s)
+[09:45:54]   upload done video_id=25382471 in 86.4s
