@@ -41439,6 +41439,25 @@
         "download_sec": 22.5,
         "upload_sec": 35.7
       }
+    },
+    {
+      "cr_film_id": 37120,
+      "cr_slug": "tirak-turner",
+      "title": "Tirák Turner",
+      "year": 1974,
+      "display_name": "Tirák Turner (1974) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "bf7073cd65e9e834",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25377654,
+      "size_bytes": 1593047135,
+      "uploaded_at": "2026-05-31T05:10:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 79.2,
+        "upload_sec": 100.5
+      }
     }
   ],
   "failed_attempts": [
@@ -41880,5 +41899,5 @@
       "failed_at": "2026-05-31T04:20:54Z"
     }
   ],
-  "last_updated": "2026-05-31T05:07:35Z"
+  "last_updated": "2026-05-31T05:10:39Z"
 }
