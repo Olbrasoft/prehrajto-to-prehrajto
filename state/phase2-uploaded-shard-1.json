@@ -39083,6 +39083,25 @@
         "download_sec": 83.5,
         "upload_sec": 99.5
       }
+    },
+    {
+      "cr_film_id": 11347,
+      "cr_slug": "vrazedna-linka",
+      "title": "Vražedná linka",
+      "year": 1982,
+      "display_name": "Vražedná linka (1982) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "0a0474589c1eccd5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25371918,
+      "size_bytes": 616510055,
+      "uploaded_at": "2026-05-31T00:39:57Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 23.6,
+        "upload_sec": 41.4
+      }
     }
   ],
   "failed_attempts": [
@@ -39516,5 +39535,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-31T00:38:48Z"
+  "last_updated": "2026-05-31T00:39:57Z"
 }
