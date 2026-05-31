@@ -46132,6 +46132,25 @@
         "download_sec": 43.9,
         "upload_sec": 58.5
       }
+    },
+    {
+      "cr_film_id": 9922,
+      "cr_slug": "absolution-2015",
+      "title": "Absolution",
+      "year": 2015,
+      "display_name": "Absolution (2015) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "5a4a1b5590473",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25393007,
+      "size_bytes": 526340428,
+      "uploaded_at": "2026-05-31T18:15:06Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.9,
+        "upload_sec": 48.3
+      }
     }
   ],
   "failed_attempts": [
@@ -46580,5 +46599,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T18:13:44Z"
+  "last_updated": "2026-05-31T18:15:06Z"
 }
