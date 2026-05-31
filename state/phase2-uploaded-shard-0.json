@@ -41249,6 +41249,25 @@
         "download_sec": 66.5,
         "upload_sec": 89.5
       }
+    },
+    {
+      "cr_film_id": 22488,
+      "cr_slug": "stalker-1979",
+      "title": "Stalker",
+      "year": 1979,
+      "display_name": "Stalker (1979) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "602859a872125",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25377258,
+      "size_bytes": 1928646053,
+      "uploaded_at": "2026-05-31T04:48:02Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 86.6,
+        "upload_sec": 117.0
+      }
     }
   ],
   "failed_attempts": [
@@ -41690,5 +41709,5 @@
       "failed_at": "2026-05-31T04:20:54Z"
     }
   ],
-  "last_updated": "2026-05-31T04:44:34Z"
+  "last_updated": "2026-05-31T04:48:02Z"
 }
