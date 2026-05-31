@@ -40413,6 +40413,25 @@
         "download_sec": 41.1,
         "upload_sec": 65.4
       }
+    },
+    {
+      "cr_film_id": 21717,
+      "cr_slug": "cervena-pustina",
+      "title": "Červená pustina",
+      "year": 1964,
+      "display_name": "Červená pustina (1964) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "582121eb28154",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25375288,
+      "size_bytes": 649652148,
+      "uploaded_at": "2026-05-31T03:09:44Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 32.3,
+        "upload_sec": 48.2
+      }
     }
   ],
   "failed_attempts": [
@@ -40846,5 +40865,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-31T03:08:18Z"
+  "last_updated": "2026-05-31T03:09:44Z"
 }
