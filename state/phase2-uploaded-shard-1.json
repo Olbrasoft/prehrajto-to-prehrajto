@@ -44080,6 +44080,25 @@
         "download_sec": 17.9,
         "upload_sec": 30.4
       }
+    },
+    {
+      "cr_film_id": 4737,
+      "cr_slug": "eidurinn",
+      "title": "Eiðurinn",
+      "year": 2016,
+      "display_name": "Eiðurinn (2016) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "5efb4c6f00336",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25384577,
+      "size_bytes": 392453773,
+      "uploaded_at": "2026-05-31T11:18:15Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 14.0,
+        "upload_sec": 24.3
+      }
     }
   ],
   "failed_attempts": [
@@ -44597,5 +44616,5 @@
       "failed_at": "2026-05-31T08:05:13Z"
     }
   ],
-  "last_updated": "2026-05-31T11:17:33Z"
+  "last_updated": "2026-05-31T11:18:15Z"
 }
