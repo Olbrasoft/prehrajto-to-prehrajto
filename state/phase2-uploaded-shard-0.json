@@ -45182,6 +45182,25 @@
         "download_sec": 31.3,
         "upload_sec": 44.3
       }
+    },
+    {
+      "cr_film_id": 1352,
+      "cr_slug": "edmond",
+      "title": "Edmond",
+      "year": 2018,
+      "display_name": "Edmond (2018) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "5ff4ecc1d6ec0",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25388487,
+      "size_bytes": 1735234302,
+      "uploaded_at": "2026-05-31T14:55:45Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 69.5,
+        "upload_sec": 119.3
+      }
     }
   ],
   "failed_attempts": [
@@ -45630,5 +45649,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T14:52:32Z"
+  "last_updated": "2026-05-31T14:55:45Z"
 }
