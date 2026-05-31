@@ -39634,6 +39634,25 @@
         "download_sec": 121.7,
         "upload_sec": 143.7
       }
+    },
+    {
+      "cr_film_id": 22207,
+      "cr_slug": "nocni-vratny",
+      "title": "Noční vrátný",
+      "year": 1974,
+      "display_name": "Noční vrátný (1974) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6036cf4ef2210",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25373516,
+      "size_bytes": 1428531781,
+      "uploaded_at": "2026-05-31T01:44:03Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 63.6,
+        "upload_sec": 91.2
+      }
     }
   ],
   "failed_attempts": [
@@ -40067,5 +40086,5 @@
       }
     }
   ],
-  "last_updated": "2026-05-31T01:40:53Z"
+  "last_updated": "2026-05-31T01:44:03Z"
 }
