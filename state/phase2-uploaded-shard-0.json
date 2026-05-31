@@ -40014,6 +40014,25 @@
         "download_sec": 15.4,
         "upload_sec": 26.7
       }
+    },
+    {
+      "cr_film_id": 12864,
+      "cr_slug": "kikudziro",
+      "title": "Kikudžiró",
+      "year": 1999,
+      "display_name": "Kikudžiró (1999) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "583ca1b50a1e4",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25374019,
+      "size_bytes": 486712135,
+      "uploaded_at": "2026-05-31T02:08:18Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 17.4,
+        "upload_sec": 25.8
+      }
     }
   ],
   "failed_attempts": [
@@ -40441,5 +40460,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-31T02:07:32Z"
+  "last_updated": "2026-05-31T02:08:18Z"
 }
