@@ -16063,3 +16063,14 @@
 [04:32:27]   upload done video_id=25376983 in 105.1s
 [04:32:28] film cr_film_id=22566 OK in 188.9s
 [04:32:28] batch-end ok=19 failed=1 dur=2626.8s avg/film=138.3s remaining=8045 eta_hours=309.1
+
+===== run 2026-05-31T04:32:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26703288066) =====
+[04:32:53] batch-start shard=0/2 count=20 backlog=10210 uploads=2165 failed_attempts=61
+[04:32:53] login
+[04:32:54] login done
+[04:32:54] iteration 1/20
+[04:32:54] film cr_film_id=11370 name='Ohnivé vozy (1981) CZ Titulky' candidates=1
+[04:32:54]   candidate upload_id=c0019cb54364d227 url=https://prehraj.to/ohnive-vozy-1981-cz-titulky/c0019cb54364d227
+[04:32:56]   resolved in 1.3s → 480p (https://pf-storage6.premiumcdn.net/170634983/vwphMAUQXfNPtgQU58I3BUB8Sb3s8zhJ2Sl…)
+[04:33:41]   downloaded 868.7 MB in 42.7s (20.3 MB/s)
+[04:34:39]   upload done video_id=25377030 in 58.6s
