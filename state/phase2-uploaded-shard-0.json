@@ -39729,6 +39729,25 @@
         "download_sec": 13.6,
         "upload_sec": 24.8
       }
+    },
+    {
+      "cr_film_id": 32580,
+      "cr_slug": "callas-forever",
+      "title": "Callas Forever",
+      "year": 2002,
+      "display_name": "Callas Forever (2002) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60748893e9fda",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25373566,
+      "size_bytes": 745495991,
+      "uploaded_at": "2026-05-31T01:45:48Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 25.5,
+        "upload_sec": 44.2
+      }
     }
   ],
   "failed_attempts": [
@@ -40156,5 +40175,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-31T01:44:35Z"
+  "last_updated": "2026-05-31T01:45:48Z"
 }
