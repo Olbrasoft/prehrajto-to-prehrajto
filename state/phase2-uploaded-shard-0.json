@@ -40926,6 +40926,25 @@
         "download_sec": 49.2,
         "upload_sec": 63.9
       }
+    },
+    {
+      "cr_film_id": 22790,
+      "cr_slug": "gymkata",
+      "title": "Gymkata",
+      "year": 1985,
+      "display_name": "Gymkata (1985) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5b324b481c774",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25376554,
+      "size_bytes": 808143318,
+      "uploaded_at": "2026-05-31T04:03:06Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 36.0,
+        "upload_sec": 56.0
+      }
     }
   ],
   "failed_attempts": [
@@ -41360,5 +41379,5 @@
       "failed_at": "2026-05-31T02:46:14Z"
     }
   ],
-  "last_updated": "2026-05-31T04:01:29Z"
+  "last_updated": "2026-05-31T04:03:06Z"
 }
