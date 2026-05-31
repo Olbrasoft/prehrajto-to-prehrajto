@@ -44631,6 +44631,25 @@
         "download_sec": 31.9,
         "upload_sec": 57.4
       }
+    },
+    {
+      "cr_film_id": 17060,
+      "cr_slug": "100-bio",
+      "title": "100% bio",
+      "year": 2020,
+      "display_name": "100% bio (2020) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "60aa54570529b",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25386553,
+      "size_bytes": 1814475808,
+      "uploaded_at": "2026-05-31T13:14:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 64.0,
+        "upload_sec": 96.0
+      }
     }
   ],
   "failed_attempts": [
@@ -45079,5 +45098,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T13:12:02Z"
+  "last_updated": "2026-05-31T13:14:46Z"
 }
