@@ -45885,6 +45885,25 @@
         "download_sec": 61.9,
         "upload_sec": 99.5
       }
+    },
+    {
+      "cr_film_id": 18978,
+      "cr_slug": "agava",
+      "title": "Agáva",
+      "year": 2016,
+      "display_name": "Agáva (2016) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "5b42da215c38d",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25391241,
+      "size_bytes": 532033022,
+      "uploaded_at": "2026-05-31T17:09:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.5,
+        "upload_sec": 31.3
+      }
     }
   ],
   "failed_attempts": [
@@ -46333,5 +46352,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T17:08:07Z"
+  "last_updated": "2026-05-31T17:09:00Z"
 }
