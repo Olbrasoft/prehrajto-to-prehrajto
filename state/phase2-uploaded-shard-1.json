@@ -46645,6 +46645,25 @@
         "download_sec": 26.2,
         "upload_sec": 41.1
       }
+    },
+    {
+      "cr_film_id": 1269,
+      "cr_slug": "otec-2025",
+      "title": "Otec",
+      "year": 2025,
+      "display_name": "Otec (2025) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "720e1abcf083050a",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25394930,
+      "size_bytes": 1042708584,
+      "uploaded_at": "2026-05-31T20:19:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 30.3,
+        "upload_sec": 61.9
+      }
     }
   ],
   "failed_attempts": [
@@ -47176,5 +47195,5 @@
       "failed_at": "2026-05-31T20:16:33Z"
     }
   ],
-  "last_updated": "2026-05-31T20:17:48Z"
+  "last_updated": "2026-05-31T20:19:24Z"
 }
