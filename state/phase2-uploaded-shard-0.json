@@ -46588,6 +46588,25 @@
         "download_sec": 64.5,
         "upload_sec": 117.9
       }
+    },
+    {
+      "cr_film_id": 14908,
+      "cr_slug": "bez-sance",
+      "title": "Bez šance",
+      "year": 2010,
+      "display_name": "Bez šance (2010) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "689e0d55726e8",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25394977,
+      "size_bytes": 332370734,
+      "uploaded_at": "2026-05-31T20:23:29Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 13.6,
+        "upload_sec": 26.7
+      }
     }
   ],
   "failed_attempts": [
@@ -47036,5 +47055,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T20:22:44Z"
+  "last_updated": "2026-05-31T20:23:29Z"
 }
