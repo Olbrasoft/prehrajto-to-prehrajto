@@ -16395,3 +16395,17 @@
 [06:22:51]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/141522887/Gg2TNMS1MsJrH8MH7pUgGSy5CbghbaFVrCq…)
 [06:24:16]   downloaded 1,712.2 MB in 83.0s (20.6 MB/s)
 [06:25:56]   upload done video_id=25378883 in 99.8s
+[06:25:58] film cr_film_id=4079 OK in 187.8s
+[06:25:58] iteration 8/20
+[06:25:58] film cr_film_id=7833 name='Smršť (2024) SK Dabing' candidates=2
+[06:25:58]   candidate upload_id=93e52871c580a63d url=https://prehraj.to/smrst-2024-hd-sk-dabing/93e52871c580a63d
+[06:25:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smrst-2024-hd-sk-dabing/93e52871c580a63d (permanent=True)
+[06:25:58]   candidate upload_id=23a3df3996cf8336 url=https://prehraj.to/smrst-2024-cz/23a3df3996cf8336
+[06:26:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smrst-2024-cz/23a3df3996cf8336 (permanent=True)
+[06:26:04] film cr_film_id=7833 all candidates exhausted
+[06:26:04] iteration 9/20
+[06:26:04] film cr_film_id=15953 name='Prey (2024) SK Dabing' candidates=1
+[06:26:04]   candidate upload_id=68dfb80ac6a55 url=https://prehraj.to/korist-2024-sk-dab-1080p/68dfb80ac6a55
+[06:26:10]   resolved in 6.2s → 1080p (https://pf-storage4.premiumcdn.net/149604924/2Grt1rS7ViyYsJMh41S7qSxDCbJFZKiQWfE…)
+[06:27:23]   downloaded 1,468.3 MB in 70.6s (20.8 MB/s)
+[06:28:54]   upload done video_id=25378950 in 90.4s
