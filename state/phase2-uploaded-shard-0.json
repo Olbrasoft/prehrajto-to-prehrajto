@@ -45391,6 +45391,25 @@
         "download_sec": 68.1,
         "upload_sec": 92.9
       }
+    },
+    {
+      "cr_film_id": 4290,
+      "cr_slug": "pata-lod",
+      "title": "Pátá loď",
+      "year": 2017,
+      "display_name": "Pátá loď (2017) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "59ae2b34dd455",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25389070,
+      "size_bytes": 465070491,
+      "uploaded_at": "2026-05-31T15:26:43Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.2,
+        "upload_sec": 33.6
+      }
     }
   ],
   "failed_attempts": [
@@ -45839,5 +45858,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T15:25:47Z"
+  "last_updated": "2026-05-31T15:26:43Z"
 }
