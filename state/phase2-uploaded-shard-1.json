@@ -45106,6 +45106,25 @@
         "download_sec": 15.3,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 12643,
+      "cr_slug": "bones",
+      "title": "Bones",
+      "year": 2001,
+      "display_name": "Bones (2001) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "6902da9bc3703",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25387732,
+      "size_bytes": 373886857,
+      "uploaded_at": "2026-05-31T14:14:13Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 14.1,
+        "upload_sec": 26.0
+      }
     }
   ],
   "failed_attempts": [
@@ -45630,5 +45649,5 @@
       "failed_at": "2026-05-31T13:54:16Z"
     }
   ],
-  "last_updated": "2026-05-31T14:13:29Z"
+  "last_updated": "2026-05-31T14:14:13Z"
 }
