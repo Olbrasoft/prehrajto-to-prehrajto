@@ -39311,6 +39311,25 @@
         "download_sec": 15.1,
         "upload_sec": 26.3
       }
+    },
+    {
+      "cr_film_id": 25208,
+      "cr_slug": "tak-jako-v-nebi",
+      "title": "Tak jako v nebi",
+      "year": 2004,
+      "display_name": "Tak jako v nebi (2004) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "584733d1f3212",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25372339,
+      "size_bytes": 624880631,
+      "uploaded_at": "2026-05-31T00:57:59Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 24.3,
+        "upload_sec": 36.3
+      }
     }
   ],
   "failed_attempts": [
@@ -39738,5 +39757,5 @@
       "failed_at": "2026-05-30T08:21:19Z"
     }
   ],
-  "last_updated": "2026-05-31T00:56:55Z"
+  "last_updated": "2026-05-31T00:57:59Z"
 }
