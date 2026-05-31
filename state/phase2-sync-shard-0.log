@@ -17375,3 +17375,14 @@
 [13:01:44]   upload done video_id=25386329 in 170.5s
 [13:01:46] film cr_film_id=8226 OK in 300.7s
 [13:01:46] batch-end ok=20 failed=0 dur=4038.8s avg/film=201.9s remaining=7866 eta_hours=441.2
+
+===== run 2026-05-31T13:02:10Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26713347915) =====
+[13:02:11] batch-start shard=0/2 count=20 backlog=10210 uploads=2344 failed_attempts=62
+[13:02:11] login
+[13:02:12] login done
+[13:02:12] iteration 1/20
+[13:02:12] film cr_film_id=10122 name='Deadly Mile High Club (2020) SK Dabing' candidates=4
+[13:02:12]   candidate upload_id=6036042f67d2f url=https://prehraj.to/smrtiaci-let-deadly-mile-high-club-2020-sk-dabing-1080p-thriller/6036042f67d2f
+[13:02:13]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/22406774/xEJt7MUNrUVzCoAhv6SlLUwMf9zIYzu6Ru2e…)
+[13:02:53]   downloaded 1,051.3 MB in 37.8s (27.8 MB/s)
+[13:03:47]   upload done video_id=25386384 in 53.6s
