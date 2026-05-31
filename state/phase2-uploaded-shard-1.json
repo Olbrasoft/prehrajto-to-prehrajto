@@ -46151,6 +46151,25 @@
         "download_sec": 35.0,
         "upload_sec": 55.9
       }
+    },
+    {
+      "cr_film_id": 15391,
+      "cr_slug": "svadba",
+      "title": "Svadba",
+      "year": 1970,
+      "display_name": "Svadba (1970) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "6167670893462",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25393231,
+      "size_bytes": 594894275,
+      "uploaded_at": "2026-05-31T18:26:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 34.7,
+        "upload_sec": 42.6
+      }
     }
   ],
   "failed_attempts": [
@@ -46675,5 +46694,5 @@
       "failed_at": "2026-05-31T13:54:16Z"
     }
   ],
-  "last_updated": "2026-05-31T18:24:50Z"
+  "last_updated": "2026-05-31T18:26:12Z"
 }
