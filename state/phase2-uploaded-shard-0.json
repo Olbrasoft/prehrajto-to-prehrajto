@@ -48146,6 +48146,25 @@
         "download_sec": 37.7,
         "upload_sec": 56.3
       }
+    },
+    {
+      "cr_film_id": 16364,
+      "cr_slug": "lookout",
+      "title": "Lookout",
+      "year": 2025,
+      "display_name": "Lookout (2025) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "68c82ce461145",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25397889,
+      "size_bytes": 1995347728,
+      "uploaded_at": "2026-05-31T23:20:14Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 57.3,
+        "upload_sec": 110.3
+      }
     }
   ],
   "failed_attempts": [
@@ -48611,7 +48630,14 @@
       "reason": "oversize: 6427035913 B",
       "permanent": true,
       "failed_at": "2026-05-31T21:47:05Z"
+    },
+    {
+      "cr_film_id": 9842,
+      "upload_id": "68557cd4d2081",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rosario-prokleti-2025-sk-titulky-v-obraze/68557cd4d2081",
+      "permanent": true,
+      "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-05-31T23:17:17Z"
+  "last_updated": "2026-05-31T23:20:14Z"
 }
