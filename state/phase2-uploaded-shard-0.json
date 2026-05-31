@@ -42009,6 +42009,25 @@
         "download_sec": 20.1,
         "upload_sec": 33.0
       }
+    },
+    {
+      "cr_film_id": 34238,
+      "cr_slug": "andrej-rublev",
+      "title": "Andrej Rublev",
+      "year": 1966,
+      "display_name": "Andrej Rublev (1966) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67d4c278b2647",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25378700,
+      "size_bytes": 3626630560,
+      "uploaded_at": "2026-05-31T06:18:31Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 129.0,
+        "upload_sec": 169.1
+      }
     }
   ],
   "failed_attempts": [
@@ -42450,5 +42469,5 @@
       "failed_at": "2026-05-31T04:20:54Z"
     }
   ],
-  "last_updated": "2026-05-31T06:13:29Z"
+  "last_updated": "2026-05-31T06:18:31Z"
 }
