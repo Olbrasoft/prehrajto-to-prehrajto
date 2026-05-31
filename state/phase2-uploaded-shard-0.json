@@ -46645,6 +46645,25 @@
         "download_sec": 16.9,
         "upload_sec": 27.2
       }
+    },
+    {
+      "cr_film_id": 25946,
+      "cr_slug": "zvonilka",
+      "title": "Zvonilka",
+      "year": 2008,
+      "display_name": "Zvonilka (2008) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "68d6d7e205dbd",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25395035,
+      "size_bytes": 2122020488,
+      "uploaded_at": "2026-05-31T20:29:28Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 74.6,
+        "upload_sec": 103.8
+      }
     }
   ],
   "failed_attempts": [
@@ -47091,7 +47110,19 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pysna-princezna-3d-cz-ac3-cz-eng-tit-mkv/bfbcf2c7a79e9853",
       "permanent": true,
       "failed_at": "2026-05-31T09:33:08Z"
+    },
+    {
+      "cr_film_id": 25946,
+      "upload_id": "68d6ec874a35e",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-05-31T20:26:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 71.2,
+        "upload_sec": 0.0
+      }
     }
   ],
-  "last_updated": "2026-05-31T20:25:11Z"
+  "last_updated": "2026-05-31T20:29:28Z"
 }
