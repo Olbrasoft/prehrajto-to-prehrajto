@@ -16648,3 +16648,14 @@
 [08:08:35]   upload done video_id=25380501 in 76.4s
 [08:08:37] film cr_film_id=31171 OK in 139.4s
 [08:08:37] batch-end ok=19 failed=1 dur=3528.9s avg/film=185.7s remaining=7967 eta_hours=411.0
+
+===== run 2026-05-31T08:09:05Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26707322044) =====
+[08:09:06] batch-start shard=1/2 count=20 backlog=10210 uploads=2243 failed_attempts=69
+[08:09:06] login
+[08:09:08] login done
+[08:09:08] iteration 1/20
+[08:09:08] film cr_film_id=1897 name='Drak se vrací (2021) SK Dabing' candidates=5
+[08:09:08]   candidate upload_id=61cf5d283c057 url=https://prehraj.to/drak-sa-vracia-1967-skdab/61cf5d283c057
+[08:09:09]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/27947613/zeEcl3igMTLJuA2T0vsg8iPqT18FdETqBTJ0…)
+[08:10:25]   downloaded 1,884.6 MB in 73.8s (25.5 MB/s)
+[08:12:03]   upload done video_id=25380549 in 98.0s
