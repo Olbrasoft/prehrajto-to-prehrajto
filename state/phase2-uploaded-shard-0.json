@@ -42085,6 +42085,25 @@
         "download_sec": 27.0,
         "upload_sec": 38.7
       }
+    },
+    {
+      "cr_film_id": 10856,
+      "cr_slug": "kocky-1964",
+      "title": "Kočky",
+      "year": 1964,
+      "display_name": "Kočky (1964) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6330d035340a9",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25378978,
+      "size_bytes": 531795998,
+      "uploaded_at": "2026-05-31T06:29:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.7,
+        "upload_sec": 32.1
+      }
     }
   ],
   "failed_attempts": [
@@ -42526,5 +42545,5 @@
       "failed_at": "2026-05-31T04:20:54Z"
     }
   ],
-  "last_updated": "2026-05-31T06:28:11Z"
+  "last_updated": "2026-05-31T06:29:08Z"
 }
