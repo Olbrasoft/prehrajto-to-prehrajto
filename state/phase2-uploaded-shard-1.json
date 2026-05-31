@@ -42807,6 +42807,25 @@
         "download_sec": 20.4,
         "upload_sec": 32.8
       }
+    },
+    {
+      "cr_film_id": 7611,
+      "cr_slug": "lassie-se-vraci",
+      "title": "Lassie se vrací",
+      "year": 2020,
+      "display_name": "Lassie se vrací (2020) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "630e8eb5ab9b1",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25381023,
+      "size_bytes": 758651174,
+      "uploaded_at": "2026-05-31T08:37:25Z",
+      "timing": {
+        "resolve_sec": 3.0,
+        "download_sec": 29.1,
+        "upload_sec": 45.3
+      }
     }
   ],
   "failed_attempts": [
@@ -43324,5 +43343,5 @@
       "failed_at": "2026-05-31T08:05:13Z"
     }
   ],
-  "last_updated": "2026-05-31T08:36:05Z"
+  "last_updated": "2026-05-31T08:37:25Z"
 }
