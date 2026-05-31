@@ -16198,3 +16198,14 @@
 [04:58:42]   upload done video_id=25377481 in 50.7s
 [04:58:44] film cr_film_id=8103 OK in 91.4s
 [04:58:44] batch-end ok=20 failed=0 dur=1549.5s avg/film=77.5s remaining=8024 eta_hours=172.7
+
+===== run 2026-05-31T05:16:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26704067158) =====
+[05:16:45] batch-start shard=1/2 count=20 backlog=10210 uploads=2186 failed_attempts=57
+[05:16:45] login
+[05:16:47] login done
+[05:16:47] iteration 1/20
+[05:16:47] film cr_film_id=9459 name='Temnota v nás (2024) CZ' candidates=2
+[05:16:47]   candidate upload_id=679d8a69b104e url=https://prehraj.to/temnota-v-nas-hdtv-cz-2024-1080p/679d8a69b104e
+[05:16:48]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/128666993/zDOi8QflMSd2hrKHNWiQdfPMC0PI46UvWtp…)
+[05:17:44]   downloaded 1,739.0 MB in 54.7s (31.8 MB/s)
+[05:19:02]   upload done video_id=25377796 in 78.0s
