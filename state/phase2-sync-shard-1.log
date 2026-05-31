@@ -16052,3 +16052,14 @@
 [04:20:45]   upload done video_id=25376830 in 56.7s
 [04:20:47] film cr_film_id=21291 OK in 99.3s
 [04:20:47] batch-end ok=20 failed=0 dur=1925.0s avg/film=96.2s remaining=8044 eta_hours=215.0
+
+===== run 2026-05-31T04:32:52Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26703288066) =====
+[04:32:53] batch-start shard=1/2 count=20 backlog=10210 uploads=2166 failed_attempts=57
+[04:32:53] login
+[04:32:55] login done
+[04:32:55] iteration 1/20
+[04:32:55] film cr_film_id=21297 name='Boj o jižní točnu (1948) CZ Titulky' candidates=1
+[04:32:55]   candidate upload_id=5fdb9cbfa70df url=https://prehraj.to/boj-o-jizni-tocnu-1948-cztitulky/5fdb9cbfa70df
+[04:32:56]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/20850759/PQDFGqc9vi3RcQJHyBs0RcJWHPZfjlhJ0fL5…)
+[04:33:17]   downloaded 567.6 MB in 19.6s (29.0 MB/s)
+[04:33:53]   upload done video_id=25377025 in 35.9s
