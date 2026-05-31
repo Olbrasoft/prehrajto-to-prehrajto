@@ -45524,6 +45524,25 @@
         "download_sec": 16.0,
         "upload_sec": 25.8
       }
+    },
+    {
+      "cr_film_id": 8938,
+      "cr_slug": "kralove",
+      "title": "Králové",
+      "year": 2017,
+      "display_name": "Králové (2017) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "6055f2060e8fb",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25389323,
+      "size_bytes": 1587900734,
+      "uploaded_at": "2026-05-31T15:40:31Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 56.7,
+        "upload_sec": 113.4
+      }
     }
   ],
   "failed_attempts": [
@@ -45972,5 +45991,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T15:37:36Z"
+  "last_updated": "2026-05-31T15:40:31Z"
 }
