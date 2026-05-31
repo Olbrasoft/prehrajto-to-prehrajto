@@ -42161,6 +42161,25 @@
         "download_sec": 86.7,
         "upload_sec": 114.4
       }
+    },
+    {
+      "cr_film_id": 14315,
+      "cr_slug": "ztraty-a-nalezy",
+      "title": "Ztráty a nálezy",
+      "year": 2022,
+      "display_name": "Ztráty a nálezy (2022) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "c8e4c305465d548b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25379268,
+      "size_bytes": 1815441005,
+      "uploaded_at": "2026-05-31T06:55:19Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 86.7,
+        "upload_sec": 108.4
+      }
     }
   ],
   "failed_attempts": [
@@ -42627,7 +42646,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p-mp4/7e2f93d3771da083",
       "permanent": true,
       "failed_at": "2026-05-31T06:41:05Z"
+    },
+    {
+      "cr_film_id": 14315,
+      "upload_id": "da29efdd8b787129",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ztraty-a-nalezy-2022-sk-dab-1080p-mp4/da29efdd8b787129",
+      "permanent": true,
+      "failed_at": "2026-05-31T06:51:44Z"
+    },
+    {
+      "cr_film_id": 14315,
+      "upload_id": "07b4bd9104400f64",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ztraty-a-nalezy-2022-sk-dab-1080p-mp4/07b4bd9104400f64",
+      "permanent": true,
+      "failed_at": "2026-05-31T06:51:50Z"
+    },
+    {
+      "cr_film_id": 14315,
+      "upload_id": "cc2b30b6b197b497",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ztraty-a-nalezy-2022-sk-dab-1080p-mp4/cc2b30b6b197b497",
+      "permanent": true,
+      "failed_at": "2026-05-31T06:51:56Z"
     }
   ],
-  "last_updated": "2026-05-31T06:51:42Z"
+  "last_updated": "2026-05-31T06:55:19Z"
 }
