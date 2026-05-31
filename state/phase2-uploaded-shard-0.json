@@ -43795,6 +43795,25 @@
         "download_sec": 79.0,
         "upload_sec": 100.4
       }
+    },
+    {
+      "cr_film_id": 10422,
+      "cr_slug": "sheroes",
+      "title": "Sheroes",
+      "year": 2023,
+      "display_name": "Sheroes (2023) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "4baa3fc33586afee",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25384097,
+      "size_bytes": 1870145097,
+      "uploaded_at": "2026-05-31T10:53:32Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 95.0,
+        "upload_sec": 110.7
+      }
     }
   ],
   "failed_attempts": [
@@ -44243,5 +44262,5 @@
       "failed_at": "2026-05-31T09:33:08Z"
     }
   ],
-  "last_updated": "2026-05-31T10:50:01Z"
+  "last_updated": "2026-05-31T10:53:32Z"
 }
