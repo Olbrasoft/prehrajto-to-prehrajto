@@ -44821,6 +44821,25 @@
         "download_sec": 52.0,
         "upload_sec": 28.6
       }
+    },
+    {
+      "cr_film_id": 3121,
+      "cr_slug": "cigan",
+      "title": "Cigán",
+      "year": 2011,
+      "display_name": "Cigán (2011) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "5c25c5bb1168b",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25386776,
+      "size_bytes": 577586209,
+      "uploaded_at": "2026-05-31T13:25:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.9,
+        "upload_sec": 36.9
+      }
     }
   ],
   "failed_attempts": [
@@ -45338,5 +45357,5 @@
       "failed_at": "2026-05-31T08:05:13Z"
     }
   ],
-  "last_updated": "2026-05-31T13:24:09Z"
+  "last_updated": "2026-05-31T13:25:09Z"
 }
