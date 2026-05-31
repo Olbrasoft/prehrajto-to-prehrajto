@@ -41154,6 +41154,25 @@
         "download_sec": 42.7,
         "upload_sec": 58.6
       }
+    },
+    {
+      "cr_film_id": 22586,
+      "cr_slug": "malevil",
+      "title": "Malevil",
+      "year": 1981,
+      "display_name": "Malevil (1981) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67d57ff2c5c04",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25377059,
+      "size_bytes": 621101187,
+      "uploaded_at": "2026-05-31T04:35:58Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 29.8,
+        "upload_sec": 43.6
+      }
     }
   ],
   "failed_attempts": [
@@ -41595,5 +41614,5 @@
       "failed_at": "2026-05-31T04:20:54Z"
     }
   ],
-  "last_updated": "2026-05-31T04:34:39Z"
+  "last_updated": "2026-05-31T04:35:58Z"
 }
