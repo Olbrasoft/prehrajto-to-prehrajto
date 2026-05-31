@@ -18254,3 +18254,14 @@
 [20:32:02]   upload done video_id=25395081 in 68.9s
 [20:32:03] film cr_film_id=10093 OK in 107.7s
 [20:32:03] batch-end ok=19 failed=1 dur=2279.4s avg/film=120.0s remaining=7748 eta_hours=258.3
+
+===== run 2026-05-31T20:45:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26724000444) =====
+[20:45:24] batch-start shard=1/2 count=20 backlog=10210 uploads=2462 failed_attempts=71
+[20:45:24] login
+[20:45:26] login done
+[20:45:26] iteration 1/20
+[20:45:26] film cr_film_id=34339 name='Gates of Flesh (2025) SK Titulky' candidates=1
+[20:45:26]   candidate upload_id=68d5771a0ab9d url=https://prehraj.to/gates-of-flesh-2025-720p-webrip-x264-aac-yts-mx-sk-tit/68d5771a0ab9d
+[20:45:27]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/148399188/ZdmSjxHx2tmOUqRixdsgNH09HvJCWgs5NhX…)
+[20:46:00]   downloaded 859.9 MB in 31.2s (27.6 MB/s)
+[20:47:15]   upload done video_id=25395277 in 75.0s
