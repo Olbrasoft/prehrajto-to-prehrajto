@@ -18837,3 +18837,14 @@
 [23:35:28]   upload done video_id=25398915 in 64.2s
 [23:35:29] film cr_film_id=19357 OK in 99.6s
 [23:35:29] batch-end ok=20 failed=0 dur=2009.0s avg/film=100.5s remaining=7669 eta_hours=214.1
+
+===== run 2026-05-31T23:36:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26727757539) =====
+[23:36:28] batch-start shard=1/2 count=20 backlog=10210 uploads=2541 failed_attempts=72
+[23:36:28] login
+[23:36:29] login done
+[23:36:29] iteration 1/20
+[23:36:29] film cr_film_id=26301 name='Khandaani Shafakhana (2019) SK Titulky' candidates=1
+[23:36:29]   candidate upload_id=5f2441a03b830 url=https://prehraj.to/khandaani-shafakhana-2019-sktitulky/5f2441a03b830
+[23:36:30]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/17674542/zgxIjXHM3i4bF2oFe1ij8HQys6DfnaIBkCLB…)
+[23:37:05]   downloaded 1,048.2 MB in 34.1s (30.7 MB/s)
+[23:37:55]   upload done video_id=25399057 in 49.7s
