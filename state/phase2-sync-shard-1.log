@@ -18399,3 +18399,14 @@
 [21:27:14]   upload done video_id=25395853 in 70.9s
 [21:27:15] film cr_film_id=7501 OK in 129.1s
 [21:27:15] batch-end ok=19 failed=1 dur=2509.4s avg/film=132.1s remaining=7729 eta_hours=283.6
+
+===== run 2026-05-31T21:27:40Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26724954557) =====
+[21:27:41] batch-start shard=1/2 count=20 backlog=10210 uploads=2481 failed_attempts=72
+[21:27:41] login
+[21:27:42] login done
+[21:27:42] iteration 1/20
+[21:27:42] film cr_film_id=31413 name='Kane (2023) SK Titulky' candidates=5
+[21:27:42]   candidate upload_id=664cc894b082f url=https://prehraj.to/kane-2023-sk-titulky-hd-1080p-mp4/664cc894b082f
+[21:27:43]   resolved in 1.2s → 720p (https://pf-storage2.premiumcdn.net/77523896/Jx0TR5feWCvPSBphbzCMrfA3HD5TY3uwAHOm…)
+[21:30:48]   downloaded 1,037.8 MB in 184.0s (5.6 MB/s)
+[21:31:47]   upload done video_id=25395935 in 58.5s
