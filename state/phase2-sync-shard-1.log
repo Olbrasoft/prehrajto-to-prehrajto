@@ -17964,3 +17964,14 @@
 [18:03:45]   upload done video_id=25392487 in 103.9s
 [18:03:46] film cr_film_id=15351 OK in 186.1s
 [18:03:46] batch-end ok=20 failed=0 dur=4862.1s avg/film=243.1s remaining=7787 eta_hours=525.8
+
+===== run 2026-05-31T18:04:13Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26720286877) =====
+[18:04:13] batch-start shard=1/2 count=20 backlog=10210 uploads=2423 failed_attempts=70
+[18:04:13] login
+[18:04:15] login done
+[18:04:15] iteration 1/20
+[18:04:15] film cr_film_id=35057 name='Javorová fujarka (1973) SK Dabing' candidates=3
+[18:04:15]   candidate upload_id=61a6aaaf1d995 url=https://prehraj.to/javorova-fujarka-1973-skdab/61a6aaaf1d995
+[18:04:16]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/26992996/EA0sR6f3WILXTN7SyXtVkfy8uBkCoeCwnUjZ…)
+[18:05:32]   downloaded 1,756.9 MB in 73.2s (24.0 MB/s)
+[18:07:10]   upload done video_id=25392645 in 98.8s
