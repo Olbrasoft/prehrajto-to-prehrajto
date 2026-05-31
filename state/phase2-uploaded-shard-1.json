@@ -43624,6 +43624,25 @@
         "download_sec": 33.0,
         "upload_sec": 38.4
       }
+    },
+    {
+      "cr_film_id": 17363,
+      "cr_slug": "hover",
+      "title": "Hover",
+      "year": 2018,
+      "display_name": "Hover (2018) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "5fce70ab6f869",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25382979,
+      "size_bytes": 1436276186,
+      "uploaded_at": "2026-05-31T10:13:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 55.5,
+        "upload_sec": 74.4
+      }
     }
   ],
   "failed_attempts": [
@@ -44141,5 +44160,5 @@
       "failed_at": "2026-05-31T08:05:13Z"
     }
   ],
-  "last_updated": "2026-05-31T10:10:50Z"
+  "last_updated": "2026-05-31T10:13:05Z"
 }
