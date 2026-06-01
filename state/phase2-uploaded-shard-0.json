@@ -51034,6 +51034,25 @@
         "download_sec": 23.4,
         "upload_sec": 33.4
       }
+    },
+    {
+      "cr_film_id": 35582,
+      "cr_slug": "gnome-alone",
+      "title": "Gnome Alone",
+      "year": 2015,
+      "display_name": "Gnome Alone (2015) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "68a5785f7d965",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25408619,
+      "size_bytes": 620876033,
+      "uploaded_at": "2026-06-01T04:15:28Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.0,
+        "upload_sec": 36.8
+      }
     }
   ],
   "failed_attempts": [
@@ -51515,5 +51534,5 @@
       "failed_at": "2026-06-01T03:44:31Z"
     }
   ],
-  "last_updated": "2026-06-01T04:14:22Z"
+  "last_updated": "2026-06-01T04:15:28Z"
 }
