@@ -52459,6 +52459,25 @@
         "download_sec": 48.7,
         "upload_sec": 71.1
       }
+    },
+    {
+      "cr_film_id": 15925,
+      "cr_slug": "get-fast",
+      "title": "Get Fast",
+      "year": 2024,
+      "display_name": "Get Fast (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68459649e78d6",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25414026,
+      "size_bytes": 2237365057,
+      "uploaded_at": "2026-06-01T07:55:28Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 69.8,
+        "upload_sec": 106.5
+      }
     }
   ],
   "failed_attempts": [
@@ -53149,7 +53168,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hokus-pokus-diplodokus-smok-diplodok-2024-cz-animak/da2c1851fff0f881",
       "permanent": true,
       "failed_at": "2026-06-01T07:50:15Z"
+    },
+    {
+      "cr_film_id": 2175,
+      "upload_id": "b0297bfddfe8a6a6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/heretik-cz-dabing/b0297bfddfe8a6a6",
+      "permanent": true,
+      "failed_at": "2026-06-01T07:52:24Z"
     }
   ],
-  "last_updated": "2026-06-01T07:52:22Z"
+  "last_updated": "2026-06-01T07:55:28Z"
 }
