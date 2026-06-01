@@ -21698,3 +21698,14 @@
 [20:39:04]   upload done video_id=25433730 in 150.2s
 [20:39:05] film cr_film_id=15336 OK in 265.9s
 [20:39:05] batch-end ok=17 failed=3 dur=9743.3s avg/film=573.1s remaining=7301 eta_hours=1162.3
+
+===== run 2026-06-01T20:39:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26780653044) =====
+[20:39:39] batch-start shard=0/2 count=20 backlog=10210 uploads=2909 failed_attempts=111
+[20:39:39] login
+[20:39:41] login done
+[20:39:41] iteration 1/20
+[20:39:41] film cr_film_id=8704 name='Vánoce na place (2022)' candidates=2
+[20:39:41]   candidate upload_id=60d9cf0312c0e url=https://prehraj.to/north-hollywood-2021-2160p-web-h265-empathy/60d9cf0312c0e
+[20:39:42]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/24071736/aVzsKoCjvcYOf8DiNAsX0CJXIp3hzpiJqcXD…)
+[20:54:25]   downloaded 3,068.4 MB in 880.6s (3.5 MB/s)
+[20:57:26]   upload done video_id=25434051 in 180.5s
