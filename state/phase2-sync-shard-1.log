@@ -20254,3 +20254,17 @@
 [05:57:46]   resolved in 5.9s → 720p (https://pf-storage4.premiumcdn.net/164547920/jmBH3rFnOIv8ukRIp2t2nFeyCkDtg7fO5cl…)
 [05:58:55]   downloaded 1,784.1 MB in 67.5s (26.4 MB/s)
 [06:00:15]   upload done video_id=25411296 in 80.5s
+[06:00:17] film cr_film_id=15693 OK in 156.4s
+[06:00:17] iteration 16/20
+[06:00:17] film cr_film_id=34435 name='Transformers Jedna (2024)' candidates=2
+[06:00:17]   candidate upload_id=ab0144c721c0729e url=https://prehraj.to/transformers-one-transformers-jedna-2024-cz-macexx/ab0144c721c0729e
+[06:00:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/transformers-one-transformers-jedna-2024-cz-macexx/ab0144c721c0729e (permanent=True)
+[06:00:17]   candidate upload_id=6717e87ca779e url=https://prehraj.to/transformers-jedna-2024-4k/6717e87ca779e
+[06:00:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/transformers-jedna-2024-4k/6717e87ca779e (permanent=True)
+[06:00:23] film cr_film_id=34435 all candidates exhausted
+[06:00:23] iteration 17/20
+[06:00:23] film cr_film_id=2193 name='Thelma (2024)' candidates=1
+[06:00:23]   candidate upload_id=66d00e4e3b49b url=https://prehraj.to/thelma-2024-1080p-bydejv/66d00e4e3b49b
+[06:00:29]   resolved in 6.0s → 720p (https://pf-storage5.premiumcdn.net/93257018/MAotMpiQGckLujvcGOH9riW5tRKfOxtmDIMX…)
+[06:01:09]   downloaded 1,343.5 MB in 39.2s (34.3 MB/s)
+[06:02:08]   upload done video_id=25411345 in 59.0s

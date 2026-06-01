@@ -51832,6 +51832,25 @@
         "download_sec": 67.5,
         "upload_sec": 80.5
       }
+    },
+    {
+      "cr_film_id": 2193,
+      "cr_slug": "thelma",
+      "title": "Thelma",
+      "year": 2024,
+      "display_name": "Thelma (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "66d00e4e3b49b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25411345,
+      "size_bytes": 1343494783,
+      "uploaded_at": "2026-06-01T06:02:08Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 39.2,
+        "upload_sec": 59.0
+      }
     }
   ],
   "failed_attempts": [
@@ -52459,7 +52478,21 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/woodwalkers-caragova-promena-dabing-mp4/2272c4a547ea9b48",
       "permanent": true,
       "failed_at": "2026-06-01T05:57:40Z"
+    },
+    {
+      "cr_film_id": 34435,
+      "upload_id": "ab0144c721c0729e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/transformers-one-transformers-jedna-2024-cz-macexx/ab0144c721c0729e",
+      "permanent": true,
+      "failed_at": "2026-06-01T06:00:17Z"
+    },
+    {
+      "cr_film_id": 34435,
+      "upload_id": "6717e87ca779e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/transformers-jedna-2024-4k/6717e87ca779e",
+      "permanent": true,
+      "failed_at": "2026-06-01T06:00:23Z"
     }
   ],
-  "last_updated": "2026-06-01T06:00:15Z"
+  "last_updated": "2026-06-01T06:02:08Z"
 }
