@@ -21988,3 +21988,14 @@
 [23:04:00]   upload done video_id=25436319 in 70.9s
 [23:04:01] film cr_film_id=28130 OK in 116.1s
 [23:04:01] batch-end ok=19 failed=1 dur=2972.0s avg/film=156.4s remaining=7264 eta_hours=315.6
+
+===== run 2026-06-01T23:17:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26787925641) =====
+[23:17:40] batch-start shard=0/2 count=20 backlog=10210 uploads=2946 failed_attempts=116
+[23:17:40] login
+[23:17:42] login done
+[23:17:42] iteration 1/20
+[23:17:42] film cr_film_id=36874 name='Kouření způsobuje kašel (2022)' candidates=1
+[23:17:42]   candidate upload_id=3b4fa9265a7d13cc url=https://prehraj.to/koureni-zpusobuje-kasel-1080p/3b4fa9265a7d13cc
+[23:17:43]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/170644406/5p1c5of59ujeHZ2h16UYjfeRFqzF83F1lt2…)
+[23:18:43]   downloaded 1,107.8 MB in 58.3s (19.0 MB/s)
+[23:19:52]   upload done video_id=25436579 in 68.1s
