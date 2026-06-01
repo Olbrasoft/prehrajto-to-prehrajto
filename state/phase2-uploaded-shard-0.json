@@ -53865,6 +53865,25 @@
         "download_sec": 70.8,
         "upload_sec": 87.0
       }
+    },
+    {
+      "cr_film_id": 36938,
+      "cr_slug": "omni-loop",
+      "title": "Omni Loop",
+      "year": 2024,
+      "display_name": "Omni Loop (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "66ef06f653f63",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25422367,
+      "size_bytes": 1341845781,
+      "uploaded_at": "2026-06-01T11:55:26Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 626.6,
+        "upload_sec": 80.5
+      }
     }
   ],
   "failed_attempts": [
@@ -54549,5 +54568,5 @@
       "failed_at": "2026-06-01T10:52:52Z"
     }
   ],
-  "last_updated": "2026-06-01T11:43:33Z"
+  "last_updated": "2026-06-01T11:55:26Z"
 }
