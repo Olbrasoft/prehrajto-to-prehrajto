@@ -21724,3 +21724,14 @@
 [20:25:42]   upload done video_id=25433481 in 80.6s
 [20:25:44] film cr_film_id=33919 OK in 136.6s
 [20:25:44] batch-end ok=18 failed=2 dur=8950.4s avg/film=497.2s remaining=7305 eta_hours=1008.9
+
+===== run 2026-06-01T20:39:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26780653044) =====
+[20:39:38] batch-start shard=1/2 count=20 backlog=10210 uploads=2905 failed_attempts=125
+[20:39:38] login
+[20:39:39] login done
+[20:39:39] iteration 1/20
+[20:39:39] film cr_film_id=14963 name='Ve stínu lží (2021)' candidates=1
+[20:39:39]   candidate upload_id=4e6e96f62cffb133 url=https://prehraj.to/ve-stinu-lzi-1080p-sk/4e6e96f62cffb133
+[20:39:40]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/170848409/WYBuQRIKJHj5cAgSdBib3In2HXMsxJTE5f0…)
+[20:53:32]   downloaded 2,141.5 MB in 830.2s (2.6 MB/s)
+[20:54:53]   upload done video_id=25434038 in 81.0s
