@@ -56145,6 +56145,25 @@
         "download_sec": 49.2,
         "upload_sec": 59.3
       }
+    },
+    {
+      "cr_film_id": 15742,
+      "cr_slug": "dounia-a-princezna-z-aleppa",
+      "title": "Dounia a princezna z Aleppa",
+      "year": 2022,
+      "display_name": "Dounia a princezna z Aleppa (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "65d68ebc97a3e",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25436835,
+      "size_bytes": 599452122,
+      "uploaded_at": "2026-06-01T23:38:35Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 32.3,
+        "upload_sec": 42.1
+      }
     }
   ],
   "failed_attempts": [
@@ -56974,7 +56993,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panama-2022-cz-dabing-mp4/9a6f2588568a69e5",
       "permanent": true,
       "failed_at": "2026-06-01T22:38:48Z"
+    },
+    {
+      "cr_film_id": 10582,
+      "upload_id": "b77acf2bca62b1ea",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/elvis-2022-cz-mkv-mp4/b77acf2bca62b1ea",
+      "permanent": true,
+      "failed_at": "2026-06-01T23:37:06Z"
+    },
+    {
+      "cr_film_id": 10582,
+      "upload_id": "605d8ede6899b441",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/elvis-2022-cz-mkv-mp4/605d8ede6899b441",
+      "permanent": true,
+      "failed_at": "2026-06-01T23:37:12Z"
     }
   ],
-  "last_updated": "2026-06-01T23:37:03Z"
+  "last_updated": "2026-06-01T23:38:35Z"
 }
