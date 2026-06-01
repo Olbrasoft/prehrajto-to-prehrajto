@@ -19421,3 +19421,14 @@
 [02:13:13]   upload done video_id=25405151 in 53.2s
 [02:13:15] film cr_film_id=19993 OK in 96.2s
 [02:13:15] batch-end ok=20 failed=0 dur=1830.0s avg/film=91.5s remaining=7589 eta_hours=192.9
+
+===== run 2026-06-01T02:28:52Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26731996856) =====
+[02:28:53] batch-start shard=1/2 count=20 backlog=10210 uploads=2621 failed_attempts=72
+[02:28:53] login
+[02:28:54] login done
+[02:28:54] iteration 1/20
+[02:28:54] film cr_film_id=28297 name='Beyond The Edge (2013) SK Titulky' candidates=1
+[02:28:54]   candidate upload_id=6000909219cfd url=https://prehraj.to/beyond-the-edge-2013-sktitulky/6000909219cfd
+[02:28:55]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/21475809/bnZImrF1ESP6UELCoXSb2F10UzXCewfAWHa3…)
+[02:29:52]   downloaded 1,281.4 MB in 54.6s (23.5 MB/s)
+[02:30:49]   upload done video_id=25405712 in 56.9s
