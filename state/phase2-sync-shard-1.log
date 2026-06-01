@@ -20942,3 +20942,15 @@
 [10:35:25]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/101651597/Y37fAxcvAuEpu1LTzOTgRcaoFn9idQCrXCK…)
 [10:36:32]   downloaded 1,142.4 MB in 64.5s (17.7 MB/s)
 [10:37:48]   upload done video_id=25420660 in 76.3s
+[10:37:50] film cr_film_id=8413 OK in 146.6s
+[10:37:50] iteration 10/20
+[10:37:50] film cr_film_id=8673 name='Citlivý člověk (2023)' candidates=1
+[10:37:50]   candidate upload_id=8f67680ae3a05229 url=https://prehraj.to/citlivy-clovek-2023-cz/8f67680ae3a05229
+[10:37:51]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/citlivy-clovek-2023-cz/8f67680ae3a05229 (permanent=True)
+[10:37:51] film cr_film_id=8673 all candidates exhausted
+[10:37:51] iteration 11/20
+[10:37:51] film cr_film_id=37187 name='Chybění (2023)' candidates=1
+[10:37:51]   candidate upload_id=7708da1358ea7674 url=https://prehraj.to/chybeni-2023-cz/7708da1358ea7674
+[10:37:57]   resolved in 6.4s → 1080p (https://pf-storage6.premiumcdn.net/170846984/4w0c13udzix5Ib8UZ1fk6uYRUQ0TZ6h7gSV…)
+[10:54:03]   downloaded 1,788.6 MB in 963.0s (1.9 MB/s)
+[10:55:59]   upload done video_id=25420981 in 116.3s
