@@ -19780,3 +19780,15 @@
 [03:48:53]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/163119932/nG8T16cMGfL0ilMSdEfb2cvdhLkfQMHlrSg…)
 [03:49:28]   downloaded 1,038.7 MB in 34.3s (30.3 MB/s)
 [03:50:14]   upload done video_id=25407907 in 45.6s
+[03:50:15] film cr_film_id=37005 OK in 83.5s
+[03:50:15] iteration 10/20
+[03:50:15] film cr_film_id=28649 name='Scary Movie (2026)' candidates=1
+[03:50:15]   candidate upload_id=19962b987855d128 url=https://prehraj.to/scary-movie-2026-cz-hd-720p-mov/19962b987855d128
+[03:50:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scary-movie-2026-cz-hd-720p-mov/19962b987855d128 (permanent=True)
+[03:50:16] film cr_film_id=28649 all candidates exhausted
+[03:50:16] iteration 11/20
+[03:50:16] film cr_film_id=34427 name='S4: The Bob Lazar Story (2026)' candidates=2
+[03:50:16]   candidate upload_id=b481ef64f302d291 url=https://prehraj.to/s4-the-bob-lazar-story-2026/b481ef64f302d291
+[03:50:22]   resolved in 5.8s → 1080p (https://pf-storage5.premiumcdn.net/168614512/OkduZqUR6SZ5iA2SvlsnaUoji6xFqOClWT3…)
+[03:51:15]   downloaded 1,821.4 MB in 52.0s (35.0 MB/s)
+[03:52:43]   upload done video_id=25407963 in 88.8s

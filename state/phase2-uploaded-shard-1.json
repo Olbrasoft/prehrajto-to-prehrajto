@@ -50711,6 +50711,25 @@
         "download_sec": 34.3,
         "upload_sec": 45.6
       }
+    },
+    {
+      "cr_film_id": 34427,
+      "cr_slug": "s4-the-bob-lazar-story",
+      "title": "S4: The Bob Lazar Story",
+      "year": 2026,
+      "display_name": "S4: The Bob Lazar Story (2026)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "b481ef64f302d291",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25407963,
+      "size_bytes": 1821449236,
+      "uploaded_at": "2026-06-01T03:52:43Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 52.0,
+        "upload_sec": 88.8
+      }
     }
   ],
   "failed_attempts": [
@@ -51261,7 +51280,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/stray-kids-the-dominate-experience-2026-720p-webrip-mp4/efc7d6602d352049",
       "permanent": true,
       "failed_at": "2026-06-01T03:43:05Z"
+    },
+    {
+      "cr_film_id": 28649,
+      "upload_id": "19962b987855d128",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scary-movie-2026-cz-hd-720p-mov/19962b987855d128",
+      "permanent": true,
+      "failed_at": "2026-06-01T03:50:16Z"
     }
   ],
-  "last_updated": "2026-06-01T03:50:14Z"
+  "last_updated": "2026-06-01T03:52:43Z"
 }
