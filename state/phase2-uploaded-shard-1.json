@@ -54321,6 +54321,25 @@
         "download_sec": 1780.5,
         "upload_sec": 58.0
       }
+    },
+    {
+      "cr_film_id": 2883,
+      "cr_slug": "jackass-forever",
+      "title": "Jackass 4",
+      "year": 2022,
+      "display_name": "Jackass 4 (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "0f5367530b8b92bd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25426735,
+      "size_bytes": 4314506216,
+      "uploaded_at": "2026-06-01T15:14:54Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 165.8,
+        "upload_sec": 219.7
+      }
     }
   ],
   "failed_attempts": [
@@ -55158,7 +55177,18 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/maneater-2022-cz-dabing-mp4/d5e729bec4c14dba",
       "permanent": true,
       "failed_at": "2026-06-01T13:20:02Z"
+    },
+    {
+      "cr_film_id": 2883,
+      "upload_id": "623a167b0ce2e",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation timed out after 3599536 milliseconds with 1922129489 out of 2086591880 bytes received",
+      "permanent": false,
+      "failed_at": "2026-06-01T15:08:25Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 3600.4
+      }
     }
   ],
-  "last_updated": "2026-06-01T14:08:18Z"
+  "last_updated": "2026-06-01T15:14:54Z"
 }
