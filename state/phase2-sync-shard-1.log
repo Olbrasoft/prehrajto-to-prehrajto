@@ -21293,3 +21293,19 @@
 [13:02:42]   upload done video_id=25424283 in 90.9s
 [13:02:44] film cr_film_id=9661 OK in 175.0s
 [13:02:44] batch-end ok=14 failed=6 dur=3530.0s avg/film=252.1s remaining=7357 eta_hours=515.2
+
+===== run 2026-06-01T13:19:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26757453620) =====
+[13:19:59] batch-start shard=1/2 count=20 backlog=10210 uploads=2853 failed_attempts=114
+[13:19:59] login
+[13:20:01] login done
+[13:20:01] iteration 1/20
+[13:20:01] film cr_film_id=15025 name='Maneater (2022)' candidates=1
+[13:20:01]   candidate upload_id=d5e729bec4c14dba url=https://prehraj.to/maneater-2022-cz-dabing-mp4/d5e729bec4c14dba
+[13:20:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/maneater-2022-cz-dabing-mp4/d5e729bec4c14dba (permanent=True)
+[13:20:02] film cr_film_id=15025 all candidates exhausted
+[13:20:02] iteration 2/20
+[13:20:02] film cr_film_id=27845 name='Looking for Her (2022)' candidates=1
+[13:20:02]   candidate upload_id=6757fa02c4df6 url=https://prehraj.to/looking-for-her-2022-komedie-en-aac-5-1-titulky-cz-1080p/6757fa02c4df6
+[13:20:09]   resolved in 7.4s → 720p (https://pf-storage1.premiumcdn.net/120188081/GRbskniXDT7JUYMiXPI9DiAafwNfMYfk5fJ…)
+[13:21:04]   downloaded 1,115.7 MB in 52.5s (21.3 MB/s)
+[13:22:23]   upload done video_id=25424770 in 79.4s
