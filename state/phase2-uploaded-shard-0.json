@@ -53390,6 +53390,25 @@
         "download_sec": 163.4,
         "upload_sec": 123.2
       }
+    },
+    {
+      "cr_film_id": 34388,
+      "cr_slug": "co-s-petou",
+      "title": "Co s Péťou?",
+      "year": 2025,
+      "display_name": "Co s Péťou? (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "662d2629db852431",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25419783,
+      "size_bytes": 2407637143,
+      "uploaded_at": "2026-06-01T10:04:34Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 88.3,
+        "upload_sec": 118.1
+      }
     }
   ],
   "failed_attempts": [
@@ -53995,7 +54014,49 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-4k-cz-eng/747da5e168b23e14",
       "permanent": true,
       "failed_at": "2026-06-01T09:16:01Z"
+    },
+    {
+      "cr_film_id": 27338,
+      "upload_id": "c71013346ed4e3bb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/david-2025/c71013346ed4e3bb",
+      "permanent": true,
+      "failed_at": "2026-06-01T10:00:31Z"
+    },
+    {
+      "cr_film_id": 2154,
+      "upload_id": "1ebaed2fdf25bda3",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/cukrkandl-sugar-candy-2025-1080p-web-dl-cz-mp4/1ebaed2fdf25bda3",
+      "permanent": true,
+      "failed_at": "2026-06-01T10:00:37Z"
+    },
+    {
+      "cr_film_id": 2154,
+      "upload_id": "6c7504a4cac22f92",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/6c7504a4cac22f92",
+      "permanent": true,
+      "failed_at": "2026-06-01T10:00:43Z"
+    },
+    {
+      "cr_film_id": 2154,
+      "upload_id": "fc29d8c3af352614",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/fc29d8c3af352614",
+      "permanent": true,
+      "failed_at": "2026-06-01T10:00:49Z"
+    },
+    {
+      "cr_film_id": 2154,
+      "upload_id": "cf1b85dfe3c8d845",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/cf1b85dfe3c8d845",
+      "permanent": true,
+      "failed_at": "2026-06-01T10:00:54Z"
+    },
+    {
+      "cr_film_id": 2154,
+      "upload_id": "d0ec3f0992b88285",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/d0ec3f0992b88285",
+      "permanent": true,
+      "failed_at": "2026-06-01T10:01:00Z"
     }
   ],
-  "last_updated": "2026-06-01T10:00:28Z"
+  "last_updated": "2026-06-01T10:04:34Z"
 }
