@@ -49533,6 +49533,25 @@
         "download_sec": 80.8,
         "upload_sec": 103.6
       }
+    },
+    {
+      "cr_film_id": 30996,
+      "cr_slug": "the-islands",
+      "title": "The Islands",
+      "year": 2019,
+      "display_name": "The Islands (2019) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5f24b0c67f6e6",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25404565,
+      "size_bytes": 541489209,
+      "uploaded_at": "2026-06-01T01:55:58Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 22.5,
+        "upload_sec": 40.6
+      }
     }
   ],
   "failed_attempts": [
@@ -50007,5 +50026,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T01:54:51Z"
+  "last_updated": "2026-06-01T01:55:58Z"
 }
