@@ -54188,6 +54188,25 @@
         "download_sec": 1124.2,
         "upload_sec": 41.0
       }
+    },
+    {
+      "cr_film_id": 9661,
+      "cr_slug": "matriarcha",
+      "title": "Matriarcha",
+      "year": 2022,
+      "display_name": "Matriarcha (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "664efa7ff2932",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25424283,
+      "size_bytes": 1417115466,
+      "uploaded_at": "2026-06-01T13:02:42Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 73.8,
+        "upload_sec": 90.9
+      }
     }
   ],
   "failed_attempts": [
@@ -55004,7 +55023,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/myska-a-medved-na-cestach-2022-cz/94a2da1923f734d0",
       "permanent": true,
       "failed_at": "2026-06-01T12:40:07Z"
+    },
+    {
+      "cr_film_id": 31235,
+      "upload_id": "141b7a7962da031b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mladi-titani-a-dc-super-hero-girls-chaos-v-mnohovesmiru-2022-cz-dabing/141b7a7962da031b",
+      "permanent": true,
+      "failed_at": "2026-06-01T12:59:43Z"
+    },
+    {
+      "cr_film_id": 16901,
+      "upload_id": "585c08b7d993b451",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mia-a-ja-ve-filmu-2022-cz/585c08b7d993b451",
+      "permanent": true,
+      "failed_at": "2026-06-01T12:59:49Z"
     }
   ],
-  "last_updated": "2026-06-01T12:59:40Z"
+  "last_updated": "2026-06-01T13:02:42Z"
 }
