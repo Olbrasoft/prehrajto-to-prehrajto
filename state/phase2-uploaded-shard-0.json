@@ -48564,6 +48564,25 @@
         "download_sec": 27.7,
         "upload_sec": 54.0
       }
+    },
+    {
+      "cr_film_id": 15922,
+      "cr_slug": "cold-wallet",
+      "title": "Cold Wallet",
+      "year": 2024,
+      "display_name": "Cold Wallet (2024) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "b02e0424f3a4d9d9",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25400087,
+      "size_bytes": 1144482135,
+      "uploaded_at": "2026-06-01T00:05:44Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 37.2,
+        "upload_sec": 73.0
+      }
     }
   ],
   "failed_attempts": [
@@ -49038,5 +49057,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T00:03:51Z"
+  "last_updated": "2026-06-01T00:05:44Z"
 }
