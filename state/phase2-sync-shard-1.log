@@ -21657,3 +21657,19 @@
 [20:02:03]   resolved in 1.7s → 720p (https://pf-storage4.premiumcdn.net/28185390/MBYf4GIgAsGQH3QtNZfr8I5AUNDCV1H6euOM…)
 [20:03:55]   downloaded 2,029.5 MB in 108.1s (18.8 MB/s)
 [20:06:12]   upload done video_id=25433027 in 137.7s
+[20:06:14] film cr_film_id=26611 OK in 253.1s
+[20:06:14] iteration 12/20
+[20:06:14] film cr_film_id=5897 name='Tlapková patrola ve filmu (2021)' candidates=3
+[20:06:14]   candidate upload_id=b6882d4de27a424a url=https://prehraj.to/tlapkova-patrola-ve-filmu-2021-cz-mp4/b6882d4de27a424a
+[20:06:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-filmu-2021-cz-mp4/b6882d4de27a424a (permanent=True)
+[20:06:15]   candidate upload_id=91c74fb890d58617 url=https://prehraj.to/tlapkova-patrola-ve-filmu-2021-cz/91c74fb890d58617
+[20:06:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-filmu-2021-cz/91c74fb890d58617 (permanent=True)
+[20:06:21]   candidate upload_id=875b04c82865df52 url=https://prehraj.to/tlapkova-patrola-ve-filmu-2021-cz/875b04c82865df52
+[20:06:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-filmu-2021-cz/875b04c82865df52 (permanent=True)
+[20:06:27] film cr_film_id=5897 all candidates exhausted
+[20:06:27] iteration 13/20
+[20:06:27] film cr_film_id=4577 name='Titan (2021)' candidates=2
+[20:06:27]   candidate upload_id=61c30fe968d3e url=https://prehraj.to/titane-2021-1080p-bluray-x265-cz/61c30fe968d3e
+[20:06:35]   resolved in 7.5s → 720p (https://pf-storage2.premiumcdn.net/27669996/6rlSz0iv9sZxT8EcEMIgpix7Hk3t7yUyQsOE…)
+[20:07:52]   downloaded 1,360.5 MB in 74.4s (18.3 MB/s)
+[20:09:57]   upload done video_id=25433126 in 124.8s

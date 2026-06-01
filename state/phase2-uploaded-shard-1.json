@@ -55043,6 +55043,25 @@
         "download_sec": 108.1,
         "upload_sec": 137.7
       }
+    },
+    {
+      "cr_film_id": 4577,
+      "cr_slug": "titan",
+      "title": "Titan",
+      "year": 2021,
+      "display_name": "Titan (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "61c30fe968d3e",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25433126,
+      "size_bytes": 1360490041,
+      "uploaded_at": "2026-06-01T20:09:57Z",
+      "timing": {
+        "resolve_sec": 7.5,
+        "download_sec": 74.4,
+        "upload_sec": 124.8
+      }
     }
   ],
   "failed_attempts": [
@@ -55937,7 +55956,28 @@
         "resolve_sec": 1.4,
         "download_sec": 3600.4
       }
+    },
+    {
+      "cr_film_id": 5897,
+      "upload_id": "b6882d4de27a424a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-filmu-2021-cz-mp4/b6882d4de27a424a",
+      "permanent": true,
+      "failed_at": "2026-06-01T20:06:15Z"
+    },
+    {
+      "cr_film_id": 5897,
+      "upload_id": "91c74fb890d58617",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-filmu-2021-cz/91c74fb890d58617",
+      "permanent": true,
+      "failed_at": "2026-06-01T20:06:21Z"
+    },
+    {
+      "cr_film_id": 5897,
+      "upload_id": "875b04c82865df52",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-filmu-2021-cz/875b04c82865df52",
+      "permanent": true,
+      "failed_at": "2026-06-01T20:06:27Z"
     }
   ],
-  "last_updated": "2026-06-01T20:06:12Z"
+  "last_updated": "2026-06-01T20:09:57Z"
 }
