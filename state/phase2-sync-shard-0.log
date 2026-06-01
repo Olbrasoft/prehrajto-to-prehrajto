@@ -20581,3 +20581,14 @@
 [08:07:46]   upload done video_id=25414375 in 74.9s
 [08:07:48] film cr_film_id=35364 OK in 139.7s
 [08:07:48] batch-end ok=17 failed=3 dur=2561.7s avg/film=150.7s remaining=7433 eta_hours=311.2
+
+===== run 2026-06-01T08:11:10Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26743067667) =====
+[08:11:11] batch-start shard=0/2 count=20 backlog=10210 uploads=2777 failed_attempts=71
+[08:11:11] login
+[08:11:13] login done
+[08:11:13] iteration 1/20
+[08:11:13] film cr_film_id=28730 name='Shiver Me Timbers (2025)' candidates=2
+[08:11:13]   candidate upload_id=689b8f03301f0 url=https://prehraj.to/shiver-me-timbers-2025-720p-webrip-x264-aac-yts-mx/689b8f03301f0
+[08:11:14]   resolved in 1.6s → 480p (https://pf-storage3.premiumcdn.net/143526323/vy3se3FNmFrKuxmT3KtyEFVOtQ6UopIeLSJ…)
+[08:11:48]   downloaded 639.9 MB in 31.7s (20.2 MB/s)
+[08:12:35]   upload done video_id=25414498 in 46.3s
