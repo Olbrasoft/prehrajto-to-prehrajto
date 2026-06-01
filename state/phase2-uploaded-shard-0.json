@@ -55328,6 +55328,25 @@
         "download_sec": 982.7,
         "upload_sec": 128.3
       }
+    },
+    {
+      "cr_film_id": 30536,
+      "cr_slug": "video",
+      "title": "Video",
+      "year": 2022,
+      "display_name": "Video (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68c7ba957a50b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25434581,
+      "size_bytes": 18160712,
+      "uploaded_at": "2026-06-01T21:20:22Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 4.3,
+        "upload_sec": 17.8
+      }
     }
   ],
   "failed_attempts": [
@@ -56124,5 +56143,5 @@
       "failed_at": "2026-06-01T20:34:39Z"
     }
   ],
-  "last_updated": "2026-06-01T21:19:53Z"
+  "last_updated": "2026-06-01T21:20:22Z"
 }
