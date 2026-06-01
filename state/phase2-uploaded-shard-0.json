@@ -52307,6 +52307,25 @@
         "download_sec": 98.0,
         "upload_sec": 134.1
       }
+    },
+    {
+      "cr_film_id": 31748,
+      "cr_slug": "in-the-grey",
+      "title": "In the Grey",
+      "year": 2026,
+      "display_name": "In the Grey (2026)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "a5dabc8a2425cbf2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25412561,
+      "size_bytes": 2103035047,
+      "uploaded_at": "2026-06-01T06:54:18Z",
+      "timing": {
+        "resolve_sec": 2.1,
+        "download_sec": 82.2,
+        "upload_sec": 110.4
+      }
     }
   ],
   "failed_attempts": [
@@ -52795,5 +52814,5 @@
       "failed_at": "2026-06-01T06:46:59Z"
     }
   ],
-  "last_updated": "2026-06-01T06:50:59Z"
+  "last_updated": "2026-06-01T06:54:18Z"
 }
