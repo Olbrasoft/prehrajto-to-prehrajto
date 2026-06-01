@@ -19275,3 +19275,14 @@
 [01:37:05]   upload done video_id=25403854 in 27.0s
 [01:37:07] film cr_film_id=20185 OK in 48.0s
 [01:37:07] batch-end ok=20 failed=0 dur=1794.4s avg/film=89.7s remaining=7609 eta_hours=189.6
+
+===== run 2026-06-01T01:42:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26730816559) =====
+[01:42:43] batch-start shard=1/2 count=20 backlog=10210 uploads=2601 failed_attempts=72
+[01:42:43] login
+[01:42:45] login done
+[01:42:45] iteration 1/20
+[01:42:45] film cr_film_id=28831 name='Empire of Lust (2015) SK Titulky' candidates=2
+[01:42:45]   candidate upload_id=613b8f8d4454f url=https://prehraj.to/empire-of-lust-2015-sktitulky/613b8f8d4454f
+[01:42:46]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/24866867/AmXh3duJ8cWMC3kIVZHEdue1HLyT74fo4sQ3…)
+[01:44:48]   downloaded 2,596.3 MB in 119.9s (21.7 MB/s)
+[01:47:17]   upload done video_id=25404169 in 148.9s
