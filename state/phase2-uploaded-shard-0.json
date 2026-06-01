@@ -54112,6 +54112,25 @@
         "download_sec": 123.0,
         "upload_sec": 149.7
       }
+    },
+    {
+      "cr_film_id": 34162,
+      "cr_slug": "black-mold",
+      "title": "Black Mold",
+      "year": 2024,
+      "display_name": "Black Mold (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "66c473db77272",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25424140,
+      "size_bytes": 1376850232,
+      "uploaded_at": "2026-06-01T12:57:10Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 58.5,
+        "upload_sec": 78.3
+      }
     }
   ],
   "failed_attempts": [
@@ -54831,5 +54850,5 @@
       "failed_at": "2026-06-01T12:03:23Z"
     }
   ],
-  "last_updated": "2026-06-01T12:54:49Z"
+  "last_updated": "2026-06-01T12:57:10Z"
 }
