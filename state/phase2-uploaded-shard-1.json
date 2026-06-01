@@ -49647,6 +49647,25 @@
         "download_sec": 26.6,
         "upload_sec": 37.6
       }
+    },
+    {
+      "cr_film_id": 28167,
+      "cr_slug": "velky-sesit",
+      "title": "Velký sešit",
+      "year": 2013,
+      "display_name": "Velký sešit (2013) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5ffce82a1941b",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25404857,
+      "size_bytes": 588392024,
+      "uploaded_at": "2026-06-01T02:03:55Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 33.0,
+        "upload_sec": 44.6
+      }
     }
   ],
   "failed_attempts": [
@@ -50185,5 +50204,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T02:02:32Z"
+  "last_updated": "2026-06-01T02:03:55Z"
 }
