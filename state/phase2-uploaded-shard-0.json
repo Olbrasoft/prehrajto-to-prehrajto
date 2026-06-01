@@ -52497,6 +52497,25 @@
         "download_sec": 101.5,
         "upload_sec": 122.2
       }
+    },
+    {
+      "cr_film_id": 28414,
+      "cr_slug": "xeno",
+      "title": "Xeno",
+      "year": 2025,
+      "display_name": "Xeno (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68fb21b2a2555",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25413586,
+      "size_bytes": 1390227409,
+      "uploaded_at": "2026-06-01T07:36:57Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 47.7,
+        "upload_sec": 67.7
+      }
     }
   ],
   "failed_attempts": [
@@ -52999,5 +53018,5 @@
       "failed_at": "2026-06-01T07:31:05Z"
     }
   ],
-  "last_updated": "2026-06-01T07:34:57Z"
+  "last_updated": "2026-06-01T07:36:57Z"
 }
