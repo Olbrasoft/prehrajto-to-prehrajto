@@ -49856,6 +49856,25 @@
         "download_sec": 38.4,
         "upload_sec": 52.6
       }
+    },
+    {
+      "cr_film_id": 30690,
+      "cr_slug": "selma",
+      "title": "Šelma",
+      "year": 2018,
+      "display_name": "Šelma (2018) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "a9891b005e16880e",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25405807,
+      "size_bytes": 164733455,
+      "uploaded_at": "2026-06-01T02:32:56Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 7.6,
+        "upload_sec": 15.8
+      }
     }
   ],
   "failed_attempts": [
@@ -50330,5 +50349,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T02:32:27Z"
+  "last_updated": "2026-06-01T02:32:56Z"
 }
