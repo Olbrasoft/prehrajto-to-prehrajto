@@ -55252,6 +55252,25 @@
         "download_sec": 426.0,
         "upload_sec": 80.9
       }
+    },
+    {
+      "cr_film_id": 15336,
+      "cr_slug": "vanocni-vyzva",
+      "title": "Vánoční výzva",
+      "year": 2022,
+      "display_name": "Vánoční výzva (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "4b94e4d5cb6ca694",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25433730,
+      "size_bytes": 2056191641,
+      "uploaded_at": "2026-06-01T20:39:04Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 105.7,
+        "upload_sec": 150.2
+      }
     }
   ],
   "failed_attempts": [
@@ -56032,7 +56051,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/soumen-krokodyl-animovany-dobrodruzny-fantasy-usa-2022-cz-dabing-mp4/e72676707e2e72b3",
       "permanent": true,
       "failed_at": "2026-06-01T20:25:56Z"
+    },
+    {
+      "cr_film_id": 3682,
+      "upload_id": "8afd3e819cf754aa",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/whitney-houston-i-wanna-dance-with-somebody-2022-cz-dabing/8afd3e819cf754aa",
+      "permanent": true,
+      "failed_at": "2026-06-01T20:34:34Z"
+    },
+    {
+      "cr_film_id": 3682,
+      "upload_id": "86ed23246dc839b8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/whitney-houston-i-wanna-dance-with-somebody-2022-cz-dabing/86ed23246dc839b8",
+      "permanent": true,
+      "failed_at": "2026-06-01T20:34:39Z"
     }
   ],
-  "last_updated": "2026-06-01T20:34:31Z"
+  "last_updated": "2026-06-01T20:39:04Z"
 }
