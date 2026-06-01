@@ -54644,6 +54644,25 @@
         "download_sec": 42.6,
         "upload_sec": 53.4
       }
+    },
+    {
+      "cr_film_id": 15123,
+      "cr_slug": "aleluja",
+      "title": "Alelujá",
+      "year": 2022,
+      "display_name": "Alelujá (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "65cc6cb8be208",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25428319,
+      "size_bytes": 764565589,
+      "uploaded_at": "2026-06-01T16:38:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 157.1,
+        "upload_sec": 46.1
+      }
     }
   ],
   "failed_attempts": [
@@ -55501,5 +55520,5 @@
       "failed_at": "2026-06-01T16:27:00Z"
     }
   ],
-  "last_updated": "2026-06-01T16:34:59Z"
+  "last_updated": "2026-06-01T16:38:26Z"
 }
