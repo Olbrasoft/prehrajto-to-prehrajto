@@ -51737,6 +51737,25 @@
         "download_sec": 24.5,
         "upload_sec": 40.6
       }
+    },
+    {
+      "cr_film_id": 28739,
+      "cr_slug": "anemone",
+      "title": "Anemone",
+      "year": 2025,
+      "display_name": "Anemone (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "b1a69be7c4fdd6bb",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25411053,
+      "size_bytes": 1879017855,
+      "uploaded_at": "2026-06-01T05:49:59Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 61.2,
+        "upload_sec": 90.1
+      }
     }
   ],
   "failed_attempts": [
@@ -52352,5 +52371,5 @@
       "failed_at": "2026-06-01T05:27:52Z"
     }
   ],
-  "last_updated": "2026-06-01T05:47:24Z"
+  "last_updated": "2026-06-01T05:49:59Z"
 }
