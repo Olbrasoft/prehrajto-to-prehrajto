@@ -20291,3 +20291,14 @@
 [06:06:24]   upload done video_id=25411451 in 61.8s
 [06:06:25] film cr_film_id=34247 OK in 103.8s
 [06:06:25] batch-end ok=18 failed=2 dur=2314.0s avg/film=128.6s remaining=7478 eta_hours=267.1
+
+===== run 2026-06-01T06:15:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26738475107) =====
+[06:15:04] batch-start shard=1/2 count=20 backlog=10210 uploads=2732 failed_attempts=87
+[06:15:04] login
+[06:15:05] login done
+[06:15:05] iteration 1/20
+[06:15:05] film cr_film_id=3221 name='Svatá (2024)' candidates=1
+[06:15:05]   candidate upload_id=665600f464b10 url=https://prehraj.to/svata-2024-cz-dabing-fullhd-1080p-drama/665600f464b10
+[06:15:07]   resolved in 1.4s → 1080p (https://pf-storage5.premiumcdn.net/77825525/eBofOWcW3HNdtrnFbZTGOcWZtDKSLNCmqSB0…)
+[06:16:31]   downloaded 2,234.5 MB in 82.9s (27.0 MB/s)
+[06:18:36]   upload done video_id=25411704 in 125.2s
