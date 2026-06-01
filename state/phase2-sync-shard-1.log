@@ -21159,3 +21159,14 @@
 [12:01:23]   upload done video_id=25422538 in 80.6s
 [12:01:25] film cr_film_id=31245 OK in 132.8s
 [12:01:25] batch-end ok=17 failed=3 dur=2667.4s avg/film=156.9s remaining=7371 eta_hours=321.3
+
+===== run 2026-06-01T12:03:52Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26753732731) =====
+[12:03:52] batch-start shard=1/2 count=20 backlog=10210 uploads=2839 failed_attempts=108
+[12:03:52] login
+[12:03:54] login done
+[12:03:54] iteration 1/20
+[12:03:54] film cr_film_id=7231 name='Stín smrti (2022)' candidates=21
+[12:03:54]   candidate upload_id=683b4d148617a url=https://prehraj.to/stiny-smrti-e01/683b4d148617a
+[12:03:55]   resolved in 1.5s → 1080p (https://pf-storage4.premiumcdn.net/138971435/Ex5cWeu7Kh90CvEhebsMJuKpUR1iqAU3KtQ…)
+[12:05:45]   downloaded 1,997.4 MB in 107.5s (18.6 MB/s)
+[12:08:01]   upload done video_id=25422693 in 135.9s
