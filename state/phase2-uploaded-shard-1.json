@@ -50578,6 +50578,25 @@
         "download_sec": 20.5,
         "upload_sec": 31.0
       }
+    },
+    {
+      "cr_film_id": 21121,
+      "cr_slug": "cotton-club",
+      "title": "Cotton Club",
+      "year": 1984,
+      "display_name": "Cotton Club (1984) EN",
+      "preferred_lang_class": "EN",
+      "src_upload_id": "65825f615ffa4",
+      "src_lang_class": "EN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25407588,
+      "size_bytes": 1047280305,
+      "uploaded_at": "2026-06-01T03:38:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 34.7,
+        "upload_sec": 45.0
+      }
     }
   ],
   "failed_attempts": [
@@ -51116,5 +51135,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T03:37:13Z"
+  "last_updated": "2026-06-01T03:38:37Z"
 }
