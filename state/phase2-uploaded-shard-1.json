@@ -54758,6 +54758,25 @@
         "download_sec": 41.7,
         "upload_sec": 66.9
       }
+    },
+    {
+      "cr_film_id": 14997,
+      "cr_slug": "zrusene-vanoce",
+      "title": "Zrušené Vánoce",
+      "year": 2021,
+      "display_name": "Zrušené Vánoce (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6772c659a94b2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25428665,
+      "size_bytes": 1344765142,
+      "uploaded_at": "2026-06-01T16:53:08Z",
+      "timing": {
+        "resolve_sec": 10.6,
+        "download_sec": 45.9,
+        "upload_sec": 62.7
+      }
     }
   ],
   "failed_attempts": [
@@ -55620,7 +55639,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/578-magnum-2022-mkv-mp4/7fb10e9a87f81040",
       "permanent": true,
       "failed_at": "2026-06-01T16:43:31Z"
+    },
+    {
+      "cr_film_id": 8471,
+      "upload_id": "d559bc16860b5608",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ztraceni-v-raji-2021-cz/d559bc16860b5608",
+      "permanent": true,
+      "failed_at": "2026-06-01T16:51:08Z"
     }
   ],
-  "last_updated": "2026-06-01T16:51:04Z"
+  "last_updated": "2026-06-01T16:53:08Z"
 }
