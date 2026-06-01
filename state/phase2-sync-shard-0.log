@@ -20148,3 +20148,14 @@
 [05:12:55]   upload done video_id=25410200 in 42.0s
 [05:12:56] film cr_film_id=30024 OK in 77.0s
 [05:12:56] batch-end ok=20 failed=0 dur=1571.3s avg/film=78.6s remaining=7489 eta_hours=163.5
+
+===== run 2026-06-01T05:27:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26736924073) =====
+[05:27:49] batch-start shard=0/2 count=20 backlog=10210 uploads=2721 failed_attempts=66
+[05:27:49] login
+[05:27:51] login done
+[05:27:51] iteration 1/20
+[05:27:51] film cr_film_id=25752 name="Gideon's Daughter (2005) SK Titulky" candidates=1
+[05:27:51]   candidate upload_id=58729173807a7 url=https://prehraj.to/gideon-s-daughter-2005-sk-tit/58729173807a7
+[05:27:52]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/1383668/QDkTeKidoSRXcjqclLInrieghyKc3RIZ6IP6C…)
+[05:28:21]   downloaded 467.9 MB in 26.4s (17.7 MB/s)
+[05:28:59]   upload done video_id=25410559 in 38.2s
