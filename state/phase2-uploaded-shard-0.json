@@ -52820,6 +52820,25 @@
         "download_sec": 98.9,
         "upload_sec": 121.6
       }
+    },
+    {
+      "cr_film_id": 16060,
+      "cr_slug": "resurrection",
+      "title": "Resurrection",
+      "year": 2025,
+      "display_name": "Resurrection (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "b3a356d0fc37d166",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25414743,
+      "size_bytes": 1708344077,
+      "uploaded_at": "2026-06-01T08:21:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 90.2,
+        "upload_sec": 100.9
+      }
     }
   ],
   "failed_attempts": [
@@ -53336,5 +53355,5 @@
       "failed_at": "2026-06-01T08:01:09Z"
     }
   ],
-  "last_updated": "2026-06-01T08:18:40Z"
+  "last_updated": "2026-06-01T08:21:56Z"
 }
