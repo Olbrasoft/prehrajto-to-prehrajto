@@ -21637,3 +21637,16 @@
 [18:52:30]   resolved in 2.2s → 720p (https://pf-storage3.premiumcdn.net/26321764/gpbT02uqOt4vh3ySEAS9GuBKTKgCNKIO1t3J…)
 [18:53:21]   downloaded 904.0 MB in 48.2s (18.8 MB/s)
 [18:54:28]   upload done video_id=25431713 in 67.5s
+[18:54:30] film cr_film_id=35675 OK in 122.0s
+[18:54:30] iteration 9/20
+[18:54:30] film cr_film_id=14963 name='Ve stínu lží (2021)' candidates=1
+[18:54:30]   candidate upload_id=4e6e96f62cffb133 url=https://prehraj.to/ve-stinu-lzi-1080p-sk/4e6e96f62cffb133
+[18:54:32]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/170848409/WYBuQRIKJHj5cAgSdBib3In2HXMsxJTE5f0…)
+[19:54:34]   download FAILED after 3600.4s: curl exit 28: curl: (28) Operation timed out after 3599449 milliseconds with 1793502801 out of 2141484145 bytes received
+[19:54:34] film cr_film_id=14963 all candidates exhausted
+[19:54:34] iteration 10/20
+[19:54:34] film cr_film_id=33915 name='Val (2021)' candidates=1
+[19:54:34]   candidate upload_id=610d9c484ff95 url=https://prehraj.to/val-2021-hdr-2160p-web-h265-bigdoc/610d9c484ff95
+[19:54:36]   resolved in 2.0s → 1080p (https://pf-storage3.premiumcdn.net/24527489/3X1i1PcO3tAXcaEfWGSZlcaRUYPhqvFpyTWa…)
+[19:58:05]   downloaded 3,875.9 MB in 206.5s (18.8 MB/s)
+[20:01:59]   upload done video_id=25432893 in 233.7s

@@ -55005,6 +55005,25 @@
         "download_sec": 48.2,
         "upload_sec": 67.5
       }
+    },
+    {
+      "cr_film_id": 33915,
+      "cr_slug": "val",
+      "title": "Val",
+      "year": 2021,
+      "display_name": "Val (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "610d9c484ff95",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25432893,
+      "size_bytes": 3875936039,
+      "uploaded_at": "2026-06-01T20:01:59Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 206.5,
+        "upload_sec": 233.7
+      }
     }
   ],
   "failed_attempts": [
@@ -55888,7 +55907,18 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/west-side-story-2021-cz-dabing-mp4/c61cbb3dad2a1221",
       "permanent": true,
       "failed_at": "2026-06-01T16:58:14Z"
+    },
+    {
+      "cr_film_id": 14963,
+      "upload_id": "4e6e96f62cffb133",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation timed out after 3599449 milliseconds with 1793502801 out of 2141484145 bytes received",
+      "permanent": false,
+      "failed_at": "2026-06-01T19:54:34Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 3600.4
+      }
     }
   ],
-  "last_updated": "2026-06-01T18:54:28Z"
+  "last_updated": "2026-06-01T20:01:59Z"
 }
