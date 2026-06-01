@@ -50540,6 +50540,25 @@
         "download_sec": 63.0,
         "upload_sec": 85.3
       }
+    },
+    {
+      "cr_film_id": 33584,
+      "cr_slug": "clowntown",
+      "title": "ClownTown",
+      "year": 2017,
+      "display_name": "ClownTown (2017) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5fdfa3291cdba",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25407476,
+      "size_bytes": 781132714,
+      "uploaded_at": "2026-06-01T03:33:57Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 40.0,
+        "upload_sec": 51.7
+      }
     }
   ],
   "failed_attempts": [
@@ -51014,5 +51033,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T03:32:20Z"
+  "last_updated": "2026-06-01T03:33:57Z"
 }
