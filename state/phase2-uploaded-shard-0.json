@@ -54530,6 +54530,25 @@
         "download_sec": 47.6,
         "upload_sec": 59.2
       }
+    },
+    {
+      "cr_film_id": 15338,
+      "cr_slug": "sparkle-a-unicorn-tale",
+      "title": "Sparkle: A Unicorn Tale",
+      "year": 2023,
+      "display_name": "Sparkle: A Unicorn Tale (2023)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "652558b588366",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25425664,
+      "size_bytes": 1851724605,
+      "uploaded_at": "2026-06-01T14:13:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 101.8,
+        "upload_sec": 117.3
+      }
     }
   ],
   "failed_attempts": [
@@ -55284,5 +55303,5 @@
       "failed_at": "2026-06-01T14:07:22Z"
     }
   ],
-  "last_updated": "2026-06-01T14:09:15Z"
+  "last_updated": "2026-06-01T14:13:00Z"
 }
