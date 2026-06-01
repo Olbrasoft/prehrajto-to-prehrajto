@@ -49039,6 +49039,25 @@
         "download_sec": 24.0,
         "upload_sec": 35.2
       }
+    },
+    {
+      "cr_film_id": 4142,
+      "cr_slug": "the-sadness",
+      "title": "The Sadness",
+      "year": 2021,
+      "display_name": "The Sadness (2021) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "625262c722b43",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25402634,
+      "size_bytes": 1353352987,
+      "uploaded_at": "2026-06-01T01:06:43Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 58.0,
+        "upload_sec": 83.2
+      }
     }
   ],
   "failed_attempts": [
@@ -49513,5 +49532,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T01:04:16Z"
+  "last_updated": "2026-06-01T01:06:43Z"
 }
