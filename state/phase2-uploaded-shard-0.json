@@ -53124,6 +53124,25 @@
         "download_sec": 114.0,
         "upload_sec": 134.3
       }
+    },
+    {
+      "cr_film_id": 31510,
+      "cr_slug": "lethal-desire",
+      "title": "Lethal Desire",
+      "year": 2025,
+      "display_name": "Lethal Desire (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68c9065559c97",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25418368,
+      "size_bytes": 1812263004,
+      "uploaded_at": "2026-06-01T09:19:17Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 78.8,
+        "upload_sec": 109.4
+      }
     }
   ],
   "failed_attempts": [
@@ -53645,7 +53664,91 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/na-plech-2025-1080p-cz/3579955c437f678f",
       "permanent": true,
       "failed_at": "2026-06-01T08:56:18Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "d4c9715935688800",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-webrip-2160p-hevc-10bit-hdr10-cz/d4c9715935688800",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:14:57Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "2c45b87d5734b146",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-a-stitch-lilo-stitch-2025-cz/2c45b87d5734b146",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:15:02Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "9b1941bc92a0d3e5",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/9b1941bc92a0d3e5",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:15:08Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "c763a56368257d61",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/c763a56368257d61",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:15:14Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "f4df2afe6b6d4605",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/f4df2afe6b6d4605",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:15:20Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "017bec49ae0a4674",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/017bec49ae0a4674",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:15:26Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "1ff6bd119bb2fccb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/1ff6bd119bb2fccb",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:15:31Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "d88b2e99387c44de",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/d88b2e99387c44de",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:15:37Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "00665b2fd1773b86",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/00665b2fd1773b86",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:15:43Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "398f2a37f1dc5f6c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-4k-cz-eng/398f2a37f1dc5f6c",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:15:49Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "45a47fed75361818",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/45a47fed75361818",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:15:55Z"
+    },
+    {
+      "cr_film_id": 3174,
+      "upload_id": "747da5e168b23e14",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-4k-cz-eng/747da5e168b23e14",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:16:01Z"
     }
   ],
-  "last_updated": "2026-06-01T09:14:21Z"
+  "last_updated": "2026-06-01T09:19:17Z"
 }

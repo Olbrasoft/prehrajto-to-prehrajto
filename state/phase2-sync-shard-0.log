@@ -20725,3 +20725,41 @@
 [09:14:21]   upload done video_id=25417752 in 134.3s
 [09:14:24] film cr_film_id=36970 OK in 254.3s
 [09:14:24] batch-end ok=19 failed=1 dur=3791.1s avg/film=199.5s remaining=7414 eta_hours=410.9
+
+===== run 2026-06-01T09:14:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26745994081) =====
+[09:14:53] batch-start shard=0/2 count=20 backlog=10210 uploads=2796 failed_attempts=72
+[09:14:53] login
+[09:14:56] login done
+[09:14:56] iteration 1/20
+[09:14:56] film cr_film_id=3174 name='Lilo & Stitch (2025)' candidates=12
+[09:14:56]   candidate upload_id=d4c9715935688800 url=https://prehraj.to/lilo-stitch-2025-webrip-2160p-hevc-10bit-hdr10-cz/d4c9715935688800
+[09:14:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-webrip-2160p-hevc-10bit-hdr10-cz/d4c9715935688800 (permanent=True)
+[09:14:57]   candidate upload_id=2c45b87d5734b146 url=https://prehraj.to/lilo-a-stitch-lilo-stitch-2025-cz/2c45b87d5734b146
+[09:15:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-a-stitch-lilo-stitch-2025-cz/2c45b87d5734b146 (permanent=True)
+[09:15:02]   candidate upload_id=9b1941bc92a0d3e5 url=https://prehraj.to/lilo-stitch-2025-cz-eng/9b1941bc92a0d3e5
+[09:15:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/9b1941bc92a0d3e5 (permanent=True)
+[09:15:08]   candidate upload_id=c763a56368257d61 url=https://prehraj.to/lilo-stitch-2025-cz-eng/c763a56368257d61
+[09:15:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/c763a56368257d61 (permanent=True)
+[09:15:14]   candidate upload_id=f4df2afe6b6d4605 url=https://prehraj.to/lilo-stitch-2025-cz-eng/f4df2afe6b6d4605
+[09:15:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/f4df2afe6b6d4605 (permanent=True)
+[09:15:20]   candidate upload_id=017bec49ae0a4674 url=https://prehraj.to/lilo-stitch-2025-cz-eng/017bec49ae0a4674
+[09:15:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/017bec49ae0a4674 (permanent=True)
+[09:15:26]   candidate upload_id=1ff6bd119bb2fccb url=https://prehraj.to/lilo-stitch-2025-cz-eng/1ff6bd119bb2fccb
+[09:15:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/1ff6bd119bb2fccb (permanent=True)
+[09:15:31]   candidate upload_id=d88b2e99387c44de url=https://prehraj.to/lilo-stitch-2025-cz-eng/d88b2e99387c44de
+[09:15:37]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/d88b2e99387c44de (permanent=True)
+[09:15:37]   candidate upload_id=00665b2fd1773b86 url=https://prehraj.to/lilo-stitch-2025-cz-eng/00665b2fd1773b86
+[09:15:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/00665b2fd1773b86 (permanent=True)
+[09:15:43]   candidate upload_id=398f2a37f1dc5f6c url=https://prehraj.to/lilo-stitch-2025-4k-cz-eng/398f2a37f1dc5f6c
+[09:15:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-4k-cz-eng/398f2a37f1dc5f6c (permanent=True)
+[09:15:49]   candidate upload_id=45a47fed75361818 url=https://prehraj.to/lilo-stitch-2025-cz-eng/45a47fed75361818
+[09:15:55]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/45a47fed75361818 (permanent=True)
+[09:15:55]   candidate upload_id=747da5e168b23e14 url=https://prehraj.to/lilo-stitch-2025-4k-cz-eng/747da5e168b23e14
+[09:16:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-4k-cz-eng/747da5e168b23e14 (permanent=True)
+[09:16:01] film cr_film_id=3174 all candidates exhausted
+[09:16:01] iteration 2/20
+[09:16:01] film cr_film_id=31510 name='Lethal Desire (2025)' candidates=1
+[09:16:01]   candidate upload_id=68c9065559c97 url=https://prehraj.to/lethal-desire-2025-en/68c9065559c97
+[09:16:06]   resolved in 5.8s → 1080p (https://pf-storage4.premiumcdn.net/146991396/oMOHXzTjLcoKfO5cMLsBlTnzF6guVqsMmu2…)
+[09:17:27]   downloaded 1,812.3 MB in 78.8s (23.0 MB/s)
+[09:19:17]   upload done video_id=25418368 in 109.4s
