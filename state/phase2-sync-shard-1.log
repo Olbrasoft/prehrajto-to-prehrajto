@@ -20733,3 +20733,14 @@
 [08:48:44]   upload done video_id=25415459 in 75.5s
 [08:48:45] film cr_film_id=10557 OK in 148.8s
 [08:48:45] batch-end ok=17 failed=3 dur=2256.6s avg/film=132.7s remaining=7424 eta_hours=273.7
+
+===== run 2026-06-01T09:14:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26745994081) =====
+[09:14:51] batch-start shard=1/2 count=20 backlog=10210 uploads=2786 failed_attempts=100
+[09:14:51] login
+[09:14:54] login done
+[09:14:54] iteration 1/20
+[09:14:54] film cr_film_id=34431 name='Skinamarink (2023)' candidates=1
+[09:14:54]   candidate upload_id=fdd5e27fb9c8a75e url=https://prehraj.to/skinamarink-2022-1080p-webrip-x264-aac-aoc/fdd5e27fb9c8a75e
+[09:14:55]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/168995044/bdMHDOieZIdkswNTolt1DimeckbT9ecLWFM…)
+[09:17:01]   downloaded 4,598.5 MB in 124.3s (37.0 MB/s)
+[09:20:20]   upload done video_id=25418317 in 199.0s
