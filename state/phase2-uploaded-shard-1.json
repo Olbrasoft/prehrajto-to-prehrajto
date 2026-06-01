@@ -51262,6 +51262,25 @@
         "download_sec": 56.5,
         "upload_sec": 88.4
       }
+    },
+    {
+      "cr_film_id": 31441,
+      "cr_slug": "one-more-shot",
+      "title": "One More Shot",
+      "year": 2025,
+      "display_name": "One More Shot (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "65a4a75b9d985",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25409558,
+      "size_bytes": 893958093,
+      "uploaded_at": "2026-06-01T04:48:32Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 40.5,
+        "upload_sec": 61.5
+      }
     }
   ],
   "failed_attempts": [
@@ -51828,5 +51847,5 @@
       "failed_at": "2026-06-01T04:37:38Z"
     }
   ],
-  "last_updated": "2026-06-01T04:46:18Z"
+  "last_updated": "2026-06-01T04:48:32Z"
 }

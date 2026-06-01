@@ -20001,3 +20001,14 @@
 [04:46:18]   upload done video_id=25409484 in 88.4s
 [04:46:19] film cr_film_id=37203 OK in 149.2s
 [04:46:19] batch-end ok=19 failed=1 dur=2207.2s avg/film=116.2s remaining=7512 eta_hours=242.5
+
+===== run 2026-06-01T04:46:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26735698500) =====
+[04:46:45] batch-start shard=1/2 count=20 backlog=10210 uploads=2698 failed_attempts=76
+[04:46:45] login
+[04:46:46] login done
+[04:46:46] iteration 1/20
+[04:46:46] film cr_film_id=31441 name='One More Shot (2025)' candidates=3
+[04:46:46]   candidate upload_id=65a4a75b9d985 url=https://prehraj.to/one-more-shot-2024-mp4/65a4a75b9d985
+[04:46:48]   resolved in 1.3s → 480p (https://pf-storage4.premiumcdn.net/72391811/eVnhdAfrWUeotmVC3jsEOfD6Ig2UAEcD9sQz…)
+[04:47:30]   downloaded 894.0 MB in 40.5s (22.1 MB/s)
+[04:48:32]   upload done video_id=25409558 in 61.5s
