@@ -54074,6 +54074,25 @@
         "download_sec": 1855.1,
         "upload_sec": 79.3
       }
+    },
+    {
+      "cr_film_id": 1282,
+      "cr_slug": "the-life-of-chuck",
+      "title": "Chuckův život",
+      "year": 2024,
+      "display_name": "Chuckův život (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "583e529e9dc6c5d5",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25423928,
+      "size_bytes": 1051378181,
+      "uploaded_at": "2026-06-01T12:50:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 35.9,
+        "upload_sec": 65.5
+      }
     }
   ],
   "failed_attempts": [
@@ -54793,5 +54812,5 @@
       "failed_at": "2026-06-01T12:03:23Z"
     }
   ],
-  "last_updated": "2026-06-01T12:48:25Z"
+  "last_updated": "2026-06-01T12:50:12Z"
 }
