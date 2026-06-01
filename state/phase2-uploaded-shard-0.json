@@ -50065,6 +50065,25 @@
         "download_sec": 12.1,
         "upload_sec": 30.7
       }
+    },
+    {
+      "cr_film_id": 2298,
+      "cr_slug": "heavy-trip",
+      "title": "Heavy Trip",
+      "year": 2018,
+      "display_name": "Heavy Trip (2018) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5c42388053aa1",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25406202,
+      "size_bytes": 606470359,
+      "uploaded_at": "2026-06-01T02:46:35Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 21.0,
+        "upload_sec": 42.8
+      }
     }
   ],
   "failed_attempts": [
@@ -50539,5 +50558,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T02:45:26Z"
+  "last_updated": "2026-06-01T02:46:35Z"
 }
