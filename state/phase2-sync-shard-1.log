@@ -22022,3 +22022,14 @@
 [23:17:10]   upload done video_id=25436518 in 129.0s
 [23:17:12] film cr_film_id=14827 OK in 243.5s
 [23:17:12] batch-end ok=19 failed=1 dur=3760.7s avg/film=197.9s remaining=7266 eta_hours=399.4
+
+===== run 2026-06-01T23:17:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26787925641) =====
+[23:17:38] batch-start shard=1/2 count=20 backlog=10210 uploads=2944 failed_attempts=130
+[23:17:38] login
+[23:17:40] login done
+[23:17:40] iteration 1/20
+[23:17:40] film cr_film_id=33851 name='Last Night in Rozzie (2021)' candidates=1
+[23:17:40]   candidate upload_id=6145ed18ac82c url=https://prehraj.to/last-night-in-rozzie-2021-1080p-webrip-dd5-1-x264-nogrp/6145ed18ac82c
+[23:17:41]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/24950570/MKvhz3fZEhXMFWlh30IKAfePCBkUQBFp2CPY…)
+[23:18:17]   downloaded 709.6 MB in 33.7s (21.1 MB/s)
+[23:19:05]   upload done video_id=25436567 in 47.6s
