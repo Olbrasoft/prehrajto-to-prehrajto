@@ -49837,6 +49837,25 @@
         "download_sec": 51.7,
         "upload_sec": 63.8
       }
+    },
+    {
+      "cr_film_id": 35552,
+      "cr_slug": "film-69",
+      "title": "स्त्री",
+      "year": 2018,
+      "display_name": "स्त्री (2018) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5c40ba7dc89ec",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25405773,
+      "size_bytes": 1189651927,
+      "uploaded_at": "2026-06-01T02:32:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 38.4,
+        "upload_sec": 52.6
+      }
     }
   ],
   "failed_attempts": [
@@ -50311,5 +50330,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T02:30:52Z"
+  "last_updated": "2026-06-01T02:32:27Z"
 }
