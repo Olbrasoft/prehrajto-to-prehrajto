@@ -21039,3 +21039,14 @@
 [11:11:27]   upload done video_id=25421386 in 62.7s
 [11:11:29] film cr_film_id=31438 OK in 111.8s
 [11:11:29] batch-end ok=17 failed=3 dur=3481.4s avg/film=204.8s remaining=7380 eta_hours=419.8
+
+===== run 2026-06-01T11:16:59Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26751575448) =====
+[11:17:00] batch-start shard=0/2 count=20 backlog=10210 uploads=2830 failed_attempts=95
+[11:17:00] login
+[11:17:01] login done
+[11:17:01] iteration 1/20
+[11:17:01] film cr_film_id=16038 name='The Girl in the Pool (2024)' candidates=4
+[11:17:01]   candidate upload_id=66a3d476741a6 url=https://prehraj.to/the-girl-in-the-pool-2024-1080p-amzn-webrip-ddp5-1-x265-10bit-galaxyrg265/66a3d476741a6
+[11:17:02]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/87108851/4PlUnwupGiNDsnjTL6cY9uBEFnQfkAiqXTKp…)
+[11:17:55]   downloaded 1,037.8 MB in 51.3s (20.2 MB/s)
+[11:18:56]   upload done video_id=25421559 in 60.1s
