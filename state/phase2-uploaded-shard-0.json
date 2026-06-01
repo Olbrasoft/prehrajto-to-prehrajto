@@ -50616,6 +50616,25 @@
         "download_sec": 15.0,
         "upload_sec": 24.1
       }
+    },
+    {
+      "cr_film_id": 36746,
+      "cr_slug": "bluebeard",
+      "title": "Bluebeard",
+      "year": 2017,
+      "display_name": "Bluebeard (2017) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "a2fd52f551b5d396",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25407609,
+      "size_bytes": 786019142,
+      "uploaded_at": "2026-06-01T03:39:17Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 26.6,
+        "upload_sec": 38.9
+      }
     }
   ],
   "failed_attempts": [
@@ -51090,5 +51109,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T03:38:08Z"
+  "last_updated": "2026-06-01T03:39:17Z"
 }
