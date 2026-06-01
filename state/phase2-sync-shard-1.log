@@ -21089,3 +21089,15 @@
 [11:42:03]   resolved in 5.8s → 480p (https://pf-storage1.premiumcdn.net/40002610/aEZTzZf2rf7KsvZHGPHXdf6oi02IXEHAZCYl…)
 [11:42:24]   downloaded 547.3 MB in 19.5s (28.1 MB/s)
 [11:43:04]   upload done video_id=25422067 in 40.1s
+[11:43:05] film cr_film_id=3261 OK in 68.1s
+[11:43:05] iteration 11/20
+[11:43:06] film cr_film_id=1105 name='Tár (2022)' candidates=1
+[11:43:06]   candidate upload_id=1c1de7f8cf298aed url=https://prehraj.to/tar-2022-cz-dabing-mp4/1c1de7f8cf298aed
+[11:43:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tar-2022-cz-dabing-mp4/1c1de7f8cf298aed (permanent=True)
+[11:43:06] film cr_film_id=1105 all candidates exhausted
+[11:43:06] iteration 12/20
+[11:43:06] film cr_film_id=33953 name='They Live in the Grey (2022)' candidates=3
+[11:43:06]   candidate upload_id=620eb1e557aee url=https://prehraj.to/they-live-in-the-grey-2022-1080p-amzn-webrip-ddp2-0-x264-nogrp/620eb1e557aee
+[11:43:12]   resolved in 5.7s → 720p (https://pf-storage4.premiumcdn.net/29460632/mG8ib1fePTX8c6pUq8tkAf0JuLwTzNSJ6I3D…)
+[11:44:05]   downloaded 1,558.1 MB in 51.4s (30.3 MB/s)
+[11:45:23]   upload done video_id=25422100 in 78.4s
