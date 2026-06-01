@@ -19713,3 +19713,14 @@
 [03:20:28]   upload done video_id=25407150 in 11.6s
 [03:20:30] film cr_film_id=30171 OK in 19.4s
 [03:20:30] batch-end ok=20 failed=0 dur=1514.8s avg/film=75.7s remaining=7549 eta_hours=158.7
+
+===== run 2026-06-01T03:36:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26733757126) =====
+[03:36:18] batch-start shard=1/2 count=20 backlog=10210 uploads=2661 failed_attempts=72
+[03:36:18] login
+[03:36:19] login done
+[03:36:19] iteration 1/20
+[03:36:19] film cr_film_id=12167 name='Skřítek 2 (1994) EN' candidates=5
+[03:36:19]   candidate upload_id=68186f277f3f5 url=https://prehraj.to/skritek-2-1994-web-dl-720p-x264-cz-en-mp4/68186f277f3f5
+[03:36:20]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/137204246/5jMt73S5vuDduzpHQJU9qSm4TgKCqnclOfo…)
+[03:36:42]   downloaded 596.8 MB in 20.5s (29.1 MB/s)
+[03:37:13]   upload done video_id=25407563 in 31.0s
