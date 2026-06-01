@@ -20895,3 +20895,14 @@
 [10:12:55]   upload done video_id=25419959 in 123.3s
 [10:12:57] film cr_film_id=4020 OK in 290.2s
 [10:12:58] batch-end ok=17 failed=3 dur=3481.6s avg/film=204.8s remaining=7397 eta_hours=420.8
+
+===== run 2026-06-01T10:13:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26748726835) =====
+[10:13:26] batch-start shard=0/2 count=20 backlog=10210 uploads=2813 failed_attempts=90
+[10:13:26] login
+[10:13:27] login done
+[10:13:27] iteration 1/20
+[10:13:27] film cr_film_id=16302 name='Batman Ninja vs. Yakuza League (2025)' candidates=1
+[10:13:27]   candidate upload_id=727cb41e440fb806 url=https://prehraj.to/batman-ninja-vs-yakuza-league-2025-2160p-max-web-dl-dd-5-1-hdr-dovi-hevc-trezzor/727cb41e440fb806
+[10:13:29]   resolved in 2.0s → 1080p (https://pf-storage5.premiumcdn.net/162842453/xWJfDLS3PtVmhRBh0bTGgS3digzCVkI5EHe…)
+[10:14:45]   downloaded 2,606.6 MB in 73.7s (35.4 MB/s)
+[10:17:31]   upload done video_id=25420083 in 166.9s
