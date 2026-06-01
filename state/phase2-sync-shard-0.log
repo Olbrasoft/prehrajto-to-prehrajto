@@ -19566,3 +19566,14 @@
 [02:54:52]   upload done video_id=25406428 in 65.6s
 [02:54:53] film cr_film_id=2994 OK in 115.0s
 [02:54:53] batch-end ok=20 failed=0 dur=1558.6s avg/film=77.9s remaining=7568 eta_hours=163.8
+
+===== run 2026-06-01T02:55:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26732666556) =====
+[02:55:15] batch-start shard=0/2 count=20 backlog=10210 uploads=2642 failed_attempts=65
+[02:55:15] login
+[02:55:17] login done
+[02:55:17] iteration 1/20
+[02:55:17] film cr_film_id=30582 name='Whitney: Být sama sebou (2017) SK Titulky' candidates=1
+[02:55:17]   candidate upload_id=047a8bf9250f5cdb url=https://prehraj.to/whitney-byt-sama-sebou-2017-en-sk-tit/047a8bf9250f5cdb
+[02:55:18]   resolved in 1.4s → 480p (https://pf-storage6.premiumcdn.net/169665853/QKwt2WceNHRxuxmSwys9NcPJH5NIeAU53t1…)
+[02:56:08]   downloaded 920.1 MB in 47.4s (19.4 MB/s)
+[02:57:08]   upload done video_id=25406493 in 60.2s
