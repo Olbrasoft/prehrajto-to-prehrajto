@@ -51452,6 +51452,25 @@
         "download_sec": 63.5,
         "upload_sec": 85.1
       }
+    },
+    {
+      "cr_film_id": 28835,
+      "cr_slug": "it-ends",
+      "title": "It Ends",
+      "year": 2025,
+      "display_name": "It Ends (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "35fba9ce2a995c72",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25410158,
+      "size_bytes": 2409388606,
+      "uploaded_at": "2026-06-01T05:12:55Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 101.1,
+        "upload_sec": 129.3
+      }
     }
   ],
   "failed_attempts": [
@@ -52023,7 +52042,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nepela-2025-drama-sk/b2a4aec4c3f6eb3b",
       "permanent": true,
       "failed_at": "2026-06-01T04:50:32Z"
+    },
+    {
+      "cr_film_id": 16079,
+      "upload_id": "698acebc5591c60e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/karavan-2025/698acebc5591c60e",
+      "permanent": true,
+      "failed_at": "2026-06-01T05:08:45Z"
+    },
+    {
+      "cr_film_id": 16079,
+      "upload_id": "829573803f3dfb43",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/karavan-2025-cz-novinka/829573803f3dfb43",
+      "permanent": true,
+      "failed_at": "2026-06-01T05:08:50Z"
+    },
+    {
+      "cr_film_id": 16079,
+      "upload_id": "e80e972e82720236",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/karavan-2025/e80e972e82720236",
+      "permanent": true,
+      "failed_at": "2026-06-01T05:08:56Z"
     }
   ],
-  "last_updated": "2026-06-01T05:08:42Z"
+  "last_updated": "2026-06-01T05:12:55Z"
 }
