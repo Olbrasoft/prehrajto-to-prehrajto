@@ -54150,6 +54150,25 @@
         "download_sec": 70.2,
         "upload_sec": 85.5
       }
+    },
+    {
+      "cr_film_id": 7500,
+      "cr_slug": "argylle-tajny-agent",
+      "title": "Argylle: Tajný agent",
+      "year": 2024,
+      "display_name": "Argylle: Tajný agent (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "ab5f4eaa21b0a5a3",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25424336,
+      "size_bytes": 2631051551,
+      "uploaded_at": "2026-06-01T13:03:48Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 85.9,
+        "upload_sec": 137.1
+      }
     }
   ],
   "failed_attempts": [
@@ -54867,7 +54886,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-na-zakazku-2024/527c049393caa761",
       "permanent": true,
       "failed_at": "2026-06-01T12:03:23Z"
+    },
+    {
+      "cr_film_id": 34172,
+      "upload_id": "2d082f184ea40ab6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/az-na-konec-sveta-1080p-entit/2d082f184ea40ab6",
+      "permanent": true,
+      "failed_at": "2026-06-01T12:59:53Z"
+    },
+    {
+      "cr_film_id": 15882,
+      "upload_id": "3691ec65f4f12562",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/aznavour-2024-cz/3691ec65f4f12562",
+      "permanent": true,
+      "failed_at": "2026-06-01T12:59:58Z"
     }
   ],
-  "last_updated": "2026-06-01T12:59:50Z"
+  "last_updated": "2026-06-01T13:03:48Z"
 }

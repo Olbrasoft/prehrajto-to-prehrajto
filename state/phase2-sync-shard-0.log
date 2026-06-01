@@ -21212,3 +21212,20 @@
 [12:57:13]   resolved in 2.0s → 1080p (https://pf-storage3.premiumcdn.net/101663987/KVatwkHjkTpdSjlcQjivZHpqCvVtEXUqEFO…)
 [12:58:25]   downloaded 1,461.9 MB in 70.2s (20.8 MB/s)
 [12:59:50]   upload done video_id=25424213 in 85.5s
+[12:59:52] film cr_film_id=9168 OK in 160.6s
+[12:59:52] iteration 12/20
+[12:59:52] film cr_film_id=34172 name='Až na konec světa (2024)' candidates=1
+[12:59:52]   candidate upload_id=2d082f184ea40ab6 url=https://prehraj.to/az-na-konec-sveta-1080p-entit/2d082f184ea40ab6
+[12:59:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/az-na-konec-sveta-1080p-entit/2d082f184ea40ab6 (permanent=True)
+[12:59:53] film cr_film_id=34172 all candidates exhausted
+[12:59:53] iteration 13/20
+[12:59:53] film cr_film_id=15882 name='Aznavour (2024)' candidates=1
+[12:59:53]   candidate upload_id=3691ec65f4f12562 url=https://prehraj.to/aznavour-2024-cz/3691ec65f4f12562
+[12:59:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/aznavour-2024-cz/3691ec65f4f12562 (permanent=True)
+[12:59:58] film cr_film_id=15882 all candidates exhausted
+[12:59:58] iteration 14/20
+[12:59:58] film cr_film_id=7500 name='Argylle: Tajný agent (2024)' candidates=4
+[12:59:58]   candidate upload_id=ab5f4eaa21b0a5a3 url=https://prehraj.to/argylle-2024-1080p-cz-titulky-mkv/ab5f4eaa21b0a5a3
+[13:00:04]   resolved in 5.9s → 720p (https://pf-storage5.premiumcdn.net/162315071/ByvTVDHbxIr9fVNsJqURKHxoFGYiw0u0JhG…)
+[13:01:31]   downloaded 2,631.1 MB in 85.9s (30.6 MB/s)
+[13:03:48]   upload done video_id=25424336 in 137.1s
