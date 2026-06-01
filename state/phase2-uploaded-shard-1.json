@@ -49134,6 +49134,25 @@
         "download_sec": 42.6,
         "upload_sec": 54.8
       }
+    },
+    {
+      "cr_film_id": 30609,
+      "cr_slug": "devil-s-whisper",
+      "title": "Devil's Whisper",
+      "year": 2017,
+      "display_name": "Devil's Whisper (2017) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "ba4c13a41ccad226",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25403036,
+      "size_bytes": 560573368,
+      "uploaded_at": "2026-06-01T01:15:43Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 24.2,
+        "upload_sec": 34.6
+      }
     }
   ],
   "failed_attempts": [
@@ -49672,5 +49691,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T01:14:40Z"
+  "last_updated": "2026-06-01T01:15:43Z"
 }
