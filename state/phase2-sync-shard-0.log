@@ -21111,3 +21111,23 @@
 [12:01:43]   resolved in 1.2s → 720p (https://pf-storage6.premiumcdn.net/169663153/qERi7aubqF2KSOaFMNUEquR5sGjUjqTGwug…)
 [12:02:20]   downloaded 697.6 MB in 35.1s (19.9 MB/s)
 [12:03:04]   upload done video_id=25422600 in 43.6s
+[12:03:06] film cr_film_id=660 OK in 83.2s
+[12:03:06] iteration 11/20
+[12:03:06] film cr_film_id=3194 name='Mord (2024)' candidates=2
+[12:03:06]   candidate upload_id=263795427b33b7c0 url=https://prehraj.to/mord-2024-drama-komedie-cz-aac5-1-h265-1080p-mkv/263795427b33b7c0
+[12:03:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mord-2024-drama-komedie-cz-aac5-1-h265-1080p-mkv/263795427b33b7c0 (permanent=True)
+[12:03:06]   candidate upload_id=5f4a48bb841bc12a url=https://prehraj.to/mord-2024-cz-mp4/5f4a48bb841bc12a
+[12:03:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mord-2024-cz-mp4/5f4a48bb841bc12a (permanent=True)
+[12:03:12] film cr_film_id=3194 all candidates exhausted
+[12:03:12] iteration 12/20
+[12:03:12] film cr_film_id=5352 name='MaXXXine (2024)' candidates=1
+[12:03:12]   candidate upload_id=fc66592ebb30ad87 url=https://prehraj.to/maxxxine-2024/fc66592ebb30ad87
+[12:03:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/maxxxine-2024/fc66592ebb30ad87 (permanent=True)
+[12:03:18] film cr_film_id=5352 all candidates exhausted
+[12:03:18] iteration 13/20
+[12:03:18] film cr_film_id=15780 name='Láska na zakázku (2024)' candidates=1
+[12:03:18]   candidate upload_id=527c049393caa761 url=https://prehraj.to/laska-na-zakazku-2024/527c049393caa761
+[12:03:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-na-zakazku-2024/527c049393caa761 (permanent=True)
+[12:03:23] film cr_film_id=15780 all candidates exhausted
+[12:03:23] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
+[12:03:23] batch-end ok=9 failed=4 dur=2782.3s avg/film=309.1s remaining=7371 eta_hours=632.9
