@@ -49438,6 +49438,25 @@
         "download_sec": 119.9,
         "upload_sec": 148.9
       }
+    },
+    {
+      "cr_film_id": 18755,
+      "cr_slug": "dopisy-z-valky",
+      "title": "Dopisy z války",
+      "year": 2015,
+      "display_name": "Dopisy z války (2015) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "57f2c43bbb655",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25404282,
+      "size_bytes": 366159949,
+      "uploaded_at": "2026-06-01T01:48:13Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 20.6,
+        "upload_sec": 30.1
+      }
     }
   ],
   "failed_attempts": [
@@ -49976,5 +49995,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T01:47:17Z"
+  "last_updated": "2026-06-01T01:48:13Z"
 }
