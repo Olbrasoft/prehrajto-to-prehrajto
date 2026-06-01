@@ -20439,3 +20439,14 @@
 [07:24:39]   upload done video_id=25413270 in 129.9s
 [07:24:40] film cr_film_id=4441 OK in 222.9s
 [07:24:40] batch-end ok=19 failed=1 dur=4175.0s avg/film=219.7s remaining=7459 eta_hours=455.2
+
+===== run 2026-06-01T07:25:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26741103089) =====
+[07:25:04] batch-start shard=1/2 count=20 backlog=10210 uploads=2751 failed_attempts=90
+[07:25:04] login
+[07:25:06] login done
+[07:25:06] iteration 1/20
+[07:25:06] film cr_film_id=16019 name='La coda del diavolo (2024)' candidates=5
+[07:25:06]   candidate upload_id=d00a444d45fdf97e url=https://prehraj.to/v-sieti-diabla-la-coda-del-diavolo-2024-sk-mp4/d00a444d45fdf97e
+[07:25:07]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/156720860/3qVI2MSP2FYZTO9uQlf5jSyQsmJc46HWEU3…)
+[07:25:32]   downloaded 692.2 MB in 23.0s (30.1 MB/s)
+[07:26:14]   upload done video_id=25413346 in 42.0s
