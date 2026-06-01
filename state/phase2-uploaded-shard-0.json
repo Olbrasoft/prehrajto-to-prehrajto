@@ -56221,6 +56221,25 @@
         "download_sec": 55.0,
         "upload_sec": 63.4
       }
+    },
+    {
+      "cr_film_id": 6556,
+      "cr_slug": "buba",
+      "title": "Buba",
+      "year": 2022,
+      "display_name": "Buba (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "62eac925b3fd2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25436990,
+      "size_bytes": 2318929258,
+      "uploaded_at": "2026-06-01T23:50:46Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 118.6,
+        "upload_sec": 130.4
+      }
     }
   ],
   "failed_attempts": [
@@ -57064,7 +57083,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/elvis-2022-cz-mkv-mp4/605d8ede6899b441",
       "permanent": true,
       "failed_at": "2026-06-01T23:37:12Z"
+    },
+    {
+      "cr_film_id": 7222,
+      "upload_id": "b3113fe1983330ca",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bezna-selhani-2022-cz/b3113fe1983330ca",
+      "permanent": true,
+      "failed_at": "2026-06-01T23:46:28Z"
     }
   ],
-  "last_updated": "2026-06-01T23:46:25Z"
+  "last_updated": "2026-06-01T23:50:46Z"
 }
