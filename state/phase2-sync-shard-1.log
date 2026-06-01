@@ -20512,3 +20512,17 @@
 [07:47:49]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/115989674/6yLflPhLYfy2T58C8zt7QhaqfvyUORI17Ca…)
 [07:48:51]   downloaded 1,918.8 MB in 60.6s (31.7 MB/s)
 [07:50:08]   upload done video_id=25413899 in 76.7s
+[07:50:09] film cr_film_id=16383 OK in 141.3s
+[07:50:09] iteration 10/20
+[07:50:09] film cr_film_id=5329 name='Hokus pokus Diplodokus (2024)' candidates=2
+[07:50:09]   candidate upload_id=c4b2784d6cb7fcbc url=https://prehraj.to/hokus-pokus-diplodokus-smok-diplodok-2024-cz-animak/c4b2784d6cb7fcbc
+[07:50:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hokus-pokus-diplodokus-smok-diplodok-2024-cz-animak/c4b2784d6cb7fcbc (permanent=True)
+[07:50:10]   candidate upload_id=da2c1851fff0f881 url=https://prehraj.to/hokus-pokus-diplodokus-smok-diplodok-2024-cz-animak/da2c1851fff0f881
+[07:50:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hokus-pokus-diplodokus-smok-diplodok-2024-cz-animak/da2c1851fff0f881 (permanent=True)
+[07:50:15] film cr_film_id=5329 all candidates exhausted
+[07:50:15] iteration 11/20
+[07:50:15] film cr_film_id=5769 name='Hevimpi reissu (2024)' candidates=1
+[07:50:15]   candidate upload_id=677ada7948cb4 url=https://prehraj.to/hevimpi-reissu-heavier-trip-2024-cz-ti/677ada7948cb4
+[07:50:21]   resolved in 5.7s → 720p (https://pf-storage1.premiumcdn.net/127327619/aYds3KclOUo3FRYuQ5tKoc3vhWDfx5t8yfy…)
+[07:51:11]   downloaded 1,540.4 MB in 48.7s (31.6 MB/s)
+[07:52:22]   upload done video_id=25413960 in 71.1s

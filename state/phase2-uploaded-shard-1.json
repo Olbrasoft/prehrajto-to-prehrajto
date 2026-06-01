@@ -52440,6 +52440,25 @@
         "download_sec": 60.6,
         "upload_sec": 76.7
       }
+    },
+    {
+      "cr_film_id": 5769,
+      "cr_slug": "hevimpi-reissu",
+      "title": "Hevimpi reissu",
+      "year": 2024,
+      "display_name": "Hevimpi reissu (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "677ada7948cb4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25413960,
+      "size_bytes": 1540427049,
+      "uploaded_at": "2026-06-01T07:52:22Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 48.7,
+        "upload_sec": 71.1
+      }
     }
   ],
   "failed_attempts": [
@@ -53116,7 +53135,21 @@
       "reason": "oversize: 20682334838 B",
       "permanent": true,
       "failed_at": "2026-06-01T07:41:41Z"
+    },
+    {
+      "cr_film_id": 5329,
+      "upload_id": "c4b2784d6cb7fcbc",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hokus-pokus-diplodokus-smok-diplodok-2024-cz-animak/c4b2784d6cb7fcbc",
+      "permanent": true,
+      "failed_at": "2026-06-01T07:50:10Z"
+    },
+    {
+      "cr_film_id": 5329,
+      "upload_id": "da2c1851fff0f881",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hokus-pokus-diplodokus-smok-diplodok-2024-cz-animak/da2c1851fff0f881",
+      "permanent": true,
+      "failed_at": "2026-06-01T07:50:15Z"
     }
   ],
-  "last_updated": "2026-06-01T07:50:08Z"
+  "last_updated": "2026-06-01T07:52:22Z"
 }
