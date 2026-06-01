@@ -54093,6 +54093,25 @@
         "download_sec": 35.9,
         "upload_sec": 65.5
       }
+    },
+    {
+      "cr_film_id": 16324,
+      "cr_slug": "c-est-le-monde-a-l-envers",
+      "title": "C'est le monde à l'envers !",
+      "year": 2024,
+      "display_name": "C'est le monde à l'envers ! (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68db08b83dacc",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25424046,
+      "size_bytes": 3145784875,
+      "uploaded_at": "2026-06-01T12:54:49Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 123.0,
+        "upload_sec": 149.7
+      }
     }
   ],
   "failed_attempts": [
@@ -54812,5 +54831,5 @@
       "failed_at": "2026-06-01T12:03:23Z"
     }
   ],
-  "last_updated": "2026-06-01T12:50:12Z"
+  "last_updated": "2026-06-01T12:54:49Z"
 }
