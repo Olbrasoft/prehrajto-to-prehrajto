@@ -50502,6 +50502,25 @@
         "download_sec": 58.9,
         "upload_sec": 88.3
       }
+    },
+    {
+      "cr_film_id": 30566,
+      "cr_slug": "devil-s-domain",
+      "title": "Devil's Domain",
+      "year": 2017,
+      "display_name": "Devil's Domain (2017) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "59675fb89ebdb08c",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25407370,
+      "size_bytes": 696409350,
+      "uploaded_at": "2026-06-01T03:29:47Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 36.4,
+        "upload_sec": 57.9
+      }
     }
   ],
   "failed_attempts": [
@@ -50976,5 +50995,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T03:28:08Z"
+  "last_updated": "2026-06-01T03:29:47Z"
 }
