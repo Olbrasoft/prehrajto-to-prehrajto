@@ -21870,3 +21870,14 @@
 [21:51:31]   upload done video_id=25435078 in 60.8s
 [21:51:33] film cr_film_id=29685 OK in 104.2s
 [21:51:33] batch-end ok=20 failed=0 dur=4313.9s avg/film=215.7s remaining=7285 eta_hours=436.5
+
+===== run 2026-06-01T22:14:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26785289321) =====
+[22:14:29] batch-start shard=1/2 count=20 backlog=10210 uploads=2925 failed_attempts=125
+[22:14:29] login
+[22:14:31] login done
+[22:14:31] iteration 1/20
+[22:14:31] film cr_film_id=14255 name='Příběh klokanice Joey (2021)' candidates=5
+[22:14:31]   candidate upload_id=60f2c8bb60152 url=https://prehraj.to/joey-and-ella-a-kangaroo-tail-2021-1080p-web-dl-dd5-1-h-264-nogrp-mp4/60f2c8bb60152
+[22:14:32]   resolved in 1.4s → 720p (https://pf-storage2.premiumcdn.net/24308274/6Lxi18sgACeDTJktbOCVLsYWCZLiN5I7NHmQ…)
+[22:15:46]   downloaded 1,438.5 MB in 71.7s (20.1 MB/s)
+[22:17:04]   upload done video_id=25435480 in 78.3s
