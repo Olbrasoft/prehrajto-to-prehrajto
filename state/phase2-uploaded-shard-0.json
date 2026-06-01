@@ -50711,6 +50711,25 @@
         "download_sec": 28.9,
         "upload_sec": 43.1
       }
+    },
+    {
+      "cr_film_id": 30500,
+      "cr_slug": "nenarozena-pomsta",
+      "title": "Nenarozená pomsta",
+      "year": 2016,
+      "display_name": "Nenarozená pomsta (2016) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "591e970820ca3",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25407764,
+      "size_bytes": 328930800,
+      "uploaded_at": "2026-06-01T03:44:29Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 12.4,
+        "upload_sec": 25.0
+      }
     }
   ],
   "failed_attempts": [
@@ -51185,5 +51204,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T03:43:48Z"
+  "last_updated": "2026-06-01T03:44:29Z"
 }
