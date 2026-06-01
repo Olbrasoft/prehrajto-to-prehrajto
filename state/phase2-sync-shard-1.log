@@ -20691,3 +20691,24 @@
 [08:40:32]   resolved in 0.9s → 1080p (https://pf-storage3.premiumcdn.net/144350613/7ZGSbmipYUxQsnqt2zSvyiplCr5TwlUB1IG…)
 [08:41:24]   downloaded 1,447.0 MB in 51.1s (28.3 MB/s)
 [08:42:35]   upload done video_id=25415317 in 70.9s
+[08:42:37] film cr_film_id=15969 OK in 125.8s
+[08:42:37] iteration 15/20
+[08:42:37] film cr_film_id=15729 name='Vypečené zločiny: Grilovací sezóna (2023)' candidates=1
+[08:42:37]   candidate upload_id=65b1b57945bde url=https://prehraj.to/the-last-of-us-season-1-episode-1-when-you-re-lost-in-the-darkness-2023-2160p-remux-hevc-10bit-hdr-dovi-cz-eng-truehd-7-1-atmos-angels/65b1b57945bde
+[08:42:37]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-last-of-us-season-1-episode-1-when-you-re-lost-in-the-darkness-2023-2160p-remux-hevc-10bit-hdr-dovi-cz-eng-truehd-7-1-atmos-angels/65b1b57945bde (permanent=True)
+[08:42:37] film cr_film_id=15729 all candidates exhausted
+[08:42:37] iteration 16/20
+[08:42:37] film cr_film_id=9959 name='Vindicta (2023)' candidates=3
+[08:42:37]   candidate upload_id=664f16aa3fd02 url=https://prehraj.to/vindicta-2023-1080p-sk-sub/664f16aa3fd02
+[08:42:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vindicta-2023-1080p-sk-sub/664f16aa3fd02 (permanent=True)
+[08:42:44]   candidate upload_id=654beff2dea5a url=https://prehraj.to/vindicta-2023-1080p-webrip-1400mb-dd5-1-x264-galaxyrg/654beff2dea5a
+[08:42:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vindicta-2023-1080p-webrip-1400mb-dd5-1-x264-galaxyrg/654beff2dea5a (permanent=True)
+[08:42:49]   candidate upload_id=652271179dcd9 url=https://prehraj.to/vindicta-2023-720p-webrip-800mb-x264-galaxyrg/652271179dcd9
+[08:42:55]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vindicta-2023-720p-webrip-800mb-x264-galaxyrg/652271179dcd9 (permanent=True)
+[08:42:55] film cr_film_id=9959 all candidates exhausted
+[08:42:55] iteration 17/20
+[08:42:55] film cr_film_id=34083 name='Trauma Therapy: Psychosis (2023)' candidates=1
+[08:42:55]   candidate upload_id=650e8a81d15a3 url=https://prehraj.to/trauma-therapy-psychosis-2023-1080p-amzn-web-dl-ddp2-0-h-264-flux/650e8a81d15a3
+[08:43:01]   resolved in 5.8s → 720p (https://pf-storage4.premiumcdn.net/45895514/V3RfmdSvWt3nSaeI3VHK6SLEHR3T1WClETyJ…)
+[08:43:41]   downloaded 1,089.0 MB in 38.5s (28.3 MB/s)
+[08:44:36]   upload done video_id=25415375 in 55.6s

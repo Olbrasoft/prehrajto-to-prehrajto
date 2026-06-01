@@ -52877,6 +52877,25 @@
         "download_sec": 51.1,
         "upload_sec": 70.9
       }
+    },
+    {
+      "cr_film_id": 34083,
+      "cr_slug": "trauma-therapy-psychosis",
+      "title": "Trauma Therapy: Psychosis",
+      "year": 2023,
+      "display_name": "Trauma Therapy: Psychosis (2023)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "650e8a81d15a3",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25415375,
+      "size_bytes": 1088990061,
+      "uploaded_at": "2026-06-01T08:44:36Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 38.5,
+        "upload_sec": 55.6
+      }
     }
   ],
   "failed_attempts": [
@@ -53574,7 +53593,35 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/heretik-cz-dabing/b0297bfddfe8a6a6",
       "permanent": true,
       "failed_at": "2026-06-01T07:52:24Z"
+    },
+    {
+      "cr_film_id": 15729,
+      "upload_id": "65b1b57945bde",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-last-of-us-season-1-episode-1-when-you-re-lost-in-the-darkness-2023-2160p-remux-hevc-10bit-hdr-dovi-cz-eng-truehd-7-1-atmos-angels/65b1b57945bde",
+      "permanent": true,
+      "failed_at": "2026-06-01T08:42:37Z"
+    },
+    {
+      "cr_film_id": 9959,
+      "upload_id": "664f16aa3fd02",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vindicta-2023-1080p-sk-sub/664f16aa3fd02",
+      "permanent": true,
+      "failed_at": "2026-06-01T08:42:44Z"
+    },
+    {
+      "cr_film_id": 9959,
+      "upload_id": "654beff2dea5a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vindicta-2023-1080p-webrip-1400mb-dd5-1-x264-galaxyrg/654beff2dea5a",
+      "permanent": true,
+      "failed_at": "2026-06-01T08:42:49Z"
+    },
+    {
+      "cr_film_id": 9959,
+      "upload_id": "652271179dcd9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vindicta-2023-720p-webrip-800mb-x264-galaxyrg/652271179dcd9",
+      "permanent": true,
+      "failed_at": "2026-06-01T08:42:55Z"
     }
   ],
-  "last_updated": "2026-06-01T08:42:35Z"
+  "last_updated": "2026-06-01T08:44:36Z"
 }
