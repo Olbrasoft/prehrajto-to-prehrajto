@@ -21273,3 +21273,14 @@
 [13:19:25]   upload done video_id=25424734 in 35.4s
 [13:19:27] film cr_film_id=26844 OK in 65.1s
 [13:19:27] batch-end ok=18 failed=2 dur=4533.8s avg/film=251.9s remaining=7353 eta_hours=514.5
+
+===== run 2026-06-01T13:19:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26757453620) =====
+[13:19:59] batch-start shard=0/2 count=20 backlog=10210 uploads=2857 failed_attempts=102
+[13:19:59] login
+[13:20:00] login done
+[13:20:00] iteration 1/20
+[13:20:00] film cr_film_id=34136 name='5 liber tlaku (2024)' candidates=1
+[13:20:00]   candidate upload_id=65eb46eb49554 url=https://prehraj.to/5lbs-of-pressure-2024-2160p-web-dl-ddp5-1-h-265-mkv-ben-the-men/65eb46eb49554
+[13:20:02]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/74293283/3EyUO2Fd3IajI8BTPpF62FNAc0ZHWys6dFx2…)
+[13:23:38]   downloaded 4,056.6 MB in 214.3s (18.9 MB/s)
+[13:27:36]   upload done video_id=25424813 in 237.2s
