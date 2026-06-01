@@ -51433,6 +51433,25 @@
         "download_sec": 21.1,
         "upload_sec": 35.5
       }
+    },
+    {
+      "cr_film_id": 30372,
+      "cr_slug": "coming-out-2013",
+      "title": "Coming Out",
+      "year": 2013,
+      "display_name": "Coming Out (2013) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5ce11007c1e7c5cd",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25409741,
+      "size_bytes": 366650106,
+      "uploaded_at": "2026-06-01T04:54:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.4,
+        "upload_sec": 22.9
+      }
     }
   ],
   "failed_attempts": [
@@ -51914,5 +51933,5 @@
       "failed_at": "2026-06-01T03:44:31Z"
     }
   ],
-  "last_updated": "2026-06-01T04:54:04Z"
+  "last_updated": "2026-06-01T04:54:44Z"
 }
