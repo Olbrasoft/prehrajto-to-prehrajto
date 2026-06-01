@@ -48773,6 +48773,25 @@
         "download_sec": 41.7,
         "upload_sec": 61.4
       }
+    },
+    {
+      "cr_film_id": 36763,
+      "cr_slug": "the-wake",
+      "title": "The Wake",
+      "year": 2017,
+      "display_name": "The Wake (2017) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "688e3e99947bb",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25401080,
+      "size_bytes": 976162722,
+      "uploaded_at": "2026-06-01T00:28:22Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 43.5,
+        "upload_sec": 56.4
+      }
     }
   ],
   "failed_attempts": [
@@ -49311,5 +49330,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T00:26:38Z"
+  "last_updated": "2026-06-01T00:28:22Z"
 }
