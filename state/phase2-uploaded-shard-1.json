@@ -49723,6 +49723,25 @@
         "download_sec": 22.9,
         "upload_sec": 33.6
       }
+    },
+    {
+      "cr_film_id": 28639,
+      "cr_slug": "nepritel-tridy",
+      "title": "Nepřítel třídy",
+      "year": 2013,
+      "display_name": "Nepřítel třídy (2013) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "577c9aff9a856",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25405027,
+      "size_bytes": 516068656,
+      "uploaded_at": "2026-06-01T02:09:07Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 28.0,
+        "upload_sec": 39.8
+      }
     }
   ],
   "failed_attempts": [
@@ -50261,5 +50280,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T02:07:55Z"
+  "last_updated": "2026-06-01T02:09:07Z"
 }
