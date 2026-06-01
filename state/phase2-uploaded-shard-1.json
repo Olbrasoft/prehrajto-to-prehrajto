@@ -50445,6 +50445,25 @@
         "download_sec": 36.5,
         "upload_sec": 47.6
       }
+    },
+    {
+      "cr_film_id": 14045,
+      "cr_slug": "eat-wheaties",
+      "title": "Eat Wheaties!",
+      "year": 2020,
+      "display_name": "Eat Wheaties! (2020) EN",
+      "preferred_lang_class": "EN",
+      "src_upload_id": "608e589c76d33",
+      "src_lang_class": "EN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25406964,
+      "size_bytes": 1162053143,
+      "uploaded_at": "2026-06-01T03:14:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 38.7,
+        "upload_sec": 50.7
+      }
     }
   ],
   "failed_attempts": [
@@ -50983,5 +51002,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T03:12:26Z"
+  "last_updated": "2026-06-01T03:14:00Z"
 }
