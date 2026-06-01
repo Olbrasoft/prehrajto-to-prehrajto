@@ -54131,6 +54131,25 @@
         "download_sec": 53.6,
         "upload_sec": 66.9
       }
+    },
+    {
+      "cr_film_id": 2221,
+      "cr_slug": "piargy",
+      "title": "Piargy",
+      "year": 2022,
+      "display_name": "Piargy (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "669b6ebf72ae2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25423588,
+      "size_bytes": 1872530972,
+      "uploaded_at": "2026-06-01T12:38:08Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 84.0,
+        "upload_sec": 114.5
+      }
     }
   ],
   "failed_attempts": [
@@ -54926,7 +54945,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/stopy-v-pisku-2022-cz/ef874e5041351350",
       "permanent": true,
       "failed_at": "2026-06-01T12:08:04Z"
+    },
+    {
+      "cr_film_id": 2885,
+      "upload_id": "54178323151a412f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/promlceno-2022-mkv/54178323151a412f",
+      "permanent": true,
+      "failed_at": "2026-06-01T12:34:35Z"
+    },
+    {
+      "cr_film_id": 8173,
+      "upload_id": "028cf66c21163f0a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princ-mamanek-2022-cz-mp4/028cf66c21163f0a",
+      "permanent": true,
+      "failed_at": "2026-06-01T12:34:41Z"
     }
   ],
-  "last_updated": "2026-06-01T12:34:32Z"
+  "last_updated": "2026-06-01T12:38:08Z"
 }
