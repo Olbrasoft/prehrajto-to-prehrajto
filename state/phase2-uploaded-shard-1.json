@@ -49742,6 +49742,25 @@
         "download_sec": 28.0,
         "upload_sec": 39.8
       }
+    },
+    {
+      "cr_film_id": 35333,
+      "cr_slug": "k-zazraku",
+      "title": "K zázraku",
+      "year": 2013,
+      "display_name": "K zázraku (2013) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "56e3e2b002440",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25405075,
+      "size_bytes": 687538978,
+      "uploaded_at": "2026-06-01T02:10:41Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 35.0,
+        "upload_sec": 52.8
+      }
     }
   ],
   "failed_attempts": [
@@ -50280,5 +50299,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T02:09:07Z"
+  "last_updated": "2026-06-01T02:10:41Z"
 }
