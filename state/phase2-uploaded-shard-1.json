@@ -51870,6 +51870,25 @@
         "download_sec": 10.8,
         "upload_sec": 25.5
       }
+    },
+    {
+      "cr_film_id": 31433,
+      "cr_slug": "the-phantom-warrior",
+      "title": "The Phantom Warrior",
+      "year": 2024,
+      "display_name": "The Phantom Warrior (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "65e99da9060f2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25411404,
+      "size_bytes": 1450279316,
+      "uploaded_at": "2026-06-01T06:04:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 47.4,
+        "upload_sec": 59.3
+      }
     }
   ],
   "failed_attempts": [
@@ -52513,5 +52532,5 @@
       "failed_at": "2026-06-01T06:00:23Z"
     }
   ],
-  "last_updated": "2026-06-01T06:02:50Z"
+  "last_updated": "2026-06-01T06:04:40Z"
 }
