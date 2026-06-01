@@ -53903,6 +53903,25 @@
         "download_sec": 80.1,
         "upload_sec": 111.4
       }
+    },
+    {
+      "cr_film_id": 16010,
+      "cr_slug": "neomylni",
+      "title": "Neomylní",
+      "year": 2024,
+      "display_name": "Neomylní (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "e4114f47bb91cf82",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25422545,
+      "size_bytes": 1602235515,
+      "uploaded_at": "2026-06-01T12:01:40Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 78.6,
+        "upload_sec": 86.7
+      }
     }
   ],
   "failed_attempts": [
@@ -54585,7 +54604,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlato-uber-plyn-l-heureuse-elue-2024-cz-mp4/d1b1cbb414166a66",
       "permanent": true,
       "failed_at": "2026-06-01T10:52:52Z"
+    },
+    {
+      "cr_film_id": 2196,
+      "upload_id": "c1c3c8ed8ec53896",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nezlomni-arthur-the-king-webrip-cz-2024-1080p/c1c3c8ed8ec53896",
+      "permanent": true,
+      "failed_at": "2026-06-01T11:58:46Z"
     }
   ],
-  "last_updated": "2026-06-01T11:58:43Z"
+  "last_updated": "2026-06-01T12:01:40Z"
 }
