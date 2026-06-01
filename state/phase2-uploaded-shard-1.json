@@ -52402,6 +52402,25 @@
         "download_sec": 40.4,
         "upload_sec": 67.4
       }
+    },
+    {
+      "cr_film_id": 31449,
+      "cr_slug": "jake-paul-vs-mike-tyson",
+      "title": "Jake Paul vs. Mike Tyson",
+      "year": 2024,
+      "display_name": "Jake Paul vs. Mike Tyson (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6738ddcfd71ab",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25413791,
+      "size_bytes": 5393372374,
+      "uploaded_at": "2026-06-01T07:47:46Z",
+      "timing": {
+        "resolve_sec": 4.8,
+        "download_sec": 164.8,
+        "upload_sec": 194.7
+      }
     }
   ],
   "failed_attempts": [
@@ -53064,7 +53083,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/miki-mp4/3fc2df2a8a3a96b7",
       "permanent": true,
       "failed_at": "2026-06-01T07:16:24Z"
+    },
+    {
+      "cr_film_id": 31449,
+      "upload_id": "673b6d761b814",
+      "reason": "oversize: 18922704095 B",
+      "permanent": true,
+      "failed_at": "2026-06-01T07:41:34Z"
+    },
+    {
+      "cr_film_id": 31449,
+      "upload_id": "6738add02255b",
+      "reason": "oversize: 20682334838 B",
+      "permanent": true,
+      "failed_at": "2026-06-01T07:41:41Z"
     }
   ],
-  "last_updated": "2026-06-01T07:41:30Z"
+  "last_updated": "2026-06-01T07:47:46Z"
 }
