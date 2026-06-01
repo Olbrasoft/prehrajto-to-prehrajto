@@ -53067,6 +53067,25 @@
         "download_sec": 54.6,
         "upload_sec": 87.3
       }
+    },
+    {
+      "cr_film_id": 6805,
+      "cr_slug": "nattevagten-daemoner-gr-i-arv",
+      "title": "Nightwatch: Demons Are Forever",
+      "year": 2023,
+      "display_name": "Nightwatch: Demons Are Forever (2023)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "678a2765eeaed",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25419173,
+      "size_bytes": 1564127184,
+      "uploaded_at": "2026-06-01T09:37:29Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 182.5,
+        "upload_sec": 68.1
+      }
     }
   ],
   "failed_attempts": [
@@ -53799,7 +53818,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tancuj-matyldo-2023/5cb1352cfaeca9c2",
       "permanent": true,
       "failed_at": "2026-06-01T08:46:16Z"
+    },
+    {
+      "cr_film_id": 9483,
+      "upload_id": "119ce071484332ff",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/onemanshow-the-movie-2023-cz-mp4/119ce071484332ff",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:33:11Z"
     }
   ],
-  "last_updated": "2026-06-01T09:33:09Z"
+  "last_updated": "2026-06-01T09:37:29Z"
 }

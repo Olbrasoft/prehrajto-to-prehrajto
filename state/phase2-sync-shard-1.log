@@ -20786,3 +20786,15 @@
 [09:30:46]   resolved in 0.8s → 1080p (https://pf-storage4.premiumcdn.net/143609357/AL4umZTj2FxLsqPhzjfplT5VIn8swmcAlij…)
 [09:31:42]   downloaded 1,595.2 MB in 54.6s (29.2 MB/s)
 [09:33:09]   upload done video_id=25419063 in 87.3s
+[09:33:11] film cr_film_id=16089 OK in 145.7s
+[09:33:11] iteration 8/20
+[09:33:11] film cr_film_id=9483 name='ONEMANSHOW: The Movie (2023)' candidates=1
+[09:33:11]   candidate upload_id=119ce071484332ff url=https://prehraj.to/onemanshow-the-movie-2023-cz-mp4/119ce071484332ff
+[09:33:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/onemanshow-the-movie-2023-cz-mp4/119ce071484332ff (permanent=True)
+[09:33:11] film cr_film_id=9483 all candidates exhausted
+[09:33:11] iteration 9/20
+[09:33:11] film cr_film_id=6805 name='Nightwatch: Demons Are Forever (2023)' candidates=2
+[09:33:11]   candidate upload_id=678a2765eeaed url=https://prehraj.to/nightwatch-demons-are-forever-2023-1080p-bluray-danish-ac3-x264-cz-tit/678a2765eeaed
+[09:33:17]   resolved in 5.9s → 720p (https://pf-storage5.premiumcdn.net/127661477/gRyfdAUaJFoWSJPckvc3vUWdFb6TXBTypCJ…)
+[09:36:21]   downloaded 1,564.1 MB in 182.5s (8.6 MB/s)
+[09:37:29]   upload done video_id=25419173 in 68.1s
