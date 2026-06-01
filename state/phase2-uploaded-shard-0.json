@@ -48526,6 +48526,25 @@
         "download_sec": 29.7,
         "upload_sec": 50.2
       }
+    },
+    {
+      "cr_film_id": 28490,
+      "cr_slug": "marco-2024",
+      "title": "Marco",
+      "year": 2024,
+      "display_name": "Marco (2024) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "115035bba3544c70",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25399956,
+      "size_bytes": 2149257155,
+      "uploaded_at": "2026-06-01T00:02:25Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 67.0,
+        "upload_sec": 93.9
+      }
     }
   ],
   "failed_attempts": [
@@ -49000,5 +49019,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-05-31T23:59:41Z"
+  "last_updated": "2026-06-01T00:02:25Z"
 }
