@@ -21414,3 +21414,14 @@
 [14:24:12]   upload done video_id=25425895 in 59.2s
 [14:24:14] film cr_film_id=20106 OK in 135.2s
 [14:24:14] batch-end ok=17 failed=3 dur=3854.0s avg/film=226.7s remaining=7336 eta_hours=462.0
+
+===== run 2026-06-01T16:26:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26767736451) =====
+[16:26:59] batch-start shard=0/2 count=20 backlog=10210 uploads=2874 failed_attempts=105
+[16:26:59] login
+[16:27:01] login done
+[16:27:01] iteration 1/20
+[16:27:01] film cr_film_id=4480 name='Přišla v noci (2023)' candidates=1
+[16:27:01]   candidate upload_id=74c690361f8d2132 url=https://prehraj.to/prisla-sama-v-noci-2023-cz-mp4/74c690361f8d2132
+[16:27:05]   resolved in 4.3s → 480p (https://pf-storage3.premiumcdn.net/167232809/bvLckOS4MI50IkGHo8ULWSJMTd9HOruWZsK…)
+[16:27:25]   downloaded 348.0 MB in 18.2s (19.1 MB/s)
+[16:27:53]   upload done video_id=25428105 in 28.2s
