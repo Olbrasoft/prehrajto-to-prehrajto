@@ -52288,6 +52288,25 @@
         "download_sec": 32.0,
         "upload_sec": 43.2
       }
+    },
+    {
+      "cr_film_id": 34412,
+      "cr_slug": "mexicali",
+      "title": "Mexicali",
+      "year": 2026,
+      "display_name": "Mexicali (2026)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "1060eed301563098",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25412474,
+      "size_bytes": 2268805248,
+      "uploaded_at": "2026-06-01T06:50:59Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 98.0,
+        "upload_sec": 134.1
+      }
     }
   ],
   "failed_attempts": [
@@ -52767,7 +52786,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/national-museum-of-african-american-history-and-culture-grand-opening-ceremony-2016-en-sk-tit-mp4/aaf2770579f44278",
       "permanent": true,
       "failed_at": "2026-06-01T03:44:31Z"
+    },
+    {
+      "cr_film_id": 34426,
+      "upload_id": "fa2fa4e92f12bb27",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mimoni-a-monstra-2026-cz-4k-mov/fa2fa4e92f12bb27",
+      "permanent": true,
+      "failed_at": "2026-06-01T06:46:59Z"
     }
   ],
-  "last_updated": "2026-06-01T06:46:56Z"
+  "last_updated": "2026-06-01T06:50:59Z"
 }
