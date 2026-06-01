@@ -49647,6 +49647,25 @@
         "download_sec": 85.9,
         "upload_sec": 119.9
       }
+    },
+    {
+      "cr_film_id": 30860,
+      "cr_slug": "santa-s-little-helpers",
+      "title": "Santa's Little Helpers",
+      "year": 2019,
+      "display_name": "Santa's Little Helpers (2019) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "13155941b731dcef",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25405031,
+      "size_bytes": 90816196,
+      "uploaded_at": "2026-06-01T02:08:52Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 5.4,
+        "upload_sec": 13.0
+      }
     }
   ],
   "failed_attempts": [
@@ -50121,5 +50140,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T02:08:29Z"
+  "last_updated": "2026-06-01T02:08:52Z"
 }
