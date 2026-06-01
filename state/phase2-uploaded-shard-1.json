@@ -50084,6 +50084,25 @@
         "download_sec": 29.8,
         "upload_sec": 45.1
       }
+    },
+    {
+      "cr_film_id": 12083,
+      "cr_slug": "knights",
+      "title": "Knights",
+      "year": 1993,
+      "display_name": "Knights (1993) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5811de951157f",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25406174,
+      "size_bytes": 533733107,
+      "uploaded_at": "2026-06-01T02:45:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.7,
+        "upload_sec": 28.9
+      }
     }
   ],
   "failed_attempts": [
@@ -50622,5 +50641,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T02:44:34Z"
+  "last_updated": "2026-06-01T02:45:26Z"
 }
