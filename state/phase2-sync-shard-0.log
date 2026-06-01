@@ -20002,3 +20002,14 @@
 [04:32:54]   upload done video_id=25409119 in 42.5s
 [04:32:55] film cr_film_id=28448 OK in 74.3s
 [04:32:55] batch-end ok=20 failed=0 dur=1400.3s avg/film=70.0s remaining=7509 eta_hours=146.0
+
+===== run 2026-06-01T04:46:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26735698500) =====
+[04:46:43] batch-start shard=0/2 count=20 backlog=10210 uploads=2701 failed_attempts=66
+[04:46:43] login
+[04:46:45] login done
+[04:46:45] iteration 1/20
+[04:46:45] film cr_film_id=18374 name='Bad Johnson (2014) SK Titulky' candidates=3
+[04:46:45]   candidate upload_id=558bd2364c24d url=https://prehraj.to/bad-johnson-2014-sk-tit-komedie-koko/558bd2364c24d
+[04:46:46]   resolved in 1.1s → 720p (https://pf-storage2.premiumcdn.net/94012/4dPtL5SPdC62cXWf4oS0lSkMi4lHvwC7rSPKsDd…)
+[04:47:29]   downloaded 1,271.2 MB in 41.2s (30.9 MB/s)
+[04:48:21]   upload done video_id=25409557 in 52.6s
