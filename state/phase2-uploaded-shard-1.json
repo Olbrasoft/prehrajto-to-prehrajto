@@ -48925,6 +48925,25 @@
         "download_sec": 14.4,
         "upload_sec": 25.4
       }
+    },
+    {
+      "cr_film_id": 29483,
+      "cr_slug": "shelter-2017",
+      "title": "Shelter",
+      "year": 2017,
+      "display_name": "Shelter (2017) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "614d2a22e9e6b",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25401644,
+      "size_bytes": 443761669,
+      "uploaded_at": "2026-06-01T00:40:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.7,
+        "upload_sec": 31.1
+      }
     }
   ],
   "failed_attempts": [
@@ -49463,5 +49482,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T00:39:52Z"
+  "last_updated": "2026-06-01T00:40:50Z"
 }
