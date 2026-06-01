@@ -21842,3 +21842,14 @@
 [22:14:00]   upload done video_id=25435447 in 23.0s
 [22:14:01] film cr_film_id=31270 OK in 42.0s
 [22:14:01] batch-end ok=18 failed=2 dur=5660.6s avg/film=314.5s remaining=7283 eta_hours=636.3
+
+===== run 2026-06-01T22:14:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26785289321) =====
+[22:14:27] batch-start shard=0/2 count=20 backlog=10210 uploads=2927 failed_attempts=114
+[22:14:27] login
+[22:14:29] login done
+[22:14:29] iteration 1/20
+[22:14:29] film cr_film_id=27336 name='Slon (2022)' candidates=1
+[22:14:29]   candidate upload_id=673f40d6f0034 url=https://prehraj.to/slon-2022/673f40d6f0034
+[22:14:30]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/109678202/6y2IJvc3yfDvHNAHBwcdzcebSjKipNhJNF3…)
+[22:15:32]   downloaded 1,521.0 MB in 59.8s (25.4 MB/s)
+[22:16:41]   upload done video_id=25435477 in 69.0s
