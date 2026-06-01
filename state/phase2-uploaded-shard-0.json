@@ -54454,6 +54454,25 @@
         "download_sec": 49.3,
         "upload_sec": 60.5
       }
+    },
+    {
+      "cr_film_id": 16312,
+      "cr_slug": "toxic-daughter",
+      "title": "Toxic Daughter",
+      "year": 2023,
+      "display_name": "Toxic Daughter (2023)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "647208e73d5f6",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25425455,
+      "size_bytes": 1859027301,
+      "uploaded_at": "2026-06-01T14:01:15Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 104.4,
+        "upload_sec": 121.7
+      }
     }
   ],
   "failed_attempts": [
@@ -55192,7 +55211,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hit-man-vrah-naoko-2023-cz/4ebc2d1dce699ffc",
       "permanent": true,
       "failed_at": "2026-06-01T13:55:20Z"
+    },
+    {
+      "cr_film_id": 15908,
+      "upload_id": "a64bae6fc339e92f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/villa-lucia-hd-1080p-2023-cz-sk-mp4/a64bae6fc339e92f",
+      "permanent": true,
+      "failed_at": "2026-06-01T13:57:21Z"
     }
   ],
-  "last_updated": "2026-06-01T13:57:18Z"
+  "last_updated": "2026-06-01T14:01:15Z"
 }
