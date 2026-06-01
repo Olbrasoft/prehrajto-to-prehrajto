@@ -50312,6 +50312,25 @@
         "download_sec": 24.1,
         "upload_sec": 37.5
       }
+    },
+    {
+      "cr_film_id": 10809,
+      "cr_slug": "salvatore-giuliano",
+      "title": "Salvatore Giuliano",
+      "year": 1962,
+      "display_name": "Salvatore Giuliano (1962) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "6109c5a6d4814",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25406705,
+      "size_bytes": 2133476336,
+      "uploaded_at": "2026-06-01T03:04:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 67.3,
+        "upload_sec": 84.8
+      }
     }
   ],
   "failed_attempts": [
@@ -50850,5 +50869,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T03:02:22Z"
+  "last_updated": "2026-06-01T03:04:59Z"
 }
