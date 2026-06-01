@@ -50369,6 +50369,25 @@
         "download_sec": 18.6,
         "upload_sec": 30.0
       }
+    },
+    {
+      "cr_film_id": 21321,
+      "cr_slug": "julius-caesar-1950",
+      "title": "Julius Caesar",
+      "year": 1950,
+      "display_name": "Julius Caesar (1950) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "588e316912778",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25406804,
+      "size_bytes": 618827808,
+      "uploaded_at": "2026-06-01T03:07:55Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 21.5,
+        "upload_sec": 39.6
+      }
     }
   ],
   "failed_attempts": [
@@ -50907,5 +50926,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T03:06:50Z"
+  "last_updated": "2026-06-01T03:07:55Z"
 }
