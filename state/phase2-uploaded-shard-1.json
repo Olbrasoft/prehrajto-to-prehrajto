@@ -50540,6 +50540,25 @@
         "download_sec": 5.4,
         "upload_sec": 13.8
       }
+    },
+    {
+      "cr_film_id": 30171,
+      "cr_slug": "easy",
+      "title": "Easy",
+      "year": 2003,
+      "display_name": "Easy (2003) EN",
+      "preferred_lang_class": "EN",
+      "src_upload_id": "ca8f65326b5585a5",
+      "src_lang_class": "EN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25407150,
+      "size_bytes": 27658841,
+      "uploaded_at": "2026-06-01T03:20:28Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 3.2,
+        "upload_sec": 11.6
+      }
     }
   ],
   "failed_attempts": [
@@ -51078,5 +51097,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T03:20:09Z"
+  "last_updated": "2026-06-01T03:20:28Z"
 }
