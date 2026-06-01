@@ -52706,6 +52706,25 @@
         "download_sec": 51.2,
         "upload_sec": 78.4
       }
+    },
+    {
+      "cr_film_id": 18688,
+      "cr_slug": "summer-of-69",
+      "title": "Summer of 69",
+      "year": 2025,
+      "display_name": "Summer of 69 (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "682630ef08d61",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25414268,
+      "size_bytes": 1518092173,
+      "uploaded_at": "2026-06-01T08:03:29Z",
+      "timing": {
+        "resolve_sec": 4.3,
+        "download_sec": 56.5,
+        "upload_sec": 78.4
+      }
     }
   ],
   "failed_attempts": [
@@ -53213,7 +53232,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/twinless-2025/68e26a315e3ee",
       "permanent": true,
       "failed_at": "2026-06-01T07:48:05Z"
+    },
+    {
+      "cr_film_id": 34396,
+      "upload_id": "dd260bd6a265a703",
+      "reason": "oversize: 8964494987 B",
+      "permanent": true,
+      "failed_at": "2026-06-01T08:01:09Z"
     }
   ],
-  "last_updated": "2026-06-01T08:01:04Z"
+  "last_updated": "2026-06-01T08:03:29Z"
 }
