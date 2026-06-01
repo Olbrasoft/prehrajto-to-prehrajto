@@ -20967,3 +20967,24 @@
 [10:50:50]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/143302361/6PdiywhpRH42fgqhBJhODhM0F4gtwaHAXs9…)
 [10:51:37]   downloaded 1,246.9 MB in 45.5s (27.4 MB/s)
 [10:52:33]   upload done video_id=25420921 in 55.8s
+[10:52:35] film cr_film_id=27216 OK in 105.4s
+[10:52:35] iteration 11/20
+[10:52:35] film cr_film_id=5340 name='Zápisník alkoholičky (2024)' candidates=3
+[10:52:35]   candidate upload_id=c9847ab02c81ca03 url=https://prehraj.to/zapisnik-alkoholicky-2024-mp4-mp4/c9847ab02c81ca03
+[10:52:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zapisnik-alkoholicky-2024-mp4-mp4/c9847ab02c81ca03 (permanent=True)
+[10:52:35]   candidate upload_id=0add68b3d7d0d9d0 url=https://prehraj.to/zapisnik-alkoholicky-2024-mp4/0add68b3d7d0d9d0
+[10:52:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zapisnik-alkoholicky-2024-mp4/0add68b3d7d0d9d0 (permanent=True)
+[10:52:41]   candidate upload_id=3f223e3fb0990a67 url=https://prehraj.to/zapisnik-alkoholicky-2024/3f223e3fb0990a67
+[10:52:46]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zapisnik-alkoholicky-2024/3f223e3fb0990a67 (permanent=True)
+[10:52:46] film cr_film_id=5340 all candidates exhausted
+[10:52:46] iteration 12/20
+[10:52:46] film cr_film_id=16288 name='Zlato, uber plyn! (2024)' candidates=1
+[10:52:46]   candidate upload_id=d1b1cbb414166a66 url=https://prehraj.to/zlato-uber-plyn-l-heureuse-elue-2024-cz-mp4/d1b1cbb414166a66
+[10:52:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlato-uber-plyn-l-heureuse-elue-2024-cz-mp4/d1b1cbb414166a66 (permanent=True)
+[10:52:52] film cr_film_id=16288 all candidates exhausted
+[10:52:52] iteration 13/20
+[10:52:52] film cr_film_id=31644 name='Zkažené sestry (2024)' candidates=1
+[10:52:52]   candidate upload_id=39768b29c25f61cc url=https://prehraj.to/zkazene-sestry-lethally-blonde-2024-1080p-amzn-web-dl-ddp5-1-h-264-erbium/39768b29c25f61cc
+[10:52:58]   resolved in 5.6s → 1080p (https://pf-storage3.premiumcdn.net/162753935/5ovtXnI1ysJkuN1FayFdXI5BunNCjPFOyi2…)
+[10:54:21]   downloaded 2,379.3 MB in 81.7s (29.1 MB/s)
+[10:56:12]   upload done video_id=25420989 in 111.3s

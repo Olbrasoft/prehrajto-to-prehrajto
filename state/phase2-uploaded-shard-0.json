@@ -53618,6 +53618,25 @@
         "download_sec": 45.5,
         "upload_sec": 55.8
       }
+    },
+    {
+      "cr_film_id": 31644,
+      "cr_slug": "zkazene-sestry",
+      "title": "Zkažené sestry",
+      "year": 2024,
+      "display_name": "Zkažené sestry (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "39768b29c25f61cc",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25420989,
+      "size_bytes": 2379300483,
+      "uploaded_at": "2026-06-01T10:56:12Z",
+      "timing": {
+        "resolve_sec": 5.6,
+        "download_sec": 81.7,
+        "upload_sec": 111.3
+      }
     }
   ],
   "failed_attempts": [
@@ -54272,7 +54291,35 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avignon-2025-cz-dabing-mp4/626fe1f7e72988d8",
       "permanent": true,
       "failed_at": "2026-06-01T10:29:32Z"
+    },
+    {
+      "cr_film_id": 5340,
+      "upload_id": "c9847ab02c81ca03",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zapisnik-alkoholicky-2024-mp4-mp4/c9847ab02c81ca03",
+      "permanent": true,
+      "failed_at": "2026-06-01T10:52:35Z"
+    },
+    {
+      "cr_film_id": 5340,
+      "upload_id": "0add68b3d7d0d9d0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zapisnik-alkoholicky-2024-mp4/0add68b3d7d0d9d0",
+      "permanent": true,
+      "failed_at": "2026-06-01T10:52:41Z"
+    },
+    {
+      "cr_film_id": 5340,
+      "upload_id": "3f223e3fb0990a67",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zapisnik-alkoholicky-2024/3f223e3fb0990a67",
+      "permanent": true,
+      "failed_at": "2026-06-01T10:52:46Z"
+    },
+    {
+      "cr_film_id": 16288,
+      "upload_id": "d1b1cbb414166a66",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlato-uber-plyn-l-heureuse-elue-2024-cz-mp4/d1b1cbb414166a66",
+      "permanent": true,
+      "failed_at": "2026-06-01T10:52:52Z"
     }
   ],
-  "last_updated": "2026-06-01T10:52:33Z"
+  "last_updated": "2026-06-01T10:56:12Z"
 }
