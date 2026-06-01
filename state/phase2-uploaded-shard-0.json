@@ -49077,6 +49077,25 @@
         "download_sec": 22.0,
         "upload_sec": 35.2
       }
+    },
+    {
+      "cr_film_id": 31132,
+      "cr_slug": "spolu-nespolu",
+      "title": "Spolu nespolu",
+      "year": 2021,
+      "display_name": "Spolu nespolu (2021) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "b897c31b008a25a7",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25402782,
+      "size_bytes": 983987831,
+      "uploaded_at": "2026-06-01T01:09:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 31.9,
+        "upload_sec": 51.7
+      }
     }
   ],
   "failed_attempts": [
@@ -49551,5 +49570,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T01:08:09Z"
+  "last_updated": "2026-06-01T01:09:37Z"
 }
