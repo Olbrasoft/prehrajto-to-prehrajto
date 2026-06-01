@@ -53732,6 +53732,25 @@
         "download_sec": 129.0,
         "upload_sec": 173.5
       }
+    },
+    {
+      "cr_film_id": 8621,
+      "cr_slug": "v-plamenech",
+      "title": "V plamenech",
+      "year": 2022,
+      "display_name": "V plamenech (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6525689b04224",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25422040,
+      "size_bytes": 1511535614,
+      "uploaded_at": "2026-06-01T11:41:49Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 49.5,
+        "upload_sec": 66.7
+      }
     }
   ],
   "failed_attempts": [
@@ -54501,5 +54520,5 @@
       "failed_at": "2026-06-01T11:28:27Z"
     }
   ],
-  "last_updated": "2026-06-01T11:39:49Z"
+  "last_updated": "2026-06-01T11:41:49Z"
 }
