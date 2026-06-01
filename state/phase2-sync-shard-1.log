@@ -20589,3 +20589,14 @@
 [08:10:41]   upload done video_id=25414437 in 82.0s
 [08:10:43] film cr_film_id=16309 OK in 151.5s
 [08:10:43] batch-end ok=18 failed=2 dur=2737.3s avg/film=152.1s remaining=7441 eta_hours=314.4
+
+===== run 2026-06-01T08:11:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26743067667) =====
+[08:11:07] batch-start shard=1/2 count=20 backlog=10210 uploads=2769 failed_attempts=95
+[08:11:07] login
+[08:11:09] login done
+[08:11:09] iteration 1/20
+[08:11:09] film cr_film_id=15919 name='Decibel (2024)' candidates=2
+[08:11:09]   candidate upload_id=69026f2a0e947 url=https://prehraj.to/decibel-outdoor-2025-unresolved-bad-blood-final-reckoning-bydejv-mp4/69026f2a0e947
+[08:11:10]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/154286607/6ezfxrsQjFJeUYgsrNiZns1EtpMuG2i6RtZ…)
+[08:12:44]   downloaded 2,965.2 MB in 92.4s (32.1 MB/s)
+[08:14:49]   upload done video_id=25414525 in 125.1s
