@@ -51566,6 +51566,25 @@
         "download_sec": 59.5,
         "upload_sec": 85.6
       }
+    },
+    {
+      "cr_film_id": 3165,
+      "cr_slug": "duchon",
+      "title": "Duchoň",
+      "year": 2025,
+      "display_name": "Duchoň (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "7bd300fd6aa7f238",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25410576,
+      "size_bytes": 2139669949,
+      "uploaded_at": "2026-06-01T05:30:36Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 65.0,
+        "upload_sec": 90.9
+      }
     }
   ],
   "failed_attempts": [
@@ -52172,7 +52191,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/fackham-hall-2025-1080p-bluray-x264-titulky-cz/a46252a6ac151281",
       "permanent": true,
       "failed_at": "2026-06-01T05:27:24Z"
+    },
+    {
+      "cr_film_id": 3165,
+      "upload_id": "0703388ec70b1eac",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/duchon-mkv/0703388ec70b1eac",
+      "permanent": true,
+      "failed_at": "2026-06-01T05:27:52Z"
     }
   ],
-  "last_updated": "2026-06-01T05:27:24Z"
+  "last_updated": "2026-06-01T05:30:36Z"
 }
