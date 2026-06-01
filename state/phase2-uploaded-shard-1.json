@@ -53827,6 +53827,25 @@
         "download_sec": 95.8,
         "upload_sec": 129.8
       }
+    },
+    {
+      "cr_film_id": 17249,
+      "cr_slug": "the-siege-of-robin-hood",
+      "title": "The Siege of Robin Hood",
+      "year": 2022,
+      "display_name": "The Siege of Robin Hood (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "682884e7adc6a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25422300,
+      "size_bytes": 693882640,
+      "uploaded_at": "2026-06-01T11:52:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.0,
+        "upload_sec": 44.5
+      }
     }
   ],
   "failed_attempts": [
@@ -54617,5 +54636,5 @@
       "failed_at": "2026-06-01T11:43:06Z"
     }
   ],
-  "last_updated": "2026-06-01T11:51:38Z"
+  "last_updated": "2026-06-01T11:52:46Z"
 }
