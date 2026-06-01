@@ -51167,6 +51167,25 @@
         "download_sec": 7.2,
         "upload_sec": 15.8
       }
+    },
+    {
+      "cr_film_id": 34165,
+      "cr_slug": "polarized",
+      "title": "Polarized",
+      "year": 2025,
+      "display_name": "Polarized (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "66cc30be21364",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25409238,
+      "size_bytes": 1269448225,
+      "uploaded_at": "2026-06-01T04:37:35Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 41.1,
+        "upload_sec": 61.5
+      }
     }
   ],
   "failed_attempts": [
@@ -51726,5 +51745,5 @@
       "failed_at": "2026-06-01T03:50:16Z"
     }
   ],
-  "last_updated": "2026-06-01T04:35:50Z"
+  "last_updated": "2026-06-01T04:37:35Z"
 }
