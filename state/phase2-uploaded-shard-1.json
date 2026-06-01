@@ -53105,6 +53105,25 @@
         "download_sec": 65.5,
         "upload_sec": 74.5
       }
+    },
+    {
+      "cr_film_id": 15053,
+      "cr_slug": "maria-montessori",
+      "title": "Maria Montessori",
+      "year": 2023,
+      "display_name": "Maria Montessori (2023)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6762bd1436483",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25419289,
+      "size_bytes": 2269156766,
+      "uploaded_at": "2026-06-01T09:42:31Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 64.9,
+        "upload_sec": 88.4
+      }
     }
   ],
   "failed_attempts": [
@@ -53846,5 +53865,5 @@
       "failed_at": "2026-06-01T09:33:11Z"
     }
   ],
-  "last_updated": "2026-06-01T09:39:54Z"
+  "last_updated": "2026-06-01T09:42:31Z"
 }
