@@ -50350,6 +50350,25 @@
         "download_sec": 21.9,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 21323,
+      "cr_slug": "zapomenuti",
+      "title": "Zapomenutí",
+      "year": 1950,
+      "display_name": "Zapomenutí (1950) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "588ed37e961a0",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25406778,
+      "size_bytes": 538022648,
+      "uploaded_at": "2026-06-01T03:06:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.6,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -50888,5 +50907,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T03:05:58Z"
+  "last_updated": "2026-06-01T03:06:50Z"
 }
