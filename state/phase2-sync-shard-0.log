@@ -18982,3 +18982,14 @@
 [00:13:03]   upload done video_id=25400416 in 49.8s
 [00:13:05] film cr_film_id=27302 OK in 82.9s
 [00:13:05] batch-end ok=20 failed=0 dur=2198.0s avg/film=109.9s remaining=7648 eta_hours=233.5
+
+===== run 2026-06-01T00:13:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26728564379) =====
+[00:13:31] batch-start shard=0/2 count=20 backlog=10210 uploads=2562 failed_attempts=65
+[00:13:31] login
+[00:13:33] login done
+[00:13:33] iteration 1/20
+[00:13:33] film cr_film_id=9026 name='Jackdaw (2023) SK Titulky' candidates=5
+[00:13:33]   candidate upload_id=6678eb8077071 url=https://prehraj.to/jackdaw-2023-sktit-1080p/6678eb8077071
+[00:13:34]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/80272799/mPNcaLSXMIRyigESYBC6KSJBfxXs5nTjAiq1…)
+[00:14:49]   downloaded 1,557.9 MB in 72.8s (21.4 MB/s)
+[00:16:38]   upload done video_id=25400527 in 108.6s
