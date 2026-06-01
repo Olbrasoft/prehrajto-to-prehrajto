@@ -21556,3 +21556,14 @@
 [17:55:58]   upload done video_id=25430374 in 80.2s
 [17:56:00] film cr_film_id=4466 OK in 145.0s
 [17:56:00] batch-end ok=18 failed=2 dur=5339.4s avg/film=296.6s remaining=7318 eta_hours=602.9
+
+===== run 2026-06-01T17:56:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26772272214) =====
+[17:56:39] batch-start shard=0/2 count=20 backlog=10210 uploads=2892 failed_attempts=107
+[17:56:39] login
+[17:56:42] login done
+[17:56:42] iteration 1/20
+[17:56:42] film cr_film_id=8166 name="Devil's Peak (2023)" candidates=1
+[17:56:42]   candidate upload_id=6337f9f51c8fd url=https://prehraj.to/devil-s-workshop-2022/6337f9f51c8fd
+[17:56:46]   resolved in 3.9s → 720p (https://pf-storage1.premiumcdn.net/33549952/xjzuPvFGEI5Jtn0iG2iGAFDYfWdu2rS8qhde…)
+[17:58:15]   downloaded 635.9 MB in 86.6s (7.3 MB/s)
+[17:59:07]   upload done video_id=25430466 in 52.0s
