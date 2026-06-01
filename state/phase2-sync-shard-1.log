@@ -21075,3 +21075,17 @@
 [11:39:52]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/47854157/XlVIj5sAjHJMh3MFM9iMms7EIN3S4NCyZc51…)
 [11:40:43]   downloaded 1,511.5 MB in 49.5s (30.5 MB/s)
 [11:41:49]   upload done video_id=25422040 in 66.7s
+[11:41:51] film cr_film_id=8621 OK in 119.9s
+[11:41:51] iteration 9/20
+[11:41:51] film cr_film_id=10339 name='V létě ti řeknu, jak se mám (2022)' candidates=2
+[11:41:51]   candidate upload_id=049c58ff7c0ebf1c url=https://prehraj.to/v-lete-ti-reknu-jak-se-mam-2022-cz/049c58ff7c0ebf1c
+[11:41:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/v-lete-ti-reknu-jak-se-mam-2022-cz/049c58ff7c0ebf1c (permanent=True)
+[11:41:52]   candidate upload_id=23dfd4a8a83ea673 url=https://prehraj.to/v-lete-ti-reknu-jak-se-mam-2022/23dfd4a8a83ea673
+[11:41:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/v-lete-ti-reknu-jak-se-mam-2022/23dfd4a8a83ea673 (permanent=True)
+[11:41:57] film cr_film_id=10339 all candidates exhausted
+[11:41:57] iteration 10/20
+[11:41:57] film cr_film_id=3261 name='Tři tisíce let touhy (2022)' candidates=1
+[11:41:57]   candidate upload_id=644e21c355525 url=https://prehraj.to/tri-tisice-let-touzby-2022-480p-bluray-cz/644e21c355525
+[11:42:03]   resolved in 5.8s → 480p (https://pf-storage1.premiumcdn.net/40002610/aEZTzZf2rf7KsvZHGPHXdf6oi02IXEHAZCYl…)
+[11:42:24]   downloaded 547.3 MB in 19.5s (28.1 MB/s)
+[11:43:04]   upload done video_id=25422067 in 40.1s
