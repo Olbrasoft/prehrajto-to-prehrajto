@@ -53181,6 +53181,25 @@
         "download_sec": 85.6,
         "upload_sec": 130.8
       }
+    },
+    {
+      "cr_film_id": 7193,
+      "cr_slug": "krakenteena-ruby",
+      "title": "Krakenteena Ruby",
+      "year": 2023,
+      "display_name": "Krakenteena Ruby (2023)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6598186d3f3f7",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25419698,
+      "size_bytes": 2480759787,
+      "uploaded_at": "2026-06-01T10:01:01Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 69.7,
+        "upload_sec": 122.7
+      }
     }
   ],
   "failed_attempts": [
@@ -53920,7 +53939,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/onemanshow-the-movie-2023-cz-mp4/119ce071484332ff",
       "permanent": true,
       "failed_at": "2026-06-01T09:33:11Z"
+    },
+    {
+      "cr_film_id": 10363,
+      "upload_id": "f13f8f6a7ff20df3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krvavy-johann-2023-cz/f13f8f6a7ff20df3",
+      "permanent": true,
+      "failed_at": "2026-06-01T09:57:40Z"
     }
   ],
-  "last_updated": "2026-06-01T09:57:38Z"
+  "last_updated": "2026-06-01T10:01:01Z"
 }
