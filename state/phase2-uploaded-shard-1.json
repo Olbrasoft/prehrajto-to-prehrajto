@@ -49381,6 +49381,25 @@
         "download_sec": 16.9,
         "upload_sec": 30.2
       }
+    },
+    {
+      "cr_film_id": 29107,
+      "cr_slug": "staying-alive",
+      "title": "Staying Alive",
+      "year": 2015,
+      "display_name": "Staying Alive (2015) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "6027120297d37",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25403807,
+      "size_bytes": 990825850,
+      "uploaded_at": "2026-06-01T01:36:17Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 39.3,
+        "upload_sec": 57.6
+      }
     }
   ],
   "failed_attempts": [
@@ -49919,5 +49938,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T01:34:36Z"
+  "last_updated": "2026-06-01T01:36:17Z"
 }
