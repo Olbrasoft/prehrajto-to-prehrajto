@@ -21577,3 +21577,14 @@
 [17:04:32]   upload done video_id=25428925 in 126.0s
 [17:04:35] film cr_film_id=27023 OK in 208.2s
 [17:04:35] batch-end ok=15 failed=5 dur=2256.9s avg/film=150.5s remaining=7323 eta_hours=306.1
+
+===== run 2026-06-01T17:56:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26772272214) =====
+[17:56:32] batch-start shard=1/2 count=20 backlog=10210 uploads=2887 failed_attempts=121
+[17:56:32] login
+[17:56:34] login done
+[17:56:34] iteration 1/20
+[17:56:34] film cr_film_id=5441 name='Všichni svatí mafie (2021)' candidates=1
+[17:56:34]   candidate upload_id=618a5cec6ded7 url=https://prehraj.to/vsichni-svati-mafie-the-many-saints-of-newark-2021-cz/618a5cec6ded7
+[17:56:35]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/26324419/4n3cEpUbdS4khK8UZXCBeUegSEgIjbSpridr…)
+[17:57:54]   downloaded 1,697.9 MB in 77.0s (22.1 MB/s)
+[17:59:41]   upload done video_id=25430456 in 106.2s
