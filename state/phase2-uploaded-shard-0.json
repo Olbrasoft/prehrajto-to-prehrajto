@@ -53561,6 +53561,25 @@
         "download_sec": 79.3,
         "upload_sec": 125.0
       }
+    },
+    {
+      "cr_film_id": 4014,
+      "cr_slug": "amater",
+      "title": "Amatér",
+      "year": 2025,
+      "display_name": "Amatér (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "2039090bbb7b730b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25420609,
+      "size_bytes": 1805037087,
+      "uploaded_at": "2026-06-01T10:35:41Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 51.6,
+        "upload_sec": 101.9
+      }
     }
   ],
   "failed_attempts": [
@@ -54217,5 +54236,5 @@
       "failed_at": "2026-06-01T10:29:32Z"
     }
   ],
-  "last_updated": "2026-06-01T10:33:04Z"
+  "last_updated": "2026-06-01T10:35:41Z"
 }
