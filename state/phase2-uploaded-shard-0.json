@@ -49115,6 +49115,25 @@
         "download_sec": 44.9,
         "upload_sec": 65.5
       }
+    },
+    {
+      "cr_film_id": 7270,
+      "cr_slug": "son",
+      "title": "Son",
+      "year": 2021,
+      "display_name": "Son (2021) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "604a67b760ae1",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25402922,
+      "size_bytes": 1496261648,
+      "uploaded_at": "2026-06-01T01:13:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 47.6,
+        "upload_sec": 65.8
+      }
     }
   ],
   "failed_attempts": [
@@ -49589,5 +49608,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T01:11:32Z"
+  "last_updated": "2026-06-01T01:13:29Z"
 }
