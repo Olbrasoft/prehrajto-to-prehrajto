@@ -50977,6 +50977,25 @@
         "download_sec": 52.1,
         "upload_sec": 89.5
       }
+    },
+    {
+      "cr_film_id": 34377,
+      "cr_slug": "film-2025",
+      "title": "전지적 독자 시점",
+      "year": 2025,
+      "display_name": "전지적 독자 시점 (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "f4ac39f3a291127f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25408737,
+      "size_bytes": 2609731324,
+      "uploaded_at": "2026-06-01T04:20:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 105.4,
+        "upload_sec": 121.6
+      }
     }
   ],
   "failed_attempts": [
@@ -51536,5 +51555,5 @@
       "failed_at": "2026-06-01T03:50:16Z"
     }
   ],
-  "last_updated": "2026-06-01T04:16:30Z"
+  "last_updated": "2026-06-01T04:20:21Z"
 }
