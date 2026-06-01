@@ -50730,6 +50730,25 @@
         "download_sec": 12.4,
         "upload_sec": 25.0
       }
+    },
+    {
+      "cr_film_id": 6386,
+      "cr_slug": "moje-tlusta-recka-svatba-2",
+      "title": "Moje tlustá řecká svatba 2",
+      "year": 2016,
+      "display_name": "Moje tlustá řecká svatba 2 (2016) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "586c3b95c367a",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25407797,
+      "size_bytes": 1519868678,
+      "uploaded_at": "2026-06-01T03:46:28Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 48.8,
+        "upload_sec": 60.5
+      }
     }
   ],
   "failed_attempts": [
@@ -51202,7 +51221,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rosario-prokleti-2025-sk-titulky-v-obraze/68557cd4d2081",
       "permanent": true,
       "failed_at": "2026-05-31T23:17:19Z"
+    },
+    {
+      "cr_film_id": 30800,
+      "upload_id": "aaf2770579f44278",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/national-museum-of-african-american-history-and-culture-grand-opening-ceremony-2016-en-sk-tit-mp4/aaf2770579f44278",
+      "permanent": true,
+      "failed_at": "2026-06-01T03:44:31Z"
     }
   ],
-  "last_updated": "2026-06-01T03:44:29Z"
+  "last_updated": "2026-06-01T03:46:28Z"
 }
