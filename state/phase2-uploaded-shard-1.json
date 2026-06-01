@@ -49115,6 +49115,25 @@
         "download_sec": 21.4,
         "upload_sec": 38.8
       }
+    },
+    {
+      "cr_film_id": 4639,
+      "cr_slug": "ghost-stories",
+      "title": "Ghost Stories",
+      "year": 2017,
+      "display_name": "Ghost Stories (2017) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5bde7353f031d",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25402983,
+      "size_bytes": 1046169478,
+      "uploaded_at": "2026-06-01T01:14:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 42.6,
+        "upload_sec": 54.8
+      }
     }
   ],
   "failed_attempts": [
@@ -49653,5 +49672,5 @@
       "failed_at": "2026-05-31T20:53:57Z"
     }
   ],
-  "last_updated": "2026-06-01T01:12:59Z"
+  "last_updated": "2026-06-01T01:14:40Z"
 }
