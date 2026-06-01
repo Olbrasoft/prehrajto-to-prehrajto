@@ -21440,3 +21440,20 @@
 [16:26:24]   upload done video_id=25428081 in 26.8s
 [16:26:26] film cr_film_id=36879 OK in 49.9s
 [16:26:26] batch-end ok=19 failed=1 dur=11185.1s avg/film=588.7s remaining=7338 eta_hours=1200.0
+
+===== run 2026-06-01T16:26:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26767736451) =====
+[16:26:56] batch-start shard=1/2 count=20 backlog=10210 uploads=2872 failed_attempts=116
+[16:26:56] login
+[16:26:58] login done
+[16:26:58] iteration 1/20
+[16:26:58] film cr_film_id=8883 name='Christmas Bloody Christmas (2022)' candidates=1
+[16:26:58]   candidate upload_id=6396e37cc68b7 url=https://prehraj.to/christmas-bloody-christmas-2022-1080p-web-h264-sk-sub/6396e37cc68b7
+[16:26:59]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/35464144/YVZUmyTGVhNmcwbHZyiReTXPHn6SxdiDpcK6…)
+[16:27:00]   oversize: 7170465037 B > 6000000000 B, skip
+[16:27:00] film cr_film_id=8883 all candidates exhausted
+[16:27:00] iteration 2/20
+[16:27:00] film cr_film_id=1311 name='Bullet Train (2022)' candidates=3
+[16:27:00]   candidate upload_id=367c031f7aaac6fc url=https://prehraj.to/bullet-train-2022-cz/367c031f7aaac6fc
+[16:27:05]   resolved in 4.5s → 480p (https://pf-storage1.premiumcdn.net/170269616/grjcjLhJoFqNugKhG9f1bhZXI76UnWi6gFp…)
+[16:27:25]   downloaded 600.9 MB in 18.3s (32.8 MB/s)
+[16:28:04]   upload done video_id=25428104 in 39.2s
