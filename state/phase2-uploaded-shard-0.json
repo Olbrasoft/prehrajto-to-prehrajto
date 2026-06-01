@@ -50274,6 +50274,25 @@
         "download_sec": 23.3,
         "upload_sec": 38.1
       }
+    },
+    {
+      "cr_film_id": 30502,
+      "cr_slug": "super-dark-times",
+      "title": "Super Dark Times",
+      "year": 2017,
+      "display_name": "Super Dark Times (2017) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5a3e8dae9ca4c",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25406680,
+      "size_bytes": 731033557,
+      "uploaded_at": "2026-06-01T03:03:31Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 37.6,
+        "upload_sec": 49.3
+      }
     }
   ],
   "failed_attempts": [
@@ -50748,5 +50767,5 @@
       "failed_at": "2026-05-31T23:17:19Z"
     }
   ],
-  "last_updated": "2026-06-01T03:01:59Z"
+  "last_updated": "2026-06-01T03:03:31Z"
 }
