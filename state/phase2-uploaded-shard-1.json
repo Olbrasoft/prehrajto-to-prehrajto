@@ -57665,6 +57665,25 @@
         "download_sec": 48.7,
         "upload_sec": 60.0
       }
+    },
+    {
+      "cr_film_id": 29413,
+      "cr_slug": "genesis-code",
+      "title": "Genesis Code",
+      "year": 2020,
+      "display_name": "Genesis Code (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "605f126d78776",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25441017,
+      "size_bytes": 999763734,
+      "uploaded_at": "2026-06-02T04:23:44Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 35.0,
+        "upload_sec": 45.1
+      }
     }
   ],
   "failed_attempts": [
@@ -58652,5 +58671,5 @@
       "failed_at": "2026-06-02T04:04:50Z"
     }
   ],
-  "last_updated": "2026-06-02T04:22:20Z"
+  "last_updated": "2026-06-02T04:23:44Z"
 }
