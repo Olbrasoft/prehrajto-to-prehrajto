@@ -24737,3 +24737,14 @@
 [17:56:41]   upload done video_id=25454150 in 47.0s
 [17:56:43] film cr_film_id=5556 OK in 90.7s
 [17:56:43] batch-end ok=20 failed=0 dur=4383.5s avg/film=219.2s remaining=6906 eta_hours=420.5
+
+===== run 2026-06-02T17:57:17Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26838208585) =====
+[17:57:18] batch-start shard=0/2 count=20 backlog=10210 uploads=3304 failed_attempts=145
+[17:57:18] login
+[17:57:19] login done
+[17:57:19] iteration 1/20
+[17:57:19] film cr_film_id=8524 name='Car a Matilda (2017)' candidates=1
+[17:57:19]   candidate upload_id=5ad92a311e373 url=https://prehraj.to/matilda-2017/5ad92a311e373
+[17:57:20]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3906213/55MslKfVGF0oirQtWYIPvfGeCKguxVsl6tJZF…)
+[18:00:53]   downloaded 1,057.6 MB in 211.3s (5.0 MB/s)
+[18:01:48]   upload done video_id=25454219 in 55.5s
