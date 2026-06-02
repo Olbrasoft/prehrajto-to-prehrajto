@@ -58197,6 +58197,25 @@
         "download_sec": 65.9,
         "upload_sec": 78.6
       }
+    },
+    {
+      "cr_film_id": 14225,
+      "cr_slug": "the-twisted-nanny",
+      "title": "The Twisted Nanny",
+      "year": 2019,
+      "display_name": "The Twisted Nanny (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68d961e605803",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25441859,
+      "size_bytes": 1905904012,
+      "uploaded_at": "2026-06-02T05:52:38Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 68.3,
+        "upload_sec": 84.3
+      }
     }
   ],
   "failed_attempts": [
@@ -59191,5 +59210,5 @@
       "failed_at": "2026-06-02T04:38:55Z"
     }
   ],
-  "last_updated": "2026-06-02T05:50:01Z"
+  "last_updated": "2026-06-02T05:52:38Z"
 }
