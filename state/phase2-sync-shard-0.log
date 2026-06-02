@@ -24445,3 +24445,14 @@
 [15:50:03]   upload done video_id=25452143 in 35.5s
 [15:50:05] film cr_film_id=16662 OK in 66.0s
 [15:50:05] batch-end ok=20 failed=0 dur=3020.0s avg/film=151.0s remaining=6946 eta_hours=291.3
+
+===== run 2026-06-02T15:50:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26831353859) =====
+[15:50:37] batch-start shard=0/2 count=20 backlog=10210 uploads=3264 failed_attempts=145
+[15:50:37] login
+[15:50:38] login done
+[15:50:38] iteration 1/20
+[15:50:38] film cr_film_id=16518 name='Ostrovní přízraky (2017)' candidates=1
+[15:50:38]   candidate upload_id=5dd2ec6ef2a0b url=https://prehraj.to/grey-lady-krimi-thriller-2017-1080p-sk-56-sten-ok/5dd2ec6ef2a0b
+[15:50:39]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/15292897/rbwfk8FnvhEghyEs5QSqeF2zsAKh2MsOecgO…)
+[15:51:35]   downloaded 1,587.2 MB in 54.4s (29.2 MB/s)
+[15:52:46]   upload done video_id=25452167 in 70.8s
