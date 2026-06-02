@@ -25029,3 +25029,14 @@
 [20:45:25]   upload done video_id=25456189 in 43.3s
 [20:45:27] film cr_film_id=20488 OK in 82.2s
 [20:45:27] batch-end ok=20 failed=0 dur=2315.3s avg/film=115.8s remaining=6866 eta_hours=220.9
+
+===== run 2026-06-02T20:59:05Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26847664212) =====
+[20:59:06] batch-start shard=0/2 count=20 backlog=10210 uploads=3344 failed_attempts=145
+[20:59:06] login
+[20:59:09] login done
+[20:59:09] iteration 1/20
+[20:59:09] film cr_film_id=6596 name='Radin! (2016)' candidates=2
+[20:59:09]   candidate upload_id=0c1185a1258f86bd url=https://prehraj.to/radin-2020-hd-cz-mp4/0c1185a1258f86bd
+[20:59:12]   resolved in 3.2s → 480p (https://pf-storage6.premiumcdn.net/169175779/NwKuNBsqvHyDcNBSY3fAPse8FDqCqKcRKtK…)
+[20:59:35]   downloaded 546.6 MB in 20.7s (26.4 MB/s)
+[21:00:04]   upload done video_id=25456564 in 29.3s
