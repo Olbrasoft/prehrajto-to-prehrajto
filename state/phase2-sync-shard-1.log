@@ -24635,3 +24635,14 @@
 [16:43:03]   upload done video_id=25452887 in 45.7s
 [16:43:05] film cr_film_id=29337 OK in 95.3s
 [16:43:05] batch-end ok=20 failed=0 dur=3145.3s avg/film=157.3s remaining=6916 eta_hours=302.2
+
+===== run 2026-06-02T16:43:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26834285947) =====
+[16:43:40] batch-start shard=1/2 count=20 backlog=10210 uploads=3294 failed_attempts=141
+[16:43:40] login
+[16:43:42] login done
+[16:43:42] iteration 1/20
+[16:43:42] film cr_film_id=20425 name='Rocky Handsome (2016)' candidates=1
+[16:43:42]   candidate upload_id=5c0d82acbf6ec url=https://prehraj.to/rocky-handsome-2016/5c0d82acbf6ec
+[16:43:43]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/9315509/664F2kiwxSWzUM1f2VFv9iL4SmeUO9sXdHmVS…)
+[16:45:00]   downloaded 1,448.0 MB in 74.4s (19.5 MB/s)
+[16:46:28]   upload done video_id=25452922 in 88.1s
