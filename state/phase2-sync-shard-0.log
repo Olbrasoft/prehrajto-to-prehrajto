@@ -23002,3 +23002,14 @@
 [06:48:13]   upload done video_id=25442469 in 134.1s
 [06:48:14] film cr_film_id=14544 OK in 256.6s
 [06:48:14] batch-end ok=19 failed=1 dur=4113.4s avg/film=216.5s remaining=7134 eta_hours=429.0
+
+===== run 2026-06-02T06:48:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26803440479) =====
+[06:48:45] batch-start shard=0/2 count=20 backlog=10210 uploads=3076 failed_attempts=132
+[06:48:45] login
+[06:48:47] login done
+[06:48:47] iteration 1/20
+[06:48:47] film cr_film_id=17260 name='Vztah ve třech (2020)' candidates=1
+[06:48:47]   candidate upload_id=61263811d3569 url=https://prehraj.to/first-love-2021-japanese-1080p-bluray-x264-dts-ikiw/61263811d3569
+[06:48:48]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/24703793/DX6sWJCObh2ZF9KTkbF6oC9vToJsQMukPT6m…)
+[06:50:03]   downloaded 1,296.9 MB in 72.4s (17.9 MB/s)
+[06:51:24]   upload done video_id=25442510 in 81.1s
