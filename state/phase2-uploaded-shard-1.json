@@ -58349,6 +58349,25 @@
         "download_sec": 55.4,
         "upload_sec": 66.3
       }
+    },
+    {
+      "cr_film_id": 30951,
+      "cr_slug": "skutok-sa-stal",
+      "title": "Skutok sa stal",
+      "year": 2019,
+      "display_name": "Skutok sa stal (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5f7abc3a9e01b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25442053,
+      "size_bytes": 482343367,
+      "uploaded_at": "2026-06-02T06:07:33Z",
+      "timing": {
+        "resolve_sec": 4.9,
+        "download_sec": 18.8,
+        "upload_sec": 26.4
+      }
     }
   ],
   "failed_attempts": [
@@ -59341,7 +59360,21 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/crater-2020-cz-dabing-mp4/d53f050ed28e0efc",
       "permanent": true,
       "failed_at": "2026-06-02T04:38:55Z"
+    },
+    {
+      "cr_film_id": 35561,
+      "upload_id": "603e9fdc22db9",
+      "reason": "oversize: 7416465454 B",
+      "permanent": true,
+      "failed_at": "2026-06-02T06:06:36Z"
+    },
+    {
+      "cr_film_id": 35561,
+      "upload_id": "5fe90dd474f07",
+      "reason": "oversize: 7512238654 B",
+      "permanent": true,
+      "failed_at": "2026-06-02T06:06:42Z"
     }
   ],
-  "last_updated": "2026-06-02T06:06:32Z"
+  "last_updated": "2026-06-02T06:07:33Z"
 }
