@@ -57798,6 +57798,25 @@
         "download_sec": 46.9,
         "upload_sec": 56.6
       }
+    },
+    {
+      "cr_film_id": 29555,
+      "cr_slug": "coven",
+      "title": "Coven",
+      "year": 2020,
+      "display_name": "Coven (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "604f3842ade51",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25441197,
+      "size_bytes": 1812214541,
+      "uploaded_at": "2026-06-02T04:42:05Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 87.2,
+        "upload_sec": 94.4
+      }
     }
   ],
   "failed_attempts": [
@@ -58783,7 +58802,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mala-rybka-2020-cz-dabing-mp4/25c0dcc3b9cb4587",
       "permanent": true,
       "failed_at": "2026-06-02T04:04:50Z"
+    },
+    {
+      "cr_film_id": 16053,
+      "upload_id": "d53f050ed28e0efc",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/crater-2020-cz-dabing-mp4/d53f050ed28e0efc",
+      "permanent": true,
+      "failed_at": "2026-06-02T04:38:55Z"
     }
   ],
-  "last_updated": "2026-06-02T04:38:51Z"
+  "last_updated": "2026-06-02T04:42:05Z"
 }
