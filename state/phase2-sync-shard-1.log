@@ -23614,3 +23614,14 @@
 [10:44:19]   upload done video_id=25445172 in 88.3s
 [10:44:21] film cr_film_id=30719 OK in 170.8s
 [10:44:21] batch-end ok=20 failed=0 dur=3615.9s avg/film=180.8s remaining=7055 eta_hours=354.3
+
+===== run 2026-06-02T10:44:47Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26814670832) =====
+[10:44:48] batch-start shard=1/2 count=20 backlog=10210 uploads=3155 failed_attempts=140
+[10:44:48] login
+[10:44:50] login done
+[10:44:50] iteration 1/20
+[10:44:50] film cr_film_id=29605 name='Paltan (2018)' candidates=1
+[10:44:50]   candidate upload_id=5c74ed9c5b667 url=https://prehraj.to/paltan-2018-sk-tit-vloz/5c74ed9c5b667
+[10:44:51]   resolved in 1.7s → 720p (https://pf-storage1.premiumcdn.net/12169048/EGOs9Xi9jul0hOxIRAhn8iaxCv0Hg3Um6Uwz…)
+[10:46:50]   downloaded 2,192.1 MB in 115.8s (18.9 MB/s)
+[10:48:59]   upload done video_id=25445211 in 129.1s

@@ -59945,6 +59945,25 @@
         "download_sec": 77.4,
         "upload_sec": 88.3
       }
+    },
+    {
+      "cr_film_id": 29605,
+      "cr_slug": "paltan",
+      "title": "Paltan",
+      "year": 2018,
+      "display_name": "Paltan (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c74ed9c5b667",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25445211,
+      "size_bytes": 2192070329,
+      "uploaded_at": "2026-06-02T10:48:59Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 115.8,
+        "upload_sec": 129.1
+      }
     }
   ],
   "failed_attempts": [
@@ -60967,5 +60986,5 @@
       "failed_at": "2026-06-02T08:58:41Z"
     }
   ],
-  "last_updated": "2026-06-02T10:44:19Z"
+  "last_updated": "2026-06-02T10:48:59Z"
 }
