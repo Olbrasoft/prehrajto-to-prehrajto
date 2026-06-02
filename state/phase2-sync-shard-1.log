@@ -22742,3 +22742,14 @@
 [04:30:15]   upload done video_id=25441083 in 69.4s
 [04:30:17] film cr_film_id=14479 OK in 124.4s
 [04:30:17] batch-end ok=19 failed=1 dur=2249.2s avg/film=118.4s remaining=7171 eta_hours=235.8
+
+===== run 2026-06-02T04:32:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26798543481) =====
+[04:32:43] batch-start shard=1/2 count=20 backlog=10210 uploads=3039 failed_attempts=135
+[04:32:43] login
+[04:32:45] login done
+[04:32:45] iteration 1/20
+[04:32:45] film cr_film_id=26643 name='Elephant (2020)' candidates=1
+[04:32:45]   candidate upload_id=5ec1047db5cca url=https://prehraj.to/elephant-2020/5ec1047db5cca
+[04:32:46]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/16565454/d18FPEiw4Ia4IK2idjH9PijAczwH9OSo0H75…)
+[04:34:29]   downloaded 1,915.1 MB in 100.6s (19.0 MB/s)
+[04:36:10]   upload done video_id=25441131 in 100.9s
