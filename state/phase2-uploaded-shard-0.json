@@ -57684,6 +57684,25 @@
         "download_sec": 47.0,
         "upload_sec": 55.5
       }
+    },
+    {
+      "cr_film_id": 33704,
+      "cr_slug": "hotel-coppelia",
+      "title": "Hotel Coppelia",
+      "year": 2021,
+      "display_name": "Hotel Coppelia (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "606aacbd213dd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25441059,
+      "size_bytes": 2006281637,
+      "uploaded_at": "2026-06-02T04:28:22Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 80.2,
+        "upload_sec": 93.1
+      }
     }
   ],
   "failed_attempts": [
@@ -58606,5 +58625,5 @@
       "failed_at": "2026-06-02T04:16:36Z"
     }
   ],
-  "last_updated": "2026-06-02T04:25:24Z"
+  "last_updated": "2026-06-02T04:28:22Z"
 }
