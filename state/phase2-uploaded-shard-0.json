@@ -58178,6 +58178,25 @@
         "download_sec": 85.3,
         "upload_sec": 104.6
       }
+    },
+    {
+      "cr_film_id": 27042,
+      "cr_slug": "apache-junction",
+      "title": "Apache Junction",
+      "year": 2021,
+      "display_name": "Apache Junction (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "614e24aee27f3",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25441956,
+      "size_bytes": 2045578271,
+      "uploaded_at": "2026-06-02T06:01:20Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 111.2,
+        "upload_sec": 121.1
+      }
     }
   ],
   "failed_attempts": [
@@ -59114,5 +59133,5 @@
       "failed_at": "2026-06-02T05:12:12Z"
     }
   ],
-  "last_updated": "2026-06-02T05:57:23Z"
+  "last_updated": "2026-06-02T06:01:20Z"
 }
