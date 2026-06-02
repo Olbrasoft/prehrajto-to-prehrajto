@@ -22164,3 +22164,14 @@
 [00:36:22]   upload done video_id=25437572 in 125.5s
 [00:36:23] film cr_film_id=35415 OK in 239.8s
 [00:36:23] batch-end ok=18 failed=2 dur=4723.6s avg/film=262.4s remaining=7248 eta_hours=528.3
+
+===== run 2026-06-02T00:36:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26790924106) =====
+[00:36:48] batch-start shard=1/2 count=20 backlog=10210 uploads=2962 failed_attempts=132
+[00:36:48] login
+[00:36:50] login done
+[00:36:50] iteration 1/20
+[00:36:50] film cr_film_id=15151 name='Ein Sommer in Istrien (2021)' candidates=1
+[00:36:50]   candidate upload_id=68b0d5df920e9 url=https://prehraj.to/ein-sommer-in-istrien-2021-sk/68b0d5df920e9
+[00:36:51]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/144823881/oXPfvRiPMsRGcVqu3atAgiP6FE0HG4hd5hg…)
+[00:38:45]   downloaded 2,812.6 MB in 111.9s (25.1 MB/s)
+[00:40:54]   upload done video_id=25437624 in 129.3s
