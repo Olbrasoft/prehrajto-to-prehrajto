@@ -57665,6 +57665,25 @@
         "download_sec": 55.6,
         "upload_sec": 80.2
       }
+    },
+    {
+      "cr_film_id": 33708,
+      "cr_slug": "howl-2021",
+      "title": "Howl",
+      "year": 2021,
+      "display_name": "Howl (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "606da90edbb74",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25441037,
+      "size_bytes": 1139367422,
+      "uploaded_at": "2026-06-02T04:25:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 47.0,
+        "upload_sec": 55.5
+      }
     }
   ],
   "failed_attempts": [
@@ -58587,5 +58606,5 @@
       "failed_at": "2026-06-02T04:16:36Z"
     }
   ],
-  "last_updated": "2026-06-02T04:23:37Z"
+  "last_updated": "2026-06-02T04:25:24Z"
 }
