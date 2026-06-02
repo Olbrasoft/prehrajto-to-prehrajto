@@ -60838,6 +60838,25 @@
         "download_sec": 29.9,
         "upload_sec": 39.6
       }
+    },
+    {
+      "cr_film_id": 33346,
+      "cr_slug": "raid",
+      "title": "Raid",
+      "year": 2018,
+      "display_name": "Raid (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5bef7939c6112",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25447473,
+      "size_bytes": 2318011581,
+      "uploaded_at": "2026-06-02T13:01:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 80.8,
+        "upload_sec": 111.0
+      }
     }
   ],
   "failed_attempts": [
@@ -61873,5 +61892,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T12:57:43Z"
+  "last_updated": "2026-06-02T13:01:00Z"
 }
