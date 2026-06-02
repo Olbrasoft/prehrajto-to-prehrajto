@@ -23883,3 +23883,16 @@
 [12:16:55]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3803931/ZGdtgoT7Eu6xf92I7Gf4bT4lcJaH53t6dhOPu…)
 [12:17:43]   downloaded 831.5 MB in 45.6s (18.2 MB/s)
 [12:18:36]   upload done video_id=25446611 in 53.1s
+[12:18:38] film cr_film_id=35633 OK in 104.0s
+[12:18:38] iteration 18/20
+[12:18:38] film cr_film_id=20753 name='The Midnight Man (2017)' candidates=1
+[12:18:38]   candidate upload_id=5ac0306a29dc8 url=https://prehraj.to/the-midnight-man-2017/5ac0306a29dc8
+[12:18:40]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/3799538/qGXfO0HOktq3I7qh2xfW7HlAsWvIrWs58f1xC…)
+[12:19:19]   download FAILED after 8.8s: curl exit 22: curl: (22) The requested URL returned error: 404
+[12:19:19] film cr_film_id=20753 all candidates exhausted
+[12:19:19] iteration 19/20
+[12:19:19] film cr_film_id=20875 name='The Man Who Invented Christmas (2017)' candidates=1
+[12:19:19]   candidate upload_id=5aca26ed68d45 url=https://prehraj.to/the-man-who-invented-christmas-2017/5aca26ed68d45
+[12:19:20]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/3850704/0dPfKWhXrCr8IGVCO4i4ehymIRAszpt29FMyi…)
+[12:19:59]   downloaded 699.7 MB in 36.9s (19.0 MB/s)
+[12:20:46]   upload done video_id=25446651 in 46.9s

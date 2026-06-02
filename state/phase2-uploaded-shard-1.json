@@ -60648,6 +60648,25 @@
         "download_sec": 45.6,
         "upload_sec": 53.1
       }
+    },
+    {
+      "cr_film_id": 20875,
+      "cr_slug": "the-man-who-invented-christmas",
+      "title": "The Man Who Invented Christmas",
+      "year": 2017,
+      "display_name": "The Man Who Invented Christmas (2017)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aca26ed68d45",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25446651,
+      "size_bytes": 699692958,
+      "uploaded_at": "2026-06-02T12:20:46Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 36.9,
+        "upload_sec": 46.9
+      }
     }
   ],
   "failed_attempts": [
@@ -61668,7 +61687,18 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/amundsen-2019-cz-dabing-mp4/152722a74ee08170",
       "permanent": true,
       "failed_at": "2026-06-02T08:58:41Z"
+    },
+    {
+      "cr_film_id": 20753,
+      "upload_id": "5ac0306a29dc8",
+      "reason": "download_failed: curl exit 22: curl: (22) The requested URL returned error: 404",
+      "permanent": false,
+      "failed_at": "2026-06-02T12:19:19Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 8.8
+      }
     }
   ],
-  "last_updated": "2026-06-02T12:18:36Z"
+  "last_updated": "2026-06-02T12:20:46Z"
 }
