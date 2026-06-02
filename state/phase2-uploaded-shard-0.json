@@ -61864,6 +61864,25 @@
         "download_sec": 28.0,
         "upload_sec": 36.8
       }
+    },
+    {
+      "cr_film_id": 33958,
+      "cr_slug": "rodin",
+      "title": "Rodin",
+      "year": 2017,
+      "display_name": "Rodin (2017)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6216308f065ae",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25451890,
+      "size_bytes": 1467482780,
+      "uploaded_at": "2026-06-02T15:26:43Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 60.0,
+        "upload_sec": 68.3
+      }
     }
   ],
   "failed_attempts": [
@@ -62911,5 +62930,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T15:24:30Z"
+  "last_updated": "2026-06-02T15:26:43Z"
 }
