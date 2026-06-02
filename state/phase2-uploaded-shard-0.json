@@ -61047,6 +61047,25 @@
         "download_sec": 44.3,
         "upload_sec": 64.3
       }
+    },
+    {
+      "cr_film_id": 29582,
+      "cr_slug": "mario",
+      "title": "Mario",
+      "year": 2018,
+      "display_name": "Mario (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c9e66ba9d720",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25447981,
+      "size_bytes": 1950634506,
+      "uploaded_at": "2026-06-02T13:27:04Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 104.4,
+        "upload_sec": 141.1
+      }
     }
   ],
   "failed_attempts": [
@@ -62082,5 +62101,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T13:22:53Z"
+  "last_updated": "2026-06-02T13:27:04Z"
 }
