@@ -60363,6 +60363,25 @@
         "download_sec": 53.2,
         "upload_sec": 57.5
       }
+    },
+    {
+      "cr_film_id": 17426,
+      "cr_slug": "chamboultout",
+      "title": "Chamboultout",
+      "year": 2019,
+      "display_name": "Chamboultout (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "ebd3cc80525d116b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25446365,
+      "size_bytes": 1791797149,
+      "uploaded_at": "2026-06-02T12:01:37Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 75.0,
+        "upload_sec": 80.7
+      }
     }
   ],
   "failed_attempts": [
@@ -61369,5 +61388,5 @@
       "failed_at": "2026-06-02T10:51:24Z"
     }
   ],
-  "last_updated": "2026-06-02T11:58:56Z"
+  "last_updated": "2026-06-02T12:01:37Z"
 }
