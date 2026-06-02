@@ -59774,6 +59774,25 @@
         "download_sec": 41.2,
         "upload_sec": 49.7
       }
+    },
+    {
+      "cr_film_id": 16669,
+      "cr_slug": "super-podvod",
+      "title": "Super podvod",
+      "year": 2018,
+      "display_name": "Super podvod (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5fb7a888555a8",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25444734,
+      "size_bytes": 1982564550,
+      "uploaded_at": "2026-06-02T10:15:24Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 85.8,
+        "upload_sec": 120.7
+      }
     }
   ],
   "failed_attempts": [
@@ -60796,5 +60815,5 @@
       "failed_at": "2026-06-02T08:58:41Z"
     }
   ],
-  "last_updated": "2026-06-02T10:11:53Z"
+  "last_updated": "2026-06-02T10:15:24Z"
 }
