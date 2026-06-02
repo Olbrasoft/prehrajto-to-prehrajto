@@ -61541,6 +61541,25 @@
         "download_sec": 78.9,
         "upload_sec": 100.7
       }
+    },
+    {
+      "cr_film_id": 19031,
+      "cr_slug": "happy-hunting",
+      "title": "Happy Hunting",
+      "year": 2017,
+      "display_name": "Happy Hunting (2017)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "59fcb4f764f6f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25448362,
+      "size_bytes": 618615509,
+      "uploaded_at": "2026-06-02T14:05:07Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 22.6,
+        "upload_sec": 45.2
+      }
     }
   ],
   "failed_attempts": [
@@ -62574,5 +62593,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T14:03:55Z"
+  "last_updated": "2026-06-02T14:05:07Z"
 }
