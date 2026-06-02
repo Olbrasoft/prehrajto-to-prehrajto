@@ -57133,6 +57133,25 @@
         "download_sec": 18.3,
         "upload_sec": 32.0
       }
+    },
+    {
+      "cr_film_id": 9363,
+      "cr_slug": "siberia",
+      "title": "Siberia",
+      "year": 2020,
+      "display_name": "Siberia (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "60cf4f4063cb1",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25440153,
+      "size_bytes": 1290359918,
+      "uploaded_at": "2026-06-02T03:20:48Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 47.1,
+        "upload_sec": 65.7
+      }
     }
   ],
   "failed_attempts": [
@@ -58113,5 +58132,5 @@
       "failed_at": "2026-06-02T03:17:53Z"
     }
   ],
-  "last_updated": "2026-06-02T03:18:51Z"
+  "last_updated": "2026-06-02T03:20:48Z"
 }
