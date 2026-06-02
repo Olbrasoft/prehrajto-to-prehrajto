@@ -57323,6 +57323,25 @@
         "download_sec": 48.2,
         "upload_sec": 64.4
       }
+    },
+    {
+      "cr_film_id": 8179,
+      "cr_slug": "nocni-smena-2020",
+      "title": "Noční směna",
+      "year": 2020,
+      "display_name": "Noční směna (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6093fcaf4890b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25440530,
+      "size_bytes": 2023976982,
+      "uploaded_at": "2026-06-02T03:44:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 72.4,
+        "upload_sec": 95.0
+      }
     }
   ],
   "failed_attempts": [
@@ -58303,5 +58322,5 @@
       "failed_at": "2026-06-02T03:17:53Z"
     }
   ],
-  "last_updated": "2026-06-02T03:41:52Z"
+  "last_updated": "2026-06-02T03:44:44Z"
 }
