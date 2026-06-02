@@ -62415,6 +62415,25 @@
         "download_sec": 73.4,
         "upload_sec": 87.8
       }
+    },
+    {
+      "cr_film_id": 30371,
+      "cr_slug": "sold",
+      "title": "Sold",
+      "year": 2016,
+      "display_name": "Sold (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "7e6361343d181536",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25452514,
+      "size_bytes": 198132500,
+      "uploaded_at": "2026-06-02T16:16:00Z",
+      "timing": {
+        "resolve_sec": 4.6,
+        "download_sec": 13.1,
+        "upload_sec": 22.3
+      }
     }
   ],
   "failed_attempts": [
@@ -63448,5 +63467,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T16:15:15Z"
+  "last_updated": "2026-06-02T16:16:00Z"
 }
