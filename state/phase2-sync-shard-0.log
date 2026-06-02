@@ -25467,3 +25467,14 @@
 [22:49:55]   upload done video_id=25458922 in 74.3s
 [22:49:56] film cr_film_id=28616 OK in 143.3s
 [22:49:56] batch-end ok=20 failed=0 dur=1597.8s avg/film=79.9s remaining=6806 eta_hours=151.1
+
+===== run 2026-06-02T22:53:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26852808050) =====
+[22:53:35] batch-start shard=0/2 count=20 backlog=10210 uploads=3404 failed_attempts=145
+[22:53:35] login
+[22:53:37] login done
+[22:53:37] iteration 1/20
+[22:53:37] film cr_film_id=15794 name='Tajemný mstitel (2015)' candidates=2
+[22:53:37]   candidate upload_id=5ad512af925cb url=https://prehraj.to/beyond-the-mask-2015/5ad512af925cb
+[22:53:38]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/3886090/zabIYwu5nUyVHYyuwmCANuPWSQKf8BcrMtN4c…)
+[22:54:13]   downloaded 932.1 MB in 33.4s (27.9 MB/s)
+[22:55:01]   upload done video_id=25459085 in 47.8s
