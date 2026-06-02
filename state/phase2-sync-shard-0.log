@@ -22274,3 +22274,14 @@
 [01:51:42]   upload done video_id=25438759 in 164.6s
 [01:51:44] film cr_film_id=33672 OK in 326.3s
 [01:51:44] batch-end ok=18 failed=2 dur=4491.7s avg/film=249.5s remaining=7228 eta_hours=500.9
+
+===== run 2026-06-02T01:52:08Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26793444381) =====
+[01:52:09] batch-start shard=0/2 count=20 backlog=10210 uploads=2982 failed_attempts=121
+[01:52:09] login
+[01:52:11] login done
+[01:52:11] iteration 1/20
+[01:52:11] film cr_film_id=18082 name='The Rebels of PT-218 (2021)' candidates=2
+[01:52:11]   candidate upload_id=61efc6bf519ff url=https://prehraj.to/the-rebels-of-pt-218-2021-1080p-web-dl-dd5-1-h-264-titulky-cz/61efc6bf519ff
+[01:52:12]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/28708782/ZNwFeXSOjtvXhKESWBCGkS10U6ds14TyYFqr…)
+[01:53:35]   downloaded 1,553.7 MB in 80.9s (19.2 MB/s)
+[01:55:05]   upload done video_id=25438846 in 89.3s
