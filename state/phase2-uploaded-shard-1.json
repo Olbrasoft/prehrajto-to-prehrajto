@@ -61598,6 +61598,25 @@
         "download_sec": 29.4,
         "upload_sec": 33.0
       }
+    },
+    {
+      "cr_film_id": 19001,
+      "cr_slug": "go-north",
+      "title": "Go North",
+      "year": 2017,
+      "display_name": "Go North (2017)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac5b55812b53",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25448406,
+      "size_bytes": 869357248,
+      "uploaded_at": "2026-06-02T14:09:01Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 31.5,
+        "upload_sec": 46.7
+      }
     }
   ],
   "failed_attempts": [
@@ -62631,5 +62650,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T14:07:39Z"
+  "last_updated": "2026-06-02T14:09:01Z"
 }
