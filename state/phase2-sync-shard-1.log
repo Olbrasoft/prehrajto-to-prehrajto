@@ -25511,3 +25511,14 @@
 [22:53:10]   upload done video_id=25459041 in 19.7s
 [22:53:12] film cr_film_id=28277 OK in 43.4s
 [22:53:12] batch-end ok=20 failed=0 dur=1796.5s avg/film=89.8s remaining=6796 eta_hours=169.5
+
+===== run 2026-06-02T22:53:33Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26852808050) =====
+[22:53:34] batch-start shard=1/2 count=20 backlog=10210 uploads=3414 failed_attempts=141
+[22:53:34] login
+[22:53:36] login done
+[22:53:36] iteration 1/20
+[22:53:36] film cr_film_id=28827 name='Boy 7 (2015)' candidates=1
+[22:53:36]   candidate upload_id=5ac8a2f762f29 url=https://prehraj.to/boy-7-2015/5ac8a2f762f29
+[22:53:37]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3844805/YKVT2KI3YfAoIeyTD2Ug8IpaCRjFMVF9wT6yT…)
+[22:54:01]   downloaded 626.6 MB in 22.4s (28.0 MB/s)
+[22:54:33]   upload done video_id=25459079 in 31.8s
