@@ -59736,6 +59736,25 @@
         "download_sec": 40.0,
         "upload_sec": 51.9
       }
+    },
+    {
+      "cr_film_id": 17670,
+      "cr_slug": "the-pilgrim-s-progress",
+      "title": "The Pilgrim's Progress",
+      "year": 2019,
+      "display_name": "The Pilgrim's Progress (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "0b1627f10b5bbe7a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25444725,
+      "size_bytes": 985216015,
+      "uploaded_at": "2026-06-02T10:14:11Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 36.6,
+        "upload_sec": 53.5
+      }
     }
   ],
   "failed_attempts": [
@@ -60735,5 +60754,5 @@
       "failed_at": "2026-06-02T09:54:55Z"
     }
   ],
-  "last_updated": "2026-06-02T10:12:36Z"
+  "last_updated": "2026-06-02T10:14:11Z"
 }
