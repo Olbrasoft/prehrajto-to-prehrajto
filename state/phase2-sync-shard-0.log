@@ -22132,3 +22132,14 @@
 [00:00:18]   upload done video_id=25437114 in 52.2s
 [00:00:20] film cr_film_id=15020 OK in 99.7s
 [00:00:20] batch-end ok=18 failed=2 dur=2557.9s avg/film=142.1s remaining=7246 eta_hours=286.0
+
+===== run 2026-06-02T00:36:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26790924106) =====
+[00:36:50] batch-start shard=0/2 count=20 backlog=10210 uploads=2964 failed_attempts=119
+[00:36:50] login
+[00:36:52] login done
+[00:36:52] iteration 1/20
+[00:36:52] film cr_film_id=37166 name='BARDO, falešná kronika několika pravd (2022)' candidates=1
+[00:36:52]   candidate upload_id=639d7a0a9cf86 url=https://prehraj.to/bardo-2022-1080p-webrip-es-5-1-cz-sub/639d7a0a9cf86
+[00:36:53]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/35593234/1Y3UzecBkIQAIJdC1vTvlcREs4MfwxFvaFZ7…)
+[00:39:08]   downloaded 2,592.8 MB in 132.4s (19.6 MB/s)
+[00:41:31]   upload done video_id=25437627 in 143.2s
