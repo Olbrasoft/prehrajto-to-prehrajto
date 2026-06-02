@@ -22598,3 +22598,14 @@
 [03:49:56]   upload done video_id=25440617 in 41.4s
 [03:49:58] film cr_film_id=3343 OK in 78.8s
 [03:49:58] batch-end ok=19 failed=1 dur=2326.3s avg/film=122.4s remaining=7190 eta_hours=244.5
+
+===== run 2026-06-02T03:52:46Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26797275162) =====
+[03:52:46] batch-start shard=1/2 count=20 backlog=10210 uploads=3020 failed_attempts=134
+[03:52:46] login
+[03:52:47] login done
+[03:52:47] iteration 1/20
+[03:52:47] film cr_film_id=17519 name='Neodolatelný (2020)' candidates=1
+[03:52:47]   candidate upload_id=6035663726ab2 url=https://prehraj.to/irresistible-2020-1080p-bluray-h264-aac-rarbg/6035663726ab2
+[03:52:48]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/22402886/nb6s0lIN5Inpt0JU9NhQ7I3osj5idzU8xUwQ…)
+[03:54:02]   downloaded 2,140.1 MB in 72.0s (29.7 MB/s)
+[03:55:35]   upload done video_id=25440691 in 92.5s
