@@ -62472,6 +62472,25 @@
         "download_sec": 30.5,
         "upload_sec": 44.3
       }
+    },
+    {
+      "cr_film_id": 763,
+      "cr_slug": "glory",
+      "title": "Sláva",
+      "year": 2016,
+      "display_name": "Sláva (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a98a34a7cf49",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25452618,
+      "size_bytes": 1950200210,
+      "uploaded_at": "2026-06-02T16:25:56Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 299.1,
+        "upload_sec": 125.4
+      }
     }
   ],
   "failed_attempts": [
@@ -63505,5 +63524,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T16:18:46Z"
+  "last_updated": "2026-06-02T16:25:56Z"
 }
