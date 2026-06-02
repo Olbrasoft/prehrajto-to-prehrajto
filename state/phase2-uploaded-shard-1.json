@@ -59451,6 +59451,25 @@
         "download_sec": 54.9,
         "upload_sec": 61.0
       }
+    },
+    {
+      "cr_film_id": 30863,
+      "cr_slug": "ach-ramono",
+      "title": "Ach, Ramono!",
+      "year": 2019,
+      "display_name": "Ach, Ramono! (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5dcc9ad8d5b83",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25444130,
+      "size_bytes": 2418178124,
+      "uploaded_at": "2026-06-02T09:08:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 83.7,
+        "upload_sec": 97.9
+      }
     }
   ],
   "failed_attempts": [
@@ -60473,5 +60492,5 @@
       "failed_at": "2026-06-02T08:58:41Z"
     }
   ],
-  "last_updated": "2026-06-02T09:05:10Z"
+  "last_updated": "2026-06-02T09:08:16Z"
 }
