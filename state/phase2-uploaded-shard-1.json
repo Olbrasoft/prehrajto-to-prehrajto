@@ -58311,6 +58311,25 @@
         "download_sec": 37.5,
         "upload_sec": 43.6
       }
+    },
+    {
+      "cr_film_id": 31427,
+      "cr_slug": "stella-2",
+      "title": "Stella",
+      "year": 2019,
+      "display_name": "Stella (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "f83679ad3c6910bf",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25442002,
+      "size_bytes": 2132099186,
+      "uploaded_at": "2026-06-02T06:04:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 73.7,
+        "upload_sec": 78.5
+      }
     }
   ],
   "failed_attempts": [
@@ -59305,5 +59324,5 @@
       "failed_at": "2026-06-02T04:38:55Z"
     }
   ],
-  "last_updated": "2026-06-02T06:01:51Z"
+  "last_updated": "2026-06-02T06:04:27Z"
 }
