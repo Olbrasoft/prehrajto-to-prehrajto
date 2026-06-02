@@ -24197,3 +24197,14 @@
 [13:36:19]   upload done video_id=25448083 in 86.6s
 [13:36:21] film cr_film_id=18877 OK in 156.2s
 [13:36:21] batch-end ok=20 failed=0 dur=1826.0s avg/film=91.3s remaining=6976 eta_hours=176.9
+
+===== run 2026-06-02T13:55:52Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26824497281) =====
+[13:55:53] batch-start shard=1/2 count=20 backlog=10210 uploads=3234 failed_attempts=141
+[13:55:53] login
+[13:55:54] login done
+[13:55:54] iteration 1/20
+[13:55:54] film cr_film_id=36747 name='Incerta glòria (2017)' candidates=1
+[13:55:54]   candidate upload_id=2e4a2c4ba8ebee87 url=https://prehraj.to/incerta-gloria-2017/2e4a2c4ba8ebee87
+[13:55:55]   resolved in 0.9s → 480p (https://pf-storage6.premiumcdn.net/170856101/q3NFkYHd0S6VfpYhkntvlHEQSZrtzbcOWiY…)
+[13:56:28]   downloaded 888.3 MB in 31.5s (28.2 MB/s)
+[13:57:13]   upload done video_id=25448286 in 44.7s
