@@ -24299,3 +24299,14 @@
 [14:59:10]   upload done video_id=25451466 in 36.0s
 [14:59:12] film cr_film_id=35574 OK in 84.1s
 [14:59:12] batch-end ok=19 failed=1 dur=3797.0s avg/film=199.8s remaining=6966 eta_hours=386.6
+
+===== run 2026-06-02T14:59:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26828341878) =====
+[14:59:44] batch-start shard=0/2 count=20 backlog=10210 uploads=3244 failed_attempts=145
+[14:59:44] login
+[14:59:45] login done
+[14:59:45] iteration 1/20
+[14:59:45] film cr_film_id=17356 name='Alenka v zemi zázraků (2018)' candidates=1
+[14:59:45]   candidate upload_id=5cc4713e58de3 url=https://prehraj.to/alenka-v-zemi-zazraku-2018-cz/5cc4713e58de3
+[14:59:46]   resolved in 1.5s → 720p (https://pf-storage1.premiumcdn.net/13111746/K2Yu1yULpurRTzVtWgFmRUR7hEofDyfgOhlE…)
+[15:00:58]   downloaded 1,718.8 MB in 70.1s (24.5 MB/s)
+[15:02:21]   upload done video_id=25451511 in 82.7s
