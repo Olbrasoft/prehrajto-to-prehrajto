@@ -58748,6 +58748,25 @@
         "download_sec": 13.1,
         "upload_sec": 21.6
       }
+    },
+    {
+      "cr_film_id": 14592,
+      "cr_slug": "quebonafide-romanticky-psycho-film",
+      "title": "Quebonafide: Romantický psycho film",
+      "year": 2020,
+      "display_name": "Quebonafide: Romantický psycho film (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "186a2123fbc04a3b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25443146,
+      "size_bytes": 610814384,
+      "uploaded_at": "2026-06-02T07:42:00Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 36.1,
+        "upload_sec": 46.9
+      }
     }
   ],
   "failed_attempts": [
@@ -59703,7 +59722,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svet-podle-muchy-2020-cz-hd-mp4/db9fcf5534fd7f81",
       "permanent": true,
       "failed_at": "2026-06-02T07:19:03Z"
+    },
+    {
+      "cr_film_id": 6884,
+      "upload_id": "384c7aa349a532d5",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/romance-po-irsku-2020-cz-1080p/384c7aa349a532d5",
+      "permanent": true,
+      "failed_at": "2026-06-02T07:40:28Z"
     }
   ],
-  "last_updated": "2026-06-02T07:40:26Z"
+  "last_updated": "2026-06-02T07:42:00Z"
 }
