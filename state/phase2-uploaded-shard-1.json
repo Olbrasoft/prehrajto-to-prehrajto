@@ -57114,6 +57114,25 @@
         "download_sec": 31.7,
         "upload_sec": 39.3
       }
+    },
+    {
+      "cr_film_id": 14351,
+      "cr_slug": "sinfidelity",
+      "title": "Sinfidelity",
+      "year": 2020,
+      "display_name": "Sinfidelity (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "e39d54b41f8d074d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25440135,
+      "size_bytes": 475668646,
+      "uploaded_at": "2026-06-02T03:18:51Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 18.3,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -58085,7 +58104,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atlas-ptaku-2021-cz/3eb8c4cfac336517",
       "permanent": true,
       "failed_at": "2026-06-02T02:05:45Z"
+    },
+    {
+      "cr_film_id": 17375,
+      "upload_id": "00deb4f01eb4ae12",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/snoubenec-nebo-milenec-2020-cz-dabing-mp4/00deb4f01eb4ae12",
+      "permanent": true,
+      "failed_at": "2026-06-02T03:17:53Z"
     }
   ],
-  "last_updated": "2026-06-02T03:17:51Z"
+  "last_updated": "2026-06-02T03:18:51Z"
 }
