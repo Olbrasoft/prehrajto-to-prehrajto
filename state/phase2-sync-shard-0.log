@@ -25175,3 +25175,14 @@
 [21:36:14]   upload done video_id=25456959 in 104.2s
 [21:36:16] film cr_film_id=33620 OK in 193.9s
 [21:36:16] batch-end ok=20 failed=0 dur=2226.9s avg/film=111.3s remaining=6846 eta_hours=211.7
+
+===== run 2026-06-02T21:45:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26849909372) =====
+[21:45:35] batch-start shard=0/2 count=20 backlog=10210 uploads=3364 failed_attempts=145
+[21:45:35] login
+[21:45:37] login done
+[21:45:37] iteration 1/20
+[21:45:37] film cr_film_id=2376 name='Lovingovi (2016)' candidates=1
+[21:45:37]   candidate upload_id=5ad35073c9717 url=https://prehraj.to/loving-2016/5ad35073c9717
+[21:45:38]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3879941/6NQte9TnKiLzfleuypCPZT3rIL1SdkuKBtQ4T…)
+[21:46:30]   downloaded 852.2 MB in 49.8s (17.1 MB/s)
+[21:47:28]   upload done video_id=25457079 in 58.2s
