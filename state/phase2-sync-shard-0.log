@@ -23284,3 +23284,14 @@
 [08:41:03]   upload done video_id=25443867 in 214.8s
 [08:41:05] film cr_film_id=30730 OK in 418.4s
 [08:41:05] batch-end ok=18 failed=2 dur=3513.5s avg/film=195.2s remaining=7099 eta_hours=384.9
+
+===== run 2026-06-02T08:41:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26808616997) =====
+[08:41:37] batch-start shard=0/2 count=20 backlog=10210 uploads=3111 failed_attempts=137
+[08:41:37] login
+[08:41:38] login done
+[08:41:38] iteration 1/20
+[08:41:38] film cr_film_id=8888 name='Hanebný návrh (2020)' candidates=1
+[08:41:38]   candidate upload_id=68459ce731c40 url=https://prehraj.to/hanebny-navrh-dying-for-motherhood-2020-1080p-cz/68459ce731c40
+[08:41:40]   resolved in 1.5s → 1080p (https://pf-storage4.premiumcdn.net/139466906/NzNi1RH8aCo7feMipLS2oH4JCkEtqnTVqUR…)
+[08:43:46]   downloaded 2,321.7 MB in 123.8s (18.8 MB/s)
+[08:45:58]   upload done video_id=25443939 in 132.2s
