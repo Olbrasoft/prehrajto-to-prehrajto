@@ -59128,6 +59128,25 @@
         "download_sec": 123.8,
         "upload_sec": 132.2
       }
+    },
+    {
+      "cr_film_id": 30878,
+      "cr_slug": "fotografie",
+      "title": "Fotografie",
+      "year": 2020,
+      "display_name": "Fotografie (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ec43d96197e7",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25443965,
+      "size_bytes": 1306809615,
+      "uploaded_at": "2026-06-02T08:48:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 68.9,
+        "upload_sec": 81.0
+      }
     }
   ],
   "failed_attempts": [
@@ -60106,5 +60125,5 @@
       "failed_at": "2026-06-02T07:56:29Z"
     }
   ],
-  "last_updated": "2026-06-02T08:45:58Z"
+  "last_updated": "2026-06-02T08:48:34Z"
 }
