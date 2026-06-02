@@ -62016,6 +62016,25 @@
         "download_sec": 16.8,
         "upload_sec": 30.6
       }
+    },
+    {
+      "cr_film_id": 35617,
+      "cr_slug": "film-81",
+      "title": "럭키",
+      "year": 2016,
+      "display_name": "럭키 (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9e611f75966",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25451748,
+      "size_bytes": 758642859,
+      "uploaded_at": "2026-06-02T15:16:01Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 32.1,
+        "upload_sec": 43.6
+      }
     }
   ],
   "failed_attempts": [
@@ -63049,5 +63068,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T15:14:40Z"
+  "last_updated": "2026-06-02T15:16:01Z"
 }
