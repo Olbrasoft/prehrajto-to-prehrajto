@@ -60040,6 +60040,25 @@
         "download_sec": 4.5,
         "upload_sec": 11.5
       }
+    },
+    {
+      "cr_film_id": 17212,
+      "cr_slug": "muj-kamarad-dinosaurus",
+      "title": "Můj kamarád dinosaurus",
+      "year": 2019,
+      "display_name": "Můj kamarád dinosaurus (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "621b4ec97c9c4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25445393,
+      "size_bytes": 1595576665,
+      "uploaded_at": "2026-06-02T11:10:48Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 62.3,
+        "upload_sec": 90.2
+      }
     }
   ],
   "failed_attempts": [
@@ -61046,5 +61065,5 @@
       "failed_at": "2026-06-02T10:51:24Z"
     }
   ],
-  "last_updated": "2026-06-02T11:08:12Z"
+  "last_updated": "2026-06-02T11:10:48Z"
 }
