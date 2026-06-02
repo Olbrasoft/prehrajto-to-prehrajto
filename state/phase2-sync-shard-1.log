@@ -23468,3 +23468,14 @@
 [09:16:48]   upload done video_id=25444214 in 59.2s
 [09:16:50] film cr_film_id=17585 OK in 111.2s
 [09:16:50] batch-end ok=18 failed=2 dur=2113.3s avg/film=117.4s remaining=7075 eta_hours=230.7
+
+===== run 2026-06-02T09:44:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26811754649) =====
+[09:44:04] batch-start shard=1/2 count=20 backlog=10210 uploads=3135 failed_attempts=140
+[09:44:04] login
+[09:44:05] login done
+[09:44:05] iteration 1/20
+[09:44:05] film cr_film_id=30729 name='Welcome to Curiosity (2018)' candidates=1
+[09:44:05]   candidate upload_id=600b91359540d url=https://prehraj.to/welcome-to-curiosity-2018-pl-720p-bluray-x264-ac3-ozw/600b91359540d
+[09:44:07]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/21692868/1MQiZ2UOKu3rUo3TZ0FpqUndixdHV7h41s41…)
+[09:44:47]   downloaded 697.4 MB in 37.7s (18.5 MB/s)
+[09:45:44]   upload done video_id=25444458 in 57.0s
