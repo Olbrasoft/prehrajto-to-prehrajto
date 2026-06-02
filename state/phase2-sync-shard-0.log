@@ -23861,3 +23861,14 @@
 [12:19:24]   download FAILED after 1.1s: curl exit 22: curl: (22) The requested URL returned error: 404
 [12:19:24] film cr_film_id=16234 all candidates exhausted
 [12:19:24] batch-end ok=18 failed=2 dur=2353.9s avg/film=130.8s remaining=7025 eta_hours=255.2
+
+===== run 2026-06-02T12:23:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26819407569) =====
+[12:23:03] batch-start shard=0/2 count=20 backlog=10210 uploads=3185 failed_attempts=144
+[12:23:03] login
+[12:23:04] login done
+[12:23:04] iteration 1/20
+[12:23:04] film cr_film_id=16234 name='A Violent Separation (2019)' candidates=1
+[12:23:04]   candidate upload_id=5ea7655d7a8cf url=https://prehraj.to/a-violent-separation-krimi-thriller-2019-1080p-2-0-x264-cz-65-sten-ok/5ea7655d7a8cf
+[12:23:05]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/16373962/pAls2burpTqrfaqH6YfVZuaOIbzt1ETR0cQj…)
+[12:23:55]   downloaded 1,332.2 MB in 47.8s (27.9 MB/s)
+[12:24:58]   upload done video_id=25446711 in 63.9s
