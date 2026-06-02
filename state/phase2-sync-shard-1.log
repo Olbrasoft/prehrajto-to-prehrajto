@@ -24781,3 +24781,14 @@
 [17:54:01]   upload done video_id=25454093 in 117.8s
 [17:54:04] film cr_film_id=16649 OK in 229.5s
 [17:54:04] batch-end ok=20 failed=0 dur=4222.2s avg/film=211.1s remaining=6896 eta_hours=404.4
+
+===== run 2026-06-02T17:57:20Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26838208585) =====
+[17:57:20] batch-start shard=1/2 count=20 backlog=10210 uploads=3314 failed_attempts=141
+[17:57:20] login
+[17:57:22] login done
+[17:57:22] iteration 1/20
+[17:57:22] film cr_film_id=18859 name='Lazy Eye (2016)' candidates=1
+[17:57:22]   candidate upload_id=5ab7d823783b1 url=https://prehraj.to/lazy-eye-2016/5ab7d823783b1
+[17:57:23]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/3736628/E0gH9ji30UE5HaWfQRUKdiZgI1vto5HO9Fo8t…)
+[17:57:58]   downloaded 651.5 MB in 32.6s (20.0 MB/s)
+[17:58:41]   upload done video_id=25454179 in 42.9s
