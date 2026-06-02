@@ -23180,3 +23180,14 @@
 [07:31:11]   upload done video_id=25442951 in 60.6s
 [07:31:12] film cr_film_id=30883 OK in 112.0s
 [07:31:12] batch-end ok=20 failed=0 dur=2549.0s avg/film=127.5s remaining=7113 eta_hours=251.9
+
+===== run 2026-06-02T07:42:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26805790181) =====
+[07:42:31] batch-start shard=1/2 count=20 backlog=10210 uploads=3097 failed_attempts=138
+[07:42:31] login
+[07:42:32] login done
+[07:42:32] iteration 1/20
+[07:42:32] film cr_film_id=16785 name='Lepší než kdy jindy (2019)' candidates=3
+[07:42:32]   candidate upload_id=61952e720f434 url=https://prehraj.to/lepsi-nez-kdy-jindy-poms-2019-1080p-bluray-cz-dabing/61952e720f434
+[07:42:33]   resolved in 1.0s → 720p (https://pf-storage2.premiumcdn.net/26579893/lGpsXqSpZU31SQxHY3cg0SM2IKGFykFONHRw…)
+[07:43:19]   downloaded 1,222.8 MB in 43.6s (28.0 MB/s)
+[07:44:12]   upload done video_id=25443180 in 53.1s
