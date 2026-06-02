@@ -22418,3 +22418,14 @@
 [03:10:43]   upload done video_id=25439954 in 157.8s
 [03:10:45] film cr_film_id=18096 OK in 270.6s
 [03:10:45] batch-end ok=19 failed=1 dur=4714.3s avg/film=248.1s remaining=7209 eta_hours=496.8
+
+===== run 2026-06-02T03:11:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26795942869) =====
+[03:11:11] batch-start shard=0/2 count=20 backlog=10210 uploads=3001 failed_attempts=122
+[03:11:11] login
+[03:11:13] login done
+[03:11:13] iteration 1/20
+[03:11:13] film cr_film_id=33670 name='Paranormal Prison (2021)' candidates=1
+[03:11:13]   candidate upload_id=6034d830b78ac url=https://prehraj.to/paranormal-prison-2021-1080p-webrip-x264-aac5-1-eng/6034d830b78ac
+[03:11:14]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/22390751/NlDIpVTqRs4ycAesq7fYBTqmhJpCERH0MSRy…)
+[03:12:03]   downloaded 1,305.0 MB in 47.9s (27.2 MB/s)
+[03:12:58]   upload done video_id=25440007 in 55.2s
