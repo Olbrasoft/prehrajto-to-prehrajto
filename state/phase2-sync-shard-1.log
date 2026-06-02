@@ -25219,3 +25219,14 @@
 [21:45:06]   upload done video_id=25457056 in 63.7s
 [21:45:08] film cr_film_id=35545 OK in 120.8s
 [21:45:08] batch-end ok=20 failed=0 dur=2756.4s avg/film=137.8s remaining=6836 eta_hours=261.7
+
+===== run 2026-06-02T21:45:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26849909372) =====
+[21:45:33] batch-start shard=1/2 count=20 backlog=10210 uploads=3374 failed_attempts=141
+[21:45:33] login
+[21:45:34] login done
+[21:45:34] iteration 1/20
+[21:45:34] film cr_film_id=18803 name='Stádo (2015)' candidates=1
+[21:45:34]   candidate upload_id=5abcbf564273e url=https://prehraj.to/stado-2015/5abcbf564273e
+[21:45:35]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3761454/EJxFVWieGtkRT2mHG5U9Ni5pfkVU9JfmjFNZh…)
+[21:45:51]   downloaded 371.0 MB in 14.5s (25.6 MB/s)
+[21:46:14]   upload done video_id=25457064 in 22.4s
