@@ -57893,6 +57893,25 @@
         "download_sec": 43.0,
         "upload_sec": 50.8
       }
+    },
+    {
+      "cr_film_id": 7259,
+      "cr_slug": "babovky",
+      "title": "Bábovky",
+      "year": 2020,
+      "display_name": "Bábovky (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "98139686b6d07b20",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25441339,
+      "size_bytes": 708499990,
+      "uploaded_at": "2026-06-02T04:57:26Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 35.9,
+        "upload_sec": 46.2
+      }
     }
   ],
   "failed_attempts": [
@@ -58887,5 +58906,5 @@
       "failed_at": "2026-06-02T04:38:55Z"
     }
   ],
-  "last_updated": "2026-06-02T04:55:58Z"
+  "last_updated": "2026-06-02T04:57:26Z"
 }
