@@ -22886,3 +22886,14 @@
 [05:22:11]   upload done video_id=25441506 in 80.8s
 [05:22:13] film cr_film_id=6283 OK in 145.6s
 [05:22:13] batch-end ok=19 failed=1 dur=2967.9s avg/film=156.2s remaining=7152 eta_hours=310.3
+
+===== run 2026-06-02T05:39:34Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26800775213) =====
+[05:39:35] batch-start shard=1/2 count=20 backlog=10210 uploads=3058 failed_attempts=136
+[05:39:35] login
+[05:39:36] login done
+[05:39:36] iteration 1/20
+[05:39:36] film cr_film_id=35469 name='X (2019)' candidates=1
+[05:39:36]   candidate upload_id=606ca56e76d0d url=https://prehraj.to/x-2019-1080p-amzn-web-dl-ddp5-1-h264-worm/606ca56e76d0d
+[05:39:37]   resolved in 1.0s → 720p (https://pf-storage2.premiumcdn.net/22989348/lv1sObUPxtdAtpNIr7c28U7EiEOSGwI3Nsne…)
+[05:40:37]   downloaded 1,636.5 MB in 58.1s (28.2 MB/s)
+[05:41:44]   upload done video_id=25441737 in 66.8s

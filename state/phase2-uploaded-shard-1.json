@@ -58102,6 +58102,25 @@
         "download_sec": 58.9,
         "upload_sec": 80.8
       }
+    },
+    {
+      "cr_film_id": 35469,
+      "cr_slug": "x-2019",
+      "title": "X",
+      "year": 2019,
+      "display_name": "X (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "606ca56e76d0d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25441737,
+      "size_bytes": 1636549437,
+      "uploaded_at": "2026-06-02T05:41:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 58.1,
+        "upload_sec": 66.8
+      }
     }
   ],
   "failed_attempts": [
@@ -59096,5 +59115,5 @@
       "failed_at": "2026-06-02T04:38:55Z"
     }
   ],
-  "last_updated": "2026-06-02T05:22:11Z"
+  "last_updated": "2026-06-02T05:41:44Z"
 }
