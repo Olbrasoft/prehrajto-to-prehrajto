@@ -59907,6 +59907,25 @@
         "download_sec": 60.9,
         "upload_sec": 60.0
       }
+    },
+    {
+      "cr_film_id": 13944,
+      "cr_slug": "ranc-pro-dva",
+      "title": "Ranč pro dva",
+      "year": 2019,
+      "display_name": "Ranč pro dva (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "62d3f59dbfcc9",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25445264,
+      "size_bytes": 1250830884,
+      "uploaded_at": "2026-06-02T10:57:29Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 50.9,
+        "upload_sec": 63.3
+      }
     }
   ],
   "failed_attempts": [
@@ -60913,5 +60932,5 @@
       "failed_at": "2026-06-02T10:51:24Z"
     }
   ],
-  "last_updated": "2026-06-02T10:55:30Z"
+  "last_updated": "2026-06-02T10:57:29Z"
 }
