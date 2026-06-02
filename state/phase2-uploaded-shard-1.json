@@ -59660,6 +59660,25 @@
         "download_sec": 144.8,
         "upload_sec": 195.6
       }
+    },
+    {
+      "cr_film_id": 17477,
+      "cr_slug": "trezor-2018",
+      "title": "Trezor",
+      "year": 2018,
+      "display_name": "Trezor (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "69033cb73a294",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25444642,
+      "size_bytes": 260621190,
+      "uploaded_at": "2026-06-02T10:03:55Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.5,
+        "upload_sec": 27.3
+      }
     }
   ],
   "failed_attempts": [
@@ -60682,5 +60701,5 @@
       "failed_at": "2026-06-02T08:58:41Z"
     }
   ],
-  "last_updated": "2026-06-02T10:03:06Z"
+  "last_updated": "2026-06-02T10:03:55Z"
 }
