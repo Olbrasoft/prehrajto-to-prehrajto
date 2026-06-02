@@ -58501,6 +58501,25 @@
         "download_sec": 54.1,
         "upload_sec": 59.4
       }
+    },
+    {
+      "cr_film_id": 5919,
+      "cr_slug": "raoul-taburin",
+      "title": "Raoul Taburin",
+      "year": 2019,
+      "display_name": "Raoul Taburin (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ff60ceb12a1e",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25442562,
+      "size_bytes": 1105011883,
+      "uploaded_at": "2026-06-02T06:55:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 40.6,
+        "upload_sec": 49.5
+      }
     }
   ],
   "failed_attempts": [
@@ -59509,5 +59528,5 @@
       "failed_at": "2026-06-02T06:06:42Z"
     }
   ],
-  "last_updated": "2026-06-02T06:53:59Z"
+  "last_updated": "2026-06-02T06:55:33Z"
 }
