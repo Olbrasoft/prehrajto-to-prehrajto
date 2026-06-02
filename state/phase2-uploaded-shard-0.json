@@ -60762,6 +60762,25 @@
         "download_sec": 43.5,
         "upload_sec": 52.0
       }
+    },
+    {
+      "cr_film_id": 16826,
+      "cr_slug": "stripped",
+      "title": "Stripped",
+      "year": 2018,
+      "display_name": "Stripped (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "3f26b059e448ab82",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25447368,
+      "size_bytes": 638591376,
+      "uploaded_at": "2026-06-02T12:53:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.6,
+        "upload_sec": 31.9
+      }
     }
   ],
   "failed_attempts": [
@@ -61797,5 +61816,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T12:52:05Z"
+  "last_updated": "2026-06-02T12:53:12Z"
 }
