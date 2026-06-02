@@ -25365,3 +25365,14 @@
 [22:15:54]   upload done video_id=25457713 in 45.0s
 [22:15:55] film cr_film_id=20251 OK in 74.9s
 [22:15:55] batch-end ok=20 failed=0 dur=1821.1s avg/film=91.1s remaining=6816 eta_hours=172.5
+
+===== run 2026-06-02T22:23:13Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26851547761) =====
+[22:23:14] batch-start shard=1/2 count=20 backlog=10210 uploads=3394 failed_attempts=141
+[22:23:14] login
+[22:23:15] login done
+[22:23:15] iteration 1/20
+[22:23:15] film cr_film_id=29001 name='Mikrob a Gasoil (2015)' candidates=1
+[22:23:15]   candidate upload_id=5abd00eba71a4 url=https://prehraj.to/mikrob-a-gasoil-2015/5abd00eba71a4
+[22:23:16]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3762883/8emIq7cjdFEvFOnFr6f6wcB8f91INRfEyFkqH…)
+[22:23:40]   downloaded 596.7 MB in 22.4s (26.6 MB/s)
+[22:24:17]   upload done video_id=25458107 in 36.3s
