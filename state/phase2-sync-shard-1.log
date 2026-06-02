@@ -24927,3 +24927,14 @@
 [18:53:22]   upload done video_id=25454952 in 42.3s
 [18:53:24] film cr_film_id=19127 OK in 77.6s
 [18:53:24] batch-end ok=20 failed=0 dur=3362.1s avg/film=168.1s remaining=6876 eta_hours=321.1
+
+===== run 2026-06-02T20:06:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26844978663) =====
+[20:06:49] batch-start shard=1/2 count=20 backlog=10210 uploads=3334 failed_attempts=141
+[20:06:49] login
+[20:06:51] login done
+[20:06:51] iteration 1/20
+[20:06:51] film cr_film_id=30499 name='Boj o miliardu životů (2016)' candidates=1
+[20:06:51]   candidate upload_id=5ea40d8ecba72 url=https://prehraj.to/boj-o-miliardu-zivotu-2016-720p-ct2-hdtv-h265-dd2-0-covid19/5ea40d8ecba72
+[20:06:52]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/16351522/QMXT2KFvRtxXfW7T9Wu5MFDziDWuobUNoH5n…)
+[20:07:39]   downloaded 1,027.8 MB in 45.0s (22.8 MB/s)
+[20:08:46]   upload done video_id=25455788 in 67.1s
