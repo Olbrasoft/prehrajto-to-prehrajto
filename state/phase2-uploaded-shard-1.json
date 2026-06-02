@@ -56753,6 +56753,25 @@
         "download_sec": 36.8,
         "upload_sec": 44.3
       }
+    },
+    {
+      "cr_film_id": 33737,
+      "cr_slug": "antidote-2021",
+      "title": "Antidote",
+      "year": 2021,
+      "display_name": "Antidote (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "609ce84b0c2bd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25439080,
+      "size_bytes": 932667348,
+      "uploaded_at": "2026-06-02T02:07:37Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 46.2,
+        "upload_sec": 57.0
+      }
     }
   ],
   "failed_attempts": [
@@ -57717,7 +57736,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krasky-z-dubaje-dziewczyny-z-dubaju-2021-cz-720p/2b3d4eb440575443",
       "permanent": true,
       "failed_at": "2026-06-01T23:21:15Z"
+    },
+    {
+      "cr_film_id": 14933,
+      "upload_id": "3eb8c4cfac336517",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atlas-ptaku-2021-cz/3eb8c4cfac336517",
+      "permanent": true,
+      "failed_at": "2026-06-02T02:05:45Z"
     }
   ],
-  "last_updated": "2026-06-02T02:05:42Z"
+  "last_updated": "2026-06-02T02:07:37Z"
 }
