@@ -59071,6 +59071,25 @@
         "download_sec": 109.2,
         "upload_sec": 126.3
       }
+    },
+    {
+      "cr_film_id": 4998,
+      "cr_slug": "hlas-lasky",
+      "title": "Hlas lásky",
+      "year": 2020,
+      "display_name": "Hlas lásky (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6644522f0514f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25443830,
+      "size_bytes": 1579528875,
+      "uploaded_at": "2026-06-02T08:34:05Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 60.7,
+        "upload_sec": 97.6
+      }
     }
   ],
   "failed_attempts": [
@@ -60049,5 +60068,5 @@
       "failed_at": "2026-06-02T07:56:29Z"
     }
   ],
-  "last_updated": "2026-06-02T08:31:21Z"
+  "last_updated": "2026-06-02T08:34:05Z"
 }
