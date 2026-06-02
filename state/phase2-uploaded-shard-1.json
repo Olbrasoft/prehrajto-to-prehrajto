@@ -59850,6 +59850,25 @@
         "download_sec": 197.0,
         "upload_sec": 224.0
       }
+    },
+    {
+      "cr_film_id": 16971,
+      "cr_slug": "roma",
+      "title": "Roma",
+      "year": 2018,
+      "display_name": "Roma (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c2105894eba0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25445068,
+      "size_bytes": 929168168,
+      "uploaded_at": "2026-06-02T10:28:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 49.0,
+        "upload_sec": 59.5
+      }
     }
   ],
   "failed_attempts": [
@@ -60872,5 +60891,5 @@
       "failed_at": "2026-06-02T08:58:41Z"
     }
   ],
-  "last_updated": "2026-06-02T10:26:33Z"
+  "last_updated": "2026-06-02T10:28:27Z"
 }
