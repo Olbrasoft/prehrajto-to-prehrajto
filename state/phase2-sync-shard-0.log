@@ -22716,3 +22716,14 @@
 [04:32:15]   upload done video_id=25441105 in 71.6s
 [04:32:17] film cr_film_id=26582 OK in 131.0s
 [04:32:17] batch-end ok=19 failed=1 dur=2366.4s avg/film=124.5s remaining=7171 eta_hours=248.0
+
+===== run 2026-06-02T04:32:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26798543481) =====
+[04:32:40] batch-start shard=0/2 count=20 backlog=10210 uploads=3039 failed_attempts=129
+[04:32:40] login
+[04:32:42] login done
+[04:32:42] iteration 1/20
+[04:32:42] film cr_film_id=31212 name='Hell Hath No Fury (2021)' candidates=1
+[04:32:42]   candidate upload_id=618a69337b653 url=https://prehraj.to/hell-hath-no-fury-2021-1080p-webrip-dd5-1-x264-nogrp/618a69337b653
+[04:32:43]   resolved in 1.5s → 720p (https://pf-storage3.premiumcdn.net/26320690/V1DfXvhgEsN5tjDCBEhBRhRGIroCEdhAjI7a…)
+[04:34:25]   downloaded 1,985.5 MB in 99.7s (19.9 MB/s)
+[04:36:18]   upload done video_id=25441130 in 113.1s
