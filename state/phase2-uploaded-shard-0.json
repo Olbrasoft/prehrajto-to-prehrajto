@@ -61541,6 +61541,25 @@
         "download_sec": 41.2,
         "upload_sec": 25.2
       }
+    },
+    {
+      "cr_film_id": 2980,
+      "cr_slug": "aquaman",
+      "title": "Aquaman",
+      "year": 2018,
+      "display_name": "Aquaman (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6175e4d9f1b77",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25451277,
+      "size_bytes": 3245136930,
+      "uploaded_at": "2026-06-02T14:47:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 107.6,
+        "upload_sec": 151.4
+      }
     }
   ],
   "failed_attempts": [
@@ -62576,5 +62595,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T14:42:37Z"
+  "last_updated": "2026-06-02T14:47:01Z"
 }
