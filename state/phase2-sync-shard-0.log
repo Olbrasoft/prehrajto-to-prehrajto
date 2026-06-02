@@ -22858,3 +22858,14 @@
 [05:39:09]   upload done video_id=25441683 in 171.3s
 [05:39:11] film cr_film_id=33684 OK in 328.4s
 [05:39:11] batch-end ok=18 failed=2 dur=3989.2s avg/film=221.6s remaining=7153 eta_hours=440.3
+
+===== run 2026-06-02T05:39:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26800775213) =====
+[05:39:39] batch-start shard=0/2 count=20 backlog=10210 uploads=3057 failed_attempts=131
+[05:39:39] login
+[05:39:41] login done
+[05:39:41] iteration 1/20
+[05:39:41] film cr_film_id=33866 name='Blue Bayou (2021)' candidates=1
+[05:39:41]   candidate upload_id=615eea2857b36 url=https://prehraj.to/blue-bayou-2021-2160p-web-dl-x265-10bit-hdr-ddp5-1-nogrp/615eea2857b36
+[05:39:42]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/25308608/nO5ToVC05TyQhNvsMYSvBC6BSqRTQVSMyINq…)
+[05:42:46]   downloaded 3,430.3 MB in 181.2s (18.9 MB/s)
+[05:45:59]   upload done video_id=25441764 in 192.7s
