@@ -56734,6 +56734,25 @@
         "download_sec": 74.0,
         "upload_sec": 84.4
       }
+    },
+    {
+      "cr_film_id": 33906,
+      "cr_slug": "the-beta-test",
+      "title": "The Beta Test",
+      "year": 2021,
+      "display_name": "The Beta Test (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "618535ddba4f6",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25439052,
+      "size_bytes": 2271125337,
+      "uploaded_at": "2026-06-02T02:06:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 114.5,
+        "upload_sec": 123.8
+      }
     }
   ],
   "failed_attempts": [
@@ -57600,5 +57619,5 @@
       "failed_at": "2026-06-02T01:08:02Z"
     }
   ],
-  "last_updated": "2026-06-02T02:02:29Z"
+  "last_updated": "2026-06-02T02:06:32Z"
 }
