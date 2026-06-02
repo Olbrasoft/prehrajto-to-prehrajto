@@ -60040,6 +60040,25 @@
         "download_sec": 108.9,
         "upload_sec": 118.9
       }
+    },
+    {
+      "cr_film_id": 3405,
+      "cr_slug": "leto-84",
+      "title": "Léto 84",
+      "year": 2018,
+      "display_name": "Léto 84 (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5b8d2cf6995eb",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25445354,
+      "size_bytes": 380212531,
+      "uploaded_at": "2026-06-02T11:06:50Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 23.9,
+        "upload_sec": 33.1
+      }
     }
   ],
   "failed_attempts": [
@@ -61062,5 +61081,5 @@
       "failed_at": "2026-06-02T08:58:41Z"
     }
   ],
-  "last_updated": "2026-06-02T11:05:48Z"
+  "last_updated": "2026-06-02T11:06:50Z"
 }
