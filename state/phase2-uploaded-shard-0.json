@@ -58767,6 +58767,25 @@
         "download_sec": 36.1,
         "upload_sec": 46.9
       }
+    },
+    {
+      "cr_film_id": 7630,
+      "cr_slug": "past-2020",
+      "title": "Past",
+      "year": 2020,
+      "display_name": "Past (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5eba3ba6d5119",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25443212,
+      "size_bytes": 2180174425,
+      "uploaded_at": "2026-06-02T07:46:20Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 105.6,
+        "upload_sec": 113.1
+      }
     }
   ],
   "failed_attempts": [
@@ -59729,7 +59748,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/romance-po-irsku-2020-cz-1080p/384c7aa349a532d5",
       "permanent": true,
       "failed_at": "2026-06-02T07:40:28Z"
+    },
+    {
+      "cr_film_id": 6572,
+      "upload_id": "f6cc4d0d4d2543ee",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/po-francouzsku-2020-cz-dabing-mp4/f6cc4d0d4d2543ee",
+      "permanent": true,
+      "failed_at": "2026-06-02T07:42:33Z"
     }
   ],
-  "last_updated": "2026-06-02T07:42:00Z"
+  "last_updated": "2026-06-02T07:46:20Z"
 }
