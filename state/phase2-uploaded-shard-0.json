@@ -64904,6 +64904,25 @@
         "download_sec": 55.8,
         "upload_sec": 63.8
       }
+    },
+    {
+      "cr_film_id": 29110,
+      "cr_slug": "psycho-pass-the-movie",
+      "title": "PSYCHO-PASS: The Movie",
+      "year": 2015,
+      "display_name": "PSYCHO-PASS: The Movie (2015)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "605f83d4dbadf",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25459571,
+      "size_bytes": 1713835011,
+      "uploaded_at": "2026-06-02T23:12:49Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 60.2,
+        "upload_sec": 74.7
+      }
     }
   ],
   "failed_attempts": [
@@ -65979,5 +65998,5 @@
       "failed_at": "2026-06-02T23:04:00Z"
     }
   ],
-  "last_updated": "2026-06-02T23:10:30Z"
+  "last_updated": "2026-06-02T23:12:49Z"
 }
