@@ -24007,3 +24007,14 @@
 [13:05:23]   upload done video_id=25447563 in 52.2s
 [13:05:25] film cr_film_id=29624 OK in 92.9s
 [13:05:25] batch-end ok=20 failed=0 dur=2540.6s avg/film=127.0s remaining=7005 eta_hours=247.1
+
+===== run 2026-06-02T13:05:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26821655959) =====
+[13:05:58] batch-start shard=0/2 count=20 backlog=10210 uploads=3205 failed_attempts=144
+[13:05:58] login
+[13:06:00] login done
+[13:06:00] iteration 1/20
+[13:06:00] film cr_film_id=34984 name='Pretenders (2018)' candidates=1
+[13:06:00]   candidate upload_id=656a923e935b606d url=https://prehraj.to/pretenders-2018-cz/656a923e935b606d
+[13:06:01]   resolved in 1.2s → 480p (https://pf-storage6.premiumcdn.net/170602148/NNqhD0HaguXriBJu6KtBVH3EhLYFNEubqIw…)
+[13:06:45]   downloaded 692.2 MB in 41.3s (16.8 MB/s)
+[13:08:15]   upload done video_id=25447627 in 90.1s
