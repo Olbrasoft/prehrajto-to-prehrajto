@@ -23760,3 +23760,14 @@
 [11:39:37]   upload done video_id=25445783 in 88.4s
 [11:39:38] film cr_film_id=17151 OK in 170.8s
 [11:39:38] batch-end ok=20 failed=0 dur=3288.6s avg/film=164.4s remaining=7035 eta_hours=321.3
+
+===== run 2026-06-02T11:40:10Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26817301811) =====
+[11:40:11] batch-start shard=1/2 count=20 backlog=10210 uploads=3175 failed_attempts=140
+[11:40:11] login
+[11:40:12] login done
+[11:40:12] iteration 1/20
+[11:40:12] film cr_film_id=17095 name='Dolphin Reef (2018)' candidates=3
+[11:40:12]   candidate upload_id=5e9543056043d url=https://prehraj.to/dolphin-reef-2020-titulky-cz-1080p/5e9543056043d
+[11:40:14]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/16226797/06vtg5TlxiEJi2jS3BHePTJAtKRC9KUznfkv…)
+[11:42:05]   downloaded 1,838.1 MB in 109.0s (16.9 MB/s)
+[11:43:54]   upload done video_id=25445840 in 109.3s
