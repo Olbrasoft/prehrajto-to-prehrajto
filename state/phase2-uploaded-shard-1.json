@@ -57475,6 +57475,25 @@
         "download_sec": 36.8,
         "upload_sec": 44.9
       }
+    },
+    {
+      "cr_film_id": 17525,
+      "cr_slug": "knuckledust",
+      "title": "Knuckledust",
+      "year": 2020,
+      "display_name": "Knuckledust (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "60dc2b42d0930",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25440838,
+      "size_bytes": 611637250,
+      "uploaded_at": "2026-06-02T04:05:52Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 23.0,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -58453,7 +58472,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/snoubenec-nebo-milenec-2020-cz-dabing-mp4/00deb4f01eb4ae12",
       "permanent": true,
       "failed_at": "2026-06-02T03:17:53Z"
+    },
+    {
+      "cr_film_id": 2275,
+      "upload_id": "25c0dcc3b9cb4587",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mala-rybka-2020-cz-dabing-mp4/25c0dcc3b9cb4587",
+      "permanent": true,
+      "failed_at": "2026-06-02T04:04:50Z"
     }
   ],
-  "last_updated": "2026-06-02T04:04:48Z"
+  "last_updated": "2026-06-02T04:05:52Z"
 }
