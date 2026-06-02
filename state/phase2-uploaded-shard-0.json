@@ -61199,6 +61199,25 @@
         "download_sec": 45.0,
         "upload_sec": 65.4
       }
+    },
+    {
+      "cr_film_id": 10000,
+      "cr_slug": "hellraiser-judgment",
+      "title": "Hellraiser: Judgment",
+      "year": 2018,
+      "display_name": "Hellraiser: Judgment (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5fede73b7fec1",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25448192,
+      "size_bytes": 930922626,
+      "uploaded_at": "2026-06-02T13:46:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 53.5,
+        "upload_sec": 68.3
+      }
     }
   ],
   "failed_attempts": [
@@ -62234,5 +62253,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-02T13:44:42Z"
+  "last_updated": "2026-06-02T13:46:48Z"
 }
