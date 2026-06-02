@@ -61537,7 +61537,18 @@
         "resolve_sec": 1.1,
         "download_sec": 99.2
       }
+    },
+    {
+      "cr_film_id": 16234,
+      "upload_id": "5ea7655d7a8cf",
+      "reason": "download_failed: curl exit 22: curl: (22) The requested URL returned error: 404",
+      "permanent": false,
+      "failed_at": "2026-06-02T12:19:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 1.1
+      }
     }
   ],
-  "last_updated": "2026-06-02T12:19:10Z"
+  "last_updated": "2026-06-02T12:19:24Z"
 }
