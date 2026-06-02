@@ -58026,6 +58026,25 @@
         "download_sec": 20.9,
         "upload_sec": 29.3
       }
+    },
+    {
+      "cr_film_id": 10445,
+      "cr_slug": "spindl-2",
+      "title": "Špindl 2",
+      "year": 2019,
+      "display_name": "Špindl 2 (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "d221380e3e7a4d1a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25441461,
+      "size_bytes": 842211626,
+      "uploaded_at": "2026-06-02T05:13:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 34.6,
+        "upload_sec": 49.9
+      }
     }
   ],
   "failed_attempts": [
@@ -59020,5 +59039,5 @@
       "failed_at": "2026-06-02T04:38:55Z"
     }
   ],
-  "last_updated": "2026-06-02T05:12:03Z"
+  "last_updated": "2026-06-02T05:13:32Z"
 }
