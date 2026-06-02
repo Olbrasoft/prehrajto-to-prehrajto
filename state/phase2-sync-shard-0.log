@@ -24883,3 +24883,14 @@
 [20:06:12]   upload done video_id=25455767 in 22.2s
 [20:06:14] film cr_film_id=18852 OK in 220.4s
 [20:06:14] batch-end ok=20 failed=0 dur=7735.5s avg/film=386.8s remaining=6886 eta_hours=739.9
+
+===== run 2026-06-02T20:06:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26844978663) =====
+[20:06:50] batch-start shard=0/2 count=20 backlog=10210 uploads=3324 failed_attempts=145
+[20:06:50] login
+[20:06:52] login done
+[20:06:52] iteration 1/20
+[20:06:52] film cr_film_id=20530 name='We Go On (2016)' candidates=1
+[20:06:52]   candidate upload_id=5ab4e45fdf693 url=https://prehraj.to/we-go-on-2016/5ab4e45fdf693
+[20:06:53]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/3708182/vvNfLahdKFZvcGoUoNtdPh5OTEXTPrux2sOjU…)
+[20:07:25]   downloaded 441.9 MB in 29.7s (14.9 MB/s)
+[20:08:01]   upload done video_id=25455786 in 35.6s
