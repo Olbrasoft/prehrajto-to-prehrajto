@@ -57760,6 +57760,25 @@
         "download_sec": 99.7,
         "upload_sec": 113.1
       }
+    },
+    {
+      "cr_film_id": 37176,
+      "cr_slug": "happier-than-ever-a-love-letter-to-los-angeles",
+      "title": "Happier Than Ever: A Love Letter to Los Angeles",
+      "year": 2021,
+      "display_name": "Happier Than Ever: A Love Letter to Los Angeles (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "60da638c942b9980",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25441168,
+      "size_bytes": 1751259620,
+      "uploaded_at": "2026-06-02T04:39:41Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 87.6,
+        "upload_sec": 103.3
+      }
     }
   ],
   "failed_attempts": [
@@ -58680,7 +58699,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/injustice-2021-2160p-4k-bluray-x265-10bit-aac5-1-yts-mx/617a9708ccc5b",
       "permanent": true,
       "failed_at": "2026-06-02T04:16:36Z"
+    },
+    {
+      "cr_film_id": 3280,
+      "upload_id": "68793d004ffa6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/harry-aft-boxer-z-osvetimi-the-urvivor-2021-1080p-webrip-h264-dd-2-0-cz/68793d004ffa6",
+      "permanent": true,
+      "failed_at": "2026-06-02T04:36:21Z"
     }
   ],
-  "last_updated": "2026-06-02T04:36:18Z"
+  "last_updated": "2026-06-02T04:39:41Z"
 }
