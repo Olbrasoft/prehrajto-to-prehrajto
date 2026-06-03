@@ -67963,6 +67963,25 @@
         "download_sec": 21.0,
         "upload_sec": 28.9
       }
+    },
+    {
+      "cr_film_id": 27751,
+      "cr_slug": "static",
+      "title": "Static",
+      "year": 2012,
+      "display_name": "Static (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab5a02c4c1ab",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25467994,
+      "size_bytes": 510530678,
+      "uploaded_at": "2026-06-03T04:46:40Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.3,
+        "upload_sec": 30.4
+      }
     }
   ],
   "failed_attempts": [
@@ -69017,5 +69036,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T04:45:43Z"
+  "last_updated": "2026-06-03T04:46:40Z"
 }
