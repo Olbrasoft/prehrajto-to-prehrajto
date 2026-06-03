@@ -70547,6 +70547,25 @@
         "download_sec": 22.2,
         "upload_sec": 39.6
       }
+    },
+    {
+      "cr_film_id": 27606,
+      "cr_slug": "velka-krize",
+      "title": "Velká krize",
+      "year": 2011,
+      "display_name": "Velká krize (2011)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5abb4391c9e47",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25474027,
+      "size_bytes": 954758742,
+      "uploaded_at": "2026-06-03T08:43:36Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 28.1,
+        "upload_sec": 42.4
+      }
     }
   ],
   "failed_attempts": [
@@ -71629,5 +71648,5 @@
       "failed_at": "2026-06-03T07:01:03Z"
     }
   ],
-  "last_updated": "2026-06-03T08:42:22Z"
+  "last_updated": "2026-06-03T08:43:36Z"
 }
