@@ -28971,3 +28971,14 @@
 [13:49:15]   upload done video_id=25483694 in 23.5s
 [13:49:17] film cr_film_id=19616 OK in 42.6s
 [13:49:17] batch-end ok=20 failed=0 dur=1409.7s avg/film=70.5s remaining=6330 eta_hours=124.0
+
+===== run 2026-06-03T13:52:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26889322950) =====
+[13:52:46] batch-start shard=0/2 count=20 backlog=10210 uploads=3880 failed_attempts=153
+[13:52:46] login
+[13:52:48] login done
+[13:52:48] iteration 1/20
+[13:52:48] film cr_film_id=26690 name='V ringu smrti (2008)' candidates=2
+[13:52:48]   candidate upload_id=5ab6a53205051 url=https://prehraj.to/v-ringu-smrti-2008/5ab6a53205051
+[13:52:49]   resolved in 1.8s → 720p (https://pf-storage5.premiumcdn.net/3722045/K8otZof3QFrEUxBh8Bs7XfNXiV5IrPCbvcyns…)
+[13:53:38]   downloaded 970.8 MB in 46.8s (20.7 MB/s)
+[13:54:27]   upload done video_id=25483793 in 49.4s
