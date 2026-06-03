@@ -77235,6 +77235,25 @@
         "download_sec": 43.8,
         "upload_sec": 53.0
       }
+    },
+    {
+      "cr_film_id": 25360,
+      "cr_slug": "late-bloomer-2004",
+      "title": "Late Bloomer",
+      "year": 2004,
+      "display_name": "Late Bloomer (2004)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5882b7c0831a6",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25494719,
+      "size_bytes": 383295062,
+      "uploaded_at": "2026-06-03T22:58:42Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 15.2,
+        "upload_sec": 23.1
+      }
     }
   ],
   "failed_attempts": [
@@ -78366,5 +78385,5 @@
       "failed_at": "2026-06-03T17:18:48Z"
     }
   ],
-  "last_updated": "2026-06-03T22:58:00Z"
+  "last_updated": "2026-06-03T22:58:42Z"
 }
