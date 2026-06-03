@@ -26701,3 +26701,14 @@
 [04:25:09] film cr_film_id=27849 all candidates exhausted
 [04:25:09] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
 [04:25:09] batch-end ok=0 failed=3 dur=763.1s avg/film=0s remaining=6636 eta_hours=None
+
+===== run 2026-06-03T04:41:56Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26864135944) =====
+[04:41:57] batch-start shard=1/2 count=20 backlog=10210 uploads=3574 failed_attempts=144
+[04:41:57] login
+[04:41:59] login done
+[04:41:59] iteration 1/20
+[04:41:59] film cr_film_id=27841 name='Tai ji 1: Cong ling kai shi (2012)' candidates=1
+[04:41:59]   candidate upload_id=5ab784fba16cf url=https://prehraj.to/tai-chi-zero-2012/5ab784fba16cf
+[04:42:00]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/3733699/8yqFYri4BTamCGrt5qIzniV3HlNFoEHlRU60s…)
+[04:42:52]   downloaded 1,269.1 MB in 50.9s (24.9 MB/s)
+[04:44:03]   upload done video_id=25467918 in 70.4s
