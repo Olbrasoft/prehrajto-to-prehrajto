@@ -26533,3 +26533,14 @@
 [03:23:10]   upload done video_id=25466088 in 52.4s
 [03:23:11] film cr_film_id=28229 OK in 102.8s
 [03:23:11] batch-end ok=20 failed=0 dur=2453.4s avg/film=122.7s remaining=6656 eta_hours=226.9
+
+===== run 2026-06-03T03:23:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26861733092) =====
+[03:23:36] batch-start shard=1/2 count=20 backlog=10210 uploads=3554 failed_attempts=141
+[03:23:36] login
+[03:23:39] login done
+[03:23:39] iteration 1/20
+[03:23:39] film cr_film_id=32561 name='Christmas Bounty (2013)' candidates=1
+[03:23:39]   candidate upload_id=585312342e529 url=https://prehraj.to/christmas-bounty-2013-480p-bluray-x264-msd/585312342e529
+[03:23:40]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1180852/eb2TgPU26UbguZ3FvnHeEUdwuNJty8flDuWRu…)
+[03:24:10]   downloaded 569.8 MB in 27.9s (20.4 MB/s)
+[03:24:51]   upload done video_id=25466134 in 40.7s
