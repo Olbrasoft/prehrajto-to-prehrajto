@@ -26993,3 +26993,14 @@
 [05:51:15]   upload done video_id=25469429 in 29.4s
 [05:51:17] film cr_film_id=32357 OK in 54.0s
 [05:51:17] batch-end ok=20 failed=0 dur=1802.4s avg/film=90.1s remaining=6596 eta_hours=165.1
+
+===== run 2026-06-03T05:51:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26866401180) =====
+[05:51:44] batch-start shard=1/2 count=20 backlog=10210 uploads=3614 failed_attempts=144
+[05:51:44] login
+[05:51:46] login done
+[05:51:46] iteration 1/20
+[05:51:46] film cr_film_id=15481 name='Filadelfský experiment (2012)' candidates=2
+[05:51:46]   candidate upload_id=5ac434bde87ba url=https://prehraj.to/experiment-philadelphia-2012/5ac434bde87ba
+[05:51:47]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/3823678/7GQTw2IeRUbqiQeSO9C52IP5hoRHbyFGBijmi…)
+[05:53:01]   downloaded 1,337.1 MB in 71.7s (18.6 MB/s)
+[05:54:24]   upload done video_id=25469471 in 83.4s
