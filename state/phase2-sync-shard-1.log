@@ -26241,3 +26241,14 @@
 [02:02:03]   upload done video_id=25463969 in 34.0s
 [02:02:05] film cr_film_id=27783 OK in 64.3s
 [02:02:05] batch-end ok=20 failed=0 dur=1876.9s avg/film=93.8s remaining=6696 eta_hours=174.5
+
+===== run 2026-06-03T02:02:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26859236311) =====
+[02:02:30] batch-start shard=1/2 count=20 backlog=10210 uploads=3514 failed_attempts=141
+[02:02:30] login
+[02:02:31] login done
+[02:02:31] iteration 1/20
+[02:02:31] film cr_film_id=28531 name="Pete's Christmas (2013)" candidates=1
+[02:02:31]   candidate upload_id=584d836a7b9e8 url=https://prehraj.to/pete-s-christmas-2013-lektor-pl/584d836a7b9e8
+[02:02:33]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/1118648/EGMH6PigbIzYU58CObf7kizotExSbdfaXhADF…)
+[02:03:00]   downloaded 418.7 MB in 24.8s (16.9 MB/s)
+[02:03:45]   upload done video_id=25464008 in 44.6s
