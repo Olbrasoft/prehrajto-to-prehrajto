@@ -29619,3 +29619,14 @@
 [18:04:41]   upload done video_id=25488727 in 39.1s
 [18:04:43] film cr_film_id=10511 OK in 1061.0s
 [18:04:43] batch-end ok=20 failed=0 dur=4885.8s avg/film=244.3s remaining=6238 eta_hours=423.3
+
+===== run 2026-06-03T18:05:22Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26903580923) =====
+[18:05:24] batch-start shard=1/2 count=20 backlog=10210 uploads=3972 failed_attempts=146
+[18:05:24] login
+[18:05:27] login done
+[18:05:27] iteration 1/20
+[18:05:27] film cr_film_id=25421 name='Ikona (2005)' candidates=1
+[18:05:27]   candidate upload_id=5816be2a4c540 url=https://prehraj.to/ikona-brana-smrti-cz-2004/5816be2a4c540
+[18:05:30]   resolved in 3.3s → 480p (https://pf-storage5.premiumcdn.net/772531/VgDSJkcGmIgeTkoFwvtLPczOiNlIWPfPoS4bSk…)
+[18:06:39]   downloaded 1,281.4 MB in 67.2s (19.1 MB/s)
+[18:08:17]   upload done video_id=25488826 in 97.4s
