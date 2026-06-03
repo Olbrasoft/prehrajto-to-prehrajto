@@ -29117,3 +29117,14 @@
 [14:22:29]   upload done video_id=25484356 in 53.8s
 [14:22:32] film cr_film_id=26590 OK in 94.2s
 [14:22:32] batch-end ok=20 failed=0 dur=1784.0s avg/film=89.2s remaining=6310 eta_hours=156.3
+
+===== run 2026-06-03T14:30:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26891556282) =====
+[14:30:16] batch-start shard=0/2 count=20 backlog=10210 uploads=3900 failed_attempts=153
+[14:30:16] login
+[14:30:18] login done
+[14:30:18] iteration 1/20
+[14:30:18] film cr_film_id=27044 name='Marilyn, dernières séances (2008)' candidates=1
+[14:30:18]   candidate upload_id=584c517f4c444 url=https://prehraj.to/marilyn-monroe-posledni-sezeni-2008/584c517f4c444
+[14:30:19]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/1107947/767uDJij6hDXtQgCknfoQiGETlXT2nfDzfzVf…)
+[14:30:55]   downloaded 797.3 MB in 34.3s (23.2 MB/s)
+[14:31:37]   upload done video_id=25484525 in 42.6s
