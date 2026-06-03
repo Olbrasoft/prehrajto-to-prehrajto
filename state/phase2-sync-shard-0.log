@@ -27077,3 +27077,14 @@
 [05:46:00]   upload done video_id=25469305 in 48.1s
 [05:46:02] film cr_film_id=28234 OK in 89.5s
 [05:46:02] batch-end ok=20 failed=0 dur=1486.2s avg/film=74.3s remaining=6587 eta_hours=135.9
+
+===== run 2026-06-03T05:51:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26866401180) =====
+[05:51:47] batch-start shard=0/2 count=20 backlog=10210 uploads=3623 failed_attempts=149
+[05:51:47] login
+[05:51:48] login done
+[05:51:48] iteration 1/20
+[05:51:48] film cr_film_id=32216 name='Co v detektivce nebylo (2013)' candidates=2
+[05:51:48]   candidate upload_id=5ad94b35eed15 url=https://prehraj.to/co-v-detektivce-nebylo-2013/5ad94b35eed15
+[05:51:50]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/3907534/zWOtLbUZLtqRcYbUGbs80UX6U4NSegSVOuLEF…)
+[05:52:17]   downloaded 465.7 MB in 24.9s (18.7 MB/s)
+[05:52:53]   upload done video_id=25469458 in 36.8s
