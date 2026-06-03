@@ -66747,6 +66747,25 @@
         "download_sec": 43.2,
         "upload_sec": 62.1
       }
+    },
+    {
+      "cr_film_id": 32324,
+      "cr_slug": "redirected",
+      "title": "Redirected",
+      "year": 2014,
+      "display_name": "Redirected (2014)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "811eadd8f30059df",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25464622,
+      "size_bytes": 1136579867,
+      "uploaded_at": "2026-06-03T02:28:10Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 56.6,
+        "upload_sec": 67.6
+      }
     }
   ],
   "failed_attempts": [
@@ -67822,5 +67841,5 @@
       "failed_at": "2026-06-02T23:04:00Z"
     }
   ],
-  "last_updated": "2026-06-03T02:26:01Z"
+  "last_updated": "2026-06-03T02:28:10Z"
 }
