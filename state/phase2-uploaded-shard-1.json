@@ -69635,6 +69635,25 @@
         "download_sec": 38.2,
         "upload_sec": 46.9
       }
+    },
+    {
+      "cr_film_id": 35337,
+      "cr_slug": "carl-bertha",
+      "title": "Carl & Bertha",
+      "year": 2011,
+      "display_name": "Carl & Bertha (2011)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aa9ecbcd255b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25471585,
+      "size_bytes": 536624409,
+      "uploaded_at": "2026-06-03T07:22:22Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.6,
+        "upload_sec": 31.9
+      }
     }
   ],
   "failed_attempts": [
@@ -70689,5 +70708,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T07:21:22Z"
+  "last_updated": "2026-06-03T07:22:22Z"
 }
