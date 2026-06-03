@@ -28599,3 +28599,14 @@
 [12:30:22]   upload done video_id=25481353 in 32.8s
 [12:30:24] film cr_film_id=30639 OK in 57.3s
 [12:30:24] batch-end ok=20 failed=0 dur=1664.8s avg/film=83.2s remaining=6376 eta_hours=147.4
+
+===== run 2026-06-03T12:50:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26885852098) =====
+[12:50:13] batch-start shard=1/2 count=20 backlog=10210 uploads=3834 failed_attempts=144
+[12:50:13] login
+[12:50:14] login done
+[12:50:14] iteration 1/20
+[12:50:14] film cr_film_id=13641 name='Camille (2008)' candidates=1
+[12:50:14]   candidate upload_id=5ac6dad139001 url=https://prehraj.to/camille-2008/5ac6dad139001
+[12:50:15]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/3834779/NGjuB9fb0iDyCEJhwqIdOfDxsxyipKH9NIKZF…)
+[12:50:33]   downloaded 400.6 MB in 15.9s (25.2 MB/s)
+[12:51:03]   upload done video_id=25482327 in 30.2s
