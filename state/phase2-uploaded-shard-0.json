@@ -77596,6 +77596,25 @@
         "download_sec": 20.0,
         "upload_sec": 32.1
       }
+    },
+    {
+      "cr_film_id": 25018,
+      "cr_slug": "zamilovany-knez",
+      "title": "Zamilovaný kněz",
+      "year": 2003,
+      "display_name": "Zamilovaný kněz (2003)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5876eac58fe0d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25496012,
+      "size_bytes": 182687616,
+      "uploaded_at": "2026-06-03T23:48:44Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 8.6,
+        "upload_sec": 15.9
+      }
     }
   ],
   "failed_attempts": [
@@ -78727,5 +78746,5 @@
       "failed_at": "2026-06-03T17:18:48Z"
     }
   ],
-  "last_updated": "2026-06-03T23:48:15Z"
+  "last_updated": "2026-06-03T23:48:44Z"
 }
