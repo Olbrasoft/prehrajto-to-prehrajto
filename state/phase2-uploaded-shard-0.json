@@ -76114,6 +76114,25 @@
         "download_sec": 23.4,
         "upload_sec": 32.3
       }
+    },
+    {
+      "cr_film_id": 13632,
+      "cr_slug": "fido",
+      "title": "Fido",
+      "year": 2006,
+      "display_name": "Fido (2006)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c091be93f642",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25492513,
+      "size_bytes": 1228901817,
+      "uploaded_at": "2026-06-03T21:09:35Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 66.0,
+        "upload_sec": 76.0
+      }
     }
   ],
   "failed_attempts": [
@@ -77245,5 +77264,5 @@
       "failed_at": "2026-06-03T17:18:48Z"
     }
   ],
-  "last_updated": "2026-06-03T21:07:08Z"
+  "last_updated": "2026-06-03T21:09:35Z"
 }
