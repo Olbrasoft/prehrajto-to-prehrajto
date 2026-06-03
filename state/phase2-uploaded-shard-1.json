@@ -72105,6 +72105,25 @@
         "download_sec": 57.7,
         "upload_sec": 63.5
       }
+    },
+    {
+      "cr_film_id": 26521,
+      "cr_slug": "wendy-a-lucy",
+      "title": "Wendy a Lucy",
+      "year": 2008,
+      "display_name": "Wendy a Lucy (2008)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "583f48ae74351",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25479618,
+      "size_bytes": 2139365088,
+      "uploaded_at": "2026-06-03T11:26:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 74.6,
+        "upload_sec": 107.0
+      }
     }
   ],
   "failed_attempts": [
@@ -73159,5 +73178,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T11:23:45Z"
+  "last_updated": "2026-06-03T11:26:51Z"
 }
