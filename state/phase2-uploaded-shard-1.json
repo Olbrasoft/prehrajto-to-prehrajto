@@ -72390,6 +72390,25 @@
         "download_sec": 42.2,
         "upload_sec": 67.7
       }
+    },
+    {
+      "cr_film_id": 26187,
+      "cr_slug": "pod-dozorem",
+      "title": "Pod dozorem",
+      "year": 2008,
+      "display_name": "Pod dozorem (2008)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9d3f933d1e4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25480048,
+      "size_bytes": 419402931,
+      "uploaded_at": "2026-06-03T11:42:24Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.6,
+        "upload_sec": 26.9
+      }
     }
   ],
   "failed_attempts": [
@@ -73444,5 +73463,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T11:41:40Z"
+  "last_updated": "2026-06-03T11:42:24Z"
 }
