@@ -68937,7 +68937,28 @@
         "resolve_sec": 1.4,
         "download_sec": 8.8
       }
+    },
+    {
+      "cr_film_id": 27841,
+      "upload_id": "5ab784fba16cf",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Ftai-chi-zero-2012%2F5ab784fba16cf (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f0c0eeaa5a0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/tai-chi-zero-2012/5ab784fba16cf",
+      "permanent": false,
+      "failed_at": "2026-06-03T04:16:41Z"
+    },
+    {
+      "cr_film_id": 28081,
+      "upload_id": "5aba10caeb787",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fsuperman-vs-elita-2012%2F5aba10caeb787 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f0c0eef4c80>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/superman-vs-elita-2012/5aba10caeb787",
+      "permanent": false,
+      "failed_at": "2026-06-03T04:20:55Z"
+    },
+    {
+      "cr_film_id": 27849,
+      "upload_id": "5ab86aaa51ae4",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fstorage-24-2012%2F5ab86aaa51ae4 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f0c0eef5d60>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/storage-24-2012/5ab86aaa51ae4",
+      "permanent": false,
+      "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T04:11:59Z"
+  "last_updated": "2026-06-03T04:25:09Z"
 }
