@@ -74347,6 +74347,25 @@
         "download_sec": 9.7,
         "upload_sec": 20.1
       }
+    },
+    {
+      "cr_film_id": 35214,
+      "cr_slug": "eldorado-2008",
+      "title": "Eldorado",
+      "year": 2008,
+      "display_name": "Eldorado (2008)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55ec41b0d960b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25484884,
+      "size_bytes": 660764097,
+      "uploaded_at": "2026-06-03T14:49:01Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 27.0,
+        "upload_sec": 37.3
+      }
     }
   ],
   "failed_attempts": [
@@ -75457,5 +75476,5 @@
       "failed_at": "2026-06-03T14:45:39Z"
     }
   ],
-  "last_updated": "2026-06-03T14:47:53Z"
+  "last_updated": "2026-06-03T14:49:01Z"
 }
