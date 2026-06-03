@@ -28015,3 +28015,14 @@
 [10:18:56]   upload done video_id=25476913 in 50.3s
 [10:18:58] film cr_film_id=34645 OK in 96.0s
 [10:18:58] batch-end ok=20 failed=0 dur=2077.5s avg/film=103.9s remaining=6456 eta_hours=186.3
+
+===== run 2026-06-03T10:19:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26878488072) =====
+[10:19:28] batch-start shard=1/2 count=20 backlog=10210 uploads=3754 failed_attempts=144
+[10:19:28] login
+[10:19:29] login done
+[10:19:29] iteration 1/20
+[10:19:29] film cr_film_id=34965 name='Pravá láska nerezaví (2009)' candidates=1
+[10:19:29]   candidate upload_id=677418f929d1d url=https://prehraj.to/prava-laska-nerezavi-coyote-county-loser-cz-cely-film/677418f929d1d
+[10:19:30]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/126841025/a8ATj1H7kfkdt1niPvHBnHJjU6rI7Eh2vuE…)
+[10:19:59]   downloaded 475.2 MB in 26.2s (18.1 MB/s)
+[10:20:41]   upload done video_id=25477128 in 41.9s
