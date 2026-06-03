@@ -69388,6 +69388,25 @@
         "download_sec": 24.8,
         "upload_sec": 41.0
       }
+    },
+    {
+      "cr_film_id": 27230,
+      "cr_slug": "the-iceman",
+      "title": "The Iceman",
+      "year": 2012,
+      "display_name": "The Iceman (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab1e987280dc",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25470723,
+      "size_bytes": 1105059302,
+      "uploaded_at": "2026-06-03T06:47:34Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 53.7,
+        "upload_sec": 64.6
+      }
     }
   ],
   "failed_attempts": [
@@ -70463,5 +70482,5 @@
       "failed_at": "2026-06-02T23:04:00Z"
     }
   ],
-  "last_updated": "2026-06-03T06:45:31Z"
+  "last_updated": "2026-06-03T06:47:34Z"
 }
