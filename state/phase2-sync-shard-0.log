@@ -29690,3 +29690,10 @@
 [17:17:49]   resolved in 0.8s → 480p (https://pf-storage5.premiumcdn.net/3464043/XrKIdAfPDF1GIo5hW5cwzfQOcAWheLtRyhR2f…)
 [17:18:09]   downloaded 494.9 MB in 18.8s (26.3 MB/s)
 [17:18:45]   upload done video_id=25487639 in 35.8s
+[17:18:47] film cr_film_id=25756 OK in 58.7s
+[17:18:47] iteration 20/20
+[17:18:47] film cr_film_id=36610 name='Šarlotina pavučinka (2006)' candidates=1
+[17:18:47]   candidate upload_id=23511d7f55db6eb2 url=https://prehraj.to/sarlotina-pavucinka/23511d7f55db6eb2
+[17:18:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sarlotina-pavucinka/23511d7f55db6eb2 (permanent=True)
+[17:18:48] film cr_film_id=36610 all candidates exhausted
+[17:18:48] batch-end ok=18 failed=2 dur=2127.8s avg/film=118.2s remaining=6233 eta_hours=204.7
