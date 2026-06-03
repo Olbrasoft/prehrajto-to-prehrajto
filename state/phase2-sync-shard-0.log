@@ -29989,3 +29989,14 @@
 [21:28:17]   upload done video_id=25492865 in 35.5s
 [21:28:19] film cr_film_id=25672 OK in 66.3s
 [21:28:19] batch-end ok=20 failed=0 dur=3478.4s avg/film=173.9s remaining=6193 eta_hours=299.2
+
+===== run 2026-06-03T21:28:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26914135863) =====
+[21:28:52] batch-start shard=0/2 count=20 backlog=10210 uploads=4017 failed_attempts=157
+[21:28:52] login
+[21:28:54] login done
+[21:28:54] iteration 1/20
+[21:28:54] film cr_film_id=13230 name='Atentát v Ambassadoru (2006)' candidates=1
+[21:28:54]   candidate upload_id=5ab5738a5e57f url=https://prehraj.to/bobby-2006/5ab5738a5e57f
+[21:28:57]   resolved in 3.9s → 480p (https://pf-storage4.premiumcdn.net/3709901/82ocMDhZDcqnCencrAHJRhanCQoUg2fzmtJ6s…)
+[21:29:59]   downloaded 1,211.4 MB in 59.4s (20.4 MB/s)
+[21:31:22]   upload done video_id=25492909 in 83.1s
