@@ -30352,3 +30352,14 @@
 [23:38:26]   upload done video_id=25495663 in 34.9s
 [23:38:28] film cr_film_id=13213 OK in 62.1s
 [23:38:28] batch-end ok=20 failed=0 dur=3083.6s avg/film=154.2s remaining=6138 eta_hours=262.9
+
+===== run 2026-06-03T23:38:56Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26919985978) =====
+[23:38:57] batch-start shard=1/2 count=20 backlog=10210 uploads=4072 failed_attempts=147
+[23:38:57] login
+[23:38:58] login done
+[23:38:58] iteration 1/20
+[23:38:58] film cr_film_id=19453 name='Výtah smrti (2001)' candidates=1
+[23:38:58]   candidate upload_id=5a9ef4ad0a892 url=https://prehraj.to/vytah-smrti-2001/5a9ef4ad0a892
+[23:38:59]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/3555681/lb1sGkTQ9HorFXxUz6ULATypI7msRbs36ud2S…)
+[23:39:36]   downloaded 1,225.7 MB in 35.4s (34.6 MB/s)
+[23:40:27]   upload done video_id=25495724 in 50.7s
