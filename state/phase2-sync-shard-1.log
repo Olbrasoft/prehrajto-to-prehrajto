@@ -29327,3 +29327,14 @@
 [15:55:20]   upload done video_id=25486045 in 27.2s
 [15:55:22] film cr_film_id=25627 OK in 51.0s
 [15:55:22] batch-end ok=20 failed=0 dur=2606.1s avg/film=130.3s remaining=6278 eta_hours=227.2
+
+===== run 2026-06-03T15:55:57Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26896622049) =====
+[15:55:58] batch-start shard=1/2 count=20 backlog=10210 uploads=3932 failed_attempts=146
+[15:55:58] login
+[15:55:59] login done
+[15:55:59] iteration 1/20
+[15:55:59] film cr_film_id=25989 name='Halloweenská noc (2006)' candidates=1
+[15:55:59]   candidate upload_id=5ac34090d8506 url=https://prehraj.to/halloweenska-noc-2006/5ac34090d8506
+[15:56:01]   resolved in 1.7s → 480p (https://pf-storage2.premiumcdn.net/3818785/V1jCn1TYzc2OsYDTkLso4TL3HBQH0oSYduYqC…)
+[15:56:26]   downloaded 376.1 MB in 22.9s (16.4 MB/s)
+[15:56:58]   upload done video_id=25486078 in 31.6s
