@@ -28745,3 +28745,14 @@
 [13:13:32]   upload done video_id=25482970 in 29.8s
 [13:13:34] film cr_film_id=25755 OK in 51.6s
 [13:13:34] batch-end ok=20 failed=0 dur=1399.9s avg/film=70.0s remaining=6356 eta_hours=123.6
+
+===== run 2026-06-03T13:25:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26887774659) =====
+[13:25:43] batch-start shard=1/2 count=20 backlog=10210 uploads=3854 failed_attempts=144
+[13:25:43] login
+[13:25:44] login done
+[13:25:44] iteration 1/20
+[13:25:44] film cr_film_id=26305 name='Tajemství mé dcery (2007)' candidates=1
+[13:25:44]   candidate upload_id=5852875d97efb url=https://prehraj.to/tajemstvi-me-dcery-2007-cz/5852875d97efb
+[13:25:46]   resolved in 1.8s → 480p (https://pf-storage2.premiumcdn.net/1177982/kmJcznTKbI97COKUZyhZnTRGCG5UvJtK9UvVu…)
+[13:26:06]   downloaded 442.4 MB in 17.7s (25.0 MB/s)
+[13:26:35]   upload done video_id=25483222 in 29.2s
