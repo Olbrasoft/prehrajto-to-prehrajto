@@ -73606,6 +73606,25 @@
         "download_sec": 15.1,
         "upload_sec": 24.5
       }
+    },
+    {
+      "cr_film_id": 26247,
+      "cr_slug": "muka",
+      "title": "Muka",
+      "year": 2007,
+      "display_name": "Muka (2007)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aaf18c8d2576",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25483778,
+      "size_bytes": 424319938,
+      "uploaded_at": "2026-06-03T13:53:52Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 24.3,
+        "upload_sec": 34.3
+      }
     }
   ],
   "failed_attempts": [
@@ -74660,5 +74679,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T13:52:16Z"
+  "last_updated": "2026-06-03T13:53:52Z"
 }
