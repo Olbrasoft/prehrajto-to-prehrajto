@@ -69160,6 +69160,25 @@
         "download_sec": 46.3,
         "upload_sec": 55.3
       }
+    },
+    {
+      "cr_film_id": 33136,
+      "cr_slug": "film-16",
+      "title": "Август. Восьмого",
+      "year": 2012,
+      "display_name": "Август. Восьмого (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aa2d1e9eb450",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25470189,
+      "size_bytes": 2257433964,
+      "uploaded_at": "2026-06-03T06:28:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 323.6,
+        "upload_sec": 110.7
+      }
     }
   ],
   "failed_attempts": [
@@ -70235,5 +70254,5 @@
       "failed_at": "2026-06-02T23:04:00Z"
     }
   ],
-  "last_updated": "2026-06-03T06:21:15Z"
+  "last_updated": "2026-06-03T06:28:34Z"
 }
