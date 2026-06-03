@@ -75373,6 +75373,25 @@
         "download_sec": 18.7,
         "upload_sec": 30.7
       }
+    },
+    {
+      "cr_film_id": 33495,
+      "cr_slug": "le-cactus",
+      "title": "Le Cactus",
+      "year": 2005,
+      "display_name": "Le Cactus (2005)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5e2a22fbcbc8e",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25487968,
+      "size_bytes": 566667471,
+      "uploaded_at": "2026-06-03T17:33:54Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 20.9,
+        "upload_sec": 33.2
+      }
     }
   ],
   "failed_attempts": [
@@ -76446,5 +76465,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-03T17:32:56Z"
+  "last_updated": "2026-06-03T17:33:54Z"
 }
