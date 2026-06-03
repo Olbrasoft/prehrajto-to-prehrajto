@@ -77672,6 +77672,25 @@
         "download_sec": 23.9,
         "upload_sec": 31.1
       }
+    },
+    {
+      "cr_film_id": 29993,
+      "cr_slug": "hladova-noc",
+      "title": "Hladová noc",
+      "year": 2001,
+      "display_name": "Hladová noc (2001)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "583b31a142b5e",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25496239,
+      "size_bytes": 120380066,
+      "uploaded_at": "2026-06-03T23:57:29Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 7.1,
+        "upload_sec": 13.9
+      }
     }
   ],
   "failed_attempts": [
@@ -78752,5 +78771,5 @@
       "failed_at": "2026-06-03T22:32:15Z"
     }
   ],
-  "last_updated": "2026-06-03T23:57:04Z"
+  "last_updated": "2026-06-03T23:57:29Z"
 }
