@@ -25949,3 +25949,14 @@
 [00:48:57]   upload done video_id=25462173 in 80.5s
 [00:48:59] film cr_film_id=30433 OK in 148.1s
 [00:48:59] batch-end ok=20 failed=0 dur=2386.9s avg/film=119.3s remaining=6736 eta_hours=223.2
+
+===== run 2026-06-03T00:49:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26856907416) =====
+[00:49:25] batch-start shard=1/2 count=20 backlog=10210 uploads=3474 failed_attempts=141
+[00:49:25] login
+[00:49:26] login done
+[00:49:26] iteration 1/20
+[00:49:26] film cr_film_id=20417 name='Die Hebamme (2014)' candidates=1
+[00:49:26]   candidate upload_id=5ab979754e440 url=https://prehraj.to/die-hebamme-2014/5ab979754e440
+[00:49:28]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/3747238/EpVt83FnGceyT07HDjTQ1F3Dc4kS8msGWiq8U…)
+[00:50:03]   downloaded 653.7 MB in 33.3s (19.6 MB/s)
+[00:50:49]   upload done video_id=25462243 in 45.5s
