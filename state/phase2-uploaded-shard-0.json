@@ -70319,6 +70319,25 @@
         "download_sec": 64.6,
         "upload_sec": 56.3
       }
+    },
+    {
+      "cr_film_id": 27866,
+      "cr_slug": "a-fantastic-fear-of-everything",
+      "title": "A Fantastic Fear of Everything",
+      "year": 2012,
+      "display_name": "A Fantastic Fear of Everything (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "583c69ccd7eaa",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25473665,
+      "size_bytes": 648942900,
+      "uploaded_at": "2026-06-03T08:29:22Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 44.0,
+        "upload_sec": 46.0
+      }
     }
   ],
   "failed_attempts": [
@@ -71401,5 +71420,5 @@
       "failed_at": "2026-06-03T07:01:03Z"
     }
   ],
-  "last_updated": "2026-06-03T08:27:47Z"
+  "last_updated": "2026-06-03T08:29:22Z"
 }
