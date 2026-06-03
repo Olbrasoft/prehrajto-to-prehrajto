@@ -70490,6 +70490,25 @@
         "download_sec": 24.1,
         "upload_sec": 32.8
       }
+    },
+    {
+      "cr_film_id": 27369,
+      "cr_slug": "kokuhaku",
+      "title": "Kokuhaku",
+      "year": 2010,
+      "display_name": "Kokuhaku (2010)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "576d929902fcd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25474349,
+      "size_bytes": 364441904,
+      "uploaded_at": "2026-06-03T08:56:37Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.5,
+        "upload_sec": 29.8
+      }
     }
   ],
   "failed_attempts": [
@@ -71544,5 +71563,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T08:55:40Z"
+  "last_updated": "2026-06-03T08:56:37Z"
 }
