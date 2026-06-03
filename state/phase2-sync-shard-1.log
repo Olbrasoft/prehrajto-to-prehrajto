@@ -30057,3 +30057,14 @@
 [22:04:45]   upload done video_id=25493462 in 152.7s
 [22:04:47] film cr_film_id=13243 OK in 258.3s
 [22:04:47] batch-end ok=20 failed=0 dur=2159.2s avg/film=108.0s remaining=6178 eta_hours=185.3
+
+===== run 2026-06-03T22:14:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26916339068) =====
+[22:14:26] batch-start shard=1/2 count=20 backlog=10210 uploads=4032 failed_attempts=146
+[22:14:26] login
+[22:14:27] login done
+[22:14:27] iteration 1/20
+[22:14:27] film cr_film_id=24909 name='Pomsta bratra (2003)' candidates=1
+[22:14:27]   candidate upload_id=5818ca1542ee3 url=https://prehraj.to/pomsta-bratra-cz-2003/5818ca1542ee3
+[22:14:28]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/785684/7xVh5qTAxH2YFBYU3gFqrTzYuPEi3yuGZsY1Fz…)
+[22:14:45]   downloaded 449.9 MB in 14.4s (31.2 MB/s)
+[22:15:14]   upload done video_id=25493728 in 29.2s
