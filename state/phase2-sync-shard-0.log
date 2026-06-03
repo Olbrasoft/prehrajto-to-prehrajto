@@ -25763,3 +25763,14 @@
 [00:03:31]   upload done video_id=25460918 in 53.4s
 [00:03:33] film cr_film_id=27978 OK in 103.3s
 [00:03:33] batch-end ok=20 failed=0 dur=2330.4s avg/film=116.5s remaining=6767 eta_hours=219.0
+
+===== run 2026-06-03T00:09:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26855565968) =====
+[00:09:09] batch-start shard=0/2 count=20 backlog=10210 uploads=3443 failed_attempts=149
+[00:09:09] login
+[00:09:11] login done
+[00:09:11] iteration 1/20
+[00:09:11] film cr_film_id=29240 name='Krampus: The Reckoning (2015)' candidates=1
+[00:09:11]   candidate upload_id=56977f294402d url=https://prehraj.to/krampus-the-reckoning-2015-eng/56977f294402d
+[00:09:12]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/348159/gLgIlxu24u18IRrcVqSNgun8U6ZcVAtkVS8WFm…)
+[00:09:35]   downloaded 372.4 MB in 20.4s (18.3 MB/s)
+[00:10:03]   upload done video_id=25461129 in 28.8s
