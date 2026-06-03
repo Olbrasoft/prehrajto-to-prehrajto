@@ -26639,3 +26639,14 @@
 [04:00:02]   upload done video_id=25466971 in 53.5s
 [04:00:05] film cr_film_id=16072 OK in 102.5s
 [04:00:05] batch-end ok=20 failed=0 dur=2184.8s avg/film=109.2s remaining=6647 eta_hours=201.6
+
+===== run 2026-06-03T04:12:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26863219749) =====
+[04:12:29] batch-start shard=0/2 count=20 backlog=10210 uploads=3563 failed_attempts=149
+[04:12:29] login
+[04:12:31] login done
+[04:12:31] iteration 1/20
+[04:12:31] film cr_film_id=33678 name='All Inclusive (2014)' candidates=1
+[04:12:31]   candidate upload_id=603e962baef9e url=https://prehraj.to/all-inclusive-2014-bluray-720p-dts-x264-mteam-komedie-drama-telefilm/603e962baef9e
+[04:12:32]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/22512248/wy4uNGULGuY9cb4sk7F8xUgQha4iQEsp2tM2…)
+[04:13:06]   downloaded 913.9 MB in 32.5s (28.1 MB/s)
+[04:13:47]   upload done video_id=25467271 in 40.7s
