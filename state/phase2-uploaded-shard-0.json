@@ -76779,6 +76779,25 @@
         "download_sec": 28.7,
         "upload_sec": 36.8
       }
+    },
+    {
+      "cr_film_id": 25504,
+      "cr_slug": "heidi",
+      "title": "Heidi",
+      "year": 2005,
+      "display_name": "Heidi (2005)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab6fd4df251c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25493805,
+      "size_bytes": 482694925,
+      "uploaded_at": "2026-06-03T22:18:39Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.4,
+        "upload_sec": 30.1
+      }
     }
   ],
   "failed_attempts": [
@@ -77910,5 +77929,5 @@
       "failed_at": "2026-06-03T17:18:48Z"
     }
   ],
-  "last_updated": "2026-06-03T22:17:47Z"
+  "last_updated": "2026-06-03T22:18:39Z"
 }
