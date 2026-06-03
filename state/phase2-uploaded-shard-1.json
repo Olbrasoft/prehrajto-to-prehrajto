@@ -70129,6 +70129,25 @@
         "download_sec": 12.7,
         "upload_sec": 24.1
       }
+    },
+    {
+      "cr_film_id": 27165,
+      "cr_slug": "streetdance-3d",
+      "title": "StreetDance 3D",
+      "year": 2010,
+      "display_name": "StreetDance 3D (2010)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac3d41c06f90",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25472878,
+      "size_bytes": 806627683,
+      "uploaded_at": "2026-06-03T08:02:35Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.1,
+        "upload_sec": 44.0
+      }
     }
   ],
   "failed_attempts": [
@@ -71183,5 +71202,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T08:01:23Z"
+  "last_updated": "2026-06-03T08:02:35Z"
 }
