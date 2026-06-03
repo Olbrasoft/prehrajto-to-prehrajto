@@ -28533,3 +28533,14 @@
 [12:02:05]   upload done video_id=25480438 in 34.1s
 [12:02:07] film cr_film_id=26460 OK in 62.9s
 [12:02:07] batch-end ok=19 failed=1 dur=2422.1s avg/film=127.5s remaining=6389 eta_hours=226.3
+
+===== run 2026-06-03T12:02:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26883434620) =====
+[12:02:42] batch-start shard=0/2 count=20 backlog=10210 uploads=3821 failed_attempts=151
+[12:02:42] login
+[12:02:44] login done
+[12:02:44] iteration 1/20
+[12:02:44] film cr_film_id=32676 name='Transylmania (2009)' candidates=1
+[12:02:44]   candidate upload_id=58673e8ecfd21 url=https://prehraj.to/transylmania-2009-dvdrip-m4e-samorarulez/58673e8ecfd21
+[12:02:45]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1259953/GoXcmrT4Et9vCrEh4gTOJTodh9MHorURgU53U…)
+[12:03:14]   downloaded 443.6 MB in 27.0s (16.4 MB/s)
+[12:03:58]   upload done video_id=25480473 in 43.4s
