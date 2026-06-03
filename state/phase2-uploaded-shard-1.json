@@ -72865,6 +72865,25 @@
         "download_sec": 15.9,
         "upload_sec": 30.2
       }
+    },
+    {
+      "cr_film_id": 26319,
+      "cr_slug": "buddenbrookovi",
+      "title": "Buddenbrookovi",
+      "year": 2008,
+      "display_name": "Buddenbrookovi (2008)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "586baff275a0c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25482350,
+      "size_bytes": 585109922,
+      "uploaded_at": "2026-06-03T12:52:11Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 22.1,
+        "upload_sec": 41.6
+      }
     }
   ],
   "failed_attempts": [
@@ -73919,5 +73938,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T12:51:03Z"
+  "last_updated": "2026-06-03T12:52:11Z"
 }
