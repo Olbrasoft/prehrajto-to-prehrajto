@@ -25909,3 +25909,14 @@
 [00:41:37]   upload done video_id=25462006 in 32.9s
 [00:41:39] film cr_film_id=30442 OK in 61.8s
 [00:41:39] batch-end ok=20 failed=0 dur=1947.8s avg/film=97.4s remaining=6747 eta_hours=182.5
+
+===== run 2026-06-03T00:49:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26856907416) =====
+[00:49:26] batch-start shard=0/2 count=20 backlog=10210 uploads=3463 failed_attempts=149
+[00:49:26] login
+[00:49:28] login done
+[00:49:28] iteration 1/20
+[00:49:28] film cr_film_id=16684 name='El hombre de paso piedra (2015)' candidates=1
+[00:49:28]   candidate upload_id=0ca73499a00cda0c url=https://prehraj.to/el-hombre-de-paso-piedra-2015-cz-dabing-mp4/0ca73499a00cda0c
+[00:49:29]   resolved in 1.2s → 480p (https://pf-storage6.premiumcdn.net/169419331/n40umQflgTADfNGSbxT1rfGxfNyTlmC4JH8…)
+[00:50:00]   downloaded 674.0 MB in 29.3s (23.0 MB/s)
+[00:50:54]   upload done video_id=25462239 in 54.3s
