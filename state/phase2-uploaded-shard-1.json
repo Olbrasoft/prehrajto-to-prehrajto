@@ -68799,6 +68799,25 @@
         "download_sec": 20.0,
         "upload_sec": 30.5
       }
+    },
+    {
+      "cr_film_id": 15423,
+      "cr_slug": "crooked-arrows",
+      "title": "Crooked Arrows",
+      "year": 2012,
+      "display_name": "Crooked Arrows (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ad9aff3caf93",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25469800,
+      "size_bytes": 1445214574,
+      "uploaded_at": "2026-06-03T06:09:58Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 75.6,
+        "upload_sec": 88.4
+      }
     }
   ],
   "failed_attempts": [
@@ -69853,5 +69872,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T06:07:09Z"
+  "last_updated": "2026-06-03T06:09:58Z"
 }
