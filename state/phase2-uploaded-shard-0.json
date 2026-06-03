@@ -69198,6 +69198,25 @@
         "download_sec": 27.0,
         "upload_sec": 42.0
       }
+    },
+    {
+      "cr_film_id": 27938,
+      "cr_slug": "zombibi",
+      "title": "Zombibi",
+      "year": 2012,
+      "display_name": "Zombibi (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "558bd3955c2eb",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25470277,
+      "size_bytes": 490991366,
+      "uploaded_at": "2026-06-03T06:30:54Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 25.4,
+        "upload_sec": 34.7
+      }
     }
   ],
   "failed_attempts": [
@@ -70273,5 +70292,5 @@
       "failed_at": "2026-06-02T23:04:00Z"
     }
   ],
-  "last_updated": "2026-06-03T06:29:49Z"
+  "last_updated": "2026-06-03T06:30:54Z"
 }
