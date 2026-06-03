@@ -29843,3 +29843,14 @@
 [19:39:08]   upload done video_id=25490840 in 53.4s
 [19:39:09] film cr_film_id=33258 OK in 596.6s
 [19:39:09] batch-end ok=20 failed=0 dur=5622.9s avg/film=281.1s remaining=6213 eta_hours=485.1
+
+===== run 2026-06-03T20:30:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26911132305) =====
+[20:30:19] batch-start shard=0/2 count=20 backlog=10210 uploads=3997 failed_attempts=157
+[20:30:19] login
+[20:30:20] login done
+[20:30:20] iteration 1/20
+[20:30:20] film cr_film_id=13334 name='Nauka o snech (2006)' candidates=2
+[20:30:20]   candidate upload_id=559c8b7f5f560 url=https://prehraj.to/nauka-o-snech-2006-dvdrip-cz/559c8b7f5f560
+[20:30:22]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/496523/4K1fODCRnTqGugPCbPTmVCQ3I6ahMaHJDiN2hr…)
+[20:47:07]   downloaded 536.0 MB in 1003.5s (0.5 MB/s)
+[20:47:50]   upload done video_id=25492109 in 42.6s
