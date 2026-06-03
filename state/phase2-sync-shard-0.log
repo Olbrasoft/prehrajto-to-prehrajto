@@ -30135,3 +30135,14 @@
 [22:13:56]   upload done video_id=25493647 in 135.3s
 [22:13:58] film cr_film_id=30192 OK in 256.4s
 [22:13:58] batch-end ok=20 failed=0 dur=2704.3s avg/film=135.2s remaining=6173 eta_hours=231.8
+
+===== run 2026-06-03T22:14:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26916339068) =====
+[22:14:26] batch-start shard=0/2 count=20 backlog=10210 uploads=4037 failed_attempts=157
+[22:14:26] login
+[22:14:27] login done
+[22:14:27] iteration 1/20
+[22:14:27] film cr_film_id=25464 name='Láska on-line (2005)' candidates=1
+[22:14:27]   candidate upload_id=5a9faffa5d72a url=https://prehraj.to/laska-on-line-2005/5a9faffa5d72a
+[22:14:29]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3558687/BoztDRHA5I9oSDahzJFyPHEvS6WFekF06CnVS…)
+[22:14:43]   downloaded 302.7 MB in 12.3s (24.6 MB/s)
+[22:15:13]   upload done video_id=25493724 in 30.5s
