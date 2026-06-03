@@ -77387,6 +77387,25 @@
         "download_sec": 35.4,
         "upload_sec": 50.7
       }
+    },
+    {
+      "cr_film_id": 24587,
+      "cr_slug": "the-search-for-john-gissing",
+      "title": "The Search for John Gissing",
+      "year": 2001,
+      "display_name": "The Search for John Gissing (2001)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "58673bfdda229",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25495758,
+      "size_bytes": 505197242,
+      "uploaded_at": "2026-06-03T23:41:20Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.3,
+        "upload_sec": 29.8
+      }
     }
   ],
   "failed_attempts": [
@@ -78467,5 +78486,5 @@
       "failed_at": "2026-06-03T22:32:15Z"
     }
   ],
-  "last_updated": "2026-06-03T23:40:27Z"
+  "last_updated": "2026-06-03T23:41:20Z"
 }
