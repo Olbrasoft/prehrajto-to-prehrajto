@@ -74480,6 +74480,25 @@
         "download_sec": 21.7,
         "upload_sec": 37.5
       }
+    },
+    {
+      "cr_film_id": 26037,
+      "cr_slug": "nana2",
+      "title": "NANA2",
+      "year": 2006,
+      "display_name": "NANA2 (2006)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "58606784e33ff",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25485597,
+      "size_bytes": 635038333,
+      "uploaded_at": "2026-06-03T15:32:36Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 71.0,
+        "upload_sec": 41.7
+      }
     }
   ],
   "failed_attempts": [
@@ -75553,5 +75572,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-03T15:30:37Z"
+  "last_updated": "2026-06-03T15:32:36Z"
 }
