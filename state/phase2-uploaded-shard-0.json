@@ -68647,6 +68647,25 @@
         "download_sec": 17.5,
         "upload_sec": 30.0
       }
+    },
+    {
+      "cr_film_id": 34582,
+      "cr_slug": "heli",
+      "title": "Heli",
+      "year": 2013,
+      "display_name": "Heli (2013)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab4767d6eaa9",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25469077,
+      "size_bytes": 1353339249,
+      "uploaded_at": "2026-06-03T05:35:19Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 48.5,
+        "upload_sec": 56.0
+      }
     }
   ],
   "failed_attempts": [
@@ -69722,5 +69741,5 @@
       "failed_at": "2026-06-02T23:04:00Z"
     }
   ],
-  "last_updated": "2026-06-03T05:33:31Z"
+  "last_updated": "2026-06-03T05:35:19Z"
 }
