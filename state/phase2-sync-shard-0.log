@@ -28097,3 +28097,14 @@
 [10:08:19]   upload done video_id=25475604 in 26.6s
 [10:08:21] film cr_film_id=34908 OK in 45.8s
 [10:08:21] batch-end ok=20 failed=0 dur=1444.1s avg/film=72.2s remaining=6448 eta_hours=129.3
+
+===== run 2026-06-03T10:19:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26878488072) =====
+[10:19:28] batch-start shard=0/2 count=20 backlog=10210 uploads=3762 failed_attempts=150
+[10:19:28] login
+[10:19:30] login done
+[10:19:30] iteration 1/20
+[10:19:30] film cr_film_id=27406 name='You Should Meet My Son! (2010)' candidates=1
+[10:19:30]   candidate upload_id=59fd5d4f535e4 url=https://prehraj.to/you-should-meet-my-son-2010/59fd5d4f535e4
+[10:19:31]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/2890912/qG3FaAczBT8dsBpsyeUbgcdOHLoSrLIYETPah…)
+[10:19:52]   downloaded 447.8 MB in 19.0s (23.6 MB/s)
+[10:20:23]   upload done video_id=25477107 in 31.5s
