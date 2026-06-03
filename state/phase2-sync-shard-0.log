@@ -28243,3 +28243,14 @@
 [10:51:34]   upload done video_id=25478718 in 27.6s
 [10:51:36] film cr_film_id=32990 OK in 48.6s
 [10:51:36] batch-end ok=20 failed=0 dur=1926.4s avg/film=96.3s remaining=6428 eta_hours=171.9
+
+===== run 2026-06-03T10:52:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26880039427) =====
+[10:52:02] batch-start shard=0/2 count=20 backlog=10210 uploads=3782 failed_attempts=150
+[10:52:02] login
+[10:52:03] login done
+[10:52:03] iteration 1/20
+[10:52:03] film cr_film_id=27474 name='Poslední vrchol (2010)' candidates=1
+[10:52:03]   candidate upload_id=5ab8ea5e4d9b3 url=https://prehraj.to/posledni-vrchol-2010/5ab8ea5e4d9b3
+[10:52:04]   resolved in 1.0s → 720p (https://pf-storage2.premiumcdn.net/3743577/ZyOTgZHMOc1oT6Ou9KILrHBGSKXTogSXmSNAT…)
+[10:52:45]   downloaded 1,083.8 MB in 39.5s (27.4 MB/s)
+[10:53:35]   upload done video_id=25478750 in 49.4s
