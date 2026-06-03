@@ -28307,3 +28307,14 @@
 [11:21:11]   upload done video_id=25479489 in 34.2s
 [11:21:13] film cr_film_id=37249 OK in 57.3s
 [11:21:13] batch-end ok=20 failed=0 dur=1743.3s avg/film=87.2s remaining=6416 eta_hours=155.4
+
+===== run 2026-06-03T11:21:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26881437300) =====
+[11:21:40] batch-start shard=1/2 count=20 backlog=10210 uploads=3794 failed_attempts=144
+[11:21:40] login
+[11:21:41] login done
+[11:21:41] iteration 1/20
+[11:21:41] film cr_film_id=26991 name='Within Temptation & The Metropole Orchestra: Black Symphony (2008)' candidates=1
+[11:21:41]   candidate upload_id=5852c2b7603c9 url=https://prehraj.to/within-temptation-the-metropole-orchestra-black-symphony-hdtv-2008/5852c2b7603c9
+[11:21:42]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/1178983/z61HxwSLvH01UQlCxNI70SxpfEYURWFrgsWwI…)
+[11:22:42]   downloaded 1,506.5 MB in 57.7s (26.1 MB/s)
+[11:23:45]   upload done video_id=25479550 in 63.5s
