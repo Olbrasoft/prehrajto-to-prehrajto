@@ -72143,6 +72143,25 @@
         "download_sec": 15.3,
         "upload_sec": 27.7
       }
+    },
+    {
+      "cr_film_id": 33577,
+      "cr_slug": "visitors",
+      "title": "Visitors",
+      "year": 2008,
+      "display_name": "Visitors (2008)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5fd6233f52963",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25479717,
+      "size_bytes": 1159927529,
+      "uploaded_at": "2026-06-03T11:29:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 41.5,
+        "upload_sec": 52.0
+      }
     }
   ],
   "failed_attempts": [
@@ -73197,5 +73216,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T11:27:39Z"
+  "last_updated": "2026-06-03T11:29:17Z"
 }
