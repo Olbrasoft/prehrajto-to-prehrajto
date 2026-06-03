@@ -71725,6 +71725,25 @@
         "download_sec": 25.2,
         "upload_sec": 33.0
       }
+    },
+    {
+      "cr_film_id": 26679,
+      "cr_slug": "eloise",
+      "title": "Eloïse",
+      "year": 2009,
+      "display_name": "Eloïse (2009)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "580fe71e4b230",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25478772,
+      "size_bytes": 499921802,
+      "uploaded_at": "2026-06-03T10:54:12Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 17.9,
+        "upload_sec": 34.6
+      }
     }
   ],
   "failed_attempts": [
@@ -72779,5 +72798,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T10:53:14Z"
+  "last_updated": "2026-06-03T10:54:12Z"
 }
