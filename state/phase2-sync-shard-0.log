@@ -28389,3 +28389,14 @@
 [11:19:22]   upload done video_id=25479413 in 63.8s
 [11:19:24] film cr_film_id=26854 OK in 116.1s
 [11:19:24] batch-end ok=20 failed=0 dur=1640.3s avg/film=82.0s remaining=6408 eta_hours=146.0
+
+===== run 2026-06-03T11:21:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26881437300) =====
+[11:21:43] batch-start shard=0/2 count=20 backlog=10210 uploads=3802 failed_attempts=150
+[11:21:43] login
+[11:21:45] login done
+[11:21:45] iteration 1/20
+[11:21:45] film cr_film_id=34244 name='El Infierno (2010)' candidates=1
+[11:21:45]   candidate upload_id=67f66c2c3615d url=https://prehraj.to/el-infierno-luis-estrada-2010/67f66c2c3615d
+[11:21:46]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/134574389/g8OcBjSlXHKzsb2fX1TwnSqjCaOt3GFowin…)
+[11:22:54]   downloaded 1,224.0 MB in 65.1s (18.8 MB/s)
+[11:24:11]   upload done video_id=25479554 in 77.6s
