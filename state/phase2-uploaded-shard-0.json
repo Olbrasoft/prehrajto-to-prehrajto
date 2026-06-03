@@ -69654,6 +69654,25 @@
         "download_sec": 129.4,
         "upload_sec": 30.8
       }
+    },
+    {
+      "cr_film_id": 15636,
+      "cr_slug": "polski-film",
+      "title": "Polski film",
+      "year": 2012,
+      "display_name": "Polski film (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac0acf54d5cc",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25471402,
+      "size_bytes": 655774763,
+      "uploaded_at": "2026-06-03T07:13:58Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 29.8,
+        "upload_sec": 54.1
+      }
     }
   ],
   "failed_attempts": [
@@ -70736,5 +70755,5 @@
       "failed_at": "2026-06-03T07:01:03Z"
     }
   ],
-  "last_updated": "2026-06-03T07:12:29Z"
+  "last_updated": "2026-06-03T07:13:58Z"
 }
