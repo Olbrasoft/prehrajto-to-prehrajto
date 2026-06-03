@@ -27367,3 +27367,14 @@
 [07:01:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sammyho-dobrodruzstvi-2-2012/a8c1f344b5bf8a04 (permanent=True)
 [07:01:03] film cr_film_id=7654 all candidates exhausted
 [07:01:03] batch-end ok=19 failed=1 dur=1669.0s avg/film=87.8s remaining=6548 eta_hours=159.7
+
+===== run 2026-06-03T07:06:07Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26869246984) =====
+[07:06:08] batch-start shard=0/2 count=20 backlog=10210 uploads=3662 failed_attempts=150
+[07:06:08] login
+[07:06:10] login done
+[07:06:10] iteration 1/20
+[07:06:10] film cr_film_id=14460 name='Rychlé peníze - prodej drog (2012)' candidates=2
+[07:06:10]   candidate upload_id=67d797ff5d317 url=https://prehraj.to/p-f-tv-dok-rychle-penize-prodej-drog-2012/67d797ff5d317
+[07:06:11]   resolved in 1.1s → 480p (https://pf-storage3.premiumcdn.net/132320414/rqAiZWhgLSEjSKOh5bIbBhq9CLZUv0s7Ysn…)
+[07:06:30]   downloaded 232.8 MB in 16.8s (13.9 MB/s)
+[07:06:56]   upload done video_id=25471250 in 25.9s
