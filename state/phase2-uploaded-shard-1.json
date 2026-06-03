@@ -71611,6 +71611,25 @@
         "download_sec": 25.6,
         "upload_sec": 40.1
       }
+    },
+    {
+      "cr_film_id": 27191,
+      "cr_slug": "king",
+      "title": "KING",
+      "year": 2009,
+      "display_name": "KING (2009)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "58b42a6d4505f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25478560,
+      "size_bytes": 982127140,
+      "uploaded_at": "2026-06-03T10:42:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 52.6,
+        "upload_sec": 58.3
+      }
     }
   ],
   "failed_attempts": [
@@ -72665,5 +72684,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T10:40:14Z"
+  "last_updated": "2026-06-03T10:42:10Z"
 }
