@@ -26095,3 +26095,14 @@
 [01:30:16]   upload done video_id=25463195 in 35.4s
 [01:30:18] film cr_film_id=32523 OK in 67.3s
 [01:30:18] batch-end ok=20 failed=0 dur=2451.1s avg/film=122.6s remaining=6716 eta_hours=228.7
+
+===== run 2026-06-03T01:30:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26858226699) =====
+[01:30:44] batch-start shard=1/2 count=20 backlog=10210 uploads=3494 failed_attempts=141
+[01:30:44] login
+[01:30:48] login done
+[01:30:48] iteration 1/20
+[01:30:48] film cr_film_id=33165 name='The Mooring (2013)' candidates=1
+[01:30:48]   candidate upload_id=5aad5bd27bcdc url=https://prehraj.to/the-mooring-2012/5aad5bd27bcdc
+[01:30:49]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3668051/K5lHLzCgahDMizmfDlInkCjzUNaHl0UGRIkdI…)
+[01:31:13]   downloaded 586.8 MB in 22.5s (26.1 MB/s)
+[01:31:44]   upload done video_id=25463235 in 30.6s
