@@ -27659,3 +27659,14 @@
 [08:29:22]   upload done video_id=25473665 in 46.0s
 [08:29:23] film cr_film_id=27866 OK in 94.3s
 [08:29:23] batch-end ok=20 failed=0 dur=3014.7s avg/film=150.7s remaining=6508 eta_hours=272.4
+
+===== run 2026-06-03T08:29:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26873081301) =====
+[08:29:49] batch-start shard=0/2 count=20 backlog=10210 uploads=3702 failed_attempts=150
+[08:29:49] login
+[08:29:51] login done
+[08:29:51] iteration 1/20
+[08:29:51] film cr_film_id=27854 name='7 pod nulou (2012)' candidates=1
+[08:29:51]   candidate upload_id=5a9d511f18112 url=https://prehraj.to/7-pod-nulou-2012/5a9d511f18112
+[08:29:52]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/3546820/x6WtOYHQDcrjUL2IQJIXjHWVT9mHzJC4qTwAt…)
+[08:30:10]   downloaded 395.0 MB in 16.1s (24.5 MB/s)
+[08:30:36]   upload done video_id=25473704 in 26.2s
