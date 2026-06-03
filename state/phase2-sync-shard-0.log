@@ -27360,3 +27360,10 @@
 [06:59:45]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/3765254/9xkFR1c6jsg2fAlsp0I8BcLmhB7FlYiq5HmaU…)
 [07:00:19]   downloaded 633.3 MB in 32.1s (19.7 MB/s)
 [07:01:00]   upload done video_id=25471116 in 41.0s
+[07:01:02] film cr_film_id=28008 OK in 78.8s
+[07:01:02] iteration 20/20
+[07:01:02] film cr_film_id=7654 name='Sammyho dobrodružství 2 (2012)' candidates=1
+[07:01:02]   candidate upload_id=a8c1f344b5bf8a04 url=https://prehraj.to/sammyho-dobrodruzstvi-2-2012/a8c1f344b5bf8a04
+[07:01:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sammyho-dobrodruzstvi-2-2012/a8c1f344b5bf8a04 (permanent=True)
+[07:01:03] film cr_film_id=7654 all candidates exhausted
+[07:01:03] batch-end ok=19 failed=1 dur=1669.0s avg/film=87.8s remaining=6548 eta_hours=159.7
