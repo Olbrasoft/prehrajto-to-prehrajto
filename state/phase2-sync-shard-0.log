@@ -27223,3 +27223,14 @@
 [06:30:54]   upload done video_id=25470277 in 34.7s
 [06:30:56] film cr_film_id=27938 OK in 65.0s
 [06:30:56] batch-end ok=20 failed=0 dur=2347.6s avg/film=117.4s remaining=6567 eta_hours=214.2
+
+===== run 2026-06-03T06:33:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26867904634) =====
+[06:33:13] batch-start shard=0/2 count=20 backlog=10210 uploads=3643 failed_attempts=149
+[06:33:13] login
+[06:33:14] login done
+[06:33:14] iteration 1/20
+[06:33:14] film cr_film_id=32654 name='Znovu zamilovaná (2012)' candidates=1
+[06:33:14]   candidate upload_id=5866874d722cf url=https://prehraj.to/znovu-zamilovana-2012-720p-bdrip-x264-cz-by-deejay-snoopy77/5866874d722cf
+[06:33:16]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/1256351/KYWfMRsKec6bI3RIxEUdLswbTmVfRYf7Vc1jF…)
+[06:34:04]   downloaded 938.0 MB in 46.4s (20.2 MB/s)
+[06:34:58]   upload done video_id=25470377 in 53.7s
