@@ -65607,6 +65607,25 @@
         "download_sec": 30.3,
         "upload_sec": 38.3
       }
+    },
+    {
+      "cr_film_id": 29160,
+      "cr_slug": "hangman",
+      "title": "Hangman",
+      "year": 2015,
+      "display_name": "Hangman (2015)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aaf81551afb4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25461696,
+      "size_bytes": 474406673,
+      "uploaded_at": "2026-06-03T00:29:02Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 25.1,
+        "upload_sec": 32.4
+      }
     }
   ],
   "failed_attempts": [
@@ -66682,5 +66701,5 @@
       "failed_at": "2026-06-02T23:04:00Z"
     }
   ],
-  "last_updated": "2026-06-03T00:28:00Z"
+  "last_updated": "2026-06-03T00:29:02Z"
 }
