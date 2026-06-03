@@ -29265,3 +29265,14 @@
 [14:56:21]   upload done video_id=25485004 in 43.7s
 [14:56:23] film cr_film_id=35444 OK in 69.9s
 [14:56:23] batch-end ok=20 failed=0 dur=1565.4s avg/film=78.3s remaining=6290 eta_hours=136.8
+
+===== run 2026-06-03T15:11:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26894066559) =====
+[15:11:55] batch-start shard=0/2 count=20 backlog=10210 uploads=3920 failed_attempts=154
+[15:11:55] login
+[15:11:56] login done
+[15:11:56] iteration 1/20
+[15:11:56] film cr_film_id=26360 name='Cinka Panna (2008)' candidates=2
+[15:11:56]   candidate upload_id=583cbc7d1bd44 url=https://prehraj.to/cinka-panna-2008/583cbc7d1bd44
+[15:11:59]   resolved in 3.1s → 480p (https://pf-storage2.premiumcdn.net/957125/3kysvKTEeUgRSADtmJfBGTk0UyoU41f4GsQ8fe…)
+[15:14:24]   downloaded 1,076.7 MB in 143.0s (7.5 MB/s)
+[15:15:26]   upload done video_id=25485296 in 62.1s
