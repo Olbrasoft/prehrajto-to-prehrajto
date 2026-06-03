@@ -73644,6 +73644,25 @@
         "download_sec": 84.1,
         "upload_sec": 107.4
       }
+    },
+    {
+      "cr_film_id": 13667,
+      "cr_slug": "maharal-tajemstvi-talismanu",
+      "title": "Maharal – Tajemství talismanu",
+      "year": 2007,
+      "display_name": "Maharal – Tajemství talismanu (2007)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5acbc368693b8",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25483872,
+      "size_bytes": 634009729,
+      "uploaded_at": "2026-06-03T13:58:47Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 35.0,
+        "upload_sec": 51.4
+      }
     }
   ],
   "failed_attempts": [
@@ -74696,7 +74715,14 @@
       "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fstorage-24-2012%2F5ab86aaa51ae4 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f0c0eef5d60>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/storage-24-2012/5ab86aaa51ae4",
       "permanent": false,
       "failed_at": "2026-06-03T04:25:09Z"
+    },
+    {
+      "cr_film_id": 25633,
+      "upload_id": "2c461f8bfcd68266",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-clayton-2007-michael-clayton-120-min-fhd-x265-10b-5-1-cs-en-mkv/2c461f8bfcd68266",
+      "permanent": true,
+      "failed_at": "2026-06-03T13:57:12Z"
     }
   ],
-  "last_updated": "2026-06-03T13:57:09Z"
+  "last_updated": "2026-06-03T13:58:47Z"
 }
