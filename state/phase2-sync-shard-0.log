@@ -27805,3 +27805,14 @@
 [08:58:16]   upload done video_id=25474374 in 55.2s
 [08:58:17] film cr_film_id=32214 OK in 108.1s
 [08:58:17] batch-end ok=20 failed=0 dur=1706.6s avg/film=85.3s remaining=6488 eta_hours=153.7
+
+===== run 2026-06-03T09:01:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26874653030) =====
+[09:01:42] batch-start shard=0/2 count=20 backlog=10210 uploads=3722 failed_attempts=150
+[09:01:42] login
+[09:01:43] login done
+[09:01:43] iteration 1/20
+[09:01:43] film cr_film_id=27864 name='Tekken - Blood Vengeance (2011)' candidates=2
+[09:01:43]   candidate upload_id=5aaf13ed74d5c url=https://prehraj.to/tekken-blood-vengeance-2011/5aaf13ed74d5c
+[09:01:44]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/3680752/WYgiMQhRjTOGhlDuozfn4hKEtOwf1MiX1SnDT…)
+[09:02:35]   downloaded 1,340.7 MB in 49.5s (27.1 MB/s)
+[09:03:49]   upload done video_id=25474470 in 73.5s
