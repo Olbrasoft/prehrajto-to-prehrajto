@@ -72599,6 +72599,25 @@
         "download_sec": 49.0,
         "upload_sec": 66.1
       }
+    },
+    {
+      "cr_film_id": 5707,
+      "cr_slug": "lets-dance-2",
+      "title": "Let's Dance 2",
+      "year": 2008,
+      "display_name": "Let's Dance 2 (2008)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac2bb1003f25",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25480956,
+      "size_bytes": 1040581315,
+      "uploaded_at": "2026-06-03T12:14:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 30.2,
+        "upload_sec": 49.7
+      }
     }
   ],
   "failed_attempts": [
@@ -73653,5 +73672,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T12:13:27Z"
+  "last_updated": "2026-06-03T12:14:51Z"
 }
