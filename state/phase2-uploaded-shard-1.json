@@ -68191,6 +68191,25 @@
         "download_sec": 28.7,
         "upload_sec": 37.6
       }
+    },
+    {
+      "cr_film_id": 14929,
+      "cr_slug": "pan-pip",
+      "title": "Pan Pip",
+      "year": 2012,
+      "display_name": "Pan Pip (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9ae8d828413",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25468384,
+      "size_bytes": 527985465,
+      "uploaded_at": "2026-06-03T05:03:39Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.5,
+        "upload_sec": 39.3
+      }
     }
   ],
   "failed_attempts": [
@@ -69245,5 +69264,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T05:02:32Z"
+  "last_updated": "2026-06-03T05:03:39Z"
 }
