@@ -72542,6 +72542,25 @@
         "download_sec": 33.0,
         "upload_sec": 27.0
       }
+    },
+    {
+      "cr_film_id": 14567,
+      "cr_slug": "male-oslavy",
+      "title": "Malé oslavy",
+      "year": 2008,
+      "display_name": "Malé oslavy (2008)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6134b91a60cbe",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25480599,
+      "size_bytes": 1887172411,
+      "uploaded_at": "2026-06-03T12:10:29Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 62.3,
+        "upload_sec": 94.3
+      }
     }
   ],
   "failed_attempts": [
@@ -73596,5 +73615,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T12:07:48Z"
+  "last_updated": "2026-06-03T12:10:29Z"
 }
