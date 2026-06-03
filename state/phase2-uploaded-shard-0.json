@@ -69179,6 +69179,25 @@
         "download_sec": 323.6,
         "upload_sec": 110.7
       }
+    },
+    {
+      "cr_film_id": 27758,
+      "cr_slug": "zasilka",
+      "title": "Zásilka",
+      "year": 2012,
+      "display_name": "Zásilka (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5839f92e79f5a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25470242,
+      "size_bytes": 523753324,
+      "uploaded_at": "2026-06-03T06:29:49Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 27.0,
+        "upload_sec": 42.0
+      }
     }
   ],
   "failed_attempts": [
@@ -70254,5 +70273,5 @@
       "failed_at": "2026-06-02T23:04:00Z"
     }
   ],
-  "last_updated": "2026-06-03T06:28:34Z"
+  "last_updated": "2026-06-03T06:29:49Z"
 }
