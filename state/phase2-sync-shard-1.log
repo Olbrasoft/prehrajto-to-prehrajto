@@ -26387,3 +26387,14 @@
 [02:41:47]   upload done video_id=25465001 in 81.2s
 [02:41:49] film cr_film_id=28627 OK in 148.5s
 [02:41:49] batch-end ok=20 failed=0 dur=2358.0s avg/film=117.9s remaining=6676 eta_hours=218.6
+
+===== run 2026-06-03T02:42:15Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26860463134) =====
+[02:42:16] batch-start shard=1/2 count=20 backlog=10210 uploads=3534 failed_attempts=141
+[02:42:16] login
+[02:42:18] login done
+[02:42:18] iteration 1/20
+[02:42:18] film cr_film_id=28507 name='Judas Priest: Epitaph (2013)' candidates=1
+[02:42:18]   candidate upload_id=58665d16970dd url=https://prehraj.to/judas-priest-epitaph-2013/58665d16970dd
+[02:42:19]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1255831/L7BiE6IqahdbteJi0QTMXIRBc6VikQCnqhOVH…)
+[02:43:27]   downloaded 1,639.9 MB in 66.6s (24.6 MB/s)
+[02:44:46]   upload done video_id=25465077 in 78.7s
