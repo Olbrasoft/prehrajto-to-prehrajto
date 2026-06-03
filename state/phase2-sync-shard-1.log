@@ -26847,3 +26847,14 @@
 [05:10:11]   upload done video_id=25468535 in 33.6s
 [05:10:13] film cr_film_id=30415 OK in 67.0s
 [05:10:13] batch-end ok=20 failed=0 dur=1694.5s avg/film=84.7s remaining=6616 eta_hours=155.7
+
+===== run 2026-06-03T05:21:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26865384321) =====
+[05:21:13] batch-start shard=1/2 count=20 backlog=10210 uploads=3594 failed_attempts=144
+[05:21:13] login
+[05:21:14] login done
+[05:21:14] iteration 1/20
+[05:21:14] film cr_film_id=3137 name='Navždy spolu (2012)' candidates=3
+[05:21:14]   candidate upload_id=5dde6a510a3061ea url=https://prehraj.to/the-vow-2012-brrip-xvid-cz/5dde6a510a3061ea
+[05:21:15]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/166092836/7RXiOMcDOTbqS0wUm3HvMcbziQ1u1ASEMuZ…)
+[05:21:32]   downloaded 469.4 MB in 14.7s (31.9 MB/s)
+[05:22:00]   upload done video_id=25468794 in 28.8s
