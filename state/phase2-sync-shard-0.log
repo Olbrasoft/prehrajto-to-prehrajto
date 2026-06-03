@@ -26347,3 +26347,14 @@
 [02:41:04]   upload done video_id=25464990 in 46.1s
 [02:41:06] film cr_film_id=28690 OK in 81.1s
 [02:41:06] batch-end ok=20 failed=0 dur=2314.3s avg/film=115.7s remaining=6687 eta_hours=214.9
+
+===== run 2026-06-03T02:42:14Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26860463134) =====
+[02:42:15] batch-start shard=0/2 count=20 backlog=10210 uploads=3523 failed_attempts=149
+[02:42:15] login
+[02:42:17] login done
+[02:42:17] iteration 1/20
+[02:42:17] film cr_film_id=28840 name='Operation Rogue (2014)' candidates=1
+[02:42:17]   candidate upload_id=5aa7551a34c3e url=https://prehraj.to/operation-rogue-2014/5aa7551a34c3e
+[02:42:19]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/3617925/AWefmdTgytzYcMJcYxUYATeySN1f3msODC4ei…)
+[02:43:14]   downloaded 1,489.2 MB in 53.4s (27.9 MB/s)
+[02:44:14]   upload done video_id=25465071 in 60.0s
