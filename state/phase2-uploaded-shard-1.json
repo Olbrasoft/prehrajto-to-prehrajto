@@ -68077,6 +68077,25 @@
         "download_sec": 30.4,
         "upload_sec": 47.2
       }
+    },
+    {
+      "cr_film_id": 3545,
+      "cr_slug": "projekt-x",
+      "title": "Project X",
+      "year": 2012,
+      "display_name": "Project X (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "66cd19ca83928",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25468216,
+      "size_bytes": 1773531135,
+      "uploaded_at": "2026-06-03T04:57:14Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 57.9,
+        "upload_sec": 80.0
+      }
     }
   ],
   "failed_attempts": [
@@ -69131,5 +69150,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T04:54:53Z"
+  "last_updated": "2026-06-03T04:57:14Z"
 }
