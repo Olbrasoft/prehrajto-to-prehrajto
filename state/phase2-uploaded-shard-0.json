@@ -70642,6 +70642,25 @@
         "download_sec": 53.5,
         "upload_sec": 61.9
       }
+    },
+    {
+      "cr_film_id": 27236,
+      "cr_slug": "the-whisperer-in-darkness",
+      "title": "The Whisperer in Darkness",
+      "year": 2011,
+      "display_name": "The Whisperer in Darkness (2011)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "585bf537c91a2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25474231,
+      "size_bytes": 726186118,
+      "uploaded_at": "2026-06-03T08:51:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.1,
+        "upload_sec": 34.5
+      }
     }
   ],
   "failed_attempts": [
@@ -71724,5 +71743,5 @@
       "failed_at": "2026-06-03T07:01:03Z"
     }
   ],
-  "last_updated": "2026-06-03T08:50:20Z"
+  "last_updated": "2026-06-03T08:51:27Z"
 }
