@@ -73435,6 +73435,25 @@
         "download_sec": 30.9,
         "upload_sec": 53.1
       }
+    },
+    {
+      "cr_film_id": 32316,
+      "cr_slug": "dracula-2009",
+      "title": "Dracula",
+      "year": 2009,
+      "display_name": "Dracula (2009)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55fa4fbb05dd0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25483365,
+      "size_bytes": 660530312,
+      "uploaded_at": "2026-06-03T13:33:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 32.0,
+        "upload_sec": 37.6
+      }
     }
   ],
   "failed_attempts": [
@@ -74538,5 +74557,5 @@
       "failed_at": "2026-06-03T12:50:23Z"
     }
   ],
-  "last_updated": "2026-06-03T13:32:14Z"
+  "last_updated": "2026-06-03T13:33:29Z"
 }
