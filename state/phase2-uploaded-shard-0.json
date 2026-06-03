@@ -72390,6 +72390,25 @@
         "download_sec": 51.0,
         "upload_sec": 58.3
       }
+    },
+    {
+      "cr_film_id": 26778,
+      "cr_slug": "brotherhood",
+      "title": "Brotherhood",
+      "year": 2010,
+      "display_name": "Brotherhood (2010)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c2d5d2901294",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25480093,
+      "size_bytes": 828404313,
+      "uploaded_at": "2026-06-03T11:45:14Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 44.7,
+        "upload_sec": 60.2
+      }
     }
   ],
   "failed_attempts": [
@@ -73472,5 +73491,5 @@
       "failed_at": "2026-06-03T07:01:03Z"
     }
   ],
-  "last_updated": "2026-06-03T11:43:23Z"
+  "last_updated": "2026-06-03T11:45:14Z"
 }
