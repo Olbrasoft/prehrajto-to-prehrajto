@@ -29697,3 +29697,14 @@
 [17:18:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sarlotina-pavucinka/23511d7f55db6eb2 (permanent=True)
 [17:18:48] film cr_film_id=36610 all candidates exhausted
 [17:18:48] batch-end ok=18 failed=2 dur=2127.8s avg/film=118.2s remaining=6233 eta_hours=204.7
+
+===== run 2026-06-03T18:05:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26903580923) =====
+[18:05:23] batch-start shard=0/2 count=20 backlog=10210 uploads=3977 failed_attempts=157
+[18:05:23] login
+[18:05:26] login done
+[18:05:26] iteration 1/20
+[18:05:26] film cr_film_id=13636 name='Činy a sláva 3: Rozdělení (2006)' candidates=2
+[18:05:26]   candidate upload_id=5a9890c9e26e6 url=https://prehraj.to/ciny-a-slava-3-rozdeleni-2006/5a9890c9e26e6
+[18:05:28]   resolved in 2.0s → 720p (https://pf-storage1.premiumcdn.net/3509046/rKAI1WfvJFjNTlaUEacAEfO0Sv7Sr3C6mFDWF…)
+[18:06:10]   downloaded 986.3 MB in 39.5s (25.0 MB/s)
+[18:07:26]   upload done video_id=25488806 in 76.7s
