@@ -69844,6 +69844,25 @@
         "download_sec": 41.4,
         "upload_sec": 52.0
       }
+    },
+    {
+      "cr_film_id": 28026,
+      "cr_slug": "ledovy-drak",
+      "title": "Ledový drak",
+      "year": 2012,
+      "display_name": "Ledový drak (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5835ae6547f3d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25471998,
+      "size_bytes": 539444627,
+      "uploaded_at": "2026-06-03T07:31:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.6,
+        "upload_sec": 36.3
+      }
     }
   ],
   "failed_attempts": [
@@ -70926,5 +70945,5 @@
       "failed_at": "2026-06-03T07:01:03Z"
     }
   ],
-  "last_updated": "2026-06-03T07:30:00Z"
+  "last_updated": "2026-06-03T07:31:07Z"
 }
