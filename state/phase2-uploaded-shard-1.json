@@ -73872,6 +73872,25 @@
         "download_sec": 21.0,
         "upload_sec": 24.7
       }
+    },
+    {
+      "cr_film_id": 25857,
+      "cr_slug": "divosi-2007",
+      "title": "Divoši",
+      "year": 2007,
+      "display_name": "Divoši (2007)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aa0ad3d5777d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25484396,
+      "size_bytes": 1434250240,
+      "uploaded_at": "2026-06-03T14:24:47Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 117.7,
+        "upload_sec": 87.2
+      }
     }
   ],
   "failed_attempts": [
@@ -74933,5 +74952,5 @@
       "failed_at": "2026-06-03T13:57:12Z"
     }
   ],
-  "last_updated": "2026-06-03T14:21:17Z"
+  "last_updated": "2026-06-03T14:24:47Z"
 }
