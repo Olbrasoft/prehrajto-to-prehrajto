@@ -69483,6 +69483,25 @@
         "download_sec": 28.8,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 15291,
+      "cr_slug": "jack-of-diamonds",
+      "title": "Jack of Diamonds",
+      "year": 2011,
+      "display_name": "Jack of Diamonds (2011)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "d091c86fe8bf56c4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25471345,
+      "size_bytes": 1042550584,
+      "uploaded_at": "2026-06-03T07:11:25Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 41.9,
+        "upload_sec": 52.9
+      }
     }
   ],
   "failed_attempts": [
@@ -70537,5 +70556,5 @@
       "failed_at": "2026-06-03T04:25:09Z"
     }
   ],
-  "last_updated": "2026-06-03T07:09:45Z"
+  "last_updated": "2026-06-03T07:11:25Z"
 }
