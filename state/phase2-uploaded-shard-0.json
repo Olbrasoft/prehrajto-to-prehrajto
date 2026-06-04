@@ -80454,7 +80454,19 @@
         "download_sec": 70.6,
         "upload_sec": 0.0
       }
+    },
+    {
+      "cr_film_id": 24404,
+      "upload_id": "68e78555ba1e5",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-06-04T02:59:19Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 60.6,
+        "upload_sec": 75.6
+      }
     }
   ],
-  "last_updated": "2026-06-04T02:56:57Z"
+  "last_updated": "2026-06-04T02:59:19Z"
 }
