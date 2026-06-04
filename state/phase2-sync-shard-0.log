@@ -31740,3 +31740,14 @@
 [05:32:07]   upload done video_id=25502149 in 229.1s
 [05:32:09] film cr_film_id=24128 OK in 444.2s
 [05:32:09] batch-end ok=20 failed=0 dur=2649.6s avg/film=132.5s remaining=5957 eta_hours=219.3
+
+===== run 2026-06-04T05:32:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26932911898) =====
+[05:32:36] batch-start shard=0/2 count=20 backlog=10210 uploads=4253 failed_attempts=162
+[05:32:36] login
+[05:32:37] login done
+[05:32:37] iteration 1/20
+[05:32:37] film cr_film_id=34030 name='Tajemná schránka (1996)' candidates=1
+[05:32:37]   candidate upload_id=635259a4a234a url=https://prehraj.to/tajemna-schranka-1996-cz-1080p/635259a4a234a
+[05:32:38]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/34044586/jYjIqlTblskRf3RCAaHnAT0QsxKsMQiv6fmq…)
+[05:33:34]   downloaded 1,562.9 MB in 53.6s (29.2 MB/s)
+[05:34:52]   upload done video_id=25502225 in 78.8s
