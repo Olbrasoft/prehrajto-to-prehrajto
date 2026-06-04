@@ -32177,3 +32177,14 @@
 [07:42:35]   upload done video_id=25504497 in 32.9s
 [07:42:37] film cr_film_id=23536 OK in 63.7s
 [07:42:37] batch-end ok=20 failed=0 dur=2709.5s avg/film=135.5s remaining=5898 eta_hours=222.0
+
+===== run 2026-06-04T07:43:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26938097329) =====
+[07:43:09] batch-start shard=0/2 count=20 backlog=10210 uploads=4312 failed_attempts=163
+[07:43:09] login
+[07:43:11] login done
+[07:43:11] iteration 1/20
+[07:43:11] film cr_film_id=13318 name='Potkal jsem ho v zoo (1994)' candidates=1
+[07:43:11]   candidate upload_id=a243a7e700b2bdf7 url=https://prehraj.to/potkal-jsem-ho-v-zoo-1994-cz-hd-mp4/a243a7e700b2bdf7
+[07:43:12]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/169323949/JBNSnmiBJsW1I1JFQAujdiv5IXkiLpU7Pcm…)
+[07:44:02]   downloaded 952.5 MB in 47.7s (20.0 MB/s)
+[07:45:03]   upload done video_id=25504527 in 60.6s
