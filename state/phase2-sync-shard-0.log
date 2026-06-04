@@ -33928,3 +33928,14 @@
 [16:22:41]   upload done video_id=25515875 in 98.2s
 [16:22:43] film cr_film_id=11486 OK in 189.4s
 [16:22:43] batch-end ok=20 failed=0 dur=2603.3s avg/film=130.2s remaining=5660 eta_hours=204.7
+
+===== run 2026-06-04T16:23:17Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26964832695) =====
+[16:23:18] batch-start shard=0/2 count=20 backlog=10210 uploads=4550 failed_attempts=166
+[16:23:18] login
+[16:23:20] login done
+[16:23:20] iteration 1/20
+[16:23:20] film cr_film_id=22746 name='S hlavou v pytli (1984)' candidates=1
+[16:23:20]   candidate upload_id=6848f813b6985 url=https://prehraj.to/s-hlavou-v-pytli-night-patrol-1984-1080p-cz/6848f813b6985
+[16:23:21]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/139655162/2POfGriD7hRmsbpTEys5kiXBiBxtyVhWDUD…)
+[16:26:26]   downloaded 3,357.8 MB in 182.7s (18.4 MB/s)
+[16:29:49]   upload done video_id=25515946 in 203.2s
