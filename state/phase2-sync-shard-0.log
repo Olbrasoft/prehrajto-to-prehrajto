@@ -33490,3 +33490,14 @@
 [13:38:09]   upload done video_id=25513285 in 128.3s
 [13:38:11] film cr_film_id=632 OK in 220.3s
 [13:38:11] batch-end ok=20 failed=0 dur=1966.2s avg/film=98.3s remaining=5720 eta_hours=156.2
+
+===== run 2026-06-04T13:55:00Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26956243295) =====
+[13:55:01] batch-start shard=0/2 count=20 backlog=10210 uploads=4490 failed_attempts=166
+[13:55:01] login
+[13:55:03] login done
+[13:55:03] iteration 1/20
+[13:55:03] film cr_film_id=11916 name='La notte degli squali (1988)' candidates=1
+[13:55:03]   candidate upload_id=ee114bfd5d127571 url=https://prehraj.to/la-notte-degli-squali-1988-cz-dabing-mp4/ee114bfd5d127571
+[13:55:04]   resolved in 1.2s → 720p (https://pf-storage6.premiumcdn.net/169418701/4ZmurQSnzHebc41tNYuNJSjVIrECoJcrnCv…)
+[13:56:39]   downloaded 1,222.1 MB in 93.6s (13.1 MB/s)
+[13:58:01]   upload done video_id=25513668 in 82.0s
