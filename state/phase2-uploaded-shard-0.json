@@ -83752,6 +83752,25 @@
         "download_sec": 26.3,
         "upload_sec": 40.3
       }
+    },
+    {
+      "cr_film_id": 35334,
+      "cr_slug": "liebestraum",
+      "title": "Liebestraum",
+      "year": 1991,
+      "display_name": "Liebestraum (1991)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aa572e659e0c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25510465,
+      "size_bytes": 1010601140,
+      "uploaded_at": "2026-06-04T10:58:12Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 45.6,
+        "upload_sec": 57.3
+      }
     }
   ],
   "failed_attempts": [
@@ -84949,5 +84968,5 @@
       "failed_at": "2026-06-04T09:18:37Z"
     }
   ],
-  "last_updated": "2026-06-04T10:56:25Z"
+  "last_updated": "2026-06-04T10:58:12Z"
 }
