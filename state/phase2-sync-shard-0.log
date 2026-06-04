@@ -32469,3 +32469,14 @@
 [09:09:19]   upload done video_id=25506206 in 79.1s
 [09:09:21] film cr_film_id=23382 OK in 125.3s
 [09:09:21] batch-end ok=20 failed=0 dur=2286.2s avg/film=114.3s remaining=5858 eta_hours=186.0
+
+===== run 2026-06-04T09:11:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26942395573) =====
+[09:11:32] batch-start shard=0/2 count=20 backlog=10210 uploads=4352 failed_attempts=163
+[09:11:32] login
+[09:11:34] login done
+[09:11:34] iteration 1/20
+[09:11:34] film cr_film_id=12108 name='Návrat Sommersbyho (1993)' candidates=1
+[09:11:34]   candidate upload_id=652a5adf79ad9 url=https://prehraj.to/navrat-sommersbyho-1993/652a5adf79ad9
+[09:11:36]   resolved in 1.4s → 480p (https://pf-storage3.premiumcdn.net/48265583/OpYhkbs5OF0QUrOSa0FqaspkTAkfpWuXKcy6…)
+[09:12:06]   downloaded 491.2 MB in 27.9s (17.6 MB/s)
+[09:12:42]   upload done video_id=25506298 in 36.6s
