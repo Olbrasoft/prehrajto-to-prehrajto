@@ -85101,6 +85101,25 @@
         "download_sec": 27.9,
         "upload_sec": 37.7
       }
+    },
+    {
+      "cr_film_id": 30751,
+      "cr_slug": "sedma-velmoc",
+      "title": "Sedmá velmoc",
+      "year": 1985,
+      "display_name": "Sedmá velmoc (1985)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "c5fa84c34e8ab482",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25513415,
+      "size_bytes": 484960463,
+      "uploaded_at": "2026-06-04T13:43:38Z",
+      "timing": {
+        "resolve_sec": 3.8,
+        "download_sec": 29.3,
+        "upload_sec": 36.4
+      }
     }
   ],
   "failed_attempts": [
@@ -86263,7 +86282,14 @@
       "reason": "oversize: 7467319510 B",
       "permanent": true,
       "failed_at": "2026-06-04T11:58:32Z"
+    },
+    {
+      "cr_film_id": 34705,
+      "upload_id": "688cdd2712ab4",
+      "reason": "oversize: 22539902149 B",
+      "permanent": true,
+      "failed_at": "2026-06-04T13:42:27Z"
     }
   ],
-  "last_updated": "2026-06-04T13:42:21Z"
+  "last_updated": "2026-06-04T13:43:38Z"
 }
