@@ -31368,3 +31368,14 @@
 [03:59:55]   upload done video_id=25500813 in 91.9s
 [03:59:57] film cr_film_id=12319 OK in 174.6s
 [03:59:57] batch-end ok=20 failed=0 dur=1855.2s avg/film=92.8s remaining=6002 eta_hours=154.7
+
+===== run 2026-06-04T04:00:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26929702709) =====
+[04:00:26] batch-start shard=1/2 count=20 backlog=10210 uploads=4208 failed_attempts=152
+[04:00:26] login
+[04:00:28] login done
+[04:00:28] iteration 1/20
+[04:00:28] film cr_film_id=19419 name='Kingpin (1996)' candidates=2
+[04:00:28]   candidate upload_id=5abcdb68cebab url=https://prehraj.to/kingpin-1996/5abcdb68cebab
+[04:00:29]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3761962/BRvTMGh5xFDxFA4ce3sdlhe9C3xSPBHbNU9OC…)
+[04:01:21]   downloaded 1,265.2 MB in 50.2s (25.2 MB/s)
+[04:02:22]   upload done video_id=25500869 in 61.1s
