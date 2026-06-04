@@ -79325,6 +79325,25 @@
         "download_sec": 32.2,
         "upload_sec": 40.5
       }
+    },
+    {
+      "cr_film_id": 23941,
+      "cr_slug": "lek-1997",
+      "title": "Lék",
+      "year": 1997,
+      "display_name": "Lék (1997)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55b757ecd6023",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25499942,
+      "size_bytes": 393568509,
+      "uploaded_at": "2026-06-04T03:08:36Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.1,
+        "upload_sec": 24.8
+      }
     }
   ],
   "failed_attempts": [
@@ -80433,5 +80452,5 @@
       "failed_at": "2026-06-04T01:32:05Z"
     }
   ],
-  "last_updated": "2026-06-04T03:07:52Z"
+  "last_updated": "2026-06-04T03:08:36Z"
 }
