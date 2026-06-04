@@ -80788,6 +80788,25 @@
         "download_sec": 51.4,
         "upload_sec": 60.0
       }
+    },
+    {
+      "cr_film_id": 24128,
+      "cr_slug": "titanic-s-lost-sister",
+      "title": "Titanic's Lost Sister",
+      "year": 1996,
+      "display_name": "Titanic's Lost Sister (1996)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "67822c9000d93",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25502149,
+      "size_bytes": 4424188118,
+      "uploaded_at": "2026-06-04T05:32:07Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 210.0,
+        "upload_sec": 229.1
+      }
     }
   ],
   "failed_attempts": [
@@ -81964,5 +81983,5 @@
       "failed_at": "2026-06-04T04:14:18Z"
     }
   ],
-  "last_updated": "2026-06-04T05:24:43Z"
+  "last_updated": "2026-06-04T05:32:07Z"
 }
