@@ -83923,6 +83923,25 @@
         "download_sec": 10.7,
         "upload_sec": 19.7
       }
+    },
+    {
+      "cr_film_id": 11777,
+      "cr_slug": "pevnost",
+      "title": "Pevnost",
+      "year": 1988,
+      "display_name": "Pevnost (1988)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "965e1c5edf26708a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25510772,
+      "size_bytes": 1983243568,
+      "uploaded_at": "2026-06-04T11:17:22Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 56.3,
+        "upload_sec": 83.8
+      }
     }
   ],
   "failed_attempts": [
@@ -85073,5 +85092,5 @@
       "failed_at": "2026-06-04T11:02:35Z"
     }
   ],
-  "last_updated": "2026-06-04T11:14:58Z"
+  "last_updated": "2026-06-04T11:17:22Z"
 }
