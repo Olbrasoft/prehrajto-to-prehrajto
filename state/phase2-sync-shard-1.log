@@ -33125,3 +33125,14 @@
 [12:04:47]   upload done video_id=25511518 in 75.1s
 [12:04:48] film cr_film_id=31813 OK in 124.5s
 [12:04:48] batch-end ok=19 failed=1 dur=2302.4s avg/film=121.2s remaining=5765 eta_hours=194.1
+
+===== run 2026-06-04T12:05:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26950596445) =====
+[12:05:17] batch-start shard=1/2 count=20 backlog=10210 uploads=4445 failed_attempts=159
+[12:05:17] login
+[12:05:18] login done
+[12:05:18] iteration 1/20
+[12:05:18] film cr_film_id=17295 name='Dribling (1987)' candidates=1
+[12:05:18]   candidate upload_id=717b6a6429f44b57 url=https://prehraj.to/dribling-1987-cz/717b6a6429f44b57
+[12:05:19]   resolved in 1.2s → 720p (https://pf-storage6.premiumcdn.net/169474078/9G0fzaHNdHw0uPRtbPi0PHRBsz2TNQiWrTV…)
+[12:05:51]   downloaded 534.7 MB in 29.8s (17.9 MB/s)
+[12:06:33]   upload done video_id=25511543 in 41.3s
