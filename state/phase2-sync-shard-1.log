@@ -33562,3 +33562,14 @@
 [14:29:44]   upload done video_id=25514224 in 14.1s
 [14:29:47] film cr_film_id=14917 OK in 24.4s
 [14:29:47] batch-end ok=20 failed=0 dur=2083.2s avg/film=104.2s remaining=5706 eta_hours=165.2
+
+===== run 2026-06-04T14:52:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26959621499) =====
+[14:52:59] batch-start shard=1/2 count=20 backlog=10210 uploads=4504 failed_attempts=160
+[14:52:59] login
+[14:53:00] login done
+[14:53:00] iteration 1/20
+[14:53:00] film cr_film_id=22751 name='Kanec (1984)' candidates=1
+[14:53:00]   candidate upload_id=5aa516de373fe url=https://prehraj.to/kanec-1984/5aa516de373fe
+[14:53:02]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3598587/KopfGZs7RtpqUBqtorFpZszwCBzi56i4VFYWH…)
+[14:53:44]   downloaded 1,007.5 MB in 40.7s (24.8 MB/s)
+[14:54:39]   upload done video_id=25514676 in 55.1s
