@@ -82498,6 +82498,25 @@
         "download_sec": 119.2,
         "upload_sec": 141.4
       }
+    },
+    {
+      "cr_film_id": 32512,
+      "cr_slug": "sonatine",
+      "title": "Sonatine",
+      "year": 1993,
+      "display_name": "Sonatine (1993)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5844a72874e2d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25505943,
+      "size_bytes": 456897917,
+      "uploaded_at": "2026-06-04T08:49:48Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 16.9,
+        "upload_sec": 25.1
+      }
     }
   ],
   "failed_attempts": [
@@ -83681,5 +83700,5 @@
       "failed_at": "2026-06-04T05:44:11Z"
     }
   ],
-  "last_updated": "2026-06-04T08:49:02Z"
+  "last_updated": "2026-06-04T08:49:48Z"
 }
