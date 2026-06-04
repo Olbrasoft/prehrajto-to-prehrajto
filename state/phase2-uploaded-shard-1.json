@@ -86507,6 +86507,25 @@
         "download_sec": 66.9,
         "upload_sec": 76.5
       }
+    },
+    {
+      "cr_film_id": 31789,
+      "cr_slug": "this-is-elvis",
+      "title": "This Is Elvis",
+      "year": 1981,
+      "display_name": "This Is Elvis (1981)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55bf2aed8e970",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25516100,
+      "size_bytes": 706458656,
+      "uploaded_at": "2026-06-04T16:41:24Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 28.0,
+        "upload_sec": 43.9
+      }
     }
   ],
   "failed_attempts": [
@@ -87678,5 +87697,5 @@
       "failed_at": "2026-06-04T13:42:27Z"
     }
   ],
-  "last_updated": "2026-06-04T16:40:06Z"
+  "last_updated": "2026-06-04T16:41:24Z"
 }
