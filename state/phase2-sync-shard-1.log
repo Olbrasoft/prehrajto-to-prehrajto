@@ -31658,3 +31658,14 @@
 [05:17:50]   upload done video_id=25501974 in 90.1s
 [05:17:53] film cr_film_id=12179 OK in 175.5s
 [05:17:53] batch-end ok=19 failed=1 dur=1795.6s avg/film=94.5s remaining=5963 eta_hours=156.5
+
+===== run 2026-06-04T05:32:37Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26932911898) =====
+[05:32:37] batch-start shard=1/2 count=20 backlog=10210 uploads=4247 failed_attempts=153
+[05:32:37] login
+[05:32:39] login done
+[05:32:39] iteration 1/20
+[05:32:39] film cr_film_id=12181 name='Pret-a-Porter (1994)' candidates=1
+[05:32:39]   candidate upload_id=689ebc2739c72 url=https://prehraj.to/pret-a-porter-1994-dvdrip-cz/689ebc2739c72
+[05:32:40]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/143663009/8rzcYMskPHABsDkIz5FmMsgVUvmfWmuEJUb…)
+[05:33:35]   downloaded 920.3 MB in 52.6s (17.5 MB/s)
+[05:34:36]   upload done video_id=25502226 in 61.0s
