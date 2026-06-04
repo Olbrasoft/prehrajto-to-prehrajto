@@ -33052,3 +33052,14 @@
 [11:25:20]   upload done video_id=25510904 in 34.3s
 [11:25:22] film cr_film_id=23178 OK in 61.0s
 [11:25:22] batch-end ok=20 failed=0 dur=1447.2s avg/film=72.4s remaining=5780 eta_hours=116.2
+
+===== run 2026-06-04T11:26:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26948815159) =====
+[11:26:33] batch-start shard=0/2 count=20 backlog=10210 uploads=4430 failed_attempts=166
+[11:26:33] login
+[11:26:34] login done
+[11:26:34] iteration 1/20
+[11:26:34] film cr_film_id=25338 name='Radostný život posmrtný (1990)' candidates=1
+[11:26:34]   candidate upload_id=585ac357c24a4 url=https://prehraj.to/radostny-zivot-posmrtny-komedie-ceskoslovensko-1990/585ac357c24a4
+[11:26:35]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1217993/Zbrtr3FOMU81H78f92HQ2Fn1IgeIqjTbkhVOF…)
+[11:26:51]   downloaded 355.6 MB in 14.5s (24.5 MB/s)
+[11:27:17]   upload done video_id=25510940 in 26.5s
