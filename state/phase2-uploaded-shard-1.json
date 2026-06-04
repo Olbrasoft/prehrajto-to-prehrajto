@@ -80636,6 +80636,25 @@
         "download_sec": 50.8,
         "upload_sec": 61.8
       }
+    },
+    {
+      "cr_film_id": 32545,
+      "cr_slug": "sugar-hill",
+      "title": "Sugar Hill",
+      "year": 1994,
+      "display_name": "Sugar Hill (1994)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "585133376fe9c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25501923,
+      "size_bytes": 566962789,
+      "uploaded_at": "2026-06-04T05:13:14Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.2,
+        "upload_sec": 40.3
+      }
     }
   ],
   "failed_attempts": [
@@ -81751,5 +81770,5 @@
       "failed_at": "2026-06-04T03:11:42Z"
     }
   ],
-  "last_updated": "2026-06-04T05:11:58Z"
+  "last_updated": "2026-06-04T05:13:14Z"
 }
