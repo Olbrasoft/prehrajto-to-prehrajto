@@ -84531,6 +84531,25 @@
         "download_sec": 20.8,
         "upload_sec": 32.7
       }
+    },
+    {
+      "cr_film_id": 23248,
+      "cr_slug": "bily-palac",
+      "title": "Bílý palác",
+      "year": 1990,
+      "display_name": "Bílý palác (1990)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "584151cbbdc8a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25511395,
+      "size_bytes": 505730968,
+      "uploaded_at": "2026-06-04T11:54:38Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.0,
+        "upload_sec": 45.3
+      }
     }
   ],
   "failed_attempts": [
@@ -85735,5 +85754,5 @@
       "failed_at": "2026-06-04T10:59:41Z"
     }
   ],
-  "last_updated": "2026-06-04T11:53:32Z"
+  "last_updated": "2026-06-04T11:54:38Z"
 }
