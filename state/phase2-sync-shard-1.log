@@ -32977,3 +32977,14 @@
 [11:25:55]   upload done video_id=25510922 in 35.6s
 [11:25:57] film cr_film_id=35003 OK in 67.2s
 [11:25:57] batch-end ok=19 failed=1 dur=1480.8s avg/film=77.9s remaining=5784 eta_hours=125.2
+
+===== run 2026-06-04T11:26:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26948815159) =====
+[11:26:25] batch-start shard=1/2 count=20 backlog=10210 uploads=4426 failed_attempts=157
+[11:26:25] login
+[11:26:26] login done
+[11:26:26] iteration 1/20
+[11:26:26] film cr_film_id=22973 name='Homeboy (1988)' candidates=1
+[11:26:26]   candidate upload_id=5abb44ab88456 url=https://prehraj.to/homeboy-1988/5abb44ab88456
+[11:26:27]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/3754659/0ojsj6h0ysL7cVZcpMi98hRJtaBtNPTo6CVvS…)
+[11:27:19]   downloaded 1,420.7 MB in 50.6s (28.1 MB/s)
+[11:28:25]   upload done video_id=25510959 in 66.3s
