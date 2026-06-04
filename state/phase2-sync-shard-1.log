@@ -30642,3 +30642,14 @@
 [00:36:30]   upload done video_id=25497073 in 30.4s
 [00:36:31] film cr_film_id=33945 OK in 51.5s
 [00:36:31] batch-end ok=19 failed=1 dur=1939.9s avg/film=102.1s remaining=6099 eta_hours=173.0
+
+===== run 2026-06-04T00:52:33Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26922893695) =====
+[00:52:34] batch-start shard=1/2 count=20 backlog=10210 uploads=4111 failed_attempts=148
+[00:52:34] login
+[00:52:35] login done
+[00:52:35] iteration 1/20
+[00:52:35] film cr_film_id=12559 name='Útok z hlubin (1999)' candidates=3
+[00:52:35]   candidate upload_id=679108740249c url=https://prehraj.to/deep-blue-sea-1999-cz-1080p/679108740249c
+[00:52:36]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/127974893/bqbSNZHblsEvskWsJ0hajH9MCWNsEPUdNiv…)
+[00:54:15]   downloaded 2,734.7 MB in 97.2s (28.1 MB/s)
+[00:56:12]   upload done video_id=25497457 in 116.7s
