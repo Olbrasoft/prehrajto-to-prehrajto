@@ -34220,3 +34220,14 @@
 [18:12:55]   upload done video_id=25517613 in 25.4s
 [18:12:57] film cr_film_id=22720 OK in 44.0s
 [18:12:57] batch-end ok=20 failed=0 dur=3308.9s avg/film=165.4s remaining=5620 eta_hours=258.2
+
+===== run 2026-06-04T18:13:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26970660164) =====
+[18:13:23] batch-start shard=0/2 count=20 backlog=10210 uploads=4590 failed_attempts=166
+[18:13:23] login
+[18:13:24] login done
+[18:13:24] iteration 1/20
+[18:13:24] film cr_film_id=33986 name='Prodaná nevěsta (1982)' candidates=1
+[18:13:24]   candidate upload_id=62ba1beb4eef5 url=https://prehraj.to/prodana-nevesta-1981/62ba1beb4eef5
+[18:13:25]   resolved in 0.9s → 720p (https://pf-storage3.premiumcdn.net/31369361/2eocOXi82SD4CY5iXGTRNixYCqDC3qc8luKP…)
+[18:14:47]   downloaded 2,323.0 MB in 80.7s (28.8 MB/s)
+[18:16:23]   upload done video_id=25517650 in 95.9s
