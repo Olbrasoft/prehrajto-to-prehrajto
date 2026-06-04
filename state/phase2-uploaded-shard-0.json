@@ -83904,6 +83904,25 @@
         "download_sec": 20.4,
         "upload_sec": 31.4
       }
+    },
+    {
+      "cr_film_id": 11984,
+      "cr_slug": "dobrak-rover",
+      "title": "Dobrák Rover",
+      "year": 1991,
+      "display_name": "Dobrák Rover (1991)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5f79c1c91c644",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25510636,
+      "size_bytes": 387102561,
+      "uploaded_at": "2026-06-04T11:07:39Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.8,
+        "upload_sec": 25.5
+      }
     }
   ],
   "failed_attempts": [
@@ -85108,5 +85127,5 @@
       "failed_at": "2026-06-04T10:59:41Z"
     }
   ],
-  "last_updated": "2026-06-04T11:06:50Z"
+  "last_updated": "2026-06-04T11:07:39Z"
 }
