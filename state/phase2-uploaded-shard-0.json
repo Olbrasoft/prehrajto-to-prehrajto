@@ -80161,6 +80161,25 @@
         "download_sec": 31.1,
         "upload_sec": 41.2
       }
+    },
+    {
+      "cr_film_id": 21102,
+      "cr_slug": "hi-lo-country",
+      "title": "Hi-Lo Country",
+      "year": 1998,
+      "display_name": "Hi-Lo Country (1998)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aa836397564d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25501068,
+      "size_bytes": 940256761,
+      "uploaded_at": "2026-06-04T04:14:13Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 50.2,
+        "upload_sec": 60.8
+      }
     }
   ],
   "failed_attempts": [
@@ -81330,5 +81349,5 @@
       "failed_at": "2026-06-04T03:42:06Z"
     }
   ],
-  "last_updated": "2026-06-04T04:12:17Z"
+  "last_updated": "2026-06-04T04:14:13Z"
 }
