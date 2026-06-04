@@ -33854,3 +33854,14 @@
 [16:03:10]   upload done video_id=25515684 in 32.8s
 [16:03:12] film cr_film_id=22635 OK in 57.3s
 [16:03:12] batch-end ok=20 failed=0 dur=1436.3s avg/film=71.8s remaining=5666 eta_hours=113.0
+
+===== run 2026-06-04T16:23:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26964832695) =====
+[16:23:18] batch-start shard=1/2 count=20 backlog=10210 uploads=4544 failed_attempts=160
+[16:23:18] login
+[16:23:19] login done
+[16:23:19] iteration 1/20
+[16:23:19] film cr_film_id=34069 name='Mezi námi kluky (1982)' candidates=1
+[16:23:19]   candidate upload_id=64735191bb262 url=https://prehraj.to/mezi-nami-kluky-1981/64735191bb262
+[16:23:21]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/41137603/VqmumaSlXhe2F1rIrdIxeSaLuj7hLki8dixE…)
+[16:24:54]   downloaded 2,123.8 MB in 91.7s (23.2 MB/s)
+[16:26:50]   upload done video_id=25515929 in 115.8s
