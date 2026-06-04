@@ -81377,6 +81377,25 @@
         "download_sec": 45.9,
         "upload_sec": 54.7
       }
+    },
+    {
+      "cr_film_id": 12085,
+      "cr_slug": "skritek-1993",
+      "title": "Skřítek",
+      "year": 1993,
+      "display_name": "Skřítek (1993)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "62503a57e7d21",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25503423,
+      "size_bytes": 1828015375,
+      "uploaded_at": "2026-06-04T06:44:42Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 99.1,
+        "upload_sec": 113.9
+      }
     }
   ],
   "failed_attempts": [
@@ -82499,5 +82518,5 @@
       "failed_at": "2026-06-04T05:13:17Z"
     }
   ],
-  "last_updated": "2026-06-04T06:41:03Z"
+  "last_updated": "2026-06-04T06:44:42Z"
 }
