@@ -87020,6 +87020,25 @@
         "download_sec": 32.2,
         "upload_sec": 44.5
       }
+    },
+    {
+      "cr_film_id": 11468,
+      "cr_slug": "flashdance",
+      "title": "Flashdance",
+      "year": 1983,
+      "display_name": "Flashdance (1983)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "afacefda3c383b9f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25517130,
+      "size_bytes": 4638814674,
+      "uploaded_at": "2026-06-04T17:51:26Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 960.5,
+        "upload_sec": 211.4
+      }
     }
   ],
   "failed_attempts": [
@@ -88224,5 +88243,5 @@
       "failed_at": "2026-06-04T10:59:41Z"
     }
   ],
-  "last_updated": "2026-06-04T17:31:50Z"
+  "last_updated": "2026-06-04T17:51:26Z"
 }
