@@ -30863,3 +30863,14 @@
 [01:28:52]   upload done video_id=25498095 in 62.1s
 [01:28:54] film cr_film_id=24694 OK in 119.3s
 [01:28:54] batch-end ok=18 failed=2 dur=2177.2s avg/film=121.0s remaining=6075 eta_hours=204.2
+
+===== run 2026-06-04T01:29:16Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26924232125) =====
+[01:29:17] batch-start shard=0/2 count=20 backlog=10210 uploads=4135 failed_attempts=159
+[01:29:17] login
+[01:29:18] login done
+[01:29:18] iteration 1/20
+[01:29:18] film cr_film_id=30422 name='Den, kdy nevyšlo slunce (2002)' candidates=1
+[01:29:18]   candidate upload_id=fc4cfaa93eeaed2e url=https://prehraj.to/den-kdy-nevyslo-slunce-2002-en/fc4cfaa93eeaed2e
+[01:29:19]   resolved in 1.1s → 1080p (https://pf-storage6.premiumcdn.net/169602481/DPkTBxSpJHkZcw3t7Ns6nSjRIrVHxlIlOIb…)
+[01:30:31]   downloaded 1,737.1 MB in 70.3s (24.7 MB/s)
+[01:31:42]   upload done video_id=25498138 in 71.1s
