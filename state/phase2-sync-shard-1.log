@@ -31514,3 +31514,14 @@
 [04:44:15]   upload done video_id=25501567 in 49.8s
 [04:44:16] film cr_film_id=12253 OK in 93.1s
 [04:44:16] batch-end ok=20 failed=0 dur=2628.7s avg/film=131.4s remaining=5982 eta_hours=218.3
+
+===== run 2026-06-04T04:47:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26931412904) =====
+[04:47:55] batch-start shard=1/2 count=20 backlog=10210 uploads=4228 failed_attempts=152
+[04:47:55] login
+[04:47:57] login done
+[04:47:57] iteration 1/20
+[04:47:57] film cr_film_id=12795 name='Playgirls 2 (1995)' candidates=5
+[04:47:57]   candidate upload_id=581683cb51172 url=https://prehraj.to/playgirls-2-1995/581683cb51172
+[04:47:58]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/771416/73wsB9HmJiAXHeGsZbCM2HrvIWetoYhmXiwxCO…)
+[04:48:25]   downloaded 438.4 MB in 25.0s (17.5 MB/s)
+[04:49:00]   upload done video_id=25501632 in 34.5s
