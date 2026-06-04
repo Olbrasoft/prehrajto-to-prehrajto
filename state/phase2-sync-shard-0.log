@@ -31445,3 +31445,14 @@
 [03:56:49]   upload done video_id=25500773 in 37.4s
 [03:56:51] film cr_film_id=23796 OK in 69.0s
 [03:56:51] batch-end ok=19 failed=1 dur=1667.2s avg/film=87.7s remaining=5997 eta_hours=146.1
+
+===== run 2026-06-04T04:00:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26929702709) =====
+[04:00:26] batch-start shard=0/2 count=20 backlog=10210 uploads=4213 failed_attempts=161
+[04:00:26] login
+[04:00:28] login done
+[04:00:28] iteration 1/20
+[04:00:28] film cr_film_id=36780 name='O zlé a dobré vodě (1998)' candidates=2
+[04:00:28]   candidate upload_id=639454ad234df url=https://prehraj.to/o-zle-a-dobre-vode-pohadka-1997/639454ad234df
+[04:00:29]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/35273839/3GRsBaUpWinaHK8UqxTVNUQOFkoiY8IqxFRG…)
+[04:01:47]   downloaded 1,450.3 MB in 76.1s (19.1 MB/s)
+[04:03:16]   upload done video_id=25500875 in 88.3s
