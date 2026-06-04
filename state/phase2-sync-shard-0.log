@@ -35094,3 +35094,14 @@
 [23:54:05]   upload done video_id=25523243 in 39.9s
 [23:54:06] film cr_film_id=22336 OK in 67.3s
 [23:54:06] batch-end ok=20 failed=0 dur=2364.0s avg/film=118.2s remaining=5501 eta_hours=180.6
+
+===== run 2026-06-04T23:54:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26986698289) =====
+[23:54:36] batch-start shard=0/2 count=20 backlog=10210 uploads=4709 failed_attempts=167
+[23:54:36] login
+[23:54:37] login done
+[23:54:37] iteration 1/20
+[23:54:37] film cr_film_id=37240 name='Am a Ea (1977)' candidates=1
+[23:54:37]   candidate upload_id=6682dffba474a url=https://prehraj.to/am-a-ea-1977/6682dffba474a
+[23:54:38]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/81757994/rDXs2pu71h2Mfa9U6XcEWuL4UwMSz9inWF1Y…)
+[23:55:06]   downloaded 579.8 MB in 26.0s (22.3 MB/s)
+[23:55:40]   upload done video_id=25523265 in 33.5s
