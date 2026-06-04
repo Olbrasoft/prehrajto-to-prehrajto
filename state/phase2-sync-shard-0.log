@@ -33782,3 +33782,14 @@
 [15:38:43]   upload done video_id=25515389 in 36.8s
 [15:38:45] film cr_film_id=17030 OK in 69.7s
 [15:38:45] batch-end ok=20 failed=0 dur=2746.0s avg/film=137.3s remaining=5680 eta_hours=216.6
+
+===== run 2026-06-04T15:39:17Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26962373462) =====
+[15:39:18] batch-start shard=0/2 count=20 backlog=10210 uploads=4530 failed_attempts=166
+[15:39:18] login
+[15:39:20] login done
+[15:39:20] iteration 1/20
+[15:39:20] film cr_film_id=32810 name='Uhol pohľadu (1985)' candidates=1
+[15:39:20]   candidate upload_id=587453455a9e2 url=https://prehraj.to/uhol-pohladu-cssr-1984/587453455a9e2
+[15:39:23]   resolved in 2.9s → 480p (https://pf-storage2.premiumcdn.net/1404563/42KiAyFD1sNPSj0Hg5SvoFzLiBLt30tYqsgBi…)
+[15:39:39]   downloaded 229.5 MB in 13.8s (16.6 MB/s)
+[15:40:01]   upload done video_id=25515412 in 22.6s
