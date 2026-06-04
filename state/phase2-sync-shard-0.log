@@ -30573,3 +30573,14 @@
 [00:03:39]   upload done video_id=25496386 in 25.7s
 [00:03:41] film cr_film_id=15216 OK in 48.7s
 [00:03:41] batch-end ok=20 failed=0 dur=1485.1s avg/film=74.3s remaining=6113 eta_hours=126.2
+
+===== run 2026-06-04T00:04:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26921037229) =====
+[00:04:12] batch-start shard=0/2 count=20 backlog=10210 uploads=4097 failed_attempts=157
+[00:04:12] login
+[00:04:14] login done
+[00:04:14] iteration 1/20
+[00:04:14] film cr_film_id=30026 name='Latter Days (2003)' candidates=2
+[00:04:14]   candidate upload_id=79529ab9155daee0 url=https://prehraj.to/latter-days-2004-en/79529ab9155daee0
+[00:04:15]   resolved in 1.4s → 480p (https://pf-storage6.premiumcdn.net/169601704/kG1c4ru01cNaSLJUWyhZJuEPc3gI25fOvF4…)
+[00:05:15]   downloaded 667.9 MB in 57.3s (11.7 MB/s)
+[00:06:01]   upload done video_id=25496418 in 46.3s
