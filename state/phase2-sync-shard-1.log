@@ -34730,3 +34730,14 @@
 [22:26:55]   upload done video_id=25522027 in 60.5s
 [22:26:57] film cr_film_id=24557 OK in 105.5s
 [22:26:57] batch-end ok=20 failed=0 dur=2830.5s avg/film=141.5s remaining=5546 eta_hours=218.0
+
+===== run 2026-06-04T22:27:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26983334070) =====
+[22:27:26] batch-start shard=1/2 count=20 backlog=10210 uploads=4664 failed_attempts=160
+[22:27:26] login
+[22:27:27] login done
+[22:27:27] iteration 1/20
+[22:27:27] film cr_film_id=11141 name='Šaolin: Škola bojových umění (1974)' candidates=1
+[22:27:27]   candidate upload_id=68050e5a84297 url=https://prehraj.to/gordon-liu-saolin-skola-bojovych-umeni-akcni-1974-cz-dabing/68050e5a84297
+[22:27:29]   resolved in 1.4s → 480p (https://pf-storage3.premiumcdn.net/135703277/3WwcMGSbVtQgsjBTVvCM6SZ0CEGFJAU2ZcY…)
+[22:28:02]   downloaded 663.8 MB in 31.5s (21.1 MB/s)
+[22:28:56]   upload done video_id=25522054 in 53.6s
