@@ -83353,6 +83353,25 @@
         "download_sec": 45.4,
         "upload_sec": 52.9
       }
+    },
+    {
+      "cr_film_id": 32915,
+      "cr_slug": "bad-jim",
+      "title": "Bad Jim",
+      "year": 1990,
+      "display_name": "Bad Jim (1990)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "588c0d59d24b6",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25507883,
+      "size_bytes": 795840099,
+      "uploaded_at": "2026-06-04T10:28:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 28.1,
+        "upload_sec": 39.8
+      }
     }
   ],
   "failed_attempts": [
@@ -84482,5 +84501,5 @@
       "failed_at": "2026-06-04T07:23:17Z"
     }
   ],
-  "last_updated": "2026-06-04T10:18:15Z"
+  "last_updated": "2026-06-04T10:28:51Z"
 }

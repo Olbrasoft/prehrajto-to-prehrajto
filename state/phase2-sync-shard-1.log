@@ -32683,3 +32683,14 @@
 [10:18:15]   upload done video_id=25507334 in 52.9s
 [10:18:17] film cr_film_id=11873 OK in 102.7s
 [10:18:17] batch-end ok=20 failed=0 dur=1468.7s avg/film=73.4s remaining=5823 eta_hours=118.7
+
+===== run 2026-06-04T10:27:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26946121916) =====
+[10:27:39] batch-start shard=1/2 count=20 backlog=10210 uploads=4387 failed_attempts=154
+[10:27:39] login
+[10:27:40] login done
+[10:27:40] iteration 1/20
+[10:27:40] film cr_film_id=32915 name='Bad Jim (1990)' candidates=1
+[10:27:40]   candidate upload_id=588c0d59d24b6 url=https://prehraj.to/zly-jim-1990-nef-tv-cz/588c0d59d24b6
+[10:27:41]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1549028/5EkTwruZOT6giyxFO3SD7uyWfoWtE0fdohAWf…)
+[10:28:11]   downloaded 795.8 MB in 28.1s (28.3 MB/s)
+[10:28:51]   upload done video_id=25507883 in 39.8s
