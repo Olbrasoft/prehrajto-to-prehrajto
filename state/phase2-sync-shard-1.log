@@ -34876,3 +34876,14 @@
 [23:14:08]   upload done video_id=25522816 in 47.3s
 [23:14:10] film cr_film_id=24899 OK in 96.1s
 [23:14:10] batch-end ok=20 failed=0 dur=2803.1s avg/film=140.2s remaining=5526 eta_hours=215.2
+
+===== run 2026-06-04T23:14:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26985247773) =====
+[23:14:36] batch-start shard=1/2 count=20 backlog=10210 uploads=4684 failed_attempts=160
+[23:14:36] login
+[23:14:37] login done
+[23:14:37] iteration 1/20
+[23:14:37] film cr_film_id=23947 name='Mladý tygr (1973)' candidates=1
+[23:14:37]   candidate upload_id=5a986fedcb8da url=https://prehraj.to/mlady-tygr-1973/5a986fedcb8da
+[23:14:42]   resolved in 4.9s → 480p (https://pf-storage2.premiumcdn.net/3508652/28efEPirmcemTarsKQCYWiE6HRDsZLSx2UL9S…)
+[23:15:01]   downloaded 442.1 MB in 17.5s (25.3 MB/s)
+[23:15:27]   upload done video_id=25522826 in 25.6s
