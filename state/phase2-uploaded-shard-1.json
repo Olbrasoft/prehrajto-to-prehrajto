@@ -78489,6 +78489,25 @@
         "download_sec": 11.5,
         "upload_sec": 23.0
       }
+    },
+    {
+      "cr_film_id": 31959,
+      "cr_slug": "zrozeni-z-more",
+      "title": "Zrozeni z moře",
+      "year": 1998,
+      "display_name": "Zrozeni z moře (1998)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5846d7d60b671",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25498160,
+      "size_bytes": 472153701,
+      "uploaded_at": "2026-06-04T01:33:18Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 25.7,
+        "upload_sec": 39.3
+      }
     }
   ],
   "failed_attempts": [
@@ -79588,7 +79607,14 @@
       "reason": "resolve_failed: upload not found (404): https://prehraj.to/pola-x-leos-carax-1999/68ad0277e32f9",
       "permanent": true,
       "failed_at": "2026-06-04T01:14:59Z"
+    },
+    {
+      "cr_film_id": 12427,
+      "upload_id": "5a8debe7dbb91",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ztraceni-ve-vesmiru-1998/5a8debe7dbb91",
+      "permanent": true,
+      "failed_at": "2026-06-04T01:32:05Z"
     }
   ],
-  "last_updated": "2026-06-04T01:32:03Z"
+  "last_updated": "2026-06-04T01:33:18Z"
 }

@@ -30802,3 +30802,15 @@
 [01:31:26]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/73031639/nn4iyKIm4Sr6sKVIVPuMRIn9fbNSqAugeSd1…)
 [01:31:39]   downloaded 203.1 MB in 11.5s (17.7 MB/s)
 [01:32:03]   upload done video_id=25498148 in 23.0s
+[01:32:05] film cr_film_id=34891 OK in 40.0s
+[01:32:05] iteration 3/20
+[01:32:05] film cr_film_id=12427 name='Ztraceni ve vesmíru (1998)' candidates=1
+[01:32:05]   candidate upload_id=5a8debe7dbb91 url=https://prehraj.to/ztraceni-ve-vesmiru-1998/5a8debe7dbb91
+[01:32:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ztraceni-ve-vesmiru-1998/5a8debe7dbb91 (permanent=True)
+[01:32:06] film cr_film_id=12427 all candidates exhausted
+[01:32:06] iteration 4/20
+[01:32:06] film cr_film_id=31959 name='Zrozeni z moře (1998)' candidates=2
+[01:32:06]   candidate upload_id=5846d7d60b671 url=https://prehraj.to/zrozeni-z-more-1997-cz-dub/5846d7d60b671
+[01:32:12]   resolved in 6.3s → 480p (https://pf-storage2.premiumcdn.net/1033096/pr2tRYsMEcAkseMtZETz1sRLSAJhwOuYnfk1u…)
+[01:32:39]   downloaded 472.2 MB in 25.7s (18.4 MB/s)
+[01:33:18]   upload done video_id=25498160 in 39.3s
