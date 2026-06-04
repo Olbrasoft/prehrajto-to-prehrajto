@@ -80579,6 +80579,25 @@
         "download_sec": 27.4,
         "upload_sec": 38.8
       }
+    },
+    {
+      "cr_film_id": 23780,
+      "cr_slug": "anna-karenina-1997",
+      "title": "Anna Karenina",
+      "year": 1997,
+      "display_name": "Anna Karenina (1997)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6363532f900cb",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25501814,
+      "size_bytes": 1852871225,
+      "uploaded_at": "2026-06-04T05:04:26Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 72.9,
+        "upload_sec": 104.8
+      }
     }
   ],
   "failed_attempts": [
@@ -81755,5 +81774,5 @@
       "failed_at": "2026-06-04T04:14:18Z"
     }
   ],
-  "last_updated": "2026-06-04T05:01:23Z"
+  "last_updated": "2026-06-04T05:04:26Z"
 }
