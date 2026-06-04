@@ -33198,3 +33198,14 @@
 [11:54:38]   upload done video_id=25511395 in 45.3s
 [11:54:39] film cr_film_id=23248 OK in 65.4s
 [11:54:39] batch-end ok=20 failed=0 dur=1685.3s avg/film=84.3s remaining=5760 eta_hours=134.9
+
+===== run 2026-06-04T12:05:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26950596445) =====
+[12:05:15] batch-start shard=0/2 count=20 backlog=10210 uploads=4450 failed_attempts=166
+[12:05:15] login
+[12:05:17] login done
+[12:05:17] iteration 1/20
+[12:05:17] film cr_film_id=23116 name='Brána II. (1990)' candidates=1
+[12:05:17]   candidate upload_id=5adb3166d48b5 url=https://prehraj.to/brana-ii-1990/5adb3166d48b5
+[12:05:18]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3921918/MgOsRocnXhxDT1zi4pcLGcE5UAoIl4tVJipwU…)
+[12:05:42]   downloaded 642.5 MB in 22.4s (28.7 MB/s)
+[12:06:11]   upload done video_id=25511541 in 29.7s
