@@ -33271,3 +33271,14 @@
 [13:04:51]   upload done video_id=25512584 in 40.2s
 [13:04:53] film cr_film_id=22843 OK in 75.5s
 [13:04:53] batch-end ok=20 failed=0 dur=3574.6s avg/film=178.7s remaining=5745 eta_hours=285.2
+
+===== run 2026-06-04T13:05:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26953545262) =====
+[13:05:26] batch-start shard=1/2 count=20 backlog=10210 uploads=4465 failed_attempts=159
+[13:05:26] login
+[13:05:28] login done
+[13:05:28] iteration 1/20
+[13:05:28] film cr_film_id=11629 name="Jumpin' Jack Flash (1986)" candidates=3
+[13:05:28]   candidate upload_id=583e55eca94c4 url=https://prehraj.to/jumpin-jack-flash-1986-cz/583e55eca94c4
+[13:05:30]   resolved in 1.5s → 480p (https://pf-storage4.premiumcdn.net/965507/y6pcvGFBEtVRUY1FB4F5EFJghBKIEkIYMhxBi9…)
+[13:06:05]   downloaded 589.3 MB in 33.0s (17.9 MB/s)
+[13:06:48]   upload done video_id=25512645 in 42.7s
