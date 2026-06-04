@@ -34656,3 +34656,14 @@
 [21:39:12]   upload done video_id=25521458 in 82.2s
 [21:39:14] film cr_film_id=22516 OK in 129.5s
 [21:39:14] batch-end ok=20 failed=0 dur=2186.5s avg/film=109.3s remaining=5561 eta_hours=168.8
+
+===== run 2026-06-04T21:39:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26981220692) =====
+[21:39:42] batch-start shard=0/2 count=20 backlog=10210 uploads=4649 failed_attempts=167
+[21:39:42] login
+[21:39:44] login done
+[21:39:44] iteration 1/20
+[21:39:44] film cr_film_id=15314 name='Najatý klaun (1980)' candidates=4
+[21:39:44]   candidate upload_id=6665e4e06d2e9 url=https://prehraj.to/najaty-klaun-1980-sk/6665e4e06d2e9
+[21:39:45]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/78154520/GQlsyRfejIxyCBWSxaiNvfXyf82s3Qh4Ycz9…)
+[21:40:54]   downloaded 1,299.3 MB in 67.1s (19.4 MB/s)
+[21:42:17]   upload done video_id=25521479 in 83.1s
