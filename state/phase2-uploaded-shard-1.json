@@ -85063,6 +85063,25 @@
         "download_sec": 35.8,
         "upload_sec": 57.9
       }
+    },
+    {
+      "cr_film_id": 11561,
+      "cr_slug": "stopa",
+      "title": "Stopa",
+      "year": 1985,
+      "display_name": "Stopa (1985)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6516ba028bfa2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25513287,
+      "size_bytes": 4840656374,
+      "uploaded_at": "2026-06-04T13:41:09Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 252.0,
+        "upload_sec": 304.6
+      }
     }
   ],
   "failed_attempts": [
@@ -86227,5 +86246,5 @@
       "failed_at": "2026-06-04T11:58:32Z"
     }
   ],
-  "last_updated": "2026-06-04T13:31:45Z"
+  "last_updated": "2026-06-04T13:41:09Z"
 }
