@@ -79553,6 +79553,25 @@
         "download_sec": 49.5,
         "upload_sec": 67.4
       }
+    },
+    {
+      "cr_film_id": 32515,
+      "cr_slug": "film-1996",
+      "title": "太極拳",
+      "year": 1996,
+      "display_name": "太極拳 (1996)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5845b4c65ce2c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25500238,
+      "size_bytes": 669334943,
+      "uploaded_at": "2026-06-04T03:26:14Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 24.9,
+        "upload_sec": 36.3
+      }
     }
   ],
   "failed_attempts": [
@@ -80668,5 +80687,5 @@
       "failed_at": "2026-06-04T03:11:42Z"
     }
   ],
-  "last_updated": "2026-06-04T03:25:09Z"
+  "last_updated": "2026-06-04T03:26:14Z"
 }
