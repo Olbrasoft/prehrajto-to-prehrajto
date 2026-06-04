@@ -81130,6 +81130,25 @@
         "download_sec": 32.8,
         "upload_sec": 40.4
       }
+    },
+    {
+      "cr_film_id": 23479,
+      "cr_slug": "chungking-express",
+      "title": "Chungking Express",
+      "year": 1994,
+      "display_name": "Chungking Express (1994)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "66972a650d535",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25503047,
+      "size_bytes": 1568563179,
+      "uploaded_at": "2026-06-04T06:22:05Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 67.0,
+        "upload_sec": 92.9
+      }
     }
   ],
   "failed_attempts": [
@@ -82252,5 +82271,5 @@
       "failed_at": "2026-06-04T05:13:17Z"
     }
   ],
-  "last_updated": "2026-06-04T06:19:19Z"
+  "last_updated": "2026-06-04T06:22:05Z"
 }
