@@ -31074,3 +31074,14 @@
 [02:50:02]   upload done video_id=25499579 in 71.3s
 [02:50:04] film cr_film_id=12345 OK in 121.0s
 [02:50:04] batch-end ok=20 failed=0 dur=1600.5s avg/film=80.0s remaining=6042 eta_hours=134.3
+
+===== run 2026-06-04T02:59:46Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26927530322) =====
+[02:59:46] batch-start shard=1/2 count=20 backlog=10210 uploads=4168 failed_attempts=151
+[02:59:46] login
+[02:59:48] login done
+[02:59:48] iteration 1/20
+[02:59:48] film cr_film_id=23963 name='Popelka (1997)' candidates=1
+[02:59:48]   candidate upload_id=578542ad1488f url=https://prehraj.to/popelka-rodgers-and-hammerstein-s-cinderella-dvdrip-english-eng-1997-brendy-whitney-houston/578542ad1488f
+[02:59:50]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/260530/Px6FbNuwmTDeSRmikAIRyu3NT1qSZei5kiX8t5…)
+[03:00:17]   downloaded 913.4 MB in 25.7s (35.5 MB/s)
+[03:01:09]   upload done video_id=25499781 in 51.8s
