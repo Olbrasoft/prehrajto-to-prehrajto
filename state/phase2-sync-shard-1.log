@@ -34584,3 +34584,14 @@
 [21:32:51]   upload done video_id=25521371 in 46.3s
 [21:32:53] film cr_film_id=33429 OK in 70.8s
 [21:32:53] batch-end ok=20 failed=0 dur=1808.4s avg/film=90.4s remaining=5566 eta_hours=139.8
+
+===== run 2026-06-04T21:39:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26981220692) =====
+[21:39:45] batch-start shard=1/2 count=20 backlog=10210 uploads=4644 failed_attempts=160
+[21:39:45] login
+[21:39:46] login done
+[21:39:46] iteration 1/20
+[21:39:46] film cr_film_id=14791 name='Krakonoš a švec (1976)' candidates=2
+[21:39:46]   candidate upload_id=5869849c99d4f url=https://prehraj.to/krakonos-a-svec-cz-ghost04/5869849c99d4f
+[21:39:48]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/1268875/obKtJOTy7UGkCapcYwF7qTAQcb0hwNS8oF6gi…)
+[21:40:28]   downloaded 87.2 MB in 37.6s (2.3 MB/s)
+[21:40:44]   upload done video_id=25521477 in 16.6s
