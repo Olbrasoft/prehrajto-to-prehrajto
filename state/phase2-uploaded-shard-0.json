@@ -80180,6 +80180,25 @@
         "download_sec": 50.2,
         "upload_sec": 60.8
       }
+    },
+    {
+      "cr_film_id": 23940,
+      "cr_slug": "gia",
+      "title": "Gia",
+      "year": 1998,
+      "display_name": "Gia (1998)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "62078c750b3d6",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25501149,
+      "size_bytes": 4271651543,
+      "uploaded_at": "2026-06-04T04:22:01Z",
+      "timing": {
+        "resolve_sec": 4.6,
+        "download_sec": 216.6,
+        "upload_sec": 240.2
+      }
     }
   ],
   "failed_attempts": [
@@ -81347,7 +81366,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cas-dluhu-1998-cz/208284e7dfabc76b",
       "permanent": true,
       "failed_at": "2026-06-04T03:42:06Z"
+    },
+    {
+      "cr_film_id": 23940,
+      "upload_id": "684936d542d66",
+      "reason": "oversize: 6125517596 B",
+      "permanent": true,
+      "failed_at": "2026-06-04T04:14:18Z"
     }
   ],
-  "last_updated": "2026-06-04T04:14:13Z"
+  "last_updated": "2026-06-04T04:22:01Z"
 }
