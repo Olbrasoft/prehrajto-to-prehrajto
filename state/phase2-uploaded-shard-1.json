@@ -84056,6 +84056,25 @@
         "download_sec": 14.8,
         "upload_sec": 24.3
       }
+    },
+    {
+      "cr_film_id": 22985,
+      "cr_slug": "maly-nikita",
+      "title": "Malý Nikita",
+      "year": 1988,
+      "display_name": "Malý Nikita (1988)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "586baffe31e0a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25510898,
+      "size_bytes": 586245058,
+      "uploaded_at": "2026-06-04T11:24:48Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.3,
+        "upload_sec": 39.4
+      }
     }
   ],
   "failed_attempts": [
@@ -85206,5 +85225,5 @@
       "failed_at": "2026-06-04T11:02:35Z"
     }
   ],
-  "last_updated": "2026-06-04T11:23:43Z"
+  "last_updated": "2026-06-04T11:24:48Z"
 }
