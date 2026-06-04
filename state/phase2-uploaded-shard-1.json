@@ -78204,6 +78204,25 @@
         "download_sec": 58.1,
         "upload_sec": 147.4
       }
+    },
+    {
+      "cr_film_id": 24295,
+      "cr_slug": "rocky-marciano",
+      "title": "Rocky Marciano",
+      "year": 1999,
+      "display_name": "Rocky Marciano (1999)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "585154963ec0b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25497727,
+      "size_bytes": 756198578,
+      "uploaded_at": "2026-06-04T01:08:21Z",
+      "timing": {
+        "resolve_sec": 10.9,
+        "download_sec": 28.0,
+        "upload_sec": 35.4
+      }
     }
   ],
   "failed_attempts": [
@@ -79289,7 +79308,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/13-duchu-2001-cz-dabing-hd-mp4/122b10ec75d7425a",
       "permanent": true,
       "failed_at": "2026-06-04T00:05:42Z"
+    },
+    {
+      "cr_film_id": 1159,
+      "upload_id": "68add778cbb0d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/talentovany-pan-ripley-1999-fhd-1080p-cz-2185/68add778cbb0d",
+      "permanent": true,
+      "failed_at": "2026-06-04T01:07:06Z"
     }
   ],
-  "last_updated": "2026-06-04T01:07:03Z"
+  "last_updated": "2026-06-04T01:08:21Z"
 }
