@@ -32616,3 +32616,14 @@
 [09:53:15]   upload done video_id=25506995 in 42.9s
 [09:53:17] film cr_film_id=23270 OK in 82.0s
 [09:53:17] batch-end ok=19 failed=1 dur=2502.9s avg/film=131.7s remaining=5839 eta_hours=213.6
+
+===== run 2026-06-04T09:53:45Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26944482017) =====
+[09:53:45] batch-start shard=0/2 count=20 backlog=10210 uploads=4371 failed_attempts=165
+[09:53:45] login
+[09:53:48] login done
+[09:53:48] iteration 1/20
+[09:53:48] film cr_film_id=35570 name='Osudový omyl (1992)' candidates=1
+[09:53:48]   candidate upload_id=5a9ec4bc4ac0f url=https://prehraj.to/pole-lasky-1992/5a9ec4bc4ac0f
+[09:53:49]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/3553253/d3lHYVce2sDKUW4H9gFW4clGuq8TM4sp5SR4S…)
+[09:54:34]   downloaded 1,237.5 MB in 43.7s (28.3 MB/s)
+[09:55:29]   upload done video_id=25507023 in 54.4s
