@@ -78432,6 +78432,25 @@
         "download_sec": 23.4,
         "upload_sec": 38.5
       }
+    },
+    {
+      "cr_film_id": 24333,
+      "cr_slug": "dvojrole",
+      "title": "Dvojrole",
+      "year": 1999,
+      "display_name": "Dvojrole (1999)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c24104b8bb39",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25498056,
+      "size_bytes": 1320763280,
+      "uploaded_at": "2026-06-04T01:27:12Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 37.7,
+        "upload_sec": 78.1
+      }
     }
   ],
   "failed_attempts": [
@@ -79533,5 +79552,5 @@
       "failed_at": "2026-06-04T01:14:59Z"
     }
   ],
-  "last_updated": "2026-06-04T01:25:13Z"
+  "last_updated": "2026-06-04T01:27:12Z"
 }
