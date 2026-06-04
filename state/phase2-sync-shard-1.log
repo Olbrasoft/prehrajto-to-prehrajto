@@ -35022,3 +35022,14 @@
 [23:42:15]   upload done video_id=25523103 in 76.6s
 [23:42:16] film cr_film_id=22077 OK in 143.0s
 [23:42:16] batch-end ok=20 failed=0 dur=1659.4s avg/film=83.0s remaining=5506 eta_hours=126.9
+
+===== run 2026-06-04T23:54:34Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26986698289) =====
+[23:54:35] batch-start shard=1/2 count=20 backlog=10210 uploads=4704 failed_attempts=160
+[23:54:35] login
+[23:54:37] login done
+[23:54:37] iteration 1/20
+[23:54:37] film cr_film_id=35781 name='Žiarlivé ženy (1971)' candidates=2
+[23:54:37]   candidate upload_id=66e0434755029 url=https://prehraj.to/ziarlive-zeny-1971-sk/66e0434755029
+[23:54:38]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/95517881/QGWTqZSzwtPvC9vhk5Ue7SZnTJ9uRWcJyfeW…)
+[23:55:32]   downloaded 1,040.8 MB in 51.2s (20.3 MB/s)
+[23:56:32]   upload done video_id=25523278 in 60.7s
