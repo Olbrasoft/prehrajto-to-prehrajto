@@ -87324,6 +87324,25 @@
         "download_sec": 5.0,
         "upload_sec": 15.5
       }
+    },
+    {
+      "cr_film_id": 32804,
+      "cr_slug": "la-traviata",
+      "title": "La traviata",
+      "year": 1982,
+      "display_name": "La traviata (1982)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "587433f37e8a9",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25518218,
+      "size_bytes": 815322507,
+      "uploaded_at": "2026-06-04T18:46:14Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 1089.1,
+        "upload_sec": 52.8
+      }
     }
   ],
   "failed_attempts": [
@@ -88528,5 +88547,5 @@
       "failed_at": "2026-06-04T10:59:41Z"
     }
   ],
-  "last_updated": "2026-06-04T18:27:08Z"
+  "last_updated": "2026-06-04T18:46:14Z"
 }
