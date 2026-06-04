@@ -80560,6 +80560,25 @@
         "download_sec": 36.9,
         "upload_sec": 50.5
       }
+    },
+    {
+      "cr_film_id": 23790,
+      "cr_slug": "bojovnik-1997",
+      "title": "Bojovník",
+      "year": 1997,
+      "display_name": "Bojovník (1997)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a8d6cc0d9009",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25501788,
+      "size_bytes": 535470661,
+      "uploaded_at": "2026-06-04T05:01:23Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.4,
+        "upload_sec": 38.8
+      }
     }
   ],
   "failed_attempts": [
@@ -81736,5 +81755,5 @@
       "failed_at": "2026-06-04T04:14:18Z"
     }
   ],
-  "last_updated": "2026-06-04T05:00:12Z"
+  "last_updated": "2026-06-04T05:01:23Z"
 }
