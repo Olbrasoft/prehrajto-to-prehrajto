@@ -30719,3 +30719,14 @@
 [00:52:05]   upload done video_id=25497371 in 109.5s
 [00:52:07] film cr_film_id=34972 OK in 204.5s
 [00:52:07] batch-end ok=20 failed=0 dur=2873.5s avg/film=143.7s remaining=6093 eta_hours=243.2
+
+===== run 2026-06-04T00:52:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26922893695) =====
+[00:52:35] batch-start shard=0/2 count=20 backlog=10210 uploads=4117 failed_attempts=157
+[00:52:35] login
+[00:52:36] login done
+[00:52:36] iteration 1/20
+[00:52:36] film cr_film_id=13200 name='Strach.com (2002)' candidates=1
+[00:52:36]   candidate upload_id=5a9862d355c9e url=https://prehraj.to/strach-com-2002/5a9862d355c9e
+[00:52:37]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3508492/rBxFNzcW3C0eiKdcXKsgNcJMHBqSmJiYyTAkh…)
+[00:52:59]   downloaded 442.6 MB in 19.6s (22.6 MB/s)
+[00:53:18]   upload done video_id=25497429 in 19.6s
