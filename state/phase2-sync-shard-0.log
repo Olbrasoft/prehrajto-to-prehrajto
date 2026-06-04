@@ -31885,3 +31885,14 @@
 [05:59:26]   upload done video_id=25502643 in 60.1s
 [05:59:28] film cr_film_id=23718 OK in 103.9s
 [05:59:28] batch-end ok=19 failed=1 dur=1610.1s avg/film=84.7s remaining=5938 eta_hours=139.7
+
+===== run 2026-06-04T06:11:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26934327347) =====
+[06:11:54] batch-start shard=0/2 count=20 backlog=10210 uploads=4272 failed_attempts=163
+[06:11:54] login
+[06:11:55] login done
+[06:11:55] iteration 1/20
+[06:11:55] film cr_film_id=8884 name='Hellraiser: Pekelný jezdec (1996)' candidates=3
+[06:11:55]   candidate upload_id=6352475379809 url=https://prehraj.to/hellraiser-pekelny-jezdec-1996-cz-1080p/6352475379809
+[06:11:56]   resolved in 1.4s → 1080p (https://pf-storage1.premiumcdn.net/34043776/WYdtNeTObhwyIqRHyVCQqT9ocO0UW3iMWFKB…)
+[06:14:32]   downloaded 3,644.1 MB in 153.6s (23.7 MB/s)
+[06:17:49]   upload done video_id=25502969 in 196.9s
