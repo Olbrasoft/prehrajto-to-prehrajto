@@ -32031,3 +32031,14 @@
 [06:56:56]   upload done video_id=25503638 in 46.0s
 [06:56:58] film cr_film_id=23630 OK in 88.9s
 [06:56:58] batch-end ok=20 failed=0 dur=2703.1s avg/film=135.2s remaining=5918 eta_hours=222.3
+
+===== run 2026-06-04T06:57:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26936111597) =====
+[06:57:26] batch-start shard=0/2 count=20 backlog=10210 uploads=4292 failed_attempts=163
+[06:57:26] login
+[06:57:27] login done
+[06:57:27] iteration 1/20
+[06:57:27] film cr_film_id=34154 name='Padlí andělé (1995)' candidates=1
+[06:57:27]   candidate upload_id=6697261b9b715 url=https://prehraj.to/fallen-angels-1995-1080p-bluray-x264-aac5-1-yts-mx/6697261b9b715
+[06:57:28]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/85219811/6oLt85UW0cm8IYeUV5F0zU6YsGKs8zfowS1a…)
+[06:59:04]   downloaded 1,464.2 MB in 93.4s (15.7 MB/s)
+[07:00:29]   upload done video_id=25503682 in 85.4s
