@@ -84493,6 +84493,25 @@
         "download_sec": 23.2,
         "upload_sec": 35.5
       }
+    },
+    {
+      "cr_film_id": 36603,
+      "cr_slug": "bestseller",
+      "title": "Bestseller",
+      "year": 1987,
+      "display_name": "Bestseller (1987)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "613f0c81eee6b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25511585,
+      "size_bytes": 824542068,
+      "uploaded_at": "2026-06-04T12:10:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 86.3,
+        "upload_sec": 59.8
+      }
     }
   ],
   "failed_attempts": [
@@ -85657,5 +85676,5 @@
       "failed_at": "2026-06-04T11:58:32Z"
     }
   ],
-  "last_updated": "2026-06-04T12:07:37Z"
+  "last_updated": "2026-06-04T12:10:09Z"
 }
