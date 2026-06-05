@@ -36118,3 +36118,14 @@
 [04:36:48]   upload done video_id=25550822 in 39.8s
 [04:36:50] film cr_film_id=21828 OK in 75.0s
 [04:36:50] batch-end ok=19 failed=1 dur=2938.0s avg/film=154.6s remaining=5363 eta_hours=230.3
+
+===== run 2026-06-05T04:37:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26995659671) =====
+[04:37:15] batch-start shard=0/2 count=20 backlog=10210 uploads=4847 failed_attempts=170
+[04:37:15] login
+[04:37:17] login done
+[04:37:17] iteration 1/20
+[04:37:17] film cr_film_id=21844 name='Mejdan (1967)' candidates=1
+[04:37:17]   candidate upload_id=5ac77c914366e url=https://prehraj.to/mejdan-1967/5ac77c914366e
+[04:37:18]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/3838862/7NOIYaTB1HgYHxEswRUjGTaesWAu0dHyntrks…)
+[04:38:18]   downloaded 1,062.7 MB in 57.9s (18.4 MB/s)
+[04:39:24]   upload done video_id=25550892 in 66.5s
