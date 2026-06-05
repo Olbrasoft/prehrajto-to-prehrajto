@@ -35607,3 +35607,14 @@
 [02:18:19]   upload done video_id=25527074 in 41.4s
 [02:18:20] film cr_film_id=35429 OK in 69.6s
 [02:18:20] batch-end ok=20 failed=0 dur=1518.1s avg/film=75.9s remaining=5427 eta_hours=114.4
+
+===== run 2026-06-05T02:22:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26991489525) =====
+[02:22:39] batch-start shard=1/2 count=20 backlog=10210 uploads=4783 failed_attempts=162
+[02:22:39] login
+[02:22:40] login done
+[02:22:40] iteration 1/20
+[02:22:40] film cr_film_id=32921 name='Ringo del Nebraska (1966)' candidates=1
+[02:22:40]   candidate upload_id=588e0c613e435 url=https://prehraj.to/ringo-del-nebraska-1966-ital-ger-dvdrip-sksub/588e0c613e435
+[02:22:42]   resolved in 2.1s → 480p (https://pf-storage2.premiumcdn.net/1555254/kOlFZyIkWi38IdpSVPClwIBMtOAsLgfdLCQjI…)
+[02:23:38]   downloaded 923.2 MB in 53.2s (17.4 MB/s)
+[02:24:50]   upload done video_id=25527257 in 72.6s
