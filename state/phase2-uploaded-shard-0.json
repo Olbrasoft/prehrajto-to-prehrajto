@@ -90744,6 +90744,25 @@
         "download_sec": 84.7,
         "upload_sec": 114.1
       }
+    },
+    {
+      "cr_film_id": 32920,
+      "cr_slug": "film-1972",
+      "title": "愛奴",
+      "year": 1972,
+      "display_name": "愛奴 (1972)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "588dd17e8aa7c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25526712,
+      "size_bytes": 491106513,
+      "uploaded_at": "2026-06-05T02:07:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.8,
+        "upload_sec": 30.1
+      }
     }
   ],
   "failed_attempts": [
@@ -91962,5 +91981,5 @@
       "failed_at": "2026-06-05T00:51:09Z"
     }
   ],
-  "last_updated": "2026-06-05T02:06:15Z"
+  "last_updated": "2026-06-05T02:07:08Z"
 }
