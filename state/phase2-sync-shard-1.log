@@ -36045,3 +36045,14 @@
 [04:30:21]   upload done video_id=25550509 in 268.9s
 [04:30:24] film cr_film_id=15003 OK in 502.7s
 [04:30:24] batch-end ok=20 failed=0 dur=2552.6s avg/film=127.6s remaining=5367 eta_hours=190.2
+
+===== run 2026-06-05T04:37:13Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26995659671) =====
+[04:37:13] batch-start shard=1/2 count=20 backlog=10210 uploads=4843 failed_attempts=162
+[04:37:13] login
+[04:37:15] login done
+[04:37:15] iteration 1/20
+[04:37:15] film cr_film_id=24915 name='Jerguš Lapin (1960)' candidates=1
+[04:37:15]   candidate upload_id=588f690bab787 url=https://prehraj.to/jergus-lapin-1960-sk/588f690bab787
+[04:37:16]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/1565427/bB6TWQFzAULyu6BclRHbWFBLsaoUdNCmRCQKH…)
+[04:37:43]   downloaded 573.2 MB in 25.3s (22.7 MB/s)
+[04:38:19]   upload done video_id=25550871 in 35.8s
