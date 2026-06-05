@@ -36410,3 +36410,14 @@
 [05:59:52]   upload done video_id=25552924 in 85.7s
 [05:59:54] film cr_film_id=32960 OK in 169.5s
 [05:59:54] batch-end ok=20 failed=0 dur=2608.4s avg/film=130.4s remaining=5323 eta_hours=192.8
+
+===== run 2026-06-05T06:00:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26998342796) =====
+[06:00:20] batch-start shard=0/2 count=20 backlog=10210 uploads=4887 failed_attempts=170
+[06:00:20] login
+[06:00:21] login done
+[06:00:21] iteration 1/20
+[06:00:21] film cr_film_id=21710 name='Tom Jones (1963)' candidates=1
+[06:00:21]   candidate upload_id=5ad5ec825ebf2 url=https://prehraj.to/tom-jones-1963/5ad5ec825ebf2
+[06:00:22]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/3889438/lOMIydT8gSrOhBDtVOSZMTJjfK3h2PINAH8Ef…)
+[06:01:26]   downloaded 1,802.9 MB in 62.1s (29.0 MB/s)
+[06:02:47]   upload done video_id=25553003 in 81.4s
