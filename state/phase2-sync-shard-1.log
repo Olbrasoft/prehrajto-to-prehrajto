@@ -35315,3 +35315,14 @@
 [01:18:37]   upload done video_id=25525190 in 198.1s
 [01:18:39] film cr_film_id=11005 OK in 358.5s
 [01:18:39] batch-end ok=19 failed=1 dur=3106.7s avg/film=163.5s remaining=5467 eta_hours=248.3
+
+===== run 2026-06-05T01:19:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26989496619) =====
+[01:19:07] batch-start shard=1/2 count=20 backlog=10210 uploads=4743 failed_attempts=162
+[01:19:07] login
+[01:19:08] login done
+[01:19:08] iteration 1/20
+[01:19:08] film cr_film_id=14211 name='Schody (1969)' candidates=1
+[01:19:08]   candidate upload_id=f52bc62ac4ca3095 url=https://prehraj.to/schody-1969-cz-dabing-mp4/f52bc62ac4ca3095
+[01:19:09]   resolved in 1.1s → 480p (https://pf-storage6.premiumcdn.net/169717609/bBvubkFr4tvos5JCw5HMoF5jiq4tMytW4uL…)
+[01:19:25]   downloaded 352.9 MB in 14.4s (24.5 MB/s)
+[01:19:48]   upload done video_id=25525301 in 22.7s
