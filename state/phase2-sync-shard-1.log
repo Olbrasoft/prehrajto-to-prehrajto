@@ -36191,3 +36191,14 @@
 [05:06:43]   upload done video_id=25551636 in 35.5s
 [05:06:45] film cr_film_id=10769 OK in 62.2s
 [05:06:45] batch-end ok=20 failed=0 dur=1769.8s avg/film=88.5s remaining=5347 eta_hours=131.4
+
+===== run 2026-06-05T05:16:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26996897645) =====
+[05:16:23] batch-start shard=1/2 count=20 backlog=10210 uploads=4863 failed_attempts=162
+[05:16:23] login
+[05:16:25] login done
+[05:16:25] iteration 1/20
+[05:16:25] film cr_film_id=21499 name='The Quiet Gun (1957)' candidates=1
+[05:16:25]   candidate upload_id=55bc898640456 url=https://prehraj.to/the-quiet-gun-1957/55bc898640456
+[05:16:26]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/63236/p8pUOQFZGUd7TN0SYOcEaF9XcMzfqjUbOtYPC7Y…)
+[05:16:53]   downloaded 486.6 MB in 25.3s (19.2 MB/s)
+[05:17:28]   upload done video_id=25551882 in 34.6s
