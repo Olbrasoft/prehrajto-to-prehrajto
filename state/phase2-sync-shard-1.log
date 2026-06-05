@@ -36337,3 +36337,14 @@
 [05:59:28]   upload done video_id=25552925 in 53.8s
 [05:59:30] film cr_film_id=31183 OK in 101.8s
 [05:59:30] batch-end ok=20 failed=0 dur=2585.1s avg/film=129.3s remaining=5327 eta_hours=191.3
+
+===== run 2026-06-05T06:00:22Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26998342796) =====
+[06:00:23] batch-start shard=1/2 count=20 backlog=10210 uploads=4883 failed_attempts=162
+[06:00:23] login
+[06:00:24] login done
+[06:00:24] iteration 1/20
+[06:00:24] film cr_film_id=10719 name='Nesahejte na prachy (1954)' candidates=1
+[06:00:24]   candidate upload_id=5acd9f5a8dda5 url=https://prehraj.to/nesahejte-na-prachy-1954/5acd9f5a8dda5
+[06:00:26]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/3862756/5zMuPvh8mSWYT4yiZ6fnmhDoIyRtKbSyMi97S…)
+[06:00:50]   downloaded 515.6 MB in 22.7s (22.7 MB/s)
+[06:01:21]   upload done video_id=25552978 in 31.0s
