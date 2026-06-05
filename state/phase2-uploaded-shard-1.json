@@ -94183,6 +94183,25 @@
         "download_sec": 42.0,
         "upload_sec": 53.8
       }
+    },
+    {
+      "cr_film_id": 31587,
+      "cr_slug": "galileo",
+      "title": "Galileo",
+      "year": null,
+      "display_name": "Galileo",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "baea1328f56a40f0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 25556768,
+      "size_bytes": 2424713209,
+      "uploaded_at": "2026-06-05T08:20:57Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 68.0,
+        "upload_sec": 157.4
+      }
     }
   ],
   "failed_attempts": [
@@ -95375,5 +95394,5 @@
       "failed_at": "2026-06-05T06:27:17Z"
     }
   ],
-  "last_updated": "2026-06-05T08:17:07Z"
+  "last_updated": "2026-06-05T08:20:57Z"
 }
