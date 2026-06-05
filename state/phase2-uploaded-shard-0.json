@@ -90934,6 +90934,25 @@
         "download_sec": 41.9,
         "upload_sec": 71.7
       }
+    },
+    {
+      "cr_film_id": 37172,
+      "cr_slug": "magnolia-1972",
+      "title": "Magnolia",
+      "year": 1972,
+      "display_name": "Magnolia (1972)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "d4f1507c38bc96cc",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25527124,
+      "size_bytes": 423462912,
+      "uploaded_at": "2026-06-05T02:19:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.0,
+        "upload_sec": 26.7
+      }
     }
   ],
   "failed_attempts": [
@@ -92152,5 +92171,5 @@
       "failed_at": "2026-06-05T00:51:09Z"
     }
   ],
-  "last_updated": "2026-06-05T02:18:52Z"
+  "last_updated": "2026-06-05T02:19:40Z"
 }
