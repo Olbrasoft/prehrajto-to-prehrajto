@@ -35461,3 +35461,14 @@
 [01:50:19]   upload done video_id=25526171 in 33.1s
 [01:50:20] film cr_film_id=31591 OK in 61.7s
 [01:50:20] batch-end ok=20 failed=0 dur=1872.5s avg/film=93.6s remaining=5447 eta_hours=141.6
+
+===== run 2026-06-05T01:52:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26990573685) =====
+[01:53:00] batch-start shard=1/2 count=20 backlog=10210 uploads=4763 failed_attempts=162
+[01:53:00] login
+[01:53:02] login done
+[01:53:02] iteration 1/20
+[01:53:02] film cr_film_id=12747 name='Carmen nejen podle Bizeta (1968)' candidates=2
+[01:53:02]   candidate upload_id=5894ace1470d4 url=https://prehraj.to/whyr-cin-cz-carmen-nejen-podle-bizeta-1968-76-mp4/5894ace1470d4
+[01:53:03]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1614516/aadIjNiwMuQWfboH9rs4mi14SBAsAYCyVUamf…)
+[01:53:15]   downloaded 245.6 MB in 10.5s (23.4 MB/s)
+[01:53:34]   upload done video_id=25526282 in 19.1s
