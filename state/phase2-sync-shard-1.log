@@ -35200,3 +35200,15 @@
 [00:31:20]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/1066574/RWmimduPWsj8sgruO8fPRuvAIx3C9Eu0dhjLi…)
 [00:32:08]   downloaded 906.3 MB in 46.4s (19.5 MB/s)
 [00:33:32]   upload done video_id=25523820 in 84.4s
+[00:33:34] film cr_film_id=22003 OK in 136.2s
+[00:33:34] iteration 5/20
+[00:33:34] film cr_film_id=11031 name='Na kometě (1970)' candidates=1
+[00:33:34]   candidate upload_id=4912286caaad3845 url=https://prehraj.to/na-komete/4912286caaad3845
+[00:33:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/na-komete/4912286caaad3845 (permanent=True)
+[00:33:36] film cr_film_id=11031 all candidates exhausted
+[00:33:36] iteration 6/20
+[00:33:36] film cr_film_id=22013 name='MASH (1970)' candidates=3
+[00:33:36]   candidate upload_id=5aa8794eb90aa url=https://prehraj.to/mash-1970/5aa8794eb90aa
+[00:33:42]   resolved in 6.2s → 480p (https://pf-storage1.premiumcdn.net/3628591/dWEtJxIr4FzdUKJIypTjwI5vcvxhAaT1GHlas…)
+[00:34:13]   downloaded 519.1 MB in 29.2s (17.8 MB/s)
+[00:34:49]   upload done video_id=25523898 in 36.5s
