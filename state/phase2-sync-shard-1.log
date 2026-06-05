@@ -35753,3 +35753,14 @@
 [03:05:21]   upload done video_id=25528442 in 44.9s
 [03:05:23] film cr_film_id=21749 OK in 82.8s
 [03:05:23] batch-end ok=20 failed=0 dur=2562.4s avg/film=128.1s remaining=5407 eta_hours=192.4
+
+===== run 2026-06-05T03:05:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26992829267) =====
+[03:05:52] batch-start shard=1/2 count=20 backlog=10210 uploads=4803 failed_attempts=162
+[03:05:52] login
+[03:05:53] login done
+[03:05:53] iteration 1/20
+[03:05:53] film cr_film_id=21745 name="Casanova '70 (1965)" candidates=1
+[03:05:53]   candidate upload_id=585524f2202da url=https://prehraj.to/casanova-70-1965-cz-hardsub/585524f2202da
+[03:05:55]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/1188111/PNZI2ncyQULBhwASN1IWycyWu2RClriakT1Xt…)
+[03:06:51]   downloaded 1,032.3 MB in 54.2s (19.0 MB/s)
+[03:07:59]   upload done video_id=25528510 in 67.5s
