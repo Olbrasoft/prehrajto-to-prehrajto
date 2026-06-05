@@ -37283,3 +37283,14 @@
 [09:35:54]   upload done video_id=25558756 in 30.1s
 [09:35:56] film cr_film_id=33458 OK in 64.9s
 [09:35:56] batch-end ok=19 failed=1 dur=1721.5s avg/film=90.6s remaining=5205 eta_hours=131.0
+
+===== run 2026-06-05T09:36:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27007348732) =====
+[09:36:26] batch-start shard=0/2 count=20 backlog=10210 uploads=5005 failed_attempts=172
+[09:36:26] login
+[09:36:27] login done
+[09:36:27] iteration 1/20
+[09:36:27] film cr_film_id=35564 name='Northwest Passage (1940)' candidates=1
+[09:36:27]   candidate upload_id=66d100c997706 url=https://prehraj.to/northwest-passage-1940-1080p-bluray-x264-aac-yts/66d100c997706
+[09:36:28]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/93390005/KN0HLmh7EUx1TeqHlLFL5h5Eu8Whr1i5RuzW…)
+[09:38:59]   downloaded 3,797.3 MB in 148.7s (25.5 MB/s)
+[09:41:50]   upload done video_id=25558835 in 171.6s
