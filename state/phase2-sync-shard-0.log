@@ -36847,3 +36847,14 @@
 [07:55:23]   upload done video_id=25556065 in 38.0s
 [07:55:25] film cr_film_id=21436 OK in 72.8s
 [07:55:25] batch-end ok=20 failed=0 dur=3001.4s avg/film=150.1s remaining=5264 eta_hours=219.5
+
+===== run 2026-06-05T07:55:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27002869972) =====
+[07:55:51] batch-start shard=0/2 count=20 backlog=10210 uploads=4946 failed_attempts=171
+[07:55:51] login
+[07:55:53] login done
+[07:55:53] iteration 1/20
+[07:55:53] film cr_film_id=10726 name='Jan Hus (1955)' candidates=7
+[07:55:53]   candidate upload_id=5dd5362c7511e url=https://prehraj.to/jan-hus-1954-cz-dvdrip-xvid-ac3-dd2-0-bolero-nwf/5dd5362c7511e
+[07:55:54]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/15305017/a8kT78sxrHPWIwAf5mIGRsgeUaXHjRHzaTlr…)
+[07:56:52]   downloaded 1,226.9 MB in 56.2s (21.8 MB/s)
+[07:58:17]   upload done video_id=25556137 in 84.5s
