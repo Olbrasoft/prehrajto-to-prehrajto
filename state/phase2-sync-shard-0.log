@@ -35240,3 +35240,14 @@
 [00:24:40]   upload done video_id=25523596 in 26.5s
 [00:24:41] film cr_film_id=32570 OK in 48.6s
 [00:24:41] batch-end ok=20 failed=0 dur=1804.0s avg/film=90.2s remaining=5481 eta_hours=137.3
+
+===== run 2026-06-05T00:26:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26987806895) =====
+[00:26:46] batch-start shard=0/2 count=20 backlog=10210 uploads=4729 failed_attempts=167
+[00:26:46] login
+[00:26:48] login done
+[00:26:48] iteration 1/20
+[00:26:48] film cr_film_id=33738 name='Cirkus v cirkuse (1976)' candidates=1
+[00:26:48]   candidate upload_id=609d34c00a960 url=https://prehraj.to/cirkus-v-cirkuse-komedie-1975-cz/609d34c00a960
+[00:26:49]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/23498229/KbvSYjFAaI6buwlCrwfGeF1pHZ2SxMfpoUwY…)
+[00:27:14]   downloaded 796.8 MB in 23.6s (33.8 MB/s)
+[00:27:53]   upload done video_id=25523666 in 38.8s
