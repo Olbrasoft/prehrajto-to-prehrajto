@@ -92948,6 +92948,25 @@
         "download_sec": 30.8,
         "upload_sec": 40.4
       }
+    },
+    {
+      "cr_film_id": 21343,
+      "cr_slug": "krasky-noci",
+      "title": "Krásky noci",
+      "year": 1952,
+      "display_name": "Krásky noci (1952)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab6d2ec59b4e",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25553385,
+      "size_bytes": 1200165316,
+      "uploaded_at": "2026-06-05T06:17:21Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 48.9,
+        "upload_sec": 56.6
+      }
     }
   ],
   "failed_attempts": [
@@ -94133,5 +94152,5 @@
       "failed_at": "2026-06-05T01:07:57Z"
     }
   ],
-  "last_updated": "2026-06-05T06:15:31Z"
+  "last_updated": "2026-06-05T06:17:21Z"
 }
