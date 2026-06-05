@@ -36264,3 +36264,14 @@
 [05:15:53]   upload done video_id=25551850 in 35.8s
 [05:15:55] film cr_film_id=12810 OK in 69.2s
 [05:15:55] batch-end ok=20 failed=0 dur=2317.9s avg/film=115.9s remaining=5343 eta_hours=172.0
+
+===== run 2026-06-05T05:16:23Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26996897645) =====
+[05:16:24] batch-start shard=0/2 count=20 backlog=10210 uploads=4867 failed_attempts=170
+[05:16:24] login
+[05:16:25] login done
+[05:16:25] iteration 1/20
+[05:16:25] film cr_film_id=21760 name='Lord Jim (1965)' candidates=1
+[05:16:25]   candidate upload_id=5ab4e7dded9ca url=https://prehraj.to/lord-jim-1965/5ab4e7dded9ca
+[05:16:26]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/3708234/Yyrf75cmYtGLSaYTl8i71cl1sPBumeuoLhR8T…)
+[05:17:31]   downloaded 1,528.2 MB in 63.2s (24.2 MB/s)
+[05:18:42]   upload done video_id=25551902 in 71.1s
