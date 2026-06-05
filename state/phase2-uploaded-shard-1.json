@@ -90022,6 +90022,25 @@
         "download_sec": 25.1,
         "upload_sec": 43.0
       }
+    },
+    {
+      "cr_film_id": 21983,
+      "cr_slug": "topaz",
+      "title": "Topaz",
+      "year": 1969,
+      "display_name": "Topaz (1969)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c22e88eec295",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 25524842,
+      "size_bytes": 1156153049,
+      "uploaded_at": "2026-06-05T01:05:40Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 82.2,
+        "upload_sec": 85.6
+      }
     }
   ],
   "failed_attempts": [
@@ -91200,5 +91219,5 @@
       "failed_at": "2026-06-05T00:33:36Z"
     }
   ],
-  "last_updated": "2026-06-05T01:02:47Z"
+  "last_updated": "2026-06-05T01:05:40Z"
 }
