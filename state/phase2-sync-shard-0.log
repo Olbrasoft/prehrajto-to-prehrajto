@@ -36060,3 +36060,17 @@
 [04:15:44]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/126577229/POMIyNi76fays5wC3nHoviNPulYfRYuVJhd…)
 [04:19:57]   downloaded 2,232.0 MB in 251.2s (8.9 MB/s)
 [04:22:23]   upload done video_id=25550361 in 146.0s
+[04:22:26] film cr_film_id=12736 OK in 402.6s
+[04:22:26] iteration 13/20
+[04:22:26] film cr_film_id=21844 name='Mejdan (1967)' candidates=1
+[04:22:26]   candidate upload_id=5ac77c914366e url=https://prehraj.to/mejdan-1967/5ac77c914366e
+[04:22:27]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3838862/7NOIYaTB1HgYHxEswRUjGTaesWAu0dHyntrks…)
+[04:23:53]   downloaded 1,062.7 MB in 83.7s (12.7 MB/s)
+[04:25:06]   upload FAILED after 73.1s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[04:25:06] film cr_film_id=21844 all candidates exhausted
+[04:25:06] iteration 14/20
+[04:25:06] film cr_film_id=10944 name='Malá Rita (1967)' candidates=1
+[04:25:06]   candidate upload_id=55bb430e1bd37 url=https://prehraj.to/mala-rita-1967/55bb430e1bd37
+[04:25:08]   resolved in 1.8s → 480p (https://pf-storage2.premiumcdn.net/54509/d7kFBXHG3Um7u8jC4nHkNHn7TMeU9GHY8SaDieR…)
+[04:25:51]   downloaded 543.1 MB in 41.8s (13.0 MB/s)
+[04:26:34]   upload done video_id=25550508 in 42.9s
