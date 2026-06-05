@@ -36918,3 +36918,11 @@
 [09:36:27] iteration 1/20
 [09:36:27] backlog exhausted
 [09:36:27] batch-end ok=0 failed=0 dur=0.0s avg/film=0s remaining=5252 eta_hours=None
+
+===== run 2026-06-05T10:09:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27008839232) =====
+[10:09:28] batch-start shard=1/2 count=20 backlog=10210 uploads=4958 failed_attempts=163
+[10:09:28] login
+[10:09:30] login done
+[10:09:30] iteration 1/20
+[10:09:30] backlog exhausted
+[10:09:30] batch-end ok=0 failed=0 dur=0.0s avg/film=0s remaining=5252 eta_hours=None
