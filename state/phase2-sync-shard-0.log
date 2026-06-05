@@ -37139,3 +37139,14 @@
 [09:06:39]   upload done video_id=25558093 in 44.9s
 [09:06:41] film cr_film_id=13214 OK in 86.6s
 [09:06:41] batch-end ok=20 failed=0 dur=1928.7s avg/film=96.4s remaining=5224 eta_hours=139.9
+
+===== run 2026-06-05T09:07:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27006039352) =====
+[09:07:13] batch-start shard=0/2 count=20 backlog=10210 uploads=4986 failed_attempts=171
+[09:07:13] login
+[09:07:14] login done
+[09:07:14] iteration 1/20
+[09:07:14] film cr_film_id=32932 name='California (1947)' candidates=1
+[09:07:14]   candidate upload_id=588ecdf2147bf url=https://prehraj.to/western-california-1947-tvrip-cz/588ecdf2147bf
+[09:07:16]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/1559806/q72iKAFLMil4HkOINZiAEFv6IPmckRTJLIdnC…)
+[09:07:37]   downloaded 309.9 MB in 18.6s (16.7 MB/s)
+[09:08:04]   upload done video_id=25558132 in 27.7s
