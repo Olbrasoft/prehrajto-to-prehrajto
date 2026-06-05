@@ -37429,3 +37429,14 @@
 [10:08:56]   upload done video_id=25559435 in 33.0s
 [10:08:58] film cr_film_id=24050 OK in 56.7s
 [10:08:58] batch-end ok=20 failed=0 dur=1950.6s avg/film=97.5s remaining=5185 eta_hours=140.4
+
+===== run 2026-06-05T10:09:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27008839232) =====
+[10:09:27] batch-start shard=0/2 count=20 backlog=10210 uploads=5025 failed_attempts=172
+[10:09:27] login
+[10:09:29] login done
+[10:09:29] iteration 1/20
+[10:09:29] film cr_film_id=24432 name='Karel Hynek Mácha (1937)' candidates=1
+[10:09:29]   candidate upload_id=60b9b94be3901 url=https://prehraj.to/karel-hynek-macha-drama-1937-cz/60b9b94be3901
+[10:09:29]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/23748243/b9bS4kheQCvwTb1iWRUOBhk4HMQfG5SlzSOM…)
+[10:09:55]   downloaded 687.2 MB in 24.0s (28.6 MB/s)
+[10:10:30]   upload done video_id=25559454 in 35.4s
