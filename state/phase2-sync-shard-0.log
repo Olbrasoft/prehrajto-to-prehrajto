@@ -36556,3 +36556,14 @@
 [06:29:52]   upload done video_id=25553714 in 27.5s
 [06:29:54] film cr_film_id=24534 OK in 48.8s
 [06:29:54] batch-end ok=20 failed=0 dur=1772.3s avg/film=88.6s remaining=5303 eta_hours=130.5
+
+===== run 2026-06-05T06:30:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26999401846) =====
+[06:30:20] batch-start shard=0/2 count=20 backlog=10210 uploads=4907 failed_attempts=170
+[06:30:20] login
+[06:30:23] login done
+[06:30:23] iteration 1/20
+[06:30:23] film cr_film_id=30342 name='Madame Sans-Gêne (1961)' candidates=1
+[06:30:23]   candidate upload_id=58712b838ef77 url=https://prehraj.to/madame-sans-gene-tv-film-1971/58712b838ef77
+[06:30:24]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/1367625/wQ8t4DiKocvRs5VCM2cWDivrhzju2dUwofZqI…)
+[06:30:52]   downloaded 485.2 MB in 26.0s (18.7 MB/s)
+[06:31:29]   upload done video_id=25553742 in 36.4s
