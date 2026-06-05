@@ -36993,3 +36993,14 @@
 [08:33:58]   upload done video_id=25557162 in 37.5s
 [08:34:00] film cr_film_id=13294 OK in 72.0s
 [08:34:00] batch-end ok=20 failed=0 dur=2286.9s avg/film=114.3s remaining=5244 eta_hours=166.5
+
+===== run 2026-06-05T08:34:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27004571177) =====
+[08:34:31] batch-start shard=0/2 count=20 backlog=10210 uploads=4966 failed_attempts=171
+[08:34:31] login
+[08:34:32] login done
+[08:34:32] iteration 1/20
+[08:34:32] film cr_film_id=32022 name='Bajaja (1951)' candidates=2
+[08:34:32]   candidate upload_id=5aa06f34a2711 url=https://prehraj.to/bajaja-1950/5aa06f34a2711
+[08:34:33]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3561508/KOPuPLI5XFbXigqIwVsA6IR3SkAHNasqxfwqC…)
+[08:35:07]   downloaded 669.8 MB in 31.8s (21.1 MB/s)
+[08:35:50]   upload done video_id=25557213 in 43.3s
