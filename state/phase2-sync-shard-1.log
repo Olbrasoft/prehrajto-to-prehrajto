@@ -36774,3 +36774,14 @@
 [07:34:47]   upload done video_id=25555511 in 22.5s
 [07:34:49] film cr_film_id=34729 OK in 40.5s
 [07:34:49] batch-end ok=20 failed=0 dur=1767.3s avg/film=88.4s remaining=5268 eta_hours=129.4
+
+===== run 2026-06-05T07:55:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27002869972) =====
+[07:55:50] batch-start shard=1/2 count=20 backlog=10210 uploads=4942 failed_attempts=163
+[07:55:50] login
+[07:55:52] login done
+[07:55:52] iteration 1/20
+[07:55:52] film cr_film_id=34595 name='The Son of Kong (1933)' candidates=1
+[07:55:52]   candidate upload_id=5873e9ada02b6 url=https://prehraj.to/the-son-of-kong-1933/5873e9ada02b6
+[07:55:53]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1396067/pQkhmacQpfJDTK5cxpIpQcbBHJxTpjHqmSXAU…)
+[07:56:17]   downloaded 622.8 MB in 22.5s (27.7 MB/s)
+[07:56:56]   upload done video_id=25556121 in 39.5s
