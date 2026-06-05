@@ -35168,3 +35168,14 @@
 [00:26:20]   upload done video_id=25523621 in 50.2s
 [00:26:22] film cr_film_id=22029 OK in 97.1s
 [00:26:22] batch-end ok=20 failed=0 dur=1905.3s avg/film=95.3s remaining=5486 eta_hours=145.2
+
+===== run 2026-06-05T00:26:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26987806895) =====
+[00:26:51] batch-start shard=1/2 count=20 backlog=10210 uploads=4724 failed_attempts=160
+[00:26:51] login
+[00:26:52] login done
+[00:26:52] iteration 1/20
+[00:26:52] film cr_film_id=23997 name='Velká neznámá (1970)' candidates=2
+[00:26:52]   candidate upload_id=58713d317df6b url=https://prehraj.to/velka-neznama-1970/58713d317df6b
+[00:26:54]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/1367782/b17HW2hvqs7Ksy0HLWTj6hW9cRxcMrC42FGEc…)
+[00:27:25]   downloaded 517.5 MB in 28.6s (18.1 MB/s)
+[00:28:09]   upload done video_id=25523670 in 44.6s
