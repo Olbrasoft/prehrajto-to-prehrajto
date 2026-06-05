@@ -91352,6 +91352,25 @@
         "download_sec": 30.7,
         "upload_sec": 49.1
       }
+    },
+    {
+      "cr_film_id": 21729,
+      "cr_slug": "mary-poppins",
+      "title": "Mary Poppins",
+      "year": 1964,
+      "display_name": "Mary Poppins (1964)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac1998513675",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 25528979,
+      "size_bytes": 2259074443,
+      "uploaded_at": "2026-06-05T03:25:26Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 112.3,
+        "upload_sec": 149.3
+      }
     }
   ],
   "failed_attempts": [
@@ -92537,5 +92556,5 @@
       "failed_at": "2026-06-05T01:07:57Z"
     }
   ],
-  "last_updated": "2026-06-05T03:21:00Z"
+  "last_updated": "2026-06-05T03:25:26Z"
 }
