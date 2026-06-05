@@ -35899,3 +35899,14 @@
 [03:47:21]   upload done video_id=25529571 in 36.6s
 [03:47:23] film cr_film_id=21619 OK in 69.9s
 [03:47:23] batch-end ok=20 failed=0 dur=2489.8s avg/film=124.5s remaining=5387 eta_hours=186.3
+
+===== run 2026-06-05T03:47:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/26994122611) =====
+[03:47:50] batch-start shard=1/2 count=20 backlog=10210 uploads=4823 failed_attempts=162
+[03:47:50] login
+[03:47:51] login done
+[03:47:51] iteration 1/20
+[03:47:51] film cr_film_id=13539 name='O nejbohatším vrabci na světě (1962)' candidates=1
+[03:47:51]   candidate upload_id=86980e10c3af7c9d url=https://prehraj.to/o-nejbohatsim-vrabci-na-svete-1961/86980e10c3af7c9d
+[03:47:53]   resolved in 1.2s → 720p (https://pf-storage6.premiumcdn.net/169991314/9jMsPVcqyHjXuWosJzIbOc4YHPzU0PC8eF4…)
+[03:48:03]   downloaded 102.7 MB in 7.9s (13.0 MB/s)
+[03:48:19]   upload done video_id=25529609 in 16.5s
