@@ -149,3 +149,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [19:59:59]   upload done video_id=26022662 in 55.0s
 [20:00:01] film cr_film_id=68 OK in 101.2s
 [20:00:01] batch-end ok=20 failed=0 dur=5546.8s avg/film=277.3s remaining=17195 eta_hours=1324.5
+
+===== run 2026-06-16T20:28:08Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27645991513) =====
+[20:28:10] description overrides loaded: 65 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:28:10] batch-start shard=0/2 count=20 backlog=17650 uploads=455 failed_attempts=2 description_overrides=65
+[20:28:10] login
+[20:28:11] login done
+[20:28:11] iteration 1/20
+[20:28:11] film cr_film_id=70 name='Gladiátor (2000) CZ Dabing' candidates=6
+[20:28:11]   candidate upload_id=d72ae473735232cd url=https://prehraj.to/gladiator-2000-cz-dab-1080p/d72ae473735232cd
+[20:28:13]   resolved in 2.0s → 1080p (https://pf-storage3.premiumcdn.net/162062453/1zrIxRF9nhyJf3Bt15c9XFlaTLlflnualH4…)
+[20:31:14]   downloaded 5,734.3 MB in 179.3s (32.0 MB/s)
+[20:35:20]   upload done video_id=26023068 in 245.9s

@@ -5602,6 +5602,25 @@
         "download_sec": 42.5,
         "upload_sec": 55.0
       }
+    },
+    {
+      "cr_film_id": 70,
+      "cr_slug": "gladiator",
+      "title": "Gladiátor",
+      "year": 2000,
+      "display_name": "Gladiátor (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d72ae473735232cd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26023068,
+      "size_bytes": 5734287082,
+      "uploaded_at": "2026-06-16T20:35:20Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 179.3,
+        "upload_sec": 245.9
+      }
     }
   ],
   "failed_attempts": [
@@ -5620,5 +5639,5 @@
       "failed_at": "2026-06-16T18:59:54Z"
     }
   ],
-  "last_updated": "2026-06-16T19:59:59Z"
+  "last_updated": "2026-06-16T20:35:20Z"
 }
