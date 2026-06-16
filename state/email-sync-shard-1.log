@@ -381,3 +381,13 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:49:51]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/37903/J8vFLET1QCy8H8aUpVCZ5TWPfz0CyXsGMtRvSge…)
 [21:50:15]   downloaded 586.8 MB in 22.4s (26.2 MB/s)
 [21:50:38]   upload done video_id=26024360 in 23.6s
+[21:50:39] film cr_film_id=185 OK in 49.6s
+[21:50:39] iteration 12/20
+[21:50:39] film cr_film_id=189 name='Šílený Max: Zběsilá cesta (2015) CZ Dabing' candidates=9
+[21:50:39]   candidate upload_id=66943be085592 url=https://prehraj.to/sileny-max-zbesila-cesta-2015-cz-dabing/66943be085592
+[21:50:40]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/84828806/KnPfZYcE9HYGuM2SeRUGqc6LCe9FzPuJ9h5M…)
+[21:50:42]   oversize: 6410559613 B > 6000000000 B, skip
+[21:50:42]   candidate upload_id=5821918007fb5 url=https://prehraj.to/sileny-max-cz-dabing-2015/5821918007fb5
+[21:50:46]   resolved in 4.5s → 480p (https://pf-storage3.premiumcdn.net/814026/G0rHWJUg3HEzHyAIYLuv0UW3TObF6kS4zTMri2…)
+[21:51:17]   downloaded 1,003.7 MB in 28.9s (34.7 MB/s)
+[21:52:14]   upload done video_id=26024372 in 57.3s
