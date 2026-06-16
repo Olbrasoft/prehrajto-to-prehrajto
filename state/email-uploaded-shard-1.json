@@ -6409,6 +6409,25 @@
         "download_sec": 159.1,
         "upload_sec": 205.6
       }
+    },
+    {
+      "cr_film_id": 291,
+      "cr_slug": "lion",
+      "title": "Lion",
+      "year": 2016,
+      "display_name": "Lion (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5caf7c7fa9890",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26026957,
+      "size_bytes": 488562532,
+      "uploaded_at": "2026-06-16T23:41:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.1,
+        "upload_sec": 24.3
+      }
     }
   ],
   "failed_attempts": [
@@ -6455,5 +6474,5 @@
       "failed_at": "2026-06-16T23:27:49Z"
     }
   ],
-  "last_updated": "2026-06-16T23:40:17Z"
+  "last_updated": "2026-06-16T23:41:07Z"
 }
