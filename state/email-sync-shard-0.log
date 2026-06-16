@@ -180,3 +180,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [20:47:23]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/22616876/7W5hoET3xSAJT1wiQ8SaxTY8UdWIz0cWxCoN…)
 [20:47:39]   downloaded 407.0 MB in 14.8s (27.5 MB/s)
 [20:47:58]   upload done video_id=26023262 in 18.7s
+[20:47:59] film cr_film_id=82 OK in 37.0s
+[20:47:59] iteration 5/20
+[20:47:59] film cr_film_id=84 name='Spider-Man: Paralelní světy (2018) CZ Dabing' candidates=5
+[20:47:59]   candidate upload_id=dcdbdc0a9cba0477 url=https://prehraj.to/spider-man-paralelni-svety-2018-cz-dab-1080p/dcdbdc0a9cba0477
+[20:48:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/spider-man-paralelni-svety-2018-cz-dab-1080p/dcdbdc0a9cba0477 (permanent=True)
+[20:48:00]   candidate upload_id=616446701976c url=https://prehraj.to/spiderman-paralelni-svety-2018-cz-dabing-animovany/616446701976c
+[20:48:06]   resolved in 6.1s → 480p (https://pf-storage5.premiumcdn.net/25429610/KKGSBEi0zSKwIJzUd8UoeiJOh7DS7ecGRsr7…)
+[20:49:12]   downloaded 1,962.2 MB in 64.4s (30.5 MB/s)
+[20:50:57]   upload done video_id=26023272 in 105.6s

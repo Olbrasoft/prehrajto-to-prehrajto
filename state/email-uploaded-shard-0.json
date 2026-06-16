@@ -5659,6 +5659,25 @@
         "download_sec": 14.8,
         "upload_sec": 18.7
       }
+    },
+    {
+      "cr_film_id": 84,
+      "cr_slug": "spider-man-paralelni-svety",
+      "title": "Spider-Man: Paralelní světy",
+      "year": 2018,
+      "display_name": "Spider-Man: Paralelní světy (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "616446701976c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26023272,
+      "size_bytes": 1962215179,
+      "uploaded_at": "2026-06-16T20:50:57Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 64.4,
+        "upload_sec": 105.6
+      }
     }
   ],
   "failed_attempts": [
@@ -5682,7 +5701,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/prisaham-ze-za-to-nemuzu-2025-cz-top-kvalita-mp4/b13224e4c3bb6f36",
       "permanent": true,
       "failed_at": "2026-06-16T20:35:22Z"
+    },
+    {
+      "cr_film_id": 84,
+      "upload_id": "dcdbdc0a9cba0477",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/spider-man-paralelni-svety-2018-cz-dab-1080p/dcdbdc0a9cba0477",
+      "permanent": true,
+      "failed_at": "2026-06-16T20:48:00Z"
     }
   ],
-  "last_updated": "2026-06-16T20:47:58Z"
+  "last_updated": "2026-06-16T20:50:57Z"
 }
