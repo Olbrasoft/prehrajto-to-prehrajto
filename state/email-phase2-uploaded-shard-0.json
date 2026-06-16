@@ -5063,8 +5063,98 @@
         "download_sec": 1055.1,
         "upload_sec": 87.0
       }
+    },
+    {
+      "cr_film_id": 34438,
+      "cr_slug": "lee-cronin-mumie",
+      "title": "Lee Cronin: Mumie",
+      "year": 2026,
+      "display_name": "Lee Cronin: Mumie (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f80942e3e9843c03",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26022388,
+      "size_bytes": 1997263274,
+      "uploaded_at": "2026-06-16T19:39:52Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 55.7,
+        "upload_sec": 95.1
+      }
     }
   ],
-  "failed_attempts": [],
-  "last_updated": "2026-06-16T19:36:22Z"
+  "failed_attempts": [
+    {
+      "cr_film_id": 31702,
+      "upload_id": "d618251ea02a98f7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-2026-cz-dabing-mkv/d618251ea02a98f7",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:36:24Z"
+    },
+    {
+      "cr_film_id": 31702,
+      "upload_id": "b54ba135d080bfbb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-2026-cz-tit-1080p-hevc-aac-5-1-mkv/b54ba135d080bfbb",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:36:30Z"
+    },
+    {
+      "cr_film_id": 31702,
+      "upload_id": "a0d6d61203cf7c40",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-2026-cz-titulky-1080p/a0d6d61203cf7c40",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:36:35Z"
+    },
+    {
+      "cr_film_id": 31702,
+      "upload_id": "8e3e2f740a2c8cb5",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-2026-cz-titulky-1080p-mkv/8e3e2f740a2c8cb5",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:36:41Z"
+    },
+    {
+      "cr_film_id": 31702,
+      "upload_id": "8b6ae913cdc36f8c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-2026-cz-tit-1080p-hevc-aac-5-1/8b6ae913cdc36f8c",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:36:47Z"
+    },
+    {
+      "cr_film_id": 31702,
+      "upload_id": "2acb972f06c23b78",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-2026-cz-tit-transl-1080p-hevc-aac-5-1/2acb972f06c23b78",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:36:52Z"
+    },
+    {
+      "cr_film_id": 31702,
+      "upload_id": "9b34b5fc8c5bc94f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-2026-hd-kvalita-sk-cz-titulky/9b34b5fc8c5bc94f",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:36:58Z"
+    },
+    {
+      "cr_film_id": 31702,
+      "upload_id": "f5b6cc28724e6610",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-2026-cz-1-mkv/f5b6cc28724e6610",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:37:03Z"
+    },
+    {
+      "cr_film_id": 31702,
+      "upload_id": "8575a583655c5a61",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-2026-cz-tit-mkv/8575a583655c5a61",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:37:09Z"
+    },
+    {
+      "cr_film_id": 34438,
+      "upload_id": "93f578c4870435bb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lee-cronin-mumie-2026-1080p-horor-cz-dabing/93f578c4870435bb",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:37:14Z"
+    }
+  ],
+  "last_updated": "2026-06-16T19:39:52Z"
 }
