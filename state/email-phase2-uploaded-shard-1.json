@@ -6546,6 +6546,25 @@
         "download_sec": 24.3,
         "upload_sec": 33.5
       }
+    },
+    {
+      "cr_film_id": 35689,
+      "cr_slug": "vlak-do-pekel",
+      "title": "Vlak do pekel",
+      "year": 2008,
+      "display_name": "Vlak do pekel (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "675256cae38eb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26025632,
+      "size_bytes": 494951034,
+      "uploaded_at": "2026-06-16T22:57:55Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 19.2,
+        "upload_sec": 19.5
+      }
     }
   ],
   "failed_attempts": [
@@ -6690,5 +6709,5 @@
       "failed_at": "2026-06-16T22:53:42Z"
     }
   ],
-  "last_updated": "2026-06-16T22:57:13Z"
+  "last_updated": "2026-06-16T22:57:55Z"
 }
