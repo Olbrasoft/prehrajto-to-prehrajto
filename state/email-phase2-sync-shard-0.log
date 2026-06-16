@@ -138,3 +138,19 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [20:40:05]   resolved in 0.8s → 720p (https://pf-storage1.premiumcdn.net/168517468/JZauPQTx3UeXsX7iEwfd1TKeI97FMZi5ncr…)
 [20:40:38]   downloaded 1,128.6 MB in 31.9s (35.4 MB/s)
 [20:41:20]   upload done video_id=26023159 in 41.3s
+[20:41:21] film cr_film_id=3632 OK in 76.0s
+[20:41:21] iteration 18/20
+[20:41:21] film cr_film_id=15198 name='Hranice lásky (2022) CZ Dabing' candidates=3
+[20:41:21]   candidate upload_id=0ab7d64466f85ede url=https://prehraj.to/hranice-lasky-2022-cz-dab-1080p-mp4-mp4/0ab7d64466f85ede
+[20:41:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hranice-lasky-2022-cz-dab-1080p-mp4-mp4/0ab7d64466f85ede (permanent=True)
+[20:41:22]   candidate upload_id=09b304cdbd539adf url=https://prehraj.to/hranice-lasky-2022-cz-dab-1080p/09b304cdbd539adf
+[20:41:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hranice-lasky-2022-cz-dab-1080p/09b304cdbd539adf (permanent=True)
+[20:41:27]   candidate upload_id=9b9e812deb6d7128 url=https://prehraj.to/hranice-lasky-cr-2022/9b9e812deb6d7128
+[20:41:32]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hranice-lasky-cr-2022/9b9e812deb6d7128 (permanent=True)
+[20:41:32] film cr_film_id=15198 all candidates exhausted
+[20:41:32] iteration 19/20
+[20:41:32] film cr_film_id=1638 name='Život v Heights (2021) CZ Dabing' candidates=2
+[20:41:32]   candidate upload_id=61a054c5b8632 url=https://prehraj.to/zivot-v-heights-2021-cz-dabing-cz-titulky-vlozene-do-obrazu-drama-muzikal/61a054c5b8632
+[20:41:38]   resolved in 5.9s → 720p (https://pf-storage5.premiumcdn.net/26842090/xnVFg4cmnsG7HE9UYBCmYc9xsxZIn2fAoHZQ…)
+[20:43:15]   downloaded 3,020.3 MB in 95.3s (31.7 MB/s)
+[20:45:58]   upload done video_id=26023199 in 163.2s
