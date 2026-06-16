@@ -321,3 +321,12 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [21:40:46]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/102372416/B1LIkeUn1FQNSDdhlqsMbUxjCDaCVasobsM…)
 [21:41:48]   downloaded 1,848.1 MB in 60.3s (30.6 MB/s)
 [21:43:04]   upload done video_id=26024248 in 75.3s
+[21:43:05] film cr_film_id=5509 OK in 139.5s
+[21:43:05] iteration 3/20
+[21:43:05] film cr_film_id=7313 name='Jsem božská (2018) CZ Dabing' candidates=2
+[21:43:05]   candidate upload_id=bdf55df9346d6ac7 url=https://prehraj.to/jsem-bozska-2018-cz-dab-530p/bdf55df9346d6ac7
+[21:43:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jsem-bozska-2018-cz-dab-530p/bdf55df9346d6ac7 (permanent=True)
+[21:43:05]   candidate upload_id=a0810c6b33903316 url=https://prehraj.to/jsem-bozska-2018-usa-chn-komedie-romanticky/a0810c6b33903316
+[21:43:11]   resolved in 5.9s → 480p (https://pf-storage5.premiumcdn.net/167484401/DWdfmNsVvurWSjmcoPI9js6RUX6FW3tMxIr…)
+[21:43:39]   downloaded 942.2 MB in 26.6s (35.4 MB/s)
+[21:44:19]   upload done video_id=26024273 in 39.6s
