@@ -299,3 +299,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:24:46]   upload done video_id=26023978 in 77.4s
 [21:24:47] film cr_film_id=149 OK in 147.3s
 [21:24:47] batch-end ok=20 failed=0 dur=3388.6s avg/film=169.4s remaining=17198 eta_hours=809.3
+
+===== run 2026-06-16T21:30:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27649424590) =====
+[21:30:08] description overrides loaded: 65 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:30:08] batch-start shard=1/2 count=20 backlog=17650 uploads=452 failed_attempts=3 description_overrides=65
+[21:30:08] login
+[21:30:10] login done
+[21:30:10] iteration 1/20
+[21:30:10] film cr_film_id=155 name='Šestý smysl (1999) CZ Dabing' candidates=21
+[21:30:10]   candidate upload_id=67918904c4855 url=https://prehraj.to/sesty-smysl-bruce-willis-toni-collette-haley-joel-osment-1999-drama-thriller-mysteriozni-horor-bdrip-1080p-cz-dabing/67918904c4855
+[21:30:11]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/128000087/g5xhgXfpJHEGHeyhj8Ia0fMkSpdh2MCo8h5…)
+[21:31:08]   downloaded 1,962.4 MB in 55.9s (35.1 MB/s)
+[21:32:22]   upload done video_id=26024096 in 73.6s
