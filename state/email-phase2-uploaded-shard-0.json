@@ -6488,6 +6488,25 @@
         "download_sec": 14.7,
         "upload_sec": 15.1
       }
+    },
+    {
+      "cr_film_id": 5940,
+      "cr_slug": "push",
+      "title": "Push",
+      "year": 2009,
+      "display_name": "Push (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5836bfe33f2d8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26025271,
+      "size_bytes": 735208435,
+      "uploaded_at": "2026-06-16T22:42:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.4,
+        "upload_sec": 48.8
+      }
     }
   ],
   "failed_attempts": [
@@ -6604,5 +6623,5 @@
       "failed_at": "2026-06-16T22:25:03Z"
     }
   ],
-  "last_updated": "2026-06-16T22:38:56Z"
+  "last_updated": "2026-06-16T22:42:50Z"
 }
