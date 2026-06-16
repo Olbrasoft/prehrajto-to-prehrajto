@@ -6010,6 +6010,25 @@
         "download_sec": 19.4,
         "upload_sec": 27.5
       }
+    },
+    {
+      "cr_film_id": 209,
+      "cr_slug": "pred-soumrakem",
+      "title": "Před soumrakem",
+      "year": 2004,
+      "display_name": "Před soumrakem (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58211b790e474",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26024493,
+      "size_bytes": 501703981,
+      "uploaded_at": "2026-06-16T21:59:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.0,
+        "upload_sec": 21.0
+      }
     }
   ],
   "failed_attempts": [
@@ -6049,5 +6068,5 @@
       "failed_at": "2026-06-16T21:58:17Z"
     }
   ],
-  "last_updated": "2026-06-16T21:59:11Z"
+  "last_updated": "2026-06-16T21:59:52Z"
 }
