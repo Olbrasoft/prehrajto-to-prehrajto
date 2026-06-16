@@ -149,3 +149,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [20:42:11]   upload done video_id=26023173 in 58.5s
 [20:42:13] film cr_film_id=15765 OK in 124.1s
 [20:42:13] batch-end ok=16 failed=4 dur=8077.4s avg/film=504.8s remaining=9788 eta_hours=1372.5
+
+===== run 2026-06-16T20:49:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27647192986) =====
+[20:49:04] batch-start shard=1/2 count=20 backlog=10210 uploads=422 failed_attempts=10 description_overrides=0
+[20:49:04] login
+[20:49:05] login done
+[20:49:05] iteration 1/20
+[20:49:05] film cr_film_id=37271 name='Pět minut s tátou (2022) CZ Dabing' candidates=1
+[20:49:05]   candidate upload_id=0cf2200cfa05a5f1 url=https://prehraj.to/pet-minut-s-tatou-2022-cz-dab-1080p/0cf2200cfa05a5f1
+[20:49:06]   resolved in 1.1s → 1080p (https://pf-storage6.premiumcdn.net/171548996/BRAcYvTnBIYnFxzfVZCVmT1nIxRIGLH1yIO…)
+[20:50:30]   downloaded 2,087.8 MB in 81.8s (25.5 MB/s)
+[20:52:28]   upload done video_id=26023289 in 117.6s
