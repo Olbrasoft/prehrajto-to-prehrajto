@@ -10,3 +10,21 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [18:27:37]   resolved in 1.7s → 720p (https://pf-storage6.premiumcdn.net/171056951/jN1fGYSRKiVnsnZI1LUKJS7PfxVHlMtBzT0…)
 [18:30:00]   downloaded 1,951.3 MB in 140.6s (13.9 MB/s)
 [18:31:48]   upload done video_id=26020752 in 108.6s
+[18:31:50] film cr_film_id=37209 OK in 254.8s
+[18:31:50] iteration 2/20
+[18:31:50] film cr_film_id=37251 name='Když se zhasne (2026) CZ Dabing' candidates=4
+[18:31:50]   candidate upload_id=5c9a3b6a3bef1f3c url=https://prehraj.to/kdyz-se-zhasne-2026-cz-dab-mkv/5c9a3b6a3bef1f3c
+[18:31:51]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyz-se-zhasne-2026-cz-dab-mkv/5c9a3b6a3bef1f3c (permanent=True)
+[18:31:51]   candidate upload_id=ec4ce151b238fca4 url=https://prehraj.to/kdyz-se-zhasne-2026-cz-dab-mkv/ec4ce151b238fca4
+[18:31:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyz-se-zhasne-2026-cz-dab-mkv/ec4ce151b238fca4 (permanent=True)
+[18:31:57]   candidate upload_id=635ec55e226f285c url=https://prehraj.to/kdyz-se-zhasne-2026-komedie-czdab-mkv/635ec55e226f285c
+[18:32:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyz-se-zhasne-2026-komedie-czdab-mkv/635ec55e226f285c (permanent=True)
+[18:32:04]   candidate upload_id=91b36d7fd5e6a181 url=https://prehraj.to/kdyz-se-zhasne-2026-cz-1080p-mkv/91b36d7fd5e6a181
+[18:32:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyz-se-zhasne-2026-cz-1080p-mkv/91b36d7fd5e6a181 (permanent=True)
+[18:32:11] film cr_film_id=37251 all candidates exhausted
+[18:32:11] iteration 3/20
+[18:32:11] film cr_film_id=37293 name='Bouračka (2026) CZ Dabing' candidates=5
+[18:32:11]   candidate upload_id=c6a71ac934817506 url=https://prehraj.to/bouracka-2026-czdab/c6a71ac934817506
+[18:32:17]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/172340204/zDatV9cqEiQeIj9TL0U36cKytPMt2WHgzSP…)
+[18:34:30]   downloaded 926.8 MB in 131.5s (7.0 MB/s)
+[18:35:24]   upload done video_id=26020867 in 53.4s

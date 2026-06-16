@@ -4893,8 +4893,56 @@
         "download_sec": 140.6,
         "upload_sec": 108.6
       }
+    },
+    {
+      "cr_film_id": 37293,
+      "cr_slug": "bouracka",
+      "title": "Bouračka",
+      "year": 2026,
+      "display_name": "Bouračka (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c6a71ac934817506",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26020867,
+      "size_bytes": 926807700,
+      "uploaded_at": "2026-06-16T18:35:24Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 131.5,
+        "upload_sec": 53.4
+      }
     }
   ],
-  "failed_attempts": [],
-  "last_updated": "2026-06-16T18:31:48Z"
+  "failed_attempts": [
+    {
+      "cr_film_id": 37251,
+      "upload_id": "5c9a3b6a3bef1f3c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyz-se-zhasne-2026-cz-dab-mkv/5c9a3b6a3bef1f3c",
+      "permanent": true,
+      "failed_at": "2026-06-16T18:31:51Z"
+    },
+    {
+      "cr_film_id": 37251,
+      "upload_id": "ec4ce151b238fca4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyz-se-zhasne-2026-cz-dab-mkv/ec4ce151b238fca4",
+      "permanent": true,
+      "failed_at": "2026-06-16T18:31:57Z"
+    },
+    {
+      "cr_film_id": 37251,
+      "upload_id": "635ec55e226f285c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyz-se-zhasne-2026-komedie-czdab-mkv/635ec55e226f285c",
+      "permanent": true,
+      "failed_at": "2026-06-16T18:32:04Z"
+    },
+    {
+      "cr_film_id": 37251,
+      "upload_id": "91b36d7fd5e6a181",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyz-se-zhasne-2026-cz-1080p-mkv/91b36d7fd5e6a181",
+      "permanent": true,
+      "failed_at": "2026-06-16T18:32:11Z"
+    }
+  ],
+  "last_updated": "2026-06-16T18:35:24Z"
 }
