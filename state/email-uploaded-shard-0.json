@@ -5982,6 +5982,25 @@
         "download_sec": 41.6,
         "upload_sec": 80.9
       }
+    },
+    {
+      "cr_film_id": 146,
+      "cr_slug": "1917",
+      "title": "1917",
+      "year": 2019,
+      "display_name": "1917 (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a20867abeb8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26024725,
+      "size_bytes": 2733389334,
+      "uploaded_at": "2026-06-16T22:14:58Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 87.5,
+        "upload_sec": 116.2
+      }
     }
   ],
   "failed_attempts": [
@@ -6091,5 +6110,5 @@
       "failed_at": "2026-06-16T21:30:53Z"
     }
   ],
-  "last_updated": "2026-06-16T22:11:29Z"
+  "last_updated": "2026-06-16T22:14:58Z"
 }
