@@ -7039,6 +7039,25 @@
         "download_sec": 24.9,
         "upload_sec": 31.4
       }
+    },
+    {
+      "cr_film_id": 5592,
+      "cr_slug": "ledova-smrt",
+      "title": "Ledová smrt",
+      "year": 2006,
+      "display_name": "Ledová smrt (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ec57f869e3a4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26025967,
+      "size_bytes": 470528172,
+      "uploaded_at": "2026-06-16T23:14:03Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 21.3,
+        "upload_sec": 21.2
+      }
     }
   ],
   "failed_attempts": [
@@ -7155,5 +7174,5 @@
       "failed_at": "2026-06-16T22:25:03Z"
     }
   ],
-  "last_updated": "2026-06-16T23:13:17Z"
+  "last_updated": "2026-06-16T23:14:03Z"
 }
