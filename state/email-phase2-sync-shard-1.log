@@ -133,3 +133,17 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [20:33:47]   resolved in 1.9s → 1080p (https://pf-storage3.premiumcdn.net/168076753/gWjtq8HvQTwPcVnUNWte3HBZUR2SAwu7Zt3…)
 [20:37:40]   downloaded 2,541.7 MB in 230.7s (11.0 MB/s)
 [20:40:00]   upload done video_id=26023127 in 140.1s
+[20:40:02] film cr_film_id=6169 OK in 376.9s
+[20:40:02] iteration 19/20
+[20:40:02] film cr_film_id=5871 name='Thor: Láska jako hrom (2022) CZ Dabing' candidates=2
+[20:40:02]   candidate upload_id=8760a98acb229e8a url=https://prehraj.to/thor-laska-jako-hrom-2022-cz-dabing-720p/8760a98acb229e8a
+[20:40:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/thor-laska-jako-hrom-2022-cz-dabing-720p/8760a98acb229e8a (permanent=True)
+[20:40:03]   candidate upload_id=8c1253356209623e url=https://prehraj.to/thor-laska-jako-hrom-2022-cz-dabing/8c1253356209623e
+[20:40:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/thor-laska-jako-hrom-2022-cz-dabing/8c1253356209623e (permanent=True)
+[20:40:08] film cr_film_id=5871 all candidates exhausted
+[20:40:08] iteration 20/20
+[20:40:08] film cr_film_id=15765 name='Soukromá lekce (2022) CZ Dabing' candidates=1
+[20:40:08]   candidate upload_id=639dcdb3acf2d url=https://prehraj.to/soukroma-lekce-private-lesson-komedie-romanticky-2022-cz-dabing/639dcdb3acf2d
+[20:40:15]   resolved in 6.4s → 720p (https://pf-storage2.premiumcdn.net/35597209/we8fxkCwdHd5cymtgJTAgC4QH85urWTxaSjq…)
+[20:41:12]   downloaded 1,073.3 MB in 55.2s (19.4 MB/s)
+[20:42:11]   upload done video_id=26023173 in 58.5s
