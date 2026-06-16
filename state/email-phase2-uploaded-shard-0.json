@@ -5975,6 +5975,25 @@
         "download_sec": 145.8,
         "upload_sec": 217.2
       }
+    },
+    {
+      "cr_film_id": 33804,
+      "cr_slug": "the-roughnecks",
+      "title": "The Roughnecks",
+      "year": 2014,
+      "display_name": "The Roughnecks (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60de6c2b829ca",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26024660,
+      "size_bytes": 571799241,
+      "uploaded_at": "2026-06-16T22:09:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.8,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -6077,5 +6096,5 @@
       "failed_at": "2026-06-16T20:57:16Z"
     }
   ],
-  "last_updated": "2026-06-16T22:08:20Z"
+  "last_updated": "2026-06-16T22:09:17Z"
 }
