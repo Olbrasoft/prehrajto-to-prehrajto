@@ -897,3 +897,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:25:59]   upload done video_id=26026481 in 26.7s
 [23:26:00] film cr_film_id=32486 OK in 56.3s
 [23:26:00] batch-end ok=19 failed=1 dur=1391.0s avg/film=73.2s remaining=9676 eta_hours=196.7
+
+===== run 2026-06-16T23:33:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27655153424) =====
+[23:33:18] batch-start shard=0/2 count=20 backlog=10210 uploads=534 failed_attempts=17 description_overrides=0
+[23:33:18] login
+[23:33:35] login done
+[23:33:35] iteration 1/20
+[23:33:35] film cr_film_id=13456 name='Co je šeptem... (2005) CZ Dabing' candidates=1
+[23:33:35]   candidate upload_id=57fe505e36080 url=https://prehraj.to/co-je-septem-2005-cz-dabing-rumor-has-it-720p-super-kvalita-jennifer-aniston-kevin-costner-komedie-romanticky-d3lc0/57fe505e36080
+[23:33:38]   resolved in 2.6s → 480p (https://pf-storage2.premiumcdn.net/699089/DZvi9dTZ3i63U8aS5QuYBTPDhbWu15sQASYKFj…)
+[23:34:10]   downloaded 588.7 MB in 30.2s (19.5 MB/s)
+[23:34:40]   upload done video_id=26026771 in 30.1s
