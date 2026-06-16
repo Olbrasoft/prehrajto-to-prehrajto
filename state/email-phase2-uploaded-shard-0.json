@@ -5101,6 +5101,25 @@
         "download_sec": 75.0,
         "upload_sec": 92.6
       }
+    },
+    {
+      "cr_film_id": 37234,
+      "cr_slug": "posledni-vlak-do-fortune",
+      "title": "Poslední vlak do Fortune",
+      "year": 2025,
+      "display_name": "Poslední vlak do Fortune (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ff6aad4e9f504f24",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26022579,
+      "size_bytes": 1456116079,
+      "uploaded_at": "2026-06-16T19:53:52Z",
+      "timing": {
+        "resolve_sec": 2.5,
+        "download_sec": 609.8,
+        "upload_sec": 53.9
+      }
     }
   ],
   "failed_attempts": [
@@ -5175,5 +5194,5 @@
       "failed_at": "2026-06-16T19:37:14Z"
     }
   ],
-  "last_updated": "2026-06-16T19:42:43Z"
+  "last_updated": "2026-06-16T19:53:52Z"
 }
