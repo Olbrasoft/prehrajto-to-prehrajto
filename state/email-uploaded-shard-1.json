@@ -5478,6 +5478,25 @@
         "download_sec": 40.2,
         "upload_sec": 42.4
       }
+    },
+    {
+      "cr_film_id": 99,
+      "cr_slug": "princezna-mononoke",
+      "title": "Princezna Mononoke",
+      "year": 1997,
+      "display_name": "Princezna Mononoke (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "671788ac81c7c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26023285,
+      "size_bytes": 1577610742,
+      "uploaded_at": "2026-06-16T20:51:37Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 111.6,
+        "upload_sec": 90.5
+      }
     }
   ],
   "failed_attempts": [
@@ -5496,5 +5515,5 @@
       "failed_at": "2026-06-16T20:46:43Z"
     }
   ],
-  "last_updated": "2026-06-16T20:48:11Z"
+  "last_updated": "2026-06-16T20:51:37Z"
 }
