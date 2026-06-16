@@ -5083,6 +5083,25 @@
         "download_sec": 59.8,
         "upload_sec": 57.6
       }
+    },
+    {
+      "cr_film_id": 37291,
+      "cr_slug": "joe-baby",
+      "title": "Joe Baby",
+      "year": 2024,
+      "display_name": "Joe Baby (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b021c3ef8c92be9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26022880,
+      "size_bytes": 1429960432,
+      "uploaded_at": "2026-06-16T20:19:28Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 1449.6,
+        "upload_sec": 107.3
+      }
     }
   ],
   "failed_attempts": [
@@ -5143,5 +5162,5 @@
       "failed_at": "2026-06-16T19:51:20Z"
     }
   ],
-  "last_updated": "2026-06-16T19:53:25Z"
+  "last_updated": "2026-06-16T20:19:28Z"
 }
