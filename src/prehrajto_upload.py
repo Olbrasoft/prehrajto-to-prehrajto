@@ -20,13 +20,38 @@ SEC_CH_UA = '"Not:A-Brand";v="99", "Microsoft Edge";v="145", "Chromium";v="145"'
 ACCEPT_LANG = "cs,en;q=0.9,en-GB;q=0.8,en-US;q=0.7"
 
 
+def _redact_cookie_value(value: object) -> str:
+    text = str(value)
+    if len(text) <= 8:
+        return "***"
+    return f"{text[:4]}…{text[-4:]}"
+
+
+def _redact_cookies(cookies) -> dict[str, str]:
+    return {name: _redact_cookie_value(value) for name, value in dict(cookies).items()}
+
+
+def _redact_set_cookie(header: str | None) -> str | None:
+    if not header:
+        return header
+    redacted = []
+    for part in header.split(", "):
+        if "=" not in part:
+            redacted.append(part)
+            continue
+        name, rest = part.split("=", 1)
+        value, sep, attrs = rest.partition(";")
+        redacted.append(f"{name}={_redact_cookie_value(value)}{sep}{attrs}")
+    return ", ".join(redacted)
+
+
 def login(email: str, password: str) -> requests.Session:
     s = requests.Session()
     s.headers["User-Agent"] = USER_AGENT
 
     # Prime the session — visit homepage to get initial Nette cookies (csrf, session)
     prime = s.get("https://prehraj.to/")
-    print(f"[login] prime GET status={prime.status_code}, cookies={dict(s.cookies)}")
+    print(f"[login] prime GET status={prime.status_code}, cookies={_redact_cookies(s.cookies)}")
 
     r = s.post(
         "https://prehraj.to/?frm=homepageLoginForm-loginForm",
@@ -45,8 +70,8 @@ def login(email: str, password: str) -> requests.Session:
     )
     print(f"[login] status={r.status_code}, ctype={r.headers.get('content-type')}")
     print(f"[login] response text (first 500): {r.text[:500]!r}")
-    print(f"[login] set-cookie headers: {r.headers.get('set-cookie')!r}")
-    print(f"[login] session cookies after login: {dict(s.cookies)}")
+    print(f"[login] set-cookie headers: {_redact_set_cookie(r.headers.get('set-cookie'))!r}")
+    print(f"[login] session cookies after login: {_redact_cookies(s.cookies)}")
     r.raise_for_status()
 
     check = s.get("https://prehraj.to/profil", allow_redirects=False)
