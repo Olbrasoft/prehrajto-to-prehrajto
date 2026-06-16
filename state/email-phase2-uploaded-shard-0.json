@@ -7286,6 +7286,25 @@
         "download_sec": 25.4,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 25152,
+      "cr_slug": "rottweiler",
+      "title": "Rottweiler",
+      "year": 2004,
+      "display_name": "Rottweiler (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58462b6b4c459",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26026864,
+      "size_bytes": 635706075,
+      "uploaded_at": "2026-06-16T23:38:01Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 33.1,
+        "upload_sec": 32.1
+      }
     }
   ],
   "failed_attempts": [
@@ -7409,5 +7428,5 @@
       "failed_at": "2026-06-16T23:17:59Z"
     }
   ],
-  "last_updated": "2026-06-16T23:36:52Z"
+  "last_updated": "2026-06-16T23:38:01Z"
 }
