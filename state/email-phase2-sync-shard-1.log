@@ -93,3 +93,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [19:50:26]   resolved in 6.6s → 480p (https://pf-storage2.premiumcdn.net/1603627/93ZTGys9QhOesGQFDyt2ks0QulESgEIoQh0ZC…)
 [19:50:53]   downloaded 389.4 MB in 25.0s (15.6 MB/s)
 [19:51:17]   upload done video_id=26022551 in 24.1s
+[19:51:19] film cr_film_id=31949 OK in 59.8s
+[19:51:19] iteration 13/20
+[19:51:19] film cr_film_id=6473 name='Rok vdovy (2024) CZ Dabing' candidates=1
+[19:51:19]   candidate upload_id=64fafff8158e8cf0 url=https://prehraj.to/rok-vdovy-2024-novinka-cz-dabing-full-hd-1080p-pucci-film-mp4-mp4/64fafff8158e8cf0
+[19:51:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rok-vdovy-2024-novinka-cz-dabing-full-hd-1080p-pucci-film-mp4-mp4/64fafff8158e8cf0 (permanent=True)
+[19:51:20] film cr_film_id=6473 all candidates exhausted
+[19:51:20] iteration 14/20
+[19:51:20] film cr_film_id=37269 name='Krásná role (2024) CZ Dabing' candidates=1
+[19:51:20]   candidate upload_id=d07cbb747cabd7fa url=https://prehraj.to/krasna-role-2024-cz-dab-1080p/d07cbb747cabd7fa
+[19:51:26]   resolved in 5.9s → 720p (https://pf-storage6.premiumcdn.net/171548945/PAKc15SAgtqLHOmT6xHpGSX6Ua4frxclKH7…)
+[19:52:28]   downloaded 961.1 MB in 59.8s (16.1 MB/s)
+[19:53:25]   upload done video_id=26022570 in 57.6s
