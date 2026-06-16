@@ -5045,6 +5045,25 @@
         "download_sec": 2590.2,
         "upload_sec": 88.2
       }
+    },
+    {
+      "cr_film_id": 31949,
+      "cr_slug": "blaznovstvi",
+      "title": "Bláznovství",
+      "year": 2025,
+      "display_name": "Bláznovství (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58937732a814f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26022551,
+      "size_bytes": 389382382,
+      "uploaded_at": "2026-06-16T19:51:17Z",
+      "timing": {
+        "resolve_sec": 6.6,
+        "download_sec": 25.0,
+        "upload_sec": 24.1
+      }
     }
   ],
   "failed_attempts": [
@@ -5075,7 +5094,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyz-se-zhasne-2026-cz-1080p-mkv/91b36d7fd5e6a181",
       "permanent": true,
       "failed_at": "2026-06-16T18:32:11Z"
+    },
+    {
+      "cr_film_id": 3579,
+      "upload_id": "88b2ad13012fa1a1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/elio-2025-cz-dabing-topkvalita/88b2ad13012fa1a1",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:50:08Z"
+    },
+    {
+      "cr_film_id": 3579,
+      "upload_id": "35ff81f66e4abb45",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/elio-web-dl-cz-sk-2025-1080p/35ff81f66e4abb45",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:50:13Z"
+    },
+    {
+      "cr_film_id": 3579,
+      "upload_id": "d82ed750d6272ea1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/elio-web-dl-cz-sk-2025-1080p/d82ed750d6272ea1",
+      "permanent": true,
+      "failed_at": "2026-06-16T19:50:19Z"
     }
   ],
-  "last_updated": "2026-06-16T19:50:05Z"
+  "last_updated": "2026-06-16T19:51:17Z"
 }
