@@ -5231,6 +5231,25 @@
         "download_sec": 164.1,
         "upload_sec": 159.1
       }
+    },
+    {
+      "cr_film_id": 53,
+      "cr_slug": "psycho",
+      "title": "Psycho",
+      "year": 1960,
+      "display_name": "Psycho (1960) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6183fa161451e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26022539,
+      "size_bytes": 3374145410,
+      "uploaded_at": "2026-06-16T19:53:43Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 179.5,
+        "upload_sec": 262.6
+      }
     }
   ],
   "failed_attempts": [
@@ -5242,5 +5261,5 @@
       "failed_at": "2026-06-16T18:34:23Z"
     }
   ],
-  "last_updated": "2026-06-16T19:46:15Z"
+  "last_updated": "2026-06-16T19:53:43Z"
 }
