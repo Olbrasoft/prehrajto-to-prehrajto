@@ -5843,6 +5843,25 @@
         "download_sec": 18.6,
         "upload_sec": 25.5
       }
+    },
+    {
+      "cr_film_id": 28947,
+      "cr_slug": "truman",
+      "title": "Truman",
+      "year": 2015,
+      "display_name": "Truman (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59d0129e1be62",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26024603,
+      "size_bytes": 1254103992,
+      "uploaded_at": "2026-06-16T22:07:14Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 41.2,
+        "upload_sec": 56.4
+      }
     }
   ],
   "failed_attempts": [
@@ -5980,5 +5999,5 @@
       "failed_at": "2026-06-16T21:43:05Z"
     }
   ],
-  "last_updated": "2026-06-16T22:05:34Z"
+  "last_updated": "2026-06-16T22:07:14Z"
 }
