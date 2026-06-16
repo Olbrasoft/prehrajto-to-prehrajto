@@ -6352,6 +6352,25 @@
         "download_sec": 40.5,
         "upload_sec": 60.4
       }
+    },
+    {
+      "cr_film_id": 271,
+      "cr_slug": "duse",
+      "title": "Duše",
+      "year": 2020,
+      "display_name": "Duše (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61ff9cd7bd688",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26026592,
+      "size_bytes": 1639290895,
+      "uploaded_at": "2026-06-16T23:30:17Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 58.8,
+        "upload_sec": 81.8
+      }
     }
   ],
   "failed_attempts": [
@@ -6389,7 +6408,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/divoke-historky-2014-cz-dab-1080p/5026d2b6537172b9",
       "permanent": true,
       "failed_at": "2026-06-16T21:58:17Z"
+    },
+    {
+      "cr_film_id": 267,
+      "upload_id": "7f827293e6b09d31",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/duna-cast-1-2021-1080p-cz-dabing/7f827293e6b09d31",
+      "permanent": true,
+      "failed_at": "2026-06-16T23:27:49Z"
     }
   ],
-  "last_updated": "2026-06-16T23:27:47Z"
+  "last_updated": "2026-06-16T23:30:17Z"
 }
