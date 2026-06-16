@@ -4931,6 +4931,25 @@
         "download_sec": 316.1,
         "upload_sec": 107.8
       }
+    },
+    {
+      "cr_film_id": 7123,
+      "cr_slug": "v-pasti-2025",
+      "title": "V pasti",
+      "year": 2025,
+      "display_name": "V pasti (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "4deafa3613983ade",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26021107,
+      "size_bytes": 1521529817,
+      "uploaded_at": "2026-06-16T18:46:09Z",
+      "timing": {
+        "resolve_sec": 2.1,
+        "download_sec": 109.5,
+        "upload_sec": 100.8
+      }
     }
   ],
   "failed_attempts": [
@@ -4963,5 +4982,5 @@
       "failed_at": "2026-06-16T18:32:11Z"
     }
   ],
-  "last_updated": "2026-06-16T18:42:33Z"
+  "last_updated": "2026-06-16T18:46:09Z"
 }
