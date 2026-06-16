@@ -5497,6 +5497,25 @@
         "download_sec": 111.6,
         "upload_sec": 90.5
       }
+    },
+    {
+      "cr_film_id": 101,
+      "cr_slug": "amelie-z-montmartru",
+      "title": "Amélie z Montmartru",
+      "year": 2001,
+      "display_name": "Amélie z Montmartru (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d2e24b56f0549fee",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26023310,
+      "size_bytes": 1004400358,
+      "uploaded_at": "2026-06-16T20:53:09Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 39.4,
+        "upload_sec": 48.8
+      }
     }
   ],
   "failed_attempts": [
@@ -5515,5 +5534,5 @@
       "failed_at": "2026-06-16T20:46:43Z"
     }
   ],
-  "last_updated": "2026-06-16T20:51:37Z"
+  "last_updated": "2026-06-16T20:53:09Z"
 }
