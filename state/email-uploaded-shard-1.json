@@ -5269,6 +5269,25 @@
         "download_sec": 832.1,
         "upload_sec": 194.0
       }
+    },
+    {
+      "cr_film_id": 59,
+      "cr_slug": "nedotknutelni",
+      "title": "Nedotknutelní",
+      "year": 2011,
+      "display_name": "Nedotknutelní (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "678ef8bd82bfc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26022875,
+      "size_bytes": 1331171884,
+      "uploaded_at": "2026-06-16T20:19:12Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 384.5,
+        "upload_sec": 106.8
+      }
     }
   ],
   "failed_attempts": [
@@ -5280,5 +5299,5 @@
       "failed_at": "2026-06-16T18:34:23Z"
     }
   ],
-  "last_updated": "2026-06-16T20:10:55Z"
+  "last_updated": "2026-06-16T20:19:12Z"
 }
