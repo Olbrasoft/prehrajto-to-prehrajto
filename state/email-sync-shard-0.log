@@ -304,3 +304,34 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:29:34]   upload done video_id=26024068 in 32.1s
 [21:29:35] film cr_film_id=128 OK in 62.5s
 [21:29:35] batch-end ok=19 failed=1 dur=3684.1s avg/film=193.9s remaining=17176 eta_hours=925.1
+
+===== run 2026-06-16T21:30:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27649424590) =====
+[21:30:16] description overrides loaded: 65 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:30:16] batch-start shard=0/2 count=20 backlog=17650 uploads=474 failed_attempts=8 description_overrides=65
+[21:30:16] login
+[21:30:18] login done
+[21:30:18] iteration 1/20
+[21:30:18] film cr_film_id=130 name='Rozzum v divočině (2024) CZ Dabing' candidates=4
+[21:30:18]   candidate upload_id=0183b84db1a8bfa7 url=https://prehraj.to/rozum-v-divocine-2024-cz-dabing-1080p-top/0183b84db1a8bfa7
+[21:30:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozum-v-divocine-2024-cz-dabing-1080p-top/0183b84db1a8bfa7 (permanent=True)
+[21:30:18]   candidate upload_id=67192a5b27e59 url=https://prehraj.to/rozzum-v-divocine-2024-4k/67192a5b27e59
+[21:30:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozzum-v-divocine-2024-4k/67192a5b27e59 (permanent=True)
+[21:30:24]   candidate upload_id=6719263c06ebe url=https://prehraj.to/rozzum-v-divocine-2024-3d/6719263c06ebe
+[21:30:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozzum-v-divocine-2024-3d/6719263c06ebe (permanent=True)
+[21:30:30]   candidate upload_id=67192e7ad62ca url=https://prehraj.to/rozzum-v-divocine-2024/67192e7ad62ca
+[21:30:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozzum-v-divocine-2024/67192e7ad62ca (permanent=True)
+[21:30:36] film cr_film_id=130 all candidates exhausted
+[21:30:36] iteration 2/20
+[21:30:36] film cr_film_id=132 name='Oppenheimer (2023) CZ Dabing' candidates=1
+[21:30:36]   candidate upload_id=cf9c122177ba863a url=https://prehraj.to/oppenheimer-cillian-murphy-matt-damon-robert-downey-jr-2023-drama-historicky-zivotopisny-bdrip-1080p-cz-dabing/cf9c122177ba863a
+[21:30:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/oppenheimer-cillian-murphy-matt-damon-robert-downey-jr-2023-drama-historicky-zivotopisny-bdrip-1080p-cz-dabing/cf9c122177ba863a (permanent=True)
+[21:30:41] film cr_film_id=132 all candidates exhausted
+[21:30:41] iteration 3/20
+[21:30:41] film cr_film_id=134 name='Olověná vesta (1987) CZ Dabing' candidates=2
+[21:30:41]   candidate upload_id=6219d225ab37e url=https://prehraj.to/olovena-vesta-1987-cz-dabing/6219d225ab37e
+[21:30:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/olovena-vesta-1987-cz-dabing/6219d225ab37e (permanent=True)
+[21:30:47]   candidate upload_id=792a2f5f10ca16c6 url=https://prehraj.to/olovena-vesta-full-metal-jacket-1987-1080p-x264-eng-cz-sub-rewoluce/792a2f5f10ca16c6
+[21:30:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/olovena-vesta-full-metal-jacket-1987-1080p-x264-eng-cz-sub-rewoluce/792a2f5f10ca16c6 (permanent=True)
+[21:30:53] film cr_film_id=134 all candidates exhausted
+[21:30:53] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
+[21:30:53] batch-end ok=0 failed=3 dur=35.0s avg/film=0s remaining=17176 eta_hours=None
