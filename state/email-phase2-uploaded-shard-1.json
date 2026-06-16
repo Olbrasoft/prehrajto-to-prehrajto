@@ -5406,6 +5406,25 @@
         "download_sec": 94.7,
         "upload_sec": 64.8
       }
+    },
+    {
+      "cr_film_id": 29265,
+      "cr_slug": "operace-brothers-2019",
+      "title": "Operace Brothers",
+      "year": 2019,
+      "display_name": "Operace Brothers (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "678ffcffbbabe",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26023939,
+      "size_bytes": 1060004313,
+      "uploaded_at": "2026-06-16T21:22:34Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 51.2,
+        "upload_sec": 61.7
+      }
     }
   ],
   "failed_attempts": [
@@ -5536,5 +5555,5 @@
       "failed_at": "2026-06-16T21:05:29Z"
     }
   ],
-  "last_updated": "2026-06-16T21:20:36Z"
+  "last_updated": "2026-06-16T21:22:34Z"
 }
