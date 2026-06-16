@@ -5082,6 +5082,25 @@
         "download_sec": 55.7,
         "upload_sec": 95.1
       }
+    },
+    {
+      "cr_film_id": 37268,
+      "cr_slug": "gary",
+      "title": "Gary",
+      "year": 2026,
+      "display_name": "Gary (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6bf50f363e686873",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26022431,
+      "size_bytes": 2198480193,
+      "uploaded_at": "2026-06-16T19:42:43Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 75.0,
+        "upload_sec": 92.6
+      }
     }
   ],
   "failed_attempts": [
@@ -5156,5 +5175,5 @@
       "failed_at": "2026-06-16T19:37:14Z"
     }
   ],
-  "last_updated": "2026-06-16T19:39:52Z"
+  "last_updated": "2026-06-16T19:42:43Z"
 }
