@@ -5431,6 +5431,25 @@
         "download_sec": 84.4,
         "upload_sec": 91.3
       }
+    },
+    {
+      "cr_film_id": 44,
+      "cr_slug": "star-wars-epizoda-iv-nova-nadeje",
+      "title": "Hvězdné války",
+      "year": 1977,
+      "display_name": "Hvězdné války (1977) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d20768ea6aee40d7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26022014,
+      "size_bytes": 640676963,
+      "uploaded_at": "2026-06-16T19:20:06Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.5,
+        "upload_sec": 27.4
+      }
     }
   ],
   "failed_attempts": [
@@ -5449,5 +5468,5 @@
       "failed_at": "2026-06-16T18:59:54Z"
     }
   ],
-  "last_updated": "2026-06-16T19:19:16Z"
+  "last_updated": "2026-06-16T19:20:06Z"
 }
