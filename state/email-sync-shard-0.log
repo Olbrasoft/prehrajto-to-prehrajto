@@ -1,1 +1,12 @@
 Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from profile export.
+
+===== run 2026-06-16T18:27:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27639113653) =====
+[18:27:33] batch-start shard=0/2 count=20 backlog=17650 uploads=435 failed_attempts=0
+[18:27:33] login
+[18:27:34] login done
+[18:27:34] iteration 1/20
+[18:27:34] film cr_film_id=6 name='Kmotr (1972) CZ Dabing' candidates=1
+[18:27:34]   candidate upload_id=68ca2dcad3b18 url=https://prehraj.to/kmotr-i-marlon-brando-al-pacino-1972-cz-dab/68ca2dcad3b18
+[18:27:35]   resolved in 0.9s → 1080p (https://pf-storage3.premiumcdn.net/147138942/M3pFozSxzhqoTj0uEPuNJSGytLacovhj6FV…)
+[18:29:30]   downloaded 4,124.6 MB in 113.3s (36.4 MB/s)
+[18:32:14]   upload done video_id=26020745 in 164.0s
