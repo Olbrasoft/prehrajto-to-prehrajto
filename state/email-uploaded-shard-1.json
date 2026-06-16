@@ -4946,7 +4946,27 @@
       "preexisting_on_account": true,
       "account": "filmy.prehrajto@email.cz",
       "matched_from_uploaded_title": "Byl jednou jeden sněhulák (2020) CZ Dabing"
+    },
+    {
+      "cr_film_id": 5,
+      "cr_slug": "vykoupeni-z-veznice-shawshank",
+      "title": "Vykoupení z věznice Shawshank",
+      "year": 1994,
+      "display_name": "Vykoupení z věznice Shawshank (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61b3fbed74d0b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26020778,
+      "size_bytes": 3675670849,
+      "uploaded_at": "2026-06-16T18:34:20Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 195.5,
+        "upload_sec": 211.0
+      }
     }
   ],
-  "failed_attempts": []
+  "failed_attempts": [],
+  "last_updated": "2026-06-16T18:34:20Z"
 }
