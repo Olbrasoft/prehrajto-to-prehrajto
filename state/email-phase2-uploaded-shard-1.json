@@ -6489,6 +6489,25 @@
         "download_sec": 17.4,
         "upload_sec": 16.8
       }
+    },
+    {
+      "cr_film_id": 2117,
+      "cr_slug": "bratri",
+      "title": "Bratři",
+      "year": 2009,
+      "display_name": "Bratři (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "663051b603cee",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26025575,
+      "size_bytes": 1482598062,
+      "uploaded_at": "2026-06-16T22:55:33Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 41.9,
+        "upload_sec": 61.7
+      }
     }
   ],
   "failed_attempts": [
@@ -6624,7 +6643,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jsem-bozska-2018-cz-dab-530p/bdf55df9346d6ac7",
       "permanent": true,
       "failed_at": "2026-06-16T21:43:05Z"
+    },
+    {
+      "cr_film_id": 2117,
+      "upload_id": "45e9bfeacd1ed2d6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bratri-jake-gyllenhaal-natalie-portman-tobey-maguire-2009-drama-czdab-avi/45e9bfeacd1ed2d6",
+      "permanent": true,
+      "failed_at": "2026-06-16T22:53:42Z"
     }
   ],
-  "last_updated": "2026-06-16T22:53:41Z"
+  "last_updated": "2026-06-16T22:55:33Z"
 }
