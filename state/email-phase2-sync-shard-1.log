@@ -891,3 +891,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [23:32:50]   upload done video_id=26026723 in 32.4s
 [23:32:51] film cr_film_id=37279 OK in 66.8s
 [23:32:51] batch-end ok=20 failed=0 dur=1800.1s avg/film=90.0s remaining=9690 eta_hours=242.2
+
+===== run 2026-06-16T23:33:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27655153424) =====
+[23:33:25] batch-start shard=1/2 count=20 backlog=10210 uploads=520 failed_attempts=20 description_overrides=0
+[23:33:25] login
+[23:33:36] login done
+[23:33:36] iteration 1/20
+[23:33:36] film cr_film_id=25283 name='Tyranosarie (2004) CZ Dabing' candidates=1
+[23:33:36]   candidate upload_id=585a4e43b211a url=https://prehraj.to/tyranosarie-akcni-sci-fi-2004-cz-dabing/585a4e43b211a
+[23:33:39]   resolved in 2.3s → 480p (https://pf-storage2.premiumcdn.net/1215467/Kd4He8h8QC63IDYuNgHB4h8MunBTAmCnDSOqT…)
+[23:34:03]   downloaded 366.9 MB in 21.9s (16.8 MB/s)
+[23:34:27]   upload done video_id=26026769 in 24.4s
