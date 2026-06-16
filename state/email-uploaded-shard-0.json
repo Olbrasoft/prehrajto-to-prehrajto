@@ -5564,6 +5564,25 @@
         "download_sec": 32.5,
         "upload_sec": 45.1
       }
+    },
+    {
+      "cr_film_id": 66,
+      "cr_slug": "whiplash",
+      "title": "Whiplash",
+      "year": 2014,
+      "display_name": "Whiplash (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68be0126cc861",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26022634,
+      "size_bytes": 1827808789,
+      "uploaded_at": "2026-06-16T19:58:18Z",
+      "timing": {
+        "resolve_sec": 2.4,
+        "download_sec": 52.5,
+        "upload_sec": 63.6
+      }
     }
   ],
   "failed_attempts": [
@@ -5582,5 +5601,5 @@
       "failed_at": "2026-06-16T18:59:54Z"
     }
   ],
-  "last_updated": "2026-06-16T19:56:17Z"
+  "last_updated": "2026-06-16T19:58:18Z"
 }
