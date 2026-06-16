@@ -6641,6 +6641,25 @@
         "download_sec": 37.1,
         "upload_sec": 37.9
       }
+    },
+    {
+      "cr_film_id": 14165,
+      "cr_slug": "mafianka",
+      "title": "Mafiánka",
+      "year": 2008,
+      "display_name": "Mafiánka (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58039a50dda38",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26025728,
+      "size_bytes": 406649425,
+      "uploaded_at": "2026-06-16T23:02:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.0,
+        "upload_sec": 15.9
+      }
     }
   ],
   "failed_attempts": [
@@ -6785,5 +6804,5 @@
       "failed_at": "2026-06-16T22:53:42Z"
     }
   ],
-  "last_updated": "2026-06-16T23:01:46Z"
+  "last_updated": "2026-06-16T23:02:21Z"
 }
