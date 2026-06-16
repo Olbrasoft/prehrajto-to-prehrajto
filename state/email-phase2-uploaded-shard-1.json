@@ -6128,6 +6128,25 @@
         "download_sec": 28.6,
         "upload_sec": 42.7
       }
+    },
+    {
+      "cr_film_id": 8087,
+      "cr_slug": "dum-na-konci-ulice",
+      "title": "Dům na konci ulice",
+      "year": 2012,
+      "display_name": "Dům na konci ulice (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d0fb3c8be852a231",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26025067,
+      "size_bytes": 432214168,
+      "uploaded_at": "2026-06-16T22:33:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.8,
+        "upload_sec": 24.3
+      }
     }
   ],
   "failed_attempts": [
@@ -6265,5 +6284,5 @@
       "failed_at": "2026-06-16T21:43:05Z"
     }
   ],
-  "last_updated": "2026-06-16T22:32:26Z"
+  "last_updated": "2026-06-16T22:33:07Z"
 }
