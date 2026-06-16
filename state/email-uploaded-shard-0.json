@@ -5754,6 +5754,25 @@
         "download_sec": 52.9,
         "upload_sec": 61.9
       }
+    },
+    {
+      "cr_film_id": 100,
+      "cr_slug": "old-boy",
+      "title": "Old Boy",
+      "year": 2003,
+      "display_name": "Old Boy (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a7adb344ea43",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26023531,
+      "size_bytes": 475998513,
+      "uploaded_at": "2026-06-16T21:03:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.1,
+        "upload_sec": 26.3
+      }
     }
   ],
   "failed_attempts": [
@@ -5807,5 +5826,5 @@
       "failed_at": "2026-06-16T20:58:02Z"
     }
   ],
-  "last_updated": "2026-06-16T21:02:12Z"
+  "last_updated": "2026-06-16T21:03:00Z"
 }
