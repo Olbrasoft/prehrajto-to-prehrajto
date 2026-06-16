@@ -147,3 +147,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:27:34]   upload done video_id=26022992 in 97.4s
 [20:27:36] film cr_film_id=65 OK in 275.8s
 [20:27:36] batch-end ok=20 failed=0 dur=7205.4s avg/film=360.3s remaining=17218 eta_hours=1723.2
+
+===== run 2026-06-16T20:28:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27645991513) =====
+[20:28:17] description overrides loaded: 65 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:28:17] batch-start shard=1/2 count=20 backlog=17650 uploads=432 failed_attempts=1 description_overrides=65
+[20:28:17] login
+[20:28:19] login done
+[20:28:19] iteration 1/20
+[20:28:19] film cr_film_id=67 name='Vetřelec (1979) CZ Dabing' candidates=17
+[20:28:19]   candidate upload_id=6159966c03d1d url=https://prehraj.to/vetrelec-1-1080p-1979-predlzena-verzia-digitalne-remastrovane-cz-dabing/6159966c03d1d
+[20:28:20]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/25181096/Zd0SaDTPGUKmseyS01sdXTl7u6kslqF8wh1N…)
+[20:29:14]   downloaded 1,359.7 MB in 52.0s (26.1 MB/s)
+[20:30:18]   upload done video_id=26023036 in 63.9s

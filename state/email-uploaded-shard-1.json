@@ -5326,6 +5326,25 @@
         "download_sec": 173.2,
         "upload_sec": 97.4
       }
+    },
+    {
+      "cr_film_id": 67,
+      "cr_slug": "vetrelec",
+      "title": "Vetřelec",
+      "year": 1979,
+      "display_name": "Vetřelec (1979) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6159966c03d1d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26023036,
+      "size_bytes": 1359677707,
+      "uploaded_at": "2026-06-16T20:30:18Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 52.0,
+        "upload_sec": 63.9
+      }
     }
   ],
   "failed_attempts": [
@@ -5337,5 +5356,5 @@
       "failed_at": "2026-06-16T18:34:23Z"
     }
   ],
-  "last_updated": "2026-06-16T20:27:34Z"
+  "last_updated": "2026-06-16T20:30:18Z"
 }
