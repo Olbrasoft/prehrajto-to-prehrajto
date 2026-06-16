@@ -5887,6 +5887,25 @@
         "download_sec": 427.5,
         "upload_sec": 277.6
       }
+    },
+    {
+      "cr_film_id": 120,
+      "cr_slug": "toy-story-pribeh-hracek",
+      "title": "Toy Story: Příběh hraček",
+      "year": 1995,
+      "display_name": "Toy Story: Příběh hraček (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "73e35f7f574475ad",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26023954,
+      "size_bytes": 2559215523,
+      "uploaded_at": "2026-06-16T21:24:23Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 87.1,
+        "upload_sec": 115.5
+      }
     }
   ],
   "failed_attempts": [
@@ -5938,7 +5957,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dobyvatele-ztracene-archy-raiders-of-the-lost-ark-1981-1-dabing-1985-2-dabing-1993-3-dabing-2002-puvodni-zneni-uvodni-ceske-titulky/68fe693f75a3d",
       "permanent": true,
       "failed_at": "2026-06-16T20:58:02Z"
+    },
+    {
+      "cr_film_id": 120,
+      "upload_id": "b940971c3e5835b0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/toy-story-pribeh-hracek-1995-cz-dab-1080p/b940971c3e5835b0",
+      "permanent": true,
+      "failed_at": "2026-06-16T21:20:53Z"
     }
   ],
-  "last_updated": "2026-06-16T21:20:50Z"
+  "last_updated": "2026-06-16T21:24:23Z"
 }

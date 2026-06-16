@@ -272,3 +272,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:09:04]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/166936184/zGgiwXu7GIyXHPWIvDfXwuaDTnYfY6FAwSO…)
 [21:16:13]   downloaded 5,990.5 MB in 427.5s (14.0 MB/s)
 [21:20:50]   upload done video_id=26023831 in 277.6s
+[21:20:52] film cr_film_id=118 OK in 708.8s
+[21:20:52] iteration 17/20
+[21:20:52] film cr_film_id=120 name='Toy Story: Příběh hraček (1995) CZ Dabing' candidates=2
+[21:20:52]   candidate upload_id=b940971c3e5835b0 url=https://prehraj.to/toy-story-pribeh-hracek-1995-cz-dab-1080p/b940971c3e5835b0
+[21:20:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/toy-story-pribeh-hracek-1995-cz-dab-1080p/b940971c3e5835b0 (permanent=True)
+[21:20:53]   candidate upload_id=73e35f7f574475ad url=https://prehraj.to/pribeh-hracek-1995/73e35f7f574475ad
+[21:20:59]   resolved in 6.2s → 1080p (https://pf-storage1.premiumcdn.net/168192442/MJatk6SmGUlNIYOSqpsgASrlfMJCPJU10cb…)
+[21:22:27]   downloaded 2,559.2 MB in 87.1s (29.4 MB/s)
+[21:24:23]   upload done video_id=26023954 in 115.5s
