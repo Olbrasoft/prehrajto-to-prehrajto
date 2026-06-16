@@ -5412,6 +5412,25 @@
         "download_sec": 133.8,
         "upload_sec": 166.5
       }
+    },
+    {
+      "cr_film_id": 42,
+      "cr_slug": "zelena-mile",
+      "title": "Zelená míle",
+      "year": 1999,
+      "display_name": "Zelená míle (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6014e0e4b8490",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26021970,
+      "size_bytes": 2512268116,
+      "uploaded_at": "2026-06-16T19:19:16Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 84.4,
+        "upload_sec": 91.3
+      }
     }
   ],
   "failed_attempts": [
@@ -5430,5 +5449,5 @@
       "failed_at": "2026-06-16T18:59:54Z"
     }
   ],
-  "last_updated": "2026-06-16T19:16:16Z"
+  "last_updated": "2026-06-16T19:19:16Z"
 }
