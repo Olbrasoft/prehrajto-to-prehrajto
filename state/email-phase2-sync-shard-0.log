@@ -202,3 +202,12 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [20:56:33]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/155240763/41GhPks0ySRWIQYC8wtNEsqYTx9hA1C3luO…)
 [20:56:54]   downloaded 515.5 MB in 19.7s (26.2 MB/s)
 [20:57:14]   upload done video_id=26023393 in 19.8s
+[20:57:15] film cr_film_id=10346 OK in 43.1s
+[20:57:15] iteration 6/20
+[20:57:15] film cr_film_id=14260 name='Párty Hárd (2019) CZ Dabing' candidates=2
+[20:57:15]   candidate upload_id=12ebaaeee9db9616 url=https://prehraj.to/party-hard-2019-cz-dab-1080p/12ebaaeee9db9616
+[20:57:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/party-hard-2019-cz-dab-1080p/12ebaaeee9db9616 (permanent=True)
+[20:57:16]   candidate upload_id=46adb953766fa2a7 url=https://prehraj.to/party-hard-cz-2020/46adb953766fa2a7
+[20:57:22]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/166292963/oMNIRluZaIeYF7jsNrIGaukwIQyfYVfg0IA…)
+[20:57:49]   downloaded 881.2 MB in 26.1s (33.8 MB/s)
+[20:58:23]   upload done video_id=26023405 in 33.6s
