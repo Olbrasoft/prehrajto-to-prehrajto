@@ -225,3 +225,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:51:39]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/165088301/vDYs8JFZasb9UBdUjkSYPFwouOZUAwC7zsP…)
 [20:52:20]   downloaded 1,004.4 MB in 39.4s (25.5 MB/s)
 [20:53:09]   upload done video_id=26023310 in 48.8s
+[20:53:10] film cr_film_id=101 OK in 92.2s
+[20:53:10] iteration 11/20
+[20:53:10] film cr_film_id=105 name='Joker (2019) CZ Dabing' candidates=5
+[20:53:10]   candidate upload_id=36dc0b8ea3efe7a8 url=https://prehraj.to/joker-2019-cz-dab-1080p/36dc0b8ea3efe7a8
+[20:53:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/joker-2019-cz-dab-1080p/36dc0b8ea3efe7a8 (permanent=True)
+[20:53:11]   candidate upload_id=5ed139a07c665 url=https://prehraj.to/joker-2019-cz-dabing-1080p-a/5ed139a07c665
+[20:53:17]   resolved in 6.2s → 1080p (https://pf-storage3.premiumcdn.net/16703916/WZOtAbFwlHoRTWEtlLsO5FK8iM9HlBIX5CON…)
+[20:54:47]   downloaded 2,201.4 MB in 88.3s (24.9 MB/s)
+[20:56:27]   upload done video_id=26023357 in 99.4s
