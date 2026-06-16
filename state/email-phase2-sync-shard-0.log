@@ -510,3 +510,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [22:24:01]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/11470972/Q3bSaBI24IlkfV7TMzTO9I4VsRPuNaslVTp5…)
 [22:24:26]   downloaded 629.2 MB in 23.6s (26.7 MB/s)
 [22:24:55]   upload done video_id=26024904 in 29.5s
+[22:24:56] film cr_film_id=28010 OK in 56.4s
+[22:24:56] iteration 8/20
+[22:24:56] film cr_film_id=324 name='Avengers (2012) CZ Dabing' candidates=3
+[22:24:56]   candidate upload_id=218d37c927478b63 url=https://prehraj.to/avengers-2012-cz-dabing-hd/218d37c927478b63
+[22:24:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avengers-2012-cz-dabing-hd/218d37c927478b63 (permanent=True)
+[22:24:57]   candidate upload_id=8f5d07db888f86ce url=https://prehraj.to/avengers-2012-1080p-cz-mp4/8f5d07db888f86ce
+[22:25:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avengers-2012-1080p-cz-mp4/8f5d07db888f86ce (permanent=True)
+[22:25:03]   candidate upload_id=081a63c1553cc3f6 url=https://prehraj.to/avangers-2012/081a63c1553cc3f6
+[22:25:09]   resolved in 6.1s → 480p (https://pf-storage2.premiumcdn.net/171593030/36eiWBFWRh9RCVMIbeT3XF4Kt0lfQ4tdlcK…)
+[22:25:33]   downloaded 752.4 MB in 22.7s (33.1 MB/s)
+[22:26:06]   upload done video_id=26024923 in 32.6s
