@@ -6001,6 +6001,25 @@
         "download_sec": 87.5,
         "upload_sec": 116.2
       }
+    },
+    {
+      "cr_film_id": 148,
+      "cr_slug": "proklety-ostrov",
+      "title": "Prokletý ostrov",
+      "year": 2010,
+      "display_name": "Prokletý ostrov (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0b3cf8200b19c91c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26024758,
+      "size_bytes": 722628353,
+      "uploaded_at": "2026-06-16T22:16:03Z",
+      "timing": {
+        "resolve_sec": 2.1,
+        "download_sec": 24.8,
+        "upload_sec": 35.5
+      }
     }
   ],
   "failed_attempts": [
@@ -6110,5 +6129,5 @@
       "failed_at": "2026-06-16T21:30:53Z"
     }
   ],
-  "last_updated": "2026-06-16T22:14:58Z"
+  "last_updated": "2026-06-16T22:16:03Z"
 }
