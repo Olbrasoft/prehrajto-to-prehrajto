@@ -163,3 +163,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [20:48:30]   upload done video_id=26023254 in 87.5s
 [20:48:31] film cr_film_id=14524 OK in 151.4s
 [20:48:31] batch-end ok=18 failed=2 dur=8452.9s avg/film=469.6s remaining=9775 eta_hours=1275.1
+
+===== run 2026-06-16T20:49:07Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27647192986) =====
+[20:49:07] batch-start shard=0/2 count=20 backlog=10210 uploads=435 failed_attempts=13 description_overrides=0
+[20:49:07] login
+[20:49:09] login done
+[20:49:09] iteration 1/20
+[20:49:09] film cr_film_id=14782 name='Americká zrůda - Aileen Wuornos (2021) CZ Dabing' candidates=2
+[20:49:09]   candidate upload_id=a82c1bf2931f4e02 url=https://prehraj.to/americka-zruda-aileen-wuornos-peyton-list-tobin-bell-lydia-hearst-2021-thriller-bdrip-1080p-cz-dabing/a82c1bf2931f4e02
+[20:49:10]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/167470796/5qKTrJfe0U1KTX5i6wsr7fJGTgxiwptbwuZ…)
+[20:49:39]   downloaded 775.8 MB in 27.9s (27.8 MB/s)
+[20:50:19]   upload done video_id=26023277 in 39.6s
