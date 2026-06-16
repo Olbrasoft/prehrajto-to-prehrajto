@@ -44,6 +44,7 @@ LOG_PATH = REPO_ROOT / "state" / (
     if NUM_SHARDS > 1 else f"{os.environ.get('SYNC_LOG_PREFIX', 'sync')}.log"
 )
 TMP_DIR = Path("/tmp")
+DESCRIPTION_OVERRIDES_PATH = os.environ.get("SYNC_DESCRIPTION_OVERRIDES")
 
 
 def log(msg: str) -> None:
@@ -63,6 +64,56 @@ def save_state(state: dict) -> None:
     state["last_updated"] = now_iso()
     STATE.parent.mkdir(parents=True, exist_ok=True)
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n")
+
+
+def load_description_overrides(path_value: str | None) -> dict[int, str]:
+    if not path_value:
+        return {}
+
+    path = Path(path_value)
+    if not path.is_absolute():
+        path = REPO_ROOT / path
+    if not path.exists():
+        log(f"description overrides not found: {path}")
+        return {}
+
+    overrides: dict[int, str] = {}
+    with path.open(encoding="utf-8") as fh:
+        for line_no, line in enumerate(fh, start=1):
+            if not line.strip():
+                continue
+            try:
+                row = json.loads(line)
+            except json.JSONDecodeError as e:
+                log(f"description override line {line_no} skipped: invalid JSON ({e})")
+                continue
+            if row.get("status") not in (None, "ok"):
+                continue
+            desc = (row.get("new_description") or "").strip()
+            if not desc:
+                continue
+            try:
+                cr_film_id = int(row["cr_film_id"])
+            except (KeyError, TypeError, ValueError):
+                log(f"description override line {line_no} skipped: missing cr_film_id")
+                continue
+            overrides[cr_film_id] = desc
+
+    log(f"description overrides loaded: {len(overrides)} from {path}")
+    return overrides
+
+
+def apply_description_overrides(backlog: list[dict], overrides: dict[int, str]) -> int:
+    if not overrides:
+        return 0
+    applied = 0
+    for film in backlog:
+        desc = overrides.get(int(film["cr_film_id"]))
+        if desc:
+            film["description"] = desc
+            film["description_source"] = "gemma_override"
+            applied += 1
+    return applied
 
 
 def push_state(reason: str) -> None:
@@ -271,11 +322,16 @@ def main() -> int:
         return 2
 
     backlog = load_backlog()
+    override_count = apply_description_overrides(
+        backlog,
+        load_description_overrides(DESCRIPTION_OVERRIDES_PATH),
+    )
     state = load_state()
     shard_tag = f" shard={SHARD_ID}/{NUM_SHARDS}" if NUM_SHARDS > 1 else ""
     log(f"batch-start{shard_tag} count={args.count} backlog={len(backlog)} "
         f"uploads={len(state.get('uploads', []))} "
-        f"failed_attempts={len(state.get('failed_attempts', []))}")
+        f"failed_attempts={len(state.get('failed_attempts', []))} "
+        f"description_overrides={override_count}")
 
     log("login")
     session = login(email, password)

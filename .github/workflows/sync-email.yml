@@ -33,6 +33,7 @@ jobs:
     env:
       SYNC_STATE_PREFIX: email-uploaded
       SYNC_LOG_PREFIX: email-sync
+      SYNC_DESCRIPTION_OVERRIDES: state/email-generated-descriptions-v3.jsonl
       SYNC_NUM_SHARDS: ${{ inputs.num_shards || '2' }}
       SYNC_SHARD_ID: ${{ matrix.shard }}
     steps:
