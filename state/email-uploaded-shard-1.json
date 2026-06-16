@@ -5117,6 +5117,25 @@
         "download_sec": 44.1,
         "upload_sec": 55.3
       }
+    },
+    {
+      "cr_film_id": 33,
+      "cr_slug": "cesta-do-fantazie",
+      "title": "Cesta do fantazie",
+      "year": 2001,
+      "display_name": "Cesta do fantazie (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a07dd767bc9a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26021689,
+      "size_bytes": 669351374,
+      "uploaded_at": "2026-06-16T19:06:18Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 29.6,
+        "upload_sec": 59.4
+      }
     }
   ],
   "failed_attempts": [
@@ -5128,5 +5147,5 @@
       "failed_at": "2026-06-16T18:34:23Z"
     }
   ],
-  "last_updated": "2026-06-16T19:04:43Z"
+  "last_updated": "2026-06-16T19:06:18Z"
 }
