@@ -5896,6 +5896,25 @@
         "download_sec": 53.7,
         "upload_sec": 115.6
       }
+    },
+    {
+      "cr_film_id": 185,
+      "cr_slug": "nenavist",
+      "title": "Nenávist",
+      "year": 1995,
+      "display_name": "Nenávist (1995) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55b768b655135",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26024360,
+      "size_bytes": 586834035,
+      "uploaded_at": "2026-06-16T21:50:38Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.4,
+        "upload_sec": 23.6
+      }
     }
   ],
   "failed_attempts": [
@@ -5921,5 +5940,5 @@
       "failed_at": "2026-06-16T20:53:11Z"
     }
   ],
-  "last_updated": "2026-06-16T21:49:49Z"
+  "last_updated": "2026-06-16T21:50:38Z"
 }
