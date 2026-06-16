@@ -457,3 +457,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [22:18:09]   upload done video_id=26024773 in 85.1s
 [22:18:10] film cr_film_id=19974 OK in 183.4s
 [22:18:10] batch-end ok=20 failed=0 dur=2405.3s avg/film=120.3s remaining=9735 eta_hours=325.3
+
+===== run 2026-06-16T22:18:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27651854761) =====
+[22:18:45] batch-start shard=0/2 count=20 backlog=10210 uploads=475 failed_attempts=14 description_overrides=0
+[22:18:45] login
+[22:18:46] login done
+[22:18:46] iteration 1/20
+[22:18:46] film cr_film_id=28472 name='My Little Pony: Equestria Girls (2013) CZ Dabing' candidates=4
+[22:18:46]   candidate upload_id=6050eeeece116 url=https://prehraj.to/my-little-pony-equestria-girls-anim-2013-cz-dabing/6050eeeece116
+[22:18:47]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/22691906/n9BubqsWvS3jsn7Ig2c8asdLFxdIOrT2PC8x…)
+[22:19:04]   downloaded 475.4 MB in 14.7s (32.3 MB/s)
+[22:19:28]   upload done video_id=26024798 in 24.3s
