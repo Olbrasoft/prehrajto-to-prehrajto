@@ -7438,6 +7438,25 @@
         "download_sec": 30.5,
         "upload_sec": 49.1
       }
+    },
+    {
+      "cr_film_id": 35242,
+      "cr_slug": "samsara",
+      "title": "Samsara",
+      "year": 2002,
+      "display_name": "Samsara (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "607996fc87bc2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26027217,
+      "size_bytes": 995118189,
+      "uploaded_at": "2026-06-16T23:50:36Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 40.5,
+        "upload_sec": 54.6
+      }
     }
   ],
   "failed_attempts": [
@@ -7561,5 +7580,5 @@
       "failed_at": "2026-06-16T23:17:59Z"
     }
   ],
-  "last_updated": "2026-06-16T23:48:56Z"
+  "last_updated": "2026-06-16T23:50:36Z"
 }
