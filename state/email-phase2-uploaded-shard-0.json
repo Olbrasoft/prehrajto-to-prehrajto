@@ -5842,6 +5842,25 @@
         "download_sec": 23.7,
         "upload_sec": 45.7
       }
+    },
+    {
+      "cr_film_id": 7028,
+      "cr_slug": "valka-proti-vsem",
+      "title": "Proti všem",
+      "year": 2016,
+      "display_name": "Proti všem (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ab76513e177b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26024356,
+      "size_bytes": 486456427,
+      "uploaded_at": "2026-06-16T21:50:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.4,
+        "upload_sec": 31.7
+      }
     }
   ],
   "failed_attempts": [
@@ -5944,5 +5963,5 @@
       "failed_at": "2026-06-16T20:57:16Z"
     }
   ],
-  "last_updated": "2026-06-16T21:49:33Z"
+  "last_updated": "2026-06-16T21:50:34Z"
 }
