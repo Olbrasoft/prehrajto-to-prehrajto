@@ -597,3 +597,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [22:40:56]   upload done video_id=26025226 in 45.0s
 [22:40:56] film cr_film_id=14289 OK in 76.4s
 [22:40:56] batch-end ok=20 failed=0 dur=1328.4s avg/film=66.4s remaining=9730 eta_hours=179.5
+
+===== run 2026-06-16T22:41:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27652903604) =====
+[22:41:28] batch-start shard=1/2 count=20 backlog=10210 uploads=480 failed_attempts=19 description_overrides=0
+[22:41:28] login
+[22:41:29] login done
+[22:41:29] iteration 1/20
+[22:41:29] film cr_film_id=32465 name='Není zač (2010) CZ Dabing' candidates=5
+[22:41:29]   candidate upload_id=583d8d6e516f0 url=https://prehraj.to/neni-zac-novinky-2010-komedie-cz-dabing/583d8d6e516f0
+[22:41:30]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/960583/XM6umdi63HdBhZXT95fnkiEzHq2CeNIVoI24CJ…)
+[22:41:45]   downloaded 388.7 MB in 12.9s (30.1 MB/s)
+[22:42:02]   upload done video_id=26025262 in 16.7s

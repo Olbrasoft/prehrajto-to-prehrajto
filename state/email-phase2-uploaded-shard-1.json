@@ -6280,6 +6280,25 @@
         "download_sec": 28.7,
         "upload_sec": 45.0
       }
+    },
+    {
+      "cr_film_id": 32465,
+      "cr_slug": "neni-zac",
+      "title": "Není zač",
+      "year": 2010,
+      "display_name": "Není zač (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "583d8d6e516f0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26025262,
+      "size_bytes": 388650016,
+      "uploaded_at": "2026-06-16T22:42:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 12.9,
+        "upload_sec": 16.7
+      }
     }
   ],
   "failed_attempts": [
@@ -6417,5 +6436,5 @@
       "failed_at": "2026-06-16T21:43:05Z"
     }
   ],
-  "last_updated": "2026-06-16T22:40:56Z"
+  "last_updated": "2026-06-16T22:42:02Z"
 }
