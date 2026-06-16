@@ -5633,6 +5633,25 @@
         "download_sec": 52.3,
         "upload_sec": 58.0
       }
+    },
+    {
+      "cr_film_id": 1326,
+      "cr_slug": "kler",
+      "title": "Klér",
+      "year": 2018,
+      "display_name": "Klér (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62908b439fba3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26023857,
+      "size_bytes": 2355022969,
+      "uploaded_at": "2026-06-16T21:19:10Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 78.5,
+        "upload_sec": 87.7
+      }
     }
   ],
   "failed_attempts": [
@@ -5735,5 +5754,5 @@
       "failed_at": "2026-06-16T20:57:16Z"
     }
   ],
-  "last_updated": "2026-06-16T21:16:19Z"
+  "last_updated": "2026-06-16T21:19:10Z"
 }
