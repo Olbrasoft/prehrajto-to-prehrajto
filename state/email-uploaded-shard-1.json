@@ -5630,6 +5630,25 @@
         "download_sec": 38.2,
         "upload_sec": 27.5
       }
+    },
+    {
+      "cr_film_id": 135,
+      "cr_slug": "taxikar",
+      "title": "Taxikář",
+      "year": 1976,
+      "display_name": "Taxikář (1976) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "df869f1b8df3a5c4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26023781,
+      "size_bytes": 5019411732,
+      "uploaded_at": "2026-06-16T21:16:25Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 192.1,
+        "upload_sec": 221.5
+      }
     }
   ],
   "failed_attempts": [
@@ -5655,5 +5674,5 @@
       "failed_at": "2026-06-16T20:53:11Z"
     }
   ],
-  "last_updated": "2026-06-16T21:09:27Z"
+  "last_updated": "2026-06-16T21:16:25Z"
 }
