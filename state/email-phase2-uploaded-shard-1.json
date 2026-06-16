@@ -6926,6 +6926,25 @@
         "download_sec": 26.4,
         "upload_sec": 26.9
       }
+    },
+    {
+      "cr_film_id": 19511,
+      "cr_slug": "candy",
+      "title": "Candy",
+      "year": 2006,
+      "display_name": "Candy (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6398490cc841a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26026461,
+      "size_bytes": 418263457,
+      "uploaded_at": "2026-06-16T23:24:52Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 24.0,
+        "upload_sec": 27.0
+      }
     }
   ],
   "failed_attempts": [
@@ -7070,5 +7089,5 @@
       "failed_at": "2026-06-16T22:53:42Z"
     }
   ],
-  "last_updated": "2026-06-16T23:23:56Z"
+  "last_updated": "2026-06-16T23:24:52Z"
 }
