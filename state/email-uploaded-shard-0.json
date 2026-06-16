@@ -6324,6 +6324,25 @@
         "download_sec": 92.0,
         "upload_sec": 125.9
       }
+    },
+    {
+      "cr_film_id": 224,
+      "cr_slug": "ratatouille",
+      "title": "Ratatouille",
+      "year": 2007,
+      "display_name": "Ratatouille (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68f0997cbd8d4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26027146,
+      "size_bytes": 1603107351,
+      "uploaded_at": "2026-06-16T23:48:26Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 58.1,
+        "upload_sec": 72.0
+      }
     }
   ],
   "failed_attempts": [
@@ -6447,5 +6466,5 @@
       "failed_at": "2026-06-16T22:43:33Z"
     }
   ],
-  "last_updated": "2026-06-16T23:10:07Z"
+  "last_updated": "2026-06-16T23:48:26Z"
 }
