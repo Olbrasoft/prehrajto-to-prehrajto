@@ -38,3 +38,14 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [18:57:03]   resolved in 2.4s → 720p (https://pf-storage5.premiumcdn.net/105675671/7oqudOFgXsEGs9WiMxTnLFVMcVRso2fdmUq…)
 [18:58:22]   downloaded 2,390.6 MB in 76.8s (31.1 MB/s)
 [18:59:46]   upload done video_id=26021528 in 84.4s
+[18:59:47] film cr_film_id=24 OK in 166.5s
+[18:59:47] iteration 6/20
+[18:59:47] film cr_film_id=26 name='Matrix (1999) CZ Dabing' candidates=5
+[18:59:47]   candidate upload_id=68e41ad579fd1 url=https://prehraj.to/matrix-1-1999-cz-dabing-2160p-ultra-hd-4k/68e41ad579fd1
+[18:59:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/matrix-1-1999-cz-dabing-2160p-ultra-hd-4k/68e41ad579fd1 (permanent=True)
+[18:59:48]   candidate upload_id=23840d259620257e url=https://prehraj.to/matrix-1-1999-cz-dabing-2160p-ultra-hd-4k-mp4/23840d259620257e
+[18:59:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/matrix-1-1999-cz-dabing-2160p-ultra-hd-4k-mp4/23840d259620257e (permanent=True)
+[18:59:54]   candidate upload_id=681feffa2fda6 url=https://prehraj.to/matrix-1999-cz-dab/681feffa2fda6
+[19:00:00]   resolved in 6.1s → 720p (https://pf-storage1.premiumcdn.net/137720105/qmqu2qUl2hWYiYwU9mSWDUqrCRwFOVsx4Ce…)
+[19:00:52]   downloaded 1,810.7 MB in 50.9s (35.6 MB/s)
+[19:02:02]   upload done video_id=26021596 in 70.3s
