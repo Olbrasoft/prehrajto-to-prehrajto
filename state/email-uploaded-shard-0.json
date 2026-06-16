@@ -5792,6 +5792,25 @@
         "download_sec": 30.6,
         "upload_sec": 33.0
       }
+    },
+    {
+      "cr_film_id": 106,
+      "cr_slug": "toy-story-3-pribeh-hracek-cz",
+      "title": "Toy Story 3: Příběh hraček",
+      "year": 2010,
+      "display_name": "Toy Story 3: Příběh hraček (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "592d1ce2e2dc5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26023587,
+      "size_bytes": 877169482,
+      "uploaded_at": "2026-06-16T21:05:35Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 31.0,
+        "upload_sec": 53.3
+      }
     }
   ],
   "failed_attempts": [
@@ -5845,5 +5864,5 @@
       "failed_at": "2026-06-16T20:58:02Z"
     }
   ],
-  "last_updated": "2026-06-16T21:04:08Z"
+  "last_updated": "2026-06-16T21:05:35Z"
 }
