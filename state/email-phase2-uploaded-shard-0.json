@@ -7381,6 +7381,25 @@
         "download_sec": 21.3,
         "upload_sec": 27.8
       }
+    },
+    {
+      "cr_film_id": 25166,
+      "cr_slug": "torus",
+      "title": "Torus",
+      "year": 2003,
+      "display_name": "Torus (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66cf5fe01109e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26027113,
+      "size_bytes": 519070469,
+      "uploaded_at": "2026-06-16T23:46:49Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.2,
+        "upload_sec": 39.3
+      }
     }
   ],
   "failed_attempts": [
@@ -7504,5 +7523,5 @@
       "failed_at": "2026-06-16T23:17:59Z"
     }
   ],
-  "last_updated": "2026-06-16T23:45:38Z"
+  "last_updated": "2026-06-16T23:46:49Z"
 }
