@@ -6583,6 +6583,25 @@
         "download_sec": 33.2,
         "upload_sec": 39.6
       }
+    },
+    {
+      "cr_film_id": 26432,
+      "cr_slug": "v-rytmu-soulu",
+      "title": "V rytmu soulu",
+      "year": 2008,
+      "display_name": "V rytmu soulu (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57c496e108000",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26025414,
+      "size_bytes": 563651164,
+      "uploaded_at": "2026-06-16T22:48:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.5,
+        "upload_sec": 31.6
+      }
     }
   ],
   "failed_attempts": [
@@ -6699,5 +6718,5 @@
       "failed_at": "2026-06-16T22:25:03Z"
     }
   ],
-  "last_updated": "2026-06-16T22:47:38Z"
+  "last_updated": "2026-06-16T22:48:34Z"
 }
