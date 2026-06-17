@@ -903,3 +903,20 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:36:40]   upload done video_id=26031336 in 40.6s
 [02:36:42] film cr_film_id=451 OK in 71.9s
 [02:36:42] batch-end ok=19 failed=1 dur=6350.8s avg/film=334.3s remaining=17121 eta_hours=1589.9
+
+===== run 2026-06-17T02:37:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27662029160) =====
+[02:37:13] description overrides loaded: 65 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:37:13] batch-start shard=1/2 count=20 backlog=17650 uploads=529 failed_attempts=15 description_overrides=65
+[02:37:13] login
+[02:37:15] login done
+[02:37:15] iteration 1/20
+[02:37:15] film cr_film_id=453 name='Místo u moře (2016) CZ' candidates=1
+[02:37:15]   candidate upload_id=20e51ff648bdf001 url=https://prehraj.to/misto-u-more-2016-1080p-bluray/20e51ff648bdf001
+[02:37:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/misto-u-more-2016-1080p-bluray/20e51ff648bdf001 (permanent=True)
+[02:37:16] film cr_film_id=453 all candidates exhausted
+[02:37:16] iteration 2/20
+[02:37:16] film cr_film_id=455 name='Serenity (2005) CZ Dabing' candidates=5
+[02:37:16]   candidate upload_id=64757acb2767c url=https://prehraj.to/serenity-2005-1080p-x264-ac3-5-1-cz-dab-alien007/64757acb2767c
+[02:37:23]   resolved in 6.8s → 720p (https://pf-storage1.premiumcdn.net/41208544/pjMSGLfOwFAYfaktEBsJvfQWCL3SeQCVbtVq…)
+[02:39:15]   downloaded 2,552.1 MB in 110.3s (23.1 MB/s)
+[02:41:41]   upload done video_id=26031396 in 145.3s
