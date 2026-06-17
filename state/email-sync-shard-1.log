@@ -2467,3 +2467,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:13:12]   upload done video_id=26040128 in 152.3s
 [13:13:14] film cr_film_id=1327 OK in 306.7s
 [13:13:14] batch-end ok=20 failed=0 dur=4597.8s avg/film=229.9s remaining=16924 eta_hours=1080.8
+
+===== run 2026-06-17T13:13:52Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27691564335) =====
+[13:13:54] description overrides loaded: 1050 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:13:54] batch-start shard=1/2 count=20 backlog=17650 uploads=726 failed_attempts=51 description_overrides=1050
+[13:13:54] login
+[13:13:56] login done
+[13:13:56] iteration 1/20
+[13:13:56] film cr_film_id=1331 name='Poslední souboj (2021) CZ Dabing' candidates=3
+[13:13:56]   candidate upload_id=68f7b5563f191 url=https://prehraj.to/posledni-souboj-2021-cz-dab-last-duel-dd/68f7b5563f191
+[13:13:57]   resolved in 1.6s → 1080p (https://pf-storage3.premiumcdn.net/152753613/8rPIdesqjFpGTGdhqYHyOsz9FwpHJrh4xIY…)
+[13:17:54]   downloaded 3,065.5 MB in 234.4s (13.1 MB/s)
+[13:20:45]   upload done video_id=26040333 in 171.2s
