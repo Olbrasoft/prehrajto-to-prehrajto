@@ -10954,6 +10954,25 @@
         "download_sec": 72.1,
         "upload_sec": 101.9
       }
+    },
+    {
+      "cr_film_id": 37003,
+      "cr_slug": "polosladsi",
+      "title": "Polosladší",
+      "year": 2025,
+      "display_name": "Polosladší (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "552c5226d67f0831",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26034381,
+      "size_bytes": 1612251757,
+      "uploaded_at": "2026-06-17T05:50:51Z",
+      "timing": {
+        "resolve_sec": 3.9,
+        "download_sec": 86.1,
+        "upload_sec": 90.8
+      }
     }
   ],
   "failed_attempts": [
@@ -11187,7 +11206,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ritual-2025-cz-titulky-1080p-mkv-mp4/5e647618f660901e",
       "permanent": true,
       "failed_at": "2026-06-17T05:35:48Z"
+    },
+    {
+      "cr_film_id": 35759,
+      "upload_id": "c0892b5a47739bc6",
+      "reason": "oversize: 6522978672 B",
+      "permanent": true,
+      "failed_at": "2026-06-17T05:47:48Z"
     }
   ],
-  "last_updated": "2026-06-17T05:47:42Z"
+  "last_updated": "2026-06-17T05:50:51Z"
 }
