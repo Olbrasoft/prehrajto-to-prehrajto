@@ -7948,6 +7948,25 @@
         "download_sec": 25.7,
         "upload_sec": 35.3
       }
+    },
+    {
+      "cr_film_id": 647,
+      "cr_slug": "zodiac",
+      "title": "Zodiac",
+      "year": 2007,
+      "display_name": "Zodiac (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68fd0aa8c2d3e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26033086,
+      "size_bytes": 3187391338,
+      "uploaded_at": "2026-06-17T04:37:48Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 88.2,
+        "upload_sec": 115.3
+      }
     }
   ],
   "failed_attempts": [
@@ -8104,5 +8123,5 @@
       "failed_at": "2026-06-17T03:29:02Z"
     }
   ],
-  "last_updated": "2026-06-17T04:34:21Z"
+  "last_updated": "2026-06-17T04:37:48Z"
 }
