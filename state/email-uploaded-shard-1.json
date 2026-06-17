@@ -6713,6 +6713,25 @@
         "download_sec": 79.3,
         "upload_sec": 99.7
       }
+    },
+    {
+      "cr_film_id": 357,
+      "cr_slug": "kralicek-jojo",
+      "title": "Králíček Jojo",
+      "year": 2019,
+      "display_name": "Králíček Jojo (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60e4524a6eecd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26027971,
+      "size_bytes": 1350780820,
+      "uploaded_at": "2026-06-17T00:35:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 59.3,
+        "upload_sec": 87.6
+      }
     }
   ],
   "failed_attempts": [
@@ -6773,5 +6792,5 @@
       "failed_at": "2026-06-17T00:03:18Z"
     }
   ],
-  "last_updated": "2026-06-17T00:33:20Z"
+  "last_updated": "2026-06-17T00:35:51Z"
 }
