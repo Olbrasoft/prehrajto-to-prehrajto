@@ -14715,6 +14715,25 @@
         "download_sec": 42.3,
         "upload_sec": 54.5
       }
+    },
+    {
+      "cr_film_id": 8682,
+      "cr_slug": "the-puppetman",
+      "title": "The Puppetman",
+      "year": 2023,
+      "display_name": "The Puppetman (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "689f850411686",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26043137,
+      "size_bytes": 150631363,
+      "uploaded_at": "2026-06-17T14:43:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 8.9,
+        "upload_sec": 9.8
+      }
     }
   ],
   "failed_attempts": [
@@ -15062,5 +15081,5 @@
       "failed_at": "2026-06-17T14:39:06Z"
     }
   ],
-  "last_updated": "2026-06-17T14:42:41Z"
+  "last_updated": "2026-06-17T14:43:04Z"
 }
