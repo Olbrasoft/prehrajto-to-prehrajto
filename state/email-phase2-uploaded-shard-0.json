@@ -14145,6 +14145,25 @@
         "download_sec": 51.2,
         "upload_sec": 110.7
       }
+    },
+    {
+      "cr_film_id": 18354,
+      "cr_slug": "emmanuelle",
+      "title": "Emmanuelle",
+      "year": 2024,
+      "display_name": "Emmanuelle (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6819198ca09e8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26040436,
+      "size_bytes": 1416478266,
+      "uploaded_at": "2026-06-17T13:22:10Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 40.7,
+        "upload_sec": 58.4
+      }
     }
   ],
   "failed_attempts": [
@@ -14464,5 +14483,5 @@
       "failed_at": "2026-06-17T12:24:43Z"
     }
   ],
-  "last_updated": "2026-06-17T13:20:27Z"
+  "last_updated": "2026-06-17T13:22:10Z"
 }
