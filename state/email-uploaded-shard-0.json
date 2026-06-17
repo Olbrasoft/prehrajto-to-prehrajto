@@ -7597,6 +7597,25 @@
         "download_sec": 23.1,
         "upload_sec": 37.0
       }
+    },
+    {
+      "cr_film_id": 484,
+      "cr_slug": "osm-hroznych",
+      "title": "Osm hrozných",
+      "year": 2015,
+      "display_name": "Osm hrozných (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c5a86f94f2cc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26032587,
+      "size_bytes": 1275040683,
+      "uploaded_at": "2026-06-17T04:00:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 52.0,
+        "upload_sec": 75.5
+      }
     }
   ],
   "failed_attempts": [
@@ -7790,5 +7809,5 @@
       "failed_at": "2026-06-17T03:46:48Z"
     }
   ],
-  "last_updated": "2026-06-17T03:58:07Z"
+  "last_updated": "2026-06-17T04:00:18Z"
 }
