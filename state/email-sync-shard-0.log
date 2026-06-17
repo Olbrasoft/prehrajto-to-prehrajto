@@ -1969,3 +1969,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:04:16]   upload done video_id=26037256 in 193.1s
 [10:04:18] film cr_film_id=950 OK in 294.8s
 [10:04:18] batch-end ok=20 failed=0 dur=3285.4s avg/film=164.3s remaining=16964 eta_hours=774.2
+
+===== run 2026-06-17T10:21:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27682173571) =====
+[10:21:51] description overrides loaded: 934 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:21:51] batch-start shard=0/2 count=20 backlog=17650 uploads=686 failed_attempts=38 description_overrides=934
+[10:21:51] login
+[10:21:53] login done
+[10:21:53] iteration 1/20
+[10:21:53] film cr_film_id=952 name='Veřejný nepřítel č. 1 (2008) CZ Dabing' candidates=4
+[10:21:53]   candidate upload_id=5a671aeebca1d url=https://prehraj.to/verejny-nepritel-c-1-akcni-krimi-2-dil-ze-2-cz-dab-2008-jad/5a671aeebca1d
+[10:21:54]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/3321919/bYOc2XTjAUqphLZCVmSjLTnvtYQHvNSGJhVeU…)
+[10:22:20]   downloaded 675.3 MB in 24.2s (27.9 MB/s)
+[10:22:50]   upload done video_id=26037432 in 30.2s
