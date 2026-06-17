@@ -3262,3 +3262,19 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [19:01:59]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/27348045/j3khaOCaOfdnsVPTEBUjpCzqujPfYlIB3tpm…)
 [19:13:54]   downloaded 2,401.4 MB in 713.0s (3.4 MB/s)
 [19:15:41]   upload done video_id=26051154 in 107.3s
+[19:15:43] film cr_film_id=1628 OK in 824.7s
+[19:15:43] iteration 15/20
+[19:15:43] film cr_film_id=1630 name='Belfast (2021) CZ Dabing' candidates=1
+[19:15:43]   candidate upload_id=11302d21a579a113 url=https://prehraj.to/belfast-2021-cz-dabing/11302d21a579a113
+[19:15:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/belfast-2021-cz-dabing/11302d21a579a113 (permanent=True)
+[19:15:44] film cr_film_id=1630 all candidates exhausted
+[19:15:44] iteration 16/20
+[19:15:44] film cr_film_id=1632 name='Vzkaz na zdi záchodků (2020) CZ Dabing' candidates=4
+[19:15:44]   candidate upload_id=61a60d26669a0 url=https://prehraj.to/vzkaz-na-zdi-zachodku-words-on-bathroom-walls-2020-1080p-bluray-ac3-cz-dab/61a60d26669a0
+[19:15:50]   resolved in 5.9s → 720p (https://pf-storage3.premiumcdn.net/26978557/z38TRluq0IyehW9TL8FmRuRBtNdIE7IYBIkP…)
+[19:16:47]   downloaded 1,660.5 MB in 56.1s (29.6 MB/s)
+[19:18:03]   upload FAILED after 75.4s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[19:18:03]   candidate upload_id=61a8cb4213b57 url=https://prehraj.to/vzkaz-na-zdi-zachodku-words-on-bathroom-walls-2020-1080p-bluray-ac3-cz-dab/61a8cb4213b57
+[19:18:04]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/27040854/BOEfNDs31iveUb8c5AiJ3sP7CkYu5XuGws2L…)
+[19:23:07]   downloaded 1,660.5 MB in 301.9s (5.5 MB/s)
+[19:24:08]   upload done video_id=26051418 in 60.9s
