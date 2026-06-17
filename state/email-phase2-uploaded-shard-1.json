@@ -11676,6 +11676,25 @@
         "download_sec": 59.2,
         "upload_sec": 98.5
       }
+    },
+    {
+      "cr_film_id": 36931,
+      "cr_slug": "anniversary",
+      "title": "Anniversary",
+      "year": 2025,
+      "display_name": "Anniversary (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "782b9a8fd4ec3074",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26035300,
+      "size_bytes": 1715172100,
+      "uploaded_at": "2026-06-17T07:30:41Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 55.2,
+        "upload_sec": 82.8
+      }
     }
   ],
   "failed_attempts": [
@@ -11967,5 +11986,5 @@
       "failed_at": "2026-06-17T06:54:07Z"
     }
   ],
-  "last_updated": "2026-06-17T07:28:19Z"
+  "last_updated": "2026-06-17T07:30:41Z"
 }
