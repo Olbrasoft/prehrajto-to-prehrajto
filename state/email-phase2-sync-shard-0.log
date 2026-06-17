@@ -3119,3 +3119,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:00:28]   upload done video_id=26037233 in 184.7s
 [10:00:30] film cr_film_id=16546 OK in 358.2s
 [10:00:30] batch-end ok=20 failed=0 dur=3334.5s avg/film=166.7s remaining=9381 eta_hours=434.4
+
+===== run 2026-06-17T10:04:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27681278272) =====
+[10:04:58] batch-start shard=0/2 count=20 backlog=10210 uploads=829 failed_attempts=43 description_overrides=0
+[10:04:58] login
+[10:05:01] login done
+[10:05:01] iteration 1/20
+[10:05:01] film cr_film_id=16262 name='Blücher (2025) CZ Titulky' candidates=1
+[10:05:01]   candidate upload_id=4186cb03f7eabb65 url=https://prehraj.to/blucher-the-battle-of-oslo-2025-cztit-1080p/4186cb03f7eabb65
+[10:05:02]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/162491660/6jVHVAiaBSwns5eCKdcwkiDAFeESanSZYTe…)
+[10:05:54]   downloaded 1,364.5 MB in 50.5s (27.0 MB/s)
+[10:06:49]   upload done video_id=26037282 in 55.1s
