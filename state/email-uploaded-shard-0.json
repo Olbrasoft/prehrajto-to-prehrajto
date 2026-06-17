@@ -6875,6 +6875,25 @@
         "download_sec": 65.5,
         "upload_sec": 86.8
       }
+    },
+    {
+      "cr_film_id": 326,
+      "cr_slug": "pouta-valky",
+      "title": "Pouta války",
+      "year": 2004,
+      "display_name": "Pouta války (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6210961f60d40",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26029009,
+      "size_bytes": 4256554175,
+      "uploaded_at": "2026-06-17T01:17:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 111.4,
+        "upload_sec": 151.5
+      }
     }
   ],
   "failed_attempts": [
@@ -7033,5 +7052,5 @@
       "failed_at": "2026-06-17T01:03:31Z"
     }
   ],
-  "last_updated": "2026-06-17T01:13:24Z"
+  "last_updated": "2026-06-17T01:17:50Z"
 }
