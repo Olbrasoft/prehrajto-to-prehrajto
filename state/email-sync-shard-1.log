@@ -2188,3 +2188,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:50:18]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/21439155/zlAcpXsGotdNfz6UOPSv3s9OhEdUYKSQDcLd…)
 [10:52:44]   downloaded 3,651.0 MB in 144.7s (25.2 MB/s)
 [10:55:11]   upload done video_id=26037756 in 147.0s
+[10:55:13] film cr_film_id=1133 OK in 296.1s
+[10:55:13] iteration 13/20
+[10:55:13] film cr_film_id=1135 name='Sully: Zázrak na řece Hudson (2016) CZ Dabing' candidates=5
+[10:55:13]   candidate upload_id=7a456392e06fd585 url=https://prehraj.to/sully-zazrak-na-rece-hudson-2016-cz-dab-1080p/7a456392e06fd585
+[10:55:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sully-zazrak-na-rece-hudson-2016-cz-dab-1080p/7a456392e06fd585 (permanent=True)
+[10:55:13]   candidate upload_id=5c43d8e885999 url=https://prehraj.to/zazrak-na-rece-hudson-2016-cz-dabing/5c43d8e885999
+[10:55:19]   resolved in 6.1s → 480p (https://pf-storage5.premiumcdn.net/11112235/QK9t69HarIKgiq7I6ZfkmHeVh02hN6CmvsRP…)
+[10:55:43]   downloaded 479.2 MB in 21.7s (22.1 MB/s)
+[10:56:05]   upload done video_id=26037775 in 22.0s
