@@ -5,6 +5,26 @@ cd "$(dirname "$0")/.."
 
 BATCH_SIZE="${BATCH_SIZE:-120}"
 SLEEP_AFTER_BATCH_SECONDS="${SLEEP_AFTER_BATCH_SECONDS:-30}"
+PUSH_RETRIES="${PUSH_RETRIES:-10}"
+
+pull_rebase() {
+  git fetch origin main
+  git pull --rebase origin main
+}
+
+push_with_retry() {
+  local attempt
+  for attempt in $(seq 1 "${PUSH_RETRIES}"); do
+    pull_rebase
+    if git push origin HEAD:main; then
+      return 0
+    fi
+    echo "push failed, retry ${attempt}/${PUSH_RETRIES}"
+    sleep "$((attempt * 5))"
+  done
+  echo "push failed after ${PUSH_RETRIES} retries" >&2
+  return 1
+}
 
 commit_and_push_descriptions() {
   python3 scripts/validate_email_descriptions.py
@@ -42,8 +62,7 @@ else:
 PY
   )"
   git commit -m "chore: refresh email descriptions (${ok_count} ready, ${updated_count} updated)"
-  git pull --rebase origin main
-  git push origin HEAD:main
+  push_with_retry
 }
 
 while true; do
@@ -52,8 +71,7 @@ while true; do
 
   commit_and_push_descriptions
 
-  git fetch origin main
-  git pull --rebase origin main
+  pull_rebase
 
   python3 scripts/generate_email_descriptions.py --count "${BATCH_SIZE}"
   commit_and_push_descriptions
