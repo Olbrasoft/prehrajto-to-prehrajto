@@ -3523,3 +3523,16 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:40:26]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/20964312/2b3T0RfNqfYPhZYUMPcm5fXrIAaIkvTAYtKA…)
 [21:41:54]   downloaded 2,453.1 MB in 86.6s (28.3 MB/s)
 [21:43:21]   upload done video_id=26056818 in 87.0s
+[21:43:22] film cr_film_id=1776 OK in 177.6s
+[21:43:22] iteration 10/20
+[21:43:22] film cr_film_id=1780 name='King Kong (2005) CZ Dabing' candidates=26
+[21:43:22]   candidate upload_id=93a4df3782e78457 url=https://prehraj.to/king-kong-2005-cz-eng-1080phd-cz-dabing/93a4df3782e78457
+[21:43:23]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/164881505/OGZf6KU3AIzmtNrHqPskxUWosPqS5WsyJu2…)
+[21:43:25]   oversize: 7361559334 B > 6000000000 B, skip
+[21:43:25]   candidate upload_id=60616bf7ac72e url=https://prehraj.to/king-kong-2005-cz-dabing/60616bf7ac72e
+[21:43:29]   resolved in 4.3s → 1080p (https://pf-storage5.premiumcdn.net/22866477/1OWFlyfqycdzsxLukRhzDfQnCpgS2lClnF0k…)
+[21:43:31]   oversize: 7358806384 B > 6000000000 B, skip
+[21:43:31]   candidate upload_id=5c22c9210f54d url=https://prehraj.to/king-kong-cz-dabing-2005/5c22c9210f54d
+[21:43:35]   resolved in 4.4s → 480p (https://pf-storage5.premiumcdn.net/9990332/7z3SB5ievulJhNjCXgU1NiLKiEkUzYIJZcrDF…)
+[21:44:25]   downloaded 1,386.9 MB in 48.8s (28.4 MB/s)
+[21:45:17]   upload done video_id=26056877 in 51.4s
