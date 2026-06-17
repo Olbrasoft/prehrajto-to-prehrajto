@@ -11036,6 +11036,25 @@
         "download_sec": 60.0,
         "upload_sec": 74.5
       }
+    },
+    {
+      "cr_film_id": 1176,
+      "cr_slug": "velky-zly-lisak",
+      "title": "Velký zlý lišák",
+      "year": 2017,
+      "display_name": "Velký zlý lišák (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60382cb0029af",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26038841,
+      "size_bytes": 774757565,
+      "uploaded_at": "2026-06-17T12:25:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.2,
+        "upload_sec": 28.5
+      }
     }
   ],
   "failed_attempts": [
@@ -11320,5 +11339,5 @@
       "failed_at": "2026-06-17T12:17:56Z"
     }
   ],
-  "last_updated": "2026-06-17T12:24:57Z"
+  "last_updated": "2026-06-17T12:25:52Z"
 }
