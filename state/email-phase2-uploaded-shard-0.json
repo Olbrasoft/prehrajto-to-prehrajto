@@ -14449,6 +14449,25 @@
         "download_sec": 34.8,
         "upload_sec": 43.8
       }
+    },
+    {
+      "cr_film_id": 20128,
+      "cr_slug": "2073",
+      "title": "2073",
+      "year": 2024,
+      "display_name": "2073 (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "f0eef2a36fca2056",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26041517,
+      "size_bytes": 1379293149,
+      "uploaded_at": "2026-06-17T13:56:33Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 46.5,
+        "upload_sec": 79.0
+      }
     }
   ],
   "failed_attempts": [
@@ -14775,5 +14794,5 @@
       "failed_at": "2026-06-17T13:45:45Z"
     }
   ],
-  "last_updated": "2026-06-17T13:54:23Z"
+  "last_updated": "2026-06-17T13:56:33Z"
 }
