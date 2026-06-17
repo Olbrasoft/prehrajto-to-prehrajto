@@ -2910,3 +2910,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:12:12]   upload done video_id=26045375 in 203.5s
 [16:12:14] film cr_film_id=1571 OK in 342.7s
 [16:12:14] batch-end ok=19 failed=1 dur=3159.3s avg/film=166.3s remaining=16865 eta_hours=779.1
+
+===== run 2026-06-17T16:13:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27703106420) =====
+[16:13:18] description overrides loaded: 1050 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:13:18] batch-start shard=1/2 count=20 backlog=17650 uploads=785 failed_attempts=54 description_overrides=1050
+[16:13:18] login
+[16:13:20] login done
+[16:13:20] iteration 1/20
+[16:13:20] film cr_film_id=1573 name='Substance (2024) CZ Dabing' candidates=9
+[16:13:20]   candidate upload_id=684bf644b4e4f url=https://prehraj.to/substance-cz-dabing-2024-1080p/684bf644b4e4f
+[16:13:21]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/139819742/nrpfe7sNrs06tjXHBRsWbsMgcrxiYySreI8…)
+[16:14:42]   downloaded 2,525.1 MB in 79.1s (31.9 MB/s)
+[16:16:21]   upload done video_id=26045545 in 99.3s
