@@ -11682,6 +11682,25 @@
         "download_sec": 93.2,
         "upload_sec": 113.9
       }
+    },
+    {
+      "cr_film_id": 1288,
+      "cr_slug": "skunk",
+      "title": "Skunk",
+      "year": 2023,
+      "display_name": "Skunk (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "671b3a4691062",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26043457,
+      "size_bytes": 4729747143,
+      "uploaded_at": "2026-06-17T14:58:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 163.0,
+        "upload_sec": 192.8
+      }
     }
   ],
   "failed_attempts": [
@@ -12029,5 +12048,5 @@
       "failed_at": "2026-06-17T14:32:46Z"
     }
   ],
-  "last_updated": "2026-06-17T14:52:53Z"
+  "last_updated": "2026-06-17T14:58:53Z"
 }
