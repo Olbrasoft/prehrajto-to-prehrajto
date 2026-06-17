@@ -4420,3 +4420,10 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [18:15:31]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/51886832/JegtM3TaNs50uLwSvKHjaTE5UB3iKzsPLf9l…)
 [18:16:12]   downloaded 1,174.2 MB in 39.7s (29.6 MB/s)
 [18:16:56]   upload done video_id=26049342 in 44.6s
+[18:16:58] film cr_film_id=7520 OK in 88.2s
+[18:16:58] iteration 20/20
+[18:16:58] film cr_film_id=9330 name='After: Odloučení (2023) CZ Titulky' candidates=1
+[18:16:58]   candidate upload_id=269b77f7708dade8 url=https://prehraj.to/after-everything-after-odlouceni-2023-romanticky-cztit/269b77f7708dade8
+[18:16:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/after-everything-after-odlouceni-2023-romanticky-cztit/269b77f7708dade8 (permanent=True)
+[18:16:58] film cr_film_id=9330 all candidates exhausted
+[18:16:58] batch-end ok=19 failed=1 dur=2962.2s avg/film=155.9s remaining=9206 eta_hours=398.7
