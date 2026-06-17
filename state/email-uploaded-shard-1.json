@@ -7283,6 +7283,25 @@
         "download_sec": 49.1,
         "upload_sec": 52.1
       }
+    },
+    {
+      "cr_film_id": 495,
+      "cr_slug": "skyfall",
+      "title": "Skyfall",
+      "year": 2012,
+      "display_name": "Skyfall (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5dbf516a84ea9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26031769,
+      "size_bytes": 2325838198,
+      "uploaded_at": "2026-06-17T02:59:39Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 102.4,
+        "upload_sec": 152.1
+      }
     }
   ],
   "failed_attempts": [
@@ -7411,5 +7430,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-17T02:55:19Z"
+  "last_updated": "2026-06-17T02:59:39Z"
 }
