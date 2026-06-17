@@ -1045,3 +1045,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:25:37]   resolved in 6.4s → 480p (https://pf-storage4.premiumcdn.net/150662031/AGRs0wuVmhGwC8pf7ytLauOvt8ac13IA2Uw…)
 [03:27:04]   downloaded 1,638.0 MB in 85.6s (19.1 MB/s)
 [03:28:48]   upload done video_id=26032232 in 103.8s
+[03:28:50] film cr_film_id=523 OK in 200.3s
+[03:28:50] iteration 20/20
+[03:28:50] film cr_film_id=527 name='Jak vycvičit draka (2025) CZ Dabing' candidates=3
+[03:28:50]   candidate upload_id=bd23b9c0bc4941b1 url=https://prehraj.to/jak-vycvicit-draka-2025-cz-dab-mkv/bd23b9c0bc4941b1
+[03:28:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jak-vycvicit-draka-2025-cz-dab-mkv/bd23b9c0bc4941b1 (permanent=True)
+[03:28:50]   candidate upload_id=68d1a92b41e49 url=https://prehraj.to/jak-vycvicit-draka-2025-cz-dabing/68d1a92b41e49
+[03:28:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jak-vycvicit-draka-2025-cz-dabing/68d1a92b41e49 (permanent=True)
+[03:28:56]   candidate upload_id=d119c8bfc6b7bc7b url=https://prehraj.to/jak-vycvicit-draka-2025-cz-dab-mkv/d119c8bfc6b7bc7b
+[03:29:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jak-vycvicit-draka-2025-cz-dab-mkv/d119c8bfc6b7bc7b (permanent=True)
+[03:29:02] film cr_film_id=527 all candidates exhausted
+[03:29:02] batch-end ok=18 failed=2 dur=3106.8s avg/film=172.6s remaining=17103 eta_hours=820.0
