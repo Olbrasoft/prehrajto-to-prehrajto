@@ -8730,6 +8730,25 @@
         "download_sec": 17.3,
         "upload_sec": 18.2
       }
+    },
+    {
+      "cr_film_id": 8436,
+      "cr_slug": "slunce-seno-erotika",
+      "title": "Slunce, seno, erotika",
+      "year": 1991,
+      "display_name": "Slunce, seno, erotika (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6001f6d7f2d25",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26030449,
+      "size_bytes": 842891341,
+      "uploaded_at": "2026-06-17T01:44:13Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 28.1,
+        "upload_sec": 35.5
+      }
     }
   ],
   "failed_attempts": [
@@ -8851,7 +8870,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ctyri-bratri-2005-cz-dab-1080p/b1ec3e306c8180ae",
       "permanent": true,
       "failed_at": "2026-06-16T23:17:59Z"
+    },
+    {
+      "cr_film_id": 8436,
+      "upload_id": "14392559601e9dd8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/slunce-seno-erotika-1991-cz-dabing-1080p-hevc/14392559601e9dd8",
+      "permanent": true,
+      "failed_at": "2026-06-17T01:43:02Z"
     }
   ],
-  "last_updated": "2026-06-17T01:43:00Z"
+  "last_updated": "2026-06-17T01:44:13Z"
 }
