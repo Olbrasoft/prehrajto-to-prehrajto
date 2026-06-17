@@ -14297,6 +14297,25 @@
         "download_sec": 33.0,
         "upload_sec": 40.2
       }
+    },
+    {
+      "cr_film_id": 10286,
+      "cr_slug": "clear-cut",
+      "title": "Clear Cut",
+      "year": 2024,
+      "display_name": "Clear Cut (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6796683abce7c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26040951,
+      "size_bytes": 2317524439,
+      "uploaded_at": "2026-06-17T13:40:35Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 79.9,
+        "upload_sec": 123.1
+      }
     }
   ],
   "failed_attempts": [
@@ -14616,5 +14635,5 @@
       "failed_at": "2026-06-17T12:24:43Z"
     }
   ],
-  "last_updated": "2026-06-17T13:37:07Z"
+  "last_updated": "2026-06-17T13:40:35Z"
 }
