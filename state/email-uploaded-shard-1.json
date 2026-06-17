@@ -10893,6 +10893,25 @@
         "download_sec": 118.5,
         "upload_sec": 119.9
       }
+    },
+    {
+      "cr_film_id": 1327,
+      "cr_slug": "jina-smecka",
+      "title": "Jiná smečka",
+      "year": 2021,
+      "display_name": "Jiná smečka (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "628be26fe513e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26040128,
+      "size_bytes": 2852772888,
+      "uploaded_at": "2026-06-17T13:13:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 149.1,
+        "upload_sec": 152.3
+      }
     }
   ],
   "failed_attempts": [
@@ -11259,5 +11278,5 @@
       "failed_at": "2026-06-17T12:15:39Z"
     }
   ],
-  "last_updated": "2026-06-17T13:08:02Z"
+  "last_updated": "2026-06-17T13:13:12Z"
 }
