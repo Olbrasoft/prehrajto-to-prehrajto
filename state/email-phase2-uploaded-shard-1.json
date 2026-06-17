@@ -9320,6 +9320,25 @@
         "download_sec": 40.8,
         "upload_sec": 75.8
       }
+    },
+    {
+      "cr_film_id": 22105,
+      "cr_slug": "junior-bonner",
+      "title": "Junior Bonner",
+      "year": 1972,
+      "display_name": "Junior Bonner (1972) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a12c04f18b1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26031704,
+      "size_bytes": 1966956000,
+      "uploaded_at": "2026-06-17T02:55:51Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 84.8,
+        "upload_sec": 127.9
+      }
     }
   ],
   "failed_attempts": [
@@ -9471,5 +9490,5 @@
       "failed_at": "2026-06-17T00:46:00Z"
     }
   ],
-  "last_updated": "2026-06-17T02:52:13Z"
+  "last_updated": "2026-06-17T02:55:51Z"
 }
