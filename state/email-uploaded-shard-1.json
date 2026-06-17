@@ -9867,6 +9867,25 @@
         "download_sec": 84.7,
         "upload_sec": 106.9
       }
+    },
+    {
+      "cr_film_id": 1037,
+      "cr_slug": "spider-man-2",
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "display_name": "Spider-Man 2 (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b365decd48ff052",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26037059,
+      "size_bytes": 2358039503,
+      "uploaded_at": "2026-06-17T09:40:15Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 106.1,
+        "upload_sec": 130.5
+      }
     }
   ],
   "failed_attempts": [
@@ -10077,7 +10096,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/harry-potter-a-tajemna-komnata-2002-en-cz-dabing-uhdrdv-mkv/996b11c8ab9b0d3f",
       "permanent": true,
       "failed_at": "2026-06-17T09:09:34Z"
+    },
+    {
+      "cr_film_id": 1037,
+      "upload_id": "e42c1b5ac46c5945",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/spider-man-2-cz-dabing-2004-1080p-100/e42c1b5ac46c5945",
+      "permanent": true,
+      "failed_at": "2026-06-17T09:36:04Z"
+    },
+    {
+      "cr_film_id": 1037,
+      "upload_id": "98fff95436514ec7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/spider-man-2-cz-dabing-2004-1080p-novinka/98fff95436514ec7",
+      "permanent": true,
+      "failed_at": "2026-06-17T09:36:10Z"
     }
   ],
-  "last_updated": "2026-06-17T09:36:02Z"
+  "last_updated": "2026-06-17T09:40:15Z"
 }
