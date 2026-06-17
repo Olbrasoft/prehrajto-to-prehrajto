@@ -13386,6 +13386,25 @@
         "download_sec": 46.9,
         "upload_sec": 57.3
       }
+    },
+    {
+      "cr_film_id": 10289,
+      "cr_slug": "consumed",
+      "title": "Consumed",
+      "year": 2024,
+      "display_name": "Consumed (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "66c2b32291951",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26038430,
+      "size_bytes": 1854628772,
+      "uploaded_at": "2026-06-17T11:59:47Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 64.4,
+        "upload_sec": 64.4
+      }
     }
   ],
   "failed_attempts": [
@@ -13691,5 +13710,5 @@
       "failed_at": "2026-06-17T10:31:04Z"
     }
   ],
-  "last_updated": "2026-06-17T11:57:35Z"
+  "last_updated": "2026-06-17T11:59:47Z"
 }
