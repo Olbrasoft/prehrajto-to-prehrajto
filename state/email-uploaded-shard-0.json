@@ -14076,6 +14076,25 @@
         "download_sec": 167.3,
         "upload_sec": 230.4
       }
+    },
+    {
+      "cr_film_id": 1828,
+      "cr_slug": "ja-legenda",
+      "title": "Já, legenda",
+      "year": 2007,
+      "display_name": "Já, legenda (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "678485c93d3a9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26058516,
+      "size_bytes": 1303658103,
+      "uploaded_at": "2026-06-17T22:37:00Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 99.2,
+        "upload_sec": 72.5
+      }
     }
   ],
   "failed_attempts": [
@@ -14510,7 +14529,14 @@
       "reason": "oversize: 7358806384 B",
       "permanent": true,
       "failed_at": "2026-06-17T21:43:31Z"
+    },
+    {
+      "cr_film_id": 1828,
+      "upload_id": "68d844e3b1ea8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ja-legenda-i-am-legend-2007-en-cz-dabing-uhdrdv/68d844e3b1ea8",
+      "permanent": true,
+      "failed_at": "2026-06-17T22:33:59Z"
     }
   ],
-  "last_updated": "2026-06-17T22:33:57Z"
+  "last_updated": "2026-06-17T22:37:00Z"
 }
