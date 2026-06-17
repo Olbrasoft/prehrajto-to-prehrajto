@@ -12929,6 +12929,25 @@
         "download_sec": 41.9,
         "upload_sec": 51.0
       }
+    },
+    {
+      "cr_film_id": 31536,
+      "cr_slug": "afterlight",
+      "title": "Afterlight",
+      "year": 2025,
+      "display_name": "Afterlight (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "ef991503933c552e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26037342,
+      "size_bytes": 1446571363,
+      "uploaded_at": "2026-06-17T10:16:23Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 51.2,
+        "upload_sec": 58.9
+      }
     }
   ],
   "failed_attempts": [
@@ -13234,5 +13253,5 @@
       "failed_at": "2026-06-17T07:03:26Z"
     }
   ],
-  "last_updated": "2026-06-17T10:14:29Z"
+  "last_updated": "2026-06-17T10:16:23Z"
 }
