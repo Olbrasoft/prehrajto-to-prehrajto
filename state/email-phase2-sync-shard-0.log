@@ -2359,3 +2359,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [05:16:15]   upload done video_id=26033839 in 61.9s
 [05:16:16] film cr_film_id=33774 OK in 89.4s
 [05:16:16] batch-end ok=20 failed=0 dur=2336.6s avg/film=116.8s remaining=9476 eta_hours=307.4
+
+===== run 2026-06-17T05:16:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27667470871) =====
+[05:16:42] batch-start shard=0/2 count=20 backlog=10210 uploads=734 failed_attempts=18 description_overrides=0
+[05:16:42] login
+[05:16:43] login done
+[05:16:43] iteration 1/20
+[05:16:43] film cr_film_id=33096 name='Decision at Sundown (1957) CZ Dabing' candidates=2
+[05:16:43]   candidate upload_id=60af350ba4fde url=https://prehraj.to/sundown-mesto-pomsty-western-1957-cz-dabing/60af350ba4fde
+[05:16:44]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/23674374/YPRS9dc3AIK6iwbTlYtdrcbGt19FV5hbDU39…)
+[05:17:06]   downloaded 538.5 MB in 19.8s (27.2 MB/s)
+[05:17:27]   upload done video_id=26033877 in 21.3s
