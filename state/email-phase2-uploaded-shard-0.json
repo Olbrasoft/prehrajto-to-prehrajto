@@ -12606,6 +12606,25 @@
         "download_sec": 57.5,
         "upload_sec": 69.3
       }
+    },
+    {
+      "cr_film_id": 5478,
+      "cr_slug": "echo",
+      "title": "Echo Valley",
+      "year": 2025,
+      "display_name": "Echo Valley (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "7eba42b52a6a3285",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26036679,
+      "size_bytes": 1565195371,
+      "uploaded_at": "2026-06-17T09:24:56Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 58.2,
+        "upload_sec": 97.9
+      }
     }
   ],
   "failed_attempts": [
@@ -12911,5 +12930,5 @@
       "failed_at": "2026-06-17T07:03:26Z"
     }
   ],
-  "last_updated": "2026-06-17T09:22:16Z"
+  "last_updated": "2026-06-17T09:24:56Z"
 }
