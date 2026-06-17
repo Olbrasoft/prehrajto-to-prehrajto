@@ -6742,6 +6742,25 @@
         "download_sec": 79.7,
         "upload_sec": 132.0
       }
+    },
+    {
+      "cr_film_id": 306,
+      "cr_slug": "martan",
+      "title": "Marťan",
+      "year": 2015,
+      "display_name": "Marťan (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66caeae253746",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26028323,
+      "size_bytes": 2552835541,
+      "uploaded_at": "2026-06-17T00:59:14Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 67.8,
+        "upload_sec": 89.6
+      }
     }
   ],
   "failed_attempts": [
@@ -6872,5 +6891,5 @@
       "failed_at": "2026-06-17T00:28:10Z"
     }
   ],
-  "last_updated": "2026-06-17T00:56:33Z"
+  "last_updated": "2026-06-17T00:59:14Z"
 }
