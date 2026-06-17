@@ -10551,6 +10551,25 @@
         "download_sec": 54.2,
         "upload_sec": 54.3
       }
+    },
+    {
+      "cr_film_id": 1229,
+      "cr_slug": "x-men-2",
+      "title": "X-Men 2",
+      "year": 2003,
+      "display_name": "X-Men 2 (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "674e131c9a794",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26038436,
+      "size_bytes": 2191235267,
+      "uploaded_at": "2026-06-17T12:02:09Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 96.7,
+        "upload_sec": 119.2
+      }
     }
   ],
   "failed_attempts": [
@@ -10882,5 +10901,5 @@
       "failed_at": "2026-06-17T11:27:24Z"
     }
   ],
-  "last_updated": "2026-06-17T11:58:27Z"
+  "last_updated": "2026-06-17T12:02:09Z"
 }
