@@ -7825,6 +7825,25 @@
         "download_sec": 94.9,
         "upload_sec": 117.9
       }
+    },
+    {
+      "cr_film_id": 514,
+      "cr_slug": "bile-maso",
+      "title": "Bílé maso",
+      "year": 2008,
+      "display_name": "Bílé maso (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "609a26ffa65fe",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26033153,
+      "size_bytes": 525839660,
+      "uploaded_at": "2026-06-17T04:41:13Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 28.5,
+        "upload_sec": 31.0
+      }
     }
   ],
   "failed_attempts": [
@@ -8018,5 +8037,5 @@
       "failed_at": "2026-06-17T03:46:48Z"
     }
   ],
-  "last_updated": "2026-06-17T04:40:08Z"
+  "last_updated": "2026-06-17T04:41:13Z"
 }
