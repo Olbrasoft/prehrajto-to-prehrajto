@@ -10878,6 +10878,25 @@
         "download_sec": 40.8,
         "upload_sec": 60.8
       }
+    },
+    {
+      "cr_film_id": 34389,
+      "cr_slug": "riley",
+      "title": "Riley",
+      "year": 2025,
+      "display_name": "Riley (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "50d7fc24bc0b602b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26034267,
+      "size_bytes": 667740748,
+      "uploaded_at": "2026-06-17T05:38:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.8,
+        "upload_sec": 42.1
+      }
     }
   ],
   "failed_attempts": [
@@ -11113,5 +11132,5 @@
       "failed_at": "2026-06-17T05:35:48Z"
     }
   ],
-  "last_updated": "2026-06-17T05:37:38Z"
+  "last_updated": "2026-06-17T05:38:56Z"
 }
