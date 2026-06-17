@@ -8613,6 +8613,25 @@
         "download_sec": 33.7,
         "upload_sec": 37.8
       }
+    },
+    {
+      "cr_film_id": 799,
+      "cr_slug": "harry-potter-a-princ-dvoji-krve",
+      "title": "Harry Potter a Princ dvojí krve",
+      "year": 2009,
+      "display_name": "Harry Potter a Princ dvojí krve (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68f3db8bb1ac1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26034680,
+      "size_bytes": 1925728215,
+      "uploaded_at": "2026-06-17T06:30:28Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 74.9,
+        "upload_sec": 103.4
+      }
     }
   ],
   "failed_attempts": [
@@ -8781,7 +8800,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tenkrat-v-hollywoodu-2019-cz-dab-1080p/fad1a0c0e9bc6d2e",
       "permanent": true,
       "failed_at": "2026-06-17T05:58:58Z"
+    },
+    {
+      "cr_film_id": 793,
+      "upload_id": "68d9bb9543249",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/creed-1-2015-cz-dabing-topkvalita/68d9bb9543249",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:27:22Z"
     }
   ],
-  "last_updated": "2026-06-17T06:27:20Z"
+  "last_updated": "2026-06-17T06:30:28Z"
 }

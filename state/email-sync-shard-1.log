@@ -1485,3 +1485,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:26:06]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/195975/8Y2hdQi9oF4VcxKfodU71iOLIE5C94u60TyVTy…)
 [06:26:42]   downloaded 642.1 MB in 33.7s (19.1 MB/s)
 [06:27:20]   upload done video_id=26034659 in 37.8s
+[06:27:21] film cr_film_id=787 OK in 76.0s
+[06:27:21] iteration 19/20
+[06:27:21] film cr_film_id=793 name='Creed (2015) CZ Dabing' candidates=1
+[06:27:21]   candidate upload_id=68d9bb9543249 url=https://prehraj.to/creed-1-2015-cz-dabing-topkvalita/68d9bb9543249
+[06:27:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/creed-1-2015-cz-dabing-topkvalita/68d9bb9543249 (permanent=True)
+[06:27:22] film cr_film_id=793 all candidates exhausted
+[06:27:22] iteration 20/20
+[06:27:22] film cr_film_id=799 name='Harry Potter a Princ dvojí krve (2009) CZ Dabing' candidates=10
+[06:27:22]   candidate upload_id=68f3db8bb1ac1 url=https://prehraj.to/harry-potter-6-a-princ-dvoji-krve-2009-cz-dabing/68f3db8bb1ac1
+[06:27:28]   resolved in 6.2s → 1080p (https://pf-storage3.premiumcdn.net/152303322/e1JhK3fGwcZaHPOhQziBRfNDU96s0eFlLC4…)
+[06:28:45]   downloaded 1,925.7 MB in 74.9s (25.7 MB/s)
+[06:30:28]   upload done video_id=26034680 in 103.4s
