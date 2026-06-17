@@ -3265,3 +3265,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:52:13]   upload done video_id=26037739 in 73.4s
 [10:52:14] film cr_film_id=13916 OK in 148.9s
 [10:52:14] batch-end ok=20 failed=0 dur=2833.4s avg/film=141.7s remaining=9361 eta_hours=368.5
+
+===== run 2026-06-17T11:02:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27684272629) =====
+[11:02:23] batch-start shard=0/2 count=20 backlog=10210 uploads=849 failed_attempts=43 description_overrides=0
+[11:02:23] login
+[11:02:25] login done
+[11:02:25] iteration 1/20
+[11:02:25] film cr_film_id=31318 name='The Wasp (2024) CZ Titulky' candidates=5
+[11:02:25]   candidate upload_id=66fcc073a3e52 url=https://prehraj.to/the-wasp-2024-cz-titulky/66fcc073a3e52
+[11:02:26]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/99529346/mn4fwquxOFgzHdKtY1cLnu79sogin4Ib9HKk…)
+[11:02:54]   downloaded 582.1 MB in 25.9s (22.5 MB/s)
+[11:03:19]   upload done video_id=26037876 in 25.5s
