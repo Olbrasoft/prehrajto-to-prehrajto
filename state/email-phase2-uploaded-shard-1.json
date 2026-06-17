@@ -11372,6 +11372,25 @@
         "download_sec": 64.6,
         "upload_sec": 112.2
       }
+    },
+    {
+      "cr_film_id": 28535,
+      "cr_slug": "ella-mccay",
+      "title": "Ella McCay",
+      "year": 2025,
+      "display_name": "Ella McCay (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "9a3e102e35a3751d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26034882,
+      "size_bytes": 1250697250,
+      "uploaded_at": "2026-06-17T06:50:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 36.3,
+        "upload_sec": 46.6
+      }
     }
   ],
   "failed_attempts": [
@@ -11635,5 +11654,5 @@
       "failed_at": "2026-06-17T06:01:21Z"
     }
   ],
-  "last_updated": "2026-06-17T06:49:00Z"
+  "last_updated": "2026-06-17T06:50:27Z"
 }
