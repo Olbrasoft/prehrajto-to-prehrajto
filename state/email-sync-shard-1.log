@@ -743,3 +743,23 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:50:17]   upload done video_id=26028156 in 126.5s
 [00:50:19] film cr_film_id=379 OK in 228.9s
 [00:50:19] batch-end ok=19 failed=1 dur=3845.0s avg/film=202.4s remaining=17140 eta_hours=963.6
+
+===== run 2026-06-17T00:50:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27658189617) =====
+[00:50:49] description overrides loaded: 65 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:50:49] batch-start shard=1/2 count=20 backlog=17650 uploads=510 failed_attempts=8 description_overrides=65
+[00:50:49] login
+[00:50:51] login done
+[00:50:51] iteration 1/20
+[00:50:51] film cr_film_id=381 name='Harry Potter a vězeň z Azkabanu (2004) CZ Dabing' candidates=16
+[00:50:51]   candidate upload_id=7eca1aebc6a6744a url=https://prehraj.to/harry-potter-a-vezen-z-azkabanu-2004-cz-dabing-topppkvalita-1080p-full-hd-mkv/7eca1aebc6a6744a
+[00:50:52]   resolved in 1.6s → 1080p (https://pf-storage1.premiumcdn.net/163741547/vyqSLxiReF9BC4kI1BsW7i9QHzlCNeIerck…)
+[00:50:55]   oversize: 6192411043 B > 6000000000 B, skip
+[00:50:55]   candidate upload_id=68dbfa530044e url=https://prehraj.to/harry-potter-3-vezen-z-azkabanu-2004-cz-dabing-topkvalita/68dbfa530044e
+[00:50:59]   resolved in 3.9s → 1080p (https://pf-storage1.premiumcdn.net/149145069/1mZfv0uVLFaLS12UjMUrGuG6Fl7CQbFv8Uj…)
+[00:51:00]   oversize: 6192411043 B > 6000000000 B, skip
+[00:51:00]   candidate upload_id=68d9a56eb50bf url=https://prehraj.to/harry-potter-3-a-vezen-z-azkabanu-2004-cz-dabing-topkvalita4k/68d9a56eb50bf
+[00:51:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/harry-potter-3-a-vezen-z-azkabanu-2004-cz-dabing-topkvalita4k/68d9a56eb50bf (permanent=True)
+[00:51:04]   candidate upload_id=aa388451a3856b04 url=https://prehraj.to/harry-potter-a-vezen-z-azkabanu-2004-en-cz-dabing-uhdrdv-mkv/aa388451a3856b04
+[00:51:11]   resolved in 6.4s → 1080p (https://pf-storage4.premiumcdn.net/155234253/Yg3S6eUzBh81INauLotNQU1VsKkTq5uBPfK…)
+[01:00:20]   downloaded 4,732.6 MB in 547.8s (8.6 MB/s)
+[01:04:42]   upload done video_id=26028369 in 261.1s
