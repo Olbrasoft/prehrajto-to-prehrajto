@@ -6476,6 +6476,25 @@
         "download_sec": 68.6,
         "upload_sec": 99.9
       }
+    },
+    {
+      "cr_film_id": 248,
+      "cr_slug": "big-lebowski",
+      "title": "Big Lebowski",
+      "year": 1998,
+      "display_name": "Big Lebowski (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "9d7e0866ad8f0d8f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26027790,
+      "size_bytes": 1541163526,
+      "uploaded_at": "2026-06-17T00:23:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 57.0,
+        "upload_sec": 86.5
+      }
     }
   ],
   "failed_attempts": [
@@ -6599,5 +6618,5 @@
       "failed_at": "2026-06-16T22:43:33Z"
     }
   ],
-  "last_updated": "2026-06-17T00:21:25Z"
+  "last_updated": "2026-06-17T00:23:53Z"
 }
