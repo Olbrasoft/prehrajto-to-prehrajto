@@ -14247,6 +14247,25 @@
         "download_sec": 53.6,
         "upload_sec": 69.3
       }
+    },
+    {
+      "cr_film_id": 1868,
+      "cr_slug": "joy",
+      "title": "Joy",
+      "year": 2024,
+      "display_name": "Joy (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6740a7b8d14e3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26059570,
+      "size_bytes": 1866515297,
+      "uploaded_at": "2026-06-17T23:16:04Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 81.6,
+        "upload_sec": 135.4
+      }
     }
   ],
   "failed_attempts": [
@@ -14711,5 +14730,5 @@
       "failed_at": "2026-06-17T23:10:09Z"
     }
   ],
-  "last_updated": "2026-06-17T23:12:22Z"
+  "last_updated": "2026-06-17T23:16:04Z"
 }
