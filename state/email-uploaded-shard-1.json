@@ -10019,6 +10019,25 @@
         "download_sec": 118.7,
         "upload_sec": 126.5
       }
+    },
+    {
+      "cr_film_id": 1069,
+      "cr_slug": "hodina-zmizeni",
+      "title": "Hodina zmizení",
+      "year": 2025,
+      "display_name": "Hodina zmizení (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68d2ca5917b72",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26037307,
+      "size_bytes": 1748889416,
+      "uploaded_at": "2026-06-17T10:12:49Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 79.0,
+        "upload_sec": 125.0
+      }
     }
   ],
   "failed_attempts": [
@@ -10264,7 +10283,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bugonia-2025-cz-dabing-topkvalita/81bce7b5480b1de5",
       "permanent": true,
       "failed_at": "2026-06-17T10:05:00Z"
+    },
+    {
+      "cr_film_id": 1067,
+      "upload_id": "6317726c42f58",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/policajt-v-beverly-hills-beverly-hills-cop-1984-2x-cz-dab-tit-1080p-bluray/6317726c42f58",
+      "permanent": true,
+      "failed_at": "2026-06-17T10:09:16Z"
     }
   ],
-  "last_updated": "2026-06-17T10:09:14Z"
+  "last_updated": "2026-06-17T10:12:49Z"
 }

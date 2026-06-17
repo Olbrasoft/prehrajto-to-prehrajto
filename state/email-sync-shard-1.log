@@ -2065,3 +2065,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:05:06]   resolved in 6.8s → 1080p (https://pf-storage5.premiumcdn.net/157022621/oNRIKWF9Pc3bFwMfdVs1DFA1CqkCVNIk9HO…)
 [10:07:07]   downloaded 2,178.5 MB in 118.7s (18.4 MB/s)
 [10:09:14]   upload done video_id=26037288 in 126.5s
+[10:09:16] film cr_film_id=1065 OK in 255.9s
+[10:09:16] iteration 17/20
+[10:09:16] film cr_film_id=1067 name='Policajt v Beverly Hills (1984) CZ Dabing' candidates=1
+[10:09:16]   candidate upload_id=6317726c42f58 url=https://prehraj.to/policajt-v-beverly-hills-beverly-hills-cop-1984-2x-cz-dab-tit-1080p-bluray/6317726c42f58
+[10:09:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/policajt-v-beverly-hills-beverly-hills-cop-1984-2x-cz-dab-tit-1080p-bluray/6317726c42f58 (permanent=True)
+[10:09:16] film cr_film_id=1067 all candidates exhausted
+[10:09:16] iteration 18/20
+[10:09:16] film cr_film_id=1069 name='Hodina zmizení (2025) CZ Dabing' candidates=14
+[10:09:16]   candidate upload_id=68d2ca5917b72 url=https://prehraj.to/hodina-zmizeni-weapons-zbrane-2025-cz-dabing-full-hd-1080p/68d2ca5917b72
+[10:09:23]   resolved in 6.5s → 720p (https://pf-storage4.premiumcdn.net/148080336/6P2s7rFadU51H8RS3mfAbFbvIyGCbxf5Aua…)
+[10:10:44]   downloaded 1,748.9 MB in 79.0s (22.1 MB/s)
+[10:12:49]   upload done video_id=26037307 in 125.0s
