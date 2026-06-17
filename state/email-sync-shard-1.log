@@ -869,3 +869,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:06:13]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/32536753/K9LTkvU4Vty0tKgU2KT2dUlPS1kuQKuBquWV…)
 [02:14:39]   downloaded 4,092.3 MB in 503.8s (8.1 MB/s)
 [02:18:11]   upload done video_id=26030955 in 212.4s
+[02:18:13] film cr_film_id=423 OK in 721.4s
+[02:18:13] iteration 17/20
+[02:18:13] film cr_film_id=425 name='Kocour v botách: Poslední přání (2022) CZ Dabing' candidates=2
+[02:18:13]   candidate upload_id=ff429bee6c46ddef url=https://prehraj.to/kocour-v-botach-posledni-prani-2022-cz-dabing-hd/ff429bee6c46ddef
+[02:18:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kocour-v-botach-posledni-prani-2022-cz-dabing-hd/ff429bee6c46ddef (permanent=True)
+[02:18:14]   candidate upload_id=6b0d1f886c18bc3d url=https://prehraj.to/kocur-v-cizmach-posledne-zelanie-puss-in-boots-the-last-wish-2022-sk-avi/6b0d1f886c18bc3d
+[02:18:20]   resolved in 6.4s → 720p (https://pf-storage3.premiumcdn.net/164023961/REAIpdH9ohP9u8LsYRsljHX2HRzUkgF8ZcD…)
+[02:19:57]   downloaded 1,743.4 MB in 94.3s (18.5 MB/s)
+[02:21:37]   upload done video_id=26031031 in 100.9s
