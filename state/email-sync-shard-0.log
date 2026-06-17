@@ -1074,3 +1074,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:26:56]   upload done video_id=26032906 in 133.3s
 [04:26:58] film cr_film_id=504 OK in 256.6s
 [04:26:58] batch-end ok=18 failed=2 dur=2724.8s avg/film=151.4s remaining=17081 eta_hours=718.4
+
+===== run 2026-06-17T04:27:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27665767812) =====
+[04:27:39] description overrides loaded: 65 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:27:39] batch-start shard=0/2 count=20 backlog=17650 uploads=569 failed_attempts=27 description_overrides=65
+[04:27:39] login
+[04:27:40] login done
+[04:27:40] iteration 1/20
+[04:27:40] film cr_film_id=506 name='Zápisník jedné lásky (2004) CZ Dabing' candidates=30
+[04:27:40]   candidate upload_id=68b7575277342 url=https://prehraj.to/zapisnik-jedne-lasky-rachel-mcadams-ryan-gosling-gena-rowlands-2004-romanticky-drama-bdrip-1080p-cz-dabing-cz-titulky/68b7575277342
+[04:27:42]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/145276635/DzySvYu8yCL1sMYFelh20uvbSzVTgyIyXfQ…)
+[04:29:35]   downloaded 2,213.3 MB in 111.2s (19.9 MB/s)
+[04:31:42]   upload done video_id=26032971 in 127.2s
