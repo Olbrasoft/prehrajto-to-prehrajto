@@ -1350,3 +1350,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:23:25]   upload done video_id=26033999 in 58.2s
 [05:23:26] film cr_film_id=713 OK in 103.2s
 [05:23:26] batch-end ok=20 failed=0 dur=3357.7s avg/film=167.9s remaining=17063 eta_hours=795.8
+
+===== run 2026-06-17T05:40:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27668306590) =====
+[05:40:04] description overrides loaded: 262 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:40:04] batch-start shard=1/2 count=20 backlog=17650 uploads=587 failed_attempts=21 description_overrides=262
+[05:40:04] login
+[05:40:09] login done
+[05:40:09] iteration 1/20
+[05:40:09] film cr_film_id=715 name='S tebou mě baví svět (1982) CZ' candidates=4
+[05:40:09]   candidate upload_id=65bd90398bf13 url=https://prehraj.to/s-tebou-me-bavi-svet-s-tebou-ma-bavi-svet-i-enjoy-the-world-with-you-you-take-the-kids-1982-cz/65bd90398bf13
+[05:40:10]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/72978719/4AgIroFVxfEQU7GfzLHkYFmvfv6C9QfKbUbr…)
+[05:42:17]   downloaded 3,418.9 MB in 125.4s (27.3 MB/s)
+[05:45:24]   upload done video_id=26034314 in 186.1s
