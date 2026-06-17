@@ -12626,6 +12626,25 @@
         "download_sec": 45.3,
         "upload_sec": 57.7
       }
+    },
+    {
+      "cr_film_id": 20101,
+      "cr_slug": "outsideri-2024",
+      "title": "Outsideři",
+      "year": 2024,
+      "display_name": "Outsideři (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "65be47302c741",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26037317,
+      "size_bytes": 2109460333,
+      "uploaded_at": "2026-06-17T10:14:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 115.2,
+        "upload_sec": 122.7
+      }
     }
   ],
   "failed_attempts": [
@@ -12924,5 +12943,5 @@
       "failed_at": "2026-06-17T08:07:28Z"
     }
   ],
-  "last_updated": "2026-06-17T10:10:07Z"
+  "last_updated": "2026-06-17T10:14:10Z"
 }
