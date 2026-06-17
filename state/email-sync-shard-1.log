@@ -3029,3 +3029,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:50:43]   resolved in 2.0s → 1080p (https://pf-storage1.premiumcdn.net/24692255/mn1tAQsoYuj5fAxuGxIpLsq6hMAtaxfQASOL…)
 [16:51:42]   downloaded 1,692.8 MB in 57.9s (29.2 MB/s)
 [16:52:55]   upload done video_id=26046746 in 73.0s
+[16:52:57] film cr_film_id=1637 OK in 135.7s
+[16:52:57] iteration 17/20
+[16:52:57] film cr_film_id=1643 name='Minamata (2020) CZ Dabing' candidates=1
+[16:52:57]   candidate upload_id=fab8baa5fca045c9 url=https://prehraj.to/minamata-2020-cz-dabing/fab8baa5fca045c9
+[16:52:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/minamata-2020-cz-dabing/fab8baa5fca045c9 (permanent=True)
+[16:52:57] film cr_film_id=1643 all candidates exhausted
+[16:52:57] iteration 18/20
+[16:52:57] film cr_film_id=1645 name='Zpráva (2019) CZ Dabing' candidates=2
+[16:52:57]   candidate upload_id=1c9fc8bd4b40f7ad url=https://prehraj.to/zprava-2019-cz-dab-1080p/1c9fc8bd4b40f7ad
+[16:53:03]   resolved in 5.8s → 720p (https://pf-storage3.premiumcdn.net/166762844/rL1H0af9vhm9tKjfRxtnNfd9T1pU6rIdbSo…)
+[16:53:52]   downloaded 1,200.0 MB in 47.3s (25.4 MB/s)
+[16:54:44]   upload done video_id=26046814 in 52.5s
