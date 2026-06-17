@@ -1679,3 +1679,19 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:33:46]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/165846359/PR8u1Os5McP0F3McNMu2qsrgHpjt0WudwFq…)
 [07:35:29]   downloaded 3,225.0 MB in 102.0s (31.6 MB/s)
 [07:37:44]   upload done video_id=26035375 in 134.8s
+[07:37:45] film cr_film_id=859 OK in 240.6s
+[07:37:45] iteration 5/20
+[07:37:45] film cr_film_id=865 name='V hlavě 2 (2024) CZ' candidates=3
+[07:37:45]   candidate upload_id=66c63e5b10f69 url=https://prehraj.to/v-hlave-2-2024/66c63e5b10f69
+[07:37:46]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/v-hlave-2-2024/66c63e5b10f69 (permanent=True)
+[07:37:46]   candidate upload_id=687bfcd689797 url=https://prehraj.to/v-hlave-2-2024-3/687bfcd689797
+[07:37:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/v-hlave-2-2024-3/687bfcd689797 (permanent=True)
+[07:37:52]   candidate upload_id=66c644323aab3 url=https://prehraj.to/v-hlave-2-2024/66c644323aab3
+[07:37:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/v-hlave-2-2024/66c644323aab3 (permanent=True)
+[07:37:58] film cr_film_id=865 all candidates exhausted
+[07:37:58] iteration 6/20
+[07:37:58] film cr_film_id=867 name='Scott Pilgrim proti zbytku světa (2010) CZ Dabing' candidates=1
+[07:37:58]   candidate upload_id=5e9941f4e59b0 url=https://prehraj.to/scott-pilgrim-proti-zbytku-sveta-scott-pilgrim-vs-the-world-1080p-x264-ac3-5-1-cz-dab-2010/5e9941f4e59b0
+[07:38:04]   resolved in 6.3s → 720p (https://pf-storage5.premiumcdn.net/16252387/V42t0Kf1KcmoIgof7lHlrfBmtxBUdNuoDSKl…)
+[07:38:57]   downloaded 1,564.5 MB in 51.8s (30.2 MB/s)
+[07:40:12]   upload done video_id=26035410 in 74.9s
