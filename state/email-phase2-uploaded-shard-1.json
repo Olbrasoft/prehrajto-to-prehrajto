@@ -7534,6 +7534,25 @@
         "download_sec": 32.9,
         "upload_sec": 34.8
       }
+    },
+    {
+      "cr_film_id": 23917,
+      "cr_slug": "mutant-2",
+      "title": "Mutant 2",
+      "year": 1998,
+      "display_name": "Mutant 2 (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57aec02fd031c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26027735,
+      "size_bytes": 503873706,
+      "uploaded_at": "2026-06-17T00:19:56Z",
+      "timing": {
+        "resolve_sec": 2.7,
+        "download_sec": 24.1,
+        "upload_sec": 37.6
+      }
     }
   ],
   "failed_attempts": [
@@ -7678,5 +7697,5 @@
       "failed_at": "2026-06-16T22:53:42Z"
     }
   ],
-  "last_updated": "2026-06-17T00:18:48Z"
+  "last_updated": "2026-06-17T00:19:56Z"
 }
