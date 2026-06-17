@@ -11581,6 +11581,25 @@
         "download_sec": 66.2,
         "upload_sec": 75.1
       }
+    },
+    {
+      "cr_film_id": 16001,
+      "cr_slug": "birthrite",
+      "title": "Birthrite",
+      "year": 2025,
+      "display_name": "Birthrite (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "689b6b66ab67b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26035165,
+      "size_bytes": 1314943569,
+      "uploaded_at": "2026-06-17T07:20:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 74.6,
+        "upload_sec": 56.4
+      }
     }
   ],
   "failed_attempts": [
@@ -11872,5 +11891,5 @@
       "failed_at": "2026-06-17T06:54:07Z"
     }
   ],
-  "last_updated": "2026-06-17T07:17:20Z"
+  "last_updated": "2026-06-17T07:20:04Z"
 }
