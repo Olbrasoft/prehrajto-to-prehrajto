@@ -1921,3 +1921,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:16:41]   upload done video_id=26032086 in 51.2s
 [03:16:43] film cr_film_id=24362 OK in 82.5s
 [03:16:43] batch-end ok=20 failed=0 dur=1584.8s avg/film=79.2s remaining=9536 eta_hours=209.8
+
+===== run 2026-06-17T03:25:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27663668381) =====
+[03:25:24] batch-start shard=0/2 count=20 backlog=10210 uploads=674 failed_attempts=18 description_overrides=0
+[03:25:24] login
+[03:25:25] login done
+[03:25:25] iteration 1/20
+[03:25:25] film cr_film_id=11364 name='Cukr, med a feferonka (1980) CZ Dabing' candidates=1
+[03:25:25]   candidate upload_id=6097d4e554a5d url=https://prehraj.to/cukr-med-a-feferonka-komedie-1980-cz-dabing/6097d4e554a5d
+[03:25:26]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/23442645/bwEue1seQhqWCGEivqFOYskjTGvcV3H8EULv…)
+[03:26:07]   downloaded 872.2 MB in 38.8s (22.5 MB/s)
+[03:26:58]   upload done video_id=26032223 in 50.5s
