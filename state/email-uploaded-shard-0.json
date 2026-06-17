@@ -8395,6 +8395,25 @@
         "download_sec": 88.5,
         "upload_sec": 134.0
       }
+    },
+    {
+      "cr_film_id": 640,
+      "cr_slug": "raubir-ralf",
+      "title": "Raubíř Ralf",
+      "year": 2012,
+      "display_name": "Raubíř Ralf (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c66b8ee42a0b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26034583,
+      "size_bytes": 2005538409,
+      "uploaded_at": "2026-06-17T06:18:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 57.7,
+        "upload_sec": 73.4
+      }
     }
   ],
   "failed_attempts": [
@@ -8609,5 +8628,5 @@
       "failed_at": "2026-06-17T06:01:50Z"
     }
   ],
-  "last_updated": "2026-06-17T06:16:36Z"
+  "last_updated": "2026-06-17T06:18:51Z"
 }
