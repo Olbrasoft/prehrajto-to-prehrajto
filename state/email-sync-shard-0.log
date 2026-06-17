@@ -1223,3 +1223,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:39:34]   upload done video_id=26034277 in 25.0s
 [05:39:35] film cr_film_id=600 OK in 54.6s
 [05:39:35] batch-end ok=20 failed=0 dur=4315.0s avg/film=215.8s remaining=17061 eta_hours=1022.7
+
+===== run 2026-06-17T05:40:04Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27668306590) =====
+[05:40:06] description overrides loaded: 262 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:40:06] batch-start shard=0/2 count=20 backlog=17650 uploads=589 failed_attempts=28 description_overrides=262
+[05:40:06] login
+[05:40:09] login done
+[05:40:09] iteration 1/20
+[05:40:09] film cr_film_id=602 name='Muž v ohni (2004) CZ Dabing' candidates=37
+[05:40:09]   candidate upload_id=68758b7193a34 url=https://prehraj.to/muz-v-ohni-denzel-washington-dakota-fanning-radha-mitchell-2004-akcni-krimi-thriller-drama-bdrip-1080p-cz-dabing/68758b7193a34
+[05:40:10]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/141615701/lx5h2eH0yhylFxGuyvUMoHv1iD1fgqu72Uy…)
+[05:41:41]   downloaded 3,212.2 MB in 89.1s (36.1 MB/s)
+[05:43:51]   upload done video_id=26034309 in 130.8s
