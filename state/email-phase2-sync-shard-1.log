@@ -3385,3 +3385,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:51:15]   upload done video_id=26038346 in 125.5s
 [11:51:16] film cr_film_id=8655 OK in 247.8s
 [11:51:16] batch-end ok=20 failed=0 dur=2928.3s avg/film=146.4s remaining=9359 eta_hours=380.6
+
+===== run 2026-06-17T11:51:47Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27686881940) =====
+[11:51:48] batch-start shard=1/2 count=20 backlog=10210 uploads=851 failed_attempts=43 description_overrides=0
+[11:51:48] login
+[11:51:49] login done
+[11:51:49] iteration 1/20
+[11:51:49] film cr_film_id=9941 name='Dagr (2024) CZ Titulky' candidates=5
+[11:51:49]   candidate upload_id=66dc563b4c975 url=https://prehraj.to/dagr-2024-cz-titulky-1080p/66dc563b4c975
+[11:51:50]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/94970615/7NycqysVYtj8hbdHEaC0jsqnH60HRDFGvsdw…)
+[11:53:10]   downloaded 2,247.5 MB in 77.8s (28.9 MB/s)
+[11:54:27]   upload done video_id=26038384 in 77.4s
