@@ -1056,3 +1056,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:29:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jak-vycvicit-draka-2025-cz-dab-mkv/d119c8bfc6b7bc7b (permanent=True)
 [03:29:02] film cr_film_id=527 all candidates exhausted
 [03:29:02] batch-end ok=18 failed=2 dur=3106.8s avg/film=172.6s remaining=17103 eta_hours=820.0
+
+===== run 2026-06-17T03:41:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27664207624) =====
+[03:41:25] description overrides loaded: 65 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:41:25] batch-start shard=1/2 count=20 backlog=17650 uploads=547 failed_attempts=21 description_overrides=65
+[03:41:25] login
+[03:41:27] login done
+[03:41:27] iteration 1/20
+[03:41:27] film cr_film_id=529 name='Hrabě Monte Cristo (2002) CZ Dabing' candidates=29
+[03:41:27]   candidate upload_id=5c05caadabdf8 url=https://prehraj.to/hrabe-monte-christo-2002-cz-dabing/5c05caadabdf8
+[03:41:28]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/8972759/1xzSQPsQxI30spRho3TAksYWigESR2S8dT9KS…)
+[03:41:47]   downloaded 592.7 MB in 17.6s (33.7 MB/s)
+[03:42:18]   upload done video_id=26032405 in 30.6s

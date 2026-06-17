@@ -7511,6 +7511,25 @@
         "download_sec": 85.6,
         "upload_sec": 103.8
       }
+    },
+    {
+      "cr_film_id": 529,
+      "cr_slug": "hrabe-monte-cristo",
+      "title": "Hrabě Monte Cristo",
+      "year": 2002,
+      "display_name": "Hrabě Monte Cristo (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c05caadabdf8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26032405,
+      "size_bytes": 592691543,
+      "uploaded_at": "2026-06-17T03:42:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.6,
+        "upload_sec": 30.6
+      }
     }
   ],
   "failed_attempts": [
@@ -7667,5 +7686,5 @@
       "failed_at": "2026-06-17T03:29:02Z"
     }
   ],
-  "last_updated": "2026-06-17T03:29:02Z"
+  "last_updated": "2026-06-17T03:42:18Z"
 }
