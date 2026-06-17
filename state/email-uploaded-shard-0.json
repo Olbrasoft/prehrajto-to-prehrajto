@@ -8262,6 +8262,25 @@
         "download_sec": 64.0,
         "upload_sec": 97.8
       }
+    },
+    {
+      "cr_film_id": 620,
+      "cr_slug": "ex-machina",
+      "title": "Ex Machina",
+      "year": 2014,
+      "display_name": "Ex Machina (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68d4f97f887f9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26034439,
+      "size_bytes": 1175302138,
+      "uploaded_at": "2026-06-17T05:57:02Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 34.6,
+        "upload_sec": 53.3
+      }
     }
   ],
   "failed_attempts": [
@@ -8469,5 +8488,5 @@
       "failed_at": "2026-06-17T05:50:03Z"
     }
   ],
-  "last_updated": "2026-06-17T05:55:31Z"
+  "last_updated": "2026-06-17T05:57:02Z"
 }
