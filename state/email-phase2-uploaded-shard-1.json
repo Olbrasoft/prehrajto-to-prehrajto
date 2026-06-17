@@ -14089,6 +14089,25 @@
         "download_sec": 56.7,
         "upload_sec": 76.9
       }
+    },
+    {
+      "cr_film_id": 9631,
+      "cr_slug": "temna-okna",
+      "title": "Temná okna",
+      "year": 2023,
+      "display_name": "Temná okna (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "652a40707138d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26041150,
+      "size_bytes": 1548107524,
+      "uploaded_at": "2026-06-17T13:46:30Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 61.7,
+        "upload_sec": 109.1
+      }
     }
   ],
   "failed_attempts": [
@@ -14408,5 +14427,5 @@
       "failed_at": "2026-06-17T13:02:06Z"
     }
   ],
-  "last_updated": "2026-06-17T13:43:35Z"
+  "last_updated": "2026-06-17T13:46:30Z"
 }
