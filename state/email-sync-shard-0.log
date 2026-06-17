@@ -1664,3 +1664,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:57:57]   upload done video_id=26035592 in 20.9s
 [07:57:58] film cr_film_id=814 OK in 41.6s
 [07:57:58] batch-end ok=19 failed=1 dur=2251.4s avg/film=118.5s remaining=17004 eta_hours=559.7
+
+===== run 2026-06-17T08:16:13Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27675396064) =====
+[08:16:15] description overrides loaded: 262 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:16:15] batch-start shard=0/2 count=20 backlog=17650 uploads=646 failed_attempts=34 description_overrides=262
+[08:16:15] login
+[08:16:17] login done
+[08:16:17] iteration 1/20
+[08:16:17] film cr_film_id=816 name='Pátý element (1997) CZ Dabing' candidates=5
+[08:16:17]   candidate upload_id=65de3be02fe76 url=https://prehraj.to/paty-element-1997-cz-dab/65de3be02fe76
+[08:16:18]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/73984544/KDbcR6H73IN5fr0I1OU8DHQKfNKCWGuVdIB4…)
+[08:16:48]   downloaded 678.0 MB in 27.6s (24.6 MB/s)
+[08:17:25]   upload done video_id=26035857 in 37.4s
