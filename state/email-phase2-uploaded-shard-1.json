@@ -14583,6 +14583,25 @@
         "download_sec": 34.4,
         "upload_sec": 36.0
       }
+    },
+    {
+      "cr_film_id": 2537,
+      "cr_slug": "jawan",
+      "title": "Jawan",
+      "year": 2023,
+      "display_name": "Jawan (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "654ab97a56946",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26043397,
+      "size_bytes": 4545230358,
+      "uploaded_at": "2026-06-17T14:56:13Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 153.0,
+        "upload_sec": 175.0
+      }
     }
   ],
   "failed_attempts": [
@@ -14921,7 +14940,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/love-in-taipei-2023-cz-titulky/c958d9b5ff01bc1f",
       "permanent": true,
       "failed_at": "2026-06-17T14:49:16Z"
+    },
+    {
+      "cr_film_id": 31263,
+      "upload_id": "974dfbd8ad301c6d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/late-night-with-the-devil-2023-cz-titulky-1080p-mp4/974dfbd8ad301c6d",
+      "permanent": true,
+      "failed_at": "2026-06-17T14:50:38Z"
     }
   ],
-  "last_updated": "2026-06-17T14:50:36Z"
+  "last_updated": "2026-06-17T14:56:13Z"
 }

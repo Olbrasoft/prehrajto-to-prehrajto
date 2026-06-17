@@ -3891,3 +3891,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [14:49:23]   resolved in 7.0s → 720p (https://pf-storage4.premiumcdn.net/43992917/pB5fmDFylU5jtreHLmupQFd2IJecRbupNIno…)
 [14:50:00]   downloaded 945.9 MB in 34.4s (27.5 MB/s)
 [14:50:36]   upload done video_id=26043319 in 36.0s
+[14:50:37] film cr_film_id=8163 OK in 80.4s
+[14:50:37] iteration 11/20
+[14:50:37] film cr_film_id=31263 name='Late Night with the Devil (2023) CZ Titulky' candidates=1
+[14:50:37]   candidate upload_id=974dfbd8ad301c6d url=https://prehraj.to/late-night-with-the-devil-2023-cz-titulky-1080p-mp4/974dfbd8ad301c6d
+[14:50:38]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/late-night-with-the-devil-2023-cz-titulky-1080p-mp4/974dfbd8ad301c6d (permanent=True)
+[14:50:38] film cr_film_id=31263 all candidates exhausted
+[14:50:38] iteration 12/20
+[14:50:38] film cr_film_id=2537 name='Jawan (2023) CZ Titulky' candidates=5
+[14:50:38]   candidate upload_id=654ab97a56946 url=https://prehraj.to/jawan-2023-cz-titulky-mp4/654ab97a56946
+[14:50:44]   resolved in 6.0s → 1080p (https://pf-storage1.premiumcdn.net/51014486/ZgyHDKsGAF1qH2QCx2TV1sKAUY2H8rfEOhwM…)
+[14:53:18]   downloaded 4,545.2 MB in 153.0s (29.7 MB/s)
+[14:56:13]   upload done video_id=26043397 in 175.0s
