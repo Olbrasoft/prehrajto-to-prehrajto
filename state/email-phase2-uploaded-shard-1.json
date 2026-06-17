@@ -16160,6 +16160,25 @@
         "download_sec": 71.4,
         "upload_sec": 92.5
       }
+    },
+    {
+      "cr_film_id": 19909,
+      "cr_slug": "neomanzelka",
+      "title": "Neomanželka",
+      "year": 2022,
+      "display_name": "Neomanželka (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "639143ac58514",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26053837,
+      "size_bytes": 1224683720,
+      "uploaded_at": "2026-06-17T20:26:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.7,
+        "upload_sec": 44.8
+      }
     }
   ],
   "failed_attempts": [
@@ -16528,5 +16547,5 @@
       "failed_at": "2026-06-17T17:42:59Z"
     }
   ],
-  "last_updated": "2026-06-17T20:24:50Z"
+  "last_updated": "2026-06-17T20:26:14Z"
 }
