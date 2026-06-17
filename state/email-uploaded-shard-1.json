@@ -9601,6 +9601,25 @@
         "download_sec": 35.9,
         "upload_sec": 34.7
       }
+    },
+    {
+      "cr_film_id": 997,
+      "cr_slug": "doktor-strange",
+      "title": "Doctor Strange",
+      "year": 2016,
+      "display_name": "Doctor Strange (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6887da5f8c475",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26036220,
+      "size_bytes": 1896669576,
+      "uploaded_at": "2026-06-17T08:50:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 75.8,
+        "upload_sec": 104.9
+      }
     }
   ],
   "failed_attempts": [
@@ -9806,5 +9825,5 @@
       "failed_at": "2026-06-17T08:02:02Z"
     }
   ],
-  "last_updated": "2026-06-17T08:47:38Z"
+  "last_updated": "2026-06-17T08:50:43Z"
 }
