@@ -4799,3 +4799,20 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:20:41]   resolved in 1.1s → 720p (https://pf-storage3.premiumcdn.net/47771219/DVdUmMf3rSpMhNAHeNT82f3dTQgc31I7pi0k…)
 [23:21:29]   downloaded 832.6 MB in 45.7s (18.2 MB/s)
 [23:22:18]   upload done video_id=26059766 in 49.2s
+[23:22:20] film cr_film_id=34086 OK in 99.4s
+[23:22:20] iteration 13/20
+[23:22:20] film cr_film_id=36824 name='Press Play (2022) CZ Titulky' candidates=1
+[23:22:20]   candidate upload_id=a0e4cc66f11a95c8 url=https://prehraj.to/press-play-2022-cz-titulky/a0e4cc66f11a95c8
+[23:22:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/press-play-2022-cz-titulky/a0e4cc66f11a95c8 (permanent=True)
+[23:22:21] film cr_film_id=36824 all candidates exhausted
+[23:22:21] iteration 14/20
+[23:22:21] film cr_film_id=9054 name='Posedlost (2022) CZ Titulky' candidates=1
+[23:22:21]   candidate upload_id=6442b132e017f url=https://prehraj.to/posedlost-2022-cz-titulky-1080p/6442b132e017f
+[23:22:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/posedlost-2022-cz-titulky-1080p/6442b132e017f (permanent=True)
+[23:22:26] film cr_film_id=9054 all candidates exhausted
+[23:22:26] iteration 15/20
+[23:22:26] film cr_film_id=3240 name='Pengabdi Setan 2: Communion (2022) CZ Titulky' candidates=1
+[23:22:26]   candidate upload_id=65446ccd2bf51 url=https://prehraj.to/pengabdi-setan-2-communion-2022-cztitulky/65446ccd2bf51
+[23:22:33]   resolved in 6.2s → 720p (https://pf-storage4.premiumcdn.net/50461841/YdNUMwI5lT1NUDnuVxhp4I90iBguZdT1lc0V…)
+[23:24:08]   downloaded 1,729.1 MB in 94.1s (18.4 MB/s)
+[23:25:54]   upload done video_id=26059836 in 105.8s
