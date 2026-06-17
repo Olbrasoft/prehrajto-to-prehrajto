@@ -3736,3 +3736,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:23:57]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/812845/BBdfEXU9LSJ5c3bIl8ie3UMltaAFvPfnXtVAFG…)
 [23:24:54]   downloaded 463.1 MB in 54.5s (8.5 MB/s)
 [23:25:22]   upload done video_id=26059858 in 27.8s
+[23:25:23] film cr_film_id=1884 OK in 87.3s
+[23:25:23] iteration 18/20
+[23:25:23] film cr_film_id=1888 name='Batman se vrací (1992) CZ Dabing' candidates=2
+[23:25:23]   candidate upload_id=7df2003662dda366 url=https://prehraj.to/batman-se-vraci-1992-en-cz-dabing-uhdr-mkv/7df2003662dda366
+[23:25:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/batman-se-vraci-1992-en-cz-dabing-uhdr-mkv/7df2003662dda366 (permanent=True)
+[23:25:24]   candidate upload_id=d57407c277c1a543 url=https://prehraj.to/batman-se-vraci-1992-cz-mp4/d57407c277c1a543
+[23:25:30]   resolved in 6.3s → 1080p (https://pf-storage1.premiumcdn.net/157052666/96khexUOvHBeHePh26h4LUBoT0XTVZHRbF2…)
+[23:28:00]   downloaded 3,449.1 MB in 147.9s (23.3 MB/s)
+[23:31:12]   upload done video_id=26059942 in 191.1s
