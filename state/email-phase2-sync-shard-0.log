@@ -1483,3 +1483,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:44:13]   upload done video_id=26030449 in 35.5s
 [01:44:15] film cr_film_id=8436 OK in 73.0s
 [01:44:15] batch-end ok=20 failed=0 dur=1715.8s avg/film=85.8s remaining=9596 eta_hours=228.7
+
+===== run 2026-06-17T01:44:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27660158242) =====
+[01:44:39] batch-start shard=0/2 count=20 backlog=10210 uploads=614 failed_attempts=18 description_overrides=0
+[01:44:39] login
+[01:44:41] login done
+[01:44:41] iteration 1/20
+[01:44:41] film cr_film_id=9496 name='Freddyho smrt – Poslední noční můra (1991) CZ Dabing' candidates=1
+[01:44:41]   candidate upload_id=604ee823971a0 url=https://prehraj.to/nocni-mura-v-elm-street-6-1991-cz-dabing-horor-avi-by-05m05/604ee823971a0
+[01:44:42]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/22672310/ab1SWMhwWi1bSwmUOJc28h2zUaYi4NIMzcyV…)
+[01:46:12]   downloaded 1,658.5 MB in 88.0s (18.8 MB/s)
+[01:47:43]   upload done video_id=26030483 in 90.9s
