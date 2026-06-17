@@ -627,3 +627,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:49:32]   upload done video_id=26028144 in 131.6s
 [00:49:33] film cr_film_id=294 OK in 218.6s
 [00:49:33] batch-end ok=19 failed=1 dur=3799.8s avg/film=200.0s remaining=17138 eta_hours=952.1
+
+===== run 2026-06-17T00:50:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27658189617) =====
+[00:50:48] description overrides loaded: 65 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:50:48] batch-start shard=0/2 count=20 backlog=17650 uploads=512 failed_attempts=18 description_overrides=65
+[00:50:48] login
+[00:50:50] login done
+[00:50:50] iteration 1/20
+[00:50:50] film cr_film_id=296 name='Neviditelný host (2016) CZ Dabing' candidates=1
+[00:50:50]   candidate upload_id=68bee835699a8 url=https://prehraj.to/neviditelny-host-contratiempo-cz-dabing-2016/68bee835699a8
+[00:50:51]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/145814454/ewYfB8iReF7QF2vTxDhaDinOF67I2DhbWF1…)
+[00:51:23]   downloaded 1,148.4 MB in 31.4s (36.6 MB/s)
+[00:52:15]   upload done video_id=26028227 in 51.3s
