@@ -11026,6 +11026,25 @@
         "download_sec": 24.4,
         "upload_sec": 28.6
       }
+    },
+    {
+      "cr_film_id": 1361,
+      "cr_slug": "equilibrium",
+      "title": "Equilibrium",
+      "year": 2002,
+      "display_name": "Equilibrium (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "595932c5224e3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26040832,
+      "size_bytes": 1536107532,
+      "uploaded_at": "2026-06-17T13:36:56Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 65.7,
+        "upload_sec": 92.9
+      }
     }
   ],
   "failed_attempts": [
@@ -11392,5 +11411,5 @@
       "failed_at": "2026-06-17T12:15:39Z"
     }
   ],
-  "last_updated": "2026-06-17T13:34:12Z"
+  "last_updated": "2026-06-17T13:36:56Z"
 }
