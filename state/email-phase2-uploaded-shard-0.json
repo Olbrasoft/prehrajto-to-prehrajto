@@ -14050,6 +14050,25 @@
         "download_sec": 31.1,
         "upload_sec": 56.5
       }
+    },
+    {
+      "cr_film_id": 4906,
+      "cr_slug": "here",
+      "title": "Here",
+      "year": 2024,
+      "display_name": "Here (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "679a322dae6e6",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26039807,
+      "size_bytes": 2188916069,
+      "uploaded_at": "2026-06-17T13:08:02Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 65.0,
+        "upload_sec": 95.0
+      }
     }
   ],
   "failed_attempts": [
@@ -14369,5 +14388,5 @@
       "failed_at": "2026-06-17T12:24:43Z"
     }
   ],
-  "last_updated": "2026-06-17T13:05:19Z"
+  "last_updated": "2026-06-17T13:08:02Z"
 }
