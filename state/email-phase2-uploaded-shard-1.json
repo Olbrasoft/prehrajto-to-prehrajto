@@ -12398,6 +12398,25 @@
         "download_sec": 40.3,
         "upload_sec": 49.8
       }
+    },
+    {
+      "cr_film_id": 31439,
+      "cr_slug": "star-abyss",
+      "title": "Star Abyss",
+      "year": 2024,
+      "display_name": "Star Abyss (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "670dc40ace425",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26036996,
+      "size_bytes": 1238913907,
+      "uploaded_at": "2026-06-17T09:35:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 47.8,
+        "upload_sec": 61.2
+      }
     }
   ],
   "failed_attempts": [
@@ -12696,5 +12715,5 @@
       "failed_at": "2026-06-17T08:07:28Z"
     }
   ],
-  "last_updated": "2026-06-17T09:33:14Z"
+  "last_updated": "2026-06-17T09:35:08Z"
 }
