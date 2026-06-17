@@ -14161,6 +14161,25 @@
         "download_sec": 180.1,
         "upload_sec": 273.7
       }
+    },
+    {
+      "cr_film_id": 2089,
+      "cr_slug": "prezit",
+      "title": "Přežít",
+      "year": 1993,
+      "display_name": "Přežít (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d49cc98230229de6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26059192,
+      "size_bytes": 1800540040,
+      "uploaded_at": "2026-06-17T23:00:36Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 94.8,
+        "upload_sec": 116.4
+      }
     }
   ],
   "failed_attempts": [
@@ -14644,5 +14663,5 @@
       "failed_at": "2026-06-17T22:41:52Z"
     }
   ],
-  "last_updated": "2026-06-17T22:56:59Z"
+  "last_updated": "2026-06-17T23:00:36Z"
 }
