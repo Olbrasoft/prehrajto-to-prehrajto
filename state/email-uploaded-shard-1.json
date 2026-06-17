@@ -10095,6 +10095,25 @@
         "download_sec": 34.4,
         "upload_sec": 44.5
       }
+    },
+    {
+      "cr_film_id": 1085,
+      "cr_slug": "zazracna-mysl",
+      "title": "Zázračná mysl",
+      "year": 2024,
+      "display_name": "Zázračná mysl (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6740d60b36a50",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26037480,
+      "size_bytes": 2201435762,
+      "uploaded_at": "2026-06-17T10:26:42Z",
+      "timing": {
+        "resolve_sec": 7.7,
+        "download_sec": 72.8,
+        "upload_sec": 104.2
+      }
     }
   ],
   "failed_attempts": [
@@ -10347,7 +10366,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/policajt-v-beverly-hills-beverly-hills-cop-1984-2x-cz-dab-tit-1080p-bluray/6317726c42f58",
       "permanent": true,
       "failed_at": "2026-06-17T10:09:16Z"
+    },
+    {
+      "cr_film_id": 1081,
+      "upload_id": "c2827b944448bbed",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/anora-2024-cz-dabing/c2827b944448bbed",
+      "permanent": true,
+      "failed_at": "2026-06-17T10:23:24Z"
+    },
+    {
+      "cr_film_id": 1081,
+      "upload_id": "229b59035002d447",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/anora-2024-cz-dabing/229b59035002d447",
+      "permanent": true,
+      "failed_at": "2026-06-17T10:23:30Z"
+    },
+    {
+      "cr_film_id": 1081,
+      "upload_id": "84801e99a762f69c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/anora-2024-hd-cz-mp4/84801e99a762f69c",
+      "permanent": true,
+      "failed_at": "2026-06-17T10:23:35Z"
     }
   ],
-  "last_updated": "2026-06-17T10:23:22Z"
+  "last_updated": "2026-06-17T10:26:42Z"
 }
