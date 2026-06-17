@@ -2343,3 +2343,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:17:11]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/10698092/KaDINvu49UmKUnji9QiWDu7ghdQHaws5wHL3…)
 [12:17:32]   downloaded 514.0 MB in 19.4s (26.5 MB/s)
 [12:17:54]   upload done video_id=26038767 in 22.2s
+[12:17:55] film cr_film_id=1156 OK in 45.2s
+[12:17:55] iteration 12/20
+[12:17:55] film cr_film_id=1158 name='Velká hra (2017) CZ Dabing' candidates=4
+[12:17:55]   candidate upload_id=fa0d304ec9867428 url=https://prehraj.to/velka-hra-2017-cz-dab-1080p/fa0d304ec9867428
+[12:17:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/velka-hra-2017-cz-dab-1080p/fa0d304ec9867428 (permanent=True)
+[12:17:56]   candidate upload_id=5aa084900b104 url=https://prehraj.to/velka-hra-2018-novinka-2017-molly-a-jej-hra-mollys-game-jessica-chastain-drama-drama-zivotopisni-zivotopisny/5aa084900b104
+[12:18:02]   resolved in 6.0s → 720p (https://pf-storage1.premiumcdn.net/3562174/ZgbTMkC5Xc6mcbBfXKtKmC7lT1xS3AtDmTpVU…)
+[12:19:01]   downloaded 2,056.6 MB in 57.9s (35.5 MB/s)
+[12:20:16]   upload done video_id=26038786 in 74.8s
