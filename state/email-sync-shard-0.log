@@ -1690,3 +1690,13 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:23:33]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/165128576/zbJHpMcaeFqMuO8S73tQ5c37TMwSAqCO6ip…)
 [08:25:00]   downloaded 2,176.1 MB in 84.7s (25.7 MB/s)
 [08:27:39]   upload done video_id=26035963 in 159.3s
+[08:27:41] film cr_film_id=820 OK in 248.7s
+[08:27:41] iteration 4/20
+[08:27:41] film cr_film_id=822 name='Smrtonosná past 3 (1995) CZ Dabing' candidates=7
+[08:27:41]   candidate upload_id=eca916004ddc4c81 url=https://prehraj.to/smrtonosna-past-3-1995-2160p-cz-dabing-mkv/eca916004ddc4c81
+[08:27:42]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/156826778/QwRtLWH7NF4yT5jC0OIM1H42imMFRNI38IO…)
+[08:27:44]   oversize: 9648051433 B > 6000000000 B, skip
+[08:27:44]   candidate upload_id=55e7e3de426e4 url=https://prehraj.to/smrtonosna-past-3-1995-czdab/55e7e3de426e4
+[08:27:48]   resolved in 4.4s → 480p (https://pf-storage4.premiumcdn.net/273150/dYQUEKFYlIGmH7Nc5VibXFlXIObHv5Ub9sXKhN…)
+[08:28:24]   downloaded 802.4 MB in 33.5s (24.0 MB/s)
+[08:29:08]   upload done video_id=26035999 in 44.7s
