@@ -14013,6 +14013,25 @@
         "download_sec": 82.5,
         "upload_sec": 97.2
       }
+    },
+    {
+      "cr_film_id": 7203,
+      "cr_slug": "the-channel",
+      "title": "The Channel",
+      "year": 2023,
+      "display_name": "The Channel (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "64cfd0f384188",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26040638,
+      "size_bytes": 1663127201,
+      "uploaded_at": "2026-06-17T13:29:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 55.1,
+        "upload_sec": 67.9
+      }
     }
   ],
   "failed_attempts": [
@@ -14332,5 +14351,5 @@
       "failed_at": "2026-06-17T13:02:06Z"
     }
   ],
-  "last_updated": "2026-06-17T13:26:55Z"
+  "last_updated": "2026-06-17T13:29:02Z"
 }
