@@ -10478,6 +10478,25 @@
         "download_sec": 23.1,
         "upload_sec": 23.5
       }
+    },
+    {
+      "cr_film_id": 22016,
+      "cr_slug": "monte-walsh",
+      "title": "Monte Walsh",
+      "year": 1970,
+      "display_name": "Monte Walsh (1970) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a206a984b8a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26032763,
+      "size_bytes": 584294150,
+      "uploaded_at": "2026-06-17T04:13:30Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.5,
+        "upload_sec": 24.1
+      }
     }
   ],
   "failed_attempts": [
@@ -10608,5 +10627,5 @@
       "failed_at": "2026-06-17T01:43:02Z"
     }
   ],
-  "last_updated": "2026-06-17T04:12:42Z"
+  "last_updated": "2026-06-17T04:13:30Z"
 }
