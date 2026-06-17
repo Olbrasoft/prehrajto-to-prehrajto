@@ -3311,3 +3311,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [11:11:46]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/127327097/8DVTzNIWKHwdF10tW7u9aIN6CJeIoBh9lcp…)
 [11:12:27]   downloaded 1,139.4 MB in 38.8s (29.4 MB/s)
 [11:13:16]   upload done video_id=26037985 in 49.2s
+[11:13:17] film cr_film_id=15602 OK in 92.3s
+[11:13:17] iteration 7/20
+[11:13:17] film cr_film_id=36986 name='The Lockdown (2024) CZ Titulky' candidates=1
+[11:13:17]   candidate upload_id=77973e5a8396d19b url=https://prehraj.to/the-lockdown-2024-cz-titulky/77973e5a8396d19b
+[11:13:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-lockdown-2024-cz-titulky/77973e5a8396d19b (permanent=True)
+[11:13:18] film cr_film_id=36986 all candidates exhausted
+[11:13:18] iteration 8/20
+[11:13:18] film cr_film_id=27600 name='The Last Kumite (2024) CZ Titulky' candidates=1
+[11:13:18]   candidate upload_id=665f301c575c8 url=https://prehraj.to/the-last-kumite-2024-cztitulky/665f301c575c8
+[11:13:24]   resolved in 5.8s → 1080p (https://pf-storage1.premiumcdn.net/78039581/OxMHVlSEgFZbhJ9fWlcJ9SlLiYaFnqiDbflp…)
+[11:15:39]   downloaded 3,146.0 MB in 134.0s (23.5 MB/s)
+[11:17:53]   upload done video_id=26038015 in 133.7s
