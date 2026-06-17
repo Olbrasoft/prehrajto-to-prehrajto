@@ -2827,3 +2827,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [07:46:59]   upload done video_id=26035458 in 172.0s
 [07:47:00] film cr_film_id=37018 OK in 316.8s
 [07:47:00] batch-end ok=18 failed=2 dur=3044.0s avg/film=169.1s remaining=9421 eta_hours=442.5
+
+===== run 2026-06-17T07:48:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27673930335) =====
+[07:48:19] batch-start shard=0/2 count=20 backlog=10210 uploads=789 failed_attempts=43 description_overrides=0
+[07:48:19] login
+[07:48:21] login done
+[07:48:21] iteration 1/20
+[07:48:21] film cr_film_id=28764 name='Rumpelstiltskin (2025) CZ Titulky' candidates=1
+[07:48:21]   candidate upload_id=dcd6619715a0f013 url=https://prehraj.to/rumpelstiltskin-2025-cztitulky/dcd6619715a0f013
+[07:48:23]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/162589199/Jnoia7IdDsMriG7SX4UVLIKGHNdCWDuQwsD…)
+[07:48:57]   downloaded 581.8 MB in 32.5s (17.9 MB/s)
+[07:49:33]   upload done video_id=26035489 in 36.2s
