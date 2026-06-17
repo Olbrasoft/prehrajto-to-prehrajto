@@ -6533,6 +6533,25 @@
         "download_sec": 31.3,
         "upload_sec": 40.2
       }
+    },
+    {
+      "cr_film_id": 260,
+      "cr_slug": "na-hromnice-o-den-vice",
+      "title": "Na Hromnice o den více",
+      "year": 1993,
+      "display_name": "Na Hromnice o den více (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67a23a76f3967",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26027913,
+      "size_bytes": 3526462083,
+      "uploaded_at": "2026-06-17T00:33:32Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 135.7,
+        "upload_sec": 177.5
+      }
     }
   ],
   "failed_attempts": [
@@ -6654,7 +6673,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/navzdy-s-vami-2024-cz-dab-1080p/a87c4874ddd8851c",
       "permanent": true,
       "failed_at": "2026-06-16T22:43:33Z"
+    },
+    {
+      "cr_film_id": 254,
+      "upload_id": "7e587e407d837fce",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jfk-1991-novinka-cz-dabing-full-hd-1080p-pucci-film-mp4/7e587e407d837fce",
+      "permanent": true,
+      "failed_at": "2026-06-17T00:28:10Z"
     }
   ],
-  "last_updated": "2026-06-17T00:28:08Z"
+  "last_updated": "2026-06-17T00:33:32Z"
 }
