@@ -2410,3 +2410,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:30:47]   upload done video_id=26038884 in 28.0s
 [12:30:48] film cr_film_id=1198 OK in 52.8s
 [12:30:48] batch-end ok=19 failed=1 dur=2049.5s avg/film=107.9s remaining=16905 eta_hours=506.7
+
+===== run 2026-06-17T13:13:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27691564335) =====
+[13:13:58] description overrides loaded: 1050 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:13:58] batch-start shard=0/2 count=20 backlog=17650 uploads=745 failed_attempts=40 description_overrides=1050
+[13:13:58] login
+[13:14:00] login done
+[13:14:00] iteration 1/20
+[13:14:00] film cr_film_id=1200 name='Hotel Modrá Hvězda (1941) CZ' candidates=1
+[13:14:00]   candidate upload_id=5f440536ec317 url=https://prehraj.to/1941-cz-komedie-hotel-modra-hvezda-hd/5f440536ec317
+[13:14:01]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/18217164/Qj8F8wUlNIy0sP3fAqtEMUo7TVpswGHawTw8…)
+[13:15:39]   downloaded 2,951.2 MB in 96.5s (30.6 MB/s)
+[13:17:37]   upload done video_id=26040266 in 118.4s
