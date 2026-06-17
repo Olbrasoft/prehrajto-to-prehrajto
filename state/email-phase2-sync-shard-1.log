@@ -4290,3 +4290,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [17:36:33]   resolved in 2.2s → 720p (https://pf-storage4.premiumcdn.net/35716192/lx6sd8I8MSe6uXOf9QiovIKYhz9i0jfkNS9x…)
 [17:39:08]   downloaded 951.3 MB in 153.7s (6.2 MB/s)
 [17:39:51]   upload done video_id=26048163 in 43.4s
+[17:39:53] film cr_film_id=10425 OK in 202.1s
+[17:39:53] iteration 6/20
+[17:39:53] film cr_film_id=8671 name='The Communion Girl (2022) CZ Titulky' candidates=1
+[17:39:53]   candidate upload_id=118de3a76bf0d7c5 url=https://prehraj.to/la-nina-de-la-comunion-2023-cztit-1080p-mkv-mp4/118de3a76bf0d7c5
+[17:39:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/la-nina-de-la-comunion-2023-cztit-1080p-mkv-mp4/118de3a76bf0d7c5 (permanent=True)
+[17:39:54] film cr_film_id=8671 all candidates exhausted
+[17:39:54] iteration 7/20
+[17:39:54] film cr_film_id=31295 name='The Artifice Girl (2022) CZ Titulky' candidates=4
+[17:39:54]   candidate upload_id=64578b917e4fd url=https://prehraj.to/the-artifice-girl-2022-cz-titulky-1080p/64578b917e4fd
+[17:40:00]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/40280845/DeZHyqS4JhpVhw8uNpHavS41c58HM7UQ6T1O…)
+[17:40:38]   downloaded 866.5 MB in 37.0s (23.4 MB/s)
+[17:41:18]   upload done video_id=26048210 in 40.0s
