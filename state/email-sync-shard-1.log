@@ -2712,3 +2712,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:00:27]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/2277379/ddjhpzs15tVeCkrI1bcYgsVotx0F0rF1jH0kc…)
 [15:00:48]   downloaded 370.7 MB in 19.4s (19.1 MB/s)
 [15:01:10]   upload done video_id=26043581 in 21.9s
+[15:01:11] film cr_film_id=1483 OK in 45.6s
+[15:01:11] iteration 14/20
+[15:01:11] film cr_film_id=1485 name='V zajetí démonů 2 (2016) CZ Dabing' candidates=11
+[15:01:11]   candidate upload_id=9ea3d6873b5cccaa url=https://prehraj.to/the-conjuring-2-v-zajeti-demonu-2-2016-1080p-cz-dabing/9ea3d6873b5cccaa
+[15:01:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-conjuring-2-v-zajeti-demonu-2-2016-1080p-cz-dabing/9ea3d6873b5cccaa (permanent=True)
+[15:01:12]   candidate upload_id=aae1fcede6799f4b url=https://prehraj.to/v-zajeti-demonu-2-the-conjuring-2-2016-en-cz-dabing-uhdrdv-mkv/aae1fcede6799f4b
+[15:01:18]   resolved in 6.0s → 1080p (https://pf-storage5.premiumcdn.net/155500637/roLFlvHJ1hvEIn2SkeUKQHWYuZPuB8tEvFj…)
+[15:03:01]   downloaded 2,802.4 MB in 101.0s (27.7 MB/s)
+[15:05:15]   upload done video_id=26043638 in 134.6s
