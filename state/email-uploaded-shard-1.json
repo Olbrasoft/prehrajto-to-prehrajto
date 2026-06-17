@@ -13249,6 +13249,25 @@
         "download_sec": 28.7,
         "upload_sec": 32.9
       }
+    },
+    {
+      "cr_film_id": 1851,
+      "cr_slug": "mission-impossible-posledni-zuctovani",
+      "title": "Mission: Impossible – Poslední zúčtování",
+      "year": 2025,
+      "display_name": "Mission: Impossible – Poslední zúčtování (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0c5b99b1db642629",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26054548,
+      "size_bytes": 1974711154,
+      "uploaded_at": "2026-06-17T20:41:34Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 63.4,
+        "upload_sec": 84.9
+      }
     }
   ],
   "failed_attempts": [
@@ -13702,7 +13721,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/matrix-reloaded-2003-cz-dab-1920x800p/f2fb9e4fd81fdc74",
       "permanent": true,
       "failed_at": "2026-06-17T20:20:44Z"
+    },
+    {
+      "cr_film_id": 1851,
+      "upload_id": "2704406e490feacb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mission-impossible-posledni-zuctovani-2025-1080p-cz-dabing/2704406e490feacb",
+      "permanent": true,
+      "failed_at": "2026-06-17T20:38:53Z"
+    },
+    {
+      "cr_film_id": 1851,
+      "upload_id": "8bb6ab79eb590a9e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mission-impossible-posledni-zuctovani-2025-cz-dabing-bh/8bb6ab79eb590a9e",
+      "permanent": true,
+      "failed_at": "2026-06-17T20:38:58Z"
     }
   ],
-  "last_updated": "2026-06-17T20:38:51Z"
+  "last_updated": "2026-06-17T20:41:34Z"
 }
