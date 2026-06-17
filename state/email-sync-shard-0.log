@@ -2606,3 +2606,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:31:11]   resolved in 6.2s → 480p (https://pf-storage5.premiumcdn.net/168458503/ek7SG4fWEuwocOZiGBspbfxdS7atxkIl2I8…)
 [14:31:49]   downloaded 1,110.3 MB in 36.4s (30.5 MB/s)
 [14:32:44]   upload done video_id=26042783 in 55.0s
+[14:32:45] film cr_film_id=1266 OK in 129.4s
+[14:32:45] iteration 5/20
+[14:32:45] film cr_film_id=1268 name='DJ Ahmet (2025) CZ Dabing' candidates=1
+[14:32:45]   candidate upload_id=f694dd577435ebf5 url=https://prehraj.to/dj-ahmet-2025-cz-dabing-full-hd-drama-top-kvalita-1400743/f694dd577435ebf5
+[14:32:46]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dj-ahmet-2025-cz-dabing-full-hd-drama-top-kvalita-1400743/f694dd577435ebf5 (permanent=True)
+[14:32:46] film cr_film_id=1268 all candidates exhausted
+[14:32:46] iteration 6/20
+[14:32:46] film cr_film_id=1270 name='Na nože: Probuzení mrtvého muže (2025) CZ Dabing' candidates=7
+[14:32:46]   candidate upload_id=182482eefeb84608 url=https://prehraj.to/na-noze-probuzeni-mrtveho-muze-mp4/182482eefeb84608
+[14:32:52]   resolved in 6.1s → 1080p (https://pf-storage5.premiumcdn.net/159818960/A70uwnUoRFK3hkzFXRHwgU59cjbfo8S3dHD…)
+[14:35:07]   downloaded 3,794.3 MB in 133.4s (28.4 MB/s)
+[14:37:44]   upload done video_id=26042910 in 157.7s
