@@ -2324,3 +2324,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:13:13]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/156560273/JbkF8GfjQTNbUrKSXzi6QfWRT0KS7ZuQ2iK…)
 [12:13:50]   downloaded 1,205.7 MB in 35.4s (34.1 MB/s)
 [12:14:44]   upload done video_id=26038741 in 54.0s
+[12:14:45] film cr_film_id=1148 OK in 93.2s
+[12:14:45] iteration 9/20
+[12:14:45] film cr_film_id=1150 name='Lítám v tom (2009) CZ' candidates=1
+[12:14:45]   candidate upload_id=b8f4b8ee48179885 url=https://prehraj.to/up-in-the-air-2009-litam-v-tom-109-min-fhd-x265-10b-5-1-cs-en-mkv/b8f4b8ee48179885
+[12:14:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/up-in-the-air-2009-litam-v-tom-109-min-fhd-x265-10b-5-1-cs-en-mkv/b8f4b8ee48179885 (permanent=True)
+[12:14:45] film cr_film_id=1150 all candidates exhausted
+[12:14:45] iteration 10/20
+[12:14:45] film cr_film_id=1152 name='Kiss Kiss Bang Bang (2005) CZ Dabing' candidates=3
+[12:14:45]   candidate upload_id=8dd2ecca81fc046d url=https://prehraj.to/kiss-kiss-bang-bang-2005-cz-dab-1080p/8dd2ecca81fc046d
+[12:14:52]   resolved in 6.1s → 1080p (https://pf-storage5.premiumcdn.net/168263155/1E6t5pcj1H9rCqZfXdFwzcW2uRrF59h3luX…)
+[12:15:52]   downloaded 2,122.3 MB in 59.1s (35.9 MB/s)
+[12:17:09]   upload done video_id=26038753 in 76.8s

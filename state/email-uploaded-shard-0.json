@@ -10903,6 +10903,25 @@
         "download_sec": 35.4,
         "upload_sec": 54.0
       }
+    },
+    {
+      "cr_film_id": 1152,
+      "cr_slug": "kiss-kiss-bang-bang",
+      "title": "Kiss Kiss Bang Bang",
+      "year": 2005,
+      "display_name": "Kiss Kiss Bang Bang (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "8dd2ecca81fc046d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26038753,
+      "size_bytes": 2122251920,
+      "uploaded_at": "2026-06-17T12:17:09Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 59.1,
+        "upload_sec": 76.8
+      }
     }
   ],
   "failed_attempts": [
@@ -11171,7 +11190,14 @@
       "reason": "oversize: 7447382752 B",
       "permanent": true,
       "failed_at": "2026-06-17T09:59:25Z"
+    },
+    {
+      "cr_film_id": 1150,
+      "upload_id": "b8f4b8ee48179885",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/up-in-the-air-2009-litam-v-tom-109-min-fhd-x265-10b-5-1-cs-en-mkv/b8f4b8ee48179885",
+      "permanent": true,
+      "failed_at": "2026-06-17T12:14:45Z"
     }
   ],
-  "last_updated": "2026-06-17T12:14:44Z"
+  "last_updated": "2026-06-17T12:17:09Z"
 }
