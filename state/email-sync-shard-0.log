@@ -2587,3 +2587,22 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:29:39]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/4238961/4vVsYlhyRulMfo8C5gI3ghMAHgqtGBT9Nco0C…)
 [14:30:06]   downloaded 658.9 MB in 25.5s (25.8 MB/s)
 [14:30:34]   upload done video_id=26042712 in 28.4s
+[14:30:36] film cr_film_id=1264 OK in 58.2s
+[14:30:36] iteration 4/20
+[14:30:36] film cr_film_id=1266 name='28 let poté: Chrám z kostí (2026) CZ Dabing' candidates=16
+[14:30:36]   candidate upload_id=5b632d165ee99204 url=https://prehraj.to/28-let-pote-chram-z-kosti-2026-1080p-cz-dabing/5b632d165ee99204
+[14:30:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-2026-1080p-cz-dabing/5b632d165ee99204 (permanent=True)
+[14:30:36]   candidate upload_id=5c99bbf36599cff0 url=https://prehraj.to/28-let-pote-chram-z-kosti-2026-1080p-cz-dabing-mkv/5c99bbf36599cff0
+[14:30:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-2026-1080p-cz-dabing-mkv/5c99bbf36599cff0 (permanent=True)
+[14:30:42]   candidate upload_id=d99b4efe2f7a79d7 url=https://prehraj.to/28-let-pote-chram-z-kosti-2026-1080p-cz-dabing-mkv-mkv/d99b4efe2f7a79d7
+[14:30:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-2026-1080p-cz-dabing-mkv-mkv/d99b4efe2f7a79d7 (permanent=True)
+[14:30:47]   candidate upload_id=2a2ef29ccf5e4559 url=https://prehraj.to/28-let-pote-chram-z-kosti-cz-dabing-novinka-2026/2a2ef29ccf5e4559
+[14:30:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-cz-dabing-novinka-2026/2a2ef29ccf5e4559 (permanent=True)
+[14:30:53]   candidate upload_id=cf30a9230b5fbdc2 url=https://prehraj.to/28-let-pote-chram-z-kosti-cz-dabing-2026-mp4/cf30a9230b5fbdc2
+[14:30:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-cz-dabing-2026-mp4/cf30a9230b5fbdc2 (permanent=True)
+[14:30:59]   candidate upload_id=ff4ede8d358fb776 url=https://prehraj.to/28-let-pote-chram-z-kosti-cz-dabing-novinka-2026/ff4ede8d358fb776
+[14:31:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-chram-z-kosti-cz-dabing-novinka-2026/ff4ede8d358fb776 (permanent=True)
+[14:31:04]   candidate upload_id=19c2db6cb163da03 url=https://prehraj.to/28-let-pote-chram-z-kosti-2026-cz-dabing-mkv/19c2db6cb163da03
+[14:31:11]   resolved in 6.2s → 480p (https://pf-storage5.premiumcdn.net/168458503/ek7SG4fWEuwocOZiGBspbfxdS7atxkIl2I8…)
+[14:31:49]   downloaded 1,110.3 MB in 36.4s (30.5 MB/s)
+[14:32:44]   upload done video_id=26042783 in 55.0s
