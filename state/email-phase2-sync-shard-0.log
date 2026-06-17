@@ -4573,3 +4573,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [21:35:07]   upload done video_id=26056581 in 106.0s
 [21:35:09] film cr_film_id=1610 OK in 954.5s
 [21:35:09] batch-end ok=20 failed=0 dur=11057.1s avg/film=552.9s remaining=9186 eta_hours=1410.8
+
+===== run 2026-06-17T21:35:59Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27721286911) =====
+[21:35:59] batch-start shard=0/2 count=20 backlog=10210 uploads=1024 failed_attempts=50 description_overrides=0
+[21:35:59] login
+[21:36:01] login done
+[21:36:01] iteration 1/20
+[21:36:01] film cr_film_id=28042 name='Todo incluido (2022) CZ Titulky' candidates=1
+[21:36:01]   candidate upload_id=63ab2692496ae url=https://prehraj.to/all-inclusive-2022-cztitulky/63ab2692496ae
+[21:36:02]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/35778478/DJms9Zc12UjYfxZIvJUrgcZeFGxUl4FPahra…)
+[21:37:52]   downloaded 2,462.9 MB in 108.0s (22.8 MB/s)
+[21:39:50]   upload done video_id=26056712 in 117.4s
