@@ -7407,6 +7407,25 @@
         "download_sec": 189.7,
         "upload_sec": 272.8
       }
+    },
+    {
+      "cr_film_id": 444,
+      "cr_slug": "gentlemani",
+      "title": "Gentlemani",
+      "year": 2019,
+      "display_name": "Gentlemani (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fe2a0bcf1b4d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26032384,
+      "size_bytes": 1756452059,
+      "uploaded_at": "2026-06-17T03:40:48Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 70.8,
+        "upload_sec": 79.4
+      }
     }
   ],
   "failed_attempts": [
@@ -7570,7 +7589,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zimni-prazdniny-2023-cz-1080p/79d088cc53435f22",
       "permanent": true,
       "failed_at": "2026-06-17T01:20:29Z"
+    },
+    {
+      "cr_film_id": 444,
+      "upload_id": "63035bb47b249",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/gentlemani-the-gentlemen-2019-ab-1080p-cz-dab/63035bb47b249",
+      "permanent": true,
+      "failed_at": "2026-06-17T03:38:10Z"
     }
   ],
-  "last_updated": "2026-06-17T03:38:08Z"
+  "last_updated": "2026-06-17T03:40:48Z"
 }

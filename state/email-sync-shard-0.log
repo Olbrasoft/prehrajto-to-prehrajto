@@ -918,3 +918,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:30:24]   resolved in 1.6s → 1080p (https://pf-storage5.premiumcdn.net/168755602/9q9HV0UVaFoGtx4sA0izZU9miVzUX2UPkIO…)
 [03:33:35]   downloaded 5,809.5 MB in 189.7s (30.6 MB/s)
 [03:38:08]   upload done video_id=26032320 in 272.8s
+[03:38:09] film cr_film_id=442 OK in 467.3s
+[03:38:09] iteration 20/20
+[03:38:09] film cr_film_id=444 name='Gentlemani (2019) CZ Dabing' candidates=18
+[03:38:09]   candidate upload_id=63035bb47b249 url=https://prehraj.to/gentlemani-the-gentlemen-2019-ab-1080p-cz-dab/63035bb47b249
+[03:38:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/gentlemani-the-gentlemen-2019-ab-1080p-cz-dab/63035bb47b249 (permanent=True)
+[03:38:10]   candidate upload_id=5fe2a0bcf1b4d url=https://prehraj.to/gentlemani-cz-dabing-2019/5fe2a0bcf1b4d
+[03:38:16]   resolved in 6.2s → 720p (https://pf-storage4.premiumcdn.net/20976663/m4MSwRT24TqxuyYs8Qc3oTyXCKmi7VCZEUnA…)
+[03:39:28]   downloaded 1,756.5 MB in 70.8s (24.8 MB/s)
+[03:40:48]   upload done video_id=26032384 in 79.4s
