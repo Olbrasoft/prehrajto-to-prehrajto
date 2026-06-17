@@ -10972,6 +10972,25 @@
         "download_sec": 82.4,
         "upload_sec": 127.0
       }
+    },
+    {
+      "cr_film_id": 36678,
+      "cr_slug": "noc-a-zmatek",
+      "title": "Noc a zmatek",
+      "year": 1958,
+      "display_name": "Noc a zmatek (1958) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60ad51c564e2a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26033798,
+      "size_bytes": 602073794,
+      "uploaded_at": "2026-06-17T05:13:46Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.2,
+        "upload_sec": 35.5
+      }
     }
   ],
   "failed_attempts": [
@@ -11102,5 +11121,5 @@
       "failed_at": "2026-06-17T01:43:02Z"
     }
   ],
-  "last_updated": "2026-06-17T05:12:35Z"
+  "last_updated": "2026-06-17T05:13:46Z"
 }
