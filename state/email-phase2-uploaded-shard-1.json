@@ -12740,6 +12740,25 @@
         "download_sec": 62.2,
         "upload_sec": 63.6
       }
+    },
+    {
+      "cr_film_id": 16269,
+      "cr_slug": "mcveigh",
+      "title": "McVeigh",
+      "year": 2024,
+      "display_name": "McVeigh (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "67e281b868b23",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26037595,
+      "size_bytes": 2385884290,
+      "uploaded_at": "2026-06-17T10:35:36Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 130.2,
+        "upload_sec": 133.0
+      }
     }
   ],
   "failed_attempts": [
@@ -13036,7 +13055,14 @@
       "reason": "oversize: 6338751026 B",
       "permanent": true,
       "failed_at": "2026-06-17T08:07:28Z"
+    },
+    {
+      "cr_film_id": 36983,
+      "upload_id": "8e552a2aae086b6f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/millers-in-marriage-2024-cz-titulky/8e552a2aae086b6f",
+      "permanent": true,
+      "failed_at": "2026-06-17T10:31:04Z"
     }
   ],
-  "last_updated": "2026-06-17T10:31:02Z"
+  "last_updated": "2026-06-17T10:35:36Z"
 }
