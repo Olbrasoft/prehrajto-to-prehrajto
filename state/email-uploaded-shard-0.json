@@ -10010,6 +10010,25 @@
         "download_sec": 24.2,
         "upload_sec": 30.2
       }
+    },
+    {
+      "cr_film_id": 958,
+      "cr_slug": "erin-brockovich",
+      "title": "Erin Brockovich",
+      "year": 2000,
+      "display_name": "Erin Brockovich (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68c30f9079d5a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26037471,
+      "size_bytes": 2870949158,
+      "uploaded_at": "2026-06-17T10:26:28Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 92.9,
+        "upload_sec": 121.4
+      }
     }
   ],
   "failed_attempts": [
@@ -10280,5 +10299,5 @@
       "failed_at": "2026-06-17T09:59:25Z"
     }
   ],
-  "last_updated": "2026-06-17T10:22:50Z"
+  "last_updated": "2026-06-17T10:26:28Z"
 }
