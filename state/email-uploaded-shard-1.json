@@ -10608,6 +10608,25 @@
         "download_sec": 113.8,
         "upload_sec": 146.5
       }
+    },
+    {
+      "cr_film_id": 1253,
+      "cr_slug": "sherlock-holmes-hra-stinu",
+      "title": "Sherlock Holmes: Hra stínů",
+      "year": 2011,
+      "display_name": "Sherlock Holmes: Hra stínů (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "690799b3d835d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26038528,
+      "size_bytes": 565535869,
+      "uploaded_at": "2026-06-17T12:10:22Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 27.3,
+        "upload_sec": 43.0
+      }
     }
   ],
   "failed_attempts": [
@@ -10937,7 +10956,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/novinka-spravni-chlapi-2016-mysteriozni-komedie-cz-dabing/491b2bded6e53f97",
       "permanent": true,
       "failed_at": "2026-06-17T11:27:24Z"
+    },
+    {
+      "cr_film_id": 1253,
+      "upload_id": "f480c8c84f788eee",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sherlock-holmes-hra-stinu-2011-cz-dab-1080p/f480c8c84f788eee",
+      "permanent": true,
+      "failed_at": "2026-06-17T12:08:58Z"
+    },
+    {
+      "cr_film_id": 1253,
+      "upload_id": "69078b2c9c00f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sherlock-holmes-hra-stinu-2011-uhdrdv-cz-en/69078b2c9c00f",
+      "permanent": true,
+      "failed_at": "2026-06-17T12:09:04Z"
     }
   ],
-  "last_updated": "2026-06-17T12:08:55Z"
+  "last_updated": "2026-06-17T12:10:22Z"
 }

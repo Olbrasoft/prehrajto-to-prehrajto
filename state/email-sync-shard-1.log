@@ -2343,3 +2343,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:04:33]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/168066367/Jg5iEyUNPU5acYEUQBIvyUZxtAVTLRF0NC5…)
 [12:06:29]   downloaded 2,665.1 MB in 113.8s (23.4 MB/s)
 [12:08:55]   upload done video_id=26038501 in 146.5s
+[12:08:57] film cr_film_id=1249 OK in 265.7s
+[12:08:57] iteration 5/20
+[12:08:57] film cr_film_id=1253 name='Sherlock Holmes: Hra stínů (2011) CZ Dabing' candidates=3
+[12:08:57]   candidate upload_id=f480c8c84f788eee url=https://prehraj.to/sherlock-holmes-hra-stinu-2011-cz-dab-1080p/f480c8c84f788eee
+[12:08:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sherlock-holmes-hra-stinu-2011-cz-dab-1080p/f480c8c84f788eee (permanent=True)
+[12:08:58]   candidate upload_id=69078b2c9c00f url=https://prehraj.to/sherlock-holmes-hra-stinu-2011-uhdrdv-cz-en/69078b2c9c00f
+[12:09:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sherlock-holmes-hra-stinu-2011-uhdrdv-cz-en/69078b2c9c00f (permanent=True)
+[12:09:04]   candidate upload_id=690799b3d835d url=https://prehraj.to/sherlock-holmes-2-hra-stinu-2011/690799b3d835d
+[12:09:10]   resolved in 6.2s → 480p (https://pf-storage1.premiumcdn.net/154990860/RvaT7aUlmhRZiJwFvGF1GUB2Fl4CX9fDoF9…)
+[12:09:39]   downloaded 565.5 MB in 27.3s (20.7 MB/s)
+[12:10:22]   upload done video_id=26038528 in 43.0s
