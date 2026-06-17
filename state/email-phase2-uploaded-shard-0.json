@@ -8426,6 +8426,25 @@
         "download_sec": 17.8,
         "upload_sec": 18.0
       }
+    },
+    {
+      "cr_film_id": 23482,
+      "cr_slug": "totalni-okno",
+      "title": "Totální okno",
+      "year": 1994,
+      "display_name": "Totální okno (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5871517fe9c90",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26029780,
+      "size_bytes": 1059866296,
+      "uploaded_at": "2026-06-17T01:22:36Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 43.8,
+        "upload_sec": 43.2
+      }
     }
   ],
   "failed_attempts": [
@@ -8549,5 +8568,5 @@
       "failed_at": "2026-06-16T23:17:59Z"
     }
   ],
-  "last_updated": "2026-06-17T01:21:06Z"
+  "last_updated": "2026-06-17T01:22:36Z"
 }
