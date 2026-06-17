@@ -2655,3 +2655,41 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [06:55:44]   upload done video_id=26034941 in 50.6s
 [06:55:45] film cr_film_id=28622 OK in 97.0s
 [06:55:45] batch-end ok=19 failed=1 dur=2729.5s avg/film=143.7s remaining=9439 eta_hours=376.8
+
+===== run 2026-06-17T06:56:14Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27671438768) =====
+[06:56:15] batch-start shard=0/2 count=20 backlog=10210 uploads=771 failed_attempts=26 description_overrides=0
+[06:56:15] login
+[06:56:17] login done
+[06:56:17] iteration 1/20
+[06:56:17] film cr_film_id=28862 name='Undertone (2025) CZ Titulky' candidates=12
+[06:56:17]   candidate upload_id=0a1c5e76b4e23fe2 url=https://prehraj.to/undertone-2026-1080p-cz-titulky-novinka-horor-mp4/0a1c5e76b4e23fe2
+[06:56:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-cz-titulky-novinka-horor-mp4/0a1c5e76b4e23fe2 (permanent=True)
+[06:56:17]   candidate upload_id=c673d225198c8513 url=https://prehraj.to/undertone-2026-1080p-cz-titulky-novinka-horor-mp4/c673d225198c8513
+[06:56:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-cz-titulky-novinka-horor-mp4/c673d225198c8513 (permanent=True)
+[06:56:23]   candidate upload_id=7ccf2f6f62ad6a18 url=https://prehraj.to/undertone-2026-1080p-cz-titulky-novinka-horor/7ccf2f6f62ad6a18
+[06:56:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-cz-titulky-novinka-horor/7ccf2f6f62ad6a18 (permanent=True)
+[06:56:28]   candidate upload_id=7c1bc9f9763d4048 url=https://prehraj.to/undertone-mp4-mp4-2026-cz-titulky/7c1bc9f9763d4048
+[06:56:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-mp4-mp4-2026-cz-titulky/7c1bc9f9763d4048 (permanent=True)
+[06:56:34]   candidate upload_id=ab1c613f61aea7c1 url=https://prehraj.to/undertone-2026-cz-titulky-mp4/ab1c613f61aea7c1
+[06:56:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-cz-titulky-mp4/ab1c613f61aea7c1 (permanent=True)
+[06:56:44]   candidate upload_id=da93ddfdea5fa62e url=https://prehraj.to/undertone-2026-cz-titulky-mp4/da93ddfdea5fa62e
+[06:56:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-cz-titulky-mp4/da93ddfdea5fa62e (permanent=True)
+[06:56:49]   candidate upload_id=dfd051b64f89f6da url=https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-kyogo-mkv/dfd051b64f89f6da
+[06:56:55]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-kyogo-mkv/dfd051b64f89f6da (permanent=True)
+[06:56:55]   candidate upload_id=0b5073b2aae6ebcb url=https://prehraj.to/undertone-2026-cz-titulky/0b5073b2aae6ebcb
+[06:57:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-cz-titulky/0b5073b2aae6ebcb (permanent=True)
+[06:57:00]   candidate upload_id=9aead90ad5fb2005 url=https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-titulky-cz-mkv/9aead90ad5fb2005
+[06:57:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-titulky-cz-mkv/9aead90ad5fb2005 (permanent=True)
+[06:57:06]   candidate upload_id=dcdfbaf1e2ed776f url=https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-titulky-cz-mkv/dcdfbaf1e2ed776f
+[06:57:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-titulky-cz-mkv/dcdfbaf1e2ed776f (permanent=True)
+[06:57:11]   candidate upload_id=cc8266fcf6c68dc9 url=https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-titulky-cz-mkv/cc8266fcf6c68dc9
+[06:57:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-titulky-cz-mkv/cc8266fcf6c68dc9 (permanent=True)
+[06:57:17]   candidate upload_id=c4eb519af8d2ec74 url=https://prehraj.to/gq1ouvw5kzxj0b25lidiwmjy/c4eb519af8d2ec74
+[06:57:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/gq1ouvw5kzxj0b25lidiwmjy/c4eb519af8d2ec74 (permanent=True)
+[06:57:23] film cr_film_id=28862 all candidates exhausted
+[06:57:23] iteration 2/20
+[06:57:23] film cr_film_id=9296 name='Turbulence (2025) CZ Titulky' candidates=2
+[06:57:23]   candidate upload_id=cf938be31ba0b8f5 url=https://prehraj.to/turbulence-2025-1080p-web-dl-ddp5-1-h-264-cz-tit-mkv/cf938be31ba0b8f5
+[06:57:29]   resolved in 6.0s → 720p (https://pf-storage5.premiumcdn.net/160340402/AWkIN7coLtPoT05SEKFBpcVgs6jhqrsY7hR…)
+[06:58:47]   downloaded 1,974.2 MB in 76.8s (25.7 MB/s)
+[07:01:01]   upload done video_id=26034971 in 133.7s

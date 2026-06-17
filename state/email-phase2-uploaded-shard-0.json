@@ -11732,6 +11732,25 @@
         "download_sec": 43.0,
         "upload_sec": 50.6
       }
+    },
+    {
+      "cr_film_id": 9296,
+      "cr_slug": "turbulence",
+      "title": "Turbulence",
+      "year": 2025,
+      "display_name": "Turbulence (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "cf938be31ba0b8f5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26034971,
+      "size_bytes": 1974214859,
+      "uploaded_at": "2026-06-17T07:01:01Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 76.8,
+        "upload_sec": 133.7
+      }
     }
   ],
   "failed_attempts": [
@@ -11916,7 +11935,91 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mike-a-nick-a-nick-a-alice-2026-akcni-komedie-usa-cztit-1080p/b57a3f82935cba5c",
       "permanent": true,
       "failed_at": "2026-06-17T06:24:56Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "0a1c5e76b4e23fe2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-cz-titulky-novinka-horor-mp4/0a1c5e76b4e23fe2",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:56:17Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "c673d225198c8513",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-cz-titulky-novinka-horor-mp4/c673d225198c8513",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:56:23Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "7ccf2f6f62ad6a18",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-cz-titulky-novinka-horor/7ccf2f6f62ad6a18",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:56:28Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "7c1bc9f9763d4048",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-mp4-mp4-2026-cz-titulky/7c1bc9f9763d4048",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:56:34Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "ab1c613f61aea7c1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-cz-titulky-mp4/ab1c613f61aea7c1",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:56:44Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "da93ddfdea5fa62e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-cz-titulky-mp4/da93ddfdea5fa62e",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:56:49Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "dfd051b64f89f6da",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-kyogo-mkv/dfd051b64f89f6da",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:56:55Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "0b5073b2aae6ebcb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-cz-titulky/0b5073b2aae6ebcb",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:57:00Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "9aead90ad5fb2005",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-titulky-cz-mkv/9aead90ad5fb2005",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:57:06Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "dcdfbaf1e2ed776f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-titulky-cz-mkv/dcdfbaf1e2ed776f",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:57:11Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "cc8266fcf6c68dc9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/undertone-2026-1080p-amzn-web-dl-ddp5-1-h-264-titulky-cz-mkv/cc8266fcf6c68dc9",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:57:17Z"
+    },
+    {
+      "cr_film_id": 28862,
+      "upload_id": "c4eb519af8d2ec74",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/gq1ouvw5kzxj0b25lidiwmjy/c4eb519af8d2ec74",
+      "permanent": true,
+      "failed_at": "2026-06-17T06:57:23Z"
     }
   ],
-  "last_updated": "2026-06-17T06:55:44Z"
+  "last_updated": "2026-06-17T07:01:01Z"
 }
