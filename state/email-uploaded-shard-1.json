@@ -7245,6 +7245,25 @@
         "download_sec": 50.8,
         "upload_sec": 65.6
       }
+    },
+    {
+      "cr_film_id": 483,
+      "cr_slug": "strihoruky-edward",
+      "title": "Střihoruký Edward",
+      "year": 1990,
+      "display_name": "Střihoruký Edward (1990) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "670a6a4035d1b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26031683,
+      "size_bytes": 606548267,
+      "uploaded_at": "2026-06-17T02:53:30Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 28.3,
+        "upload_sec": 34.9
+      }
     }
   ],
   "failed_attempts": [
@@ -7359,7 +7378,19 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/misto-u-more-2016-1080p-bluray/20e51ff648bdf001",
       "permanent": true,
       "failed_at": "2026-06-17T02:37:16Z"
+    },
+    {
+      "cr_film_id": 483,
+      "upload_id": "b75ae000abae1423",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-06-17T02:52:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 70.1,
+        "upload_sec": 0.2
+      }
     }
   ],
-  "last_updated": "2026-06-17T02:51:09Z"
+  "last_updated": "2026-06-17T02:53:30Z"
 }
