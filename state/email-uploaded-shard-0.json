@@ -6666,6 +6666,25 @@
         "download_sec": 21.6,
         "upload_sec": 28.8
       }
+    },
+    {
+      "cr_film_id": 294,
+      "cr_slug": "la-la-land",
+      "title": "La La Land",
+      "year": 2016,
+      "display_name": "La La Land (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5975babf6a96c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26028144,
+      "size_bytes": 2305516765,
+      "uploaded_at": "2026-06-17T00:49:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 82.8,
+        "upload_sec": 131.6
+      }
     }
   ],
   "failed_attempts": [
@@ -6796,5 +6815,5 @@
       "failed_at": "2026-06-17T00:28:10Z"
     }
   ],
-  "last_updated": "2026-06-17T00:45:53Z"
+  "last_updated": "2026-06-17T00:49:32Z"
 }
