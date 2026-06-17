@@ -1517,3 +1517,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:19:51]   upload done video_id=26035144 in 130.0s
 [07:19:52] film cr_film_id=732 OK in 215.7s
 [07:19:52] batch-end ok=19 failed=1 dur=2933.8s avg/film=154.4s remaining=17023 eta_hours=730.1
+
+===== run 2026-06-17T07:20:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27672577659) =====
+[07:20:25] description overrides loaded: 262 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:20:25] batch-start shard=0/2 count=20 backlog=17650 uploads=627 failed_attempts=32 description_overrides=262
+[07:20:25] login
+[07:20:27] login done
+[07:20:27] iteration 1/20
+[07:20:27] film cr_film_id=738 name='Hledání Země Nezemě (2004) CZ Dabing' candidates=2
+[07:20:27]   candidate upload_id=5bdd3cd1d9309 url=https://prehraj.to/hledani-zeme-nezeme-2004-cz-dabing/5bdd3cd1d9309
+[07:20:28]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/7812565/j8eSjnIYaT9DuqDsmoFBlID9iOPT3LSmDuL3S…)
+[07:20:46]   downloaded 432.0 MB in 16.3s (26.5 MB/s)
+[07:21:04]   upload done video_id=26035186 in 18.1s
