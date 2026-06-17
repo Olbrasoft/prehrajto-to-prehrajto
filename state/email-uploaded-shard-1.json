@@ -13040,6 +13040,25 @@
         "download_sec": 162.7,
         "upload_sec": 220.8
       }
+    },
+    {
+      "cr_film_id": 1807,
+      "cr_slug": "nezlomny",
+      "title": "Nezlomný",
+      "year": 2014,
+      "display_name": "Nezlomný (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55fad0150f791",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26052086,
+      "size_bytes": 681721751,
+      "uploaded_at": "2026-06-17T19:36:33Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 27.4,
+        "upload_sec": 33.1
+      }
     }
   ],
   "failed_attempts": [
@@ -13474,5 +13493,5 @@
       "failed_at": "2026-06-17T17:53:20Z"
     }
   ],
-  "last_updated": "2026-06-17T19:35:28Z"
+  "last_updated": "2026-06-17T19:36:33Z"
 }
