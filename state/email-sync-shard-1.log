@@ -1940,3 +1940,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:05:36]   upload done video_id=26036377 in 78.1s
 [09:05:38] film cr_film_id=1017 OK in 148.2s
 [09:05:38] batch-end ok=20 failed=0 dur=2963.8s avg/film=148.2s remaining=16986 eta_hours=699.3
+
+===== run 2026-06-17T09:09:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27678256230) =====
+[09:09:31] description overrides loaded: 487 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:09:31] batch-start shard=1/2 count=20 backlog=17650 uploads=664 failed_attempts=28 description_overrides=487
+[09:09:31] login
+[09:09:34] login done
+[09:09:34] iteration 1/20
+[09:09:34] film cr_film_id=1019 name='Harry Potter a Tajemná komnata (2002) CZ Dabing' candidates=14
+[09:09:34]   candidate upload_id=996b11c8ab9b0d3f url=https://prehraj.to/harry-potter-a-tajemna-komnata-2002-en-cz-dabing-uhdrdv-mkv/996b11c8ab9b0d3f
+[09:09:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/harry-potter-a-tajemna-komnata-2002-en-cz-dabing-uhdrdv-mkv/996b11c8ab9b0d3f (permanent=True)
+[09:09:34]   candidate upload_id=671e30fb4c51e url=https://prehraj.to/harry-potter-a-tajemna-komnata-2002-czdab/671e30fb4c51e
+[09:09:41]   resolved in 6.6s → 720p (https://pf-storage5.premiumcdn.net/104224493/DlQSLMFr6I5vfaJt5binNFkvs8duY1HrMh1…)
+[09:11:37]   downloaded 2,531.1 MB in 113.7s (22.3 MB/s)
+[09:14:03]   upload done video_id=26036480 in 145.7s
