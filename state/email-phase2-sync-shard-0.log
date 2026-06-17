@@ -2067,3 +2067,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:59:13]   upload done video_id=26032581 in 38.0s
 [03:59:14] film cr_film_id=22194 OK in 67.8s
 [03:59:14] batch-end ok=20 failed=0 dur=2029.2s avg/film=101.5s remaining=9516 eta_hours=268.3
+
+===== run 2026-06-17T03:59:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27664808510) =====
+[03:59:49] batch-start shard=0/2 count=20 backlog=10210 uploads=694 failed_attempts=18 description_overrides=0
+[03:59:49] login
+[03:59:51] login done
+[03:59:51] iteration 1/20
+[03:59:51] film cr_film_id=22162 name='Robin Hood (1973) CZ Dabing' candidates=4
+[03:59:51]   candidate upload_id=609fb6425e308 url=https://prehraj.to/robin-hood-anim-1973-cz-dabing/609fb6425e308
+[03:59:52]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/23521932/zY9t9bf52Femhb5CKoCj3fWYsr1FR4crAIjR…)
+[04:00:19]   downloaded 712.6 MB in 25.6s (27.8 MB/s)
+[04:00:49]   upload done video_id=26032603 in 29.8s
