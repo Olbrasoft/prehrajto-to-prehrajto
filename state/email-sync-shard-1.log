@@ -2121,3 +2121,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:23:43]   resolved in 7.7s → 1080p (https://pf-storage5.premiumcdn.net/110327201/QX3FZJIR3SwzcWgFRec79IG3tpQHKqhzouq…)
 [10:24:58]   downloaded 2,201.4 MB in 72.8s (30.2 MB/s)
 [10:26:42]   upload done video_id=26037480 in 104.2s
+[10:26:43] film cr_film_id=1085 OK in 187.9s
+[10:26:43] iteration 4/20
+[10:26:43] film cr_film_id=1093 name='Andělé mezi námi (2024) CZ Dabing' candidates=9
+[10:26:43]   candidate upload_id=00f9c4ce9679a78c url=https://prehraj.to/andele-mezi-nami-2024-cz-dab-1080p/00f9c4ce9679a78c
+[10:26:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/andele-mezi-nami-2024-cz-dab-1080p/00f9c4ce9679a78c (permanent=True)
+[10:26:44]   candidate upload_id=fce77845069cfc3c url=https://prehraj.to/andele-mezi-nami-2024-cz-dab-1080p/fce77845069cfc3c
+[10:26:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/andele-mezi-nami-2024-cz-dab-1080p/fce77845069cfc3c (permanent=True)
+[10:26:49]   candidate upload_id=2bcd998a44c3e41e url=https://prehraj.to/andele-mezi-nami-2024-cz-dabing-1080p-topkvalita-mkv/2bcd998a44c3e41e
+[10:26:56]   resolved in 6.2s → 1080p (https://pf-storage4.premiumcdn.net/164764340/opxs6Bi7QIDNSxvI7DSpXinLIJ6uw5tgQhQ…)
+[10:28:19]   downloaded 1,991.5 MB in 81.9s (24.3 MB/s)
+[10:29:42]   upload done video_id=26037517 in 83.1s
