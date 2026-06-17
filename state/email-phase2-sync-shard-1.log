@@ -2949,3 +2949,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [08:35:38]   upload done video_id=26036063 in 64.8s
 [08:35:39] film cr_film_id=31411 OK in 126.0s
 [08:35:39] batch-end ok=20 failed=0 dur=2846.2s avg/film=142.3s remaining=9418 eta_hours=372.3
+
+===== run 2026-06-17T09:04:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27678001750) =====
+[09:04:44] batch-start shard=1/2 count=20 backlog=10210 uploads=792 failed_attempts=42 description_overrides=0
+[09:04:44] login
+[09:04:45] login done
+[09:04:45] iteration 1/20
+[09:04:45] film cr_film_id=26243 name='The Fix (2024) CZ Titulky' candidates=1
+[09:04:45]   candidate upload_id=681f284a26335 url=https://prehraj.to/the-fix-2024-cz-titulky/681f284a26335
+[09:04:47]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/137664260/nGpf1dSADUKVI4Oh5nUJPSNLCP3C6vi0aCE…)
+[09:05:55]   downloaded 1,369.2 MB in 66.5s (20.6 MB/s)
+[09:07:09]   upload done video_id=26036398 in 74.4s
