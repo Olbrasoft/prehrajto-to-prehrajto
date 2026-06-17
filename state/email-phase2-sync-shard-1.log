@@ -1037,3 +1037,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:10:20]   upload done video_id=26027566 in 51.4s
 [00:10:21] film cr_film_id=24797 OK in 92.4s
 [00:10:21] batch-end ok=20 failed=0 dur=2204.8s avg/film=110.2s remaining=9670 eta_hours=296.0
+
+===== run 2026-06-17T00:10:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27656696797) =====
+[00:10:52] batch-start shard=1/2 count=20 backlog=10210 uploads=540 failed_attempts=20 description_overrides=0
+[00:10:52] login
+[00:10:53] login done
+[00:10:53] iteration 1/20
+[00:10:53] film cr_film_id=23905 name='The Million Dollar Hotel (2000) CZ Dabing' candidates=1
+[00:10:53]   candidate upload_id=583667c229653 url=https://prehraj.to/the-million-dollar-hotel-cz-dabing-2000/583667c229653
+[00:10:55]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/919168/qA6S8guKqCW0h8nslAU3luRZI4Oc5gC8LtGPSZ…)
+[00:11:34]   downloaded 667.3 MB in 37.2s (17.9 MB/s)
+[00:12:15]   upload done video_id=26027597 in 40.4s

@@ -7420,6 +7420,25 @@
         "download_sec": 36.8,
         "upload_sec": 51.4
       }
+    },
+    {
+      "cr_film_id": 23905,
+      "cr_slug": "the-million-dollar-hotel",
+      "title": "The Million Dollar Hotel",
+      "year": 2000,
+      "display_name": "The Million Dollar Hotel (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "583667c229653",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26027597,
+      "size_bytes": 667274363,
+      "uploaded_at": "2026-06-17T00:12:15Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 37.2,
+        "upload_sec": 40.4
+      }
     }
   ],
   "failed_attempts": [
@@ -7564,5 +7583,5 @@
       "failed_at": "2026-06-16T22:53:42Z"
     }
   ],
-  "last_updated": "2026-06-17T00:10:20Z"
+  "last_updated": "2026-06-17T00:12:15Z"
 }
