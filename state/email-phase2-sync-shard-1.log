@@ -1765,3 +1765,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [02:49:41]   upload done video_id=26031614 in 25.3s
 [02:49:42] film cr_film_id=22127 OK in 52.0s
 [02:49:42] batch-end ok=20 failed=0 dur=1781.5s avg/film=89.1s remaining=9571 eta_hours=236.9
+
+===== run 2026-06-17T02:50:09Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27662459644) =====
+[02:50:11] batch-start shard=1/2 count=20 backlog=10210 uploads=639 failed_attempts=21 description_overrides=0
+[02:50:11] login
+[02:50:13] login done
+[02:50:13] iteration 1/20
+[02:50:13] film cr_film_id=22153 name='Americká noc (1973) CZ Dabing' candidates=2
+[02:50:13]   candidate upload_id=609fa9fbbd150 url=https://prehraj.to/americka-noc-komedie-1973-cz-dabing/609fa9fbbd150
+[02:50:14]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/23521536/rWyfgOI9nUoLhl5t5VT34IXEf8QCPGsDlS8M…)
+[02:50:57]   downloaded 897.5 MB in 40.8s (22.0 MB/s)
+[02:52:13]   upload done video_id=26031651 in 75.8s
