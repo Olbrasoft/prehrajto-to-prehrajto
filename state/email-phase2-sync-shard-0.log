@@ -2973,3 +2973,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [09:04:05]   upload done video_id=26036367 in 46.6s
 [09:04:07] film cr_film_id=28790 OK in 93.8s
 [09:04:07] batch-end ok=20 failed=0 dur=4545.2s avg/film=227.3s remaining=9401 eta_hours=593.6
+
+===== run 2026-06-17T09:04:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27678001750) =====
+[09:04:54] batch-start shard=0/2 count=20 backlog=10210 uploads=809 failed_attempts=43 description_overrides=0
+[09:04:54] login
+[09:04:55] login done
+[09:04:55] iteration 1/20
+[09:04:55] film cr_film_id=16454 name='Horror in the High Desert 4: Majesty (2025) CZ Titulky' candidates=12
+[09:04:55]   candidate upload_id=a229b7c6c699353c url=https://prehraj.to/horror-in-the-high-desert-4-majesty-2025-1080p-webrip-x264-aac-yts-lt-mp4/a229b7c6c699353c
+[09:04:57]   resolved in 1.4s → 1080p (https://pf-storage5.premiumcdn.net/167813248/VBecQjS9JhwkUjmt9OsNRSV5cVyT4BiKyt8…)
+[09:06:00]   downloaded 1,626.1 MB in 61.6s (26.4 MB/s)
+[09:07:33]   upload done video_id=26036400 in 93.2s
