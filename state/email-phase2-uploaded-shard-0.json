@@ -16577,6 +16577,25 @@
         "download_sec": 112.0,
         "upload_sec": 109.1
       }
+    },
+    {
+      "cr_film_id": 19700,
+      "cr_slug": "the-twin",
+      "title": "The Twin",
+      "year": 2022,
+      "display_name": "The Twin (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "62f03771bb34b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26056889,
+      "size_bytes": 1555532090,
+      "uploaded_at": "2026-06-17T21:46:07Z",
+      "timing": {
+        "resolve_sec": 6.6,
+        "download_sec": 68.7,
+        "upload_sec": 72.5
+      }
     }
   ],
   "failed_attempts": [
@@ -16929,7 +16948,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/after-everything-after-odlouceni-2023-romanticky-cztit/269b77f7708dade8",
       "permanent": true,
       "failed_at": "2026-06-17T18:16:58Z"
+    },
+    {
+      "cr_film_id": 30382,
+      "upload_id": "9810be4f53d0d706",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/there-are-no-saints-2022-en-cz-tit-mp4/9810be4f53d0d706",
+      "permanent": true,
+      "failed_at": "2026-06-17T21:43:37Z"
     }
   ],
-  "last_updated": "2026-06-17T21:43:35Z"
+  "last_updated": "2026-06-17T21:46:07Z"
 }
