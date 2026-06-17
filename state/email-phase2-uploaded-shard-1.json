@@ -8750,6 +8750,25 @@
         "download_sec": 19.9,
         "upload_sec": 20.6
       }
+    },
+    {
+      "cr_film_id": 22499,
+      "cr_slug": "caddyshack",
+      "title": "Caddyshack",
+      "year": 1980,
+      "display_name": "Caddyshack (1980) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "2cb09ca09ccccf5d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26030736,
+      "size_bytes": 4404677135,
+      "uploaded_at": "2026-06-17T02:04:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 135.9,
+        "upload_sec": 199.9
+      }
     }
   ],
   "failed_attempts": [
@@ -8901,5 +8920,5 @@
       "failed_at": "2026-06-17T00:46:00Z"
     }
   ],
-  "last_updated": "2026-06-17T01:58:38Z"
+  "last_updated": "2026-06-17T02:04:17Z"
 }
