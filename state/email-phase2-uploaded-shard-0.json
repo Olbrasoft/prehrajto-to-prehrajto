@@ -12492,6 +12492,25 @@
         "download_sec": 60.5,
         "upload_sec": 75.8
       }
+    },
+    {
+      "cr_film_id": 6146,
+      "cr_slug": "hallow-road",
+      "title": "Hallow Road",
+      "year": 2025,
+      "display_name": "Hallow Road (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "68a465b25b56e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26036466,
+      "size_bytes": 859461602,
+      "uploaded_at": "2026-06-17T09:11:15Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.0,
+        "upload_sec": 43.9
+      }
     }
   ],
   "failed_attempts": [
@@ -12797,5 +12816,5 @@
       "failed_at": "2026-06-17T07:03:26Z"
     }
   ],
-  "last_updated": "2026-06-17T09:09:56Z"
+  "last_updated": "2026-06-17T09:11:15Z"
 }
