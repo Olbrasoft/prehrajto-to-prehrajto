@@ -3847,3 +3847,19 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:24:00]   upload done video_id=26042430 in 77.7s
 [14:24:02] film cr_film_id=7216 OK in 151.2s
 [14:24:02] batch-end ok=19 failed=1 dur=2564.7s avg/film=135.0s remaining=9284 eta_hours=348.1
+
+===== run 2026-06-17T14:39:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27697061481) =====
+[14:39:04] batch-start shard=0/2 count=20 backlog=10210 uploads=926 failed_attempts=48 description_overrides=0
+[14:39:04] login
+[14:39:05] login done
+[14:39:05] iteration 1/20
+[14:39:05] film cr_film_id=31390 name='To End All War: Oppenheimer & the Atomic Bomb (2023) CZ Titulky' candidates=1
+[14:39:05]   candidate upload_id=2396e867189d6fb7 url=https://prehraj.to/to-end-all-war-oppenheimer-the-atomic-bomb-2023-en-cz-tit-mp4/2396e867189d6fb7
+[14:39:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/to-end-all-war-oppenheimer-the-atomic-bomb-2023-en-cz-tit-mp4/2396e867189d6fb7 (permanent=True)
+[14:39:06] film cr_film_id=31390 all candidates exhausted
+[14:39:06] iteration 2/20
+[14:39:06] film cr_film_id=34140 name='Thriller 40 (2023) CZ Titulky' candidates=1
+[14:39:06]   candidate upload_id=6602805d852d4 url=https://prehraj.to/thriller-40-let-2023-cz-titulky/6602805d852d4
+[14:39:12]   resolved in 6.0s → 720p (https://pf-storage5.premiumcdn.net/75174125/bGvTA3fPRSKbtX1hYqcQEfNdi4Xs8mhE3FK8…)
+[14:39:54]   downloaded 1,205.1 MB in 40.4s (29.8 MB/s)
+[14:41:00]   upload done video_id=26043061 in 66.2s
