@@ -13677,6 +13677,25 @@
         "download_sec": 60.8,
         "upload_sec": 118.3
       }
+    },
+    {
+      "cr_film_id": 1740,
+      "cr_slug": "mlceni",
+      "title": "Mlčení",
+      "year": 2016,
+      "display_name": "Mlčení (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "688fcd2788263",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26056384,
+      "size_bytes": 1412876550,
+      "uploaded_at": "2026-06-17T21:27:58Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 83.3,
+        "upload_sec": 51.8
+      }
     }
   ],
   "failed_attempts": [
@@ -14090,7 +14109,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sebevrazedny-oddil-2-2021-cz-dabing-ultra-hd-2160p-4k/68e74b64378b3",
       "permanent": true,
       "failed_at": "2026-06-17T19:24:10Z"
+    },
+    {
+      "cr_film_id": 1736,
+      "upload_id": "7bb897a3c324c258",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cas-dobyvatelu-2017-cz-dabing/7bb897a3c324c258",
+      "permanent": true,
+      "failed_at": "2026-06-17T21:25:35Z"
     }
   ],
-  "last_updated": "2026-06-17T21:03:32Z"
+  "last_updated": "2026-06-17T21:27:58Z"
 }

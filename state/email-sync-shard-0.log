@@ -3457,3 +3457,20 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:03:32]   upload done video_id=26055606 in 118.3s
 [21:03:34] film cr_film_id=1732 OK in 182.8s
 [21:03:34] batch-end ok=20 failed=0 dur=3652.7s avg/film=182.6s remaining=16770 eta_hours=850.6
+
+===== run 2026-06-17T21:25:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27720771920) =====
+[21:25:33] description overrides loaded: 3228 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:25:33] batch-start shard=0/2 count=20 backlog=17650 uploads=880 failed_attempts=58 description_overrides=3228
+[21:25:33] login
+[21:25:34] login done
+[21:25:34] iteration 1/20
+[21:25:34] film cr_film_id=1736 name='Čas dobyvatelů (2017) CZ Dabing' candidates=1
+[21:25:34]   candidate upload_id=7bb897a3c324c258 url=https://prehraj.to/cas-dobyvatelu-2017-cz-dabing/7bb897a3c324c258
+[21:25:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cas-dobyvatelu-2017-cz-dabing/7bb897a3c324c258 (permanent=True)
+[21:25:35] film cr_film_id=1736 all candidates exhausted
+[21:25:35] iteration 2/20
+[21:25:35] film cr_film_id=1740 name='Mlčení (2016) CZ Dabing' candidates=2
+[21:25:35]   candidate upload_id=688fcd2788263 url=https://prehraj.to/mlceni-2016-czdab/688fcd2788263
+[21:25:41]   resolved in 6.1s → 480p (https://pf-storage1.premiumcdn.net/142871900/lQMsKOczwHBahn3Umbib0c2pFAKtpZuwJt5…)
+[21:27:06]   downloaded 1,412.9 MB in 83.3s (17.0 MB/s)
+[21:27:58]   upload done video_id=26056384 in 51.8s
