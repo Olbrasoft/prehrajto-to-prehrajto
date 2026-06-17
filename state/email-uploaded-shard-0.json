@@ -11397,6 +11397,25 @@
         "download_sec": 89.8,
         "upload_sec": 125.0
       }
+    },
+    {
+      "cr_film_id": 1248,
+      "cr_slug": "hooligans",
+      "title": "Hooligans",
+      "year": 2005,
+      "display_name": "Hooligans (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b0ede278161c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26041168,
+      "size_bytes": 684301269,
+      "uploaded_at": "2026-06-17T13:45:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.2,
+        "upload_sec": 31.0
+      }
     }
   ],
   "failed_attempts": [
@@ -11695,5 +11714,5 @@
       "failed_at": "2026-06-17T13:36:49Z"
     }
   ],
-  "last_updated": "2026-06-17T13:44:44Z"
+  "last_updated": "2026-06-17T13:45:40Z"
 }
