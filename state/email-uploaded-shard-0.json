@@ -7711,6 +7711,25 @@
         "download_sec": 68.4,
         "upload_sec": 133.2
       }
+    },
+    {
+      "cr_film_id": 500,
+      "cr_slug": "uprchlik",
+      "title": "Uprchlík",
+      "year": 1993,
+      "display_name": "Uprchlík (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55efe55e047d8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26032832,
+      "size_bytes": 739141509,
+      "uploaded_at": "2026-06-17T04:18:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 32.5,
+        "upload_sec": 34.7
+      }
     }
   ],
   "failed_attempts": [
@@ -7904,5 +7923,5 @@
       "failed_at": "2026-06-17T03:46:48Z"
     }
   ],
-  "last_updated": "2026-06-17T04:17:09Z"
+  "last_updated": "2026-06-17T04:18:20Z"
 }
