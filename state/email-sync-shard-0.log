@@ -3014,3 +3014,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:46:08]   upload done video_id=26046545 in 24.4s
 [16:46:09] film cr_film_id=1486 OK in 48.4s
 [16:46:09] batch-end ok=19 failed=1 dur=1968.4s avg/film=103.6s remaining=16827 eta_hours=484.2
+
+===== run 2026-06-17T17:00:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27705852114) =====
+[17:00:23] description overrides loaded: 1287 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:00:23] batch-start shard=0/2 count=20 backlog=17650 uploads=823 failed_attempts=52 description_overrides=1287
+[17:00:23] login
+[17:00:24] login done
+[17:00:24] iteration 1/20
+[17:00:24] film cr_film_id=1490 name='Kniha džunglí (2016) CZ Dabing' candidates=49
+[17:00:24]   candidate upload_id=5a9b55b9b7233 url=https://prehraj.to/kniha-dzungli-2016-hdrip-cz-dabing-m3/5a9b55b9b7233
+[17:00:25]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/3527003/pbLcAas3JUe5t0muv2TkdsWku6ZFwNtD9TdaS…)
+[17:01:39]   downloaded 1,927.9 MB in 72.8s (26.5 MB/s)
+[17:03:05]   upload done video_id=26047080 in 85.9s
