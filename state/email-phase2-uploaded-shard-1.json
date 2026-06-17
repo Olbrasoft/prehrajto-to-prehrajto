@@ -14127,6 +14127,25 @@
         "download_sec": 91.7,
         "upload_sec": 109.1
       }
+    },
+    {
+      "cr_film_id": 2189,
+      "cr_slug": "strange-darling",
+      "title": "Strange Darling",
+      "year": 2023,
+      "display_name": "Strange Darling (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "66fd11f4a034c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26041375,
+      "size_bytes": 1638598606,
+      "uploaded_at": "2026-06-17T13:52:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 64.4,
+        "upload_sec": 90.4
+      }
     }
   ],
   "failed_attempts": [
@@ -14446,5 +14465,5 @@
       "failed_at": "2026-06-17T13:02:06Z"
     }
   ],
-  "last_updated": "2026-06-17T13:49:56Z"
+  "last_updated": "2026-06-17T13:52:36Z"
 }
