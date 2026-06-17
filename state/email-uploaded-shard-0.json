@@ -9326,6 +9326,25 @@
         "download_sec": 34.6,
         "upload_sec": 41.3
       }
+    },
+    {
+      "cr_film_id": 826,
+      "cr_slug": "obcansky-prukaz",
+      "title": "Občanský průkaz",
+      "year": 2010,
+      "display_name": "Občanský průkaz (2010) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5f97eeb1b103a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26036030,
+      "size_bytes": 1836399306,
+      "uploaded_at": "2026-06-17T08:33:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 72.0,
+        "upload_sec": 91.6
+      }
     }
   ],
   "failed_attempts": [
@@ -9575,5 +9594,5 @@
       "failed_at": "2026-06-17T08:27:44Z"
     }
   ],
-  "last_updated": "2026-06-17T08:30:29Z"
+  "last_updated": "2026-06-17T08:33:17Z"
 }
