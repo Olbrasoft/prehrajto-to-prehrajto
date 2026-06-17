@@ -3608,3 +3608,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:09:46]   upload done video_id=26057703 in 69.3s
 [22:09:47] film cr_film_id=1816 OK in 127.1s
 [22:09:47] batch-end ok=19 failed=1 dur=2652.9s avg/film=139.6s remaining=16751 eta_hours=649.6
+
+===== run 2026-06-17T22:22:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27723522065) =====
+[22:22:36] description overrides loaded: 3644 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:22:36] batch-start shard=0/2 count=20 backlog=17650 uploads=899 failed_attempts=61 description_overrides=3644
+[22:22:36] login
+[22:22:38] login done
+[22:22:38] iteration 1/20
+[22:22:38] film cr_film_id=1820 name='Hunger Games (2012) CZ Dabing' candidates=36
+[22:22:38]   candidate upload_id=57cc66a813315 url=https://prehraj.to/hunger-games-2012-czdab-1080p/57cc66a813315
+[22:22:39]   resolved in 1.4s → 720p (https://pf-storage2.premiumcdn.net/653604/P1GSbDiNJiLEfyeSonTORiNdT0MIgoTZ2Tg4TO…)
+[22:24:48]   downloaded 2,439.1 MB in 126.8s (19.2 MB/s)
+[22:27:14]   upload done video_id=26058237 in 145.7s
