@@ -15551,6 +15551,25 @@
         "download_sec": 60.7,
         "upload_sec": 73.0
       }
+    },
+    {
+      "cr_film_id": 15342,
+      "cr_slug": "i-am-rage",
+      "title": "I Am Rage",
+      "year": 2023,
+      "display_name": "I Am Rage (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "64f46bb13e312",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26046638,
+      "size_bytes": 1216212383,
+      "uploaded_at": "2026-06-17T16:49:42Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 59.5,
+        "upload_sec": 70.4
+      }
     }
   ],
   "failed_attempts": [
@@ -15898,5 +15917,5 @@
       "failed_at": "2026-06-17T14:39:06Z"
     }
   ],
-  "last_updated": "2026-06-17T16:47:27Z"
+  "last_updated": "2026-06-17T16:49:42Z"
 }
