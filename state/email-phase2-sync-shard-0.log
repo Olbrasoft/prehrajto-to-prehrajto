@@ -2412,3 +2412,17 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [05:21:44]   resolved in 0.7s → 480p (https://pf-storage5.premiumcdn.net/167015471/R92t8OfXmTx5I7Yuj6i3xfmlH3QcajCaRuA…)
 [05:22:16]   downloaded 1,124.3 MB in 30.9s (36.4 MB/s)
 [05:23:05]   upload done video_id=26033996 in 49.2s
+[05:23:06] film cr_film_id=21376 OK in 82.8s
+[05:23:06] iteration 8/20
+[05:23:06] film cr_film_id=714 name='Pyšná princezna (1952) CZ Dabing' candidates=2
+[05:23:06]   candidate upload_id=6e53f271f1ba3aef url=https://prehraj.to/pysna-princezna-1952-cz-dabing-fik/6e53f271f1ba3aef
+[05:23:07]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pysna-princezna-1952-cz-dabing-fik/6e53f271f1ba3aef (permanent=True)
+[05:23:07]   candidate upload_id=f84afb73b09e6775 url=https://prehraj.to/pysna-princezna-1952-cz-dabing-behe/f84afb73b09e6775
+[05:23:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pysna-princezna-1952-cz-dabing-behe/f84afb73b09e6775 (permanent=True)
+[05:23:13] film cr_film_id=714 all candidates exhausted
+[05:23:13] iteration 9/20
+[05:23:13] film cr_film_id=35530 name="Tarzan's Peril (1951) CZ Dabing" candidates=1
+[05:23:13]   candidate upload_id=58741ae5742f8 url=https://prehraj.to/tarzan-v-nebezpeci-1951-cz-dabing/58741ae5742f8
+[05:23:19]   resolved in 6.0s → 480p (https://pf-storage5.premiumcdn.net/1403924/bq5TXdHMeSzjuB4UMbhZNHlXuKEs8pC4xhKkC…)
+[05:23:48]   downloaded 782.6 MB in 28.0s (28.0 MB/s)
+[05:24:28]   upload done video_id=26034032 in 40.0s
