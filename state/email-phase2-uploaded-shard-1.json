@@ -15514,6 +15514,25 @@
         "download_sec": 41.7,
         "upload_sec": 61.7
       }
+    },
+    {
+      "cr_film_id": 18081,
+      "cr_slug": "the-lair",
+      "title": "The Lair",
+      "year": 2022,
+      "display_name": "The Lair (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63614a34766f6",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26047920,
+      "size_bytes": 1499668407,
+      "uploaded_at": "2026-06-17T17:31:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 58.4,
+        "upload_sec": 61.4
+      }
     }
   ],
   "failed_attempts": [
@@ -15868,5 +15887,5 @@
       "failed_at": "2026-06-17T15:08:49Z"
     }
   ],
-  "last_updated": "2026-06-17T17:29:27Z"
+  "last_updated": "2026-06-17T17:31:31Z"
 }
