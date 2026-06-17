@@ -13107,6 +13107,25 @@
         "download_sec": 58.3,
         "upload_sec": 71.6
       }
+    },
+    {
+      "cr_film_id": 1592,
+      "cr_slug": "mokrina",
+      "title": "Mokřina",
+      "year": 2014,
+      "display_name": "Mokřina (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "65f2553ba0cca",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26050113,
+      "size_bytes": 1953893767,
+      "uploaded_at": "2026-06-17T18:39:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 54.3,
+        "upload_sec": 68.1
+      }
     }
   ],
   "failed_attempts": [
@@ -13496,5 +13515,5 @@
       "failed_at": "2026-06-17T18:26:16Z"
     }
   ],
-  "last_updated": "2026-06-17T18:37:47Z"
+  "last_updated": "2026-06-17T18:39:53Z"
 }
