@@ -14313,6 +14313,25 @@
         "download_sec": 55.8,
         "upload_sec": 87.3
       }
+    },
+    {
+      "cr_film_id": 2111,
+      "cr_slug": "agora",
+      "title": "Agora",
+      "year": 2009,
+      "display_name": "Agora (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "3b442a08f0284055",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26060379,
+      "size_bytes": 824037153,
+      "uploaded_at": "2026-06-17T23:45:21Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 30.6,
+        "upload_sec": 31.3
+      }
     }
   ],
   "failed_attempts": [
@@ -14796,5 +14815,5 @@
       "failed_at": "2026-06-17T22:41:52Z"
     }
   ],
-  "last_updated": "2026-06-17T23:44:15Z"
+  "last_updated": "2026-06-17T23:45:21Z"
 }
