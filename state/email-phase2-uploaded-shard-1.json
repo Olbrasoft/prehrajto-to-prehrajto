@@ -8085,6 +8085,25 @@
         "download_sec": 20.6,
         "upload_sec": 25.6
       }
+    },
+    {
+      "cr_film_id": 23027,
+      "cr_slug": "coming-out",
+      "title": "Coming Out",
+      "year": 1989,
+      "display_name": "Coming Out (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "608ae0de679d2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26028357,
+      "size_bytes": 663881299,
+      "uploaded_at": "2026-06-17T01:00:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.0,
+        "upload_sec": 26.7
+      }
     }
   ],
   "failed_attempts": [
@@ -8236,5 +8255,5 @@
       "failed_at": "2026-06-17T00:46:00Z"
     }
   ],
-  "last_updated": "2026-06-17T00:59:23Z"
+  "last_updated": "2026-06-17T01:00:18Z"
 }
