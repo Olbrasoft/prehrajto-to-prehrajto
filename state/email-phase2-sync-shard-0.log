@@ -4853,3 +4853,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:45:17]   upload done video_id=26060315 in 174.7s
 [23:45:19] film cr_film_id=34080 OK in 325.6s
 [23:45:19] batch-end ok=17 failed=3 dur=3501.3s avg/film=206.0s remaining=9152 eta_hours=523.7
+
+===== run 2026-06-17T23:45:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27726989984) =====
+[23:45:47] batch-start shard=0/2 count=20 backlog=10210 uploads=1058 failed_attempts=56 description_overrides=0
+[23:45:47] login
+[23:45:49] login done
+[23:45:49] iteration 1/20
+[23:45:49] film cr_film_id=27422 name='Něco od Tiffanyho (2022) CZ Titulky' candidates=3
+[23:45:49]   candidate upload_id=6398203172ec4 url=https://prehraj.to/neco-od-tiffanyho-something-from-tiffanys-2022-2160p-cz-sub/6398203172ec4
+[23:45:50]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/35516845/LyEuMrHGKhkwcPDT2wuAyHZoCOAilEtD2igW…)
+[23:47:27]   downloaded 2,764.3 MB in 95.4s (29.0 MB/s)
+[23:49:37]   upload done video_id=26060450 in 129.9s
