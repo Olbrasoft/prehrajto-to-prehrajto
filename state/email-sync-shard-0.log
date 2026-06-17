@@ -1466,3 +1466,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:05:10]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/26145646/5DjhqNFPysJQcg8FjmtJkFADHJKHlqCzEHqL…)
 [07:06:07]   downloaded 2,003.9 MB in 54.9s (36.5 MB/s)
 [07:07:45]   upload done video_id=26035025 in 98.6s
+[07:07:46] film cr_film_id=708 OK in 157.7s
+[07:07:46] iteration 14/20
+[07:07:46] film cr_film_id=712 name='Rodina na baterky (2021) CZ Dabing' candidates=2
+[07:07:46]   candidate upload_id=5579a71761069342 url=https://prehraj.to/rodina-na-baterky-2021-animovany-cz-dabing-1/5579a71761069342
+[07:07:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rodina-na-baterky-2021-animovany-cz-dabing-1/5579a71761069342 (permanent=True)
+[07:07:49]   candidate upload_id=903353387b02cfc9 url=https://prehraj.to/rodina-na-baterky-2021-animovany-cz-dabing-1/903353387b02cfc9
+[07:07:55]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rodina-na-baterky-2021-animovany-cz-dabing-1/903353387b02cfc9 (permanent=True)
+[07:07:55] film cr_film_id=712 all candidates exhausted
+[07:07:55] iteration 15/20
+[07:07:55] film cr_film_id=716 name='Pan Church (2016) CZ Dabing' candidates=4
+[07:07:55]   candidate upload_id=5810818b43f8c url=https://prehraj.to/mr-church-2016-cz-dabing/5810818b43f8c
+[07:08:01]   resolved in 5.9s → 480p (https://pf-storage1.premiumcdn.net/755101/0LnHnZi2niV0UeyHnXFx4iD1f4Nt5yC54Sx4CW…)
+[07:08:19]   downloaded 541.7 MB in 16.6s (32.6 MB/s)
+[07:08:40]   upload done video_id=26035045 in 21.2s
