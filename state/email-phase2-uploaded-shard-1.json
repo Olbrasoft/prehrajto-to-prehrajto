@@ -7781,6 +7781,25 @@
         "download_sec": 27.9,
         "upload_sec": 33.6
       }
+    },
+    {
+      "cr_film_id": 34311,
+      "cr_slug": "machri-1995",
+      "title": "Machři",
+      "year": 1995,
+      "display_name": "Machři (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "687005ef27c30",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26028050,
+      "size_bytes": 2700802546,
+      "uploaded_at": "2026-06-17T00:43:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 133.4,
+        "upload_sec": 153.9
+      }
     }
   ],
   "failed_attempts": [
@@ -7925,5 +7944,5 @@
       "failed_at": "2026-06-16T22:53:42Z"
     }
   ],
-  "last_updated": "2026-06-17T00:38:20Z"
+  "last_updated": "2026-06-17T00:43:11Z"
 }
