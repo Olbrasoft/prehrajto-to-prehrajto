@@ -6362,6 +6362,25 @@
         "download_sec": 131.8,
         "upload_sec": 237.8
       }
+    },
+    {
+      "cr_film_id": 234,
+      "cr_slug": "warrior",
+      "title": "Válečník",
+      "year": 2011,
+      "display_name": "Válečník (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "656f86eb78e78",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26027361,
+      "size_bytes": 4545178436,
+      "uploaded_at": "2026-06-17T00:01:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 157.9,
+        "upload_sec": 222.8
+      }
     }
   ],
   "failed_attempts": [
@@ -6485,5 +6504,5 @@
       "failed_at": "2026-06-16T22:43:33Z"
     }
   ],
-  "last_updated": "2026-06-16T23:54:40Z"
+  "last_updated": "2026-06-17T00:01:05Z"
 }
