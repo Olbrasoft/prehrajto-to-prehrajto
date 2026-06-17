@@ -15627,6 +15627,25 @@
         "download_sec": 84.8,
         "upload_sec": 66.0
       }
+    },
+    {
+      "cr_film_id": 15228,
+      "cr_slug": "healed",
+      "title": "Healed",
+      "year": 2023,
+      "display_name": "Healed (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6702fc8fe31fa",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26047107,
+      "size_bytes": 959277609,
+      "uploaded_at": "2026-06-17T17:03:30Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 90.5,
+        "upload_sec": 47.5
+      }
     }
   ],
   "failed_attempts": [
@@ -15974,5 +15993,5 @@
       "failed_at": "2026-06-17T14:39:06Z"
     }
   ],
-  "last_updated": "2026-06-17T17:01:07Z"
+  "last_updated": "2026-06-17T17:03:30Z"
 }
