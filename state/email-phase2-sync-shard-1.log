@@ -3938,3 +3938,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [15:03:24]   resolved in 0.9s → 1080p (https://pf-storage4.premiumcdn.net/73779062/9ReSvzcgjtD9IBJFZlfZ4c34sjLF2GSNGh9r…)
 [15:05:38]   downloaded 4,819.2 MB in 133.4s (36.1 MB/s)
 [15:08:46]   upload done video_id=26043708 in 187.9s
+[15:08:48] film cr_film_id=20329 OK in 325.1s
+[15:08:48] iteration 18/20
+[15:08:48] film cr_film_id=31369 name='Good Burger 2 (2023) CZ Titulky' candidates=1
+[15:08:48]   candidate upload_id=143ff0b876786d7a url=https://prehraj.to/good-burger-2-2023-en-cz-tit/143ff0b876786d7a
+[15:08:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/good-burger-2-2023-en-cz-tit/143ff0b876786d7a (permanent=True)
+[15:08:49] film cr_film_id=31369 all candidates exhausted
+[15:08:49] iteration 19/20
+[15:08:49] film cr_film_id=18183 name='Ghosted (2023) CZ Titulky' candidates=3
+[15:08:49]   candidate upload_id=7a09952f077b9ec8 url=https://prehraj.to/ghosted-2023-cztit-4k-uhd/7a09952f077b9ec8
+[15:08:54]   resolved in 5.9s → 1080p (https://pf-storage4.premiumcdn.net/167446415/4q1SxKf1qINdIaMuDmFbwfDluxwuKnC3nIw…)
+[15:10:05]   downloaded 2,465.4 MB in 69.2s (35.6 MB/s)
+[15:11:48]   upload done video_id=26043814 in 103.3s

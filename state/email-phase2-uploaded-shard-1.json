@@ -14697,6 +14697,25 @@
         "download_sec": 133.4,
         "upload_sec": 187.9
       }
+    },
+    {
+      "cr_film_id": 18183,
+      "cr_slug": "ghosted",
+      "title": "Ghosted",
+      "year": 2023,
+      "display_name": "Ghosted (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "7a09952f077b9ec8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26043814,
+      "size_bytes": 2465370425,
+      "uploaded_at": "2026-06-17T15:11:48Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 69.2,
+        "upload_sec": 103.3
+      }
     }
   ],
   "failed_attempts": [
@@ -15042,7 +15061,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/late-night-with-the-devil-2023-cz-titulky-1080p-mp4/974dfbd8ad301c6d",
       "permanent": true,
       "failed_at": "2026-06-17T14:50:38Z"
+    },
+    {
+      "cr_film_id": 31369,
+      "upload_id": "143ff0b876786d7a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/good-burger-2-2023-en-cz-tit/143ff0b876786d7a",
+      "permanent": true,
+      "failed_at": "2026-06-17T15:08:49Z"
     }
   ],
-  "last_updated": "2026-06-17T15:08:46Z"
+  "last_updated": "2026-06-17T15:11:48Z"
 }
