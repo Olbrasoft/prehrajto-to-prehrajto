@@ -3991,3 +3991,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [15:17:14]   upload done video_id=26043951 in 92.5s
 [15:17:15] film cr_film_id=28208 OK in 163.0s
 [15:17:15] batch-end ok=19 failed=1 dur=2290.1s avg/film=120.5s remaining=9265 eta_hours=310.1
+
+===== run 2026-06-17T15:18:06Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27699637907) =====
+[15:18:06] batch-start shard=0/2 count=20 backlog=10210 uploads=945 failed_attempts=49 description_overrides=0
+[15:18:06] login
+[15:18:08] login done
+[15:18:08] iteration 1/20
+[15:18:08] film cr_film_id=15028 name='Sestry v sedle (2023) CZ Titulky' candidates=6
+[15:18:08]   candidate upload_id=654474af3b8b0 url=https://prehraj.to/sestry-v-sedle-2023-cztitulky/654474af3b8b0
+[15:18:10]   resolved in 1.5s → 720p (https://pf-storage4.premiumcdn.net/50464904/k19TgDFBxILxU0rULncLGF5kTlxiMWu4ltaK…)
+[15:19:31]   downloaded 1,483.2 MB in 78.7s (18.8 MB/s)
+[15:20:57]   upload done video_id=26044046 in 86.6s
