@@ -2555,3 +2555,17 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [06:22:02]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/168017401/MBDf16TBbck4cQ7C1xHpwTwLsxpCEqS27sZ…)
 [06:23:04]   downloaded 2,272.3 MB in 61.0s (37.3 MB/s)
 [06:24:48]   upload done video_id=26034629 in 104.1s
+[06:24:50] film cr_film_id=17014 OK in 168.2s
+[06:24:50] iteration 7/20
+[06:24:50] film cr_film_id=5298 name='Mike a Nick a Nick a Alice (2026) CZ Titulky' candidates=2
+[06:24:50]   candidate upload_id=94979db3d3a51c54 url=https://prehraj.to/mike-a-nick-a-nick-a-alice-2026-akcni-komedie-usa-cztit-1080p/94979db3d3a51c54
+[06:24:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mike-a-nick-a-nick-a-alice-2026-akcni-komedie-usa-cztit-1080p/94979db3d3a51c54 (permanent=True)
+[06:24:50]   candidate upload_id=b57a3f82935cba5c url=https://prehraj.to/mike-a-nick-a-nick-a-alice-2026-akcni-komedie-usa-cztit-1080p/b57a3f82935cba5c
+[06:24:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mike-a-nick-a-nick-a-alice-2026-akcni-komedie-usa-cztit-1080p/b57a3f82935cba5c (permanent=True)
+[06:24:56] film cr_film_id=5298 all candidates exhausted
+[06:24:56] iteration 8/20
+[06:24:56] film cr_film_id=37216 name='El Susurro (2026) CZ Titulky' candidates=2
+[06:24:56]   candidate upload_id=4ae9295334eba7bd url=https://prehraj.to/el-susurro-2025-1080p-webrip-x264-aac5-1-yts-bz-mp4/4ae9295334eba7bd
+[06:25:01]   resolved in 5.8s → 720p (https://pf-storage6.premiumcdn.net/171040517/v3qc5yfmzF3PfnBt4aflYfkvCqKSJDcoxsp…)
+[06:25:43]   downloaded 1,401.3 MB in 40.5s (34.6 MB/s)
+[06:26:48]   upload done video_id=26034648 in 64.6s
