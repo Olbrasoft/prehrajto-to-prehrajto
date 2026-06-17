@@ -12341,6 +12341,25 @@
         "download_sec": 61.0,
         "upload_sec": 61.0
       }
+    },
+    {
+      "cr_film_id": 36969,
+      "cr_slug": "technoboys",
+      "title": "Technoboys",
+      "year": 2024,
+      "display_name": "Technoboys (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "66e762e3849de",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26036687,
+      "size_bytes": 2769384661,
+      "uploaded_at": "2026-06-17T09:26:23Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 132.7,
+        "upload_sec": 165.3
+      }
     }
   ],
   "failed_attempts": [
@@ -12639,5 +12658,5 @@
       "failed_at": "2026-06-17T08:07:28Z"
     }
   ],
-  "last_updated": "2026-06-17T09:21:20Z"
+  "last_updated": "2026-06-17T09:26:23Z"
 }
