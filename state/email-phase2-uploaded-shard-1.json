@@ -10137,6 +10137,25 @@
         "download_sec": 34.8,
         "upload_sec": 45.5
       }
+    },
+    {
+      "cr_film_id": 21355,
+      "cr_slug": "springfieldka",
+      "title": "Springfieldka",
+      "year": 1952,
+      "display_name": "Springfieldka (1952) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60b24b236fc68",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26032694,
+      "size_bytes": 1750439559,
+      "uploaded_at": "2026-06-17T04:09:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 48.0,
+        "upload_sec": 60.9
+      }
     }
   ],
   "failed_attempts": [
@@ -10288,5 +10307,5 @@
       "failed_at": "2026-06-17T00:46:00Z"
     }
   ],
-  "last_updated": "2026-06-17T04:07:22Z"
+  "last_updated": "2026-06-17T04:09:14Z"
 }
