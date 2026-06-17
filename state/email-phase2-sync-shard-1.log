@@ -4820,3 +4820,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [23:23:59]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/144919926/5KBFOgsMKT79U8Nc0VuqzsZqf0zuzZtodIB…)
 [23:24:09]   downloaded 209.0 MB in 9.1s (23.0 MB/s)
 [23:24:20]   upload done video_id=26059837 in 10.9s
+[23:24:21] film cr_film_id=17323 OK in 23.6s
+[23:24:21] iteration 19/20
+[23:24:21] film cr_film_id=31269 name='Chernobyl: The Lost Tapes (2022) CZ Titulky' candidates=1
+[23:24:21]   candidate upload_id=ab4f3f98276905c6 url=https://prehraj.to/chernobyl-the-lost-tapes-2022-en-cz-tit-mp4/ab4f3f98276905c6
+[23:24:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/chernobyl-the-lost-tapes-2022-en-cz-tit-mp4/ab4f3f98276905c6 (permanent=True)
+[23:24:22] film cr_film_id=31269 all candidates exhausted
+[23:24:22] iteration 20/20
+[23:24:22] film cr_film_id=26551 name='Catherine Called Birdy (2022) CZ Titulky' candidates=2
+[23:24:22]   candidate upload_id=63418eb8614dd url=https://prehraj.to/catherine-called-birdy-2022-cz-sub-1080p/63418eb8614dd
+[23:24:28]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/33678406/42vf3aTYEcE2uyXCvqhg6TzyCebhwocrJCKx…)
+[23:25:23]   downloaded 1,584.6 MB in 54.1s (29.3 MB/s)
+[23:26:46]   upload done video_id=26059865 in 83.3s
