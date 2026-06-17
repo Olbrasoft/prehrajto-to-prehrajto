@@ -14051,6 +14051,25 @@
         "download_sec": 130.1,
         "upload_sec": 147.9
       }
+    },
+    {
+      "cr_film_id": 14433,
+      "cr_slug": "the-american",
+      "title": "The American",
+      "year": 2023,
+      "display_name": "The American (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6682f448b1a4d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26040840,
+      "size_bytes": 1391086890,
+      "uploaded_at": "2026-06-17T13:36:32Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 105.4,
+        "upload_sec": 58.6
+      }
     }
   ],
   "failed_attempts": [
@@ -14370,5 +14389,5 @@
       "failed_at": "2026-06-17T13:02:06Z"
     }
   ],
-  "last_updated": "2026-06-17T13:33:44Z"
+  "last_updated": "2026-06-17T13:36:32Z"
 }
