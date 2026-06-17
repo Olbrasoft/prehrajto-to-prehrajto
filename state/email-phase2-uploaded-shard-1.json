@@ -9396,6 +9396,25 @@
         "download_sec": 40.9,
         "upload_sec": 56.2
       }
+    },
+    {
+      "cr_film_id": 11043,
+      "cr_slug": "oklamany-1971",
+      "title": "Oklamaný",
+      "year": 1971,
+      "display_name": "Oklamaný (1971) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a1f88b573b6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26031853,
+      "size_bytes": 496044075,
+      "uploaded_at": "2026-06-17T03:02:05Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 29.6,
+        "upload_sec": 32.3
+      }
     }
   ],
   "failed_attempts": [
@@ -9547,5 +9566,5 @@
       "failed_at": "2026-06-17T00:46:00Z"
     }
   ],
-  "last_updated": "2026-06-17T03:00:58Z"
+  "last_updated": "2026-06-17T03:02:05Z"
 }
