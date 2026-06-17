@@ -4427,3 +4427,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [18:16:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/after-everything-after-odlouceni-2023-romanticky-cztit/269b77f7708dade8 (permanent=True)
 [18:16:58] film cr_film_id=9330 all candidates exhausted
 [18:16:58] batch-end ok=19 failed=1 dur=2962.2s avg/film=155.9s remaining=9206 eta_hours=398.7
+
+===== run 2026-06-17T18:30:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27711025977) =====
+[18:30:50] batch-start shard=0/2 count=20 backlog=10210 uploads=1004 failed_attempts=50 description_overrides=0
+[18:30:50] login
+[18:30:52] login done
+[18:30:52] iteration 1/20
+[18:30:52] film cr_film_id=3630 name='Adagio (2023) CZ Titulky' candidates=2
+[18:30:52]   candidate upload_id=6643983ca9165 url=https://prehraj.to/adagio-2023-cztitulky/6643983ca9165
+[18:30:53]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/77338823/e8Wil6cz2H1QiEltQdTgbczVINwUQDUKdhl9…)
+[18:42:25]   downloaded 1,968.8 MB in 691.1s (2.8 MB/s)
+[18:44:00]   upload done video_id=26050216 in 94.3s
