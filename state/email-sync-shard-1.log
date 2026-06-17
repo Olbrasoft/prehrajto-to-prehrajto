@@ -3057,3 +3057,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:59:44]   upload done video_id=26046940 in 138.8s
 [16:59:46] film cr_film_id=1649 OK in 251.9s
 [16:59:46] batch-end ok=19 failed=1 dur=2785.5s avg/film=146.6s remaining=16846 eta_hours=686.0
+
+===== run 2026-06-17T17:00:15Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27705852114) =====
+[17:00:17] description overrides loaded: 1287 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:00:17] batch-start shard=1/2 count=20 backlog=17650 uploads=804 failed_attempts=56 description_overrides=1287
+[17:00:17] login
+[17:00:18] login done
+[17:00:18] iteration 1/20
+[17:00:18] film cr_film_id=1659 name='Sladký chlapec (2019) CZ Dabing' candidates=1
+[17:00:18]   candidate upload_id=5f37ba7c99602 url=https://prehraj.to/honey-boy-2019-cz-dabing-bst/5f37ba7c99602
+[17:00:19]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/18029058/bBDc73HwjSKzIRkuBmHGYHb3f89TqnfDWTGk…)
+[17:00:40]   downloaded 400.3 MB in 18.4s (21.8 MB/s)
+[17:00:58]   upload done video_id=26047043 in 18.4s
