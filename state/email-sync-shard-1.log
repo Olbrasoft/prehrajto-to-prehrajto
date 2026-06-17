@@ -2310,3 +2310,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:27:24] film cr_film_id=1221 all candidates exhausted
 [11:27:24] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
 [11:27:24] batch-end ok=5 failed=3 dur=791.3s avg/film=158.3s remaining=16944 eta_hours=745.1
+
+===== run 2026-06-17T11:56:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27687141157) =====
+[11:56:34] description overrides loaded: 1050 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:56:34] batch-start shard=1/2 count=20 backlog=17650 uploads=706 failed_attempts=46 description_overrides=1050
+[11:56:34] login
+[11:56:36] login done
+[11:56:36] iteration 1/20
+[11:56:36] film cr_film_id=1225 name='Suburra (2015) CZ Dabing' candidates=15
+[11:56:36]   candidate upload_id=592c5dce3d149 url=https://prehraj.to/suburra-2015-cz-dabing/592c5dce3d149
+[11:56:37]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/2277101/zdVty7hJzumpsnzfMmcxQhP5CAKCWGsnqsxeH…)
+[11:57:33]   downloaded 992.5 MB in 54.2s (18.3 MB/s)
+[11:58:27]   upload done video_id=26038418 in 54.3s
