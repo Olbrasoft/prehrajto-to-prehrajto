@@ -2049,3 +2049,19 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:59:54]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/167878408/YB1fNVSmVFzptanuA2cwDSr5FYnTpXCj8CK…)
 [10:01:19]   downloaded 1,798.5 MB in 82.6s (21.8 MB/s)
 [10:04:45]   upload done video_id=26037258 in 205.4s
+[10:04:46] film cr_film_id=1059 OK in 293.4s
+[10:04:46] iteration 15/20
+[10:04:46] film cr_film_id=1061 name='Bugonia (2025) CZ Dabing' candidates=3
+[10:04:46]   candidate upload_id=137e4c7c25e0044e url=https://prehraj.to/bugonia-2025-1080p-cz-dabing/137e4c7c25e0044e
+[10:04:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bugonia-2025-1080p-cz-dabing/137e4c7c25e0044e (permanent=True)
+[10:04:47]   candidate upload_id=d9aa626c70f07d0b url=https://prehraj.to/novinka-bugonia-2025-czdabing1080p/d9aa626c70f07d0b
+[10:04:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/novinka-bugonia-2025-czdabing1080p/d9aa626c70f07d0b (permanent=True)
+[10:04:53]   candidate upload_id=81bce7b5480b1de5 url=https://prehraj.to/bugonia-2025-cz-dabing-topkvalita/81bce7b5480b1de5
+[10:05:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bugonia-2025-cz-dabing-topkvalita/81bce7b5480b1de5 (permanent=True)
+[10:05:00] film cr_film_id=1061 all candidates exhausted
+[10:05:00] iteration 16/20
+[10:05:00] film cr_film_id=1065 name='Syn tisíce otců (2025) CZ Dabing' candidates=5
+[10:05:00]   candidate upload_id=2b981f7fafb383d9 url=https://prehraj.to/syn-tisice-otcu-2025-cz-dab-1080p/2b981f7fafb383d9
+[10:05:06]   resolved in 6.8s → 1080p (https://pf-storage5.premiumcdn.net/157022621/oNRIKWF9Pc3bFwMfdVs1DFA1CqkCVNIk9HO…)
+[10:07:07]   downloaded 2,178.5 MB in 118.7s (18.4 MB/s)
+[10:09:14]   upload done video_id=26037288 in 126.5s
