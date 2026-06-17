@@ -8936,6 +8936,25 @@
         "download_sec": 52.3,
         "upload_sec": 71.1
       }
+    },
+    {
+      "cr_film_id": 841,
+      "cr_slug": "battle-royale",
+      "title": "Battle Royale",
+      "year": 2000,
+      "display_name": "Battle Royale (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60b33627e3d7d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26035089,
+      "size_bytes": 743464752,
+      "uploaded_at": "2026-06-17T07:13:20Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.9,
+        "upload_sec": 34.4
+      }
     }
   ],
   "failed_attempts": [
@@ -9113,5 +9132,5 @@
       "failed_at": "2026-06-17T06:27:22Z"
     }
   ],
-  "last_updated": "2026-06-17T07:12:19Z"
+  "last_updated": "2026-06-17T07:13:20Z"
 }
