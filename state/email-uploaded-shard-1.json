@@ -12375,6 +12375,25 @@
         "download_sec": 17.3,
         "upload_sec": 27.3
       }
+    },
+    {
+      "cr_film_id": 1649,
+      "cr_slug": "boure-dusi",
+      "title": "Bouře duší",
+      "year": 2019,
+      "display_name": "Bouře duší (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ff0f1a106ff3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26046940,
+      "size_bytes": 3246753327,
+      "uploaded_at": "2026-06-17T16:59:44Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 109.2,
+        "upload_sec": 138.8
+      }
     }
   ],
   "failed_attempts": [
@@ -12776,5 +12795,5 @@
       "failed_at": "2026-06-17T16:52:57Z"
     }
   ],
-  "last_updated": "2026-06-17T16:55:33Z"
+  "last_updated": "2026-06-17T16:59:44Z"
 }
