@@ -1183,3 +1183,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:43:11]   upload done video_id=26028050 in 153.9s
 [00:43:12] film cr_film_id=34311 OK in 291.3s
 [00:43:12] batch-end ok=20 failed=0 dur=1939.1s avg/film=97.0s remaining=9650 eta_hours=260.0
+
+===== run 2026-06-17T00:43:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27657931230) =====
+[00:43:43] batch-start shard=1/2 count=20 backlog=10210 uploads=560 failed_attempts=20 description_overrides=0
+[00:43:43] login
+[00:43:44] login done
+[00:43:44] iteration 1/20
+[00:43:44] film cr_film_id=32797 name='Buffalo Girls (1995) CZ Dabing' candidates=1
+[00:43:44]   candidate upload_id=675b16b16dd30 url=https://prehraj.to/konec-divokeho-zapadu-buffalo-girls-western-1995-cz-dab/675b16b16dd30
+[00:43:45]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/121554050/kjmhwRSelFlvIQWCAWHvdSXqsVwCRKuQ2sD…)
+[00:44:21]   downloaded 938.7 MB in 34.4s (27.3 MB/s)
+[00:44:56]   upload done video_id=26028096 in 35.3s
