@@ -11359,6 +11359,25 @@
         "download_sec": 58.4,
         "upload_sec": 75.1
       }
+    },
+    {
+      "cr_film_id": 1236,
+      "cr_slug": "mission-impossible-narod-grazlu",
+      "title": "Mission: Impossible - Národ grázlů",
+      "year": 2015,
+      "display_name": "Mission: Impossible - Národ grázlů (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "b34da207019e9a22",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26040965,
+      "size_bytes": 4079244237,
+      "uploaded_at": "2026-06-17T13:41:05Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 111.1,
+        "upload_sec": 137.0
+      }
     }
   ],
   "failed_attempts": [
@@ -11648,7 +11667,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/terminal-2004-cz-dab-hd-kvalita-mrknitv/947cfc6eb6dfc8c8",
       "permanent": true,
       "failed_at": "2026-06-17T13:26:37Z"
+    },
+    {
+      "cr_film_id": 1236,
+      "upload_id": "6907cbc8c2769",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mission-impossible-5-narod-grazlu-2015-uhdrdv-cz-en/6907cbc8c2769",
+      "permanent": true,
+      "failed_at": "2026-06-17T13:36:49Z"
     }
   ],
-  "last_updated": "2026-06-17T13:36:47Z"
+  "last_updated": "2026-06-17T13:41:05Z"
 }

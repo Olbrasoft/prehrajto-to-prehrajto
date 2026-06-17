@@ -2508,3 +2508,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [13:34:32]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/21043383/wLWu4qiBGhqph0ATdeSegi2BhdphkRHvlC92…)
 [13:35:32]   downloaded 1,770.0 MB in 58.4s (30.3 MB/s)
 [13:36:47]   upload done video_id=26040837 in 75.1s
+[13:36:49] film cr_film_id=1234 OK in 137.3s
+[13:36:49] iteration 14/20
+[13:36:49] film cr_film_id=1236 name='Mission: Impossible - Národ grázlů (2015) CZ' candidates=2
+[13:36:49]   candidate upload_id=6907cbc8c2769 url=https://prehraj.to/mission-impossible-5-narod-grazlu-2015-uhdrdv-cz-en/6907cbc8c2769
+[13:36:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mission-impossible-5-narod-grazlu-2015-uhdrdv-cz-en/6907cbc8c2769 (permanent=True)
+[13:36:49]   candidate upload_id=b34da207019e9a22 url=https://prehraj.to/mission-impossible-5-narod-grazlu-2015-4k-mkv/b34da207019e9a22
+[13:36:55]   resolved in 5.7s → 1080p (https://pf-storage4.premiumcdn.net/162919841/zjKI4kSJ5uXDcoOsE6te1SJXt3NiGeIbyUW…)
+[13:38:48]   downloaded 4,079.2 MB in 111.1s (36.7 MB/s)
+[13:41:05]   upload done video_id=26040965 in 137.0s
