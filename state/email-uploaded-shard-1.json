@@ -7492,6 +7492,25 @@
         "download_sec": 91.5,
         "upload_sec": 128.9
       }
+    },
+    {
+      "cr_film_id": 523,
+      "cr_slug": "jedna-bitva-za-druhou",
+      "title": "Jedna bitva za druhou",
+      "year": 2025,
+      "display_name": "Jedna bitva za druhou (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e8206fc57d2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26032232,
+      "size_bytes": 1637988961,
+      "uploaded_at": "2026-06-17T03:28:48Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 85.6,
+        "upload_sec": 103.8
+      }
     }
   ],
   "failed_attempts": [
@@ -7618,7 +7637,14 @@
         "download_sec": 70.1,
         "upload_sec": 0.2
       }
+    },
+    {
+      "cr_film_id": 523,
+      "upload_id": "c98ce987b772f237",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jedna-bitva-za-druhou-2025-cz-dabing-1080p-mkv/c98ce987b772f237",
+      "permanent": true,
+      "failed_at": "2026-06-17T03:25:30Z"
     }
   ],
-  "last_updated": "2026-06-17T03:25:28Z"
+  "last_updated": "2026-06-17T03:28:48Z"
 }

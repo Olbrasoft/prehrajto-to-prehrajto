@@ -1036,3 +1036,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:21:46]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/165063638/rWAiPruOpcvoHEBTjksr6umNsoLfbZSlkCR…)
 [03:23:19]   downloaded 2,170.1 MB in 91.5s (23.7 MB/s)
 [03:25:28]   upload done video_id=26032185 in 128.9s
+[03:25:29] film cr_film_id=521 OK in 225.3s
+[03:25:29] iteration 19/20
+[03:25:29] film cr_film_id=523 name='Jedna bitva za druhou (2025) CZ Dabing' candidates=16
+[03:25:29]   candidate upload_id=c98ce987b772f237 url=https://prehraj.to/jedna-bitva-za-druhou-2025-cz-dabing-1080p-mkv/c98ce987b772f237
+[03:25:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jedna-bitva-za-druhou-2025-cz-dabing-1080p-mkv/c98ce987b772f237 (permanent=True)
+[03:25:30]   candidate upload_id=68e8206fc57d2 url=https://prehraj.to/jedna-bitva-za-druhou-2025-1080p-cz-dabing/68e8206fc57d2
+[03:25:37]   resolved in 6.4s → 480p (https://pf-storage4.premiumcdn.net/150662031/AGRs0wuVmhGwC8pf7ytLauOvt8ac13IA2Uw…)
+[03:27:04]   downloaded 1,638.0 MB in 85.6s (19.1 MB/s)
+[03:28:48]   upload done video_id=26032232 in 103.8s
