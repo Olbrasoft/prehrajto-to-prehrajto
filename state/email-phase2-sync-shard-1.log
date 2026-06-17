@@ -2345,3 +2345,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [05:15:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/stans-2025-1080p-webrip-ddp-5-1-10bit-h-265-ivy-mkv/b4cc863ad7119e47 (permanent=True)
 [05:15:18] film cr_film_id=28601 all candidates exhausted
 [05:15:18] batch-end ok=18 failed=2 dur=2280.0s avg/film=126.7s remaining=9494 eta_hours=334.1
+
+===== run 2026-06-17T05:16:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27667470871) =====
+[05:16:47] batch-start shard=1/2 count=20 backlog=10210 uploads=716 failed_attempts=25 description_overrides=0
+[05:16:47] login
+[05:16:49] login done
+[05:16:49] iteration 1/20
+[05:16:49] film cr_film_id=9159 name='Stand Your Ground (2025) CZ Titulky' candidates=10
+[05:16:49]   candidate upload_id=687e353a34b77 url=https://prehraj.to/stand-your-ground-2025-cz-titulky-1080p-mp4/687e353a34b77
+[05:16:51]   resolved in 1.5s → 720p (https://pf-storage4.premiumcdn.net/141903440/nLrS1Ds14HlAtPpFzgH61sNMFJPUK4ix6i9…)
+[05:18:01]   downloaded 1,217.8 MB in 68.2s (17.9 MB/s)
+[05:19:24]   upload done video_id=26033897 in 83.5s
