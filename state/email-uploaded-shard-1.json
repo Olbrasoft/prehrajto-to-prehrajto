@@ -11425,6 +11425,25 @@
         "download_sec": 93.8,
         "upload_sec": 112.3
       }
+    },
+    {
+      "cr_film_id": 1455,
+      "cr_slug": "nouzovy-vychod",
+      "title": "Nouzový východ",
+      "year": 2008,
+      "display_name": "Nouzový východ (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a05487f915a2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26043266,
+      "size_bytes": 577176633,
+      "uploaded_at": "2026-06-17T14:48:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 23.4,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -11798,5 +11817,5 @@
       "failed_at": "2026-06-17T14:16:54Z"
     }
   ],
-  "last_updated": "2026-06-17T14:47:49Z"
+  "last_updated": "2026-06-17T14:48:48Z"
 }
