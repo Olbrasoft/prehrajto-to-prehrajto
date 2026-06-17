@@ -7464,6 +7464,25 @@
         "download_sec": 74.3,
         "upload_sec": 113.5
       }
+    },
+    {
+      "cr_film_id": 456,
+      "cr_slug": "v-pisku-prislib-svobody",
+      "title": "V písku - Příslib svobody",
+      "year": 2015,
+      "display_name": "V písku - Příslib svobody (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6475fd2b327ec",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26032464,
+      "size_bytes": 2061904657,
+      "uploaded_at": "2026-06-17T03:49:34Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 64.0,
+        "upload_sec": 94.1
+      }
     }
   ],
   "failed_attempts": [
@@ -7648,7 +7667,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/male-zeny-2019/56a5b74e1612e3d1",
       "permanent": true,
       "failed_at": "2026-06-17T03:41:39Z"
+    },
+    {
+      "cr_film_id": 454,
+      "upload_id": "0464e71a07e2da2f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/socialni-sit-2010-cz-dab-1080p/0464e71a07e2da2f",
+      "permanent": true,
+      "failed_at": "2026-06-17T03:46:48Z"
     }
   ],
-  "last_updated": "2026-06-17T03:46:47Z"
+  "last_updated": "2026-06-17T03:49:34Z"
 }
