@@ -3831,3 +3831,17 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:18:54]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/43075466/q1RCVMTLzt2mF4lCjRFWjTr2UqzH45f7mc4w…)
 [14:20:01]   downloaded 1,927.3 MB in 65.2s (29.6 MB/s)
 [14:21:22]   upload done video_id=26042332 in 81.0s
+[14:21:23] film cr_film_id=35002 OK in 150.3s
+[14:21:23] iteration 19/20
+[14:21:23] film cr_film_id=35778 name='Umění jíst a milovat (2023) CZ Titulky' candidates=2
+[14:21:23]   candidate upload_id=39bd1e2ea7f809e0 url=https://prehraj.to/umeni-jist-a-milovat-2023-cz-titulky-1080p/39bd1e2ea7f809e0
+[14:21:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/umeni-jist-a-milovat-2023-cz-titulky-1080p/39bd1e2ea7f809e0 (permanent=True)
+[14:21:25]   candidate upload_id=c8a108e125703171 url=https://prehraj.to/umeni-jist-a-milovat-2023/c8a108e125703171
+[14:21:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/umeni-jist-a-milovat-2023/c8a108e125703171 (permanent=True)
+[14:21:30] film cr_film_id=35778 all candidates exhausted
+[14:21:30] iteration 20/20
+[14:21:30] film cr_film_id=7216 name='U tebe nebo u mě? (2023) CZ Titulky' candidates=2
+[14:21:30]   candidate upload_id=63facccc0f5bc url=https://prehraj.to/your-place-or-mine-2023-cztitulky/63facccc0f5bc
+[14:21:37]   resolved in 6.2s → 720p (https://pf-storage4.premiumcdn.net/37809643/dNRF3WIn0U8JiVmHvNhQvIw4Sm7irefLZUNE…)
+[14:22:42]   downloaded 1,562.4 MB in 63.8s (24.5 MB/s)
+[14:24:00]   upload done video_id=26042430 in 77.7s
