@@ -11948,6 +11948,25 @@
         "download_sec": 72.6,
         "upload_sec": 114.7
       }
+    },
+    {
+      "cr_film_id": 1348,
+      "cr_slug": "excalibur",
+      "title": "Excalibur",
+      "year": 1981,
+      "display_name": "Excalibur (1981) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58289e0d174b6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26044405,
+      "size_bytes": 949443293,
+      "uploaded_at": "2026-06-17T15:34:50Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 52.5,
+        "upload_sec": 50.2
+      }
     }
   ],
   "failed_attempts": [
@@ -12295,5 +12314,5 @@
       "failed_at": "2026-06-17T14:32:46Z"
     }
   ],
-  "last_updated": "2026-06-17T15:33:02Z"
+  "last_updated": "2026-06-17T15:34:50Z"
 }
