@@ -3187,3 +3187,22 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [18:24:52]   resolved in 0.7s → 480p (https://pf-storage4.premiumcdn.net/22457/3GptWZI8XHwohdlckoUZaIwJSmxSprf50CQbf2R…)
 [18:25:25]   downloaded 1,069.2 MB in 31.3s (34.2 MB/s)
 [18:26:03]   upload done video_id=26049684 in 37.8s
+[18:26:04] film cr_film_id=1570 OK in 72.5s
+[18:26:04] iteration 4/20
+[18:26:04] film cr_film_id=1572 name='Mission: Impossible (1996) CZ Dabing' candidates=1
+[18:26:04]   candidate upload_id=68e5435aa0775 url=https://prehraj.to/mission-impossible-1-1996-cz-dabing-ultra-hd-2160p-4k/68e5435aa0775
+[18:26:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mission-impossible-1-1996-cz-dabing-ultra-hd-2160p-4k/68e5435aa0775 (permanent=True)
+[18:26:04] film cr_film_id=1572 all candidates exhausted
+[18:26:04] iteration 5/20
+[18:26:04] film cr_film_id=1576 name='Brutalista (2024) CZ Dabing' candidates=1
+[18:26:04]   candidate upload_id=77c6f2b58253ca70 url=https://prehraj.to/the-brutalist-brutalista-2024-drama-czdab-mp4/77c6f2b58253ca70
+[18:26:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-brutalist-brutalista-2024-drama-czdab-mp4/77c6f2b58253ca70 (permanent=True)
+[18:26:10] film cr_film_id=1576 all candidates exhausted
+[18:26:10] iteration 6/20
+[18:26:10] film cr_film_id=1578 name='Škola ro(c)ku (2003) CZ Dabing' candidates=5
+[18:26:10]   candidate upload_id=67c2629bec3e5 url=https://prehraj.to/skola-rocku-the-school-of-rock-2003-cz-dabing-1080p/67c2629bec3e5
+[18:26:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/skola-rocku-the-school-of-rock-2003-cz-dabing-1080p/67c2629bec3e5 (permanent=True)
+[18:26:16]   candidate upload_id=67c0c2deeaccd url=https://prehraj.to/skola-rocku-the-school-of-rock-2003-cz-dabing-1080p/67c0c2deeaccd
+[18:26:22]   resolved in 5.9s → 720p (https://pf-storage5.premiumcdn.net/130878206/1jGfrGszyuM0fm2hPgsAwsPxcERTJaHmoTd…)
+[18:32:22]   downloaded 1,941.6 MB in 358.1s (5.4 MB/s)
+[18:33:40]   upload done video_id=26049920 in 78.2s
