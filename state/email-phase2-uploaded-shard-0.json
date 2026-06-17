@@ -15057,6 +15057,25 @@
         "download_sec": 78.7,
         "upload_sec": 86.6
       }
+    },
+    {
+      "cr_film_id": 4960,
+      "cr_slug": "ride-on",
+      "title": "Ride On",
+      "year": 2023,
+      "display_name": "Ride On (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "64ab92f03af22",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26044136,
+      "size_bytes": 2388749001,
+      "uploaded_at": "2026-06-17T15:25:44Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 122.6,
+        "upload_sec": 159.2
+      }
     }
   ],
   "failed_attempts": [
@@ -15404,5 +15423,5 @@
       "failed_at": "2026-06-17T14:39:06Z"
     }
   ],
-  "last_updated": "2026-06-17T15:20:57Z"
+  "last_updated": "2026-06-17T15:25:44Z"
 }
