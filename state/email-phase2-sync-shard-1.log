@@ -1619,3 +1619,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [02:19:26]   upload done video_id=26030982 in 178.2s
 [02:19:27] film cr_film_id=22371 OK in 350.7s
 [02:19:27] batch-end ok=20 failed=0 dur=2080.1s avg/film=104.0s remaining=9591 eta_hours=277.1
+
+===== run 2026-06-17T02:19:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27661427155) =====
+[02:19:59] batch-start shard=1/2 count=20 backlog=10210 uploads=619 failed_attempts=21 description_overrides=0
+[02:19:59] login
+[02:20:01] login done
+[02:20:01] iteration 1/20
+[02:20:01] film cr_film_id=2919 name='Kozoroh jedna (1977) CZ Dabing' candidates=6
+[02:20:01]   candidate upload_id=609ad14ca7bf1 url=https://prehraj.to/kozoroh-1-drama-1977-cz-dabing/609ad14ca7bf1
+[02:20:02]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/23475150/dV6hkMfwRSGdH4JC0Oi1mfoBImDHPAH2dCZv…)
+[02:20:35]   downloaded 909.5 MB in 31.9s (28.5 MB/s)
+[02:21:12]   upload done video_id=26031042 in 36.6s

@@ -8921,6 +8921,25 @@
         "download_sec": 168.5,
         "upload_sec": 178.2
       }
+    },
+    {
+      "cr_film_id": 2919,
+      "cr_slug": "kozoroh-1",
+      "title": "Kozoroh jedna",
+      "year": 1977,
+      "display_name": "Kozoroh jedna (1977) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "609ad14ca7bf1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26031042,
+      "size_bytes": 909478451,
+      "uploaded_at": "2026-06-17T02:21:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 31.9,
+        "upload_sec": 36.6
+      }
     }
   ],
   "failed_attempts": [
@@ -9072,5 +9091,5 @@
       "failed_at": "2026-06-17T00:46:00Z"
     }
   ],
-  "last_updated": "2026-06-17T02:19:26Z"
+  "last_updated": "2026-06-17T02:21:12Z"
 }
