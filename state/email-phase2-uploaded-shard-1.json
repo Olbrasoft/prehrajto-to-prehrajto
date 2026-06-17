@@ -15780,6 +15780,25 @@
         "download_sec": 43.4,
         "upload_sec": 46.3
       }
+    },
+    {
+      "cr_film_id": 873,
+      "cr_slug": "spolecne-lzi",
+      "title": "Společné lži",
+      "year": 2022,
+      "display_name": "Společné lži (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5a3fb2e5ceeda952",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26049485,
+      "size_bytes": 452187002,
+      "uploaded_at": "2026-06-17T18:20:31Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 16.8,
+        "upload_sec": 21.3
+      }
     }
   ],
   "failed_attempts": [
@@ -16148,5 +16167,5 @@
       "failed_at": "2026-06-17T17:42:59Z"
     }
   ],
-  "last_updated": "2026-06-17T18:19:50Z"
+  "last_updated": "2026-06-17T18:20:31Z"
 }
