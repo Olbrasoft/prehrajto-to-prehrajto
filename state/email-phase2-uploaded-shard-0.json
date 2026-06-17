@@ -9129,6 +9129,25 @@
         "download_sec": 31.7,
         "upload_sec": 32.5
       }
+    },
+    {
+      "cr_film_id": 11780,
+      "cr_slug": "dobrodruh",
+      "title": "Dobrodruh",
+      "year": 1987,
+      "display_name": "Dobrodruh (1987) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "608ec06fd0eb8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26031052,
+      "size_bytes": 2329281887,
+      "uploaded_at": "2026-06-17T02:22:55Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 76.3,
+        "upload_sec": 98.1
+      }
     }
   ],
   "failed_attempts": [
@@ -9259,5 +9278,5 @@
       "failed_at": "2026-06-17T01:43:02Z"
     }
   ],
-  "last_updated": "2026-06-17T02:14:40Z"
+  "last_updated": "2026-06-17T02:22:55Z"
 }
