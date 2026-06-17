@@ -801,3 +801,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:24:34]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/7060568/Zm9T7MHJAcd4tzXhgwSjGHL0hMYunZS34iJqc…)
 [01:24:59]   downloaded 506.8 MB in 22.8s (22.2 MB/s)
 [01:25:42]   upload done video_id=26030121 in 43.5s
+[01:25:44] film cr_film_id=397 OK in 71.4s
+[01:25:44] iteration 7/20
+[01:25:44] film cr_film_id=401 name='Iron Man (2008) CZ Dabing' candidates=1
+[01:25:44]   candidate upload_id=9dea46e70106c476 url=https://prehraj.to/iron-man-1-cz-dabing-2008-mp4/9dea46e70106c476
+[01:25:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/iron-man-1-cz-dabing-2008-mp4/9dea46e70106c476 (permanent=True)
+[01:25:45] film cr_film_id=401 all candidates exhausted
+[01:25:45] iteration 8/20
+[01:25:45] film cr_film_id=403 name='Pád do ticha (2003) CZ Dabing' candidates=8
+[01:25:45]   candidate upload_id=5ac3cd8c642f1 url=https://prehraj.to/pad-do-ticha-2003-cz-dabing/5ac3cd8c642f1
+[01:25:51]   resolved in 5.9s → 480p (https://pf-storage5.premiumcdn.net/3820993/zMzUeXIjVCvbhAzCOzs6LIDJSz9c6Qto7fnMU…)
+[01:26:18]   downloaded 561.2 MB in 25.7s (21.8 MB/s)
+[01:27:01]   upload done video_id=26030160 in 42.9s
