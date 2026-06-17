@@ -8179,6 +8179,25 @@
         "download_sec": 26.2,
         "upload_sec": 44.8
       }
+    },
+    {
+      "cr_film_id": 23746,
+      "cr_slug": "rasputin",
+      "title": "Rasputin",
+      "year": 1996,
+      "display_name": "Rasputin (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "72036d5343fa307b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26028532,
+      "size_bytes": 2742273868,
+      "uploaded_at": "2026-06-17T01:03:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 100.7,
+        "upload_sec": 158.4
+      }
     }
   ],
   "failed_attempts": [
@@ -8302,5 +8321,5 @@
       "failed_at": "2026-06-16T23:17:59Z"
     }
   ],
-  "last_updated": "2026-06-17T00:59:25Z"
+  "last_updated": "2026-06-17T01:03:48Z"
 }
