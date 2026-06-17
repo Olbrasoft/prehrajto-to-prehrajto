@@ -2700,3 +2700,23 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [07:01:04]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/150658200/JK7H6zTVrh6oUe2Hz0sAOTpKiqXcdkIOphY…)
 [07:01:55]   downloaded 1,269.3 MB in 49.7s (25.5 MB/s)
 [07:03:01]   upload done video_id=26034996 in 65.2s
+[07:03:02] film cr_film_id=20362 OK in 119.5s
+[07:03:02] iteration 4/20
+[07:03:02] film cr_film_id=16398 name='Tichá noc, krvavá noc (2025) CZ Titulky' candidates=5
+[07:03:02]   candidate upload_id=719b641fa113b28a url=https://prehraj.to/silent-night-deadly-night-2025-1080p-cz-titulky-mp4/719b641fa113b28a
+[07:03:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-night-deadly-night-2025-1080p-cz-titulky-mp4/719b641fa113b28a (permanent=True)
+[07:03:03]   candidate upload_id=4cdc4f6848110e2a url=https://prehraj.to/silent-night-deadly-night-2025-cz-sk-titulky-topkvalita-mp4/4cdc4f6848110e2a
+[07:03:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-night-deadly-night-2025-cz-sk-titulky-topkvalita-mp4/4cdc4f6848110e2a (permanent=True)
+[07:03:09]   candidate upload_id=aaf681f5c03cdec4 url=https://prehraj.to/silent-night-deadly-night-2025-cz-sk-titulky-topkvalita-mkv-mp4/aaf681f5c03cdec4
+[07:03:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-night-deadly-night-2025-cz-sk-titulky-topkvalita-mkv-mp4/aaf681f5c03cdec4 (permanent=True)
+[07:03:14]   candidate upload_id=91694cb5134ba890 url=https://prehraj.to/silent-night-deadly-night-2025-titulky-cz-sk-mp4/91694cb5134ba890
+[07:03:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-night-deadly-night-2025-titulky-cz-sk-mp4/91694cb5134ba890 (permanent=True)
+[07:03:20]   candidate upload_id=0a232080495d7b54 url=https://prehraj.to/silent-night-deadly-night-2025-titulky-cz-sk-mkv-mp4/0a232080495d7b54
+[07:03:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-night-deadly-night-2025-titulky-cz-sk-mkv-mp4/0a232080495d7b54 (permanent=True)
+[07:03:26] film cr_film_id=16398 all candidates exhausted
+[07:03:26] iteration 5/20
+[07:03:26] film cr_film_id=15874 name='The Wrecker (2025) CZ Titulky' candidates=4
+[07:03:26]   candidate upload_id=4b51cef5ab5783bf url=https://prehraj.to/the-wrecker-2025-cztit-v-obraze-1080p/4b51cef5ab5783bf
+[07:03:32]   resolved in 6.0s → 1080p (https://pf-storage5.premiumcdn.net/164234801/MxEuMeigbTx3fmXsNBuYkiqksojuePTgyf2…)
+[07:04:55]   downloaded 1,685.2 MB in 81.2s (20.8 MB/s)
+[07:06:39]   upload done video_id=26035014 in 104.5s
