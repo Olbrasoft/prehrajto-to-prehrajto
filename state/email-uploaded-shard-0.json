@@ -12309,6 +12309,25 @@
         "download_sec": 36.6,
         "upload_sec": 58.7
       }
+    },
+    {
+      "cr_film_id": 1420,
+      "cr_slug": "trestanec",
+      "title": "Trestanec",
+      "year": 2017,
+      "display_name": "Trestanec (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f01629ae5f93",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26045739,
+      "size_bytes": 1000524540,
+      "uploaded_at": "2026-06-17T16:21:23Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 34.1,
+        "upload_sec": 46.4
+      }
     }
   ],
   "failed_attempts": [
@@ -12677,5 +12696,5 @@
       "failed_at": "2026-06-17T16:14:43Z"
     }
   ],
-  "last_updated": "2026-06-17T16:20:00Z"
+  "last_updated": "2026-06-17T16:21:23Z"
 }
