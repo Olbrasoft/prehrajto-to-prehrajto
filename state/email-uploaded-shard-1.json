@@ -13306,6 +13306,25 @@
         "download_sec": 74.2,
         "upload_sec": 20.8
       }
+    },
+    {
+      "cr_film_id": 1859,
+      "cr_slug": "warfare",
+      "title": "Válka",
+      "year": 2025,
+      "display_name": "Válka (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6890394ed7b76",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26054805,
+      "size_bytes": 1310082587,
+      "uploaded_at": "2026-06-17T20:46:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 44.4,
+        "upload_sec": 71.9
+      }
     }
   ],
   "failed_attempts": [
@@ -13775,5 +13794,5 @@
       "failed_at": "2026-06-17T20:38:58Z"
     }
   ],
-  "last_updated": "2026-06-17T20:44:10Z"
+  "last_updated": "2026-06-17T20:46:10Z"
 }
