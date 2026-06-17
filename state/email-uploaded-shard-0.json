@@ -7901,6 +7901,25 @@
         "download_sec": 129.2,
         "upload_sec": 174.5
       }
+    },
+    {
+      "cr_film_id": 526,
+      "cr_slug": "goonies",
+      "title": "Rošťáci",
+      "year": 1985,
+      "display_name": "Rošťáci (1985) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6901fe1acb7cc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26033379,
+      "size_bytes": 2185162664,
+      "uploaded_at": "2026-06-17T04:56:26Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 88.1,
+        "upload_sec": 146.5
+      }
     }
   ],
   "failed_attempts": [
@@ -8094,5 +8113,5 @@
       "failed_at": "2026-06-17T03:46:48Z"
     }
   ],
-  "last_updated": "2026-06-17T04:52:26Z"
+  "last_updated": "2026-06-17T04:56:26Z"
 }
