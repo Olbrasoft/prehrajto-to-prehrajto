@@ -14184,6 +14184,25 @@
         "download_sec": 77.1,
         "upload_sec": 100.3
       }
+    },
+    {
+      "cr_film_id": 15413,
+      "cr_slug": "shepherd",
+      "title": "Shepherd",
+      "year": 2023,
+      "display_name": "Shepherd (2023) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "656bf2c8eb69a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26041608,
+      "size_bytes": 637717685,
+      "uploaded_at": "2026-06-17T13:58:30Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 33.0,
+        "upload_sec": 41.4
+      }
     }
   ],
   "failed_attempts": [
@@ -14503,5 +14522,5 @@
       "failed_at": "2026-06-17T13:02:06Z"
     }
   ],
-  "last_updated": "2026-06-17T13:57:11Z"
+  "last_updated": "2026-06-17T13:58:30Z"
 }
