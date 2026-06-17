@@ -780,3 +780,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:41:19]   upload done video_id=26030408 in 62.0s
 [01:41:20] film cr_film_id=364 OK in 107.3s
 [01:41:20] batch-end ok=19 failed=1 dur=3030.9s avg/film=159.5s remaining=17119 eta_hours=758.5
+
+===== run 2026-06-17T02:37:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27662029160) =====
+[02:37:12] description overrides loaded: 65 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:37:12] batch-start shard=0/2 count=20 backlog=17650 uploads=531 failed_attempts=23 description_overrides=65
+[02:37:12] login
+[02:37:13] login done
+[02:37:13] iteration 1/20
+[02:37:13] film cr_film_id=370 name='Škola základ života (1938) CZ Dabing' candidates=1
+[02:37:13]   candidate upload_id=6718644679cbb url=https://prehraj.to/skola-zaklad-zivota-1938-cz-dab/6718644679cbb
+[02:37:15]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/103406105/d96c3XHRzUljFYKHMxfBNHpJSlkCQ8clxsA…)
+[02:37:47]   downloaded 944.2 MB in 31.1s (30.4 MB/s)
+[02:38:37]   upload done video_id=26031363 in 49.3s
