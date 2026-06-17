@@ -2800,3 +2800,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [07:47:41]   upload done video_id=26035472 in 97.2s
 [07:47:43] film cr_film_id=3163 OK in 172.6s
 [07:47:43] batch-end ok=20 failed=0 dur=3087.7s avg/film=154.4s remaining=9438 eta_hours=404.8
+
+===== run 2026-06-17T07:48:10Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27673930335) =====
+[07:48:11] batch-start shard=1/2 count=20 backlog=10210 uploads=772 failed_attempts=41 description_overrides=0
+[07:48:11] login
+[07:48:13] login done
+[07:48:13] iteration 1/20
+[07:48:13] film cr_film_id=35457 name='फाइटर (2024) CZ Titulky' candidates=1
+[07:48:13]   candidate upload_id=661d7fc3c5aef url=https://prehraj.to/fighter-2024-cz-titulky/661d7fc3c5aef
+[07:48:14]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/76173065/YmPUOlHGZF6bSVxty1T5vHlNhd7CVLUarFj0…)
+[07:50:27]   downloaded 4,799.1 MB in 132.1s (36.3 MB/s)
+[07:53:45]   upload done video_id=26035504 in 198.0s

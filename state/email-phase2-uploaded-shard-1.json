@@ -11828,6 +11828,25 @@
         "download_sec": 71.7,
         "upload_sec": 97.2
       }
+    },
+    {
+      "cr_film_id": 35457,
+      "cr_slug": "film-2024",
+      "title": "फाइटर",
+      "year": 2024,
+      "display_name": "फाइटर (2024) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "661d7fc3c5aef",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26035504,
+      "size_bytes": 4799092478,
+      "uploaded_at": "2026-06-17T07:53:45Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 132.1,
+        "upload_sec": 198.0
+      }
     }
   ],
   "failed_attempts": [
@@ -12119,5 +12138,5 @@
       "failed_at": "2026-06-17T06:54:07Z"
     }
   ],
-  "last_updated": "2026-06-17T07:47:41Z"
+  "last_updated": "2026-06-17T07:53:45Z"
 }
