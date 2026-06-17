@@ -9662,6 +9662,25 @@
         "download_sec": 37.3,
         "upload_sec": 40.9
       }
+    },
+    {
+      "cr_film_id": 33397,
+      "cr_slug": "perny-den",
+      "title": "Perný den",
+      "year": 1964,
+      "display_name": "Perný den (1964) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6806cbcbee4cc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26032191,
+      "size_bytes": 536262287,
+      "uploaded_at": "2026-06-17T03:24:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.2,
+        "upload_sec": 32.8
+      }
     }
   ],
   "failed_attempts": [
@@ -9813,5 +9832,5 @@
       "failed_at": "2026-06-17T00:46:00Z"
     }
   ],
-  "last_updated": "2026-06-17T03:23:40Z"
+  "last_updated": "2026-06-17T03:24:46Z"
 }
