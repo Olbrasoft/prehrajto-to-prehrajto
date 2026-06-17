@@ -9035,6 +9035,25 @@
         "download_sec": 67.5,
         "upload_sec": 86.6
       }
+    },
+    {
+      "cr_film_id": 11159,
+      "cr_slug": "zorro",
+      "title": "Zorro",
+      "year": 1975,
+      "display_name": "Zorro (1975) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "609d4368ba11d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26031275,
+      "size_bytes": 826497011,
+      "uploaded_at": "2026-06-17T02:33:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.9,
+        "upload_sec": 30.4
+      }
     }
   ],
   "failed_attempts": [
@@ -9186,5 +9205,5 @@
       "failed_at": "2026-06-17T00:46:00Z"
     }
   ],
-  "last_updated": "2026-06-17T02:32:14Z"
+  "last_updated": "2026-06-17T02:33:13Z"
 }
