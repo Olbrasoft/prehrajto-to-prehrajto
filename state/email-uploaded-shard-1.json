@@ -12071,6 +12071,25 @@
         "download_sec": 65.0,
         "upload_sec": 105.1
       }
+    },
+    {
+      "cr_film_id": 1577,
+      "cr_slug": "ong-bak",
+      "title": "Ong Bak",
+      "year": 2003,
+      "display_name": "Ong Bak (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5821149022c6d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26045705,
+      "size_bytes": 696709508,
+      "uploaded_at": "2026-06-17T16:20:13Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 27.5,
+        "upload_sec": 25.6
+      }
     }
   ],
   "failed_attempts": [
@@ -12458,5 +12477,5 @@
       "failed_at": "2026-06-17T15:53:25Z"
     }
   ],
-  "last_updated": "2026-06-17T16:19:16Z"
+  "last_updated": "2026-06-17T16:20:13Z"
 }
