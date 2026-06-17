@@ -10251,6 +10251,25 @@
         "download_sec": 44.1,
         "upload_sec": 71.2
       }
+    },
+    {
+      "cr_film_id": 16181,
+      "cr_slug": "the-dreadful",
+      "title": "The Dreadful",
+      "year": 2026,
+      "display_name": "The Dreadful (2026) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "e1be76fa732da158",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26032825,
+      "size_bytes": 2107972650,
+      "uploaded_at": "2026-06-17T04:18:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 72.2,
+        "upload_sec": 74.9
+      }
     }
   ],
   "failed_attempts": [
@@ -10402,5 +10421,5 @@
       "failed_at": "2026-06-17T00:46:00Z"
     }
   ],
-  "last_updated": "2026-06-17T04:15:52Z"
+  "last_updated": "2026-06-17T04:18:23Z"
 }
