@@ -11219,6 +11219,25 @@
         "download_sec": 4.0,
         "upload_sec": 7.1
       }
+    },
+    {
+      "cr_film_id": 21238,
+      "cr_slug": "western-union",
+      "title": "Western Union",
+      "year": 1941,
+      "display_name": "Western Union (1941) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66f5dc8a82b88",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26034105,
+      "size_bytes": 2133524678,
+      "uploaded_at": "2026-06-17T05:28:06Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 57.0,
+        "upload_sec": 102.8
+      }
     }
   ],
   "failed_attempts": [
@@ -11363,5 +11382,5 @@
       "failed_at": "2026-06-17T05:23:13Z"
     }
   ],
-  "last_updated": "2026-06-17T05:25:23Z"
+  "last_updated": "2026-06-17T05:28:06Z"
 }
