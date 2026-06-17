@@ -12435,6 +12435,25 @@
         "download_sec": 80.1,
         "upload_sec": 113.4
       }
+    },
+    {
+      "cr_film_id": 28790,
+      "cr_slug": "hra-na-smrt",
+      "title": "Hra na smrt",
+      "year": 2025,
+      "display_name": "Hra na smrt (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "68dedaf65d042",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26036367,
+      "size_bytes": 644470821,
+      "uploaded_at": "2026-06-17T09:04:05Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 42.1,
+        "upload_sec": 46.6
+      }
     }
   ],
   "failed_attempts": [
@@ -12740,5 +12759,5 @@
       "failed_at": "2026-06-17T07:03:26Z"
     }
   ],
-  "last_updated": "2026-06-17T09:02:31Z"
+  "last_updated": "2026-06-17T09:04:05Z"
 }
