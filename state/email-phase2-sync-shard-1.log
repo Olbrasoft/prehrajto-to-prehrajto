@@ -2465,3 +2465,22 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [05:57:23]   resolved in 1.5s → 720p (https://pf-storage3.premiumcdn.net/155207346/a1AtQvulWs1ZidlTmyhkeuyWCRliwmsE8Ua…)
 [05:59:15]   downloaded 1,975.6 MB in 109.9s (18.0 MB/s)
 [06:01:07]   upload done video_id=26034461 in 112.2s
+[06:01:08] film cr_film_id=1273 OK in 227.1s
+[06:01:08] iteration 16/20
+[06:01:08] film cr_film_id=35785 name='Pan Nikdo proti Putinovi (2025) CZ Titulky' candidates=2
+[06:01:08]   candidate upload_id=87aec3e89d213cf8 url=https://prehraj.to/pan-nikdo-proti-putinovi-2025-cz-tit-1080p/87aec3e89d213cf8
+[06:01:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pan-nikdo-proti-putinovi-2025-cz-tit-1080p/87aec3e89d213cf8 (permanent=True)
+[06:01:09]   candidate upload_id=b31818641b5d1bbf url=https://prehraj.to/pan-nikdo-proti-putinovi-mr-nobody-mod-putin-2025/b31818641b5d1bbf
+[06:01:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pan-nikdo-proti-putinovi-mr-nobody-mod-putin-2025/b31818641b5d1bbf (permanent=True)
+[06:01:15] film cr_film_id=35785 all candidates exhausted
+[06:01:15] iteration 17/20
+[06:01:15] film cr_film_id=8619 name='Ozvěna (2025) CZ Titulky' candidates=1
+[06:01:15]   candidate upload_id=98cd85c12816fce9 url=https://prehraj.to/ozvena-2025-hd-cz-tit/98cd85c12816fce9
+[06:01:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ozvena-2025-hd-cz-tit/98cd85c12816fce9 (permanent=True)
+[06:01:21] film cr_film_id=8619 all candidates exhausted
+[06:01:21] iteration 18/20
+[06:01:21] film cr_film_id=37011 name='Our Girls (2025) CZ Titulky' candidates=4
+[06:01:21]   candidate upload_id=523029fd603b9ac9 url=https://prehraj.to/our-girls-2025-cz-tit-mkv/523029fd603b9ac9
+[06:01:27]   resolved in 6.2s → 720p (https://pf-storage1.premiumcdn.net/161874086/JjDFwLc0oF3wcVPsJRtY2cnJF8GI7KcQjTn…)
+[06:02:32]   downloaded 1,103.1 MB in 63.1s (17.5 MB/s)
+[06:03:34]   upload done video_id=26034487 in 62.2s
