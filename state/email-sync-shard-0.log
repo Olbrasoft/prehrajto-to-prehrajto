@@ -2877,3 +2877,19 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:13:21]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/6064630/GEAhVaT5BUgNc5PsgxFVgTA7HYbtxjI3ZfxlH…)
 [16:13:52]   downloaded 920.8 MB in 29.1s (31.6 MB/s)
 [16:14:29]   upload done video_id=26045521 in 37.5s
+[16:14:31] film cr_film_id=1398 OK in 70.4s
+[16:14:31] iteration 2/20
+[16:14:31] film cr_film_id=1400 name='Děsivé dědictví (2018) CZ' candidates=3
+[16:14:31]   candidate upload_id=29596fc283071f4b url=https://prehraj.to/novinka-desive-dedictvi-2018-dvdrip-xvi-d-drama-horor-ma-sk-titl/29596fc283071f4b
+[16:14:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/novinka-desive-dedictvi-2018-dvdrip-xvi-d-drama-horor-ma-sk-titl/29596fc283071f4b (permanent=True)
+[16:14:31]   candidate upload_id=33a51305a667dc76 url=https://prehraj.to/novinka-desive-dedictvi-2018-dvdrip-xvi-ddramahororma-sk-titl/33a51305a667dc76
+[16:14:37]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/novinka-desive-dedictvi-2018-dvdrip-xvi-ddramahororma-sk-titl/33a51305a667dc76 (permanent=True)
+[16:14:37]   candidate upload_id=046678dc76465486 url=https://prehraj.to/desive-dedictvi-2018-dvdrip-xvi-d-drama-horor-ma-sk-titl/046678dc76465486
+[16:14:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/desive-dedictvi-2018-dvdrip-xvi-d-drama-horor-ma-sk-titl/046678dc76465486 (permanent=True)
+[16:14:43] film cr_film_id=1400 all candidates exhausted
+[16:14:43] iteration 3/20
+[16:14:43] film cr_film_id=1402 name='Walter Mitty a jeho tajný život (2013) CZ Dabing' candidates=21
+[16:14:43]   candidate upload_id=a66c44a2517db02c url=https://prehraj.to/walter-mitty-a-jeho-tajny-zivot-2013-cz-dab-1080p/a66c44a2517db02c
+[16:14:49]   resolved in 6.0s → 720p (https://pf-storage5.premiumcdn.net/168257383/nBVtD3HbZIRXi8ETmeSGmHBWFWmCb5ilJiZ…)
+[16:15:53]   downloaded 2,192.8 MB in 62.8s (34.9 MB/s)
+[16:17:14]   upload done video_id=26045582 in 81.6s
