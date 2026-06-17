@@ -13221,6 +13221,25 @@
         "download_sec": 301.9,
         "upload_sec": 60.9
       }
+    },
+    {
+      "cr_film_id": 1634,
+      "cr_slug": "sebevrazedny-oddil",
+      "title": "Sebevražedný oddíl",
+      "year": 2021,
+      "display_name": "Sebevražedný oddíl (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68fc6016d957e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26051521,
+      "size_bytes": 3105967055,
+      "uploaded_at": "2026-06-17T19:27:40Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 87.2,
+        "upload_sec": 114.9
+      }
     }
   ],
   "failed_attempts": [
@@ -13627,7 +13646,14 @@
         "download_sec": 56.1,
         "upload_sec": 75.4
       }
+    },
+    {
+      "cr_film_id": 1634,
+      "upload_id": "68e74b64378b3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sebevrazedny-oddil-2-2021-cz-dabing-ultra-hd-2160p-4k/68e74b64378b3",
+      "permanent": true,
+      "failed_at": "2026-06-17T19:24:10Z"
     }
   ],
-  "last_updated": "2026-06-17T19:24:08Z"
+  "last_updated": "2026-06-17T19:27:40Z"
 }
