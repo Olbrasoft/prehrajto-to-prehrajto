@@ -11543,6 +11543,25 @@
         "download_sec": 83.9,
         "upload_sec": 111.2
       }
+    },
+    {
+      "cr_film_id": 15183,
+      "cr_slug": "chhorii-2",
+      "title": "Chhorii 2",
+      "year": 2025,
+      "display_name": "Chhorii 2 (2025) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "681880beab609",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26035094,
+      "size_bytes": 1803736260,
+      "uploaded_at": "2026-06-17T07:14:55Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 75.1,
+        "upload_sec": 87.4
+      }
     }
   ],
   "failed_attempts": [
@@ -11834,5 +11853,5 @@
       "failed_at": "2026-06-17T06:54:07Z"
     }
   ],
-  "last_updated": "2026-06-17T07:12:08Z"
+  "last_updated": "2026-06-17T07:14:55Z"
 }
