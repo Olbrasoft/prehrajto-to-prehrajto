@@ -2213,3 +2213,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:27:20]   upload done video_id=26032913 in 117.8s
 [04:27:21] film cr_film_id=24514 OK in 189.9s
 [04:27:21] batch-end ok=20 failed=0 dur=1650.1s avg/film=82.5s remaining=9496 eta_hours=217.6
+
+===== run 2026-06-17T04:37:17Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27666104096) =====
+[04:37:18] batch-start shard=0/2 count=20 backlog=10210 uploads=714 failed_attempts=18 description_overrides=0
+[04:37:18] login
+[04:37:20] login done
+[04:37:20] iteration 1/20
+[04:37:20] film cr_film_id=21860 name='Hells Angels on Wheels (1967) CZ Dabing' candidates=1
+[04:37:20]   candidate upload_id=586ce28c8ba9f url=https://prehraj.to/hells-angels-on-wheels-1967-hd-cz-dabing/586ce28c8ba9f
+[04:37:21]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/1308068/jaesm4uY8tz2fPOIxXHrKuNdsyPToghRJCRyU…)
+[04:38:00]   downloaded 740.6 MB in 37.7s (19.6 MB/s)
+[04:38:38]   upload done video_id=26033124 in 37.4s
