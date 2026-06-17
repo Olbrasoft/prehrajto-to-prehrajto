@@ -8427,6 +8427,25 @@
         "download_sec": 33.7,
         "upload_sec": 54.2
       }
+    },
+    {
+      "cr_film_id": 22665,
+      "cr_slug": "cindy",
+      "title": "Cindy",
+      "year": 1984,
+      "display_name": "Cindy (1984) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60930a47cc4aa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26030232,
+      "size_bytes": 1040299011,
+      "uploaded_at": "2026-06-17T01:30:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.1,
+        "upload_sec": 47.2
+      }
     }
   ],
   "failed_attempts": [
@@ -8578,5 +8597,5 @@
       "failed_at": "2026-06-17T00:46:00Z"
     }
   ],
-  "last_updated": "2026-06-17T01:29:31Z"
+  "last_updated": "2026-06-17T01:30:50Z"
 }
