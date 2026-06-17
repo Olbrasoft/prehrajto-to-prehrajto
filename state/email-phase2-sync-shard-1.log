@@ -2654,3 +2654,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [06:55:49]   upload done video_id=26034940 in 55.6s
 [06:55:50] film cr_film_id=16313 OK in 121.3s
 [06:55:50] batch-end ok=20 failed=0 dur=2729.5s avg/film=136.5s remaining=9458 eta_hours=358.6
+
+===== run 2026-06-17T06:56:13Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27671438768) =====
+[06:56:13] batch-start shard=1/2 count=20 backlog=10210 uploads=752 failed_attempts=41 description_overrides=0
+[06:56:13] login
+[06:56:15] login done
+[06:56:15] iteration 1/20
+[06:56:15] film cr_film_id=31531 name='Dollhouse (2025) CZ Titulky' candidates=3
+[06:56:15]   candidate upload_id=5e09e7da0b609dfc url=https://prehraj.to/dollhouse-2025-cztitulky/5e09e7da0b609dfc
+[06:56:16]   resolved in 1.0s → 1080p (https://pf-storage6.premiumcdn.net/169750642/4EXSancRoUa5U3Guw1F71cpJsxVtoEIQ4h5…)
+[06:57:46]   downloaded 2,338.8 MB in 88.8s (26.3 MB/s)
+[06:59:20]   upload done video_id=26034967 in 94.0s
