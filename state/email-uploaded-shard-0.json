@@ -7388,6 +7388,25 @@
         "download_sec": 97.5,
         "upload_sec": 155.3
       }
+    },
+    {
+      "cr_film_id": 442,
+      "cr_slug": "apocalypto",
+      "title": "Apocalypto",
+      "year": 2006,
+      "display_name": "Apocalypto (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c17c73f1dd23035c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26032320,
+      "size_bytes": 5809494385,
+      "uploaded_at": "2026-06-17T03:38:08Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 189.7,
+        "upload_sec": 272.8
+      }
     }
   ],
   "failed_attempts": [
@@ -7553,5 +7572,5 @@
       "failed_at": "2026-06-17T01:20:29Z"
     }
   ],
-  "last_updated": "2026-06-17T03:30:21Z"
+  "last_updated": "2026-06-17T03:38:08Z"
 }
