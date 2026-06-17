@@ -7663,6 +7663,25 @@
         "download_sec": 50.3,
         "upload_sec": 59.9
       }
+    },
+    {
+      "cr_film_id": 587,
+      "cr_slug": "na-vlasku",
+      "title": "Na vlásku",
+      "year": 2010,
+      "display_name": "Na vlásku (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6898459b093e4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26032639,
+      "size_bytes": 2807924205,
+      "uploaded_at": "2026-06-17T04:05:02Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 74.2,
+        "upload_sec": 119.5
+      }
     }
   ],
   "failed_attempts": [
@@ -7819,5 +7838,5 @@
       "failed_at": "2026-06-17T03:29:02Z"
     }
   ],
-  "last_updated": "2026-06-17T04:01:44Z"
+  "last_updated": "2026-06-17T04:05:02Z"
 }
