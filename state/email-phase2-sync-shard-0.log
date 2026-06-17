@@ -1775,3 +1775,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [02:42:29]   upload done video_id=26031449 in 57.9s
 [02:42:30] film cr_film_id=11476 OK in 111.3s
 [02:42:30] batch-end ok=20 failed=0 dur=1352.2s avg/film=67.6s remaining=9556 eta_hours=179.4
+
+===== run 2026-06-17T02:50:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27662459644) =====
+[02:50:16] batch-start shard=0/2 count=20 backlog=10210 uploads=654 failed_attempts=18 description_overrides=0
+[02:50:16] login
+[02:50:18] login done
+[02:50:18] iteration 1/20
+[02:50:18] film cr_film_id=22692 name='Phar Lap: Národní hrdina (1983) CZ Dabing' candidates=1
+[02:50:18]   candidate upload_id=60944326b31f4 url=https://prehraj.to/phar-lap-drama-1983-cz-dabing/60944326b31f4
+[02:50:19]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/23405340/N8nIW5cmgilGS9Atb1ialcyku7WTY0UDdcZA…)
+[02:50:53]   downloaded 654.1 MB in 31.9s (20.5 MB/s)
+[02:51:27]   upload done video_id=26031647 in 34.3s
