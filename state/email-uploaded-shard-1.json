@@ -8822,6 +8822,25 @@
         "download_sec": 60.0,
         "upload_sec": 86.5
       }
+    },
+    {
+      "cr_film_id": 823,
+      "cr_slug": "smrtonosna-zbran",
+      "title": "Smrtonosná zbraň",
+      "year": 1987,
+      "display_name": "Smrtonosná zbraň (1987) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6718357fa541c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26034979,
+      "size_bytes": 3181005193,
+      "uploaded_at": "2026-06-17T07:01:56Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 89.7,
+        "upload_sec": 150.5
+      }
     }
   ],
   "failed_attempts": [
@@ -8999,5 +9018,5 @@
       "failed_at": "2026-06-17T06:27:22Z"
     }
   ],
-  "last_updated": "2026-06-17T06:57:53Z"
+  "last_updated": "2026-06-17T07:01:56Z"
 }
