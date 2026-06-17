@@ -1201,3 +1201,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:44:58]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/1394511/55rhMXun3i27SgRu62HmbuN0CZJSKYFJNh1PI…)
 [00:45:21]   downloaded 691.8 MB in 20.8s (33.3 MB/s)
 [00:45:58]   upload done video_id=26028111 in 37.0s
+[00:45:59] film cr_film_id=4701 OK in 61.4s
+[00:45:59] iteration 3/20
+[00:45:59] film cr_film_id=37245 name='House Party 3 (1994) CZ Dabing' candidates=1
+[00:45:59]   candidate upload_id=c62f098b62ae4b17 url=https://prehraj.to/house-party-1990-1-cz-dab/c62f098b62ae4b17
+[00:46:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/house-party-1990-1-cz-dab/c62f098b62ae4b17 (permanent=True)
+[00:46:00] film cr_film_id=37245 all candidates exhausted
+[00:46:00] iteration 4/20
+[00:46:00] film cr_film_id=12151 name='Hercules a Amazonky (1994) CZ Dabing' candidates=2
+[00:46:00]   candidate upload_id=2dc00f775e1b58c7 url=https://prehraj.to/hercules-a-amazonky-1994-cz-dab-1080p/2dc00f775e1b58c7
+[00:46:06]   resolved in 6.0s → 1080p (https://pf-storage3.premiumcdn.net/158340833/NBET8vfPoFomFXxSQ5tkXfW0Fg4u70CgpI2…)
+[00:47:21]   downloaded 2,676.3 MB in 74.1s (36.1 MB/s)
+[00:49:29]   upload done video_id=26028145 in 127.9s
