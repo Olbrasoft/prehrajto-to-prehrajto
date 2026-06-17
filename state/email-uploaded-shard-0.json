@@ -7483,6 +7483,25 @@
         "download_sec": 64.0,
         "upload_sec": 94.1
       }
+    },
+    {
+      "cr_film_id": 458,
+      "cr_slug": "psi-ostrov",
+      "title": "Psí ostrov",
+      "year": 2018,
+      "display_name": "Psí ostrov (2018) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "f72738b22636c28e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26032481,
+      "size_bytes": 539316960,
+      "uploaded_at": "2026-06-17T03:50:23Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.7,
+        "upload_sec": 26.2
+      }
     }
   ],
   "failed_attempts": [
@@ -7676,5 +7695,5 @@
       "failed_at": "2026-06-17T03:46:48Z"
     }
   ],
-  "last_updated": "2026-06-17T03:49:34Z"
+  "last_updated": "2026-06-17T03:50:23Z"
 }
