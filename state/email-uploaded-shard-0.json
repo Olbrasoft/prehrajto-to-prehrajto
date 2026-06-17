@@ -6894,6 +6894,25 @@
         "download_sec": 111.4,
         "upload_sec": 151.5
       }
+    },
+    {
+      "cr_film_id": 328,
+      "cr_slug": "ip-man",
+      "title": "Ip Man",
+      "year": 2008,
+      "display_name": "Ip Man (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68ea29623df33",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26029061,
+      "size_bytes": 2228138807,
+      "uploaded_at": "2026-06-17T01:20:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 60.1,
+        "upload_sec": 93.2
+      }
     }
   ],
   "failed_attempts": [
@@ -7052,5 +7071,5 @@
       "failed_at": "2026-06-17T01:03:31Z"
     }
   ],
-  "last_updated": "2026-06-17T01:17:50Z"
+  "last_updated": "2026-06-17T01:20:27Z"
 }
