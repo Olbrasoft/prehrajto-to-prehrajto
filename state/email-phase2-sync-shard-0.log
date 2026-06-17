@@ -2482,3 +2482,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [05:33:39]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/168342475/716IG6HPmc9oCLzSvAf8vHRgfJ9TZ8uKvcz…)
 [05:34:11]   downloaded 1,113.3 MB in 31.1s (35.8 MB/s)
 [05:34:50]   upload done video_id=26034220 in 39.0s
+[05:34:51] film cr_film_id=16778 OK in 73.1s
+[05:34:51] iteration 18/20
+[05:34:51] film cr_film_id=36992 name='Twisted (2026) CZ Titulky' candidates=1
+[05:34:51]   candidate upload_id=da9f4546256d2eec url=https://prehraj.to/twisted-2026-cz-titulky/da9f4546256d2eec
+[05:34:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/twisted-2026-cz-titulky/da9f4546256d2eec (permanent=True)
+[05:34:52] film cr_film_id=36992 all candidates exhausted
+[05:34:52] iteration 19/20
+[05:34:52] film cr_film_id=10094 name='The Strangers: Chapter 3 (2026) CZ Titulky' candidates=11
+[05:34:52]   candidate upload_id=c6a2b19880a065c3 url=https://prehraj.to/the-strangers-chapter-3-2026-1080p-mkv/c6a2b19880a065c3
+[05:34:58]   resolved in 5.9s → 720p (https://pf-storage3.premiumcdn.net/166952117/MepfY6umbF4JHy0T6PUz0uZmu7qI1QFMQsE…)
+[05:35:32]   downloaded 1,158.8 MB in 33.0s (35.1 MB/s)
+[05:36:23]   upload done video_id=26034231 in 51.0s
