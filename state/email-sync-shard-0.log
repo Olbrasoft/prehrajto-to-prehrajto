@@ -1641,3 +1641,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:52:06]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/207567/9QwI4ruaesWXfd2CO4c6euo1FXEUynFVWsjgfR…)
 [07:52:27]   downloaded 495.3 MB in 19.2s (25.8 MB/s)
 [07:52:49]   upload done video_id=26035532 in 21.8s
+[07:52:50] film cr_film_id=804 OK in 44.3s
+[07:52:50] iteration 18/20
+[07:52:50] film cr_film_id=806 name='300: Bitva u Thermopyl (2006) CZ Dabing' candidates=2
+[07:52:50]   candidate upload_id=d49028a821a30d89 url=https://prehraj.to/300-bitva-u-thermopyl-2006-cz-dab-1080p-mkv/d49028a821a30d89
+[07:52:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/300-bitva-u-thermopyl-2006-cz-dab-1080p-mkv/d49028a821a30d89 (permanent=True)
+[07:52:50]   candidate upload_id=5e72e6f4eaca29bc url=https://prehraj.to/300-bitva-u-thermopyl-2006-cz-dab-1080p/5e72e6f4eaca29bc
+[07:52:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/300-bitva-u-thermopyl-2006-cz-dab-1080p/5e72e6f4eaca29bc (permanent=True)
+[07:52:56] film cr_film_id=806 all candidates exhausted
+[07:52:56] iteration 19/20
+[07:52:56] film cr_film_id=812 name='Kick-Ass (2010) CZ Dabing' candidates=1
+[07:52:56]   candidate upload_id=d384b4c87c2ed920 url=https://prehraj.to/kick-ass-1-2010-cz-dabing-2160p-ultra-hd-top-kvalita/d384b4c87c2ed920
+[07:53:01]   resolved in 5.7s → 1080p (https://pf-storage3.premiumcdn.net/169011004/9lwTZOSYLcJ2HZRFvZfebSnbUqkUeziOzU1…)
+[07:54:52]   downloaded 3,996.8 MB in 109.5s (36.5 MB/s)
+[07:57:15]   upload done video_id=26035561 in 143.1s
