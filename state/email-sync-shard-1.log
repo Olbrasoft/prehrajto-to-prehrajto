@@ -2375,3 +2375,16 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:13:32]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/168252211/QgJtKxIwkiJ1TdxUnmSDgI7dSe2cb3HNkCo…)
 [12:14:21]   downloaded 1,055.2 MB in 47.7s (22.1 MB/s)
 [12:15:26]   upload done video_id=26038744 in 64.1s
+[12:15:27] film cr_film_id=1263 OK in 116.9s
+[12:15:27] iteration 9/20
+[12:15:27] film cr_film_id=1265 name='Avatar: Oheň a popel (2025) CZ Dabing' candidates=13
+[12:15:27]   candidate upload_id=5ec9e710dc92ea4d url=https://prehraj.to/avatar-ohen-a-popel-2025-1080p-cz-dabing-mkv/5ec9e710dc92ea4d
+[12:15:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avatar-ohen-a-popel-2025-1080p-cz-dabing-mkv/5ec9e710dc92ea4d (permanent=True)
+[12:15:28]   candidate upload_id=853eb497790954cf url=https://prehraj.to/avatar-ohen-a-popel-2025-cz-dab-kvalita-100/853eb497790954cf
+[12:15:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avatar-ohen-a-popel-2025-cz-dab-kvalita-100/853eb497790954cf (permanent=True)
+[12:15:34]   candidate upload_id=c5a4fb5681d11a92 url=https://prehraj.to/avatar-ohen-a-popel-2025-cz-dab-kvalita-100-mkv/c5a4fb5681d11a92
+[12:15:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avatar-ohen-a-popel-2025-cz-dab-kvalita-100-mkv/c5a4fb5681d11a92 (permanent=True)
+[12:15:39]   candidate upload_id=52b21db5ceedde95 url=https://prehraj.to/avatar-ohen-a-popel-avatar-fire-and-ash-cz-dabing-2026-mkv/52b21db5ceedde95
+[12:15:46]   resolved in 6.3s → 720p (https://pf-storage5.premiumcdn.net/169428187/547T8MHdoFJ0UZJuYNU0vH36CWbH0ESkDuD…)
+[12:19:39]   downloaded 5,590.7 MB in 231.6s (24.1 MB/s)
+[12:24:55]   upload done video_id=26038791 in 315.4s

@@ -10684,6 +10684,25 @@
         "download_sec": 47.7,
         "upload_sec": 64.1
       }
+    },
+    {
+      "cr_film_id": 1265,
+      "cr_slug": "avatar-ohen-a-popel",
+      "title": "Avatar: Oheň a popel",
+      "year": 2025,
+      "display_name": "Avatar: Oheň a popel (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "52b21db5ceedde95",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26038791,
+      "size_bytes": 5590668333,
+      "uploaded_at": "2026-06-17T12:24:55Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 231.6,
+        "upload_sec": 315.4
+      }
     }
   ],
   "failed_attempts": [
@@ -11027,7 +11046,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sherlock-holmes-hra-stinu-2011-uhdrdv-cz-en/69078b2c9c00f",
       "permanent": true,
       "failed_at": "2026-06-17T12:09:04Z"
+    },
+    {
+      "cr_film_id": 1265,
+      "upload_id": "5ec9e710dc92ea4d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avatar-ohen-a-popel-2025-1080p-cz-dabing-mkv/5ec9e710dc92ea4d",
+      "permanent": true,
+      "failed_at": "2026-06-17T12:15:28Z"
+    },
+    {
+      "cr_film_id": 1265,
+      "upload_id": "853eb497790954cf",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avatar-ohen-a-popel-2025-cz-dab-kvalita-100/853eb497790954cf",
+      "permanent": true,
+      "failed_at": "2026-06-17T12:15:34Z"
+    },
+    {
+      "cr_film_id": 1265,
+      "upload_id": "c5a4fb5681d11a92",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avatar-ohen-a-popel-2025-cz-dab-kvalita-100-mkv/c5a4fb5681d11a92",
+      "permanent": true,
+      "failed_at": "2026-06-17T12:15:39Z"
     }
   ],
-  "last_updated": "2026-06-17T12:15:26Z"
+  "last_updated": "2026-06-17T12:24:55Z"
 }
