@@ -7730,6 +7730,25 @@
         "download_sec": 32.5,
         "upload_sec": 34.7
       }
+    },
+    {
+      "cr_film_id": 502,
+      "cr_slug": "posledni-samuraj",
+      "title": "Poslední samuraj",
+      "year": 2003,
+      "display_name": "Poslední samuraj (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68dea1b88916c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26032861,
+      "size_bytes": 3431244072,
+      "uploaded_at": "2026-06-17T04:22:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 106.6,
+        "upload_sec": 149.2
+      }
     }
   ],
   "failed_attempts": [
@@ -7923,5 +7942,5 @@
       "failed_at": "2026-06-17T03:46:48Z"
     }
   ],
-  "last_updated": "2026-06-17T04:18:20Z"
+  "last_updated": "2026-06-17T04:22:40Z"
 }
