@@ -12271,6 +12271,25 @@
         "download_sec": 62.8,
         "upload_sec": 81.6
       }
+    },
+    {
+      "cr_film_id": 1408,
+      "cr_slug": "black-panther",
+      "title": "Black Panther",
+      "year": 2018,
+      "display_name": "Black Panther (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c2bbe75ac6e5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26045638,
+      "size_bytes": 947594961,
+      "uploaded_at": "2026-06-17T16:18:21Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 27.6,
+        "upload_sec": 35.1
+      }
     }
   ],
   "failed_attempts": [
@@ -12639,5 +12658,5 @@
       "failed_at": "2026-06-17T16:14:43Z"
     }
   ],
-  "last_updated": "2026-06-17T16:17:14Z"
+  "last_updated": "2026-06-17T16:18:21Z"
 }
