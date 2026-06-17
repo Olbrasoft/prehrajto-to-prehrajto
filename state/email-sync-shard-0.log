@@ -674,3 +674,18 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:59:54]   resolved in 0.9s → 1080p (https://pf-storage5.premiumcdn.net/17044842/ylnhpXUO6Fq3f6MsXQTM9UojIGmSgAug6SlX…)
 [01:01:18]   downloaded 3,077.6 MB in 82.4s (37.3 MB/s)
 [01:03:13]   upload done video_id=26028567 in 114.8s
+[01:03:14] film cr_film_id=310 OK in 201.0s
+[01:03:14] iteration 7/20
+[01:03:14] film cr_film_id=312 name='Titanic (1997) CZ Dabing' candidates=8
+[01:03:14]   candidate upload_id=ad7676dbfa15026e url=https://prehraj.to/titanic-1997-drama-czdab-mp4/ad7676dbfa15026e
+[01:03:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/titanic-1997-drama-czdab-mp4/ad7676dbfa15026e (permanent=True)
+[01:03:15]   candidate upload_id=683dd634c611a url=https://prehraj.to/titanic-1997-drama-czdab/683dd634c611a
+[01:03:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/titanic-1997-drama-czdab/683dd634c611a (permanent=True)
+[01:03:20]   candidate upload_id=3f338d4ca50fde72 url=https://prehraj.to/titanic-1997-drama-czdab-avi/3f338d4ca50fde72
+[01:03:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/titanic-1997-drama-czdab-avi/3f338d4ca50fde72 (permanent=True)
+[01:03:26]   candidate upload_id=d5f4c40c90889055 url=https://prehraj.to/3d-titanic-leonardo-dicaprio-kate-winslet-1997-cz-dab-avi/d5f4c40c90889055
+[01:03:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/3d-titanic-leonardo-dicaprio-kate-winslet-1997-cz-dab-avi/d5f4c40c90889055 (permanent=True)
+[01:03:31]   candidate upload_id=0874a74b9d484141 url=https://prehraj.to/titanic-1997-drama-czdab/0874a74b9d484141
+[01:03:37]   resolved in 6.1s → 720p (https://pf-storage4.premiumcdn.net/158841722/r7WsanuKRfgZh80iz3I1Bup9t3dswyS5vt4…)
+[01:05:11]   downloaded 2,666.1 MB in 92.3s (28.9 MB/s)
+[01:06:41]   upload done video_id=26028930 in 90.3s
