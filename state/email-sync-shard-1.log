@@ -3816,3 +3816,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:09:46]   upload done video_id=26059454 in 22.9s
 [23:09:47] film cr_film_id=2107 OK in 48.9s
 [23:09:47] batch-end ok=20 failed=0 dur=2832.8s avg/film=141.6s remaining=16746 eta_hours=658.7
+
+===== run 2026-06-17T23:41:41Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27726821103) =====
+[23:41:42] description overrides loaded: 3732 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:41:42] batch-start shard=1/2 count=20 backlog=17650 uploads=904 failed_attempts=67 description_overrides=3732
+[23:41:42] login
+[23:41:44] login done
+[23:41:44] iteration 1/20
+[23:41:44] film cr_film_id=2109 name='Zvonilka a tvor Netvor (2014) CZ Dabing' candidates=6
+[23:41:44]   candidate upload_id=5f99743e3c2e7 url=https://prehraj.to/zvonilka-a-tvor-netvor-2014-fullhd-cz-dabing/5f99743e3c2e7
+[23:41:50]   resolved in 6.3s → 1080p (https://pf-storage1.premiumcdn.net/19555949/DkwSZqs10i7GHDGFZGU65sVlH4NiybcOzFKZ…)
+[23:42:47]   downloaded 1,926.4 MB in 55.8s (34.5 MB/s)
+[23:44:15]   upload done video_id=26060324 in 87.3s
