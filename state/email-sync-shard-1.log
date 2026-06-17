@@ -3728,3 +3728,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:38:56]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/13533009/80ghPeflahNESnPireSPyfDxTMNhB7uPDI1m…)
 [22:40:10]   downloaded 1,671.3 MB in 71.6s (23.3 MB/s)
 [22:41:49]   upload done video_id=26058637 in 99.0s
+[22:41:51] film cr_film_id=2049 OK in 176.0s
+[22:41:51] iteration 9/20
+[22:41:51] film cr_film_id=2055 name='Spojenci (2016) CZ Dabing' candidates=4
+[22:41:51]   candidate upload_id=5fe8a5b58f9ba url=https://prehraj.to/spojenci-allied-2016-1080p-bluray-x264-dts-5-1-en-cz-dab/5fe8a5b58f9ba
+[22:41:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/spojenci-allied-2016-1080p-bluray-x264-dts-5-1-en-cz-dab/5fe8a5b58f9ba (permanent=True)
+[22:41:52]   candidate upload_id=877cdb808845fcd3 url=https://prehraj.to/spojenci-2016-cz-dabing-1080p-mkv/877cdb808845fcd3
+[22:41:58]   resolved in 6.3s → 720p (https://pf-storage5.premiumcdn.net/163982738/ZdyuwnS8aCJWfmvt4zSJGSDzCvwIeYtJqfd…)
+[22:43:05]   downloaded 1,501.8 MB in 64.6s (23.2 MB/s)
+[22:44:35]   upload done video_id=26058728 in 90.7s
