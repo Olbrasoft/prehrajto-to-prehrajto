@@ -9440,6 +9440,25 @@
         "download_sec": 20.6,
         "upload_sec": 22.8
       }
+    },
+    {
+      "cr_film_id": 840,
+      "cr_slug": "opustit-las-vegas",
+      "title": "Leaving Las Vegas",
+      "year": 1995,
+      "display_name": "Leaving Las Vegas (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "580979aea1cb9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26036195,
+      "size_bytes": 490083779,
+      "uploaded_at": "2026-06-17T08:46:57Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.3,
+        "upload_sec": 27.3
+      }
     }
   ],
   "failed_attempts": [
@@ -9689,5 +9708,5 @@
       "failed_at": "2026-06-17T08:27:44Z"
     }
   ],
-  "last_updated": "2026-06-17T08:46:04Z"
+  "last_updated": "2026-06-17T08:46:57Z"
 }
