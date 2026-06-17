@@ -8015,6 +8015,25 @@
         "download_sec": 18.4,
         "upload_sec": 23.9
       }
+    },
+    {
+      "cr_film_id": 548,
+      "cr_slug": "osm-hor",
+      "title": "Osm hor",
+      "year": 2022,
+      "display_name": "Osm hor (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64f11472ccb7e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26033960,
+      "size_bytes": 1113996141,
+      "uploaded_at": "2026-06-17T05:22:06Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 49.4,
+        "upload_sec": 63.4
+      }
     }
   ],
   "failed_attempts": [
@@ -8208,5 +8227,5 @@
       "failed_at": "2026-06-17T03:46:48Z"
     }
   ],
-  "last_updated": "2026-06-17T05:20:09Z"
+  "last_updated": "2026-06-17T05:22:06Z"
 }
