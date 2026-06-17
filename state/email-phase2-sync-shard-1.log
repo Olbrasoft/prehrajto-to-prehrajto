@@ -1911,3 +1911,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [03:24:46]   upload done video_id=26032191 in 32.8s
 [03:24:47] film cr_film_id=33397 OK in 66.5s
 [03:24:47] batch-end ok=20 failed=0 dur=2074.7s avg/film=103.7s remaining=9551 eta_hours=275.1
+
+===== run 2026-06-17T03:25:20Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27663668381) =====
+[03:25:23] batch-start shard=1/2 count=20 backlog=10210 uploads=659 failed_attempts=21 description_overrides=0
+[03:25:23] login
+[03:25:24] login done
+[03:25:24] iteration 1/20
+[03:25:24] film cr_film_id=10861 name='Maska rudé smrti (1964) CZ Dabing' candidates=1
+[03:25:24]   candidate upload_id=58415c1e52deb url=https://prehraj.to/maska-rude-smrti-1989-cz-dabing/58415c1e52deb
+[03:25:25]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/980328/06BtMWs0BtRkF6OhbMCLbsq6fK2Uw9FmkIqQfy…)
+[03:25:47]   downloaded 546.9 MB in 19.9s (27.5 MB/s)
+[03:26:10]   upload done video_id=26032217 in 23.1s
