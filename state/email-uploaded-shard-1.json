@@ -10361,6 +10361,25 @@
         "download_sec": 52.1,
         "upload_sec": 64.2
       }
+    },
+    {
+      "cr_film_id": 1143,
+      "cr_slug": "john-wick-3",
+      "title": "John Wick 3",
+      "year": 2019,
+      "display_name": "John Wick 3 (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "fb4e599260bcbccf",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26037887,
+      "size_bytes": 2581580728,
+      "uploaded_at": "2026-06-17T11:05:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 84.1,
+        "upload_sec": 109.4
+      }
     }
   ],
   "failed_attempts": [
@@ -10657,5 +10676,5 @@
       "failed_at": "2026-06-17T10:55:13Z"
     }
   ],
-  "last_updated": "2026-06-17T11:02:40Z"
+  "last_updated": "2026-06-17T11:05:57Z"
 }
