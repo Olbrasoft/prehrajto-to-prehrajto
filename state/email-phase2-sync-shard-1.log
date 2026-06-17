@@ -3239,3 +3239,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:01:49]   upload done video_id=26037816 in 148.7s
 [11:01:50] film cr_film_id=37213 OK in 260.4s
 [11:01:50] batch-end ok=19 failed=1 dur=3400.1s avg/film=179.0s remaining=9379 eta_hours=466.3
+
+===== run 2026-06-17T11:02:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27684272629) =====
+[11:02:26] batch-start shard=1/2 count=20 backlog=10210 uploads=831 failed_attempts=43 description_overrides=0
+[11:02:26] login
+[11:02:28] login done
+[11:02:28] iteration 1/20
+[11:02:28] film cr_film_id=9953 name='Hellhound (2024) CZ Titulky' candidates=11
+[11:02:28]   candidate upload_id=65b66a3c61e86 url=https://prehraj.to/hellhound-2024-cztit-v-obraze-1080p/65b66a3c61e86
+[11:02:29]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/72755180/ypAUoes3Pi2bTwoIXlFkXs0GCVqcrjIRosOA…)
+[11:03:46]   downloaded 1,603.0 MB in 75.5s (21.2 MB/s)
+[11:05:12]   upload done video_id=26037885 in 86.0s
