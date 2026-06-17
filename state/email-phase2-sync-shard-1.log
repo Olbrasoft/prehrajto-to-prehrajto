@@ -1473,3 +1473,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:39:47]   upload done video_id=26030378 in 66.2s
 [01:39:48] film cr_film_id=22677 OK in 117.8s
 [01:39:48] batch-end ok=20 failed=0 dur=1450.2s avg/film=72.5s remaining=9611 eta_hours=193.6
+
+===== run 2026-06-17T01:44:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27660158242) =====
+[01:44:46] batch-start shard=1/2 count=20 backlog=10210 uploads=599 failed_attempts=21 description_overrides=0
+[01:44:46] login
+[01:44:47] login done
+[01:44:47] iteration 1/20
+[01:44:47] film cr_film_id=11467 name='Faunovo velmi pozdní odpoledne (1983) CZ Dabing' candidates=2
+[01:44:47]   candidate upload_id=933baebd6aacf7cd url=https://prehraj.to/faunovo-velmi-pozdni-odpoledne-1983-czdabing/933baebd6aacf7cd
+[01:44:48]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/165524162/DLzSo2HMjfaRFWnSxafK4H72TzLTXocYgUa…)
+[01:45:31]   downloaded 1,242.4 MB in 40.3s (30.8 MB/s)
+[01:46:26]   upload done video_id=26030474 in 55.1s
