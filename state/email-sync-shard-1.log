@@ -636,3 +636,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:56:33]   resolved in 1.4s → 1080p (https://pf-storage4.premiumcdn.net/150965604/d6dfrEujkFvQTP4IwDiYVuAOh8LUP2cOdh8…)
 [23:59:22]   downloaded 3,969.0 MB in 166.8s (23.8 MB/s)
 [00:03:10]   upload done video_id=26027388 in 227.6s
+[00:03:11] film cr_film_id=319 OK in 399.5s
+[00:03:11] iteration 6/20
+[00:03:11] film cr_film_id=321 name='Útěk do divočiny (2007) CZ Dabing' candidates=2
+[00:03:11]   candidate upload_id=68ea309f6ab41 url=https://prehraj.to/utek-do-divociny-2007-cz-dabing-1080p/68ea309f6ab41
+[00:03:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utek-do-divociny-2007-cz-dabing-1080p/68ea309f6ab41 (permanent=True)
+[00:03:12]   candidate upload_id=68aace749eeb1 url=https://prehraj.to/utek-do-divociny-2007-fhd-1080p-cz-783/68aace749eeb1
+[00:03:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utek-do-divociny-2007-fhd-1080p-cz-783/68aace749eeb1 (permanent=True)
+[00:03:18] film cr_film_id=321 all candidates exhausted
+[00:03:18] iteration 7/20
+[00:03:18] film cr_film_id=323 name='Černá kočka, bílý kocour (1998) CZ Dabing' candidates=8
+[00:03:18]   candidate upload_id=6365396de3f62 url=https://prehraj.to/cerna-kocka-bily-kocour-black-cat-white-cat-1998-1080p-web-dlrip-cz-dabing/6365396de3f62
+[00:03:24]   resolved in 6.0s → 720p (https://pf-storage3.premiumcdn.net/34289281/rqGTPeuyYUZKHMvhYKFOMuNYsxZilMHVYUdL…)
+[00:04:50]   downloaded 1,940.9 MB in 84.0s (23.1 MB/s)
+[00:06:42]   upload done video_id=26027499 in 112.3s
