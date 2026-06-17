@@ -7958,6 +7958,25 @@
         "download_sec": 22.9,
         "upload_sec": 44.1
       }
+    },
+    {
+      "cr_film_id": 532,
+      "cr_slug": "chudacci",
+      "title": "Chudáčci",
+      "year": 2023,
+      "display_name": "Chudáčci (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67e82d337429c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26033687,
+      "size_bytes": 5524038839,
+      "uploaded_at": "2026-06-17T05:15:00Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 268.4,
+        "upload_sec": 468.1
+      }
     }
   ],
   "failed_attempts": [
@@ -8151,5 +8170,5 @@
       "failed_at": "2026-06-17T03:46:48Z"
     }
   ],
-  "last_updated": "2026-06-17T05:02:39Z"
+  "last_updated": "2026-06-17T05:15:00Z"
 }
