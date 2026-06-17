@@ -2765,3 +2765,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:18:48]   upload done video_id=26044017 in 25.7s
 [15:18:50] film cr_film_id=1505 OK in 55.7s
 [15:18:50] batch-end ok=20 failed=0 dur=3206.4s avg/film=160.3s remaining=16884 eta_hours=751.8
+
+===== run 2026-06-17T15:19:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27699732745) =====
+[15:19:33] description overrides loaded: 1050 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:19:33] batch-start shard=1/2 count=20 backlog=17650 uploads=766 failed_attempts=53 description_overrides=1050
+[15:19:33] login
+[15:19:35] login done
+[15:19:35] iteration 1/20
+[15:19:35] film cr_film_id=1507 name='Bojovník (2015) CZ Dabing' candidates=28
+[15:19:35]   candidate upload_id=a1b4729ab2db590b url=https://prehraj.to/bojovnik-2015-cz-dab-1080p/a1b4729ab2db590b
+[15:19:36]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/168124921/85LiQ9SEwTRLfAGt62sP8Smoiw0smQiONFL…)
+[15:21:01]   downloaded 2,257.6 MB in 83.2s (27.1 MB/s)
+[15:22:59]   upload done video_id=26044079 in 118.2s
