@@ -2173,3 +2173,17 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [04:28:38]   resolved in 0.7s → 720p (https://pf-storage5.premiumcdn.net/163007297/4VxFGOcZMFrGsVySOwTO5cR0FQxhYVtl8fj…)
 [04:29:12]   downloaded 1,208.0 MB in 33.1s (36.5 MB/s)
 [04:30:07]   upload done video_id=26032962 in 54.2s
+[04:30:08] film cr_film_id=28417 OK in 90.0s
+[04:30:08] iteration 17/20
+[04:30:08] film cr_film_id=9147 name='One Mile: Chapter Two (2026) CZ Titulky' candidates=1
+[04:30:08]   candidate upload_id=1d53f93a9bbf2e18 url=https://prehraj.to/one-mile-chapter-two-2026-cz-tit-1080p/1d53f93a9bbf2e18
+[04:30:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/one-mile-chapter-two-2026-cz-tit-1080p/1d53f93a9bbf2e18 (permanent=True)
+[04:30:09] film cr_film_id=9147 all candidates exhausted
+[04:30:09] iteration 18/20
+[04:30:09] film cr_film_id=7445 name='One Mile: Chapter One (2026) CZ Titulky' candidates=3
+[04:30:09]   candidate upload_id=df55d4bce4469898 url=https://prehraj.to/one-mile-chapter-one-2026-cz-titulky-mkv/df55d4bce4469898
+[04:30:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/one-mile-chapter-one-2026-cz-titulky-mkv/df55d4bce4469898 (permanent=True)
+[04:30:14]   candidate upload_id=1de2fbc127db6005 url=https://prehraj.to/one-mile-chapter-one-2026-cz-titulky/1de2fbc127db6005
+[04:30:20]   resolved in 6.0s → 720p (https://pf-storage3.premiumcdn.net/166246031/4LMT5diVJsWEs0XSaQH07iqzHpRsXaIeduY…)
+[04:31:21]   downloaded 2,177.3 MB in 59.3s (36.7 MB/s)
+[04:32:37]   upload done video_id=26032997 in 76.7s
