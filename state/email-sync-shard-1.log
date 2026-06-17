@@ -3143,3 +3143,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:30:16]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/105417698/rRMc4DTZ2ceyFPBsx0fB7TMbC3msL5SP8cN…)
 [17:31:41]   downloaded 2,538.6 MB in 82.8s (30.7 MB/s)
 [17:33:28]   upload done video_id=26047953 in 107.1s
+[17:33:30] film cr_film_id=1693 OK in 194.3s
+[17:33:30] iteration 12/20
+[17:33:30] film cr_film_id=1695 name='Muž ve stínu (2010) CZ Dabing' candidates=3
+[17:33:30]   candidate upload_id=421ac2958f6909a8 url=https://prehraj.to/muz-ve-stinu-2010-cz-dab-1080p/421ac2958f6909a8
+[17:33:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muz-ve-stinu-2010-cz-dab-1080p/421ac2958f6909a8 (permanent=True)
+[17:33:30]   candidate upload_id=1b538876f3d57cfe url=https://prehraj.to/muz-ve-stinu-2010-cz-dab-1080p-mp4/1b538876f3d57cfe
+[17:33:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muz-ve-stinu-2010-cz-dab-1080p-mp4/1b538876f3d57cfe (permanent=True)
+[17:33:36]   candidate upload_id=68820dc4e6ab5 url=https://prehraj.to/roman-polanski-muz-ve-stinu-cz-dabing-mp4/68820dc4e6ab5
+[17:33:42]   resolved in 5.9s → 480p (https://pf-storage4.premiumcdn.net/142085924/eoyfBDhk2S3whv0F4xhZQh0yTDrf1kFv0U4…)
+[17:34:07]   downloaded 695.6 MB in 24.3s (28.6 MB/s)
+[17:34:45]   upload done video_id=26048025 in 37.5s
