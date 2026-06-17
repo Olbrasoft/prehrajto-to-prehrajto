@@ -12736,6 +12736,25 @@
         "download_sec": 83.9,
         "upload_sec": 36.1
       }
+    },
+    {
+      "cr_film_id": 1733,
+      "cr_slug": "fantasticka-zvirata-a-kde-je-najit",
+      "title": "Fantastická zvířata a kde je najít",
+      "year": 2016,
+      "display_name": "Fantastická zvířata a kde je najít (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0283d56b42477532",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26048689,
+      "size_bytes": 3511303545,
+      "uploaded_at": "2026-06-17T17:59:59Z",
+      "timing": {
+        "resolve_sec": 7.4,
+        "download_sec": 246.3,
+        "upload_sec": 144.2
+      }
     }
   ],
   "failed_attempts": [
@@ -13161,7 +13180,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muz-ve-stinu-2010-cz-dab-1080p-mp4/1b538876f3d57cfe",
       "permanent": true,
       "failed_at": "2026-06-17T17:33:36Z"
+    },
+    {
+      "cr_film_id": 1733,
+      "upload_id": "67ec916644bfd",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/fantasticka-zvirata-a-kde-je-najit-1-2016-cz-dabing/67ec916644bfd",
+      "permanent": true,
+      "failed_at": "2026-06-17T17:53:20Z"
     }
   ],
-  "last_updated": "2026-06-17T17:53:18Z"
+  "last_updated": "2026-06-17T17:59:59Z"
 }

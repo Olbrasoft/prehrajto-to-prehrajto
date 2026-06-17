@@ -3196,3 +3196,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:51:16]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/168951445/z1qSJ6IMvUJeu4LSxNUVKILzfR7HlBHG8cd…)
 [17:52:42]   downloaded 830.8 MB in 83.9s (9.9 MB/s)
 [17:53:18]   upload done video_id=26048555 in 36.1s
+[17:53:19] film cr_film_id=1721 OK in 124.3s
+[17:53:19] iteration 19/20
+[17:53:19] film cr_film_id=1733 name='Fantastická zvířata a kde je najít (2016) CZ Dabing' candidates=5
+[17:53:19]   candidate upload_id=67ec916644bfd url=https://prehraj.to/fantasticka-zvirata-a-kde-je-najit-1-2016-cz-dabing/67ec916644bfd
+[17:53:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/fantasticka-zvirata-a-kde-je-najit-1-2016-cz-dabing/67ec916644bfd (permanent=True)
+[17:53:20]   candidate upload_id=0283d56b42477532 url=https://prehraj.to/fantasticka-zvirata-1-a-kde-je-najit-2016-uhdrdv-cz-sk-en-mkv/0283d56b42477532
+[17:53:27]   resolved in 7.4s → 1080p (https://pf-storage1.premiumcdn.net/163415804/pn6FlzsOnSxeIPnUV8C5ZsA8hZMh07hXlUo…)
+[17:57:35]   downloaded 3,511.3 MB in 246.3s (14.3 MB/s)
+[17:59:59]   upload done video_id=26048689 in 144.2s
