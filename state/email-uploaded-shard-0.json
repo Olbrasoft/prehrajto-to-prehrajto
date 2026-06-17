@@ -9706,6 +9706,25 @@
         "download_sec": 59.7,
         "upload_sec": 73.8
       }
+    },
+    {
+      "cr_film_id": 888,
+      "cr_slug": "13-samuraju",
+      "title": "13 samurajů",
+      "year": 2010,
+      "display_name": "13 samurajů (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a747d1019e34",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26036701,
+      "size_bytes": 1032477979,
+      "uploaded_at": "2026-06-17T09:25:42Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 35.4,
+        "upload_sec": 42.6
+      }
     }
   ],
   "failed_attempts": [
@@ -9955,5 +9974,5 @@
       "failed_at": "2026-06-17T08:27:44Z"
     }
   ],
-  "last_updated": "2026-06-17T09:24:20Z"
+  "last_updated": "2026-06-17T09:25:42Z"
 }
