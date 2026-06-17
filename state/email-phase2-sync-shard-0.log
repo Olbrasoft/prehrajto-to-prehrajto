@@ -3553,3 +3553,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [12:51:57]   upload done video_id=26039116 in 107.4s
 [12:51:58] film cr_film_id=36936 OK in 230.8s
 [12:51:58] batch-end ok=19 failed=1 dur=3604.1s avg/film=189.7s remaining=9323 eta_hours=491.3
+
+===== run 2026-06-17T12:52:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27690303448) =====
+[12:52:40] batch-start shard=0/2 count=20 backlog=10210 uploads=887 failed_attempts=45 description_overrides=0
+[12:52:40] login
+[12:52:42] login done
+[12:52:42] iteration 1/20
+[12:52:42] film cr_film_id=6774 name="Le Mangeur d'âmes (2024) CZ Titulky" candidates=2
+[12:52:42]   candidate upload_id=6749f39d3c407 url=https://prehraj.to/le-mangeur-d-ames-2024-cz-tit/6749f39d3c407
+[12:52:43]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/113960969/1E9FnyU3LhDqHmbt7QHo4U7pFZqSAntgDha…)
+[12:53:25]   downloaded 1,478.3 MB in 41.2s (35.9 MB/s)
+[12:55:18]   upload done video_id=26039213 in 112.2s
