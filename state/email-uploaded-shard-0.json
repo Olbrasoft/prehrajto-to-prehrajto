@@ -9117,6 +9117,25 @@
         "download_sec": 114.0,
         "upload_sec": 141.9
       }
+    },
+    {
+      "cr_film_id": 796,
+      "cr_slug": "5050",
+      "title": "50/50",
+      "year": 2011,
+      "display_name": "50/50 (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "559186010a7c6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26035491,
+      "size_bytes": 478225210,
+      "uploaded_at": "2026-06-17T07:49:55Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 15.4,
+        "upload_sec": 19.2
+      }
     }
   ],
   "failed_attempts": [
@@ -9345,5 +9364,5 @@
       "failed_at": "2026-06-17T07:07:55Z"
     }
   ],
-  "last_updated": "2026-06-17T07:49:17Z"
+  "last_updated": "2026-06-17T07:49:55Z"
 }
