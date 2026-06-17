@@ -3490,3 +3490,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [12:20:49]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/89937860/LgAIa1UeluwrcrMS2YImMUADieWt38H8XfRd…)
 [12:22:24]   downloaded 2,258.1 MB in 93.5s (24.2 MB/s)
 [12:24:41]   upload done video_id=26038818 in 136.2s
+[12:24:42] film cr_film_id=7490 OK in 234.6s
+[12:24:42] iteration 12/20
+[12:24:42] film cr_film_id=37180 name='Nedělej vlny (2024) CZ Titulky' candidates=1
+[12:24:42]   candidate upload_id=02f3fc50e8d50491 url=https://prehraj.to/nedelej-vlny-2024-cz-titulky/02f3fc50e8d50491
+[12:24:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nedelej-vlny-2024-cz-titulky/02f3fc50e8d50491 (permanent=True)
+[12:24:43] film cr_film_id=37180 all candidates exhausted
+[12:24:43] iteration 13/20
+[12:24:43] film cr_film_id=36934 name='My Dead Friend Zoe (2024) CZ Titulky' candidates=1
+[12:24:43]   candidate upload_id=68deab4e58ed5 url=https://prehraj.to/my-dead-friend-zoe-2024-cz-titulky/68deab4e58ed5
+[12:24:49]   resolved in 6.2s → 720p (https://pf-storage4.premiumcdn.net/149488890/13yurRsx0H8mi64I5oSjRs6WIXDTEOhwbFX…)
+[12:26:08]   downloaded 1,468.3 MB in 76.5s (19.2 MB/s)
+[12:27:38]   upload done video_id=26038846 in 89.7s
