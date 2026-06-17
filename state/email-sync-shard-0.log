@@ -1296,3 +1296,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:59:53]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/151334394/0elTY4UbQSnrt1ZiXbsagUzQFZXcNrSRVhj…)
 [06:00:45]   downloaded 1,807.7 MB in 50.1s (36.1 MB/s)
 [06:01:48]   upload done video_id=26034470 in 63.8s
+[06:01:49] film cr_film_id=624 OK in 117.4s
+[06:01:49] iteration 11/20
+[06:01:49] film cr_film_id=628 name='Harry Potter a Ohnivý pohár (2005) CZ Dabing' candidates=19
+[06:01:49]   candidate upload_id=65284f78684ce url=https://prehraj.to/4-harry-potter-a-ohnivy-pohar-158m-2005-usa-vb-czdabing-hd-720p-i/65284f78684ce
+[06:01:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/4-harry-potter-a-ohnivy-pohar-158m-2005-usa-vb-czdabing-hd-720p-i/65284f78684ce (permanent=True)
+[06:01:50]   candidate upload_id=68d9603864f69 url=https://prehraj.to/harry-potter-a-ohnivy-pohar-2005-cz-dabing-topkvalita/68d9603864f69
+[06:01:56]   resolved in 6.3s → 1080p (https://pf-storage4.premiumcdn.net/148869846/Zr8H63imPs4BcGafZxfkVioVHDEI45urzUm…)
+[06:04:21]   downloaded 5,187.1 MB in 142.9s (36.3 MB/s)
+[06:08:08]   upload done video_id=26034502 in 227.4s
