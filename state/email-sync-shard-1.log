@@ -3520,3 +3520,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:24:57]   upload done video_id=26056251 in 142.6s
 [21:24:58] film cr_film_id=1915 OK in 232.4s
 [21:24:58] batch-end ok=20 failed=0 dur=4934.1s avg/film=246.7s remaining=16786 eta_hours=1150.3
+
+===== run 2026-06-17T21:25:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27720771920) =====
+[21:25:32] description overrides loaded: 3228 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:25:32] batch-start shard=1/2 count=20 backlog=17650 uploads=864 failed_attempts=66 description_overrides=3228
+[21:25:32] login
+[21:25:34] login done
+[21:25:34] iteration 1/20
+[21:25:34] film cr_film_id=1917 name='Americký outsider (2021) CZ Dabing' candidates=4
+[21:25:34]   candidate upload_id=63164a297dcdd url=https://prehraj.to/american-underdog-2021-czdab/63164a297dcdd
+[21:25:35]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/32614393/4e7ckEUrQCavCERhDVHGxU1EIXotL6SlmFRk…)
+[21:27:37]   downloaded 3,299.1 MB in 120.7s (27.3 MB/s)
+[21:30:26]   upload done video_id=26056399 in 168.7s
