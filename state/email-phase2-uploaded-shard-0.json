@@ -10687,6 +10687,25 @@
         "download_sec": 23.1,
         "upload_sec": 27.5
       }
+    },
+    {
+      "cr_film_id": 37250,
+      "cr_slug": "my-se-nehnevame",
+      "title": "My se nehněváme",
+      "year": 1966,
+      "display_name": "My se nehněváme (1966) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0bdd67bcf2e86e68",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26033172,
+      "size_bytes": 3103494894,
+      "uploaded_at": "2026-06-17T04:44:44Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 148.1,
+        "upload_sec": 157.9
+      }
     }
   ],
   "failed_attempts": [
@@ -10817,5 +10836,5 @@
       "failed_at": "2026-06-17T01:43:02Z"
     }
   ],
-  "last_updated": "2026-06-17T04:39:33Z"
+  "last_updated": "2026-06-17T04:44:44Z"
 }
