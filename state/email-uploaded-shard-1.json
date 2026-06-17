@@ -7131,6 +7131,25 @@
         "download_sec": 122.7,
         "upload_sec": 123.9
       }
+    },
+    {
+      "cr_film_id": 449,
+      "cr_slug": "ircan",
+      "title": "Irčan",
+      "year": 2019,
+      "display_name": "Irčan (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5df7a20ed6a19",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26031276,
+      "size_bytes": 2161134877,
+      "uploaded_at": "2026-06-17T02:35:28Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 408.7,
+        "upload_sec": 159.4
+      }
     }
   ],
   "failed_attempts": [
@@ -7231,7 +7250,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kocour-v-botach-posledni-prani-2022-cz-dabing-hd/ff429bee6c46ddef",
       "permanent": true,
       "failed_at": "2026-06-17T02:18:14Z"
+    },
+    {
+      "cr_film_id": 449,
+      "upload_id": "5ff7c22249401",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ircan-the-irishman-2019-1080p-webrip-cz-dab/5ff7c22249401",
+      "permanent": true,
+      "failed_at": "2026-06-17T02:25:51Z"
     }
   ],
-  "last_updated": "2026-06-17T02:25:49Z"
+  "last_updated": "2026-06-17T02:35:28Z"
 }
