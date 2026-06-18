@@ -5946,3 +5946,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:40:10]   resolved in 1.5s → 720p (https://pf-storage4.premiumcdn.net/149055120/kq1ik8u5mt2Wcy0T3jcdyu3DI73i72iV7cY…)
 [12:41:04]   downloaded 1,172.4 MB in 52.3s (22.4 MB/s)
 [12:42:26]   upload done video_id=26087308 in 82.1s
+[12:42:29] film cr_film_id=3227 OK in 140.5s
+[12:42:29] iteration 9/20
+[12:42:29] film cr_film_id=3229 name='Reality (2023) CZ Dabing' candidates=5
+[12:42:29]   candidate upload_id=65bae8dd01f03 url=https://prehraj.to/reality-2023-czdab/65bae8dd01f03
+[12:42:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/reality-2023-czdab/65bae8dd01f03 (permanent=True)
+[12:42:30]   candidate upload_id=65bb29c34e2df url=https://prehraj.to/reality-2023-czdab/65bb29c34e2df
+[12:42:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/reality-2023-czdab/65bb29c34e2df (permanent=True)
+[12:42:35]   candidate upload_id=65bb30cc152a4 url=https://prehraj.to/reality-2023-czdab-mp4/65bb30cc152a4
+[12:42:42]   resolved in 6.5s → 720p (https://pf-storage1.premiumcdn.net/72917170/V0lUdnIo2UBdhGBS0YSd0I3lSVXSqYiynHGm…)
+[12:43:27]   downloaded 709.1 MB in 43.3s (16.4 MB/s)
+[12:44:18]   upload done video_id=26087359 in 50.7s
