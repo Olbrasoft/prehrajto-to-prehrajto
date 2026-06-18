@@ -7762,3 +7762,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [20:29:46]   upload done video_id=26103045 in 140.4s
 [20:29:48] film cr_film_id=29852 OK in 285.8s
 [20:29:48] batch-end ok=20 failed=0 dur=8622.6s avg/film=431.1s remaining=8760 eta_hours=1049.0
+
+===== run 2026-06-18T20:30:23Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27787416061) =====
+[20:30:23] batch-start shard=0/2 count=20 backlog=10210 uploads=1450 failed_attempts=65 description_overrides=0
+[20:30:23] login
+[20:30:25] login done
+[20:30:25] iteration 1/20
+[20:30:25] film cr_film_id=29870 name='Za soumraku (2019) CZ Titulky' candidates=1
+[20:30:25]   candidate upload_id=61340aa9174db url=https://prehraj.to/za-soumraku-2019-cztitulky/61340aa9174db
+[20:30:27]   resolved in 1.9s → 720p (https://pf-storage1.premiumcdn.net/24805850/lrJFGdUpPIewhapCLYfOoU3pIk8HYofjEuQ3…)
+[20:31:30]   downloaded 1,118.9 MB in 61.2s (18.3 MB/s)
+[20:32:55]   upload done video_id=26103146 in 85.0s
