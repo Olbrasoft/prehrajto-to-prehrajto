@@ -4474,3 +4474,13 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:12:17]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/106753748/OlQF7GUmGtxWS5YCXJHVlULDU6vFKrCRBTn…)
 [03:13:02]   downloaded 1,354.7 MB in 43.8s (30.9 MB/s)
 [03:13:58]   upload done video_id=26066013 in 56.0s
+[03:14:00] film cr_film_id=2429 OK in 104.1s
+[03:14:00] iteration 10/20
+[03:14:00] film cr_film_id=2431 name='Bronson (2008) CZ Dabing' candidates=6
+[03:14:00]   candidate upload_id=64fd9740ad006 url=https://prehraj.to/bronson-2008-cz-dabing/64fd9740ad006
+[03:14:01]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/44442533/AWeH5LhB7s84F6NfEpU2WhKJSN2fYEi8eId0…)
+[03:14:03]   oversize: 10245607979 B > 6000000000 B, skip
+[03:14:03]   candidate upload_id=5668a84dd8e98 url=https://prehraj.to/bronson-cz-dabing-2008/5668a84dd8e98
+[03:14:08]   resolved in 5.7s → 480p (https://pf-storage4.premiumcdn.net/509363/zEKcP4fQ6CzRHEWFyNS43fepszjsLpSEoFAxSR…)
+[03:14:43]   downloaded 787.8 MB in 33.5s (23.5 MB/s)
+[03:15:16]   upload done video_id=26066060 in 33.4s
