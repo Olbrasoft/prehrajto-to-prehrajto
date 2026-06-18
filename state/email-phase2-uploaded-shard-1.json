@@ -17053,6 +17053,25 @@
         "download_sec": 42.6,
         "upload_sec": 56.3
       }
+    },
+    {
+      "cr_film_id": 27445,
+      "cr_slug": "bubble",
+      "title": "Bubble",
+      "year": 2022,
+      "display_name": "Bubble (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "639b46525ada5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26060783,
+      "size_bytes": 2988035808,
+      "uploaded_at": "2026-06-18T00:01:01Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 99.0,
+        "upload_sec": 108.9
+      }
     }
   ],
   "failed_attempts": [
@@ -17428,5 +17447,5 @@
       "failed_at": "2026-06-17T23:24:22Z"
     }
   ],
-  "last_updated": "2026-06-17T23:57:29Z"
+  "last_updated": "2026-06-18T00:01:01Z"
 }
