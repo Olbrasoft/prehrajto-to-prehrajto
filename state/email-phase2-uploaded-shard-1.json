@@ -19561,6 +19561,25 @@
         "download_sec": 49.0,
         "upload_sec": 51.8
       }
+    },
+    {
+      "cr_film_id": 26997,
+      "cr_slug": "dashcam",
+      "title": "Dashcam",
+      "year": 2021,
+      "display_name": "Dashcam (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "62dd91da7a722",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26070697,
+      "size_bytes": 2547264808,
+      "uploaded_at": "2026-06-18T06:24:51Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 130.7,
+        "upload_sec": 139.7
+      }
     }
   ],
   "failed_attempts": [
@@ -19971,5 +19990,5 @@
       "failed_at": "2026-06-18T05:42:13Z"
     }
   ],
-  "last_updated": "2026-06-18T06:18:10Z"
+  "last_updated": "2026-06-18T06:24:51Z"
 }

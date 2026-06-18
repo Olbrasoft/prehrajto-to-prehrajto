@@ -5850,3 +5850,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [06:18:10]   upload done video_id=26070600 in 51.8s
 [06:18:12] film cr_film_id=27317 OK in 104.9s
 [06:18:12] batch-end ok=19 failed=1 dur=2288.4s avg/film=120.4s remaining=9031 eta_hours=302.0
+
+===== run 2026-06-18T06:20:14Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27740791551) =====
+[06:20:15] batch-start shard=1/2 count=20 backlog=10210 uploads=1179 failed_attempts=58 description_overrides=0
+[06:20:15] login
+[06:20:17] login done
+[06:20:17] iteration 1/20
+[06:20:17] film cr_film_id=26997 name='Dashcam (2021) CZ Titulky' candidates=1
+[06:20:17]   candidate upload_id=62dd91da7a722 url=https://prehraj.to/dashcam-2021-cztitulky/62dd91da7a722
+[06:20:18]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/31746146/4DQcZ9Ta5tXvhOrFolUBnTektBeSmPF5lS1p…)
+[06:22:31]   downloaded 2,547.3 MB in 130.7s (19.5 MB/s)
+[06:24:51]   upload done video_id=26070697 in 139.7s
