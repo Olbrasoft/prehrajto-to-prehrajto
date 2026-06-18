@@ -18303,6 +18303,25 @@
         "download_sec": 15.8,
         "upload_sec": 28.3
       }
+    },
+    {
+      "cr_film_id": 2889,
+      "cr_slug": "sucho",
+      "title": "Sucho",
+      "year": 2020,
+      "display_name": "Sucho (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6675e2406f364",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26074086,
+      "size_bytes": 1813051861,
+      "uploaded_at": "2026-06-18T09:07:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 51.1,
+        "upload_sec": 94.5
+      }
     }
   ],
   "failed_attempts": [
@@ -18859,5 +18878,5 @@
       "failed_at": "2026-06-18T08:49:13Z"
     }
   ],
-  "last_updated": "2026-06-18T09:04:41Z"
+  "last_updated": "2026-06-18T09:07:11Z"
 }
