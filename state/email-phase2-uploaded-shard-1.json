@@ -18174,6 +18174,25 @@
         "download_sec": 54.1,
         "upload_sec": 70.2
       }
+    },
+    {
+      "cr_film_id": 33961,
+      "cr_slug": "strasidlo",
+      "title": "Strašidlo",
+      "year": 2021,
+      "display_name": "Strašidlo (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "622d2245b4894",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26065173,
+      "size_bytes": 1135709404,
+      "uploaded_at": "2026-06-18T02:36:57Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 52.8,
+        "upload_sec": 69.6
+      }
     }
   ],
   "failed_attempts": [
@@ -18554,7 +18573,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blowback-2022-cz-titulky/76b7bd494a6b8085",
       "permanent": true,
       "failed_at": "2026-06-18T00:06:59Z"
+    },
+    {
+      "cr_film_id": 14477,
+      "upload_id": "19f231fdc665f9b9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/survive-the-game-2021-cz-titulky/19f231fdc665f9b9",
+      "permanent": true,
+      "failed_at": "2026-06-18T02:34:47Z"
     }
   ],
-  "last_updated": "2026-06-18T02:34:45Z"
+  "last_updated": "2026-06-18T02:36:57Z"
 }
