@@ -20526,6 +20526,25 @@
         "download_sec": 48.2,
         "upload_sec": 119.7
       }
+    },
+    {
+      "cr_film_id": 3399,
+      "cr_slug": "pryc-od-pece",
+      "title": "Pryč od pece",
+      "year": 2013,
+      "display_name": "Pryč od pece (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d8b3185688f7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26094486,
+      "size_bytes": 1746591229,
+      "uploaded_at": "2026-06-18T15:20:53Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 65.3,
+        "upload_sec": 89.0
+      }
     }
   ],
   "failed_attempts": [
@@ -21136,7 +21155,35 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/8bitove-vanoce-8-bit-christmas-2021-1080p-hmax-web-dl-ddp5-1-cz-dabing/61dab0bec738b",
       "permanent": true,
       "failed_at": "2026-06-18T14:13:46Z"
+    },
+    {
+      "cr_film_id": 3397,
+      "upload_id": "02c1e001820efb6b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p/02c1e001820efb6b",
+      "permanent": true,
+      "failed_at": "2026-06-18T15:17:54Z"
+    },
+    {
+      "cr_film_id": 3397,
+      "upload_id": "08621f1f5564e043",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p/08621f1f5564e043",
+      "permanent": true,
+      "failed_at": "2026-06-18T15:18:00Z"
+    },
+    {
+      "cr_film_id": 3397,
+      "upload_id": "8e8e6aaabef26286",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p-mp4/8e8e6aaabef26286",
+      "permanent": true,
+      "failed_at": "2026-06-18T15:18:05Z"
+    },
+    {
+      "cr_film_id": 3397,
+      "upload_id": "7e8b1c0639853645",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p/7e8b1c0639853645",
+      "permanent": true,
+      "failed_at": "2026-06-18T15:18:11Z"
     }
   ],
-  "last_updated": "2026-06-18T15:17:52Z"
+  "last_updated": "2026-06-18T15:20:53Z"
 }

@@ -6286,3 +6286,21 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:15:02]   resolved in 1.9s → 720p (https://pf-storage1.premiumcdn.net/17993631/VRDT5QfymH85hQbCk6t3nfRACVgfKbh86TeZ…)
 [15:15:52]   downloaded 1,008.5 MB in 48.2s (20.9 MB/s)
 [15:17:52]   upload done video_id=26094315 in 119.7s
+[15:17:53] film cr_film_id=3393 OK in 173.5s
+[15:17:53] iteration 15/20
+[15:17:53] film cr_film_id=3397 name='Equalizer 2 (2018) CZ Dabing' candidates=4
+[15:17:53]   candidate upload_id=02c1e001820efb6b url=https://prehraj.to/equalizer-2-2018-cz-dab-1080p/02c1e001820efb6b
+[15:17:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p/02c1e001820efb6b (permanent=True)
+[15:17:54]   candidate upload_id=08621f1f5564e043 url=https://prehraj.to/equalizer-2-2018-cz-dab-1080p/08621f1f5564e043
+[15:18:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p/08621f1f5564e043 (permanent=True)
+[15:18:00]   candidate upload_id=8e8e6aaabef26286 url=https://prehraj.to/equalizer-2-2018-cz-dab-1080p-mp4/8e8e6aaabef26286
+[15:18:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p-mp4/8e8e6aaabef26286 (permanent=True)
+[15:18:05]   candidate upload_id=7e8b1c0639853645 url=https://prehraj.to/equalizer-2-2018-cz-dab-1080p/7e8b1c0639853645
+[15:18:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/equalizer-2-2018-cz-dab-1080p/7e8b1c0639853645 (permanent=True)
+[15:18:11] film cr_film_id=3397 all candidates exhausted
+[15:18:11] iteration 16/20
+[15:18:11] film cr_film_id=3399 name='Pryč od pece (2013) CZ Dabing' candidates=11
+[15:18:11]   candidate upload_id=5d8b3185688f7 url=https://prehraj.to/pryc-od-pece-drama-cz-dab-2018-jad/5d8b3185688f7
+[15:18:17]   resolved in 6.2s → 720p (https://pf-storage5.premiumcdn.net/14923903/jo7tG1iBMHnRH4nsR4HMkix2SWmHAwClnH3l…)
+[15:19:24]   downloaded 1,746.6 MB in 65.3s (26.7 MB/s)
+[15:20:53]   upload done video_id=26094486 in 89.0s
