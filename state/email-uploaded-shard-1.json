@@ -16707,6 +16707,25 @@
         "download_sec": 35.3,
         "upload_sec": 44.5
       }
+    },
+    {
+      "cr_film_id": 2571,
+      "cr_slug": "promena",
+      "title": "Proměna",
+      "year": 2022,
+      "display_name": "Proměna (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67fcf7c50bc28",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26069014,
+      "size_bytes": 1630334357,
+      "uploaded_at": "2026-06-18T05:12:51Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 64.0,
+        "upload_sec": 85.1
+      }
     }
   ],
   "failed_attempts": [
@@ -17223,5 +17242,5 @@
       "failed_at": "2026-06-18T04:13:59Z"
     }
   ],
-  "last_updated": "2026-06-18T05:10:18Z"
+  "last_updated": "2026-06-18T05:12:51Z"
 }
