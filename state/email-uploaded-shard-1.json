@@ -18531,6 +18531,25 @@
         "download_sec": 48.8,
         "upload_sec": 72.1
       }
+    },
+    {
+      "cr_film_id": 2941,
+      "cr_slug": "ranar",
+      "title": "Ranař",
+      "year": 2011,
+      "display_name": "Ranař (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fafc3ba3a5bf",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26081091,
+      "size_bytes": 2512976541,
+      "uploaded_at": "2026-06-18T09:40:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 71.3,
+        "upload_sec": 95.2
+      }
     }
   ],
   "failed_attempts": [
@@ -19094,5 +19113,5 @@
       "failed_at": "2026-06-18T09:25:11Z"
     }
   ],
-  "last_updated": "2026-06-18T09:37:11Z"
+  "last_updated": "2026-06-18T09:40:02Z"
 }
