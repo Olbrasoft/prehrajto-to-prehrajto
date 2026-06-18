@@ -4619,3 +4619,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:26:22]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/28393/jOrSDKIX8twZcVGU7RFXPI62tNOFVWH37CORhn6…)
 [04:26:54]   downloaded 529.3 MB in 29.6s (17.9 MB/s)
 [04:27:25]   upload done video_id=26068032 in 30.7s
+[04:27:26] film cr_film_id=2350 OK in 65.4s
+[04:27:26] iteration 17/20
+[04:27:26] film cr_film_id=2356 name='Mžitky (2016) CZ Dabing' candidates=1
+[04:27:26]   candidate upload_id=63ed03d224806 url=https://prehraj.to/mzitky-powidoki-2016-1080p-bluray-cz-dabing-mp4/63ed03d224806
+[04:27:27]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/37429702/o5rH8kcPJF3YcDJuEqT7qcr8U3lH48iXaCZ7…)
+[04:28:41]   downloaded 1,388.1 MB in 72.1s (19.3 MB/s)
+[04:29:57]   upload FAILED after 75.9s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[04:29:58] film cr_film_id=2356 all candidates exhausted
+[04:29:58] iteration 18/20
+[04:29:58] film cr_film_id=2358 name='Žena v Berlíně (2008) CZ' candidates=1
+[04:29:58]   candidate upload_id=5a89c9a507001 url=https://prehraj.to/zena-v-berline-2008-cz/5a89c9a507001
+[04:29:59]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/3413145/66viy1uVWtyzhMPh6VhX5uKac41F9pFW5I8gI…)
+[04:30:26]   downloaded 531.4 MB in 24.7s (21.5 MB/s)
+[04:30:57]   upload done video_id=26068133 in 31.4s
