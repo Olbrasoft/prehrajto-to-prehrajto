@@ -24102,6 +24102,25 @@
         "download_sec": 121.4,
         "upload_sec": 64.8
       }
+    },
+    {
+      "cr_film_id": 29805,
+      "cr_slug": "promare",
+      "title": "Promare",
+      "year": 2019,
+      "display_name": "Promare (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60020924a0c00",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26100116,
+      "size_bytes": 2525534200,
+      "uploaded_at": "2026-06-18T18:18:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 229.9,
+        "upload_sec": 178.7
+      }
     }
   ],
   "failed_attempts": [
@@ -24551,5 +24570,5 @@
       "failed_at": "2026-06-18T13:58:21Z"
     }
   ],
-  "last_updated": "2026-06-18T18:12:00Z"
+  "last_updated": "2026-06-18T18:18:54Z"
 }
