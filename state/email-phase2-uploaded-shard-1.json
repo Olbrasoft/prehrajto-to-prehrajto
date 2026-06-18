@@ -20739,6 +20739,25 @@
         "download_sec": 55.1,
         "upload_sec": 58.0
       }
+    },
+    {
+      "cr_film_id": 31063,
+      "cr_slug": "the-departure",
+      "title": "The Departure",
+      "year": 2020,
+      "display_name": "The Departure (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f1c7be6ee46c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26075269,
+      "size_bytes": 845624213,
+      "uploaded_at": "2026-06-18T09:33:44Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 31.4,
+        "upload_sec": 35.6
+      }
     }
   ],
   "failed_attempts": [
@@ -21149,5 +21168,5 @@
       "failed_at": "2026-06-18T05:42:13Z"
     }
   ],
-  "last_updated": "2026-06-18T09:32:33Z"
+  "last_updated": "2026-06-18T09:33:44Z"
 }
