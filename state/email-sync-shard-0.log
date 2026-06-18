@@ -5691,3 +5691,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:30:23]   upload done video_id=26084465 in 72.0s
 [11:30:25] film cr_film_id=2852 OK in 290.2s
 [11:30:25] batch-end ok=20 failed=0 dur=4646.2s avg/film=232.3s remaining=16480 eta_hours=1063.4
+
+===== run 2026-06-18T11:30:59Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27756417678) =====
+[11:31:00] description overrides loaded: 5848 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:31:00] batch-start shard=0/2 count=20 backlog=17650 uploads=1170 failed_attempts=89 description_overrides=5848
+[11:31:00] login
+[11:31:01] login done
+[11:31:01] iteration 1/20
+[11:31:01] film cr_film_id=2854 name='Vykupující láska (2022) CZ Dabing' candidates=5
+[11:31:01]   candidate upload_id=6629fb40718d1 url=https://prehraj.to/spasna-laska-2022-redeeming-love-czdub-bluray/6629fb40718d1
+[11:31:02]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/76550417/OaxUlkSGoFenHneCgWId4Sp0CgnsnETKPHag…)
+[11:31:52]   downloaded 1,772.8 MB in 48.4s (36.6 MB/s)
+[11:32:53]   upload done video_id=26084543 in 61.2s
