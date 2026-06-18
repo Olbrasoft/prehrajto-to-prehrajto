@@ -6437,3 +6437,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:51:49]   resolved in 1.6s → 480p (https://pf-storage2.premiumcdn.net/240605/6X9uYmcJyCWzhlrIAWs69cLGIpytlztdYFBkCP…)
 [17:55:57]   downloaded 886.6 MB in 246.5s (3.6 MB/s)
 [17:56:52]   upload done video_id=26099510 in 54.8s
+[17:56:54] film cr_film_id=3493 OK in 307.1s
+[17:56:54] iteration 15/20
+[17:56:54] film cr_film_id=3495 name='Karlík a továrna na čokoládu (2005) CZ Dabing' candidates=3
+[17:56:54]   candidate upload_id=d6e80761777ef81f url=https://prehraj.to/karlik-a-tovarna-na-cokoladu-2005-cz-dab-1080p/d6e80761777ef81f
+[17:56:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/karlik-a-tovarna-na-cokoladu-2005-cz-dab-1080p/d6e80761777ef81f (permanent=True)
+[17:56:56]   candidate upload_id=ec988d000fbfb191 url=https://prehraj.to/karlik-a-tovarna-na-cokoladu-2005-cz-dab/ec988d000fbfb191
+[17:57:02]   resolved in 6.4s → 1080p (https://pf-storage3.premiumcdn.net/165039122/PaLiw2HM4c9wCK9Hg6cnvHkNsArIGqHKDIE…)
+[17:59:24]   downloaded 3,054.6 MB in 140.0s (21.8 MB/s)
+[18:02:41]   upload done video_id=26099611 in 197.3s
