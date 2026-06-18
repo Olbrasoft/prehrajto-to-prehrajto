@@ -5671,3 +5671,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:59:05]   resolved in 1.3s → 720p (https://pf-storage2.premiumcdn.net/23006385/094cpYSWAF7OsL4Cq6TKDS8zsRxsp8hV6I7B…)
 [05:00:06]   downloaded 1,034.2 MB in 58.5s (17.7 MB/s)
 [05:01:23]   upload done video_id=26068799 in 77.1s
+[05:01:25] film cr_film_id=17416 OK in 140.9s
+[05:01:25] iteration 14/20
+[05:01:25] film cr_film_id=3318 name='Temná dcera (2021) CZ Titulky' candidates=4
+[05:01:25]   candidate upload_id=61cfc55a774fd url=https://prehraj.to/the-lost-daughter-2021-cztitulky/61cfc55a774fd
+[05:01:25]   resolved in 0.9s → 720p (https://pf-storage4.premiumcdn.net/27956340/PK2Ur2F0PUlVhxYCPRFEPFLWUqoHq1c14tjg…)
+[05:02:43]   downloaded 1,332.8 MB in 75.4s (17.7 MB/s)
+[05:03:59]   upload FAILED after 75.9s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[05:03:59]   candidate upload_id=644fd6672b0d1 url=https://prehraj.to/temna-dcera-2021-cz-1080p/644fd6672b0d1
+[05:04:00]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/40061266/d5rh7Zi72TlPfqmTZXCv5i2AU9lsBbC1XFMk…)
+[05:06:28]   downloaded 2,581.6 MB in 145.7s (17.7 MB/s)
+[05:09:37]   upload done video_id=26068925 in 189.2s
