@@ -20517,6 +20517,25 @@
         "download_sec": 27.1,
         "upload_sec": 53.1
       }
+    },
+    {
+      "cr_film_id": 3152,
+      "cr_slug": "disturbia",
+      "title": "Disturbia",
+      "year": 2007,
+      "display_name": "Disturbia (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "40193fa52f35692e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26093963,
+      "size_bytes": 2963119367,
+      "uploaded_at": "2026-06-18T15:11:43Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 79.3,
+        "upload_sec": 247.6
+      }
     }
   ],
   "failed_attempts": [
@@ -21205,7 +21224,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kniha-preziti-2010-up-uhd-r-cz-en-mkv/bde2b7a0f44624e7",
       "permanent": true,
       "failed_at": "2026-06-18T14:02:05Z"
+    },
+    {
+      "cr_film_id": 3152,
+      "upload_id": "63a9c2b3f0516a76",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/disturbia-2007-cz-dab-1080p-mkv/63a9c2b3f0516a76",
+      "permanent": true,
+      "failed_at": "2026-06-18T15:06:09Z"
     }
   ],
-  "last_updated": "2026-06-18T15:06:06Z"
+  "last_updated": "2026-06-18T15:11:43Z"
 }

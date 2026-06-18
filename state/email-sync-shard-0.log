@@ -6228,3 +6228,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:04:45]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/14101503/mgGTwAhQ6UkQcOAtWvIe3hNnI9vFwOtb3sq7…)
 [15:05:13]   downloaded 947.1 MB in 27.1s (34.9 MB/s)
 [15:06:06]   upload done video_id=26093848 in 53.1s
+[15:06:08] film cr_film_id=3150 OK in 84.0s
+[15:06:08] iteration 13/20
+[15:06:08] film cr_film_id=3152 name='Disturbia (2007) CZ Dabing' candidates=3
+[15:06:08]   candidate upload_id=63a9c2b3f0516a76 url=https://prehraj.to/disturbia-2007-cz-dab-1080p-mkv/63a9c2b3f0516a76
+[15:06:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/disturbia-2007-cz-dab-1080p-mkv/63a9c2b3f0516a76 (permanent=True)
+[15:06:09]   candidate upload_id=40193fa52f35692e url=https://prehraj.to/disturbia-2007-cz-dab-1080p/40193fa52f35692e
+[15:06:15]   resolved in 6.0s → 1080p (https://pf-storage4.premiumcdn.net/155633321/gykIj5iBAhJeulVsgMSl3id9TwYFbwCX7tN…)
+[15:07:35]   downloaded 2,963.1 MB in 79.3s (37.4 MB/s)
+[15:11:43]   upload done video_id=26093963 in 247.6s
