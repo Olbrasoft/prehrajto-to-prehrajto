@@ -5038,3 +5038,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:17:04]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/70512644/YblUm4HmZSLYcZVfYaCM4HbpuLmfJGSD9HO9…)
 [07:17:37]   downloaded 881.3 MB in 31.0s (28.4 MB/s)
 [07:18:30]   upload done video_id=26071811 in 52.8s
+[07:18:31] film cr_film_id=2536 OK in 88.0s
+[07:18:31] iteration 13/20
+[07:18:31] film cr_film_id=2538 name='Zlo si umí počkat (2023) CZ' candidates=1
+[07:18:31]   candidate upload_id=66396bd1abb16 url=https://prehraj.to/zlo-si-umi-pockat-when-evil-lurks-2023-cz-titulky-fullhd-1080p/66396bd1abb16
+[07:18:32]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlo-si-umi-pockat-when-evil-lurks-2023-cz-titulky-fullhd-1080p/66396bd1abb16 (permanent=True)
+[07:18:32] film cr_film_id=2538 all candidates exhausted
+[07:18:32] iteration 14/20
+[07:18:32] film cr_film_id=2542 name='The Childe (2023) CZ Dabing' candidates=1
+[07:18:32]   candidate upload_id=65df897eb3dac url=https://prehraj.to/the-childe-2023-cz-dab/65df897eb3dac
+[07:18:38]   resolved in 6.0s → 480p (https://pf-storage3.premiumcdn.net/74013836/LqaIdQfj8h8Qt3MSzNimbfkEtE7tX6hmasnk…)
+[07:18:58]   downloaded 483.5 MB in 18.4s (26.3 MB/s)
+[07:19:20]   upload done video_id=26071838 in 22.2s

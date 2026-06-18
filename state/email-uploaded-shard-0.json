@@ -17572,6 +17572,25 @@
         "download_sec": 31.0,
         "upload_sec": 52.8
       }
+    },
+    {
+      "cr_film_id": 2542,
+      "cr_slug": "the-childe",
+      "title": "The Childe",
+      "year": 2023,
+      "display_name": "The Childe (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65df897eb3dac",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26071838,
+      "size_bytes": 483499746,
+      "uploaded_at": "2026-06-18T07:19:20Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 18.4,
+        "upload_sec": 22.2
+      }
     }
   ],
   "failed_attempts": [
@@ -18144,7 +18163,14 @@
       "reason": "oversize: 7942458475 B",
       "permanent": true,
       "failed_at": "2026-06-18T06:52:02Z"
+    },
+    {
+      "cr_film_id": 2538,
+      "upload_id": "66396bd1abb16",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlo-si-umi-pockat-when-evil-lurks-2023-cz-titulky-fullhd-1080p/66396bd1abb16",
+      "permanent": true,
+      "failed_at": "2026-06-18T07:18:32Z"
     }
   ],
-  "last_updated": "2026-06-18T07:18:30Z"
+  "last_updated": "2026-06-18T07:19:20Z"
 }
