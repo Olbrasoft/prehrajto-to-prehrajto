@@ -21362,6 +21362,25 @@
         "download_sec": 212.2,
         "upload_sec": 68.9
       }
+    },
+    {
+      "cr_film_id": 3587,
+      "cr_slug": "oui-sefe",
+      "title": "Oui, šéfe!",
+      "year": 2012,
+      "display_name": "Oui, šéfe! (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5668cadd234ee",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26104336,
+      "size_bytes": 456180121,
+      "uploaded_at": "2026-06-18T21:28:22Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 118.5,
+        "upload_sec": 23.5
+      }
     }
   ],
   "failed_attempts": [
@@ -22032,7 +22051,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/andele-a-demoni-2009-cz-dab-1080p/58a299e00d4c5cf3",
       "permanent": true,
       "failed_at": "2026-06-18T20:14:14Z"
+    },
+    {
+      "cr_film_id": 3581,
+      "upload_id": "eeb074a0ef0f8e61",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-2025-cz-dab/eeb074a0ef0f8e61",
+      "permanent": true,
+      "failed_at": "2026-06-18T21:25:45Z"
+    },
+    {
+      "cr_film_id": 3581,
+      "upload_id": "00ab5199f0330fd0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-2025-czdab/00ab5199f0330fd0",
+      "permanent": true,
+      "failed_at": "2026-06-18T21:25:51Z"
     }
   ],
-  "last_updated": "2026-06-18T21:25:10Z"
+  "last_updated": "2026-06-18T21:28:22Z"
 }

@@ -6633,3 +6633,22 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:25:10]   upload done video_id=26104257 in 68.9s
 [21:25:12] film cr_film_id=3577 OK in 285.4s
 [21:25:12] batch-end ok=19 failed=1 dur=4768.8s avg/film=251.0s remaining=16374 eta_hours=1141.6
+
+===== run 2026-06-18T21:25:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27790284321) =====
+[21:25:43] description overrides loaded: 8187 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:25:43] batch-start shard=1/2 count=20 backlog=17650 uploads=1276 failed_attempts=92 description_overrides=8187
+[21:25:43] login
+[21:25:45] login done
+[21:25:45] iteration 1/20
+[21:25:45] film cr_film_id=3581 name='28 let poté (2025) CZ Dabing' candidates=2
+[21:25:45]   candidate upload_id=eeb074a0ef0f8e61 url=https://prehraj.to/28-let-pote-2025-cz-dab/eeb074a0ef0f8e61
+[21:25:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-2025-cz-dab/eeb074a0ef0f8e61 (permanent=True)
+[21:25:45]   candidate upload_id=00ab5199f0330fd0 url=https://prehraj.to/28-let-pote-2025-czdab/00ab5199f0330fd0
+[21:25:51]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/28-let-pote-2025-czdab/00ab5199f0330fd0 (permanent=True)
+[21:25:51] film cr_film_id=3581 all candidates exhausted
+[21:25:51] iteration 2/20
+[21:25:51] film cr_film_id=3587 name='Oui, šéfe! (2012) CZ Dabing' candidates=1
+[21:25:51]   candidate upload_id=5668cadd234ee url=https://prehraj.to/oui-sefe-2012-cz-dabing/5668cadd234ee
+[21:25:58]   resolved in 6.5s → 480p (https://pf-storage5.premiumcdn.net/510714/pMauBgHZ2uM2uo8C12IWdHYlU5Rh31FOpIv7TG…)
+[21:27:58]   downloaded 456.2 MB in 118.5s (3.8 MB/s)
+[21:28:22]   upload done video_id=26104336 in 23.5s
