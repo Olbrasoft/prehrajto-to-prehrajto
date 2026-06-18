@@ -15216,6 +15216,25 @@
         "download_sec": 91.6,
         "upload_sec": 97.2
       }
+    },
+    {
+      "cr_film_id": 2078,
+      "cr_slug": "kung-fu-panda-3",
+      "title": "Kung Fu Panda 3",
+      "year": 2016,
+      "display_name": "Kung Fu Panda 3 (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57f5ea9a9cc4d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26063402,
+      "size_bytes": 625212064,
+      "uploaded_at": "2026-06-18T01:29:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.4,
+        "upload_sec": 24.1
+      }
     }
   ],
   "failed_attempts": [
@@ -15701,5 +15720,5 @@
       "failed_at": "2026-06-18T00:26:34Z"
     }
   ],
-  "last_updated": "2026-06-18T01:28:28Z"
+  "last_updated": "2026-06-18T01:29:15Z"
 }
