@@ -19073,6 +19073,25 @@
         "download_sec": 85.6,
         "upload_sec": 114.2
       }
+    },
+    {
+      "cr_film_id": 2828,
+      "cr_slug": "dogman-2023",
+      "title": "Dogman",
+      "year": 2023,
+      "display_name": "Dogman (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "660a57fe64329",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26083994,
+      "size_bytes": 1856213014,
+      "uploaded_at": "2026-06-18T11:16:56Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 81.3,
+        "upload_sec": 101.5
+      }
     }
   ],
   "failed_attempts": [
@@ -19703,5 +19722,5 @@
       "failed_at": "2026-06-18T09:48:56Z"
     }
   ],
-  "last_updated": "2026-06-18T11:13:48Z"
+  "last_updated": "2026-06-18T11:16:56Z"
 }
