@@ -23836,6 +23836,25 @@
         "download_sec": 14.8,
         "upload_sec": 17.7
       }
+    },
+    {
+      "cr_film_id": 26315,
+      "cr_slug": "sator",
+      "title": "Sator",
+      "year": 2019,
+      "display_name": "Sator (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "602e4c85e9527",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26098620,
+      "size_bytes": 879403919,
+      "uploaded_at": "2026-06-18T17:28:20Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 30.3,
+        "upload_sec": 44.1
+      }
     }
   ],
   "failed_attempts": [
@@ -24285,5 +24304,5 @@
       "failed_at": "2026-06-18T13:58:21Z"
     }
   ],
-  "last_updated": "2026-06-18T17:27:01Z"
+  "last_updated": "2026-06-18T17:28:20Z"
 }
