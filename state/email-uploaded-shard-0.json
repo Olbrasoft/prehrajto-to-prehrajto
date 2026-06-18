@@ -18807,6 +18807,25 @@
         "download_sec": 73.2,
         "upload_sec": 97.1
       }
+    },
+    {
+      "cr_film_id": 2788,
+      "cr_slug": "hook",
+      "title": "Hook",
+      "year": 1991,
+      "display_name": "Hook (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "32d28a2a1612aa22",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26082164,
+      "size_bytes": 3905835806,
+      "uploaded_at": "2026-06-18T10:19:46Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 168.2,
+        "upload_sec": 234.6
+      }
     }
   ],
   "failed_attempts": [
@@ -19437,5 +19456,5 @@
       "failed_at": "2026-06-18T09:48:56Z"
     }
   ],
-  "last_updated": "2026-06-18T10:12:21Z"
+  "last_updated": "2026-06-18T10:19:46Z"
 }
