@@ -19234,6 +19234,25 @@
         "download_sec": 20.7,
         "upload_sec": 27.5
       }
+    },
+    {
+      "cr_film_id": 3141,
+      "cr_slug": "devet-paruk",
+      "title": "Devět paruk",
+      "year": 2013,
+      "display_name": "Devět paruk (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5591dc2a38d20",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26084721,
+      "size_bytes": 647348433,
+      "uploaded_at": "2026-06-18T11:38:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 37.4,
+        "upload_sec": 43.1
+      }
     }
   ],
   "failed_attempts": [
@@ -19804,5 +19823,5 @@
       "failed_at": "2026-06-18T10:29:42Z"
     }
   ],
-  "last_updated": "2026-06-18T11:37:30Z"
+  "last_updated": "2026-06-18T11:38:55Z"
 }
