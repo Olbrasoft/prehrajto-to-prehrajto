@@ -4208,3 +4208,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:06:09]   upload done video_id=26064421 in 14.8s
 [02:06:10] film cr_film_id=2122 OK in 29.1s
 [02:06:10] batch-end ok=20 failed=0 dur=2692.3s avg/film=134.6s remaining=16672 eta_hours=623.3
+
+===== run 2026-06-18T02:06:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27732015263) =====
+[02:06:49] description overrides loaded: 3735 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:06:49] batch-start shard=0/2 count=20 backlog=17650 uploads=978 failed_attempts=69 description_overrides=3735
+[02:06:49] login
+[02:06:51] login done
+[02:06:51] iteration 1/20
+[02:06:51] film cr_film_id=2126 name='Blade (1998) CZ Dabing' candidates=21
+[02:06:51]   candidate upload_id=6381c1853d002 url=https://prehraj.to/blade-1998-akcni-cz-dab-dd5-1-1080p-hd/6381c1853d002
+[02:06:52]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/34848532/QvAfDzHpaTNAsxMtwJsBDHweSo8Taxto1TWV…)
+[02:08:45]   downloaded 3,425.6 MB in 111.2s (30.8 MB/s)
+[02:11:20]   upload done video_id=26064504 in 154.9s
