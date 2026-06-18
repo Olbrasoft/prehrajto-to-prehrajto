@@ -20963,6 +20963,25 @@
         "download_sec": 975.9,
         "upload_sec": 146.2
       }
+    },
+    {
+      "cr_film_id": 3503,
+      "cr_slug": "policejni-akademie",
+      "title": "Policejní akademie",
+      "year": 1984,
+      "display_name": "Policejní akademie (1984) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67482e0a2df34",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26102201,
+      "size_bytes": 5197420287,
+      "uploaded_at": "2026-06-18T19:53:51Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 496.5,
+        "upload_sec": 294.6
+      }
     }
   ],
   "failed_attempts": [
@@ -21608,7 +21627,18 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/karlik-a-tovarna-na-cokoladu-2005-cz-dab-1080p/d6e80761777ef81f",
       "permanent": true,
       "failed_at": "2026-06-18T17:56:56Z"
+    },
+    {
+      "cr_film_id": 3503,
+      "upload_id": "67df2f6da82e7",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation timed out after 3599404 milliseconds with 2588446288 out of 5197416594 bytes received",
+      "permanent": false,
+      "failed_at": "2026-06-18T19:40:37Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 3600.5
+      }
     }
   ],
-  "last_updated": "2026-06-18T18:40:30Z"
+  "last_updated": "2026-06-18T19:53:51Z"
 }

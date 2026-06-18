@@ -6467,3 +6467,13 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [18:21:46]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/36353386/7WJhyKigXuLQCdXCVJSe4idJHRMc24sYvU9j…)
 [18:38:04]   downloaded 1,867.0 MB in 975.9s (1.9 MB/s)
 [18:40:30]   upload done video_id=26100597 in 146.2s
+[18:40:33] film cr_film_id=3501 OK in 1127.9s
+[18:40:33] iteration 19/20
+[18:40:33] film cr_film_id=3503 name='Policejní akademie (1984) CZ Dabing' candidates=2
+[18:40:33]   candidate upload_id=67df2f6da82e7 url=https://prehraj.to/policejni-akademie-1-1984-cz-dab/67df2f6da82e7
+[18:40:34]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/133020851/074hqNU40TvKTQwC5PfXvUxKtvVioeTKEcD…)
+[19:40:37]   download FAILED after 3600.5s: curl exit 28: curl: (28) Operation timed out after 3599404 milliseconds with 2588446288 out of 5197416594 bytes received
+[19:40:37]   candidate upload_id=67482e0a2df34 url=https://prehraj.to/policejni-akademie-i-1984-cz-cz/67482e0a2df34
+[19:40:38]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/113250665/wLVFGzIJKiyRcqDt1nf0KIbDCoRSK0uWpsJ…)
+[19:48:57]   downloaded 5,197.4 MB in 496.5s (10.5 MB/s)
+[19:53:51]   upload done video_id=26102201 in 294.6s
