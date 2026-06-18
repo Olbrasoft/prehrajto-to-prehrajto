@@ -23474,6 +23474,25 @@
         "download_sec": 27.4,
         "upload_sec": 51.3
       }
+    },
+    {
+      "cr_film_id": 14316,
+      "cr_slug": "it-cuts-deep",
+      "title": "It Cuts Deep",
+      "year": 2020,
+      "display_name": "It Cuts Deep (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6096ceeabad5e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26095667,
+      "size_bytes": 986126555,
+      "uploaded_at": "2026-06-18T15:56:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 36.2,
+        "upload_sec": 59.8
+      }
     }
   ],
   "failed_attempts": [
@@ -23938,5 +23957,5 @@
       "failed_at": "2026-06-18T15:48:44Z"
     }
   ],
-  "last_updated": "2026-06-18T15:54:39Z"
+  "last_updated": "2026-06-18T15:56:19Z"
 }
