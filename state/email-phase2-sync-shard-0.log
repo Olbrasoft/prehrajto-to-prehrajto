@@ -7324,3 +7324,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [15:56:19]   upload done video_id=26095667 in 59.8s
 [15:56:20] film cr_film_id=14316 OK in 100.0s
 [15:56:20] batch-end ok=19 failed=1 dur=2899.7s avg/film=152.6s remaining=8820 eta_hours=373.9
+
+===== run 2026-06-18T15:57:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27772183034) =====
+[15:57:02] batch-start shard=0/2 count=20 backlog=10210 uploads=1390 failed_attempts=65 description_overrides=0
+[15:57:02] login
+[15:57:04] login done
+[15:57:04] iteration 1/20
+[15:57:04] film cr_film_id=31078 name='Invincible (2020) CZ Titulky' candidates=5
+[15:57:04]   candidate upload_id=6032894d08d93 url=https://prehraj.to/invincible-2020-1080p-cz-sub-webrip-x264-mp4/6032894d08d93
+[15:57:05]   resolved in 1.1s → 720p (https://pf-storage3.premiumcdn.net/22363916/3xwsoYf97CwJIVmTPZf0jfeMHZPIdNTwbTPo…)
+[15:58:06]   downloaded 1,491.5 MB in 58.9s (25.3 MB/s)
+[15:59:19]   upload done video_id=26095732 in 73.2s
