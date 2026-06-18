@@ -23607,6 +23607,25 @@
         "download_sec": 104.9,
         "upload_sec": 164.5
       }
+    },
+    {
+      "cr_film_id": 9882,
+      "cr_slug": "honeydew",
+      "title": "Honeydew",
+      "year": 2020,
+      "display_name": "Honeydew (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60891aa7af3e2",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26096565,
+      "size_bytes": 1202878287,
+      "uploaded_at": "2026-06-18T16:24:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 52.1,
+        "upload_sec": 53.1
+      }
     }
   ],
   "failed_attempts": [
@@ -24071,5 +24090,5 @@
       "failed_at": "2026-06-18T15:48:44Z"
     }
   ],
-  "last_updated": "2026-06-18T16:22:12Z"
+  "last_updated": "2026-06-18T16:24:01Z"
 }
