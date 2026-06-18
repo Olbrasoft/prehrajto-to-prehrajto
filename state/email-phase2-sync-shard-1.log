@@ -5717,3 +5717,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [05:40:05]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/32075791/WNzta2u6LiDrCvpUx1coOuL6uzPhORi2KTPY…)
 [05:40:58]   downloaded 1,491.0 MB in 52.2s (28.6 MB/s)
 [05:42:11]   upload done video_id=26069658 in 72.3s
+[05:42:12] film cr_film_id=19843 OK in 128.4s
+[05:42:12] iteration 2/20
+[05:42:12] film cr_film_id=14233 name='Ida Red (2021) CZ Titulky' candidates=1
+[05:42:12]   candidate upload_id=496601d37e7e06f0 url=https://prehraj.to/ida-red-2021-cz-titulky-mp4/496601d37e7e06f0
+[05:42:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ida-red-2021-cz-titulky-mp4/496601d37e7e06f0 (permanent=True)
+[05:42:13] film cr_film_id=14233 all candidates exhausted
+[05:42:13] iteration 3/20
+[05:42:13] film cr_film_id=34051 name='I Am Mortal (2021) CZ Titulky' candidates=1
+[05:42:13]   candidate upload_id=63e10570ab4f2 url=https://prehraj.to/i-am-mortal-2022-cely-film-cz-titulky/63e10570ab4f2
+[05:42:19]   resolved in 6.0s → 480p (https://pf-storage4.premiumcdn.net/37110172/8PgsLkUkwhWyFDEuJPFV0UY9IkohGQUDlU84…)
+[05:42:41]   downloaded 545.6 MB in 20.6s (26.5 MB/s)
+[05:43:03]   upload done video_id=26069688 in 22.3s

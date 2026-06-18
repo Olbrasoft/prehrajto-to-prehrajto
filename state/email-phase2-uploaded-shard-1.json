@@ -19219,6 +19219,25 @@
         "download_sec": 52.2,
         "upload_sec": 72.3
       }
+    },
+    {
+      "cr_film_id": 34051,
+      "cr_slug": "i-am-mortal",
+      "title": "I Am Mortal",
+      "year": 2021,
+      "display_name": "I Am Mortal (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63e10570ab4f2",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26069688,
+      "size_bytes": 545649360,
+      "uploaded_at": "2026-06-18T05:43:03Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 20.6,
+        "upload_sec": 22.3
+      }
     }
   ],
   "failed_attempts": [
@@ -19620,7 +19639,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/justice-society-world-war-ii-2021-en-cz-tit-mp4/aeb71c75a7b85ca4",
       "permanent": true,
       "failed_at": "2026-06-18T04:56:43Z"
+    },
+    {
+      "cr_film_id": 14233,
+      "upload_id": "496601d37e7e06f0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ida-red-2021-cz-titulky-mp4/496601d37e7e06f0",
+      "permanent": true,
+      "failed_at": "2026-06-18T05:42:13Z"
     }
   ],
-  "last_updated": "2026-06-18T05:42:11Z"
+  "last_updated": "2026-06-18T05:43:03Z"
 }
