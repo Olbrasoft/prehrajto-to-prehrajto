@@ -14836,6 +14836,25 @@
         "download_sec": 28.3,
         "upload_sec": 35.5
       }
+    },
+    {
+      "cr_film_id": 2000,
+      "cr_slug": "muz-z-oceli",
+      "title": "Muž z oceli",
+      "year": 2013,
+      "display_name": "Muž z oceli (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5591291c4ee76",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26061753,
+      "size_bytes": 924718744,
+      "uploaded_at": "2026-06-18T00:27:49Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 27.4,
+        "upload_sec": 41.0
+      }
     }
   ],
   "failed_attempts": [
@@ -15305,7 +15324,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/batman-se-vraci-1992-en-cz-dabing-uhdr-mkv/7df2003662dda366",
       "permanent": true,
       "failed_at": "2026-06-17T23:25:24Z"
+    },
+    {
+      "cr_film_id": 2000,
+      "upload_id": "6897a7a81bb1a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muz-z-oceli-man-of-steel-2013-fullhd-1080p-h264-cz-dabing-ac3-audio-tw1nky/6897a7a81bb1a",
+      "permanent": true,
+      "failed_at": "2026-06-18T00:26:28Z"
+    },
+    {
+      "cr_film_id": 2000,
+      "upload_id": "68e578947d856",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muz-z-oceli-2013-cz-dabing-ultra-hd-2160p-4k/68e578947d856",
+      "permanent": true,
+      "failed_at": "2026-06-18T00:26:34Z"
     }
   ],
-  "last_updated": "2026-06-18T00:26:26Z"
+  "last_updated": "2026-06-18T00:27:49Z"
 }
