@@ -22144,6 +22144,25 @@
         "download_sec": 30.8,
         "upload_sec": 33.4
       }
+    },
+    {
+      "cr_film_id": 31062,
+      "cr_slug": "the-cure-2020",
+      "title": "The Cure",
+      "year": 2020,
+      "display_name": "The Cure (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6d3e4dfa3102c8bb",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26087406,
+      "size_bytes": 786388194,
+      "uploaded_at": "2026-06-18T12:46:20Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 27.4,
+        "upload_sec": 28.1
+      }
     }
   ],
   "failed_attempts": [
@@ -22587,5 +22606,5 @@
       "failed_at": "2026-06-18T05:46:16Z"
     }
   ],
-  "last_updated": "2026-06-18T12:45:21Z"
+  "last_updated": "2026-06-18T12:46:20Z"
 }
