@@ -5390,3 +5390,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:12:26]   upload done video_id=26074230 in 45.5s
 [09:12:28] film cr_film_id=2734 OK in 84.3s
 [09:12:28] batch-end ok=19 failed=1 dur=2577.7s avg/film=135.7s remaining=16519 eta_hours=622.7
+
+===== run 2026-06-18T09:20:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27749619667) =====
+[09:20:35] description overrides loaded: 4771 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:20:35] batch-start shard=0/2 count=20 backlog=17650 uploads=1131 failed_attempts=84 description_overrides=4771
+[09:20:35] login
+[09:20:37] login done
+[09:20:37] iteration 1/20
+[09:20:37] film cr_film_id=2740 name='Zastav a nepřežiješ (2006) CZ Dabing' candidates=16
+[09:20:37]   candidate upload_id=5237559ca7f69bb5 url=https://prehraj.to/zastav-a-neprezijes-2006-cz-dab-1080p/5237559ca7f69bb5
+[09:20:38]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/169011292/r7yulXfdDTv2F9osMKcL8fEaTJeFX6sg4U1…)
+[09:22:26]   downloaded 2,906.9 MB in 106.5s (27.3 MB/s)
+[09:24:42]   upload done video_id=26074752 in 135.6s
