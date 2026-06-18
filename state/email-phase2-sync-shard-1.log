@@ -6724,3 +6724,17 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:32:03]   upload done video_id=26086780 in 131.5s
 [12:32:05] film cr_film_id=5039 OK in 250.1s
 [12:32:05] batch-end ok=20 failed=0 dur=4044.8s avg/film=202.2s remaining=8912 eta_hours=500.6
+
+===== run 2026-06-18T12:32:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27759636316) =====
+[12:32:36] batch-start shard=1/2 count=20 backlog=10210 uploads=1298 failed_attempts=59 description_overrides=0
+[12:32:36] login
+[12:32:38] login done
+[12:32:38] iteration 1/20
+[12:32:38] film cr_film_id=2943 name='Kluci z party (2020) CZ Titulky' candidates=4
+[12:32:38]   candidate upload_id=5f758ee94235f url=https://prehraj.to/kluci-z-party-drama-2020-1080p-5-1-x264-s-cztitulky-57-sten-ok/5f758ee94235f
+[12:32:39]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/18956783/oJbIyLsOrUxJtkYhzOH38s6OHpWieVT9MHGb…)
+[12:32:58]   download FAILED after 2.5s: curl exit 22: curl: (22) The requested URL returned error: 500
+[12:32:58]   candidate upload_id=5f74fadc0422a url=https://prehraj.to/kluci-z-party-2020-cztitulky/5f74fadc0422a
+[12:32:59]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/18939290/lnXT0Ai1YcdESYPiWAuq7inYcq3hPpuQVu5w…)
+[12:34:05]   downloaded 1,848.4 MB in 64.1s (28.8 MB/s)
+[12:35:28]   upload done video_id=26087062 in 83.5s

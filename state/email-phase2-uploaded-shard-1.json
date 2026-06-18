@@ -21822,6 +21822,25 @@
         "download_sec": 113.6,
         "upload_sec": 131.5
       }
+    },
+    {
+      "cr_film_id": 2943,
+      "cr_slug": "kluci-z-party",
+      "title": "Kluci z party",
+      "year": 2020,
+      "display_name": "Kluci z party (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f74fadc0422a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26087062,
+      "size_bytes": 1848364088,
+      "uploaded_at": "2026-06-18T12:35:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 64.1,
+        "upload_sec": 83.5
+      }
     }
   ],
   "failed_attempts": [
@@ -22237,7 +22256,18 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/soudcova-dcera-2020-cz-titulky-mp4/d56c5db5631d89c2",
       "permanent": true,
       "failed_at": "2026-06-18T09:53:18Z"
+    },
+    {
+      "cr_film_id": 2943,
+      "upload_id": "5f758ee94235f",
+      "reason": "download_failed: curl exit 22: curl: (22) The requested URL returned error: 500",
+      "permanent": false,
+      "failed_at": "2026-06-18T12:32:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 2.5
+      }
     }
   ],
-  "last_updated": "2026-06-18T12:32:03Z"
+  "last_updated": "2026-06-18T12:35:28Z"
 }
