@@ -16622,6 +16622,25 @@
         "download_sec": 14.4,
         "upload_sec": 19.0
       }
+    },
+    {
+      "cr_film_id": 2368,
+      "cr_slug": "pasazeri",
+      "title": "Pasažéři",
+      "year": 2016,
+      "display_name": "Pasažéři (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "672d2303e446b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26068609,
+      "size_bytes": 2803959569,
+      "uploaded_at": "2026-06-18T04:52:44Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 75.1,
+        "upload_sec": 109.8
+      }
     }
   ],
   "failed_attempts": [
@@ -17182,5 +17201,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-18T04:49:36Z"
+  "last_updated": "2026-06-18T04:52:44Z"
 }
