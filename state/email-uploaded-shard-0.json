@@ -15900,6 +15900,25 @@
         "download_sec": 21.4,
         "upload_sec": 27.2
       }
+    },
+    {
+      "cr_film_id": 2200,
+      "cr_slug": "rivalove",
+      "title": "Rivalové",
+      "year": 2024,
+      "display_name": "Rivalové (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0deb3a85d7ee3c86",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26065581,
+      "size_bytes": 1679919132,
+      "uploaded_at": "2026-06-18T02:56:46Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 59.8,
+        "upload_sec": 92.7
+      }
     }
   ],
   "failed_attempts": [
@@ -16427,5 +16446,5 @@
       "failed_at": "2026-06-18T02:44:21Z"
     }
   ],
-  "last_updated": "2026-06-18T02:54:09Z"
+  "last_updated": "2026-06-18T02:56:46Z"
 }
