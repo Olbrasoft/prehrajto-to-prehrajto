@@ -19902,6 +19902,25 @@
         "download_sec": 56.6,
         "upload_sec": 59.2
       }
+    },
+    {
+      "cr_film_id": 7858,
+      "cr_slug": "napeti",
+      "title": "Napětí",
+      "year": 2021,
+      "display_name": "Napětí (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "607c03db6c570",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26071131,
+      "size_bytes": 915748344,
+      "uploaded_at": "2026-06-18T06:46:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 45.1,
+        "upload_sec": 64.6
+      }
     }
   ],
   "failed_attempts": [
@@ -20345,5 +20364,5 @@
       "failed_at": "2026-06-18T05:46:16Z"
     }
   ],
-  "last_updated": "2026-06-18T06:44:39Z"
+  "last_updated": "2026-06-18T06:46:34Z"
 }
