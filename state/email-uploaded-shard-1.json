@@ -18341,6 +18341,25 @@
         "download_sec": 111.0,
         "upload_sec": 158.3
       }
+    },
+    {
+      "cr_film_id": 2903,
+      "cr_slug": "sila-psa",
+      "title": "Síla psa",
+      "year": 2021,
+      "display_name": "Síla psa (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61a9add2d44b9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26074273,
+      "size_bytes": 2353916536,
+      "uploaded_at": "2026-06-18T09:14:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 66.8,
+        "upload_sec": 91.0
+      }
     }
   ],
   "failed_attempts": [
@@ -18897,5 +18916,5 @@
       "failed_at": "2026-06-18T08:49:13Z"
     }
   ],
-  "last_updated": "2026-06-18T09:11:44Z"
+  "last_updated": "2026-06-18T09:14:26Z"
 }
