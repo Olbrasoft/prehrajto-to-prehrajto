@@ -21020,6 +21020,25 @@
         "download_sec": 335.0,
         "upload_sec": 164.6
       }
+    },
+    {
+      "cr_film_id": 3519,
+      "cr_slug": "co-by-kdyby",
+      "title": "Co by kdyby",
+      "year": 2014,
+      "display_name": "Co by kdyby (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57bf09ddb3961",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26102837,
+      "size_bytes": 1682281489,
+      "uploaded_at": "2026-06-18T20:19:27Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 243.5,
+        "upload_sec": 62.3
+      }
     }
   ],
   "failed_attempts": [
@@ -21676,7 +21695,21 @@
         "resolve_sec": 1.3,
         "download_sec": 3600.5
       }
+    },
+    {
+      "cr_film_id": 3517,
+      "upload_id": "42fffe34d62433db",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/andele-a-demoni-2009-cz-dab-1080p/42fffe34d62433db",
+      "permanent": true,
+      "failed_at": "2026-06-18T20:14:08Z"
+    },
+    {
+      "cr_film_id": 3517,
+      "upload_id": "58a299e00d4c5cf3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/andele-a-demoni-2009-cz-dab-1080p/58a299e00d4c5cf3",
+      "permanent": true,
+      "failed_at": "2026-06-18T20:14:14Z"
     }
   ],
-  "last_updated": "2026-06-18T20:14:05Z"
+  "last_updated": "2026-06-18T20:19:27Z"
 }
