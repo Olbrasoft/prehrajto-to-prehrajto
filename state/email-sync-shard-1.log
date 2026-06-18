@@ -6901,3 +6901,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:19:32]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/42783179/PA0ImeTgZuxoUdkCZLs9OTyYSkqCQji3EHZ7…)
 [23:20:23]   downloaded 907.6 MB in 49.6s (18.3 MB/s)
 [23:21:13]   upload done video_id=26107070 in 50.1s
+[23:21:15] film cr_film_id=3711 OK in 104.8s
+[23:21:15] iteration 17/20
+[23:21:15] film cr_film_id=3717 name='Klan Gucci (2021) CZ Dabing' candidates=2
+[23:21:15]   candidate upload_id=5928212db6360848 url=https://prehraj.to/klan-gucci-2021-cz-dab-1080p/5928212db6360848
+[23:21:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/klan-gucci-2021-cz-dab-1080p/5928212db6360848 (permanent=True)
+[23:21:16]   candidate upload_id=621d1b4c28215 url=https://prehraj.to/house-of-gucci-2021-czdab/621d1b4c28215
+[23:21:22]   resolved in 5.9s → 720p (https://pf-storage3.premiumcdn.net/29821160/ayrFrziWyuM3FjZC97s73imKI5pHJaFKJtQZ…)
+[23:23:25]   downloaded 2,857.1 MB in 120.9s (23.6 MB/s)
+[23:26:20]   upload done video_id=26107149 in 175.0s
