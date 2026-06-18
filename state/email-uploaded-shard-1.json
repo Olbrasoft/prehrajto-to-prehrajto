@@ -18151,6 +18151,25 @@
         "download_sec": 92.7,
         "upload_sec": 176.7
       }
+    },
+    {
+      "cr_film_id": 2869,
+      "cr_slug": "do-morku-kosti",
+      "title": "Do morku kostí",
+      "year": 2022,
+      "display_name": "Do morku kostí (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "665c9ce9bbdf8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26073770,
+      "size_bytes": 2848549181,
+      "uploaded_at": "2026-06-18T08:52:39Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 80.5,
+        "upload_sec": 118.5
+      }
     }
   ],
   "failed_attempts": [
@@ -18698,7 +18717,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sefove-na-zabiti-2011-fhd-cz-en/b50d13cdcd2ce69b",
       "permanent": true,
       "failed_at": "2026-06-18T07:16:18Z"
+    },
+    {
+      "cr_film_id": 2867,
+      "upload_id": "21d7394ca0554589",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ray-donovan-the-movie-2022-full-hd-1080p-cz-dabing-mkv/21d7394ca0554589",
+      "permanent": true,
+      "failed_at": "2026-06-18T08:49:13Z"
     }
   ],
-  "last_updated": "2026-06-18T08:49:10Z"
+  "last_updated": "2026-06-18T08:52:39Z"
 }

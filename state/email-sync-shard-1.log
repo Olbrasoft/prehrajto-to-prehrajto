@@ -5342,3 +5342,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:44:39]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/47161556/eZrsBMiQbS0AhLvF7YSOZiLXubDhyGhNqC21…)
 [08:46:14]   downloaded 3,333.0 MB in 92.7s (36.0 MB/s)
 [08:49:10]   upload done video_id=26073661 in 176.7s
+[08:49:12] film cr_film_id=2865 OK in 273.6s
+[08:49:12] iteration 7/20
+[08:49:12] film cr_film_id=2867 name='Ray Donovan: The Movie (2022) CZ Dabing' candidates=1
+[08:49:12]   candidate upload_id=21d7394ca0554589 url=https://prehraj.to/ray-donovan-the-movie-2022-full-hd-1080p-cz-dabing-mkv/21d7394ca0554589
+[08:49:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ray-donovan-the-movie-2022-full-hd-1080p-cz-dabing-mkv/21d7394ca0554589 (permanent=True)
+[08:49:13] film cr_film_id=2867 all candidates exhausted
+[08:49:13] iteration 8/20
+[08:49:13] film cr_film_id=2869 name='Do morku kostí (2022) CZ Dabing' candidates=2
+[08:49:13]   candidate upload_id=665c9ce9bbdf8 url=https://prehraj.to/do-morku-kosti-2022-cz-dabing-1080p/665c9ce9bbdf8
+[08:49:19]   resolved in 6.1s → 1080p (https://pf-storage5.premiumcdn.net/77991857/5YQc0xHejTzVCRlI8qTwbHX7FPJcGLfWxCpr…)
+[08:50:41]   downloaded 2,848.5 MB in 80.5s (35.4 MB/s)
+[08:52:39]   upload done video_id=26073770 in 118.5s
