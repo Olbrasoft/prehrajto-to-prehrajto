@@ -21837,6 +21837,25 @@
         "download_sec": 205.0,
         "upload_sec": 318.6
       }
+    },
+    {
+      "cr_film_id": 3673,
+      "cr_slug": "aka",
+      "title": "AKA",
+      "year": 2023,
+      "display_name": "AKA (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "644bea955ce13",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26106604,
+      "size_bytes": 1875607358,
+      "uploaded_at": "2026-06-18T23:00:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 99.2,
+        "upload_sec": 151.2
+      }
     }
   ],
   "failed_attempts": [
@@ -22563,5 +22582,5 @@
       "failed_at": "2026-06-18T22:40:05Z"
     }
   ],
-  "last_updated": "2026-06-18T22:56:16Z"
+  "last_updated": "2026-06-18T23:00:32Z"
 }
