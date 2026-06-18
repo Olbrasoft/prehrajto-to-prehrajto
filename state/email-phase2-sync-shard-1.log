@@ -4887,3 +4887,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:02:41]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/131168234/oKATn0U0ZTA9UJXt10fmyU9YcrBTEAf8RUr…)
 [00:04:04]   downloaded 3,034.5 MB in 81.1s (37.4 MB/s)
 [00:06:56]   upload done video_id=26060934 in 172.2s
+[00:06:58] film cr_film_id=7553 OK in 257.4s
+[00:06:58] iteration 8/20
+[00:06:58] film cr_film_id=15081 name='Blowback (2022) CZ Titulky' candidates=1
+[00:06:58]   candidate upload_id=76b7bd494a6b8085 url=https://prehraj.to/blowback-2022-cz-titulky/76b7bd494a6b8085
+[00:06:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blowback-2022-cz-titulky/76b7bd494a6b8085 (permanent=True)
+[00:06:59] film cr_film_id=15081 all candidates exhausted
+[00:06:59] iteration 9/20
+[00:06:59] film cr_film_id=19809 name='Bez přestání (2022) CZ Titulky' candidates=5
+[00:06:59]   candidate upload_id=621d5e1070fa4 url=https://prehraj.to/bez-prestani-2022-cztitulky/621d5e1070fa4
+[00:07:05]   resolved in 6.0s → 1080p (https://pf-storage3.premiumcdn.net/29826773/v3Rsk1iWguA7iRaU8MhzviYkFG6TX7s2NI61…)
+[00:08:01]   downloaded 1,611.9 MB in 54.9s (29.4 MB/s)
+[00:09:26]   upload done video_id=26061082 in 85.4s
