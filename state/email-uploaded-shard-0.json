@@ -14969,6 +14969,25 @@
         "download_sec": 81.0,
         "upload_sec": 114.9
       }
+    },
+    {
+      "cr_film_id": 2030,
+      "cr_slug": "spy-game",
+      "title": "Spy Game",
+      "year": 2001,
+      "display_name": "Spy Game (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ed3402d54c74",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26062142,
+      "size_bytes": 2339775778,
+      "uploaded_at": "2026-06-18T00:41:28Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 66.1,
+        "upload_sec": 87.5
+      }
     }
   ],
   "failed_attempts": [
@@ -15454,5 +15473,5 @@
       "failed_at": "2026-06-18T00:26:34Z"
     }
   ],
-  "last_updated": "2026-06-18T00:38:51Z"
+  "last_updated": "2026-06-18T00:41:28Z"
 }
