@@ -8035,3 +8035,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:34:56]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/24460076/PDycy7iGySYlhJdCOqC5VizqszYtx2fo6fv8…)
 [23:36:43]   downloaded 2,710.3 MB in 105.0s (25.8 MB/s)
 [23:39:58]   upload done video_id=26107740 in 195.3s
+[23:40:00] film cr_film_id=29774 OK in 305.7s
+[23:40:00] iteration 14/20
+[23:40:00] film cr_film_id=30862 name='Snatchers (2019) CZ Titulky' candidates=1
+[23:40:00]   candidate upload_id=50dca75fa61db108 url=https://prehraj.to/snatchers-2019-en-cz-tit-mp4/50dca75fa61db108
+[23:40:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/snatchers-2019-en-cz-tit-mp4/50dca75fa61db108 (permanent=True)
+[23:40:01] film cr_film_id=30862 all candidates exhausted
+[23:40:01] iteration 15/20
+[23:40:01] film cr_film_id=1974 name='Slunovrat (2019) CZ Titulky' candidates=17
+[23:40:01]   candidate upload_id=610e6bb29da85 url=https://prehraj.to/slunovrat-midsommar-2019-1080p-en-czsub-vykonavatel/610e6bb29da85
+[23:40:07]   resolved in 6.0s → 720p (https://pf-storage3.premiumcdn.net/24539558/qZaT2RUpqs4wtmRiqvhNWUPWspGi0gfgJte2…)
+[23:41:41]   downloaded 2,352.7 MB in 92.4s (25.5 MB/s)
+[23:44:23]   upload done video_id=26107953 in 162.1s

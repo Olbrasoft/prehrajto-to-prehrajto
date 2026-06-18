@@ -25260,6 +25260,25 @@
         "download_sec": 105.0,
         "upload_sec": 195.3
       }
+    },
+    {
+      "cr_film_id": 1974,
+      "cr_slug": "slunovrat",
+      "title": "Slunovrat",
+      "year": 2019,
+      "display_name": "Slunovrat (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "610e6bb29da85",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26107953,
+      "size_bytes": 2352654107,
+      "uploaded_at": "2026-06-18T23:44:23Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 92.4,
+        "upload_sec": 162.1
+      }
     }
   ],
   "failed_attempts": [
@@ -25778,7 +25797,14 @@
       "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fthe-hard-way-2019-1080p-cz-sub-web-dl-dd5-1-h264%2F5d849dca6192f (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fa78fe30ce0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/the-hard-way-2019-1080p-cz-sub-web-dl-dd5-1-h264/5d849dca6192f",
       "permanent": false,
       "failed_at": "2026-06-18T22:45:34Z"
+    },
+    {
+      "cr_film_id": 30862,
+      "upload_id": "50dca75fa61db108",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/snatchers-2019-en-cz-tit-mp4/50dca75fa61db108",
+      "permanent": true,
+      "failed_at": "2026-06-18T23:40:01Z"
     }
   ],
-  "last_updated": "2026-06-18T23:39:58Z"
+  "last_updated": "2026-06-18T23:44:23Z"
 }
