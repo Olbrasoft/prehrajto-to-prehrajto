@@ -7289,3 +7289,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [15:47:29]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/16122379/y18sYaipDTxMH4aswLIyRiOPSvMIXahp5sZk…)
 [15:48:00]   downloaded 1,002.7 MB in 29.6s (33.9 MB/s)
 [15:48:42]   upload done video_id=26095476 in 42.2s
+[15:48:43] film cr_film_id=4632 OK in 75.3s
+[15:48:43] iteration 16/20
+[15:48:43] film cr_film_id=30936 name='Justice League Dark: Apokolips War (2020) CZ Titulky' candidates=1
+[15:48:43]   candidate upload_id=2b27e32efdf0c357 url=https://prehraj.to/justice-league-dark-apokolips-war-2020-en-cz-tit-mp4/2b27e32efdf0c357
+[15:48:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/justice-league-dark-apokolips-war-2020-en-cz-tit-mp4/2b27e32efdf0c357 (permanent=True)
+[15:48:44] film cr_film_id=30936 all candidates exhausted
+[15:48:44] iteration 17/20
+[15:48:44] film cr_film_id=31054 name='Jerry Seinfeld: Jak zabít 23 hodin času (2020) CZ Titulky' candidates=1
+[15:48:44]   candidate upload_id=6100a6de32c17ab9 url=https://prehraj.to/jerry-seinfeld-jak-zabit-23-hodin-casu-2020-cz-titulky/6100a6de32c17ab9
+[15:48:50]   resolved in 6.0s → 1080p (https://pf-storage6.premiumcdn.net/169533391/ARVFPySbyU6nujOurefMvSOvIBOhzxiMEhX…)
+[15:49:39]   downloaded 1,350.3 MB in 48.1s (28.1 MB/s)
+[15:50:37]   upload done video_id=26095516 in 57.1s
