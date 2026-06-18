@@ -19139,6 +19139,25 @@
         "download_sec": 111.5,
         "upload_sec": 126.2
       }
+    },
+    {
+      "cr_film_id": 3115,
+      "cr_slug": "neuteces",
+      "title": "Neutečeš",
+      "year": 2014,
+      "display_name": "Neutečeš (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f852f5cd9143",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26083650,
+      "size_bytes": 1909248185,
+      "uploaded_at": "2026-06-18T11:04:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 67.6,
+        "upload_sec": 85.4
+      }
     }
   ],
   "failed_attempts": [
@@ -19709,5 +19728,5 @@
       "failed_at": "2026-06-18T10:29:42Z"
     }
   ],
-  "last_updated": "2026-06-18T11:02:07Z"
+  "last_updated": "2026-06-18T11:04:46Z"
 }
