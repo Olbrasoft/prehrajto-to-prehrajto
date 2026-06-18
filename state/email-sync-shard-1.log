@@ -4560,3 +4560,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:40:41]   upload done video_id=26066789 in 35.4s
 [03:40:42] film cr_film_id=2457 OK in 65.0s
 [03:40:42] batch-end ok=20 failed=0 dur=2855.6s avg/film=142.8s remaining=16646 eta_hours=660.3
+
+===== run 2026-06-18T03:50:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27735452760) =====
+[03:50:25] description overrides loaded: 3736 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:50:25] batch-start shard=1/2 count=20 backlog=17650 uploads=1004 failed_attempts=70 description_overrides=3736
+[03:50:25] login
+[03:50:26] login done
+[03:50:26] iteration 1/20
+[03:50:26] film cr_film_id=2459 name='Hotel Transylvánie (2012) CZ Dabing' candidates=20
+[03:50:26]   candidate upload_id=5b549d3401f22 url=https://prehraj.to/hotel-transylvanie-1-2012-cz-dabing-animovany/5b549d3401f22
+[03:50:28]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/4973454/gMgiJ1sl4UJOHG6FpgIXDslMtkRtepujecylC…)
+[03:50:53]   downloaded 499.6 MB in 23.2s (21.5 MB/s)
+[03:51:29]   upload done video_id=26067102 in 35.6s
