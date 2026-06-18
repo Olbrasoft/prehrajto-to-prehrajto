@@ -18193,6 +18193,25 @@
         "download_sec": 52.8,
         "upload_sec": 69.6
       }
+    },
+    {
+      "cr_film_id": 31169,
+      "cr_slug": "slysitelne",
+      "title": "Slyšitelně",
+      "year": 2021,
+      "display_name": "Slyšitelně (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60de385d9ab85",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26065226,
+      "size_bytes": 1194828762,
+      "uploaded_at": "2026-06-18T02:39:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 55.8,
+        "upload_sec": 82.5
+      }
     }
   ],
   "failed_attempts": [
@@ -18582,5 +18601,5 @@
       "failed_at": "2026-06-18T02:34:47Z"
     }
   ],
-  "last_updated": "2026-06-18T02:36:57Z"
+  "last_updated": "2026-06-18T02:39:20Z"
 }
