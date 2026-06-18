@@ -5264,3 +5264,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:31:38]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/37128016/ozBcqmsp9HqoC67uLWTG5sJKTxJu1lTwxi83…)
 [08:34:00]   downloaded 3,549.5 MB in 140.8s (25.2 MB/s)
 [08:36:59]   upload done video_id=26073299 in 178.3s
+[08:37:00] film cr_film_id=2642 OK in 323.5s
+[08:37:00] iteration 3/20
+[08:37:00] film cr_film_id=2646 name='33 životů (2015) CZ' candidates=1
+[08:37:00]   candidate upload_id=994113e82c8bc963 url=https://prehraj.to/33-zivotu-2015-cz-mp4/994113e82c8bc963
+[08:37:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/33-zivotu-2015-cz-mp4/994113e82c8bc963 (permanent=True)
+[08:37:01] film cr_film_id=2646 all candidates exhausted
+[08:37:01] iteration 4/20
+[08:37:01] film cr_film_id=2650 name='Voda pro slony (2011) CZ Dabing' candidates=17
+[08:37:01]   candidate upload_id=5c53d40b1727c url=https://prehraj.to/voda-pro-slony-2011-hdrip-cz-dabing-m3/5c53d40b1727c
+[08:37:07]   resolved in 6.3s → 480p (https://pf-storage4.premiumcdn.net/11523295/weXhGpcv5UmGuJGIeWIRycJDIVkUbmsR7sJL…)
+[08:37:28]   downloaded 552.8 MB in 19.3s (28.6 MB/s)
+[08:37:52]   upload done video_id=26073342 in 23.9s
