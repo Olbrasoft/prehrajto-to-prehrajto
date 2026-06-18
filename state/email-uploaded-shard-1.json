@@ -14484,6 +14484,25 @@
         "download_sec": 98.0,
         "upload_sec": 110.5
       }
+    },
+    {
+      "cr_film_id": 2141,
+      "cr_slug": "rebelka",
+      "title": "Rebelka",
+      "year": 2012,
+      "display_name": "Rebelka (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c4a321f90440",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26060894,
+      "size_bytes": 550578215,
+      "uploaded_at": "2026-06-18T00:03:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.3,
+        "upload_sec": 28.0
+      }
     }
   ],
   "failed_attempts": [
@@ -14967,5 +14986,5 @@
       "failed_at": "2026-06-17T22:41:52Z"
     }
   ],
-  "last_updated": "2026-06-18T00:02:33Z"
+  "last_updated": "2026-06-18T00:03:26Z"
 }
