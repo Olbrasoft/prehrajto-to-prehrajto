@@ -5359,3 +5359,16 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [02:45:25]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/31499312/aewfn2Iz2c6JT0GtlJUYoI0EU3ocmVTw7CNR…)
 [02:46:11]   downloaded 1,073.0 MB in 45.1s (23.8 MB/s)
 [02:46:59]   upload done video_id=26065394 in 47.4s
+[02:47:02] film cr_film_id=18114 OK in 98.4s
+[02:47:02] iteration 11/20
+[02:47:02] film cr_film_id=19156 name='Brahmastra: část 1 - Shiva (2022) CZ Titulky' candidates=1
+[02:47:02]   candidate upload_id=63696a1187437 url=https://prehraj.to/brahmastra-part-one-shiva-2022-cztitulky/63696a1187437
+[02:47:03]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/34348060/KwlsPrUyxu75uwmhgetN8UoWt3miK8izKC8X…)
+[02:47:05]   oversize: 6534500809 B > 6000000000 B, skip
+[02:47:05] film cr_film_id=19156 all candidates exhausted
+[02:47:05] iteration 12/20
+[02:47:05] film cr_film_id=2540 name='Blue Jean (2022) CZ Titulky' candidates=5
+[02:47:05]   candidate upload_id=65269eacb0720 url=https://prehraj.to/blue-jean-2022-cz-titulky-hd-1080p/65269eacb0720
+[02:47:09]   resolved in 4.5s → 1080p (https://pf-storage3.premiumcdn.net/47948843/WgwsnyU2lUenH5QcPaU9eUoAT4dC17uWAtDy…)
+[02:48:48]   downloaded 2,538.2 MB in 97.5s (26.0 MB/s)
+[02:50:51]   upload done video_id=26065452 in 122.9s
