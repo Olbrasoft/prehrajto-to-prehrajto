@@ -5738,3 +5738,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:04:46]   upload done video_id=26083650 in 85.4s
 [11:04:48] film cr_film_id=3115 OK in 157.4s
 [11:04:48] batch-end ok=20 failed=0 dur=3109.6s avg/film=155.5s remaining=16490 eta_hours=712.3
+
+===== run 2026-06-18T11:31:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27756417678) =====
+[11:31:02] description overrides loaded: 5848 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:31:02] batch-start shard=1/2 count=20 backlog=17650 uploads=1160 failed_attempts=78 description_overrides=5848
+[11:31:02] login
+[11:31:04] login done
+[11:31:04] iteration 1/20
+[11:31:04] film cr_film_id=3123 name='Moje ségra má prima bráchu (2014) CZ Dabing' candidates=1
+[11:31:04]   candidate upload_id=55d6b8c3c4d45 url=https://prehraj.to/moje-segra-ma-prima-brachu-2014-cz-dab-komedie-drama-koko/55d6b8c3c4d45
+[11:31:06]   resolved in 2.3s → 480p (https://pf-storage2.premiumcdn.net/216022/kJ8Id2uoliRyUP2CO0SlNuEXSR9CdacQLSkQhL…)
+[11:31:29]   downloaded 334.9 MB in 20.4s (16.4 MB/s)
+[11:31:51]   upload done video_id=26084521 in 21.8s
