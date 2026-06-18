@@ -5148,3 +5148,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:27:30]   upload done video_id=26072027 in 19.3s
 [07:27:31] film cr_film_id=2763 OK in 38.0s
 [07:27:31] batch-end ok=20 failed=0 dur=2337.3s avg/film=116.9s remaining=16569 eta_hours=538.0
+
+===== run 2026-06-18T07:33:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27744021296) =====
+[07:33:26] description overrides loaded: 3944 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:33:26] batch-start shard=1/2 count=20 backlog=17650 uploads=1081 failed_attempts=75 description_overrides=3944
+[07:33:26] login
+[07:33:29] login done
+[07:33:29] iteration 1/20
+[07:33:29] film cr_film_id=2765 name='Majestic (2001) CZ Dabing' candidates=2
+[07:33:29]   candidate upload_id=5c367a375879d url=https://prehraj.to/majestic-2001-cz-dabing/5c367a375879d
+[07:33:30]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/10780484/gaKulas25sAKs8LUXVc6xswbFMLCDyclMIvP…)
+[07:33:57]   downloaded 583.8 MB in 25.3s (23.1 MB/s)
+[07:34:25]   upload done video_id=26072163 in 28.1s
