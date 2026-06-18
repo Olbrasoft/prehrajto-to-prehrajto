@@ -3963,3 +3963,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:16:23]   upload done video_id=26061358 in 31.2s
 [00:16:24] film cr_film_id=2167 OK in 55.5s
 [00:16:24] batch-end ok=20 failed=0 dur=2080.7s avg/film=104.0s remaining=16726 eta_hours=483.2
+
+===== run 2026-06-18T00:23:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27728447275) =====
+[00:23:59] description overrides loaded: 3733 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:23:59] batch-start shard=1/2 count=20 backlog=17650 uploads=924 failed_attempts=67 description_overrides=3733
+[00:23:59] login
+[00:24:01] login done
+[00:24:01] iteration 1/20
+[00:24:01] film cr_film_id=2169 name='Ztracená v svitu hvězd (2025) CZ Dabing' candidates=9
+[00:24:01]   candidate upload_id=6839eceec127b url=https://prehraj.to/ztracena-v-svitu-hvezd-czdabing-2025-1080p-mp4/6839eceec127b
+[00:24:02]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/138920618/pRmSP3TWJiZnszBI5wcQPTdMs5kSJ9U3kCx…)
+[00:25:30]   downloaded 2,155.2 MB in 85.9s (25.1 MB/s)
+[00:27:08]   upload done video_id=26061688 in 98.1s
