@@ -4479,3 +4479,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:39:31]   resolved in 1.3s → 1080p (https://pf-storage2.premiumcdn.net/141700430/aYPt76TwXUoLuQ1C9EskyTj4fVrhVvfZzcM…)
 [03:40:21]   downloaded 1,380.9 MB in 48.1s (28.7 MB/s)
 [03:41:34]   upload done video_id=26066798 in 73.3s
+[03:41:36] film cr_film_id=2256 OK in 126.1s
+[03:41:36] iteration 18/20
+[03:41:36] film cr_film_id=2260 name='Krotitelé duchů: Odkaz (2021) CZ Dabing' candidates=2
+[03:41:36]   candidate upload_id=f1bf18d2bfafc50f url=https://prehraj.to/krotitele-duchu-odkaz-2021-cz-dab-1080p/f1bf18d2bfafc50f
+[03:41:37]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krotitele-duchu-odkaz-2021-cz-dab-1080p/f1bf18d2bfafc50f (permanent=True)
+[03:41:37]   candidate upload_id=372cab655bd68e79 url=https://prehraj.to/krotitele-duchu-odkaz-2021-cz-dab-1080p/372cab655bd68e79
+[03:41:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krotitele-duchu-odkaz-2021-cz-dab-1080p/372cab655bd68e79 (permanent=True)
+[03:41:42] film cr_film_id=2260 all candidates exhausted
+[03:41:42] iteration 19/20
+[03:41:42] film cr_film_id=2276 name='Antigona (2019) CZ Dabing' candidates=1
+[03:41:42]   candidate upload_id=602b22a5519d7 url=https://prehraj.to/antigona-2019-czdabing/602b22a5519d7
+[03:41:49]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/22248056/g5ZtR2UAQuNjcz1fPvUv5UpaS93i91cpRFJK…)
+[03:43:19]   downloaded 2,002.0 MB in 88.8s (22.5 MB/s)
+[03:45:15]   upload done video_id=26066874 in 115.9s
