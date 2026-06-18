@@ -4502,3 +4502,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:49:48]   upload done video_id=26067003 in 138.8s
 [03:49:49] film cr_film_id=2278 OK in 271.7s
 [03:49:49] batch-end ok=18 failed=2 dur=3392.2s avg/film=188.5s remaining=16636 eta_hours=871.1
+
+===== run 2026-06-18T03:50:17Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27735452760) =====
+[03:50:19] description overrides loaded: 3736 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:50:19] batch-start shard=0/2 count=20 backlog=17650 uploads=1014 failed_attempts=77 description_overrides=3736
+[03:50:19] login
+[03:50:20] login done
+[03:50:20] iteration 1/20
+[03:50:20] film cr_film_id=2286 name='Monstrum (2008) CZ Dabing' candidates=2
+[03:50:20]   candidate upload_id=6696793048c8c url=https://prehraj.to/cloverfield-monstrum-2008-cz-dab-70-p-m/6696793048c8c
+[03:50:22]   resolved in 1.4s → 1080p (https://pf-storage1.premiumcdn.net/85112021/ME4IerfOeiejTrxhX5cJgfDOHXLugYFJwFa8…)
+[03:52:20]   downloaded 2,916.9 MB in 115.9s (25.2 MB/s)
+[03:54:56]   upload done video_id=26067137 in 156.6s
