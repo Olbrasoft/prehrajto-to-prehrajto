@@ -7013,3 +7013,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [14:15:02]   upload done video_id=26091967 in 71.5s
 [14:15:03] film cr_film_id=9541 OK in 128.8s
 [14:15:03] batch-end ok=18 failed=2 dur=3231.6s avg/film=179.5s remaining=8875 eta_hours=442.5
+
+===== run 2026-06-18T14:19:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27766014840) =====
+[14:19:31] batch-start shard=1/2 count=20 backlog=10210 uploads=1335 failed_attempts=63 description_overrides=0
+[14:19:31] login
+[14:19:33] login done
+[14:19:33] iteration 1/20
+[14:19:33] film cr_film_id=31047 name='Bun maska (2020) CZ Titulky' candidates=1
+[14:19:33]   candidate upload_id=5e8612d76db37 url=https://prehraj.to/bun-maska-komedie-indie-2020-1080p-5-1-h264-s-cztitulky-sten-ok/5e8612d76db37
+[14:19:34]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/16120660/yErHVbsWXSgwuoMTwOUB4s8NIZ2CKDIZQCLj…)
+[14:20:50]   downloaded 2,205.6 MB in 74.6s (29.6 MB/s)
+[14:22:21]   upload done video_id=26092180 in 90.9s
