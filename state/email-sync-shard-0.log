@@ -4059,3 +4059,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:01:50]   upload done video_id=26062725 in 62.1s
 [01:01:51] film cr_film_id=2062 OK in 112.6s
 [01:01:51] batch-end ok=20 failed=0 dur=2271.9s avg/film=113.6s remaining=16692 eta_hours=526.7
+
+===== run 2026-06-18T01:21:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27730457483) =====
+[01:21:17] description overrides loaded: 3734 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:21:17] batch-start shard=0/2 count=20 backlog=17650 uploads=958 failed_attempts=68 description_overrides=3734
+[01:21:17] login
+[01:21:18] login done
+[01:21:18] iteration 1/20
+[01:21:18] film cr_film_id=2068 name='Velká vánoční jízda (2011) CZ Dabing' candidates=5
+[01:21:18]   candidate upload_id=567780b6b7805 url=https://prehraj.to/velka-vanocni-jizda-2011-cz-dab-anim-pohadka-koko/567780b6b7805
+[01:21:19]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/342258/P89fawh4yHMPfj1i09UzRh8QcwYtx8He7TzJUy…)
+[01:21:51]   downloaded 820.3 MB in 30.4s (27.0 MB/s)
+[01:22:27]   upload done video_id=26063234 in 36.1s
