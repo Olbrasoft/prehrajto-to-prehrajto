@@ -15596,6 +15596,25 @@
         "download_sec": 30.1,
         "upload_sec": 31.3
       }
+    },
+    {
+      "cr_film_id": 2134,
+      "cr_slug": "lukostrelci",
+      "title": "Lukostřelci",
+      "year": 2011,
+      "display_name": "Lukostřelci (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58213d8eaf347",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26064650,
+      "size_bytes": 787279052,
+      "uploaded_at": "2026-06-18T02:15:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 32.8,
+        "upload_sec": 42.9
+      }
     }
   ],
   "failed_attempts": [
@@ -16088,5 +16107,5 @@
       "failed_at": "2026-06-18T01:45:47Z"
     }
   ],
-  "last_updated": "2026-06-18T02:13:47Z"
+  "last_updated": "2026-06-18T02:15:07Z"
 }
