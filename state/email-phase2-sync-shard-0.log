@@ -6454,3 +6454,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:15:24]   upload done video_id=26082108 in 119.7s
 [10:15:26] film cr_film_id=36818 OK in 224.7s
 [10:15:26] batch-end ok=20 failed=0 dur=2723.5s avg/film=136.2s remaining=8937 eta_hours=338.1
+
+===== run 2026-06-18T10:15:59Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27752615687) =====
+[10:16:00] batch-start shard=0/2 count=20 backlog=10210 uploads=1273 failed_attempts=62 description_overrides=0
+[10:16:00] login
+[10:16:02] login done
+[10:16:02] iteration 1/20
+[10:16:02] film cr_film_id=26542 name='Asi se zblázním (2021) CZ Titulky' candidates=6
+[10:16:02]   candidate upload_id=603935b29d4cb url=https://prehraj.to/asi-se-zblaznim-romanticka-komedie-spanelsko-2021-1080p-nf-web-5-1-x264-s-cztitulky-sten-ok/603935b29d4cb
+[10:16:03]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/22451690/BDBUnNipVhvqSkwhxYcBEiwDUYEhvJs6PHpv…)
+[10:17:48]   downloaded 1,870.6 MB in 102.4s (18.3 MB/s)
+[10:19:37]   upload done video_id=26082211 in 108.9s
