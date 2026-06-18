@@ -23475,6 +23475,25 @@
         "download_sec": 21.7,
         "upload_sec": 23.9
       }
+    },
+    {
+      "cr_film_id": 30711,
+      "cr_slug": "the-corrupted",
+      "title": "The Corrupted",
+      "year": 2019,
+      "display_name": "The Corrupted (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f2596b73f624",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26096454,
+      "size_bytes": 486294763,
+      "uploaded_at": "2026-06-18T16:19:48Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.2,
+        "upload_sec": 21.7
+      }
     }
   ],
   "failed_attempts": [
@@ -23924,5 +23943,5 @@
       "failed_at": "2026-06-18T13:58:21Z"
     }
   ],
-  "last_updated": "2026-06-18T16:19:00Z"
+  "last_updated": "2026-06-18T16:19:48Z"
 }
