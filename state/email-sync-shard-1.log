@@ -5081,3 +5081,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:13:34]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/34262056/WY9IO6UW6svahJDHK2sdvULNIWwio8fk9fED…)
 [07:14:46]   downloaded 2,487.8 MB in 70.2s (35.4 MB/s)
 [07:16:16]   upload done video_id=26071750 in 90.0s
+[07:16:17] film cr_film_id=2739 OK in 164.2s
+[07:16:17] iteration 12/20
+[07:16:17] film cr_film_id=2741 name='Šéfové na zabití (2011) CZ' candidates=2
+[07:16:17]   candidate upload_id=b50d13cdcd2ce69b url=https://prehraj.to/sefove-na-zabiti-2011-fhd-cz-en/b50d13cdcd2ce69b
+[07:16:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sefove-na-zabiti-2011-fhd-cz-en/b50d13cdcd2ce69b (permanent=True)
+[07:16:18]   candidate upload_id=655cfe0aa0b45 url=https://prehraj.to/sefovia-na-zabitie-2011/655cfe0aa0b45
+[07:16:24]   resolved in 6.0s → 1080p (https://pf-storage1.premiumcdn.net/52593866/N84cPzH4qCRjfo9FzQTd0HlPS78TdLsgvcob…)
+[07:17:40]   downloaded 2,695.0 MB in 75.1s (35.9 MB/s)
+[07:19:24]   upload done video_id=26071812 in 103.8s

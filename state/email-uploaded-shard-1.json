@@ -17486,6 +17486,25 @@
         "download_sec": 70.2,
         "upload_sec": 90.0
       }
+    },
+    {
+      "cr_film_id": 2741,
+      "cr_slug": "sefove-na-zabiti",
+      "title": "Šéfové na zabití",
+      "year": 2011,
+      "display_name": "Šéfové na zabití (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "655cfe0aa0b45",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26071812,
+      "size_bytes": 2695026024,
+      "uploaded_at": "2026-06-18T07:19:24Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 75.1,
+        "upload_sec": 103.8
+      }
     }
   ],
   "failed_attempts": [
@@ -18026,7 +18045,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krajina-ve-stinu-2020-cz-dab-1080p/9bf70c166ab676aa",
       "permanent": true,
       "failed_at": "2026-06-18T05:34:20Z"
+    },
+    {
+      "cr_film_id": 2741,
+      "upload_id": "b50d13cdcd2ce69b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sefove-na-zabiti-2011-fhd-cz-en/b50d13cdcd2ce69b",
+      "permanent": true,
+      "failed_at": "2026-06-18T07:16:18Z"
     }
   ],
-  "last_updated": "2026-06-18T07:16:16Z"
+  "last_updated": "2026-06-18T07:19:24Z"
 }
