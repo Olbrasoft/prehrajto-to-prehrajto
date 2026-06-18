@@ -16128,6 +16128,25 @@
         "download_sec": 70.6,
         "upload_sec": 96.5
       }
+    },
+    {
+      "cr_film_id": 2248,
+      "cr_slug": "severan",
+      "title": "Seveřan",
+      "year": 2022,
+      "display_name": "Seveřan (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62d08adfb9590",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26066553,
+      "size_bytes": 3362285814,
+      "uploaded_at": "2026-06-18T03:34:58Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 159.0,
+        "upload_sec": 199.7
+      }
     }
   ],
   "failed_attempts": [
@@ -16653,7 +16672,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nemravne-dopisy-2023-cz-dab-1080p-mp4/9059ee2041379089",
       "permanent": true,
       "failed_at": "2026-06-18T02:44:21Z"
+    },
+    {
+      "cr_film_id": 2246,
+      "upload_id": "365f5e0025745e9b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/posledni-zavod-2022-cz-dab-1080p/365f5e0025745e9b",
+      "permanent": true,
+      "failed_at": "2026-06-18T03:28:52Z"
     }
   ],
-  "last_updated": "2026-06-18T03:28:49Z"
+  "last_updated": "2026-06-18T03:34:58Z"
 }
