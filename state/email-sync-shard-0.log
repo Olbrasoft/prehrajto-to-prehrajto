@@ -5864,3 +5864,13 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:25:18]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/15026716/YpWT7GUlEIQMsnPSlotgjU5qSY3CyBuRyupO…)
 [12:26:29]   downloaded 1,557.0 MB in 69.5s (22.4 MB/s)
 [12:27:43]   upload done video_id=26086678 in 74.0s
+[12:27:44] film cr_film_id=2968 OK in 147.4s
+[12:27:44] iteration 4/20
+[12:27:44] film cr_film_id=2970 name='Arctic: Ledové peklo (2018) CZ Dabing' candidates=5
+[12:27:44]   candidate upload_id=62ce270570892 url=https://prehraj.to/arctic-ledove-peklo-2018-czdab/62ce270570892
+[12:27:46]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/31560173/YR2cjPhEBH84Hd3TZrfaYhrKURYurZF8eIQz…)
+[12:29:17]   download FAILED after 61.4s: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds
+[12:29:17]   candidate upload_id=60f9c4d1e9d68 url=https://prehraj.to/arctic-ledove-peklo-2018-cz-dabing/60f9c4d1e9d68
+[12:29:18]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/24364043/p0xhleurbhogCgVulRTexu2MhKeiL8F6pTl8…)
+[12:29:34]   downloaded 335.9 MB in 13.7s (24.5 MB/s)
+[12:29:52]   upload done video_id=26086769 in 18.4s
