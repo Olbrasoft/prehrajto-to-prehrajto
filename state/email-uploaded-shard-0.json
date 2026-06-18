@@ -20498,6 +20498,25 @@
         "download_sec": 60.8,
         "upload_sec": 196.5
       }
+    },
+    {
+      "cr_film_id": 3150,
+      "cr_slug": "mizerove",
+      "title": "Mizerové",
+      "year": 1995,
+      "display_name": "Mizerové (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d1121cb19d47",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26093848,
+      "size_bytes": 947110789,
+      "uploaded_at": "2026-06-18T15:06:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 27.1,
+        "upload_sec": 53.1
+      }
     }
   ],
   "failed_attempts": [
@@ -21188,5 +21207,5 @@
       "failed_at": "2026-06-18T14:02:05Z"
     }
   ],
-  "last_updated": "2026-06-18T15:04:42Z"
+  "last_updated": "2026-06-18T15:06:06Z"
 }
