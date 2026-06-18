@@ -6440,3 +6440,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:51:39]   upload done video_id=26097439 in 108.9s
 [16:51:41] film cr_film_id=3260 OK in 206.1s
 [16:51:41] batch-end ok=20 failed=0 dur=4727.8s avg/film=236.4s remaining=16382 eta_hours=1075.8
+
+===== run 2026-06-18T20:05:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27786111659) =====
+[20:05:39] description overrides loaded: 8187 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:05:39] batch-start shard=0/2 count=20 backlog=17650 uploads=1268 failed_attempts=99 description_overrides=8187
+[20:05:39] login
+[20:05:40] login done
+[20:05:40] iteration 1/20
+[20:05:40] film cr_film_id=3264 name='Máme papeže! (2011) CZ' candidates=3
+[20:05:40]   candidate upload_id=5a8cc890e7877 url=https://prehraj.to/mame-papeze-2011/5a8cc890e7877
+[20:05:41]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/3430201/WpztZxUy1sWvHbjiExu4oUV4t38FQysLnHoRC…)
+[20:06:06]   downloaded 630.7 MB in 24.1s (26.2 MB/s)
+[20:06:46]   upload done video_id=26102515 in 39.2s
