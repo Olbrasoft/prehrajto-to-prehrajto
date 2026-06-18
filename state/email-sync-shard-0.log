@@ -6331,3 +6331,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:48:05]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/161649845/NrGuwlUbKco0Hm8sPAUl0UMQsgqhodiLBFk…)
 [15:49:16]   downloaded 1,217.7 MB in 69.3s (17.6 MB/s)
 [15:50:22]   upload done video_id=26095508 in 65.9s
+[15:50:24] film cr_film_id=3186 OK in 140.0s
+[15:50:24] iteration 6/20
+[15:50:24] film cr_film_id=3188 name='Úsměv 2 (2024) CZ Dabing' candidates=5
+[15:50:24]   candidate upload_id=68f27482a8bfa url=https://prehraj.to/usmev-2-smile-2-2014-horor-mysteriozni-czdab/68f27482a8bfa
+[15:50:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/usmev-2-smile-2-2014-horor-mysteriozni-czdab/68f27482a8bfa (permanent=True)
+[15:50:25]   candidate upload_id=a4e2745ace9c08c5 url=https://prehraj.to/usmev-2-2014-horor-czdab-m-mp4/a4e2745ace9c08c5
+[15:50:31]   resolved in 6.4s → 720p (https://pf-storage3.premiumcdn.net/169254652/QrKTqLcGghRxf0jsWOhR9cOATPqIAMT9YFO…)
+[15:52:24]   downloaded 1,499.3 MB in 111.6s (13.4 MB/s)
+[15:53:59]   upload done video_id=26095583 in 94.6s

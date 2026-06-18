@@ -20764,6 +20764,25 @@
         "download_sec": 69.3,
         "upload_sec": 65.9
       }
+    },
+    {
+      "cr_film_id": 3188,
+      "cr_slug": "usmev-2",
+      "title": "Úsměv 2",
+      "year": 2024,
+      "display_name": "Úsměv 2 (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a4e2745ace9c08c5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26095583,
+      "size_bytes": 1499286571,
+      "uploaded_at": "2026-06-18T15:53:59Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 111.6,
+        "upload_sec": 94.6
+      }
     }
   ],
   "failed_attempts": [
@@ -21466,7 +21485,14 @@
       "reason": "oversize: 10674894227 B",
       "permanent": true,
       "failed_at": "2026-06-18T15:27:02Z"
+    },
+    {
+      "cr_film_id": 3188,
+      "upload_id": "68f27482a8bfa",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/usmev-2-smile-2-2014-horor-mysteriozni-czdab/68f27482a8bfa",
+      "permanent": true,
+      "failed_at": "2026-06-18T15:50:25Z"
     }
   ],
-  "last_updated": "2026-06-18T15:50:22Z"
+  "last_updated": "2026-06-18T15:53:59Z"
 }
