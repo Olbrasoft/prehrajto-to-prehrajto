@@ -6028,3 +6028,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [13:29:59]   resolved in 1.6s → 480p (https://pf-storage1.premiumcdn.net/11248360/aZ5HV0u0ZHA6u3nFV2C28uYlcAdSVWcaRIbz…)
 [13:30:30]   downloaded 793.9 MB in 28.9s (27.5 MB/s)
 [13:31:10]   upload done video_id=26089392 in 40.6s
+[13:31:12] film cr_film_id=3064 OK in 74.3s
+[13:31:12] iteration 6/20
+[13:31:12] film cr_film_id=3066 name='Božská Florence (2016) CZ Dabing' candidates=8
+[13:31:12]   candidate upload_id=5b9436c63130c url=https://prehraj.to/bozska-florence-2016-hdrip-cz-dabing-m3/5b9436c63130c
+[13:31:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bozska-florence-2016-hdrip-cz-dabing-m3/5b9436c63130c (permanent=True)
+[13:31:13]   candidate upload_id=5be22ef4f1d45 url=https://prehraj.to/bozska-florence-cz-dabing-2016/5be22ef4f1d45
+[13:31:19]   resolved in 6.2s → 720p (https://pf-storage2.premiumcdn.net/7957622/kLjH8PUgztoDfO1t0YI0mU7AIa7FlJF9QIaPF…)
+[13:32:08]   downloaded 1,663.9 MB in 47.5s (35.0 MB/s)
+[13:34:14]   upload done video_id=26089584 in 126.6s
