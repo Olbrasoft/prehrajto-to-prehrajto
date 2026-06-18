@@ -20264,6 +20264,25 @@
         "download_sec": 20.9,
         "upload_sec": 20.0
       }
+    },
+    {
+      "cr_film_id": 9233,
+      "cr_slug": "vyberci-dani",
+      "title": "Výběrčí daní",
+      "year": 2020,
+      "display_name": "Výběrčí daní (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f399fcac3f40",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26072820,
+      "size_bytes": 1078716342,
+      "uploaded_at": "2026-06-18T08:05:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 38.3,
+        "upload_sec": 47.7
+      }
     }
   ],
   "failed_attempts": [
@@ -20674,5 +20693,5 @@
       "failed_at": "2026-06-18T05:42:13Z"
     }
   ],
-  "last_updated": "2026-06-18T08:03:45Z"
+  "last_updated": "2026-06-18T08:05:15Z"
 }
