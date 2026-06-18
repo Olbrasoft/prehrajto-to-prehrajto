@@ -14598,6 +14598,25 @@
         "download_sec": 12.6,
         "upload_sec": 17.5
       }
+    },
+    {
+      "cr_film_id": 2157,
+      "cr_slug": "zlouni-2",
+      "title": "Zlouni 2",
+      "year": 2025,
+      "display_name": "Zlouni 2 (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "69061531cc0d9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26061261,
+      "size_bytes": 566733958,
+      "uploaded_at": "2026-06-18T00:13:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.3,
+        "upload_sec": 43.3
+      }
     }
   ],
   "failed_attempts": [
@@ -15081,5 +15100,5 @@
       "failed_at": "2026-06-17T22:41:52Z"
     }
   ],
-  "last_updated": "2026-06-18T00:12:29Z"
+  "last_updated": "2026-06-18T00:13:37Z"
 }
