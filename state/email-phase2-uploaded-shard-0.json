@@ -22201,6 +22201,25 @@
         "download_sec": 34.3,
         "upload_sec": 43.4
       }
+    },
+    {
+      "cr_film_id": 31064,
+      "cr_slug": "the-big-ugly",
+      "title": "The Big Ugly",
+      "year": 2020,
+      "display_name": "The Big Ugly (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f732f32abf2b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26087491,
+      "size_bytes": 1316290110,
+      "uploaded_at": "2026-06-18T12:51:08Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 44.2,
+        "upload_sec": 72.6
+      }
     }
   ],
   "failed_attempts": [
@@ -22644,5 +22663,5 @@
       "failed_at": "2026-06-18T05:46:16Z"
     }
   ],
-  "last_updated": "2026-06-18T12:49:07Z"
+  "last_updated": "2026-06-18T12:51:08Z"
 }
