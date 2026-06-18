@@ -16878,6 +16878,25 @@
         "download_sec": 101.0,
         "upload_sec": 112.0
       }
+    },
+    {
+      "cr_film_id": 2607,
+      "cr_slug": "jursky-svet",
+      "title": "Jurský svět",
+      "year": 2015,
+      "display_name": "Jurský svět (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ea3307f56934",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26069616,
+      "size_bytes": 1459042629,
+      "uploaded_at": "2026-06-18T05:40:16Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 57.9,
+        "upload_sec": 72.7
+      }
     }
   ],
   "failed_attempts": [
@@ -17420,5 +17439,5 @@
       "failed_at": "2026-06-18T05:34:20Z"
     }
   ],
-  "last_updated": "2026-06-18T05:38:00Z"
+  "last_updated": "2026-06-18T05:40:16Z"
 }
