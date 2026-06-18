@@ -4705,3 +4705,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:46:42]   upload done video_id=26068486 in 78.8s
 [04:46:43] film cr_film_id=2527 OK in 163.7s
 [04:46:43] batch-end ok=19 failed=1 dur=3376.8s avg/film=177.7s remaining=16627 eta_hours=820.7
+
+===== run 2026-06-18T04:47:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27737366043) =====
+[04:47:23] description overrides loaded: 3736 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:47:23] batch-start shard=1/2 count=20 backlog=17650 uploads=1023 failed_attempts=71 description_overrides=3736
+[04:47:23] login
+[04:47:24] login done
+[04:47:24] iteration 1/20
+[04:47:24] film cr_film_id=2531 name='Wonka (2023) CZ Dabing' candidates=1
+[04:47:24]   candidate upload_id=a9172dc1ec7c1f78 url=https://prehraj.to/wonka-2023-cz-dab-1080p/a9172dc1ec7c1f78
+[04:47:26]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/155973374/N9aFweSlriAwS1qT47SJkS1yiwoURgfkJtO…)
+[04:48:44]   downloaded 1,974.7 MB in 76.3s (25.9 MB/s)
+[04:50:40]   upload done video_id=26068558 in 115.6s

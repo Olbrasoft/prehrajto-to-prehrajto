@@ -16555,6 +16555,25 @@
         "download_sec": 79.3,
         "upload_sec": 78.8
       }
+    },
+    {
+      "cr_film_id": 2531,
+      "cr_slug": "wonka",
+      "title": "Wonka",
+      "year": 2023,
+      "display_name": "Wonka (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a9172dc1ec7c1f78",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26068558,
+      "size_bytes": 1974738720,
+      "uploaded_at": "2026-06-18T04:50:40Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 76.3,
+        "upload_sec": 115.6
+      }
     }
   ],
   "failed_attempts": [
@@ -17071,5 +17090,5 @@
       "failed_at": "2026-06-18T04:13:59Z"
     }
   ],
-  "last_updated": "2026-06-18T04:46:42Z"
+  "last_updated": "2026-06-18T04:50:40Z"
 }
