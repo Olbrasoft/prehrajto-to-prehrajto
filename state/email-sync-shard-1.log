@@ -5440,3 +5440,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:20:02]   upload done video_id=26074570 in 57.1s
 [09:20:03] film cr_film_id=2915 OK in 106.9s
 [09:20:03] batch-end ok=19 failed=1 dur=3028.5s avg/film=159.4s remaining=16530 eta_hours=731.9
+
+===== run 2026-06-18T09:20:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27749619667) =====
+[09:20:41] description overrides loaded: 4771 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:20:41] batch-start shard=1/2 count=20 backlog=17650 uploads=1120 failed_attempts=76 description_overrides=4771
+[09:20:41] login
+[09:20:42] login done
+[09:20:42] iteration 1/20
+[09:20:42] film cr_film_id=2923 name='Zprávy ze světa (2020) CZ Dabing' candidates=9
+[09:20:42]   candidate upload_id=6086fb4388739 url=https://prehraj.to/zpravy-ze-sveta-2020-cz-dabing-1080p-akcni-dobrodruzny-drama-western/6086fb4388739
+[09:20:43]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/23272611/md7FQxi70T0nf3XcbxSLxiV2Fy3s2qt0psxQ…)
+[09:22:00]   downloaded 2,153.5 MB in 75.3s (28.6 MB/s)
+[09:23:18]   upload done video_id=26074745 in 78.1s
