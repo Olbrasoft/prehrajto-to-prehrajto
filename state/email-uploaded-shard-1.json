@@ -17201,6 +17201,25 @@
         "download_sec": 96.3,
         "upload_sec": 123.2
       }
+    },
+    {
+      "cr_film_id": 2671,
+      "cr_slug": "sekretarka",
+      "title": "Sekretářka",
+      "year": 2002,
+      "display_name": "Sekretářka (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61f7f6ac78853",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26070548,
+      "size_bytes": 499040592,
+      "uploaded_at": "2026-06-18T06:15:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.7,
+        "upload_sec": 36.3
+      }
     }
   ],
   "failed_attempts": [
@@ -17743,5 +17762,5 @@
       "failed_at": "2026-06-18T05:34:20Z"
     }
   ],
-  "last_updated": "2026-06-18T06:14:06Z"
+  "last_updated": "2026-06-18T06:15:09Z"
 }
