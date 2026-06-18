@@ -16821,6 +16821,25 @@
         "download_sec": 87.4,
         "upload_sec": 103.8
       }
+    },
+    {
+      "cr_film_id": 2593,
+      "cr_slug": "tully",
+      "title": "Tully",
+      "year": 2018,
+      "display_name": "Tully (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6065a5c3a3662",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26069410,
+      "size_bytes": 957455449,
+      "uploaded_at": "2026-06-18T05:28:55Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 47.2,
+        "upload_sec": 52.4
+      }
     }
   ],
   "failed_attempts": [
@@ -17344,5 +17363,5 @@
       "failed_at": "2026-06-18T05:16:10Z"
     }
   ],
-  "last_updated": "2026-06-18T05:27:10Z"
+  "last_updated": "2026-06-18T05:28:55Z"
 }
