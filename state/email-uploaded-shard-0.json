@@ -18693,6 +18693,25 @@
         "download_sec": 76.4,
         "upload_sec": 99.4
       }
+    },
+    {
+      "cr_film_id": 2772,
+      "cr_slug": "psi-vojaci",
+      "title": "Psí vojáci",
+      "year": 2002,
+      "display_name": "Psí vojáci (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5611539c2981a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26081783,
+      "size_bytes": 471111312,
+      "uploaded_at": "2026-06-18T09:55:47Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.1,
+        "upload_sec": 27.9
+      }
     }
   ],
   "failed_attempts": [
@@ -19323,5 +19342,5 @@
       "failed_at": "2026-06-18T09:48:56Z"
     }
   ],
-  "last_updated": "2026-06-18T09:54:51Z"
+  "last_updated": "2026-06-18T09:55:47Z"
 }
