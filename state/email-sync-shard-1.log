@@ -4780,3 +4780,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:12:54]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/28509687/JrGhW3sA8cwEIO4ugYSB1slqubvHYPuNkHRb…)
 [05:14:31]   downloaded 1,943.2 MB in 94.5s (20.6 MB/s)
 [05:16:07]   upload done video_id=26069073 in 96.3s
+[05:16:09] film cr_film_id=2573 OK in 195.8s
+[05:16:09] iteration 11/20
+[05:16:09] film cr_film_id=2577 name='Croodsovi: Nový věk (2020) CZ' candidates=1
+[05:16:09]   candidate upload_id=9d1f095563becff9 url=https://prehraj.to/croodsovi-novy-vek-2020-uhdr-cz-sk-en/9d1f095563becff9
+[05:16:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/croodsovi-novy-vek-2020-uhdr-cz-sk-en/9d1f095563becff9 (permanent=True)
+[05:16:10] film cr_film_id=2577 all candidates exhausted
+[05:16:10] iteration 12/20
+[05:16:10] film cr_film_id=2579 name='Pan Jones (2019) CZ Dabing' candidates=2
+[05:16:10]   candidate upload_id=616f16428873e url=https://prehraj.to/pan-jones-2019-czdab/616f16428873e
+[05:16:16]   resolved in 6.2s → 720p (https://pf-storage4.premiumcdn.net/25678396/lAqtGrIO0ixQTaAsemFGRILJIyqUbGC1NfXa…)
+[05:17:26]   downloaded 1,755.6 MB in 68.1s (25.8 MB/s)
+[05:19:04]   upload done video_id=26069138 in 97.7s
