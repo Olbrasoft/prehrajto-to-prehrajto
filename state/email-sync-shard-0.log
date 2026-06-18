@@ -6872,3 +6872,10 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:11:28]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/116426165/vPWumPck8F8XfPBfn9Tl7cPaCzGiB8IQ8u3…)
 [23:12:30]   downloaded 2,223.4 MB in 60.7s (36.6 MB/s)
 [23:13:56]   upload done video_id=26106928 in 85.9s
+[23:13:57] film cr_film_id=3504 OK in 150.3s
+[23:13:57] iteration 20/20
+[23:13:57] film cr_film_id=3506 name='Zůstaň se mnou (2014) CZ Dabing' candidates=1
+[23:13:57]   candidate upload_id=68f32cac33bfe url=https://prehraj.to/zustan-se-mnou-2014-cz-dabing-hd-1080p/68f32cac33bfe
+[23:13:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zustan-se-mnou-2014-cz-dabing-hd-1080p/68f32cac33bfe (permanent=True)
+[23:13:58] film cr_film_id=3506 all candidates exhausted
+[23:13:58] batch-end ok=19 failed=1 dur=2671.7s avg/film=140.6s remaining=16324 eta_hours=637.5
