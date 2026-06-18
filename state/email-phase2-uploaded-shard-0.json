@@ -18800,6 +18800,25 @@
         "download_sec": 225.7,
         "upload_sec": 249.9
       }
+    },
+    {
+      "cr_film_id": 6780,
+      "cr_slug": "xtremo",
+      "title": "Xtreme",
+      "year": 2021,
+      "display_name": "Xtreme (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60bf989886db6",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26067133,
+      "size_bytes": 2390753909,
+      "uploaded_at": "2026-06-18T03:54:28Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 126.5,
+        "upload_sec": 141.5
+      }
     }
   ],
   "failed_attempts": [
@@ -19224,5 +19243,5 @@
       "failed_at": "2026-06-18T02:47:05Z"
     }
   ],
-  "last_updated": "2026-06-18T03:49:55Z"
+  "last_updated": "2026-06-18T03:54:28Z"
 }
