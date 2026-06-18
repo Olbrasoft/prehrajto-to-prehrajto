@@ -23284,6 +23284,25 @@
         "download_sec": 34.7,
         "upload_sec": 67.6
       }
+    },
+    {
+      "cr_film_id": 5444,
+      "cr_slug": "lapsis",
+      "title": "Lapsis",
+      "year": 2020,
+      "display_name": "Lapsis (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "617d8adb1f241",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26094884,
+      "size_bytes": 1781222615,
+      "uploaded_at": "2026-06-18T15:32:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 61.8,
+        "upload_sec": 101.7
+      }
     }
   ],
   "failed_attempts": [
@@ -23741,5 +23760,5 @@
       "failed_at": "2026-06-18T14:37:22Z"
     }
   ],
-  "last_updated": "2026-06-18T15:29:39Z"
+  "last_updated": "2026-06-18T15:32:27Z"
 }
