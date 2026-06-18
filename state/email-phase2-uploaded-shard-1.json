@@ -21917,6 +21917,25 @@
         "download_sec": 63.3,
         "upload_sec": 75.3
       }
+    },
+    {
+      "cr_film_id": 32107,
+      "cr_slug": "isi-a-ossi",
+      "title": "Isi a Ossi",
+      "year": 2020,
+      "display_name": "Isi a Ossi (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e4860054f9ba",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26087396,
+      "size_bytes": 2839696003,
+      "uploaded_at": "2026-06-18T12:47:23Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 94.8,
+        "upload_sec": 116.2
+      }
     }
   ],
   "failed_attempts": [
@@ -22345,5 +22364,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-18T12:43:48Z"
+  "last_updated": "2026-06-18T12:47:23Z"
 }
