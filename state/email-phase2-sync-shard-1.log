@@ -6432,3 +6432,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [10:01:09]   upload done video_id=26081893 in 30.9s
 [10:01:10] film cr_film_id=19373 OK in 64.1s
 [10:01:10] batch-end ok=19 failed=1 dur=1868.1s avg/film=98.3s remaining=8952 eta_hours=244.4
+
+===== run 2026-06-18T10:15:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27752615687) =====
+[10:16:00] batch-start shard=1/2 count=20 backlog=10210 uploads=1258 failed_attempts=59 description_overrides=0
+[10:16:00] login
+[10:16:02] login done
+[10:16:02] iteration 1/20
+[10:16:02] film cr_film_id=4185 name='Shorta (2020) CZ Titulky' candidates=4
+[10:16:02]   candidate upload_id=689e9d359c878 url=https://prehraj.to/shorta-2020-cz-tit/689e9d359c878
+[10:16:03]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/143658662/mvZhx9HRXS6luwetZpfKDHxmSjWiymtdEIO…)
+[10:16:20]   downloaded 208.3 MB in 14.8s (14.1 MB/s)
+[10:16:37]   upload done video_id=26082175 in 17.2s
