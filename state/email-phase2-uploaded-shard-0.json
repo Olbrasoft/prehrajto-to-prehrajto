@@ -19123,6 +19123,25 @@
         "download_sec": 124.9,
         "upload_sec": 114.0
       }
+    },
+    {
+      "cr_film_id": 17052,
+      "cr_slug": "tides",
+      "title": "Tides",
+      "year": 2021,
+      "display_name": "Tides (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60e8753381149",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26068455,
+      "size_bytes": 1452370663,
+      "uploaded_at": "2026-06-18T04:45:18Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 82.6,
+        "upload_sec": 82.8
+      }
     }
   ],
   "failed_attempts": [
@@ -19547,5 +19566,5 @@
       "failed_at": "2026-06-18T02:47:05Z"
     }
   ],
-  "last_updated": "2026-06-18T04:42:27Z"
+  "last_updated": "2026-06-18T04:45:18Z"
 }
