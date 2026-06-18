@@ -6890,3 +6890,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:10:05]   upload done video_id=26087798 in 169.3s
 [13:10:06] film cr_film_id=5496 OK in 264.7s
 [13:10:06] batch-end ok=19 failed=1 dur=2249.3s avg/film=118.4s remaining=8878 eta_hours=292.0
+
+===== run 2026-06-18T13:21:08Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27762412819) =====
+[13:21:09] batch-start shard=0/2 count=20 backlog=10210 uploads=1332 failed_attempts=63 description_overrides=0
+[13:21:09] login
+[13:21:10] login done
+[13:21:10] iteration 1/20
+[13:21:10] film cr_film_id=33602 name='Spare Parts (2020) CZ Titulky' candidates=1
+[13:21:10]   candidate upload_id=5ff10ec657b7b url=https://prehraj.to/spare-parts-akcni-sci-fi-horor-2020-1080p-5-1-h264-s-cztitulky-34-23-sten-ok/5ff10ec657b7b
+[13:21:12]   resolved in 1.6s → 720p (https://pf-storage3.premiumcdn.net/21212196/E70snjS4zIrdIWesQBuelS5Zs5nHWOfkrh8d…)
+[13:22:19]   downloaded 1,578.2 MB in 65.0s (24.3 MB/s)
+[13:23:49]   upload done video_id=26088382 in 89.9s
