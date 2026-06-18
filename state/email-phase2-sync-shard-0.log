@@ -5726,3 +5726,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [05:39:25]   upload done video_id=26069596 in 99.4s
 [05:39:27] film cr_film_id=27132 OK in 184.2s
 [05:39:27] batch-end ok=20 failed=0 dur=4355.9s avg/film=217.8s remaining=9036 eta_hours=546.7
+
+===== run 2026-06-18T05:40:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27739221370) =====
+[05:40:03] batch-start shard=0/2 count=20 backlog=10210 uploads=1174 failed_attempts=61 description_overrides=0
+[05:40:03] login
+[05:40:04] login done
+[05:40:04] iteration 1/20
+[05:40:04] film cr_film_id=15084 name='Sex: Jak to rozbalit (2021) CZ Titulky' candidates=1
+[05:40:04]   candidate upload_id=6178987a93cb6 url=https://prehraj.to/sex-jak-to-rozbalit-2021-cztitulky/6178987a93cb6
+[05:40:05]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/25897435/w1Bi91hXlIYaIxqiWafA4hBbHQ6fZxi87cKz…)
+[05:41:00]   downloaded 1,496.7 MB in 53.1s (28.2 MB/s)
+[05:42:28]   upload done video_id=26069659 in 87.9s
