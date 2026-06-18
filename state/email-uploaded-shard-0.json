@@ -20992,6 +20992,25 @@
         "download_sec": 75.0,
         "upload_sec": 72.7
       }
+    },
+    {
+      "cr_film_id": 3246,
+      "cr_slug": "ti-nejhorsi",
+      "title": "Ti nejhorší",
+      "year": 2022,
+      "display_name": "Ti nejhorší (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64e385a820ef3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26096958,
+      "size_bytes": 1996855185,
+      "uploaded_at": "2026-06-18T16:39:01Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 193.5,
+        "upload_sec": 163.3
+      }
     }
   ],
   "failed_attempts": [
@@ -21703,5 +21722,5 @@
       "failed_at": "2026-06-18T15:50:25Z"
     }
   ],
-  "last_updated": "2026-06-18T16:32:59Z"
+  "last_updated": "2026-06-18T16:39:01Z"
 }
