@@ -4283,3 +4283,14 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:23:52]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/157028735/RZnTG3IP2hvBhNVFe8fv4ImPCQGTEquNBs2…)
 [02:26:21]   downloaded 3,623.1 MB in 147.5s (24.6 MB/s)
 [02:28:47]   upload done video_id=26064937 in 146.6s
+[02:28:49] film cr_film_id=2156 OK in 298.6s
+[02:28:49] iteration 11/20
+[02:28:49] film cr_film_id=2160 name='Superman (2025) CZ Dabing' candidates=3
+[02:28:49]   candidate upload_id=6907235ecddc5 url=https://prehraj.to/superman-2025-cz-dabing-hd-1080p/6907235ecddc5
+[02:28:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superman-2025-cz-dabing-hd-1080p/6907235ecddc5 (permanent=True)
+[02:28:52]   candidate upload_id=68a33886976f9 url=https://prehraj.to/superman-akcni-dobrodruzny-fantasy-2025-cz-dab/68a33886976f9
+[02:28:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superman-akcni-dobrodruzny-fantasy-2025-cz-dab/68a33886976f9 (permanent=True)
+[02:28:57]   candidate upload_id=68fbab5f92136 url=https://prehraj.to/superman-akcni-2025-cz-dabing-top-kvalita/68fbab5f92136
+[02:29:03]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/153236073/Zoxs0Bf3VT6OHGziENHGJfVjFNjHm6uaMCD…)
+[02:30:14]   downloaded 2,131.1 MB in 68.6s (31.1 MB/s)
+[02:31:44]   upload done video_id=26065040 in 90.2s

@@ -15729,6 +15729,25 @@
         "download_sec": 147.5,
         "upload_sec": 146.6
       }
+    },
+    {
+      "cr_film_id": 2160,
+      "cr_slug": "superman-2025",
+      "title": "Superman",
+      "year": 2025,
+      "display_name": "Superman (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68fbab5f92136",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26065040,
+      "size_bytes": 2131055746,
+      "uploaded_at": "2026-06-18T02:31:44Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 68.6,
+        "upload_sec": 90.2
+      }
     }
   ],
   "failed_attempts": [
@@ -16219,7 +16238,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-ghost-1990-patrick-swayze-demi-moore-czdab/687afd17550e5",
       "permanent": true,
       "failed_at": "2026-06-18T01:45:47Z"
+    },
+    {
+      "cr_film_id": 2160,
+      "upload_id": "6907235ecddc5",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superman-2025-cz-dabing-hd-1080p/6907235ecddc5",
+      "permanent": true,
+      "failed_at": "2026-06-18T02:28:52Z"
+    },
+    {
+      "cr_film_id": 2160,
+      "upload_id": "68a33886976f9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superman-akcni-dobrodruzny-fantasy-2025-cz-dab/68a33886976f9",
+      "permanent": true,
+      "failed_at": "2026-06-18T02:28:57Z"
     }
   ],
-  "last_updated": "2026-06-18T02:28:47Z"
+  "last_updated": "2026-06-18T02:31:44Z"
 }
