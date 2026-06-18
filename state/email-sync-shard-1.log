@@ -5295,3 +5295,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:28:51]   upload done video_id=26073210 in 59.3s
 [08:28:53] film cr_film_id=2829 OK in 110.9s
 [08:28:53] batch-end ok=20 failed=0 dur=3324.2s avg/film=166.2s remaining=16549 eta_hours=764.0
+
+===== run 2026-06-18T08:29:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27746894744) =====
+[08:29:33] description overrides loaded: 4415 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:29:33] batch-start shard=1/2 count=20 backlog=17650 uploads=1101 failed_attempts=75 description_overrides=4415
+[08:29:33] login
+[08:29:34] login done
+[08:29:34] iteration 1/20
+[08:29:34] film cr_film_id=2831 name='Mám rád filmy (2022) CZ Dabing' candidates=1
+[08:29:34]   candidate upload_id=65f4862a702b2 url=https://prehraj.to/mam-rad-filmy-2022-cz-dabing-1080p/65f4862a702b2
+[08:29:35]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/74649776/KqlcE2Tj2tyBHkAtnAi2kTVjToYuoGUylUNX…)
+[08:30:43]   downloaded 1,907.2 MB in 65.9s (28.9 MB/s)
+[08:32:28]   upload done video_id=26073254 in 104.7s
