@@ -18497,6 +18497,25 @@
         "download_sec": 62.1,
         "upload_sec": 59.7
       }
+    },
+    {
+      "cr_film_id": 17635,
+      "cr_slug": "posledni-predstaveni",
+      "title": "Poslední představení",
+      "year": 2021,
+      "display_name": "Poslední představení (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f2e934be6282",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26066068,
+      "size_bytes": 948862577,
+      "uploaded_at": "2026-06-18T03:15:41Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 40.6,
+        "upload_sec": 41.3
+      }
     }
   ],
   "failed_attempts": [
@@ -18893,5 +18912,5 @@
       "failed_at": "2026-06-18T02:47:41Z"
     }
   ],
-  "last_updated": "2026-06-18T03:14:14Z"
+  "last_updated": "2026-06-18T03:15:41Z"
 }
