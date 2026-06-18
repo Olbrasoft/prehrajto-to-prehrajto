@@ -5679,3 +5679,13 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:22:25]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/168565810/6ZqiPLU53Iwku4XsY5SpGUEWsp0CVmI0ocQ…)
 [11:23:48]   downloaded 1,864.8 MB in 82.1s (22.7 MB/s)
 [11:25:34]   upload done video_id=26084237 in 105.1s
+[11:25:35] film cr_film_id=2846 OK in 191.9s
+[11:25:35] iteration 20/20
+[11:25:35] film cr_film_id=2852 name='Slunce, seno a pár facek (1989) CZ' candidates=13
+[11:25:35]   candidate upload_id=60e511489e3c6 url=https://prehraj.to/slunce-seno-a-par-facek-1989-cz-1080p/60e511489e3c6
+[11:25:36]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/24194136/DL9TZbCx9h9wHVqigYUEgCgPFAPIzOUbysx8…)
+[11:25:38]   oversize: 6382886265 B > 6000000000 B, skip
+[11:25:38]   candidate upload_id=5f74d2f6b7857 url=https://prehraj.to/slunce-seno-a-par-facek-cz-film-1989/5f74d2f6b7857
+[11:25:43]   resolved in 4.7s → 480p (https://pf-storage5.premiumcdn.net/18937913/ZvEhXmT0qhyjSdEHJqfEGT7zh7eHeJc0OhJ3…)
+[11:29:11]   downloaded 1,351.5 MB in 206.2s (6.6 MB/s)
+[11:30:23]   upload done video_id=26084465 in 72.0s

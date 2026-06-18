@@ -19168,6 +19168,25 @@
         "download_sec": 82.1,
         "upload_sec": 105.1
       }
+    },
+    {
+      "cr_film_id": 2852,
+      "cr_slug": "slunce-seno-a-par-facek",
+      "title": "Slunce, seno a pár facek",
+      "year": 1989,
+      "display_name": "Slunce, seno a pár facek (1989) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5f74d2f6b7857",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26084465,
+      "size_bytes": 1351505797,
+      "uploaded_at": "2026-06-18T11:30:23Z",
+      "timing": {
+        "resolve_sec": 4.7,
+        "download_sec": 206.2,
+        "upload_sec": 72.0
+      }
     }
   ],
   "failed_attempts": [
@@ -19796,7 +19815,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zivot-v-hajzlu-2025-cz-dab-mp4/468927498471a3c1",
       "permanent": true,
       "failed_at": "2026-06-18T09:48:56Z"
+    },
+    {
+      "cr_film_id": 2852,
+      "upload_id": "60e511489e3c6",
+      "reason": "oversize: 6382886265 B",
+      "permanent": true,
+      "failed_at": "2026-06-18T11:25:38Z"
     }
   ],
-  "last_updated": "2026-06-18T11:25:34Z"
+  "last_updated": "2026-06-18T11:30:23Z"
 }
