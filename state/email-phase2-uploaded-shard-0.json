@@ -24861,6 +24861,25 @@
         "download_sec": 100.4,
         "upload_sec": 70.4
       }
+    },
+    {
+      "cr_film_id": 9238,
+      "cr_slug": "trick",
+      "title": "Trick",
+      "year": 2019,
+      "display_name": "Trick (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e52ff3346d0e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26104662,
+      "size_bytes": 901079020,
+      "uploaded_at": "2026-06-18T21:44:13Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 206.6,
+        "upload_sec": 58.4
+      }
     }
   ],
   "failed_attempts": [
@@ -25325,5 +25344,5 @@
       "failed_at": "2026-06-18T15:48:44Z"
     }
   ],
-  "last_updated": "2026-06-18T21:39:43Z"
+  "last_updated": "2026-06-18T21:44:13Z"
 }
