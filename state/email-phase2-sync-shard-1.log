@@ -6397,3 +6397,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [09:50:33]   resolved in 0.8s → 1080p (https://pf-storage5.premiumcdn.net/20187927/eNxF7VS1MU67s9BIYyhZ9Sp1H04CPBcpyFmy…)
 [09:51:44]   downloaded 2,005.1 MB in 70.4s (28.5 MB/s)
 [09:53:16]   upload done video_id=26081706 in 92.0s
+[09:53:18] film cr_film_id=26575 OK in 165.7s
+[09:53:18] iteration 16/20
+[09:53:18] film cr_film_id=14295 name='Soudcova dcera (2020) CZ Titulky' candidates=1
+[09:53:18]   candidate upload_id=d56c5db5631d89c2 url=https://prehraj.to/soudcova-dcera-2020-cz-titulky-mp4/d56c5db5631d89c2
+[09:53:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/soudcova-dcera-2020-cz-titulky-mp4/d56c5db5631d89c2 (permanent=True)
+[09:53:18] film cr_film_id=14295 all candidates exhausted
+[09:53:18] iteration 17/20
+[09:53:18] film cr_film_id=31113 name='Smysl života (2020) CZ Titulky' candidates=1
+[09:53:18]   candidate upload_id=5fb14ee5054a5 url=https://prehraj.to/smysl-zivota-drama-2020-cz-titulky/5fb14ee5054a5
+[09:53:24]   resolved in 6.0s → 480p (https://pf-storage5.premiumcdn.net/19944486/X9AiqDS7BtoLHBxt6oH80SeGCL6fDOTWKsED…)
+[09:53:43]   downloaded 422.5 MB in 16.7s (25.3 MB/s)
+[09:54:00]   upload done video_id=26081753 in 17.1s
