@@ -17106,6 +17106,25 @@
         "download_sec": 55.1,
         "upload_sec": 91.1
       }
+    },
+    {
+      "cr_film_id": 2639,
+      "cr_slug": "sweet-country",
+      "title": "Sweet Country",
+      "year": 2017,
+      "display_name": "Sweet Country (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d183e72abd6f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26070290,
+      "size_bytes": 626094010,
+      "uploaded_at": "2026-06-18T06:04:30Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.8,
+        "upload_sec": 32.9
+      }
     }
   ],
   "failed_attempts": [
@@ -17648,5 +17667,5 @@
       "failed_at": "2026-06-18T05:34:20Z"
     }
   ],
-  "last_updated": "2026-06-18T06:03:21Z"
+  "last_updated": "2026-06-18T06:04:30Z"
 }
