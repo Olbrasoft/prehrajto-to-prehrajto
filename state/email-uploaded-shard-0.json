@@ -19282,6 +19282,25 @@
         "download_sec": 64.9,
         "upload_sec": 115.5
       }
+    },
+    {
+      "cr_film_id": 2882,
+      "cr_slug": "athena",
+      "title": "Athena",
+      "year": 2022,
+      "display_name": "Athena (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "632de6dda4b0b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26084777,
+      "size_bytes": 1869693006,
+      "uploaded_at": "2026-06-18T11:41:17Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 63.1,
+        "upload_sec": 66.6
+      }
     }
   ],
   "failed_attempts": [
@@ -19919,5 +19938,5 @@
       "failed_at": "2026-06-18T11:25:38Z"
     }
   ],
-  "last_updated": "2026-06-18T11:39:04Z"
+  "last_updated": "2026-06-18T11:41:17Z"
 }
