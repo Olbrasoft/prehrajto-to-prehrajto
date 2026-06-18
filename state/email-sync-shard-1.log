@@ -4635,3 +4635,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:11:18]   resolved in 1.6s → 720p (https://pf-storage5.premiumcdn.net/7807159/aJ2IV7HPdSzlS1ZiA8iZ4HjgIebS8oi4YcKEu…)
 [04:12:36]   downloaded 1,451.7 MB in 75.7s (19.2 MB/s)
 [04:13:56]   upload done video_id=26067673 in 80.7s
+[04:13:58] film cr_film_id=2485 OK in 161.5s
+[04:13:58] iteration 11/20
+[04:13:58] film cr_film_id=2491 name='Bláznivá střela 2 a ½: Vůně strachu (1991) CZ Dabing' candidates=1
+[04:13:58]   candidate upload_id=0fa507e3c21048c3 url=https://prehraj.to/blazniva-strela-2-a-1-2-vune-strachu-1991-hd-cz-mp4/0fa507e3c21048c3
+[04:13:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blazniva-strela-2-a-1-2-vune-strachu-1991-hd-cz-mp4/0fa507e3c21048c3 (permanent=True)
+[04:13:59] film cr_film_id=2491 all candidates exhausted
+[04:13:59] iteration 12/20
+[04:13:59] film cr_film_id=2495 name='Život v kostce (2024) CZ Dabing' candidates=1
+[04:13:59]   candidate upload_id=67f6445f257c0 url=https://prehraj.to/piece-by-piece-2024-cz-dabing-1080p/67f6445f257c0
+[04:14:05]   resolved in 6.6s → 720p (https://pf-storage3.premiumcdn.net/134557619/3JxHLOieKUg1IlBhwQsKainrcqVhrJCBvtr…)
+[04:15:27]   downloaded 1,751.9 MB in 80.3s (21.8 MB/s)
+[04:16:59]   upload done video_id=26067750 in 91.3s
