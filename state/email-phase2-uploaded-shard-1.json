@@ -20378,6 +20378,25 @@
         "download_sec": 80.4,
         "upload_sec": 91.3
       }
+    },
+    {
+      "cr_film_id": 10221,
+      "cr_slug": "utazeni",
+      "title": "Utažení",
+      "year": 2020,
+      "display_name": "Utažení (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e9e45f2e909f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26073702,
+      "size_bytes": 1281700399,
+      "uploaded_at": "2026-06-18T08:48:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 70.2,
+        "upload_sec": 70.0
+      }
     }
   ],
   "failed_attempts": [
@@ -20788,5 +20807,5 @@
       "failed_at": "2026-06-18T05:42:13Z"
     }
   ],
-  "last_updated": "2026-06-18T08:46:26Z"
+  "last_updated": "2026-06-18T08:48:52Z"
 }
