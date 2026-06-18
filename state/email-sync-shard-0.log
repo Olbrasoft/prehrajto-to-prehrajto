@@ -6879,3 +6879,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:13:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zustan-se-mnou-2014-cz-dabing-hd-1080p/68f32cac33bfe (permanent=True)
 [23:13:58] film cr_film_id=3506 all candidates exhausted
 [23:13:58] batch-end ok=19 failed=1 dur=2671.7s avg/film=140.6s remaining=16324 eta_hours=637.5
+
+===== run 2026-06-18T23:37:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27795934411) =====
+[23:37:16] description overrides loaded: 8188 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:37:16] batch-start shard=0/2 count=20 backlog=17650 uploads=1326 failed_attempts=102 description_overrides=8188
+[23:37:16] login
+[23:37:18] login done
+[23:37:18] iteration 1/20
+[23:37:18] film cr_film_id=3510 name='Zmizení Alice Creedové (2009) CZ Dabing' candidates=10
+[23:37:18]   candidate upload_id=59cca1086b1d8 url=https://prehraj.to/zmizeni-alice-creedove-2009-cz-dabing/59cca1086b1d8
+[23:37:20]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/2713644/5BXfw2s6YIGvH9ohZKh4vs7Df85UXpi0eTpWS…)
+[23:37:47]   downloaded 542.5 MB in 25.5s (21.3 MB/s)
+[23:38:19]   upload done video_id=26107773 in 32.4s
