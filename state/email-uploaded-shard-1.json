@@ -18322,6 +18322,25 @@
         "download_sec": 51.1,
         "upload_sec": 94.5
       }
+    },
+    {
+      "cr_film_id": 2891,
+      "cr_slug": "safety",
+      "title": "Obránce",
+      "year": 2020,
+      "display_name": "Obránce (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "625dcbb8bdb29",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26074158,
+      "size_bytes": 3260551206,
+      "uploaded_at": "2026-06-18T09:11:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 111.0,
+        "upload_sec": 158.3
+      }
     }
   ],
   "failed_attempts": [
@@ -18878,5 +18897,5 @@
       "failed_at": "2026-06-18T08:49:13Z"
     }
   ],
-  "last_updated": "2026-06-18T09:07:11Z"
+  "last_updated": "2026-06-18T09:11:44Z"
 }
