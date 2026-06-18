@@ -24842,6 +24842,25 @@
         "download_sec": 112.2,
         "upload_sec": 123.1
       }
+    },
+    {
+      "cr_film_id": 33464,
+      "cr_slug": "tezkych-sedmnact",
+      "title": "Těžkých sedmnáct",
+      "year": 2019,
+      "display_name": "Těžkých sedmnáct (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5db81ea7f2286",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26104555,
+      "size_bytes": 1256808778,
+      "uploaded_at": "2026-06-18T21:39:43Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 100.4,
+        "upload_sec": 70.4
+      }
     }
   ],
   "failed_attempts": [
@@ -25306,5 +25325,5 @@
       "failed_at": "2026-06-18T15:48:44Z"
     }
   ],
-  "last_updated": "2026-06-18T21:36:46Z"
+  "last_updated": "2026-06-18T21:39:43Z"
 }
