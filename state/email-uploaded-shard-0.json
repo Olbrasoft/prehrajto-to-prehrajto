@@ -19225,6 +19225,25 @@
         "download_sec": 26.0,
         "upload_sec": 39.9
       }
+    },
+    {
+      "cr_film_id": 2868,
+      "cr_slug": "emily",
+      "title": "Emily",
+      "year": 2022,
+      "display_name": "Emily (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6816cb7802e92",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26084629,
+      "size_bytes": 923643953,
+      "uploaded_at": "2026-06-18T11:35:08Z",
+      "timing": {
+        "resolve_sec": 2.9,
+        "download_sec": 26.3,
+        "upload_sec": 33.0
+      }
     }
   ],
   "failed_attempts": [
@@ -19862,5 +19881,5 @@
       "failed_at": "2026-06-18T11:25:38Z"
     }
   ],
-  "last_updated": "2026-06-18T11:34:03Z"
+  "last_updated": "2026-06-18T11:35:08Z"
 }
