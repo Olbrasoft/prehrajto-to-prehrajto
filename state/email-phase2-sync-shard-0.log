@@ -5870,3 +5870,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [06:19:45]   upload done video_id=26070619 in 91.8s
 [06:19:46] film cr_film_id=3334 OK in 182.1s
 [06:19:46] batch-end ok=19 failed=1 dur=2382.3s avg/film=125.4s remaining=9017 eta_hours=314.1
+
+===== run 2026-06-18T06:20:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27740791551) =====
+[06:20:16] batch-start shard=0/2 count=20 backlog=10210 uploads=1193 failed_attempts=62 description_overrides=0
+[06:20:16] login
+[06:20:18] login done
+[06:20:18] iteration 1/20
+[06:20:18] film cr_film_id=17916 name='Noc ohňů (2021) CZ Titulky' candidates=1
+[06:20:18]   candidate upload_id=6196e234bf490 url=https://prehraj.to/noc-ohnu-2021-cztitulky/6196e234bf490
+[06:20:19]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/26622910/MG3UvKh5ZFBkTNgFg0SPdhdbU53U7PSWrIv5…)
+[06:22:18]   downloaded 2,482.5 MB in 117.6s (21.1 MB/s)
+[06:24:37]   upload done video_id=26070694 in 139.1s
