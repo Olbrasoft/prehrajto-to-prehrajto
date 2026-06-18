@@ -4259,3 +4259,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:02:21]   upload done video_id=26064323 in 33.1s
 [02:02:23] film cr_film_id=2313 OK in 62.2s
 [02:02:23] batch-end ok=20 failed=0 dur=2468.9s avg/film=123.4s remaining=16686 eta_hours=572.0
+
+===== run 2026-06-18T02:06:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27732015263) =====
+[02:06:45] description overrides loaded: 3735 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:06:45] batch-start shard=1/2 count=20 backlog=17650 uploads=964 failed_attempts=68 description_overrides=3735
+[02:06:45] login
+[02:06:46] login done
+[02:06:46] iteration 1/20
+[02:06:46] film cr_film_id=2317 name='Tah pěšcem (2014) CZ Dabing' candidates=9
+[02:06:46]   candidate upload_id=61c2613e13609 url=https://prehraj.to/tah-pescem-cz-dabing-2014-1080p/61c2613e13609
+[02:06:48]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/27654765/Na0SyjfwVsmvhPoUazCnLfmYF4wTxmsOqTN4…)
+[02:08:23]   downloaded 2,062.3 MB in 93.2s (22.1 MB/s)
+[02:10:08]   upload done video_id=26064491 in 105.0s

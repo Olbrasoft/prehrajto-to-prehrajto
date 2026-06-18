@@ -15434,6 +15434,25 @@
         "download_sec": 25.0,
         "upload_sec": 33.1
       }
+    },
+    {
+      "cr_film_id": 2317,
+      "cr_slug": "tah-pescem",
+      "title": "Tah pěšcem",
+      "year": 2014,
+      "display_name": "Tah pěšcem (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61c2613e13609",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26064491,
+      "size_bytes": 2062267556,
+      "uploaded_at": "2026-06-18T02:10:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 93.2,
+        "upload_sec": 105.0
+      }
     }
   ],
   "failed_attempts": [
@@ -15924,5 +15943,5 @@
       "failed_at": "2026-06-18T00:27:10Z"
     }
   ],
-  "last_updated": "2026-06-18T02:02:21Z"
+  "last_updated": "2026-06-18T02:10:08Z"
 }
