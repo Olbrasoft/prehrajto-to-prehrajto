@@ -20070,6 +20070,25 @@
         "download_sec": 71.6,
         "upload_sec": 137.2
       }
+    },
+    {
+      "cr_film_id": 3317,
+      "cr_slug": "8bitove-vanoce",
+      "title": "8bitové Vánoce",
+      "year": 2021,
+      "display_name": "8bitové Vánoce (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61d9a8a561a45",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26092000,
+      "size_bytes": 1457289031,
+      "uploaded_at": "2026-06-18T14:16:31Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 65.5,
+        "upload_sec": 91.6
+      }
     }
   ],
   "failed_attempts": [
@@ -20673,7 +20692,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-pod-kapotou-2021-cz-hd-mp4/28ed721fa1b41230",
       "permanent": true,
       "failed_at": "2026-06-18T14:00:54Z"
+    },
+    {
+      "cr_film_id": 3317,
+      "upload_id": "61dab0bec738b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/8bitove-vanoce-8-bit-christmas-2021-1080p-hmax-web-dl-ddp5-1-cz-dabing/61dab0bec738b",
+      "permanent": true,
+      "failed_at": "2026-06-18T14:13:46Z"
     }
   ],
-  "last_updated": "2026-06-18T14:13:43Z"
+  "last_updated": "2026-06-18T14:16:31Z"
 }
