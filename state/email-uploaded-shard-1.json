@@ -16840,6 +16840,25 @@
         "download_sec": 47.2,
         "upload_sec": 52.4
       }
+    },
+    {
+      "cr_film_id": 2595,
+      "cr_slug": "nez-skonci-valka",
+      "title": "Než skončí válka",
+      "year": 2019,
+      "display_name": "Než skončí válka (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "604e8b89e61cc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26069508,
+      "size_bytes": 1589071649,
+      "uploaded_at": "2026-06-18T05:34:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 76.9,
+        "upload_sec": 89.5
+      }
     }
   ],
   "failed_attempts": [
@@ -17361,7 +17380,19 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/croodsovi-novy-vek-2020-uhdr-cz-sk-en/9d1f095563becff9",
       "permanent": true,
       "failed_at": "2026-06-18T05:16:10Z"
+    },
+    {
+      "cr_film_id": 2595,
+      "upload_id": "604f61998aecf",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-06-18T05:31:28Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 69.9,
+        "upload_sec": 76.8
+      }
     }
   ],
-  "last_updated": "2026-06-18T05:28:55Z"
+  "last_updated": "2026-06-18T05:34:17Z"
 }
