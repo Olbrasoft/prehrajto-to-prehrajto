@@ -6578,3 +6578,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:16:44]   upload done video_id=26084007 in 55.6s
 [11:16:46] film cr_film_id=26543 OK in 116.4s
 [11:16:46] batch-end ok=20 failed=0 dur=3644.1s avg/film=182.2s remaining=8932 eta_hours=452.1
+
+===== run 2026-06-18T11:24:37Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27756091285) =====
+[11:24:38] batch-start shard=1/2 count=20 backlog=10210 uploads=1278 failed_attempts=59 description_overrides=0
+[11:24:38] login
+[11:24:40] login done
+[11:24:40] iteration 1/20
+[11:24:40] film cr_film_id=1365 name='Nikdy výjimečně někdy vždycky (2020) CZ Titulky' candidates=6
+[11:24:40]   candidate upload_id=5e9ec021673bc url=https://prehraj.to/never-rarely-sometimes-always-drama-v-b-2020-1080p-5-1-h264-s-cztitulky-74-sten-ok-mp4/5e9ec021673bc
+[11:24:41]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/16305763/3bgs4bIgJFBef93uGlSp7I1OuWqTNgiD9uwM…)
+[11:26:01]   downloaded 1,568.9 MB in 77.5s (20.2 MB/s)
+[11:27:23]   upload done video_id=26084338 in 82.0s
