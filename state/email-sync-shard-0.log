@@ -4357,3 +4357,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:46:58]   upload done video_id=26065380 in 89.2s
 [02:47:00] film cr_film_id=2192 OK in 158.4s
 [02:47:00] batch-end ok=18 failed=2 dur=2409.0s avg/film=133.8s remaining=16654 eta_hours=619.0
+
+===== run 2026-06-18T02:53:13Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27733544576) =====
+[02:53:15] description overrides loaded: 3735 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:53:15] batch-start shard=0/2 count=20 backlog=17650 uploads=996 failed_attempts=74 description_overrides=3735
+[02:53:15] login
+[02:53:17] login done
+[02:53:17] iteration 1/20
+[02:53:17] film cr_film_id=2194 name='Lidumilná upírka hledá nezadaného sebevraha (2023) CZ' candidates=1
+[02:53:17]   candidate upload_id=66c1cfbb070b1 url=https://prehraj.to/lidumilna-upirka-hleda-nezadaneho-sebevraha-2023-cz-dabing-720p/66c1cfbb070b1
+[02:53:18]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/91275095/EbLFwRfjXiKjuMlTvEhavfAMuXYSbQHEjSpN…)
+[02:53:41]   downloaded 463.3 MB in 21.4s (21.6 MB/s)
+[02:54:09]   upload done video_id=26065551 in 27.2s
