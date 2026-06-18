@@ -5576,3 +5576,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:26:16]   upload done video_id=26067958 in 141.0s
 [04:26:18] film cr_film_id=18090 OK in 274.3s
 [04:26:18] batch-end ok=20 failed=0 dur=4559.9s avg/film=228.0s remaining=9056 eta_hours=573.5
+
+===== run 2026-06-18T04:26:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27736676172) =====
+[04:26:49] batch-start shard=0/2 count=20 backlog=10210 uploads=1154 failed_attempts=60 description_overrides=0
+[04:26:49] login
+[04:26:51] login done
+[04:26:51] iteration 1/20
+[04:26:51] film cr_film_id=9980 name='Two (2021) CZ Titulky' candidates=2
+[04:26:51]   candidate upload_id=61b4f16162116 url=https://prehraj.to/dos-2021-cztitulky/61b4f16162116
+[04:26:52]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/27324969/ldMhgOImbSzPCk1SQbiq9I9yfreTQdtzNce0…)
+[04:28:02]   downloaded 1,177.1 MB in 68.1s (17.3 MB/s)
+[04:29:06]   upload done video_id=26068066 in 63.7s
