@@ -18655,6 +18655,25 @@
         "download_sec": 32.3,
         "upload_sec": 37.7
       }
+    },
+    {
+      "cr_film_id": 2768,
+      "cr_slug": "anihilace",
+      "title": "Anihilace",
+      "year": 2018,
+      "display_name": "Anihilace (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "2b6a8920164b0c3a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26081670,
+      "size_bytes": 1938517737,
+      "uploaded_at": "2026-06-18T09:51:51Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 68.6,
+        "upload_sec": 98.1
+      }
     }
   ],
   "failed_attempts": [
@@ -19262,7 +19281,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pacific-rim-utok-na-zemi-2013-cz-dabing-1080p-hdr/6bad547f11479241",
       "permanent": true,
       "failed_at": "2026-06-18T09:40:05Z"
+    },
+    {
+      "cr_film_id": 2766,
+      "upload_id": "d33fc1799161284c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zivot-v-hajzlu-2025-1080p-cz-dabing/d33fc1799161284c",
+      "permanent": true,
+      "failed_at": "2026-06-18T09:48:45Z"
+    },
+    {
+      "cr_film_id": 2766,
+      "upload_id": "04d683770f27f2c4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/caught-stealing-2025-1080p-cz-dabing/04d683770f27f2c4",
+      "permanent": true,
+      "failed_at": "2026-06-18T09:48:50Z"
+    },
+    {
+      "cr_film_id": 2766,
+      "upload_id": "468927498471a3c1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zivot-v-hajzlu-2025-cz-dab-mp4/468927498471a3c1",
+      "permanent": true,
+      "failed_at": "2026-06-18T09:48:56Z"
     }
   ],
-  "last_updated": "2026-06-18T09:48:43Z"
+  "last_updated": "2026-06-18T09:51:51Z"
 }
