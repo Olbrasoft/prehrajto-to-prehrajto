@@ -6938,3 +6938,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:41:47]   resolved in 0.7s → 720p (https://pf-storage3.premiumcdn.net/16940028/q2eF0KTONclxs1Li2XF3MTyvIwMH1vHPZHjA…)
 [13:42:42]   downloaded 1,524.7 MB in 53.9s (28.3 MB/s)
 [13:45:21]   upload done video_id=26090819 in 159.1s
+[13:45:24] film cr_film_id=17073 OK in 217.7s
+[13:45:24] iteration 10/20
+[13:45:24] film cr_film_id=30937 name='DC Showcase - Batman: Death in the Family (2020) CZ Titulky' candidates=1
+[13:45:24]   candidate upload_id=36dfcd89263b3cb2 url=https://prehraj.to/dc-showcase-batman-death-in-the-family-2020-en-cz-tit/36dfcd89263b3cb2
+[13:45:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dc-showcase-batman-death-in-the-family-2020-en-cz-tit/36dfcd89263b3cb2 (permanent=True)
+[13:45:24] film cr_film_id=30937 all candidates exhausted
+[13:45:24] iteration 11/20
+[13:45:24] film cr_film_id=6585 name='Come True (2020) CZ Titulky' candidates=6
+[13:45:24]   candidate upload_id=604cd64caecb1 url=https://prehraj.to/come-true-sci-fi-horor-kanada-2020-1080p-web-5-1-h264-s-cztitulky-61-sten-ok/604cd64caecb1
+[13:45:30]   resolved in 5.9s → 720p (https://pf-storage5.premiumcdn.net/22658555/EneSrEUX8FGbHOYcZgFAVUKoHdjcEGSV5hg9…)
+[13:46:17]   downloaded 1,266.4 MB in 45.1s (28.1 MB/s)
+[13:47:20]   upload done video_id=26091205 in 63.0s
