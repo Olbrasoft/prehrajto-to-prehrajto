@@ -18598,6 +18598,25 @@
         "download_sec": 18.8,
         "upload_sec": 28.7
       }
+    },
+    {
+      "cr_film_id": 2760,
+      "cr_slug": "pacific-rim-utok-na-zemi",
+      "title": "Pacific Rim - Útok na Zemi",
+      "year": 2013,
+      "display_name": "Pacific Rim - Útok na Zemi (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57367fd5135e2add",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26081465,
+      "size_bytes": 2398495217,
+      "uploaded_at": "2026-06-18T09:43:38Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 88.2,
+        "upload_sec": 117.0
+      }
     }
   ],
   "failed_attempts": [
@@ -19198,7 +19217,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/33-zivotu-2015-cz-mp4/994113e82c8bc963",
       "permanent": true,
       "failed_at": "2026-06-18T08:37:01Z"
+    },
+    {
+      "cr_film_id": 2760,
+      "upload_id": "6bad547f11479241",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pacific-rim-utok-na-zemi-2013-cz-dabing-1080p-hdr/6bad547f11479241",
+      "permanent": true,
+      "failed_at": "2026-06-18T09:40:05Z"
     }
   ],
-  "last_updated": "2026-06-18T09:40:03Z"
+  "last_updated": "2026-06-18T09:43:38Z"
 }

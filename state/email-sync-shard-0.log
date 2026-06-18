@@ -5451,3 +5451,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:39:14]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/390602/wg9H9JTALUDnfgqTN5HqjTAqFlYI20Solug6hE…)
 [09:39:35]   downloaded 462.3 MB in 18.8s (24.6 MB/s)
 [09:40:03]   upload done video_id=26081411 in 28.7s
+[09:40:05] film cr_film_id=2756 OK in 51.7s
+[09:40:05] iteration 9/20
+[09:40:05] film cr_film_id=2760 name='Pacific Rim - Útok na Zemi (2013) CZ Dabing' candidates=7
+[09:40:05]   candidate upload_id=6bad547f11479241 url=https://prehraj.to/pacific-rim-utok-na-zemi-2013-cz-dabing-1080p-hdr/6bad547f11479241
+[09:40:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pacific-rim-utok-na-zemi-2013-cz-dabing-1080p-hdr/6bad547f11479241 (permanent=True)
+[09:40:05]   candidate upload_id=57367fd5135e2add url=https://prehraj.to/pacific-rim-utok-na-zemi-2013-sci-fi-akcni-dobrodruzny-czdab/57367fd5135e2add
+[09:40:11]   resolved in 6.1s → 720p (https://pf-storage4.premiumcdn.net/169073746/2BLi8KFPwuwVu0ZT2giYjFZ3tkGcdxS13Ir…)
+[09:41:41]   downloaded 2,398.5 MB in 88.2s (27.2 MB/s)
+[09:43:38]   upload done video_id=26081465 in 117.0s
