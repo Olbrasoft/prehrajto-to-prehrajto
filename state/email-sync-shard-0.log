@@ -4943,3 +4943,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:48:02]   upload done video_id=26071149 in 92.9s
 [06:48:04] film cr_film_id=2486 OK in 139.3s
 [06:48:04] batch-end ok=20 failed=0 dur=4030.1s avg/film=201.5s remaining=16577 eta_hours=927.9
+
+===== run 2026-06-18T06:48:32Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27741977224) =====
+[06:48:34] description overrides loaded: 3756 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:48:34] batch-start shard=0/2 count=20 backlog=17650 uploads=1073 failed_attempts=78 description_overrides=3756
+[06:48:34] login
+[06:48:35] login done
+[06:48:35] iteration 1/20
+[06:48:35] film cr_film_id=2488 name='Na samotě (2024) CZ Dabing' candidates=5
+[06:48:35]   candidate upload_id=994de2d7c2eac39c url=https://prehraj.to/na-samote-lesa-komedie-mkv-2024-novinka-cz-dabing-full-hd-1080p-pucci-film-mp4/994de2d7c2eac39c
+[06:48:36]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/165791369/mb4IWpsRqSOws78TpDF2msn4iKXHe9iVzSj…)
+[06:49:52]   downloaded 2,650.2 MB in 74.2s (35.7 MB/s)
+[06:51:53]   upload done video_id=26071198 in 121.1s
