@@ -6585,3 +6585,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:06:50]   upload done video_id=26103839 in 55.9s
 [21:06:51] film cr_film_id=3344 OK in 125.2s
 [21:06:51] batch-end ok=19 failed=1 dur=3671.4s avg/film=193.2s remaining=16363 eta_hours=878.1
+
+===== run 2026-06-18T21:25:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27790284321) =====
+[21:25:44] description overrides loaded: 8187 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:25:44] batch-start shard=0/2 count=20 backlog=17650 uploads=1287 failed_attempts=100 description_overrides=8187
+[21:25:44] login
+[21:25:46] login done
+[21:25:46] iteration 1/20
+[21:25:46] film cr_film_id=3346 name='Ranařky (2021) CZ Dabing' candidates=12
+[21:25:46]   candidate upload_id=606c296185cce url=https://prehraj.to/moxie-ranarky-2021-1080p-cz-dab-cz-forced/606c296185cce
+[21:25:47]   resolved in 1.3s → 1080p (https://pf-storage2.premiumcdn.net/22985484/wZ0IzXfAYu4WuwvsJyTxnfVPCzQTVOcjNHwP…)
+[21:28:04]   downloaded 2,873.4 MB in 135.3s (21.2 MB/s)
+[21:31:11]   upload done video_id=26104341 in 186.2s
