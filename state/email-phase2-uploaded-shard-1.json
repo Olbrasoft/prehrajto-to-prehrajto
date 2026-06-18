@@ -19048,6 +19048,25 @@
         "download_sec": 68.1,
         "upload_sec": 82.9
       }
+    },
+    {
+      "cr_film_id": 27249,
+      "cr_slug": "jsme-jedne-krve-malcolm-x-a-muhammad-ali",
+      "title": "Jsme jedné krve: Malcolm X a Muhammad Ali",
+      "year": 2021,
+      "display_name": "Jsme jedné krve: Malcolm X a Muhammad Ali (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "613e620840a54",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26068778,
+      "size_bytes": 3267230617,
+      "uploaded_at": "2026-06-18T05:01:06Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 115.2,
+        "upload_sec": 140.5
+      }
     }
   ],
   "failed_attempts": [
@@ -19442,7 +19461,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/seance-2021-en-cz-tit-mp4/cd870a9393d9fc45",
       "permanent": true,
       "failed_at": "2026-06-18T02:47:41Z"
+    },
+    {
+      "cr_film_id": 31095,
+      "upload_id": "aeb71c75a7b85ca4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/justice-society-world-war-ii-2021-en-cz-tit-mp4/aeb71c75a7b85ca4",
+      "permanent": true,
+      "failed_at": "2026-06-18T04:56:43Z"
     }
   ],
-  "last_updated": "2026-06-18T04:56:41Z"
+  "last_updated": "2026-06-18T05:01:06Z"
 }
