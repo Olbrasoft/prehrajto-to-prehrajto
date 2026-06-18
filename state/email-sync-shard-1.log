@@ -5636,3 +5636,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:26:15]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/3339384/ae3T1puNbu4ltwQU63CDqu0PhqbSgjUplI4Wh…)
 [10:28:00]   downloaded 2,075.6 MB in 102.8s (20.2 MB/s)
 [10:29:39]   upload done video_id=26082616 in 99.8s
+[10:29:41] film cr_film_id=3015 OK in 207.1s
+[10:29:41] iteration 7/20
+[10:29:41] film cr_film_id=3023 name='Collateral Beauty: Druhá šance (2016) CZ Dabing' candidates=2
+[10:29:41]   candidate upload_id=bedc4aaa1bad083c url=https://prehraj.to/collateral-beauty-druha-sance-2016-cz-dab-1080p/bedc4aaa1bad083c
+[10:29:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/collateral-beauty-druha-sance-2016-cz-dab-1080p/bedc4aaa1bad083c (permanent=True)
+[10:29:42]   candidate upload_id=65a63922633df url=https://prehraj.to/druha-sance-collateral-beauty-drama-2016-cz-dabing/65a63922633df
+[10:29:48]   resolved in 6.0s → 720p (https://pf-storage1.premiumcdn.net/72434141/0LlUGnToNCEGCqAHvps7zTgpSp1u7qU3WcxA…)
+[10:30:50]   downloaded 1,588.3 MB in 60.5s (26.3 MB/s)
+[10:32:04]   upload done video_id=26082673 in 73.7s
