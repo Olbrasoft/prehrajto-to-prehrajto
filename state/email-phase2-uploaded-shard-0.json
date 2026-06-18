@@ -21251,6 +21251,25 @@
         "download_sec": 60.3,
         "upload_sec": 72.3
       }
+    },
+    {
+      "cr_film_id": 36818,
+      "cr_slug": "assassins",
+      "title": "Assassins",
+      "year": 2021,
+      "display_name": "Assassins (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6086addbd201e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26082108,
+      "size_bytes": 2930575931,
+      "uploaded_at": "2026-06-18T10:15:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 100.5,
+        "upload_sec": 119.7
+      }
     }
   ],
   "failed_attempts": [
@@ -21694,5 +21713,5 @@
       "failed_at": "2026-06-18T05:46:16Z"
     }
   ],
-  "last_updated": "2026-06-18T10:11:40Z"
+  "last_updated": "2026-06-18T10:15:24Z"
 }
