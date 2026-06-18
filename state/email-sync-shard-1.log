@@ -6959,3 +6959,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:42:05]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/23295543/bpEINEhbxcr6CWkImQfkGhQesjQTpaIo3Uyb…)
 [23:42:10]   downloaded 65.6 MB in 4.0s (16.4 MB/s)
 [23:42:17]   upload done video_id=26108019 in 6.7s
+[23:42:18] film cr_film_id=3735 OK in 14.4s
+[23:42:18] iteration 4/20
+[23:42:18] film cr_film_id=3743 name='Otcovství (2021) CZ Dabing' candidates=1
+[23:42:18]   candidate upload_id=6e5ab082ee6037cb url=https://prehraj.to/otcovstvi-2021-cz-dabing/6e5ab082ee6037cb
+[23:42:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otcovstvi-2021-cz-dabing/6e5ab082ee6037cb (permanent=True)
+[23:42:19] film cr_film_id=3743 all candidates exhausted
+[23:42:19] iteration 5/20
+[23:42:19] film cr_film_id=3745 name='Modrý zázrak (2021) CZ Dabing' candidates=4
+[23:42:19]   candidate upload_id=6103e4bf4d9d6 url=https://prehraj.to/modry-zazrak-blue-miracle-2021-ab-1080p-dd-5-1-cz-dab-novinka-novinky/6103e4bf4d9d6
+[23:42:25]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/24440078/jmDtLaFxjuqYsm5Te9h63FvDtmOfDmtWES7e…)
+[23:43:50]   downloaded 2,545.7 MB in 82.8s (30.7 MB/s)
+[23:45:43]   upload done video_id=26108184 in 113.9s
