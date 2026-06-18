@@ -19465,6 +19465,25 @@
         "download_sec": 42.3,
         "upload_sec": 57.0
       }
+    },
+    {
+      "cr_film_id": 20682,
+      "cr_slug": "risen",
+      "title": "Risen",
+      "year": 2021,
+      "display_name": "Risen (2021) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "612fdb47b503a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26069843,
+      "size_bytes": 1214464936,
+      "uploaded_at": "2026-06-18T05:49:39Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 41.7,
+        "upload_sec": 51.2
+      }
     }
   ],
   "failed_attempts": [
@@ -19908,5 +19927,5 @@
       "failed_at": "2026-06-18T05:46:16Z"
     }
   ],
-  "last_updated": "2026-06-18T05:48:03Z"
+  "last_updated": "2026-06-18T05:49:39Z"
 }
