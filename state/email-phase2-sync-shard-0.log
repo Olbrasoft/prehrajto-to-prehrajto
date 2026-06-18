@@ -7908,3 +7908,35 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [22:11:05]   upload done video_id=26105356 in 88.9s
 [22:11:07] film cr_film_id=6624 OK in 680.1s
 [22:11:07] batch-end ok=20 failed=0 dur=6042.5s avg/film=302.1s remaining=8740 eta_hours=733.4
+
+===== run 2026-06-18T22:11:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27792473673) =====
+[22:11:36] batch-start shard=0/2 count=20 backlog=10210 uploads=1470 failed_attempts=65 description_overrides=0
+[22:11:36] login
+[22:11:37] login done
+[22:11:37] iteration 1/20
+[22:11:37] film cr_film_id=29620 name='The Immortal Wars: Resurgence (2019) CZ Titulky' candidates=1
+[22:11:37]   candidate upload_id=5e8bffdb5f91e url=https://prehraj.to/the-immortal-2019-cztitulky/5e8bffdb5f91e
+[22:15:52]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fthe-immortal-2019-cztitulky%2F5e8bffdb5f91e (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fa78fe30380>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/the-immortal-2019-cztitulky/5e8bffdb5f91e (permanent=False)
+[22:15:52] film cr_film_id=29620 all candidates exhausted
+[22:15:52] iteration 2/20
+[22:15:52] film cr_film_id=20870 name='The Hole in the Ground (2019) CZ Titulky' candidates=4
+[22:15:52]   candidate upload_id=5c61743709fcd url=https://prehraj.to/the-hole-in-the-ground-horor-irsko-2019-1080p-h264-s-cztitulky-60-sten-ok/5c61743709fcd
+[22:20:07]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fthe-hole-in-the-ground-horor-irsko-2019-1080p-h264-s-cztitulky-60-sten-ok%2F5c61743709fcd (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fa78fe32e70>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/the-hole-in-the-ground-horor-irsko-2019-1080p-h264-s-cztitulky-60-sten-ok/5c61743709fcd (permanent=False)
+[22:20:07]   candidate upload_id=5c61a4d3a4333 url=https://prehraj.to/the-hole-in-the-ground-2019-cz-titulky-vlozene/5c61a4d3a4333
+[22:24:21]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fthe-hole-in-the-ground-2019-cz-titulky-vlozene%2F5c61a4d3a4333 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fa78fe31e80>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/the-hole-in-the-ground-2019-cz-titulky-vlozene/5c61a4d3a4333 (permanent=False)
+[22:24:21]   candidate upload_id=5c613779d79d2 url=https://prehraj.to/the-hole-in-the-ground-2019-1080p-web-dl-dd5-1-h264-fgt/5c613779d79d2
+[22:28:36]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fthe-hole-in-the-ground-2019-1080p-web-dl-dd5-1-h264-fgt%2F5c613779d79d2 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fa78fe33440>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/the-hole-in-the-ground-2019-1080p-web-dl-dd5-1-h264-fgt/5c613779d79d2 (permanent=False)
+[22:28:36]   candidate upload_id=6070d0e3ae0f4 url=https://prehraj.to/the-hole-in-the-ground-horor-2019-cz-titulky/6070d0e3ae0f4
+[22:32:50]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fthe-hole-in-the-ground-horor-2019-cz-titulky%2F6070d0e3ae0f4 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fa78fe32900>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/the-hole-in-the-ground-horor-2019-cz-titulky/6070d0e3ae0f4 (permanent=False)
+[22:32:50] film cr_film_id=20870 all candidates exhausted
+[22:32:50] iteration 3/20
+[22:32:50] film cr_film_id=32086 name='The Hard Way (2019) CZ Titulky' candidates=3
+[22:32:50]   candidate upload_id=5caeffc4a872c url=https://prehraj.to/the-hard-way-akcni-2019-1080p-5-1-h264-s-cztitulky-43-sten-ok/5caeffc4a872c
+[22:37:05]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fthe-hard-way-akcni-2019-1080p-5-1-h264-s-cztitulky-43-sten-ok%2F5caeffc4a872c (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fa78fe32c00>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/the-hard-way-akcni-2019-1080p-5-1-h264-s-cztitulky-43-sten-ok/5caeffc4a872c (permanent=False)
+[22:37:05]   candidate upload_id=5cb5bc626fc7e url=https://prehraj.to/the-hard-way-akcni-2019-1080p-5-1-h264-s-cztitulky-43-sten-ok/5cb5bc626fc7e
+[22:41:19]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fthe-hard-way-akcni-2019-1080p-5-1-h264-s-cztitulky-43-sten-ok%2F5cb5bc626fc7e (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fa78fe517f0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/the-hard-way-akcni-2019-1080p-5-1-h264-s-cztitulky-43-sten-ok/5cb5bc626fc7e (permanent=False)
+[22:41:19]   candidate upload_id=5d849dca6192f url=https://prehraj.to/the-hard-way-2019-1080p-cz-sub-web-dl-dd5-1-h264/5d849dca6192f
+[22:45:34]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fthe-hard-way-2019-1080p-cz-sub-web-dl-dd5-1-h264%2F5d849dca6192f (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fa78fe30ce0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/the-hard-way-2019-1080p-cz-sub-web-dl-dd5-1-h264/5d849dca6192f (permanent=False)
+[22:45:34] film cr_film_id=32086 all candidates exhausted
+[22:45:34] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
+[22:45:34] batch-end ok=0 failed=3 dur=2036.4s avg/film=0s remaining=8740 eta_hours=None
