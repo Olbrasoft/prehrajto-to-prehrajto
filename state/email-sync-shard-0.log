@@ -5113,3 +5113,14 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:34:50]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/120603458/RAbSdMcmvUk9hm5fdWi0ncbDHaKSKaUxYCP…)
 [07:35:27]   downloaded 1,199.3 MB in 34.8s (34.5 MB/s)
 [07:36:52]   upload done video_id=26072195 in 85.5s
+[07:36:54] film cr_film_id=2564 OK in 124.2s
+[07:36:54] iteration 3/20
+[07:36:54] film cr_film_id=2566 name='Zlouni (2022) CZ Dabing' candidates=4
+[07:36:54]   candidate upload_id=4405e958c2b0aede url=https://prehraj.to/the-bad-guys-zlouni-2022-cz-dabing-1080p-bluray-ddp7-1-x264-ift-mkv/4405e958c2b0aede
+[07:36:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-bad-guys-zlouni-2022-cz-dabing-1080p-bluray-ddp7-1-x264-ift-mkv/4405e958c2b0aede (permanent=True)
+[07:36:54]   candidate upload_id=651fc292d07d9 url=https://prehraj.to/the-bad-guys-zlouni-2022-cz-dabing-1080p-bluray-ddp7-1-x264-ift/651fc292d07d9
+[07:37:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-bad-guys-zlouni-2022-cz-dabing-1080p-bluray-ddp7-1-x264-ift/651fc292d07d9 (permanent=True)
+[07:37:00]   candidate upload_id=64150f6f6a733 url=https://prehraj.to/smradi-2022-czdab/64150f6f6a733
+[07:37:06]   resolved in 6.0s → 720p (https://pf-storage5.premiumcdn.net/38468569/mbwhZ9I4mT0yUQ3S6jTJzI26FwbcZwtzWCb0…)
+[07:38:01]   downloaded 1,898.4 MB in 53.9s (35.2 MB/s)
+[07:39:26]   upload done video_id=26072240 in 84.7s
