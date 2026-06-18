@@ -7470,3 +7470,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [16:57:06]   upload done video_id=26097585 in 44.8s
 [16:57:08] film cr_film_id=17472 OK in 93.1s
 [16:57:08] batch-end ok=20 failed=0 dur=3604.3s avg/film=180.2s remaining=8800 eta_hours=440.5
+
+===== run 2026-06-18T16:57:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27775683009) =====
+[16:57:38] batch-start shard=0/2 count=20 backlog=10210 uploads=1410 failed_attempts=65 description_overrides=0
+[16:57:38] login
+[16:57:39] login done
+[16:57:39] iteration 1/20
+[16:57:39] film cr_film_id=33496 name='Disturbing the Peace (2020) CZ Titulky' candidates=1
+[16:57:39]   candidate upload_id=5e2aff4c15163 url=https://prehraj.to/disturbing-the-peace-akcni-2020-720p-x264-s-cztitulky-sten-ok/5e2aff4c15163
+[16:57:40]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/15717991/qM8IVdh0LI74iNlUv2TnVhvOtOgSwOtvXIeg…)
+[16:59:10]   downloaded 713.3 MB in 88.3s (8.1 MB/s)
+[16:59:55]   upload done video_id=26097658 in 45.2s
