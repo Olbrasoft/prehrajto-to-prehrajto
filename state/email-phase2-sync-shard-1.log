@@ -7889,3 +7889,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [21:48:31]   upload done video_id=26104797 in 113.8s
 [21:48:33] film cr_film_id=33663 OK in 247.2s
 [21:48:33] batch-end ok=20 failed=0 dur=4685.8s avg/film=234.3s remaining=8755 eta_hours=569.8
+
+===== run 2026-06-18T22:11:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27792473673) =====
+[22:11:40] batch-start shard=1/2 count=20 backlog=10210 uploads=1455 failed_attempts=63 description_overrides=0
+[22:11:40] login
+[22:11:41] login done
+[22:11:41] iteration 1/20
+[22:11:41] film cr_film_id=19335 name='Kobiety mafii 2 (2019) CZ Titulky' candidates=7
+[22:11:41]   candidate upload_id=5da84e3f01125 url=https://prehraj.to/kobiety-mafii-2-women-of-mafia-2-2019-cz-titulky-bdrip/5da84e3f01125
+[22:11:42]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/15076294/6ZLH0QfjNuxjT4DF9yF7lfd4HAeI1dFJLIYb…)
+[22:12:16]   downloaded 880.1 MB in 31.8s (27.7 MB/s)
+[22:12:55]   upload done video_id=26105411 in 39.0s
