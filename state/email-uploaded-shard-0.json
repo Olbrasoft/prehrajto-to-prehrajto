@@ -21391,6 +21391,25 @@
         "download_sec": 61.3,
         "upload_sec": 80.5
       }
+    },
+    {
+      "cr_film_id": 3344,
+      "cr_slug": "zaujeti",
+      "title": "Zaujetí",
+      "year": 2017,
+      "display_name": "Zaujetí (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "604e97e328c8a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26103839,
+      "size_bytes": 1300255047,
+      "uploaded_at": "2026-06-18T21:06:50Z",
+      "timing": {
+        "resolve_sec": 2.8,
+        "download_sec": 63.6,
+        "upload_sec": 55.9
+      }
     }
   ],
   "failed_attempts": [
@@ -22109,5 +22128,5 @@
       "failed_at": "2026-06-18T20:25:34Z"
     }
   ],
-  "last_updated": "2026-06-18T21:04:45Z"
+  "last_updated": "2026-06-18T21:06:50Z"
 }
