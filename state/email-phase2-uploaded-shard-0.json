@@ -22239,6 +22239,25 @@
         "download_sec": 50.7,
         "upload_sec": 115.7
       }
+    },
+    {
+      "cr_film_id": 8232,
+      "cr_slug": "tanec-v-srdci",
+      "title": "Tanec v srdci",
+      "year": 2020,
+      "display_name": "Tanec v srdci (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6086e475598d8",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26087570,
+      "size_bytes": 2039279975,
+      "uploaded_at": "2026-06-18T12:56:26Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 68.0,
+        "upload_sec": 77.1
+      }
     }
   ],
   "failed_attempts": [
@@ -22682,5 +22701,5 @@
       "failed_at": "2026-06-18T05:46:16Z"
     }
   ],
-  "last_updated": "2026-06-18T12:53:58Z"
+  "last_updated": "2026-06-18T12:56:26Z"
 }
