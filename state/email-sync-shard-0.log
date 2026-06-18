@@ -5780,3 +5780,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:50:35]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/315314/RPDfgxireHoYU6ou1Jh57ipZhEZFwdH87Sjlcy…)
 [11:51:04]   downloaded 809.9 MB in 27.8s (29.1 MB/s)
 [11:51:46]   upload done video_id=26085071 in 41.5s
+[11:51:47] film cr_film_id=2918 OK in 72.7s
+[11:51:47] iteration 13/20
+[11:51:47] film cr_film_id=2922 name='Útěk z Pretorie (2020) CZ Dabing' candidates=2
+[11:51:47]   candidate upload_id=6e5a4a4328ccd69a url=https://prehraj.to/utek-z-pretorie-2020-hd-cz-mp4/6e5a4a4328ccd69a
+[11:51:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utek-z-pretorie-2020-hd-cz-mp4/6e5a4a4328ccd69a (permanent=True)
+[11:51:48]   candidate upload_id=a7ea29d31fcf5a46 url=https://prehraj.to/utek-z-pretorie-escape-from-pretoria-2020-cz-dabing/a7ea29d31fcf5a46
+[11:51:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utek-z-pretorie-escape-from-pretoria-2020-cz-dabing/a7ea29d31fcf5a46 (permanent=True)
+[11:51:53] film cr_film_id=2922 all candidates exhausted
+[11:51:53] iteration 14/20
+[11:51:53] film cr_film_id=2932 name='Sůl nad zlato (1983) CZ Dabing' candidates=7
+[11:51:53]   candidate upload_id=675ed10fc7830 url=https://prehraj.to/sul-nad-zlato-sol-nad-zlato-1982-cz-dabing-1080p/675ed10fc7830
+[11:51:59]   resolved in 5.9s → 720p (https://pf-storage1.premiumcdn.net/123196427/94zcP9UPoHl1HJrFAvF17UyKs9GhnvHypSx…)
+[11:52:33]   downloaded 1,160.6 MB in 32.6s (35.6 MB/s)
+[11:53:32]   upload done video_id=26085115 in 59.0s
