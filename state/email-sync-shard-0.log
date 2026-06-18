@@ -6814,3 +6814,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:48:51]   resolved in 0.8s → 720p (https://pf-storage5.premiumcdn.net/9085880/qLyfpxFPaHNyh84cxrhrgF37UGnt2msRjfA0i…)
 [22:49:42]   downloaded 1,498.3 MB in 50.3s (29.8 MB/s)
 [22:51:12]   upload done video_id=26106283 in 89.3s
+[22:51:13] film cr_film_id=3474 OK in 142.8s
+[22:51:13] iteration 12/20
+[22:51:13] film cr_film_id=3476 name='Dožeň, co se dá! (1999) CZ Dabing' candidates=2
+[22:51:13]   candidate upload_id=68f4b23782560 url=https://prehraj.to/dozen-co-se-da-1999-cz-dab-1080p/68f4b23782560
+[22:51:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dozen-co-se-da-1999-cz-dab-1080p/68f4b23782560 (permanent=True)
+[22:51:13]   candidate upload_id=69018b4d80549 url=https://prehraj.to/dozen-co-se-da-1999-fhd-1080p-cz-1818/69018b4d80549
+[22:51:19]   resolved in 5.8s → 1080p (https://pf-storage3.premiumcdn.net/154196619/q1wUy2s2GsW8ILoTPYs4osRXUXYhp5H1KUK…)
+[22:52:29]   downloaded 2,550.3 MB in 68.5s (37.2 MB/s)
+[22:54:05]   upload done video_id=26106360 in 96.5s
