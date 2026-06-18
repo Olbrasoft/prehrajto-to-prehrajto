@@ -6083,3 +6083,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:54:08]   resolved in 1.6s → 1080p (https://pf-storage1.premiumcdn.net/31860236/oJ6FOYTrohv7UdqivVcp3Tk0uAPFajiLbF6v…)
 [13:56:28]   downloaded 3,200.7 MB in 138.5s (23.1 MB/s)
 [14:00:50]   upload done video_id=26091531 in 262.0s
+[14:00:53] film cr_film_id=3303 OK in 406.6s
+[14:00:53] iteration 7/20
+[14:00:53] film cr_film_id=3305 name='Láska pod kapotou (2021) CZ' candidates=1
+[14:00:53]   candidate upload_id=28ed721fa1b41230 url=https://prehraj.to/laska-pod-kapotou-2021-cz-hd-mp4/28ed721fa1b41230
+[14:00:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-pod-kapotou-2021-cz-hd-mp4/28ed721fa1b41230 (permanent=True)
+[14:00:54] film cr_film_id=3305 all candidates exhausted
+[14:00:54] iteration 8/20
+[14:00:54] film cr_film_id=3311 name='Projekt Adam (2022) CZ Dabing' candidates=8
+[14:00:54]   candidate upload_id=6230204cb93ae url=https://prehraj.to/the-adam-project-2022-1080p-cz-dabing/6230204cb93ae
+[14:01:00]   resolved in 6.2s → 1080p (https://pf-storage1.premiumcdn.net/30067287/1GrTnaCJMcvbhErIRZhqaC8gclecRgfwLIqK…)
+[14:02:48]   downloaded 2,427.0 MB in 106.6s (22.8 MB/s)
+[14:05:50]   upload done video_id=26091680 in 182.0s
