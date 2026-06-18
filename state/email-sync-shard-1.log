@@ -4852,3 +4852,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:40:16]   upload done video_id=26069616 in 72.7s
 [05:40:17] film cr_film_id=2607 OK in 135.3s
 [05:40:17] batch-end ok=18 failed=2 dur=3172.9s avg/film=176.3s remaining=16609 eta_hours=813.4
+
+===== run 2026-06-18T05:40:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27739254063) =====
+[05:40:53] description overrides loaded: 3737 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:40:53] batch-start shard=1/2 count=20 backlog=17650 uploads=1041 failed_attempts=74 description_overrides=3737
+[05:40:53] login
+[05:40:54] login done
+[05:40:54] iteration 1/20
+[05:40:54] film cr_film_id=2609 name='Tajemné křížovky: Čáry máry smrt (2020) CZ' candidates=1
+[05:40:54]   candidate upload_id=60e069e26378e url=https://prehraj.to/tajemne-krizovky-cary-mary-smrt-crossword-mysteries-abracadaver-2020-full-hd-cz-eng/60e069e26378e
+[05:40:56]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/24149616/lo0IG0hVpsnbfvLC91CxVhLeTEkU6gF4JTd9…)
+[05:42:40]   downloaded 2,121.1 MB in 102.2s (20.8 MB/s)
+[05:44:45]   upload done video_id=26069687 in 125.6s
