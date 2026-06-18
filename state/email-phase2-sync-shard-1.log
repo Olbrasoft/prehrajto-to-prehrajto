@@ -6843,3 +6843,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:10:53]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/21246888/XqzhjDSZ6ho2FgvSAQcw3SoEIOMikXCeXs79…)
 [13:12:26]   downloaded 2,601.4 MB in 91.2s (28.5 MB/s)
 [13:14:27]   upload done video_id=26087923 in 120.9s
+[13:14:28] film cr_film_id=29585 OK in 216.0s
+[13:14:28] iteration 17/20
+[13:14:28] film cr_film_id=9371 name='Férovka (2020) CZ Titulky' candidates=1
+[13:14:28]   candidate upload_id=52e50ae1cfafd62b url=https://prehraj.to/ferovka-2020-cz-titulky-mp4/52e50ae1cfafd62b
+[13:14:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ferovka-2020-cz-titulky-mp4/52e50ae1cfafd62b (permanent=True)
+[13:14:29] film cr_film_id=9371 all candidates exhausted
+[13:14:29] iteration 18/20
+[13:14:29] film cr_film_id=26453 name='Full Out 2: You Got This! (2020) CZ Titulky' candidates=1
+[13:14:29]   candidate upload_id=5fef9c20614ae url=https://prehraj.to/full-out-2-you-got-this-2020-cztitulky/5fef9c20614ae
+[13:14:35]   resolved in 6.0s → 720p (https://pf-storage2.premiumcdn.net/21191073/RvdIneFYXi58uaPfXJfMyF0nh3rIoacQPTv1…)
+[13:15:30]   downloaded 1,493.7 MB in 53.9s (27.7 MB/s)
+[13:16:48]   upload done video_id=26087984 in 77.8s
