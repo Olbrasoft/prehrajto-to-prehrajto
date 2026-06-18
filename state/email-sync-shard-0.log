@@ -6291,3 +6291,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:32:13]   upload done video_id=26094849 in 158.5s
 [15:32:15] film cr_film_id=3172 OK in 315.5s
 [15:32:15] batch-end ok=20 failed=0 dur=3005.2s avg/film=150.3s remaining=16402 eta_hours=684.8
+
+===== run 2026-06-18T15:32:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27770699483) =====
+[15:32:51] description overrides loaded: 7608 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:32:51] batch-start shard=0/2 count=20 backlog=17650 uploads=1248 failed_attempts=98 description_overrides=7608
+[15:32:51] login
+[15:32:53] login done
+[15:32:53] iteration 1/20
+[15:32:53] film cr_film_id=3176 name='Nevěrná (2002) CZ Dabing' candidates=19
+[15:32:53]   candidate upload_id=67cecb04b8590 url=https://prehraj.to/neverna-diane-lane-richard-gere-olivier-martinez-2002-thriller-drama-bdrip-1080p-cz-dabing/67cecb04b8590
+[15:32:54]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/131807399/Gx9i6XUkouvrfWMiNXixoUaouALCrYfJ3FV…)
+[15:33:54]   downloaded 1,270.4 MB in 57.3s (22.2 MB/s)
+[15:35:14]   upload done video_id=26094990 in 80.5s
