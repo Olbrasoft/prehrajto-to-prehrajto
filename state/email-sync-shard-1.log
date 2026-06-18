@@ -6784,3 +6784,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:28:54]   upload done video_id=26105788 in 114.0s
 [22:28:55] film cr_film_id=3633 OK in 193.9s
 [22:28:55] batch-end ok=19 failed=1 dur=3790.3s avg/film=199.5s remaining=16355 eta_hours=906.3
+
+===== run 2026-06-18T22:29:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27793235275) =====
+[22:29:26] description overrides loaded: 8187 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:29:26] batch-start shard=1/2 count=20 backlog=17650 uploads=1295 failed_attempts=95 description_overrides=8187
+[22:29:26] login
+[22:29:28] login done
+[22:29:28] iteration 1/20
+[22:29:28] film cr_film_id=3635 name='Občas myslím na smrt (2023) CZ Dabing' candidates=4
+[22:29:28]   candidate upload_id=66a3baf466d45 url=https://prehraj.to/obcas-myslim-na-smrt-2023-cz-dabing-1080p/66a3baf466d45
+[22:29:29]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/87094937/5A0IxQU49CoMCnQs8YH9ZUYpS49um6iK3FwE…)
+[22:30:23]   downloaded 952.9 MB in 52.3s (18.2 MB/s)
+[22:31:21]   upload done video_id=26105866 in 57.4s
