@@ -20435,6 +20435,25 @@
         "download_sec": 59.5,
         "upload_sec": 60.9
       }
+    },
+    {
+      "cr_film_id": 31539,
+      "cr_slug": "two-of-us-2020",
+      "title": "Two Of Us",
+      "year": 2020,
+      "display_name": "Two Of Us (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6856777ce06da",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26073858,
+      "size_bytes": 372420604,
+      "uploaded_at": "2026-06-18T08:54:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.9,
+        "upload_sec": 27.6
+      }
     }
   ],
   "failed_attempts": [
@@ -20845,5 +20864,5 @@
       "failed_at": "2026-06-18T05:42:13Z"
     }
   ],
-  "last_updated": "2026-06-18T08:53:58Z"
+  "last_updated": "2026-06-18T08:54:54Z"
 }
