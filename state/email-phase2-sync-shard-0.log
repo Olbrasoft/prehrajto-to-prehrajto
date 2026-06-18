@@ -7616,3 +7616,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [17:46:48]   upload done video_id=26099173 in 92.0s
 [17:46:50] film cr_film_id=26516 OK in 221.4s
 [17:46:50] batch-end ok=20 failed=0 dur=2950.8s avg/film=147.5s remaining=8780 eta_hours=359.7
+
+===== run 2026-06-18T18:06:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27779540427) =====
+[18:06:04] batch-start shard=0/2 count=20 backlog=10210 uploads=1430 failed_attempts=65 description_overrides=0
+[18:06:04] login
+[18:06:06] login done
+[18:06:06] iteration 1/20
+[18:06:06] film cr_film_id=4198 name='Asi to ukončím (2020) CZ Titulky' candidates=7
+[18:06:06]   candidate upload_id=5f549a7f95e0c url=https://prehraj.to/asi-to-ukoncim-drama-thriller-2020-1080p-5-1-x264-s-cztitulky-67-sten-ok/5f549a7f95e0c
+[18:06:07]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/18456378/GPJsLqHDBSnVf7dhVnC5nHaqhA9CYlS49uwO…)
+[18:08:43]   downloaded 3,058.5 MB in 153.7s (19.9 MB/s)
+[18:11:45]   upload done video_id=26099877 in 182.9s
