@@ -22113,6 +22113,25 @@
         "download_sec": 121.5,
         "upload_sec": 174.7
       }
+    },
+    {
+      "cr_film_id": 3500,
+      "cr_slug": "mezi-vlky",
+      "title": "Mezi vlky",
+      "year": 2011,
+      "display_name": "Mezi vlky (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c5be06189d9d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26106882,
+      "size_bytes": 2688132385,
+      "uploaded_at": "2026-06-18T23:11:25Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 71.6,
+        "upload_sec": 109.3
+      }
     }
   ],
   "failed_attempts": [
@@ -22838,5 +22857,5 @@
       "failed_at": "2026-06-18T22:51:13Z"
     }
   ],
-  "last_updated": "2026-06-18T23:08:20Z"
+  "last_updated": "2026-06-18T23:11:25Z"
 }
