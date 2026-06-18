@@ -17527,6 +17527,25 @@
         "download_sec": 20.3,
         "upload_sec": 35.4
       }
+    },
+    {
+      "cr_film_id": 6852,
+      "cr_slug": "mira",
+      "title": "Mira",
+      "year": 2022,
+      "display_name": "Mira (2022) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6444525801430",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26061966,
+      "size_bytes": 2814528721,
+      "uploaded_at": "2026-06-18T00:36:03Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 88.1,
+        "upload_sec": 119.7
+      }
     }
   ],
   "failed_attempts": [
@@ -17937,5 +17956,5 @@
       "failed_at": "2026-06-18T00:22:14Z"
     }
   ],
-  "last_updated": "2026-06-18T00:27:27Z"
+  "last_updated": "2026-06-18T00:36:03Z"
 }
