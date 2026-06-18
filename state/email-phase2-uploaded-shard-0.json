@@ -23949,6 +23949,25 @@
         "download_sec": 76.3,
         "upload_sec": 144.8
       }
+    },
+    {
+      "cr_film_id": 26752,
+      "cr_slug": "crocodile-island",
+      "title": "Crocodile Island",
+      "year": 2020,
+      "display_name": "Crocodile Island (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5eef983b94775",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26098118,
+      "size_bytes": 1105471232,
+      "uploaded_at": "2026-06-18T17:10:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 37.2,
+        "upload_sec": 51.8
+      }
     }
   ],
   "failed_attempts": [
@@ -24413,5 +24432,5 @@
       "failed_at": "2026-06-18T15:48:44Z"
     }
   ],
-  "last_updated": "2026-06-18T17:09:04Z"
+  "last_updated": "2026-06-18T17:10:37Z"
 }
