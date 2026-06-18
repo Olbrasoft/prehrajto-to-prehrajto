@@ -22297,6 +22297,25 @@
         "download_sec": 45.1,
         "upload_sec": 79.4
       }
+    },
+    {
+      "cr_film_id": 29371,
+      "cr_slug": "den-pane",
+      "title": "Den Páně",
+      "year": 2020,
+      "display_name": "Den Páně (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f9c10b96a33c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26090284,
+      "size_bytes": 1411717988,
+      "uploaded_at": "2026-06-18T13:39:16Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 48.8,
+        "upload_sec": 57.0
+      }
     }
   ],
   "failed_attempts": [
@@ -22732,5 +22751,5 @@
       "failed_at": "2026-06-18T13:14:29Z"
     }
   ],
-  "last_updated": "2026-06-18T13:37:27Z"
+  "last_updated": "2026-06-18T13:39:16Z"
 }
