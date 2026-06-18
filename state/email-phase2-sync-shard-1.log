@@ -6142,3 +6142,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [08:10:10]   upload done video_id=26072892 in 80.3s
 [08:10:12] film cr_film_id=33671 OK in 154.2s
 [08:10:12] batch-end ok=20 failed=0 dur=2287.7s avg/film=114.4s remaining=8991 eta_hours=285.7
+
+===== run 2026-06-18T08:38:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27747351248) =====
+[08:38:03] batch-start shard=1/2 count=20 backlog=10210 uploads=1219 failed_attempts=58 description_overrides=0
+[08:38:03] login
+[08:38:05] login done
+[08:38:05] iteration 1/20
+[08:38:05] film cr_film_id=20725 name='Vlkochodci (2020) CZ Titulky' candidates=6
+[08:38:05]   candidate upload_id=841c5df2964295df url=https://prehraj.to/vlkochodci-2020-cz-tit-720p/841c5df2964295df
+[08:38:07]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/167082572/mEWsX1ixMFbRS7WuvxT2Mi16tY1UByhMrhl…)
+[08:39:23]   downloaded 1,694.3 MB in 74.4s (22.8 MB/s)
+[08:41:03]   upload done video_id=26073379 in 99.8s
