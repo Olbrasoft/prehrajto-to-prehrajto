@@ -24500,6 +24500,25 @@
         "download_sec": 60.7,
         "upload_sec": 68.7
       }
+    },
+    {
+      "cr_film_id": 8256,
+      "cr_slug": "dablovi-bezci",
+      "title": "Ďáblovi běžci",
+      "year": 2019,
+      "display_name": "Ďáblovi běžci (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5de9c50282623",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26102387,
+      "size_bytes": 1828229021,
+      "uploaded_at": "2026-06-18T20:01:46Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 1035.9,
+        "upload_sec": 95.0
+      }
     }
   ],
   "failed_attempts": [
@@ -24964,5 +24983,5 @@
       "failed_at": "2026-06-18T15:48:44Z"
     }
   ],
-  "last_updated": "2026-06-18T19:42:49Z"
+  "last_updated": "2026-06-18T20:01:46Z"
 }
