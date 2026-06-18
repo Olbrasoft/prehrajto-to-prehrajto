@@ -5706,3 +5706,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [05:18:34]   upload done video_id=26069107 in 147.5s
 [05:18:35] film cr_film_id=31195 OK in 266.9s
 [05:18:35] batch-end ok=19 failed=1 dur=3101.2s avg/film=163.2s remaining=9050 eta_hours=410.3
+
+===== run 2026-06-18T05:40:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27739221370) =====
+[05:40:02] batch-start shard=1/2 count=20 backlog=10210 uploads=1160 failed_attempts=57 description_overrides=0
+[05:40:02] login
+[05:40:04] login done
+[05:40:04] iteration 1/20
+[05:40:04] film cr_film_id=19843 name='Injil (2021) CZ Titulky' candidates=1
+[05:40:04]   candidate upload_id=62f6fa5e0a2af url=https://prehraj.to/injil-2021-cztitulky/62f6fa5e0a2af
+[05:40:05]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/32075791/WNzta2u6LiDrCvpUx1coOuL6uzPhORi2KTPY…)
+[05:40:58]   downloaded 1,491.0 MB in 52.2s (28.6 MB/s)
+[05:42:11]   upload done video_id=26069658 in 72.3s
