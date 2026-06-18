@@ -16242,6 +16242,25 @@
         "download_sec": 115.9,
         "upload_sec": 156.6
       }
+    },
+    {
+      "cr_film_id": 2288,
+      "cr_slug": "underworld",
+      "title": "Underworld",
+      "year": 2003,
+      "display_name": "Underworld (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58212582aa04b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26067209,
+      "size_bytes": 472829810,
+      "uploaded_at": "2026-06-18T03:55:54Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 22.2,
+        "upload_sec": 30.1
+      }
     }
   ],
   "failed_attempts": [
@@ -16790,5 +16809,5 @@
       "failed_at": "2026-06-18T03:41:42Z"
     }
   ],
-  "last_updated": "2026-06-18T03:54:56Z"
+  "last_updated": "2026-06-18T03:55:54Z"
 }
