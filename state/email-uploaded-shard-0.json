@@ -22094,6 +22094,25 @@
         "download_sec": 18.0,
         "upload_sec": 23.0
       }
+    },
+    {
+      "cr_film_id": 3498,
+      "cr_slug": "armageddon",
+      "title": "Armageddon",
+      "year": 1998,
+      "display_name": "Armageddon (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64a19fb438a71",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26106801,
+      "size_bytes": 4511303826,
+      "uploaded_at": "2026-06-18T23:08:20Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 121.5,
+        "upload_sec": 174.7
+      }
     }
   ],
   "failed_attempts": [
@@ -22819,5 +22838,5 @@
       "failed_at": "2026-06-18T22:51:13Z"
     }
   ],
-  "last_updated": "2026-06-18T23:03:21Z"
+  "last_updated": "2026-06-18T23:08:20Z"
 }
