@@ -21745,6 +21745,25 @@
         "download_sec": 43.1,
         "upload_sec": 78.2
       }
+    },
+    {
+      "cr_film_id": 9530,
+      "cr_slug": "vratna",
+      "title": "Vrátná",
+      "year": 2020,
+      "display_name": "Vrátná (2020) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fc2c7ff3e034",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26084678,
+      "size_bytes": 1327408127,
+      "uploaded_at": "2026-06-18T11:37:30Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 36.7,
+        "upload_sec": 56.4
+      }
     }
   ],
   "failed_attempts": [
@@ -22188,5 +22207,5 @@
       "failed_at": "2026-06-18T05:46:16Z"
     }
   ],
-  "last_updated": "2026-06-18T11:35:54Z"
+  "last_updated": "2026-06-18T11:37:30Z"
 }
