@@ -7477,3 +7477,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:08:53]   upload done video_id=26112294 in 30.8s
 [03:08:54] film cr_film_id=3794 OK in 59.1s
 [03:08:54] batch-end ok=19 failed=1 dur=2419.8s avg/film=127.4s remaining=16246 eta_hours=574.9
+
+===== run 2026-06-19T03:09:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27802939893) =====
+[03:09:24] description overrides loaded: 8207 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:09:24] batch-start shard=0/2 count=20 backlog=17650 uploads=1404 failed_attempts=111 description_overrides=8207
+[03:09:24] login
+[03:09:36] login done
+[03:09:36] iteration 1/20
+[03:09:36] film cr_film_id=3796 name='Skleněný (2019) CZ Dabing' candidates=10
+[03:09:36]   candidate upload_id=5e9694dc42160 url=https://prehraj.to/skleneny-2019-czdabing/5e9694dc42160
+[03:09:37]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/16233931/l67coWIRXidnHoqfldSR0IxYc7zfPzcXkC9V…)
+[03:10:56]   downloaded 1,711.2 MB in 76.5s (22.4 MB/s)
+[03:13:09]   upload done video_id=26112351 in 133.1s
