@@ -7746,3 +7746,16 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:12:48]   resolved in 1.5s → 1080p (https://pf-storage1.premiumcdn.net/30831632/1erUYeH64iExi9xhQju6ZHeohmMuZqT8BUk8…)
 [05:14:57]   downloaded 2,503.7 MB in 126.1s (19.9 MB/s)
 [05:18:27]   upload done video_id=26114790 in 210.7s
+[05:18:30] film cr_film_id=4141 OK in 343.6s
+[05:18:30] iteration 12/20
+[05:18:30] film cr_film_id=4151 name='Gagarin: První ve vesmíru (2013) CZ' candidates=1
+[05:18:30]   candidate upload_id=654786db64bc8 url=https://prehraj.to/gagarin-prvni-ve-vesmiru-2023-cz-sk-ru-ru/654786db64bc8
+[05:18:32]   resolved in 2.2s → 1080p (https://pf-storage1.premiumcdn.net/50711672/DpDSXQFaXHQnTERsXns4lFk6Cpntw4Il7T2k…)
+[05:18:35]   oversize: 6630906517 B > 6000000000 B, skip
+[05:18:35] film cr_film_id=4151 all candidates exhausted
+[05:18:35] iteration 13/20
+[05:18:35] film cr_film_id=4153 name='Gump – pes, který naučil lidi žít (2021) CZ' candidates=3
+[05:18:35]   candidate upload_id=3117820bd314ff01 url=https://prehraj.to/gump-pes-ktery-naucil-lidi-zit-2021-1080p-dd-5-1-h-264/3117820bd314ff01
+[05:18:39]   resolved in 4.0s → 1080p (https://pf-storage5.premiumcdn.net/160628909/BnqFD9uw2IawIx8UZASr9uvzUM3smosJqTA…)
+[05:20:28]   downloaded 2,418.7 MB in 107.4s (22.5 MB/s)
+[05:23:49]   upload done video_id=26114965 in 200.7s
