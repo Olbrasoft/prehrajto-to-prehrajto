@@ -28471,6 +28471,25 @@
         "download_sec": 30.0,
         "upload_sec": 40.3
       }
+    },
+    {
+      "cr_film_id": 9802,
+      "cr_slug": "occupation",
+      "title": "Occupation",
+      "year": 2018,
+      "display_name": "Occupation (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5b9a5281d5baf",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26117512,
+      "size_bytes": 1453637346,
+      "uploaded_at": "2026-06-19T07:38:25Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 48.9,
+        "upload_sec": 87.8
+      }
     }
   ],
   "failed_attempts": [
@@ -29031,5 +29050,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T07:36:04Z"
+  "last_updated": "2026-06-19T07:38:25Z"
 }
