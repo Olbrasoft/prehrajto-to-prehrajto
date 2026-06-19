@@ -25431,6 +25431,25 @@
         "download_sec": 168.2,
         "upload_sec": 188.2
       }
+    },
+    {
+      "cr_film_id": 29058,
+      "cr_slug": "pod-vlivem",
+      "title": "Pod vlivem",
+      "year": 2019,
+      "display_name": "Pod vlivem (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5da4c120e6de5",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26108824,
+      "size_bytes": 1414984060,
+      "uploaded_at": "2026-06-19T00:15:15Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 76.4,
+        "upload_sec": 80.1
+      }
     }
   ],
   "failed_attempts": [
@@ -25958,5 +25977,5 @@
       "failed_at": "2026-06-18T23:40:01Z"
     }
   ],
-  "last_updated": "2026-06-19T00:12:33Z"
+  "last_updated": "2026-06-19T00:15:15Z"
 }
