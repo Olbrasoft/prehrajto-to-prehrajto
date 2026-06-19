@@ -23927,6 +23927,25 @@
         "download_sec": 142.9,
         "upload_sec": 155.9
       }
+    },
+    {
+      "cr_film_id": 4123,
+      "cr_slug": "x",
+      "title": "X",
+      "year": 2022,
+      "display_name": "X (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c3bdbf0dc7d16756",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26114236,
+      "size_bytes": 1724590378,
+      "uploaded_at": "2026-06-19T04:53:18Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 71.3,
+        "upload_sec": 118.6
+      }
     }
   ],
   "failed_attempts": [
@@ -24730,5 +24749,5 @@
       "failed_at": "2026-06-19T03:55:41Z"
     }
   ],
-  "last_updated": "2026-06-19T04:50:02Z"
+  "last_updated": "2026-06-19T04:53:18Z"
 }
