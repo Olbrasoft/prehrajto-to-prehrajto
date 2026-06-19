@@ -8522,3 +8522,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [02:45:21]   upload done video_id=26111720 in 128.2s
 [02:45:24] film cr_film_id=33450 OK in 231.2s
 [02:45:24] batch-end ok=19 failed=1 dur=3687.8s avg/film=194.1s remaining=8663 eta_hours=467.1
+
+===== run 2026-06-19T02:45:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27802210842) =====
+[02:45:53] batch-start shard=0/2 count=20 backlog=10210 uploads=1547 failed_attempts=77 description_overrides=0
+[02:45:53] login
+[02:45:55] login done
+[02:45:55] iteration 1/20
+[02:45:55] film cr_film_id=2590 name='Enrico Piaggio - Vespa (2019) CZ Titulky' candidates=2
+[02:45:55]   candidate upload_id=60661d2999e93 url=https://prehraj.to/enrico-piaggio-vespa-2019-cztitulky/60661d2999e93
+[02:45:56]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/22919406/ZxEI7ohzdiYxcyztQvURbheaiq7io5ulxtyo…)
+[02:48:13]   downloaded 2,564.2 MB in 134.4s (19.1 MB/s)
+[02:51:03]   upload done video_id=26111804 in 170.1s
