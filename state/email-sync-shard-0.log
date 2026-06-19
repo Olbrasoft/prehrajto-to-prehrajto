@@ -7624,3 +7624,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:32:05]   upload done video_id=26113882 in 33.8s
 [04:32:07] film cr_film_id=3850 OK in 90.2s
 [04:32:07] batch-end ok=20 failed=0 dur=4951.1s avg/film=247.6s remaining=16226 eta_hours=1116.0
+
+===== run 2026-06-19T04:32:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27805547399) =====
+[04:32:43] description overrides loaded: 8207 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:32:43] batch-start shard=0/2 count=20 backlog=17650 uploads=1424 failed_attempts=111 description_overrides=8207
+[04:32:43] login
+[04:32:45] login done
+[04:32:45] iteration 1/20
+[04:32:45] film cr_film_id=3852 name='Na hraně temnoty (2010) CZ Dabing' candidates=4
+[04:32:45]   candidate upload_id=564ba3fb85b4d url=https://prehraj.to/na-hrane-temnoty-2010-drama-thrill-cz-dab-n-y/564ba3fb85b4d
+[04:32:47]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/325705/35vuM7sEvH3AsWMulMTPJsDqcdeF5jTOwCVMcM…)
+[04:33:09]   downloaded 468.7 MB in 20.4s (23.0 MB/s)
+[04:33:34]   upload done video_id=26113917 in 24.9s
