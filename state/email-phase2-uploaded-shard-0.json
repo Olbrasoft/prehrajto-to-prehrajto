@@ -28585,6 +28585,25 @@
         "download_sec": 29.8,
         "upload_sec": 39.8
       }
+    },
+    {
+      "cr_film_id": 19322,
+      "cr_slug": "mory-vratislavi",
+      "title": "Mory Vratislavi",
+      "year": 2018,
+      "display_name": "Mory Vratislavi (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6180f2183b204",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26117848,
+      "size_bytes": 1947843621,
+      "uploaded_at": "2026-06-19T07:51:20Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 66.1,
+        "upload_sec": 73.0
+      }
     }
   ],
   "failed_attempts": [
@@ -29145,5 +29164,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T07:48:58Z"
+  "last_updated": "2026-06-19T07:51:20Z"
 }
