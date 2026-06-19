@@ -9347,3 +9347,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [07:24:19]   upload done video_id=26117067 in 158.2s
 [07:24:21] film cr_film_id=21051 OK in 266.3s
 [07:24:21] batch-end ok=19 failed=1 dur=3104.5s avg/film=163.4s remaining=8557 eta_hours=388.4
+
+===== run 2026-06-19T07:24:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27811780487) =====
+[07:24:52] batch-start shard=1/2 count=20 backlog=10210 uploads=1653 failed_attempts=65 description_overrides=0
+[07:24:52] login
+[07:24:53] login done
+[07:24:53] iteration 1/20
+[07:24:53] film cr_film_id=2989 name="Black '47 (2018) CZ Titulky" candidates=1
+[07:24:53]   candidate upload_id=1936745bca7b3f80 url=https://prehraj.to/cerna-47-black-47-black-47-2018-en-cz-tit-mkv/1936745bca7b3f80
+[07:24:55]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/161616383/5jds7wf2PfEJHP2IZATJPf3BIoycMVc2dT1…)
+[07:26:26]   downloaded 1,622.6 MB in 88.2s (18.4 MB/s)
+[07:29:21]   upload done video_id=26117193 in 175.5s
