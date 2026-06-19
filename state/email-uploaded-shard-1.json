@@ -22901,6 +22901,25 @@
         "download_sec": 14.3,
         "upload_sec": 23.8
       }
+    },
+    {
+      "cr_film_id": 3935,
+      "cr_slug": "posledni-vlak",
+      "title": "Poslední vlak",
+      "year": 2006,
+      "display_name": "Poslední vlak (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ba5849fbbc7d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26110336,
+      "size_bytes": 718001130,
+      "uploaded_at": "2026-06-19T01:38:13Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 21.4,
+        "upload_sec": 26.9
+      }
     }
   ],
   "failed_attempts": [
@@ -23646,7 +23665,21 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/vinylova-laska-2018-cz-dabing-hd-mp4/9c12eb4f6e0859cf",
       "permanent": true,
       "failed_at": "2026-06-19T00:54:41Z"
+    },
+    {
+      "cr_film_id": 3933,
+      "upload_id": "4f96b49e4845f916",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/moje-tlusta-recka-svatba-2002-cz-dab-1080p/4f96b49e4845f916",
+      "permanent": true,
+      "failed_at": "2026-06-19T01:37:12Z"
+    },
+    {
+      "cr_film_id": 3933,
+      "upload_id": "a96223862fc80c8e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/moje-tlusta-recka-svatba-2002-cz-dab-1080p/a96223862fc80c8e",
+      "permanent": true,
+      "failed_at": "2026-06-19T01:37:18Z"
     }
   ],
-  "last_updated": "2026-06-19T01:37:10Z"
+  "last_updated": "2026-06-19T01:38:13Z"
 }
