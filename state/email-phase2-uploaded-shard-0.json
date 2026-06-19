@@ -30732,6 +30732,25 @@
         "download_sec": 61.9,
         "upload_sec": 71.2
       }
+    },
+    {
+      "cr_film_id": 29408,
+      "cr_slug": "neviditelne-zeny",
+      "title": "Neviditelné ženy",
+      "year": 2017,
+      "display_name": "Neviditelné ženy (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5da444f32840f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26123312,
+      "size_bytes": 1692496176,
+      "uploaded_at": "2026-06-19T12:05:26Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 87.0,
+        "upload_sec": 137.5
+      }
     }
   ],
   "failed_attempts": [
@@ -31292,5 +31311,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T12:01:35Z"
+  "last_updated": "2026-06-19T12:05:26Z"
 }
