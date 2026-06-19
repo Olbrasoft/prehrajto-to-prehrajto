@@ -7258,3 +7258,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:02:42]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/155553494/ZW7hLZHpnFmbUqdIjytZqHD4iVqhE7IJ9tn…)
 [02:03:32]   downloaded 983.0 MB in 48.5s (20.3 MB/s)
 [02:04:28]   upload done video_id=26111007 in 55.4s
+[02:04:30] film cr_film_id=3696 OK in 109.1s
+[02:04:30] iteration 11/20
+[02:04:30] film cr_film_id=3702 name='Invaze: Operace Mincemeat (2021) CZ Dabing' candidates=1
+[02:04:30]   candidate upload_id=f5d3c71cdbc30e98 url=https://prehraj.to/invaze-operace-mincemeat-2022-cz-dabing/f5d3c71cdbc30e98
+[02:04:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/invaze-operace-mincemeat-2022-cz-dabing/f5d3c71cdbc30e98 (permanent=True)
+[02:04:30] film cr_film_id=3702 all candidates exhausted
+[02:04:30] iteration 12/20
+[02:04:30] film cr_film_id=3704 name='Stáhni mě do pekla (2009) CZ Dabing' candidates=10
+[02:04:30]   candidate upload_id=4535ba91ee83309a url=https://prehraj.to/smdp-mp4/4535ba91ee83309a
+[02:04:37]   resolved in 6.4s → 1080p (https://pf-storage5.premiumcdn.net/164698571/5ZeSREf0jSJ5uQrCO0F9Nf5WHYlF9bSWwcq…)
+[02:06:43]   downloaded 2,637.0 MB in 124.8s (21.1 MB/s)
+[02:09:30]   upload done video_id=26111089 in 167.1s
