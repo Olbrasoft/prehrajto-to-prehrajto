@@ -10018,3 +10018,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:42:28]   upload done video_id=26138287 in 86.4s
 [22:42:30] film cr_film_id=5002 OK in 152.1s
 [22:42:30] batch-end ok=18 failed=2 dur=3101.6s avg/film=172.3s remaining=15921 eta_hours=762.0
+
+===== run 2026-06-19T22:43:00Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27851698798) =====
+[22:43:02] description overrides loaded: 13088 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:43:02] batch-start shard=0/2 count=20 backlog=17650 uploads=1729 failed_attempts=160 description_overrides=13088
+[22:43:02] login
+[22:43:06] login done
+[22:43:06] iteration 1/20
+[22:43:06] film cr_film_id=5006 name='Mokrý pes (2021) CZ Dabing' candidates=5
+[22:43:06]   candidate upload_id=6474ba0f63a45 url=https://prehraj.to/mokry-pes-2021-cz-dabing-hd-2-23-gb-online-ke-zhlednuti-sledujteto-cz/6474ba0f63a45
+[22:43:08]   resolved in 2.4s → 720p (https://pf-storage3.premiumcdn.net/41184262/VoDhXBuRBUQVI1Qf8zU0qukZc2lTQOimkcEv…)
+[22:44:39]   downloaded 1,703.3 MB in 88.5s (19.2 MB/s)
+[22:46:59]   upload done video_id=26138363 in 139.7s
