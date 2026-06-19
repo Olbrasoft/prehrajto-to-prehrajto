@@ -8358,3 +8358,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:35:55]   resolved in 0.7s → 720p (https://pf-storage1.premiumcdn.net/13614741/BdDcemsqNT2eHNDu9RSwms1qCjPiW4faJTg6…)
 [01:37:00]   downloaded 1,762.5 MB in 63.4s (27.8 MB/s)
 [01:38:06]   upload done video_id=26110325 in 66.5s
+[01:38:08] film cr_film_id=8528 OK in 133.5s
+[01:38:08] iteration 19/20
+[01:38:08] film cr_film_id=30886 name='Kevin Hart: Irresponsible (2019) CZ Titulky' candidates=5
+[01:38:08]   candidate upload_id=5ca79e2e69c84 url=https://prehraj.to/kevin-hart-irresponsible-komedie-2019-1080p-x264-s-cztitulky-76-sten-ok-mp4/5ca79e2e69c84
+[01:38:09]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/12795509/XNeHg8Frli4ptx8S1mUpdFmLi9zTkXSrYUpB…)
+[01:39:21]   downloaded 1,996.0 MB in 70.7s (28.2 MB/s)
+[01:39:21]   upload FAILED after 0.0s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[01:39:21]   candidate upload_id=5cac313b7816b url=https://prehraj.to/kevin-hart-irresponsible-2019-hc-titulky-cz-1080p-mp4/5cac313b7816b
+[01:39:23]   resolved in 1.4s → 1080p (https://pf-storage1.premiumcdn.net/12844407/rE9F5zT3YUJ6hVWHYyhwvTAMu81FoOiAjcxj…)
+[01:40:36]   downloaded 1,969.4 MB in 71.2s (27.7 MB/s)
+[01:41:48]   upload done video_id=26110369 in 72.7s
