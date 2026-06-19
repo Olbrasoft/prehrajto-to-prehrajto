@@ -27176,6 +27176,25 @@
         "download_sec": 24.4,
         "upload_sec": 38.2
       }
+    },
+    {
+      "cr_film_id": 4791,
+      "cr_slug": "batalon",
+      "title": "Batalion",
+      "year": 2015,
+      "display_name": "Batalion (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "568e2379862e3",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26126884,
+      "size_bytes": 900497121,
+      "uploaded_at": "2026-06-19T14:29:53Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 27.2,
+        "upload_sec": 48.0
+      }
     }
   ],
   "failed_attempts": [
@@ -28131,5 +28150,5 @@
       "failed_at": "2026-06-19T13:42:58Z"
     }
   ],
-  "last_updated": "2026-06-19T14:28:34Z"
+  "last_updated": "2026-06-19T14:29:53Z"
 }
