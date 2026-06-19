@@ -30789,6 +30789,25 @@
         "download_sec": 27.0,
         "upload_sec": 27.0
       }
+    },
+    {
+      "cr_film_id": 760,
+      "cr_slug": "na-konci-sveta",
+      "title": "Na konci světa",
+      "year": 2017,
+      "display_name": "Na konci světa (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5aa07ea489a3e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26123479,
+      "size_bytes": 1106630690,
+      "uploaded_at": "2026-06-19T12:09:39Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 49.5,
+        "upload_sec": 73.0
+      }
     }
   ],
   "failed_attempts": [
@@ -31349,5 +31368,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T12:07:32Z"
+  "last_updated": "2026-06-19T12:09:39Z"
 }
