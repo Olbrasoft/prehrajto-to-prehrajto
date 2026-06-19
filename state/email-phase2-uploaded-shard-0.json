@@ -34209,6 +34209,25 @@
         "download_sec": 185.0,
         "upload_sec": 48.3
       }
+    },
+    {
+      "cr_film_id": 35164,
+      "cr_slug": "richard-iii-2015",
+      "title": "Richard III",
+      "year": 2015,
+      "display_name": "Richard III (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e38b1cd2fa62",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26135262,
+      "size_bytes": 1534681659,
+      "uploaded_at": "2026-06-19T20:16:56Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 52.0,
+        "upload_sec": 102.1
+      }
     }
   ],
   "failed_attempts": [
@@ -34788,5 +34807,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T20:14:18Z"
+  "last_updated": "2026-06-19T20:16:56Z"
 }
