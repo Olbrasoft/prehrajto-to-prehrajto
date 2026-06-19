@@ -27426,6 +27426,25 @@
         "download_sec": 26.1,
         "upload_sec": 38.3
       }
+    },
+    {
+      "cr_film_id": 30742,
+      "cr_slug": "yung",
+      "title": "Yung",
+      "year": 2018,
+      "display_name": "Yung (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f875013236fe",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26114602,
+      "size_bytes": 544969788,
+      "uploaded_at": "2026-06-19T05:08:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.9,
+        "upload_sec": 34.4
+      }
     }
   ],
   "failed_attempts": [
@@ -27979,5 +27998,5 @@
       "failed_at": "2026-06-19T02:07:06Z"
     }
   ],
-  "last_updated": "2026-06-19T05:07:05Z"
+  "last_updated": "2026-06-19T05:08:08Z"
 }
