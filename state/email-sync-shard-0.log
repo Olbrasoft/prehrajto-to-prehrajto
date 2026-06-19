@@ -7880,3 +7880,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:23:48]   resolved in 2.0s → 720p (https://pf-storage5.premiumcdn.net/167521976/v49ivqI2zIO6IRdhgmF1oINguExFj3cLlUe…)
 [06:28:14]   downloaded 4,841.3 MB in 264.8s (18.3 MB/s)
 [06:34:50]   upload done video_id=26116130 in 395.6s
+[06:34:53] film cr_film_id=3994 OK in 666.7s
+[06:34:53] iteration 15/20
+[06:34:53] film cr_film_id=3996 name='Expendables: Postradatelní 2 (2012) CZ Dabing' candidates=23
+[06:34:53]   candidate upload_id=b13c523432aab79c url=https://prehraj.to/expendables-postradatelni-2-2012-cz-dab-1080p/b13c523432aab79c
+[06:34:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/expendables-postradatelni-2-2012-cz-dab-1080p/b13c523432aab79c (permanent=True)
+[06:34:53]   candidate upload_id=59aa270a8581f url=https://prehraj.to/postradatelni-2-2012-cz-dabing/59aa270a8581f
+[06:35:00]   resolved in 6.3s → 480p (https://pf-storage3.premiumcdn.net/2595345/b1rFbAuJbsxphvkFQyc79uGaCM9tnqc4xsRZT…)
+[06:35:35]   downloaded 664.4 MB in 32.8s (20.3 MB/s)
+[06:36:22]   upload done video_id=26116313 in 47.2s
