@@ -8681,3 +8681,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:47:14]   upload done video_id=26122796 in 28.3s
 [11:47:16] film cr_film_id=4394 OK in 60.3s
 [11:47:16] batch-end ok=20 failed=0 dur=2415.0s avg/film=120.8s remaining=16092 eta_hours=540.0
+
+===== run 2026-06-19T11:47:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27823859303) =====
+[11:47:51] description overrides loaded: 10728 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:47:51] batch-start shard=0/2 count=20 backlog=17650 uploads=1558 failed_attempts=136 description_overrides=10728
+[11:47:51] login
+[11:47:52] login done
+[11:47:52] iteration 1/20
+[11:47:52] film cr_film_id=4398 name='Antikrist (2009) CZ Dabing' candidates=12
+[11:47:52]   candidate upload_id=63dd12a893fb7 url=https://prehraj.to/antikrist-2009-cz-dabing-1080p/63dd12a893fb7
+[11:47:54]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/37027477/PjoF4JUGYu9QSGgibRhqKUm7hlbTZxseVtjO…)
+[11:49:26]   downloaded 1,586.5 MB in 89.9s (17.6 MB/s)
+[11:51:09]   upload done video_id=26122882 in 103.5s
