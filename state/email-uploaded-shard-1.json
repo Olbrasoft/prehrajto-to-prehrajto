@@ -25998,6 +25998,25 @@
         "download_sec": 62.3,
         "upload_sec": 105.5
       }
+    },
+    {
+      "cr_film_id": 4499,
+      "cr_slug": "archiv",
+      "title": "Archiv",
+      "year": 2020,
+      "display_name": "Archiv (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65c3c93321a8e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26121916,
+      "size_bytes": 1879141428,
+      "uploaded_at": "2026-06-19T11:03:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 53.5,
+        "upload_sec": 119.5
+      }
     }
   ],
   "failed_attempts": [
@@ -26883,5 +26902,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T11:01:02Z"
+  "last_updated": "2026-06-19T11:03:59Z"
 }
