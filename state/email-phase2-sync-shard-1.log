@@ -10371,3 +10371,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:23:10]   upload done video_id=26123974 in 33.1s
 [12:23:12] film cr_film_id=31713 OK in 71.8s
 [12:23:12] batch-end ok=20 failed=0 dur=1938.6s avg/film=96.9s remaining=8418 eta_hours=226.6
+
+===== run 2026-06-19T12:31:14Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27825820223) =====
+[12:31:15] batch-start shard=1/2 count=20 backlog=10210 uploads=1792 failed_attempts=67 description_overrides=0
+[12:31:15] login
+[12:31:17] login done
+[12:31:17] iteration 1/20
+[12:31:17] film cr_film_id=19925 name='Tallulah (2016) CZ Titulky' candidates=3
+[12:31:17]   candidate upload_id=5800bcac0f2d0 url=https://prehraj.to/tallulah-cz-tit-v-obraze-csfd-73-drama-2016/5800bcac0f2d0
+[12:31:18]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/706454/mv7HeQhzXTDMfkGTaefP3h4zs0af72Up6Tw5s9…)
+[12:31:50]   downloaded 644.0 MB in 30.2s (21.3 MB/s)
+[12:32:25]   upload done video_id=26124144 in 34.8s
