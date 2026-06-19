@@ -24184,6 +24184,25 @@
         "download_sec": 108.3,
         "upload_sec": 156.4
       }
+    },
+    {
+      "cr_film_id": 3920,
+      "cr_slug": "santa-claus",
+      "title": "Santa Claus",
+      "year": 1994,
+      "display_name": "Santa Claus (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5be9943e4ffa0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26114333,
+      "size_bytes": 563839989,
+      "uploaded_at": "2026-06-19T04:55:22Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 23.5,
+        "upload_sec": 30.6
+      }
     }
   ],
   "failed_attempts": [
@@ -24979,5 +24998,5 @@
       "failed_at": "2026-06-19T03:03:18Z"
     }
   ],
-  "last_updated": "2026-06-19T04:54:22Z"
+  "last_updated": "2026-06-19T04:55:22Z"
 }
