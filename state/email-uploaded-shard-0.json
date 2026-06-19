@@ -28440,6 +28440,25 @@
         "download_sec": 15.0,
         "upload_sec": 28.9
       }
+    },
+    {
+      "cr_film_id": 4774,
+      "cr_slug": "hartova-valka",
+      "title": "Hartova válka",
+      "year": 2002,
+      "display_name": "Hartova válka (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57c8e860c369f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26131716,
+      "size_bytes": 1531640613,
+      "uploaded_at": "2026-06-19T17:29:12Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 77.6,
+        "upload_sec": 91.3
+      }
     }
   ],
   "failed_attempts": [
@@ -29525,5 +29544,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T17:26:19Z"
+  "last_updated": "2026-06-19T17:29:12Z"
 }
