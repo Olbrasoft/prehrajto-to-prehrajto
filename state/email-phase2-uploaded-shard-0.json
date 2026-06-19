@@ -27996,6 +27996,25 @@
         "download_sec": 50.6,
         "upload_sec": 108.6
       }
+    },
+    {
+      "cr_film_id": 17222,
+      "cr_slug": "the-boat",
+      "title": "The Boat",
+      "year": 2018,
+      "display_name": "The Boat (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5d74d84f04678",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26116333,
+      "size_bytes": 1789191646,
+      "uploaded_at": "2026-06-19T06:39:20Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 84.2,
+        "upload_sec": 152.4
+      }
     }
   ],
   "failed_attempts": [
@@ -28556,5 +28575,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T06:35:19Z"
+  "last_updated": "2026-06-19T06:39:20Z"
 }
