@@ -8619,3 +8619,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [02:11:00]   upload done video_id=26111177 in 25.6s
 [02:11:02] film cr_film_id=30685 OK in 54.5s
 [02:11:02] batch-end ok=20 failed=0 dur=1657.3s avg/film=82.9s remaining=8655 eta_hours=199.3
+
+===== run 2026-06-19T02:45:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27802210842) =====
+[02:45:52] batch-start shard=1/2 count=20 backlog=10210 uploads=1555 failed_attempts=63 description_overrides=0
+[02:45:52] login
+[02:45:54] login done
+[02:45:54] iteration 1/20
+[02:45:54] film cr_film_id=19271 name='The Barge People (2018) CZ Titulky' candidates=1
+[02:45:54]   candidate upload_id=5fefbc894b065 url=https://prehraj.to/the-barge-people-2018-cztitulky/5fefbc894b065
+[02:45:55]   resolved in 1.0s → 720p (https://pf-storage2.premiumcdn.net/21191709/OKJIZzujRcVktMrFLwSV7u52he7FjZcv2i5q…)
+[02:46:42]   downloaded 1,246.9 MB in 45.5s (27.4 MB/s)
+[02:47:41]   upload done video_id=26111776 in 59.0s
