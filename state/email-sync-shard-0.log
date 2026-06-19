@@ -8975,3 +8975,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:09:02]   upload done video_id=26126027 in 271.2s
 [14:09:05] film cr_film_id=4550 OK in 443.3s
 [14:09:05] batch-end ok=18 failed=2 dur=4268.8s avg/film=237.2s remaining=16055 eta_hours=1057.8
+
+===== run 2026-06-19T14:09:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27830635993) =====
+[14:09:40] description overrides loaded: 11771 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:09:40] batch-start shard=0/2 count=20 backlog=17650 uploads=1595 failed_attempts=142 description_overrides=11771
+[14:09:40] login
+[14:09:42] login done
+[14:09:42] iteration 1/20
+[14:09:42] film cr_film_id=4552 name='Divoch (2021) CZ Dabing' candidates=1
+[14:09:42]   candidate upload_id=63fc8c2b8a775 url=https://prehraj.to/divoch-komedie-2021-cz-dab/63fc8c2b8a775
+[14:09:44]   resolved in 1.6s → 480p (https://pf-storage2.premiumcdn.net/37856128/Z8OFxWTbNU5eCg8T8eUJRT1wiRGc4yU8GTx5…)
+[14:10:22]   downloaded 625.5 MB in 35.8s (17.5 MB/s)
+[14:11:08]   upload done video_id=26126266 in 46.5s
