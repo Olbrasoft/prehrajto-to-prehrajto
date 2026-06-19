@@ -10663,3 +10663,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:47:23]   upload done video_id=26125738 in 20.4s
 [13:47:24] film cr_film_id=20429 OK in 35.9s
 [13:47:24] batch-end ok=20 failed=0 dur=1393.8s avg/film=69.7s remaining=8378 eta_hours=162.2
+
+===== run 2026-06-19T14:03:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27830345465) =====
+[14:03:51] batch-start shard=1/2 count=20 backlog=10210 uploads=1832 failed_attempts=67 description_overrides=0
+[14:03:51] login
+[14:03:56] login done
+[14:03:56] iteration 1/20
+[14:03:56] film cr_film_id=3913 name='Hands of Stone (2016) CZ Titulky' candidates=7
+[14:03:56]   candidate upload_id=5c5cc573eeaa2 url=https://prehraj.to/hands-of-stone-spotrovni-2016-1080p-x264-s-cztitulky-r-de-niro-64-sten-ok/5c5cc573eeaa2
+[14:03:58]   resolved in 1.6s → 720p (https://pf-storage5.premiumcdn.net/11630140/ELvTvViRPSpaFGLuOgt2Yidyh3jTJNCXdFLv…)
+[14:05:10]   downloaded 2,341.0 MB in 66.7s (35.1 MB/s)
+[14:08:02]   upload done video_id=26126055 in 171.7s
