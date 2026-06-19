@@ -9741,3 +9741,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [19:49:15]   upload done video_id=26134564 in 73.9s
 [19:49:16] film cr_film_id=5085 OK in 106.8s
 [19:49:16] batch-end ok=20 failed=0 dur=5452.9s avg/film=272.6s remaining=15979 eta_hours=1210.0
+
+===== run 2026-06-19T20:10:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27846280742) =====
+[20:10:02] description overrides loaded: 13088 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:10:02] batch-start shard=1/2 count=20 backlog=17650 uploads=1671 failed_attempts=149 description_overrides=13088
+[20:10:02] login
+[20:10:04] login done
+[20:10:04] iteration 1/20
+[20:10:04] film cr_film_id=5087 name='Prací automat (2019) CZ Dabing' candidates=1
+[20:10:04]   candidate upload_id=5db312b7f37d3 url=https://prehraj.to/praci-automat-the-laundromat-2019-cz-dabing/5db312b7f37d3
+[20:10:06]   resolved in 1.7s → 1080p (https://pf-storage1.premiumcdn.net/15124849/Z9ZuEVfY3hexIEYsYmS8JfKpfVBurzh04s1p…)
+[20:25:37]   downloaded 2,402.7 MB in 928.7s (2.6 MB/s)
+[20:29:22]   upload done video_id=26135534 in 225.3s
