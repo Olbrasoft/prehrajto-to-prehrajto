@@ -8383,3 +8383,22 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:26:48]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/131270240/GkyIpzTyqs3qTbESVmCoATKRsl2trRsagcp…)
 [09:27:22]   downloaded 1,193.7 MB in 33.2s (36.0 MB/s)
 [09:28:15]   upload done video_id=26119919 in 53.0s
+[09:28:16] film cr_film_id=4433 OK in 89.5s
+[09:28:16] iteration 20/20
+[09:28:16] film cr_film_id=4437 name='Malý velký pes (2024) CZ Dabing' candidates=6
+[09:28:16]   candidate upload_id=241dfd30ce100dc6 url=https://prehraj.to/maly-velky-pes-2024-cz-dab-1080p-mp4/241dfd30ce100dc6
+[09:28:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/maly-velky-pes-2024-cz-dab-1080p-mp4/241dfd30ce100dc6 (permanent=True)
+[09:28:17]   candidate upload_id=b6c0a1f59c12568d url=https://prehraj.to/maly-velky-pes-2024-cz-dab-1080p/b6c0a1f59c12568d
+[09:28:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/maly-velky-pes-2024-cz-dab-1080p/b6c0a1f59c12568d (permanent=True)
+[09:28:22]   candidate upload_id=61d63da06cdaa649 url=https://prehraj.to/maly-velky-pes-2024-mp4/61d63da06cdaa649
+[09:28:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/maly-velky-pes-2024-mp4/61d63da06cdaa649 (permanent=True)
+[09:28:28]   candidate upload_id=0c452c792521c4bf url=https://prehraj.to/maly-velky-pes-2024-mp4/0c452c792521c4bf
+[09:28:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/maly-velky-pes-2024-mp4/0c452c792521c4bf (permanent=True)
+[09:28:34]   candidate upload_id=bba7a2a6b2c4cf59 url=https://prehraj.to/maly-velky-pes-2024-mp4/bba7a2a6b2c4cf59
+[09:28:40]   resolved in 5.8s → 720p (https://pf-storage4.premiumcdn.net/165593936/LVXHQRfAnFWGTR5h8DS5zfp6UNKhOjURaC6…)
+[09:29:30]   downloaded 1,803.5 MB in 49.1s (36.7 MB/s)
+[09:29:30]   upload FAILED after 0.0s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[09:29:30]   candidate upload_id=942b4c5fd6c9e185 url=https://prehraj.to/maly-velky-pes-2024-mp4/942b4c5fd6c9e185
+[09:29:31]   resolved in 0.8s → 720p (https://pf-storage4.premiumcdn.net/163291763/DEluZpFgEtYKIQrCa3i8qFdPc8VhKgcVKCO…)
+[09:30:21]   downloaded 1,803.5 MB in 49.2s (36.7 MB/s)
+[09:31:36]   upload done video_id=26119951 in 74.5s
