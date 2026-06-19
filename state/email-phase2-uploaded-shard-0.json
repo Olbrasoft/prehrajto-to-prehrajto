@@ -25697,6 +25697,25 @@
         "download_sec": 103.9,
         "upload_sec": 192.7
       }
+    },
+    {
+      "cr_film_id": 14184,
+      "cr_slug": "mrtvy-decka",
+      "title": "Mrtvý děcka",
+      "year": 2019,
+      "display_name": "Mrtvý děcka (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5de7962c2430c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26109747,
+      "size_bytes": 1785113482,
+      "uploaded_at": "2026-06-19T01:00:44Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 98.0,
+        "upload_sec": 114.1
+      }
     }
   ],
   "failed_attempts": [
@@ -26231,5 +26250,5 @@
       "failed_at": "2026-06-19T00:52:02Z"
     }
   ],
-  "last_updated": "2026-06-19T00:57:07Z"
+  "last_updated": "2026-06-19T01:00:44Z"
 }
