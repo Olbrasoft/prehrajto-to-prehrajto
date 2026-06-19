@@ -9172,3 +9172,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:10:36]   resolved in 0.9s → 1080p (https://pf-storage1.premiumcdn.net/140446406/LG3s6yHR9hkyFoxSjdcMQH0vTmVu9zIgOuY…)
 [15:12:08]   downloaded 2,611.9 MB in 90.8s (28.8 MB/s)
 [15:14:41]   upload done video_id=26128195 in 153.4s
+[15:14:43] film cr_film_id=4853 OK in 247.8s
+[15:14:43] iteration 5/20
+[15:14:43] film cr_film_id=4855 name='Žena v černém (2012) CZ Dabing' candidates=7
+[15:14:43]   candidate upload_id=681d9e81a526c url=https://prehraj.to/zena-v-cernem-2012-cz-dabing-hd1080p/681d9e81a526c
+[15:14:44]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/137565650/2yZh6wfXrt2KUeahq3UxWfe4cBkFkdIaNFY…)
+[15:15:17]   downloaded 1,093.4 MB in 32.2s (34.0 MB/s)
+[15:16:33]   upload FAILED after 75.4s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[15:16:33]   candidate upload_id=68e9076a00c6e url=https://prehraj.to/zena-v-cernem-2012-cz-dab-1080p/68e9076a00c6e
+[15:16:34]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/150732897/WlBsv9SrbH8MFR1cAyI1mSM4TOacwnuOnc4…)
+[15:17:07]   downloaded 1,093.4 MB in 31.8s (34.4 MB/s)
+[15:18:07]   upload done video_id=26128276 in 60.2s
