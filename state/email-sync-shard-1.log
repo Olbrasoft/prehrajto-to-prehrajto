@@ -7808,3 +7808,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:47:30]   upload done video_id=26115454 in 139.7s
 [05:47:32] film cr_film_id=4179 OK in 291.0s
 [05:47:32] batch-end ok=18 failed=2 dur=4489.9s avg/film=249.4s remaining=16225 eta_hours=1124.0
+
+===== run 2026-06-19T05:48:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27808047453) =====
+[05:48:03] description overrides loaded: 8207 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:48:03] batch-start shard=1/2 count=20 backlog=17650 uploads=1425 failed_attempts=112 description_overrides=8207
+[05:48:03] login
+[05:48:05] login done
+[05:48:05] iteration 1/20
+[05:48:05] film cr_film_id=4181 name='Šachová partie (2020) CZ Dabing' candidates=1
+[05:48:05]   candidate upload_id=608e68e44ed0b url=https://prehraj.to/sachova-partie-critical-thinking-2020-1080p-webrip-x264-cz-dab/608e68e44ed0b
+[05:48:06]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/23350539/A3yI4zu65c45iXBT1XsqVu5xFZlS1bTmEtNb…)
+[05:49:19]   downloaded 2,043.1 MB in 72.1s (28.3 MB/s)
+[05:51:15]   upload done video_id=26115530 in 115.2s
