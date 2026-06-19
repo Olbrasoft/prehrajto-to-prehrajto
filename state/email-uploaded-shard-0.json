@@ -27794,6 +27794,25 @@
         "download_sec": 78.6,
         "upload_sec": 123.9
       }
+    },
+    {
+      "cr_film_id": 4654,
+      "cr_slug": "beats",
+      "title": "Beats",
+      "year": 2019,
+      "display_name": "Beats (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d1c79611131e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26128994,
+      "size_bytes": 492861226,
+      "uploaded_at": "2026-06-19T15:42:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.1,
+        "upload_sec": 47.0
+      }
     }
   ],
   "failed_attempts": [
@@ -28867,5 +28886,5 @@
       "failed_at": "2026-06-19T15:38:12Z"
     }
   ],
-  "last_updated": "2026-06-19T15:41:43Z"
+  "last_updated": "2026-06-19T15:42:56Z"
 }
