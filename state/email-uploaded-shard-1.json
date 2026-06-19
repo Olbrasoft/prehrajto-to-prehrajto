@@ -23699,6 +23699,25 @@
         "download_sec": 45.0,
         "upload_sec": 82.5
       }
+    },
+    {
+      "cr_film_id": 4075,
+      "cr_slug": "byvala-jsem-vtipna",
+      "title": "Bývala jsem vtipná",
+      "year": 2023,
+      "display_name": "Bývala jsem vtipná (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6851d4f996e44",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26112923,
+      "size_bytes": 2054770325,
+      "uploaded_at": "2026-06-19T03:42:51Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 71.5,
+        "upload_sec": 125.8
+      }
     }
   ],
   "failed_attempts": [
@@ -24479,7 +24498,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-thursday-murder-club-2025-cz-dabing/68b02192826dd",
       "permanent": true,
       "failed_at": "2026-06-19T02:58:18Z"
+    },
+    {
+      "cr_film_id": 4073,
+      "upload_id": "84769fe7978f5058",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vrazda-v-londyne-2022-cz-dabing-mp4/84769fe7978f5058",
+      "permanent": true,
+      "failed_at": "2026-06-19T03:39:21Z"
+    },
+    {
+      "cr_film_id": 4073,
+      "upload_id": "8dfa11a75153af2c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vrazda-v-londyne-2022-cz-dabing-mp4/8dfa11a75153af2c",
+      "permanent": true,
+      "failed_at": "2026-06-19T03:39:26Z"
     }
   ],
-  "last_updated": "2026-06-19T03:39:18Z"
+  "last_updated": "2026-06-19T03:42:51Z"
 }
