@@ -8830,3 +8830,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:57:15]   upload done video_id=26124568 in 170.6s
 [12:57:17] film cr_film_id=4452 OK in 281.4s
 [12:57:17] batch-end ok=19 failed=1 dur=4164.5s avg/film=219.2s remaining=16073 eta_hours=978.7
+
+===== run 2026-06-19T12:57:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27827073473) =====
+[12:57:54] description overrides loaded: 11192 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:57:54] batch-start shard=0/2 count=20 backlog=17650 uploads=1577 failed_attempts=139 description_overrides=11192
+[12:57:54] login
+[12:57:56] login done
+[12:57:56] iteration 1/20
+[12:57:56] film cr_film_id=4454 name='Milé laskavosti (2024) CZ Dabing' candidates=1
+[12:57:56]   candidate upload_id=676957fa5674c80a url=https://prehraj.to/kinds-of-kindness-2024-cz-dabing-1080p-mkv-mp4/676957fa5674c80a
+[12:57:57]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/156275447/mo5FRrfbNTl3hgBfOJSlmfrxU1nhJKTb5tW…)
+[12:59:52]   downloaded 2,961.2 MB in 113.3s (26.1 MB/s)
+[13:06:20]   upload done video_id=26124723 in 387.4s
