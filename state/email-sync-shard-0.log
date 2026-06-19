@@ -9718,3 +9718,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [20:09:28]   upload done video_id=26135070 in 93.4s
 [20:09:30] film cr_film_id=4876 OK in 146.0s
 [20:09:30] batch-end ok=20 failed=0 dur=6665.6s avg/film=333.3s remaining=15958 eta_hours=1477.4
+
+===== run 2026-06-19T20:09:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27846280742) =====
+[20:10:00] description overrides loaded: 13088 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:10:00] batch-start shard=0/2 count=20 backlog=17650 uploads=1692 failed_attempts=151 description_overrides=13088
+[20:10:00] login
+[20:10:01] login done
+[20:10:01] iteration 1/20
+[20:10:01] film cr_film_id=4880 name='Osamělý vlk McQuade (1983) CZ Dabing' candidates=10
+[20:10:01]   candidate upload_id=65c2073a0e747 url=https://prehraj.to/osamely-vlk-mcquade-vlk-samotar-lone-wolf-mcquade-1983-usa-akcni-cz-dab-1080p-hd/65c2073a0e747
+[20:10:03]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/73073234/D8yFK8ijMSe6TKBiEjHQ0iKnIR4cjlfxvu4e…)
+[20:11:04]   downloaded 1,873.4 MB in 59.4s (31.5 MB/s)
+[20:13:17]   upload done video_id=26135163 in 133.0s
