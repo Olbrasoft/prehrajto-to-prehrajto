@@ -9948,3 +9948,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:13:07]   resolved in 6.1s → 1080p (https://pf-storage4.premiumcdn.net/165798287/zvPizvUqoSaBS6ehopFPlUlPfjbIrVtQbCw…)
 [22:14:12]   downloaded 1,621.6 MB in 62.3s (26.0 MB/s)
 [22:15:28]   upload done video_id=26137697 in 75.6s
+[22:15:29] film cr_film_id=4966 OK in 148.1s
+[22:15:29] iteration 11/20
+[22:15:29] film cr_film_id=4968 name='M3GAN (2022) CZ Dabing' candidates=1
+[22:15:29]   candidate upload_id=a122f289f14a6d1e url=https://prehraj.to/m3gan-2022-cz-dabing-mp4/a122f289f14a6d1e
+[22:15:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/m3gan-2022-cz-dabing-mp4/a122f289f14a6d1e (permanent=True)
+[22:15:30] film cr_film_id=4968 all candidates exhausted
+[22:15:30] iteration 12/20
+[22:15:30] film cr_film_id=4972 name='Hovory o počasí (2022) CZ Dabing' candidates=5
+[22:15:30]   candidate upload_id=63c936e07c3a2 url=https://prehraj.to/hovory-o-pocasi-2022-hd-cz-dabing-mp4/63c936e07c3a2
+[22:15:36]   resolved in 6.1s → 480p (https://pf-storage1.premiumcdn.net/36486691/19jcmyFaZtwgIXdiODiDzFGjCOVC3AhEptro…)
+[22:16:08]   downloaded 481.2 MB in 30.7s (15.7 MB/s)
+[22:16:30]   upload done video_id=26137734 in 21.9s
