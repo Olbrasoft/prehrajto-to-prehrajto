@@ -7766,3 +7766,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:23:52]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/27118413/xWDh1ourAS7YSEaCd9fD1uovIJESx3Id0SOy…)
 [05:25:46]   downloaded 2,170.4 MB in 112.3s (19.3 MB/s)
 [05:28:32]   upload done video_id=26115093 in 165.7s
+[05:28:36] film cr_film_id=4155 OK in 285.1s
+[05:28:36] iteration 15/20
+[05:28:36] film cr_film_id=4157 name='Město lží (2018) CZ' candidates=1
+[05:28:36]   candidate upload_id=76ea6a407fbc97d3 url=https://prehraj.to/mesto-lzi-2018-mp4/76ea6a407fbc97d3
+[05:28:37]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mesto-lzi-2018-mp4/76ea6a407fbc97d3 (permanent=True)
+[05:28:37] film cr_film_id=4157 all candidates exhausted
+[05:28:37] iteration 16/20
+[05:28:37] film cr_film_id=4159 name='Příprava k soužití na dobu neurčitou (2020) CZ Dabing' candidates=2
+[05:28:37]   candidate upload_id=61a7a7164e6c9 url=https://prehraj.to/priprava-k-souziti-na-dobu-neurcitou-2020-cz-dabing/61a7a7164e6c9
+[05:28:43]   resolved in 6.5s → 720p (https://pf-storage3.premiumcdn.net/27015942/xbnhdAI8vHEoS20FvOi3zIPLTWlcvVHoWfxN…)
+[05:29:43]   downloaded 1,100.9 MB in 57.5s (19.1 MB/s)
+[05:30:55]   upload done video_id=26115170 in 72.3s
