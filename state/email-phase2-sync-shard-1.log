@@ -8473,3 +8473,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:37:46]   upload done video_id=26110322 in 67.5s
 [01:37:47] film cr_film_id=30543 OK in 119.2s
 [01:37:47] batch-end ok=20 failed=0 dur=2086.9s avg/film=104.3s remaining=8675 eta_hours=251.3
+
+===== run 2026-06-19T01:43:22Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27800258401) =====
+[01:43:23] batch-start shard=1/2 count=20 backlog=10210 uploads=1535 failed_attempts=63 description_overrides=0
+[01:43:23] login
+[01:43:24] login done
+[01:43:24] iteration 1/20
+[01:43:24] film cr_film_id=20795 name='Tři na cestě (2018) CZ Titulky' candidates=2
+[01:43:24]   candidate upload_id=5cedf8cddab0b url=https://prehraj.to/tri-na-ceste-boundaries-drama-komedie-2018-480p-5-1-x264-s-cztitulky-63-sten-ok/5cedf8cddab0b
+[01:43:25]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/13681506/w6wSZWTgjiOpT5BCgOU7qTO6sJZiXOfN0HDX…)
+[01:43:42]   downloaded 398.9 MB in 15.7s (25.4 MB/s)
+[01:44:02]   upload done video_id=26110425 in 19.7s
