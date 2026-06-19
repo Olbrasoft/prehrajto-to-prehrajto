@@ -29801,6 +29801,25 @@
         "download_sec": 27.6,
         "upload_sec": 38.0
       }
+    },
+    {
+      "cr_film_id": 30700,
+      "cr_slug": "a-portuguesa",
+      "title": "A Portuguesa",
+      "year": 2018,
+      "display_name": "A Portuguesa (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f4a8448f3937",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26120657,
+      "size_bytes": 2033286042,
+      "uploaded_at": "2026-06-19T09:58:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 70.5,
+        "upload_sec": 94.8
+      }
     }
   ],
   "failed_attempts": [
@@ -30361,5 +30380,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T09:55:36Z"
+  "last_updated": "2026-06-19T09:58:24Z"
 }
