@@ -30036,6 +30036,25 @@
         "download_sec": 167.1,
         "upload_sec": 196.6
       }
+    },
+    {
+      "cr_film_id": 5040,
+      "cr_slug": "godzilla-vs-kong",
+      "title": "Godzilla vs. Kong",
+      "year": 2021,
+      "display_name": "Godzilla vs. Kong (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "611ff87c9e417",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26139552,
+      "size_bytes": 2688561758,
+      "uploaded_at": "2026-06-19T23:43:45Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 115.3,
+        "upload_sec": 200.3
+      }
     }
   ],
   "failed_attempts": [
@@ -31182,7 +31201,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/m3gan-2022-cz-dabing-mp4/a122f289f14a6d1e",
       "permanent": true,
       "failed_at": "2026-06-19T22:15:30Z"
+    },
+    {
+      "cr_film_id": 5040,
+      "upload_id": "64db2eefb93c5",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kong-vs-godzila-2021-cz-dab-1080p/64db2eefb93c5",
+      "permanent": true,
+      "failed_at": "2026-06-19T23:38:21Z"
     }
   ],
-  "last_updated": "2026-06-19T23:38:18Z"
+  "last_updated": "2026-06-19T23:43:45Z"
 }
