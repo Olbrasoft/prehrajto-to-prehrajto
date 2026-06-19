@@ -9057,3 +9057,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [05:26:26]   upload done video_id=26115081 in 58.8s
 [05:26:27] film cr_film_id=20727 OK in 107.9s
 [05:26:27] batch-end ok=20 failed=0 dur=2495.1s avg/film=124.8s remaining=8596 eta_hours=298.0
+
+===== run 2026-06-19T05:33:46Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27807560208) =====
+[05:33:47] batch-start shard=1/2 count=20 backlog=10210 uploads=1614 failed_attempts=64 description_overrides=0
+[05:33:47] login
+[05:33:48] login done
+[05:33:48] iteration 1/20
+[05:33:48] film cr_film_id=29463 name='Jde si pro nás noc (2018) CZ Titulky' candidates=6
+[05:33:48]   candidate upload_id=5bfb74fd03841 url=https://prehraj.to/the-night-comes-for-us-akcni-krimi-thriller-2018-1080p-x264-s-cz-titulky-75-sten-ok/5bfb74fd03841
+[05:33:49]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/8687570/r71SQNhRVupVUw7Ixeikxh8lSXxi4gs9Bi8QC…)
+[05:35:04]   downloaded 2,405.8 MB in 73.8s (32.6 MB/s)
+[05:36:53]   upload done video_id=26115276 in 108.3s
