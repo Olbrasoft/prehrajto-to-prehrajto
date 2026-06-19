@@ -34133,6 +34133,25 @@
         "download_sec": 16.7,
         "upload_sec": 28.6
       }
+    },
+    {
+      "cr_film_id": 29154,
+      "cr_slug": "sensoria",
+      "title": "Sensoria",
+      "year": 2015,
+      "display_name": "Sensoria (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "586d7a4f17012",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26134993,
+      "size_bytes": 310595158,
+      "uploaded_at": "2026-06-19T20:05:07Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 12.9,
+        "upload_sec": 17.3
+      }
     }
   ],
   "failed_attempts": [
@@ -34712,5 +34731,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T20:04:33Z"
+  "last_updated": "2026-06-19T20:05:07Z"
 }
