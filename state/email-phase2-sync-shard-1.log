@@ -10155,3 +10155,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:22:56]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/3590191/gmrunbTvni54CnDH5lIJgTmdhlRuzqUrdU9xh…)
 [11:24:11]   downloaded 1,300.4 MB in 72.1s (18.0 MB/s)
 [11:25:30]   upload done video_id=26122289 in 79.5s
+[11:25:32] film cr_film_id=20923 OK in 157.2s
+[11:25:32] iteration 11/20
+[11:25:32] film cr_film_id=3001 name='A Prayer Before Dawn (2017) CZ Titulky' candidates=1
+[11:25:32]   candidate upload_id=a6bb7d9eaf3c1da7 url=https://prehraj.to/a-prayer-before-dawn-2017-cz-titulky-mp4/a6bb7d9eaf3c1da7
+[11:25:33]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/a-prayer-before-dawn-2017-cz-titulky-mp4/a6bb7d9eaf3c1da7 (permanent=True)
+[11:25:33] film cr_film_id=3001 all candidates exhausted
+[11:25:33] iteration 12/20
+[11:25:33] film cr_film_id=16621 name='A Million Happy Nows (2017) CZ Titulky' candidates=1
+[11:25:33]   candidate upload_id=5f284be479c49 url=https://prehraj.to/a-million-happy-nows-2017-cztitulky/5f284be479c49
+[11:25:39]   resolved in 6.5s → 720p (https://pf-storage4.premiumcdn.net/17755635/rWXc1RfbMTnlHgyfkliEef7oS3vSn3s0nCgY…)
+[11:26:45]   downloaded 1,125.6 MB in 63.4s (17.8 MB/s)
+[11:28:11]   upload done video_id=26122332 in 86.2s
