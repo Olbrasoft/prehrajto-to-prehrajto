@@ -22474,6 +22474,25 @@
         "download_sec": 27.9,
         "upload_sec": 33.4
       }
+    },
+    {
+      "cr_film_id": 3566,
+      "cr_slug": "lov",
+      "title": "Lov",
+      "year": 2020,
+      "display_name": "Lov (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "aefa41e41c6bc8c3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26109044,
+      "size_bytes": 1846897128,
+      "uploaded_at": "2026-06-19T00:27:17Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 78.3,
+        "upload_sec": 113.4
+      }
     }
   ],
   "failed_attempts": [
@@ -23220,5 +23239,5 @@
       "failed_at": "2026-06-19T00:21:25Z"
     }
   ],
-  "last_updated": "2026-06-19T00:24:00Z"
+  "last_updated": "2026-06-19T00:27:17Z"
 }
