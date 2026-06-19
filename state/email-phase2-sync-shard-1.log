@@ -11393,3 +11393,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [18:09:53]   upload done video_id=26132575 in 32.5s
 [18:09:55] film cr_film_id=29343 OK in 57.1s
 [18:09:55] batch-end ok=20 failed=0 dur=2945.8s avg/film=147.3s remaining=8278 eta_hours=338.7
+
+===== run 2026-06-19T18:10:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27841561671) =====
+[18:10:29] batch-start shard=1/2 count=20 backlog=10210 uploads=1932 failed_attempts=67 description_overrides=0
+[18:10:29] login
+[18:10:31] login done
+[18:10:31] iteration 1/20
+[18:10:31] film cr_film_id=32325 name='These Final Hours (2014) CZ Titulky' candidates=2
+[18:10:31]   candidate upload_id=56498893b2cc6 url=https://prehraj.to/these-final-hours-2013-cz-tit-drama-thrill-koko/56498893b2cc6
+[18:10:32]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/323787/JqQcLEiQqUVlFNlU3mH24i9pcxlSeQIbAspNCA…)
+[18:17:20]   downloaded 581.5 MB in 405.5s (1.4 MB/s)
+[18:18:05]   upload done video_id=26132767 in 45.0s
