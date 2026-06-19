@@ -28111,6 +28111,25 @@
         "download_sec": 43.2,
         "upload_sec": 43.4
       }
+    },
+    {
+      "cr_film_id": 20385,
+      "cr_slug": "extinction",
+      "title": "Extinction",
+      "year": 2018,
+      "display_name": "Extinction (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6107dd1374b31",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26115649,
+      "size_bytes": 1284824637,
+      "uploaded_at": "2026-06-19T05:57:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 37.4,
+        "upload_sec": 47.9
+      }
     }
   ],
   "failed_attempts": [
@@ -28572,5 +28591,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T05:56:21Z"
+  "last_updated": "2026-06-19T05:57:50Z"
 }
