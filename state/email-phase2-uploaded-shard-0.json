@@ -27027,6 +27027,25 @@
         "download_sec": 53.1,
         "upload_sec": 68.8
       }
+    },
+    {
+      "cr_film_id": 9378,
+      "cr_slug": "awoken",
+      "title": "Awoken",
+      "year": 2019,
+      "display_name": "Awoken (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ebd3d717048f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26113381,
+      "size_bytes": 990663115,
+      "uploaded_at": "2026-06-19T04:08:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 36.8,
+        "upload_sec": 62.6
+      }
     }
   ],
   "failed_attempts": [
@@ -27580,5 +27599,5 @@
       "failed_at": "2026-06-19T02:07:06Z"
     }
   ],
-  "last_updated": "2026-06-19T04:07:09Z"
+  "last_updated": "2026-06-19T04:08:53Z"
 }
