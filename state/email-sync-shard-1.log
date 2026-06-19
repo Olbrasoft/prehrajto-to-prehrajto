@@ -7519,3 +7519,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:07:19]   upload done video_id=26112234 in 117.8s
 [03:07:21] film cr_film_id=4041 OK in 176.9s
 [03:07:21] batch-end ok=19 failed=1 dur=2324.3s avg/film=122.3s remaining=16261 eta_hours=552.4
+
+===== run 2026-06-19T03:09:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27802939893) =====
+[03:09:24] description overrides loaded: 8207 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:09:24] batch-start shard=1/2 count=20 backlog=17650 uploads=1389 failed_attempts=107 description_overrides=8207
+[03:09:24] login
+[03:09:36] login done
+[03:09:36] iteration 1/20
+[03:09:36] film cr_film_id=4043 name='Air Force One (1997) CZ Dabing' candidates=2
+[03:09:36]   candidate upload_id=63a55aa21681c url=https://prehraj.to/air-force-one-1997-akcni-thriller-dobrodruzny-drama-full-hd-en-sk-cz-dabing/63a55aa21681c
+[03:09:37]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/35704456/8mwiV6I0QilbfQESq4tl2IV8FwytLQH0dUrq…)
+[03:10:22]   downloaded 1,493.9 MB in 42.9s (34.8 MB/s)
+[03:11:47]   upload done video_id=26112337 in 84.9s
