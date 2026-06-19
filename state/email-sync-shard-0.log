@@ -7926,3 +7926,26 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:50:57]   upload done video_id=26116481 in 200.7s
 [06:50:59] film cr_film_id=4010 OK in 359.9s
 [06:50:59] batch-end ok=20 failed=0 dur=3772.7s avg/film=188.6s remaining=16186 eta_hours=848.0
+
+===== run 2026-06-19T06:51:29Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27810398908) =====
+[06:51:31] description overrides loaded: 8207 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:51:31] batch-start shard=0/2 count=20 backlog=17650 uploads=1464 failed_attempts=114 description_overrides=8207
+[06:51:31] login
+[06:51:33] login done
+[06:51:33] iteration 1/20
+[06:51:33] film cr_film_id=4012 name='Jako z divokých vajec (2024) CZ Dabing' candidates=4
+[06:51:33]   candidate upload_id=ec126739155d6520 url=https://prehraj.to/jako-z-divokych-vajec-2024-cz-dab-1080p/ec126739155d6520
+[06:51:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jako-z-divokych-vajec-2024-cz-dab-1080p/ec126739155d6520 (permanent=True)
+[06:51:34]   candidate upload_id=5e6150daa26594a5 url=https://prehraj.to/jako-z-divokych-vajec-2024-cz-dab-1080p/5e6150daa26594a5
+[06:51:40]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jako-z-divokych-vajec-2024-cz-dab-1080p/5e6150daa26594a5 (permanent=True)
+[06:51:40]   candidate upload_id=79f1f3f445a58a67 url=https://prehraj.to/jako-z-divokych-vajec-2024-animovany-thajsko-cina-czdab-1080p/79f1f3f445a58a67
+[06:51:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jako-z-divokych-vajec-2024-animovany-thajsko-cina-czdab-1080p/79f1f3f445a58a67 (permanent=True)
+[06:51:45]   candidate upload_id=d5dd7c35a74ada6d url=https://prehraj.to/jako-z-divokych-vajec-2024-webrip-cesky-dabing/d5dd7c35a74ada6d
+[06:51:51]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jako-z-divokych-vajec-2024-webrip-cesky-dabing/d5dd7c35a74ada6d (permanent=True)
+[06:51:51] film cr_film_id=4012 all candidates exhausted
+[06:51:51] iteration 2/20
+[06:51:51] film cr_film_id=4016 name='Mr. Bean: Největší filmová katastrofa (1997) CZ Dabing' candidates=5
+[06:51:51]   candidate upload_id=68bce15caf4eb url=https://prehraj.to/mr-bean-nejvetsi-filmova-katastrofa-1997-czdab/68bce15caf4eb
+[06:51:58]   resolved in 6.4s → 720p (https://pf-storage4.premiumcdn.net/145645860/QX1swEhvZTxRuyAFPmhn2hZwcYdhd4CxRFX…)
+[06:53:24]   downloaded 1,843.9 MB in 84.1s (21.9 MB/s)
+[06:55:07]   upload done video_id=26116553 in 103.3s
