@@ -26666,6 +26666,25 @@
         "download_sec": 89.4,
         "upload_sec": 98.5
       }
+    },
+    {
+      "cr_film_id": 20966,
+      "cr_slug": "curiosa",
+      "title": "Curiosa",
+      "year": 2019,
+      "display_name": "Curiosa (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e832d9ef166c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26112626,
+      "size_bytes": 560321590,
+      "uploaded_at": "2026-06-19T03:22:23Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 26.7,
+        "upload_sec": 36.8
+      }
     }
   ],
   "failed_attempts": [
@@ -27219,5 +27238,5 @@
       "failed_at": "2026-06-19T02:07:06Z"
     }
   ],
-  "last_updated": "2026-06-19T03:21:14Z"
+  "last_updated": "2026-06-19T03:22:23Z"
 }
