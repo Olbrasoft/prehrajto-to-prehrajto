@@ -11831,3 +11831,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [21:39:22]   upload done video_id=26136970 in 75.5s
 [21:39:23] film cr_film_id=28733 OK in 156.5s
 [21:39:23] batch-end ok=20 failed=0 dur=2424.2s avg/film=121.2s remaining=8218 eta_hours=276.7
+
+===== run 2026-06-19T21:47:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27849885003) =====
+[21:47:13] batch-start shard=1/2 count=20 backlog=10210 uploads=1992 failed_attempts=67 description_overrides=0
+[21:47:13] login
+[21:47:15] login done
+[21:47:15] iteration 1/20
+[21:47:15] film cr_film_id=28155 name='Behaving Badly (2014) CZ Titulky' candidates=10
+[21:47:15]   candidate upload_id=55c81f870b9b6 url=https://prehraj.to/behaving-badly-2014-cz-tit-srt-komedie-koko/55c81f870b9b6
+[21:47:16]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/123997/Wyos76h0rs8pTVXieZHAWhPzT2jF8aTbqCAXuo…)
+[21:49:27]   downloaded 728.4 MB in 129.4s (5.6 MB/s)
+[21:50:15]   upload done video_id=26137193 in 47.6s
