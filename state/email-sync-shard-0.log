@@ -7713,3 +7713,14 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:00:09]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/5066023/pQ0F0BH1LC0xSrVIoXCmyHzes1lF0OUqxInRU…)
 [05:00:34]   downloaded 556.4 MB in 23.9s (23.3 MB/s)
 [05:01:06]   upload done video_id=26114475 in 31.7s
+[05:01:08] film cr_film_id=3928 OK in 60.6s
+[05:01:08] iteration 13/20
+[05:01:08] film cr_film_id=3932 name='Půlnoční dítě (2016) CZ Dabing' candidates=5
+[05:01:08]   candidate upload_id=5a9b741fac01c url=https://prehraj.to/pulnocni-dite-2016-hdrip-cz-dabing-m3/5a9b741fac01c
+[05:01:09]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/3527832/VZpTmlUd3iY3f2MuDMtLzUYbsgXIwRtdkuJKh…)
+[05:02:22]   downloaded 1,481.7 MB in 71.4s (20.8 MB/s)
+[05:03:38]   upload FAILED after 75.8s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[05:03:39]   candidate upload_id=578ec1d17b4a2 url=https://prehraj.to/pulnocni-dite-cz-dabing-2016/578ec1d17b4a2
+[05:03:40]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/341853/PrvfmAuNwukwU5ZSbyh6vuAXtG9ieBiLJhgjhL…)
+[05:04:03]   downloaded 391.9 MB in 21.6s (18.1 MB/s)
+[05:04:26]   upload done video_id=26114543 in 22.4s
