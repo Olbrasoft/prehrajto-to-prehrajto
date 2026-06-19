@@ -32841,6 +32841,25 @@
         "download_sec": 36.7,
         "upload_sec": 51.0
       }
+    },
+    {
+      "cr_film_id": 28834,
+      "cr_slug": "magi",
+      "title": "Magi",
+      "year": 2016,
+      "display_name": "Magi (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "599b90c5429b3",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26130306,
+      "size_bytes": 610717164,
+      "uploaded_at": "2026-06-19T16:31:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 26.4,
+        "upload_sec": 31.5
+      }
     }
   ],
   "failed_attempts": [
@@ -33408,5 +33427,5 @@
       "failed_at": "2026-06-19T13:24:08Z"
     }
   ],
-  "last_updated": "2026-06-19T16:30:19Z"
+  "last_updated": "2026-06-19T16:31:21Z"
 }
