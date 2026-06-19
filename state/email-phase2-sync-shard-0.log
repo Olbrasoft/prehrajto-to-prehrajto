@@ -8668,3 +8668,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:47:34]   upload done video_id=26113009 in 60.3s
 [03:47:36] film cr_film_id=19154 OK in 124.1s
 [03:47:36] batch-end ok=20 failed=0 dur=3700.7s avg/film=185.0s remaining=8643 eta_hours=444.2
+
+===== run 2026-06-19T03:48:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27804116703) =====
+[03:48:03] batch-start shard=0/2 count=20 backlog=10210 uploads=1567 failed_attempts=77 description_overrides=0
+[03:48:03] login
+[03:48:05] login done
+[03:48:05] iteration 1/20
+[03:48:05] film cr_film_id=2950 name='Brittany Runs a Marathon (2019) CZ Titulky' candidates=1
+[03:48:05]   candidate upload_id=5ef54e0fb9361 url=https://prehraj.to/brittany-runs-a-marathon-drama-komedie-2019-480p-5-1-x264-s-cztitulky-62-sten-ok/5ef54e0fb9361
+[03:48:06]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/17058984/gL4hO6FodcRZilDHEgiRgFZQTYlhqEszGC6e…)
+[03:48:25]   downloaded 579.9 MB in 17.8s (32.6 MB/s)
+[03:48:50]   upload done video_id=26113036 in 24.7s
