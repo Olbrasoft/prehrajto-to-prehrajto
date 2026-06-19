@@ -9396,3 +9396,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [08:01:13]   upload done video_id=26118145 in 62.4s
 [08:01:14] film cr_film_id=9994 OK in 109.5s
 [08:01:14] batch-end ok=20 failed=0 dur=2182.0s avg/film=109.1s remaining=8544 eta_hours=258.9
+
+===== run 2026-06-19T08:16:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27814123819) =====
+[08:16:44] batch-start shard=0/2 count=20 backlog=10210 uploads=1666 failed_attempts=78 description_overrides=0
+[08:16:44] login
+[08:16:45] login done
+[08:16:45] iteration 1/20
+[08:16:45] film cr_film_id=19144 name='Malicious (2018) CZ Titulky' candidates=6
+[08:16:45]   candidate upload_id=5bd4a74bd2ef1 url=https://prehraj.to/malicious-horor-cz-titulky-2018-jad/5bd4a74bd2ef1
+[08:16:46]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/7515049/Vwni7kHjatKosYyHB0HqDH5RU3RU8dTEwtaqT…)
+[08:17:01]   downloaded 402.1 MB in 13.4s (30.0 MB/s)
+[08:17:27]   upload done video_id=26118400 in 26.5s
