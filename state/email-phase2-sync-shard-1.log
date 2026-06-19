@@ -11685,3 +11685,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [20:58:27]   upload done video_id=26136299 in 24.9s
 [20:58:28] film cr_film_id=32305 OK in 220.9s
 [20:58:28] batch-end ok=20 failed=0 dur=3722.2s avg/film=186.1s remaining=8238 eta_hours=425.9
+
+===== run 2026-06-19T20:58:56Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27848169226) =====
+[20:58:57] batch-start shard=1/2 count=20 backlog=10210 uploads=1972 failed_attempts=67 description_overrides=0
+[20:58:57] login
+[20:58:59] login done
+[20:58:59] iteration 1/20
+[20:58:59] film cr_film_id=28335 name='Iceman (2014) CZ Titulky' candidates=6
+[20:58:59]   candidate upload_id=5c525910caf2d url=https://prehraj.to/iceman-2014-cz-titulky-vlozene/5c525910caf2d
+[20:59:00]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/11483614/JoNF0wcgBTpgf0Ohk4iMbcw0CG1TV1irpS1m…)
+[20:59:28]   downloaded 754.3 MB in 26.5s (28.5 MB/s)
+[21:00:05]   upload done video_id=26136313 in 37.0s
