@@ -30714,6 +30714,25 @@
         "download_sec": 82.4,
         "upload_sec": 95.9
       }
+    },
+    {
+      "cr_film_id": 31825,
+      "cr_slug": "1922",
+      "title": "1922",
+      "year": 2017,
+      "display_name": "1922 (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fe88967dff1e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26122511,
+      "size_bytes": 824536805,
+      "uploaded_at": "2026-06-19T11:36:05Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 40.0,
+        "upload_sec": 50.7
+      }
     }
   ],
   "failed_attempts": [
@@ -31201,5 +31220,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T11:34:28Z"
+  "last_updated": "2026-06-19T11:36:05Z"
 }
