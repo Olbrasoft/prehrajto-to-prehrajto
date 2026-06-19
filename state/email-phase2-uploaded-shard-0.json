@@ -26970,6 +26970,25 @@
         "download_sec": 67.7,
         "upload_sec": 117.1
       }
+    },
+    {
+      "cr_film_id": 19650,
+      "cr_slug": "baekdusan",
+      "title": "Baekdusan",
+      "year": 2019,
+      "display_name": "Baekdusan (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ff5fd3aa870a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26113286,
+      "size_bytes": 2219287864,
+      "uploaded_at": "2026-06-19T04:03:40Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 62.4,
+        "upload_sec": 92.5
+      }
     }
   ],
   "failed_attempts": [
@@ -27523,5 +27542,5 @@
       "failed_at": "2026-06-19T02:07:06Z"
     }
   ],
-  "last_updated": "2026-06-19T04:01:01Z"
+  "last_updated": "2026-06-19T04:03:40Z"
 }
