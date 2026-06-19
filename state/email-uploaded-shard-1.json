@@ -25599,6 +25599,25 @@
         "download_sec": 16.4,
         "upload_sec": 19.2
       }
+    },
+    {
+      "cr_film_id": 4431,
+      "cr_slug": "steve",
+      "title": "Steve",
+      "year": 2025,
+      "display_name": "Steve (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e2921c3b8fa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26119895,
+      "size_bytes": 2893538470,
+      "uploaded_at": "2026-06-19T09:26:45Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 78.0,
+        "upload_sec": 95.8
+      }
     }
   ],
   "failed_attempts": [
@@ -26444,5 +26463,5 @@
       "failed_at": "2026-06-19T09:21:07Z"
     }
   ],
-  "last_updated": "2026-06-19T09:23:49Z"
+  "last_updated": "2026-06-19T09:26:45Z"
 }
