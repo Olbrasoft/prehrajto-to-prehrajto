@@ -9639,3 +9639,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [08:49:02]   upload done video_id=26119122 in 19.0s
 [08:49:04] film cr_film_id=33035 OK in 38.2s
 [08:49:04] batch-end ok=20 failed=0 dur=1936.3s avg/film=96.8s remaining=8517 eta_hours=229.0
+
+===== run 2026-06-19T08:50:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27815651384) =====
+[08:50:16] batch-start shard=1/2 count=20 backlog=10210 uploads=1693 failed_attempts=65 description_overrides=0
+[08:50:16] login
+[08:50:18] login done
+[08:50:18] iteration 1/20
+[08:50:18] film cr_film_id=30633 name='Svůdce (2017) CZ Titulky' candidates=1
+[08:50:18]   candidate upload_id=5c679be940b9c url=https://prehraj.to/svudce-the-charmer-drama-thriller-2017-1080p-h264-s-cztitulky-74-sten/5c679be940b9c
+[08:50:19]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/11822110/ZG1fj7SYOtn4TxaHpnFjlSZwHL8cnPHGRu9q…)
+[08:51:07]   downloaded 961.7 MB in 45.9s (21.0 MB/s)
+[08:52:18]   upload done video_id=26119218 in 71.0s
