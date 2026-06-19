@@ -8847,3 +8847,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:22:12]   upload done video_id=26123946 in 33.4s
 [12:22:13] film cr_film_id=4663 OK in 67.9s
 [12:22:13] batch-end ok=18 failed=2 dur=2063.8s avg/film=114.7s remaining=16092 eta_hours=512.7
+
+===== run 2026-06-19T12:57:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27827073473) =====
+[12:57:52] description overrides loaded: 11192 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:57:52] batch-start shard=1/2 count=20 backlog=17650 uploads=1558 failed_attempts=130 description_overrides=11192
+[12:57:52] login
+[12:57:53] login done
+[12:57:53] iteration 1/20
+[12:57:53] film cr_film_id=4665 name='Až tak moc tě nežere (2009) CZ Dabing' candidates=42
+[12:57:53]   candidate upload_id=5f592932b8410 url=https://prehraj.to/az-tak-moc-te-nezere-hes-just-not-that-into-you-czdabing-2009-komedie-romanticky-1080p/5f592932b8410
+[12:57:55]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/18526377/Kweh1xFRYU2ZHPoSz4Hq3FjNSLein5ck3iMD…)
+[12:59:21]   downloaded 1,959.6 MB in 83.8s (23.4 MB/s)
+[13:03:02]   upload done video_id=26124700 in 221.1s
