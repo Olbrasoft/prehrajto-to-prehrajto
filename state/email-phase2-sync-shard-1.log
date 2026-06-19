@@ -9203,3 +9203,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [06:06:11]   upload done video_id=26115738 in 66.6s
 [06:06:12] film cr_film_id=19281 OK in 107.1s
 [06:06:12] batch-end ok=20 failed=0 dur=1944.1s avg/film=97.2s remaining=8576 eta_hours=231.6
+
+===== run 2026-06-19T06:32:33Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27809674909) =====
+[06:32:35] batch-start shard=1/2 count=20 backlog=10210 uploads=1634 failed_attempts=64 description_overrides=0
+[06:32:35] login
+[06:32:37] login done
+[06:32:37] iteration 1/20
+[06:32:37] film cr_film_id=19235 name='Dokjeon (2018) CZ Titulky' candidates=1
+[06:32:37]   candidate upload_id=5c0d9d7783cc2 url=https://prehraj.to/dokjeon-believer-akcni-krimi-thriller-2018-1080p-x264-s-cztitulky-71-sten-ok/5c0d9d7783cc2
+[06:32:38]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/9323570/3Z5ubmcKPSkJFqyHojtqkcXetxDhKxFdzUbRu…)
+[06:34:53]   downloaded 2,749.8 MB in 132.4s (20.8 MB/s)
+[06:37:32]   upload done video_id=26116302 in 159.5s
