@@ -7953,3 +7953,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:30:18]   upload done video_id=26116171 in 45.9s
 [06:30:19] film cr_film_id=4243 OK in 71.8s
 [06:30:19] batch-end ok=19 failed=1 dur=2534.6s avg/film=133.4s remaining=16206 eta_hours=600.5
+
+===== run 2026-06-19T06:51:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27810398908) =====
+[06:51:30] description overrides loaded: 8207 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:51:30] batch-start shard=1/2 count=20 backlog=17650 uploads=1444 failed_attempts=113 description_overrides=8207
+[06:51:30] login
+[06:51:33] login done
+[06:51:33] iteration 1/20
+[06:51:33] film cr_film_id=4247 name='Mauglí - příběh džungle (2018) CZ' candidates=3
+[06:51:33]   candidate upload_id=5c10f97227421 url=https://prehraj.to/maugli-legenda-dzungle-2018-cz-tit-vloz/5c10f97227421
+[06:51:34]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/9403586/QM6s5vSKVUV1uY5SJrHKJSMoiqmHzkHyZuqgC…)
+[06:53:45]   downloaded 2,397.8 MB in 128.8s (18.6 MB/s)
+[06:56:41]   upload done video_id=26116559 in 176.2s
