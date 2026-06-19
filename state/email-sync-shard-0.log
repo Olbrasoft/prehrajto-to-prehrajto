@@ -8842,3 +8842,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:57:57]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/156275447/mo5FRrfbNTl3hgBfOJSlmfrxU1nhJKTb5tW…)
 [12:59:52]   downloaded 2,961.2 MB in 113.3s (26.1 MB/s)
 [13:06:20]   upload done video_id=26124723 in 387.4s
+[13:06:22] film cr_film_id=4454 OK in 506.7s
+[13:06:22] iteration 2/20
+[13:06:22] film cr_film_id=4456 name='Imaginární přátelé (2024) CZ' candidates=1
+[13:06:22]   candidate upload_id=88c773f7940bd63d url=https://prehraj.to/imaginarni-pratele-2024-cz-dabing-mp4/88c773f7940bd63d
+[13:06:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/imaginarni-pratele-2024-cz-dabing-mp4/88c773f7940bd63d (permanent=True)
+[13:06:23] film cr_film_id=4456 all candidates exhausted
+[13:06:23] iteration 3/20
+[13:06:23] film cr_film_id=4462 name='Sladký východ (2023) CZ Dabing' candidates=2
+[13:06:23]   candidate upload_id=3d0c3b90c693bee1 url=https://prehraj.to/sladky-vychod-2023-cz-dab-1080p/3d0c3b90c693bee1
+[13:06:29]   resolved in 6.1s → 1080p (https://pf-storage5.premiumcdn.net/168355954/gEVTw1i5AfavH1lcBWiLMimxc1MHZMcW6s4…)
+[13:09:44]   downloaded 4,047.6 MB in 193.1s (21.0 MB/s)
+[13:13:41]   upload done video_id=26124987 in 236.9s

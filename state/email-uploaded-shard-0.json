@@ -26939,6 +26939,25 @@
         "download_sec": 113.3,
         "upload_sec": 387.4
       }
+    },
+    {
+      "cr_film_id": 4462,
+      "cr_slug": "sladky-vychod",
+      "title": "Sladký východ",
+      "year": 2023,
+      "display_name": "Sladký východ (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "3d0c3b90c693bee1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26124987,
+      "size_bytes": 4047598413,
+      "uploaded_at": "2026-06-19T13:13:41Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 193.1,
+        "upload_sec": 236.9
+      }
     }
   ],
   "failed_attempts": [
@@ -27933,7 +27952,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sila-prirody-sucho-2-2024-cz-dab-1080p/f402a961c66aa237",
       "permanent": true,
       "failed_at": "2026-06-19T12:52:36Z"
+    },
+    {
+      "cr_film_id": 4456,
+      "upload_id": "88c773f7940bd63d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/imaginarni-pratele-2024-cz-dabing-mp4/88c773f7940bd63d",
+      "permanent": true,
+      "failed_at": "2026-06-19T13:06:23Z"
     }
   ],
-  "last_updated": "2026-06-19T13:06:20Z"
+  "last_updated": "2026-06-19T13:13:41Z"
 }
