@@ -9318,3 +9318,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:11:55]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/164024585/O2LI5dub4FwXUG9fakS5qu0PSqBFKlFRPIJ…)
 [16:12:50]   downloaded 1,191.9 MB in 52.6s (22.7 MB/s)
 [16:13:57]   upload done video_id=26129850 in 66.3s
+[16:13:59] film cr_film_id=4897 OK in 124.3s
+[16:13:59] iteration 4/20
+[16:13:59] film cr_film_id=4899 name='Pán prstenů: Válka Rohirů (2024) CZ Dabing' candidates=3
+[16:13:59]   candidate upload_id=68ec59acecd9e url=https://prehraj.to/pan-prstenu-valka-rohiru-2024-cz-dab-1080p/68ec59acecd9e
+[16:13:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pan-prstenu-valka-rohiru-2024-cz-dab-1080p/68ec59acecd9e (permanent=True)
+[16:13:59]   candidate upload_id=679785a87b737 url=https://prehraj.to/the-lord-of-the-rings-the-war-of-the-rohirrim-pan-prstenu-valka-rohiru-2024-hd-1080p-dd-5-1-cz-bydejvtm/679785a87b737
+[16:14:06]   resolved in 6.2s → 720p (https://pf-storage1.premiumcdn.net/128338283/zeMFKjSrmtQ5Up7i0aTDMSBXc0VUz7tvKfG…)
+[16:18:54]   downloaded 1,966.3 MB in 286.4s (6.9 MB/s)
+[16:21:00]   upload done video_id=26130021 in 126.1s

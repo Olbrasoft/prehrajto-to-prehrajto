@@ -27879,6 +27879,25 @@
         "download_sec": 52.6,
         "upload_sec": 66.3
       }
+    },
+    {
+      "cr_film_id": 4899,
+      "cr_slug": "pan-prstenu-valka-rohiru",
+      "title": "Pán prstenů: Válka Rohirů",
+      "year": 2024,
+      "display_name": "Pán prstenů: Válka Rohirů (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "679785a87b737",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26130021,
+      "size_bytes": 1966317137,
+      "uploaded_at": "2026-06-19T16:21:00Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 286.4,
+        "upload_sec": 126.1
+      }
     }
   ],
   "failed_attempts": [
@@ -28865,7 +28884,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blazniva-strela-the-naked-gun-2025-cz-mp4/0ef0e6ea3bae7751",
       "permanent": true,
       "failed_at": "2026-06-19T15:45:17Z"
+    },
+    {
+      "cr_film_id": 4899,
+      "upload_id": "68ec59acecd9e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pan-prstenu-valka-rohiru-2024-cz-dab-1080p/68ec59acecd9e",
+      "permanent": true,
+      "failed_at": "2026-06-19T16:13:59Z"
     }
   ],
-  "last_updated": "2026-06-19T16:13:57Z"
+  "last_updated": "2026-06-19T16:21:00Z"
 }
