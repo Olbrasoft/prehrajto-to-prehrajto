@@ -9139,3 +9139,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:58:45]   upload done video_id=26127802 in 63.1s
 [14:58:46] film cr_film_id=4843 OK in 100.8s
 [14:58:46] batch-end ok=20 failed=0 dur=2949.0s avg/film=147.4s remaining=16053 eta_hours=657.3
+
+===== run 2026-06-19T15:05:52Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27833447294) =====
+[15:05:55] description overrides loaded: 12230 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:05:55] batch-start shard=1/2 count=20 backlog=17650 uploads=1597 failed_attempts=131 description_overrides=12230
+[15:05:55] login
+[15:05:56] login done
+[15:05:56] iteration 1/20
+[15:05:56] film cr_film_id=4847 name='Lorax (2012) CZ Dabing' candidates=2
+[15:05:56]   candidate upload_id=68e7294e31b81 url=https://prehraj.to/lorax-2012-animovany-cz-dabing-fhd-1080p-by-klikfiles/68e7294e31b81
+[15:05:57]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/150509538/8LATrdIGOc6qibDHnOF7JIpbsVRSEbCEPF7…)
+[15:06:45]   downloaded 1,278.7 MB in 46.0s (27.8 MB/s)
+[15:08:17]   upload done video_id=26128044 in 92.0s
