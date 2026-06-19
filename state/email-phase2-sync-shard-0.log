@@ -11000,3 +11000,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [16:34:10]   upload done video_id=26130381 in 78.0s
 [16:34:12] film cr_film_id=20544 OK in 119.3s
 [16:34:12] batch-end ok=20 failed=0 dur=1831.7s avg/film=91.6s remaining=8325 eta_hours=211.8
+
+===== run 2026-06-19T16:34:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27837589309) =====
+[16:34:48] batch-start shard=0/2 count=20 backlog=10210 uploads=1885 failed_attempts=79 description_overrides=0
+[16:34:48] login
+[16:34:50] login done
+[16:34:50] iteration 1/20
+[16:34:50] film cr_film_id=29340 name='Koe no katači (2016) CZ Titulky' candidates=3
+[16:34:50]   candidate upload_id=5fda4afe343d5 url=https://prehraj.to/a-silent-voice-2016-cztitulky/5fda4afe343d5
+[16:34:51]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/20817777/qKqUN7SNbS9OHZ3C7ycdBSjeHQ5HZwFAni0e…)
+[16:35:21]   downloaded 598.7 MB in 28.4s (21.1 MB/s)
+[16:36:18]   upload done video_id=26130473 in 56.1s
