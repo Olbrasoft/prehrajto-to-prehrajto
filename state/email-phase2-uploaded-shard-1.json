@@ -29802,6 +29802,25 @@
         "download_sec": 13.3,
         "upload_sec": 17.4
       }
+    },
+    {
+      "cr_film_id": 30581,
+      "cr_slug": "my-teacher",
+      "title": "My Teacher",
+      "year": 2017,
+      "display_name": "My Teacher (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60a2cba959ce7",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26120061,
+      "size_bytes": 1753802246,
+      "uploaded_at": "2026-06-19T09:36:23Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 58.3,
+        "upload_sec": 79.3
+      }
     }
   ],
   "failed_attempts": [
@@ -30270,5 +30289,5 @@
       "failed_at": "2026-06-19T06:53:53Z"
     }
   ],
-  "last_updated": "2026-06-19T09:34:02Z"
+  "last_updated": "2026-06-19T09:36:23Z"
 }
