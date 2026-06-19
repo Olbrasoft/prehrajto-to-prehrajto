@@ -22398,6 +22398,25 @@
         "download_sec": 25.5,
         "upload_sec": 29.6
       }
+    },
+    {
+      "cr_film_id": 3552,
+      "cr_slug": "ali",
+      "title": "Ali",
+      "year": 2001,
+      "display_name": "Ali (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a7917e125731",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26108820,
+      "size_bytes": 970570292,
+      "uploaded_at": "2026-06-19T00:14:50Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 52.1,
+        "upload_sec": 66.1
+      }
     }
   ],
   "failed_attempts": [
@@ -23130,5 +23149,5 @@
       "failed_at": "2026-06-18T23:13:58Z"
     }
   ],
-  "last_updated": "2026-06-19T00:12:46Z"
+  "last_updated": "2026-06-19T00:14:50Z"
 }
