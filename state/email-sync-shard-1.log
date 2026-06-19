@@ -9292,3 +9292,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:04:21]   upload done video_id=26129464 in 140.4s
 [16:04:23] film cr_film_id=4891 OK in 250.8s
 [16:04:23] batch-end ok=19 failed=1 dur=3507.2s avg/film=184.6s remaining=16034 eta_hours=822.2
+
+===== run 2026-06-19T16:04:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27836259516) =====
+[16:05:00] description overrides loaded: 12690 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:05:00] batch-start shard=1/2 count=20 backlog=17650 uploads=1616 failed_attempts=135 description_overrides=12690
+[16:05:00] login
+[16:05:01] login done
+[16:05:01] iteration 1/20
+[16:05:01] film cr_film_id=4893 name='Dogman (2025) CZ Dabing' candidates=2
+[16:05:01]   candidate upload_id=68e6edac45d2a url=https://prehraj.to/dog-man-2025-animovany-cz-dabing-fhd-1080p-by-klikfiles/68e6edac45d2a
+[16:05:02]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/150488325/r7mSn8uWEUlOT23Fdgs8Kubwt8Eiz1iOMU8…)
+[16:06:33]   downloaded 1,540.9 MB in 88.7s (17.4 MB/s)
+[16:08:15]   upload done video_id=26129613 in 101.4s
