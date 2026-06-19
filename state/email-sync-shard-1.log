@@ -7153,3 +7153,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:52:54]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/11515405/B1LUP4uEyUedcKWuo8H6puDlfPqUqZt3xTW3…)
 [00:53:18]   downloaded 610.7 MB in 22.2s (27.5 MB/s)
 [00:54:39]   upload done video_id=26109619 in 81.5s
+[00:54:40] film cr_film_id=3821 OK in 106.7s
+[00:54:40] iteration 11/20
+[00:54:40] film cr_film_id=3825 name='Vinylová láska (2018) CZ Dabing' candidates=1
+[00:54:40]   candidate upload_id=9c12eb4f6e0859cf url=https://prehraj.to/vinylova-laska-2018-cz-dabing-hd-mp4/9c12eb4f6e0859cf
+[00:54:41]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/vinylova-laska-2018-cz-dabing-hd-mp4/9c12eb4f6e0859cf (permanent=True)
+[00:54:41] film cr_film_id=3825 all candidates exhausted
+[00:54:41] iteration 12/20
+[00:54:41] film cr_film_id=3827 name='Horizont události (1997) CZ Dabing' candidates=7
+[00:54:41]   candidate upload_id=64b02c4c230e8 url=https://prehraj.to/horizont-udalosti-remastered-event-horizon-1997-cz-dab-tit-1080p-bluray/64b02c4c230e8
+[00:54:47]   resolved in 5.7s → 720p (https://pf-storage5.premiumcdn.net/42401420/K8WSDyu1OFMpSe4SO1F2Wu7GsgdsXETEQCJ4…)
+[00:55:47]   downloaded 2,195.9 MB in 59.7s (36.8 MB/s)
+[00:57:27]   upload done video_id=26109680 in 100.0s
