@@ -8874,3 +8874,17 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [04:31:19]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/22669214/DDAuj4Tklc7RcyGsYltM2TjPiQ9UA8uOpHXZ…)
 [04:32:15]   downloaded 982.4 MB in 54.1s (18.2 MB/s)
 [04:33:11]   upload done video_id=26113898 in 56.1s
+[04:33:13] film cr_film_id=29631 OK in 115.2s
+[04:33:13] iteration 16/20
+[04:33:13] film cr_film_id=29807 name='Narok 6 metre (2018) CZ Titulky' candidates=1
+[04:33:13]   candidate upload_id=5da1861ce5965 url=https://prehraj.to/narok-6-metre-the-pool-akcni-thriller-tha-2018-480p-h264-s-cztitulky-71-sten-ok/5da1861ce5965
+[04:33:14]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/15044503/BXOiBAHq3Id4TAQIGyF1NHwZFayC50tdDI3N…)
+[04:34:40]   downloaded 1,549.6 MB in 83.8s (18.5 MB/s)
+[04:35:05]   upload FAILED after 25.0s: HTTPSConnectionPool(host='prehraj.to', port=443): Max retries exceeded with url: /profil/nahrat-soubor (Caused by NameResolutionError("HTTPSConnection(host='prehraj.to', port=443): Failed to resolve 'prehraj.to' ([Errno -3] Temporary failure in name resolution)"))
+[04:35:06] film cr_film_id=29807 all candidates exhausted
+[04:35:06] iteration 17/20
+[04:35:06] film cr_film_id=29655 name='Na schovávanou (2018) CZ Titulky' candidates=1
+[04:35:06]   candidate upload_id=5e2610044b3ed url=https://prehraj.to/na-schovavanou-drama-2018-cz-titulky/5e2610044b3ed
+[04:35:36]   resolved in 30.4s → 480p (https://pf-storage5.premiumcdn.net/15698893/o2ps3gf5bIx1Tm5U5Xu6afaXHG4uPDc5rS6O…)
+[04:36:05]   downloaded 438.0 MB in 26.8s (16.3 MB/s)
+[04:36:41]   upload done video_id=26113983 in 35.7s
