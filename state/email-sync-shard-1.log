@@ -10037,3 +10037,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:32:17]   upload done video_id=26138049 in 91.1s
 [22:32:19] film cr_film_id=5273 OK in 134.8s
 [22:32:19] batch-end ok=19 failed=1 dur=2490.6s avg/film=131.1s remaining=15940 eta_hours=580.5
+
+===== run 2026-06-19T22:42:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27851698798) =====
+[22:43:00] description overrides loaded: 13088 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:43:00] batch-start shard=1/2 count=20 backlog=17650 uploads=1710 failed_attempts=152 description_overrides=13088
+[22:43:00] login
+[22:43:04] login done
+[22:43:04] iteration 1/20
+[22:43:04] film cr_film_id=5275 name='Klauni (2013) CZ' candidates=1
+[22:43:04]   candidate upload_id=5c1da7bf8c729 url=https://prehraj.to/klauni-2013-cesky-film/5c1da7bf8c729
+[22:43:06]   resolved in 2.0s → 480p (https://pf-storage3.premiumcdn.net/9764069/G0PCeJT4dSK2U9mUzBt8wTe1tw8IO7hw1uJLC…)
+[22:43:30]   downloaded 580.9 MB in 21.7s (26.8 MB/s)
+[22:44:24]   upload done video_id=26138339 in 54.2s
