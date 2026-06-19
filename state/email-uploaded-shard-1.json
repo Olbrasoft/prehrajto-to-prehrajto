@@ -23604,6 +23604,25 @@
         "download_sec": 50.7,
         "upload_sec": 135.1
       }
+    },
+    {
+      "cr_film_id": 4057,
+      "cr_slug": "ze-stinu",
+      "title": "Ze stínů",
+      "year": 2024,
+      "display_name": "Ze stínů (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6710ebb260031",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26112693,
+      "size_bytes": 2703077125,
+      "uploaded_at": "2026-06-19T03:28:03Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 78.1,
+        "upload_sec": 111.2
+      }
     }
   ],
   "failed_attempts": [
@@ -24386,5 +24405,5 @@
       "failed_at": "2026-06-19T02:58:18Z"
     }
   ],
-  "last_updated": "2026-06-19T03:24:48Z"
+  "last_updated": "2026-06-19T03:28:03Z"
 }
