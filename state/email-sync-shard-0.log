@@ -8332,3 +8332,14 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:44:55]   resolved in 1.3s → 720p (https://pf-storage2.premiumcdn.net/18304497/d36fBdiKvIZwINZUnJhJ5iXRTR4IeYCQmcJz…)
 [09:46:16]   downloaded 1,151.4 MB in 78.8s (14.6 MB/s)
 [09:47:54]   upload done video_id=26120353 in 98.3s
+[09:47:57] film cr_film_id=4202 OK in 183.2s
+[09:47:57] iteration 14/20
+[09:47:57] film cr_film_id=4204 name='Diktátor (2012) CZ Dabing' candidates=4
+[09:47:57]   candidate upload_id=9e6f2dad6ae28656 url=https://prehraj.to/diktator-2012-cz-dab-1080p/9e6f2dad6ae28656
+[09:47:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/diktator-2012-cz-dab-1080p/9e6f2dad6ae28656 (permanent=True)
+[09:47:58]   candidate upload_id=68c925f7ad323 url=https://prehraj.to/diktator-2012-hd-cz-dabing-sktonline/68c925f7ad323
+[09:48:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/diktator-2012-hd-cz-dabing-sktonline/68c925f7ad323 (permanent=True)
+[09:48:04]   candidate upload_id=85db3cc748071032 url=https://prehraj.to/diktator-the-dictator-2012-en-cz-dabing-fhd-mkv/85db3cc748071032
+[09:48:10]   resolved in 6.1s → 720p (https://pf-storage5.premiumcdn.net/156223886/ybmtK0TqvUBVF9msW1cr2TzAcngireIo0uy…)
+[09:49:15]   downloaded 1,459.8 MB in 62.3s (23.4 MB/s)
+[09:51:07]   upload done video_id=26120435 in 111.9s
