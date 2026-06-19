@@ -10708,3 +10708,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:43:56]   upload done video_id=26127411 in 20.6s
 [14:43:58] film cr_film_id=30486 OK in 45.8s
 [14:43:58] batch-end ok=20 failed=0 dur=2402.0s avg/film=120.1s remaining=8365 eta_hours=279.1
+
+===== run 2026-06-19T14:44:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27832372601) =====
+[14:44:32] batch-start shard=0/2 count=20 backlog=10210 uploads=1845 failed_attempts=79 description_overrides=0
+[14:44:32] login
+[14:44:34] login done
+[14:44:34] iteration 1/20
+[14:44:34] film cr_film_id=18834 name='The Remains (2016) CZ Titulky' candidates=3
+[14:44:34]   candidate upload_id=5801b58621767 url=https://prehraj.to/the-remains-2016-cztitulky/5801b58621767
+[14:44:35]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/709413/LXdhO8fRZsYLTqKtQBinLfoOS1WF65uKLuJnUd…)
+[14:44:53]   downloaded 336.8 MB in 16.0s (21.0 MB/s)
+[14:45:17]   upload done video_id=26127451 in 24.3s
