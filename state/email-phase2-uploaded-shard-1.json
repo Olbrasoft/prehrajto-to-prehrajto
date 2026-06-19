@@ -36205,6 +36205,25 @@
         "download_sec": 30.4,
         "upload_sec": 74.8
       }
+    },
+    {
+      "cr_film_id": 13983,
+      "cr_slug": "iron-sky",
+      "title": "Iron Sky",
+      "year": 2012,
+      "display_name": "Iron Sky (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "63f5f6d91fd20",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26139666,
+      "size_bytes": 2329737242,
+      "uploaded_at": "2026-06-19T23:48:14Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 89.9,
+        "upload_sec": 160.9
+      }
     }
   ],
   "failed_attempts": [
@@ -36692,5 +36711,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T23:43:57Z"
+  "last_updated": "2026-06-19T23:48:14Z"
 }
