@@ -29877,6 +29877,25 @@
         "download_sec": 22.8,
         "upload_sec": 31.4
       }
+    },
+    {
+      "cr_film_id": 20378,
+      "cr_slug": "iboy",
+      "title": "iBoy",
+      "year": 2017,
+      "display_name": "iBoy (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e3873bbe2388",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26120824,
+      "size_bytes": 972128933,
+      "uploaded_at": "2026-06-19T10:04:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 56.2,
+        "upload_sec": 65.3
+      }
     }
   ],
   "failed_attempts": [
@@ -30437,5 +30456,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T10:01:48Z"
+  "last_updated": "2026-06-19T10:04:27Z"
 }

@@ -9834,3 +9834,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:01:48]   upload done video_id=26120779 in 31.4s
 [10:01:49] film cr_film_id=33616 OK in 57.6s
 [10:01:49] batch-end ok=20 failed=0 dur=2024.7s avg/film=101.2s remaining=8484 eta_hours=238.5
+
+===== run 2026-06-19T10:02:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27819082517) =====
+[10:02:21] batch-start shard=0/2 count=20 backlog=10210 uploads=1726 failed_attempts=78 description_overrides=0
+[10:02:21] login
+[10:02:23] login done
+[10:02:23] iteration 1/20
+[10:02:23] film cr_film_id=20378 name='iBoy (2017) CZ Titulky' candidates=6
+[10:02:23]   candidate upload_id=5e3873bbe2388 url=https://prehraj.to/iboy-akcni-sci-fi-2017-s-cz-titulky-720p-sten/5e3873bbe2388
+[10:02:24]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/15779938/bkPIP4fN1fJVTvlimKFVjfalsqZTlNuoWhyG…)
+[10:03:22]   downloaded 972.1 MB in 56.2s (17.3 MB/s)
+[10:04:27]   upload done video_id=26120824 in 65.3s
