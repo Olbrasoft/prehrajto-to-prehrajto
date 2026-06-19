@@ -33222,6 +33222,25 @@
         "download_sec": 40.4,
         "upload_sec": 80.5
       }
+    },
+    {
+      "cr_film_id": 35153,
+      "cr_slug": "kapsul",
+      "title": "Kapsul",
+      "year": 2015,
+      "display_name": "Kapsul (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "580ead8ae0e47",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26131048,
+      "size_bytes": 341618401,
+      "uploaded_at": "2026-06-19T16:56:56Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.9,
+        "upload_sec": 23.8
+      }
     }
   ],
   "failed_attempts": [
@@ -33709,5 +33728,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T16:56:09Z"
+  "last_updated": "2026-06-19T16:56:56Z"
 }
