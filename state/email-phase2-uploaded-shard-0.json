@@ -33069,6 +33069,25 @@
         "download_sec": 27.0,
         "upload_sec": 27.9
       }
+    },
+    {
+      "cr_film_id": 18960,
+      "cr_slug": "i-am-bolt",
+      "title": "I Am Bolt",
+      "year": 2016,
+      "display_name": "I Am Bolt (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "589478c3f0e82",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26130929,
+      "size_bytes": 1960566116,
+      "uploaded_at": "2026-06-19T16:53:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 110.6,
+        "upload_sec": 126.7
+      }
     }
   ],
   "failed_attempts": [
@@ -33636,5 +33655,5 @@
       "failed_at": "2026-06-19T13:24:08Z"
     }
   ],
-  "last_updated": "2026-06-19T16:49:49Z"
+  "last_updated": "2026-06-19T16:53:51Z"
 }
