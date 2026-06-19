@@ -9424,3 +9424,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:50:10]   upload done video_id=26130839 in 115.1s
 [16:50:12] film cr_film_id=4756 OK in 187.8s
 [16:50:12] batch-end ok=20 failed=0 dur=2713.6s avg/film=135.7s remaining=15998 eta_hours=603.0
+
+===== run 2026-06-19T17:15:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27839331357) =====
+[17:15:43] description overrides loaded: 13068 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:15:43] batch-start shard=0/2 count=20 backlog=17650 uploads=1652 failed_attempts=151 description_overrides=13068
+[17:15:43] login
+[17:15:44] login done
+[17:15:44] iteration 1/20
+[17:15:44] film cr_film_id=4758 name='Smrt přichází v bílém (2003) CZ Dabing' candidates=17
+[17:15:44]   candidate upload_id=5abb40bed9e04 url=https://prehraj.to/smrt-prichazi-v-bilem-cz-dabing-2003/5abb40bed9e04
+[17:15:46]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/3754589/l1jCkrs9gubmC43C1DUezslBCZ6SQnHjYSbku…)
+[17:16:03]   downloaded 321.8 MB in 15.5s (20.8 MB/s)
+[17:16:23]   upload done video_id=26131536 in 20.1s
