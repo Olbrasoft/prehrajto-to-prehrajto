@@ -35140,6 +35140,25 @@
         "download_sec": 21.8,
         "upload_sec": 22.9
       }
+    },
+    {
+      "cr_film_id": 28606,
+      "cr_slug": "ukryt-2014",
+      "title": "Úkryt",
+      "year": 2014,
+      "display_name": "Úkryt (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "57758022e67b1",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26137654,
+      "size_bytes": 498011337,
+      "uploaded_at": "2026-06-19T22:12:47Z",
+      "timing": {
+        "resolve_sec": 2.4,
+        "download_sec": 22.9,
+        "upload_sec": 33.3
+      }
     }
   ],
   "failed_attempts": [
@@ -35719,5 +35738,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T22:11:46Z"
+  "last_updated": "2026-06-19T22:12:47Z"
 }
