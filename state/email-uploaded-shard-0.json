@@ -24412,6 +24412,25 @@
         "download_sec": 65.4,
         "upload_sec": 99.3
       }
+    },
+    {
+      "cr_film_id": 3962,
+      "cr_slug": "divergence",
+      "title": "Divergence",
+      "year": 2014,
+      "display_name": "Divergence (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "629d0d1375d40",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26115595,
+      "size_bytes": 2205627807,
+      "uploaded_at": "2026-06-19T05:55:29Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 118.6,
+        "upload_sec": 151.5
+      }
     }
   ],
   "failed_attempts": [
@@ -25226,5 +25245,5 @@
       "failed_at": "2026-06-19T05:04:29Z"
     }
   ],
-  "last_updated": "2026-06-19T05:50:54Z"
+  "last_updated": "2026-06-19T05:55:29Z"
 }
