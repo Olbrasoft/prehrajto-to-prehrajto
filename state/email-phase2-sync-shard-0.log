@@ -9688,3 +9688,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [09:26:06]   upload done video_id=26119886 in 94.3s
 [09:26:07] film cr_film_id=30664 OK in 185.2s
 [09:26:07] batch-end ok=20 failed=0 dur=2152.5s avg/film=107.6s remaining=8504 eta_hours=254.2
+
+===== run 2026-06-19T09:28:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27817449953) =====
+[09:28:03] batch-start shard=0/2 count=20 backlog=10210 uploads=1706 failed_attempts=78 description_overrides=0
+[09:28:03] login
+[09:28:04] login done
+[09:28:04] iteration 1/20
+[09:28:04] film cr_film_id=21036 name='Bob Lazar: Oblast 51 a létající talíře (2018) CZ Titulky' candidates=2
+[09:28:04]   candidate upload_id=5cd1efdccec5e url=https://prehraj.to/bob-lazar-area-51-and-flying-saucers-2018-cz-tit/5cd1efdccec5e
+[09:28:05]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/13205205/pe7TqguJ1hRxin6UYnHwkuYLIWqCVyIQVsad…)
+[09:28:24]   downloaded 480.0 MB in 17.7s (27.1 MB/s)
+[09:28:50]   upload done video_id=26119927 in 25.7s
