@@ -27319,6 +27319,25 @@
         "download_sec": 70.6,
         "upload_sec": 117.7
       }
+    },
+    {
+      "cr_film_id": 4560,
+      "cr_slug": "jeho-fotr-to-je-lotr",
+      "title": "Jeho fotr, to je lotr!",
+      "year": 2004,
+      "display_name": "Jeho fotr, to je lotr! (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57f97d8f6bfcd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26126553,
+      "size_bytes": 818122258,
+      "uploaded_at": "2026-06-19T14:19:16Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 36.9,
+        "upload_sec": 49.9
+      }
     }
   ],
   "failed_attempts": [
@@ -28334,7 +28353,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cyrano-2022-cz-dabing-mkv-mp4/24113abe0e37da68",
       "permanent": true,
       "failed_at": "2026-06-19T13:47:28Z"
+    },
+    {
+      "cr_film_id": 4560,
+      "upload_id": "6870c1c2d5365",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jeho-fotr-to-je-lotr-robert-de-niro-ben-stiller-dustin-hoffman-barbra-streisand-2004-komedie-romanticky-bdrip-1080p-cz-dabing/6870c1c2d5365",
+      "permanent": true,
+      "failed_at": "2026-06-19T14:17:40Z"
     }
   ],
-  "last_updated": "2026-06-19T14:17:37Z"
+  "last_updated": "2026-06-19T14:19:16Z"
 }

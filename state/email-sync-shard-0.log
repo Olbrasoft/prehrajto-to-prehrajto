@@ -9001,3 +9001,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:14:26]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/31367735/RA2iegfvecwMIWVi5xUxXfpKTBMCEyuyEF7d…)
 [14:15:39]   downloaded 1,296.9 MB in 70.6s (18.4 MB/s)
 [14:17:37]   upload done video_id=26126452 in 117.7s
+[14:17:40] film cr_film_id=4556 OK in 194.1s
+[14:17:40] iteration 4/20
+[14:17:40] film cr_film_id=4560 name='Jeho fotr, to je lotr! (2004) CZ Dabing' candidates=3
+[14:17:40]   candidate upload_id=6870c1c2d5365 url=https://prehraj.to/jeho-fotr-to-je-lotr-robert-de-niro-ben-stiller-dustin-hoffman-barbra-streisand-2004-komedie-romanticky-bdrip-1080p-cz-dabing/6870c1c2d5365
+[14:17:40]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jeho-fotr-to-je-lotr-robert-de-niro-ben-stiller-dustin-hoffman-barbra-streisand-2004-komedie-romanticky-bdrip-1080p-cz-dabing/6870c1c2d5365 (permanent=True)
+[14:17:40]   candidate upload_id=57f97d8f6bfcd url=https://prehraj.to/jeho-fotr-to-je-lotr-cz-dabing-2004/57f97d8f6bfcd
+[14:17:46]   resolved in 6.2s → 480p (https://pf-storage2.premiumcdn.net/682111/lDLhZJUKbIbpF0LIwYcrOU7OIK9IRDtVNfPwtd…)
+[14:18:26]   downloaded 818.1 MB in 36.9s (22.2 MB/s)
+[14:19:16]   upload done video_id=26126553 in 49.9s
