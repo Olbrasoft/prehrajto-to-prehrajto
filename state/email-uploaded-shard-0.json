@@ -22455,6 +22455,25 @@
         "download_sec": 30.5,
         "upload_sec": 49.6
       }
+    },
+    {
+      "cr_film_id": 3558,
+      "cr_slug": "2-zbrane",
+      "title": "2 zbraně",
+      "year": 2013,
+      "display_name": "2 zbraně (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58214f4956275",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26108995,
+      "size_bytes": 585432654,
+      "uploaded_at": "2026-06-19T00:24:00Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 27.9,
+        "upload_sec": 33.4
+      }
     }
   ],
   "failed_attempts": [
@@ -23201,5 +23220,5 @@
       "failed_at": "2026-06-19T00:21:25Z"
     }
   ],
-  "last_updated": "2026-06-19T00:22:54Z"
+  "last_updated": "2026-06-19T00:24:00Z"
 }
