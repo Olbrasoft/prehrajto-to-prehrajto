@@ -33184,6 +33184,25 @@
         "download_sec": 290.7,
         "upload_sec": 198.1
       }
+    },
+    {
+      "cr_film_id": 18921,
+      "cr_slug": "kluci",
+      "title": "Kluci",
+      "year": 2015,
+      "display_name": "Kluci (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "588e4240b073e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26130963,
+      "size_bytes": 624654207,
+      "uploaded_at": "2026-06-19T16:54:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 56.2,
+        "upload_sec": 53.0
+      }
     }
   ],
   "failed_attempts": [
@@ -33671,5 +33690,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T16:52:09Z"
+  "last_updated": "2026-06-19T16:54:04Z"
 }
