@@ -29836,6 +29836,25 @@
         "download_sec": 68.5,
         "upload_sec": 95.5
       }
+    },
+    {
+      "cr_film_id": 5317,
+      "cr_slug": "experiment-belko",
+      "title": "Experiment Belko",
+      "year": 2016,
+      "display_name": "Experiment Belko (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f55539ea9ae2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26139020,
+      "size_bytes": 1690228141,
+      "uploaded_at": "2026-06-19T23:15:26Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 48.9,
+        "upload_sec": 62.3
+      }
     }
   ],
   "failed_attempts": [
@@ -30943,5 +30962,5 @@
       "failed_at": "2026-06-19T22:00:42Z"
     }
   ],
-  "last_updated": "2026-06-19T23:13:30Z"
+  "last_updated": "2026-06-19T23:15:26Z"
 }
