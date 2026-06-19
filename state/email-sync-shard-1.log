@@ -8826,3 +8826,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:18:41]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/14379795/v7LTjGhpJSPJuVNiMLivbhZqTo4txGFk6iZ1…)
 [12:19:18]   downloaded 1,204.9 MB in 34.9s (34.5 MB/s)
 [12:20:17]   upload done video_id=26123877 in 59.0s
+[12:20:18] film cr_film_id=4653 OK in 97.9s
+[12:20:18] iteration 18/20
+[12:20:18] film cr_film_id=4655 name='Snové léto (2018) CZ Dabing' candidates=1
+[12:20:18]   candidate upload_id=9fa3414cfec7adb3 url=https://prehraj.to/snove-leto-2018-cz-dabing-hd-mp4/9fa3414cfec7adb3
+[12:20:19]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/snove-leto-2018-cz-dabing-hd-mp4/9fa3414cfec7adb3 (permanent=True)
+[12:20:19] film cr_film_id=4655 all candidates exhausted
+[12:20:19] iteration 19/20
+[12:20:19] film cr_film_id=4659 name='Úniková hra (2019) CZ Dabing' candidates=7
+[12:20:19]   candidate upload_id=5dd416b31e7a9 url=https://prehraj.to/unikova-mistnost-2019-cz-dab/5dd416b31e7a9
+[12:20:25]   resolved in 5.9s → 480p (https://pf-storage5.premiumcdn.net/15298792/76ZSAeTjRhVlcEWuYJHJqT2QUrzuzehkms36…)
+[12:20:42]   downloaded 477.1 MB in 15.5s (30.8 MB/s)
+[12:21:04]   upload done video_id=26123924 in 21.6s
