@@ -7834,3 +7834,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:51:55]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/22089024/eJ5Fj3feJsGnH7bclWUNDfP5hKGCRKUeVFDq…)
 [05:52:28]   downloaded 1,142.2 MB in 31.6s (36.1 MB/s)
 [05:53:15]   upload done video_id=26115589 in 47.4s
+[05:53:18] film cr_film_id=4187 OK in 83.7s
+[05:53:18] iteration 4/20
+[05:53:18] film cr_film_id=4193 name='Humorista (2018) CZ Dabing' candidates=1
+[05:53:18]   candidate upload_id=941ca671f21a7d9e url=https://prehraj.to/humorista-2019-cz-dabing/941ca671f21a7d9e
+[05:53:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/humorista-2019-cz-dabing/941ca671f21a7d9e (permanent=True)
+[05:53:18] film cr_film_id=4193 all candidates exhausted
+[05:53:18] iteration 5/20
+[05:53:18] film cr_film_id=4197 name='Karbon (2017) CZ Dabing' candidates=6
+[05:53:18]   candidate upload_id=5bcc38b4e234a url=https://prehraj.to/carbone-thriller-cz-dab-2017-zz/5bcc38b4e234a
+[05:53:24]   resolved in 5.8s → 480p (https://pf-storage1.premiumcdn.net/7349453/ll1fv3sBmU6VcBgI6eUpvsyeS1nUYzurOFWeF…)
+[05:53:43]   downloaded 459.5 MB in 17.2s (26.7 MB/s)
+[05:54:01]   upload done video_id=26115610 in 18.2s
