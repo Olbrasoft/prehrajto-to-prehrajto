@@ -28813,6 +28813,25 @@
         "download_sec": 17.1,
         "upload_sec": 34.4
       }
+    },
+    {
+      "cr_film_id": 34536,
+      "cr_slug": "libenjyeo",
+      "title": "Libenjyeo",
+      "year": 2018,
+      "display_name": "Libenjyeo (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5c419d6521cf7",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26118490,
+      "size_bytes": 2829776460,
+      "uploaded_at": "2026-06-19T08:24:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 79.3,
+        "upload_sec": 115.5
+      }
     }
   ],
   "failed_attempts": [
@@ -29373,5 +29392,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T08:21:11Z"
+  "last_updated": "2026-06-19T08:24:29Z"
 }
