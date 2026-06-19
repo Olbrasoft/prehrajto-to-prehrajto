@@ -8084,3 +8084,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:57:39]   upload done video_id=26108512 in 95.1s
 [23:57:41] film cr_film_id=20964 OK in 171.4s
 [23:57:41] batch-end ok=19 failed=1 dur=4013.6s avg/film=211.2s remaining=8721 eta_hours=511.6
+
+===== run 2026-06-18T23:58:10Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27796689090) =====
+[23:58:12] batch-start shard=0/2 count=20 backlog=10210 uploads=1489 failed_attempts=74 description_overrides=0
+[23:58:12] login
+[23:58:13] login done
+[23:58:13] iteration 1/20
+[23:58:13] film cr_film_id=35280 name='Psychobitch (2019) CZ Titulky' candidates=1
+[23:58:13]   candidate upload_id=5e8fa0e97e7c8 url=https://prehraj.to/psychobitch-drama-norsko-2019-1080p-5-1-h264-s-cztitulky-77-sten-ok/5e8fa0e97e7c8
+[23:58:14]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/16183432/daNuyrHeWiZ8cMqSdYfGPHZGuMzsdXiKXS0R…)
+[00:00:15]   downloaded 2,332.5 MB in 118.6s (19.7 MB/s)
+[00:03:26]   upload done video_id=26108616 in 190.4s
