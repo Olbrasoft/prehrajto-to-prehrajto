@@ -26331,6 +26331,25 @@
         "download_sec": 50.9,
         "upload_sec": 81.4
       }
+    },
+    {
+      "cr_film_id": 4354,
+      "cr_slug": "rec-2",
+      "title": "[REC]²",
+      "year": 2009,
+      "display_name": "[REC]² (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64f2040cc8603",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26122310,
+      "size_bytes": 1633904449,
+      "uploaded_at": "2026-06-19T11:27:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 53.9,
+        "upload_sec": 88.9
+      }
     }
   ],
   "failed_attempts": [
@@ -27306,5 +27325,5 @@
       "failed_at": "2026-06-19T09:48:04Z"
     }
   ],
-  "last_updated": "2026-06-19T11:24:43Z"
+  "last_updated": "2026-06-19T11:27:09Z"
 }
