@@ -9010,3 +9010,16 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:17:46]   resolved in 6.2s → 480p (https://pf-storage2.premiumcdn.net/682111/lDLhZJUKbIbpF0LIwYcrOU7OIK9IRDtVNfPwtd…)
 [14:18:26]   downloaded 818.1 MB in 36.9s (22.2 MB/s)
 [14:19:16]   upload done video_id=26126553 in 49.9s
+[14:19:18] film cr_film_id=4560 OK in 98.1s
+[14:19:18] iteration 5/20
+[14:19:18] film cr_film_id=4566 name='Žádné prudké pohyby (2021) CZ Dabing' candidates=6
+[14:19:18]   candidate upload_id=cf3cb8e2e8bd073c url=https://prehraj.to/zadne-prudke-pohyby-2021-cz-dab-1080p/cf3cb8e2e8bd073c
+[14:19:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zadne-prudke-pohyby-2021-cz-dab-1080p/cf3cb8e2e8bd073c (permanent=True)
+[14:19:19]   candidate upload_id=6718d4cdcd0ce url=https://prehraj.to/zadne-prudke-pohyby-2021-cz-dabing-1080p/6718d4cdcd0ce
+[14:19:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zadne-prudke-pohyby-2021-cz-dabing-1080p/6718d4cdcd0ce (permanent=True)
+[14:19:24]   candidate upload_id=62297511f0110 url=https://prehraj.to/zadne-prudke-pohyby-2021-czdab/62297511f0110
+[14:19:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zadne-prudke-pohyby-2021-czdab/62297511f0110 (permanent=True)
+[14:19:30]   candidate upload_id=65dfd9668b5e9 url=https://prehraj.to/zadne-prudke-pohyby-2021-cz-dab/65dfd9668b5e9
+[14:19:36]   resolved in 6.0s → 480p (https://pf-storage4.premiumcdn.net/74022719/v6ZfX6SEgtodT2QU80IwKSYOcJNCxniY9TbY…)
+[14:20:01]   downloaded 380.4 MB in 23.2s (16.4 MB/s)
+[14:20:37]   upload done video_id=26126603 in 35.6s

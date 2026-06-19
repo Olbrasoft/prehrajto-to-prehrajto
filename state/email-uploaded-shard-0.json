@@ -27338,6 +27338,25 @@
         "download_sec": 36.9,
         "upload_sec": 49.9
       }
+    },
+    {
+      "cr_film_id": 4566,
+      "cr_slug": "zadne-prudke-pohyby",
+      "title": "Žádné prudké pohyby",
+      "year": 2021,
+      "display_name": "Žádné prudké pohyby (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65dfd9668b5e9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26126603,
+      "size_bytes": 380373632,
+      "uploaded_at": "2026-06-19T14:20:37Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 23.2,
+        "upload_sec": 35.6
+      }
     }
   ],
   "failed_attempts": [
@@ -28360,7 +28379,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jeho-fotr-to-je-lotr-robert-de-niro-ben-stiller-dustin-hoffman-barbra-streisand-2004-komedie-romanticky-bdrip-1080p-cz-dabing/6870c1c2d5365",
       "permanent": true,
       "failed_at": "2026-06-19T14:17:40Z"
+    },
+    {
+      "cr_film_id": 4566,
+      "upload_id": "cf3cb8e2e8bd073c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zadne-prudke-pohyby-2021-cz-dab-1080p/cf3cb8e2e8bd073c",
+      "permanent": true,
+      "failed_at": "2026-06-19T14:19:19Z"
+    },
+    {
+      "cr_film_id": 4566,
+      "upload_id": "6718d4cdcd0ce",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zadne-prudke-pohyby-2021-cz-dabing-1080p/6718d4cdcd0ce",
+      "permanent": true,
+      "failed_at": "2026-06-19T14:19:24Z"
+    },
+    {
+      "cr_film_id": 4566,
+      "upload_id": "62297511f0110",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zadne-prudke-pohyby-2021-czdab/62297511f0110",
+      "permanent": true,
+      "failed_at": "2026-06-19T14:19:30Z"
     }
   ],
-  "last_updated": "2026-06-19T14:19:16Z"
+  "last_updated": "2026-06-19T14:20:37Z"
 }
