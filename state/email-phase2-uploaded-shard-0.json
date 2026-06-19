@@ -35938,6 +35938,25 @@
         "download_sec": 13.1,
         "upload_sec": 20.6
       }
+    },
+    {
+      "cr_film_id": 28382,
+      "cr_slug": "kingdom-come",
+      "title": "Kingdom Come",
+      "year": 2014,
+      "display_name": "Kingdom Come (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5655dd8cdf195",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26139556,
+      "size_bytes": 324564868,
+      "uploaded_at": "2026-06-19T23:40:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.7,
+        "upload_sec": 13.6
+      }
     }
   ],
   "failed_attempts": [
@@ -36517,5 +36536,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T23:40:20Z"
+  "last_updated": "2026-06-19T23:40:50Z"
 }
