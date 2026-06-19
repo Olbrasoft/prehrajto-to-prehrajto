@@ -7084,3 +7084,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:55:41]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/136177193/8X3sm1UOZcR1Tl0umMiDjUNBF4BhzxTKnTG…)
 [00:56:44]   downloaded 1,774.3 MB in 61.2s (29.0 MB/s)
 [00:57:48]   upload done video_id=26109707 in 64.3s
+[00:57:49] film cr_film_id=3596 OK in 129.8s
+[00:57:49] iteration 8/20
+[00:57:49] film cr_film_id=3606 name='Beetlejuice Beetlejuice (2024) CZ Dabing' candidates=6
+[00:57:49]   candidate upload_id=6722b86794a97 url=https://prehraj.to/beetlejuice-beetlejuice-michael-keaton-winona-ryder-jenna-ortega-monica-bellucci-2024-komedie-fantasy-horor-bdrip-1080p-cz-dabing/6722b86794a97
+[00:57:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/beetlejuice-beetlejuice-michael-keaton-winona-ryder-jenna-ortega-monica-bellucci-2024-komedie-fantasy-horor-bdrip-1080p-cz-dabing/6722b86794a97 (permanent=True)
+[00:57:50]   candidate upload_id=67f8297bdad40 url=https://prehraj.to/beetlejuice-beetlejuice-2024-cz-dabing/67f8297bdad40
+[00:57:56]   resolved in 6.1s → 720p (https://pf-storage3.premiumcdn.net/134716334/NOkIl7spAUQ8S19hGqHKNs2xH1NFg6UzRUg…)
+[00:58:47]   downloaded 1,736.4 MB in 49.2s (35.3 MB/s)
+[01:00:08]   upload done video_id=26109745 in 80.5s
