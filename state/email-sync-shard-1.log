@@ -7372,3 +7372,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:08:49]   upload done video_id=26111064 in 199.2s
 [02:08:50] film cr_film_id=3979 OK in 316.1s
 [02:08:50] batch-end ok=19 failed=1 dur=2239.4s avg/film=117.9s remaining=16280 eta_hours=533.2
+
+===== run 2026-06-19T02:28:33Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27801667488) =====
+[02:28:35] description overrides loaded: 8207 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:28:35] batch-start shard=1/2 count=20 backlog=17650 uploads=1370 failed_attempts=105 description_overrides=8207
+[02:28:35] login
+[02:28:36] login done
+[02:28:36] iteration 1/20
+[02:28:36] film cr_film_id=3981 name='Já, mé druhé já a Irena (2000) CZ Dabing' candidates=13
+[02:28:36]   candidate upload_id=5a26d7f3d0ea9 url=https://prehraj.to/ja-me-druhe-ja-a-irena-2000-hdrip-cz-dabing-m3/5a26d7f3d0ea9
+[02:28:38]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/3045285/a9oHMefAeI0XiEoCgAFYQf70HO1CQnh0XiK9s…)
+[02:29:10]   downloaded 1,029.4 MB in 30.3s (34.0 MB/s)
+[02:29:49]   upload done video_id=26111529 in 39.7s
