@@ -9875,3 +9875,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:17:38]   upload done video_id=26136538 in 109.6s
 [21:17:40] film cr_film_id=4932 OK in 176.7s
 [21:17:40] batch-end ok=19 failed=1 dur=4059.1s avg/film=213.6s remaining=15939 eta_hours=945.7
+
+===== run 2026-06-19T21:50:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27850006738) =====
+[21:50:43] description overrides loaded: 13088 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:50:43] batch-start shard=0/2 count=20 backlog=17650 uploads=1711 failed_attempts=158 description_overrides=13088
+[21:50:43] login
+[21:50:48] login done
+[21:50:48] iteration 1/20
+[21:50:48] film cr_film_id=4936 name='Orion a tma (2024) CZ Dabing' candidates=1
+[21:50:48]   candidate upload_id=65bcfe9e9281c url=https://prehraj.to/orion-a-tma-2024-cz-dabing-1080p-fullhd/65bcfe9e9281c
+[21:50:49]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/72967103/G8ahM1snrC5vSJLIoKIx1s6JupkSEvfvACkb…)
+[21:51:47]   downloaded 1,602.5 MB in 55.9s (28.7 MB/s)
+[21:52:59]   upload done video_id=26137232 in 71.9s
