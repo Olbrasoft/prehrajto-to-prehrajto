@@ -7482,3 +7482,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:53:07]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/155670545/PgGs2vSkqiL0tJVhPOSjmSE1Cgmc4pcKYCV…)
 [02:53:58]   downloaded 1,368.5 MB in 48.8s (28.0 MB/s)
 [02:55:37]   upload done video_id=26111979 in 99.4s
+[02:55:38] film cr_film_id=4027 OK in 152.3s
+[02:55:38] iteration 16/20
+[02:55:38] film cr_film_id=4029 name='Poslední tanec (2024) CZ Dabing' candidates=2
+[02:55:38]   candidate upload_id=6949c5c8d5a5d156 url=https://prehraj.to/posledni-tanec-2024-cz-dab-1080p/6949c5c8d5a5d156
+[02:55:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/posledni-tanec-2024-cz-dab-1080p/6949c5c8d5a5d156 (permanent=True)
+[02:55:39]   candidate upload_id=68fce1dc1d532 url=https://prehraj.to/venom-posledni-tanec-2024-akcni-dobrodruzny-sci-fi-czdab/68fce1dc1d532
+[02:55:45]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/153369603/v3ohyEUYQHJOSD9cp8svdUg3u1oi3ysLKFo…)
+[02:56:54]   downloaded 1,896.7 MB in 67.4s (28.1 MB/s)
+[02:58:16]   upload done video_id=26112066 in 81.6s
