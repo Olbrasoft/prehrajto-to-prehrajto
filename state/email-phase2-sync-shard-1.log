@@ -12123,3 +12123,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [22:55:12]   upload done video_id=26138572 in 37.8s
 [22:55:14] film cr_film_id=15567 OK in 68.2s
 [22:55:14] batch-end ok=20 failed=0 dur=1926.7s avg/film=96.3s remaining=8178 eta_hours=218.8
+
+===== run 2026-06-19T23:00:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27852219158) =====
+[23:00:46] batch-start shard=1/2 count=20 backlog=10210 uploads=2032 failed_attempts=67 description_overrides=0
+[23:00:46] login
+[23:00:47] login done
+[23:00:47] iteration 1/20
+[23:00:47] film cr_film_id=28309 name="Aura: Koga Maryuin's Last War (2013) CZ Titulky" candidates=3
+[23:00:47]   candidate upload_id=5fff0a3da7f59 url=https://prehraj.to/aura-marjuinkoga-saigo-no-tatakai-2013-cztitulky/5fff0a3da7f59
+[23:00:49]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/21453012/BjbfM4h5BIxPSPEFoMiqohXPhB4cKESwgsQE…)
+[23:01:14]   downloaded 548.3 MB in 23.2s (23.6 MB/s)
+[23:02:05]   upload done video_id=26138734 in 51.0s
