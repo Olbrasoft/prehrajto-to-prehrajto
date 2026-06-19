@@ -32594,6 +32594,25 @@
         "download_sec": 18.3,
         "upload_sec": 19.9
       }
+    },
+    {
+      "cr_film_id": 29346,
+      "cr_slug": "patient-seven",
+      "title": "Patient Seven",
+      "year": 2016,
+      "display_name": "Patient Seven (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "584e2751d7125",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26129700,
+      "size_bytes": 471826212,
+      "uploaded_at": "2026-06-19T16:09:10Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.2,
+        "upload_sec": 25.8
+      }
     }
   ],
   "failed_attempts": [
@@ -33161,5 +33180,5 @@
       "failed_at": "2026-06-19T13:24:08Z"
     }
   ],
-  "last_updated": "2026-06-19T16:08:19Z"
+  "last_updated": "2026-06-19T16:09:10Z"
 }
