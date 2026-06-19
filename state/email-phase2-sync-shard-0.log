@@ -10272,3 +10272,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [12:30:39]   upload done video_id=26124116 in 38.0s
 [12:30:41] film cr_film_id=33172 OK in 81.0s
 [12:30:41] batch-end ok=20 failed=0 dur=2389.4s avg/film=119.5s remaining=8424 eta_hours=279.6
+
+===== run 2026-06-19T12:31:16Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27825820223) =====
+[12:31:17] batch-start shard=0/2 count=20 backlog=10210 uploads=1786 failed_attempts=78 description_overrides=0
+[12:31:17] login
+[12:31:19] login done
+[12:31:19] iteration 1/20
+[12:31:19] film cr_film_id=20194 name='Goon: Last of the Enforcers (2017) CZ Titulky' candidates=16
+[12:31:19]   candidate upload_id=5e38615b74b7d url=https://prehraj.to/goon-last-of-the-enforcers-sportovni-komedie-2017-720p-s-cz-titulky-57-sten/5e38615b74b7d
+[12:31:20]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/15779698/Q6Lh7GsoJi62SGru7WSz2sAotZMCoWtgKf9w…)
+[12:33:22]   downloaded 2,218.0 MB in 119.8s (18.5 MB/s)
+[12:35:41]   upload done video_id=26124167 in 139.1s
