@@ -9383,3 +9383,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:41:59]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/150731019/Z3Gf1ps5KHb2upbuJwhAMsVQS7lI6nUWQsn…)
 [16:43:46]   downloaded 1,432.1 MB in 104.9s (13.7 MB/s)
 [16:45:53]   upload done video_id=26130718 in 127.2s
+[16:45:55] film cr_film_id=4921 OK in 237.5s
+[16:45:55] iteration 13/20
+[16:45:55] film cr_film_id=4923 name='Královnin gambit (2023) CZ Dabing' candidates=1
+[16:45:55]   candidate upload_id=0b382703b5711fc9 url=https://prehraj.to/kralovnin-gambit-2023-cz-dab-1080p/0b382703b5711fc9
+[16:45:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kralovnin-gambit-2023-cz-dab-1080p/0b382703b5711fc9 (permanent=True)
+[16:45:56] film cr_film_id=4923 all candidates exhausted
+[16:45:56] iteration 14/20
+[16:45:56] film cr_film_id=4925 name='Včelař (2024) CZ Dabing' candidates=15
+[16:45:56]   candidate upload_id=60b3fe1b32e0f619 url=https://prehraj.to/vcelar-the-beekeeper-2024-cz-dabing-1080p/60b3fe1b32e0f619
+[16:46:02]   resolved in 6.4s → 1080p (https://pf-storage3.premiumcdn.net/159817796/myLfzqSk3T9BCANTKpsOpSqkUqZFoqHWoI8…)
+[16:51:12]   downloaded 2,524.4 MB in 307.4s (8.2 MB/s)
+[16:54:18]   upload done video_id=26130915 in 186.3s
