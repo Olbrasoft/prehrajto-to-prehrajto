@@ -27218,6 +27218,25 @@
         "download_sec": 63.0,
         "upload_sec": 90.9
       }
+    },
+    {
+      "cr_film_id": 30793,
+      "cr_slug": "pari",
+      "title": "Pari",
+      "year": 2018,
+      "display_name": "Pari (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5b2cc707bf060",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26113404,
+      "size_bytes": 476750338,
+      "uploaded_at": "2026-06-19T04:10:04Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 28.1,
+        "upload_sec": 29.8
+      }
     }
   ],
   "failed_attempts": [
@@ -27667,5 +27686,5 @@
       "failed_at": "2026-06-18T13:58:21Z"
     }
   ],
-  "last_updated": "2026-06-19T04:09:00Z"
+  "last_updated": "2026-06-19T04:10:04Z"
 }
