@@ -34969,6 +34969,25 @@
         "download_sec": 40.0,
         "upload_sec": 54.1
       }
+    },
+    {
+      "cr_film_id": 1792,
+      "cr_slug": "amsal",
+      "title": "Amsal",
+      "year": 2015,
+      "display_name": "Amsal (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "56503b400c57e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26137488,
+      "size_bytes": 821105075,
+      "uploaded_at": "2026-06-19T22:03:55Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 42.0,
+        "upload_sec": 54.7
+      }
     }
   ],
   "failed_attempts": [
@@ -35548,5 +35567,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T22:02:13Z"
+  "last_updated": "2026-06-19T22:03:55Z"
 }
