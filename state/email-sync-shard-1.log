@@ -7664,3 +7664,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:01:14]   upload done video_id=26113227 in 107.0s
 [04:01:15] film cr_film_id=4107 OK in 191.1s
 [04:01:15] batch-end ok=18 failed=2 dur=3099.4s avg/film=172.2s remaining=16243 eta_hours=777.0
+
+===== run 2026-06-19T04:32:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27805547399) =====
+[04:32:40] description overrides loaded: 8207 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:32:40] batch-start shard=1/2 count=20 backlog=17650 uploads=1407 failed_attempts=110 description_overrides=8207
+[04:32:40] login
+[04:32:42] login done
+[04:32:42] iteration 1/20
+[04:32:42] film cr_film_id=4109 name='Smrtelné zlo: Probuzení (2023) CZ Dabing' candidates=6
+[04:32:42]   candidate upload_id=68b22639bcc6a url=https://prehraj.to/smrtelne-zlo-probuzeni-2023-cz-dabing-uhdr/68b22639bcc6a
+[04:32:43]   resolved in 1.5s → 1080p (https://pf-storage4.premiumcdn.net/144904413/9kdTrOfZNTDxirQhvZtoAf7RSX4cjAtbKTq…)
+[04:34:57]   downloaded 1,711.3 MB in 131.0s (13.1 MB/s)
+[04:36:38]   upload done video_id=26113961 in 101.5s
