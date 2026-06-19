@@ -32157,6 +32157,25 @@
         "download_sec": 16.0,
         "upload_sec": 24.3
       }
+    },
+    {
+      "cr_film_id": 20414,
+      "cr_slug": "the-neighbor",
+      "title": "The Neighbor",
+      "year": 2016,
+      "display_name": "The Neighbor (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "57e3b5d07a37b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26127469,
+      "size_bytes": 321242405,
+      "uploaded_at": "2026-06-19T14:45:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 12.1,
+        "upload_sec": 23.3
+      }
     }
   ],
   "failed_attempts": [
@@ -32724,5 +32743,5 @@
       "failed_at": "2026-06-19T13:24:08Z"
     }
   ],
-  "last_updated": "2026-06-19T14:45:17Z"
+  "last_updated": "2026-06-19T14:45:57Z"
 }
