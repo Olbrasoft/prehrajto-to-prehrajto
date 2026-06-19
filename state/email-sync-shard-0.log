@@ -7328,3 +7328,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:28:02]   upload done video_id=26111481 in 88.3s
 [02:28:04] film cr_film_id=3728 OK in 172.4s
 [02:28:04] batch-end ok=19 failed=1 dur=3389.2s avg/film=178.4s remaining=16265 eta_hours=806.0
+
+===== run 2026-06-19T02:28:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27801667488) =====
+[02:28:32] description overrides loaded: 8207 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:28:32] batch-start shard=0/2 count=20 backlog=17650 uploads=1385 failed_attempts=108 description_overrides=8207
+[02:28:32] login
+[02:28:34] login done
+[02:28:34] iteration 1/20
+[02:28:34] film cr_film_id=3730 name='Zpráva (2021) CZ Dabing' candidates=3
+[02:28:34]   candidate upload_id=687000b27f41e175 url=https://prehraj.to/zprava-2019-cz-dab-1080p-mp4/687000b27f41e175
+[02:28:35]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/167633705/QX0Imvf3OcVWhWJIYBH8jfv5c48h02imWF1…)
+[02:29:11]   downloaded 1,200.0 MB in 34.9s (34.4 MB/s)
+[02:29:58]   upload done video_id=26111530 in 46.9s
