@@ -9888,3 +9888,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:50:08]   upload done video_id=26137192 in 42.3s
 [21:50:10] film cr_film_id=5175 OK in 89.8s
 [21:50:10] batch-end ok=20 failed=0 dur=6005.9s avg/film=300.3s remaining=15959 eta_hours=1331.2
+
+===== run 2026-06-19T21:50:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27850006738) =====
+[21:50:44] description overrides loaded: 13088 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:50:44] batch-start shard=1/2 count=20 backlog=17650 uploads=1691 failed_attempts=149 description_overrides=13088
+[21:50:44] login
+[21:50:49] login done
+[21:50:49] iteration 1/20
+[21:50:49] film cr_film_id=5201 name='Husí kůže (2015) CZ Dabing' candidates=28
+[21:50:49]   candidate upload_id=5ad0f2229c775 url=https://prehraj.to/husi-kuze-cz-dabing-2015/5ad0f2229c775
+[21:50:50]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/3868864/Awpi80CdQUOeCdOhLKcJwCRDSq2uEpfYOsoRs…)
+[21:51:13]   downloaded 614.4 MB in 21.8s (28.2 MB/s)
+[21:51:41]   upload done video_id=26137222 in 27.6s
