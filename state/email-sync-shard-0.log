@@ -8387,3 +8387,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:10:02]   upload done video_id=26120946 in 40.3s
 [10:10:04] film cr_film_id=4218 OK in 72.6s
 [10:10:04] batch-end ok=20 failed=0 dur=4329.6s avg/film=216.5s remaining=16132 eta_hours=970.2
+
+===== run 2026-06-19T10:10:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27819477258) =====
+[10:10:46] description overrides loaded: 9789 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:10:46] batch-start shard=0/2 count=20 backlog=17650 uploads=1518 failed_attempts=136 description_overrides=9789
+[10:10:46] login
+[10:10:48] login done
+[10:10:48] iteration 1/20
+[10:10:48] film cr_film_id=4226 name='Milosrdné lži 2 (2019) CZ Dabing' candidates=2
+[10:10:48]   candidate upload_id=5ddfe3f184220 url=https://prehraj.to/milosrdne-lzi-2-2019-czdab-by-fidlatko/5ddfe3f184220
+[10:10:49]   resolved in 1.5s → 1080p (https://pf-storage1.premiumcdn.net/15362143/MPMiqMhmZUYAtxQu4yhEVh6Mtn1s7Ks1EuzX…)
+[10:13:05]   downloaded 2,817.0 MB in 133.7s (21.1 MB/s)
+[10:16:04]   upload done video_id=26120990 in 178.6s
