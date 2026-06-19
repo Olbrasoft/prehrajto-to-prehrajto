@@ -9263,3 +9263,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [06:49:54]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/16072258/AYOtkWSeKcgyua2ierHedSAdcrbfRwc5gfLX…)
 [06:51:36]   downloaded 2,071.3 MB in 100.7s (20.6 MB/s)
 [06:53:50]   upload done video_id=26116534 in 133.8s
+[06:53:53] film cr_film_id=17293 OK in 239.9s
+[06:53:53] iteration 9/20
+[06:53:53] film cr_film_id=30773 name='Constantine: City of Demons - The Movie (2018) CZ Titulky' candidates=1
+[06:53:53]   candidate upload_id=087f5e5f877ff061 url=https://prehraj.to/constantine-city-of-demons-the-movie-2018-en-cz-tit-mp4/087f5e5f877ff061
+[06:53:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/constantine-city-of-demons-the-movie-2018-en-cz-tit-mp4/087f5e5f877ff061 (permanent=True)
+[06:53:53] film cr_film_id=30773 all candidates exhausted
+[06:53:53] iteration 10/20
+[06:53:53] film cr_film_id=21035 name='Coldplay: A Head Full of Dreams (2018) CZ Titulky' candidates=2
+[06:53:53]   candidate upload_id=5c0bf2aed0e48 url=https://prehraj.to/coldplay-a-head-full-of-dreams-hudebni-dokument-2018-720p-h264-s-cztitulky-sten-ok/5c0bf2aed0e48
+[06:53:59]   resolved in 6.3s → 720p (https://pf-storage2.premiumcdn.net/9291620/9JnuRES3LcKofdgsyqU0LS7ef9Lseos9BSR2u…)
+[06:55:57]   downloaded 2,433.9 MB in 115.5s (21.1 MB/s)
+[06:59:04]   upload done video_id=26116586 in 186.9s
