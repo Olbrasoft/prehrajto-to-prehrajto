@@ -10955,3 +10955,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [16:03:04]   upload done video_id=26129450 in 101.1s
 [16:03:06] film cr_film_id=28613 OK in 476.3s
 [16:03:06] batch-end ok=20 failed=0 dur=4712.6s avg/film=235.6s remaining=8338 eta_hours=545.7
+
+===== run 2026-06-19T16:03:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27836197916) =====
+[16:03:38] batch-start shard=1/2 count=20 backlog=10210 uploads=1872 failed_attempts=67 description_overrides=0
+[16:03:38] login
+[16:03:40] login done
+[16:03:40] iteration 1/20
+[16:03:40] film cr_film_id=35687 name='Tag (2015) CZ Titulky' candidates=1
+[16:03:40]   candidate upload_id=6647e1032f10a url=https://prehraj.to/tag-2015-cz-tit/6647e1032f10a
+[16:03:41]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/77409917/ZK3TE1i29i5LUPztV5umLi5LsdoIePTD1toj…)
+[16:03:52]   downloaded 254.5 MB in 9.1s (28.0 MB/s)
+[16:04:03]   upload done video_id=26129516 in 11.2s
