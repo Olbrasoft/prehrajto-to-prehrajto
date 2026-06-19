@@ -25906,6 +25906,25 @@
         "download_sec": 8.1,
         "upload_sec": 8.6
       }
+    },
+    {
+      "cr_film_id": 19312,
+      "cr_slug": "lola",
+      "title": "Lola",
+      "year": 2019,
+      "display_name": "Lola (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60ba9e9833dfe",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26110142,
+      "size_bytes": 2248137731,
+      "uploaded_at": "2026-06-19T01:23:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 76.6,
+        "upload_sec": 96.6
+      }
     }
   ],
   "failed_attempts": [
@@ -26440,5 +26459,5 @@
       "failed_at": "2026-06-19T00:52:02Z"
     }
   ],
-  "last_updated": "2026-06-19T01:20:30Z"
+  "last_updated": "2026-06-19T01:23:27Z"
 }
