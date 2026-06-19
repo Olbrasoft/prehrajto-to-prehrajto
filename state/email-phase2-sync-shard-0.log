@@ -11584,3 +11584,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [20:49:10]   upload done video_id=26136129 in 22.9s
 [20:49:12] film cr_film_id=28386 OK in 453.9s
 [20:49:12] batch-end ok=20 failed=0 dur=3164.1s avg/film=158.2s remaining=8246 eta_hours=362.4
+
+===== run 2026-06-19T20:58:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27848169226) =====
+[20:58:57] batch-start shard=0/2 count=20 backlog=10210 uploads=1964 failed_attempts=80 description_overrides=0
+[20:58:57] login
+[20:58:59] login done
+[20:58:59] iteration 1/20
+[20:58:59] film cr_film_id=29278 name='Karbala (2015) CZ Titulky' candidates=10
+[20:58:59]   candidate upload_id=56f79d1acda34 url=https://prehraj.to/karbala-2015-cz-titulky/56f79d1acda34
+[20:59:00]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/21848/LqouKJcvKTmDSdpipZIyPc38HXAtBDuYpsADsLX…)
+[21:00:48]   downloaded 606.2 MB in 106.5s (5.7 MB/s)
+[21:01:33]   upload done video_id=26136342 in 44.7s
