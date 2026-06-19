@@ -28776,6 +28776,25 @@
         "download_sec": 70.0,
         "upload_sec": 89.0
       }
+    },
+    {
+      "cr_film_id": 5115,
+      "cr_slug": "apostle",
+      "title": "Apostle",
+      "year": 2018,
+      "display_name": "Apostle (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5bd19309a3019",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26118134,
+      "size_bytes": 575701613,
+      "uploaded_at": "2026-06-19T08:00:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 34.3,
+        "upload_sec": 35.3
+      }
     }
   ],
   "failed_attempts": [
@@ -29244,5 +29263,5 @@
       "failed_at": "2026-06-19T06:53:53Z"
     }
   ],
-  "last_updated": "2026-06-19T07:59:05Z"
+  "last_updated": "2026-06-19T08:00:20Z"
 }
