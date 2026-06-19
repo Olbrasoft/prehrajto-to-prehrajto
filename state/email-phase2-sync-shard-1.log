@@ -8765,3 +8765,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [03:25:15]   upload done video_id=26112672 in 36.6s
 [03:25:16] film cr_film_id=30687 OK in 67.6s
 [03:25:16] batch-end ok=20 failed=0 dur=2362.7s avg/film=118.1s remaining=8635 eta_hours=283.3
+
+===== run 2026-06-19T03:48:05Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27804116703) =====
+[03:48:06] batch-start shard=1/2 count=20 backlog=10210 uploads=1575 failed_attempts=63 description_overrides=0
+[03:48:06] login
+[03:48:08] login done
+[03:48:08] iteration 1/20
+[03:48:08] film cr_film_id=20921 name='Pásky z Nagana (2018) CZ Titulky' candidates=7
+[03:48:08]   candidate upload_id=608d75743b13d url=https://prehraj.to/pasky-z-nagana-2018-cz-titulky-hd/608d75743b13d
+[03:48:10]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/23337966/m7KTxNi9PUg4F5WHBAinkiAgtvWc7vfo8Uol…)
+[03:48:46]   downloaded 601.8 MB in 34.1s (17.6 MB/s)
+[03:49:21]   upload done video_id=26113041 in 34.8s
