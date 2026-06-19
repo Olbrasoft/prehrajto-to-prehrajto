@@ -34950,6 +34950,25 @@
         "download_sec": 72.9,
         "upload_sec": 71.4
       }
+    },
+    {
+      "cr_film_id": 28460,
+      "cr_slug": "amy",
+      "title": "Amy",
+      "year": 2015,
+      "display_name": "Amy (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5cac8eb1bd2cb",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26137457,
+      "size_bytes": 861602141,
+      "uploaded_at": "2026-06-19T22:02:13Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 40.0,
+        "upload_sec": 54.1
+      }
     }
   ],
   "failed_attempts": [
@@ -35529,5 +35548,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T22:00:34Z"
+  "last_updated": "2026-06-19T22:02:13Z"
 }
