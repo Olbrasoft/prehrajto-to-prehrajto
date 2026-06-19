@@ -8378,3 +8378,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:42:54]   upload done video_id=26110401 in 34.9s
 [01:42:55] film cr_film_id=30958 OK in 65.4s
 [01:42:55] batch-end ok=20 failed=0 dur=2404.0s avg/film=120.2s remaining=8682 eta_hours=289.9
+
+===== run 2026-06-19T01:43:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27800258401) =====
+[01:43:54] batch-start shard=0/2 count=20 backlog=10210 uploads=1528 failed_attempts=76 description_overrides=0
+[01:43:54] login
+[01:43:56] login done
+[01:43:56] iteration 1/20
+[01:43:56] film cr_film_id=19272 name='Kdo si myslíš, že jsem (2019) CZ Titulky' candidates=2
+[01:43:56]   candidate upload_id=618c1ede9e79f url=https://prehraj.to/kdo-si-myslis-ze-jsem-2019-cztitulky/618c1ede9e79f
+[01:43:57]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/26360971/nB8U0vCGniqDh56HVqHrGCD2T4NIPji0lc49…)
+[01:45:24]   downloaded 1,616.6 MB in 84.5s (19.1 MB/s)
+[01:47:09]   upload done video_id=26110452 in 104.7s
