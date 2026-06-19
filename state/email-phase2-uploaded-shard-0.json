@@ -29915,6 +29915,25 @@
         "download_sec": 307.0,
         "upload_sec": 127.0
       }
+    },
+    {
+      "cr_film_id": 30432,
+      "cr_slug": "zama",
+      "title": "Zama",
+      "year": 2017,
+      "display_name": "Zama (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5d272156e929b",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26120980,
+      "size_bytes": 682439962,
+      "uploaded_at": "2026-06-19T10:13:14Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 40.7,
+        "upload_sec": 40.8
+      }
     }
   ],
   "failed_attempts": [
@@ -30475,5 +30494,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T10:11:47Z"
+  "last_updated": "2026-06-19T10:13:14Z"
 }
