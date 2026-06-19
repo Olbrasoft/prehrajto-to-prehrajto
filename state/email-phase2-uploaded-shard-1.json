@@ -33070,6 +33070,25 @@
         "download_sec": 60.2,
         "upload_sec": 124.9
       }
+    },
+    {
+      "cr_film_id": 18929,
+      "cr_slug": "luna-de-miel",
+      "title": "Luna de miel",
+      "year": 2015,
+      "display_name": "Luna de miel (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ff2280b983a1",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26130261,
+      "size_bytes": 422675970,
+      "uploaded_at": "2026-06-19T16:29:33Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 16.7,
+        "upload_sec": 21.3
+      }
     }
   ],
   "failed_attempts": [
@@ -33557,5 +33576,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T16:28:50Z"
+  "last_updated": "2026-06-19T16:29:33Z"
 }
