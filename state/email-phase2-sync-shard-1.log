@@ -10225,3 +10225,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:48:27]   upload done video_id=26122836 in 17.4s
 [11:48:29] film cr_film_id=29385 OK in 38.9s
 [11:48:29] batch-end ok=19 failed=1 dur=2801.8s avg/film=147.5s remaining=8438 eta_hours=345.7
+
+===== run 2026-06-19T11:50:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27823994523) =====
+[11:50:51] batch-start shard=1/2 count=20 backlog=10210 uploads=1772 failed_attempts=67 description_overrides=0
+[11:50:51] login
+[11:50:53] login done
+[11:50:53] iteration 1/20
+[11:50:53] film cr_film_id=16769 name='Zabít Reagana (2016) CZ Titulky' candidates=5
+[11:50:53]   candidate upload_id=5cc7709e830e6 url=https://prehraj.to/killing-ground-2016-hdrip-cztit/5cc7709e830e6
+[11:50:54]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/13131918/0wRIzqUBPSqaSy1HdjTQpUZQTr5TYNhl4upB…)
+[11:51:23]   downloaded 545.9 MB in 26.2s (20.8 MB/s)
+[11:51:56]   upload done video_id=26122959 in 33.3s
