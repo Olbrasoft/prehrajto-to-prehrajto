@@ -28757,6 +28757,25 @@
         "download_sec": 59.9,
         "upload_sec": 85.9
       }
+    },
+    {
+      "cr_film_id": 16723,
+      "cr_slug": "armed",
+      "title": "Armed",
+      "year": 2018,
+      "display_name": "Armed (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5aa4de428c799",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26118070,
+      "size_bytes": 1223386410,
+      "uploaded_at": "2026-06-19T07:59:05Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 70.0,
+        "upload_sec": 89.0
+      }
     }
   ],
   "failed_attempts": [
@@ -29225,5 +29244,5 @@
       "failed_at": "2026-06-19T06:53:53Z"
     }
   ],
-  "last_updated": "2026-06-19T07:56:20Z"
+  "last_updated": "2026-06-19T07:59:05Z"
 }
