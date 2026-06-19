@@ -10126,3 +10126,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [11:50:13]   upload done video_id=26122869 in 67.8s
 [11:50:15] film cr_film_id=5580 OK in 114.6s
 [11:50:15] batch-end ok=20 failed=0 dur=2903.8s avg/film=145.2s remaining=8444 eta_hours=340.6
+
+===== run 2026-06-19T11:50:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27823994523) =====
+[11:50:50] batch-start shard=0/2 count=20 backlog=10210 uploads=1766 failed_attempts=78 description_overrides=0
+[11:50:50] login
+[11:50:52] login done
+[11:50:52] iteration 1/20
+[11:50:52] film cr_film_id=5164 name='Oklamaný (2017) CZ Titulky' candidates=6
+[11:50:52]   candidate upload_id=5cde380f3cf31 url=https://prehraj.to/oklamany-the-beguiled-2017-cztit/5cde380f3cf31
+[11:50:53]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/13418031/BeNc85IbzS3dIQDC93sNVIGrskJsxDi7dFNq…)
+[11:51:40]   downloaded 842.2 MB in 44.3s (19.0 MB/s)
+[11:52:26]   upload done video_id=26122964 in 45.6s
