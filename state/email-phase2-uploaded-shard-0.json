@@ -28205,6 +28205,25 @@
         "download_sec": 140.0,
         "upload_sec": 166.3
       }
+    },
+    {
+      "cr_film_id": 30612,
+      "cr_slug": "segfault",
+      "title": "Segfault",
+      "year": 2018,
+      "display_name": "Segfault (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e567526e1bee",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26116764,
+      "size_bytes": 1057526517,
+      "uploaded_at": "2026-06-19T07:08:22Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 77.0,
+        "upload_sec": 57.1
+      }
     }
   ],
   "failed_attempts": [
@@ -28765,5 +28784,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T07:06:01Z"
+  "last_updated": "2026-06-19T07:08:22Z"
 }
