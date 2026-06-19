@@ -25333,6 +25333,25 @@
         "download_sec": 68.7,
         "upload_sec": 135.0
       }
+    },
+    {
+      "cr_film_id": 4389,
+      "cr_slug": "mamma-mia",
+      "title": "Mamma Mia!",
+      "year": 2008,
+      "display_name": "Mamma Mia! (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "657252a6470f7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26119531,
+      "size_bytes": 753597437,
+      "uploaded_at": "2026-06-19T09:05:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.2,
+        "upload_sec": 30.1
+      }
     }
   ],
   "failed_attempts": [
@@ -26171,5 +26190,5 @@
       "failed_at": "2026-06-19T07:41:36Z"
     }
   ],
-  "last_updated": "2026-06-19T09:04:44Z"
+  "last_updated": "2026-06-19T09:05:40Z"
 }
