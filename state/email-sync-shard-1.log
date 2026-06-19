@@ -8704,3 +8704,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:43:59]   upload done video_id=26122711 in 14.9s
 [11:44:00] film cr_film_id=4585 OK in 33.5s
 [11:44:00] batch-end ok=18 failed=2 dur=2219.8s avg/film=123.3s remaining=16110 eta_hours=551.8
+
+===== run 2026-06-19T11:47:46Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27823859303) =====
+[11:47:48] description overrides loaded: 10728 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:47:48] batch-start shard=1/2 count=20 backlog=17650 uploads=1540 failed_attempts=128 description_overrides=10728
+[11:47:48] login
+[11:47:49] login done
+[11:47:49] iteration 1/20
+[11:47:49] film cr_film_id=4587 name='Jen kost a kůže (2020) CZ' candidates=3
+[11:47:49]   candidate upload_id=604b3f578419f url=https://prehraj.to/len-kost-a-koza-drama-nemecko-2019-1080p-2-0-x264-sk-53-sten-ok/604b3f578419f
+[11:47:50]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/22634762/ZKnulKSVYf6LIAdcljtzWSWKCX9UB2Tz5sp0…)
+[11:49:05]   downloaded 2,064.8 MB in 72.5s (28.5 MB/s)
+[11:50:57]   upload done video_id=26122868 in 112.2s
