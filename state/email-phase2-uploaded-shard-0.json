@@ -31454,6 +31454,25 @@
         "download_sec": 72.6,
         "upload_sec": 106.9
       }
+    },
+    {
+      "cr_film_id": 33110,
+      "cr_slug": "curvature",
+      "title": "Curvature",
+      "year": 2017,
+      "display_name": "Curvature (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e382423b945e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26125425,
+      "size_bytes": 1154424228,
+      "uploaded_at": "2026-06-19T13:32:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 48.0,
+        "upload_sec": 52.4
+      }
     }
   ],
   "failed_attempts": [
@@ -32021,5 +32040,5 @@
       "failed_at": "2026-06-19T13:24:08Z"
     }
   ],
-  "last_updated": "2026-06-19T13:31:07Z"
+  "last_updated": "2026-06-19T13:32:54Z"
 }
