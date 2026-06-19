@@ -35483,6 +35483,25 @@
         "download_sec": 8.8,
         "upload_sec": 14.2
       }
+    },
+    {
+      "cr_film_id": 28235,
+      "cr_slug": "libertador",
+      "title": "Libertador",
+      "year": 2013,
+      "display_name": "Libertador (2013) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5648b9186c65a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26138101,
+      "size_bytes": 772658160,
+      "uploaded_at": "2026-06-19T22:33:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 37.2,
+        "upload_sec": 69.5
+      }
     }
   ],
   "failed_attempts": [
@@ -35970,5 +35989,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T22:32:03Z"
+  "last_updated": "2026-06-19T22:33:53Z"
 }
