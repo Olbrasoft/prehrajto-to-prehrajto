@@ -25438,6 +25438,25 @@
         "download_sec": 98.9,
         "upload_sec": 132.4
       }
+    },
+    {
+      "cr_film_id": 4156,
+      "cr_slug": "amonit",
+      "title": "Amonit",
+      "year": 2020,
+      "display_name": "Amonit (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6192912b51d02",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26119463,
+      "size_bytes": 1128077517,
+      "uploaded_at": "2026-06-19T09:04:04Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 48.3,
+        "upload_sec": 80.6
+      }
     }
   ],
   "failed_attempts": [
@@ -26399,5 +26418,5 @@
       "failed_at": "2026-06-19T08:44:00Z"
     }
   ],
-  "last_updated": "2026-06-19T09:01:50Z"
+  "last_updated": "2026-06-19T09:04:04Z"
 }
