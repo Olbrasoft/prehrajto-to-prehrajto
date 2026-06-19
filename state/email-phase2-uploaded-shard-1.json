@@ -33697,6 +33697,25 @@
         "download_sec": 383.7,
         "upload_sec": 82.3
       }
+    },
+    {
+      "cr_film_id": 20129,
+      "cr_slug": "zavisla",
+      "title": "Závislá",
+      "year": 2014,
+      "display_name": "Závislá (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5648e61a764f7",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26132205,
+      "size_bytes": 564974860,
+      "uploaded_at": "2026-06-19T17:52:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.0,
+        "upload_sec": 45.8
+      }
     }
   ],
   "failed_attempts": [
@@ -34184,5 +34203,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T17:51:23Z"
+  "last_updated": "2026-06-19T17:52:37Z"
 }
