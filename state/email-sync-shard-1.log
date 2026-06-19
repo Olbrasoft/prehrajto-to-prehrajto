@@ -8049,3 +8049,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:40:26]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/3161733/6OnsPzTYdIKjhyQCm4c21T3Xh5eupdiKNCEzC…)
 [07:40:55]   downloaded 425.5 MB in 26.6s (16.0 MB/s)
 [07:41:26]   upload done video_id=26117642 in 30.6s
+[07:41:28] film cr_film_id=4295 OK in 62.3s
+[07:41:28] iteration 14/20
+[07:41:28] film cr_film_id=4297 name='Po čem ženy touží (2000) CZ Dabing' candidates=1
+[07:41:28]   candidate upload_id=120f5e43f27781bd url=https://prehraj.to/po-cem-zeny-touzi-2000-cz-dabing-1080p/120f5e43f27781bd
+[07:41:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/po-cem-zeny-touzi-2000-cz-dabing-1080p/120f5e43f27781bd (permanent=True)
+[07:41:30] film cr_film_id=4297 all candidates exhausted
+[07:41:30] iteration 15/20
+[07:41:30] film cr_film_id=4299 name='Piráti z Karibiku: Salazarova pomsta (2017) CZ Dabing' candidates=27
+[07:41:30]   candidate upload_id=5c010d71d2b1d url=https://prehraj.to/pirati-z-karibiku-salazarova-pomsta-pirates-of-the-caribbean-dead-men-tell-no-tales-2017-1080p-bluray-en-dts-cz-dabing-5-1-x264-rls-tayto/5c010d71d2b1d
+[07:41:36]   resolve FAILED: upload not found (404): https://prehraj.to/pirati-z-karibiku-salazarova-pomsta-pirates-of-the-caribbean-dead-men-tell-no-tales-2017-1080p-bluray-en-dts-cz-dabing-5-1-x264-rls-tayto/5c010d71d2b1d (permanent=True)
+[07:41:36]   candidate upload_id=5c01985cd8fea url=https://prehraj.to/pirati-z-karibiku-salazarova-pomsta-2017-web-dl-cz-dabing/5c01985cd8fea
+[07:41:43]   resolved in 6.4s → 480p (https://pf-storage1.premiumcdn.net/8882774/n5wHpnCVPuZnsy1Ig6c0rCVEc1WF8xtaXFl5s…)
+[07:42:28]   downloaded 929.4 MB in 42.9s (21.7 MB/s)
+[07:43:45]   upload done video_id=26117677 in 77.3s
