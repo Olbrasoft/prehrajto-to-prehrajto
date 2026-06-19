@@ -25761,6 +25761,25 @@
         "download_sec": 95.2,
         "upload_sec": 125.1
       }
+    },
+    {
+      "cr_film_id": 4216,
+      "cr_slug": "last-christmas",
+      "title": "Last Christmas",
+      "year": 2019,
+      "display_name": "Last Christmas (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68d94bb9c15de",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26120905,
+      "size_bytes": 1639959206,
+      "uploaded_at": "2026-06-19T10:08:50Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 73.3,
+        "upload_sec": 100.1
+      }
     }
   ],
   "failed_attempts": [
@@ -26736,5 +26755,5 @@
       "failed_at": "2026-06-19T09:48:04Z"
     }
   ],
-  "last_updated": "2026-06-19T10:05:50Z"
+  "last_updated": "2026-06-19T10:08:50Z"
 }
