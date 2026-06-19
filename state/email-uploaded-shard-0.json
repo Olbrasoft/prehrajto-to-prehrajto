@@ -27148,6 +27148,25 @@
         "download_sec": 60.0,
         "upload_sec": 126.6
       }
+    },
+    {
+      "cr_film_id": 4538,
+      "cr_slug": "cyrano",
+      "title": "Cyrano",
+      "year": 2021,
+      "display_name": "Cyrano (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a569a6996349811e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26125755,
+      "size_bytes": 1439052594,
+      "uploaded_at": "2026-06-19T13:49:56Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 68.6,
+        "upload_sec": 70.8
+      }
     }
   ],
   "failed_attempts": [
@@ -28156,7 +28175,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/holky-na-tripu-2023-cz-dabing/484c2395dff5afe0",
       "permanent": true,
       "failed_at": "2026-06-19T13:36:38Z"
+    },
+    {
+      "cr_film_id": 4538,
+      "upload_id": "24113abe0e37da68",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cyrano-2022-cz-dabing-mkv-mp4/24113abe0e37da68",
+      "permanent": true,
+      "failed_at": "2026-06-19T13:47:28Z"
     }
   ],
-  "last_updated": "2026-06-19T13:47:23Z"
+  "last_updated": "2026-06-19T13:49:56Z"
 }
