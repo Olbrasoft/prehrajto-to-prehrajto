@@ -27775,6 +27775,25 @@
         "download_sec": 56.1,
         "upload_sec": 77.7
       }
+    },
+    {
+      "cr_film_id": 4652,
+      "cr_slug": "shaft",
+      "title": "Shaft",
+      "year": 2019,
+      "display_name": "Shaft (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "26bd78ec79905e7b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26128905,
+      "size_bytes": 1938159655,
+      "uploaded_at": "2026-06-19T15:41:43Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 78.6,
+        "upload_sec": 123.9
+      }
     }
   ],
   "failed_attempts": [
@@ -28839,7 +28858,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muj-andilek-2019-cz-dabing/f50ebcac71ad86cb",
       "permanent": true,
       "failed_at": "2026-06-19T15:05:21Z"
+    },
+    {
+      "cr_film_id": 4652,
+      "upload_id": "5fd4a1b87f415",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/shaft-cz-dabing-mp4/5fd4a1b87f415",
+      "permanent": true,
+      "failed_at": "2026-06-19T15:38:12Z"
     }
   ],
-  "last_updated": "2026-06-19T15:38:09Z"
+  "last_updated": "2026-06-19T15:41:43Z"
 }
