@@ -12022,3 +12022,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:00:07]   upload done video_id=26138686 in 48.6s
 [23:00:09] film cr_film_id=18728 OK in 79.0s
 [23:00:09] batch-end ok=20 failed=0 dur=2220.0s avg/film=111.0s remaining=8186 eta_hours=252.4
+
+===== run 2026-06-19T23:00:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27852219158) =====
+[23:00:49] batch-start shard=0/2 count=20 backlog=10210 uploads=2024 failed_attempts=80 description_overrides=0
+[23:00:49] login
+[23:00:50] login done
+[23:00:50] iteration 1/20
+[23:00:50] film cr_film_id=28926 name='Poslední Naruto (2014) CZ Titulky' candidates=4
+[23:00:50]   candidate upload_id=5692268026f20 url=https://prehraj.to/the-last-naruto-the-movie-2014-cztit/5692268026f20
+[23:00:52]   resolved in 1.3s → 480p (https://pf-storage4.premiumcdn.net/346932/nmEILjuOEfB2fpkHQyf2quR1UEZUG5hBmI5jsA…)
+[23:01:21]   downloaded 563.3 MB in 27.0s (20.9 MB/s)
+[23:01:58]   upload done video_id=26138738 in 36.9s
