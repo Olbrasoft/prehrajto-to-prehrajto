@@ -9090,3 +9090,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [06:21:09]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/12962787/LxOSm2sNXsDdf4DiBzsQJskytGjFEWhV6cqJ…)
 [06:24:42]   downloaded 4,168.8 MB in 210.4s (19.8 MB/s)
 [06:28:52]   upload done video_id=26116034 in 250.8s
+[06:28:55] film cr_film_id=29572 OK in 466.9s
+[06:28:55] iteration 19/20
+[06:28:55] film cr_film_id=30648 name='The Death of Superman (2018) CZ Titulky' candidates=1
+[06:28:55]   candidate upload_id=2112ae3d474aed63 url=https://prehraj.to/the-death-of-superman-2018-en-cz-tit-mp4/2112ae3d474aed63
+[06:28:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/the-death-of-superman-2018-en-cz-tit-mp4/2112ae3d474aed63 (permanent=True)
+[06:28:56] film cr_film_id=30648 all candidates exhausted
+[06:28:56] iteration 20/20
+[06:28:56] film cr_film_id=33390 name='The Dawnseeker (2018) CZ Titulky' candidates=1
+[06:28:56]   candidate upload_id=5c487e04919e8 url=https://prehraj.to/the-dawnseeker-2018-cz-titulky-vlozene/5c487e04919e8
+[06:29:02]   resolved in 6.3s → 720p (https://pf-storage1.premiumcdn.net/11237959/Xq4IZ4TGZs03te7IEAHRvT57s0xF62URytDB…)
+[06:30:22]   downloaded 1,209.7 MB in 77.4s (15.6 MB/s)
+[06:32:00]   upload done video_id=26116189 in 98.4s
