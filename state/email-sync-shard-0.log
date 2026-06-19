@@ -8062,3 +8062,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:56:46]   resolved in 2.6s → 1080p (https://pf-storage3.premiumcdn.net/168268369/Xo9cZOfXLuJYTnRHRxULAf3yCygudKHW0SM…)
 [07:58:26]   downloaded 1,721.6 MB in 97.6s (17.6 MB/s)
 [08:00:42]   upload done video_id=26118091 in 136.9s
+[08:00:45] film cr_film_id=4066 OK in 241.7s
+[08:00:45] iteration 18/20
+[08:00:45] film cr_film_id=4074 name='Abigail (2024) CZ Dabing' candidates=1
+[08:00:45]   candidate upload_id=7c051782ffbcd456 url=https://prehraj.to/abigail-2024-cz-dab-1080p/7c051782ffbcd456
+[08:00:46]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/abigail-2024-cz-dab-1080p/7c051782ffbcd456 (permanent=True)
+[08:00:46] film cr_film_id=4074 all candidates exhausted
+[08:00:46] iteration 19/20
+[08:00:46] film cr_film_id=4076 name='Úsměv (2022) CZ Dabing' candidates=6
+[08:00:46]   candidate upload_id=68eb4eb43ed4a url=https://prehraj.to/usmev-2022-cz-dab-1080p/68eb4eb43ed4a
+[08:00:53]   resolved in 6.7s → 1080p (https://pf-storage3.premiumcdn.net/151047444/A3nie8hKQu7Ot3xU8ztl7hoKtVDi9QuzaFg…)
+[08:02:17]   downloaded 1,827.5 MB in 82.1s (22.3 MB/s)
+[08:04:00]   upload done video_id=26118195 in 103.5s
