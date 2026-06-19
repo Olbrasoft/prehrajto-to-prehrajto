@@ -34722,6 +34722,25 @@
         "download_sec": 255.9,
         "upload_sec": 53.2
       }
+    },
+    {
+      "cr_film_id": 3930,
+      "cr_slug": "dcera",
+      "title": "Dcera",
+      "year": 2015,
+      "display_name": "Dcera (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58b2805b521d0",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26137092,
+      "size_bytes": 334400686,
+      "uploaded_at": "2026-06-19T21:44:48Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 248.5,
+        "upload_sec": 28.0
+      }
     }
   ],
   "failed_attempts": [
@@ -35301,5 +35320,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T21:40:07Z"
+  "last_updated": "2026-06-19T21:44:48Z"
 }
