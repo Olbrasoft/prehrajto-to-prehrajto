@@ -31816,6 +31816,25 @@
         "download_sec": 33.8,
         "upload_sec": 51.4
       }
+    },
+    {
+      "cr_film_id": 30449,
+      "cr_slug": "jiste-zeny",
+      "title": "Jisté ženy",
+      "year": 2016,
+      "display_name": "Jisté ženy (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5884f7ce8fe77",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26125653,
+      "size_bytes": 408918538,
+      "uploaded_at": "2026-06-19T13:42:02Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.3,
+        "upload_sec": 17.2
+      }
     }
   ],
   "failed_attempts": [
@@ -32303,5 +32322,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T13:41:25Z"
+  "last_updated": "2026-06-19T13:42:02Z"
 }
