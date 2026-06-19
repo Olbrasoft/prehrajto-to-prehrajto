@@ -26758,6 +26758,25 @@
         "download_sec": 160.0,
         "upload_sec": 295.7
       }
+    },
+    {
+      "cr_film_id": 4671,
+      "cr_slug": "escobar-cz",
+      "title": "Escobar",
+      "year": 2017,
+      "display_name": "Escobar (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ff075096a3d6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26125032,
+      "size_bytes": 1202571894,
+      "uploaded_at": "2026-06-19T13:13:01Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 51.3,
+        "upload_sec": 78.8
+      }
     }
   ],
   "failed_attempts": [
@@ -27706,5 +27725,5 @@
       "failed_at": "2026-06-19T12:20:19Z"
     }
   ],
-  "last_updated": "2026-06-19T13:10:45Z"
+  "last_updated": "2026-06-19T13:13:01Z"
 }
