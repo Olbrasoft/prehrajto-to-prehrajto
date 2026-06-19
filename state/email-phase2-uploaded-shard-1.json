@@ -36319,6 +36319,25 @@
         "download_sec": 24.6,
         "upload_sec": 27.9
       }
+    },
+    {
+      "cr_film_id": 33421,
+      "cr_slug": "dawn-rider",
+      "title": "Dawn Rider",
+      "year": 2012,
+      "display_name": "Dawn Rider (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5cd9d0a0cb3f9",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26139926,
+      "size_bytes": 392958285,
+      "uploaded_at": "2026-06-19T23:57:03Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 21.6,
+        "upload_sec": 41.8
+      }
     }
   ],
   "failed_attempts": [
@@ -36806,5 +36825,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T23:55:55Z"
+  "last_updated": "2026-06-19T23:57:03Z"
 }
