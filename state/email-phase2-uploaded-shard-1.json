@@ -30695,6 +30695,25 @@
         "download_sec": 90.3,
         "upload_sec": 96.8
       }
+    },
+    {
+      "cr_film_id": 20651,
+      "cr_slug": "6-days",
+      "title": "6 Days",
+      "year": 2017,
+      "display_name": "6 Days (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5aa1cccfc7843",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26122448,
+      "size_bytes": 1477271691,
+      "uploaded_at": "2026-06-19T11:34:28Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 82.4,
+        "upload_sec": 95.9
+      }
     }
   ],
   "failed_attempts": [
@@ -31182,5 +31201,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T11:31:24Z"
+  "last_updated": "2026-06-19T11:34:28Z"
 }
