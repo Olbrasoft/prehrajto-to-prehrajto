@@ -11292,3 +11292,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [18:09:03]   upload done video_id=26132517 in 131.7s
 [18:09:04] film cr_film_id=33024 OK in 211.3s
 [18:09:04] batch-end ok=19 failed=1 dur=2894.8s avg/film=152.4s remaining=8286 eta_hours=350.8
+
+===== run 2026-06-19T18:10:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27841561671) =====
+[18:10:31] batch-start shard=0/2 count=20 backlog=10210 uploads=1924 failed_attempts=80 description_overrides=0
+[18:10:31] login
+[18:10:32] login done
+[18:10:32] iteration 1/20
+[18:10:32] film cr_film_id=29264 name='Compulsion (2016) CZ Titulky' candidates=1
+[18:10:32]   candidate upload_id=60ec87c6b0ef4 url=https://prehraj.to/compulsion-2016-cztitulky/60ec87c6b0ef4
+[18:10:33]   resolved in 1.1s → 720p (https://pf-storage2.premiumcdn.net/24254220/JeVc6NU0OcrKTlpIzOsgdU35HbwCo0TV5sM8…)
+[18:11:54]   downloaded 1,104.5 MB in 78.4s (14.1 MB/s)
+[18:13:06]   upload done video_id=26132643 in 72.0s
