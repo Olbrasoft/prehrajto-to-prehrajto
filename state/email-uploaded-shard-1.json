@@ -27442,6 +27442,25 @@
         "download_sec": 50.4,
         "upload_sec": 85.5
       }
+    },
+    {
+      "cr_film_id": 4843,
+      "cr_slug": "metro",
+      "title": "Metro",
+      "year": 2013,
+      "display_name": "Metro (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5837165b62ebb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26127802,
+      "size_bytes": 936475387,
+      "uploaded_at": "2026-06-19T14:58:45Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.7,
+        "upload_sec": 63.1
+      }
     }
   ],
   "failed_attempts": [
@@ -28397,5 +28416,5 @@
       "failed_at": "2026-06-19T13:42:58Z"
     }
   ],
-  "last_updated": "2026-06-19T14:57:04Z"
+  "last_updated": "2026-06-19T14:58:45Z"
 }
