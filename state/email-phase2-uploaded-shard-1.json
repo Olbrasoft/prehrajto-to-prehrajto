@@ -34058,6 +34058,25 @@
         "download_sec": 153.8,
         "upload_sec": 157.5
       }
+    },
+    {
+      "cr_film_id": 7109,
+      "cr_slug": "syn-bozi",
+      "title": "Syn Boží",
+      "year": 2014,
+      "display_name": "Syn Boží (2014) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5e93f9985f7f4",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26133193,
+      "size_bytes": 852277545,
+      "uploaded_at": "2026-06-19T18:46:44Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 491.5,
+        "upload_sec": 66.1
+      }
     }
   ],
   "failed_attempts": [
@@ -34545,5 +34564,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T18:37:21Z"
+  "last_updated": "2026-06-19T18:46:44Z"
 }
