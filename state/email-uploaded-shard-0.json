@@ -22778,6 +22778,25 @@
         "download_sec": 53.5,
         "upload_sec": 71.8
       }
+    },
+    {
+      "cr_film_id": 3620,
+      "cr_slug": "ve-jmenu-cti",
+      "title": "Ve jménu cti",
+      "year": 2023,
+      "display_name": "Ve jménu cti (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6629d02d6cb7b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26110008,
+      "size_bytes": 1373511936,
+      "uploaded_at": "2026-06-19T01:14:45Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 39.1,
+        "upload_sec": 63.2
+      }
     }
   ],
   "failed_attempts": [
@@ -23529,7 +23548,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/beetlejuice-beetlejuice-michael-keaton-winona-ryder-jenna-ortega-monica-bellucci-2024-komedie-fantasy-horor-bdrip-1080p-cz-dabing/6722b86794a97",
       "permanent": true,
       "failed_at": "2026-06-19T00:57:50Z"
+    },
+    {
+      "cr_film_id": 3620,
+      "upload_id": "c154eadc89625587",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ve-jmenu-cti-2023-cz-dab-1080p/c154eadc89625587",
+      "permanent": true,
+      "failed_at": "2026-06-19T01:12:50Z"
+    },
+    {
+      "cr_film_id": 3620,
+      "upload_id": "c405c90cc4f0968e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ve-jmenu-cti-2023-cz-dab-1080p-mp4/c405c90cc4f0968e",
+      "permanent": true,
+      "failed_at": "2026-06-19T01:12:56Z"
     }
   ],
-  "last_updated": "2026-06-19T01:12:48Z"
+  "last_updated": "2026-06-19T01:14:45Z"
 }
