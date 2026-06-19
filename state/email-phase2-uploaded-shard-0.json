@@ -27863,6 +27863,25 @@
         "download_sec": 12.5,
         "upload_sec": 12.4
       }
+    },
+    {
+      "cr_film_id": 8248,
+      "cr_slug": "seznam-pro-honor",
+      "title": "The Honor List",
+      "year": 2018,
+      "display_name": "The Honor List (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f6f8925ae556",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26115787,
+      "size_bytes": 1525656352,
+      "uploaded_at": "2026-06-19T06:11:18Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 82.7,
+        "upload_sec": 82.4
+      }
     }
   ],
   "failed_attempts": [
@@ -28416,5 +28435,5 @@
       "failed_at": "2026-06-19T02:07:06Z"
     }
   ],
-  "last_updated": "2026-06-19T06:08:28Z"
+  "last_updated": "2026-06-19T06:11:18Z"
 }
