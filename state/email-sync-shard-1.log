@@ -8551,3 +8551,35 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:06:27]   upload done video_id=26121966 in 91.1s
 [11:06:28] film cr_film_id=4507 OK in 147.8s
 [11:06:28] batch-end ok=20 failed=0 dur=3352.0s avg/film=167.6s remaining=16128 eta_hours=750.8
+
+===== run 2026-06-19T11:06:57Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27822051173) =====
+[11:06:59] description overrides loaded: 10377 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:06:59] batch-start shard=1/2 count=20 backlog=17650 uploads=1522 failed_attempts=121 description_overrides=10377
+[11:06:59] login
+[11:07:00] login done
+[11:07:00] iteration 1/20
+[11:07:00] film cr_film_id=4509 name='Renfield (2023) CZ Dabing' candidates=1
+[11:07:00]   candidate upload_id=616b4937d085672c url=https://prehraj.to/renfield-2023-cz-dabing-hd-mp4/616b4937d085672c
+[11:07:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/renfield-2023-cz-dabing-hd-mp4/616b4937d085672c (permanent=True)
+[11:07:01] film cr_film_id=4509 all candidates exhausted
+[11:07:01] iteration 2/20
+[11:07:01] film cr_film_id=4515 name='Služka (2022) CZ Dabing' candidates=6
+[11:07:01]   candidate upload_id=32fa32d13cc911fc url=https://prehraj.to/sluzka-2023-czdab-mp4/32fa32d13cc911fc
+[11:07:07]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sluzka-2023-czdab-mp4/32fa32d13cc911fc (permanent=True)
+[11:07:07]   candidate upload_id=51089ac7ed5f14b4 url=https://prehraj.to/sluzka-2023-czdab/51089ac7ed5f14b4
+[11:07:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sluzka-2023-czdab/51089ac7ed5f14b4 (permanent=True)
+[11:07:12]   candidate upload_id=87e9924f5efae6ff url=https://prehraj.to/sluzka-2023-czdab-mp4/87e9924f5efae6ff
+[11:07:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sluzka-2023-czdab-mp4/87e9924f5efae6ff (permanent=True)
+[11:07:18]   candidate upload_id=20609970afb7118c url=https://prehraj.to/sluzka-2023-czdab-mp4/20609970afb7118c
+[11:07:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sluzka-2023-czdab-mp4/20609970afb7118c (permanent=True)
+[11:07:25]   candidate upload_id=4aeb608d28eb8d1f url=https://prehraj.to/sluzka-2023-czdab-mp4/4aeb608d28eb8d1f
+[11:07:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sluzka-2023-czdab-mp4/4aeb608d28eb8d1f (permanent=True)
+[11:07:31]   candidate upload_id=b1dc7587d72e540a url=https://prehraj.to/sluzka-2023-czdab-mp4/b1dc7587d72e540a
+[11:07:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sluzka-2023-czdab-mp4/b1dc7587d72e540a (permanent=True)
+[11:07:36] film cr_film_id=4515 all candidates exhausted
+[11:07:36] iteration 3/20
+[11:07:36] film cr_film_id=4517 name='Krásný život (2023) CZ Dabing' candidates=3
+[11:07:36]   candidate upload_id=647918a37d5c3 url=https://prehraj.to/krasny-zivot-2023-czdab/647918a37d5c3
+[11:07:42]   resolved in 5.9s → 1080p (https://pf-storage4.premiumcdn.net/41265151/YYwuOnTvKSZDfjOFL8UEzTe2HoVuMvIpaIKo…)
+[11:08:37]   downloaded 1,944.1 MB in 53.0s (36.7 MB/s)
+[11:10:00]   upload done video_id=26122016 in 82.9s
