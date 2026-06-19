@@ -23690,6 +23690,25 @@
         "download_sec": 199.0,
         "upload_sec": 281.6
       }
+    },
+    {
+      "cr_film_id": 3802,
+      "cr_slug": "alfa",
+      "title": "Alfa",
+      "year": 2018,
+      "display_name": "Alfa (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60923c28aab97",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26112723,
+      "size_bytes": 1733314535,
+      "uploaded_at": "2026-06-19T03:30:06Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 87.8,
+        "upload_sec": 100.3
+      }
     }
   ],
   "failed_attempts": [
@@ -24485,5 +24504,5 @@
       "failed_at": "2026-06-19T03:03:18Z"
     }
   ],
-  "last_updated": "2026-06-19T03:26:53Z"
+  "last_updated": "2026-06-19T03:30:06Z"
 }
