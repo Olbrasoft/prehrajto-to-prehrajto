@@ -7354,3 +7354,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:56:17]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/812279/769hxjuNnujOcXATBpudmuz9Cd7HXYu9BhqYf7…)
 [01:56:39]   downloaded 503.3 MB in 20.4s (24.7 MB/s)
 [01:56:59]   upload done video_id=26110790 in 20.0s
+[01:57:00] film cr_film_id=3973 OK in 44.0s
+[01:57:00] iteration 19/20
+[01:57:00] film cr_film_id=3975 name='Válka světů (2005) CZ' candidates=2
+[01:57:00]   candidate upload_id=68956d9005630 url=https://prehraj.to/valka-svetu-2f-war-of-the-worlds-1080p-x264-ac3-5-1-cz-dab-2005/68956d9005630
+[01:57:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/valka-svetu-2f-war-of-the-worlds-1080p-x264-ac3-5-1-cz-dab-2005/68956d9005630 (permanent=True)
+[01:57:01]   candidate upload_id=686dedd8659c7 url=https://prehraj.to/valka-svetu-2005-uhdrdv-cz-en/686dedd8659c7
+[01:57:07]   resolved in 6.2s → 1080p (https://pf-storage5.premiumcdn.net/141397868/OqwHb1SdEhNkUL0f8MhPeSwKUnXuoYtdVi6…)
+[01:59:12]   downloaded 4,435.6 MB in 123.0s (36.1 MB/s)
+[02:03:32]   upload done video_id=26110878 in 260.2s

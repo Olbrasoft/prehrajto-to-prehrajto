@@ -23110,6 +23110,25 @@
         "download_sec": 20.4,
         "upload_sec": 20.0
       }
+    },
+    {
+      "cr_film_id": 3975,
+      "cr_slug": "valka-svetu",
+      "title": "Válka světů",
+      "year": 2005,
+      "display_name": "Válka světů (2005) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "686dedd8659c7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26110878,
+      "size_bytes": 4435568852,
+      "uploaded_at": "2026-06-19T02:03:32Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 123.0,
+        "upload_sec": 260.2
+      }
     }
   ],
   "failed_attempts": [
@@ -23869,7 +23888,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/moje-tlusta-recka-svatba-2002-cz-dab-1080p/a96223862fc80c8e",
       "permanent": true,
       "failed_at": "2026-06-19T01:37:18Z"
+    },
+    {
+      "cr_film_id": 3975,
+      "upload_id": "68956d9005630",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/valka-svetu-2f-war-of-the-worlds-1080p-x264-ac3-5-1-cz-dab-2005/68956d9005630",
+      "permanent": true,
+      "failed_at": "2026-06-19T01:57:01Z"
     }
   ],
-  "last_updated": "2026-06-19T01:56:59Z"
+  "last_updated": "2026-06-19T02:03:32Z"
 }
