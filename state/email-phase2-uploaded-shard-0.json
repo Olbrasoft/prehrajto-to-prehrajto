@@ -32727,6 +32727,25 @@
         "download_sec": 49.6,
         "upload_sec": 77.2
       }
+    },
+    {
+      "cr_film_id": 20620,
+      "cr_slug": "my-guardian-angel",
+      "title": "My Guardian Angel",
+      "year": 2016,
+      "display_name": "My Guardian Angel (2016) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "57ee32863aa82",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26130078,
+      "size_bytes": 459866666,
+      "uploaded_at": "2026-06-19T16:21:33Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.1,
+        "upload_sec": 23.6
+      }
     }
   ],
   "failed_attempts": [
@@ -33294,5 +33313,5 @@
       "failed_at": "2026-06-19T13:24:08Z"
     }
   ],
-  "last_updated": "2026-06-19T16:20:45Z"
+  "last_updated": "2026-06-19T16:21:33Z"
 }
