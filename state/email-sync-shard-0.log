@@ -8812,3 +8812,19 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:48:28]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/145408533/Wzlh0VuPBTNOsrytmWsZLul6iZKsPOfgBfz…)
 [12:50:04]   downloaded 2,226.5 MB in 94.6s (23.5 MB/s)
 [12:52:22]   upload done video_id=26124473 in 137.4s
+[12:52:24] film cr_film_id=4448 OK in 236.4s
+[12:52:24] iteration 19/20
+[12:52:24] film cr_film_id=4450 name='Sucho (2024) CZ Dabing' candidates=3
+[12:52:24]   candidate upload_id=3653dc8165902df6 url=https://prehraj.to/sucho-2024-cz-dab-1080p/3653dc8165902df6
+[12:52:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sucho-2024-cz-dab-1080p/3653dc8165902df6 (permanent=True)
+[12:52:24]   candidate upload_id=02be7654876029ce url=https://prehraj.to/sucho-2024-cz-dab-1080p-mp4/02be7654876029ce
+[12:52:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sucho-2024-cz-dab-1080p-mp4/02be7654876029ce (permanent=True)
+[12:52:30]   candidate upload_id=f402a961c66aa237 url=https://prehraj.to/sila-prirody-sucho-2-2024-cz-dab-1080p/f402a961c66aa237
+[12:52:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sila-prirody-sucho-2-2024-cz-dab-1080p/f402a961c66aa237 (permanent=True)
+[12:52:36] film cr_film_id=4450 all candidates exhausted
+[12:52:36] iteration 20/20
+[12:52:36] film cr_film_id=4452 name='Rez Ball (2024) CZ Dabing' candidates=1
+[12:52:36]   candidate upload_id=66f69a526ed0c url=https://prehraj.to/rez-ball-2024-cz-dabing-1080p/66f69a526ed0c
+[12:52:42]   resolved in 6.0s → 1080p (https://pf-storage3.premiumcdn.net/98653184/pmoslQHeDC6kSr2F8jCRdH4KC97fprfjLcqd…)
+[12:54:24]   downloaded 2,312.6 MB in 100.8s (22.9 MB/s)
+[12:57:15]   upload done video_id=26124568 in 170.6s
