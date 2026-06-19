@@ -11876,3 +11876,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [22:12:47]   upload done video_id=26137654 in 33.3s
 [22:12:49] film cr_film_id=28606 OK in 61.6s
 [22:12:49] batch-end ok=20 failed=0 dur=1533.4s avg/film=76.7s remaining=8206 eta_hours=174.8
+
+===== run 2026-06-19T22:23:06Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27851070656) =====
+[22:23:07] batch-start shard=0/2 count=20 backlog=10210 uploads=2004 failed_attempts=80 description_overrides=0
+[22:23:07] login
+[22:23:09] login done
+[22:23:09] iteration 1/20
+[22:23:09] film cr_film_id=18542 name='Young Ones (2014) CZ Titulky' candidates=3
+[22:23:09]   candidate upload_id=5649606d268cb url=https://prehraj.to/young-ones-2014-cz-tit-akc-sci-fi-drama-koko/5649606d268cb
+[22:23:10]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/323636/3dGcqYHBOsv6sn3IEdt71Haehw2TwxCQ7uW6Te…)
+[22:23:42]   downloaded 505.9 MB in 29.7s (17.0 MB/s)
+[22:24:19]   upload done video_id=26137872 in 37.0s
