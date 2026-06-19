@@ -25640,6 +25640,25 @@
         "download_sec": 149.4,
         "upload_sec": 174.0
       }
+    },
+    {
+      "cr_film_id": 19338,
+      "cr_slug": "nevrland",
+      "title": "Nevrland",
+      "year": 2019,
+      "display_name": "Nevrland (2019) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "600205ec6d1c4",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26109522,
+      "size_bytes": 956565813,
+      "uploaded_at": "2026-06-19T00:51:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 234.6,
+        "upload_sec": 63.6
+      }
     }
   ],
   "failed_attempts": [
@@ -26167,5 +26186,5 @@
       "failed_at": "2026-06-18T23:40:01Z"
     }
   ],
-  "last_updated": "2026-06-19T00:45:57Z"
+  "last_updated": "2026-06-19T00:51:00Z"
 }
