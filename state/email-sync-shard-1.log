@@ -9439,3 +9439,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:15:07]   upload done video_id=26131504 in 63.3s
 [17:15:09] film cr_film_id=4943 OK in 118.4s
 [17:15:09] batch-end ok=16 failed=4 dur=4207.2s avg/film=262.9s remaining=16018 eta_hours=1169.8
+
+===== run 2026-06-19T17:15:37Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27839331357) =====
+[17:15:39] description overrides loaded: 13068 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:15:39] batch-start shard=1/2 count=20 backlog=17650 uploads=1632 failed_attempts=143 description_overrides=13068
+[17:15:39] login
+[17:15:40] login done
+[17:15:40] iteration 1/20
+[17:15:40] film cr_film_id=4947 name='Dívka, která unikla: Příběh Kary Robinsonové (2023) CZ Dabing' candidates=9
+[17:15:40]   candidate upload_id=6527c6cb6d27c url=https://prehraj.to/divka-ktera-unikla-pribeh-kary-robinsonove-2023-cz-dabing-hd-1080p/6527c6cb6d27c
+[17:15:41]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/48041006/pzxflACkKhzQtxXIA5UyPCWVu7EsRrInPTVy…)
+[17:16:20]   downloaded 1,053.5 MB in 36.6s (28.8 MB/s)
+[17:17:23]   upload done video_id=26131538 in 63.5s
