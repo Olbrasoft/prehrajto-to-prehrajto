@@ -10418,3 +10418,19 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:23:31]   upload done video_id=26125290 in 40.0s
 [13:23:33] film cr_film_id=19084 OK in 82.2s
 [13:23:33] batch-end ok=20 failed=0 dur=3133.8s avg/film=156.7s remaining=8404 eta_hours=365.8
+
+===== run 2026-06-19T13:24:06Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27828368410) =====
+[13:24:06] batch-start shard=0/2 count=20 backlog=10210 uploads=1806 failed_attempts=78 description_overrides=0
+[13:24:06] login
+[13:24:08] login done
+[13:24:08] iteration 1/20
+[13:24:08] film cr_film_id=16736 name='Danger Close (2017) CZ Titulky' candidates=1
+[13:24:08]   candidate upload_id=4ef1ff24616eda87 url=https://prehraj.to/danger-close-2017-cz-titulky-mp4/4ef1ff24616eda87
+[13:24:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/danger-close-2017-cz-titulky-mp4/4ef1ff24616eda87 (permanent=True)
+[13:24:08] film cr_film_id=16736 all candidates exhausted
+[13:24:08] iteration 2/20
+[13:24:08] film cr_film_id=19104 name='Dance Academy: The Movie (2017) CZ Titulky' candidates=2
+[13:24:08]   candidate upload_id=619b4ee368b9f url=https://prehraj.to/dance-academy-the-movie-2017-720p-aac-2-0-en-x264-cz-titulky/619b4ee368b9f
+[13:24:14]   resolved in 6.2s → 480p (https://pf-storage1.premiumcdn.net/26722744/j2vsxGFLPsqvU5VHY8hRVFwbT96IkyI3dH40…)
+[13:24:51]   downloaded 851.7 MB in 35.1s (24.3 MB/s)
+[13:26:08]   upload done video_id=26125317 in 77.1s
