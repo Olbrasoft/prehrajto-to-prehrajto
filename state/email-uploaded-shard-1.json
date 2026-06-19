@@ -28601,6 +28601,25 @@
         "download_sec": 66.3,
         "upload_sec": 49.5
       }
+    },
+    {
+      "cr_film_id": 5041,
+      "cr_slug": "stripky",
+      "title": "Střípky",
+      "year": 2021,
+      "display_name": "Střípky (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60d70c743ba42",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26133078,
+      "size_bytes": 1587081550,
+      "uploaded_at": "2026-06-19T18:41:08Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 311.9,
+        "upload_sec": 74.1
+      }
     }
   ],
   "failed_attempts": [
@@ -29673,5 +29692,5 @@
       "failed_at": "2026-06-19T18:18:24Z"
     }
   ],
-  "last_updated": "2026-06-19T18:34:38Z"
+  "last_updated": "2026-06-19T18:41:08Z"
 }
