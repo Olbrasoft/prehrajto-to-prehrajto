@@ -31283,6 +31283,25 @@
         "download_sec": 37.5,
         "upload_sec": 69.6
       }
+    },
+    {
+      "cr_film_id": 30528,
+      "cr_slug": "divoke-vlny-2",
+      "title": "Divoké vlny 2",
+      "year": 2017,
+      "display_name": "Divoké vlny 2 (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58db81b1a7818",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26124959,
+      "size_bytes": 2082493247,
+      "uploaded_at": "2026-06-19T13:11:06Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 108.8,
+        "upload_sec": 132.8
+      }
     }
   ],
   "failed_attempts": [
@@ -31843,5 +31862,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T13:07:00Z"
+  "last_updated": "2026-06-19T13:11:06Z"
 }
