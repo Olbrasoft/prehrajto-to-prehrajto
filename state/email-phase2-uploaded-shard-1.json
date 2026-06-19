@@ -35863,6 +35863,25 @@
         "download_sec": 32.0,
         "upload_sec": 38.9
       }
+    },
+    {
+      "cr_film_id": 6895,
+      "cr_slug": "vhs",
+      "title": "V/H/S",
+      "year": 2012,
+      "display_name": "V/H/S (2012) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ffcec59ca036",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26138913,
+      "size_bytes": 3779957787,
+      "uploaded_at": "2026-06-19T23:12:21Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 142.9,
+        "upload_sec": 184.1
+      }
     }
   ],
   "failed_attempts": [
@@ -36350,5 +36369,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T23:06:49Z"
+  "last_updated": "2026-06-19T23:12:21Z"
 }
