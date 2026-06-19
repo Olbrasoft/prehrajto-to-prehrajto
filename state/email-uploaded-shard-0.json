@@ -23576,6 +23576,25 @@
         "download_sec": 26.9,
         "upload_sec": 45.1
       }
+    },
+    {
+      "cr_film_id": 3788,
+      "cr_slug": "focus",
+      "title": "Focus",
+      "year": 2015,
+      "display_name": "Focus (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5747b59c8e172",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26112200,
+      "size_bytes": 728130344,
+      "uploaded_at": "2026-06-19T03:04:45Z",
+      "timing": {
+        "resolve_sec": 8.2,
+        "download_sec": 21.6,
+        "upload_sec": 55.9
+      }
     }
   ],
   "failed_attempts": [
@@ -24355,7 +24374,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hnuti-odporu-2020-cz-dabing/8e8054823645ed23",
       "permanent": true,
       "failed_at": "2026-06-19T02:58:08Z"
+    },
+    {
+      "cr_film_id": 3788,
+      "upload_id": "68d5ad19415e6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/focus-2015-cz-dab-1080p/68d5ad19415e6",
+      "permanent": true,
+      "failed_at": "2026-06-19T03:03:09Z"
+    },
+    {
+      "cr_film_id": 3788,
+      "upload_id": "6776827295e15",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/podfukar-focus-2015-komedie-krimi-romanticky-czdab/6776827295e15",
+      "permanent": true,
+      "failed_at": "2026-06-19T03:03:18Z"
     }
   ],
-  "last_updated": "2026-06-19T03:03:07Z"
+  "last_updated": "2026-06-19T03:04:45Z"
 }
