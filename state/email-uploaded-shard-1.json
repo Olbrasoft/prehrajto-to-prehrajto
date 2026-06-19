@@ -25181,6 +25181,25 @@
         "download_sec": 44.1,
         "upload_sec": 89.6
       }
+    },
+    {
+      "cr_film_id": 4365,
+      "cr_slug": "quantum-of-solace",
+      "title": "Quantum of Solace",
+      "year": 2008,
+      "display_name": "Quantum of Solace (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e7a604585a8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26118849,
+      "size_bytes": 3020290188,
+      "uploaded_at": "2026-06-19T08:40:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 114.2,
+        "upload_sec": 216.3
+      }
     }
   ],
   "failed_attempts": [
@@ -26019,5 +26038,5 @@
       "failed_at": "2026-06-19T07:41:36Z"
     }
   ],
-  "last_updated": "2026-06-19T08:34:32Z"
+  "last_updated": "2026-06-19T08:40:07Z"
 }
