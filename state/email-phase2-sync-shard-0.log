@@ -8200,3 +8200,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [00:51:04]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/16112716/lPasvXHNdHabSm8fb5SzOH97C54tNRSb7fQA…)
 [00:51:30]   downloaded 404.6 MB in 23.8s (17.0 MB/s)
 [00:51:59]   upload done video_id=26109571 in 29.2s
+[00:52:01] film cr_film_id=31098 OK in 57.5s
+[00:52:01] iteration 17/20
+[00:52:01] film cr_film_id=30674 name='Never Grow Old (2019) CZ Titulky' candidates=1
+[00:52:01]   candidate upload_id=ca3714448e5f5ccd url=https://prehraj.to/never-grow-old-2019-en-cz-tit/ca3714448e5f5ccd
+[00:52:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/never-grow-old-2019-en-cz-tit/ca3714448e5f5ccd (permanent=True)
+[00:52:02] film cr_film_id=30674 all candidates exhausted
+[00:52:02] iteration 18/20
+[00:52:02] film cr_film_id=21060 name='Naeaneui geunom (2019) CZ Titulky' candidates=2
+[00:52:02]   candidate upload_id=5fa2ac4dc1a18 url=https://prehraj.to/naeaneui-geunom-fantasy-komedie-j-korea-2019-1080p-2-0-x264-kor-s-cztitulky-73-sten-ok/5fa2ac4dc1a18
+[00:52:08]   resolved in 6.1s → 720p (https://pf-storage5.premiumcdn.net/19713516/KZAtj6c4YIRnu1XTXoHnmc8AiP9iRxH4XTQE…)
+[00:53:54]   downloaded 1,954.6 MB in 103.9s (18.8 MB/s)
+[00:57:07]   upload done video_id=26109631 in 192.7s
