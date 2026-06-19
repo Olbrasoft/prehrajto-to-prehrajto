@@ -8184,3 +8184,28 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:38:31]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/75204077/b8qhAGSD3cRLtLPHnKs1kSQ0c04cmvhLOUdl…)
 [08:39:03]   downloaded 690.3 MB in 29.8s (23.2 MB/s)
 [08:39:47]   upload done video_id=26118923 in 43.7s
+[08:39:48] film cr_film_id=4118 OK in 78.1s
+[08:39:48] iteration 15/20
+[08:39:48] film cr_film_id=4120 name='Otec Stu (2022) CZ Dabing' candidates=4
+[08:39:48]   candidate upload_id=d7745c0257d0d7fb url=https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p-mp4/d7745c0257d0d7fb
+[08:39:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p-mp4/d7745c0257d0d7fb (permanent=True)
+[08:39:49]   candidate upload_id=a471656da91b9d3c url=https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p-mp4/a471656da91b9d3c
+[08:39:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p-mp4/a471656da91b9d3c (permanent=True)
+[08:39:54]   candidate upload_id=f1de77818e58bdcb url=https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p-mp4/f1de77818e58bdcb
+[08:40:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p-mp4/f1de77818e58bdcb (permanent=True)
+[08:40:00]   candidate upload_id=e0718397767da7af url=https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p/e0718397767da7af
+[08:40:07]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otec-stu-2022-hraji-mark-wahlberg-mel-gibson-cz-dab-1080p/e0718397767da7af (permanent=True)
+[08:40:07] film cr_film_id=4120 all candidates exhausted
+[08:40:07] iteration 16/20
+[08:40:07] film cr_film_id=4132 name='Mimoni 2: Padouch přichází (2022) CZ Dabing' candidates=2
+[08:40:07]   candidate upload_id=d23b9efedfb1925c url=https://prehraj.to/mimoni-2-padouch-prichazi-2022-cz-dabing-1080p-top-quality/d23b9efedfb1925c
+[08:40:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mimoni-2-padouch-prichazi-2022-cz-dabing-1080p-top-quality/d23b9efedfb1925c (permanent=True)
+[08:40:13]   candidate upload_id=31b5d749bc916c1c url=https://prehraj.to/mimoni-2-padouch-prichazi-2022-cz-dabing-1080p-top-quality-mkv/31b5d749bc916c1c
+[08:40:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mimoni-2-padouch-prichazi-2022-cz-dabing-1080p-top-quality-mkv/31b5d749bc916c1c (permanent=True)
+[08:40:19] film cr_film_id=4132 all candidates exhausted
+[08:40:19] iteration 17/20
+[08:40:19] film cr_film_id=4134 name='Scooby-Doo a duch Labužník (2018) CZ' candidates=2
+[08:40:19]   candidate upload_id=6066ef281277b url=https://prehraj.to/scooby-doo-a-batman-proti-superzlocincom-r-2018-1920x1080/6066ef281277b
+[08:40:25]   resolved in 6.0s → 1080p (https://pf-storage5.premiumcdn.net/22924374/Ab4FrMSjoiD9fb8ckwhxvSd4tW5ToRHK3ix5…)
+[08:42:41]   downloaded 1,363.4 MB in 134.7s (10.1 MB/s)
+[08:43:50]   upload done video_id=26118999 in 68.7s
