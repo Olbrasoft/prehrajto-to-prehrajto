@@ -12269,3 +12269,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [23:39:10]   upload done video_id=26139508 in 26.4s
 [23:39:11] film cr_film_id=30305 OK in 55.6s
 [23:39:11] batch-end ok=20 failed=0 dur=2303.7s avg/film=115.2s remaining=8158 eta_hours=261.1
+
+===== run 2026-06-19T23:39:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27853308921) =====
+[23:39:44] batch-start shard=1/2 count=20 backlog=10210 uploads=2052 failed_attempts=67 description_overrides=0
+[23:39:44] login
+[23:39:45] login done
+[23:39:45] iteration 1/20
+[23:39:45] film cr_film_id=27823 name='Marie Krøyer (2012) CZ Titulky' candidates=2
+[23:39:45]   candidate upload_id=580991daa722a url=https://prehraj.to/marie-kroyer-2012-cz-tit/580991daa722a
+[23:39:47]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/728909/nb2UePh4ZCzNCljsWrcmrhdEs8ZFrJH1GFDPir…)
+[23:40:26]   downloaded 746.2 MB in 37.8s (19.7 MB/s)
+[23:41:13]   upload done video_id=26139553 in 46.8s
