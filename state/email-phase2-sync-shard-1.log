@@ -8327,3 +8327,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:01:43]   upload done video_id=26109743 in 194.9s
 [01:01:45] film cr_film_id=14601 OK in 333.8s
 [01:01:45] batch-end ok=20 failed=0 dur=3811.6s avg/film=190.6s remaining=8695 eta_hours=460.4
+
+===== run 2026-06-19T01:02:57Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27798948093) =====
+[01:02:59] batch-start shard=1/2 count=20 backlog=10210 uploads=1515 failed_attempts=63 description_overrides=0
+[01:02:59] login
+[01:03:00] login done
+[01:03:00] iteration 1/20
+[01:03:00] film cr_film_id=17487 name='Adopt a Highway (2019) CZ Titulky' candidates=1
+[01:03:00]   candidate upload_id=5dcd6ac9b6274 url=https://prehraj.to/adopt-a-highway-drama-2019-1080p-x264-s-cztitulky-66-sten-ok/5dcd6ac9b6274
+[01:03:02]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/15267103/X7jS5YhPJFBXfRKcNZS3bhqMTJDtv1FA7Ujq…)
+[01:03:31]   downloaded 762.8 MB in 28.2s (27.1 MB/s)
+[01:04:11]   upload done video_id=26109826 in 40.2s
