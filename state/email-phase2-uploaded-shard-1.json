@@ -28187,6 +28187,25 @@
         "download_sec": 56.8,
         "upload_sec": 63.2
       }
+    },
+    {
+      "cr_film_id": 19281,
+      "cr_slug": "dokonalost",
+      "title": "Dokonalost",
+      "year": 2018,
+      "display_name": "Dokonalost (2018) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5ed305ef1a092",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26115738,
+      "size_bytes": 1266430100,
+      "uploaded_at": "2026-06-19T06:06:11Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 36.6,
+        "upload_sec": 66.6
+      }
     }
   ],
   "failed_attempts": [
@@ -28648,5 +28667,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T06:04:23Z"
+  "last_updated": "2026-06-19T06:06:11Z"
 }
