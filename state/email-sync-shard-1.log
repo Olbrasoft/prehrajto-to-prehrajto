@@ -10140,3 +10140,21 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:15:28]   resolved in 0.9s → 720p (https://pf-storage4.premiumcdn.net/149802636/b4JuW1ToVhbmtEgFDdsgjTYrhVaHGxfYrhx…)
 [23:16:29]   downloaded 2,106.4 MB in 59.2s (35.6 MB/s)
 [23:18:19]   upload done video_id=26139073 in 110.2s
+[23:18:21] film cr_film_id=5319 OK in 173.2s
+[23:18:21] iteration 15/20
+[23:18:21] film cr_film_id=5321 name='Dokonalá shoda (2025) CZ Dabing' candidates=4
+[23:18:21]   candidate upload_id=73455ae0a04961dc url=https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-100/73455ae0a04961dc
+[23:18:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-100/73455ae0a04961dc (permanent=True)
+[23:18:21]   candidate upload_id=c2368eadbaad57d8 url=https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-bh/c2368eadbaad57d8
+[23:18:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-bh/c2368eadbaad57d8 (permanent=True)
+[23:18:27]   candidate upload_id=f8075f868698b17d url=https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing/f8075f868698b17d
+[23:18:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing/f8075f868698b17d (permanent=True)
+[23:18:34]   candidate upload_id=63b95bbd465a74b2 url=https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-behe/63b95bbd465a74b2
+[23:18:40]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dokonala-shoda-materialists-2025-cz-dabing-behe/63b95bbd465a74b2 (permanent=True)
+[23:18:40] film cr_film_id=5321 all candidates exhausted
+[23:18:40] iteration 16/20
+[23:18:40] film cr_film_id=5327 name='Černá vdova (2025) CZ Dabing' candidates=1
+[23:18:40]   candidate upload_id=6845a701596c1 url=https://prehraj.to/cerna-vdova-2025-cz-dab-1080p/6845a701596c1
+[23:18:46]   resolved in 6.4s → 1080p (https://pf-storage5.premiumcdn.net/139472648/M6JHJYcOGhrMSjauVLCNDcpkCePSV7trZHK…)
+[23:20:15]   downloaded 3,052.7 MB in 87.0s (35.1 MB/s)
+[23:22:27]   upload done video_id=26139122 in 132.9s
