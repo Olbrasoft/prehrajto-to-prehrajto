@@ -8950,3 +8950,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:40:00]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/7130912/y0MCLxFqNCzDHYGFVGuzoFVqhNPUVlIkLu4RT…)
 [13:41:26]   downloaded 1,538.4 MB in 83.9s (18.3 MB/s)
 [13:42:55]   upload done video_id=26125646 in 88.3s
+[13:42:57] film cr_film_id=4707 OK in 178.0s
+[13:42:57] iteration 15/20
+[13:42:57] film cr_film_id=4745 name='Gimme Shelter (2013) CZ Dabing' candidates=1
+[13:42:57]   candidate upload_id=1bd36444d6ed6ebe url=https://prehraj.to/gimme-shelter-2013-cz-dabing-hd-mp4/1bd36444d6ed6ebe
+[13:42:58]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/gimme-shelter-2013-cz-dabing-hd-mp4/1bd36444d6ed6ebe (permanent=True)
+[13:42:58] film cr_film_id=4745 all candidates exhausted
+[13:42:58] iteration 16/20
+[13:42:58] film cr_film_id=4747 name='Zrodila se legenda (2014) CZ Dabing' candidates=2
+[13:42:58]   candidate upload_id=1c7edb43f8c1aedd url=https://prehraj.to/zrodila-se-legenda-2014-cz-dab-1080p/1c7edb43f8c1aedd
+[13:43:05]   resolved in 6.4s → 1080p (https://pf-storage3.premiumcdn.net/168399421/6O8cQnS4JUgpUmDHqriXOSoxU8wTRkTElHn…)
+[13:45:38]   downloaded 3,597.9 MB in 150.9s (23.8 MB/s)
+[13:49:05]   upload done video_id=26125721 in 207.1s
