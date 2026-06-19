@@ -28411,6 +28411,25 @@
         "download_sec": 57.2,
         "upload_sec": 104.6
       }
+    },
+    {
+      "cr_film_id": 4997,
+      "cr_slug": "kingsman-prvni-mise",
+      "title": "Kingsman: První mise",
+      "year": 2021,
+      "display_name": "Kingsman: První mise (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "cadf065b1faf82a8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26132206,
+      "size_bytes": 2217778099,
+      "uploaded_at": "2026-06-19T17:53:51Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 62.9,
+        "upload_sec": 118.8
+      }
     }
   ],
   "failed_attempts": [
@@ -29453,7 +29472,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kung-fu-panda-4-2024-cz-dabing-4k-2160p/d325456480cdcb75",
       "permanent": true,
       "failed_at": "2026-06-19T16:54:28Z"
+    },
+    {
+      "cr_film_id": 4995,
+      "upload_id": "67a76596f179b5b4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-blb-2022-cz-dab-1080p/67a76596f179b5b4",
+      "permanent": true,
+      "failed_at": "2026-06-19T17:50:41Z"
     }
   ],
-  "last_updated": "2026-06-19T17:50:39Z"
+  "last_updated": "2026-06-19T17:53:51Z"
 }

@@ -9549,3 +9549,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:47:55]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/32151064/7KJI1zuXYTq1Czjs92sAQu6bFaKilwcapHkr…)
 [17:48:54]   downloaded 1,980.6 MB in 57.2s (34.6 MB/s)
 [17:50:39]   upload done video_id=26132139 in 104.6s
+[17:50:41] film cr_film_id=4991 OK in 166.5s
+[17:50:41] iteration 16/20
+[17:50:41] film cr_film_id=4995 name='Super-Blb (2021) CZ Dabing' candidates=1
+[17:50:41]   candidate upload_id=67a76596f179b5b4 url=https://prehraj.to/super-blb-2022-cz-dab-1080p/67a76596f179b5b4
+[17:50:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-blb-2022-cz-dab-1080p/67a76596f179b5b4 (permanent=True)
+[17:50:41] film cr_film_id=4995 all candidates exhausted
+[17:50:41] iteration 17/20
+[17:50:41] film cr_film_id=4997 name='Kingsman: První mise (2021) CZ Dabing' candidates=4
+[17:50:41]   candidate upload_id=cadf065b1faf82a8 url=https://prehraj.to/kingsman-prvni-mise-2021-cz-dab-1080p/cadf065b1faf82a8
+[17:50:47]   resolved in 5.9s → 720p (https://pf-storage5.premiumcdn.net/167435174/qq6IaZSr5F6YivgTrqcZOSl4CvRtQnt6ZIV…)
+[17:51:52]   downloaded 2,217.8 MB in 62.9s (35.3 MB/s)
+[17:53:51]   upload done video_id=26132206 in 118.8s
