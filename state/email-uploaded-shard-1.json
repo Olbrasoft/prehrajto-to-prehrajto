@@ -29266,6 +29266,25 @@
         "download_sec": 21.8,
         "upload_sec": 27.6
       }
+    },
+    {
+      "cr_film_id": 5205,
+      "cr_slug": "melciny",
+      "title": "Mělčiny",
+      "year": 2016,
+      "display_name": "Mělčiny (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "585343015d292",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26137270,
+      "size_bytes": 2898788100,
+      "uploaded_at": "2026-06-19T21:56:05Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 95.1,
+        "upload_sec": 165.1
+      }
     }
   ],
   "failed_attempts": [
@@ -30352,5 +30371,5 @@
       "failed_at": "2026-06-19T18:58:43Z"
     }
   ],
-  "last_updated": "2026-06-19T21:51:41Z"
+  "last_updated": "2026-06-19T21:56:05Z"
 }
