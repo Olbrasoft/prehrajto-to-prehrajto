@@ -9117,3 +9117,10 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:56:45]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/20118951/26OfdzC8gHa9Imes0Au0wC1dHQpcGWfV5sbN…)
 [15:00:13]   downloaded 3,992.9 MB in 205.7s (19.4 MB/s)
 [15:05:18]   upload done video_id=26127858 in 304.2s
+[15:05:21] film cr_film_id=4608 OK in 516.4s
+[15:05:21] iteration 20/20
+[15:05:21] film cr_film_id=4614 name='Můj andílek (2019) CZ Dabing' candidates=1
+[15:05:21]   candidate upload_id=f50ebcac71ad86cb url=https://prehraj.to/muj-andilek-2019-cz-dabing/f50ebcac71ad86cb
+[15:05:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muj-andilek-2019-cz-dabing/f50ebcac71ad86cb (permanent=True)
+[15:05:21] film cr_film_id=4614 all candidates exhausted
+[15:05:21] batch-end ok=17 failed=3 dur=3339.3s avg/film=196.4s remaining=16038 eta_hours=875.0
