@@ -32766,6 +32766,25 @@
         "download_sec": 20.7,
         "upload_sec": 20.3
       }
+    },
+    {
+      "cr_film_id": 28171,
+      "cr_slug": "strangerland",
+      "title": "Strangerland",
+      "year": 2015,
+      "display_name": "Strangerland (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "55cc596d2a76e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26129586,
+      "size_bytes": 491756628,
+      "uploaded_at": "2026-06-19T16:06:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 54.1,
+        "upload_sec": 46.6
+      }
     }
   ],
   "failed_attempts": [
@@ -33253,5 +33272,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-19T16:04:48Z"
+  "last_updated": "2026-06-19T16:06:33Z"
 }
