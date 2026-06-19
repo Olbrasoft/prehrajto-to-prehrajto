@@ -26882,6 +26882,25 @@
         "download_sec": 21.0,
         "upload_sec": 25.2
       }
+    },
+    {
+      "cr_film_id": 4448,
+      "cr_slug": "priscilla",
+      "title": "Priscilla",
+      "year": 2023,
+      "display_name": "Priscilla (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68b99ac5876ae",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26124473,
+      "size_bytes": 2226496645,
+      "uploaded_at": "2026-06-19T12:52:22Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 94.6,
+        "upload_sec": 137.4
+      }
     }
   ],
   "failed_attempts": [
@@ -27857,5 +27876,5 @@
       "failed_at": "2026-06-19T09:48:04Z"
     }
   ],
-  "last_updated": "2026-06-19T12:48:25Z"
+  "last_updated": "2026-06-19T12:52:22Z"
 }
