@@ -34114,6 +34114,25 @@
         "download_sec": 12.1,
         "upload_sec": 17.0
       }
+    },
+    {
+      "cr_film_id": 20388,
+      "cr_slug": "slow-west",
+      "title": "Slow West",
+      "year": 2015,
+      "display_name": "Slow West (2015) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "55dd41dd71309",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26134975,
+      "size_bytes": 537179198,
+      "uploaded_at": "2026-06-19T20:04:33Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.7,
+        "upload_sec": 28.6
+      }
     }
   ],
   "failed_attempts": [
@@ -34693,5 +34712,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-19T20:03:44Z"
+  "last_updated": "2026-06-19T20:04:33Z"
 }
