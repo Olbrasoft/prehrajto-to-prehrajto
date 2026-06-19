@@ -29934,6 +29934,25 @@
         "download_sec": 40.7,
         "upload_sec": 40.8
       }
+    },
+    {
+      "cr_film_id": 20774,
+      "cr_slug": "you-get-me",
+      "title": "You Get Me",
+      "year": 2017,
+      "display_name": "You Get Me (2017) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5b79871601f8d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26121015,
+      "size_bytes": 661757706,
+      "uploaded_at": "2026-06-19T10:15:04Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 33.8,
+        "upload_sec": 42.6
+      }
     }
   ],
   "failed_attempts": [
@@ -30494,5 +30513,5 @@
       "failed_at": "2026-06-19T06:28:56Z"
     }
   ],
-  "last_updated": "2026-06-19T10:13:14Z"
+  "last_updated": "2026-06-19T10:15:04Z"
 }
