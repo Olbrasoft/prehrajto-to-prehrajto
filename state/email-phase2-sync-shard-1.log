@@ -14794,3 +14794,23 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:59:05]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/168398035/7YztKnf5miz3u4LHBDfzKf12Cx3hqbU58sB…)
 [12:00:21]   downloaded 1,897.5 MB in 74.9s (25.3 MB/s)
 [12:02:55]   upload done video_id=26163118 in 153.7s
+[12:02:56] film cr_film_id=15817 OK in 232.5s
+[12:02:56] iteration 6/20
+[12:02:56] film cr_film_id=10333 name='Perinbaba a dva světy (2023) SK Dabing' candidates=5
+[12:02:56]   candidate upload_id=4eec0a9cb3b82978 url=https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p-mp4/4eec0a9cb3b82978
+[12:02:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p-mp4/4eec0a9cb3b82978 (permanent=True)
+[12:02:57]   candidate upload_id=7e2f93d3771da083 url=https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p-mp4/7e2f93d3771da083
+[12:03:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p-mp4/7e2f93d3771da083 (permanent=True)
+[12:03:03]   candidate upload_id=4b027d1fa2698700 url=https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p-mp4/4b027d1fa2698700
+[12:03:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p-mp4/4b027d1fa2698700 (permanent=True)
+[12:03:08]   candidate upload_id=0f4fcd63c016f9ab url=https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p/0f4fcd63c016f9ab
+[12:03:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p/0f4fcd63c016f9ab (permanent=True)
+[12:03:14]   candidate upload_id=ec00dc1a26ee9d3c url=https://prehraj.to/perinbaba-a-dva-svety-2023-fhd-sk-dab/ec00dc1a26ee9d3c
+[12:03:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-fhd-sk-dab/ec00dc1a26ee9d3c (permanent=True)
+[12:03:19] film cr_film_id=10333 all candidates exhausted
+[12:03:19] iteration 7/20
+[12:03:19] film cr_film_id=15289 name='Ústav strachu (2022) SK Dabing' candidates=2
+[12:03:19]   candidate upload_id=67f8e7e65e825 url=https://prehraj.to/ustav-strachu-2022-sk-dab-1080p/67f8e7e65e825
+[12:03:25]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/134769026/1yEc6QhDXueafjlSVKCJxhplC8jtZxFWdUv…)
+[12:04:50]   downloaded 1,977.6 MB in 82.5s (24.0 MB/s)
+[12:07:59]   upload done video_id=26163285 in 189.4s

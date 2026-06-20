@@ -42646,6 +42646,25 @@
         "download_sec": 74.9,
         "upload_sec": 153.7
       }
+    },
+    {
+      "cr_film_id": 15289,
+      "cr_slug": "ustav-strachu",
+      "title": "Ústav strachu",
+      "year": 2022,
+      "display_name": "Ústav strachu (2022) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "67f8e7e65e825",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26163285,
+      "size_bytes": 1977587898,
+      "uploaded_at": "2026-06-20T12:07:59Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 82.5,
+        "upload_sec": 189.4
+      }
     }
   ],
   "failed_attempts": [
@@ -43187,7 +43206,42 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smrst-2024-cz/23a3df3996cf8336",
       "permanent": true,
       "failed_at": "2026-06-20T11:47:58Z"
+    },
+    {
+      "cr_film_id": 10333,
+      "upload_id": "4eec0a9cb3b82978",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p-mp4/4eec0a9cb3b82978",
+      "permanent": true,
+      "failed_at": "2026-06-20T12:02:57Z"
+    },
+    {
+      "cr_film_id": 10333,
+      "upload_id": "7e2f93d3771da083",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p-mp4/7e2f93d3771da083",
+      "permanent": true,
+      "failed_at": "2026-06-20T12:03:03Z"
+    },
+    {
+      "cr_film_id": 10333,
+      "upload_id": "4b027d1fa2698700",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p-mp4/4b027d1fa2698700",
+      "permanent": true,
+      "failed_at": "2026-06-20T12:03:08Z"
+    },
+    {
+      "cr_film_id": 10333,
+      "upload_id": "0f4fcd63c016f9ab",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-sk-dab-1080p/0f4fcd63c016f9ab",
+      "permanent": true,
+      "failed_at": "2026-06-20T12:03:13Z"
+    },
+    {
+      "cr_film_id": 10333,
+      "upload_id": "ec00dc1a26ee9d3c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/perinbaba-a-dva-svety-2023-fhd-sk-dab/ec00dc1a26ee9d3c",
+      "permanent": true,
+      "failed_at": "2026-06-20T12:03:19Z"
     }
   ],
-  "last_updated": "2026-06-20T12:02:55Z"
+  "last_updated": "2026-06-20T12:07:59Z"
 }
