@@ -12667,3 +12667,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [20:16:13]   upload done video_id=26178228 in 87.4s
 [20:16:17] film cr_film_id=6336 OK in 158.5s
 [20:16:17] batch-end ok=20 failed=0 dur=9795.9s avg/film=489.8s remaining=15579 eta_hours=2119.6
+
+===== run 2026-06-20T20:16:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27882682959) =====
+[20:16:52] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:16:52] batch-start shard=0/2 count=20 backlog=17650 uploads=2071 failed_attempts=195 description_overrides=17579
+[20:16:52] login
+[20:16:53] login done
+[20:16:53] iteration 1/20
+[20:16:53] film cr_film_id=6342 name='Moje sestřenice Rachel (2017) CZ Dabing' candidates=4
+[20:16:53]   candidate upload_id=5c9ea9e4cb0d7 url=https://prehraj.to/moje-sestrenice-rachel-2017-bdrip-cz-dabing/5c9ea9e4cb0d7
+[20:16:54]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/12692008/1vlsNlI76T0rfRGuvZHzZIDRfXnsN5c0yUMl…)
+[20:27:12]   downloaded 467.6 MB in 616.4s (0.8 MB/s)
+[20:27:38]   upload done video_id=26178559 in 25.8s
