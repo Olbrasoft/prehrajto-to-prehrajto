@@ -11457,3 +11457,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:55:08]   resolved in 1.6s → 720p (https://pf-storage5.premiumcdn.net/10793951/MA0TRGUJWS1kTW4TPMUO1UAbIWQTvGFVKcdy…)
 [09:55:56]   downloaded 1,000.0 MB in 46.5s (21.5 MB/s)
 [09:57:31]   upload done video_id=26159128 in 94.4s
+[09:57:34] film cr_film_id=5724 OK in 147.1s
+[09:57:34] iteration 15/20
+[09:57:34] film cr_film_id=5726 name='300: Vzestup říše (2014) CZ Dabing' candidates=1
+[09:57:34]   candidate upload_id=f267254ba1c084ce url=https://prehraj.to/300-vzestup-rise-2014-cz-dab-1080p/f267254ba1c084ce
+[09:57:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/300-vzestup-rise-2014-cz-dab-1080p/f267254ba1c084ce (permanent=True)
+[09:57:34] film cr_film_id=5726 all candidates exhausted
+[09:57:34] iteration 16/20
+[09:57:34] film cr_film_id=5728 name='Kdo hulí, ten umí (2001) CZ Dabing' candidates=28
+[09:57:34]   candidate upload_id=55c6b58cd60bc url=https://prehraj.to/kto-huli-ten-umi-how-high-cz-dabing-2001/55c6b58cd60bc
+[09:57:40]   resolved in 6.0s → 480p (https://pf-storage2.premiumcdn.net/111583/KPgIl2S1et7mTJPt3etM1SgQsxqTAmcaAhz3FM…)
+[09:58:11]   downloaded 578.8 MB in 28.3s (20.5 MB/s)
+[09:59:00]   upload done video_id=26159212 in 49.3s
