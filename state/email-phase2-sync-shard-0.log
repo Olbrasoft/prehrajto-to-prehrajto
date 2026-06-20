@@ -13336,3 +13336,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:43:30]   upload done video_id=26147925 in 102.6s
 [04:43:31] film cr_film_id=26818 OK in 182.8s
 [04:43:31] batch-end ok=20 failed=0 dur=1710.5s avg/film=85.5s remaining=8006 eta_hours=190.1
+
+===== run 2026-06-20T04:57:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27860831174) =====
+[04:57:53] batch-start shard=0/2 count=20 backlog=10210 uploads=2204 failed_attempts=80 description_overrides=0
+[04:57:53] login
+[04:57:55] login done
+[04:57:55] iteration 1/20
+[04:57:55] film cr_film_id=33980 name='Mr. Nice (2010) CZ Titulky' candidates=1
+[04:57:55]   candidate upload_id=628cd8ae88f73 url=https://prehraj.to/mr-nice-2010-fullhd-cztit/628cd8ae88f73
+[04:57:56]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/30944639/7pRhJGTeoU6oIGAfpbcd3TX9CxJimLhe9Hno…)
+[04:59:27]   downloaded 1,623.3 MB in 88.6s (18.3 MB/s)
+[05:01:19]   upload done video_id=26148623 in 112.9s
