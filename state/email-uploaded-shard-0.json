@@ -30283,6 +30283,25 @@
         "download_sec": 50.1,
         "upload_sec": 64.8
       }
+    },
+    {
+      "cr_film_id": 5096,
+      "cr_slug": "zlom",
+      "title": "Zlom",
+      "year": 2019,
+      "display_name": "Zlom (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5eab27cf042c0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26140504,
+      "size_bytes": 1732147024,
+      "uploaded_at": "2026-06-20T00:31:00Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 76.4,
+        "upload_sec": 110.1
+      }
     }
   ],
   "failed_attempts": [
@@ -31438,5 +31457,5 @@
       "failed_at": "2026-06-19T23:38:21Z"
     }
   ],
-  "last_updated": "2026-06-20T00:27:49Z"
+  "last_updated": "2026-06-20T00:31:00Z"
 }
