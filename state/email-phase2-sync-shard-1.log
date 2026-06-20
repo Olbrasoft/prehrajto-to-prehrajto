@@ -14966,3 +14966,21 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:10:43]   resolved in 2.2s → 1080p (https://pf-storage4.premiumcdn.net/96711320/6aNfjyH1Bcd3ub6Ck3cmjHARU3dTB6txYC5y…)
 [13:12:39]   downloaded 2,989.2 MB in 114.4s (26.1 MB/s)
 [13:15:31]   upload done video_id=26165448 in 171.7s
+[13:15:32] film cr_film_id=14665 OK in 292.0s
+[13:15:32] iteration 8/20
+[13:15:32] film cr_film_id=10591 name='Luca | CZ (2021) SK Dabing' candidates=4
+[13:15:32]   candidate upload_id=c4b595a5d61e5abc url=https://prehraj.to/luca-2021-animovany-dobrodruzny-rodinny-fantasy-bdrip-1080p-cz-sk-dabing-mp4/c4b595a5d61e5abc
+[13:15:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/luca-2021-animovany-dobrodruzny-rodinny-fantasy-bdrip-1080p-cz-sk-dabing-mp4/c4b595a5d61e5abc (permanent=True)
+[13:15:36]   candidate upload_id=93465305043ff798 url=https://prehraj.to/luca-2021-animovany-dobrodruzny-rodinny-fantasy-bdrip-1080p-cz-sk-dabing-mp4/93465305043ff798
+[13:15:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/luca-2021-animovany-dobrodruzny-rodinny-fantasy-bdrip-1080p-cz-sk-dabing-mp4/93465305043ff798 (permanent=True)
+[13:15:41]   candidate upload_id=708afbae2522cebf url=https://prehraj.to/luca-2021-animovany-dobrodruzny-rodinny-fantasy-bdrip-1080p-cz-sk-dabing-mp4/708afbae2522cebf
+[13:15:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/luca-2021-animovany-dobrodruzny-rodinny-fantasy-bdrip-1080p-cz-sk-dabing-mp4/708afbae2522cebf (permanent=True)
+[13:15:47]   candidate upload_id=3e5bb3a0d80832ea url=https://prehraj.to/luca-2021-animovany-dobrodruzny-rodinny-fantasy-bdrip-1080p-cz-sk-dabing-mp4/3e5bb3a0d80832ea
+[13:15:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/luca-2021-animovany-dobrodruzny-rodinny-fantasy-bdrip-1080p-cz-sk-dabing-mp4/3e5bb3a0d80832ea (permanent=True)
+[13:15:53] film cr_film_id=10591 all candidates exhausted
+[13:15:53] iteration 9/20
+[13:15:53] film cr_film_id=14811 name='Jsme stvořeni jeden pro druhého (2021) SK Dabing' candidates=5
+[13:15:53]   candidate upload_id=635c5d94ef070 url=https://prehraj.to/sme-stvoreni-jeden-pre-druheho-2021-skdab/635c5d94ef070
+[13:15:59]   resolved in 6.9s → 480p (https://pf-storage3.premiumcdn.net/34170142/VzJHvyibaIjLTOAIk8CJLirPs98iA5tY2SwE…)
+[13:16:29]   downloaded 399.0 MB in 28.5s (14.0 MB/s)
+[13:16:50]   upload done video_id=26165580 in 21.0s
