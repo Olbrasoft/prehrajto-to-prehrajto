@@ -40479,6 +40479,25 @@
         "download_sec": 114.8,
         "upload_sec": 149.9
       }
+    },
+    {
+      "cr_film_id": 25022,
+      "cr_slug": "eros",
+      "title": "Eros",
+      "year": 2004,
+      "display_name": "Eros (2004) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "559a1e42c4c49",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26154704,
+      "size_bytes": 536833946,
+      "uploaded_at": "2026-06-20T07:43:03Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 29.4,
+        "upload_sec": 33.8
+      }
     }
   ],
   "failed_attempts": [
@@ -41058,5 +41077,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-20T07:41:20Z"
+  "last_updated": "2026-06-20T07:43:03Z"
 }

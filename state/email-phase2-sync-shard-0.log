@@ -13920,3 +13920,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [07:41:20]   upload done video_id=26154594 in 149.9s
 [07:41:22] film cr_film_id=25040 OK in 270.5s
 [07:41:22] batch-end ok=20 failed=0 dur=2439.9s avg/film=122.0s remaining=7926 eta_hours=268.6
+
+===== run 2026-06-20T07:41:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27864574549) =====
+[07:41:54] batch-start shard=0/2 count=20 backlog=10210 uploads=2284 failed_attempts=80 description_overrides=0
+[07:41:54] login
+[07:41:56] login done
+[07:41:56] iteration 1/20
+[07:41:56] film cr_film_id=25022 name='Eros (2004) CZ Titulky' candidates=1
+[07:41:56]   candidate upload_id=559a1e42c4c49 url=https://prehraj.to/eros-2004-cz-tit/559a1e42c4c49
+[07:41:57]   resolved in 1.3s → 480p (https://pf-storage4.premiumcdn.net/482812/A53s7bIXbS8jtjxTDQuN5IWGSaDuNBHxpHr2i2…)
+[07:42:29]   downloaded 536.8 MB in 29.4s (18.3 MB/s)
+[07:43:03]   upload done video_id=26154704 in 33.8s
