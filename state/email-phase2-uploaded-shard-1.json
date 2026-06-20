@@ -39739,6 +39739,25 @@
         "download_sec": 48.2,
         "upload_sec": 50.0
       }
+    },
+    {
+      "cr_film_id": 24107,
+      "cr_slug": "zelene-peklo-1988",
+      "title": "Zelené peklo",
+      "year": 1988,
+      "display_name": "Zelené peklo (1988) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "608d71f850794",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26150271,
+      "size_bytes": 886486155,
+      "uploaded_at": "2026-06-20T05:52:19Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 40.7,
+        "upload_sec": 57.5
+      }
     }
   ],
   "failed_attempts": [
@@ -40226,5 +40245,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-20T05:50:35Z"
+  "last_updated": "2026-06-20T05:52:19Z"
 }
