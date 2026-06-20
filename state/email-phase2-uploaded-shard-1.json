@@ -43596,6 +43596,25 @@
         "download_sec": 54.6,
         "upload_sec": 96.7
       }
+    },
+    {
+      "cr_film_id": 7953,
+      "cr_slug": "made-in-china",
+      "title": "Made in China",
+      "year": 2019,
+      "display_name": "Made in China (2019) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "60260d97c7788",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26168497,
+      "size_bytes": 1394727327,
+      "uploaded_at": "2026-06-20T14:32:56Z",
+      "timing": {
+        "resolve_sec": 2.4,
+        "download_sec": 48.7,
+        "upload_sec": 63.4
+      }
     }
   ],
   "failed_attempts": [
@@ -44235,5 +44254,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-20T14:30:58Z"
+  "last_updated": "2026-06-20T14:32:56Z"
 }
