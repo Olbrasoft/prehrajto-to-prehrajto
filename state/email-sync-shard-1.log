@@ -12766,3 +12766,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:50:36]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/1663895/vLeurWIrPtglHrzfplS6eI9LcY1FNkh2wsMAC…)
 [20:58:11]   downloaded 1,873.2 MB in 452.8s (4.1 MB/s)
 [20:59:37]   upload done video_id=26179410 in 86.1s
+[20:59:45] film cr_film_id=6695 OK in 549.9s
+[20:59:45] iteration 9/20
+[20:59:45] film cr_film_id=6701 name='Želvy Ninja 2 (2016) CZ Dabing' candidates=16
+[20:59:45]   candidate upload_id=609ce71b6b04f url=https://prehraj.to/zelvy-ninja-2-2016-1080p-bdrip-x264-cz-dab/609ce71b6b04f
+[20:59:46]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zelvy-ninja-2-2016-1080p-bdrip-x264-cz-dab/609ce71b6b04f (permanent=True)
+[20:59:46]   candidate upload_id=5771a4989883b url=https://prehraj.to/zelvy-ninja-2-cz-dabing-novinka-hd-2016/5771a4989883b
+[20:59:52]   resolved in 6.2s → 480p (https://pf-storage4.premiumcdn.net/219846/40GcDJiE2S1pUAqcDRhNKiArubMhpdCkZuJNSy…)
+[21:09:11]   downloaded 627.5 MB in 557.0s (1.1 MB/s)
+[21:09:43]   upload done video_id=26179663 in 32.4s
