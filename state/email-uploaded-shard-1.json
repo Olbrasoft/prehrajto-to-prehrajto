@@ -32439,6 +32439,25 @@
         "download_sec": 77.1,
         "upload_sec": 96.0
       }
+    },
+    {
+      "cr_film_id": 5863,
+      "cr_slug": "ztraceny-transport",
+      "title": "Ztracený transport",
+      "year": 2022,
+      "display_name": "Ztracený transport (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "634ba6e1b8c3e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26154973,
+      "size_bytes": 1411834300,
+      "uploaded_at": "2026-06-20T07:52:19Z",
+      "timing": {
+        "resolve_sec": 3.1,
+        "download_sec": 56.3,
+        "upload_sec": 67.1
+      }
     }
   ],
   "failed_attempts": [
@@ -33682,7 +33701,19 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/s-tebou-nikdy-2023-cz-dabing-1/2cc2b5aa0f5a8977",
       "permanent": true,
       "failed_at": "2026-06-20T06:39:18Z"
+    },
+    {
+      "cr_film_id": 5863,
+      "upload_id": "63498ddd0c248",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-06-20T07:50:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 57.1,
+        "upload_sec": 75.5
+      }
     }
   ],
-  "last_updated": "2026-06-20T07:47:54Z"
+  "last_updated": "2026-06-20T07:52:19Z"
 }
