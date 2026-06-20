@@ -14066,3 +14066,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [08:20:28]   upload done video_id=26155834 in 130.3s
 [08:20:30] film cr_film_id=13188 OK in 240.4s
 [08:20:30] batch-end ok=20 failed=0 dur=2314.4s avg/film=115.7s remaining=7906 eta_hours=254.1
+
+===== run 2026-06-20T08:21:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27865466211) =====
+[08:21:03] batch-start shard=0/2 count=20 backlog=10210 uploads=2304 failed_attempts=80 description_overrides=0
+[08:21:03] login
+[08:21:05] login done
+[08:21:05] iteration 1/20
+[08:21:05] film cr_film_id=24288 name='Urbania (2000) CZ Titulky' candidates=1
+[08:21:05]   candidate upload_id=587460104daff url=https://prehraj.to/urbania-2000-usa-cz-tit-gay-themed/587460104daff
+[08:21:07]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1404655/dqnc0KH6rFdjhvqSO5i7MH4MTPWSJQUl1C8xh…)
+[08:21:33]   downloaded 404.7 MB in 24.4s (16.6 MB/s)
+[08:22:07]   upload done video_id=26155951 in 34.2s
