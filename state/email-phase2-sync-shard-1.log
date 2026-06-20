@@ -15359,3 +15359,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [15:37:56]   upload done video_id=26170427 in 115.4s
 [15:37:58] film cr_film_id=17177 OK in 191.1s
 [15:37:58] batch-end ok=20 failed=0 dur=3645.5s avg/film=182.3s remaining=7743 eta_hours=392.1
+
+===== run 2026-06-20T15:38:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27875804509) =====
+[15:38:33] batch-start shard=1/2 count=20 backlog=10210 uploads=2467 failed_attempts=88 description_overrides=0
+[15:38:33] login
+[15:38:34] login done
+[15:38:34] iteration 1/20
+[15:38:34] film cr_film_id=31721 name='12 Feet Deep (2018) SK Dabing' candidates=6
+[15:38:34]   candidate upload_id=60ebbbc39019a url=https://prehraj.to/12-feet-deep-2016-skdab/60ebbbc39019a
+[15:38:36]   resolved in 2.3s → 480p (https://pf-storage5.premiumcdn.net/24240657/ye4FMnsb4iDPI8QUwXh3LspDHoltymfdMtEZ…)
+[15:38:57]   downloaded 450.6 MB in 18.3s (24.6 MB/s)
+[15:39:19]   upload done video_id=26170484 in 22.6s
