@@ -12707,3 +12707,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:14:38]   upload done video_id=26141904 in 40.4s
 [01:14:40] film cr_film_id=27143 OK in 66.0s
 [01:14:40] batch-end ok=20 failed=0 dur=1235.2s avg/film=61.8s remaining=8098 eta_hours=139.0
+
+===== run 2026-06-20T01:42:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27856414924) =====
+[01:42:33] batch-start shard=1/2 count=20 backlog=10210 uploads=2112 failed_attempts=67 description_overrides=0
+[01:42:33] login
+[01:42:34] login done
+[01:42:34] iteration 1/20
+[01:42:34] film cr_film_id=27441 name='Montevideo, Cesta za snem (2010) CZ Titulky' candidates=1
+[01:42:34]   candidate upload_id=585a623c204c2 url=https://prehraj.to/montevideo-cesta-za-snem-montevideo-bog-te-video-2010-cz-tit/585a623c204c2
+[01:42:35]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1215944/7rOc93hodFRwi9bsyPHv3h84s7pUPyHr7spWF…)
+[01:43:03]   downloaded 746.4 MB in 26.0s (28.7 MB/s)
+[01:44:18]   upload done video_id=26142496 in 75.3s
