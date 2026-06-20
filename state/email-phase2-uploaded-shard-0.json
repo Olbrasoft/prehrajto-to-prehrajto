@@ -40042,6 +40042,25 @@
         "download_sec": 14.0,
         "upload_sec": 25.7
       }
+    },
+    {
+      "cr_film_id": 32622,
+      "cr_slug": "flandres",
+      "title": "Flandres",
+      "year": 2006,
+      "display_name": "Flandres (2006) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "585a5b0804651",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26152519,
+      "size_bytes": 486901453,
+      "uploaded_at": "2026-06-20T06:44:32Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 18.5,
+        "upload_sec": 23.5
+      }
     }
   ],
   "failed_attempts": [
@@ -40621,5 +40640,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-20T06:43:46Z"
+  "last_updated": "2026-06-20T06:44:32Z"
 }
