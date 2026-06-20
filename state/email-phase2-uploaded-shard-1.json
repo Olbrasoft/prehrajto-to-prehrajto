@@ -43121,6 +43121,25 @@
         "download_sec": 80.7,
         "upload_sec": 106.5
       }
+    },
+    {
+      "cr_film_id": 4627,
+      "cr_slug": "svina",
+      "title": "Sviňa",
+      "year": 2020,
+      "display_name": "Sviňa (2020) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "68983ceebe46f",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26165854,
+      "size_bytes": 1528568997,
+      "uploaded_at": "2026-06-20T13:27:35Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 48.8,
+        "upload_sec": 70.5
+      }
     }
   ],
   "failed_attempts": [
@@ -43748,5 +43767,5 @@
       "failed_at": "2026-06-20T13:15:53Z"
     }
   ],
-  "last_updated": "2026-06-20T13:25:29Z"
+  "last_updated": "2026-06-20T13:27:35Z"
 }
