@@ -11211,3 +11211,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:58:01]   upload done video_id=26155184 in 33.7s
 [07:58:04] film cr_film_id=5602 OK in 59.8s
 [07:58:04] batch-end ok=19 failed=1 dur=2608.0s avg/film=137.3s remaining=15768 eta_hours=601.4
+
+===== run 2026-06-20T08:05:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27865116258) =====
+[08:05:39] description overrides loaded: 13589 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:05:39] batch-start shard=0/2 count=20 backlog=17650 uploads=1882 failed_attempts=179 description_overrides=13589
+[08:05:39] login
+[08:05:40] login done
+[08:05:40] iteration 1/20
+[08:05:40] film cr_film_id=5606 name='Proč právě on? (2016) CZ Dabing' candidates=32
+[08:05:40]   candidate upload_id=5905beaa5ae6d url=https://prehraj.to/proc-prave-on-cz-dabing-fullhd-1080p-2016-msdos/5905beaa5ae6d
+[08:05:41]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/2112409/JZDTmQsRDiJAS2ghj0FD8sWgF1GuVZFaDcvLC…)
+[08:06:30]   downloaded 1,653.9 MB in 47.1s (35.1 MB/s)
+[08:07:38]   upload done video_id=26155492 in 68.6s
