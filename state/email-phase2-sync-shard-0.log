@@ -14210,3 +14210,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [09:10:49]   upload done video_id=26157574 in 128.4s
 [09:10:51] film cr_film_id=33558 OK in 233.4s
 [09:10:51] batch-end ok=19 failed=1 dur=2985.2s avg/film=157.1s remaining=7887 eta_hours=344.2
+
+===== run 2026-06-20T09:11:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27866612100) =====
+[09:11:29] batch-start shard=0/2 count=20 backlog=10210 uploads=2323 failed_attempts=81 description_overrides=0
+[09:11:29] login
+[09:11:31] login done
+[09:11:31] iteration 1/20
+[09:11:31] film cr_film_id=1504 name='Past (1996) CZ Titulky' candidates=4
+[09:11:31]   candidate upload_id=3332f32711e8620b url=https://prehraj.to/bound-1996-cz-titulky/3332f32711e8620b
+[09:11:34]   resolved in 3.3s → 480p (https://pf-storage4.premiumcdn.net/165572324/Gn3SbBUkbIVWhOXIwbsVmUZ0IRpFa2c1KIw…)
+[09:11:58]   downloaded 510.8 MB in 22.0s (23.2 MB/s)
+[09:12:37]   upload done video_id=26157650 in 39.0s
