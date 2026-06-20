@@ -30473,6 +30473,25 @@
         "download_sec": 94.3,
         "upload_sec": 143.7
       }
+    },
+    {
+      "cr_film_id": 5128,
+      "cr_slug": "karate-kid",
+      "title": "Karate Kid",
+      "year": 2010,
+      "display_name": "Karate Kid (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5591bc7f31d29",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26141394,
+      "size_bytes": 844390017,
+      "uploaded_at": "2026-06-20T01:00:09Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 47.6,
+        "upload_sec": 66.0
+      }
     }
   ],
   "failed_attempts": [
@@ -31628,5 +31647,5 @@
       "failed_at": "2026-06-19T23:38:21Z"
     }
   ],
-  "last_updated": "2026-06-20T00:58:08Z"
+  "last_updated": "2026-06-20T01:00:09Z"
 }
