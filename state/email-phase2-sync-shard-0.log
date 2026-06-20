@@ -15523,3 +15523,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [17:44:17]   upload done video_id=26173813 in 122.6s
 [17:44:22] film cr_film_id=15010 OK in 235.0s
 [17:44:22] batch-end ok=20 failed=0 dur=4268.8s avg/film=213.4s remaining=7709 eta_hours=457.0
+
+===== run 2026-06-20T17:44:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27878969424) =====
+[17:44:54] batch-start shard=0/2 count=20 backlog=10210 uploads=2501 failed_attempts=84 description_overrides=0
+[17:44:54] login
+[17:44:56] login done
+[17:44:56] iteration 1/20
+[17:44:56] film cr_film_id=14970 name='Sladké Vánoce (2021) SK Dabing' candidates=1
+[17:44:56]   candidate upload_id=612fe6c65df3b url=https://prehraj.to/sladke-pokusenie-2020-skdab/612fe6c65df3b
+[17:44:57]   resolved in 0.9s → 720p (https://pf-storage2.premiumcdn.net/24780947/lNwfMycWqhNBUW2fZECO2cb5iZbHJqcdDCbn…)
+[17:45:35]   downloaded 1,022.0 MB in 36.0s (28.4 MB/s)
+[17:46:19]   upload done video_id=26173929 in 43.9s
