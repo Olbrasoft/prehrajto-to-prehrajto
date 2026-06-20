@@ -11284,3 +11284,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:16:09]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/12525358/VGzI4wiQncWNH8RtGKUXDiAKFYKt5pU8wSaX…)
 [08:16:48]   downloaded 1,056.8 MB in 37.5s (28.2 MB/s)
 [08:17:36]   upload done video_id=26155788 in 48.6s
+[08:17:37] film cr_film_id=5640 OK in 89.2s
+[08:17:37] iteration 11/20
+[08:17:37] film cr_film_id=5644 name='Keanu - Kočičí gangsterka (2016) CZ' candidates=1
+[08:17:37]   candidate upload_id=a4f98493d467b84e url=https://prehraj.to/keanu-kocici-gangsterka-2016-cz-dabing-mp4/a4f98493d467b84e
+[08:17:38]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/keanu-kocici-gangsterka-2016-cz-dabing-mp4/a4f98493d467b84e (permanent=True)
+[08:17:38] film cr_film_id=5644 all candidates exhausted
+[08:17:38] iteration 12/20
+[08:17:38] film cr_film_id=5646 name='Grimsby (2016) CZ Dabing' candidates=6
+[08:17:38]   candidate upload_id=68d6042026cbb url=https://prehraj.to/grimsby-2016-cz-dab-1080p/68d6042026cbb
+[08:17:44]   resolved in 5.8s → 720p (https://pf-storage1.premiumcdn.net/148475031/XmzSJzhR0tBAigmhEDHndhvoIk9U3JTONck…)
+[08:18:29]   downloaded 1,547.4 MB in 43.6s (35.5 MB/s)
+[08:20:04]   upload done video_id=26155841 in 95.9s
