@@ -41733,6 +41733,25 @@
         "download_sec": 20.8,
         "upload_sec": 21.1
       }
+    },
+    {
+      "cr_film_id": 11664,
+      "cr_slug": "touch-and-go",
+      "title": "Touch and Go",
+      "year": 1986,
+      "display_name": "Touch and Go (1986) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "66242479c5903",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26159699,
+      "size_bytes": 1380771473,
+      "uploaded_at": "2026-06-20T10:17:40Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 79.8,
+        "upload_sec": 120.2
+      }
     }
   ],
   "failed_attempts": [
@@ -42326,5 +42345,5 @@
       "failed_at": "2026-06-20T09:47:48Z"
     }
   ],
-  "last_updated": "2026-06-20T10:14:14Z"
+  "last_updated": "2026-06-20T10:17:40Z"
 }
