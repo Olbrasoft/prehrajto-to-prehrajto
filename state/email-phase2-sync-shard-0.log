@@ -15669,3 +15669,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [20:12:06]   upload done video_id=26178142 in 44.5s
 [20:12:11] film cr_film_id=14304 OK in 225.2s
 [20:12:11] batch-end ok=20 failed=0 dur=8834.3s avg/film=441.7s remaining=7689 eta_hours=943.4
+
+===== run 2026-06-20T20:12:45Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27882580570) =====
+[20:12:46] batch-start shard=0/2 count=20 backlog=10210 uploads=2521 failed_attempts=84 description_overrides=0
+[20:12:46] login
+[20:12:47] login done
+[20:12:48] iteration 1/20
+[20:12:48] film cr_film_id=17060 name='100% bio (2020) SK Dabing' candidates=5
+[20:12:48]   candidate upload_id=60aa54570529b url=https://prehraj.to/100-bio-2020-skdab/60aa54570529b
+[20:12:49]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/23631918/rzmibATebFp8fY3TkdIYgToXCqbsPYsXni5v…)
+[20:14:33]   downloaded 1,814.5 MB in 101.4s (17.9 MB/s)
+[20:16:43]   upload done video_id=26178226 in 130.7s
