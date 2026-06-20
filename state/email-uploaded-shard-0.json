@@ -36971,6 +36971,25 @@
         "download_sec": 50.8,
         "upload_sec": 93.8
       }
+    },
+    {
+      "cr_film_id": 6472,
+      "cr_slug": "pasaz",
+      "title": "Pasáž",
+      "year": 2025,
+      "display_name": "Pasáž (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "685ed06da5f23",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26181979,
+      "size_bytes": 990339531,
+      "uploaded_at": "2026-06-20T22:34:31Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 28.1,
+        "upload_sec": 43.6
+      }
     }
   ],
   "failed_attempts": [
@@ -38378,5 +38397,5 @@
       "failed_at": "2026-06-20T22:02:10Z"
     }
   ],
-  "last_updated": "2026-06-20T22:33:13Z"
+  "last_updated": "2026-06-20T22:34:31Z"
 }
