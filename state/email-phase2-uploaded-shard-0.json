@@ -41467,6 +41467,25 @@
         "download_sec": 14.8,
         "upload_sec": 24.8
       }
+    },
+    {
+      "cr_film_id": 32988,
+      "cr_slug": "benny-s-video",
+      "title": "Benny's Video",
+      "year": 1992,
+      "display_name": "Benny's Video (1992) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58b3fb1633ac4",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26158514,
+      "size_bytes": 455204776,
+      "uploaded_at": "2026-06-20T09:40:18Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 20.2,
+        "upload_sec": 36.0
+      }
     }
   ],
   "failed_attempts": [
@@ -42053,5 +42072,5 @@
       "failed_at": "2026-06-20T09:01:17Z"
     }
   ],
-  "last_updated": "2026-06-20T09:39:17Z"
+  "last_updated": "2026-06-20T09:40:18Z"
 }
