@@ -11628,3 +11628,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:24:54]   resolved in 1.6s → 720p (https://pf-storage5.premiumcdn.net/77885156/mq4HJyTDMC6kUjDUoLc7GTkghlbUyJuBYCEr…)
 [11:25:47]   downloaded 1,206.0 MB in 52.0s (23.2 MB/s)
 [11:26:52]   upload done video_id=26162053 in 64.4s
+[11:26:54] film cr_film_id=5794 OK in 121.6s
+[11:26:54] iteration 19/20
+[11:26:54] film cr_film_id=5800 name='Kurýr z Madridu (2024) CZ Dabing' candidates=1
+[11:26:54]   candidate upload_id=663eb7fb5cb53 url=https://prehraj.to/kuryr-z-madridu-2024-czdab/663eb7fb5cb53
+[11:26:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kuryr-z-madridu-2024-czdab/663eb7fb5cb53 (permanent=True)
+[11:26:54] film cr_film_id=5800 all candidates exhausted
+[11:26:54] iteration 20/20
+[11:26:54] film cr_film_id=5806 name='Mladá dáma (2024) CZ Dabing' candidates=8
+[11:26:54]   candidate upload_id=65fdced8b716f url=https://prehraj.to/mlada-dama-2024-cz-dabing-1080p-fullhd/65fdced8b716f
+[11:27:01]   resolved in 6.2s → 1080p (https://pf-storage5.premiumcdn.net/75039197/gvbT4acBjSDBtjNtRkSGycBdUAKU5MCeXsyM…)
+[11:29:30]   downloaded 2,545.9 MB in 147.6s (17.2 MB/s)
+[11:32:08]   upload done video_id=26162179 in 158.4s
