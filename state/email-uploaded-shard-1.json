@@ -36600,6 +36600,25 @@
         "download_sec": 71.1,
         "upload_sec": 118.8
       }
+    },
+    {
+      "cr_film_id": 6743,
+      "cr_slug": "hostel",
+      "title": "Hostel",
+      "year": 2005,
+      "display_name": "Hostel (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6756f4525bd9a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26181145,
+      "size_bytes": 1042493525,
+      "uploaded_at": "2026-06-20T22:05:30Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 30.3,
+        "upload_sec": 55.7
+      }
     }
   ],
   "failed_attempts": [
@@ -37983,5 +38002,5 @@
       "failed_at": "2026-06-20T20:59:46Z"
     }
   ],
-  "last_updated": "2026-06-20T22:03:58Z"
+  "last_updated": "2026-06-20T22:05:30Z"
 }
