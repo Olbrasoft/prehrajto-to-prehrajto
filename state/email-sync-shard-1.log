@@ -12880,3 +12880,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:05:34]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/639274/2NEFJ3CJzhE2iAwi57Ir0Cv5INaTlehEltDGcX…)
 [22:06:37]   downloaded 338.0 MB in 61.6s (5.5 MB/s)
 [22:06:53]   upload done video_id=26181194 in 16.0s
+[22:06:56] film cr_film_id=6745 OK in 83.0s
+[22:06:56] iteration 4/20
+[22:06:56] film cr_film_id=6747 name='Primát (2025) CZ Dabing' candidates=14
+[22:06:56]   candidate upload_id=9e88a61d65c929cd url=https://prehraj.to/primate-2026-1080p-primat-cz-dabing-mkv/9e88a61d65c929cd
+[22:06:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/primate-2026-1080p-primat-cz-dabing-mkv/9e88a61d65c929cd (permanent=True)
+[22:06:56]   candidate upload_id=2b598d56ba8dd6d9 url=https://prehraj.to/primate-primat-2025-1080p-cz-dabing-mkv/2b598d56ba8dd6d9
+[22:07:02]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/165314084/ZRdsApUXai2gI0GtdrINgU4oCdNTPkT5piX…)
+[22:09:12]   downloaded 1,271.1 MB in 128.1s (9.9 MB/s)
+[22:10:09]   upload done video_id=26181265 in 56.4s
