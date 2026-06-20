@@ -14171,3 +14171,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [08:13:04]   upload done video_id=26155670 in 33.8s
 [08:13:06] film cr_film_id=30127 OK in 71.1s
 [08:13:06] batch-end ok=20 failed=0 dur=1870.6s avg/film=93.5s remaining=7898 eta_hours=205.1
+
+===== run 2026-06-20T08:21:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27865466211) =====
+[08:21:01] batch-start shard=1/2 count=20 backlog=10210 uploads=2312 failed_attempts=69 description_overrides=0
+[08:21:01] login
+[08:21:02] login done
+[08:21:02] iteration 1/20
+[08:21:02] film cr_film_id=21855 name='Dny hněvu (1967) CZ Titulky' candidates=1
+[08:21:02]   candidate upload_id=55bb55c707cac url=https://prehraj.to/dny-hnevu-day-of-anger-1967-lee-van-ceef-da77-cztit/55bb55c707cac
+[08:21:03]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/54582/7aOFN5Ck5SV8UrVuZNIjWCvniE7I64FaQUPNi6J…)
+[08:21:22]   downloaded 472.8 MB in 17.3s (27.3 MB/s)
+[08:21:42]   upload done video_id=26155943 in 20.2s
