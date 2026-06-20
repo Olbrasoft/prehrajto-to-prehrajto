@@ -11038,3 +11038,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:34:57]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/82634075/QBnc7WT68iALT2wSR1hKyTw3sR3tKqU4wu9z…)
 [06:36:31]   downloaded 1,769.2 MB in 91.2s (19.4 MB/s)
 [06:39:14]   upload done video_id=26152243 in 163.4s
+[06:39:17] film cr_film_id=5791 OK in 260.8s
+[06:39:17] iteration 14/20
+[06:39:17] film cr_film_id=5793 name='S tebou nikdy (2023) CZ Dabing' candidates=1
+[06:39:17]   candidate upload_id=2cc2b5aa0f5a8977 url=https://prehraj.to/s-tebou-nikdy-2023-cz-dabing-1/2cc2b5aa0f5a8977
+[06:39:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/s-tebou-nikdy-2023-cz-dabing-1/2cc2b5aa0f5a8977 (permanent=True)
+[06:39:18] film cr_film_id=5793 all candidates exhausted
+[06:39:18] iteration 15/20
+[06:39:18] film cr_film_id=5795 name='Jsem v pořádku? (2022) CZ Dabing' candidates=2
+[06:39:18]   candidate upload_id=3af6e6239cf7116c url=https://prehraj.to/jsem-v-poradku-2022-cz-dab-1080p-mp4/3af6e6239cf7116c
+[06:39:24]   resolved in 6.4s → 720p (https://pf-storage5.premiumcdn.net/168539401/2LaHXNIGnhJXSB2tzqfvyIbJC8OF4ZFV1Iv…)
+[06:40:11]   downloaded 1,036.9 MB in 45.0s (23.0 MB/s)
+[06:41:36]   upload done video_id=26152386 in 84.4s
