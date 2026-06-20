@@ -12853,3 +12853,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [02:11:09]   upload done video_id=26143161 in 128.6s
 [02:11:11] film cr_film_id=26943 OK in 202.5s
 [02:11:11] batch-end ok=20 failed=0 dur=1717.3s avg/film=85.9s remaining=8078 eta_hours=192.8
+
+===== run 2026-06-20T02:20:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27857288528) =====
+[02:20:44] batch-start shard=1/2 count=20 backlog=10210 uploads=2132 failed_attempts=67 description_overrides=0
+[02:20:44] login
+[02:20:45] login done
+[02:20:45] iteration 1/20
+[02:20:45] film cr_film_id=26615 name='Polytechnika (2009) CZ Titulky' candidates=2
+[02:20:45]   candidate upload_id=608e07f43b3fc url=https://prehraj.to/polytechnika-polytechnique-2009-cz-tit/608e07f43b3fc
+[02:20:47]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/23348220/rWoij8Sv4cDRF8oTpPfW1SmyHqBIWJCdGIA9…)
+[02:21:02]   downloaded 314.5 MB in 14.0s (22.5 MB/s)
+[02:21:24]   upload done video_id=26143363 in 21.6s
