@@ -29988,6 +29988,25 @@
         "download_sec": 99.5,
         "upload_sec": 146.1
       }
+    },
+    {
+      "cr_film_id": 5345,
+      "cr_slug": "oblezeny",
+      "title": "Obležený",
+      "year": 2023,
+      "display_name": "Obležený (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "671be8a8e8cd9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26140407,
+      "size_bytes": 1569929185,
+      "uploaded_at": "2026-06-20T00:21:44Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 68.0,
+        "upload_sec": 98.7
+      }
     }
   ],
   "failed_attempts": [
@@ -31130,5 +31149,5 @@
       "failed_at": "2026-06-19T23:25:56Z"
     }
   ],
-  "last_updated": "2026-06-20T00:18:51Z"
+  "last_updated": "2026-06-20T00:21:44Z"
 }
