@@ -12228,3 +12228,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:18:48]   upload done video_id=26169910 in 37.0s
 [15:18:49] film cr_film_id=6126 OK in 67.6s
 [15:18:49] batch-end ok=20 failed=0 dur=1923.7s avg/film=96.2s remaining=15636 eta_hours=417.8
+
+===== run 2026-06-20T15:26:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27875484489) =====
+[15:26:40] description overrides loaded: 17148 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:26:41] batch-start shard=0/2 count=20 backlog=17650 uploads=2014 failed_attempts=190 description_overrides=17148
+[15:26:41] login
+[15:26:42] login done
+[15:26:42] iteration 1/20
+[15:26:42] film cr_film_id=6128 name='Pach krve (2003) CZ Dabing' candidates=21
+[15:26:42]   candidate upload_id=6599c371ca350 url=https://prehraj.to/pach-krve-1-2003-cz-dabing-1080p/6599c371ca350
+[15:26:43]   resolved in 1.7s → 1080p (https://pf-storage3.premiumcdn.net/72083234/gBKIqZi0XI6GC0xSJYtb8i71I3vc8YuVbtbv…)
+[15:28:24]   downloaded 2,139.8 MB in 98.7s (21.7 MB/s)
+[15:31:19]   upload done video_id=26170233 in 175.4s
