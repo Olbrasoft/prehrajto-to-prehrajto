@@ -14317,3 +14317,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [08:52:55]   upload done video_id=26157119 in 18.8s
 [08:52:57] film cr_film_id=21599 OK in 36.4s
 [08:52:57] batch-end ok=20 failed=0 dur=1914.3s avg/film=95.7s remaining=7878 eta_hours=209.4
+
+===== run 2026-06-20T09:11:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27866612100) =====
+[09:11:29] batch-start shard=1/2 count=20 backlog=10210 uploads=2332 failed_attempts=69 description_overrides=0
+[09:11:29] login
+[09:11:31] login done
+[09:11:31] iteration 1/20
+[09:11:31] film cr_film_id=21615 name='Horalka (1960) CZ Titulky' candidates=3
+[09:11:31]   candidate upload_id=60aae34471d6d url=https://prehraj.to/horalka-drama-1960-cz-titulky/60aae34471d6d
+[09:11:33]   resolved in 2.2s → 480p (https://pf-storage1.premiumcdn.net/23639424/vBQfOyuzQTZvsygF79irpuw6TnYt2nT6dUJv…)
+[09:12:26]   downloaded 893.2 MB in 50.6s (17.7 MB/s)
+[09:13:21]   upload done video_id=26157661 in 55.4s
