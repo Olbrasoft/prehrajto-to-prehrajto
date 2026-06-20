@@ -45306,6 +45306,25 @@
         "download_sec": 1249.7,
         "upload_sec": 62.9
       }
+    },
+    {
+      "cr_film_id": 25187,
+      "cr_slug": "christmas",
+      "title": "Christmas",
+      "year": 2003,
+      "display_name": "Christmas (2003) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "588f250ebdf6c",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26179132,
+      "size_bytes": 750624241,
+      "uploaded_at": "2026-06-20T20:48:37Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 39.9,
+        "upload_sec": 92.1
+      }
     }
   ],
   "failed_attempts": [
@@ -45952,5 +45971,5 @@
       "failed_at": "2026-06-20T20:18:59Z"
     }
   ],
-  "last_updated": "2026-06-20T20:46:14Z"
+  "last_updated": "2026-06-20T20:48:37Z"
 }
