@@ -10631,3 +10631,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:04:40]   upload done video_id=26144352 in 74.9s
 [03:04:42] film cr_film_id=5294 OK in 135.4s
 [03:04:42] batch-end ok=19 failed=1 dur=1819.0s avg/film=95.7s remaining=15842 eta_hours=421.1
+
+===== run 2026-06-20T03:20:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27858642136) =====
+[03:20:29] description overrides loaded: 13095 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:20:29] batch-start shard=0/2 count=20 backlog=17650 uploads=1808 failed_attempts=171 description_overrides=13095
+[03:20:29] login
+[03:20:31] login done
+[03:20:31] iteration 1/20
+[03:20:31] film cr_film_id=5296 name='Ranhojič II (2025) CZ Dabing' candidates=4
+[03:20:31]   candidate upload_id=3a33db815d7853f4 url=https://prehraj.to/r-a-n-h-o-j-i-c-2025-cz-dabing-ultra-hd-mp4/3a33db815d7853f4
+[03:20:32]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/168912418/NKqtwPfLptRrUAaHM6TR5fp3tqEsapCgvFa…)
+[03:22:17]   downloaded 2,921.6 MB in 103.3s (28.3 MB/s)
+[03:24:25]   upload done video_id=26144778 in 128.0s
