@@ -41069,6 +41069,25 @@
         "download_sec": 35.5,
         "upload_sec": 37.7
       }
+    },
+    {
+      "cr_film_id": 30127,
+      "cr_slug": "magical-mystery-tour",
+      "title": "Magical Mystery Tour",
+      "year": 1967,
+      "display_name": "Magical Mystery Tour (1967) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60b04337cb1c7",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26155670,
+      "size_bytes": 889015437,
+      "uploaded_at": "2026-06-20T08:13:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.2,
+        "upload_sec": 33.8
+      }
     }
   ],
   "failed_attempts": [
@@ -41570,5 +41589,5 @@
       "failed_at": "2026-06-20T06:04:13Z"
     }
   ],
-  "last_updated": "2026-06-20T08:11:52Z"
+  "last_updated": "2026-06-20T08:13:04Z"
 }
