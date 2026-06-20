@@ -13733,3 +13733,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [06:16:04]   upload done video_id=26151303 in 96.2s
 [06:16:07] film cr_film_id=22749 OK in 201.2s
 [06:16:07] batch-end ok=20 failed=0 dur=2320.1s avg/film=116.0s remaining=7958 eta_hours=256.4
+
+===== run 2026-06-20T06:16:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27862630110) =====
+[06:16:44] batch-start shard=1/2 count=20 backlog=10210 uploads=2252 failed_attempts=69 description_overrides=0
+[06:16:44] login
+[06:16:46] login done
+[06:16:46] iteration 1/20
+[06:16:46] film cr_film_id=11591 name='Návrat do země Oz (1985) CZ Titulky' candidates=3
+[06:16:46]   candidate upload_id=f91d26f4cbbdb13a url=https://prehraj.to/navrat-do-zeme-oz-return-to-oz-1985-cz-tit-mkv/f91d26f4cbbdb13a
+[06:16:49]   resolved in 2.2s → 720p (https://pf-storage3.premiumcdn.net/167237672/EE5I84UkwToDH0vSWrhaRU46h8gCLBsvnCz…)
+[06:18:03]   downloaded 1,846.6 MB in 72.3s (25.5 MB/s)
+[06:19:41]   upload done video_id=26151453 in 98.2s
