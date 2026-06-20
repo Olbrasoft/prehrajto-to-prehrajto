@@ -30349,6 +30349,25 @@
         "download_sec": 96.3,
         "upload_sec": 131.7
       }
+    },
+    {
+      "cr_film_id": 5429,
+      "cr_slug": "eternals",
+      "title": "Eternals",
+      "year": 2021,
+      "display_name": "Eternals (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6887b4e0d3db2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26142067,
+      "size_bytes": 1616109419,
+      "uploaded_at": "2026-06-20T01:24:37Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 72.4,
+        "upload_sec": 100.7
+      }
     }
   ],
   "failed_attempts": [
@@ -31489,7 +31508,14 @@
       "reason": "oversize: 6271020605 B",
       "permanent": true,
       "failed_at": "2026-06-19T23:25:56Z"
+    },
+    {
+      "cr_film_id": 5429,
+      "upload_id": "542daaf4199b1cfa",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/eternals-2021-cz-dab-1080p/542daaf4199b1cfa",
+      "permanent": true,
+      "failed_at": "2026-06-20T01:21:36Z"
     }
   ],
-  "last_updated": "2026-06-20T01:20:53Z"
+  "last_updated": "2026-06-20T01:24:37Z"
 }

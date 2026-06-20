@@ -10338,3 +10338,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:20:53]   upload done video_id=26142007 in 131.7s
 [01:20:56] film cr_film_id=5427 OK in 234.4s
 [01:20:56] batch-end ok=20 failed=0 dur=3975.5s avg/film=198.8s remaining=15901 eta_hours=878.1
+
+===== run 2026-06-20T01:21:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27855922322) =====
+[01:21:33] description overrides loaded: 13094 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:21:33] batch-start shard=1/2 count=20 backlog=17650 uploads=1749 failed_attempts=157 description_overrides=13094
+[01:21:33] login
+[01:21:35] login done
+[01:21:35] iteration 1/20
+[01:21:35] film cr_film_id=5429 name='Eternals (2021) CZ Dabing' candidates=2
+[01:21:35]   candidate upload_id=542daaf4199b1cfa url=https://prehraj.to/eternals-2021-cz-dab-1080p/542daaf4199b1cfa
+[01:21:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/eternals-2021-cz-dab-1080p/542daaf4199b1cfa (permanent=True)
+[01:21:36]   candidate upload_id=6887b4e0d3db2 url=https://prehraj.to/ethernals-2021-cz-dabing-novinka/6887b4e0d3db2
+[01:21:42]   resolved in 6.4s → 720p (https://pf-storage4.premiumcdn.net/142366562/3w0hOMcLBhVRILMHgjsbGcNVCeMSNwT3jsr…)
+[01:22:56]   downloaded 1,616.1 MB in 72.4s (22.3 MB/s)
+[01:24:37]   upload done video_id=26142067 in 100.7s
