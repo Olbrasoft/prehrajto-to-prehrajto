@@ -15797,3 +15797,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [19:53:32]   upload done video_id=26177606 in 199.1s
 [19:53:45] film cr_film_id=1545 OK in 1155.7s
 [19:53:45] batch-end ok=20 failed=0 dur=7726.2s avg/film=386.3s remaining=7683 eta_hours=824.4
+
+===== run 2026-06-20T20:12:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27882580570) =====
+[20:12:44] batch-start shard=1/2 count=20 backlog=10210 uploads=2527 failed_attempts=88 description_overrides=0
+[20:12:44] login
+[20:12:46] login done
+[20:12:46] iteration 1/20
+[20:12:46] film cr_film_id=16501 name='Chuť léta (2009) SK Dabing' candidates=2
+[20:12:46]   candidate upload_id=60f9a64fb3d8e url=https://prehraj.to/chut-leta-2009-skdab/60f9a64fb3d8e
+[20:12:47]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/24362822/m8DTgWieEIYptXqhRYfM5im8UrlCMptyBIpe…)
+[20:14:40]   downloaded 2,163.8 MB in 110.3s (19.6 MB/s)
+[20:16:58]   upload done video_id=26178227 in 137.8s
