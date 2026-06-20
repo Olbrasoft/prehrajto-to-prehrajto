@@ -13190,3 +13190,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:14:22]   upload done video_id=26146980 in 23.8s
 [04:14:24] film cr_film_id=26724 OK in 49.3s
 [04:14:24] batch-end ok=20 failed=0 dur=2642.7s avg/film=132.1s remaining=8026 eta_hours=294.5
+
+===== run 2026-06-20T04:14:56Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27859875581) =====
+[04:14:57] batch-start shard=0/2 count=20 backlog=10210 uploads=2184 failed_attempts=80 description_overrides=0
+[04:14:57] login
+[04:15:01] login done
+[04:15:01] iteration 1/20
+[04:15:01] film cr_film_id=18288 name='Juan de los Muertos (2011) CZ Titulky' candidates=1
+[04:15:01]   candidate upload_id=58b649aa36866 url=https://prehraj.to/juan-de-los-muertos-juan-of-the-dead-2011-cz-tit/58b649aa36866
+[04:15:03]   resolved in 1.8s → 480p (https://pf-storage1.premiumcdn.net/1768259/gVDHaeu3wc9qC6vs2mH34uDRtg9tDvHLoF1Wf…)
+[04:15:34]   downloaded 852.3 MB in 29.8s (28.6 MB/s)
+[04:16:22]   upload done video_id=26147032 in 47.3s
