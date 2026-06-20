@@ -12752,3 +12752,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [02:20:10]   upload done video_id=26143325 in 103.7s
 [02:20:12] film cr_film_id=28200 OK in 197.8s
 [02:20:12] batch-end ok=20 failed=0 dur=2258.0s avg/film=112.9s remaining=8086 eta_hours=253.6
+
+===== run 2026-06-20T02:20:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27857288528) =====
+[02:20:50] batch-start shard=0/2 count=20 backlog=10210 uploads=2124 failed_attempts=80 description_overrides=0
+[02:20:50] login
+[02:20:52] login done
+[02:20:52] iteration 1/20
+[02:20:52] film cr_film_id=33630 name='Ashley (2013) CZ Titulky' candidates=1
+[02:20:52]   candidate upload_id=601591c9158f4 url=https://prehraj.to/ashley-2013-cztitulky/601591c9158f4
+[02:20:54]   resolved in 1.7s → 480p (https://pf-storage5.premiumcdn.net/21864795/DNgUaAfmxCEXCDGtGdTxNf4RU7euOjTM7Hzw…)
+[02:21:22]   downloaded 554.7 MB in 25.2s (22.0 MB/s)
+[02:22:19]   upload done video_id=26143364 in 57.5s
