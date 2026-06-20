@@ -33931,6 +33931,25 @@
         "download_sec": 87.4,
         "upload_sec": 156.9
       }
+    },
+    {
+      "cr_film_id": 5858,
+      "cr_slug": "odpusteni",
+      "title": "Odpuštění",
+      "year": 2021,
+      "display_name": "Odpuštění (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68f27b398da15",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26163126,
+      "size_bytes": 1692416492,
+      "uploaded_at": "2026-06-20T12:03:43Z",
+      "timing": {
+        "resolve_sec": 7.5,
+        "download_sec": 96.1,
+        "upload_sec": 186.7
+      }
     }
   ],
   "failed_attempts": [
@@ -35259,7 +35278,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/operace-napoleon-2023-cz-dabing-mp4/c7e77f803b43cb92",
       "permanent": true,
       "failed_at": "2026-06-20T11:48:54Z"
+    },
+    {
+      "cr_film_id": 5844,
+      "upload_id": "ca04af4fbb8bc32c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nekdo-klepe-na-dvere-2023-czdab/ca04af4fbb8bc32c",
+      "permanent": true,
+      "failed_at": "2026-06-20T11:58:50Z"
     }
   ],
-  "last_updated": "2026-06-20T11:58:47Z"
+  "last_updated": "2026-06-20T12:03:43Z"
 }
