@@ -11354,3 +11354,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:36:47]   upload done video_id=26156580 in 21.6s
 [08:36:48] film cr_film_id=5672 OK in 41.8s
 [08:36:48] batch-end ok=18 failed=2 dur=1867.5s avg/film=103.8s remaining=15750 eta_hours=454.1
+
+===== run 2026-06-20T09:08:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27866553321) =====
+[09:08:56] description overrides loaded: 14169 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:08:56] batch-start shard=0/2 count=20 backlog=17650 uploads=1900 failed_attempts=181 description_overrides=14169
+[09:08:56] login
+[09:08:58] login done
+[09:08:58] iteration 1/20
+[09:08:58] film cr_film_id=5680 name='Čtyřicítka na krku (2012) CZ Dabing' candidates=16
+[09:08:58]   candidate upload_id=55bf595f371ab url=https://prehraj.to/ctyricitka-na-krku-2012-czdab/55bf595f371ab
+[09:08:59]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/68670/kgpTrmHOqhpvF94UkZfoKHwNcK6T8qi73h1RCo1…)
+[09:09:55]   downloaded 985.9 MB in 54.0s (18.3 MB/s)
+[09:11:08]   upload done video_id=26157605 in 72.9s
