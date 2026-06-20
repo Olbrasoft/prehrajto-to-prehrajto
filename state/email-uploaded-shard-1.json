@@ -32705,6 +32705,25 @@
         "download_sec": 88.9,
         "upload_sec": 125.4
       }
+    },
+    {
+      "cr_film_id": 5931,
+      "cr_slug": "rebeka",
+      "title": "Rebeka",
+      "year": 2020,
+      "display_name": "Rebeka (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60cc7d868c130",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26156794,
+      "size_bytes": 2373373767,
+      "uploaded_at": "2026-06-20T08:46:08Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 130.9,
+        "upload_sec": 198.6
+      }
     }
   ],
   "failed_attempts": [
@@ -33976,5 +33995,5 @@
       "failed_at": "2026-06-20T07:52:28Z"
     }
   ],
-  "last_updated": "2026-06-20T08:40:32Z"
+  "last_updated": "2026-06-20T08:46:08Z"
 }
