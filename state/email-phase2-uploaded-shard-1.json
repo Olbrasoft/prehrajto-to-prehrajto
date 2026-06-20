@@ -37801,6 +37801,25 @@
         "download_sec": 17.9,
         "upload_sec": 18.3
       }
+    },
+    {
+      "cr_film_id": 26553,
+      "cr_slug": "city-island",
+      "title": "City Island",
+      "year": 2009,
+      "display_name": "City Island (2009) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5fda5686d5f4f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26143451,
+      "size_bytes": 579936291,
+      "uploaded_at": "2026-06-20T02:29:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 28.3,
+        "upload_sec": 28.7
+      }
     }
   ],
   "failed_attempts": [
@@ -38288,5 +38307,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-20T02:28:02Z"
+  "last_updated": "2026-06-20T02:29:04Z"
 }
