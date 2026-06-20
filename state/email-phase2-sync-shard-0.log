@@ -13044,3 +13044,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:29:44]   upload done video_id=26145220 in 29.6s
 [03:29:45] film cr_film_id=35562 OK in 57.3s
 [03:29:45] batch-end ok=20 failed=0 dur=1499.4s avg/film=75.0s remaining=8046 eta_hours=167.6
+
+===== run 2026-06-20T03:30:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27858865701) =====
+[03:30:19] batch-start shard=0/2 count=20 backlog=10210 uploads=2164 failed_attempts=80 description_overrides=0
+[03:30:19] login
+[03:30:21] login done
+[03:30:21] iteration 1/20
+[03:30:21] film cr_film_id=27330 name='Život je jen jeden (2011) CZ Titulky' candidates=1
+[03:30:21]   candidate upload_id=5feaa51bcb61d url=https://prehraj.to/zivot-je-jen-jeden-2011-cztitulky/5feaa51bcb61d
+[03:30:22]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/21082407/9DJUxVinoT8NsPvs31FR8irgtpoHW4ugOfMO…)
+[03:32:22]   downloaded 2,098.7 MB in 117.2s (17.9 MB/s)
+[03:34:25]   upload done video_id=26145351 in 122.9s
