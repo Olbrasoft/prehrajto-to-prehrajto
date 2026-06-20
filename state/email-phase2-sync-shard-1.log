@@ -14579,3 +14579,19 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [10:25:47]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/128666993/zDOi8QflMSd2hrKHNWiQdfPMC0PI46UvWtp…)
 [10:27:05]   downloaded 1,739.0 MB in 75.3s (23.1 MB/s)
 [10:30:22]   upload done video_id=26160071 in 196.8s
+[10:30:24] film cr_film_id=9459 OK in 277.6s
+[10:30:24] iteration 17/20
+[10:30:24] film cr_film_id=16021 name='Nahoře nebe, v dolině já (2024) CZ' candidates=3
+[10:30:24]   candidate upload_id=fdb724bca75d877c url=https://prehraj.to/nahore-nebe-v-doline-ja-2024-slovensko-cesko-1080p-mkv/fdb724bca75d877c
+[10:30:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nahore-nebe-v-doline-ja-2024-slovensko-cesko-1080p-mkv/fdb724bca75d877c (permanent=True)
+[10:30:24]   candidate upload_id=d9b88ca4c7744c31 url=https://prehraj.to/nahore-nebe-v-doline-ja-2024-sk-dab-1080p/d9b88ca4c7744c31
+[10:30:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nahore-nebe-v-doline-ja-2024-sk-dab-1080p/d9b88ca4c7744c31 (permanent=True)
+[10:30:30]   candidate upload_id=6fd4005cd71c720c url=https://prehraj.to/hore-je-nebo-v-doline-som-ja-2024-1080p/6fd4005cd71c720c
+[10:30:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hore-je-nebo-v-doline-som-ja-2024-1080p/6fd4005cd71c720c (permanent=True)
+[10:30:36] film cr_film_id=16021 all candidates exhausted
+[10:30:36] iteration 18/20
+[10:30:36] film cr_film_id=15169 name='The Wedding Veil (2022) CZ' candidates=1
+[10:30:36]   candidate upload_id=685cced34c2f6 url=https://prehraj.to/svadobny-zavoj-the-wedding-veil-2022-sk/685cced34c2f6
+[10:30:42]   resolved in 6.7s → 720p (https://pf-storage5.premiumcdn.net/140725889/E0niA4Spzi2GHkMi1Nt4VSv4HnmTNRiBqi8…)
+[10:31:50]   downloaded 1,176.8 MB in 65.3s (18.0 MB/s)
+[10:33:24]   upload done video_id=26160257 in 94.7s

@@ -42152,6 +42152,25 @@
         "download_sec": 75.3,
         "upload_sec": 196.8
       }
+    },
+    {
+      "cr_film_id": 15169,
+      "cr_slug": "the-wedding-veil",
+      "title": "The Wedding Veil",
+      "year": 2022,
+      "display_name": "The Wedding Veil (2022) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "685cced34c2f6",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26160257,
+      "size_bytes": 1176843992,
+      "uploaded_at": "2026-06-20T10:33:24Z",
+      "timing": {
+        "resolve_sec": 6.7,
+        "download_sec": 65.3,
+        "upload_sec": 94.7
+      }
     }
   ],
   "failed_attempts": [
@@ -42651,7 +42670,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krokodyl-dundee-1-1986-cz-avi/634db54b4db7a",
       "permanent": true,
       "failed_at": "2026-06-20T06:04:13Z"
+    },
+    {
+      "cr_film_id": 16021,
+      "upload_id": "fdb724bca75d877c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nahore-nebe-v-doline-ja-2024-slovensko-cesko-1080p-mkv/fdb724bca75d877c",
+      "permanent": true,
+      "failed_at": "2026-06-20T10:30:24Z"
+    },
+    {
+      "cr_film_id": 16021,
+      "upload_id": "d9b88ca4c7744c31",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nahore-nebe-v-doline-ja-2024-sk-dab-1080p/d9b88ca4c7744c31",
+      "permanent": true,
+      "failed_at": "2026-06-20T10:30:30Z"
+    },
+    {
+      "cr_film_id": 16021,
+      "upload_id": "6fd4005cd71c720c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hore-je-nebo-v-doline-som-ja-2024-1080p/6fd4005cd71c720c",
+      "permanent": true,
+      "failed_at": "2026-06-20T10:30:36Z"
     }
   ],
-  "last_updated": "2026-06-20T10:30:22Z"
+  "last_updated": "2026-06-20T10:33:24Z"
 }
