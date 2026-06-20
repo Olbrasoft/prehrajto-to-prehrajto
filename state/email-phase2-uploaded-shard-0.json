@@ -39434,6 +39434,25 @@
         "download_sec": 13.9,
         "upload_sec": 14.9
       }
+    },
+    {
+      "cr_film_id": 32974,
+      "cr_slug": "don-giovanni",
+      "title": "Don Giovanni",
+      "year": 2009,
+      "display_name": "Don Giovanni (2009) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5897683290f16",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26150098,
+      "size_bytes": 695372851,
+      "uploaded_at": "2026-06-20T05:45:42Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 25.5,
+        "upload_sec": 32.7
+      }
     }
   ],
   "failed_attempts": [
@@ -40013,5 +40032,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-20T05:44:40Z"
+  "last_updated": "2026-06-20T05:45:42Z"
 }
