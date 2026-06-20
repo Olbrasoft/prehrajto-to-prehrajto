@@ -35574,6 +35574,25 @@
         "download_sec": 171.8,
         "upload_sec": 247.5
       }
+    },
+    {
+      "cr_film_id": 6517,
+      "cr_slug": "daliland",
+      "title": "Dalíland",
+      "year": 2022,
+      "display_name": "Dalíland (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65a6f629df7fb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26172516,
+      "size_bytes": 1217949733,
+      "uploaded_at": "2026-06-20T16:58:18Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 77.1,
+        "upload_sec": 80.8
+      }
     }
   ],
   "failed_attempts": [
@@ -36913,7 +36932,35 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kridla-vanoc-2013-cz-mp4/47cd82cc483c42b2",
       "permanent": true,
       "failed_at": "2026-06-20T15:42:22Z"
+    },
+    {
+      "cr_film_id": 6515,
+      "upload_id": "9509b8e8398c5e29",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing-mp4/9509b8e8398c5e29",
+      "permanent": true,
+      "failed_at": "2026-06-20T16:55:13Z"
+    },
+    {
+      "cr_film_id": 6515,
+      "upload_id": "ba1191db9b6a8d85",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing/ba1191db9b6a8d85",
+      "permanent": true,
+      "failed_at": "2026-06-20T16:55:19Z"
+    },
+    {
+      "cr_film_id": 6515,
+      "upload_id": "abd72be610d14f0b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing-mp4/abd72be610d14f0b",
+      "permanent": true,
+      "failed_at": "2026-06-20T16:55:26Z"
+    },
+    {
+      "cr_film_id": 6515,
+      "upload_id": "17175fd707a8deb8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tlapkova-patrola-ve-velkofilmu-2023-cz-dabing/17175fd707a8deb8",
+      "permanent": true,
+      "failed_at": "2026-06-20T16:55:32Z"
     }
   ],
-  "last_updated": "2026-06-20T16:55:05Z"
+  "last_updated": "2026-06-20T16:58:18Z"
 }
