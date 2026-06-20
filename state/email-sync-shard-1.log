@@ -11681,3 +11681,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:07:24]   upload done video_id=26161409 in 32.2s
 [11:07:25] film cr_film_id=6133 OK in 66.8s
 [11:07:25] batch-end ok=20 failed=0 dur=2818.5s avg/film=140.9s remaining=15726 eta_hours=615.5
+
+===== run 2026-06-20T11:32:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27869881221) =====
+[11:32:44] description overrides loaded: 15329 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:32:44] batch-start shard=1/2 count=20 backlog=17650 uploads=1924 failed_attempts=175 description_overrides=15329
+[11:32:44] login
+[11:32:46] login done
+[11:32:46] iteration 1/20
+[11:32:46] film cr_film_id=6135 name='Čtyři milostné dopisy (2024) CZ Dabing' candidates=8
+[11:32:46]   candidate upload_id=371601ccaa583081 url=https://prehraj.to/ctyri-milostne-dopisy-2024-cz-dab-1080p/371601ccaa583081
+[11:32:47]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/160936589/bNbtb8HLetJgFYeHNYtrXHgrUvKFKQT4Zi7…)
+[11:34:30]   downloaded 2,203.5 MB in 100.7s (21.9 MB/s)
+[11:36:12]   upload done video_id=26162330 in 102.2s
