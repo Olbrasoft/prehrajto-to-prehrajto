@@ -15961,3 +15961,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:02:03]   upload done video_id=26182925 in 106.2s
 [23:02:07] film cr_film_id=14940 OK in 164.4s
 [23:02:07] batch-end ok=20 failed=0 dur=2796.1s avg/film=139.8s remaining=7649 eta_hours=297.0
+
+===== run 2026-06-20T23:09:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27886719127) =====
+[23:09:04] batch-start shard=0/2 count=20 backlog=10210 uploads=2561 failed_attempts=84 description_overrides=0
+[23:09:04] login
+[23:09:05] login done
+[23:09:05] iteration 1/20
+[23:09:05] film cr_film_id=16904 name='Léto (2017) SK Dabing' candidates=4
+[23:09:05]   candidate upload_id=990cfaf60d7192ba url=https://prehraj.to/leto-na-cypre-2017-skdab/990cfaf60d7192ba
+[23:09:07]   resolved in 1.6s → 720p (https://pf-storage3.premiumcdn.net/166272887/xlRizKTWwc4KHpbFQoHroT06uW7sBph75fX…)
+[23:10:19]   downloaded 1,227.3 MB in 70.0s (17.5 MB/s)
+[23:11:35]   upload done video_id=26183203 in 75.6s
