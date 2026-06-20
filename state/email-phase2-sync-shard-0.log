@@ -14467,3 +14467,16 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:48:12]   resolved in 1.5s → 480p (https://pf-storage3.premiumcdn.net/1051175/ko6TjVSP0uKvsdBivDHR7S7QtdvCBAsRzf5Xi…)
 [10:48:42]   downloaded 461.6 MB in 27.3s (16.9 MB/s)
 [10:49:21]   upload done video_id=26160857 in 39.6s
+[10:49:23] film cr_film_id=32522 OK in 72.5s
+[10:49:23] iteration 16/20
+[10:49:23] film cr_film_id=33580 name='Prénom Carmen (1983) CZ Titulky' candidates=1
+[10:49:23]   candidate upload_id=5fdbb50219a1f url=https://prehraj.to/krestni-jmeno-carmen-1983-cztitulky/5fdbb50219a1f
+[10:49:24]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/20851338/x5QhbXsbZc24FzBuw8FvlsP5UrkFZ4Hb4HJr…)
+[10:49:27]   oversize: 8895760187 B > 6000000000 B, skip
+[10:49:27] film cr_film_id=33580 all candidates exhausted
+[10:49:27] iteration 17/20
+[10:49:27] film cr_film_id=22670 name='Poslední bitva (1983) CZ Titulky' candidates=1
+[10:49:27]   candidate upload_id=5de5896505be0 url=https://prehraj.to/posledni-bitva-1983-cz-titulky/5de5896505be0
+[10:49:30]   resolved in 3.6s → 480p (https://pf-storage5.premiumcdn.net/15388216/ev8uMKHbXsWoFqkUbDsqZHqVCeRUg8UdmF9y…)
+[10:49:59]   downloaded 430.0 MB in 26.4s (16.3 MB/s)
+[10:50:49]   upload done video_id=26160894 in 49.8s
