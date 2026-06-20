@@ -12460,3 +12460,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [00:39:45]   upload done video_id=26140689 in 53.8s
 [00:39:47] film cr_film_id=32092 OK in 90.2s
 [00:39:47] batch-end ok=20 failed=0 dur=1694.1s avg/film=84.7s remaining=8126 eta_hours=191.2
+
+===== run 2026-06-20T00:54:05Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27855275197) =====
+[00:54:06] batch-start shard=0/2 count=20 backlog=10210 uploads=2084 failed_attempts=80 description_overrides=0
+[00:54:06] login
+[00:54:08] login done
+[00:54:08] iteration 1/20
+[00:54:08] film cr_film_id=27700 name='Úder 3 (2013) CZ Titulky' candidates=2
+[00:54:08]   candidate upload_id=5ffdf809e9ead url=https://prehraj.to/dhoom-3-2013-cztitulky/5ffdf809e9ead
+[00:54:09]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/21438549/gbrFXbcLrFqOI26SEpTP0c56sMqTrQhQ5tZe…)
+[00:57:05]   downloaded 3,272.8 MB in 173.4s (18.9 MB/s)
+[01:00:51]   upload done video_id=26141331 in 226.2s
