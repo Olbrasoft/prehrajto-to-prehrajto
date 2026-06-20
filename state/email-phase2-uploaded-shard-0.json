@@ -39966,6 +39966,25 @@
         "download_sec": 88.6,
         "upload_sec": 87.6
       }
+    },
+    {
+      "cr_film_id": 25810,
+      "cr_slug": "milarepa",
+      "title": "Milarepa",
+      "year": 2006,
+      "display_name": "Milarepa (2006) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "577ca45cc69b2",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26152425,
+      "size_bytes": 471608329,
+      "uploaded_at": "2026-06-20T06:41:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.2,
+        "upload_sec": 23.2
+      }
     }
   ],
   "failed_attempts": [
@@ -40545,5 +40564,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-20T06:40:59Z"
+  "last_updated": "2026-06-20T06:41:46Z"
 }
