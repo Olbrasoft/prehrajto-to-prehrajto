@@ -14358,3 +14358,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [09:57:52]   upload done video_id=26159109 in 156.7s
 [09:57:55] film cr_film_id=23200 OK in 247.7s
 [09:57:55] batch-end ok=20 failed=0 dur=2784.1s avg/film=139.2s remaining=7867 eta_hours=304.2
+
+===== run 2026-06-20T09:58:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27867697267) =====
+[09:58:30] batch-start shard=0/2 count=20 backlog=10210 uploads=2343 failed_attempts=82 description_overrides=0
+[09:58:30] login
+[09:58:32] login done
+[09:58:32] iteration 1/20
+[09:58:32] film cr_film_id=23010 name='Tetsuo (1989) CZ Titulky' candidates=1
+[09:58:32]   candidate upload_id=5fe6812adbea6 url=https://prehraj.to/tetsuo-the-iron-man-1989-cztitulky/5fe6812adbea6
+[09:58:34]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/21026640/34xh3aSL0hmzuN9fbVTqzSd8FM7TLgcgqu7x…)
+[10:01:23]   downloaded 2,631.5 MB in 166.7s (15.8 MB/s)
+[10:04:56]   upload done video_id=26159306 in 213.9s
