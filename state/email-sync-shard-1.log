@@ -12556,3 +12556,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:30:58]   upload done video_id=26173439 in 74.7s
 [17:31:02] film cr_film_id=6577 OK in 139.0s
 [17:31:02] batch-end ok=19 failed=1 dur=3611.3s avg/film=190.1s remaining=15613 eta_hours=824.5
+
+===== run 2026-06-20T17:32:57Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27878679697) =====
+[17:32:59] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:32:59] batch-start shard=1/2 count=20 backlog=17650 uploads=2037 failed_attempts=188 description_overrides=17579
+[17:32:59] login
+[17:33:00] login done
+[17:33:00] iteration 1/20
+[17:33:00] film cr_film_id=6579 name='Někdo to rád blond (2004) CZ Dabing' candidates=20
+[17:33:00]   candidate upload_id=bde1ef9393108ec6 url=https://prehraj.to/white-chicks-2005-cz-dabing-1080p-mkv/bde1ef9393108ec6
+[17:33:01]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/164459405/bjqSmQfeQuLniMgtj7s1dfaJU5bC80i3ocB…)
+[17:34:44]   downloaded 3,794.2 MB in 101.3s (37.5 MB/s)
+[17:37:59]   upload done video_id=26173571 in 194.5s
