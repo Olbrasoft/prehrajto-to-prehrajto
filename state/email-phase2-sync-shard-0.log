@@ -14175,3 +14175,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [09:00:10]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/808263/kmxcDmUJqCKOCPltzdSd7UwEu6rin4c2lH0bH1…)
 [09:00:39]   downloaded 427.9 MB in 26.8s (16.0 MB/s)
 [09:01:12]   upload done video_id=26157357 in 33.5s
+[09:01:14] film cr_film_id=23882 OK in 65.5s
+[09:01:14] iteration 16/20
+[09:01:14] film cr_film_id=12394 name='The Peacemaker (1997) CZ Titulky' candidates=1
+[09:01:14]   candidate upload_id=68bd4b9cc133d url=https://prehraj.to/peacemaker-the-peacemaker-1997-1080p-h264-ac3-6ch-cztit-cz/68bd4b9cc133d
+[09:01:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/peacemaker-the-peacemaker-1997-1080p-h264-ac3-6ch-cztit-cz/68bd4b9cc133d (permanent=True)
+[09:01:17] film cr_film_id=12394 all candidates exhausted
+[09:01:17] iteration 17/20
+[09:01:17] film cr_film_id=34994 name='Passage (1997) CZ Titulky' candidates=13
+[09:01:17]   candidate upload_id=6889d757454d1 url=https://prehraj.to/canyon-passage-1946-czsub/6889d757454d1
+[09:01:23]   resolved in 6.1s → 480p (https://pf-storage3.premiumcdn.net/142487276/3NVcMWUOYinYS4gTpWflEUwmHKRS16To9ig…)
+[09:01:58]   downloaded 560.5 MB in 33.1s (16.9 MB/s)
+[09:02:35]   upload done video_id=26157397 in 37.2s
