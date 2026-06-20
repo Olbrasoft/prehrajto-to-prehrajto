@@ -35460,6 +35460,25 @@
         "download_sec": 32.1,
         "upload_sec": 50.7
       }
+    },
+    {
+      "cr_film_id": 6491,
+      "cr_slug": "genie",
+      "title": "Genie",
+      "year": 2023,
+      "display_name": "Genie (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65df5b78bc321",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26171809,
+      "size_bytes": 1355389008,
+      "uploaded_at": "2026-06-20T16:33:46Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 65.1,
+        "upload_sec": 107.9
+      }
     }
   ],
   "failed_attempts": [
@@ -36801,5 +36820,5 @@
       "failed_at": "2026-06-20T15:42:22Z"
     }
   ],
-  "last_updated": "2026-06-20T16:26:44Z"
+  "last_updated": "2026-06-20T16:33:46Z"
 }
