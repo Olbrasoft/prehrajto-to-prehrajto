@@ -40137,6 +40137,25 @@
         "download_sec": 89.7,
         "upload_sec": 134.9
       }
+    },
+    {
+      "cr_film_id": 25546,
+      "cr_slug": "zozo",
+      "title": "Zozo",
+      "year": 2005,
+      "display_name": "Zozo (2005) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "587604711a101",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26153301,
+      "size_bytes": 581701356,
+      "uploaded_at": "2026-06-20T07:07:07Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 33.8,
+        "upload_sec": 38.1
+      }
     }
   ],
   "failed_attempts": [
@@ -40716,5 +40735,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-20T07:05:50Z"
+  "last_updated": "2026-06-20T07:07:07Z"
 }
