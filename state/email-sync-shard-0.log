@@ -11767,3 +11767,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:14:03]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/32085496/RJbiOLT0zirdu3nIMrCO8Tm6SMPSbdF5aiw0…)
 [12:15:42]   downloaded 2,417.5 MB in 96.5s (25.1 MB/s)
 [12:17:41]   upload done video_id=26163596 in 119.8s
+[12:17:43] film cr_film_id=5872 OK in 221.1s
+[12:17:43] iteration 19/20
+[12:17:43] film cr_film_id=5878 name='Ztracené město (2022) CZ Dabing' candidates=4
+[12:17:43]   candidate upload_id=0580b2359349d265 url=https://prehraj.to/ztracene-mesto-2022-cz-dabing-1080p-mkv/0580b2359349d265
+[12:17:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ztracene-mesto-2022-cz-dabing-1080p-mkv/0580b2359349d265 (permanent=True)
+[12:17:44]   candidate upload_id=2fe9150576eb0e2f url=https://prehraj.to/aquaman-a-ztracene-kralovstvi-cz-dab-2023/2fe9150576eb0e2f
+[12:17:50]   resolved in 6.1s → 720p (https://pf-storage6.premiumcdn.net/169405342/A6qfEmswVFV1hO5FD8tD9sV5T64idKCekcJ…)
+[12:21:32]   downloaded 2,296.4 MB in 220.1s (10.4 MB/s)
+[12:23:45]   upload done video_id=26163747 in 133.2s
