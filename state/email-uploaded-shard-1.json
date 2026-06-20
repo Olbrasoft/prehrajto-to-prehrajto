@@ -33313,6 +33313,25 @@
         "download_sec": 26.6,
         "upload_sec": 48.8
       }
+    },
+    {
+      "cr_film_id": 6067,
+      "cr_slug": "solomon-kane",
+      "title": "Solomon Kane",
+      "year": 2009,
+      "display_name": "Solomon Kane (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fa3aa85cc767",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26159934,
+      "size_bytes": 2402438067,
+      "uploaded_at": "2026-06-20T10:25:09Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 76.2,
+        "upload_sec": 123.4
+      }
     }
   ],
   "failed_attempts": [
@@ -34591,5 +34610,5 @@
       "failed_at": "2026-06-20T09:30:05Z"
     }
   ],
-  "last_updated": "2026-06-20T10:21:45Z"
+  "last_updated": "2026-06-20T10:25:09Z"
 }
