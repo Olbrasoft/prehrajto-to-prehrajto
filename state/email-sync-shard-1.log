@@ -12124,3 +12124,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:46:12]   upload done video_id=26168962 in 20.1s
 [14:46:13] film cr_film_id=6307 OK in 37.0s
 [14:46:13] batch-end ok=19 failed=1 dur=2796.9s avg/film=147.2s remaining=15669 eta_hours=640.7
+
+===== run 2026-06-20T14:46:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27874486735) =====
+[14:46:45] description overrides loaded: 16801 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:46:45] batch-start shard=1/2 count=20 backlog=17650 uploads=1981 failed_attempts=182 description_overrides=16801
+[14:46:45] login
+[14:46:46] login done
+[14:46:46] iteration 1/20
+[14:46:46] film cr_film_id=6309 name='Sammyho dobrodružství (2010) CZ' candidates=3
+[14:46:46]   candidate upload_id=5c84d3ff45070 url=https://prehraj.to/sammyho-dobrodruzstvi-novinky-2011-cz-dabing-1/5c84d3ff45070
+[14:46:48]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/12349207/AqbH7vTbJi1nHOMieNc65Tj5FzkFlNi5kFzg…)
+[14:47:21]   downloaded 617.8 MB in 31.4s (19.7 MB/s)
+[14:47:51]   upload done video_id=26169040 in 29.9s
