@@ -37231,6 +37231,25 @@
         "download_sec": 8.4,
         "upload_sec": 12.4
       }
+    },
+    {
+      "cr_film_id": 26719,
+      "cr_slug": "road-train",
+      "title": "Road Train",
+      "year": 2010,
+      "display_name": "Road Train (2010) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5858913533f3e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26141791,
+      "size_bytes": 518129263,
+      "uploaded_at": "2026-06-20T01:10:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 19.9,
+        "upload_sec": 22.4
+      }
     }
   ],
   "failed_attempts": [
@@ -37718,5 +37737,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-20T01:09:45Z"
+  "last_updated": "2026-06-20T01:10:31Z"
 }
