@@ -14941,3 +14941,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:30:52]   upload done video_id=26165953 in 28.1s
 [13:30:53] film cr_film_id=21534 OK in 51.8s
 [13:30:53] batch-end ok=20 failed=0 dur=2353.8s avg/film=117.7s remaining=7788 eta_hours=254.6
+
+===== run 2026-06-20T13:44:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27872978578) =====
+[13:44:53] batch-start shard=0/2 count=20 backlog=10210 uploads=2422 failed_attempts=83 description_overrides=0
+[13:44:53] login
+[13:44:55] login done
+[13:44:55] iteration 1/20
+[13:44:55] film cr_film_id=21546 name='Mladí lvi (1958) CZ Titulky' candidates=1
+[13:44:55]   candidate upload_id=5890073503f2f url=https://prehraj.to/mladi-lvi-the-young-lions-1958-cz-tit/5890073503f2f
+[13:44:57]   resolved in 2.5s → 480p (https://pf-storage2.premiumcdn.net/1570309/EAgsz4haefbEfwVfKyuVkhDRHRqCa8iL3tNOS…)
+[13:45:22]   downloaded 672.8 MB in 22.9s (29.4 MB/s)
+[13:46:19]   upload done video_id=26166475 in 57.1s
