@@ -10191,3 +10191,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:32:42]   upload done video_id=26139285 in 118.7s
 [23:32:45] film cr_film_id=5339 OK in 180.2s
 [23:32:45] batch-end ok=19 failed=1 dur=2980.4s avg/film=156.9s remaining=15921 eta_hours=693.9
+
+===== run 2026-06-20T00:14:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27854294943) =====
+[00:14:37] description overrides loaded: 13092 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:14:37] batch-start shard=1/2 count=20 backlog=17650 uploads=1729 failed_attempts=157 description_overrides=13092
+[00:14:37] login
+[00:14:40] login done
+[00:14:40] iteration 1/20
+[00:14:40] film cr_film_id=5341 name='Žijeme jen dnes (2023) CZ Dabing' candidates=4
+[00:14:40]   candidate upload_id=6751d972acf08 url=https://prehraj.to/zijeme-jen-dnes-2023-cz-dabing-1080p/6751d972acf08
+[00:14:43]   resolved in 2.5s → 1080p (https://pf-storage5.premiumcdn.net/117266750/v3vHX9iLGHVWsOLIA6tKLiAGuaAC0jsQptk…)
+[00:16:25]   downloaded 1,845.4 MB in 99.5s (18.5 MB/s)
+[00:18:51]   upload done video_id=26140364 in 146.1s
