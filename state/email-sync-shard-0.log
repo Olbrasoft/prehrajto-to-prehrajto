@@ -12266,3 +12266,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:38:02]   resolved in 0.9s → 1080p (https://pf-storage3.premiumcdn.net/72562619/9oJTDGhpvU4Atg3hkzFkehD4CnEcXoSr1F7q…)
 [15:39:12]   downloaded 2,528.7 MB in 68.5s (36.9 MB/s)
 [15:40:55]   upload done video_id=26170493 in 103.9s
+[15:40:57] film cr_film_id=6138 OK in 176.3s
+[15:40:57] iteration 6/20
+[15:40:57] film cr_film_id=6142 name='M3GAN 2.0 (2025) CZ Dabing' candidates=1
+[15:40:57]   candidate upload_id=3593a60bf7260d01 url=https://prehraj.to/m3gan-2-0-2025-czdab/3593a60bf7260d01
+[15:40:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/m3gan-2-0-2025-czdab/3593a60bf7260d01 (permanent=True)
+[15:40:58] film cr_film_id=6142 all candidates exhausted
+[15:40:58] iteration 7/20
+[15:40:58] film cr_film_id=6144 name='10 životů kocourka Mňouka (2024) CZ Dabing' candidates=2
+[15:40:58]   candidate upload_id=68d0ef85542a0 url=https://prehraj.to/10-zivotu-kocourka-mnouka-2024-cz-dabing/68d0ef85542a0
+[15:41:04]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/147835035/YEjt1JSLotjxTvDFy6UDpSV1sk7Fo6cDRsY…)
+[15:41:36]   downloaded 1,115.7 MB in 31.0s (36.0 MB/s)
+[15:43:06]   upload done video_id=26170562 in 89.8s
