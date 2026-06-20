@@ -34786,6 +34786,25 @@
         "download_sec": 28.6,
         "upload_sec": 41.1
       }
+    },
+    {
+      "cr_film_id": 6038,
+      "cr_slug": "patek-trinacteho-2",
+      "title": "Pátek třináctého 2",
+      "year": 1981,
+      "display_name": "Pátek třináctého 2 (1981) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b760e873da19",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26168536,
+      "size_bytes": 591665834,
+      "uploaded_at": "2026-06-20T14:33:49Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 18.3,
+        "upload_sec": 34.0
+      }
     }
   ],
   "failed_attempts": [
@@ -36135,7 +36154,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bird-of-prey-podivuhodna-promena-harley-quinn-harely-quinn-birds-of-prey-2020-fullhd-1080p-h264-cz-dabing-ac3-audio-tw1nky/6898654639537",
       "permanent": true,
       "failed_at": "2026-06-20T13:38:43Z"
+    },
+    {
+      "cr_film_id": 6038,
+      "upload_id": "61479ec50637f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/patek-trinacteho-2-friday-the-13th-part-2-1981-aac-2-0-1080p-h-264-1920x1080-cz-dabing/61479ec50637f",
+      "permanent": true,
+      "failed_at": "2026-06-20T14:32:49Z"
     }
   ],
-  "last_updated": "2026-06-20T14:32:47Z"
+  "last_updated": "2026-06-20T14:33:49Z"
 }

@@ -12056,3 +12056,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:31:36]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/143935215/n36uxafoPhgWto6sQ8Fa2frlcXPU90FwMFR…)
 [14:32:05]   downloaded 961.0 MB in 28.6s (33.6 MB/s)
 [14:32:47]   upload done video_id=26168502 in 41.1s
+[14:32:48] film cr_film_id=6036 OK in 72.9s
+[14:32:48] iteration 18/20
+[14:32:48] film cr_film_id=6038 name='Pátek třináctého 2 (1981) CZ Dabing' candidates=12
+[14:32:48]   candidate upload_id=61479ec50637f url=https://prehraj.to/patek-trinacteho-2-friday-the-13th-part-2-1981-aac-2-0-1080p-h-264-1920x1080-cz-dabing/61479ec50637f
+[14:32:49]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/patek-trinacteho-2-friday-the-13th-part-2-1981-aac-2-0-1080p-h-264-1920x1080-cz-dabing/61479ec50637f (permanent=True)
+[14:32:49]   candidate upload_id=5b760e873da19 url=https://prehraj.to/patek-trinacteho-2-1981-cz-dabing/5b760e873da19
+[14:32:55]   resolved in 6.4s → 480p (https://pf-storage5.premiumcdn.net/5322005/pPmuO8sDBTBZHXZiQ9HXesDJiv0uWGFPRI2Dc…)
+[14:33:15]   downloaded 591.7 MB in 18.3s (32.3 MB/s)
+[14:33:49]   upload done video_id=26168536 in 34.0s
