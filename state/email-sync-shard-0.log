@@ -11085,3 +11085,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:17:34]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/18450192/3q8coNSQOHrBFA9tYZTJGS2Gh5DcvOhA2CrV…)
 [07:18:47]   downloaded 2,082.2 MB in 71.6s (29.1 MB/s)
 [07:20:52]   upload done video_id=26153766 in 125.4s
+[07:20:55] film cr_film_id=5508 OK in 203.1s
+[07:20:55] iteration 3/20
+[07:20:55] film cr_film_id=5516 name='O.G. (2018) CZ Dabing' candidates=1
+[07:20:55]   candidate upload_id=5e56590e8e1e8 url=https://prehraj.to/o-g-cz-dabing-2018/5e56590e8e1e8
+[07:20:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/o-g-cz-dabing-2018/5e56590e8e1e8 (permanent=True)
+[07:20:56] film cr_film_id=5516 all candidates exhausted
+[07:20:56] iteration 4/20
+[07:20:56] film cr_film_id=5522 name='Johnny English znovu zasahuje (2018) CZ Dabing' candidates=30
+[07:20:56]   candidate upload_id=96e494dc77399f06 url=https://prehraj.to/johnny-english-znovu-zasahuje-2018-cz-dab-1080p/96e494dc77399f06
+[07:21:02]   resolved in 6.1s → 720p (https://pf-storage3.premiumcdn.net/167205617/RKDi4QSmQHNWcVGUArcq9S2Kh5OcjxCeBCb…)
+[07:21:55]   downloaded 1,470.2 MB in 51.8s (28.4 MB/s)
+[07:23:28]   upload done video_id=26153898 in 92.5s
