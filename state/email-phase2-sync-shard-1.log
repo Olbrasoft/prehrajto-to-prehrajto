@@ -14913,3 +14913,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:50:58]   upload done video_id=26164618 in 185.0s
 [12:51:01] film cr_film_id=9015 OK in 280.8s
 [12:51:01] batch-end ok=19 failed=1 dur=3747.5s avg/film=197.2s remaining=7802 eta_hours=427.4
+
+===== run 2026-06-20T12:51:34Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27871718225) =====
+[12:51:34] batch-start shard=1/2 count=20 backlog=10210 uploads=2408 failed_attempts=83 description_overrides=0
+[12:51:34] login
+[12:51:36] login done
+[12:51:36] iteration 1/20
+[12:51:36] film cr_film_id=15471 name='Cesty k lásce (2022) SK Dabing' candidates=6
+[12:51:36]   candidate upload_id=bc01cf4bfeb57e19 url=https://prehraj.to/cesty-k-lasce-2022-sk-dab-1080p-mkv/bc01cf4bfeb57e19
+[12:51:37]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/162905744/ob2IY2SmjHGYCrzTnmio6S6dHkbfdJTebfE…)
+[12:53:02]   downloaded 2,167.7 MB in 83.5s (26.0 MB/s)
+[12:56:57]   upload done video_id=26164809 in 234.7s
