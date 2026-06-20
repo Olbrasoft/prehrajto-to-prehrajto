@@ -14025,3 +14025,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [07:39:39]   upload done video_id=26154589 in 59.6s
 [07:39:40] film cr_film_id=32759 OK in 105.4s
 [07:39:40] batch-end ok=20 failed=0 dur=2338.6s avg/film=116.9s remaining=7918 eta_hours=257.1
+
+===== run 2026-06-20T07:41:52Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27864574549) =====
+[07:41:52] batch-start shard=1/2 count=20 backlog=10210 uploads=2292 failed_attempts=69 description_overrides=0
+[07:41:52] login
+[07:41:55] login done
+[07:41:55] iteration 1/20
+[07:41:55] film cr_film_id=22023 name='THX 1138 (1971) CZ Titulky' candidates=3
+[07:41:55]   candidate upload_id=58673d131b405 url=https://prehraj.to/thx-1138-1971-cz-tit/58673d131b405
+[07:41:56]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/1259949/BqVsGycvoIDMTnbfE6Tj4cq9td0IGNC1gHoKf…)
+[07:42:12]   downloaded 359.9 MB in 15.0s (24.0 MB/s)
+[07:42:29]   upload done video_id=26154694 in 17.2s
