@@ -11385,3 +11385,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:08:18]   upload done video_id=26157551 in 29.5s
 [09:08:19] film cr_film_id=5959 OK in 62.0s
 [09:08:19] batch-end ok=20 failed=0 dur=3759.9s avg/film=188.0s remaining=15766 eta_hours=823.3
+
+===== run 2026-06-20T09:08:52Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27866553321) =====
+[09:08:53] description overrides loaded: 14169 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:08:53] batch-start shard=1/2 count=20 backlog=17650 uploads=1884 failed_attempts=174 description_overrides=14169
+[09:08:53] login
+[09:08:55] login done
+[09:08:55] iteration 1/20
+[09:08:55] film cr_film_id=5963 name='Smrtelné stroje (2018) CZ Dabing' candidates=20
+[09:08:55]   candidate upload_id=5ca8eda9c7b83 url=https://prehraj.to/smrtelne-stroje-2018-720p-cz-dabing-novinka/5ca8eda9c7b83
+[09:08:56]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/12811166/aodiZyInltBwHX3Ud2UjbIwdiP5fpvFNASDP…)
+[09:09:42]   downloaded 1,324.0 MB in 44.7s (29.6 MB/s)
+[09:10:26]   upload done video_id=26157599 in 43.8s
