@@ -14657,3 +14657,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:10:23]   resolved in 1.2s → 720p (https://pf-storage6.premiumcdn.net/170960801/ZNWhPjfbwFyRcw5tv3UzXfWLh9XfLVUeKuv…)
 [11:12:09]   downloaded 2,400.1 MB in 104.0s (23.1 MB/s)
 [11:14:19]   upload done video_id=26161549 in 130.2s
+[11:14:21] film cr_film_id=5277 OK in 239.3s
+[11:14:21] iteration 7/20
+[11:14:21] film cr_film_id=31581 name='Vášeň a cit (2007) CZ' candidates=1
+[11:14:21]   candidate upload_id=0a73f7febc586c51 url=https://prehraj.to/vasen-a-cit-2007-fhd-cz-en/0a73f7febc586c51
+[11:14:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vasen-a-cit-2007-fhd-cz-en/0a73f7febc586c51 (permanent=True)
+[11:14:22] film cr_film_id=31581 all candidates exhausted
+[11:14:22] iteration 8/20
+[11:14:22] film cr_film_id=19479 name='Mambo italiano (2003) CZ' candidates=1
+[11:14:22]   candidate upload_id=5846db909f51c url=https://prehraj.to/mambo-italiano-moje-divoka-italska-svatba-2003-cz/5846db909f51c
+[11:14:30]   resolved in 7.3s → 480p (https://pf-storage2.premiumcdn.net/1032951/JlkFP4SaeU5ysvaUejtgKSlEie3cvqU27t3bC…)
+[11:15:11]   downloaded 685.2 MB in 38.7s (17.7 MB/s)
+[11:16:10]   upload done video_id=26161631 in 59.5s
