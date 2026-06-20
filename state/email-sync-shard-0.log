@@ -12518,3 +12518,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [17:32:22]   upload done video_id=26173484 in 56.8s
 [17:32:26] film cr_film_id=6266 OK in 201.7s
 [17:32:26] batch-end ok=20 failed=0 dur=3701.1s avg/film=185.1s remaining=15599 eta_hours=802.0
+
+===== run 2026-06-20T17:32:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27878679697) =====
+[17:33:00] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:33:00] batch-start shard=0/2 count=20 backlog=17650 uploads=2051 failed_attempts=194 description_overrides=17579
+[17:33:00] login
+[17:33:01] login done
+[17:33:01] iteration 1/20
+[17:33:01] film cr_film_id=6268 name='Noční lovec (2018) CZ Dabing' candidates=7
+[17:33:01]   candidate upload_id=6024634468b25 url=https://prehraj.to/nocni-lovec-night-hunter-2018-bluray-1080p-ac3-cz-dab/6024634468b25
+[17:33:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nocni-lovec-night-hunter-2018-bluray-1080p-ac3-cz-dab/6024634468b25 (permanent=True)
+[17:33:03]   candidate upload_id=602af9a653af8 url=https://prehraj.to/nocni-lovec-2019-cz-dab/602af9a653af8
+[17:33:10]   resolved in 6.9s → 480p (https://pf-storage3.premiumcdn.net/22239854/o2EuwGFBOceGcv8fVmHM1Fb4TOdsAZsr8sAO…)
+[17:35:33]   downloaded 410.2 MB in 140.8s (2.9 MB/s)
+[17:36:02]   upload done video_id=26173593 in 28.9s
