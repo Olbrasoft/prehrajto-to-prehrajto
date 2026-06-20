@@ -32458,6 +32458,25 @@
         "download_sec": 56.3,
         "upload_sec": 67.1
       }
+    },
+    {
+      "cr_film_id": 5867,
+      "cr_slug": "jaula",
+      "title": "Křídová mez",
+      "year": 2022,
+      "display_name": "Křídová mez (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "635f787dd6efd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26155058,
+      "size_bytes": 2153264595,
+      "uploaded_at": "2026-06-20T07:56:07Z",
+      "timing": {
+        "resolve_sec": 7.8,
+        "download_sec": 85.4,
+        "upload_sec": 123.5
+      }
     }
   ],
   "failed_attempts": [
@@ -33713,7 +33732,21 @@
         "download_sec": 57.1,
         "upload_sec": 75.5
       }
+    },
+    {
+      "cr_film_id": 5865,
+      "upload_id": "6e1f59e2ce88e7b2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princezna-rebelka-cz-dabing-2022-mp4/6e1f59e2ce88e7b2",
+      "permanent": true,
+      "failed_at": "2026-06-20T07:52:22Z"
+    },
+    {
+      "cr_film_id": 5865,
+      "upload_id": "8073048f14f18204",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princezna-rebelka-cz-dabing-2022-mp4/8073048f14f18204",
+      "permanent": true,
+      "failed_at": "2026-06-20T07:52:28Z"
     }
   ],
-  "last_updated": "2026-06-20T07:52:19Z"
+  "last_updated": "2026-06-20T07:56:07Z"
 }
