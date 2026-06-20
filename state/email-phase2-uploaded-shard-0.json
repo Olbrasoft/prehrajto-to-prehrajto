@@ -40764,6 +40764,25 @@
         "download_sec": 41.2,
         "upload_sec": 40.8
       }
+    },
+    {
+      "cr_film_id": 24270,
+      "cr_slug": "the-proposal",
+      "title": "The Proposal",
+      "year": 2001,
+      "display_name": "The Proposal (2001) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60e4cd0c29f25",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26155657,
+      "size_bytes": 512193843,
+      "uploaded_at": "2026-06-20T08:12:34Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 28.9,
+        "upload_sec": 31.3
+      }
     }
   ],
   "failed_attempts": [
@@ -41343,5 +41362,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-20T08:11:27Z"
+  "last_updated": "2026-06-20T08:12:34Z"
 }
