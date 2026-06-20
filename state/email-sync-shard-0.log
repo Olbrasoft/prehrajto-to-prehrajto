@@ -10291,3 +10291,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:00:12]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/5040430/D9NFjMT3OSpJf2VS1ocBzTRwCyrHRGiyxtqXs…)
 [01:01:10]   downloaded 999.5 MB in 55.6s (18.0 MB/s)
 [01:02:26]   upload done video_id=26141499 in 76.6s
+[01:02:28] film cr_film_id=5130 OK in 137.7s
+[01:02:28] iteration 18/20
+[01:02:28] film cr_film_id=5134 name='Tomb Raider (2018) CZ Dabing' candidates=2
+[01:02:28]   candidate upload_id=61e4087c25d8e url=https://prehraj.to/2018-tomb-raider-cz-dabing-1080p-novinka/61e4087c25d8e
+[01:02:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/2018-tomb-raider-cz-dabing-1080p-novinka/61e4087c25d8e (permanent=True)
+[01:02:31]   candidate upload_id=68290f6f35201 url=https://prehraj.to/tomb-raider-cz-dabing-2018/68290f6f35201
+[01:02:37]   resolved in 6.2s → 720p (https://pf-storage4.premiumcdn.net/138185339/lZmhJQiGwFgjfaVtZku6eiqvHMmFpVCgNTZ…)
+[01:04:24]   downloaded 2,397.8 MB in 104.5s (22.9 MB/s)
+[01:08:02]   upload done video_id=26141600 in 217.8s
