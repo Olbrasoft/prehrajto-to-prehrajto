@@ -40328,6 +40328,25 @@
         "download_sec": 173.3,
         "upload_sec": 191.1
       }
+    },
+    {
+      "cr_film_id": 22367,
+      "cr_slug": "hadi-vejce",
+      "title": "Hadí vejce",
+      "year": 1977,
+      "display_name": "Hadí vejce (1977) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5de593efa4223",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26153086,
+      "size_bytes": 470533663,
+      "uploaded_at": "2026-06-20T07:01:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.0,
+        "upload_sec": 25.6
+      }
     }
   ],
   "failed_attempts": [
@@ -40829,5 +40848,5 @@
       "failed_at": "2026-06-20T06:04:13Z"
     }
   ],
-  "last_updated": "2026-06-20T07:00:03Z"
+  "last_updated": "2026-06-20T07:01:31Z"
 }

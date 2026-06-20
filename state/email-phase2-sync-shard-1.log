@@ -13879,3 +13879,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [07:00:03]   upload done video_id=26152932 in 191.1s
 [07:00:05] film cr_film_id=33975 OK in 368.9s
 [07:00:05] batch-end ok=20 failed=0 dur=2598.4s avg/film=129.9s remaining=7938 eta_hours=286.4
+
+===== run 2026-06-20T07:00:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27863618739) =====
+[07:00:40] batch-start shard=1/2 count=20 backlog=10210 uploads=2272 failed_attempts=69 description_overrides=0
+[07:00:40] login
+[07:00:42] login done
+[07:00:42] iteration 1/20
+[07:00:42] film cr_film_id=22367 name='Hadí vejce (1977) CZ Titulky' candidates=1
+[07:00:42]   candidate upload_id=5de593efa4223 url=https://prehraj.to/hadi-vejce-das-schlangenei-the-serpent-s-egg-1977-cz-titulky/5de593efa4223
+[07:00:43]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/15388363/Rrji6DI76hvwT50CeRt0BI7PSA2hKNsbwSwy…)
+[07:01:06]   downloaded 470.5 MB in 21.0s (22.4 MB/s)
+[07:01:31]   upload done video_id=26153086 in 25.6s
