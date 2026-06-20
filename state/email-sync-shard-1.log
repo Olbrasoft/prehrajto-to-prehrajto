@@ -12854,3 +12854,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:00:06]   upload done video_id=26180989 in 56.0s
 [22:00:10] film cr_film_id=6739 OK in 100.8s
 [22:00:10] batch-end ok=20 failed=0 dur=6196.1s avg/film=309.8s remaining=15573 eta_hours=1340.1
+
+===== run 2026-06-20T22:00:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27885160572) =====
+[22:00:44] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:00:44] batch-start shard=1/2 count=20 backlog=17650 uploads=2077 failed_attempts=190 description_overrides=17579
+[22:00:44] login
+[22:00:45] login done
+[22:00:45] iteration 1/20
+[22:00:45] film cr_film_id=6741 name='Gnomeo a Julie (2011) CZ Dabing' candidates=5
+[22:00:45]   candidate upload_id=62095823852a1 url=https://prehraj.to/gnomeo-julie-2011-cz-dabing-animovany/62095823852a1
+[22:00:46]   resolved in 0.9s → 720p (https://pf-storage3.premiumcdn.net/29337978/nP4ImASGWU52srpt6AsozSgRhWDt8zFdzTOx…)
+[22:01:59]   downloaded 1,318.3 MB in 71.1s (18.5 MB/s)
+[22:03:58]   upload done video_id=26181065 in 118.8s
