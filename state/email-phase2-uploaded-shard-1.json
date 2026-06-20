@@ -37573,6 +37573,25 @@
         "download_sec": 21.7,
         "upload_sec": 34.1
       }
+    },
+    {
+      "cr_film_id": 26911,
+      "cr_slug": "wake-up-sid",
+      "title": "Wake Up Sid",
+      "year": 2009,
+      "display_name": "Wake Up Sid (2009) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "587d68d27238a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26142969,
+      "size_bytes": 1339292193,
+      "uploaded_at": "2026-06-20T02:02:30Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 46.5,
+        "upload_sec": 90.4
+      }
     }
   ],
   "failed_attempts": [
@@ -38060,5 +38079,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-20T02:00:08Z"
+  "last_updated": "2026-06-20T02:02:30Z"
 }
