@@ -41373,6 +41373,25 @@
         "download_sec": 28.7,
         "upload_sec": 38.5
       }
+    },
+    {
+      "cr_film_id": 21625,
+      "cr_slug": "jules-a-jim",
+      "title": "Jules a Jim",
+      "year": 1962,
+      "display_name": "Jules a Jim (1962) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "583c678600c4a",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26156988,
+      "size_bytes": 649589568,
+      "uploaded_at": "2026-06-20T08:49:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.9,
+        "upload_sec": 38.1
+      }
     }
   ],
   "failed_attempts": [
@@ -41874,5 +41893,5 @@
       "failed_at": "2026-06-20T06:04:13Z"
     }
   ],
-  "last_updated": "2026-06-20T08:48:31Z"
+  "last_updated": "2026-06-20T08:49:36Z"
 }
