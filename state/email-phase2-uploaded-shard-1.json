@@ -38979,6 +38979,25 @@
         "download_sec": 25.1,
         "upload_sec": 24.5
       }
+    },
+    {
+      "cr_film_id": 32887,
+      "cr_slug": "ripped",
+      "title": "Ripped",
+      "year": 2000,
+      "display_name": "Ripped (2000) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "588399cae571e",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26147824,
+      "size_bytes": 420492826,
+      "uploaded_at": "2026-06-20T04:39:09Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.9,
+        "upload_sec": 33.7
+      }
     }
   ],
   "failed_attempts": [
@@ -39466,5 +39485,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-20T04:38:08Z"
+  "last_updated": "2026-06-20T04:39:09Z"
 }
