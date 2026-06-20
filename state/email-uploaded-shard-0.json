@@ -31081,6 +31081,25 @@
         "download_sec": 52.1,
         "upload_sec": 72.4
       }
+    },
+    {
+      "cr_film_id": 5266,
+      "cr_slug": "nocni-rande",
+      "title": "Noční rande",
+      "year": 2010,
+      "display_name": "Noční rande (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5cdad61387f30",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26143896,
+      "size_bytes": 603605685,
+      "uploaded_at": "2026-06-20T02:46:28Z",
+      "timing": {
+        "resolve_sec": 2.6,
+        "download_sec": 23.4,
+        "upload_sec": 34.7
+      }
     }
   ],
   "failed_attempts": [
@@ -32292,5 +32311,5 @@
       "failed_at": "2026-06-20T02:43:14Z"
     }
   ],
-  "last_updated": "2026-06-20T02:45:24Z"
+  "last_updated": "2026-06-20T02:46:28Z"
 }
