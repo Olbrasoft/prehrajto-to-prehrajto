@@ -33123,6 +33123,25 @@
         "download_sec": 15.3,
         "upload_sec": 25.9
       }
+    },
+    {
+      "cr_film_id": 5987,
+      "cr_slug": "tata-je-doma-2",
+      "title": "Táta je doma 2",
+      "year": 2017,
+      "display_name": "Táta je doma 2 (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6863f900c965b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26158277,
+      "size_bytes": 2702578931,
+      "uploaded_at": "2026-06-20T09:33:28Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 89.8,
+        "upload_sec": 105.6
+      }
     }
   ],
   "failed_attempts": [
@@ -34392,7 +34411,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princezna-rebelka-cz-dabing-2022-mp4/8073048f14f18204",
       "permanent": true,
       "failed_at": "2026-06-20T07:52:28Z"
+    },
+    {
+      "cr_film_id": 5987,
+      "upload_id": "09cbdd01ca13c647",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tata-je-doma-2-2017-cz-dab-1080p/09cbdd01ca13c647",
+      "permanent": true,
+      "failed_at": "2026-06-20T09:30:05Z"
     }
   ],
-  "last_updated": "2026-06-20T09:30:03Z"
+  "last_updated": "2026-06-20T09:33:28Z"
 }
