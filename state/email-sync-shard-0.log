@@ -11499,3 +11499,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:19:48]   upload done video_id=26159737 in 160.5s
 [10:19:50] film cr_film_id=5742 OK in 277.4s
 [10:19:50] batch-end ok=19 failed=1 dur=4252.7s avg/film=223.8s remaining=15731 eta_hours=977.9
+
+===== run 2026-06-20T10:20:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27868206485) =====
+[10:20:28] description overrides loaded: 14749 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:20:28] batch-start shard=0/2 count=20 backlog=17650 uploads=1919 failed_attempts=182 description_overrides=14749
+[10:20:28] login
+[10:20:30] login done
+[10:20:30] iteration 1/20
+[10:20:30] film cr_film_id=5744 name='Dead of Winter (2025) CZ' candidates=1
+[10:20:30]   candidate upload_id=154a314543c1d069 url=https://prehraj.to/dead-of-winter-2025-cz-smrtici-dech-zimy/154a314543c1d069
+[10:20:32]   resolved in 2.0s → 720p (https://pf-storage5.premiumcdn.net/160502795/LjVF5qSp8TAxSqwHp4sNySWXc1whn3sJZf6…)
+[10:21:15]   downloaded 936.3 MB in 41.1s (22.8 MB/s)
+[10:22:58]   upload done video_id=26159863 in 103.0s
