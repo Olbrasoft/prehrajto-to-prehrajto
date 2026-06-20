@@ -34776,6 +34776,25 @@
         "download_sec": 31.4,
         "upload_sec": 29.9
       }
+    },
+    {
+      "cr_film_id": 6313,
+      "cr_slug": "hleda-se-princezna",
+      "title": "Hledá se princezna",
+      "year": 2018,
+      "display_name": "Hledá se princezna (2018) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60074e7e18b9c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26169107,
+      "size_bytes": 1853951679,
+      "uploaded_at": "2026-06-20T14:52:07Z",
+      "timing": {
+        "resolve_sec": 6.6,
+        "download_sec": 60.2,
+        "upload_sec": 185.3
+      }
     }
   ],
   "failed_attempts": [
@@ -36101,7 +36120,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cisar-obcanska-valka-2020-cz-dab-1080p/0493886759941536",
       "permanent": true,
       "failed_at": "2026-06-20T14:03:59Z"
+    },
+    {
+      "cr_film_id": 6311,
+      "upload_id": "ce8439bec1f99fcb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ten-pravy-ta-prava-2018-cz-dab-1080p/ce8439bec1f99fcb",
+      "permanent": true,
+      "failed_at": "2026-06-20T14:47:53Z"
     }
   ],
-  "last_updated": "2026-06-20T14:47:51Z"
+  "last_updated": "2026-06-20T14:52:07Z"
 }
