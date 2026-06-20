@@ -16091,3 +16091,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [23:08:26]   upload done video_id=26183141 in 51.1s
 [23:08:29] film cr_film_id=13117 OK in 94.6s
 [23:08:29] batch-end ok=20 failed=0 dur=3179.5s avg/film=159.0s remaining=7643 eta_hours=337.6
+
+===== run 2026-06-20T23:09:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27886719127) =====
+[23:09:03] batch-start shard=1/2 count=20 backlog=10210 uploads=2567 failed_attempts=89 description_overrides=0
+[23:09:03] login
+[23:09:05] login done
+[23:09:05] iteration 1/20
+[23:09:05] film cr_film_id=17627 name='Otvorený účet (1982) SK Dabing' candidates=2
+[23:09:05]   candidate upload_id=60ff097a9a748 url=https://prehraj.to/otvoreny-ucet-1982-skdab/60ff097a9a748
+[23:09:06]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/24406967/4kQcJjhbRT9NHOPT2wc4QhweuV8ULMSb1sRB…)
+[23:09:59]   downloaded 1,185.8 MB in 51.3s (23.1 MB/s)
+[23:11:05]   upload done video_id=26183194 in 66.2s
