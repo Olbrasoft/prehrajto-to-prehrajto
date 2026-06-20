@@ -41563,6 +41563,25 @@
         "download_sec": 109.7,
         "upload_sec": 131.8
       }
+    },
+    {
+      "cr_film_id": 21527,
+      "cr_slug": "gigi",
+      "title": "Gigi",
+      "year": 1958,
+      "display_name": "Gigi (1958) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "588ff984dde40",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26158072,
+      "size_bytes": 1173141450,
+      "uploaded_at": "2026-06-20T09:25:36Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 64.0,
+        "upload_sec": 69.6
+      }
     }
   ],
   "failed_attempts": [
@@ -42064,5 +42083,5 @@
       "failed_at": "2026-06-20T06:04:13Z"
     }
   ],
-  "last_updated": "2026-06-20T09:23:16Z"
+  "last_updated": "2026-06-20T09:25:36Z"
 }
