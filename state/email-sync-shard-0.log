@@ -10316,3 +10316,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:17:13]   upload done video_id=26141935 in 118.4s
 [01:17:15] film cr_film_id=5154 OK in 197.2s
 [01:17:15] batch-end ok=20 failed=0 dur=3754.1s avg/film=187.7s remaining=15881 eta_hours=828.0
+
+===== run 2026-06-20T01:21:29Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27855922322) =====
+[01:21:30] description overrides loaded: 13094 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:21:30] batch-start shard=0/2 count=20 backlog=17650 uploads=1769 failed_attempts=162 description_overrides=13094
+[01:21:30] login
+[01:21:32] login done
+[01:21:32] iteration 1/20
+[01:21:32] film cr_film_id=5168 name='Rázová vlna (2017) CZ Dabing' candidates=3
+[01:21:32]   candidate upload_id=5b376a5d0e4c2 url=https://prehraj.to/razova-vlna-akcni-cz-dab-2017-jad/5b376a5d0e4c2
+[01:21:34]   resolved in 1.6s → 720p (https://pf-storage1.premiumcdn.net/4591434/1leHG0UaMCwJubETzpFy7UBZiQ1TNdTpjHO2f…)
+[01:22:33]   downloaded 1,441.2 MB in 57.6s (25.0 MB/s)
+[01:23:53]   upload done video_id=26142057 in 79.3s
