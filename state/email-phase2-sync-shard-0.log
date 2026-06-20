@@ -14649,3 +14649,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [11:36:59]   upload done video_id=26162390 in 34.2s
 [11:37:01] film cr_film_id=22108 OK in 63.6s
 [11:37:01] batch-end ok=20 failed=0 dur=2327.1s avg/film=116.4s remaining=7828 eta_hours=253.1
+
+===== run 2026-06-20T11:48:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27870245387) =====
+[11:48:35] batch-start shard=0/2 count=20 backlog=10210 uploads=2382 failed_attempts=83 description_overrides=0
+[11:48:35] login
+[11:48:37] login done
+[11:48:37] iteration 1/20
+[11:48:37] film cr_film_id=22146 name='The Iceman Cometh (1973) CZ Titulky' candidates=1
+[11:48:37]   candidate upload_id=58745335d28b9 url=https://prehraj.to/the-iceman-cometh-1973-cz-titulky-v-obraze-ii-cast/58745335d28b9
+[11:48:38]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1404573/Kwdsq9UGXIrLFyqTnOhyaUoaf26fGms5JtgnH…)
+[11:49:15]   downloaded 594.2 MB in 34.6s (17.2 MB/s)
+[11:49:51]   upload done video_id=26162733 in 36.5s
