@@ -38618,6 +38618,25 @@
         "download_sec": 59.7,
         "upload_sec": 125.3
       }
+    },
+    {
+      "cr_film_id": 35701,
+      "cr_slug": "uder-2004",
+      "title": "Úder",
+      "year": 2004,
+      "display_name": "Úder (2004) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5f528a499fb87",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26146039,
+      "size_bytes": 2382563169,
+      "uploaded_at": "2026-06-20T03:51:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 113.1,
+        "upload_sec": 172.3
+      }
     }
   ],
   "failed_attempts": [
@@ -39105,5 +39124,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-20T03:46:49Z"
+  "last_updated": "2026-06-20T03:51:39Z"
 }
