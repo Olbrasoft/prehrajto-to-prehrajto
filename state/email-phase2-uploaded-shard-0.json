@@ -41676,6 +41676,25 @@
         "download_sec": 78.8,
         "upload_sec": 97.4
       }
+    },
+    {
+      "cr_film_id": 22970,
+      "cr_slug": "hanussen",
+      "title": "Hanussen",
+      "year": 1988,
+      "display_name": "Hanussen (1988) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58b84a8c79740",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26159590,
+      "size_bytes": 445838617,
+      "uploaded_at": "2026-06-20T10:12:13Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.9,
+        "upload_sec": 38.7
+      }
     }
   ],
   "failed_attempts": [
@@ -42269,5 +42288,5 @@
       "failed_at": "2026-06-20T09:47:48Z"
     }
   ],
-  "last_updated": "2026-06-20T10:11:01Z"
+  "last_updated": "2026-06-20T10:12:13Z"
 }
