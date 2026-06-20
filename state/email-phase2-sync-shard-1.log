@@ -15945,3 +15945,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [21:32:17]   upload done video_id=26180194 in 64.8s
 [21:32:22] film cr_film_id=15419 OK in 122.4s
 [21:32:22] batch-end ok=20 failed=0 dur=4776.5s avg/film=238.8s remaining=7663 eta_hours=508.3
+
+===== run 2026-06-20T22:15:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27885504296) =====
+[22:15:27] batch-start shard=1/2 count=20 backlog=10210 uploads=2547 failed_attempts=89 description_overrides=0
+[22:15:27] login
+[22:15:29] login done
+[22:15:29] iteration 1/20
+[22:15:29] film cr_film_id=17667 name='Zurvalec (1993) SK Dabing' candidates=2
+[22:15:29]   candidate upload_id=6375bd3032fa9 url=https://prehraj.to/zurvalec-1993-skdab/6375bd3032fa9
+[22:15:30]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/34683202/nzVialH93cYaU6YcREuJ1HRlUWZiqWT42f1x…)
+[22:17:05]   downloaded 2,712.4 MB in 92.9s (29.2 MB/s)
+[22:19:11]   upload done video_id=26181497 in 125.9s
