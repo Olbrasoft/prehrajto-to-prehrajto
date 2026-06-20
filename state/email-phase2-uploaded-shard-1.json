@@ -37440,6 +37440,25 @@
         "download_sec": 13.1,
         "upload_sec": 15.8
       }
+    },
+    {
+      "cr_film_id": 27347,
+      "cr_slug": "elena-undone",
+      "title": "Elena Undone",
+      "year": 2010,
+      "display_name": "Elena Undone (2010) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58532cf97371c",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26142758,
+      "size_bytes": 568288612,
+      "uploaded_at": "2026-06-20T01:53:54Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.7,
+        "upload_sec": 32.1
+      }
     }
   ],
   "failed_attempts": [
@@ -37927,5 +37946,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-20T01:53:02Z"
+  "last_updated": "2026-06-20T01:53:54Z"
 }
