@@ -12705,3 +12705,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [19:40:09]   upload done video_id=26177187 in 346.8s
 [19:40:17] film cr_film_id=6651 OK in 2172.6s
 [19:40:17] batch-end ok=20 failed=0 dur=7637.1s avg/film=381.9s remaining=15593 eta_hours=1654.2
+
+===== run 2026-06-20T20:16:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27882682959) =====
+[20:16:53] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:16:53] batch-start shard=1/2 count=20 backlog=17650 uploads=2057 failed_attempts=189 description_overrides=17579
+[20:16:53] login
+[20:16:54] login done
+[20:16:54] iteration 1/20
+[20:16:54] film cr_film_id=6655 name='Morgan (2016) CZ Dabing' candidates=13
+[20:16:54]   candidate upload_id=679942d50e85c url=https://prehraj.to/morgan-2016-cz-dab-1080p/679942d50e85c
+[20:16:55]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/128438387/K39IvaTg7caMc8phZyU8GT9jHPeSgYswVFJ…)
+[20:30:00]   downloaded 1,389.4 MB in 782.8s (1.8 MB/s)
+[20:31:43]   upload done video_id=26178624 in 103.2s

@@ -36201,6 +36201,25 @@
         "download_sec": 1815.3,
         "upload_sec": 346.8
       }
+    },
+    {
+      "cr_film_id": 6655,
+      "cr_slug": "morgan",
+      "title": "Morgan",
+      "year": 2016,
+      "display_name": "Morgan (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "679942d50e85c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26178624,
+      "size_bytes": 1389434139,
+      "uploaded_at": "2026-06-20T20:31:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 782.8,
+        "upload_sec": 103.2
+      }
     }
   ],
   "failed_attempts": [
@@ -37577,5 +37596,5 @@
       "failed_at": "2026-06-20T18:04:51Z"
     }
   ],
-  "last_updated": "2026-06-20T19:40:09Z"
+  "last_updated": "2026-06-20T20:31:43Z"
 }
