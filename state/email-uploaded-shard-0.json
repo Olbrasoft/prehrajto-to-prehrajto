@@ -33380,6 +33380,25 @@
         "download_sec": 85.7,
         "upload_sec": 196.4
       }
+    },
+    {
+      "cr_film_id": 5736,
+      "cr_slug": "upiri",
+      "title": "Upíři",
+      "year": 1998,
+      "display_name": "Upíři (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ddbcf2067899dc0d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26159586,
+      "size_bytes": 2741839429,
+      "uploaded_at": "2026-06-20T10:15:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 117.4,
+        "upload_sec": 222.8
+      }
     }
   ],
   "failed_attempts": [
@@ -34682,5 +34701,5 @@
       "failed_at": "2026-06-20T09:57:34Z"
     }
   ],
-  "last_updated": "2026-06-20T10:09:24Z"
+  "last_updated": "2026-06-20T10:15:10Z"
 }
