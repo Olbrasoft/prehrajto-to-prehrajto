@@ -39852,6 +39852,25 @@
         "download_sec": 45.6,
         "upload_sec": 110.0
       }
+    },
+    {
+      "cr_film_id": 26290,
+      "cr_slug": "clapham-junction",
+      "title": "Clapham Junction",
+      "year": 2007,
+      "display_name": "Clapham Junction (2007) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58706cf0cfc35",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26152119,
+      "size_bytes": 434498825,
+      "uploaded_at": "2026-06-20T06:34:13Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 17.1,
+        "upload_sec": 26.3
+      }
     }
   ],
   "failed_attempts": [
@@ -40431,5 +40450,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-20T06:33:25Z"
+  "last_updated": "2026-06-20T06:34:13Z"
 }
