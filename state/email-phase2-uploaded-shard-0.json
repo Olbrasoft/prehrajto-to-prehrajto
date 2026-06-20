@@ -45457,6 +45457,25 @@
         "download_sec": 29.8,
         "upload_sec": 24.9
       }
+    },
+    {
+      "cr_film_id": 5052,
+      "cr_slug": "emma-peeters",
+      "title": "Emma Peeters",
+      "year": 2018,
+      "display_name": "Emma Peeters (2018) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "602eaa08609bb",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26181763,
+      "size_bytes": 770722628,
+      "uploaded_at": "2026-06-20T22:27:15Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 50.1,
+        "upload_sec": 41.8
+      }
     }
   ],
   "failed_attempts": [
@@ -46064,5 +46083,5 @@
       "failed_at": "2026-06-20T15:49:52Z"
     }
   ],
-  "last_updated": "2026-06-20T22:25:38Z"
+  "last_updated": "2026-06-20T22:27:15Z"
 }
