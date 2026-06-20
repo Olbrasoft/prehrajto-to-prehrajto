@@ -33598,6 +33598,25 @@
         "download_sec": 22.1,
         "upload_sec": 35.4
       }
+    },
+    {
+      "cr_film_id": 6125,
+      "cr_slug": "jumper",
+      "title": "Jumper",
+      "year": 2008,
+      "display_name": "Jumper (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63be6ce6d0746",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26161291,
+      "size_bytes": 2083867057,
+      "uploaded_at": "2026-06-20T11:04:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 66.8,
+        "upload_sec": 115.8
+      }
     }
   ],
   "failed_attempts": [
@@ -34876,5 +34895,5 @@
       "failed_at": "2026-06-20T09:30:05Z"
     }
   ],
-  "last_updated": "2026-06-20T11:01:08Z"
+  "last_updated": "2026-06-20T11:04:15Z"
 }
