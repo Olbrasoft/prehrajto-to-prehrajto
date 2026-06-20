@@ -11534,3 +11534,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:48:20]   upload done video_id=26158826 in 34.7s
 [09:48:21] film cr_film_id=6057 OK in 56.2s
 [09:48:21] batch-end ok=20 failed=0 dur=2366.7s avg/film=118.3s remaining=15746 eta_hours=517.4
+
+===== run 2026-06-20T10:20:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27868206485) =====
+[10:20:25] description overrides loaded: 14749 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:20:25] batch-start shard=1/2 count=20 backlog=17650 uploads=1904 failed_attempts=175 description_overrides=14749
+[10:20:25] login
+[10:20:27] login done
+[10:20:27] iteration 1/20
+[10:20:27] film cr_film_id=6063 name='Sněhurka a lovec (2012) CZ Dabing' candidates=6
+[10:20:27]   candidate upload_id=5c33a9913e1d1 url=https://prehraj.to/snehulienka-a-lovec-cz-dabing-2012/5c33a9913e1d1
+[10:20:28]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/10675394/PvpiKmTG6h5JtZeSwlIzlT9OuKOceOCQbuom…)
+[10:20:56]   downloaded 777.2 MB in 26.6s (29.2 MB/s)
+[10:21:45]   upload done video_id=26159854 in 48.8s
