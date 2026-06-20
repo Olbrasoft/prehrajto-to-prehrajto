@@ -12624,3 +12624,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [18:01:19]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/25007633/l7RS1OuODFXWcn0TB6uBVuXDt64ieyCNySRj…)
 [18:02:12]   downloaded 1,881.8 MB in 51.4s (36.6 MB/s)
 [18:04:46]   upload done video_id=26174420 in 154.0s
+[18:04:50] film cr_film_id=6601 OK in 212.1s
+[18:04:50] iteration 10/20
+[18:04:50] film cr_film_id=6605 name='Nezvratný osud 5 (2011) CZ Dabing' candidates=2
+[18:04:50]   candidate upload_id=c442be3bb1eeca3f url=https://prehraj.to/nezvratny-osud-5-final-destination-2011-en-cz-dabing-uhdrdv-mkv/c442be3bb1eeca3f
+[18:04:51]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nezvratny-osud-5-final-destination-2011-en-cz-dabing-uhdrdv-mkv/c442be3bb1eeca3f (permanent=True)
+[18:04:51]   candidate upload_id=63e29d6fe5e64 url=https://prehraj.to/nezvratny-osud-v-2011-cz-en/63e29d6fe5e64
+[18:04:57]   resolved in 5.9s → 720p (https://pf-storage4.premiumcdn.net/37155514/YyQt4Qh1VcJDsOVHkxcaNho6teMTmQCnDUKQ…)
+[18:05:54]   downloaded 1,712.8 MB in 56.3s (30.4 MB/s)
+[18:07:21]   upload done video_id=26174536 in 86.7s
