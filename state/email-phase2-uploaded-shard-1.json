@@ -42114,6 +42114,25 @@
         "download_sec": 31.6,
         "upload_sec": 35.2
       }
+    },
+    {
+      "cr_film_id": 37023,
+      "cr_slug": "bts-navrat",
+      "title": "BTS: Návrat",
+      "year": 2026,
+      "display_name": "BTS: Návrat (2026) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "ac40b43b00631593",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26159951,
+      "size_bytes": 1795206478,
+      "uploaded_at": "2026-06-20T10:25:43Z",
+      "timing": {
+        "resolve_sec": 3.6,
+        "download_sec": 95.0,
+        "upload_sec": 130.7
+      }
     }
   ],
   "failed_attempts": [
@@ -42615,5 +42634,5 @@
       "failed_at": "2026-06-20T06:04:13Z"
     }
   ],
-  "last_updated": "2026-06-20T10:21:50Z"
+  "last_updated": "2026-06-20T10:25:43Z"
 }
