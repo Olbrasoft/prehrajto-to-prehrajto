@@ -10636,3 +10636,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:19:52]   upload done video_id=26144715 in 34.7s
 [03:19:53] film cr_film_id=5551 OK in 73.1s
 [03:19:53] batch-end ok=19 failed=1 dur=2729.0s avg/film=143.6s remaining=15862 eta_hours=632.7
+
+===== run 2026-06-20T03:20:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27858642136) =====
+[03:20:25] description overrides loaded: 13095 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:20:25] batch-start shard=1/2 count=20 backlog=17650 uploads=1788 failed_attempts=161 description_overrides=13095
+[03:20:25] login
+[03:20:27] login done
+[03:20:27] iteration 1/20
+[03:20:27] film cr_film_id=5555 name='Kolo zázraků (2017) CZ Dabing' candidates=7
+[03:20:27]   candidate upload_id=5c1dad414dbb7 url=https://prehraj.to/kolo-zazraku-cz-dabing-2017/5c1dad414dbb7
+[03:20:28]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/9765815/WDyFG4TM2U6VunLs5YiboTyWInQuV3H7xIwvC…)
+[03:21:18]   downloaded 1,357.4 MB in 48.2s (28.2 MB/s)
+[03:22:19]   upload done video_id=26144757 in 61.7s
