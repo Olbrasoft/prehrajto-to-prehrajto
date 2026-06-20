@@ -30853,6 +30853,25 @@
         "download_sec": 38.3,
         "upload_sec": 52.2
       }
+    },
+    {
+      "cr_film_id": 5232,
+      "cr_slug": "nezvana",
+      "title": "Nezvaná",
+      "year": 2009,
+      "display_name": "Nezvaná (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "13537937049edd9e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26142793,
+      "size_bytes": 1911525219,
+      "uploaded_at": "2026-06-20T01:56:14Z",
+      "timing": {
+        "resolve_sec": 2.4,
+        "download_sec": 75.9,
+        "upload_sec": 105.7
+      }
     }
   ],
   "failed_attempts": [
@@ -32015,5 +32034,5 @@
       "failed_at": "2026-06-20T01:02:31Z"
     }
   ],
-  "last_updated": "2026-06-20T01:53:07Z"
+  "last_updated": "2026-06-20T01:56:14Z"
 }
