@@ -15063,3 +15063,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:44:20]   upload done video_id=26166389 in 45.3s
 [13:44:22] film cr_film_id=7611 OK in 81.3s
 [13:44:22] batch-end ok=19 failed=1 dur=3165.9s avg/film=166.6s remaining=7783 eta_hours=360.2
+
+===== run 2026-06-20T13:44:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27872978578) =====
+[13:44:52] batch-start shard=1/2 count=20 backlog=10210 uploads=2427 failed_attempts=87 description_overrides=0
+[13:44:52] login
+[13:44:54] login done
+[13:44:54] iteration 1/20
+[13:44:54] film cr_film_id=6885 name='Healing River (2020) SK Dabing' candidates=7
+[13:44:54]   candidate upload_id=620ce9670bb15 url=https://prehraj.to/uzdravujuca-rieka-healing-river-2020-hd-sk-dabing-mp4/620ce9670bb15
+[13:44:55]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/29418761/gZvup5hj5CDGTnKfAoSB6hpBsPKfwbcRnIGo…)
+[13:45:39]   downloaded 1,229.0 MB in 42.4s (29.0 MB/s)
+[13:48:03]   upload done video_id=26166487 in 143.5s
