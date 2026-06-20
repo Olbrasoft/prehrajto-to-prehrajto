@@ -39340,6 +39340,25 @@
         "download_sec": 165.3,
         "upload_sec": 219.4
       }
+    },
+    {
+      "cr_film_id": 23665,
+      "cr_slug": "aljaska",
+      "title": "Aljaška",
+      "year": 1996,
+      "display_name": "Aljaška (1996) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "68d0246fd7007",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26149300,
+      "size_bytes": 2424745029,
+      "uploaded_at": "2026-06-20T05:20:11Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 81.1,
+        "upload_sec": 128.0
+      }
     }
   ],
   "failed_attempts": [
@@ -39827,5 +39846,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-20T05:16:37Z"
+  "last_updated": "2026-06-20T05:20:11Z"
 }
