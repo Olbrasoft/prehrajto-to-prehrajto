@@ -14746,3 +14746,12 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:44:03]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/141522887/Gg2TNMS1MsJrH8MH7pUgGSy5CbghbaFVrCq…)
 [11:45:20]   downloaded 1,712.2 MB in 74.6s (23.0 MB/s)
 [11:47:48]   upload done video_id=26162644 in 147.3s
+[11:47:49] film cr_film_id=4079 OK in 227.1s
+[11:47:49] iteration 20/20
+[11:47:49] film cr_film_id=7833 name='Smršť (2024) SK Dabing' candidates=2
+[11:47:49]   candidate upload_id=93e52871c580a63d url=https://prehraj.to/smrst-2024-hd-sk-dabing/93e52871c580a63d
+[11:47:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smrst-2024-hd-sk-dabing/93e52871c580a63d (permanent=True)
+[11:47:51]   candidate upload_id=23a3df3996cf8336 url=https://prehraj.to/smrst-2024-cz/23a3df3996cf8336
+[11:47:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smrst-2024-cz/23a3df3996cf8336 (permanent=True)
+[11:47:58] film cr_film_id=7833 all candidates exhausted
+[11:47:58] batch-end ok=18 failed=2 dur=2984.1s avg/film=165.8s remaining=7821 eta_hours=360.2
