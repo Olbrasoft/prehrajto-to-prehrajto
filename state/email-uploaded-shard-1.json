@@ -30102,6 +30102,25 @@
         "download_sec": 122.5,
         "upload_sec": 203.2
       }
+    },
+    {
+      "cr_film_id": 5377,
+      "cr_slug": "fotri",
+      "title": "Fotři",
+      "year": 2023,
+      "display_name": "Fotři (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65328a7dbe2cb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26140741,
+      "size_bytes": 971989498,
+      "uploaded_at": "2026-06-20T00:42:08Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 43.9,
+        "upload_sec": 86.1
+      }
     }
   ],
   "failed_attempts": [
@@ -31244,5 +31263,5 @@
       "failed_at": "2026-06-19T23:25:56Z"
     }
   ],
-  "last_updated": "2026-06-20T00:39:53Z"
+  "last_updated": "2026-06-20T00:42:08Z"
 }
