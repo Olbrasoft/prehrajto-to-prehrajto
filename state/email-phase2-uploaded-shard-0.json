@@ -39510,6 +39510,25 @@
         "download_sec": 22.6,
         "upload_sec": 23.1
       }
+    },
+    {
+      "cr_film_id": 32590,
+      "cr_slug": "awaydays",
+      "title": "Awaydays",
+      "year": 2009,
+      "display_name": "Awaydays (2009) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "58560873a7281",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26150190,
+      "size_bytes": 411073850,
+      "uploaded_at": "2026-06-20T05:48:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.0,
+        "upload_sec": 18.0
+      }
     }
   ],
   "failed_attempts": [
@@ -40089,5 +40108,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-20T05:48:04Z"
+  "last_updated": "2026-06-20T05:48:43Z"
 }
