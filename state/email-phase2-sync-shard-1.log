@@ -12415,3 +12415,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:10:59]   upload done video_id=26140240 in 32.9s
 [00:11:00] film cr_film_id=37229 OK in 63.7s
 [00:11:00] batch-end ok=20 failed=0 dur=1874.6s avg/film=93.7s remaining=8138 eta_hours=211.8
+
+===== run 2026-06-20T00:11:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27854214391) =====
+[00:11:30] batch-start shard=1/2 count=20 backlog=10210 uploads=2072 failed_attempts=67 description_overrides=0
+[00:11:30] login
+[00:11:32] login done
+[00:11:32] iteration 1/20
+[00:11:32] film cr_film_id=27387 name="That's What I Am (2011) CZ Titulky" candidates=2
+[00:11:32]   candidate upload_id=58b9a74bbd262 url=https://prehraj.to/that-s-what-i-am-2011-cz-tit/58b9a74bbd262
+[00:11:34]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1786725/XkMSWkF3NtB4t2KtrahM0FWrU0dSEBSD1hJBU…)
+[00:12:06]   downloaded 511.5 MB in 30.5s (16.8 MB/s)
+[00:13:09]   upload done video_id=26140279 in 63.4s
