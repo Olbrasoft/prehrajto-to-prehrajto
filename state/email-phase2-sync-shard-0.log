@@ -12606,3 +12606,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:41:58]   upload done video_id=26142413 in 92.5s
 [01:41:59] film cr_film_id=15330 OK in 157.3s
 [01:41:59] batch-end ok=20 failed=0 dur=2871.5s avg/film=143.6s remaining=8106 eta_hours=323.3
+
+===== run 2026-06-20T01:42:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27856414924) =====
+[01:42:32] batch-start shard=0/2 count=20 backlog=10210 uploads=2104 failed_attempts=80 description_overrides=0
+[01:42:32] login
+[01:42:34] login done
+[01:42:34] iteration 1/20
+[01:42:34] film cr_film_id=28180 name='Jaký otec, takový syn (2013) CZ Titulky' candidates=1
+[01:42:34]   candidate upload_id=5ffc9fd51f695 url=https://prehraj.to/jaky-otec-takovy-syn-2013-cztitulky/5ffc9fd51f695
+[01:42:35]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/21409719/QOLUl1SJQhxbuznsAwfXbSlMCX9tYrsnrhKP…)
+[01:43:03]   downloaded 719.0 MB in 26.5s (27.1 MB/s)
+[01:43:57]   upload done video_id=26142497 in 53.8s
