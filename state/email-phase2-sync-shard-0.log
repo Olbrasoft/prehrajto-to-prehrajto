@@ -14503,3 +14503,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:57:36]   upload done video_id=26161117 in 56.1s
 [10:57:38] film cr_film_id=22622 OK in 107.7s
 [10:57:38] batch-end ok=19 failed=1 dur=3545.4s avg/film=186.6s remaining=7848 eta_hours=406.8
+
+===== run 2026-06-20T10:58:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27869078309) =====
+[10:58:12] batch-start shard=0/2 count=20 backlog=10210 uploads=2362 failed_attempts=83 description_overrides=0
+[10:58:12] login
+[10:58:13] login done
+[10:58:13] iteration 1/20
+[10:58:13] film cr_film_id=22566 name='Oko za oko (1981) CZ Titulky' candidates=3
+[10:58:13]   candidate upload_id=68fdc1bfd907c url=https://prehraj.to/oko-za-oko-1981-1080p-h264-ac3-6ch-cztit-cz/68fdc1bfd907c
+[10:58:15]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/153570522/6DXf8ET8LCovsgmTyGUNOT9Xt7zhAmCdMUE…)
+[10:59:27]   downloaded 1,697.8 MB in 70.9s (23.9 MB/s)
+[11:00:57]   upload done video_id=26161210 in 89.6s
