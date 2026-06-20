@@ -34187,6 +34187,25 @@
         "download_sec": 77.9,
         "upload_sec": 142.5
       }
+    },
+    {
+      "cr_film_id": 6221,
+      "cr_slug": "bozi-tvorove",
+      "title": "Boží tvorové",
+      "year": 2022,
+      "display_name": "Boží tvorové (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64a554a44673a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26165114,
+      "size_bytes": 749012628,
+      "uploaded_at": "2026-06-20T13:03:55Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 49.8,
+        "upload_sec": 57.9
+      }
     }
   ],
   "failed_attempts": [
@@ -35463,7 +35482,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tata-je-doma-2-2017-cz-dab-1080p/09cbdd01ca13c647",
       "permanent": true,
       "failed_at": "2026-06-20T09:30:05Z"
+    },
+    {
+      "cr_film_id": 6219,
+      "upload_id": "049fd27300cff8c2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/denik-memu-synovi-2021-cz-dabing/049fd27300cff8c2",
+      "permanent": true,
+      "failed_at": "2026-06-20T13:02:00Z"
     }
   ],
-  "last_updated": "2026-06-20T13:01:57Z"
+  "last_updated": "2026-06-20T13:03:55Z"
 }
