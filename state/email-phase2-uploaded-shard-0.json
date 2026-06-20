@@ -43082,6 +43082,25 @@
         "download_sec": 84.6,
         "upload_sec": 81.4
       }
+    },
+    {
+      "cr_film_id": 21534,
+      "cr_slug": "zkaza-titaniku",
+      "title": "Zkáza Titaniku",
+      "year": 1958,
+      "display_name": "Zkáza Titaniku (1958) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "5dfe1bcff1e6f",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26165953,
+      "size_bytes": 544080375,
+      "uploaded_at": "2026-06-20T13:30:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.9,
+        "upload_sec": 28.1
+      }
     }
   ],
   "failed_attempts": [
@@ -43682,5 +43701,5 @@
       "failed_at": "2026-06-20T10:49:27Z"
     }
   ],
-  "last_updated": "2026-06-20T13:30:00Z"
+  "last_updated": "2026-06-20T13:30:52Z"
 }
