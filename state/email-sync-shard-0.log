@@ -10615,3 +10615,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:59:20]   resolved in 2.2s → 1080p (https://pf-storage1.premiumcdn.net/129314510/pP8c1eSWEf45UGYi8kFqWS5EuR9cXPtzvHv…)
 [03:00:36]   downloaded 2,668.5 MB in 75.1s (35.5 MB/s)
 [03:02:17]   upload done video_id=26144294 in 101.0s
+[03:02:18] film cr_film_id=5288 OK in 181.0s
+[03:02:18] iteration 19/20
+[03:02:18] film cr_film_id=5290 name='Paranormal Activity (2007) CZ Dabing' candidates=2
+[03:02:18]   candidate upload_id=6867000ba9259 url=https://prehraj.to/paranormal-activity-2007-cz-dab-720p/6867000ba9259
+[03:02:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/paranormal-activity-2007-cz-dab-720p/6867000ba9259 (permanent=True)
+[03:02:19]   candidate upload_id=b0ba33f23a2f3136 url=https://prehraj.to/paranormal-activity-2007-cz-dab-720p/b0ba33f23a2f3136
+[03:02:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/paranormal-activity-2007-cz-dab-720p/b0ba33f23a2f3136 (permanent=True)
+[03:02:26] film cr_film_id=5290 all candidates exhausted
+[03:02:26] iteration 20/20
+[03:02:26] film cr_film_id=5294 name='Scary Movie – Děsnej biják (2000) CZ Dabing' candidates=25
+[03:02:26]   candidate upload_id=6867101f77956 url=https://prehraj.to/scary-movie-desnej-bijak-2000-cz-dab-1080p/6867101f77956
+[03:02:32]   resolved in 6.1s → 720p (https://pf-storage3.premiumcdn.net/141180314/47ztwWHJDc72h3auN5t7jHlxTDASoMiNls7…)
+[03:03:25]   downloaded 1,820.5 MB in 51.0s (35.7 MB/s)
+[03:04:40]   upload done video_id=26144352 in 74.9s

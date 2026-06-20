@@ -31290,6 +31290,25 @@
         "download_sec": 75.1,
         "upload_sec": 101.0
       }
+    },
+    {
+      "cr_film_id": 5294,
+      "cr_slug": "scary-movie-desnej-bijak",
+      "title": "Scary Movie – Děsnej biják",
+      "year": 2000,
+      "display_name": "Scary Movie – Děsnej biják (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6867101f77956",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26144352,
+      "size_bytes": 1820476251,
+      "uploaded_at": "2026-06-20T03:04:40Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 51.0,
+        "upload_sec": 74.9
+      }
     }
   ],
   "failed_attempts": [
@@ -32499,7 +32518,21 @@
       "reason": "oversize: 6906188541 B",
       "permanent": true,
       "failed_at": "2026-06-20T02:43:14Z"
+    },
+    {
+      "cr_film_id": 5290,
+      "upload_id": "6867000ba9259",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/paranormal-activity-2007-cz-dab-720p/6867000ba9259",
+      "permanent": true,
+      "failed_at": "2026-06-20T03:02:19Z"
+    },
+    {
+      "cr_film_id": 5290,
+      "upload_id": "b0ba33f23a2f3136",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/paranormal-activity-2007-cz-dab-720p/b0ba33f23a2f3136",
+      "permanent": true,
+      "failed_at": "2026-06-20T03:02:26Z"
     }
   ],
-  "last_updated": "2026-06-20T03:02:17Z"
+  "last_updated": "2026-06-20T03:04:40Z"
 }
