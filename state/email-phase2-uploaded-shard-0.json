@@ -41106,6 +41106,25 @@
         "download_sec": 223.2,
         "upload_sec": 244.2
       }
+    },
+    {
+      "cr_film_id": 12966,
+      "cr_slug": "dead-by-dawn",
+      "title": "Dead by Dawn",
+      "year": 1998,
+      "display_name": "Dead by Dawn (1998) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "560221faba942a48",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26157302,
+      "size_bytes": 1549171882,
+      "uploaded_at": "2026-06-20T09:00:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 82.8,
+        "upload_sec": 90.3
+      }
     }
   ],
   "failed_attempts": [
@@ -41685,5 +41704,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-20T08:57:08Z"
+  "last_updated": "2026-06-20T09:00:07Z"
 }
