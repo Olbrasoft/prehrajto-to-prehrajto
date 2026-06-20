@@ -14463,3 +14463,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [09:51:21]   upload done video_id=26158930 in 49.9s
 [09:51:22] film cr_film_id=32699 OK in 91.3s
 [09:51:22] batch-end ok=20 failed=0 dur=2391.6s avg/film=119.6s remaining=7858 eta_hours=261.1
+
+===== run 2026-06-20T09:58:33Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27867697267) =====
+[09:58:34] batch-start shard=1/2 count=20 backlog=10210 uploads=2352 failed_attempts=69 description_overrides=0
+[09:58:34] login
+[09:58:36] login done
+[09:58:36] iteration 1/20
+[09:58:36] film cr_film_id=31551 name='Poklad na Sierra Madre (1948) CZ Titulky' candidates=1
+[09:58:36]   candidate upload_id=55bc93e986b36 url=https://prehraj.to/treasure-of-the-sierra-madre-1948-divx-czsub/55bc93e986b36
+[09:58:37]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/63489/bLpcPnFLXc8ot3bUPAFm7FwjhR2spmIJWsw1i9v…)
+[09:59:15]   downloaded 618.8 MB in 35.4s (17.5 MB/s)
+[09:59:58]   upload done video_id=26159248 in 42.7s
