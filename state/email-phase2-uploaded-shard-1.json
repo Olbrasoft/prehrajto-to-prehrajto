@@ -36452,6 +36452,25 @@
         "download_sec": 15.5,
         "upload_sec": 17.4
       }
+    },
+    {
+      "cr_film_id": 27425,
+      "cr_slug": "vampire",
+      "title": "Vampire",
+      "year": 2011,
+      "display_name": "Vampire (2011) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "60ad931267332",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26140122,
+      "size_bytes": 1699283451,
+      "uploaded_at": "2026-06-20T00:06:20Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 82.4,
+        "upload_sec": 97.8
+      }
     }
   ],
   "failed_attempts": [
@@ -36939,5 +36958,5 @@
       "failed_at": "2026-06-19T11:25:33Z"
     }
   ],
-  "last_updated": "2026-06-20T00:03:15Z"
+  "last_updated": "2026-06-20T00:06:20Z"
 }
