@@ -11066,3 +11066,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:16:13]   upload done video_id=26151247 in 182.8s
 [06:16:15] film cr_film_id=5504 OK in 313.7s
 [06:16:15] batch-end ok=20 failed=0 dur=3649.7s avg/film=182.5s remaining=15787 eta_hours=800.3
+
+===== run 2026-06-20T07:14:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27863934782) =====
+[07:14:34] description overrides loaded: 13125 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:14:34] batch-start shard=0/2 count=20 backlog=17650 uploads=1863 failed_attempts=178 description_overrides=13125
+[07:14:34] login
+[07:14:36] login done
+[07:14:36] iteration 1/20
+[07:14:36] film cr_film_id=5506 name='Mrazivá pomsta (2019) CZ Dabing' candidates=18
+[07:14:36]   candidate upload_id=5fff590ba1ee8 url=https://prehraj.to/mraziva-pomsta-cz-dabing-2019-1080pfhd-akcni-drama-thriller-novinka/5fff590ba1ee8
+[07:14:37]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/21462189/myJI3jSqEcEncdPuY9h1LS8junlhbeiQDCDr…)
+[07:15:37]   downloaded 1,705.7 MB in 58.5s (29.2 MB/s)
+[07:17:30]   upload done video_id=26153643 in 112.5s
