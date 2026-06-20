@@ -15815,3 +15815,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [22:14:50]   upload done video_id=26181368 in 129.8s
 [22:14:55] film cr_film_id=5434 OK in 254.7s
 [22:14:55] batch-end ok=20 failed=0 dur=7327.9s avg/film=366.4s remaining=7669 eta_hours=780.5
+
+===== run 2026-06-20T22:15:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27885504296) =====
+[22:15:29] batch-start shard=0/2 count=20 backlog=10210 uploads=2541 failed_attempts=84 description_overrides=0
+[22:15:29] login
+[22:15:31] login done
+[22:15:31] iteration 1/20
+[22:15:31] film cr_film_id=6588 name='Patrick (2018) SK Dabing' candidates=4
+[22:15:31]   candidate upload_id=5ede711da9406 url=https://prehraj.to/patrick-2018-skdabing/5ede711da9406
+[22:15:32]   resolved in 0.9s → 720p (https://pf-storage3.premiumcdn.net/16837815/kb8tlQf80Cr5IPGTD3IMRflatJginjubWcAq…)
+[22:16:49]   downloaded 1,749.8 MB in 75.6s (23.1 MB/s)
+[22:17:51]   upload done video_id=26181490 in 61.7s
