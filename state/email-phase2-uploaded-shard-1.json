@@ -42399,6 +42399,25 @@
         "download_sec": 64.5,
         "upload_sec": 68.4
       }
+    },
+    {
+      "cr_film_id": 11673,
+      "cr_slug": "okno-z-loznice",
+      "title": "Okno z ložnice",
+      "year": 1987,
+      "display_name": "Okno z ložnice (1987) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68f2237b21421",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26162057,
+      "size_bytes": 1419674210,
+      "uploaded_at": "2026-06-20T11:27:30Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 62.8,
+        "upload_sec": 94.1
+      }
     }
   ],
   "failed_attempts": [
@@ -42928,5 +42947,5 @@
       "failed_at": "2026-06-20T11:14:22Z"
     }
   ],
-  "last_updated": "2026-06-20T11:24:48Z"
+  "last_updated": "2026-06-20T11:27:30Z"
 }
