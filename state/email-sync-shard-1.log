@@ -12003,3 +12003,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:02:11]   resolved in 1.5s → 720p (https://pf-storage2.premiumcdn.net/22694909/xvMhPdcDwFVgCLAtGaIk2cGeSgmCYQCLAhyn…)
 [14:02:49]   downloaded 1,034.9 MB in 35.6s (29.1 MB/s)
 [14:03:51]   upload done video_id=26167305 in 62.6s
+[14:03:53] film cr_film_id=6263 OK in 102.8s
+[14:03:53] iteration 4/20
+[14:03:53] film cr_film_id=6265 name='Císař: Občanská válka (2020) CZ Dabing' candidates=2
+[14:03:53]   candidate upload_id=0f1d3d7f85568460 url=https://prehraj.to/cisar-obcanska-valka-2020-cz-dab-1080p-mp4/0f1d3d7f85568460
+[14:03:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cisar-obcanska-valka-2020-cz-dab-1080p-mp4/0f1d3d7f85568460 (permanent=True)
+[14:03:53]   candidate upload_id=0493886759941536 url=https://prehraj.to/cisar-obcanska-valka-2020-cz-dab-1080p/0493886759941536
+[14:03:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cisar-obcanska-valka-2020-cz-dab-1080p/0493886759941536 (permanent=True)
+[14:03:59] film cr_film_id=6265 all candidates exhausted
+[14:03:59] iteration 5/20
+[14:03:59] film cr_film_id=6267 name='Dospělý (2018) CZ Dabing' candidates=1
+[14:03:59]   candidate upload_id=602c0023a6a67 url=https://prehraj.to/dospely-2018-czdab/602c0023a6a67
+[14:04:04]   resolved in 5.6s → 720p (https://pf-storage3.premiumcdn.net/22259258/JzBh4aS09hlWcZ5ILBuLbSoBTjyCbpspETak…)
+[14:04:52]   downloaded 941.3 MB in 45.7s (20.6 MB/s)
+[14:05:29]   upload done video_id=26167382 in 37.3s
