@@ -41429,6 +41429,25 @@
         "download_sec": 22.1,
         "upload_sec": 35.6
       }
+    },
+    {
+      "cr_film_id": 21150,
+      "cr_slug": "drtic-mozku",
+      "title": "Drtič mozků",
+      "year": 1993,
+      "display_name": "Drtič mozků (1993) CZ Titulky",
+      "preferred_lang_class": "CZ_SUB",
+      "src_upload_id": "6505a0c815a4d",
+      "src_lang_class": "CZ_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26158420,
+      "size_bytes": 2005229458,
+      "uploaded_at": "2026-06-20T09:38:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 96.1,
+        "upload_sec": 125.9
+      }
     }
   ],
   "failed_attempts": [
@@ -42015,5 +42034,5 @@
       "failed_at": "2026-06-20T09:01:17Z"
     }
   ],
-  "last_updated": "2026-06-20T09:34:44Z"
+  "last_updated": "2026-06-20T09:38:31Z"
 }
