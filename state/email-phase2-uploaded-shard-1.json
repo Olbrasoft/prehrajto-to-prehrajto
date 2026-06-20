@@ -45211,6 +45211,25 @@
         "download_sec": 47.8,
         "upload_sec": 59.2
       }
+    },
+    {
+      "cr_film_id": 13653,
+      "cr_slug": "dobryna-nikitic-a-trihlavy-drak",
+      "title": "Dobryňa Nikitič a tříhlavý drak",
+      "year": 2006,
+      "display_name": "Dobryňa Nikitič a tříhlavý drak (2006) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "40e19689686037fd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26178354,
+      "size_bytes": 782288456,
+      "uploaded_at": "2026-06-20T20:20:37Z",
+      "timing": {
+        "resolve_sec": 6.6,
+        "download_sec": 41.6,
+        "upload_sec": 47.4
+      }
     }
   ],
   "failed_attempts": [
@@ -45848,7 +45867,14 @@
         "download_sec": 56.2,
         "upload_sec": 75.4
       }
+    },
+    {
+      "cr_film_id": 13653,
+      "upload_id": "2bc0e218b4c0b915",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/dobryna-nikitic-a-trihlavy-drak-2006-animovany-dobrodruzny-komedie-bdrip-1080p-sk-dabing-mp4/2bc0e218b4c0b915",
+      "permanent": true,
+      "failed_at": "2026-06-20T20:18:59Z"
     }
   ],
-  "last_updated": "2026-06-20T20:18:54Z"
+  "last_updated": "2026-06-20T20:20:37Z"
 }

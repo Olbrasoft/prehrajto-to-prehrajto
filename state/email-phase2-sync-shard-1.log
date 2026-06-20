@@ -15815,3 +15815,12 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [20:17:05]   resolved in 1.6s → 480p (https://pf-storage2.premiumcdn.net/3280504/7Qbi8AHQkI6xIw1TL4c1vH98cQVUoETD6cLeT…)
 [20:17:55]   downloaded 960.6 MB in 47.8s (20.1 MB/s)
 [20:18:54]   upload done video_id=26178308 in 59.2s
+[20:18:58] film cr_film_id=10323 OK in 114.0s
+[20:18:58] iteration 3/20
+[20:18:58] film cr_film_id=13653 name='Dobryňa Nikitič a tříhlavý drak (2006) SK Dabing' candidates=5
+[20:18:58]   candidate upload_id=2bc0e218b4c0b915 url=https://prehraj.to/dobryna-nikitic-a-trihlavy-drak-2006-animovany-dobrodruzny-komedie-bdrip-1080p-sk-dabing-mp4/2bc0e218b4c0b915
+[20:18:59]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/dobryna-nikitic-a-trihlavy-drak-2006-animovany-dobrodruzny-komedie-bdrip-1080p-sk-dabing-mp4/2bc0e218b4c0b915 (permanent=True)
+[20:19:00]   candidate upload_id=40e19689686037fd url=https://prehraj.to/dobryna-nikitic-a-trihlavy-drak-2006-animovany-dobrodruzny-komedie-bdrip-1080p-sk-dabing/40e19689686037fd
+[20:19:06]   resolved in 6.6s → 720p (https://pf-storage4.premiumcdn.net/166604606/7RAHM8S8ECknUZ3fxrIvbSo2f7rFvRs54cX…)
+[20:19:50]   downloaded 782.3 MB in 41.6s (18.8 MB/s)
+[20:20:37]   upload done video_id=26178354 in 47.4s
