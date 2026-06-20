@@ -12269,3 +12269,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:26:05]   upload done video_id=26170135 in 25.4s
 [15:26:06] film cr_film_id=6407 OK in 50.9s
 [15:26:06] batch-end ok=19 failed=1 dur=2359.5s avg/film=124.2s remaining=15650 eta_hours=539.9
+
+===== run 2026-06-20T15:26:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27875484489) =====
+[15:26:40] description overrides loaded: 17148 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:26:40] batch-start shard=1/2 count=20 backlog=17650 uploads=2000 failed_attempts=183 description_overrides=17148
+[15:26:40] login
+[15:26:42] login done
+[15:26:42] iteration 1/20
+[15:26:42] film cr_film_id=6415 name='Zocelovací kúra (2015) CZ Dabing' candidates=6
+[15:26:42]   candidate upload_id=573ae89ae3aa2 url=https://prehraj.to/zocelovaci-kura-cz-dabing-2015/573ae89ae3aa2
+[15:26:43]   resolved in 1.8s → 480p (https://pf-storage4.premiumcdn.net/80478/epzcA0So3CletLzhZ2iK4SJGijWF94In1heJHnR…)
+[15:27:46]   downloaded 508.8 MB in 60.9s (8.4 MB/s)
+[15:28:45]   upload done video_id=26170208 in 58.5s
