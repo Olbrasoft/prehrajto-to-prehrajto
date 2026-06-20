@@ -10643,3 +10643,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:20:32]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/168912418/NKqtwPfLptRrUAaHM6TR5fp3tqEsapCgvFa…)
 [03:22:17]   downloaded 2,921.6 MB in 103.3s (28.3 MB/s)
 [03:24:25]   upload done video_id=26144778 in 128.0s
+[03:24:28] film cr_film_id=5296 OK in 237.3s
+[03:24:28] iteration 2/20
+[03:24:28] film cr_film_id=5300 name='V úkrytu (2026) CZ Dabing' candidates=2
+[03:24:28]   candidate upload_id=f7cc18f8f6524c86 url=https://prehraj.to/v-ukrytu-shelter-2026-cz-dabing/f7cc18f8f6524c86
+[03:24:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/v-ukrytu-shelter-2026-cz-dabing/f7cc18f8f6524c86 (permanent=True)
+[03:24:29]   candidate upload_id=5cf83a0972edf url=https://prehraj.to/v-ukrytu-w-ukryciu-2013-czt/5cf83a0972edf
+[03:24:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/v-ukrytu-w-ukryciu-2013-czt/5cf83a0972edf (permanent=True)
+[03:24:35] film cr_film_id=5300 all candidates exhausted
+[03:24:35] iteration 3/20
+[03:24:35] film cr_film_id=5302 name='Dracula: Příběh lásky (2025) CZ Dabing' candidates=28
+[03:24:35]   candidate upload_id=d27bf857fdb52246 url=https://prehraj.to/dracula-a-love-tale-2025-cz-dabing-1080p-mkv/d27bf857fdb52246
+[03:24:42]   resolved in 6.6s → 1080p (https://pf-storage4.premiumcdn.net/164891393/MwBHgVIPxf30IBwsvMFBQIQZtV8HkOfmDTG…)
+[03:28:01]   downloaded 2,361.0 MB in 197.9s (11.9 MB/s)
+[03:30:06]   upload done video_id=26145169 in 125.0s

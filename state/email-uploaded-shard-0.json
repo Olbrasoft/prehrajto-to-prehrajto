@@ -31328,6 +31328,25 @@
         "download_sec": 103.3,
         "upload_sec": 128.0
       }
+    },
+    {
+      "cr_film_id": 5302,
+      "cr_slug": "dracula-pribeh-lasky",
+      "title": "Dracula: Příběh lásky",
+      "year": 2025,
+      "display_name": "Dracula: Příběh lásky (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d27bf857fdb52246",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26145169,
+      "size_bytes": 2360958682,
+      "uploaded_at": "2026-06-20T03:30:06Z",
+      "timing": {
+        "resolve_sec": 6.6,
+        "download_sec": 197.9,
+        "upload_sec": 125.0
+      }
     }
   ],
   "failed_attempts": [
@@ -32551,7 +32570,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/paranormal-activity-2007-cz-dab-720p/b0ba33f23a2f3136",
       "permanent": true,
       "failed_at": "2026-06-20T03:02:26Z"
+    },
+    {
+      "cr_film_id": 5300,
+      "upload_id": "f7cc18f8f6524c86",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/v-ukrytu-shelter-2026-cz-dabing/f7cc18f8f6524c86",
+      "permanent": true,
+      "failed_at": "2026-06-20T03:24:29Z"
+    },
+    {
+      "cr_film_id": 5300,
+      "upload_id": "5cf83a0972edf",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/v-ukrytu-w-ukryciu-2013-czt/5cf83a0972edf",
+      "permanent": true,
+      "failed_at": "2026-06-20T03:24:35Z"
     }
   ],
-  "last_updated": "2026-06-20T03:24:25Z"
+  "last_updated": "2026-06-20T03:30:06Z"
 }
