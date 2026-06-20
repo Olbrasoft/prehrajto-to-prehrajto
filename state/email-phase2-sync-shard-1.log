@@ -15081,3 +15081,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:48:05]   resolved in 0.9s → 720p (https://pf-storage1.premiumcdn.net/25625384/vVlUNmuVPsvBFdVCWLfYZuPKfOPtJ2c3ZsoW…)
 [13:48:39]   downloaded 1,114.8 MB in 32.3s (34.5 MB/s)
 [13:51:50]   upload done video_id=26166608 in 190.7s
+[13:51:51] film cr_film_id=3721 OK in 227.0s
+[13:51:51] iteration 3/20
+[13:51:51] film cr_film_id=5913 name='Doma na Vánoce (2020) SK Dabing' candidates=2
+[13:51:51]   candidate upload_id=603fc9d4872d2 url=https://prehraj.to/doma-na-vanoce-2020-skdab/603fc9d4872d2
+[13:51:52]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/22520924/D6wfNlcB1tNlT0oh6ytjqcp0iqDuG8s7zSK2…)
+[13:52:50]   downloaded 1,267.6 MB in 56.2s (22.6 MB/s)
+[13:54:06]   upload FAILED after 75.4s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[13:54:06]   candidate upload_id=603fcb0829b34 url=https://prehraj.to/doma-na-vianoce-2020-skdab/603fcb0829b34
+[13:54:07]   resolved in 0.9s → 720p (https://pf-storage3.premiumcdn.net/22520948/6jltDWfaAUD2s8Pu4Nf1dfWpTjeun7U9EtjG…)
+[13:54:56]   downloaded 1,267.6 MB in 47.8s (26.5 MB/s)
+[13:55:56]   upload done video_id=26166923 in 60.2s
