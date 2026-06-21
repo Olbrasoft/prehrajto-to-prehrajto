@@ -17114,3 +17114,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [05:33:50]   upload done video_id=26192294 in 89.4s
 [05:33:55] film cr_film_id=30627 OK in 179.9s
 [05:33:55] batch-end ok=20 failed=0 dur=3327.4s avg/film=166.4s remaining=7505 eta_hours=346.9
+
+===== run 2026-06-21T05:34:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27894833792) =====
+[05:34:28] batch-start shard=1/2 count=20 backlog=10210 uploads=2705 failed_attempts=92 description_overrides=0
+[05:34:28] login
+[05:34:31] login done
+[05:34:31] iteration 1/20
+[05:34:31] film cr_film_id=30949 name='Dan Carter: A Perfect 10 (2019) SK Titulky' candidates=1
+[05:34:31]   candidate upload_id=603bd3fb707b2 url=https://prehraj.to/dan-carter-a-perfect-10-2019-sktitulky/603bd3fb707b2
+[05:34:32]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/22482323/wkGhdWUr5S2zcNVi0kukWUNDIBwc73tldHbq…)
+[05:36:07]   downloaded 1,650.7 MB in 92.3s (17.9 MB/s)
+[05:37:40]   upload done video_id=26192343 in 93.2s
