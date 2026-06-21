@@ -43070,6 +43070,25 @@
         "download_sec": 33.2,
         "upload_sec": 45.1
       }
+    },
+    {
+      "cr_film_id": 7798,
+      "cr_slug": "cihla",
+      "title": "Cihla",
+      "year": 2025,
+      "display_name": "Cihla (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "686fdc1522582",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26216923,
+      "size_bytes": 2096522499,
+      "uploaded_at": "2026-06-21T22:11:14Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 70.3,
+        "upload_sec": 85.7
+      }
     }
   ],
   "failed_attempts": [
@@ -44867,7 +44886,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/gabinin-kouzelny-domek-ve-filmu-2025-cz-dab-1080p/1350e972bc161738",
       "permanent": true,
       "failed_at": "2026-06-21T22:04:48Z"
+    },
+    {
+      "cr_film_id": 7796,
+      "upload_id": "c79c7b77ed68255c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nikdy-nerikej-nikdy-nikdy-nehovor-nikdy-2023-hd-cz-mp4/c79c7b77ed68255c",
+      "permanent": true,
+      "failed_at": "2026-06-21T22:08:15Z"
+    },
+    {
+      "cr_film_id": 7796,
+      "upload_id": "a3e1a2af09448c6f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nikdy-nerikej-nikdy-nikdy-nehovor-nikdy-2023-hd-cz-mp4/a3e1a2af09448c6f",
+      "permanent": true,
+      "failed_at": "2026-06-21T22:08:21Z"
+    },
+    {
+      "cr_film_id": 7796,
+      "upload_id": "c64a3d8504cc7f2b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nikdy-nerikej-nikdy-nikdy-nehovor-nikdy-2023-hd-cz-mp4/c64a3d8504cc7f2b",
+      "permanent": true,
+      "failed_at": "2026-06-21T22:08:29Z"
     }
   ],
-  "last_updated": "2026-06-21T22:08:13Z"
+  "last_updated": "2026-06-21T22:11:14Z"
 }

@@ -15468,3 +15468,19 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:06:54]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/408500/L7BHgJFgaUrnIaBTzYsyrFLESq8hP9t0wCjJcV…)
 [22:07:28]   downloaded 872.2 MB in 33.2s (26.3 MB/s)
 [22:08:13]   upload done video_id=26216890 in 45.1s
+[22:08:15] film cr_film_id=7784 OK in 82.4s
+[22:08:15] iteration 12/20
+[22:08:15] film cr_film_id=7796 name='Nikdy neříkej nikdy (2023) CZ' candidates=3
+[22:08:15]   candidate upload_id=c79c7b77ed68255c url=https://prehraj.to/nikdy-nerikej-nikdy-nikdy-nehovor-nikdy-2023-hd-cz-mp4/c79c7b77ed68255c
+[22:08:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nikdy-nerikej-nikdy-nikdy-nehovor-nikdy-2023-hd-cz-mp4/c79c7b77ed68255c (permanent=True)
+[22:08:16]   candidate upload_id=a3e1a2af09448c6f url=https://prehraj.to/nikdy-nerikej-nikdy-nikdy-nehovor-nikdy-2023-hd-cz-mp4/a3e1a2af09448c6f
+[22:08:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nikdy-nerikej-nikdy-nikdy-nehovor-nikdy-2023-hd-cz-mp4/a3e1a2af09448c6f (permanent=True)
+[22:08:21]   candidate upload_id=c64a3d8504cc7f2b url=https://prehraj.to/nikdy-nerikej-nikdy-nikdy-nehovor-nikdy-2023-hd-cz-mp4/c64a3d8504cc7f2b
+[22:08:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nikdy-nerikej-nikdy-nikdy-nehovor-nikdy-2023-hd-cz-mp4/c64a3d8504cc7f2b (permanent=True)
+[22:08:29] film cr_film_id=7796 all candidates exhausted
+[22:08:29] iteration 13/20
+[22:08:29] film cr_film_id=7798 name='Cihla (2025) CZ Dabing' candidates=5
+[22:08:29]   candidate upload_id=686fdc1522582 url=https://prehraj.to/brick-2025-cz-dabing-1080p/686fdc1522582
+[22:08:36]   resolved in 6.2s → 1080p (https://pf-storage4.premiumcdn.net/141447170/DNrcJLhk5tq6TnOuZXs2ZhmbCMQUwoSewcz…)
+[22:09:48]   downloaded 2,096.5 MB in 70.3s (29.8 MB/s)
+[22:11:14]   upload done video_id=26216923 in 85.7s
