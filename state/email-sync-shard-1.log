@@ -15642,3 +15642,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:01:01]   upload done video_id=26217751 in 33.8s
 [23:01:03] film cr_film_id=8279 OK in 65.4s
 [23:01:03] batch-end ok=19 failed=1 dur=4285.6s avg/film=225.6s remaining=15212 eta_hours=953.3
+
+===== run 2026-06-21T23:01:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27920258707) =====
+[23:01:37] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:01:37] batch-start shard=1/2 count=20 backlog=17650 uploads=2438 failed_attempts=225 description_overrides=17579
+[23:01:37] login
+[23:01:38] login done
+[23:01:38] iteration 1/20
+[23:01:38] film cr_film_id=8283 name='Ukradená z kolébky (2017) CZ' candidates=1
+[23:01:38]   candidate upload_id=667e5bd46f0f6 url=https://prehraj.to/ukradnuta-z-kolisky-webrip-sk-2017-1080p/667e5bd46f0f6
+[23:01:39]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/81090044/N21iYkhzyTBRuLWu7BIRJhDQcGQcoyfb6i0V…)
+[23:03:39]   downloaded 2,438.9 MB in 118.0s (20.7 MB/s)
+[23:06:18]   upload done video_id=26217807 in 158.9s
