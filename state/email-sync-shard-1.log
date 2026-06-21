@@ -13528,3 +13528,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:21:04]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/155845043/3ZdtX3FknIMAtmoinySklFKyIlyc4jsVoTp…)
 [02:21:27]   downloaded 731.0 MB in 21.7s (33.7 MB/s)
 [02:22:21]   upload done video_id=26188309 in 53.5s
+[02:22:24] film cr_film_id=7113 OK in 80.6s
+[02:22:24] iteration 12/20
+[02:22:24] film cr_film_id=7115 name='Souboj Titánů (2010) CZ Dabing' candidates=6
+[02:22:24]   candidate upload_id=7ac6cb1f2f977749 url=https://prehraj.to/souboj-titanu-2010-cz-dab-300p/7ac6cb1f2f977749
+[02:22:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/souboj-titanu-2010-cz-dab-300p/7ac6cb1f2f977749 (permanent=True)
+[02:22:25]   candidate upload_id=5abe31c4adc0e url=https://prehraj.to/souboj-titanu-2010-cz-dabing/5abe31c4adc0e
+[02:22:31]   resolved in 6.6s → 480p (https://pf-storage2.premiumcdn.net/3778044/jJAc8YfR8UAbfyRtKLTMmfkaiZzsrPS9biwYc…)
+[02:22:51]   downloaded 607.1 MB in 18.4s (33.0 MB/s)
+[02:23:19]   upload done video_id=26188351 in 28.2s
