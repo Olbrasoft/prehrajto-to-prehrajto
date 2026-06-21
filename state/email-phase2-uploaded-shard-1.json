@@ -51025,6 +51025,25 @@
         "download_sec": 66.8,
         "upload_sec": 69.3
       }
+    },
+    {
+      "cr_film_id": 36949,
+      "cr_slug": "site",
+      "title": "Site",
+      "year": 2025,
+      "display_name": "Site (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68a22a7089286",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26199447,
+      "size_bytes": 1475647446,
+      "uploaded_at": "2026-06-21T11:47:17Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 84.5,
+        "upload_sec": 94.2
+      }
     }
   ],
   "failed_attempts": [
@@ -51718,5 +51737,5 @@
       "failed_at": "2026-06-21T10:39:08Z"
     }
   ],
-  "last_updated": "2026-06-21T11:44:10Z"
+  "last_updated": "2026-06-21T11:47:17Z"
 }
