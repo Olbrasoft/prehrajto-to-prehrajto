@@ -51841,6 +51841,25 @@
         "download_sec": 74.8,
         "upload_sec": 128.6
       }
+    },
+    {
+      "cr_film_id": 35470,
+      "cr_slug": "supergirl",
+      "title": "Supergirl",
+      "year": 2026,
+      "display_name": "Supergirl (2026)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "e47040e785d49323",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26204339,
+      "size_bytes": 4682040728,
+      "uploaded_at": "2026-06-21T14:42:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 356.5,
+        "upload_sec": 313.0
+      }
     }
   ],
   "failed_attempts": [
@@ -52476,5 +52495,5 @@
       "failed_at": "2026-06-21T10:55:55Z"
     }
   ],
-  "last_updated": "2026-06-21T14:31:34Z"
+  "last_updated": "2026-06-21T14:42:50Z"
 }
