@@ -15037,3 +15037,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:36:42]   upload done video_id=26204264 in 57.8s
 [14:36:46] film cr_film_id=7574 OK in 117.8s
 [14:36:46] batch-end ok=18 failed=2 dur=5489.3s avg/film=305.0s remaining=15271 eta_hours=1293.8
+
+===== run 2026-06-21T14:37:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27907627813) =====
+[14:37:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:37:21] batch-start shard=0/2 count=20 backlog=17650 uploads=2379 failed_attempts=228 description_overrides=17579
+[14:37:21] login
+[14:37:26] login done
+[14:37:26] iteration 1/20
+[14:37:26] film cr_film_id=7576 name='Riverdance: Animované dobrodružství (2021) CZ Dabing' candidates=1
+[14:37:26]   candidate upload_id=61e20bc3bb3b3 url=https://prehraj.to/riverdance-animovane-dobrodruzstvi-2021-czdab-1/61e20bc3bb3b3
+[14:37:27]   resolved in 1.5s → 1080p (https://pf-storage4.premiumcdn.net/28380903/J98czeIdQiAJIqEtkDSxlIKoU68HYNFl2tNy…)
+[14:46:10]   downloaded 2,127.0 MB in 520.5s (4.1 MB/s)
+[14:48:11]   upload done video_id=26204642 in 120.8s
