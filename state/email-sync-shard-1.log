@@ -14181,3 +14181,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:57:37]   upload done video_id=26193903 in 84.0s
 [06:57:40] film cr_film_id=7451 OK in 142.2s
 [06:57:40] batch-end ok=20 failed=0 dur=2297.0s avg/film=114.8s remaining=15399 eta_hours=491.1
+
+===== run 2026-06-21T07:12:18Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27896905963) =====
+[07:12:20] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:12:20] batch-start shard=1/2 count=20 backlog=17650 uploads=2251 failed_attempts=204 description_overrides=17579
+[07:12:20] login
+[07:12:24] login done
+[07:12:24] iteration 1/20
+[07:12:24] film cr_film_id=7453 name='Proud času (2003) CZ Dabing' candidates=13
+[07:12:24]   candidate upload_id=58211ae55c1c6 url=https://prehraj.to/proud-casu-timeline-cz-dabing-2003/58211ae55c1c6
+[07:12:26]   resolved in 1.6s → 480p (https://pf-storage2.premiumcdn.net/812550/wYLfRyCDjTzJc9AikeU2xC1jUB4HPasR3C6kSx…)
+[07:13:07]   downloaded 728.6 MB in 39.9s (18.3 MB/s)
+[07:13:56]   upload done video_id=26194133 in 48.4s
