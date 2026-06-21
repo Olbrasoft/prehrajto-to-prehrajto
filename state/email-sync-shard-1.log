@@ -15279,3 +15279,23 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:37:13]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/168008152/XqnT2EHKEsGJCOvU2gTnGHmvF7phRPSYDSL…)
 [16:38:35]   downloaded 2,483.3 MB in 80.7s (30.8 MB/s)
 [16:41:20]   upload done video_id=26207936 in 164.7s
+[16:41:21] film cr_film_id=8091 OK in 249.5s
+[16:41:21] iteration 12/20
+[16:41:21] film cr_film_id=8097 name='Natacha (téměř) letuška (2025) CZ Dabing' candidates=5
+[16:41:21]   candidate upload_id=bb13cd0f291f5ef4 url=https://prehraj.to/natacha-temer-letuska-2025-cz-dab-1080p/bb13cd0f291f5ef4
+[16:41:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-2025-cz-dab-1080p/bb13cd0f291f5ef4 (permanent=True)
+[16:41:22]   candidate upload_id=36f3ad8083bddad0 url=https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/36f3ad8083bddad0
+[16:41:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/36f3ad8083bddad0 (permanent=True)
+[16:41:28]   candidate upload_id=977718457417f02b url=https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/977718457417f02b
+[16:41:33]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/977718457417f02b (permanent=True)
+[16:41:33]   candidate upload_id=09db95d478e7ff49 url=https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/09db95d478e7ff49
+[16:41:40]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/09db95d478e7ff49 (permanent=True)
+[16:41:40]   candidate upload_id=3cc3f651a2fb9c53 url=https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/3cc3f651a2fb9c53
+[16:41:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/3cc3f651a2fb9c53 (permanent=True)
+[16:41:45] film cr_film_id=8097 all candidates exhausted
+[16:41:45] iteration 13/20
+[16:41:45] film cr_film_id=8099 name='Všichni ďáblové jsou tady (2025) CZ Dabing' candidates=2
+[16:41:45]   candidate upload_id=ca67d3bac4dfd81d url=https://prehraj.to/all-the-devils-are-here-2025-cz-dabing-1080p-mkv/ca67d3bac4dfd81d
+[16:41:51]   resolved in 5.9s → 1080p (https://pf-storage5.premiumcdn.net/163286627/Wybfo3uqoT68cZnioqIgruwGCVNC4wtQZh5…)
+[16:42:30]   downloaded 1,116.2 MB in 37.6s (29.7 MB/s)
+[16:43:17]   upload done video_id=26208169 in 46.4s

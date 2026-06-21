@@ -42585,6 +42585,25 @@
         "download_sec": 80.7,
         "upload_sec": 164.7
       }
+    },
+    {
+      "cr_film_id": 8099,
+      "cr_slug": "all-the-devils-are-here",
+      "title": "Všichni ďáblové jsou tady",
+      "year": 2025,
+      "display_name": "Všichni ďáblové jsou tady (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ca67d3bac4dfd81d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26208169,
+      "size_bytes": 1116224797,
+      "uploaded_at": "2026-06-21T16:43:17Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 37.6,
+        "upload_sec": 46.4
+      }
     }
   ],
   "failed_attempts": [
@@ -44141,7 +44160,42 @@
       "reason": "oversize: 7205861403 B",
       "permanent": true,
       "failed_at": "2026-06-21T16:34:06Z"
+    },
+    {
+      "cr_film_id": 8097,
+      "upload_id": "bb13cd0f291f5ef4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-2025-cz-dab-1080p/bb13cd0f291f5ef4",
+      "permanent": true,
+      "failed_at": "2026-06-21T16:41:22Z"
+    },
+    {
+      "cr_film_id": 8097,
+      "upload_id": "36f3ad8083bddad0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/36f3ad8083bddad0",
+      "permanent": true,
+      "failed_at": "2026-06-21T16:41:28Z"
+    },
+    {
+      "cr_film_id": 8097,
+      "upload_id": "977718457417f02b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/977718457417f02b",
+      "permanent": true,
+      "failed_at": "2026-06-21T16:41:33Z"
+    },
+    {
+      "cr_film_id": 8097,
+      "upload_id": "09db95d478e7ff49",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/09db95d478e7ff49",
+      "permanent": true,
+      "failed_at": "2026-06-21T16:41:40Z"
+    },
+    {
+      "cr_film_id": 8097,
+      "upload_id": "3cc3f651a2fb9c53",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/natacha-temer-letuska-natacha-presque-hotesse-de-l-air-2025-cz-mp4/3cc3f651a2fb9c53",
+      "permanent": true,
+      "failed_at": "2026-06-21T16:41:45Z"
     }
   ],
-  "last_updated": "2026-06-21T16:41:20Z"
+  "last_updated": "2026-06-21T16:43:17Z"
 }
