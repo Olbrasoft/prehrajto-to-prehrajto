@@ -41037,6 +41037,25 @@
         "download_sec": 59.8,
         "upload_sec": 76.8
       }
+    },
+    {
+      "cr_film_id": 7308,
+      "cr_slug": "sepot",
+      "title": "Šepot",
+      "year": 2007,
+      "display_name": "Šepot (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57de7b064035b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26198144,
+      "size_bytes": 468711202,
+      "uploaded_at": "2026-06-21T10:36:23Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 24.4,
+        "upload_sec": 27.3
+      }
     }
   ],
   "failed_attempts": [
@@ -42584,5 +42603,5 @@
       "failed_at": "2026-06-21T09:46:47Z"
     }
   ],
-  "last_updated": "2026-06-21T10:35:24Z"
+  "last_updated": "2026-06-21T10:36:23Z"
 }
