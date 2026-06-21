@@ -16253,3 +16253,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [00:37:38]   upload done video_id=26186181 in 20.2s
 [00:37:41] film cr_film_id=33048 OK in 39.9s
 [00:37:41] batch-end ok=20 failed=0 dur=1532.2s avg/film=76.6s remaining=7609 eta_hours=161.9
+
+===== run 2026-06-21T00:51:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27888911188) =====
+[00:51:04] batch-start shard=0/2 count=20 backlog=10210 uploads=2601 failed_attempts=84 description_overrides=0
+[00:51:04] login
+[00:51:05] login done
+[00:51:05] iteration 1/20
+[00:51:05] film cr_film_id=18364 name='Penthouse North (2013) SK Dabing' candidates=3
+[00:51:05]   candidate upload_id=56783377af263 url=https://prehraj.to/bez-sance-penthouse-north-2013-sk-dab-thrill-koko/56783377af263
+[00:51:07]   resolved in 1.5s → 720p (https://pf-storage4.premiumcdn.net/518627/V9OiRySeKsLlIZaUgNTGvS1xUj2hqvsWDcvgTM…)
+[00:51:38]   downloaded 821.3 MB in 29.5s (27.8 MB/s)
+[00:52:32]   upload done video_id=26186426 in 54.7s
