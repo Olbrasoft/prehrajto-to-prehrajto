@@ -18150,3 +18150,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:09:12]   resolved in 2.7s → 720p (https://pf-storage1.premiumcdn.net/156305975/zeWHWksaPtEVTAGTp5hVMs81uDEHdmFA5ik…)
 [12:09:52]   downloaded 1,152.3 MB in 38.9s (29.6 MB/s)
 [12:11:30]   upload done video_id=26199879 in 98.5s
+[12:11:35] film cr_film_id=6769 OK in 146.5s
+[12:11:35] iteration 3/20
+[12:11:35] film cr_film_id=16441 name='Nepela (2025)' candidates=1
+[12:11:35]   candidate upload_id=b2a4aec4c3f6eb3b url=https://prehraj.to/nepela-2025-drama-sk/b2a4aec4c3f6eb3b
+[12:11:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nepela-2025-drama-sk/b2a4aec4c3f6eb3b (permanent=True)
+[12:11:36] film cr_film_id=16441 all candidates exhausted
+[12:11:36] iteration 4/20
+[12:11:36] film cr_film_id=34769 name='Neighborhood Watch (2025)' candidates=5
+[12:11:36]   candidate upload_id=681350dc46948 url=https://prehraj.to/neighborhood-watch-2025-2160p-4k-web-by-nexsus-5-1-en-dab/681350dc46948
+[12:11:42]   resolved in 6.0s → 1080p (https://pf-storage3.premiumcdn.net/136888274/DpQS4OsyJc6lurZI8jcmpsR3H4dIyEhWlhw…)
+[12:13:09]   downloaded 1,424.4 MB in 85.2s (16.7 MB/s)
+[12:14:57]   upload done video_id=26199951 in 107.8s
