@@ -15445,3 +15445,19 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:03:51]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/196077/y9qiaoskOu6lcxnIbau8osrQF6vh1BIgyf9ysy…)
 [22:04:13]   downloaded 451.1 MB in 20.3s (22.2 MB/s)
 [22:04:33]   upload done video_id=26216848 in 20.5s
+[22:04:35] film cr_film_id=7776 OK in 45.9s
+[22:04:35] iteration 9/20
+[22:04:35] film cr_film_id=7778 name='Bodlinka: Pichlavé dobrodružství (2025) CZ Dabing' candidates=2
+[22:04:35]   candidate upload_id=a6ea8c9788c16e87 url=https://prehraj.to/bodlinka-pichlave-dobrodruzstvi-2025-cz-dab-1080p/a6ea8c9788c16e87
+[22:04:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bodlinka-pichlave-dobrodruzstvi-2025-cz-dab-1080p/a6ea8c9788c16e87 (permanent=True)
+[22:04:36]   candidate upload_id=acd86772ff53609c url=https://prehraj.to/bodlinka-pichlave-dobrodruzstvi-2025-cz-dab-1080p/acd86772ff53609c
+[22:04:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bodlinka-pichlave-dobrodruzstvi-2025-cz-dab-1080p/acd86772ff53609c (permanent=True)
+[22:04:42] film cr_film_id=7778 all candidates exhausted
+[22:04:42] iteration 10/20
+[22:04:42] film cr_film_id=7782 name='Gábinin kouzelný domek ve filmu (2025) CZ Dabing' candidates=4
+[22:04:42]   candidate upload_id=1350e972bc161738 url=https://prehraj.to/gabinin-kouzelny-domek-ve-filmu-2025-cz-dab-1080p/1350e972bc161738
+[22:04:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/gabinin-kouzelny-domek-ve-filmu-2025-cz-dab-1080p/1350e972bc161738 (permanent=True)
+[22:04:48]   candidate upload_id=be363fff93ea0761 url=https://prehraj.to/gabby-s-dollhouse-the-movie-gabinin-kouzelny-domek-ve-filmu-2025-cz-dabing/be363fff93ea0761
+[22:04:54]   resolved in 6.2s → 480p (https://pf-storage3.premiumcdn.net/166159070/WVWtzNi3luO1iWqt6vSRziDyfOnF0ZU2kt4…)
+[22:05:40]   downloaded 1,306.6 MB in 44.3s (29.5 MB/s)
+[22:06:51]   upload done video_id=26216857 in 70.7s

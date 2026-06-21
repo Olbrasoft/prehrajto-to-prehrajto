@@ -43032,6 +43032,25 @@
         "download_sec": 20.3,
         "upload_sec": 20.5
       }
+    },
+    {
+      "cr_film_id": 7782,
+      "cr_slug": "gabinin-kouzelny-domek-ve-filmu",
+      "title": "Gábinin kouzelný domek ve filmu",
+      "year": 2025,
+      "display_name": "Gábinin kouzelný domek ve filmu (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "be363fff93ea0761",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26216857,
+      "size_bytes": 1306565871,
+      "uploaded_at": "2026-06-21T22:06:51Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 44.3,
+        "upload_sec": 70.7
+      }
     }
   ],
   "failed_attempts": [
@@ -44808,7 +44827,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vejska-cr-2014/4a5997d6ed1e01e7",
       "permanent": true,
       "failed_at": "2026-06-21T21:54:18Z"
+    },
+    {
+      "cr_film_id": 7778,
+      "upload_id": "a6ea8c9788c16e87",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bodlinka-pichlave-dobrodruzstvi-2025-cz-dab-1080p/a6ea8c9788c16e87",
+      "permanent": true,
+      "failed_at": "2026-06-21T22:04:36Z"
+    },
+    {
+      "cr_film_id": 7778,
+      "upload_id": "acd86772ff53609c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bodlinka-pichlave-dobrodruzstvi-2025-cz-dab-1080p/acd86772ff53609c",
+      "permanent": true,
+      "failed_at": "2026-06-21T22:04:42Z"
+    },
+    {
+      "cr_film_id": 7782,
+      "upload_id": "1350e972bc161738",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/gabinin-kouzelny-domek-ve-filmu-2025-cz-dab-1080p/1350e972bc161738",
+      "permanent": true,
+      "failed_at": "2026-06-21T22:04:48Z"
     }
   ],
-  "last_updated": "2026-06-21T22:04:33Z"
+  "last_updated": "2026-06-21T22:06:51Z"
 }
