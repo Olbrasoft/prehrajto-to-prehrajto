@@ -37674,6 +37674,25 @@
         "download_sec": 21.9,
         "upload_sec": 34.8
       }
+    },
+    {
+      "cr_film_id": 6608,
+      "cr_slug": "pod-vodou",
+      "title": "Pod vodou",
+      "year": 2020,
+      "display_name": "Pod vodou (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ea0c1945a193",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26186519,
+      "size_bytes": 1472711528,
+      "uploaded_at": "2026-06-21T00:56:57Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 66.2,
+        "upload_sec": 124.0
+      }
     }
   ],
   "failed_attempts": [
@@ -39116,5 +39135,5 @@
       "failed_at": "2026-06-21T00:21:28Z"
     }
   ],
-  "last_updated": "2026-06-21T00:53:39Z"
+  "last_updated": "2026-06-21T00:56:57Z"
 }
