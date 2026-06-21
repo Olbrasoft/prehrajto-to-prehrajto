@@ -42481,6 +42481,25 @@
         "download_sec": 130.6,
         "upload_sec": 256.0
       }
+    },
+    {
+      "cr_film_id": 7634,
+      "cr_slug": "mama-2019",
+      "title": "Máma",
+      "year": 2019,
+      "display_name": "Máma (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5df447ecc9c01",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26207080,
+      "size_bytes": 449587566,
+      "uploaded_at": "2026-06-21T16:06:58Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 24.7,
+        "upload_sec": 59.6
+      }
     }
   ],
   "failed_attempts": [
@@ -44105,5 +44124,5 @@
       "failed_at": "2026-06-21T13:40:21Z"
     }
   ],
-  "last_updated": "2026-06-21T16:05:28Z"
+  "last_updated": "2026-06-21T16:06:58Z"
 }
