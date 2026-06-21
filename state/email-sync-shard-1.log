@@ -15198,3 +15198,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:49:54]   upload done video_id=26206557 in 106.5s
 [15:49:55] film cr_film_id=8023 OK in 214.8s
 [15:49:55] batch-end ok=20 failed=0 dur=4349.5s avg/film=217.5s remaining=15267 eta_hours=922.4
+
+===== run 2026-06-21T16:13:08Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27910091133) =====
+[16:13:10] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:13:10] batch-start shard=1/2 count=20 backlog=17650 uploads=2383 failed_attempts=214 description_overrides=17579
+[16:13:10] login
+[16:13:11] login done
+[16:13:11] iteration 1/20
+[16:13:11] film cr_film_id=8033 name='Chladnokrevné přepadení (2016) CZ Dabing' candidates=4
+[16:13:11]   candidate upload_id=6709d23ab7b41 url=https://prehraj.to/chladnokrevne-prepadeni-bruce-willis-dave-bautista-christopher-meloni-2016-akcni-thriller-krimi-bdrip-1080p-cz-dabing/6709d23ab7b41
+[16:13:12]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/101410496/Vk1ujPUYDsvofJKc60fAlUObC8GSMWTArI2…)
+[16:14:38]   downloaded 2,588.2 MB in 84.1s (30.8 MB/s)
+[16:16:45]   upload done video_id=26207314 in 127.5s
