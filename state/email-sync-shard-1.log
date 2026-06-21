@@ -13887,3 +13887,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:11:41]   upload done video_id=26191823 in 136.6s
 [05:11:46] film cr_film_id=7283 OK in 223.4s
 [05:11:46] batch-end ok=19 failed=1 dur=3160.1s avg/film=166.3s remaining=15438 eta_hours=713.1
+
+===== run 2026-06-21T05:36:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27894878581) =====
+[05:36:41] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:36:41] batch-start shard=1/2 count=20 backlog=17650 uploads=2212 failed_attempts=202 description_overrides=17579
+[05:36:41] login
+[05:36:44] login done
+[05:36:44] iteration 1/20
+[05:36:44] film cr_film_id=7285 name='Z cizího krev neteče (2013) CZ Dabing' candidates=6
+[05:36:44]   candidate upload_id=57e270fd0c2a5 url=https://prehraj.to/z-ciziho-krev-netece-2013-czdab/57e270fd0c2a5
+[05:36:45]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/654256/QmGHYEFKXCZ6Cj4fXnUzbFKohvQtkNCMBHB9SR…)
+[05:37:21]   downloaded 548.7 MB in 33.4s (16.4 MB/s)
+[05:37:58]   upload done video_id=26192356 in 36.9s
