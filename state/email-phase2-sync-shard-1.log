@@ -16676,3 +16676,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [02:26:06]   upload done video_id=26188409 in 48.4s
 [02:26:08] film cr_film_id=30699 OK in 92.0s
 [02:26:08] batch-end ok=19 failed=1 dur=2475.1s avg/film=130.3s remaining=7565 eta_hours=273.8
+
+===== run 2026-06-21T02:37:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27891150354) =====
+[02:37:28] batch-start shard=1/2 count=20 backlog=10210 uploads=2645 failed_attempts=92 description_overrides=0
+[02:37:28] login
+[02:37:29] login done
+[02:37:29] iteration 1/20
+[02:37:29] film cr_film_id=3625 name='Daaaaaalí! (2023) SK Titulky' candidates=7
+[02:37:29]   candidate upload_id=5bd2810eee360822 url=https://prehraj.to/daaaaaali-2023-sk-tit-1080p/5bd2810eee360822
+[02:37:30]   resolved in 1.1s → 720p (https://pf-storage3.premiumcdn.net/167121680/NMyFGZU05FdBfm0sXxuJRUKJSeRHync3OHJ…)
+[02:38:04]   downloaded 883.8 MB in 32.1s (27.5 MB/s)
+[02:38:36]   upload done video_id=26188682 in 32.3s
