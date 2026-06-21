@@ -17712,3 +17712,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:21:39]   upload done video_id=26197919 in 16.1s
 [10:21:41] film cr_film_id=29064 OK in 42.5s
 [10:21:41] batch-end ok=20 failed=0 dur=1614.4s avg/film=80.7s remaining=7411 eta_hours=166.1
+
+===== run 2026-06-21T10:22:13Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27901309316) =====
+[10:22:14] batch-start shard=0/2 count=20 backlog=10210 uploads=2799 failed_attempts=87 description_overrides=0
+[10:22:14] login
+[10:22:16] login done
+[10:22:16] iteration 1/20
+[10:22:16] film cr_film_id=30480 name='Like Me (2017) SK Titulky' candidates=6
+[10:22:16]   candidate upload_id=5cee2adfc9523 url=https://prehraj.to/like-me-krimi-drama-2017-1080p-x264-s-sktitulky-72-sten-ok-mp4/5cee2adfc9523
+[10:22:17]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/13683921/6OqTR1cWqHN1tQ9CKkH0yc59hBNFZLs87CO3…)
+[10:23:16]   downloaded 1,012.9 MB in 56.6s (17.9 MB/s)
+[10:24:21]   upload done video_id=26197953 in 64.8s
