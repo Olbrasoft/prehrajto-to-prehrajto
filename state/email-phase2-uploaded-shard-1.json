@@ -47206,6 +47206,25 @@
         "download_sec": 49.6,
         "upload_sec": 80.7
       }
+    },
+    {
+      "cr_film_id": 7499,
+      "cr_slug": "stopmotion",
+      "title": "Stopmotion",
+      "year": 2023,
+      "display_name": "Stopmotion (2023) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "65f44cc2bd469",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26187822,
+      "size_bytes": 1163936241,
+      "uploaded_at": "2026-06-21T02:05:06Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 47.4,
+        "upload_sec": 146.4
+      }
     }
   ],
   "failed_attempts": [
@@ -47878,5 +47897,5 @@
       "failed_at": "2026-06-21T01:44:57Z"
     }
   ],
-  "last_updated": "2026-06-21T02:01:45Z"
+  "last_updated": "2026-06-21T02:05:06Z"
 }
