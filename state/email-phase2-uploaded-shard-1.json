@@ -50493,6 +50493,25 @@
         "download_sec": 58.7,
         "upload_sec": 67.0
       }
+    },
+    {
+      "cr_film_id": 12167,
+      "cr_slug": "skritek-2",
+      "title": "Skřítek 2",
+      "year": 1994,
+      "display_name": "Skřítek 2 (1994) EN",
+      "preferred_lang_class": "EN",
+      "src_upload_id": "68186f277f3f5",
+      "src_lang_class": "EN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26198015,
+      "size_bytes": 596800704,
+      "uploaded_at": "2026-06-21T10:27:05Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 26.4,
+        "upload_sec": 34.0
+      }
     }
   ],
   "failed_attempts": [
@@ -51165,5 +51184,5 @@
       "failed_at": "2026-06-21T01:44:57Z"
     }
   ],
-  "last_updated": "2026-06-21T10:25:57Z"
+  "last_updated": "2026-06-21T10:27:05Z"
 }
