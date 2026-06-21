@@ -14894,3 +14894,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:23:39]   upload done video_id=26200206 in 83.2s
 [12:23:44] film cr_film_id=7480 OK in 159.8s
 [12:23:44] batch-end ok=17 failed=3 dur=2645.2s avg/film=155.6s remaining=15289 eta_hours=660.8
+
+===== run 2026-06-21T13:05:13Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27905249862) =====
+[13:05:15] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:05:15] batch-start shard=0/2 count=20 backlog=17650 uploads=2361 failed_attempts=226 description_overrides=17579
+[13:05:15] login
+[13:05:17] login done
+[13:05:17] iteration 1/20
+[13:05:17] film cr_film_id=7484 name='Tohle je ráj (2012) CZ' candidates=1
+[13:05:17]   candidate upload_id=5ab850daf3c35 url=https://prehraj.to/tohle-je-raj-2012/5ab850daf3c35
+[13:05:18]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/3739408/65Wt7kh5VT1RtlbU1MHrNhAxfL4U1zs59fE3h…)
+[13:15:19]   downloaded 850.4 MB in 598.2s (1.4 MB/s)
+[13:16:15]   upload done video_id=26201899 in 56.6s
