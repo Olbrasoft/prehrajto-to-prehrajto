@@ -17698,3 +17698,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [09:13:47]   upload done video_id=26196576 in 52.1s
 [09:13:51] film cr_film_id=36689 OK in 99.5s
 [09:13:51] batch-end ok=20 failed=0 dur=1649.9s avg/film=82.5s remaining=7425 eta_hours=170.2
+
+===== run 2026-06-21T09:54:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27900680174) =====
+[09:54:44] batch-start shard=1/2 count=20 backlog=10210 uploads=2785 failed_attempts=92 description_overrides=0
+[09:54:44] login
+[09:54:45] login done
+[09:54:45] iteration 1/20
+[09:54:45] film cr_film_id=34315 name='Cruel Jaws (1995) SK Titulky' candidates=2
+[09:54:45]   candidate upload_id=687a0d065c8a9 url=https://prehraj.to/celisti-5-cruel-jaws-1995-yify-bluray-sk-tit/687a0d065c8a9
+[09:54:46]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/141767210/NXecMoH8kCzLUaOiOkfPAHYDfA1c1qt3oiG…)
+[09:55:21]   downloaded 879.8 MB in 33.5s (26.3 MB/s)
+[09:56:04]   upload done video_id=26197445 in 42.8s
