@@ -41455,6 +41455,25 @@
         "download_sec": 24.3,
         "upload_sec": 38.4
       }
+    },
+    {
+      "cr_film_id": 7406,
+      "cr_slug": "kazatel",
+      "title": "Kazatel",
+      "year": 2011,
+      "display_name": "Kazatel (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "52f66677ca22ed16",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26199169,
+      "size_bytes": 2161320634,
+      "uploaded_at": "2026-06-21T11:36:43Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 102.1,
+        "upload_sec": 133.5
+      }
     }
   ],
   "failed_attempts": [
@@ -43009,5 +43028,5 @@
       "failed_at": "2026-06-21T10:39:47Z"
     }
   ],
-  "last_updated": "2026-06-21T11:32:41Z"
+  "last_updated": "2026-06-21T11:36:43Z"
 }
