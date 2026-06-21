@@ -13108,3 +13108,20 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:42:48]   upload done video_id=26184265 in 69.4s
 [23:42:52] film cr_film_id=6552 OK in 137.5s
 [23:42:52] batch-end ok=18 failed=2 dur=3252.0s avg/film=180.7s remaining=15521 eta_hours=779.1
+
+===== run 2026-06-21T00:04:29Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27887923699) =====
+[00:04:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:04:31] batch-start shard=0/2 count=20 backlog=17650 uploads=2129 failed_attempts=199 description_overrides=17579
+[00:04:31] login
+[00:04:34] login done
+[00:04:34] iteration 1/20
+[00:04:34] film cr_film_id=6558 name='Otec nevěsty (2022) CZ Dabing' candidates=1
+[00:04:34]   candidate upload_id=63d3d6ac289b6 url=https://prehraj.to/trashed-1672435558-otec-nevesty-2022-cz-dab-novinka-novinky-dj-1-1/63d3d6ac289b6
+[00:04:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/trashed-1672435558-otec-nevesty-2022-cz-dab-novinka-novinky-dj-1-1/63d3d6ac289b6 (permanent=True)
+[00:04:34] film cr_film_id=6558 all candidates exhausted
+[00:04:34] iteration 2/20
+[00:04:34] film cr_film_id=6560 name='Krajina snů (2019) CZ Dabing' candidates=1
+[00:04:34]   candidate upload_id=612541355173c url=https://prehraj.to/krajina-snu-2019-czdab/612541355173c
+[00:04:41]   resolved in 6.3s → 720p (https://pf-storage2.premiumcdn.net/24696995/3v4Iybs92S3bs7nigDFB0s36c4duyqTN9HVd…)
+[00:06:09]   downloaded 1,544.4 MB in 86.2s (17.9 MB/s)
+[00:09:04]   upload done video_id=26184926 in 174.3s

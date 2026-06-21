@@ -37408,6 +37408,25 @@
         "download_sec": 61.3,
         "upload_sec": 69.4
       }
+    },
+    {
+      "cr_film_id": 6560,
+      "cr_slug": "krajina-snu",
+      "title": "Krajina snů",
+      "year": 2019,
+      "display_name": "Krajina snů (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "612541355173c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26184926,
+      "size_bytes": 1544353645,
+      "uploaded_at": "2026-06-21T00:09:04Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 86.2,
+        "upload_sec": 174.3
+      }
     }
   ],
   "failed_attempts": [
@@ -38827,7 +38846,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sirotek-prvni-obet-2022-cz-titulky/524ad08f2ab1124c",
       "permanent": true,
       "failed_at": "2026-06-20T23:31:35Z"
+    },
+    {
+      "cr_film_id": 6558,
+      "upload_id": "63d3d6ac289b6",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/trashed-1672435558-otec-nevesty-2022-cz-dab-novinka-novinky-dj-1-1/63d3d6ac289b6",
+      "permanent": true,
+      "failed_at": "2026-06-21T00:04:34Z"
     }
   ],
-  "last_updated": "2026-06-20T23:42:48Z"
+  "last_updated": "2026-06-21T00:09:04Z"
 }
