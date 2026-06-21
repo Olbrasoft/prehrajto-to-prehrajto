@@ -19024,3 +19024,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [22:40:10]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/75605627/JLOipmhK1cpmInAS04trnhyjSOdSM2f79t57…)
 [22:40:51]   downloaded 1,161.1 MB in 39.4s (29.5 MB/s)
 [22:41:46]   upload done video_id=26217481 in 55.5s
+[22:41:48] film cr_film_id=34141 OK in 98.8s
+[22:41:48] iteration 3/20
+[22:41:48] film cr_film_id=15483 name='Akce Dárce (2023)' candidates=1
+[22:41:48]   candidate upload_id=96b70cd30e444d48 url=https://prehraj.to/akce-darce-2023-cz-dabing-mp4/96b70cd30e444d48
+[22:41:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/akce-darce-2023-cz-dabing-mp4/96b70cd30e444d48 (permanent=True)
+[22:41:48] film cr_film_id=15483 all candidates exhausted
+[22:41:48] iteration 4/20
+[22:41:48] film cr_film_id=36921 name='12 Desperate Hours (2023)' candidates=6
+[22:41:48]   candidate upload_id=68fc153fa60dc url=https://prehraj.to/12-desperate-hours-12-zoufalych-hodin-harrison-thomas-david-conrad-samantha-mathis-2023-drama-thriller-bdrip-1080p-en-dabing-cz-titulky/68fc153fa60dc
+[22:41:54]   resolved in 6.1s → 720p (https://pf-storage3.premiumcdn.net/153269901/bwOSBzI1pU3pIa1FZrT68IoAhy3Tbdt9qFz…)
+[22:42:33]   downloaded 1,105.9 MB in 37.8s (29.3 MB/s)
+[22:43:16]   upload done video_id=26217502 in 42.8s
