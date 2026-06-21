@@ -41626,6 +41626,25 @@
         "download_sec": 15.5,
         "upload_sec": 29.8
       }
+    },
+    {
+      "cr_film_id": 7442,
+      "cr_slug": "vriskot-7",
+      "title": "Vřískot 7",
+      "year": 2026,
+      "display_name": "Vřískot 7 (2026) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "0500074872568553",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26199648,
+      "size_bytes": 1046565976,
+      "uploaded_at": "2026-06-21T11:57:11Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 109.4,
+        "upload_sec": 56.5
+      }
     }
   ],
   "failed_attempts": [
@@ -43194,5 +43213,5 @@
       "failed_at": "2026-06-21T11:51:58Z"
     }
   ],
-  "last_updated": "2026-06-21T11:54:21Z"
+  "last_updated": "2026-06-21T11:57:11Z"
 }
