@@ -13146,3 +13146,14 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:18:01]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/27068298/AjgueJf7QSlMhdGcZ7FrOfQlHo2tAktm5s2k…)
 [00:19:27]   downloaded 1,547.2 MB in 84.1s (18.4 MB/s)
 [00:21:15]   upload done video_id=26185550 in 107.4s
+[00:21:21] film cr_film_id=6574 OK in 200.5s
+[00:21:21] iteration 6/20
+[00:21:21] film cr_film_id=6576 name='Reminiscence (2021) CZ Dabing' candidates=4
+[00:21:21]   candidate upload_id=18d89441856a0306 url=https://prehraj.to/reminiscence-cz-dabing-mp4/18d89441856a0306
+[00:21:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/reminiscence-cz-dabing-mp4/18d89441856a0306 (permanent=True)
+[00:21:22]   candidate upload_id=2f284e16bcefd13b url=https://prehraj.to/reminiscence-cz-dabing-mp4/2f284e16bcefd13b
+[00:21:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/reminiscence-cz-dabing-mp4/2f284e16bcefd13b (permanent=True)
+[00:21:28]   candidate upload_id=f3dcd4145b5104ec url=https://prehraj.to/reminiscence-cz-dabing-mp4/f3dcd4145b5104ec
+[00:21:34]   resolved in 6.0s → 720p (https://pf-storage5.premiumcdn.net/168232543/VbXIE0ux7iQJsPbU4PuJGu6et7KFVDFGzfO…)
+[00:22:48]   downloaded 1,607.8 MB in 72.3s (22.2 MB/s)
+[00:24:28]   upload done video_id=26185703 in 100.4s
