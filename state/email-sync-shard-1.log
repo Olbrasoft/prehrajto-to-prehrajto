@@ -13299,3 +13299,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:52:52]   upload done video_id=26186397 in 128.0s
 [00:52:56] film cr_film_id=6973 OK in 200.8s
 [00:52:56] batch-end ok=20 failed=0 dur=2905.0s avg/film=145.2s remaining=15514 eta_hours=625.7
+
+===== run 2026-06-21T01:08:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27889271343) =====
+[01:08:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:08:27] batch-start shard=1/2 count=20 backlog=17650 uploads=2136 failed_attempts=194 description_overrides=17579
+[01:08:27] login
+[01:08:29] login done
+[01:08:29] iteration 1/20
+[01:08:29] film cr_film_id=6975 name='Jak napálit banku (2016) CZ Dabing' candidates=6
+[01:08:29]   candidate upload_id=5dc42d3c7a474 url=https://prehraj.to/jak-napalit-banku-krimi-cz-dab-2016-jad/5dc42d3c7a474
+[01:08:30]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/15214309/xeaFNehKgTG0CWkFdwtZxhXVCjEC4lFvKH7Y…)
+[01:09:06]   downloaded 966.9 MB in 35.1s (27.5 MB/s)
+[01:09:41]   upload done video_id=26186718 in 34.3s
