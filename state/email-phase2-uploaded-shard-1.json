@@ -53305,6 +53305,25 @@
         "download_sec": 16.2,
         "upload_sec": 39.3
       }
+    },
+    {
+      "cr_film_id": 33953,
+      "cr_slug": "they-live-in-the-grey",
+      "title": "They Live in the Grey",
+      "year": 2022,
+      "display_name": "They Live in the Grey (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "620eb1b8b415f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26217803,
+      "size_bytes": 690907855,
+      "uploaded_at": "2026-06-21T23:03:54Z",
+      "timing": {
+        "resolve_sec": 6.6,
+        "download_sec": 24.7,
+        "upload_sec": 32.1
+      }
     }
   ],
   "failed_attempts": [
@@ -54284,7 +54303,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/v-lete-ti-reknu-jak-se-mam-2022/23dfd4a8a83ea673",
       "permanent": true,
       "failed_at": "2026-06-21T23:01:31Z"
+    },
+    {
+      "cr_film_id": 1105,
+      "upload_id": "1c1de7f8cf298aed",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tar-2022-cz-dabing-mp4/1c1de7f8cf298aed",
+      "permanent": true,
+      "failed_at": "2026-06-21T23:02:38Z"
+    },
+    {
+      "cr_film_id": 33953,
+      "upload_id": "620eb1e557aee",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/they-live-in-the-grey-2022-1080p-amzn-webrip-ddp2-0-x264-nogrp/620eb1e557aee",
+      "permanent": true,
+      "failed_at": "2026-06-21T23:02:43Z"
+    },
+    {
+      "cr_film_id": 33953,
+      "upload_id": "620eb34fee81b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/they-live-in-the-grey-2022-1080p-webrip-x264-rarbg/620eb34fee81b",
+      "permanent": true,
+      "failed_at": "2026-06-21T23:02:49Z"
     }
   ],
-  "last_updated": "2026-06-21T23:02:35Z"
+  "last_updated": "2026-06-21T23:03:54Z"
 }
