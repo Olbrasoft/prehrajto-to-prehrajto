@@ -18274,3 +18274,16 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:52:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/fackham-hall-2025-1080p-bluray-x264-titulky-cz/a46252a6ac151281 (permanent=True)
 [12:52:02] film cr_film_id=18593 all candidates exhausted
 [12:52:02] batch-end ok=16 failed=4 dur=2668.6s avg/film=166.8s remaining=7352 eta_hours=340.6
+
+===== run 2026-06-21T13:03:09Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27905197798) =====
+[13:03:10] batch-start shard=1/2 count=20 backlog=10210 uploads=2858 failed_attempts=102 description_overrides=0
+[13:03:10] login
+[13:03:11] login done
+[13:03:11] iteration 1/20
+[13:03:11] film cr_film_id=3165 name='Duchoň (2025)' candidates=2
+[13:03:11]   candidate upload_id=0703388ec70b1eac url=https://prehraj.to/duchon-mkv/0703388ec70b1eac
+[13:03:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/duchon-mkv/0703388ec70b1eac (permanent=True)
+[13:03:12]   candidate upload_id=7bd300fd6aa7f238 url=https://prehraj.to/duchon/7bd300fd6aa7f238
+[13:03:20]   resolved in 7.4s → 1080p (https://pf-storage1.premiumcdn.net/170555582/0AmiNKugNhP2HR1sqBUgOumRsLaSj2UMwIQ…)
+[13:04:45]   downloaded 2,139.7 MB in 83.2s (25.7 MB/s)
+[13:07:15]   upload done video_id=26201585 in 150.0s
