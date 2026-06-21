@@ -40448,6 +40448,25 @@
         "download_sec": 99.0,
         "upload_sec": 158.5
       }
+    },
+    {
+      "cr_film_id": 7194,
+      "cr_slug": "seminar",
+      "title": "Seminář",
+      "year": 2023,
+      "display_name": "Seminář (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "659d3a986ef6b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26196205,
+      "size_bytes": 1952992412,
+      "uploaded_at": "2026-06-21T08:54:00Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 102.4,
+        "upload_sec": 113.5
+      }
     }
   ],
   "failed_attempts": [
@@ -41988,5 +42007,5 @@
       "failed_at": "2026-06-21T06:35:56Z"
     }
   ],
-  "last_updated": "2026-06-21T08:50:11Z"
+  "last_updated": "2026-06-21T08:54:00Z"
 }
