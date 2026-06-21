@@ -51405,6 +51405,25 @@
         "download_sec": 20.1,
         "upload_sec": 24.7
       }
+    },
+    {
+      "cr_film_id": 37015,
+      "cr_slug": "hlas-lesa",
+      "title": "Hlas lesa",
+      "year": 2025,
+      "display_name": "Hlas lesa (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "e58ffcd508600f7a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26200955,
+      "size_bytes": 2152041829,
+      "uploaded_at": "2026-06-21T12:46:58Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 81.4,
+        "upload_sec": 109.7
+      }
     }
   ],
   "failed_attempts": [
@@ -52133,5 +52152,5 @@
       "failed_at": "2026-06-21T12:35:04Z"
     }
   ],
-  "last_updated": "2026-06-21T12:43:41Z"
+  "last_updated": "2026-06-21T12:46:58Z"
 }
