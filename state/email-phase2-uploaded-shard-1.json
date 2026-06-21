@@ -46503,6 +46503,25 @@
         "download_sec": 85.8,
         "upload_sec": 94.3
       }
+    },
+    {
+      "cr_film_id": 24541,
+      "cr_slug": "majster-kat",
+      "title": "Majster kat",
+      "year": 1966,
+      "display_name": "Majster kat (1966) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "620ab1d8851ff",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26186094,
+      "size_bytes": 2075823715,
+      "uploaded_at": "2026-06-21T00:35:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 60.0,
+        "upload_sec": 99.4
+      }
     }
   ],
   "failed_attempts": [
@@ -47149,5 +47168,5 @@
       "failed_at": "2026-06-20T20:18:59Z"
     }
   ],
-  "last_updated": "2026-06-21T00:32:52Z"
+  "last_updated": "2026-06-21T00:35:39Z"
 }
