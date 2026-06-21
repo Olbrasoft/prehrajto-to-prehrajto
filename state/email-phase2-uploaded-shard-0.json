@@ -53152,6 +53152,25 @@
         "download_sec": 255.1,
         "upload_sec": 123.4
       }
+    },
+    {
+      "cr_film_id": 37010,
+      "cr_slug": "americka-letecka-elita-thunderbirds",
+      "title": "Americká letecká elita: Thunderbirds",
+      "year": 2025,
+      "display_name": "Americká letecká elita: Thunderbirds (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "684193dc4bb4e",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26217637,
+      "size_bytes": 2814325630,
+      "uploaded_at": "2026-06-21T22:54:38Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 113.1,
+        "upload_sec": 141.1
+      }
     }
   ],
   "failed_attempts": [
@@ -53981,7 +54000,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/d0ec3f0992b88285",
       "permanent": true,
       "failed_at": "2026-06-21T22:16:47Z"
+    },
+    {
+      "cr_film_id": 16436,
+      "upload_id": "626fe1f7e72988d8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avignon-2025-cz-dabing-mp4/626fe1f7e72988d8",
+      "permanent": true,
+      "failed_at": "2026-06-21T22:50:16Z"
     }
   ],
-  "last_updated": "2026-06-21T22:50:10Z"
+  "last_updated": "2026-06-21T22:54:38Z"
 }

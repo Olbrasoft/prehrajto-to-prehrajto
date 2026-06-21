@@ -18917,3 +18917,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [22:43:49]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/145461327/bPJsWaF2bFedT7Mcv3te2F4vUNMhV4Hy8cX…)
 [22:48:07]   downloaded 2,466.8 MB in 255.1s (9.7 MB/s)
 [22:50:10]   upload done video_id=26217579 in 123.4s
+[22:50:12] film cr_film_id=36964 OK in 384.5s
+[22:50:12] iteration 3/20
+[22:50:12] film cr_film_id=16436 name='Avignon (2025)' candidates=1
+[22:50:12]   candidate upload_id=626fe1f7e72988d8 url=https://prehraj.to/avignon-2025-cz-dabing-mp4/626fe1f7e72988d8
+[22:50:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avignon-2025-cz-dabing-mp4/626fe1f7e72988d8 (permanent=True)
+[22:50:16] film cr_film_id=16436 all candidates exhausted
+[22:50:16] iteration 4/20
+[22:50:16] film cr_film_id=37010 name='Americká letecká elita: Thunderbirds (2025)' candidates=2
+[22:50:16]   candidate upload_id=684193dc4bb4e url=https://prehraj.to/americka-letecka-elita-thunderbirds-2025-dokumentarni-cz-aac-5-1-hevc-1080p/684193dc4bb4e
+[22:50:22]   resolved in 6.1s → 1080p (https://pf-storage5.premiumcdn.net/139287014/83LIGdH3Nf9VCgaHEnuMBH5VCywczXTXohZ…)
+[22:52:17]   downloaded 2,814.3 MB in 113.1s (24.9 MB/s)
+[22:54:38]   upload done video_id=26217637 in 141.1s
