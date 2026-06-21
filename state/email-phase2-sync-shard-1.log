@@ -16237,3 +16237,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:11:26]   upload done video_id=26184981 in 245.6s
 [00:11:35] film cr_film_id=33723 OK in 587.3s
 [00:11:35] batch-end ok=20 failed=0 dur=3750.1s avg/film=187.5s remaining=7623 eta_hours=397.0
+
+===== run 2026-06-21T00:12:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27888090838) =====
+[00:12:06] batch-start shard=1/2 count=20 backlog=10210 uploads=2587 failed_attempts=89 description_overrides=0
+[00:12:06] login
+[00:12:08] login done
+[00:12:08] iteration 1/20
+[00:12:08] film cr_film_id=14893 name='Posledná prekážka (1972) SK Dabing' candidates=1
+[00:12:08]   candidate upload_id=618180e9ed3af url=https://prehraj.to/posledna-prekazka-1972-skdab/618180e9ed3af
+[00:12:09]   resolved in 0.9s → 1080p (https://pf-storage1.premiumcdn.net/26107612/la5FVgSZ2FG9HnGIgwsQzSY6fQZHawIqXt46…)
+[00:13:01]   downloaded 1,409.0 MB in 50.7s (27.8 MB/s)
+[00:14:22]   upload done video_id=26185277 in 81.0s
