@@ -53457,6 +53457,25 @@
         "download_sec": 50.2,
         "upload_sec": 69.9
       }
+    },
+    {
+      "cr_film_id": 7231,
+      "cr_slug": "stin-smrti",
+      "title": "Stín smrti",
+      "year": 2022,
+      "display_name": "Stín smrti (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "683b4d148617a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26218478,
+      "size_bytes": 1997376627,
+      "uploaded_at": "2026-06-21T23:48:22Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 142.6,
+        "upload_sec": 96.3
+      }
     }
   ],
   "failed_attempts": [
@@ -54459,5 +54478,5 @@
       "failed_at": "2026-06-21T23:02:49Z"
     }
   ],
-  "last_updated": "2026-06-21T23:44:18Z"
+  "last_updated": "2026-06-21T23:48:22Z"
 }
