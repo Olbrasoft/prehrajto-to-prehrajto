@@ -42937,6 +42937,25 @@
         "download_sec": 57.8,
         "upload_sec": 47.1
       }
+    },
+    {
+      "cr_film_id": 7764,
+      "cr_slug": "ripd-urna-utvar-rozhodne-nezivych-agentu",
+      "title": "R.I.P.D. – URNA: Útvar rozhodně neživých agentů",
+      "year": 2013,
+      "display_name": "R.I.P.D. – URNA: Útvar rozhodně neživých agentů (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55f5b2797c1de",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26216720,
+      "size_bytes": 616664470,
+      "uploaded_at": "2026-06-21T21:55:24Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 27.9,
+        "upload_sec": 29.8
+      }
     }
   ],
   "failed_attempts": [
@@ -44706,7 +44725,14 @@
       "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fvejska-cr-2014%2F4a5997d6ed1e01e7 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951ddc0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/vejska-cr-2014/4a5997d6ed1e01e7",
       "permanent": false,
       "failed_at": "2026-06-21T21:26:30Z"
+    },
+    {
+      "cr_film_id": 7762,
+      "upload_id": "4a5997d6ed1e01e7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vejska-cr-2014/4a5997d6ed1e01e7",
+      "permanent": true,
+      "failed_at": "2026-06-21T21:54:18Z"
     }
   ],
-  "last_updated": "2026-06-21T21:54:15Z"
+  "last_updated": "2026-06-21T21:55:24Z"
 }
