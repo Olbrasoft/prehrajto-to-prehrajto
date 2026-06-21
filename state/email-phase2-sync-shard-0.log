@@ -18549,3 +18549,16 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [16:53:11]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/152687916/8koId1s3jHZDf4yhXDu21syVf08IGRIveTa…)
 [16:58:27]   downloaded 1,370.3 MB in 313.9s (4.4 MB/s)
 [16:59:27]   upload done video_id=26208512 in 60.4s
+[16:59:28] film cr_film_id=36984 OK in 378.6s
+[16:59:28] iteration 16/20
+[16:59:28] film cr_film_id=34396 name='Swiped (2025)' candidates=1
+[16:59:28]   candidate upload_id=dd260bd6a265a703 url=https://prehraj.to/swiped-2025-2160p-hulu-web-dl-ddp-5-1-dv-hdr-h-265-pirates/dd260bd6a265a703
+[16:59:30]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/163418690/d2Et0PIgyFV7hpjSOEcyGIwkHbGCWEsKMCB…)
+[16:59:32]   oversize: 8964494987 B > 6000000000 B, skip
+[16:59:32] film cr_film_id=34396 all candidates exhausted
+[16:59:32] iteration 17/20
+[16:59:32] film cr_film_id=18688 name='Summer of 69 (2025)' candidates=1
+[16:59:32]   candidate upload_id=682630ef08d61 url=https://prehraj.to/summer-of-69-2025-1080p/682630ef08d61
+[16:59:36]   resolved in 4.2s → 720p (https://pf-storage3.premiumcdn.net/138088406/rlAu5QhrPHkrT5eCpEiQyhbmUbgSRptKXUV…)
+[17:00:37]   downloaded 1,518.1 MB in 59.3s (25.6 MB/s)
+[17:01:46]   upload done video_id=26208581 in 69.8s
