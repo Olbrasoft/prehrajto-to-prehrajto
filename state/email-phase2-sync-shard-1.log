@@ -18424,3 +18424,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [14:17:13]   upload done video_id=26203514 in 70.5s
 [14:17:17] film cr_film_id=10489 OK in 142.2s
 [14:17:17] batch-end ok=18 failed=2 dur=4446.3s avg/film=247.0s remaining=7334 eta_hours=503.2
+
+===== run 2026-06-21T14:17:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27907131377) =====
+[14:17:49] batch-start shard=1/2 count=20 backlog=10210 uploads=2876 failed_attempts=108 description_overrides=0
+[14:17:49] login
+[14:17:51] login done
+[14:17:51] iteration 1/20
+[14:17:51] film cr_film_id=2513 name='Saturday Night (2024)' candidates=5
+[14:17:51]   candidate upload_id=673470015b059 url=https://prehraj.to/saturday-night-2024-repack-2160p-web-dl-ddp5-1-atmos-dv-h-265-flux-mp4/673470015b059
+[14:17:51]   resolved in 0.9s → 1080p (https://pf-storage1.premiumcdn.net/105642080/0bKTEpsKQI96Cb9fD2FRrs61HGeckVuDbI4…)
+[14:19:58]   downloaded 2,851.4 MB in 125.1s (22.8 MB/s)
+[14:22:40]   upload done video_id=26203616 in 161.9s
