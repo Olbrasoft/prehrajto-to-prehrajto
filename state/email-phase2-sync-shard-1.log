@@ -18612,3 +18612,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [15:49:48]   resolved in 6.4s → 720p (https://pf-storage1.premiumcdn.net/127327619/aYds3KclOUo3FRYuQ5tKoc3vhWDfx5t8yfy…)
 [15:53:32]   downloaded 1,540.4 MB in 221.1s (7.0 MB/s)
 [15:55:15]   upload done video_id=26206697 in 103.1s
+[15:55:17] film cr_film_id=5769 OK in 334.7s
+[15:55:17] iteration 5/20
+[15:55:17] film cr_film_id=2175 name='Heretik (2024)' candidates=1
+[15:55:17]   candidate upload_id=b0297bfddfe8a6a6 url=https://prehraj.to/heretik-cz-dabing/b0297bfddfe8a6a6
+[15:55:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/heretik-cz-dabing/b0297bfddfe8a6a6 (permanent=True)
+[15:55:17] film cr_film_id=2175 all candidates exhausted
+[15:55:17] iteration 6/20
+[15:55:17] film cr_film_id=15925 name='Get Fast (2024)' candidates=1
+[15:55:17]   candidate upload_id=68459649e78d6 url=https://prehraj.to/dupni-na-to-get-fast-2024-sk-en/68459649e78d6
+[15:55:24]   resolved in 6.1s → 1080p (https://pf-storage5.premiumcdn.net/139466030/Z8nH0eS2YSK6uVacjaTa8S0GIvwfm3CyRIe…)
+[15:59:27]   downloaded 2,237.4 MB in 241.1s (9.3 MB/s)
+[16:01:51]   upload done video_id=26206888 in 143.8s
