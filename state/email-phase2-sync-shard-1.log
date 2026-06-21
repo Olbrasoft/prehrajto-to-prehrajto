@@ -18104,3 +18104,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:53:06]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/92721500/ezpir6HOecY2FZ2cpoC9BHZzilaT0LhEDilB…)
 [11:55:12]   downloaded 1,269.4 MB in 124.4s (10.2 MB/s)
 [11:56:21]   upload done video_id=26199636 in 69.5s
+[11:56:26] film cr_film_id=34165 OK in 200.4s
+[11:56:26] iteration 17/20
+[11:56:26] film cr_film_id=7449 name='Pod parou (2025)' candidates=1
+[11:56:26]   candidate upload_id=a6bcc3b4f32889e0 url=https://prehraj.to/pod-parou-2025-cz-komedie-hd/a6bcc3b4f32889e0
+[11:56:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pod-parou-2025-cz-komedie-hd/a6bcc3b4f32889e0 (permanent=True)
+[11:56:27] film cr_film_id=7449 all candidates exhausted
+[11:56:27] iteration 18/20
+[11:56:27] film cr_film_id=34383 name='Pečovatel (2025)' candidates=1
+[11:56:27]   candidate upload_id=58050dc73679ca57 url=https://prehraj.to/pecovatel-mongrel-2024-cz-dabing-1080p-mkv/58050dc73679ca57
+[11:56:33]   resolved in 6.1s → 1080p (https://pf-storage1.premiumcdn.net/156795953/84aTd3fldFZoS7wiw9IvNfX7In9hl7CeZI9…)
+[11:57:53]   downloaded 1,647.3 MB in 78.6s (21.0 MB/s)
+[11:59:30]   upload done video_id=26199669 in 96.4s

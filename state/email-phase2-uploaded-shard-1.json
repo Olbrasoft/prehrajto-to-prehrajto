@@ -51101,6 +51101,25 @@
         "download_sec": 124.4,
         "upload_sec": 69.5
       }
+    },
+    {
+      "cr_film_id": 34383,
+      "cr_slug": "pecovatel-2025",
+      "title": "Pečovatel",
+      "year": 2025,
+      "display_name": "Pečovatel (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "58050dc73679ca57",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26199669,
+      "size_bytes": 1647349545,
+      "uploaded_at": "2026-06-21T11:59:30Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 78.6,
+        "upload_sec": 96.4
+      }
     }
   ],
   "failed_attempts": [
@@ -51792,7 +51811,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scary-movie-2026-cz-hd-720p-mov/19962b987855d128",
       "permanent": true,
       "failed_at": "2026-06-21T10:39:08Z"
+    },
+    {
+      "cr_film_id": 7449,
+      "upload_id": "a6bcc3b4f32889e0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pod-parou-2025-cz-komedie-hd/a6bcc3b4f32889e0",
+      "permanent": true,
+      "failed_at": "2026-06-21T11:56:27Z"
     }
   ],
-  "last_updated": "2026-06-21T11:56:21Z"
+  "last_updated": "2026-06-21T11:59:30Z"
 }
