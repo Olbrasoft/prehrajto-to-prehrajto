@@ -16545,3 +16545,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [02:36:48]   upload done video_id=26188633 in 110.5s
 [02:36:52] film cr_film_id=14804 OK in 195.6s
 [02:36:52] batch-end ok=20 failed=0 dur=3118.0s avg/film=155.9s remaining=7569 eta_hours=327.8
+
+===== run 2026-06-21T02:37:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27891150354) =====
+[02:37:26] batch-start shard=0/2 count=20 backlog=10210 uploads=2641 failed_attempts=84 description_overrides=0
+[02:37:26] login
+[02:37:28] login done
+[02:37:28] iteration 1/20
+[02:37:28] film cr_film_id=35670 name='Neznámy (1992) SK Dabing' candidates=1
+[02:37:28]   candidate upload_id=606f537809ae6 url=https://prehraj.to/neznamy-1992-skdab/606f537809ae6
+[02:37:30]   resolved in 1.3s → 1080p (https://pf-storage2.premiumcdn.net/23021272/QYjFa3iqVuAJiYLi86udwiGVsrot1JtlOHem…)
+[02:38:38]   downloaded 1,174.2 MB in 66.0s (17.8 MB/s)
+[02:39:51]   upload done video_id=26188694 in 72.7s
