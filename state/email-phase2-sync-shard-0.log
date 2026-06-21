@@ -18442,3 +18442,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [15:34:00]   upload done video_id=26206221 in 112.4s
 [15:34:02] film cr_film_id=34578 OK in 266.5s
 [15:34:02] batch-end ok=18 failed=2 dur=4568.4s avg/film=253.8s remaining=7314 eta_hours=515.6
+
+===== run 2026-06-21T15:34:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27909096398) =====
+[15:34:42] batch-start shard=0/2 count=20 backlog=10210 uploads=2896 failed_attempts=93 description_overrides=0
+[15:34:42] login
+[15:34:43] login done
+[15:34:43] iteration 1/20
+[15:34:43] film cr_film_id=29038 name='BTS comeback naživo – Arirang (2026)' candidates=2
+[15:34:43]   candidate upload_id=ae0277a30d215ae2 url=https://prehraj.to/bts-comeback-nazivo-arirang-2026-ko-aac7-1-ko-ddp5-1-titulky-cz-en-h265-2160p-mkv/ae0277a30d215ae2
+[15:34:44]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/167542844/mYnHdDiV7uGRCx7I5zty6iBbcYGCX1SWZiK…)
+[15:36:12]   downloaded 2,657.3 MB in 85.4s (31.1 MB/s)
+[15:38:40]   upload done video_id=26206343 in 148.6s
