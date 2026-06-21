@@ -50226,6 +50226,25 @@
         "download_sec": 59.1,
         "upload_sec": 79.0
       }
+    },
+    {
+      "cr_film_id": 30688,
+      "cr_slug": "rockaway",
+      "title": "Rockaway",
+      "year": 2017,
+      "display_name": "Rockaway (2017) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5c69e93010087",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26197877,
+      "size_bytes": 1613233078,
+      "uploaded_at": "2026-06-21T10:20:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 56.1,
+        "upload_sec": 83.9
+      }
     }
   ],
   "failed_attempts": [
@@ -50854,5 +50873,5 @@
       "failed_at": "2026-06-21T05:12:22Z"
     }
   ],
-  "last_updated": "2026-06-21T10:18:24Z"
+  "last_updated": "2026-06-21T10:20:51Z"
 }
