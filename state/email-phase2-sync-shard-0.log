@@ -18899,3 +18899,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [22:38:22]   upload done video_id=26217382 in 118.4s
 [22:38:24] film cr_film_id=28532 OK in 266.3s
 [22:38:24] batch-end ok=18 failed=2 dur=4037.7s avg/film=224.3s remaining=7261 eta_hours=452.4
+
+===== run 2026-06-21T22:38:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27919732290) =====
+[22:38:56] batch-start shard=0/2 count=20 backlog=10210 uploads=2949 failed_attempts=116 description_overrides=0
+[22:38:56] login
+[22:38:57] login done
+[22:38:57] iteration 1/20
+[22:38:57] film cr_film_id=34318 name="Back to the Beginning: Ozzy's Final Bow (2025)" candidates=1
+[22:38:57]   candidate upload_id=687ff1dc65dda url=https://prehraj.to/ozzy-osbourne-back-to-the-beginning-2025/687ff1dc65dda
+[22:38:59]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/141989255/E6jH3XhxKTmXc7nir6Sa9hzXsNJslwT5zH6…)
+[22:40:49]   downloaded 3,341.2 MB in 108.5s (30.8 MB/s)
+[22:43:46]   upload done video_id=26217477 in 176.4s
