@@ -42823,6 +42823,25 @@
         "download_sec": 1234.8,
         "upload_sec": 53.2
       }
+    },
+    {
+      "cr_film_id": 7738,
+      "cr_slug": "pixely",
+      "title": "Pixely",
+      "year": 2015,
+      "display_name": "Pixely (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a83185465d7c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26215075,
+      "size_bytes": 2285833603,
+      "uploaded_at": "2026-06-21T19:57:01Z",
+      "timing": {
+        "resolve_sec": 6.8,
+        "download_sec": 118.9,
+        "upload_sec": 122.7
+      }
     }
   ],
   "failed_attempts": [
@@ -44445,7 +44464,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/aquaman-a-ztracene-kralovstvi-2022-cz-dabing-mp4/bc8944ec69276693",
       "permanent": true,
       "failed_at": "2026-06-21T13:40:21Z"
+    },
+    {
+      "cr_film_id": 7736,
+      "upload_id": "ead2870028af096f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bez-kalhot-xxl-cz-dabing-2015/ead2870028af096f",
+      "permanent": true,
+      "failed_at": "2026-06-21T19:52:50Z"
     }
   ],
-  "last_updated": "2026-06-21T19:52:48Z"
+  "last_updated": "2026-06-21T19:57:01Z"
 }

@@ -15294,3 +15294,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [19:31:17]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/13697694/2YLu2JUDotlPcd1i4JUj2U7wI0pSGohbVfoO…)
 [19:51:54]   downloaded 863.1 MB in 1234.8s (0.7 MB/s)
 [19:52:48]   upload done video_id=26215028 in 53.2s
+[19:52:50] film cr_film_id=7730 OK in 1293.5s
+[19:52:50] iteration 16/20
+[19:52:50] film cr_film_id=7736 name='Bez kalhot XXL (2015) CZ Dabing' candidates=1
+[19:52:50]   candidate upload_id=ead2870028af096f url=https://prehraj.to/bez-kalhot-xxl-cz-dabing-2015/ead2870028af096f
+[19:52:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bez-kalhot-xxl-cz-dabing-2015/ead2870028af096f (permanent=True)
+[19:52:50] film cr_film_id=7736 all candidates exhausted
+[19:52:50] iteration 17/20
+[19:52:50] film cr_film_id=7738 name='Pixely (2015) CZ Dabing' candidates=36
+[19:52:50]   candidate upload_id=5a83185465d7c url=https://prehraj.to/pixely-pixels-2015-czdab-1080p/5a83185465d7c
+[19:52:57]   resolved in 6.8s → 720p (https://pf-storage1.premiumcdn.net/3393314/wVgcvwULNc03TnLtpNh6KUOJF9RCn2fO3H3Zf…)
+[19:54:58]   downloaded 2,285.8 MB in 118.9s (19.2 MB/s)
+[19:57:01]   upload done video_id=26215075 in 122.7s
