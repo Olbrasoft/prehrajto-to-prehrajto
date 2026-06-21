@@ -14235,3 +14235,20 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:32:31]   resolved in 1.6s → 720p (https://pf-storage3.premiumcdn.net/100128044/kgAijOTgVcE8c2Wt7mIaNTrBiLBtrZHpmUa…)
 [07:32:45]   downloaded 173.2 MB in 11.8s (14.7 MB/s)
 [07:32:57]   upload done video_id=26194437 in 12.7s
+[07:32:59] film cr_film_id=7481 OK in 29.6s
+[07:32:59] iteration 8/20
+[07:32:59] film cr_film_id=7487 name='Liga spravedlnosti a RWBY: Superhrdinové a lovci, druhá část (2023) CZ Dabing' candidates=1
+[07:32:59]   candidate upload_id=669a853b16526 url=https://prehraj.to/liga-spravedlnosti-a-rwby-superhrdinove-a-lovci-druha-cast-2023-cz-dabing-1080p/669a853b16526
+[07:33:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/liga-spravedlnosti-a-rwby-superhrdinove-a-lovci-druha-cast-2023-cz-dabing-1080p/669a853b16526 (permanent=True)
+[07:33:00] film cr_film_id=7487 all candidates exhausted
+[07:33:00] iteration 9/20
+[07:33:00] film cr_film_id=7489 name='Manželé Stodolovi (2023) CZ' candidates=1
+[07:33:00]   candidate upload_id=5c075c8a5d107782 url=https://prehraj.to/manzele-stodolovi-2023-cz-hd-mp4/5c075c8a5d107782
+[07:33:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/manzele-stodolovi-2023-cz-hd-mp4/5c075c8a5d107782 (permanent=True)
+[07:33:06] film cr_film_id=7489 all candidates exhausted
+[07:33:06] iteration 10/20
+[07:33:06] film cr_film_id=7495 name='Liga spravedlnosti: Krize na nekonečnu Zemí - druhá část (2024) CZ' candidates=4
+[07:33:06]   candidate upload_id=670014a7da0fc url=https://prehraj.to/liga-spravedlnosti-krize-na-nekonecnu-zemi-druha-cast-web-dl-cz-en-2024-1080p-mp4/670014a7da0fc
+[07:33:12]   resolved in 6.1s → 1080p (https://pf-storage1.premiumcdn.net/100012019/QVMTlZu9VhwOtvmHA5feguKzIZet61Cg0T5…)
+[07:34:30]   downloaded 1,787.2 MB in 76.5s (23.4 MB/s)
+[07:36:16]   upload done video_id=26194473 in 105.5s

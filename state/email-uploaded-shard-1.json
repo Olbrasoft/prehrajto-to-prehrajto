@@ -40020,6 +40020,25 @@
         "download_sec": 11.8,
         "upload_sec": 12.7
       }
+    },
+    {
+      "cr_film_id": 7495,
+      "cr_slug": "liga-spravedlnosti-krize-na-nekonecnu-zemi-druha-cas",
+      "title": "Liga spravedlnosti: Krize na nekonečnu Zemí - druhá část",
+      "year": 2024,
+      "display_name": "Liga spravedlnosti: Krize na nekonečnu Zemí - druhá část (2024) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "670014a7da0fc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26194473,
+      "size_bytes": 1787195755,
+      "uploaded_at": "2026-06-21T07:36:16Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 76.5,
+        "upload_sec": 105.5
+      }
     }
   ],
   "failed_attempts": [
@@ -41499,7 +41518,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vriskot-3-2000-uhdrdv-cz-en/6906d9c10ba3b",
       "permanent": true,
       "failed_at": "2026-06-21T06:03:01Z"
+    },
+    {
+      "cr_film_id": 7487,
+      "upload_id": "669a853b16526",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/liga-spravedlnosti-a-rwby-superhrdinove-a-lovci-druha-cast-2023-cz-dabing-1080p/669a853b16526",
+      "permanent": true,
+      "failed_at": "2026-06-21T07:33:00Z"
+    },
+    {
+      "cr_film_id": 7489,
+      "upload_id": "5c075c8a5d107782",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/manzele-stodolovi-2023-cz-hd-mp4/5c075c8a5d107782",
+      "permanent": true,
+      "failed_at": "2026-06-21T07:33:06Z"
     }
   ],
-  "last_updated": "2026-06-21T07:32:57Z"
+  "last_updated": "2026-06-21T07:36:16Z"
 }
