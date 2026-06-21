@@ -18294,3 +18294,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:48:31]   upload done video_id=26202673 in 25.1s
 [13:48:34] film cr_film_id=21280 OK in 72.1s
 [13:48:34] batch-end ok=20 failed=0 dur=2722.9s avg/film=136.1s remaining=7332 eta_hours=277.2
+
+===== run 2026-06-21T14:17:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27907131377) =====
+[14:17:52] batch-start shard=0/2 count=20 backlog=10210 uploads=2878 failed_attempts=88 description_overrides=0
+[14:17:52] login
+[14:17:54] login done
+[14:17:54] iteration 1/20
+[14:17:54] film cr_film_id=21156 name='Hrozny hněvu (1940) EN' candidates=4
+[14:17:54]   candidate upload_id=488957a1f25c1977 url=https://prehraj.to/hrozny-hnevu-1080p-en-mp4/488957a1f25c1977
+[14:17:55]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/165499670/vXBHD5FzOUQksobIG9IJ1FqlCb7TOnUKXHq…)
+[14:20:14]   downloaded 3,259.3 MB in 136.5s (23.9 MB/s)
+[14:23:44]   upload done video_id=26203626 in 210.5s
