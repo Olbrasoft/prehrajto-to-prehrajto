@@ -41122,6 +41122,25 @@
         "download_sec": 19.4,
         "upload_sec": 23.2
       }
+    },
+    {
+      "cr_film_id": 7769,
+      "cr_slug": "laskavy-dotek",
+      "title": "Laskavý dotek",
+      "year": 2010,
+      "display_name": "Laskavý dotek (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55d669eac53ff",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26198773,
+      "size_bytes": 912175858,
+      "uploaded_at": "2026-06-21T11:13:04Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.8,
+        "upload_sec": 54.7
+      }
     }
   ],
   "failed_attempts": [
@@ -42631,5 +42650,5 @@
       "failed_at": "2026-06-21T08:56:31Z"
     }
   ],
-  "last_updated": "2026-06-21T11:11:32Z"
+  "last_updated": "2026-06-21T11:13:04Z"
 }
