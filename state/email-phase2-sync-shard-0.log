@@ -18453,3 +18453,17 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [15:34:44]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/167542844/mYnHdDiV7uGRCx7I5zty6iBbcYGCX1SWZiK…)
 [15:36:12]   downloaded 2,657.3 MB in 85.4s (31.1 MB/s)
 [15:38:40]   upload done video_id=26206343 in 148.6s
+[15:38:42] film cr_film_id=29038 OK in 238.5s
+[15:38:42] iteration 2/20
+[15:38:42] film cr_film_id=37012 name='Žlutou žábou do země modrého nebe (2025)' candidates=2
+[15:38:42]   candidate upload_id=0aa52fd5ed83cf36 url=https://prehraj.to/zlutou-zabou-do-zeme-modreho-nebe-h265-1080p-2025/0aa52fd5ed83cf36
+[15:38:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlutou-zabou-do-zeme-modreho-nebe-h265-1080p-2025/0aa52fd5ed83cf36 (permanent=True)
+[15:38:43]   candidate upload_id=40acbc74dade8ad0 url=https://prehraj.to/zlutou-zabou-do-zeme-modreho-nebe-h265-1080p-2025/40acbc74dade8ad0
+[15:38:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlutou-zabou-do-zeme-modreho-nebe-h265-1080p-2025/40acbc74dade8ad0 (permanent=True)
+[15:38:48] film cr_film_id=37012 all candidates exhausted
+[15:38:48] iteration 3/20
+[15:38:48] film cr_film_id=31432 name='Zloděj šperků: Lup začíná (2025)' candidates=1
+[15:38:48]   candidate upload_id=680e0aa68a8e2 url=https://prehraj.to/zlodej-sperku-lup-zacina-2025-cz-jablgo/680e0aa68a8e2
+[15:38:54]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/136354376/p96tnyh3QIE4TLxIZdcGehjRuqxiMGtGkiA…)
+[15:53:46]   downloaded 2,795.0 MB in 890.7s (3.1 MB/s)
+[15:56:07]   upload done video_id=26206708 in 140.4s
