@@ -53058,6 +53058,25 @@
         "download_sec": 59.8,
         "upload_sec": 65.6
       }
+    },
+    {
+      "cr_film_id": 10039,
+      "cr_slug": "bastardi-reparat",
+      "title": "Bastardi: Reparát",
+      "year": 2023,
+      "display_name": "Bastardi: Reparát (2023)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "c72b21a76547a178",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26217015,
+      "size_bytes": 709248687,
+      "uploaded_at": "2026-06-21T22:16:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.5,
+        "upload_sec": 30.9
+      }
     }
   ],
   "failed_attempts": [
@@ -53998,7 +54017,18 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/citlivy-clovek-2023-cz/8f67680ae3a05229",
       "permanent": true,
       "failed_at": "2026-06-21T22:11:07Z"
+    },
+    {
+      "cr_film_id": 31431,
+      "upload_id": "6848008484452",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds",
+      "permanent": false,
+      "failed_at": "2026-06-21T22:15:29Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 124.9
+      }
     }
   ],
-  "last_updated": "2026-06-21T22:13:20Z"
+  "last_updated": "2026-06-21T22:16:24Z"
 }

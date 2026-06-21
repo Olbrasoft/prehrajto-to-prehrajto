@@ -18991,3 +18991,16 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [22:11:13]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/31223129/KjGHlXUVGsbztJKIXLs9MUqlCMmhLYSb3id1…)
 [22:12:14]   downloaded 1,718.8 MB in 59.8s (28.7 MB/s)
 [22:13:20]   upload done video_id=26216950 in 65.6s
+[22:13:21] film cr_film_id=15917 OK in 134.6s
+[22:13:21] iteration 19/20
+[22:13:21] film cr_film_id=31431 name='Buča (2023)' candidates=1
+[22:13:21]   candidate upload_id=6848008484452 url=https://prehraj.to/buca-bucha-2023/6848008484452
+[22:13:23]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/139600838/Og4H03ukahQPf9wt2aHw7uomSQlFGniyqtK…)
+[22:15:29]   download FAILED after 124.9s: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds
+[22:15:29] film cr_film_id=31431 all candidates exhausted
+[22:15:29] iteration 20/20
+[22:15:29] film cr_film_id=10039 name='Bastardi: Reparát (2023)' candidates=4
+[22:15:29]   candidate upload_id=c72b21a76547a178 url=https://prehraj.to/bastardi-reparat-2023-cz-mp4/c72b21a76547a178
+[22:15:30]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/168416638/xlqf6GsAgH84S0QtyqikJsLvcEBimES3JF0…)
+[22:15:53]   downloaded 709.2 MB in 21.5s (33.0 MB/s)
+[22:16:24]   upload done video_id=26217015 in 30.9s
