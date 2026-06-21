@@ -13742,3 +13742,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:18:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/5-x-jinak-2020-cz-dabing/00bff3bc8a545af4 (permanent=True)
 [04:18:26] film cr_film_id=7209 all candidates exhausted
 [04:18:26] batch-end ok=18 failed=2 dur=4058.0s avg/film=225.4s remaining=15457 eta_hours=967.8
+
+===== run 2026-06-21T04:19:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27893288948) =====
+[04:19:01] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:19:02] batch-start shard=1/2 count=20 backlog=17650 uploads=2193 failed_attempts=201 description_overrides=17579
+[04:19:02] login
+[04:19:06] login done
+[04:19:06] iteration 1/20
+[04:19:06] film cr_film_id=7211 name='Poslední šance (2021) CZ Dabing' candidates=2
+[04:19:06]   candidate upload_id=640f9f595b90c url=https://prehraj.to/posledni-sance-2021-czdab/640f9f595b90c
+[04:19:07]   resolved in 1.6s → 720p (https://pf-storage4.premiumcdn.net/38339134/PWjHOocNXcKbIE4hgXCg5c0JuEqFPJF0JCqa…)
+[04:19:57]   downloaded 1,466.5 MB in 47.4s (30.9 MB/s)
+[04:21:04]   upload done video_id=26190922 in 67.4s
