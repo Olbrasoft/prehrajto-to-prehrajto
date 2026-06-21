@@ -18713,3 +18713,37 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [20:14:41]   resolved in 1.5s → 1080p (https://pf-storage4.premiumcdn.net/150939867/BlpudYi2GikEHJqTLPI5aiQ3F2xCgwHpYHY…)
 [20:19:32]   downloaded 2,331.2 MB in 288.8s (8.1 MB/s)
 [20:22:07]   upload done video_id=26215357 in 155.6s
+[20:22:09] film cr_film_id=36970 OK in 449.6s
+[20:22:09] iteration 19/20
+[20:22:09] film cr_film_id=3174 name='Lilo & Stitch (2025)' candidates=12
+[20:22:09]   candidate upload_id=d4c9715935688800 url=https://prehraj.to/lilo-stitch-2025-webrip-2160p-hevc-10bit-hdr10-cz/d4c9715935688800
+[20:22:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-webrip-2160p-hevc-10bit-hdr10-cz/d4c9715935688800 (permanent=True)
+[20:22:10]   candidate upload_id=2c45b87d5734b146 url=https://prehraj.to/lilo-a-stitch-lilo-stitch-2025-cz/2c45b87d5734b146
+[20:22:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-a-stitch-lilo-stitch-2025-cz/2c45b87d5734b146 (permanent=True)
+[20:22:17]   candidate upload_id=9b1941bc92a0d3e5 url=https://prehraj.to/lilo-stitch-2025-cz-eng/9b1941bc92a0d3e5
+[20:22:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/9b1941bc92a0d3e5 (permanent=True)
+[20:22:22]   candidate upload_id=c763a56368257d61 url=https://prehraj.to/lilo-stitch-2025-cz-eng/c763a56368257d61
+[20:22:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/c763a56368257d61 (permanent=True)
+[20:22:30]   candidate upload_id=f4df2afe6b6d4605 url=https://prehraj.to/lilo-stitch-2025-cz-eng/f4df2afe6b6d4605
+[20:22:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/f4df2afe6b6d4605 (permanent=True)
+[20:22:36]   candidate upload_id=017bec49ae0a4674 url=https://prehraj.to/lilo-stitch-2025-cz-eng/017bec49ae0a4674
+[20:22:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/017bec49ae0a4674 (permanent=True)
+[20:22:41]   candidate upload_id=1ff6bd119bb2fccb url=https://prehraj.to/lilo-stitch-2025-cz-eng/1ff6bd119bb2fccb
+[20:22:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/1ff6bd119bb2fccb (permanent=True)
+[20:22:47]   candidate upload_id=d88b2e99387c44de url=https://prehraj.to/lilo-stitch-2025-cz-eng/d88b2e99387c44de
+[20:22:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/d88b2e99387c44de (permanent=True)
+[20:22:54]   candidate upload_id=00665b2fd1773b86 url=https://prehraj.to/lilo-stitch-2025-cz-eng/00665b2fd1773b86
+[20:23:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/00665b2fd1773b86 (permanent=True)
+[20:23:06]   candidate upload_id=398f2a37f1dc5f6c url=https://prehraj.to/lilo-stitch-2025-4k-cz-eng/398f2a37f1dc5f6c
+[20:23:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-4k-cz-eng/398f2a37f1dc5f6c (permanent=True)
+[20:23:12]   candidate upload_id=45a47fed75361818 url=https://prehraj.to/lilo-stitch-2025-cz-eng/45a47fed75361818
+[20:23:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-cz-eng/45a47fed75361818 (permanent=True)
+[20:23:17]   candidate upload_id=747da5e168b23e14 url=https://prehraj.to/lilo-stitch-2025-4k-cz-eng/747da5e168b23e14
+[20:23:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lilo-stitch-2025-4k-cz-eng/747da5e168b23e14 (permanent=True)
+[20:23:23] film cr_film_id=3174 all candidates exhausted
+[20:23:23] iteration 20/20
+[20:23:23] film cr_film_id=31510 name='Lethal Desire (2025)' candidates=1
+[20:23:23]   candidate upload_id=68c9065559c97 url=https://prehraj.to/lethal-desire-2025-en/68c9065559c97
+[20:23:30]   resolved in 7.5s → 1080p (https://pf-storage4.premiumcdn.net/146991396/oMOHXzTjLcoKfO5cMLsBlTnzF6guVqsMmu2…)
+[20:25:40]   downloaded 1,812.3 MB in 127.1s (14.3 MB/s)
+[20:27:38]   upload done video_id=26215438 in 118.2s
