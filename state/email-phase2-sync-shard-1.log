@@ -16383,3 +16383,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:50:32]   upload done video_id=26186373 in 32.3s
 [00:50:34] film cr_film_id=32925 OK in 56.1s
 [00:50:34] batch-end ok=20 failed=0 dur=2306.1s avg/film=115.3s remaining=7603 eta_hours=243.5
+
+===== run 2026-06-21T00:51:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27888911188) =====
+[00:51:07] batch-start shard=1/2 count=20 backlog=10210 uploads=2607 failed_attempts=89 description_overrides=0
+[00:51:07] login
+[00:51:09] login done
+[00:51:09] iteration 1/20
+[00:51:09] film cr_film_id=28743 name='Vzpomínky na něj (2026) SK Titulky' candidates=25
+[00:51:09]   candidate upload_id=ae674e84cd3d5b64 url=https://prehraj.to/reminders-of-him-2026-cz-sktit-v-obraze-1080p/ae674e84cd3d5b64
+[00:51:10]   resolved in 1.2s → 1080p (https://pf-storage6.premiumcdn.net/170679686/eJPHlAFRBhJOi0yS5EcN7FrVUqZio4SNMTa…)
+[00:53:09]   downloaded 2,671.8 MB in 117.0s (22.8 MB/s)
+[00:57:10]   upload done video_id=26186471 in 241.0s
