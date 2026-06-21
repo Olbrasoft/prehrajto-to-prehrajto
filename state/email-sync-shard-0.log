@@ -14159,3 +14159,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:11:37]   upload done video_id=26194088 in 33.0s
 [07:11:43] film cr_film_id=7118 OK in 71.1s
 [07:11:43] batch-end ok=20 failed=0 dur=3134.4s avg/film=156.7s remaining=15384 eta_hours=669.6
+
+===== run 2026-06-21T07:12:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27896905963) =====
+[07:12:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:12:22] batch-start shard=0/2 count=20 backlog=17650 uploads=2266 failed_attempts=216 description_overrides=17579
+[07:12:22] login
+[07:12:25] login done
+[07:12:25] iteration 1/20
+[07:12:25] film cr_film_id=7120 name='Průsek (2026) CZ Dabing' candidates=6
+[07:12:25]   candidate upload_id=e036bc3eb8389e96 url=https://prehraj.to/firebreak-prusek-cortafuego-2026-es-cz-dabing-1080p/e036bc3eb8389e96
+[07:12:27]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/165839852/z9QspNSNnSmyUzNFQdIVQSGoH8aueKfpYsN…)
+[07:14:27]   downloaded 2,647.9 MB in 117.7s (22.5 MB/s)
+[07:17:30]   upload done video_id=26194154 in 182.9s
