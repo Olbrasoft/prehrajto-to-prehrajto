@@ -13656,3 +13656,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:30:15]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/85501844/bbBtomIbzHvMSJLsPzINVI6VCDZCX6ClMCvd…)
 [03:31:48]   downloaded 2,679.1 MB in 91.6s (29.2 MB/s)
 [03:34:26]   upload done video_id=26189824 in 158.1s
+[03:34:32] film cr_film_id=7167 OK in 258.0s
+[03:34:32] iteration 9/20
+[03:34:32] film cr_film_id=7169 name='Ella a černý jaguár (2024) CZ Dabing' candidates=1
+[03:34:32]   candidate upload_id=e97200dc095937dd url=https://prehraj.to/ella-a-cerny-jaguar-2024-cz-dab-1080p/e97200dc095937dd
+[03:34:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ella-a-cerny-jaguar-2024-cz-dab-1080p/e97200dc095937dd (permanent=True)
+[03:34:35] film cr_film_id=7169 all candidates exhausted
+[03:34:35] iteration 10/20
+[03:34:35] film cr_film_id=7171 name='Atlas (2024) CZ Dabing' candidates=6
+[03:34:35]   candidate upload_id=6651931e627c5 url=https://prehraj.to/atlas-2024-akcni-sci-fi-cz-dabing-1080p/6651931e627c5
+[03:34:41]   resolved in 6.1s → 1080p (https://pf-storage1.premiumcdn.net/77657546/4P7fLgFYwHvrUpos8Lh18FrnSPxI4bHKquBZ…)
+[03:36:02]   downloaded 2,227.6 MB in 79.2s (28.1 MB/s)
+[03:38:11]   upload done video_id=26189898 in 128.9s
