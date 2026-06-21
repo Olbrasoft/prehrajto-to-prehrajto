@@ -50796,6 +50796,25 @@
         "download_sec": 59.5,
         "upload_sec": 30.7
       }
+    },
+    {
+      "cr_film_id": 27400,
+      "cr_slug": "re-kill",
+      "title": "Re-Kill",
+      "year": 2015,
+      "display_name": "Re-Kill (2015) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "585e7e5b4cc9a",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26198962,
+      "size_bytes": 568650172,
+      "uploaded_at": "2026-06-21T11:23:40Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 39.3,
+        "upload_sec": 23.8
+      }
     }
   ],
   "failed_attempts": [
@@ -51431,5 +51450,5 @@
       "failed_at": "2026-06-21T10:55:55Z"
     }
   ],
-  "last_updated": "2026-06-21T11:22:31Z"
+  "last_updated": "2026-06-21T11:23:40Z"
 }
