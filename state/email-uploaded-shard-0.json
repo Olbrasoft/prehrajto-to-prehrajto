@@ -39194,6 +39194,25 @@
         "download_sec": 26.6,
         "upload_sec": 43.7
       }
+    },
+    {
+      "cr_film_id": 6924,
+      "cr_slug": "mulan",
+      "title": "Mulan",
+      "year": 2020,
+      "display_name": "Mulan (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "687f8dc72bb0e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26192181,
+      "size_bytes": 2246061867,
+      "uploaded_at": "2026-06-21T05:29:00Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 98.6,
+        "upload_sec": 152.9
+      }
     }
   ],
   "failed_attempts": [
@@ -40727,5 +40746,5 @@
       "failed_at": "2026-06-21T03:24:39Z"
     }
   ],
-  "last_updated": "2026-06-21T05:24:42Z"
+  "last_updated": "2026-06-21T05:29:00Z"
 }
