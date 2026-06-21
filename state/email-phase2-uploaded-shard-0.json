@@ -51081,6 +51081,25 @@
         "download_sec": 77.4,
         "upload_sec": 52.7
       }
+    },
+    {
+      "cr_film_id": 30364,
+      "cr_slug": "chveni-2014",
+      "title": "Chvění",
+      "year": 2014,
+      "display_name": "Chvění (2014) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "55b71e5646666",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26200187,
+      "size_bytes": 515510051,
+      "uploaded_at": "2026-06-21T12:22:19Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.6,
+        "upload_sec": 40.1
+      }
     }
   ],
   "failed_attempts": [
@@ -51716,5 +51735,5 @@
       "failed_at": "2026-06-21T10:55:55Z"
     }
   ],
-  "last_updated": "2026-06-21T12:21:04Z"
+  "last_updated": "2026-06-21T12:22:19Z"
 }
