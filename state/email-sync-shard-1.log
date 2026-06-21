@@ -14717,3 +14717,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:22:14]   resolved in 1.9s → 1080p (https://pf-storage3.premiumcdn.net/155356145/d8qFyXijJIzPh51CJlfy9iqDuz9IZjUpmun…)
 [11:23:29]   downloaded 2,327.2 MB in 73.5s (31.7 MB/s)
 [11:25:08]   upload done video_id=26198965 in 99.8s
+[11:25:13] film cr_film_id=7781 OK in 181.0s
+[11:25:13] iteration 15/20
+[11:25:13] film cr_film_id=7783 name='Šťastné a krvavé (2023) CZ Dabing' candidates=1
+[11:25:13]   candidate upload_id=b849beeeaf1e8a37 url=https://prehraj.to/stastne-a-krvave-2023-cz-dabing-hd-mp4/b849beeeaf1e8a37
+[11:25:15]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/stastne-a-krvave-2023-cz-dabing-hd-mp4/b849beeeaf1e8a37 (permanent=True)
+[11:25:15] film cr_film_id=7783 all candidates exhausted
+[11:25:15] iteration 16/20
+[11:25:15] film cr_film_id=7787 name='Temný diamant (2025) CZ Dabing' candidates=2
+[11:25:15]   candidate upload_id=c967121a866692bd url=https://prehraj.to/temny-diamant-2025-cz-dab-1080p/c967121a866692bd
+[11:25:21]   resolved in 6.2s → 1080p (https://pf-storage5.premiumcdn.net/165510581/1J9H1lfr3cbYuqNudos16flYiz2T2QTdvcN…)
+[11:26:06]   downloaded 1,280.0 MB in 43.0s (29.8 MB/s)
+[11:26:57]   upload done video_id=26199001 in 50.9s
