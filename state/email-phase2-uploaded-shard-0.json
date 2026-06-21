@@ -51974,6 +51974,25 @@
         "download_sec": 109.1,
         "upload_sec": 125.8
       }
+    },
+    {
+      "cr_film_id": 35254,
+      "cr_slug": "immortal-combat",
+      "title": "Immortal Combat",
+      "year": 2026,
+      "display_name": "Immortal Combat (2026)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "604f01ebdad45b9d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26205178,
+      "size_bytes": 2054615344,
+      "uploaded_at": "2026-06-21T15:05:33Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 158.6,
+        "upload_sec": 131.5
+      }
     }
   ],
   "failed_attempts": [
@@ -52614,7 +52633,35 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mimoni-a-monstra-2026-cz-4k-mov/fa2fa4e92f12bb27",
       "permanent": true,
       "failed_at": "2026-06-21T14:56:13Z"
+    },
+    {
+      "cr_film_id": 31748,
+      "upload_id": "a5dabc8a2425cbf2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/seda-zona-2026-cz-full-hd-1080p-mp4/a5dabc8a2425cbf2",
+      "permanent": true,
+      "failed_at": "2026-06-21T15:00:18Z"
+    },
+    {
+      "cr_film_id": 31748,
+      "upload_id": "56094dc0303d9907",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/seda-zona-2026-cz-full-hd-1080p-mov/56094dc0303d9907",
+      "permanent": true,
+      "failed_at": "2026-06-21T15:00:24Z"
+    },
+    {
+      "cr_film_id": 31748,
+      "upload_id": "035dfc74d79c3227",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/seda-zona-2026-cz-full-hd-1080p-mp4/035dfc74d79c3227",
+      "permanent": true,
+      "failed_at": "2026-06-21T15:00:30Z"
+    },
+    {
+      "cr_film_id": 31748,
+      "upload_id": "06b1fc06eb6a4264",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/seda-zona-2026-cz-full-hd-1080p-mov/06b1fc06eb6a4264",
+      "permanent": true,
+      "failed_at": "2026-06-21T15:00:35Z"
     }
   ],
-  "last_updated": "2026-06-21T15:00:16Z"
+  "last_updated": "2026-06-21T15:05:33Z"
 }
