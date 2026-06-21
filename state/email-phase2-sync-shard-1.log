@@ -18510,3 +18510,23 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [15:02:33]   resolved in 6.0s → 720p (https://pf-storage1.premiumcdn.net/105445607/1O5fkduzncLNt49HldT9YuWgTJRc24fbRf2…)
 [15:03:19]   downloaded 1,354.2 MB in 44.5s (30.4 MB/s)
 [15:04:55]   upload done video_id=26205175 in 95.7s
+[15:04:56] film cr_film_id=4909 OK in 149.6s
+[15:04:56] iteration 13/20
+[15:04:56] film cr_film_id=3603 name='MIKI (2024)' candidates=5
+[15:04:56]   candidate upload_id=3657cec28f20c3be url=https://prehraj.to/miki-mp4/3657cec28f20c3be
+[15:04:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/miki-mp4/3657cec28f20c3be (permanent=True)
+[15:04:59]   candidate upload_id=3fc2df2a8a3a96b7 url=https://prehraj.to/miki-mp4/3fc2df2a8a3a96b7
+[15:05:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/miki-mp4/3fc2df2a8a3a96b7 (permanent=True)
+[15:05:05]   candidate upload_id=e855b728f5799f8e url=https://prehraj.to/miki-mp4/e855b728f5799f8e
+[15:05:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/miki-mp4/e855b728f5799f8e (permanent=True)
+[15:05:11]   candidate upload_id=b5b6d95076c3d23e url=https://prehraj.to/miki-mp4/b5b6d95076c3d23e
+[15:05:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/miki-mp4/b5b6d95076c3d23e (permanent=True)
+[15:05:17]   candidate upload_id=c3f0af1bfd87e317 url=https://prehraj.to/miki-mp4/c3f0af1bfd87e317
+[15:05:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/miki-mp4/c3f0af1bfd87e317 (permanent=True)
+[15:05:22] film cr_film_id=3603 all candidates exhausted
+[15:05:22] iteration 14/20
+[15:05:22] film cr_film_id=4441 name='Life After Fighting (2024)' candidates=1
+[15:05:22]   candidate upload_id=66647ed36415c url=https://prehraj.to/life-after-fighting-2024-1080p-amzn-web-dl-ddp5-1-h-264-byndr/66647ed36415c
+[15:05:28]   resolved in 6.0s → 720p (https://pf-storage5.premiumcdn.net/78123584/Op6tyzSXBfb6FPnFX3hwMS9eiaEs4xsD3tLY…)
+[15:06:58]   downloaded 2,306.8 MB in 87.5s (26.4 MB/s)
+[15:08:41]   upload done video_id=26205315 in 103.0s
