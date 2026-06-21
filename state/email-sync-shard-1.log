@@ -13969,3 +13969,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:01:22]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/12877995/P0VS6ZT7VUwGtVeHpZI1WT8BI8pf0KideF1a…)
 [06:02:03]   downloaded 669.2 MB in 39.1s (17.1 MB/s)
 [06:02:51]   upload done video_id=26192812 in 47.2s
+[06:02:53] film cr_film_id=7309 OK in 92.9s
+[06:02:53] iteration 12/20
+[06:02:53] film cr_film_id=7315 name='Vřískot 3 (2000) CZ Dabing' candidates=2
+[06:02:53]   candidate upload_id=0e887cb87759e659 url=https://prehraj.to/vriskot-3-scream-3-2000-horor-mysteriozni-czdab-mkv/0e887cb87759e659
+[06:02:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vriskot-3-scream-3-2000-horor-mysteriozni-czdab-mkv/0e887cb87759e659 (permanent=True)
+[06:02:54]   candidate upload_id=6906d9c10ba3b url=https://prehraj.to/vriskot-3-2000-uhdrdv-cz-en/6906d9c10ba3b
+[06:03:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vriskot-3-2000-uhdrdv-cz-en/6906d9c10ba3b (permanent=True)
+[06:03:01] film cr_film_id=7315 all candidates exhausted
+[06:03:01] iteration 13/20
+[06:03:01] film cr_film_id=7321 name='Podezřelý (2018) CZ' candidates=1
+[06:03:01]   candidate upload_id=674152e6cc40b url=https://prehraj.to/podezrely-2018-cz/674152e6cc40b
+[06:03:07]   resolved in 6.1s → 1080p (https://pf-storage5.premiumcdn.net/110514494/exwSA2fARi2nFZlin2F49fEDh4kSkxuGlFa…)
+[06:04:23]   downloaded 1,646.9 MB in 74.3s (22.2 MB/s)
+[06:06:35]   upload done video_id=26192896 in 132.1s
