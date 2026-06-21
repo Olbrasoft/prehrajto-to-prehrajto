@@ -18865,3 +18865,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [21:30:31]   upload done video_id=26216299 in 126.3s
 [21:30:33] film cr_film_id=34145 OK in 510.5s
 [21:30:33] batch-end ok=14 failed=6 dur=13826.7s avg/film=987.6s remaining=7284 eta_hours=1998.2
+
+===== run 2026-06-21T21:31:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27918084339) =====
+[21:31:04] batch-start shard=1/2 count=20 backlog=10210 uploads=2926 failed_attempts=128 description_overrides=0
+[21:31:04] login
+[21:31:05] login done
+[21:31:05] iteration 1/20
+[21:31:05] film cr_film_id=16089 name='Oči pevně zavřené (2023)' candidates=1
+[21:31:05]   candidate upload_id=689db64a7fde4 url=https://prehraj.to/oci-pevne-zavrene-2023-sk/689db64a7fde4
+[21:31:06]   resolved in 0.9s → 1080p (https://pf-storage4.premiumcdn.net/143609357/AL4umZTj2FxLsqPhzjfplT5VIn8swmcAlij…)
+[21:33:26]   downloaded 1,595.2 MB in 137.5s (11.6 MB/s)
+[21:34:51]   upload done video_id=26216372 in 85.6s
