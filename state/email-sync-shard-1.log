@@ -13595,3 +13595,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:39:21]   upload done video_id=26188692 in 49.8s
 [02:39:23] film cr_film_id=7139 OK in 97.0s
 [02:39:23] batch-end ok=20 failed=0 dur=2339.4s avg/film=117.0s remaining=15475 eta_hours=502.9
+
+===== run 2026-06-21T03:10:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27891845394) =====
+[03:10:47] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:10:47] batch-start shard=1/2 count=20 backlog=17650 uploads=2175 failed_attempts=197 description_overrides=17579
+[03:10:47] login
+[03:10:48] login done
+[03:10:48] iteration 1/20
+[03:10:48] film cr_film_id=7143 name='V dobrém i zlém (2024) CZ Dabing' candidates=5
+[03:10:48]   candidate upload_id=685201585c57c url=https://prehraj.to/v-dobrem-i-zlem-2024-cz-dabing-1080p/685201585c57c
+[03:10:49]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/140168180/4MOumaU7GFKxsr7FvYheWUzeHEAI9MSO9sP…)
+[03:12:07]   downloaded 2,197.2 MB in 76.1s (28.9 MB/s)
+[03:14:49]   upload done video_id=26189390 in 161.8s
