@@ -18287,3 +18287,12 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:03:20]   resolved in 7.4s → 1080p (https://pf-storage1.premiumcdn.net/170555582/0AmiNKugNhP2HR1sqBUgOumRsLaSj2UMwIQ…)
 [13:04:45]   downloaded 2,139.7 MB in 83.2s (25.7 MB/s)
 [13:07:15]   upload done video_id=26201585 in 150.0s
+[13:07:19] film cr_film_id=3165 OK in 248.0s
+[13:07:19] iteration 2/20
+[13:07:19] film cr_film_id=4417 name='Dream Team (2025)' candidates=4
+[13:07:19]   candidate upload_id=1abd191551630334 url=https://prehraj.to/dream-team-2025-mp4-cz-dabing-2160p-ultra-hd-mkv/1abd191551630334
+[13:07:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dream-team-2025-mp4-cz-dabing-2160p-ultra-hd-mkv/1abd191551630334 (permanent=True)
+[13:07:20]   candidate upload_id=62f379dd1df36cf2 url=https://prehraj.to/dream-team-2025-mp4-cz-dabing-2160p-ultra-hd/62f379dd1df36cf2
+[13:07:28]   resolved in 7.5s → 1080p (https://pf-storage4.premiumcdn.net/170181556/rbet6rI1aS0jcW2t4AIMJIGAt8bS9eSJaUM…)
+[13:14:41]   downloaded 3,269.1 MB in 430.9s (7.6 MB/s)
+[13:18:02]   upload done video_id=26201877 in 201.4s
