@@ -17883,3 +17883,17 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [10:28:55]   resolved in 0.9s → 1080p (https://pf-storage5.premiumcdn.net/168751102/qlWHOqfG7hqXu3wi0ncpwfADHWKToQiR0H9…)
 [10:29:45]   downloaded 1,655.9 MB in 48.6s (34.1 MB/s)
 [10:31:04]   upload done video_id=26198064 in 78.4s
+[10:31:08] film cr_film_id=12543 OK in 134.1s
+[10:31:08] iteration 6/20
+[10:31:08] film cr_film_id=35413 name='스트레이 키즈 : 더 도미네이트 익스피리언스 (2026)' candidates=2
+[10:31:08]   candidate upload_id=779c5e7b4cc1beb3 url=https://prehraj.to/stray-kids-the-dominate-experience-2026-720p-webrip/779c5e7b4cc1beb3
+[10:31:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/stray-kids-the-dominate-experience-2026-720p-webrip/779c5e7b4cc1beb3 (permanent=True)
+[10:31:09]   candidate upload_id=efc7d6602d352049 url=https://prehraj.to/stray-kids-the-dominate-experience-2026-720p-webrip-mp4/efc7d6602d352049
+[10:31:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/stray-kids-the-dominate-experience-2026-720p-webrip-mp4/efc7d6602d352049 (permanent=True)
+[10:31:14] film cr_film_id=35413 all candidates exhausted
+[10:31:14] iteration 7/20
+[10:31:14] film cr_film_id=27167 name='The Yeti (2026)' candidates=3
+[10:31:14]   candidate upload_id=c5a613d3706a2d46 url=https://prehraj.to/the-yeti-2026/c5a613d3706a2d46
+[10:31:20]   resolved in 5.8s → 720p (https://pf-storage6.premiumcdn.net/169105555/bWZTN1FnKugDtdoc9nS7BFOpclnUOYC7XiO…)
+[10:32:20]   downloaded 1,207.1 MB in 58.7s (20.6 MB/s)
+[10:33:06]   upload done video_id=26198098 in 45.9s
