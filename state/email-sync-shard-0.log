@@ -13863,3 +13863,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:35:59]   upload done video_id=26192318 in 119.5s
 [05:36:04] film cr_film_id=6934 OK in 220.2s
 [05:36:04] batch-end ok=20 failed=0 dur=4616.6s avg/film=230.8s remaining=15424 eta_hours=988.8
+
+===== run 2026-06-21T05:36:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27894878581) =====
+[05:36:40] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:36:40] batch-start shard=0/2 count=20 backlog=17650 uploads=2226 failed_attempts=215 description_overrides=17579
+[05:36:40] login
+[05:36:44] login done
+[05:36:44] iteration 1/20
+[05:36:44] film cr_film_id=6938 name='Krvavá laguna (2007) CZ Dabing' candidates=2
+[05:36:44]   candidate upload_id=604f1beacaa14 url=https://prehraj.to/krvava-laguna-1080p-2007-horor-thriller-cz-dab-cz-tit/604f1beacaa14
+[05:36:45]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/22673357/w1Gu8ps19S7nFQ3Hq2SYvsPbI0MizMfvAuLJ…)
+[05:37:31]   downloaded 1,585.8 MB in 44.4s (35.7 MB/s)
+[05:39:00]   upload done video_id=26192361 in 89.4s
