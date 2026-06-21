@@ -14596,3 +14596,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:45:03]   upload done video_id=26198245 in 81.3s
 [10:45:09] film cr_film_id=7316 OK in 181.3s
 [10:45:09] batch-end ok=19 failed=1 dur=3101.3s avg/film=163.2s remaining=15326 eta_hours=694.8
+
+===== run 2026-06-21T10:45:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27901849981) =====
+[10:45:48] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:45:48] batch-start shard=0/2 count=20 backlog=17650 uploads=2324 failed_attempts=218 description_overrides=17579
+[10:45:48] login
+[10:45:54] login done
+[10:45:54] iteration 1/20
+[10:45:54] film cr_film_id=7320 name='Grace, kněžna monacká (2014) CZ Dabing' candidates=8
+[10:45:54]   candidate upload_id=590321be91c6d url=https://prehraj.to/grace-knezna-monacka-cz-dabing-2014/590321be91c6d
+[10:45:55]   resolved in 1.6s → 480p (https://pf-storage2.premiumcdn.net/2091550/Ed7IjgUJ7F4nSv2fpDh7vUZJu1bfbDuV8Tmqf…)
+[10:46:29]   downloaded 532.8 MB in 31.2s (17.1 MB/s)
+[10:47:02]   upload done video_id=26198280 in 33.2s
