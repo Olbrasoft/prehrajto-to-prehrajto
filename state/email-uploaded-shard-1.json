@@ -39317,6 +39317,25 @@
         "download_sec": 57.6,
         "upload_sec": 89.9
       }
+    },
+    {
+      "cr_film_id": 7305,
+      "cr_slug": "pripad-dvou-sester",
+      "title": "Případ dvou sester",
+      "year": 2019,
+      "display_name": "Případ dvou sester (2019) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c59c1960b52d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26192699,
+      "size_bytes": 1918241596,
+      "uploaded_at": "2026-06-21T06:01:15Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 104.1,
+        "upload_sec": 160.8
+      }
     }
   ],
   "failed_attempts": [
@@ -40784,5 +40803,5 @@
       "failed_at": "2026-06-21T04:43:46Z"
     }
   ],
-  "last_updated": "2026-06-21T05:56:42Z"
+  "last_updated": "2026-06-21T06:01:15Z"
 }
