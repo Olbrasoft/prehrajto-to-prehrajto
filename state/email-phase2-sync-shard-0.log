@@ -19043,3 +19043,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:35:18]   upload done video_id=26218298 in 85.9s
 [23:35:20] film cr_film_id=28570 OK in 181.5s
 [23:35:20] batch-end ok=17 failed=3 dur=3382.8s avg/film=199.0s remaining=7244 eta_hours=400.4
+
+===== run 2026-06-21T23:35:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27921093749) =====
+[23:35:52] batch-start shard=0/2 count=20 backlog=10210 uploads=2966 failed_attempts=121 description_overrides=0
+[23:35:52] login
+[23:35:53] login done
+[23:35:53] iteration 1/20
+[23:35:53] film cr_film_id=28198 name='Operation Blood Hunt (2024)' candidates=1
+[23:35:53]   candidate upload_id=671a1279dd6e8 url=https://prehraj.to/operation-blood-hunt-2024-1080p/671a1279dd6e8
+[23:35:55]   resolved in 2.2s → 720p (https://pf-storage3.premiumcdn.net/103647155/4E2ckAUZ8cDzujeuyQSPeURqtqdC6DiXrSr…)
+[23:36:54]   downloaded 1,487.7 MB in 56.9s (26.1 MB/s)
+[23:37:53]   upload done video_id=26218327 in 59.8s
