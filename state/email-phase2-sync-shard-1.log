@@ -16968,3 +16968,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [04:18:33]   upload done video_id=26190874 in 49.2s
 [04:18:36] film cr_film_id=17455 OK in 103.1s
 [04:18:36] batch-end ok=20 failed=0 dur=2989.0s avg/film=149.4s remaining=7525 eta_hours=312.3
+
+===== run 2026-06-21T04:38:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27893687192) =====
+[04:38:24] batch-start shard=1/2 count=20 backlog=10210 uploads=2685 failed_attempts=92 description_overrides=0
+[04:38:24] login
+[04:38:27] login done
+[04:38:27] iteration 1/20
+[04:38:27] film cr_film_id=17431 name='Adverse (2020) SK Titulky' candidates=19
+[04:38:27]   candidate upload_id=6050ec33a2f3c url=https://prehraj.to/adverse-2020-sktitulky/6050ec33a2f3c
+[04:38:28]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/22691903/KjnuOYIVWfwbhqYsgocn7Ib7sqVCoPTd9Hga…)
+[04:39:58]   downloaded 1,610.9 MB in 87.6s (18.4 MB/s)
+[04:41:56]   upload done video_id=26191245 in 118.1s
