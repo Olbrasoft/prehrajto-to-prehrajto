@@ -13152,3 +13152,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:03:52]   upload done video_id=26184791 in 141.1s
 [00:03:57] film cr_film_id=6901 OK in 265.4s
 [00:03:57] batch-end ok=20 failed=0 dur=4518.3s avg/film=225.9s remaining=15534 eta_hours=974.8
+
+===== run 2026-06-21T00:04:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27887923699) =====
+[00:04:30] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:04:30] batch-start shard=1/2 count=20 backlog=17650 uploads=2116 failed_attempts=194 description_overrides=17579
+[00:04:30] login
+[00:04:31] login done
+[00:04:31] iteration 1/20
+[00:04:31] film cr_film_id=6905 name='Jak jsem se stal superhrdinou (2020) CZ Dabing' candidates=4
+[00:04:31]   candidate upload_id=60ed9893047c3 url=https://prehraj.to/jak-jsem-se-stal-superhrdinou-comment-je-suis-devenu-superheros-2020-hd-5-1-cz-dab/60ed9893047c3
+[00:04:33]   resolved in 1.7s → 1080p (https://pf-storage3.premiumcdn.net/24263961/JgafjVhzBUwQsONU7dIdLhoBfV3s8JU5pUYd…)
+[00:05:53]   downloaded 2,158.8 MB in 78.6s (27.5 MB/s)
+[00:08:10]   upload done video_id=26184910 in 136.9s
