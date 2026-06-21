@@ -18262,3 +18262,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:49:39]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/149583276/oJeswVTDKhzPfGXi10u53TN3UQ1CJoh03Ix…)
 [12:50:41]   downloaded 1,502.0 MB in 59.7s (25.2 MB/s)
 [12:51:53]   upload done video_id=26201109 in 72.1s
+[12:51:55] film cr_film_id=37009 OK in 137.9s
+[12:51:55] iteration 19/20
+[12:51:55] film cr_film_id=34593 name='Fichtelberg (2025)' candidates=1
+[12:51:55]   candidate upload_id=415034bb303009e2 url=https://prehraj.to/fichtelberg-2025-cz/415034bb303009e2
+[12:51:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/fichtelberg-2025-cz/415034bb303009e2 (permanent=True)
+[12:51:56] film cr_film_id=34593 all candidates exhausted
+[12:51:56] iteration 20/20
+[12:51:56] film cr_film_id=18593 name='Fackham Hall (2025)' candidates=1
+[12:51:56]   candidate upload_id=a46252a6ac151281 url=https://prehraj.to/fackham-hall-2025-1080p-bluray-x264-titulky-cz/a46252a6ac151281
+[12:52:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/fackham-hall-2025-1080p-bluray-x264-titulky-cz/a46252a6ac151281 (permanent=True)
+[12:52:02] film cr_film_id=18593 all candidates exhausted
+[12:52:02] batch-end ok=16 failed=4 dur=2668.6s avg/film=166.8s remaining=7352 eta_hours=340.6
