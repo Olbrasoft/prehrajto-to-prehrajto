@@ -44528,7 +44528,147 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bez-kalhot-xxl-cz-dabing-2015/ead2870028af096f",
       "permanent": true,
       "failed_at": "2026-06-21T19:52:50Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "611c4a55b720b",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-dumb-and-dumber-to-2014-1080p-x264-cz-dabing%2F611c4a55b720b (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951d7f0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-dumb-and-dumber-to-2014-1080p-x264-cz-dabing/611c4a55b720b",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:05:54Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "5c14c09d2bfeb",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-2014-hdrip-cz-dabing-m3%2F5c14c09d2bfeb (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951ec30>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-2014-hdrip-cz-dabing-m3/5c14c09d2bfeb",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:10:09Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "5bf87ecdf04cf",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-2014-hdrip-cz-dabing-m3%2F5bf87ecdf04cf (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951e840>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-2014-hdrip-cz-dabing-m3/5bf87ecdf04cf",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:14:23Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "55920dbf1f0ca",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-2014-cz-dabing-komedie%2F55920dbf1f0ca (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951cbc0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-2014-cz-dabing-komedie/55920dbf1f0ca",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:18:38Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "5f2cf119793df",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-2014-fullhd-czdabing%2F5f2cf119793df (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951d400>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-2014-fullhd-czdabing/5f2cf119793df",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:22:52Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "55ce314f58d73",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-dumb-and-dumber-2014-cz-dabing%2F55ce314f58d73 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951cb90>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-dumb-and-dumber-2014-cz-dabing/55ce314f58d73",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:27:07Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "582b11f36508f",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-2014-cz-dabing%2F582b11f36508f (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951e900>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-2014-cz-dabing/582b11f36508f",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:31:21Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "586e47b514814",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-2014-cz-dabing%2F586e47b514814 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951f2c0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-2014-cz-dabing/586e47b514814",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:35:36Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "5673d7606c93d",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fdumb-and-dumber-to-2014-480p-brrip-xvid-ac3-cz-dab%2F5673d7606c93d (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951f500>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/dumb-and-dumber-to-2014-480p-brrip-xvid-ac3-cz-dab/5673d7606c93d",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:39:50Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "56ec0ff7c204e",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fdumb-and-dumber-blby-a-blbsi-su-spat-2014-cesky-dabing%2F56ec0ff7c204e (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951e2d0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/dumb-and-dumber-blby-a-blbsi-su-spat-2014-cesky-dabing/56ec0ff7c204e",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:44:05Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "5a456fa7a2d7c",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-cz-dabing-2014%2F5a456fa7a2d7c (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f0699545340>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-cz-dabing-2014/5a456fa7a2d7c",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:48:19Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "580cee9b214c8",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-2014-cz-dabing%2F580cee9b214c8 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f06a06ecf50>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-2014-cz-dabing/580cee9b214c8",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:52:33Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "622673f571ce2",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-2014-fulhd-cz-dabing%2F622673f571ce2 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f06995449e0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-2014-fulhd-cz-dabing/622673f571ce2",
+      "permanent": false,
+      "failed_at": "2026-06-21T20:56:48Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "593c02791bcc7",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-cz-dabing-2014%2F593c02791bcc7 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951eea0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-cz-dabing-2014/593c02791bcc7",
+      "permanent": false,
+      "failed_at": "2026-06-21T21:01:02Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "55f335c865f67",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-dumb-and-dumber-2014-cz-dabing%2F55f335c865f67 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f0699545220>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-dumb-and-dumber-2014-cz-dabing/55f335c865f67",
+      "permanent": false,
+      "failed_at": "2026-06-21T21:05:17Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "5ea017bb1beba",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fnavrat-blbyho-a-blbejsiho-2014-720p-bluray-x264-dts-cz-4play%2F5ea017bb1beba (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951c980>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/navrat-blbyho-a-blbejsiho-2014-720p-bluray-x264-dts-cz-4play/5ea017bb1beba",
+      "permanent": false,
+      "failed_at": "2026-06-21T21:09:31Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "558bd236a0c44",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fblby-a-blbsi-su-spat-2014-cz-dabing-novinka%2F558bd236a0c44 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f0699544650>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/blby-a-blbsi-su-spat-2014-cz-dabing-novinka/558bd236a0c44",
+      "permanent": false,
+      "failed_at": "2026-06-21T21:13:46Z"
+    },
+    {
+      "cr_film_id": 7750,
+      "upload_id": "647b8ca55dc9b",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fblby-a-blbejsi-2-cz-2014-mirkodrizi%2F647b8ca55dc9b (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951d190>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/blby-a-blbejsi-2-cz-2014-mirkodrizi/647b8ca55dc9b",
+      "permanent": false,
+      "failed_at": "2026-06-21T21:18:00Z"
+    },
+    {
+      "cr_film_id": 7752,
+      "upload_id": "90ee53544d1d43aa",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fong-bak-2-pomsta-2005-cz-dabing-avi%2F90ee53544d1d43aa (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f0699544050>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/ong-bak-2-pomsta-2005-cz-dabing-avi/90ee53544d1d43aa",
+      "permanent": false,
+      "failed_at": "2026-06-21T21:22:15Z"
+    },
+    {
+      "cr_film_id": 7762,
+      "upload_id": "4a5997d6ed1e01e7",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fvejska-cr-2014%2F4a5997d6ed1e01e7 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f069951ddc0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/vejska-cr-2014/4a5997d6ed1e01e7",
+      "permanent": false,
+      "failed_at": "2026-06-21T21:26:30Z"
     }
   ],
-  "last_updated": "2026-06-21T20:01:03Z"
+  "last_updated": "2026-06-21T21:26:30Z"
 }
