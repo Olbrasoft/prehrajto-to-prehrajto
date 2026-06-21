@@ -16822,3 +16822,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [03:16:12]   upload done video_id=26189484 in 20.1s
 [03:16:13] film cr_film_id=15059 OK in 41.8s
 [03:16:13] batch-end ok=20 failed=0 dur=2324.1s avg/film=116.2s remaining=7545 eta_hours=243.5
+
+===== run 2026-06-21T03:28:40Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27892230878) =====
+[03:28:41] batch-start shard=1/2 count=20 backlog=10210 uploads=2665 failed_attempts=92 description_overrides=0
+[03:28:41] login
+[03:28:47] login done
+[03:28:47] iteration 1/20
+[03:28:47] film cr_film_id=31215 name="Halsey: If I Can't Have Love, I Want Power - Global Performance Experience (2021) SK Titulky" candidates=1
+[03:28:47]   candidate upload_id=8d79b636abd4aa54 url=https://prehraj.to/halsey-if-i-can-t-have-love-i-want-power-global-performance-experience-2021-en-sk-titulky-mp4/8d79b636abd4aa54
+[03:28:48]   resolved in 1.0s → 720p (https://pf-storage6.premiumcdn.net/169598509/WLOsWlS9BhakFQeCzAT04S4eFo6feRH4WTk…)
+[03:29:19]   downloaded 790.2 MB in 29.5s (26.8 MB/s)
+[03:29:51]   upload done video_id=26189761 in 31.7s
