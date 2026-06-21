@@ -50227,6 +50227,25 @@
         "download_sec": 18.8,
         "upload_sec": 24.8
       }
+    },
+    {
+      "cr_film_id": 31599,
+      "cr_slug": "ninja-s-force",
+      "title": "Ninja's Force",
+      "year": 1984,
+      "display_name": "Ninja's Force (1984) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "68cf546ee5e18",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26197563,
+      "size_bytes": 591359522,
+      "uploaded_at": "2026-06-21T10:03:57Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 21.6,
+        "upload_sec": 34.3
+      }
     }
   ],
   "failed_attempts": [
@@ -50899,5 +50918,5 @@
       "failed_at": "2026-06-21T01:44:57Z"
     }
   ],
-  "last_updated": "2026-06-21T10:02:57Z"
+  "last_updated": "2026-06-21T10:03:57Z"
 }
