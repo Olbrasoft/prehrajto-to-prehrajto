@@ -14759,3 +14759,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:35:28]   upload done video_id=26199153 in 106.8s
 [11:35:33] film cr_film_id=7799 OK in 202.9s
 [11:35:33] batch-end ok=19 failed=1 dur=2988.8s avg/film=157.3s remaining=15324 eta_hours=669.6
+
+===== run 2026-06-21T11:39:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27903118526) =====
+[11:39:41] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:39:41] batch-start shard=1/2 count=20 backlog=17650 uploads=2326 failed_attempts=209 description_overrides=17579
+[11:39:41] login
+[11:39:43] login done
+[11:39:43] iteration 1/20
+[11:39:43] film cr_film_id=7801 name='Mafia Mamma (2023) CZ Dabing' candidates=2
+[11:39:43]   candidate upload_id=d4cfeeda05dac3d6 url=https://prehraj.to/mafia-mamma-2023-cz-dabing-mp4/d4cfeeda05dac3d6
+[11:39:44]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/162150035/YQRHmWf16F0yINxcJyUj5fWNsA4CpxINYiA…)
+[11:50:08]   downloaded 2,658.6 MB in 622.5s (4.3 MB/s)
+[11:53:50]   upload done video_id=26199538 in 221.1s
