@@ -16531,3 +16531,20 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:44:12]   upload done video_id=26187360 in 57.8s
 [01:44:15] film cr_film_id=16495 OK in 108.6s
 [01:44:15] batch-end ok=19 failed=1 dur=3186.0s avg/film=167.7s remaining=7584 eta_hours=353.3
+
+===== run 2026-06-21T01:44:47Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27890026404) =====
+[01:44:47] batch-start shard=1/2 count=20 backlog=10210 uploads=2626 failed_attempts=91 description_overrides=0
+[01:44:47] login
+[01:44:53] login done
+[01:44:53] iteration 1/20
+[01:44:53] film cr_film_id=34421 name='Becoming Led Zeppelin (2025) SK Titulky' candidates=1
+[01:44:53]   candidate upload_id=15b4646da8103b2f url=https://prehraj.to/becoming-led-zeppelin-2025-cz-sk-titulky-mkv/15b4646da8103b2f
+[01:44:55]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/167989231/Xe5cV0Hjzin5sZYIjKf6XHO7tPNcOouyjup…)
+[01:44:57]   oversize: 8500809294 B > 6000000000 B, skip
+[01:44:57] film cr_film_id=34421 all candidates exhausted
+[01:44:57] iteration 2/20
+[01:44:57] film cr_film_id=16129 name='Un cuento de pescadores (2024) SK Titulky' candidates=1
+[01:44:57]   candidate upload_id=d91d1f11ae978c9d url=https://prehraj.to/un-cuento-de-pescadores-a-fishermen-s-tale-2024-sk-titulky/d91d1f11ae978c9d
+[01:45:01]   resolved in 4.4s → 1080p (https://pf-storage3.premiumcdn.net/156655493/65DF7xTdNI6YHMOsyNSjWTpgFmlCMnF7RIN…)
+[01:46:28]   downloaded 2,182.0 MB in 85.2s (25.6 MB/s)
+[01:48:29]   upload done video_id=26187424 in 120.7s

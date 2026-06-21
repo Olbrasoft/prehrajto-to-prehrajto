@@ -47054,6 +47054,25 @@
         "download_sec": 44.4,
         "upload_sec": 57.8
       }
+    },
+    {
+      "cr_film_id": 16129,
+      "cr_slug": "un-cuento-de-pescadores",
+      "title": "Un cuento de pescadores",
+      "year": 2024,
+      "display_name": "Un cuento de pescadores (2024) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "d91d1f11ae978c9d",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26187424,
+      "size_bytes": 2181952843,
+      "uploaded_at": "2026-06-21T01:48:29Z",
+      "timing": {
+        "resolve_sec": 4.4,
+        "download_sec": 85.2,
+        "upload_sec": 120.7
+      }
     }
   ],
   "failed_attempts": [
@@ -47717,7 +47736,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rivalove-akademie-rychlosti-2025-fr-sk-tit/4560a71d135b11d0",
       "permanent": true,
       "failed_at": "2026-06-21T01:17:31Z"
+    },
+    {
+      "cr_film_id": 34421,
+      "upload_id": "15b4646da8103b2f",
+      "reason": "oversize: 8500809294 B",
+      "permanent": true,
+      "failed_at": "2026-06-21T01:44:57Z"
     }
   ],
-  "last_updated": "2026-06-21T01:44:12Z"
+  "last_updated": "2026-06-21T01:48:29Z"
 }
