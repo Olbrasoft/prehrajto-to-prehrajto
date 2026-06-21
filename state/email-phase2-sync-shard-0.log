@@ -18837,3 +18837,28 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [22:08:58]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/138773306/Xr1T3mhr3U6Nsoeu6qIaGhvPsEDSXwhnJcG…)
 [22:13:59]   downloaded 2,512.9 MB in 286.0s (8.8 MB/s)
 [22:16:13]   upload done video_id=26216976 in 133.8s
+[22:16:15] film cr_film_id=36998 OK in 437.7s
+[22:16:15] iteration 13/20
+[22:16:15] film cr_film_id=27338 name='David (2025)' candidates=1
+[22:16:15]   candidate upload_id=c71013346ed4e3bb url=https://prehraj.to/david-2025/c71013346ed4e3bb
+[22:16:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/david-2025/c71013346ed4e3bb (permanent=True)
+[22:16:16] film cr_film_id=27338 all candidates exhausted
+[22:16:16] iteration 14/20
+[22:16:16] film cr_film_id=2154 name='Cukrkandl (2025)' candidates=5
+[22:16:16]   candidate upload_id=1ebaed2fdf25bda3 url=https://prehraj.to/cukrkandl-sugar-candy-2025-1080p-web-dl-cz-mp4/1ebaed2fdf25bda3
+[22:16:22]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/cukrkandl-sugar-candy-2025-1080p-web-dl-cz-mp4/1ebaed2fdf25bda3 (permanent=True)
+[22:16:22]   candidate upload_id=6c7504a4cac22f92 url=https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/6c7504a4cac22f92
+[22:16:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/6c7504a4cac22f92 (permanent=True)
+[22:16:30]   candidate upload_id=fc29d8c3af352614 url=https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/fc29d8c3af352614
+[22:16:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/fc29d8c3af352614 (permanent=True)
+[22:16:36]   candidate upload_id=cf1b85dfe3c8d845 url=https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/cf1b85dfe3c8d845
+[22:16:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/cf1b85dfe3c8d845 (permanent=True)
+[22:16:41]   candidate upload_id=d0ec3f0992b88285 url=https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/d0ec3f0992b88285
+[22:16:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cukrkandl-2025-pohadka-cz-sk-mp4/d0ec3f0992b88285 (permanent=True)
+[22:16:47] film cr_film_id=2154 all candidates exhausted
+[22:16:47] iteration 15/20
+[22:16:47] film cr_film_id=34388 name='Co s Péťou? (2025)' candidates=1
+[22:16:47]   candidate upload_id=662d2629db852431 url=https://prehraj.to/co-s-petou-2025-cz-mp4/662d2629db852431
+[22:16:53]   resolved in 5.8s → 1080p (https://pf-storage3.premiumcdn.net/156306815/WKzFamS5zsqmujKsGMtaZSk2I9ESbKCv3Ck…)
+[22:18:14]   downloaded 2,407.6 MB in 79.5s (30.3 MB/s)
+[22:20:05]   upload done video_id=26217041 in 111.2s
