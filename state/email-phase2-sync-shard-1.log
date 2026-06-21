@@ -19064,3 +19064,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [22:48:27]   resolved in 0.9s → 720p (https://pf-storage4.premiumcdn.net/143724948/KP7hA7Fomszaf5eCLeT2lFJZiGBU5rTnRua…)
 [22:49:17]   downloaded 1,743.6 MB in 47.9s (36.4 MB/s)
 [22:50:43]   upload done video_id=26217600 in 86.8s
+[22:50:45] film cr_film_id=17235 OK in 138.7s
+[22:50:45] iteration 9/20
+[22:50:45] film cr_film_id=15193 name='Wire Room (2022)' candidates=1
+[22:50:45]   candidate upload_id=b1cb069b842d75a8 url=https://prehraj.to/wire-room-2022-cz-dabing-mp4/b1cb069b842d75a8
+[22:50:46]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/wire-room-2022-cz-dabing-mp4/b1cb069b842d75a8 (permanent=True)
+[22:50:46] film cr_film_id=15193 all candidates exhausted
+[22:50:46] iteration 10/20
+[22:50:46] film cr_film_id=15793 name='Víkend v domě duchů (2022)' candidates=1
+[22:50:46]   candidate upload_id=81277174e0bf2f00 url=https://prehraj.to/tre-uomini-e-un-fantasma-web-dl-cz-2022-1080p-mp4/81277174e0bf2f00
+[22:50:52]   resolved in 5.9s → 1080p (https://pf-storage1.premiumcdn.net/163074263/Z0wFlnImBFK4fBDsomcWNIxAhOkuYRfq0Cx…)
+[22:51:38]   downloaded 1,319.9 MB in 44.1s (29.9 MB/s)
+[22:52:34]   upload done video_id=26217631 in 56.0s
