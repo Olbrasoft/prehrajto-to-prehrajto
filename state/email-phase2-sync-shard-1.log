@@ -18724,3 +18724,21 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [17:24:44]   upload done video_id=26209170 in 281.8s
 [17:24:46] film cr_film_id=18681 OK in 648.7s
 [17:24:46] batch-end ok=18 failed=2 dur=6593.1s avg/film=366.3s remaining=7298 eta_hours=742.6
+
+===== run 2026-06-21T17:40:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27912312576) =====
+[17:40:05] batch-start shard=1/2 count=20 backlog=10210 uploads=2912 failed_attempts=119 description_overrides=0
+[17:40:05] login
+[17:40:06] login done
+[17:40:06] iteration 1/20
+[17:40:06] film cr_film_id=8377 name='Aristokratka ve varu (2024)' candidates=2
+[17:40:06]   candidate upload_id=acff2c7d09501f1c url=https://prehraj.to/aristokratka-ve-varu-2024/acff2c7d09501f1c
+[17:40:07]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/aristokratka-ve-varu-2024/acff2c7d09501f1c (permanent=True)
+[17:40:07]   candidate upload_id=506a1c9d9a9c0b6a url=https://prehraj.to/aristokratka-ve-varu-2024/506a1c9d9a9c0b6a
+[17:40:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/aristokratka-ve-varu-2024/506a1c9d9a9c0b6a (permanent=True)
+[17:40:13] film cr_film_id=8377 all candidates exhausted
+[17:40:13] iteration 2/20
+[17:40:13] film cr_film_id=34301 name='Apartment 7A (2024)' candidates=1
+[17:40:13]   candidate upload_id=6844998cee640 url=https://prehraj.to/apartment-7-titulky-cz-2024/6844998cee640
+[17:40:19]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/139409999/NQdToOuvOtdGf5DCVDC7Bu8WcQXFG4idXig…)
+[17:40:57]   downloaded 1,056.8 MB in 36.5s (29.0 MB/s)
+[17:41:41]   upload done video_id=26209639 in 44.4s

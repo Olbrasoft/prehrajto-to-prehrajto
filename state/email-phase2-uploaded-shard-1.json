@@ -52488,6 +52488,25 @@
         "download_sec": 360.3,
         "upload_sec": 281.8
       }
+    },
+    {
+      "cr_film_id": 34301,
+      "cr_slug": "apartment-7a",
+      "title": "Apartment 7A",
+      "year": 2024,
+      "display_name": "Apartment 7A (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6844998cee640",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26209639,
+      "size_bytes": 1056834683,
+      "uploaded_at": "2026-06-21T17:41:41Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 36.5,
+        "upload_sec": 44.4
+      }
     }
   ],
   "failed_attempts": [
@@ -53347,7 +53366,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/heretik-cz-dabing/b0297bfddfe8a6a6",
       "permanent": true,
       "failed_at": "2026-06-21T15:55:17Z"
+    },
+    {
+      "cr_film_id": 8377,
+      "upload_id": "acff2c7d09501f1c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/aristokratka-ve-varu-2024/acff2c7d09501f1c",
+      "permanent": true,
+      "failed_at": "2026-06-21T17:40:07Z"
+    },
+    {
+      "cr_film_id": 8377,
+      "upload_id": "506a1c9d9a9c0b6a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/aristokratka-ve-varu-2024/506a1c9d9a9c0b6a",
+      "permanent": true,
+      "failed_at": "2026-06-21T17:40:13Z"
     }
   ],
-  "last_updated": "2026-06-21T17:24:44Z"
+  "last_updated": "2026-06-21T17:41:41Z"
 }
