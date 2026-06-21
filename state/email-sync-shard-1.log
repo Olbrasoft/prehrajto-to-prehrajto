@@ -14315,3 +14315,10 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:04:25]   resolved in 2.1s → 1080p (https://pf-storage1.premiumcdn.net/39235084/DVYUlpc0AUErHw4h4jcq5cqNhLEIr6sX3h32…)
 [08:06:53]   downloaded 2,833.8 MB in 145.9s (19.4 MB/s)
 [08:10:13]   upload done video_id=26195199 in 200.5s
+[08:10:23] film cr_film_id=7537 OK in 359.9s
+[08:10:23] iteration 20/20
+[08:10:23] film cr_film_id=7543 name='Tichý les (2022) CZ Dabing' candidates=1
+[08:10:23]   candidate upload_id=5ffc939ac16a54c3 url=https://prehraj.to/tichy-les-2022-cz-dabing/5ffc939ac16a54c3
+[08:10:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tichy-les-2022-cz-dabing/5ffc939ac16a54c3 (permanent=True)
+[08:10:23] film cr_film_id=7543 all candidates exhausted
+[08:10:23] batch-end ok=17 failed=3 dur=3479.2s avg/film=204.7s remaining=15382 eta_hours=874.6
