@@ -18979,3 +18979,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [22:09:46]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/101651597/Y37fAxcvAuEpu1LTzOTgRcaoFn9idQCrXCK…)
 [22:10:23]   downloaded 1,142.4 MB in 34.7s (32.9 MB/s)
 [22:11:05]   upload done video_id=26216925 in 42.1s
+[22:11:06] film cr_film_id=8413 OK in 80.7s
+[22:11:06] iteration 17/20
+[22:11:06] film cr_film_id=8673 name='Citlivý člověk (2023)' candidates=1
+[22:11:06]   candidate upload_id=8f67680ae3a05229 url=https://prehraj.to/citlivy-clovek-2023-cz/8f67680ae3a05229
+[22:11:07]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/citlivy-clovek-2023-cz/8f67680ae3a05229 (permanent=True)
+[22:11:07] film cr_film_id=8673 all candidates exhausted
+[22:11:07] iteration 18/20
+[22:11:07] film cr_film_id=15917 name='Centaur (2023)' candidates=2
+[22:11:07]   candidate upload_id=62aa308a93c3a url=https://prehraj.to/centaur-2022-1080p-web-dual-ddp-5-1-x264-wrczt/62aa308a93c3a
+[22:11:13]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/31223129/KjGHlXUVGsbztJKIXLs9MUqlCMmhLYSb3id1…)
+[22:12:14]   downloaded 1,718.8 MB in 59.8s (28.7 MB/s)
+[22:13:20]   upload done video_id=26216950 in 65.6s
