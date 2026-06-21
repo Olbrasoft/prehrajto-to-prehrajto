@@ -19068,3 +19068,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:39:51]   resolved in 2.5s → 720p (https://pf-storage1.premiumcdn.net/71678060/nOWs6oCvnFrGUe6slvcmOC7dIZxu4Ju0LFWD…)
 [23:40:53]   downloaded 1,646.2 MB in 60.0s (27.4 MB/s)
 [23:41:54]   upload done video_id=26218374 in 60.9s
+[23:41:55] film cr_film_id=5770 OK in 126.5s
+[23:41:55] iteration 4/20
+[23:41:55] film cr_film_id=2196 name='Nezlomní (2024)' candidates=1
+[23:41:55]   candidate upload_id=c1c3c8ed8ec53896 url=https://prehraj.to/nezlomni-arthur-the-king-webrip-cz-2024-1080p/c1c3c8ed8ec53896
+[23:41:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nezlomni-arthur-the-king-webrip-cz-2024-1080p/c1c3c8ed8ec53896 (permanent=True)
+[23:41:56] film cr_film_id=2196 all candidates exhausted
+[23:41:56] iteration 5/20
+[23:41:56] film cr_film_id=16010 name='Neomylní (2024)' candidates=1
+[23:41:56]   candidate upload_id=e4114f47bb91cf82 url=https://prehraj.to/neomylni-1080p/e4114f47bb91cf82
+[23:42:03]   resolved in 6.6s → 720p (https://pf-storage6.premiumcdn.net/170110519/Lo7SRNhywHXnijMfPqhR3hgPU4ri59ingfe…)
+[23:43:02]   downloaded 1,602.2 MB in 57.5s (27.9 MB/s)
+[23:44:09]   upload done video_id=26218407 in 67.2s
