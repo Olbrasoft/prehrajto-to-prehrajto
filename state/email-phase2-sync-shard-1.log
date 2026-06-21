@@ -19189,3 +19189,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [23:44:22]   resolved in 2.0s → 1080p (https://pf-storage4.premiumcdn.net/138971435/Ex5cWeu7Kh90CvEhebsMJuKpUR1iqAU3KtQ…)
 [23:46:46]   downloaded 1,997.4 MB in 142.6s (14.0 MB/s)
 [23:48:22]   upload done video_id=26218478 in 96.3s
+[23:48:24] film cr_film_id=7231 OK in 244.4s
+[23:48:24] iteration 6/20
+[23:48:24] film cr_film_id=36959 name='Stopy v písku (2022)' candidates=1
+[23:48:24]   candidate upload_id=ef874e5041351350 url=https://prehraj.to/stopy-v-pisku-2022-cz/ef874e5041351350
+[23:48:32]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/stopy-v-pisku-2022-cz/ef874e5041351350 (permanent=True)
+[23:48:32] film cr_film_id=36959 all candidates exhausted
+[23:48:32] iteration 7/20
+[23:48:32] film cr_film_id=3241 name='Sparta (2022)' candidates=1
+[23:48:32]   candidate upload_id=67c4114ca8eaa url=https://prehraj.to/sparta-2022-hd-cz-dab/67c4114ca8eaa
+[23:48:39]   resolved in 6.8s → 720p (https://pf-storage5.premiumcdn.net/131088905/k61I4jid1c2JfqJHzWfr6iNgs0WcRbfW5f2…)
+[23:49:24]   downloaded 1,203.4 MB in 43.2s (27.9 MB/s)
+[23:50:29]   upload done video_id=26218526 in 65.2s
