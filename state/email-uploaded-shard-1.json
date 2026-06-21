@@ -41540,6 +41540,25 @@
         "download_sec": 62.6,
         "upload_sec": 95.0
       }
+    },
+    {
+      "cr_film_id": 7855,
+      "cr_slug": "klic-svateho-petra",
+      "title": "Klíč svatého Petra",
+      "year": 2023,
+      "display_name": "Klíč svatého Petra (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65f76d594902b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26200923,
+      "size_bytes": 1534460688,
+      "uploaded_at": "2026-06-21T12:45:16Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 62.0,
+        "upload_sec": 77.3
+      }
     }
   ],
   "failed_attempts": [
@@ -43061,7 +43080,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ve-vztahu-2018-cz-dabing/3625e604cf0523cc",
       "permanent": true,
       "failed_at": "2026-06-21T12:37:17Z"
+    },
+    {
+      "cr_film_id": 7853,
+      "upload_id": "2fa957c14dcde985",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atelier-smrti-2023-cz-dab-1080p/2fa957c14dcde985",
+      "permanent": true,
+      "failed_at": "2026-06-21T12:42:43Z"
+    },
+    {
+      "cr_film_id": 7853,
+      "upload_id": "97e8927a9d4e51a1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atelier-smrti-2023-cz-dab-1080p-mp4/97e8927a9d4e51a1",
+      "permanent": true,
+      "failed_at": "2026-06-21T12:42:49Z"
     }
   ],
-  "last_updated": "2026-06-21T12:42:39Z"
+  "last_updated": "2026-06-21T12:45:16Z"
 }
