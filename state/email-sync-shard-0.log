@@ -13404,3 +13404,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:59:43]   upload done video_id=26187668 in 91.0s
 [01:59:48] film cr_film_id=6702 OK in 164.0s
 [01:59:48] batch-end ok=20 failed=0 dur=3078.2s avg/film=153.9s remaining=15482 eta_hours=661.9
+
+===== run 2026-06-21T02:00:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27890343069) =====
+[02:00:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:00:27] batch-start shard=0/2 count=20 backlog=17650 uploads=2168 failed_attempts=202 description_overrides=17579
+[02:00:27] login
+[02:00:30] login done
+[02:00:30] iteration 1/20
+[02:00:30] film cr_film_id=6704 name='Wer (2013) CZ Dabing' candidates=1
+[02:00:30]   candidate upload_id=67f292b23dd16 url=https://prehraj.to/wer-2013-novinka-cz-dabing-horor-vyborna-kvalita/67f292b23dd16
+[02:00:31]   resolved in 1.3s → 480p (https://pf-storage4.premiumcdn.net/134328134/d6acr6HZ7cy7uDbFKnUlaHrBi7vInBf9yUk…)
+[02:00:59]   downloaded 536.6 MB in 26.2s (20.5 MB/s)
+[02:01:33]   upload done video_id=26187759 in 34.1s
