@@ -48345,6 +48345,25 @@
         "download_sec": 74.3,
         "upload_sec": 111.6
       }
+    },
+    {
+      "cr_film_id": 16364,
+      "cr_slug": "lookout",
+      "title": "Lookout",
+      "year": 2025,
+      "display_name": "Lookout (2025) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "68c82ce461145",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26191922,
+      "size_bytes": 1995347728,
+      "uploaded_at": "2026-06-21T05:16:31Z",
+      "timing": {
+        "resolve_sec": 9.3,
+        "download_sec": 81.9,
+        "upload_sec": 155.8
+      }
     }
   ],
   "failed_attempts": [
@@ -48964,7 +48983,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/heart-eyes-2025-sktit-1080p/f37d3447bedf9331",
       "permanent": true,
       "failed_at": "2026-06-21T05:09:01Z"
+    },
+    {
+      "cr_film_id": 9842,
+      "upload_id": "68557cd4d2081",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rosario-prokleti-2025-sk-titulky-v-obraze/68557cd4d2081",
+      "permanent": true,
+      "failed_at": "2026-06-21T05:12:22Z"
     }
   ],
-  "last_updated": "2026-06-21T05:12:15Z"
+  "last_updated": "2026-06-21T05:16:31Z"
 }
