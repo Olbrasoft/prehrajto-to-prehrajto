@@ -47034,6 +47034,25 @@
         "download_sec": 34.2,
         "upload_sec": 98.5
       }
+    },
+    {
+      "cr_film_id": 12950,
+      "cr_slug": "pokemon-3",
+      "title": "Pokémon 3",
+      "year": 2000,
+      "display_name": "Pokémon 3 (2000) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "60e6168b89e01",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26188014,
+      "size_bytes": 752444208,
+      "uploaded_at": "2026-06-21T02:09:49Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 37.5,
+        "upload_sec": 59.6
+      }
     }
   ],
   "failed_attempts": [
@@ -47641,5 +47660,5 @@
       "failed_at": "2026-06-20T15:49:52Z"
     }
   ],
-  "last_updated": "2026-06-21T02:08:06Z"
+  "last_updated": "2026-06-21T02:09:49Z"
 }
