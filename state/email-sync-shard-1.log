@@ -13325,3 +13325,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:11:19]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/3324336/qlEc8GTzKFEdF3et6qfGYTXJCkPIBRhKbFWds…)
 [01:11:38]   downloaded 441.7 MB in 17.1s (25.8 MB/s)
 [01:11:56]   upload done video_id=26186751 in 18.7s
+[01:11:59] film cr_film_id=6983 OK in 40.8s
+[01:11:59] iteration 4/20
+[01:11:59] film cr_film_id=6985 name='Který je ten pravý? (2017) CZ' candidates=1
+[01:11:59]   candidate upload_id=fa65b0a36b2ee098 url=https://prehraj.to/ktery-je-ten-pravy-2017-cz-dabing-mp4/fa65b0a36b2ee098
+[01:12:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ktery-je-ten-pravy-2017-cz-dabing-mp4/fa65b0a36b2ee098 (permanent=True)
+[01:12:00] film cr_film_id=6985 all candidates exhausted
+[01:12:00] iteration 5/20
+[01:12:00] film cr_film_id=6987 name='Trable o Vánocích (2015) CZ Dabing' candidates=5
+[01:12:00]   candidate upload_id=5ff1dd5f47ff8 url=https://prehraj.to/trable-o-vanocich-cz-dabing-2015-vanocni-film-fullhd/5ff1dd5f47ff8
+[01:12:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/trable-o-vanocich-cz-dabing-2015-vanocni-film-fullhd/5ff1dd5f47ff8 (permanent=True)
+[01:12:05]   candidate upload_id=58aad97b2124a url=https://prehraj.to/trable-o-vanocich-cz-dab-2015/58aad97b2124a
+[01:12:11]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/1724306/jPQS2dTpGc4bUpYirzI42TAzFZQuBGsYGHLRI…)
+[01:13:18]   downloaded 1,827.0 MB in 65.4s (27.9 MB/s)
+[01:14:32]   upload done video_id=26186774 in 74.7s
