@@ -17566,3 +17566,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [09:54:06]   upload done video_id=26197420 in 34.9s
 [09:54:10] film cr_film_id=30724 OK in 96.1s
 [09:54:10] batch-end ok=20 failed=0 dur=4067.9s avg/film=203.4s remaining=7431 eta_hours=419.9
+
+===== run 2026-06-21T09:54:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27900680174) =====
+[09:54:45] batch-start shard=0/2 count=20 backlog=10210 uploads=2779 failed_attempts=87 description_overrides=0
+[09:54:45] login
+[09:54:46] login done
+[09:54:46] iteration 1/20
+[09:54:46] film cr_film_id=29724 name='Tumbbad (2018) SK Titulky' candidates=1
+[09:54:46]   candidate upload_id=5c4a2642c9dc4 url=https://prehraj.to/tumbbad-sk-titulky-2018/5c4a2642c9dc4
+[09:54:47]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/11289379/LWyfwquXYUD7HoPtOLSlaua3tMLIrdFwlHm7…)
+[09:55:11]   downloaded 565.9 MB in 22.0s (25.7 MB/s)
+[09:55:40]   upload done video_id=26197442 in 29.5s
