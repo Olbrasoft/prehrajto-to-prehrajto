@@ -50340,6 +50340,25 @@
         "download_sec": 58.8,
         "upload_sec": 72.1
       }
+    },
+    {
+      "cr_film_id": 30606,
+      "cr_slug": "hostile",
+      "title": "Hostile",
+      "year": 2017,
+      "display_name": "Hostile (2017) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "5afb229884fa1",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26198116,
+      "size_bytes": 373971013,
+      "uploaded_at": "2026-06-21T10:34:19Z",
+      "timing": {
+        "resolve_sec": 2.1,
+        "download_sec": 23.4,
+        "upload_sec": 26.6
+      }
     }
   ],
   "failed_attempts": [
@@ -50968,5 +50987,5 @@
       "failed_at": "2026-06-21T05:12:22Z"
     }
   ],
-  "last_updated": "2026-06-21T10:33:17Z"
+  "last_updated": "2026-06-21T10:34:19Z"
 }
