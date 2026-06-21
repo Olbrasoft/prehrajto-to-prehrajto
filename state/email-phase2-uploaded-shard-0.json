@@ -49352,6 +49352,25 @@
         "download_sec": 192.2,
         "upload_sec": 236.8
       }
+    },
+    {
+      "cr_film_id": 17048,
+      "cr_slug": "they-reach",
+      "title": "They Reach",
+      "year": 2020,
+      "display_name": "They Reach (2020) SK Titulky",
+      "preferred_lang_class": "SK_SUB",
+      "src_upload_id": "68a58692cec96",
+      "src_lang_class": "SK_SUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26195442,
+      "size_bytes": 550287854,
+      "uploaded_at": "2026-06-21T08:18:02Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 210.4,
+        "upload_sec": 51.7
+      }
     }
   ],
   "failed_attempts": [
@@ -49980,5 +49999,5 @@
       "failed_at": "2026-06-21T05:12:22Z"
     }
   ],
-  "last_updated": "2026-06-21T08:13:26Z"
+  "last_updated": "2026-06-21T08:18:02Z"
 }
