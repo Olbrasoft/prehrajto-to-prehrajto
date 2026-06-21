@@ -14010,3 +14010,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:07:40]   upload done video_id=26192981 in 50.2s
 [06:07:43] film cr_film_id=7048 OK in 83.1s
 [06:07:43] batch-end ok=20 failed=0 dur=1859.4s avg/film=93.0s remaining=15404 eta_hours=397.9
+
+===== run 2026-06-21T06:19:24Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27895774639) =====
+[06:19:26] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:19:26] batch-start shard=0/2 count=20 backlog=17650 uploads=2246 failed_attempts=215 description_overrides=17579
+[06:19:26] login
+[06:19:28] login done
+[06:19:28] iteration 1/20
+[06:19:28] film cr_film_id=7052 name='Pýcha, předsudek a zombie (2016) CZ Dabing' candidates=15
+[06:19:28]   candidate upload_id=5b53289d51e22 url=https://prehraj.to/pycha-predsudek-a-zombie-2016-hdrip-cz-dabing-m3/5b53289d51e22
+[06:19:30]   resolved in 1.7s → 720p (https://pf-storage2.premiumcdn.net/4944376/75dTweUmKCGPcbJFyGIAaUB8s1XCgyuA7s4Xi…)
+[06:20:45]   downloaded 1,631.7 MB in 72.8s (22.4 MB/s)
+[06:22:22]   upload done video_id=26193211 in 97.1s
