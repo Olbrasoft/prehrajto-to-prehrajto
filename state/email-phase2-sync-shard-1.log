@@ -18824,3 +18824,21 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [20:31:10]   resolved in 0.9s → 720p (https://pf-storage3.premiumcdn.net/30815993/lenHyoUQkI6pIvafYluamUqOcn5hPrHLpT3A…)
 [20:37:16]   downloaded 994.0 MB in 364.7s (2.7 MB/s)
 [20:37:51]   upload done video_id=26215645 in 35.7s
+[20:37:53] film cr_film_id=6775 OK in 404.1s
+[20:37:53] iteration 15/20
+[20:37:53] film cr_film_id=16089 name='Oči pevně zavřené (2023)' candidates=1
+[20:37:53]   candidate upload_id=689db64a7fde4 url=https://prehraj.to/oci-pevne-zavrene-2023-sk/689db64a7fde4
+[20:37:54]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/143609357/AL4umZTj2FxLsqPhzjfplT5VIn8swmcAlij…)
+[20:59:57]   download FAILED after 1321.4s: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds
+[20:59:57] film cr_film_id=16089 all candidates exhausted
+[20:59:57] iteration 16/20
+[20:59:57] film cr_film_id=9483 name='ONEMANSHOW: The Movie (2023)' candidates=1
+[20:59:57]   candidate upload_id=119ce071484332ff url=https://prehraj.to/onemanshow-the-movie-2023-cz-mp4/119ce071484332ff
+[20:59:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/onemanshow-the-movie-2023-cz-mp4/119ce071484332ff (permanent=True)
+[20:59:58] film cr_film_id=9483 all candidates exhausted
+[20:59:58] iteration 17/20
+[20:59:58] film cr_film_id=6805 name='Nightwatch: Demons Are Forever (2023)' candidates=2
+[20:59:58]   candidate upload_id=678a2765eeaed url=https://prehraj.to/nightwatch-demons-are-forever-2023-1080p-bluray-danish-ac3-x264-cz-tit/678a2765eeaed
+[21:00:04]   resolved in 6.6s → 720p (https://pf-storage5.premiumcdn.net/127661477/gRyfdAUaJFoWSJPckvc3vUWdFb6TXBTypCJ…)
+[21:13:21]   downloaded 1,564.1 MB in 795.4s (2.0 MB/s)
+[21:14:36]   upload done video_id=26216137 in 74.8s
