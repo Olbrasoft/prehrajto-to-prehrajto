@@ -19208,3 +19208,12 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [23:50:32]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/43306508/G7btaGuEqfpzT7jHyEh86uvbSoGT52c2Kij8…)
 [23:51:26]   downloaded 1,441.3 MB in 52.3s (27.6 MB/s)
 [23:52:31]   upload done video_id=26218559 in 65.8s
+[23:52:33] film cr_film_id=7881 OK in 122.3s
+[23:52:33] iteration 9/20
+[23:52:33] film cr_film_id=5003 name='Smrt na Nilu (2022)' candidates=2
+[23:52:33]   candidate upload_id=e7328343119832d8 url=https://prehraj.to/smrt-na-nilu-death-on-the-nile-hd-cz-2022-avi/e7328343119832d8
+[23:52:33]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smrt-na-nilu-death-on-the-nile-hd-cz-2022-avi/e7328343119832d8 (permanent=True)
+[23:52:33]   candidate upload_id=ccdeb318c9bde9cd url=https://prehraj.to/smrt-na-nilu-death-on-the-nile-hd-cz-2022/ccdeb318c9bde9cd
+[23:52:39]   resolved in 5.9s → 480p (https://pf-storage6.premiumcdn.net/171096272/o1aIEQc5DHzySjGHpZUPncwBCbEClZFbBuL…)
+[23:53:11]   downloaded 1,023.0 MB in 30.5s (33.5 MB/s)
+[23:54:01]   upload done video_id=26218594 in 49.1s

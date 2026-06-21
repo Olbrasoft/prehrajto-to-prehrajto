@@ -53514,6 +53514,25 @@
         "download_sec": 52.3,
         "upload_sec": 65.8
       }
+    },
+    {
+      "cr_film_id": 5003,
+      "cr_slug": "smrt-na-nilu",
+      "title": "Smrt na Nilu",
+      "year": 2022,
+      "display_name": "Smrt na Nilu (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "ccdeb318c9bde9cd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26218594,
+      "size_bytes": 1022977263,
+      "uploaded_at": "2026-06-21T23:54:01Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 30.5,
+        "upload_sec": 49.1
+      }
     }
   ],
   "failed_attempts": [
@@ -54521,7 +54540,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/stopy-v-pisku-2022-cz/ef874e5041351350",
       "permanent": true,
       "failed_at": "2026-06-21T23:48:32Z"
+    },
+    {
+      "cr_film_id": 5003,
+      "upload_id": "e7328343119832d8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smrt-na-nilu-death-on-the-nile-hd-cz-2022-avi/e7328343119832d8",
+      "permanent": true,
+      "failed_at": "2026-06-21T23:52:33Z"
     }
   ],
-  "last_updated": "2026-06-21T23:52:31Z"
+  "last_updated": "2026-06-21T23:54:01Z"
 }
