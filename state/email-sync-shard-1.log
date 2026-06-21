@@ -15180,3 +15180,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:39:18]   resolved in 3.2s → 720p (https://pf-storage5.premiumcdn.net/14930722/vZdtzqcXmTOVc7QFKRigNcQEH2pigXHPZC7A…)
 [15:40:01]   downloaded 923.1 MB in 41.0s (22.5 MB/s)
 [15:40:55]   upload done video_id=26206427 in 54.1s
+[15:40:57] film cr_film_id=8019 OK in 102.2s
+[15:40:57] iteration 19/20
+[15:40:57] film cr_film_id=8021 name='Pobřežní hlídka (2017) CZ Dabing' candidates=15
+[15:40:57]   candidate upload_id=678df284506ad url=https://prehraj.to/pobrezni-hlidka-2017-cz-dab-1080p/678df284506ad
+[15:40:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pobrezni-hlidka-2017-cz-dab-1080p/678df284506ad (permanent=True)
+[15:40:58]   candidate upload_id=67f7b69c51c60 url=https://prehraj.to/pobrezni-hlidka-2017-cz-dab-1080p/67f7b69c51c60
+[15:41:04]   resolved in 6.1s → 720p (https://pf-storage5.premiumcdn.net/134667011/pzbs4AHXlIM1sqVhkgcGqHwRSavCyPcwxub…)
+[15:43:53]   downloaded 2,407.8 MB in 167.3s (14.4 MB/s)
+[15:46:19]   upload done video_id=26206495 in 145.8s
