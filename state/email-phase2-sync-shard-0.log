@@ -18002,3 +18002,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [11:38:21]   upload done video_id=26199249 in 29.1s
 [11:38:24] film cr_film_id=28390 OK in 53.7s
 [11:38:24] batch-end ok=20 failed=0 dur=1614.5s avg/film=80.7s remaining=7372 eta_hours=165.3
+
+===== run 2026-06-21T12:07:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27903808466) =====
+[12:07:29] batch-start shard=0/2 count=20 backlog=10210 uploads=2838 failed_attempts=88 description_overrides=0
+[12:07:29] login
+[12:07:34] login done
+[12:07:34] iteration 1/20
+[12:07:34] film cr_film_id=28258 name='Ironclad 2: Battle for Blood (2014) SK Titulky' candidates=5
+[12:07:34]   candidate upload_id=55d5ff84a8dd9 url=https://prehraj.to/ironclad-battle-for-blood-2014-sk-tit-akc-dobrodr-koko/55d5ff84a8dd9
+[12:07:35]   resolved in 1.6s → 480p (https://pf-storage2.premiumcdn.net/214059/vkKFZ3sJdi32sk8uD2IrXs5dC7rF8RFjvhgPTQ…)
+[12:08:39]   downloaded 1,168.9 MB in 60.9s (19.2 MB/s)
+[12:10:31]   upload done video_id=26199857 in 112.4s
