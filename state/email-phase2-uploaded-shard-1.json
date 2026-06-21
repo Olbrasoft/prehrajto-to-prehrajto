@@ -51063,6 +51063,25 @@
         "download_sec": 177.6,
         "upload_sec": 134.2
       }
+    },
+    {
+      "cr_film_id": 29903,
+      "cr_slug": "prime-2025",
+      "title": "Prime",
+      "year": 2025,
+      "display_name": "Prime (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "b75eddf0d17d82cb",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26199596,
+      "size_bytes": 152871752,
+      "uploaded_at": "2026-06-21T11:53:03Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 8.6,
+        "upload_sec": 11.0
+      }
     }
   ],
   "failed_attempts": [
@@ -51756,5 +51775,5 @@
       "failed_at": "2026-06-21T10:39:08Z"
     }
   ],
-  "last_updated": "2026-06-21T11:52:35Z"
+  "last_updated": "2026-06-21T11:53:03Z"
 }
