@@ -15049,3 +15049,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:18:39]   upload done video_id=26203547 in 87.2s
 [14:18:44] film cr_film_id=7941 OK in 255.2s
 [14:18:44] batch-end ok=19 failed=1 dur=4409.8s avg/film=232.1s remaining=15287 eta_hours=985.6
+
+===== run 2026-06-21T14:37:20Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27907627813) =====
+[14:37:22] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:37:22] batch-start shard=1/2 count=20 backlog=17650 uploads=2363 failed_attempts=213 description_overrides=17579
+[14:37:22] login
+[14:37:26] login done
+[14:37:26] iteration 1/20
+[14:37:26] film cr_film_id=7943 name='Willyho kouzelný svět (2021) CZ Dabing' candidates=6
+[14:37:26]   candidate upload_id=60d863ca51bc4 url=https://prehraj.to/willyho-kouzelny-svet-willys-wonderland-2021-1080p-bluray-ac3-cz-dab/60d863ca51bc4
+[14:37:27]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/24059280/ykpfwpsQBFDpF5XHXohx5s1qHjkIE0tkMuP6…)
+[14:38:35]   downloaded 1,480.6 MB in 65.4s (22.6 MB/s)
+[14:40:31]   upload done video_id=26204385 in 115.9s
