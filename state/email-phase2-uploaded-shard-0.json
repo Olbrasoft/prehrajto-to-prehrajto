@@ -52316,6 +52316,25 @@
         "download_sec": 1036.0,
         "upload_sec": 42.7
       }
+    },
+    {
+      "cr_film_id": 26456,
+      "cr_slug": "the-mannequin",
+      "title": "The Mannequin",
+      "year": 2025,
+      "display_name": "The Mannequin (2025)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68f5146c32bff",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26208351,
+      "size_bytes": 1245047740,
+      "uploaded_at": "2026-06-21T16:53:08Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 544.0,
+        "upload_sec": 49.9
+      }
     }
   ],
   "failed_attempts": [
@@ -53007,5 +53026,5 @@
       "failed_at": "2026-06-21T16:11:56Z"
     }
   ],
-  "last_updated": "2026-06-21T16:43:08Z"
+  "last_updated": "2026-06-21T16:53:08Z"
 }
