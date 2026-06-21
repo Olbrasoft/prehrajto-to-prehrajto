@@ -46692,6 +46692,25 @@
         "download_sec": 15.0,
         "upload_sec": 15.1
       }
+    },
+    {
+      "cr_film_id": 15466,
+      "cr_slug": "viditelny-svet",
+      "title": "Viditelný svět",
+      "year": 2011,
+      "display_name": "Viditelný svět (2011) SK Dabing",
+      "preferred_lang_class": "SK_DUB",
+      "src_upload_id": "6136b5afa0d58",
+      "src_lang_class": "SK_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26186705,
+      "size_bytes": 1947390237,
+      "uploaded_at": "2026-06-21T01:10:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 53.7,
+        "upload_sec": 99.7
+      }
     }
   ],
   "failed_attempts": [
@@ -47299,5 +47318,5 @@
       "failed_at": "2026-06-20T15:49:52Z"
     }
   ],
-  "last_updated": "2026-06-21T01:07:34Z"
+  "last_updated": "2026-06-21T01:10:11Z"
 }
