@@ -17420,3 +17420,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [08:45:31]   upload done video_id=26196086 in 105.3s
 [08:45:43] film cr_film_id=26204 OK in 410.6s
 [08:45:43] batch-end ok=20 failed=0 dur=4389.6s avg/film=219.5s remaining=7451 eta_hours=454.3
+
+===== run 2026-06-21T08:46:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27899081016) =====
+[08:46:21] batch-start shard=0/2 count=20 backlog=10210 uploads=2759 failed_attempts=87 description_overrides=0
+[08:46:21] login
+[08:46:22] login done
+[08:46:22] iteration 1/20
+[08:46:22] film cr_film_id=30726 name='Tobol (2019) SK Titulky' candidates=8
+[08:46:22]   candidate upload_id=60de3b2156032 url=https://prehraj.to/tobol-sk-titulky/60de3b2156032
+[08:46:25]   resolved in 2.3s → 480p (https://pf-storage3.premiumcdn.net/24119292/rzBcDWTzdF9KHP8u0likgTABu0xHLyIK9ujV…)
+[08:48:15]   downloaded 1,333.5 MB in 108.1s (12.3 MB/s)
+[08:49:57]   upload done video_id=26196152 in 102.3s
