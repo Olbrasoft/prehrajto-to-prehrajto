@@ -14322,3 +14322,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:10:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tichy-les-2022-cz-dabing/5ffc939ac16a54c3 (permanent=True)
 [08:10:23] film cr_film_id=7543 all candidates exhausted
 [08:10:23] batch-end ok=17 failed=3 dur=3479.2s avg/film=204.7s remaining=15382 eta_hours=874.6
+
+===== run 2026-06-21T08:38:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27898886670) =====
+[08:38:04] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:38:04] batch-start shard=1/2 count=20 backlog=17650 uploads=2268 failed_attempts=207 description_overrides=17579
+[08:38:04] login
+[08:38:06] login done
+[08:38:06] iteration 1/20
+[08:38:06] film cr_film_id=7545 name='Infiesto (2023) CZ Dabing' candidates=1
+[08:38:06]   candidate upload_id=63e11d902175d url=https://prehraj.to/infiesto-2023-cz-dabing-filmy-od-m-t/63e11d902175d
+[08:38:07]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/37111243/rw9HmviE3fmBs7EF12Ij4iMOInjsbnTKLsD8…)
+[08:39:33]   downloaded 2,011.0 MB in 83.6s (24.1 MB/s)
+[08:41:10]   upload done video_id=26196016 in 97.7s
