@@ -18148,3 +18148,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:02:28]   upload done video_id=26201449 in 128.3s
 [13:02:33] film cr_film_id=26482 OK in 233.8s
 [13:02:33] batch-end ok=20 failed=0 dur=3298.6s avg/film=164.9s remaining=7352 eta_hours=336.8
+
+===== run 2026-06-21T13:03:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27905197798) =====
+[13:03:10] batch-start shard=0/2 count=20 backlog=10210 uploads=2858 failed_attempts=88 description_overrides=0
+[13:03:10] login
+[13:03:11] login done
+[13:03:11] iteration 1/20
+[13:03:11] film cr_film_id=14388 name='Aladin (2009) SK Titulky' candidates=5
+[13:03:11]   candidate upload_id=5f57adb2d60dc url=https://prehraj.to/aladin-2009-sktitulky/5f57adb2d60dc
+[13:03:13]   resolved in 1.7s → 480p (https://pf-storage1.premiumcdn.net/18506607/n87HWRc9OujVTbxUqxFa2cqAIW9SxahP8HG7…)
+[13:04:31]   downloaded 1,986.0 MB in 76.2s (26.1 MB/s)
+[13:06:58]   upload done video_id=26201578 in 146.9s
