@@ -13563,3 +13563,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:10:04]   upload done video_id=26189250 in 176.9s
 [03:10:09] film cr_film_id=6786 OK in 298.9s
 [03:10:09] batch-end ok=19 failed=1 dur=4179.4s avg/film=220.0s remaining=15463 eta_hours=945.0
+
+===== run 2026-06-21T03:10:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27891845394) =====
+[03:10:46] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:10:46] batch-start shard=0/2 count=20 backlog=17650 uploads=2187 failed_attempts=210 description_overrides=17579
+[03:10:46] login
+[03:10:48] login done
+[03:10:48] iteration 1/20
+[03:10:48] film cr_film_id=6788 name='Vražda hrou (2024) CZ Dabing' candidates=5
+[03:10:48]   candidate upload_id=68e58c6b54722 url=https://prehraj.to/vrazda-hrou-2024-akcni-cz-dabing-spickova-kvalita-1080p-by-nexsus/68e58c6b54722
+[03:10:49]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/150324090/bGzum0S7LfGACenuK7tpBS5Xu04Ulpcz4iL…)
+[03:11:31]   downloaded 1,468.0 MB in 40.9s (35.9 MB/s)
+[03:12:51]   upload done video_id=26189374 in 79.5s
