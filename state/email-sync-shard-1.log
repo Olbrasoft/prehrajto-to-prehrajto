@@ -14369,3 +14369,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:51:21]   resolved in 2.0s → 1080p (https://pf-storage3.premiumcdn.net/132190205/2K7S7ouKntngUpNHq2IayueAIR6CpjUDEhz…)
 [08:55:01]   downloaded 1,628.3 MB in 218.4s (7.5 MB/s)
 [08:56:21]   upload done video_id=26196267 in 80.4s
+[08:56:30] film cr_film_id=7561 OK in 311.6s
+[08:56:30] iteration 7/20
+[08:56:30] film cr_film_id=7563 name='Betlémské světlo (2022) CZ' candidates=1
+[08:56:30]   candidate upload_id=2e16a80e3095a341 url=https://prehraj.to/betlemske-svetlo-2022-cr/2e16a80e3095a341
+[08:56:31]   resolve FAILED: upload not found (404): https://prehraj.to/betlemske-svetlo-2022-cr/2e16a80e3095a341 (permanent=True)
+[08:56:31] film cr_film_id=7563 all candidates exhausted
+[08:56:31] iteration 8/20
+[08:56:31] film cr_film_id=7567 name='Jay a mlčenlivý Bob: Přeprc (2019) CZ Dabing' candidates=1
+[08:56:31]   candidate upload_id=6481916b64db6 url=https://prehraj.to/jay-a-mlcenlivy-bob-preprc-2019-fullhd-czdabing/6481916b64db6
+[08:56:38]   resolved in 6.2s → 720p (https://pf-storage5.premiumcdn.net/41452480/EVNuZ0fWlhKMsy1Sn8FmjfgbSX1FRgIJ4T8Y…)
+[08:57:50]   downloaded 1,989.3 MB in 70.4s (28.3 MB/s)
+[08:59:30]   upload done video_id=26196322 in 99.9s
