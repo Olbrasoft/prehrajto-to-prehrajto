@@ -43725,6 +43725,25 @@
         "download_sec": 23.3,
         "upload_sec": 27.1
       }
+    },
+    {
+      "cr_film_id": 8345,
+      "cr_slug": "jessabelle",
+      "title": "Jessabelle",
+      "year": 2014,
+      "display_name": "Jessabelle (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5dd924fa962d3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26218328,
+      "size_bytes": 478003087,
+      "uploaded_at": "2026-06-21T23:37:29Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.7,
+        "upload_sec": 25.1
+      }
     }
   ],
   "failed_attempts": [
@@ -45353,5 +45372,5 @@
       "failed_at": "2026-06-21T21:53:21Z"
     }
   ],
-  "last_updated": "2026-06-21T23:36:41Z"
+  "last_updated": "2026-06-21T23:37:29Z"
 }
