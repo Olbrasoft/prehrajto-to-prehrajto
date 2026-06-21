@@ -51994,6 +51994,25 @@
         "download_sec": 75.6,
         "upload_sec": 97.8
       }
+    },
+    {
+      "cr_film_id": 4909,
+      "cr_slug": "mads",
+      "title": "MadS",
+      "year": 2024,
+      "display_name": "MadS (2024)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "672913f79e404",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26205175,
+      "size_bytes": 1354237371,
+      "uploaded_at": "2026-06-21T15:04:55Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 44.5,
+        "upload_sec": 95.7
+      }
     }
   ],
   "failed_attempts": [
@@ -52776,7 +52795,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/transformers-jedna-2024-4k/6717e87ca779e",
       "permanent": true,
       "failed_at": "2026-06-21T13:44:47Z"
+    },
+    {
+      "cr_film_id": 9949,
+      "upload_id": "801c8258dcecfd5d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/matka-v-trapu-webrip-cz-2024-1080p/801c8258dcecfd5d",
+      "permanent": true,
+      "failed_at": "2026-06-21T15:02:27Z"
     }
   ],
-  "last_updated": "2026-06-21T15:02:25Z"
+  "last_updated": "2026-06-21T15:04:55Z"
 }
