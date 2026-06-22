@@ -46898,6 +46898,25 @@
         "download_sec": 16.4,
         "upload_sec": 26.0
       }
+    },
+    {
+      "cr_film_id": 9121,
+      "cr_slug": "tokarev",
+      "title": "Tokarev",
+      "year": 2014,
+      "display_name": "Tokarev (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59ab51bf67d2f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26227381,
+      "size_bytes": 1842309517,
+      "uploaded_at": "2026-06-22T07:42:06Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 77.4,
+        "upload_sec": 100.1
+      }
     }
   ],
   "failed_attempts": [
@@ -48649,5 +48668,5 @@
       "failed_at": "2026-06-22T07:23:45Z"
     }
   ],
-  "last_updated": "2026-06-22T07:39:03Z"
+  "last_updated": "2026-06-22T07:42:06Z"
 }
