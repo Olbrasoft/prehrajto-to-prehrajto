@@ -17995,3 +17995,20 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:55:29]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/50566859/v0lTbzsvmTdJfpdHg6SGYsnzTkwuBziOQi6q…)
 [13:56:51]   downloaded 2,359.2 MB in 80.6s (29.3 MB/s)
 [14:01:17]   upload done video_id=26243145 in 266.1s
+[14:01:19] film cr_film_id=9761 OK in 351.3s
+[14:01:19] iteration 17/20
+[14:01:19] film cr_film_id=9765 name='Útěk z pole (2022) CZ' candidates=1
+[14:01:19]   candidate upload_id=18fb6b9403a29dd4 url=https://prehraj.to/utek-z-pole-2022-cz-dabing-hd-mp4/18fb6b9403a29dd4
+[14:01:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utek-z-pole-2022-cz-dabing-hd-mp4/18fb6b9403a29dd4 (permanent=True)
+[14:01:20] film cr_film_id=9765 all candidates exhausted
+[14:01:20] iteration 18/20
+[14:01:20] film cr_film_id=9775 name='Osudný víkend (2019) CZ Dabing' candidates=1
+[14:01:20]   candidate upload_id=802157e44b30ccb5 url=https://prehraj.to/osudny-vikend-2019-cz-dabing-hd-mp4/802157e44b30ccb5
+[14:01:25]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/osudny-vikend-2019-cz-dabing-hd-mp4/802157e44b30ccb5 (permanent=True)
+[14:01:26] film cr_film_id=9775 all candidates exhausted
+[14:01:26] iteration 19/20
+[14:01:26] film cr_film_id=9777 name='Dům na samotě (2022) CZ Dabing' candidates=6
+[14:01:26]   candidate upload_id=622649fad3c8d url=https://prehraj.to/dum-na-samote-2022-czdab/622649fad3c8d
+[14:01:31]   resolved in 5.8s → 1080p (https://pf-storage4.premiumcdn.net/29976050/eYaFB6h9XUarsEYiLjI8zhWRt1Es5VUv8CmD…)
+[14:02:54]   downloaded 2,515.6 MB in 80.9s (31.1 MB/s)
+[14:09:34]   upload done video_id=26243275 in 400.5s

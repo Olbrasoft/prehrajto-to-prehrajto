@@ -49159,6 +49159,25 @@
         "download_sec": 80.6,
         "upload_sec": 266.1
       }
+    },
+    {
+      "cr_film_id": 9777,
+      "cr_slug": "dum-na-samote",
+      "title": "Dům na samotě",
+      "year": 2022,
+      "display_name": "Dům na samotě (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "622649fad3c8d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26243275,
+      "size_bytes": 2515592243,
+      "uploaded_at": "2026-06-22T14:09:34Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 80.9,
+        "upload_sec": 400.5
+      }
     }
   ],
   "failed_attempts": [
@@ -51097,7 +51116,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/meda-beda-2010-cz-avi/6608b895f403d4dc",
       "permanent": true,
       "failed_at": "2026-06-22T13:36:53Z"
+    },
+    {
+      "cr_film_id": 9765,
+      "upload_id": "18fb6b9403a29dd4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utek-z-pole-2022-cz-dabing-hd-mp4/18fb6b9403a29dd4",
+      "permanent": true,
+      "failed_at": "2026-06-22T14:01:20Z"
+    },
+    {
+      "cr_film_id": 9775,
+      "upload_id": "802157e44b30ccb5",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/osudny-vikend-2019-cz-dabing-hd-mp4/802157e44b30ccb5",
+      "permanent": true,
+      "failed_at": "2026-06-22T14:01:25Z"
     }
   ],
-  "last_updated": "2026-06-22T14:01:17Z"
+  "last_updated": "2026-06-22T14:09:34Z"
 }
