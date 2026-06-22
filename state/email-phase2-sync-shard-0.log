@@ -19601,3 +19601,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:16:02]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/39375598/4REuXbHEdFwjtnpFanfamHZmh5ohpzh0DipR…)
 [03:17:05]   downloaded 1,742.4 MB in 62.0s (28.1 MB/s)
 [03:18:17]   upload done video_id=26222572 in 71.4s
+[03:18:19] film cr_film_id=35692 OK in 138.0s
+[03:18:19] iteration 11/20
+[03:18:19] film cr_film_id=5850 name='Šoumen krokodýl (2022)' candidates=1
+[03:18:19]   candidate upload_id=e72676707e2e72b3 url=https://prehraj.to/soumen-krokodyl-animovany-dobrodruzny-fantasy-usa-2022-cz-dabing-mp4/e72676707e2e72b3
+[03:18:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/soumen-krokodyl-animovany-dobrodruzny-fantasy-usa-2022-cz-dabing-mp4/e72676707e2e72b3 (permanent=True)
+[03:18:19] film cr_film_id=5850 all candidates exhausted
+[03:18:19] iteration 12/20
+[03:18:20] film cr_film_id=32354 name='Women Behind the Wheel (2022)' candidates=1
+[03:18:20]   candidate upload_id=574fc7e293dec url=https://prehraj.to/women-in-fury-1985-by-pitrs/574fc7e293dec
+[03:18:26]   resolved in 6.0s → 480p (https://pf-storage2.premiumcdn.net/123136/7M1HdahY4i4oUdyi38snOhlySKrcdaHA3HKpCL…)
+[03:18:51]   downloaded 614.9 MB in 23.6s (26.1 MB/s)
+[03:19:19]   upload done video_id=26222602 in 28.2s
