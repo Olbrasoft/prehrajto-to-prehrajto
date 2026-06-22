@@ -18911,3 +18911,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:48:19]   upload done video_id=26263236 in 292.5s
 [23:48:22] film cr_film_id=10427 OK in 413.8s
 [23:48:22] batch-end ok=20 failed=0 dur=4956.5s avg/film=247.8s remaining=14795 eta_hours=1018.4
+
+===== run 2026-06-22T23:56:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27992262101) =====
+[23:56:38] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:56:38] batch-start shard=1/2 count=20 backlog=17650 uploads=2855 failed_attempts=285 description_overrides=17579
+[23:56:38] login
+[23:56:39] login done
+[23:56:39] iteration 1/20
+[23:56:39] film cr_film_id=10431 name='Svět budoucnosti (2018) CZ Dabing' candidates=4
+[23:56:39]   candidate upload_id=6033cc99cb1a4 url=https://prehraj.to/future-world-2018-1080p-cz-dabing/6033cc99cb1a4
+[23:56:40]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/22377509/GkxieQFEPSyAU9WtMxIomFQASdOC9dFkOc2E…)
+[23:57:50]   downloaded 1,661.2 MB in 68.4s (24.3 MB/s)
+[23:59:38]   upload done video_id=26263734 in 107.5s
