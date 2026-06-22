@@ -15939,3 +15939,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:56:45]   upload done video_id=26219774 in 134.7s
 [00:56:47] film cr_film_id=8457 OK in 230.9s
 [00:56:47] batch-end ok=19 failed=1 dur=2983.0s avg/film=157.0s remaining=15173 eta_hours=661.7
+
+===== run 2026-06-22T01:04:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27923376969) =====
+[01:04:26] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:04:26] batch-start shard=1/2 count=20 backlog=17650 uploads=2477 failed_attempts=228 description_overrides=17579
+[01:04:26] login
+[01:04:28] login done
+[01:04:28] iteration 1/20
+[01:04:28] film cr_film_id=8463 name='90 minut do smrti (2021) CZ Dabing' candidates=6
+[01:04:28]   candidate upload_id=62fea430e005a url=https://prehraj.to/90-minut-do-smrti-2021-cz-dabing-1080p/62fea430e005a
+[01:04:29]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/32171029/zzNhD1HV9ijLsWXheQtl8HX0fjoIb8iX6T5A…)
+[01:05:16]   downloaded 1,647.7 MB in 45.5s (36.2 MB/s)
+[01:06:29]   upload done video_id=26220002 in 73.1s
