@@ -19448,3 +19448,16 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:02:36]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/166977020/mdkukQfApF37fwaT1xcAXfk2T3eTo9TGpHy…)
 [01:02:59]   downloaded 320.8 MB in 20.6s (15.6 MB/s)
 [01:03:28]   upload done video_id=26219947 in 29.0s
+[01:03:30] film cr_film_id=36879 OK in 54.8s
+[01:03:30] iteration 3/20
+[01:03:30] film cr_film_id=8883 name='Christmas Bloody Christmas (2022)' candidates=1
+[01:03:30]   candidate upload_id=6396e37cc68b7 url=https://prehraj.to/christmas-bloody-christmas-2022-1080p-web-h264-sk-sub/6396e37cc68b7
+[01:03:33]   resolved in 2.7s → 1080p (https://pf-storage4.premiumcdn.net/35464144/YVZUmyTGVhNmcwbHZyiReTXPHn6SxdiDpcK6…)
+[01:03:35]   oversize: 7170465037 B > 6000000000 B, skip
+[01:03:35] film cr_film_id=8883 all candidates exhausted
+[01:03:35] iteration 4/20
+[01:03:35] film cr_film_id=1311 name='Bullet Train (2022)' candidates=3
+[01:03:35]   candidate upload_id=367c031f7aaac6fc url=https://prehraj.to/bullet-train-2022-cz/367c031f7aaac6fc
+[01:03:39]   resolved in 4.1s → 480p (https://pf-storage1.premiumcdn.net/170269616/grjcjLhJoFqNugKhG9f1bhZXI76UnWi6gFp…)
+[01:04:10]   downloaded 600.9 MB in 28.6s (21.0 MB/s)
+[01:04:50]   upload done video_id=26219980 in 40.9s
