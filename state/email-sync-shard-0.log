@@ -17056,3 +17056,21 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:23:53]   resolved in 6.2s → 720p (https://pf-storage1.premiumcdn.net/134879345/2gpfO2SDosQRHl8iB3SJkSWmiqehZmI80f9…)
 [08:25:10]   downloaded 1,206.7 MB in 75.2s (16.0 MB/s)
 [08:26:25]   upload done video_id=26228385 in 75.0s
+[08:26:27] film cr_film_id=8642 OK in 166.0s
+[08:26:27] iteration 6/20
+[08:26:27] film cr_film_id=8644 name='Sklep (2024) CZ Dabing' candidates=4
+[08:26:27]   candidate upload_id=8ad59ce8adf22ad2 url=https://prehraj.to/sklep-2024-cz-dab-1080p/8ad59ce8adf22ad2
+[08:26:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sklep-2024-cz-dab-1080p/8ad59ce8adf22ad2 (permanent=True)
+[08:26:28]   candidate upload_id=9cb5a47dc7cf1540 url=https://prehraj.to/sklep-2024-cz-dab-1080p/9cb5a47dc7cf1540
+[08:26:33]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sklep-2024-cz-dab-1080p/9cb5a47dc7cf1540 (permanent=True)
+[08:26:33]   candidate upload_id=644b5dd2419ac50e url=https://prehraj.to/sklep-cellar-door-2024-cz-dabing/644b5dd2419ac50e
+[08:26:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sklep-cellar-door-2024-cz-dabing/644b5dd2419ac50e (permanent=True)
+[08:26:39]   candidate upload_id=75456eab7bb46b5c url=https://prehraj.to/sklep-cellar-door-2024-cz-dabing-mkv/75456eab7bb46b5c
+[08:26:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sklep-cellar-door-2024-cz-dabing-mkv/75456eab7bb46b5c (permanent=True)
+[08:26:45] film cr_film_id=8644 all candidates exhausted
+[08:26:45] iteration 7/20
+[08:26:45] film cr_film_id=8646 name='Banditka číslo jedna (2024) CZ Dabing' candidates=1
+[08:26:45]   candidate upload_id=66e1943988972 url=https://prehraj.to/banditka-cislo-jedna-2024-cz-dabing-1080p/66e1943988972
+[08:26:51]   resolved in 6.4s → 1080p (https://pf-storage5.premiumcdn.net/95702818/nplid1CMGfJ8sgACa9T42COpFgATD6inBT06…)
+[08:31:55]   downloaded 3,548.3 MB in 301.5s (11.8 MB/s)
+[08:35:25]   upload done video_id=26228581 in 209.7s
