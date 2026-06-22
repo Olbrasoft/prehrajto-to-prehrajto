@@ -58815,6 +58815,25 @@
         "download_sec": 13.2,
         "upload_sec": 20.5
       }
+    },
+    {
+      "cr_film_id": 17265,
+      "cr_slug": "thriller",
+      "title": "Thriller",
+      "year": 2018,
+      "display_name": "Thriller (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "67fd373b06875",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26245527,
+      "size_bytes": 707307223,
+      "uploaded_at": "2026-06-22T16:05:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 30.9,
+        "upload_sec": 42.3
+      }
     }
   ],
   "failed_attempts": [
@@ -60090,5 +60109,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-22T16:04:00Z"
+  "last_updated": "2026-06-22T16:05:18Z"
 }
