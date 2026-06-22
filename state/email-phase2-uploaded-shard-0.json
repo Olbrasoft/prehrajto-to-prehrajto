@@ -57788,6 +57788,25 @@
         "download_sec": 21.5,
         "upload_sec": 27.0
       }
+    },
+    {
+      "cr_film_id": 16716,
+      "cr_slug": "stale-mezi-nami",
+      "title": "Stále mezi námi",
+      "year": 2020,
+      "display_name": "Stále mezi námi (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "617bbe93be448",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26241965,
+      "size_bytes": 2141484641,
+      "uploaded_at": "2026-06-22T12:52:55Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 88.0,
+        "upload_sec": 81.3
+      }
     }
   ],
   "failed_attempts": [
@@ -59014,7 +59033,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vzhuru-za-sny-2020-rodinny-animovany-bdrip-1080p-sk-dabing/e76855ecb74d4361",
       "permanent": true,
       "failed_at": "2026-06-22T12:33:08Z"
+    },
+    {
+      "cr_film_id": 4584,
+      "upload_id": "db9fcf5534fd7f81",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svet-podle-muchy-2020-cz-hd-mp4/db9fcf5534fd7f81",
+      "permanent": true,
+      "failed_at": "2026-06-22T12:49:58Z"
     }
   ],
-  "last_updated": "2026-06-22T12:49:55Z"
+  "last_updated": "2026-06-22T12:52:55Z"
 }
