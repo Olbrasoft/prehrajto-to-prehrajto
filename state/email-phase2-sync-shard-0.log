@@ -21014,3 +21014,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:18:15]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/23948901/bj2IbYcNbcYzh42uVYHMoc91TVlHGaI4MHxk…)
 [13:19:57]   downloaded 2,214.9 MB in 99.9s (22.2 MB/s)
 [13:22:39]   upload done video_id=26242371 in 162.4s
+[13:22:42] film cr_film_id=140 OK in 268.1s
+[13:22:42] iteration 5/20
+[13:22:42] film cr_film_id=2264 name='Návrat detektiva (2020)' candidates=1
+[13:22:42]   candidate upload_id=ee6afd978d067411 url=https://prehraj.to/navrat-detektiva-2020-cz-dabing-mp4/ee6afd978d067411
+[13:22:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/navrat-detektiva-2020-cz-dabing-mp4/ee6afd978d067411 (permanent=True)
+[13:22:42] film cr_film_id=2264 all candidates exhausted
+[13:22:42] iteration 6/20
+[13:22:42] film cr_film_id=14458 name='Nelítostný spasitel (2020)' candidates=1
+[13:22:42]   candidate upload_id=65a8f77728a8b url=https://prehraj.to/nelitostny-spasitel-cz-2020-1080p-bydejv/65a8f77728a8b
+[13:22:48]   resolved in 6.1s → 720p (https://pf-storage3.premiumcdn.net/72488759/n5bIOZsozHmaUzgfewFWwsjWu7OFznfdDiXL…)
+[13:24:09]   downloaded 2,094.2 MB in 79.1s (26.5 MB/s)
+[13:26:07]   upload done video_id=26242426 in 117.9s
