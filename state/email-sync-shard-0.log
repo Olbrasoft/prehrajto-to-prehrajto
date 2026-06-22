@@ -17128,3 +17128,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:59:47]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/151197957/ZD7tgXT8jC2zIJlI28tz8TNehRksKWuM6sm…)
 [09:01:41]   downloaded 1,469.2 MB in 112.6s (13.0 MB/s)
 [09:03:39]   upload done video_id=26231332 in 118.4s
+[09:03:42] film cr_film_id=8672 OK in 236.6s
+[09:03:42] iteration 16/20
+[09:03:42] film cr_film_id=8674 name='Démon ve mně (2023) CZ Dabing' candidates=1
+[09:03:42]   candidate upload_id=d691ea8047875b0e url=https://prehraj.to/demon-ve-mne-horor-usa-2023-cz-dabing/d691ea8047875b0e
+[09:03:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/demon-ve-mne-horor-usa-2023-cz-dabing/d691ea8047875b0e (permanent=True)
+[09:03:43] film cr_film_id=8674 all candidates exhausted
+[09:03:43] iteration 17/20
+[09:03:43] film cr_film_id=8678 name='Strašidelný dům (2003) CZ Dabing' candidates=2
+[09:03:43]   candidate upload_id=5c16fcff182a5 url=https://prehraj.to/strasidelny-dum-2003-cz-dabing/5c16fcff182a5
+[09:03:49]   resolved in 6.2s → 480p (https://pf-storage5.premiumcdn.net/9551882/q2viRbCM7hXAs7ZHYrskZC8Jf3WizvIdlHV9u…)
+[09:05:08]   downloaded 868.7 MB in 77.0s (11.3 MB/s)
+[09:06:09]   upload done video_id=26231666 in 60.9s
