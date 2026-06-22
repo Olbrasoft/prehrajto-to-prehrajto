@@ -21575,3 +21575,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [18:24:39]   resolved in 0.7s → 1080p (https://pf-storage3.premiumcdn.net/156989366/beMTLMh60uMwTakio8UDBhXLfXDuAmcWDUz…)
 [18:25:43]   downloaded 1,791.8 MB in 62.0s (28.9 MB/s)
 [18:27:21]   upload done video_id=26250968 in 98.2s
+[18:27:23] film cr_film_id=17426 OK in 164.2s
+[18:27:23] iteration 3/20
+[18:27:23] film cr_film_id=2930 name='Báchorky (2019)' candidates=1
+[18:27:23]   candidate upload_id=e03912d6ff3a6d20 url=https://prehraj.to/bachorky-2019-cz-dabing-hd-mp4/e03912d6ff3a6d20
+[18:27:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bachorky-2019-cz-dabing-hd-mp4/e03912d6ff3a6d20 (permanent=True)
+[18:27:23] film cr_film_id=2930 all candidates exhausted
+[18:27:23] iteration 4/20
+[18:27:23] film cr_film_id=20972 name='Budiž světlo (2019)' candidates=3
+[18:27:23]   candidate upload_id=5f824431e48c6 url=https://prehraj.to/budiz-svetlo-2019-cz/5f824431e48c6
+[18:27:29]   resolved in 6.0s → 1080p (https://pf-storage5.premiumcdn.net/19173008/olgtjoHPOsDqioluVQCWAH75Fv1hLNcj0tq8…)
+[18:28:11]   downloaded 1,137.1 MB in 39.8s (28.6 MB/s)
+[18:29:08]   upload done video_id=26251068 in 57.4s
