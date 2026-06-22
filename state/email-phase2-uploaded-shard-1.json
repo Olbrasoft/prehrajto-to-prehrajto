@@ -53590,6 +53590,25 @@
         "download_sec": 58.7,
         "upload_sec": 30.4
       }
+    },
+    {
+      "cr_film_id": 4133,
+      "cr_slug": "rosaline",
+      "title": "Rosalina",
+      "year": 2022,
+      "display_name": "Rosalina (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "665bd8684bc99",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26218779,
+      "size_bytes": 1998927484,
+      "uploaded_at": "2026-06-22T00:01:14Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 56.0,
+        "upload_sec": 79.4
+      }
     }
   ],
   "failed_attempts": [
@@ -54606,5 +54625,5 @@
       "failed_at": "2026-06-21T23:52:33Z"
     }
   ],
-  "last_updated": "2026-06-21T23:58:55Z"
+  "last_updated": "2026-06-22T00:01:14Z"
 }
