@@ -59555,6 +59555,25 @@
         "download_sec": 20.2,
         "upload_sec": 25.8
       }
+    },
+    {
+      "cr_film_id": 30784,
+      "cr_slug": "vyberova-zbran",
+      "title": "Výběrová zbraň",
+      "year": 2018,
+      "display_name": "Výběrová zbraň (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5cffd738be2f8",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26253013,
+      "size_bytes": 2240811209,
+      "uploaded_at": "2026-06-22T19:20:32Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 84.8,
+        "upload_sec": 102.4
+      }
     }
   ],
   "failed_attempts": [
@@ -60846,5 +60865,5 @@
       "failed_at": "2026-06-22T18:27:23Z"
     }
   ],
-  "last_updated": "2026-06-22T19:17:21Z"
+  "last_updated": "2026-06-22T19:20:32Z"
 }
