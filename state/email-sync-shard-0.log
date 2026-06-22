@@ -16869,3 +16869,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:16:24]   upload done video_id=26226770 in 105.8s
 [07:16:26] film cr_film_id=8536 OK in 171.4s
 [07:16:26] batch-end ok=19 failed=1 dur=3142.4s avg/film=165.4s remaining=15045 eta_hours=691.2
+
+===== run 2026-06-22T07:17:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27936112187) =====
+[07:17:06] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:17:06] batch-start shard=0/2 count=20 backlog=17650 uploads=2605 failed_attempts=281 description_overrides=17579
+[07:17:06] login
+[07:17:07] login done
+[07:17:07] iteration 1/20
+[07:17:07] film cr_film_id=8540 name='Sherlock Koumes (2018) CZ Dabing' candidates=1
+[07:17:07]   candidate upload_id=5b5f647277087 url=https://prehraj.to/sherlock-koumes-2018-cz-dabing-bst/5b5f647277087
+[07:17:08]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/5087750/403saViWBcE2sXYIDXCaxizpfJos9OTOrFPwc…)
+[07:17:28]   downloaded 501.4 MB in 18.8s (26.7 MB/s)
+[07:18:18]   upload done video_id=26226834 in 49.5s
