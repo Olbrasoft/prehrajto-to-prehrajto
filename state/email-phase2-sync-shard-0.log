@@ -21557,3 +21557,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [18:22:11]   upload done video_id=26250799 in 32.6s
 [18:22:12] film cr_film_id=28936 OK in 58.9s
 [18:22:12] batch-end ok=20 failed=0 dur=5929.0s avg/film=296.4s remaining=6934 eta_hours=570.9
+
+===== run 2026-06-22T18:22:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27974601015) =====
+[18:22:51] batch-start shard=0/2 count=20 backlog=10210 uploads=3276 failed_attempts=176 description_overrides=0
+[18:22:51] login
+[18:22:53] login done
+[18:22:53] iteration 1/20
+[18:22:53] film cr_film_id=32130 name='Colectiv (2019)' candidates=2
+[18:22:53]   candidate upload_id=5fd8130f2dd54 url=https://prehraj.to/colectiv-2020-cz/5fd8130f2dd54
+[18:22:54]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/20780340/rgXt0nUmVh0KsB4uPEU19ULqUPrF6Ofm6tob…)
+[18:23:46]   downloaded 1,086.6 MB in 50.6s (21.5 MB/s)
+[18:24:37]   upload done video_id=26250882 in 50.8s
