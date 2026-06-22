@@ -57731,6 +57731,25 @@
         "download_sec": 111.3,
         "upload_sec": 121.3
       }
+    },
+    {
+      "cr_film_id": 14516,
+      "cr_slug": "the-calm-beyond",
+      "title": "The Calm Beyond",
+      "year": 2020,
+      "display_name": "The Calm Beyond (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6108f71678fee",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26241850,
+      "size_bytes": 905288027,
+      "uploaded_at": "2026-06-22T12:45:18Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 33.4,
+        "upload_sec": 33.0
+      }
     }
   ],
   "failed_attempts": [
@@ -58959,5 +58978,5 @@
       "failed_at": "2026-06-22T12:33:08Z"
     }
   ],
-  "last_updated": "2026-06-22T12:44:08Z"
+  "last_updated": "2026-06-22T12:45:18Z"
 }
