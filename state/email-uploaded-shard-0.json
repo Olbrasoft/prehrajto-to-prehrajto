@@ -50347,6 +50347,25 @@
         "download_sec": 84.7,
         "upload_sec": 118.4
       }
+    },
+    {
+      "cr_film_id": 9494,
+      "cr_slug": "royalteen-princezna-margrethe",
+      "title": "Royalteen: Princezna Margrethe",
+      "year": 2023,
+      "display_name": "Royalteen: Princezna Margrethe (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "645d99aa8a4ff",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26255933,
+      "size_bytes": 2827132407,
+      "uploaded_at": "2026-06-22T20:40:04Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 118.2,
+        "upload_sec": 190.5
+      }
     }
   ],
   "failed_attempts": [
@@ -52421,7 +52440,49 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/prizrak-v-dome-2018-cz-dabing-hd-mp4/c1cc90479d94ec9b",
       "permanent": true,
       "failed_at": "2026-06-22T16:58:56Z"
+    },
+    {
+      "cr_film_id": 9492,
+      "upload_id": "654482c3e3667",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznuv-raj-fool-s-paradise-2023-cz-dabing-mp4/654482c3e3667",
+      "permanent": true,
+      "failed_at": "2026-06-22T20:34:14Z"
+    },
+    {
+      "cr_film_id": 9492,
+      "upload_id": "6546ee58aa894",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznuv-raj-fool-s-paradise-2023-cz-dabing-mp4/6546ee58aa894",
+      "permanent": true,
+      "failed_at": "2026-06-22T20:34:21Z"
+    },
+    {
+      "cr_film_id": 9492,
+      "upload_id": "653b9eebd7fc2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznuv-raj-fool-s-paradise-2023-cz-dabing-mp4/653b9eebd7fc2",
+      "permanent": true,
+      "failed_at": "2026-06-22T20:34:29Z"
+    },
+    {
+      "cr_film_id": 9492,
+      "upload_id": "6545f5a55e473",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznuv-raj-fool-s-paradise-2023-cz-dabing-mp4/6545f5a55e473",
+      "permanent": true,
+      "failed_at": "2026-06-22T20:34:35Z"
+    },
+    {
+      "cr_film_id": 9492,
+      "upload_id": "65414cb0d5fd8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznuv-raj-fool-s-paradise-2023-cz-dabing/65414cb0d5fd8",
+      "permanent": true,
+      "failed_at": "2026-06-22T20:34:41Z"
+    },
+    {
+      "cr_film_id": 9492,
+      "upload_id": "66eb5a6fab48f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznuv-raj-fool-s-paradise-2023-cz-dabing/66eb5a6fab48f",
+      "permanent": true,
+      "failed_at": "2026-06-22T20:34:47Z"
     }
   ],
-  "last_updated": "2026-06-22T20:34:12Z"
+  "last_updated": "2026-06-22T20:40:04Z"
 }
