@@ -16058,3 +16058,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:21:23]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/4346407/zEbtrZsE0F0YHm0FxXT7QskqSPlc1ntPxSJAS…)
 [02:22:13]   downloaded 899.8 MB in 48.0s (18.7 MB/s)
 [02:23:09]   upload done video_id=26221471 in 55.2s
+[02:23:10] film cr_film_id=8090 OK in 108.4s
+[02:23:10] iteration 12/20
+[02:23:10] film cr_film_id=8092 name='Odvážná Emma (2024) CZ Dabing' candidates=1
+[02:23:10]   candidate upload_id=9ad017befac0857d url=https://prehraj.to/odvazna-emma-2024-cz-dab-1080p/9ad017befac0857d
+[02:23:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/odvazna-emma-2024-cz-dab-1080p/9ad017befac0857d (permanent=True)
+[02:23:14] film cr_film_id=8092 all candidates exhausted
+[02:23:14] iteration 13/20
+[02:23:14] film cr_film_id=8094 name='Joeův univerzitní road trip (2026) CZ Dabing' candidates=2
+[02:23:14]   candidate upload_id=fbe348a9c9220fed url=https://prehraj.to/joeuv-univerzitni-road-trip-2026-1080p-cz-dabing-mkv/fbe348a9c9220fed
+[02:23:21]   resolved in 7.1s → 1080p (https://pf-storage3.premiumcdn.net/165268727/1GjtZyu8JCv4Fd5fgDs3VuYztQ7HY3TaWUP…)
+[02:26:08]   downloaded 3,273.3 MB in 165.5s (19.8 MB/s)
+[02:29:04]   upload done video_id=26221527 in 175.6s

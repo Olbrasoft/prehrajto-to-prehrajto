@@ -44514,6 +44514,25 @@
         "download_sec": 48.0,
         "upload_sec": 55.2
       }
+    },
+    {
+      "cr_film_id": 8094,
+      "cr_slug": "joeuv-univerzitni-road-trip",
+      "title": "Joeův univerzitní road trip",
+      "year": 2026,
+      "display_name": "Joeův univerzitní road trip (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "fbe348a9c9220fed",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26221527,
+      "size_bytes": 3273274412,
+      "uploaded_at": "2026-06-22T02:29:04Z",
+      "timing": {
+        "resolve_sec": 7.1,
+        "download_sec": 165.5,
+        "upload_sec": 175.6
+      }
     }
   ],
   "failed_attempts": [
@@ -46374,7 +46393,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tvoje-moje-a-nase-2005-cz-dab-1080p/6875d25c3ae93",
       "permanent": true,
       "failed_at": "2026-06-22T01:33:00Z"
+    },
+    {
+      "cr_film_id": 8092,
+      "upload_id": "9ad017befac0857d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/odvazna-emma-2024-cz-dab-1080p/9ad017befac0857d",
+      "permanent": true,
+      "failed_at": "2026-06-22T02:23:14Z"
     }
   ],
-  "last_updated": "2026-06-22T02:23:09Z"
+  "last_updated": "2026-06-22T02:29:04Z"
 }
