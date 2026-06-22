@@ -47563,6 +47563,25 @@
         "download_sec": 24.2,
         "upload_sec": 25.7
       }
+    },
+    {
+      "cr_film_id": 9315,
+      "cr_slug": "halloween-ii",
+      "title": "Halloween II",
+      "year": 2009,
+      "display_name": "Halloween II (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68eff7c5c98c6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26232341,
+      "size_bytes": 3683087228,
+      "uploaded_at": "2026-06-22T09:41:55Z",
+      "timing": {
+        "resolve_sec": 8.0,
+        "download_sec": 101.8,
+        "upload_sec": 164.8
+      }
     }
   ],
   "failed_attempts": [
@@ -49396,7 +49415,28 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/nebezpecne-touhy-2019-cz-dabing-hd-mp4/74a8d3708faeff31",
       "permanent": true,
       "failed_at": "2026-06-22T08:56:39Z"
+    },
+    {
+      "cr_film_id": 9313,
+      "upload_id": "11828fe0c90d99cb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tarot-2024-cz-dab-1080p/11828fe0c90d99cb",
+      "permanent": true,
+      "failed_at": "2026-06-22T09:37:07Z"
+    },
+    {
+      "cr_film_id": 9313,
+      "upload_id": "14fb51b02fa0f799",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tarot-2024-cz-dabing/14fb51b02fa0f799",
+      "permanent": true,
+      "failed_at": "2026-06-22T09:37:13Z"
+    },
+    {
+      "cr_film_id": 9313,
+      "upload_id": "341f0e126721c93d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tarot-2024-cz-dabing-mp4/341f0e126721c93d",
+      "permanent": true,
+      "failed_at": "2026-06-22T09:37:19Z"
     }
   ],
-  "last_updated": "2026-06-22T09:37:05Z"
+  "last_updated": "2026-06-22T09:41:55Z"
 }
