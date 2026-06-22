@@ -17183,3 +17183,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:37:22]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/43162367/zl4frjUzjTQ5CxBhVAc9rU6WS7wSK5cdxclN…)
 [08:40:26]   downloaded 3,345.0 MB in 182.1s (18.4 MB/s)
 [08:44:52]   upload done video_id=26228855 in 265.6s
+[08:44:54] film cr_film_id=9191 OK in 453.5s
+[08:44:54] iteration 8/20
+[08:44:54] film cr_film_id=9199 name='Recept na smrt (2022) CZ Dabing' candidates=11
+[08:44:54]   candidate upload_id=64b51e7e9d9aa url=https://prehraj.to/recept-na-smrt-high-heat-2022-1080p-bluray-cz-dabing-miki-mp4/64b51e7e9d9aa
+[08:44:55]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/recept-na-smrt-high-heat-2022-1080p-bluray-cz-dabing-miki-mp4/64b51e7e9d9aa (permanent=True)
+[08:44:55]   candidate upload_id=646c6ea443360 url=https://prehraj.to/recept-na-smrt-high-heat-2022-1080p-bluray-cz-dabing-miki-mp4/646c6ea443360
+[08:45:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/recept-na-smrt-high-heat-2022-1080p-bluray-cz-dabing-miki-mp4/646c6ea443360 (permanent=True)
+[08:45:01]   candidate upload_id=775e82a502674b98 url=https://prehraj.to/recept-na-smrt-2022-cz-dabing-1080p/775e82a502674b98
+[08:45:07]   resolved in 6.2s → 720p (https://pf-storage3.premiumcdn.net/163007438/D76Tb6Irpc61FGEtkGsKwIwrubwc4VhEAS6…)
+[08:46:26]   downloaded 1,346.7 MB in 76.8s (17.5 MB/s)
+[08:48:09]   upload done video_id=26229687 in 102.7s
