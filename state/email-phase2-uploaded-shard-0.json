@@ -54786,6 +54786,25 @@
         "download_sec": 70.4,
         "upload_sec": 99.5
       }
+    },
+    {
+      "cr_film_id": 30536,
+      "cr_slug": "video",
+      "title": "Video",
+      "year": 2022,
+      "display_name": "Video (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6635f29465f0c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26223016,
+      "size_bytes": 173578009,
+      "uploaded_at": "2026-06-22T03:34:05Z",
+      "timing": {
+        "resolve_sec": 2.7,
+        "download_sec": 8.3,
+        "upload_sec": 9.8
+      }
     }
   ],
   "failed_attempts": [
@@ -55774,7 +55793,73 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/whitney-houston-i-wanna-dance-with-somebody-2022-cz-dabing/86ed23246dc839b8",
       "permanent": true,
       "failed_at": "2026-06-22T03:19:27Z"
+    },
+    {
+      "cr_film_id": 30536,
+      "upload_id": "68c7ba957a50b",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds",
+      "permanent": false,
+      "failed_at": "2026-06-22T03:33:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 84.4
+      }
+    },
+    {
+      "cr_film_id": 30536,
+      "upload_id": "67c47956df426",
+      "reason": "download_failed: file too small (450278 B), likely CDN error page",
+      "permanent": false,
+      "failed_at": "2026-06-22T03:33:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 1.5
+      }
+    },
+    {
+      "cr_film_id": 30536,
+      "upload_id": "67c47950ed0dd",
+      "reason": "download_failed: file too small (2221723 B), likely CDN error page",
+      "permanent": false,
+      "failed_at": "2026-06-22T03:33:19Z",
+      "timing": {
+        "resolve_sec": 3.0,
+        "download_sec": 2.0
+      }
+    },
+    {
+      "cr_film_id": 30536,
+      "upload_id": "67c4795252622",
+      "reason": "download_failed: file too small (6143910 B), likely CDN error page",
+      "permanent": false,
+      "failed_at": "2026-06-22T03:33:25Z",
+      "timing": {
+        "resolve_sec": 2.6,
+        "download_sec": 2.4
+      }
+    },
+    {
+      "cr_film_id": 30536,
+      "upload_id": "67c4795568a0e",
+      "reason": "download_failed: file too small (1175493 B), likely CDN error page",
+      "permanent": false,
+      "failed_at": "2026-06-22T03:33:35Z",
+      "timing": {
+        "resolve_sec": 7.5,
+        "download_sec": 1.7
+      }
+    },
+    {
+      "cr_film_id": 30536,
+      "upload_id": "67c479542a5be",
+      "reason": "download_failed: file too small (4488671 B), likely CDN error page",
+      "permanent": false,
+      "failed_at": "2026-06-22T03:33:43Z",
+      "timing": {
+        "resolve_sec": 3.9,
+        "download_sec": 2.2
+      }
     }
   ],
-  "last_updated": "2026-06-22T03:31:40Z"
+  "last_updated": "2026-06-22T03:34:05Z"
 }

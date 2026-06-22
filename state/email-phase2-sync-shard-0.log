@@ -19648,3 +19648,28 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:28:48]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/40181446/Y4vF8DHZkFK2fOlS5PupBHwkcWycg2IkghqV…)
 [03:30:00]   downloaded 2,030.3 MB in 70.4s (28.8 MB/s)
 [03:31:40]   upload done video_id=26222892 in 99.5s
+[03:31:41] film cr_film_id=15634 OK in 174.3s
+[03:31:41] iteration 18/20
+[03:31:41] film cr_film_id=30536 name='Video (2022)' candidates=10
+[03:31:41]   candidate upload_id=68c7ba957a50b url=https://prehraj.to/dymytry-ve-svete-lzi-official-video-2022/68c7ba957a50b
+[03:31:43]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/146796207/o2xcvQSRWT6xilvtyWU3VSB2FdQCdQcRac0…)
+[03:33:08]   download FAILED after 84.4s: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds
+[03:33:09]   candidate upload_id=67c47956df426 url=https://prehraj.to/video-2022-04-26-10-57-30-online-video-cutter-com-1-1-mp4/67c47956df426
+[03:33:10]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/131135516/3QbfoJTRJSv4HB4ivls5LT8NC5AFPEh5VIO…)
+[03:33:13]   download FAILED after 1.5s: file too small (450278 B), likely CDN error page
+[03:33:13]   candidate upload_id=67c47950ed0dd url=https://prehraj.to/video-2022-03-18-09-59-10-mp4/67c47950ed0dd
+[03:33:16]   resolved in 3.0s → 480p (https://pf-storage5.premiumcdn.net/131135504/nxXfJpT80CVvFLEHlmS5vT3vFO5IgruG7T0…)
+[03:33:19]   download FAILED after 2.0s: file too small (2221723 B), likely CDN error page
+[03:33:19]   candidate upload_id=67c4795252622 url=https://prehraj.to/video-2022-03-20-07-55-58-mp4/67c4795252622
+[03:33:22]   resolved in 2.6s → 480p (https://pf-storage5.premiumcdn.net/131135507/A8YfZqHwQuLGIwAi7bsJoHLKI1DiXktdPfL…)
+[03:33:25]   download FAILED after 2.4s: file too small (6143910 B), likely CDN error page
+[03:33:25]   candidate upload_id=67c4795568a0e url=https://prehraj.to/video-2022-03-23-17-24-20-mp4/67c4795568a0e
+[03:33:33]   resolved in 7.5s → 480p (https://pf-storage5.premiumcdn.net/131135513/LYAfyJu6kTrWtyvSnrsbLuMLS6RT4PU35cR…)
+[03:33:35]   download FAILED after 1.7s: file too small (1175493 B), likely CDN error page
+[03:33:35]   candidate upload_id=67c479542a5be url=https://prehraj.to/video-2022-03-20-08-08-59-mp4/67c479542a5be
+[03:33:39]   resolved in 3.9s → 480p (https://pf-storage5.premiumcdn.net/131135510/R5KfjOiegunJHwytz5s3PiRkul6cPzs97I1…)
+[03:33:43]   download FAILED after 2.2s: file too small (4488671 B), likely CDN error page
+[03:33:43]   candidate upload_id=6635f29465f0c url=https://prehraj.to/dymytry-cerna-je-metal-official-video-2022-0xjjbp3pwkm-xvid/6635f29465f0c
+[03:33:45]   resolved in 2.7s → 1080p (https://pf-storage5.premiumcdn.net/76864208/q3dHaZT9xFPQfBlIGAIj6T9XS24I8jfBvcGk…)
+[03:33:55]   downloaded 173.6 MB in 8.3s (20.9 MB/s)
+[03:34:05]   upload done video_id=26223016 in 9.8s
