@@ -17077,3 +17077,25 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:47:44]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/17227395/lDQHLaIZnHy3hBmtaNfw4IbotDmuGniJvtaZ…)
 [07:49:33]   downloaded 2,594.4 MB in 107.4s (24.2 MB/s)
 [07:53:03]   upload done video_id=26227526 in 210.0s
+[07:53:05] film cr_film_id=9143 OK in 322.5s
+[07:53:05] iteration 15/20
+[07:53:05] film cr_film_id=9149 name='Lásko, neblázni! (2025) CZ Dabing' candidates=6
+[07:53:05]   candidate upload_id=6a88710d6ebb0033 url=https://prehraj.to/lasko-neblazni-2025-cz-dab-1080p/6a88710d6ebb0033
+[07:53:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lasko-neblazni-2025-cz-dab-1080p/6a88710d6ebb0033 (permanent=True)
+[07:53:06]   candidate upload_id=4ba9f9cecd28587d url=https://prehraj.to/lasko-neblazni-2025-cz-dab-2025/4ba9f9cecd28587d
+[07:53:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lasko-neblazni-2025-cz-dab-2025/4ba9f9cecd28587d (permanent=True)
+[07:53:12]   candidate upload_id=febbeaae2a8131a0 url=https://prehraj.to/lasko-neblazni-cz-dabing-2025/febbeaae2a8131a0
+[07:53:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lasko-neblazni-cz-dabing-2025/febbeaae2a8131a0 (permanent=True)
+[07:53:17]   candidate upload_id=b29eea7d327cadc6 url=https://prehraj.to/lasko-neblazni-2025-cz-dab-2025-mp4/b29eea7d327cadc6
+[07:53:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lasko-neblazni-2025-cz-dab-2025-mp4/b29eea7d327cadc6 (permanent=True)
+[07:53:23]   candidate upload_id=2de401e8a9645de0 url=https://prehraj.to/lasko-neblazni-cz-dabing-2025-mp4/2de401e8a9645de0
+[07:53:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lasko-neblazni-cz-dabing-2025-mp4/2de401e8a9645de0 (permanent=True)
+[07:53:29]   candidate upload_id=f6d419fffd35b888 url=https://prehraj.to/lasko-neblazni-cz-dabing-2025/f6d419fffd35b888
+[07:53:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lasko-neblazni-cz-dabing-2025/f6d419fffd35b888 (permanent=True)
+[07:53:35] film cr_film_id=9149 all candidates exhausted
+[07:53:35] iteration 16/20
+[07:53:35] film cr_film_id=9153 name='Elli a parta příšeráků (2024) CZ Dabing' candidates=5
+[07:53:35]   candidate upload_id=fb37d6768bf69810 url=https://prehraj.to/elli-a-parta-priseraku-2024-cz-dab-1080p/fb37d6768bf69810
+[07:53:41]   resolved in 6.2s → 1080p (https://pf-storage5.premiumcdn.net/169272298/Eo5fLkFEYtyJsDjhjPHjZFyGSAySw5urmCV…)
+[07:54:52]   downloaded 1,666.6 MB in 68.7s (24.3 MB/s)
+[07:56:29]   upload done video_id=26227609 in 97.3s
