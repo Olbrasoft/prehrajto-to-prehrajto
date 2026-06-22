@@ -54368,6 +54368,25 @@
         "download_sec": 94.9,
         "upload_sec": 112.1
       }
+    },
+    {
+      "cr_film_id": 34612,
+      "cr_slug": "float",
+      "title": "FLOAT!",
+      "year": 2023,
+      "display_name": "FLOAT! (2023)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "681e1576b79b2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26221763,
+      "size_bytes": 1347094253,
+      "uploaded_at": "2026-06-22T02:38:39Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 133.1,
+        "upload_sec": 80.8
+      }
     }
   ],
   "failed_attempts": [
@@ -55318,5 +55337,5 @@
       "failed_at": "2026-06-22T02:31:23Z"
     }
   ],
-  "last_updated": "2026-06-22T02:34:59Z"
+  "last_updated": "2026-06-22T02:38:39Z"
 }
