@@ -57303,7 +57303,14 @@
         "resolve_sec": 1.2,
         "download_sec": 95.1
       }
+    },
+    {
+      "cr_film_id": 14933,
+      "upload_id": "3eb8c4cfac336517",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atlas-ptaku-2021-cz/3eb8c4cfac336517",
+      "permanent": true,
+      "failed_at": "2026-06-22T07:57:28Z"
     }
   ],
-  "last_updated": "2026-06-22T07:57:26Z"
+  "last_updated": "2026-06-22T07:57:28Z"
 }
