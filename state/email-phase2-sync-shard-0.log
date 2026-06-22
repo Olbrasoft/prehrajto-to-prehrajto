@@ -19529,3 +19529,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:02:28]   upload done video_id=26222232 in 104.5s
 [03:02:30] film cr_film_id=34196 OK in 185.0s
 [03:02:30] batch-end ok=18 failed=2 dur=4106.2s avg/film=228.1s remaining=7187 eta_hours=455.4
+
+===== run 2026-06-22T03:03:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27926821509) =====
+[03:03:03] batch-start shard=0/2 count=20 backlog=10210 uploads=3023 failed_attempts=134 description_overrides=0
+[03:03:03] login
+[03:03:04] login done
+[03:03:04] iteration 1/20
+[03:03:04] film cr_film_id=15938 name='Bezdětná matka (2023)' candidates=1
+[03:03:04]   candidate upload_id=5a3706994e6c7f8b url=https://prehraj.to/bezdetna-matka-le-ravissement-web-dl-cz-fr-2023-1080p/5a3706994e6c7f8b
+[03:03:05]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/162319253/dgwivmSLPiy1f8lFDPf5JS1aTqwhd0IJacd…)
+[03:04:15]   downloaded 1,927.0 MB in 68.3s (28.2 MB/s)
+[03:05:46]   upload done video_id=26222316 in 91.9s
