@@ -21151,3 +21151,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:50:51]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/20477124/JblhdrfmZUy4cWbhYBTxGfBbUMZFD6I5PIaQ…)
 [14:51:29]   downloaded 990.4 MB in 36.2s (27.4 MB/s)
 [14:52:46]   upload done video_id=26244076 in 77.0s
+[14:52:48] film cr_film_id=8914 OK in 117.5s
+[14:52:48] iteration 4/20
+[14:52:48] film cr_film_id=9536 name='Deset věcí, které bychom měli udělat před rozchodem (2020)' candidates=1
+[14:52:48]   candidate upload_id=d305f8bf2aa0700c url=https://prehraj.to/deset-veci-ktere-bychom-meli-udelat-pred-rozchodem-2020-cz-dabing/d305f8bf2aa0700c
+[14:52:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/deset-veci-ktere-bychom-meli-udelat-pred-rozchodem-2020-cz-dabing/d305f8bf2aa0700c (permanent=True)
+[14:52:48] film cr_film_id=9536 all candidates exhausted
+[14:52:48] iteration 5/20
+[14:52:48] film cr_film_id=26388 name='De Gaulle (2020)' candidates=2
+[14:52:48]   candidate upload_id=61bd041ddbfac url=https://prehraj.to/de-gaulle-2020-1080p-bluray-x264-aac5-1-yts-mx/61bd041ddbfac
+[14:52:54]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/27528402/valF9oSMXij6ULguMLTpLSbBC9XcevH9quM6…)
+[14:54:02]   downloaded 1,765.1 MB in 66.0s (26.7 MB/s)
+[14:56:46]   upload done video_id=26244119 in 164.1s
