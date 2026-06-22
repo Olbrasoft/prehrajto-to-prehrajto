@@ -55546,6 +55546,25 @@
         "download_sec": 129.6,
         "upload_sec": 133.3
       }
+    },
+    {
+      "cr_film_id": 33990,
+      "cr_slug": "blackwood",
+      "title": "Blackwood",
+      "year": 2022,
+      "display_name": "Blackwood (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "62ea1e06d07fd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26225472,
+      "size_bytes": 2035652430,
+      "uploaded_at": "2026-06-22T05:46:41Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 107.6,
+        "upload_sec": 131.1
+      }
     }
   ],
   "failed_attempts": [
@@ -56669,5 +56688,5 @@
       "failed_at": "2026-06-22T05:38:06Z"
     }
   ],
-  "last_updated": "2026-06-22T05:42:37Z"
+  "last_updated": "2026-06-22T05:46:41Z"
 }
