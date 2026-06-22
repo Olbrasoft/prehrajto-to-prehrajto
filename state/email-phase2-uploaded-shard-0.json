@@ -58111,6 +58111,25 @@
         "download_sec": 50.9,
         "upload_sec": 155.9
       }
+    },
+    {
+      "cr_film_id": 32110,
+      "cr_slug": "keullojet",
+      "title": "Keullojet",
+      "year": 2020,
+      "display_name": "Keullojet (2020)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "615044528736a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26242915,
+      "size_bytes": 1589712794,
+      "uploaded_at": "2026-06-22T13:48:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 71.7,
+        "upload_sec": 107.5
+      }
     }
   ],
   "failed_attempts": [
@@ -59367,5 +59386,5 @@
       "failed_at": "2026-06-22T13:22:42Z"
     }
   ],
-  "last_updated": "2026-06-22T13:45:12Z"
+  "last_updated": "2026-06-22T13:48:17Z"
 }
