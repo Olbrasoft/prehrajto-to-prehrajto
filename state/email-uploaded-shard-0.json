@@ -46870,6 +46870,25 @@
         "download_sec": 334.5,
         "upload_sec": 120.5
       }
+    },
+    {
+      "cr_film_id": 8642,
+      "cr_slug": "joker-folie-a-deux",
+      "title": "Joker: Folie à Deux",
+      "year": 2024,
+      "display_name": "Joker: Folie à Deux (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67fa68306bbb6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26228385,
+      "size_bytes": 1206676030,
+      "uploaded_at": "2026-06-22T08:26:25Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 75.2,
+        "upload_sec": 75.0
+      }
     }
   ],
   "failed_attempts": [
@@ -48881,7 +48900,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/96a9349f24310c7f",
       "permanent": true,
       "failed_at": "2026-06-22T08:12:00Z"
+    },
+    {
+      "cr_film_id": 8640,
+      "upload_id": "f6954b74e4586254",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kocka-a-pes-silene-dobrodruzstvi-2024-cz-dab-1080p/f6954b74e4586254",
+      "permanent": true,
+      "failed_at": "2026-06-22T08:23:41Z"
+    },
+    {
+      "cr_film_id": 8642,
+      "upload_id": "c09a0dcc52044cad",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/joker-2-folie-a-deux-2024-cz-dabing-1080p/c09a0dcc52044cad",
+      "permanent": true,
+      "failed_at": "2026-06-22T08:23:47Z"
     }
   ],
-  "last_updated": "2026-06-22T08:23:38Z"
+  "last_updated": "2026-06-22T08:26:25Z"
 }

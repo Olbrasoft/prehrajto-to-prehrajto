@@ -17042,3 +17042,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:16:01]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/136948187/X0Rc1DhXJsDXUybtXKfqvhqPtx3cPMCzjFn…)
 [08:21:37]   downloaded 1,853.2 MB in 334.5s (5.5 MB/s)
 [08:23:38]   upload done video_id=26228279 in 120.5s
+[08:23:40] film cr_film_id=8638 OK in 460.5s
+[08:23:40] iteration 4/20
+[08:23:40] film cr_film_id=8640 name='Kočka a pes: Šílené dobrodružství (2024) CZ Dabing' candidates=1
+[08:23:40]   candidate upload_id=f6954b74e4586254 url=https://prehraj.to/kocka-a-pes-silene-dobrodruzstvi-2024-cz-dab-1080p/f6954b74e4586254
+[08:23:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kocka-a-pes-silene-dobrodruzstvi-2024-cz-dab-1080p/f6954b74e4586254 (permanent=True)
+[08:23:41] film cr_film_id=8640 all candidates exhausted
+[08:23:41] iteration 5/20
+[08:23:41] film cr_film_id=8642 name='Joker: Folie à Deux (2024) CZ Dabing' candidates=3
+[08:23:41]   candidate upload_id=c09a0dcc52044cad url=https://prehraj.to/joker-2-folie-a-deux-2024-cz-dabing-1080p/c09a0dcc52044cad
+[08:23:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/joker-2-folie-a-deux-2024-cz-dabing-1080p/c09a0dcc52044cad (permanent=True)
+[08:23:47]   candidate upload_id=67fa68306bbb6 url=https://prehraj.to/joker-2-folie-a-deux-1080p-2024-cz-dabing/67fa68306bbb6
+[08:23:53]   resolved in 6.2s → 720p (https://pf-storage1.premiumcdn.net/134879345/2gpfO2SDosQRHl8iB3SJkSWmiqehZmI80f9…)
+[08:25:10]   downloaded 1,206.7 MB in 75.2s (16.0 MB/s)
+[08:26:25]   upload done video_id=26228385 in 75.0s
