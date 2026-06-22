@@ -20262,3 +20262,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [08:37:41]   upload done video_id=26228673 in 135.5s
 [08:37:43] film cr_film_id=4152 OK in 234.1s
 [08:37:43] batch-end ok=20 failed=0 dur=5267.6s avg/film=263.4s remaining=7099 eta_hours=519.4
+
+===== run 2026-06-22T08:38:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27940201025) =====
+[08:38:21] batch-start shard=0/2 count=20 backlog=10210 uploads=3111 failed_attempts=156 description_overrides=0
+[08:38:21] login
+[08:38:23] login done
+[08:38:23] iteration 1/20
+[08:38:23] film cr_film_id=3724 name='Respect (2021)' candidates=2
+[08:38:23]   candidate upload_id=612947ca704d8 url=https://prehraj.to/respect-2021-2160p-web-dl-x265-10bit-hdr-ddp5-1-x265-nogrp/612947ca704d8
+[08:38:24]   resolved in 1.1s → 1080p (https://pf-storage2.premiumcdn.net/24738110/5BesEqUzPIo4TmxF6jTjbUPxhjWIP9Ir7Fe6…)
+[08:41:22]   downloaded 4,097.6 MB in 175.7s (23.3 MB/s)
+[08:46:24]   upload done video_id=26229004 in 302.3s
