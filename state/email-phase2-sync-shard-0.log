@@ -19832,3 +19832,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:45:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panama-2022-cz-dabing-mp4/9a6f2588568a69e5 (permanent=True)
 [04:45:16] film cr_film_id=10338 all candidates exhausted
 [04:45:16] batch-end ok=16 failed=4 dur=3759.9s avg/film=235.0s remaining=7154 eta_hours=467.0
+
+===== run 2026-06-22T04:48:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27930249243) =====
+[04:48:04] batch-start shard=0/2 count=20 backlog=10210 uploads=3056 failed_attempts=150 description_overrides=0
+[04:48:04] login
+[04:48:05] login done
+[04:48:05] iteration 1/20
+[04:48:05] film cr_film_id=14974 name='Prorok (2022)' candidates=1
+[04:48:05]   candidate upload_id=68ace16ce651c url=https://prehraj.to/prorok-2022-pl-1080p-web-dl-chrisvps/68ace16ce651c
+[04:48:06]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/144559344/zJosPXSX5fdnuJGUVvC53SXGiGatqluBdUz…)
+[04:50:19]   downloaded 2,344.9 MB in 131.8s (17.8 MB/s)
+[04:51:57]   upload done video_id=26224464 in 97.7s
