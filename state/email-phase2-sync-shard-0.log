@@ -20558,3 +20558,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:27:27]   upload done video_id=26233423 in 82.3s
 [10:27:29] film cr_film_id=14766 OK in 152.9s
 [10:27:29] batch-end ok=19 failed=1 dur=2963.7s avg/film=156.0s remaining=7062 eta_hours=306.0
+
+===== run 2026-06-22T10:28:07Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27946235609) =====
+[10:28:08] batch-start shard=0/2 count=20 backlog=10210 uploads=3148 failed_attempts=164 description_overrides=0
+[10:28:08] login
+[10:28:10] login done
+[10:28:10] iteration 1/20
+[10:28:10] film cr_film_id=33708 name='Howl (2021)' candidates=1
+[10:28:10]   candidate upload_id=606da90edbb74 url=https://prehraj.to/howl-2021-1080p-amzn-web-dl-ddp2-0-h264-worm/606da90edbb74
+[10:28:11]   resolved in 1.3s → 720p (https://pf-storage2.premiumcdn.net/23002815/BOQSLWcqwtrbCWLS1pTdDcP5f5mSyesDjf7e…)
+[10:29:10]   downloaded 1,139.4 MB in 57.5s (19.8 MB/s)
+[10:30:34]   upload done video_id=26234756 in 84.1s
