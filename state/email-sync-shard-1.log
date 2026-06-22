@@ -18762,3 +18762,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:14:09]   upload done video_id=26259733 in 78.4s
 [22:14:11] film cr_film_id=10311 OK in 138.8s
 [22:14:11] batch-end ok=20 failed=0 dur=3481.9s avg/film=174.1s remaining=14815 eta_hours=716.5
+
+===== run 2026-06-22T22:25:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27988180802) =====
+[22:25:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:25:44] batch-start shard=1/2 count=20 backlog=17650 uploads=2835 failed_attempts=284 description_overrides=17579
+[22:25:44] login
+[22:25:45] login done
+[22:25:45] iteration 1/20
+[22:25:45] film cr_film_id=10317 name='Skleněné peklo (2017) CZ Dabing' candidates=4
+[22:25:45]   candidate upload_id=682ef66fc0995 url=https://prehraj.to/sklenene-peklo-crystal-inferno-2017-cz-dabing-hd-novinka-mp4/682ef66fc0995
+[22:25:47]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/138394775/xgMTAmcRLUxgsp3uD7s3pcKaSPafRWtL3Fw…)
+[22:26:53]   downloaded 1,190.1 MB in 64.0s (18.6 MB/s)
+[22:28:58]   upload done video_id=26260267 in 125.6s
