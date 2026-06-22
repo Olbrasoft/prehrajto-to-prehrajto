@@ -58625,6 +58625,25 @@
         "download_sec": 127.1,
         "upload_sec": 74.9
       }
+    },
+    {
+      "cr_film_id": 14173,
+      "cr_slug": "a-christmas-movie-christmas",
+      "title": "A Christmas Movie Christmas",
+      "year": 2019,
+      "display_name": "A Christmas Movie Christmas (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "67672aba2af01",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26245016,
+      "size_bytes": 1421900924,
+      "uploaded_at": "2026-06-22T15:42:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 65.2,
+        "upload_sec": 69.9
+      }
     }
   ],
   "failed_attempts": [
@@ -59893,5 +59912,5 @@
       "failed_at": "2026-06-22T15:15:45Z"
     }
   ],
-  "last_updated": "2026-06-22T15:39:42Z"
+  "last_updated": "2026-06-22T15:42:03Z"
 }
