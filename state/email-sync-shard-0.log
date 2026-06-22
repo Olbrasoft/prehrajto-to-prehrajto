@@ -18639,3 +18639,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:24:59]   upload done video_id=26260122 in 99.3s
 [22:25:02] film cr_film_id=9616 OK in 174.0s
 [22:25:02] batch-end ok=20 failed=0 dur=4132.1s avg/film=206.6s remaining=14812 eta_hours=850.0
+
+===== run 2026-06-22T22:25:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27988180802) =====
+[22:25:44] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:25:44] batch-start shard=0/2 count=20 backlog=17650 uploads=2838 failed_attempts=298 description_overrides=17579
+[22:25:44] login
+[22:25:46] login done
+[22:25:46] iteration 1/20
+[22:25:46] film cr_film_id=9618 name='Fakjů princezny (2024) CZ Dabing' candidates=1
+[22:25:46]   candidate upload_id=68036d58719e7 url=https://prehraj.to/chantal-in-fairyland-2024-cz-dabing-1080p/68036d58719e7
+[22:25:47]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/135617162/NZQhAvU5AcjQuweT8qSQnU9dieAsvZSNnTL…)
+[22:28:14]   downloaded 3,088.4 MB in 144.9s (21.3 MB/s)
+[22:32:17]   upload done video_id=26260321 in 243.2s
