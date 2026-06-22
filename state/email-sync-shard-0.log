@@ -15892,3 +15892,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:30:51]   resolved in 4.6s → 720p (https://pf-storage5.premiumcdn.net/32396926/EXbTNrf4rhKRu9jubes2JfVXuYjFp9SzxSWY…)
 [01:31:41]   downloaded 1,107.6 MB in 47.9s (23.1 MB/s)
 [01:32:55]   upload done video_id=26220559 in 73.3s
+[01:32:58] film cr_film_id=7986 OK in 131.7s
+[01:32:58] iteration 9/20
+[01:32:58] film cr_film_id=7990 name='Tvoje, moje a naše (2005) CZ Dabing' candidates=1
+[01:32:58]   candidate upload_id=6875d25c3ae93 url=https://prehraj.to/tvoje-moje-a-nase-2005-cz-dab-1080p/6875d25c3ae93
+[01:33:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tvoje-moje-a-nase-2005-cz-dab-1080p/6875d25c3ae93 (permanent=True)
+[01:33:00] film cr_film_id=7990 all candidates exhausted
+[01:33:00] iteration 10/20
+[01:33:00] film cr_film_id=7992 name='Trouba k pohledání (2017) CZ' candidates=2
+[01:33:00]   candidate upload_id=5b5cd5923ad33 url=https://prehraj.to/trouba-k-pohledani-komedie-francie-2017-720p-cz-g-depardieu-57-sten-ok/5b5cd5923ad33
+[01:33:07]   resolved in 7.2s → 480p (https://pf-storage5.premiumcdn.net/5041550/4PlIenfvkUa0UEbHxZcQMf8Qse3HBxHZOUPku…)
+[01:34:04]   downloaded 975.7 MB in 54.6s (17.9 MB/s)
+[01:35:01]   upload done video_id=26220600 in 57.4s
