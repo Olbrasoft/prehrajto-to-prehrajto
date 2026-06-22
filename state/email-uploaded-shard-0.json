@@ -43659,6 +43659,25 @@
         "download_sec": 67.4,
         "upload_sec": 95.7
       }
+    },
+    {
+      "cr_film_id": 7894,
+      "cr_slug": "z-jineho-testa",
+      "title": "Z jiného těsta",
+      "year": 2023,
+      "display_name": "Z jiného těsta (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63d4afbf28027",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26219049,
+      "size_bytes": 3621957299,
+      "uploaded_at": "2026-06-22T00:22:03Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 156.2,
+        "upload_sec": 185.0
+      }
     }
   ],
   "failed_attempts": [
@@ -45500,5 +45519,5 @@
       "failed_at": "2026-06-21T23:36:00Z"
     }
   ],
-  "last_updated": "2026-06-22T00:16:17Z"
+  "last_updated": "2026-06-22T00:22:03Z"
 }
