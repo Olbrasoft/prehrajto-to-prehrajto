@@ -53893,6 +53893,25 @@
         "download_sec": 66.7,
         "upload_sec": 89.0
       }
+    },
+    {
+      "cr_film_id": 5386,
+      "cr_slug": "zlata-cihla",
+      "title": "Zlatá cihla",
+      "year": 2023,
+      "display_name": "Zlatá cihla (2023)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "66373c5f59600",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26219948,
+      "size_bytes": 1993886216,
+      "uploaded_at": "2026-06-22T01:04:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 68.3,
+        "upload_sec": 86.2
+      }
     }
   ],
   "failed_attempts": [
@@ -54808,5 +54827,5 @@
       "failed_at": "2026-06-22T00:33:22Z"
     }
   ],
-  "last_updated": "2026-06-22T01:01:49Z"
+  "last_updated": "2026-06-22T01:04:27Z"
 }
