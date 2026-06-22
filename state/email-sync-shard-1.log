@@ -16245,3 +16245,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:50:15]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/168520405/Ro8cP1sKniJMS2ZHA9Igjs52iK3sLDTB4h3…)
 [02:51:07]   downloaded 1,789.1 MB in 50.8s (35.2 MB/s)
 [02:53:21]   upload done video_id=26222074 in 134.1s
+[02:53:23] film cr_film_id=8667 OK in 189.0s
+[02:53:23] iteration 2/20
+[02:53:23] film cr_film_id=8669 name='Tajemství rodiny Calebových (2020) CZ Dabing' candidates=1
+[02:53:23]   candidate upload_id=a81488e35264f7a9 url=https://prehraj.to/tajemstvi-rodiny-calebovych-2020-cz-dabing-hd-mp4/a81488e35264f7a9
+[02:53:24]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/tajemstvi-rodiny-calebovych-2020-cz-dabing-hd-mp4/a81488e35264f7a9 (permanent=True)
+[02:53:24] film cr_film_id=8669 all candidates exhausted
+[02:53:24] iteration 3/20
+[02:53:24] film cr_film_id=8675 name='Zoubková víla (2022) CZ Dabing' candidates=2
+[02:53:24]   candidate upload_id=65b8481f852ae url=https://prehraj.to/zoubkova-vila-2022-czdab/65b8481f852ae
+[02:53:30]   resolved in 6.0s → 720p (https://pf-storage5.premiumcdn.net/72799004/AVAs7zHQ0UpxTnOSXOF14HexiPrhW4TbpsZX…)
+[02:54:03]   downloaded 1,075.1 MB in 31.3s (34.3 MB/s)
+[02:55:00]   upload done video_id=26222123 in 57.7s
