@@ -19567,3 +19567,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:53:18]   upload done video_id=26220856 in 129.0s
 [01:53:20] film cr_film_id=33921 OK in 494.4s
 [01:53:20] batch-end ok=15 failed=5 dur=3338.7s avg/film=222.6s remaining=7203 eta_hours=445.4
+
+===== run 2026-06-22T01:53:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27924762137) =====
+[01:54:00] batch-start shard=1/2 count=20 backlog=10210 uploads=3007 failed_attempts=151 description_overrides=0
+[01:54:00] login
+[01:54:01] login done
+[01:54:01] iteration 1/20
+[01:54:01] film cr_film_id=27023 name='Vždycky jsi to byla ty (2021)' candidates=2
+[01:54:01]   candidate upload_id=619781ad9d1ac url=https://prehraj.to/it-was-always-you-2021-cz/619781ad9d1ac
+[01:54:03]   resolved in 1.3s → 1080p (https://pf-storage2.premiumcdn.net/26636467/v4Qhw5F90i5YCLyIJqt5bFpOszWUk6HZ3iMd…)
+[01:56:01]   downloaded 2,276.4 MB in 115.7s (19.7 MB/s)
+[01:58:09]   upload done video_id=26220956 in 128.4s
