@@ -20116,3 +20116,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [06:51:56]   upload done video_id=26226336 in 147.3s
 [06:51:59] film cr_film_id=33362 OK in 311.9s
 [06:51:59] batch-end ok=16 failed=4 dur=4563.6s avg/film=285.2s remaining=7119 eta_hours=564.0
+
+===== run 2026-06-22T07:09:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27935758888) =====
+[07:09:53] batch-start shard=0/2 count=20 backlog=10210 uploads=3091 failed_attempts=156 description_overrides=0
+[07:09:53] login
+[07:09:55] login done
+[07:09:55] iteration 1/20
+[07:09:55] film cr_film_id=3740 name='Ulice strachu – 3. část: 1666 (2021)' candidates=3
+[07:09:55]   candidate upload_id=60f1b4d50b12a url=https://prehraj.to/fear-street-part-3-1666-2021-1080p-webrip-x265-rarbg/60f1b4d50b12a
+[07:09:57]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/24300333/Vw0IVJCdLiX7hGQsDGtgLCZDiq6SGxsDLC9v…)
+[07:11:37]   downloaded 1,796.4 MB in 98.5s (18.2 MB/s)
+[07:13:54]   upload done video_id=26226720 in 137.1s
