@@ -19288,3 +19288,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:09:20]   resolved in 6.9s → 1080p (https://pf-storage5.premiumcdn.net/156028343/o8qIeQFMdsdNu54CxmsXOFymCj3s5mcNriD…)
 [01:10:35]   downloaded 2,164.2 MB in 73.9s (29.3 MB/s)
 [01:12:58]   upload done video_id=26220126 in 143.0s
+[01:13:00] film cr_film_id=15448 OK in 227.4s
+[01:13:00] iteration 7/20
+[01:13:00] film cr_film_id=2822 name='Vrah naoko (2023)' candidates=1
+[01:13:00]   candidate upload_id=4ebc2d1dce699ffc url=https://prehraj.to/hit-man-vrah-naoko-2023-cz/4ebc2d1dce699ffc
+[01:13:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hit-man-vrah-naoko-2023-cz/4ebc2d1dce699ffc (permanent=True)
+[01:13:01] film cr_film_id=2822 all candidates exhausted
+[01:13:01] iteration 8/20
+[01:13:01] film cr_film_id=18492 name='Vojenský soud se vzbouřenci z lodi Caine (2023)' candidates=1
+[01:13:01]   candidate upload_id=6520691a05e18 url=https://prehraj.to/the-caine-mutiny-court-martial-2023-1080p-web-h264-edith/6520691a05e18
+[01:13:08]   resolved in 6.2s → 720p (https://pf-storage3.premiumcdn.net/47442038/dJoS6yHnBTqbF49fMmhLbHaXFwRFqjf27SPB…)
+[01:13:39]   downloaded 857.4 MB in 29.6s (29.0 MB/s)
+[01:14:18]   upload done video_id=26220178 in 39.5s
