@@ -18110,3 +18110,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:08:29]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/5356642/M0LsEkCK2uQ4UpXfPdCENCgwiBRFe4s4rFvzt…)
 [15:08:46]   downloaded 341.4 MB in 16.0s (21.3 MB/s)
 [15:09:02]   upload done video_id=26244297 in 16.4s
+[15:09:04] film cr_film_id=9833 OK in 36.9s
+[15:09:04] iteration 13/20
+[15:09:04] film cr_film_id=9839 name='Někdo to rád plešaté (2025) CZ Dabing' candidates=2
+[15:09:04]   candidate upload_id=dedba399578bafbd url=https://prehraj.to/nekdo-to-rad-plesate-2025-cz-dab-1080p/dedba399578bafbd
+[15:09:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nekdo-to-rad-plesate-2025-cz-dab-1080p/dedba399578bafbd (permanent=True)
+[15:09:05]   candidate upload_id=b0c9fdce8a6468f1 url=https://prehraj.to/nekdo-to-rad-plesate-2025-1080p-cz-mp4/b0c9fdce8a6468f1
+[15:09:11]   resolved in 6.0s → 1080p (https://pf-storage3.premiumcdn.net/164052593/zNPtXlFgRT3BFnPiz1SAQF23tGJc1rCK0iD…)
+[15:10:27]   downloaded 1,832.9 MB in 74.9s (24.5 MB/s)
+[15:12:09]   upload done video_id=26244331 in 101.7s
