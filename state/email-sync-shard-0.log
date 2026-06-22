@@ -18225,3 +18225,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:56:39]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/167232275/vrMTmMidrSGBCDPh2GTL7i2XtDLTRzTNauZ…)
 [16:57:24]   downloaded 945.5 MB in 42.8s (22.1 MB/s)
 [16:58:53]   upload done video_id=26247518 in 88.7s
+[16:58:55] film cr_film_id=9364 OK in 137.6s
+[16:58:55] iteration 5/20
+[16:58:55] film cr_film_id=9368 name='Přízrak v domě (2018) CZ Dabing' candidates=1
+[16:58:55]   candidate upload_id=c1cc90479d94ec9b url=https://prehraj.to/prizrak-v-dome-2018-cz-dabing-hd-mp4/c1cc90479d94ec9b
+[16:58:56]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/prizrak-v-dome-2018-cz-dabing-hd-mp4/c1cc90479d94ec9b (permanent=True)
+[16:58:56] film cr_film_id=9368 all candidates exhausted
+[16:58:56] iteration 6/20
+[16:58:56] film cr_film_id=9370 name='Skylines (2020) CZ' candidates=1
+[16:58:56]   candidate upload_id=5fddde004eed0 url=https://prehraj.to/skylines-akcni-sci-fi-2020-720p-xvid-ac3-5-1-bez-titulku-sten-ok/5fddde004eed0
+[16:59:02]   resolved in 6.1s → 480p (https://pf-storage5.premiumcdn.net/20897058/KYOuDXSN5SByhDdidQc01S5ViYZta7cWkf0e…)
+[17:00:03]   downloaded 1,057.0 MB in 58.7s (18.0 MB/s)
+[17:03:57]   upload done video_id=26247586 in 234.1s
