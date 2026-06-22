@@ -16569,3 +16569,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:11:50]   upload done video_id=26224828 in 81.5s
 [05:11:51] film cr_film_id=8382 OK in 141.6s
 [05:11:51] batch-end ok=19 failed=1 dur=2401.0s avg/film=126.4s remaining=15083 eta_hours=529.6
+
+===== run 2026-06-22T05:12:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27931069191) =====
+[05:12:29] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:12:29] batch-start shard=0/2 count=20 backlog=17650 uploads=2567 failed_attempts=274 description_overrides=17579
+[05:12:29] login
+[05:12:31] login done
+[05:12:31] iteration 1/20
+[05:12:31] film cr_film_id=8384 name='Tichá pomsta (2023) CZ Dabing' candidates=1
+[05:12:31]   candidate upload_id=674578a18e20a url=https://prehraj.to/silent-night-2023-cz-dabing-1080p/674578a18e20a
+[05:12:32]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/112186577/MJnFLEIOLc2gi4mf7LtRdIGnfVAiARCm8CQ…)
+[05:14:51]   downloaded 2,529.8 MB in 136.8s (18.5 MB/s)
+[05:17:53]   upload done video_id=26224914 in 182.1s
