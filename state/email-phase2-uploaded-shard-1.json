@@ -56545,7 +56545,32 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mstitel-2021-cz-1080p-mp4/601acc9e7e334d72",
       "permanent": true,
       "failed_at": "2026-06-22T04:19:43Z"
+    },
+    {
+      "cr_film_id": 8895,
+      "upload_id": "519d43046be614b5",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kurz-manzelske-touhy-2021/519d43046be614b5",
+      "permanent": true,
+      "failed_at": "2026-06-22T04:50:18Z"
+    },
+    {
+      "cr_film_id": 8459,
+      "upload_id": "2b3d4eb440575443",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krasky-z-dubaje-dziewczyny-z-dubaju-2021-cz-720p/2b3d4eb440575443",
+      "permanent": true,
+      "failed_at": "2026-06-22T04:50:23Z"
+    },
+    {
+      "cr_film_id": 14805,
+      "upload_id": "61aa57262d0a0",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds",
+      "permanent": false,
+      "failed_at": "2026-06-22T04:55:07Z",
+      "timing": {
+        "resolve_sec": 7.1,
+        "download_sec": 274.9
+      }
     }
   ],
-  "last_updated": "2026-06-22T04:50:15Z"
+  "last_updated": "2026-06-22T04:55:07Z"
 }

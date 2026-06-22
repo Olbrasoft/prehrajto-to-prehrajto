@@ -20022,3 +20022,22 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [04:48:08]   resolved in 1.5s → 720p (https://pf-storage3.premiumcdn.net/24877235/OkmuYOTbxcr2FL5IV1H9dTYKF2etXKu57C9j…)
 [04:49:09]   downloaded 1,218.9 MB in 58.9s (20.7 MB/s)
 [04:50:15]   upload done video_id=26224437 in 66.3s
+[04:50:17] film cr_film_id=14319 OK in 130.6s
+[04:50:17] iteration 2/20
+[04:50:17] film cr_film_id=8895 name='Kurz manželské touhy (2021)' candidates=1
+[04:50:17]   candidate upload_id=519d43046be614b5 url=https://prehraj.to/kurz-manzelske-touhy-2021/519d43046be614b5
+[04:50:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kurz-manzelske-touhy-2021/519d43046be614b5 (permanent=True)
+[04:50:18] film cr_film_id=8895 all candidates exhausted
+[04:50:18] iteration 3/20
+[04:50:18] film cr_film_id=8459 name='Krásky z Dubaje (2021)' candidates=1
+[04:50:18]   candidate upload_id=2b3d4eb440575443 url=https://prehraj.to/krasky-z-dubaje-dziewczyny-z-dubaju-2021-cz-720p/2b3d4eb440575443
+[04:50:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krasky-z-dubaje-dziewczyny-z-dubaju-2021-cz-720p/2b3d4eb440575443 (permanent=True)
+[04:50:23] film cr_film_id=8459 all candidates exhausted
+[04:50:23] iteration 4/20
+[04:50:23] film cr_film_id=14805 name='Kraj (2021)' candidates=1
+[04:50:23]   candidate upload_id=61aa57262d0a0 url=https://prehraj.to/kraj-2021-1080p-nf-web-dl-ddp2-0-x264-sprite/61aa57262d0a0
+[04:50:30]   resolved in 7.1s → 1080p (https://pf-storage4.premiumcdn.net/27077841/KEXhRkcOgfpvIVGs8qivqcgdS0jHzXFdRuzm…)
+[04:55:07]   download FAILED after 274.9s: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds
+[04:55:07] film cr_film_id=14805 all candidates exhausted
+[04:55:07] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
+[04:55:07] batch-end ok=1 failed=3 dur=420.4s avg/film=420.4s remaining=7146 eta_hours=834.5
