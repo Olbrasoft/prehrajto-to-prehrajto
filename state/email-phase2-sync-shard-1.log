@@ -22078,3 +22078,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [22:57:09]   upload done video_id=26261349 in 32.7s
 [22:57:11] film cr_film_id=19031 OK in 64.4s
 [22:57:11] batch-end ok=20 failed=0 dur=2363.3s avg/film=118.2s remaining=6874 eta_hours=225.7
+
+===== run 2026-06-22T23:28:41Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27991057504) =====
+[23:28:42] batch-start shard=1/2 count=20 backlog=10210 uploads=3336 failed_attempts=174 description_overrides=0
+[23:28:42] login
+[23:28:44] login done
+[23:28:44] iteration 1/20
+[23:28:44] film cr_film_id=29471 name='Gremlin (2017)' candidates=1
+[23:28:44]   candidate upload_id=5fe5ce889c267 url=https://prehraj.to/gremlin-2017-720p-horor-novinka-novinky/5fe5ce889c267
+[23:28:45]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/21020316/a96f2Lu8vHgwhwniZzSLzu7bflnf9ofmPHGg…)
+[23:29:25]   downloaded 671.2 MB in 37.8s (17.8 MB/s)
+[23:30:16]   upload done video_id=26262708 in 50.6s
