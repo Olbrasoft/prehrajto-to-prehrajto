@@ -48770,6 +48770,25 @@
         "download_sec": 113.3,
         "upload_sec": 212.7
       }
+    },
+    {
+      "cr_film_id": 9088,
+      "cr_slug": "the-owners",
+      "title": "The Owners",
+      "year": 2020,
+      "display_name": "The Owners (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5f62a2513a367",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26242882,
+      "size_bytes": 349677254,
+      "uploaded_at": "2026-06-22T13:45:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 40.5,
+        "upload_sec": 21.4
+      }
     }
   ],
   "failed_attempts": [
@@ -50839,5 +50858,5 @@
       "failed_at": "2026-06-22T09:03:43Z"
     }
   ],
-  "last_updated": "2026-06-22T13:44:23Z"
+  "last_updated": "2026-06-22T13:45:31Z"
 }
