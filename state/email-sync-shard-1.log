@@ -18554,3 +18554,25 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [19:40:52]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/3124114/oolUpOFyQTGySv4fX0sVNF1GSEqIlEUEms58C…)
 [19:42:18]   downloaded 375.6 MB in 84.2s (4.5 MB/s)
 [19:42:42]   upload done video_id=26253804 in 24.0s
+[19:42:45] film cr_film_id=10155 OK in 113.6s
+[19:42:45] iteration 14/20
+[19:42:45] film cr_film_id=10157 name='Útok (2023) CZ Dabing' candidates=6
+[19:42:45]   candidate upload_id=51883ed532c5000f url=https://prehraj.to/utok-ambush-2023-cz-dab-mp4/51883ed532c5000f
+[19:42:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/51883ed532c5000f (permanent=True)
+[19:42:45]   candidate upload_id=4a734051daeab375 url=https://prehraj.to/utok-ambush-2023-cz-dab-mp4/4a734051daeab375
+[19:42:51]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/4a734051daeab375 (permanent=True)
+[19:42:51]   candidate upload_id=537a7037f3efcab8 url=https://prehraj.to/utok-ambush-2023-cz-dab-mp4/537a7037f3efcab8
+[19:42:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/537a7037f3efcab8 (permanent=True)
+[19:42:57]   candidate upload_id=d80734d2c500b0ae url=https://prehraj.to/utok-ambush-2023-cz-dab-mp4/d80734d2c500b0ae
+[19:43:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/d80734d2c500b0ae (permanent=True)
+[19:43:02]   candidate upload_id=bb4e8a6aabb9e356 url=https://prehraj.to/utok-ambush-2023-cz-dab-mp4/bb4e8a6aabb9e356
+[19:43:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/bb4e8a6aabb9e356 (permanent=True)
+[19:43:08]   candidate upload_id=f2dab2e7f0fad7ab url=https://prehraj.to/utok-ambush-2023-cz-dab-mp4/f2dab2e7f0fad7ab
+[19:43:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-ambush-2023-cz-dab-mp4/f2dab2e7f0fad7ab (permanent=True)
+[19:43:13] film cr_film_id=10157 all candidates exhausted
+[19:43:13] iteration 15/20
+[19:43:13] film cr_film_id=10165 name='Kemp smrti (2022) CZ Dabing' candidates=2
+[19:43:13]   candidate upload_id=670070dc8b263 url=https://prehraj.to/kemp-smrti-2022-czdab/670070dc8b263
+[19:43:20]   resolved in 6.5s → 1080p (https://pf-storage5.premiumcdn.net/100063838/oq2iGwcDGHALcJ8fkefl3cG1FOEH4OFeruo…)
+[19:44:36]   downloaded 1,833.0 MB in 74.5s (24.6 MB/s)
+[19:46:14]   upload done video_id=26253886 in 97.3s
