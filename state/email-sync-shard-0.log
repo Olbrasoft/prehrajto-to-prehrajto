@@ -16121,3 +16121,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:49:38]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vyjimecny-stav-2024-mp4/a581dbc74e42b52a (permanent=True)
 [02:49:39] film cr_film_id=8118 all candidates exhausted
 [02:49:39] batch-end ok=18 failed=2 dur=2863.5s avg/film=159.1s remaining=15140 eta_hours=669.1
+
+===== run 2026-06-22T02:50:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27926433501) =====
+[02:50:12] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:50:12] batch-start shard=0/2 count=20 backlog=17650 uploads=2510 failed_attempts=265 description_overrides=17579
+[02:50:12] login
+[02:50:14] login done
+[02:50:14] iteration 1/20
+[02:50:14] film cr_film_id=8120 name='Bogota: Město ztracených (2024) CZ Dabing' candidates=1
+[02:50:14]   candidate upload_id=67d8695179fac url=https://prehraj.to/bogota-mesto-ztracenych-2024-cz-dab-1080p/67d8695179fac
+[02:50:15]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/132407777/9peflJuYwHZXH72sraiQgudDfklsrOsm5cO…)
+[02:51:53]   downloaded 2,749.1 MB in 96.2s (28.6 MB/s)
+[02:54:31]   upload done video_id=26222085 in 158.5s
