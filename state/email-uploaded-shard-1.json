@@ -47278,6 +47278,25 @@
         "download_sec": 78.6,
         "upload_sec": 131.1
       }
+    },
+    {
+      "cr_film_id": 9221,
+      "cr_slug": "kolskaja-sverchglubokaja",
+      "title": "Kolskaja sverchglubokaja",
+      "year": 2020,
+      "display_name": "Kolskaja sverchglubokaja (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "614b189eb596d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26230887,
+      "size_bytes": 410623884,
+      "uploaded_at": "2026-06-22T08:57:51Z",
+      "timing": {
+        "resolve_sec": 6.7,
+        "download_sec": 25.2,
+        "upload_sec": 37.9
+      }
     }
   ],
   "failed_attempts": [
@@ -49104,7 +49123,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tri-tygri-ve-filmu-jackpot-2022-czdabing-mp4/bc6e4f3687d41842",
       "permanent": true,
       "failed_at": "2026-06-22T08:48:23Z"
+    },
+    {
+      "cr_film_id": 9217,
+      "upload_id": "74a8d3708faeff31",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/nebezpecne-touhy-2019-cz-dabing-hd-mp4/74a8d3708faeff31",
+      "permanent": true,
+      "failed_at": "2026-06-22T08:56:39Z"
     }
   ],
-  "last_updated": "2026-06-22T08:56:36Z"
+  "last_updated": "2026-06-22T08:57:51Z"
 }

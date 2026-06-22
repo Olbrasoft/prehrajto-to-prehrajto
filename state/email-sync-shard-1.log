@@ -17217,3 +17217,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:53:04]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/29824655/ZaRsYkcrNTVJUZmFXbf8RcratgJS4pC1mfND…)
 [08:54:25]   downloaded 1,436.3 MB in 78.6s (18.3 MB/s)
 [08:56:36]   upload done video_id=26230597 in 131.1s
+[08:56:38] film cr_film_id=9213 OK in 215.1s
+[08:56:38] iteration 12/20
+[08:56:38] film cr_film_id=9217 name='Nebezpečné touhy (2019) CZ Dabing' candidates=1
+[08:56:38]   candidate upload_id=74a8d3708faeff31 url=https://prehraj.to/nebezpecne-touhy-2019-cz-dabing-hd-mp4/74a8d3708faeff31
+[08:56:39]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/nebezpecne-touhy-2019-cz-dabing-hd-mp4/74a8d3708faeff31 (permanent=True)
+[08:56:39] film cr_film_id=9217 all candidates exhausted
+[08:56:39] iteration 13/20
+[08:56:39] film cr_film_id=9221 name='Kolskaja sverchglubokaja (2020) CZ' candidates=1
+[08:56:39]   candidate upload_id=614b189eb596d url=https://prehraj.to/the-superdeep-kolskaja-sverchglubokaja-kolsky-supervrt-full-hd-2020-rus-dab-cz-tit-rimini-60-csfd-horor/614b189eb596d
+[08:56:46]   resolved in 6.7s → 480p (https://pf-storage1.premiumcdn.net/24988208/1AzimZFKocD5TZetEQTwgFP7U9mcOVH8nC1y…)
+[08:57:13]   downloaded 410.6 MB in 25.2s (16.3 MB/s)
+[08:57:51]   upload done video_id=26230887 in 37.9s
