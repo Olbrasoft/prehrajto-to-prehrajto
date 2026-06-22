@@ -58909,6 +58909,25 @@
         "download_sec": 58.3,
         "upload_sec": 117.3
       }
+    },
+    {
+      "cr_film_id": 30858,
+      "cr_slug": "samurai-marathon",
+      "title": "Samurai Marathon",
+      "year": 2019,
+      "display_name": "Samurai Marathon (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "45f4b15b06826096",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26246273,
+      "size_bytes": 1296692766,
+      "uploaded_at": "2026-06-22T16:29:32Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 159.6,
+        "upload_sec": 167.2
+      }
     }
   ],
   "failed_attempts": [
@@ -60184,7 +60203,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zaby-bez-jazyka-2020-cz-1080p/3b3a288ef44cf901",
       "permanent": true,
       "failed_at": "2026-06-22T15:51:22Z"
+    },
+    {
+      "cr_film_id": 36814,
+      "upload_id": "aacc536b9a9ada5e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smejko-a-tanculienka-vsetko-najlepsie-2019-sk/aacc536b9a9ada5e",
+      "permanent": true,
+      "failed_at": "2026-06-22T16:23:58Z"
     }
   ],
-  "last_updated": "2026-06-22T16:23:55Z"
+  "last_updated": "2026-06-22T16:29:32Z"
 }

@@ -21390,3 +21390,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [16:20:58]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/16544531/oODH6duoBSwBcRdhAVUMzuAQtDvTZXc8JT16…)
 [16:21:58]   downloaded 1,269.6 MB in 58.3s (21.8 MB/s)
 [16:23:55]   upload done video_id=26246055 in 117.3s
+[16:23:57] film cr_film_id=574 OK in 180.0s
+[16:23:57] iteration 18/20
+[16:23:57] film cr_film_id=36814 name='Smejko a Tanculienka - Všetko najlepšie! (2019)' candidates=1
+[16:23:57]   candidate upload_id=aacc536b9a9ada5e url=https://prehraj.to/smejko-a-tanculienka-vsetko-najlepsie-2019-sk/aacc536b9a9ada5e
+[16:23:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smejko-a-tanculienka-vsetko-najlepsie-2019-sk/aacc536b9a9ada5e (permanent=True)
+[16:23:58] film cr_film_id=36814 all candidates exhausted
+[16:23:58] iteration 19/20
+[16:23:58] film cr_film_id=30858 name='Samurai Marathon (2019)' candidates=1
+[16:23:58]   candidate upload_id=45f4b15b06826096 url=https://prehraj.to/samurai-marathon-2019-remux-720p-bluray-x264-aac-yts-mx/45f4b15b06826096
+[16:24:04]   resolved in 5.9s → 480p (https://pf-storage3.premiumcdn.net/156580061/mDwhQNHAkFOQHwYIozUQPHN1CwnSWKhG1U4…)
+[16:26:45]   downloaded 1,296.7 MB in 159.6s (8.1 MB/s)
+[16:29:32]   upload done video_id=26246273 in 167.2s
