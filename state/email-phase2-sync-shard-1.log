@@ -19534,3 +19534,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:34:02]   resolved in 6.3s → 720p (https://pf-storage5.premiumcdn.net/126820322/Wd0hQ5fZ7hW0c39to6iZDfXKfnohp8TB1CX…)
 [01:35:18]   downloaded 1,344.8 MB in 73.7s (18.2 MB/s)
 [01:36:38]   upload done video_id=26220619 in 80.0s
+[01:36:40] film cr_film_id=14997 OK in 164.4s
+[01:36:40] iteration 16/20
+[01:36:40] film cr_film_id=14419 name='Zpráva o záchraně mrtvého (2021)' candidates=1
+[01:36:40]   candidate upload_id=5272e9aed5b71273 url=https://prehraj.to/zprava-o-zachrane-mrtveho-2022-cz/5272e9aed5b71273
+[01:36:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zprava-o-zachrane-mrtveho-2022-cz/5272e9aed5b71273 (permanent=True)
+[01:36:47] film cr_film_id=14419 all candidates exhausted
+[01:36:47] iteration 17/20
+[01:36:47] film cr_film_id=31139 name='Zlatíčko (2021)' candidates=1
+[01:36:47]   candidate upload_id=6176dbd43e3eb url=https://prehraj.to/sweetheart-2021-1080p-webrip-dd5-1-x264-nogrp/6176dbd43e3eb
+[01:36:53]   resolved in 6.2s → 720p (https://pf-storage4.premiumcdn.net/25857682/YBdt7oUMgIZPsOluzXIaYUO4hNoiGbSqyslL…)
+[01:39:30]   downloaded 1,721.4 MB in 146.5s (11.8 MB/s)
+[01:41:08]   upload done video_id=26220676 in 98.8s
