@@ -17437,3 +17437,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:04:35]   upload done video_id=26233008 in 118.0s
 [10:04:37] film cr_film_id=9369 OK in 195.3s
 [10:04:37] batch-end ok=19 failed=1 dur=2410.3s avg/film=126.9s remaining=14983 eta_hours=528.2
+
+===== run 2026-06-22T10:28:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27946255444) =====
+[10:28:33] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:28:33] batch-start shard=1/2 count=20 backlog=17650 uploads=2667 failed_attempts=259 description_overrides=17579
+[10:28:33] login
+[10:28:35] login done
+[10:28:35] iteration 1/20
+[10:28:35] film cr_film_id=9375 name='Tajemství dračí pečeti (2019) CZ Dabing' candidates=16
+[10:28:35]   candidate upload_id=5f27b49023245 url=https://prehraj.to/draci-peceti-tajemstvi-2019-cz-dabing-hd-1080p/5f27b49023245
+[10:28:36]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/17728821/OYPcd3iOpSEVFGPfLPfRwiOAFypCJ5FbpIdl…)
+[10:29:23]   downloaded 1,267.5 MB in 45.1s (28.1 MB/s)
+[10:31:04]   upload done video_id=26234948 in 101.3s
