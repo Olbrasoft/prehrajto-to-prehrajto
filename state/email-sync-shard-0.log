@@ -17310,3 +17310,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:27:37]   upload done video_id=26233421 in 94.2s
 [10:27:39] film cr_film_id=8766 OK in 167.2s
 [10:27:39] batch-end ok=20 failed=0 dur=3793.7s avg/film=189.7s remaining=14990 eta_hours=789.9
+
+===== run 2026-06-22T10:28:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27946255444) =====
+[10:28:33] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:28:33] batch-start shard=0/2 count=20 backlog=17650 uploads=2660 failed_attempts=291 description_overrides=17579
+[10:28:33] login
+[10:28:34] login done
+[10:28:34] iteration 1/20
+[10:28:34] film cr_film_id=8772 name='Unforgettable (2017) CZ Dabing' candidates=4
+[10:28:34]   candidate upload_id=5bbeafd04d894 url=https://prehraj.to/unforgettable-cz-dabing-2017/5bbeafd04d894
+[10:28:35]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/7056743/dy2tQBHbdT4di97cNatlJHjys91tyLUA2FvwT…)
+[10:29:10]   downloaded 1,168.1 MB in 33.7s (34.7 MB/s)
+[10:30:06]   upload done video_id=26234755 in 55.8s
