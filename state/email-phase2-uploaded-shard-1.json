@@ -57637,6 +57637,25 @@
         "download_sec": 28.3,
         "upload_sec": 31.2
       }
+    },
+    {
+      "cr_film_id": 33801,
+      "cr_slug": "sadako",
+      "title": "Sadako",
+      "year": 2019,
+      "display_name": "Sadako (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "60db13090171a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26241656,
+      "size_bytes": 1134328270,
+      "uploaded_at": "2026-06-22T12:32:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 41.7,
+        "upload_sec": 90.7
+      }
     }
   ],
   "failed_attempts": [
@@ -58879,5 +58898,5 @@
       "failed_at": "2026-06-22T12:26:33Z"
     }
   ],
-  "last_updated": "2026-06-22T12:30:12Z"
+  "last_updated": "2026-06-22T12:32:29Z"
 }
