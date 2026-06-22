@@ -57161,6 +57161,25 @@
         "download_sec": 116.2,
         "upload_sec": 127.3
       }
+    },
+    {
+      "cr_film_id": 29874,
+      "cr_slug": "chyba-v-matrixu",
+      "title": "Chyba v Matrixu",
+      "year": 2021,
+      "display_name": "Chyba v Matrixu (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "60a26b784d445",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26238898,
+      "size_bytes": 4067848610,
+      "uploaded_at": "2026-06-22T11:22:48Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 192.1,
+        "upload_sec": 208.3
+      }
     }
   ],
   "failed_attempts": [
@@ -58366,7 +58385,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/harry-aft-boxer-z-osvetimi-the-urvivor-2021-1080p-webrip-h264-dd-2-0-cz/68793d004ffa6",
       "permanent": true,
       "failed_at": "2026-06-22T10:43:11Z"
+    },
+    {
+      "cr_film_id": 3322,
+      "upload_id": "c799f3c28a81c216",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/chyby-2021-cz-mp4/c799f3c28a81c216",
+      "permanent": true,
+      "failed_at": "2026-06-22T11:15:59Z"
     }
   ],
-  "last_updated": "2026-06-22T11:15:56Z"
+  "last_updated": "2026-06-22T11:22:48Z"
 }

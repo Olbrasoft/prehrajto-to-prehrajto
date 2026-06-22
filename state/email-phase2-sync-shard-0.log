@@ -20665,3 +20665,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [11:11:51]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/23947749/n7PiJNSAqhk7uEDFZkcwZSAliO4HMRH6kSB9…)
 [11:13:49]   downloaded 2,488.3 MB in 116.2s (21.4 MB/s)
 [11:15:56]   upload done video_id=26238819 in 127.3s
+[11:15:59] film cr_film_id=26990 OK in 249.5s
+[11:15:59] iteration 16/20
+[11:15:59] film cr_film_id=3322 name='Chyby (2021)' candidates=1
+[11:15:59]   candidate upload_id=c799f3c28a81c216 url=https://prehraj.to/chyby-2021-cz-mp4/c799f3c28a81c216
+[11:15:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/chyby-2021-cz-mp4/c799f3c28a81c216 (permanent=True)
+[11:15:59] film cr_film_id=3322 all candidates exhausted
+[11:15:59] iteration 17/20
+[11:15:59] film cr_film_id=29874 name='Chyba v Matrixu (2021)' candidates=1
+[11:15:59]   candidate upload_id=60a26b784d445 url=https://prehraj.to/a-glitch-in-the-matrix-2021-1080p-bluray-x264-scare/60a26b784d445
+[11:16:06]   resolved in 6.1s → 1080p (https://pf-storage5.premiumcdn.net/23548899/GQMse9h30IxAtKahODTXJhNDixaFprse6Iel…)
+[11:19:20]   downloaded 4,067.8 MB in 192.1s (21.2 MB/s)
+[11:22:48]   upload done video_id=26238898 in 208.3s
