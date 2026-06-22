@@ -17457,3 +17457,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:08:19]   upload done video_id=26238698 in 88.5s
 [11:08:21] film cr_film_id=8852 OK in 147.2s
 [11:08:21] batch-end ok=20 failed=0 dur=2387.0s avg/film=119.3s remaining=14970 eta_hours=496.1
+
+===== run 2026-06-22T11:09:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27948383196) =====
+[11:09:33] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:09:33] batch-start shard=0/2 count=20 backlog=17650 uploads=2680 failed_attempts=291 description_overrides=17579
+[11:09:33] login
+[11:09:34] login done
+[11:09:34] iteration 1/20
+[11:09:34] film cr_film_id=8854 name='Čarodějnice z předměstí (2023) CZ Dabing' candidates=1
+[11:09:34]   candidate upload_id=67cb245dc251a url=https://prehraj.to/carodejnice-z-predmesti-2023-cz-dabing-1080p/67cb245dc251a
+[11:09:35]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/131578895/lnJsPBcjGtP5HABtj8U35cwGu5RuMVUJOHd…)
+[11:10:24]   downloaded 1,640.2 MB in 47.1s (34.8 MB/s)
+[11:11:29]   upload done video_id=26238763 in 65.3s
