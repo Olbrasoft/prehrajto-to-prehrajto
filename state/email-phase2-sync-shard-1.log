@@ -20597,3 +20597,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [10:20:54]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/21462132/4OMFdZSe7TolfO8TyQcQYSMWTomIOGHpNsqA…)
 [10:21:33]   downloaded 1,036.2 MB in 37.2s (27.9 MB/s)
 [10:22:37]   upload done video_id=26233365 in 63.7s
+[10:22:39] film cr_film_id=26925 OK in 105.3s
+[10:22:39] iteration 18/20
+[10:22:39] film cr_film_id=2275 name='Malá rybka (2020)' candidates=1
+[10:22:39]   candidate upload_id=25c0dcc3b9cb4587 url=https://prehraj.to/mala-rybka-2020-cz-dabing-mp4/25c0dcc3b9cb4587
+[10:22:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mala-rybka-2020-cz-dabing-mp4/25c0dcc3b9cb4587 (permanent=True)
+[10:22:39] film cr_film_id=2275 all candidates exhausted
+[10:22:39] iteration 19/20
+[10:22:39] film cr_film_id=17525 name='Knuckledust (2020)' candidates=1
+[10:22:39]   candidate upload_id=60dc2b42d0930 url=https://prehraj.to/doupe-rvacu-knuckledust-2020-720p-bluray-x264-titulky-cz/60dc2b42d0930
+[10:22:45]   resolved in 6.0s → 480p (https://pf-storage5.premiumcdn.net/24092982/Pq1UoAFk6I2liObIbBIweFKbCMJS0YHy7ckX…)
+[10:23:09]   downloaded 611.6 MB in 22.5s (27.2 MB/s)
+[10:23:51]   upload done video_id=26233382 in 42.0s
