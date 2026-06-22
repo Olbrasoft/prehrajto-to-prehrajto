@@ -60467,6 +60467,25 @@
         "download_sec": 95.5,
         "upload_sec": 126.4
       }
+    },
+    {
+      "cr_film_id": 35396,
+      "cr_slug": "film-55",
+      "title": "장산범",
+      "year": 2017,
+      "display_name": "장산범 (2017)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5fe5e1ba15d81",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26262865,
+      "size_bytes": 588403326,
+      "uploaded_at": "2026-06-22T23:34:31Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 33.3,
+        "upload_sec": 81.9
+      }
     }
   ],
   "failed_attempts": [
@@ -61758,5 +61777,5 @@
       "failed_at": "2026-06-22T18:27:23Z"
     }
   ],
-  "last_updated": "2026-06-22T23:32:29Z"
+  "last_updated": "2026-06-22T23:34:31Z"
 }
