@@ -18462,3 +18462,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [18:13:39]   upload done video_id=26250312 in 192.5s
 [18:13:41] film cr_film_id=10083 OK in 329.2s
 [18:13:41] batch-end ok=20 failed=0 dur=5965.6s avg/film=298.3s remaining=14852 eta_hours=1230.7
+
+===== run 2026-06-22T18:14:20Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27974109348) =====
+[18:14:22] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[18:14:22] batch-start shard=1/2 count=20 backlog=17650 uploads=2798 failed_attempts=275 description_overrides=17579
+[18:14:22] login
+[18:14:23] login done
+[18:14:23] iteration 1/20
+[18:14:23] film cr_film_id=10087 name='Les sebevrahů (2013) CZ Dabing' candidates=2
+[18:14:23]   candidate upload_id=5787303e1e9f0 url=https://prehraj.to/les-sebevrahu-2013-cz-dabing/5787303e1e9f0
+[18:14:24]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/170640/z6PtVzI40hboH2jfXKTkRIgZCvNSPnHl3Fr5Cp…)
+[18:14:53]   downloaded 519.3 MB in 26.5s (19.6 MB/s)
+[18:15:34]   upload done video_id=26250517 in 41.0s
