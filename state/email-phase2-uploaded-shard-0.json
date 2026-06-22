@@ -55907,6 +55907,25 @@
         "download_sec": 82.4,
         "upload_sec": 107.6
       }
+    },
+    {
+      "cr_film_id": 33934,
+      "cr_slug": "the-novice",
+      "title": "The Novice",
+      "year": 2021,
+      "display_name": "The Novice (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "61be12bef30fd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26227192,
+      "size_bytes": 1362774623,
+      "uploaded_at": "2026-06-22T07:32:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 76.2,
+        "upload_sec": 80.0
+      }
     }
   ],
   "failed_attempts": [
@@ -57051,5 +57070,5 @@
       "failed_at": "2026-06-22T06:28:21Z"
     }
   ],
-  "last_updated": "2026-06-22T07:29:38Z"
+  "last_updated": "2026-06-22T07:32:20Z"
 }
