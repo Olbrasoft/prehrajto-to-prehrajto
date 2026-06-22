@@ -16672,3 +16672,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:08:54]   upload done video_id=26224750 in 104.4s
 [05:08:56] film cr_film_id=8893 OK in 173.6s
 [05:08:56] batch-end ok=19 failed=1 dur=2225.6s avg/film=117.1s remaining=15076 eta_hours=490.4
+
+===== run 2026-06-22T05:12:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27931069191) =====
+[05:12:30] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:12:30] batch-start shard=1/2 count=20 backlog=17650 uploads=2574 failed_attempts=232 description_overrides=17579
+[05:12:30] login
+[05:12:32] login done
+[05:12:32] iteration 1/20
+[05:12:32] film cr_film_id=8899 name='Kde jsou prachy? (2017) CZ Dabing' candidates=1
+[05:12:32]   candidate upload_id=68dfa74586eb9 url=https://prehraj.to/kde-jsou-prachy-2017-cz-dab-1080p/68dfa74586eb9
+[05:12:33]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/149599728/kVgcr3TkLsOaTWrcqNfjrTvNs62FB7fNOh5…)
+[05:13:39]   downloaded 1,408.9 MB in 64.5s (21.8 MB/s)
+[05:15:31]   upload done video_id=26224890 in 111.8s
