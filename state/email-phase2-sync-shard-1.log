@@ -19252,3 +19252,20 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:01:17]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/33236299/vGQH3jirzFAKix4sQ6UvKiNOIVvSr0C5wcbA…)
 [00:01:54]   downloaded 981.0 MB in 35.8s (27.4 MB/s)
 [00:02:36]   upload done video_id=26218806 in 41.7s
+[00:02:37] film cr_film_id=19861 OK in 81.7s
+[00:02:37] iteration 15/20
+[00:02:37] film cr_film_id=2885 name='Promlčeno (2022)' candidates=1
+[00:02:37]   candidate upload_id=54178323151a412f url=https://prehraj.to/promlceno-2022-mkv/54178323151a412f
+[00:02:38]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/promlceno-2022-mkv/54178323151a412f (permanent=True)
+[00:02:38] film cr_film_id=2885 all candidates exhausted
+[00:02:38] iteration 16/20
+[00:02:38] film cr_film_id=8173 name='Princ Mamánek (2022)' candidates=1
+[00:02:38]   candidate upload_id=028cf66c21163f0a url=https://prehraj.to/princ-mamanek-2022-cz-mp4/028cf66c21163f0a
+[00:02:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princ-mamanek-2022-cz-mp4/028cf66c21163f0a (permanent=True)
+[00:02:44] film cr_film_id=8173 all candidates exhausted
+[00:02:44] iteration 17/20
+[00:02:44] film cr_film_id=2221 name='Piargy (2022)' candidates=1
+[00:02:44]   candidate upload_id=669b6ebf72ae2 url=https://prehraj.to/piargy-webrip-sk-2022-1080p/669b6ebf72ae2
+[00:02:50]   resolved in 6.0s → 1080p (https://pf-storage1.premiumcdn.net/85871519/l5Mu69H2EHZzsMqtW7CvkHdKIJyiXyHQJFMr…)
+[00:03:45]   downloaded 1,872.5 MB in 53.1s (35.3 MB/s)
+[00:05:01]   upload done video_id=26218821 in 76.6s
