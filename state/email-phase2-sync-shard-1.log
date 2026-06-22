@@ -21786,3 +21786,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [21:17:27]   upload done video_id=26257546 in 33.2s
 [21:17:29] film cr_film_id=20875 OK in 70.3s
 [21:17:29] batch-end ok=20 failed=0 dur=10473.3s avg/film=523.7s remaining=6914 eta_hours=1005.8
+
+===== run 2026-06-22T21:18:07Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27984664527) =====
+[21:18:07] batch-start shard=1/2 count=20 backlog=10210 uploads=3296 failed_attempts=174 description_overrides=0
+[21:18:07] login
+[21:18:09] login done
+[21:18:09] iteration 1/20
+[21:18:09] film cr_film_id=30597 name='The Day the Dinosaurs Died (2017)' candidates=1
+[21:18:09]   candidate upload_id=5ac5795335bca url=https://prehraj.to/the-day-the-dinosaurs-died-2017/5ac5795335bca
+[21:18:10]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/3828064/BJRtDrTl8Ioksjoi5zUkpTNeuD1FPKukYivEs…)
+[21:19:30]   downloaded 850.3 MB in 77.9s (10.9 MB/s)
+[21:20:29]   upload done video_id=26257648 in 59.6s
