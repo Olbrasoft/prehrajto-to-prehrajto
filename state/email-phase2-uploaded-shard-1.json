@@ -53666,6 +53666,25 @@
         "download_sec": 31.8,
         "upload_sec": 46.3
       }
+    },
+    {
+      "cr_film_id": 6867,
+      "cr_slug": "muz-z-toronta",
+      "title": "Muž z Toronta",
+      "year": 2022,
+      "display_name": "Muž z Toronta (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68250c500dd5e",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26218856,
+      "size_bytes": 534780253,
+      "uploaded_at": "2026-06-22T00:07:17Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 16.5,
+        "upload_sec": 26.9
+      }
     }
   ],
   "failed_attempts": [
@@ -54694,7 +54713,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princ-mamanek-2022-cz-mp4/028cf66c21163f0a",
       "permanent": true,
       "failed_at": "2026-06-22T00:02:44Z"
+    },
+    {
+      "cr_film_id": 15675,
+      "upload_id": "94a2da1923f734d0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/myska-a-medved-na-cestach-2022-cz/94a2da1923f734d0",
+      "permanent": true,
+      "failed_at": "2026-06-22T00:06:26Z"
     }
   ],
-  "last_updated": "2026-06-22T00:06:23Z"
+  "last_updated": "2026-06-22T00:07:17Z"
 }

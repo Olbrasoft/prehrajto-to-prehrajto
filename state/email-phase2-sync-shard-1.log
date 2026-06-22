@@ -19276,3 +19276,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:05:04]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/42400379/JMEsJLhWRiLZTOkCx9SAKh6eTGPhYLUoKcky…)
 [00:05:37]   downloaded 879.6 MB in 31.8s (27.7 MB/s)
 [00:06:23]   upload done video_id=26218840 in 46.3s
+[00:06:25] film cr_film_id=15143 OK in 82.0s
+[00:06:25] iteration 19/20
+[00:06:25] film cr_film_id=15675 name='Myška a medvěd na cestách (2022)' candidates=1
+[00:06:25]   candidate upload_id=94a2da1923f734d0 url=https://prehraj.to/myska-a-medved-na-cestach-2022-cz/94a2da1923f734d0
+[00:06:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/myska-a-medved-na-cestach-2022-cz/94a2da1923f734d0 (permanent=True)
+[00:06:26] film cr_film_id=15675 all candidates exhausted
+[00:06:26] iteration 20/20
+[00:06:26] film cr_film_id=6867 name='Muž z Toronta (2022)' candidates=2
+[00:06:26]   candidate upload_id=68250c500dd5e url=https://prehraj.to/muz-z-toronta-2021/68250c500dd5e
+[00:06:32]   resolved in 6.0s → 480p (https://pf-storage1.premiumcdn.net/138035951/z90fznTqwcRdiWqf4qTVATevhBESzgcBjsL…)
+[00:06:50]   downloaded 534.8 MB in 16.5s (32.4 MB/s)
+[00:07:17]   upload done video_id=26218856 in 26.9s
