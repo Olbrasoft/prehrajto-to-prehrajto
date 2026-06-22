@@ -20015,3 +20015,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [05:46:44]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/144651/jMGfJrurKFvySZQtngUbquX9IAqU19CP7h14I8…)
 [05:47:18]   downloaded 509.2 MB in 30.9s (16.5 MB/s)
 [05:47:51]   upload done video_id=26225534 in 33.3s
+[05:47:53] film cr_film_id=32306 OK in 69.7s
+[05:47:53] iteration 6/20
+[05:47:53] film cr_film_id=436 name='Batman (2022)' candidates=1
+[05:47:53]   candidate upload_id=cb5f319303b1df93 url=https://prehraj.to/batman-cz-dabing-2022/cb5f319303b1df93
+[05:47:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/batman-cz-dabing-2022/cb5f319303b1df93 (permanent=True)
+[05:47:54] film cr_film_id=436 all candidates exhausted
+[05:47:54] iteration 7/20
+[05:47:54] film cr_film_id=15020 name='Bar Fight (2022)' candidates=2
+[05:47:54]   candidate upload_id=6d8b6c5b406dd361 url=https://prehraj.to/bar-fight-2022-cz-mp4/6d8b6c5b406dd361
+[05:48:00]   resolved in 6.2s → 720p (https://pf-storage5.premiumcdn.net/170351033/jyvf95SLZfZjH6wsw8cnvSxjHy9s5DTObHK…)
+[05:48:48]   downloaded 807.9 MB in 45.7s (17.7 MB/s)
+[05:49:37]   upload done video_id=26225556 in 49.0s
