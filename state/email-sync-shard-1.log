@@ -17762,3 +17762,28 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:23:36]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/150899772/1q9SXOiplsLnuvmfdVHB1irEtqBcxkF52hG…)
 [12:24:48]   downloaded 1,910.5 MB in 69.7s (27.4 MB/s)
 [12:26:24]   upload done video_id=26241498 in 95.9s
+[12:26:27] film cr_film_id=9601 OK in 171.5s
+[12:26:27] iteration 5/20
+[12:26:27] film cr_film_id=9605 name='Dvojitá hra (2025) CZ Dabing' candidates=5
+[12:26:27]   candidate upload_id=ea0a9d33483dd7db url=https://prehraj.to/dvojita-hra-2025-cz-dab-1080p/ea0a9d33483dd7db
+[12:26:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dab-1080p/ea0a9d33483dd7db (permanent=True)
+[12:26:27]   candidate upload_id=628508a8d09647bf url=https://prehraj.to/dvojita-hra-2025-akcni-thriller-usa-czdab-1080p/628508a8d09647bf
+[12:26:33]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-akcni-thriller-usa-czdab-1080p/628508a8d09647bf (permanent=True)
+[12:26:33]   candidate upload_id=7c1810e73d1c1b7d url=https://prehraj.to/dvojita-hra-2025-cz-dab-1080p/7c1810e73d1c1b7d
+[12:26:38]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dab-1080p/7c1810e73d1c1b7d (permanent=True)
+[12:26:38]   candidate upload_id=133acc0bef28d689 url=https://prehraj.to/dvojita-hra-2025-cz-dabing/133acc0bef28d689
+[12:26:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dabing/133acc0bef28d689 (permanent=True)
+[12:26:44]   candidate upload_id=6d2b03b58984cc15 url=https://prehraj.to/dvojita-hra-2025-cz-dabing/6d2b03b58984cc15
+[12:26:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dabing/6d2b03b58984cc15 (permanent=True)
+[12:26:50] film cr_film_id=9605 all candidates exhausted
+[12:26:50] iteration 6/20
+[12:26:50] film cr_film_id=9609 name='Striptýz (1996) CZ Dabing' candidates=1
+[12:26:50]   candidate upload_id=68336fe781fef url=https://prehraj.to/striptyz-118m-1996-usa-czdabing-hd-720p-i/68336fe781fef
+[12:26:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/striptyz-118m-1996-usa-czdabing-hd-720p-i/68336fe781fef (permanent=True)
+[12:26:56] film cr_film_id=9609 all candidates exhausted
+[12:26:56] iteration 7/20
+[12:26:56] film cr_film_id=9613 name='Nádrž (2023) CZ Dabing' candidates=4
+[12:26:56]   candidate upload_id=67f3b312b0de9 url=https://prehraj.to/the-tank-nadrz-cz-dabing-2023-1080p/67f3b312b0de9
+[12:27:02]   resolved in 6.4s → 1080p (https://pf-storage3.premiumcdn.net/134387162/rwmtnlc7rh5KSgEclLHwVc4bsvLIm1C3jsD…)
+[12:27:51]   downloaded 1,667.2 MB in 47.8s (34.9 MB/s)
+[12:29:40]   upload done video_id=26241572 in 108.2s

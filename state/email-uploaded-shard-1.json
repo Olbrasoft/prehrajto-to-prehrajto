@@ -48608,6 +48608,25 @@
         "download_sec": 69.7,
         "upload_sec": 95.9
       }
+    },
+    {
+      "cr_film_id": 9613,
+      "cr_slug": "the-tank",
+      "title": "Nádrž",
+      "year": 2023,
+      "display_name": "Nádrž (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67f3b312b0de9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26241572,
+      "size_bytes": 1667249590,
+      "uploaded_at": "2026-06-22T12:29:40Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 47.8,
+        "upload_sec": 108.2
+      }
     }
   ],
   "failed_attempts": [
@@ -50497,7 +50516,49 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/tajemstvi-ve-snehu-2020-cz-dabing-hd-mp4/2fea843c5c5ec7d6",
       "permanent": true,
       "failed_at": "2026-06-22T11:09:40Z"
+    },
+    {
+      "cr_film_id": 9605,
+      "upload_id": "ea0a9d33483dd7db",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dab-1080p/ea0a9d33483dd7db",
+      "permanent": true,
+      "failed_at": "2026-06-22T12:26:27Z"
+    },
+    {
+      "cr_film_id": 9605,
+      "upload_id": "628508a8d09647bf",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-akcni-thriller-usa-czdab-1080p/628508a8d09647bf",
+      "permanent": true,
+      "failed_at": "2026-06-22T12:26:33Z"
+    },
+    {
+      "cr_film_id": 9605,
+      "upload_id": "7c1810e73d1c1b7d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dab-1080p/7c1810e73d1c1b7d",
+      "permanent": true,
+      "failed_at": "2026-06-22T12:26:38Z"
+    },
+    {
+      "cr_film_id": 9605,
+      "upload_id": "133acc0bef28d689",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dabing/133acc0bef28d689",
+      "permanent": true,
+      "failed_at": "2026-06-22T12:26:44Z"
+    },
+    {
+      "cr_film_id": 9605,
+      "upload_id": "6d2b03b58984cc15",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dvojita-hra-2025-cz-dabing/6d2b03b58984cc15",
+      "permanent": true,
+      "failed_at": "2026-06-22T12:26:50Z"
+    },
+    {
+      "cr_film_id": 9609,
+      "upload_id": "68336fe781fef",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/striptyz-118m-1996-usa-czdabing-hd-720p-i/68336fe781fef",
+      "permanent": true,
+      "failed_at": "2026-06-22T12:26:56Z"
     }
   ],
-  "last_updated": "2026-06-22T12:26:24Z"
+  "last_updated": "2026-06-22T12:29:40Z"
 }
