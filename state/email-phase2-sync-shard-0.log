@@ -19474,3 +19474,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [02:35:03]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/137600258/o63tAXHk8s6nTG7S7LTAaH3XUvOhv4slMiN…)
 [02:37:18]   downloaded 1,347.1 MB in 133.1s (10.1 MB/s)
 [02:38:39]   upload done video_id=26221763 in 80.8s
+[02:38:41] film cr_film_id=34612 OK in 219.2s
+[02:38:41] iteration 14/20
+[02:38:41] film cr_film_id=4466 name='Ezra (2023)' candidates=10
+[02:38:41]   candidate upload_id=67b5511f80bae url=https://prehraj.to/ezra-1080p-bluray-x264-dts-en-ac3-cz-2023/67b5511f80bae
+[02:38:42]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/130128227/Qvkiqvf83C4ZSGLs6BtgbfaGTqVCB3FgrH1…)
+[02:39:54]   downloaded 1,276.8 MB in 69.2s (18.5 MB/s)
+[02:39:54]   upload FAILED after 0.0s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[02:39:54]   candidate upload_id=667d325857994 url=https://prehraj.to/ezra-2023-1080p-amzn-web-dl-ddp5-1-h-264-byndr/667d325857994
+[02:39:55]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/80912024/KzgTm6Iwat9RFWJTlzCD5IkaCv2sPJtZWTnM…)
+[02:41:07]   downloaded 1,314.3 MB in 69.9s (18.8 MB/s)
+[02:42:31]   upload done video_id=26221872 in 83.1s
