@@ -19300,3 +19300,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:13:08]   resolved in 6.2s → 720p (https://pf-storage3.premiumcdn.net/47442038/dJoS6yHnBTqbF49fMmhLbHaXFwRFqjf27SPB…)
 [01:13:39]   downloaded 857.4 MB in 29.6s (29.0 MB/s)
 [01:14:18]   upload done video_id=26220178 in 39.5s
+[01:14:21] film cr_film_id=18492 OK in 79.1s
+[01:14:21] iteration 9/20
+[01:14:21] film cr_film_id=15908 name='Villa Lucia (2023)' candidates=1
+[01:14:21]   candidate upload_id=a64bae6fc339e92f url=https://prehraj.to/villa-lucia-hd-1080p-2023-cz-sk-mp4/a64bae6fc339e92f
+[01:14:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/villa-lucia-hd-1080p-2023-cz-sk-mp4/a64bae6fc339e92f (permanent=True)
+[01:14:21] film cr_film_id=15908 all candidates exhausted
+[01:14:21] iteration 10/20
+[01:14:21] film cr_film_id=16312 name='Toxic Daughter (2023)' candidates=1
+[01:14:21]   candidate upload_id=647208e73d5f6 url=https://prehraj.to/toxic-2022-1080p-nf-web-dl-aac2-0-h-264-pandamoon/647208e73d5f6
+[01:14:27]   resolved in 5.9s → 1080p (https://pf-storage4.premiumcdn.net/41097622/kj4SboFwJU47h3PTgYsLvFGys8muNACqRfYv…)
+[01:16:56]   downloaded 1,859.0 MB in 146.9s (12.7 MB/s)
+[01:18:20]   upload done video_id=26220244 in 84.6s
