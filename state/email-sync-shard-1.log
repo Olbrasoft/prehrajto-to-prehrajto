@@ -15789,3 +15789,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:47:20]   upload done video_id=26218479 in 33.8s
 [23:47:22] film cr_film_id=8359 OK in 58.0s
 [23:47:22] batch-end ok=20 failed=0 dur=2743.4s avg/film=137.2s remaining=15192 eta_hours=579.0
+
+===== run 2026-06-22T00:07:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27921875554) =====
+[00:07:02] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:07:03] batch-start shard=1/2 count=20 backlog=17650 uploads=2458 failed_attempts=225 description_overrides=17579
+[00:07:03] login
+[00:07:04] login done
+[00:07:04] iteration 1/20
+[00:07:04] film cr_film_id=8361 name='Kruh 2 (2005) CZ Dabing' candidates=5
+[00:07:04]   candidate upload_id=5b7b00a1eacaa url=https://prehraj.to/kruh-2-2005-cz-dabing/5b7b00a1eacaa
+[00:07:05]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/5354859/ALZIYRuWRsEKU0JT7gCbzuOAsnNCnzhWpC3ls…)
+[00:07:18]   downloaded 266.0 MB in 11.1s (24.0 MB/s)
+[00:07:30]   upload done video_id=26218862 in 12.4s

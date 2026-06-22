@@ -43820,6 +43820,25 @@
         "download_sec": 20.4,
         "upload_sec": 33.8
       }
+    },
+    {
+      "cr_film_id": 8361,
+      "cr_slug": "kruh-2",
+      "title": "Kruh 2",
+      "year": 2005,
+      "display_name": "Kruh 2 (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b7b00a1eacaa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26218862,
+      "size_bytes": 265960287,
+      "uploaded_at": "2026-06-22T00:07:30Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 11.1,
+        "upload_sec": 12.4
+      }
     }
   ],
   "failed_attempts": [
@@ -45448,5 +45467,5 @@
       "failed_at": "2026-06-21T21:53:21Z"
     }
   ],
-  "last_updated": "2026-06-21T23:47:20Z"
+  "last_updated": "2026-06-22T00:07:30Z"
 }
