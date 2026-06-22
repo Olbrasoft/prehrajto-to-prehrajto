@@ -53875,6 +53875,25 @@
         "download_sec": 31.3,
         "upload_sec": 33.4
       }
+    },
+    {
+      "cr_film_id": 10403,
+      "cr_slug": "hex",
+      "title": "Hex",
+      "year": 2022,
+      "display_name": "Hex (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6362bcbfecbd3",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26219410,
+      "size_bytes": 1568376379,
+      "uploaded_at": "2026-06-22T00:35:39Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 60.8,
+        "upload_sec": 83.4
+      }
     }
   ],
   "failed_attempts": [
@@ -54933,5 +54952,5 @@
       "failed_at": "2026-06-22T00:09:53Z"
     }
   ],
-  "last_updated": "2026-06-22T00:33:10Z"
+  "last_updated": "2026-06-22T00:35:39Z"
 }
