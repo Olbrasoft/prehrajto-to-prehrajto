@@ -17016,3 +17016,22 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:56:54]   upload done video_id=26227616 in 97.1s
 [07:56:56] film cr_film_id=8628 OK in 168.0s
 [07:56:56] batch-end ok=20 failed=0 dur=2388.8s avg/film=119.4s remaining=15025 eta_hours=498.3
+
+===== run 2026-06-22T08:11:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27938759223) =====
+[08:11:48] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:11:48] batch-start shard=0/2 count=20 backlog=17650 uploads=2625 failed_attempts=281 description_overrides=17579
+[08:11:48] login
+[08:11:53] login done
+[08:11:53] iteration 1/20
+[08:11:53] film cr_film_id=8630 name='Panda a já (2025) CZ Dabing' candidates=2
+[08:11:53]   candidate upload_id=412e00375faa46c1 url=https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/412e00375faa46c1
+[08:11:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/412e00375faa46c1 (permanent=True)
+[08:11:54]   candidate upload_id=96a9349f24310c7f url=https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/96a9349f24310c7f
+[08:12:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panda-a-ja-2025-cz-dab-1080p/96a9349f24310c7f (permanent=True)
+[08:12:00] film cr_film_id=8630 all candidates exhausted
+[08:12:00] iteration 2/20
+[08:12:00] film cr_film_id=8636 name='Malá Sibiř (2025) CZ Dabing' candidates=16
+[08:12:00]   candidate upload_id=67de4ad68c164 url=https://prehraj.to/mala-sibir-pikku-siperia-2025-1080p-x264-cz-dab-mp4/67de4ad68c164
+[08:12:08]   resolved in 7.8s → 1080p (https://pf-storage3.premiumcdn.net/132965114/agztmBTZGtAgT5QCJbsJBTkefAZslVug5Uq…)
+[08:14:09]   downloaded 1,427.8 MB in 119.2s (12.0 MB/s)
+[08:15:57]   upload done video_id=26228042 in 108.4s
