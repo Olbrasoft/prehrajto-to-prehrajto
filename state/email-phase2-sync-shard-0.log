@@ -19978,3 +19978,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [05:35:16]   upload done video_id=26225315 in 38.1s
 [05:35:17] film cr_film_id=27712 OK in 80.4s
 [05:35:17] batch-end ok=19 failed=1 dur=2832.3s avg/film=149.1s remaining=7135 eta_hours=295.5
+
+===== run 2026-06-22T05:35:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27931876917) =====
+[05:35:53] batch-start shard=0/2 count=20 backlog=10210 uploads=3075 failed_attempts=152 description_overrides=0
+[05:35:53] login
+[05:35:55] login done
+[05:35:55] iteration 1/20
+[05:35:55] film cr_film_id=2832 name='Chuť na lásku (2022)' candidates=1
+[05:35:55]   candidate upload_id=604146091db1d url=https://prehraj.to/it-was-always-you-2021-hallmark-720p-hdtv-x264/604146091db1d
+[05:35:56]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/22536056/b2btLoiZRt36iY3ir1cy1i64fy9SvKs2RFAd…)
+[05:36:56]   downloaded 1,064.3 MB in 58.1s (18.3 MB/s)
+[05:38:03]   upload done video_id=26225350 in 67.0s
