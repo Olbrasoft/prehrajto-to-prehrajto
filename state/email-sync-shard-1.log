@@ -18702,3 +18702,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:49:41]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/31637681/JBDFJwTMxUPbCo1IL7skETJbhk4IEXuNMS5r…)
 [21:50:34]   downloaded 1,520.2 MB in 51.5s (29.5 MB/s)
 [21:52:05]   upload done video_id=26258931 in 91.5s
+[21:52:07] film cr_film_id=10259 OK in 147.9s
+[21:52:07] iteration 13/20
+[21:52:07] film cr_film_id=10263 name='Večírek (2021) CZ Dabing' candidates=4
+[21:52:07]   candidate upload_id=845df9ef838cfc1a url=https://prehraj.to/vecirek-smrti-2021-cz-dabing-hd-mp4/845df9ef838cfc1a
+[21:52:09]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/vecirek-smrti-2021-cz-dabing-hd-mp4/845df9ef838cfc1a (permanent=True)
+[21:52:09]   candidate upload_id=58653511bd5f11e2 url=https://prehraj.to/vecirek-2021-czdabing-mp4/58653511bd5f11e2
+[21:52:15]   resolved in 6.2s → 480p (https://pf-storage5.premiumcdn.net/168036796/Xnef4EcojIOMcYXcJ6FvkcJBfvlsWjt8vCJ…)
+[21:52:32]   downloaded 399.2 MB in 15.4s (25.9 MB/s)
+[21:52:52]   upload done video_id=26259002 in 19.6s
