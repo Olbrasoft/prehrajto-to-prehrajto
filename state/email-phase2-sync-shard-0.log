@@ -19100,3 +19100,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:44:29] film cr_film_id=15780 all candidates exhausted
 [23:44:29] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
 [23:44:29] batch-end ok=4 failed=4 dur=515.8s avg/film=128.9s remaining=7240 eta_hours=259.2
+
+===== run 2026-06-22T00:07:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27921899852) =====
+[00:07:54] batch-start shard=0/2 count=20 backlog=10210 uploads=2970 failed_attempts=126 description_overrides=0
+[00:07:54] login
+[00:08:00] login done
+[00:08:00] iteration 1/20
+[00:08:00] film cr_film_id=15684 name='Lovci a štvanci (2024)' candidates=2
+[00:08:00]   candidate upload_id=653260b3b0131 url=https://prehraj.to/night-of-the-hunted-2023-1080p-amzn-webrip-1400mb-dd5-1-x264-galaxyrg/653260b3b0131
+[00:08:01]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/48945830/39MUAgSKnTRJF23IMkTMJSgKHvpHQyUrvuzL…)
+[00:08:58]   downloaded 1,181.7 MB in 55.0s (21.5 MB/s)
+[00:09:54]   upload done video_id=26218890 in 56.3s
