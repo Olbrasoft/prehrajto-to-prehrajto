@@ -18315,3 +18315,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:23:50]   upload done video_id=26246108 in 38.8s
 [16:23:52] film cr_film_id=9991 OK in 96.5s
 [16:23:52] batch-end ok=17 failed=3 dur=3301.0s avg/film=194.2s remaining=14872 eta_hours=802.3
+
+===== run 2026-06-22T16:34:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27968215889) =====
+[16:34:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:34:13] batch-start shard=1/2 count=20 backlog=17650 uploads=2778 failed_attempts=275 description_overrides=17579
+[16:34:13] login
+[16:34:15] login done
+[16:34:15] iteration 1/20
+[16:34:15] film cr_film_id=9993 name='Siberia (2018) CZ Dabing' candidates=10
+[16:34:15]   candidate upload_id=5c43742979ad2 url=https://prehraj.to/siberia-2018-cz-dabing-1080p/5c43742979ad2
+[16:34:16]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/11102902/Do1tbRiMrfoMIKBiWysy4i3ksxeFd8CMkuDd…)
+[16:35:31]   downloaded 1,663.6 MB in 71.8s (23.2 MB/s)
+[16:38:22]   upload done video_id=26246751 in 171.4s
