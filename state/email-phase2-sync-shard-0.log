@@ -20597,3 +20597,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:39:22]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/26320690/V1DfXvhgEsN5tjDCBEhBRhRGIroCEdhAjI7a…)
 [10:41:01]   downloaded 1,985.5 MB in 97.1s (20.4 MB/s)
 [10:43:08]   upload done video_id=26237656 in 126.5s
+[10:43:10] film cr_film_id=31212 OK in 229.6s
+[10:43:10] iteration 6/20
+[10:43:10] film cr_film_id=3280 name='Harry Haft: Boxer z Osvětimi (2021)' candidates=1
+[10:43:10]   candidate upload_id=68793d004ffa6 url=https://prehraj.to/harry-aft-boxer-z-osvetimi-the-urvivor-2021-1080p-webrip-h264-dd-2-0-cz/68793d004ffa6
+[10:43:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/harry-aft-boxer-z-osvetimi-the-urvivor-2021-1080p-webrip-h264-dd-2-0-cz/68793d004ffa6 (permanent=True)
+[10:43:11] film cr_film_id=3280 all candidates exhausted
+[10:43:11] iteration 7/20
+[10:43:11] film cr_film_id=7924 name='Halloween zabíjí (2021)' candidates=11
+[10:43:11]   candidate upload_id=61ba14677dcf5 url=https://prehraj.to/halloween-kills-2021-extended-2160p-web-dl-x265-10bit-sdr-ddp5-1-atmos-nogrp/61ba14677dcf5
+[10:43:17]   resolved in 6.1s → 1080p (https://pf-storage4.premiumcdn.net/27458232/qJYszjUr8ILoiXJcgmcQZUgGSxgSK4tBkspr…)
+[10:46:54]   downloaded 4,187.7 MB in 215.2s (19.5 MB/s)
+[10:51:38]   upload done video_id=26237909 in 283.9s
