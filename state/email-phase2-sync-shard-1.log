@@ -20910,3 +20910,23 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:23:08]   upload done video_id=26241378 in 136.5s
 [12:23:11] film cr_film_id=17205 OK in 197.6s
 [12:23:11] batch-end ok=20 failed=0 dur=3018.0s avg/film=150.9s remaining=7030 eta_hours=294.7
+
+===== run 2026-06-22T12:26:22Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27952504931) =====
+[12:26:23] batch-start shard=1/2 count=20 backlog=10210 uploads=3180 failed_attempts=168 description_overrides=0
+[12:26:23] login
+[12:26:24] login done
+[12:26:24] iteration 1/20
+[12:26:24] film cr_film_id=35561 name='Slayer: The Repentless Killogy (2019)' candidates=2
+[12:26:24]   candidate upload_id=603e9fdc22db9 url=https://prehraj.to/slayer-the-repentless-killogy-live-at-the-forum-in-inglewood-ca-2019-1080p-2-0-er01/603e9fdc22db9
+[12:26:26]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/22512080/YyVtKGS9mCoeUKLSePi9VSVGtV4HWrIBXiG4…)
+[12:26:27]   oversize: 7416465454 B > 6000000000 B, skip
+[12:26:27]   candidate upload_id=5fe90dd474f07 url=https://prehraj.to/slayer-the-repentless-killogy-2019-bdrip1080p/5fe90dd474f07
+[12:26:32]   resolved in 4.6s → 1080p (https://pf-storage2.premiumcdn.net/21062211/G0wCjMU3kcOYUPRiYNFK9UdNF0BH5YFGEIq2…)
+[12:26:33]   oversize: 7512238654 B > 6000000000 B, skip
+[12:26:33] film cr_film_id=35561 all candidates exhausted
+[12:26:33] iteration 2/20
+[12:26:33] film cr_film_id=30951 name='Skutok sa stal (2019)' candidates=5
+[12:26:33]   candidate upload_id=5f7abc3a9e01b url=https://prehraj.to/skutok-sa-stal-dokumemt-cesko-slovensko-2019-480p-x264-sk-62-sten-ok-mp4/5f7abc3a9e01b
+[12:26:38]   resolved in 4.4s → 480p (https://pf-storage5.premiumcdn.net/19046042/Y1PSVJHBOsrYsN5TA1U8pHZ4fRxi4Vujas1K…)
+[12:26:58]   downloaded 482.3 MB in 18.7s (25.8 MB/s)
+[12:27:17]   upload done video_id=26241549 in 19.4s
