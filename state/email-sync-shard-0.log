@@ -16422,3 +16422,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:31:09]   upload done video_id=26224068 in 29.1s
 [04:31:11] film cr_film_id=8300 OK in 60.1s
 [04:31:11] batch-end ok=20 failed=0 dur=3387.9s avg/film=169.4s remaining=15102 eta_hours=710.6
+
+===== run 2026-06-22T04:31:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27929725133) =====
+[04:31:49] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:31:49] batch-start shard=0/2 count=20 backlog=17650 uploads=2548 failed_attempts=272 description_overrides=17579
+[04:31:49] login
+[04:31:50] login done
+[04:31:50] iteration 1/20
+[04:31:50] film cr_film_id=8302 name='Tini: Violettina proměna (2016) CZ Dabing' candidates=11
+[04:31:50]   candidate upload_id=5fd21b5584cb0 url=https://prehraj.to/tini-violettina-promena-2016-cz-dab/5fd21b5584cb0
+[04:31:51]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/20696154/7xGsrPFkxtzNfWJsMXSGgF9eTpmU17Hd7uRN…)
+[04:33:05]   downloaded 1,280.9 MB in 71.4s (17.9 MB/s)
+[04:34:41]   upload done video_id=26224125 in 95.9s
