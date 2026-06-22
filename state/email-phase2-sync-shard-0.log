@@ -20970,3 +20970,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:01:52]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/39619399/ZjzUJwcgyh9ESl7feYFYPcElHXRFwYfLOCqO…)
 [13:02:02]   downloaded 176.7 MB in 8.6s (20.5 MB/s)
 [13:02:12]   upload done video_id=26242135 in 9.9s
+[13:02:13] film cr_film_id=31066 OK in 22.7s
+[13:02:13] iteration 19/20
+[13:02:13] film cr_film_id=6884 name='Romance po irsku (2020)' candidates=1
+[13:02:13]   candidate upload_id=384c7aa349a532d5 url=https://prehraj.to/romance-po-irsku-2020-cz-1080p/384c7aa349a532d5
+[13:02:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/romance-po-irsku-2020-cz-1080p/384c7aa349a532d5 (permanent=True)
+[13:02:14] film cr_film_id=6884 all candidates exhausted
+[13:02:14] iteration 20/20
+[13:02:14] film cr_film_id=6572 name='Po francouzsku (2020)' candidates=1
+[13:02:14]   candidate upload_id=f6cc4d0d4d2543ee url=https://prehraj.to/po-francouzsku-2020-cz-dabing-mp4/f6cc4d0d4d2543ee
+[13:02:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/po-francouzsku-2020-cz-dabing-mp4/f6cc4d0d4d2543ee (permanent=True)
+[13:02:20] film cr_film_id=6572 all candidates exhausted
+[13:02:20] batch-end ok=16 failed=4 dur=2156.0s avg/film=134.8s remaining=7009 eta_hours=262.4
