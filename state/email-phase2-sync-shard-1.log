@@ -19940,3 +19940,23 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [04:18:27]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/101004134/GAzHY3fa0Fq6SNoiJ1I9qfbKiDyhjzFqzHa…)
 [04:18:49]   downloaded 550.9 MB in 19.9s (27.7 MB/s)
 [04:19:17]   upload done video_id=26223830 in 28.3s
+[04:19:19] film cr_film_id=863 OK in 52.9s
+[04:19:19] iteration 12/20
+[04:19:19] film cr_film_id=9513 name='Mstitel (2021)' candidates=5
+[04:19:19]   candidate upload_id=7cee7c44f52e9775 url=https://prehraj.to/mstitel-2021-cz-1080p-mp4/7cee7c44f52e9775
+[04:19:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mstitel-2021-cz-1080p-mp4/7cee7c44f52e9775 (permanent=True)
+[04:19:20]   candidate upload_id=a6988f4e5668207f url=https://prehraj.to/mstitel-2021-cz-1080p-mp4/a6988f4e5668207f
+[04:19:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mstitel-2021-cz-1080p-mp4/a6988f4e5668207f (permanent=True)
+[04:19:25]   candidate upload_id=38a2401e244eddcf url=https://prehraj.to/mstitel-2021-cz-1080p-mp4/38a2401e244eddcf
+[04:19:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mstitel-2021-cz-1080p-mp4/38a2401e244eddcf (permanent=True)
+[04:19:31]   candidate upload_id=84b3e7b7729213e8 url=https://prehraj.to/mstitel-2021-cz-1080p-mp4/84b3e7b7729213e8
+[04:19:37]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mstitel-2021-cz-1080p-mp4/84b3e7b7729213e8 (permanent=True)
+[04:19:37]   candidate upload_id=601acc9e7e334d72 url=https://prehraj.to/mstitel-2021-cz-1080p-mp4/601acc9e7e334d72
+[04:19:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mstitel-2021-cz-1080p-mp4/601acc9e7e334d72 (permanent=True)
+[04:19:43] film cr_film_id=9513 all candidates exhausted
+[04:19:43] iteration 13/20
+[04:19:43] film cr_film_id=5889 name='Milý Evane Hansene (2021)' candidates=1
+[04:19:43]   candidate upload_id=620bc10a434dc url=https://prehraj.to/mily-evane-hansene-dear-evan-hansen-2021-1080p-bluray-cz-dabing-www-playme-wtf/620bc10a434dc
+[04:19:49]   resolved in 6.3s → 720p (https://pf-storage3.premiumcdn.net/29392088/0gETD5cE0fkZIDZUnoSnkczRuVxCEZT0EHmb…)
+[04:21:18]   downloaded 1,758.1 MB in 86.9s (20.2 MB/s)
+[04:22:44]   upload done video_id=26223866 in 85.9s
