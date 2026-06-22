@@ -55071,6 +55071,25 @@
         "download_sec": 45.6,
         "upload_sec": 74.9
       }
+    },
+    {
+      "cr_film_id": 7210,
+      "cr_slug": "posledni-cesta",
+      "title": "Poslední cesta",
+      "year": 2022,
+      "display_name": "Poslední cesta (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "18f0e92774b13b4d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26224129,
+      "size_bytes": 1538039625,
+      "uploaded_at": "2026-06-22T04:34:56Z",
+      "timing": {
+        "resolve_sec": 6.7,
+        "download_sec": 77.7,
+        "upload_sec": 92.6
+      }
     }
   ],
   "failed_attempts": [
@@ -56157,7 +56176,14 @@
         "resolve_sec": 1.1,
         "download_sec": 124.6
       }
+    },
+    {
+      "cr_film_id": 7210,
+      "upload_id": "5d05b54e0f225e23",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/posledni-cesta-juliette-binoche-frank-grillo-morgan-freemany-2022-thriller-bdrip-1080p-cz-dabing-avi/5d05b54e0f225e23",
+      "permanent": true,
+      "failed_at": "2026-06-22T04:31:57Z"
     }
   ],
-  "last_updated": "2026-06-22T04:31:54Z"
+  "last_updated": "2026-06-22T04:34:56Z"
 }

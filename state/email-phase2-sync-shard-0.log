@@ -19795,3 +19795,12 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:29:52]   resolved in 3.1s → 720p (https://pf-storage5.premiumcdn.net/138036623/dr6iEoUOoue7fzXI4mULqUPJHz1h0WhO2Cd…)
 [04:30:39]   downloaded 1,066.3 MB in 45.6s (23.4 MB/s)
 [04:31:54]   upload done video_id=26224067 in 74.9s
+[04:31:56] film cr_film_id=27100 OK in 127.7s
+[04:31:56] iteration 16/20
+[04:31:56] film cr_film_id=7210 name='Poslední cesta (2022)' candidates=2
+[04:31:56]   candidate upload_id=5d05b54e0f225e23 url=https://prehraj.to/posledni-cesta-juliette-binoche-frank-grillo-morgan-freemany-2022-thriller-bdrip-1080p-cz-dabing-avi/5d05b54e0f225e23
+[04:31:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/posledni-cesta-juliette-binoche-frank-grillo-morgan-freemany-2022-thriller-bdrip-1080p-cz-dabing-avi/5d05b54e0f225e23 (permanent=True)
+[04:31:57]   candidate upload_id=18f0e92774b13b4d url=https://prehraj.to/posledna-cesta-paradise-highway-2022-sk-avi-mp4/18f0e92774b13b4d
+[04:32:04]   resolved in 6.7s → 720p (https://pf-storage6.premiumcdn.net/169156642/vjyig9cj0FQntVPUqESG5caZCWzspPFjRSb…)
+[04:33:24]   downloaded 1,538.0 MB in 77.7s (19.8 MB/s)
+[04:34:56]   upload done video_id=26224129 in 92.6s
