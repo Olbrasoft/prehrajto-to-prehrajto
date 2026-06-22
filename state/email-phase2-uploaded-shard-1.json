@@ -54483,6 +54483,25 @@
         "download_sec": 109.3,
         "upload_sec": 111.1
       }
+    },
+    {
+      "cr_film_id": 33915,
+      "cr_slug": "val",
+      "title": "Val",
+      "year": 2021,
+      "display_name": "Val (2021)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "610d9c484ff95",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26221559,
+      "size_bytes": 3875936039,
+      "uploaded_at": "2026-06-22T02:32:09Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 194.8,
+        "upload_sec": 230.5
+      }
     }
   ],
   "failed_attempts": [
@@ -55576,5 +55595,5 @@
       "failed_at": "2026-06-22T01:45:06Z"
     }
   ],
-  "last_updated": "2026-06-22T02:24:59Z"
+  "last_updated": "2026-06-22T02:32:09Z"
 }
