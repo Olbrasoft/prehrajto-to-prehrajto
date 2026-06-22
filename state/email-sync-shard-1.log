@@ -17280,3 +17280,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:10:29]   upload done video_id=26231866 in 33.0s
 [09:10:31] film cr_film_id=9261 OK in 69.3s
 [09:10:31] batch-end ok=18 failed=2 dur=3525.2s avg/film=195.8s remaining=15002 eta_hours=815.9
+
+===== run 2026-06-22T09:24:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27942744166) =====
+[09:24:25] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:24:25] batch-start shard=1/2 count=20 backlog=17650 uploads=2648 failed_attempts=252 description_overrides=17579
+[09:24:25] login
+[09:24:26] login done
+[09:24:26] iteration 1/20
+[09:24:26] film cr_film_id=9267 name='Hra na utrpení (2008) CZ Dabing' candidates=2
+[09:24:26]   candidate upload_id=6004dbe3810bc url=https://prehraj.to/hra-na-utrpeni-horor-2009-cz-dabing-avi/6004dbe3810bc
+[09:24:28]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/21566664/bn5fE7cDrS9pH6DtMnTdRcG4IoMfQxi5zILl…)
+[09:24:43]   downloaded 331.1 MB in 13.5s (24.5 MB/s)
+[09:24:57]   upload done video_id=26232077 in 14.0s
