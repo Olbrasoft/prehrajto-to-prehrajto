@@ -17604,3 +17604,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:49:25]   upload done video_id=26240546 in 20.7s
 [11:49:27] film cr_film_id=8954 OK in 39.4s
 [11:49:27] batch-end ok=20 failed=0 dur=2392.9s avg/film=119.6s remaining=14950 eta_hours=496.7
+
+===== run 2026-06-22T12:19:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27952127093) =====
+[12:19:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:19:56] batch-start shard=0/2 count=20 backlog=17650 uploads=2700 failed_attempts=291 description_overrides=17579
+[12:19:56] login
+[12:19:58] login done
+[12:19:58] iteration 1/20
+[12:19:58] film cr_film_id=8956 name='Alfa a Omega (2010) CZ Dabing' candidates=5
+[12:19:58]   candidate upload_id=610b18d761bac url=https://prehraj.to/alfa-a-omega-2010-cz-dabing-animovany/610b18d761bac
+[12:19:59]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/24499601/L0gFLeCwPFKVt8RfPzCXZCdeF5QS1oSWYTEL…)
+[12:20:59]   downloaded 1,275.9 MB in 57.4s (22.2 MB/s)
+[12:23:44]   upload done video_id=26241385 in 165.3s
