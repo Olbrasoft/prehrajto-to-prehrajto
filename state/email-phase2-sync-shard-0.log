@@ -19242,3 +19242,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [00:57:02]   upload done video_id=26219780 in 142.1s
 [00:57:04] film cr_film_id=1294 OK in 267.0s
 [00:57:04] batch-end ok=18 failed=2 dur=2944.3s avg/film=163.6s remaining=7222 eta_hours=328.2
+
+===== run 2026-06-22T00:57:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27923198348) =====
+[00:57:38] batch-start shard=0/2 count=20 backlog=10210 uploads=2988 failed_attempts=128 description_overrides=0
+[00:57:38] login
+[00:57:40] login done
+[00:57:40] iteration 1/20
+[00:57:40] film cr_film_id=15904 name='Záhadná smrt (2023)' candidates=1
+[00:57:40]   candidate upload_id=67dbcaf51604d url=https://prehraj.to/abigail-2023-1080p-webrip-x264-aac-yts-mx/67dbcaf51604d
+[00:57:41]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/132814709/mdvi0pHw6c8eIozIgnUO5HkVuPKt28ivYCL…)
+[00:58:22]   downloaded 1,419.5 MB in 39.2s (36.2 MB/s)
+[00:59:09]   upload done video_id=26219844 in 46.6s
