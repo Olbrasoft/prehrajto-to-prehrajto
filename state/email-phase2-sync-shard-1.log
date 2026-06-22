@@ -19522,3 +19522,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:31:35]   resolved in 1.5s → 720p (https://pf-storage1.premiumcdn.net/25252217/XlEUjvc3Oiojt83h7nupOcn1HoMfN9HPASr7…)
 [01:32:46]   downloaded 1,215.8 MB in 68.8s (17.7 MB/s)
 [01:33:52]   upload done video_id=26220579 in 66.5s
+[01:33:55] film cr_film_id=35735 OK in 141.7s
+[01:33:55] iteration 14/20
+[01:33:55] film cr_film_id=8471 name='Ztraceni v ráji (2021)' candidates=1
+[01:33:55]   candidate upload_id=d559bc16860b5608 url=https://prehraj.to/ztraceni-v-raji-2021-cz/d559bc16860b5608
+[01:33:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ztraceni-v-raji-2021-cz/d559bc16860b5608 (permanent=True)
+[01:33:56] film cr_film_id=8471 all candidates exhausted
+[01:33:56] iteration 15/20
+[01:33:56] film cr_film_id=14997 name='Zrušené Vánoce (2021)' candidates=1
+[01:33:56]   candidate upload_id=6772c659a94b2 url=https://prehraj.to/vianoce-su-zrusene-christmas-is-canceled-2021-sk-mp4/6772c659a94b2
+[01:34:02]   resolved in 6.3s → 720p (https://pf-storage5.premiumcdn.net/126820322/Wd0hQ5fZ7hW0c39to6iZDfXKfnohp8TB1CX…)
+[01:35:18]   downloaded 1,344.8 MB in 73.7s (18.2 MB/s)
+[01:36:38]   upload done video_id=26220619 in 80.0s
