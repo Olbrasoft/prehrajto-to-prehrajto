@@ -16275,3 +16275,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:33:19]   upload done video_id=26222966 in 47.9s
 [03:33:21] film cr_film_id=8208 OK in 83.9s
 [03:33:21] batch-end ok=18 failed=2 dur=2586.9s avg/film=143.7s remaining=15122 eta_hours=603.6
+
+===== run 2026-06-22T03:34:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27927843809) =====
+[03:34:41] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:34:41] batch-start shard=0/2 count=20 backlog=17650 uploads=2528 failed_attempts=272 description_overrides=17579
+[03:34:41] login
+[03:34:43] login done
+[03:34:43] iteration 1/20
+[03:34:43] film cr_film_id=8214 name='Nikdo nevyvázne živý (2021) CZ Dabing' candidates=12
+[03:34:43]   candidate upload_id=6154bda8813ca url=https://prehraj.to/nikdo-nevyvazne-zivy-2021-cz-dabing-hd-1080p/6154bda8813ca
+[03:34:44]   resolved in 1.5s → 480p (https://pf-storage3.premiumcdn.net/25065593/4Yas8EC9wfnVI1QS6OINzCrBHprHxEHb3HNK…)
+[03:35:07]   downloaded 315.8 MB in 20.4s (15.5 MB/s)
+[03:35:31]   upload done video_id=26223055 in 24.2s
