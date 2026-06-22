@@ -17934,3 +17934,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:36:17]   resolved in 0.9s → 480p (https://pf-storage2.premiumcdn.net/270808/5P7cObfgMIYyir6h3LCdvfk0uMks7BFdzUD2tr…)
 [13:36:33]   downloaded 317.7 MB in 14.2s (22.4 MB/s)
 [13:36:51]   upload done video_id=26242687 in 17.8s
+[13:36:52] film cr_film_id=9723 OK in 36.0s
+[13:36:52] iteration 8/20
+[13:36:52] film cr_film_id=9733 name='Méďa Béďa (2010) CZ' candidates=1
+[13:36:52]   candidate upload_id=6608b895f403d4dc url=https://prehraj.to/meda-beda-2010-cz-avi/6608b895f403d4dc
+[13:36:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/meda-beda-2010-cz-avi/6608b895f403d4dc (permanent=True)
+[13:36:53] film cr_film_id=9733 all candidates exhausted
+[13:36:53] iteration 9/20
+[13:36:53] film cr_film_id=9735 name='Hostel III (2011) CZ Dabing' candidates=11
+[13:36:53]   candidate upload_id=672d6f6d51227 url=https://prehraj.to/hostel-3-2011-cz-dabing-fullhd-1080p-horor-mysteriozni-thriller/672d6f6d51227
+[13:36:59]   resolved in 5.9s → 720p (https://pf-storage5.premiumcdn.net/105518243/rq8I1Pc3ZiRlt29iq8S8wcYofqeCEzTodTr…)
+[13:37:34]   downloaded 1,135.3 MB in 33.2s (34.2 MB/s)
+[13:38:22]   upload done video_id=26242711 in 48.0s
