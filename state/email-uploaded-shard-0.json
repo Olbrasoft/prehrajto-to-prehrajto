@@ -48466,6 +48466,25 @@
         "download_sec": 53.6,
         "upload_sec": 56.3
       }
+    },
+    {
+      "cr_film_id": 9018,
+      "cr_slug": "cerny-rytir",
+      "title": "Černý rytíř",
+      "year": 2001,
+      "display_name": "Černý rytíř (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55bf19dad77f8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26241935,
+      "size_bytes": 519418121,
+      "uploaded_at": "2026-06-22T12:50:15Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 25.4,
+        "upload_sec": 32.2
+      }
     }
   ],
   "failed_attempts": [
@@ -50535,5 +50554,5 @@
       "failed_at": "2026-06-22T09:03:43Z"
     }
   ],
-  "last_updated": "2026-06-22T12:49:12Z"
+  "last_updated": "2026-06-22T12:50:15Z"
 }
