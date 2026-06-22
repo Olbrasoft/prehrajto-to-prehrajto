@@ -19553,3 +19553,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:41:14]   resolved in 2.6s → 1080p (https://pf-storage3.premiumcdn.net/26107918/4kvsMnT7Kt8jt97cNMs2LTK1fLdUW6H5xs5b…)
 [01:43:05]   downloaded 2,071.7 MB in 109.9s (18.9 MB/s)
 [01:45:02]   upload done video_id=26220722 in 116.3s
+[01:45:04] film cr_film_id=36877 OK in 233.0s
+[01:45:04] iteration 19/20
+[01:45:04] film cr_film_id=1929 name='West Side Story (2021)' candidates=1
+[01:45:04]   candidate upload_id=c61cbb3dad2a1221 url=https://prehraj.to/west-side-story-2021-cz-dabing-mp4/c61cbb3dad2a1221
+[01:45:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/west-side-story-2021-cz-dabing-mp4/c61cbb3dad2a1221 (permanent=True)
+[01:45:06] film cr_film_id=1929 all candidates exhausted
+[01:45:06] iteration 20/20
+[01:45:06] film cr_film_id=33921 name='Welcome to the Show (2021)' candidates=1
+[01:45:06]   candidate upload_id=619d486da78a7 url=https://prehraj.to/welcome-to-the-show-2021-1080p-webrip-dd5-1-x264-nogrp/619d486da78a7
+[01:45:12]   resolved in 6.3s → 720p (https://pf-storage4.premiumcdn.net/26768809/XmXI2nS31fNaFegIn5FPeSJnTaVt46HKoT6Q…)
+[01:51:09]   downloaded 1,991.7 MB in 354.7s (5.6 MB/s)
+[01:53:18]   upload done video_id=26220856 in 129.0s
