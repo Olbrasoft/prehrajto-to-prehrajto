@@ -19689,3 +19689,19 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:39:09]   upload done video_id=26223130 in 75.5s
 [03:39:11] film cr_film_id=28338 OK in 123.2s
 [03:39:11] batch-end ok=17 failed=3 dur=2166.8s avg/film=127.5s remaining=7170 eta_hours=253.9
+
+===== run 2026-06-22T03:42:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27928074148) =====
+[03:42:34] batch-start shard=0/2 count=20 backlog=10210 uploads=3040 failed_attempts=144 description_overrides=0
+[03:42:34] login
+[03:42:36] login done
+[03:42:36] iteration 1/20
+[03:42:36] film cr_film_id=9196 name='Ukolébavka (2022)' candidates=1
+[03:42:36]   candidate upload_id=6bb8d86dfa4107ea url=https://prehraj.to/ukolebavka-2022-cz-dabing-mp4/6bb8d86dfa4107ea
+[03:42:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ukolebavka-2022-cz-dabing-mp4/6bb8d86dfa4107ea (permanent=True)
+[03:42:36] film cr_film_id=9196 all candidates exhausted
+[03:42:36] iteration 2/20
+[03:42:36] film cr_film_id=15120 name='Ténor (2022)' candidates=4
+[03:42:36]   candidate upload_id=689174ef980df url=https://prehraj.to/tenor-1080p-bluray-x264-dts-fr-ac3-sk-2022/689174ef980df
+[03:42:43]   resolved in 6.1s → 720p (https://pf-storage3.premiumcdn.net/142973897/gZaSb9cA2ua2i7ztO7HQzcdyTl1U1lIe5T4…)
+[03:43:56]   downloaded 1,369.6 MB in 71.3s (19.2 MB/s)
+[03:45:26]   upload done video_id=26223255 in 90.2s
