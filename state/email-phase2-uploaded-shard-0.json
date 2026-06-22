@@ -58795,6 +58795,25 @@
         "download_sec": 42.6,
         "upload_sec": 53.0
       }
+    },
+    {
+      "cr_film_id": 17570,
+      "cr_slug": "the-sound-of-silence",
+      "title": "The Sound of Silence",
+      "year": 2019,
+      "display_name": "The Sound of Silence (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6846c90bca19b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26245571,
+      "size_bytes": 1101436638,
+      "uploaded_at": "2026-06-22T16:08:08Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 38.8,
+        "upload_sec": 45.8
+      }
     }
   ],
   "failed_attempts": [
@@ -60072,5 +60091,5 @@
       "failed_at": "2026-06-22T15:51:22Z"
     }
   ],
-  "last_updated": "2026-06-22T16:06:38Z"
+  "last_updated": "2026-06-22T16:08:08Z"
 }
