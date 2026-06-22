@@ -17880,3 +17880,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:02:23]   upload done video_id=26242121 in 78.0s
 [13:02:26] film cr_film_id=9683 OK in 145.6s
 [13:02:26] batch-end ok=18 failed=2 dur=2553.5s avg/film=141.9s remaining=14926 eta_hours=588.3
+
+===== run 2026-06-22T13:17:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27955599606) =====
+[13:17:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:17:56] batch-start shard=1/2 count=20 backlog=17650 uploads=2724 failed_attempts=266 description_overrides=17579
+[13:17:56] login
+[13:17:58] login done
+[13:17:58] iteration 1/20
+[13:17:58] film cr_film_id=9685 name='Labutí princezna: Království hudby (2019) CZ Dabing' candidates=2
+[13:17:58]   candidate upload_id=5d57d92b6ba9b url=https://prehraj.to/labuti-princezna-kralovstvi-hudby-2019-cz-dab/5d57d92b6ba9b
+[13:17:59]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/14630505/XWjibXfM0HbDUzVUjaHRYfPAc8wsE8szdSE1…)
+[13:18:35]   downloaded 963.2 MB in 35.0s (27.5 MB/s)
+[13:19:35]   upload done video_id=26242346 in 59.3s
