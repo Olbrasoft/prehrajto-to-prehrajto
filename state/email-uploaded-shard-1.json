@@ -49653,6 +49653,25 @@
         "download_sec": 99.5,
         "upload_sec": 149.2
       }
+    },
+    {
+      "cr_film_id": 9911,
+      "cr_slug": "podraz",
+      "title": "Podraz",
+      "year": 2011,
+      "display_name": "Podraz (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58213ef648234",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26245150,
+      "size_bytes": 442083206,
+      "uploaded_at": "2026-06-22T15:46:43Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 25.7,
+        "upload_sec": 25.5
+      }
     }
   ],
   "failed_attempts": [
@@ -51621,5 +51640,5 @@
       "failed_at": "2026-06-22T15:32:58Z"
     }
   ],
-  "last_updated": "2026-06-22T15:45:44Z"
+  "last_updated": "2026-06-22T15:46:43Z"
 }
