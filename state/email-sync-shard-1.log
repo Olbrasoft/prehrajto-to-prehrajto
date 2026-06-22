@@ -15801,3 +15801,16 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:07:05]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/5354859/ALZIYRuWRsEKU0JT7gCbzuOAsnNCnzhWpC3ls…)
 [00:07:18]   downloaded 266.0 MB in 11.1s (24.0 MB/s)
 [00:07:30]   upload done video_id=26218862 in 12.4s
+[00:07:32] film cr_film_id=8361 OK in 27.8s
+[00:07:32] iteration 2/20
+[00:07:32] film cr_film_id=8365 name='Hurá, zase Vánoce! (2025) CZ Dabing' candidates=1
+[00:07:32]   candidate upload_id=cad784b83af7b1a8 url=https://prehraj.to/hura-zase-vanoce-2025-cz-dabing-2160p/cad784b83af7b1a8
+[00:07:34]   resolved in 2.1s → 1080p (https://pf-storage1.premiumcdn.net/156817949/p7Ph8eU6xS5otojIvBsr2UjNfkBheAunPIe…)
+[00:07:35]   oversize: 6112129100 B > 6000000000 B, skip
+[00:07:35] film cr_film_id=8365 all candidates exhausted
+[00:07:35] iteration 3/20
+[00:07:35] film cr_film_id=8367 name='Hamlet: Ian McKellen (2024) CZ Dabing' candidates=1
+[00:07:35]   candidate upload_id=764167e5df5dc4e1 url=https://prehraj.to/hamlet-2025-cz-dabing-1080p-mkv/764167e5df5dc4e1
+[00:07:39]   resolved in 4.0s → 1080p (https://pf-storage5.premiumcdn.net/156823313/JVpFj3SRpt1aFPmuQohYQSx6CAnHR6FJmsr…)
+[00:08:58]   downloaded 2,298.2 MB in 77.1s (29.8 MB/s)
+[00:10:42]   upload done video_id=26218889 in 104.0s
