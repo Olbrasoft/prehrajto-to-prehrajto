@@ -20034,3 +20034,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [05:49:41]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/36793669/dqkhElcAbfg4IP2TgOHmXc1qT2VSnPSjeUpd…)
 [05:51:22]   downloaded 1,837.1 MB in 98.9s (18.6 MB/s)
 [05:54:26]   upload done video_id=26225614 in 184.1s
+[05:54:28] film cr_film_id=7202 OK in 288.3s
+[05:54:28] iteration 9/20
+[05:54:28] film cr_film_id=7898 name='Arvéd (2022)' candidates=1
+[05:54:28]   candidate upload_id=dc03554ea857e5fe url=https://prehraj.to/arved-2022-cz-mp4/dc03554ea857e5fe
+[05:54:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/arved-2022-cz-mp4/dc03554ea857e5fe (permanent=True)
+[05:54:29] film cr_film_id=7898 all candidates exhausted
+[05:54:29] iteration 10/20
+[05:54:29] film cr_film_id=36808 name='Anchor (2022)' candidates=1
+[05:54:29]   candidate upload_id=056d978e32c61056 url=https://prehraj.to/the-anchor-2022-1080p-web-dl-aac2-0-h-264-taengoo-mkv/056d978e32c61056
+[05:54:35]   resolved in 6.2s → 1080p (https://pf-storage3.premiumcdn.net/155652170/zl2ip7TkXFQoIl2SzdHP3TOoC0bCXZH1LCO…)
+[05:56:37]   downloaded 2,177.7 MB in 119.8s (18.2 MB/s)
+[06:01:27]   upload done video_id=26225687 in 290.2s
