@@ -18273,3 +18273,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:02:34]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/40301905/ZkGflAIpKhyQFl9SRbFRPI4phqDFxycZ0c0Z…)
 [16:03:36]   downloaded 1,435.8 MB in 60.5s (23.7 MB/s)
 [16:05:02]   upload done video_id=26245509 in 85.7s
+[16:05:05] film cr_film_id=9967 OK in 152.7s
+[16:05:05] iteration 15/20
+[16:05:05] film cr_film_id=9979 name='Nebezpečný nápadník (2021) CZ Dabing' candidates=1
+[16:05:05]   candidate upload_id=6ed3339fb7cadbf1 url=https://prehraj.to/nebezpecny-napadnik-2021-cz-dabing-hd-mp4/6ed3339fb7cadbf1
+[16:05:06]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/nebezpecny-napadnik-2021-cz-dabing-hd-mp4/6ed3339fb7cadbf1 (permanent=True)
+[16:05:06] film cr_film_id=9979 all candidates exhausted
+[16:05:06] iteration 16/20
+[16:05:06] film cr_film_id=9981 name='V kruhu ohrožení (2020) CZ Dabing' candidates=3
+[16:05:06]   candidate upload_id=616a9e8d0b3f6 url=https://prehraj.to/the-100-candles-game-2020-cz-dabing-hd-1080p/616a9e8d0b3f6
+[16:05:12]   resolved in 6.1s → 480p (https://pf-storage4.premiumcdn.net/25579091/X6aSYoCn9uKet7vh0MtN7CBPHEOU5kfoJHYo…)
+[16:06:19]   downloaded 688.0 MB in 65.0s (10.6 MB/s)
+[16:06:58]   upload done video_id=26245556 in 38.8s
