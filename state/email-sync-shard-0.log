@@ -16786,3 +16786,16 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:46:18]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/23317047/Gw1fOjS6Lhx4uwEImAFxESO8IzZhW7iWETMP…)
 [06:47:51]   downloaded 2,750.1 MB in 91.2s (30.2 MB/s)
 [06:49:56]   upload done video_id=26226316 in 125.0s
+[06:49:58] film cr_film_id=8496 OK in 221.4s
+[06:49:58] iteration 10/20
+[06:49:58] film cr_film_id=8498 name='Tom & Jerry (2021) CZ Dabing' candidates=8
+[06:49:58]   candidate upload_id=611bda1c70588 url=https://prehraj.to/tom-a-jerry-2021-czdab/611bda1c70588
+[06:49:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tom-a-jerry-2021-czdab/611bda1c70588 (permanent=True)
+[06:49:59]   candidate upload_id=609a4ff99fe0e url=https://prehraj.to/tom-a-jerry-2021-cz-dabing/609a4ff99fe0e
+[06:50:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tom-a-jerry-2021-cz-dabing/609a4ff99fe0e (permanent=True)
+[06:50:05]   candidate upload_id=60902b695c00c url=https://prehraj.to/tom-a-jerry-2021-cz-dabing/60902b695c00c
+[06:50:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tom-a-jerry-2021-cz-dabing/60902b695c00c (permanent=True)
+[06:50:11]   candidate upload_id=60902e5ad9c3c url=https://prehraj.to/tom-a-jerry-2021-cz-dabing/60902e5ad9c3c
+[06:50:17]   resolved in 6.2s → 720p (https://pf-storage5.premiumcdn.net/23371179/QnXfmEhadTjluLdIDquW3hNmU0xHMjswQsWg…)
+[06:51:17]   downloaded 1,734.1 MB in 58.6s (29.6 MB/s)
+[06:52:39]   upload done video_id=26226355 in 81.3s
