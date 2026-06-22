@@ -17584,3 +17584,20 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:08:52]   upload done video_id=26238713 in 69.7s
 [11:08:54] film cr_film_id=9465 OK in 116.9s
 [11:08:54] batch-end ok=20 failed=0 dur=2419.5s avg/film=121.0s remaining=14963 eta_hours=502.9
+
+===== run 2026-06-22T11:09:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27948383196) =====
+[11:09:38] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:09:38] batch-start shard=1/2 count=20 backlog=17650 uploads=2687 failed_attempts=259 description_overrides=17579
+[11:09:38] login
+[11:09:39] login done
+[11:09:39] iteration 1/20
+[11:09:39] film cr_film_id=9477 name='Tajemství ve sněhu (2020) CZ Dabing' candidates=1
+[11:09:39]   candidate upload_id=2fea843c5c5ec7d6 url=https://prehraj.to/tajemstvi-ve-snehu-2020-cz-dabing-hd-mp4/2fea843c5c5ec7d6
+[11:09:40]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/tajemstvi-ve-snehu-2020-cz-dabing-hd-mp4/2fea843c5c5ec7d6 (permanent=True)
+[11:09:40] film cr_film_id=9477 all candidates exhausted
+[11:09:40] iteration 2/20
+[11:09:40] film cr_film_id=9479 name='Srdce lovce (2024) CZ Dabing' candidates=9
+[11:09:40]   candidate upload_id=66c3c7457f1b1 url=https://prehraj.to/srdce-lovce-heart-of-the-hunter-2024-cz-dabing-fullhd-1080p-mp4/66c3c7457f1b1
+[11:09:47]   resolved in 6.4s → 1080p (https://pf-storage4.premiumcdn.net/91546553/qa0i9OfkMsP8hX3HamCV1fr0ikltN3sLAF87…)
+[11:11:28]   downloaded 1,828.0 MB in 98.7s (18.5 MB/s)
+[11:13:12]   upload done video_id=26238785 in 103.8s
