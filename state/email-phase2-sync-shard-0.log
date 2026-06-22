@@ -19547,3 +19547,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:05:49]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/74245325/qamUwYF6zCOAFjwHDWtgjF2dsd7TbLC4Kcjb…)
 [03:06:26]   downloaded 992.6 MB in 35.4s (28.0 MB/s)
 [03:07:03]   upload done video_id=26222361 in 37.2s
+[03:07:04] film cr_film_id=27754 OK in 76.5s
+[03:07:04] iteration 3/20
+[03:07:04] film cr_film_id=4504 name='Asteroid City (2023)' candidates=1
+[03:07:04]   candidate upload_id=8a6cb3bb9e3387c5 url=https://prehraj.to/asteroid-city-2023-cz/8a6cb3bb9e3387c5
+[03:07:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/asteroid-city-2023-cz/8a6cb3bb9e3387c5 (permanent=True)
+[03:07:05] film cr_film_id=4504 all candidates exhausted
+[03:07:05] iteration 4/20
+[03:07:05] film cr_film_id=5368 name='Animal (2023)' candidates=2
+[03:07:05]   candidate upload_id=6508e247325a7 url=https://prehraj.to/my-animal-2023-1080p-amzn-webrip-1400mb-dd5-1-x264-galaxyrg-mp4/6508e247325a7
+[03:07:11]   resolved in 5.9s → 720p (https://pf-storage3.premiumcdn.net/45436730/xwaHQNUaVFZvf49FANTb4UpeIQnIwaHxbtM8…)
+[03:07:56]   downloaded 1,221.5 MB in 43.7s (28.0 MB/s)
+[03:08:52]   upload done video_id=26222387 in 55.7s
