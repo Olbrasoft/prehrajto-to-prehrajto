@@ -19613,3 +19613,17 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:18:26]   resolved in 6.0s → 480p (https://pf-storage2.premiumcdn.net/123136/7M1HdahY4i4oUdyi38snOhlySKrcdaHA3HKpCL…)
 [03:18:51]   downloaded 614.9 MB in 23.6s (26.1 MB/s)
 [03:19:19]   upload done video_id=26222602 in 28.2s
+[03:19:20] film cr_film_id=32354 OK in 60.7s
+[03:19:20] iteration 13/20
+[03:19:20] film cr_film_id=3682 name='Whitney Houston: I Wanna Dance with Somebody (2022)' candidates=2
+[03:19:20]   candidate upload_id=8afd3e819cf754aa url=https://prehraj.to/whitney-houston-i-wanna-dance-with-somebody-2022-cz-dabing/8afd3e819cf754aa
+[03:19:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/whitney-houston-i-wanna-dance-with-somebody-2022-cz-dabing/8afd3e819cf754aa (permanent=True)
+[03:19:21]   candidate upload_id=86ed23246dc839b8 url=https://prehraj.to/whitney-houston-i-wanna-dance-with-somebody-2022-cz-dabing/86ed23246dc839b8
+[03:19:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/whitney-houston-i-wanna-dance-with-somebody-2022-cz-dabing/86ed23246dc839b8 (permanent=True)
+[03:19:27] film cr_film_id=3682 all candidates exhausted
+[03:19:27] iteration 14/20
+[03:19:27] film cr_film_id=15336 name='Vánoční výzva (2022)' candidates=1
+[03:19:27]   candidate upload_id=4b94e4d5cb6ca694 url=https://prehraj.to/vanocni-vyzva-2022-cz-mp4/4b94e4d5cb6ca694
+[03:19:33]   resolved in 6.1s → 1080p (https://pf-storage1.premiumcdn.net/155254365/8WGt6MsnQIXPFOGIpYh1XsblcB0TWehP2Uz…)
+[03:20:47]   downloaded 2,056.2 MB in 73.0s (28.2 MB/s)
+[03:22:23]   upload done video_id=26222641 in 95.5s
