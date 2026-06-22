@@ -46338,6 +46338,25 @@
         "download_sec": 39.7,
         "upload_sec": 43.0
       }
+    },
+    {
+      "cr_film_id": 8520,
+      "cr_slug": "ve-sluzbe",
+      "title": "Ve službě",
+      "year": 2019,
+      "display_name": "Ve službě (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "610581ce7ffad",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26226521,
+      "size_bytes": 2023416873,
+      "uploaded_at": "2026-06-22T07:02:35Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 84.4,
+        "upload_sec": 115.0
+      }
     }
   ],
   "failed_attempts": [
@@ -48337,5 +48356,5 @@
       "failed_at": "2026-06-22T06:52:42Z"
     }
   ],
-  "last_updated": "2026-06-22T06:59:10Z"
+  "last_updated": "2026-06-22T07:02:35Z"
 }
