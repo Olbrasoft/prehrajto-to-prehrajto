@@ -19496,3 +19496,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:18:46]   resolved in 3.2s → 1080p (https://pf-storage1.premiumcdn.net/153083148/PxAuYXS8WCYZIrRHX2FL8S5AIYpuq7T8XUO…)
 [01:20:54]   downloaded 2,392.9 MB in 125.9s (19.0 MB/s)
 [01:23:10]   upload done video_id=26220336 in 136.2s
+[01:23:12] film cr_film_id=14615 OK in 269.4s
+[01:23:12] iteration 10/20
+[01:23:12] film cr_film_id=14711 name='578 Magnum (2022)' candidates=1
+[01:23:12]   candidate upload_id=7fb10e9a87f81040 url=https://prehraj.to/578-magnum-2022-mkv-mp4/7fb10e9a87f81040
+[01:23:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/578-magnum-2022-mkv-mp4/7fb10e9a87f81040 (permanent=True)
+[01:23:13] film cr_film_id=14711 all candidates exhausted
+[01:23:13] iteration 11/20
+[01:23:13] film cr_film_id=10377 name='12 hodin na odplatu (2022)' candidates=5
+[01:23:13]   candidate upload_id=682a627c462b5 url=https://prehraj.to/die-another-day-cz-eng-1080p-mp4/682a627c462b5
+[01:23:19]   resolved in 6.6s → 720p (https://pf-storage1.premiumcdn.net/138246518/g7bsxGUBNfnkfz3IE8S3vUywfoYS2bt0QiN…)
+[01:26:02]   downloaded 3,112.5 MB in 160.2s (19.4 MB/s)
+[01:29:08]   upload done video_id=26220450 in 186.9s
