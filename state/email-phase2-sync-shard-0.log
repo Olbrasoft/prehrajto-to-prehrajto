@@ -19825,3 +19825,10 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:39:46]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/41017411/jznilGF0wigRs6lCoVTADFz4h6ph1euGETAE…)
 [04:43:47]   downloaded 1,545.9 MB in 238.7s (6.5 MB/s)
 [04:45:12]   upload done video_id=26224328 in 84.3s
+[04:45:15] film cr_film_id=2234 OK in 329.5s
+[04:45:15] iteration 20/20
+[04:45:15] film cr_film_id=10338 name='Panama (2022)' candidates=1
+[04:45:15]   candidate upload_id=9a6f2588568a69e5 url=https://prehraj.to/panama-2022-cz-dabing-mp4/9a6f2588568a69e5
+[04:45:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/panama-2022-cz-dabing-mp4/9a6f2588568a69e5 (permanent=True)
+[04:45:16] film cr_film_id=10338 all candidates exhausted
+[04:45:16] batch-end ok=16 failed=4 dur=3759.9s avg/film=235.0s remaining=7154 eta_hours=467.0
