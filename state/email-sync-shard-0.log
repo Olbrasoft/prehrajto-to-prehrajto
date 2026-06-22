@@ -16091,3 +16091,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:33:00]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/168587188/qeqcGji0dco7I27TvmtpeiGeSdXt8quG2uM…)
 [02:34:34]   downloaded 1,779.8 MB in 91.8s (19.4 MB/s)
 [02:36:51]   upload done video_id=26221695 in 137.5s
+[02:36:53] film cr_film_id=8110 OK in 234.7s
+[02:36:53] iteration 17/20
+[02:36:53] film cr_film_id=8112 name='Mountainhead (2025) CZ Dabing' candidates=4
+[02:36:53]   candidate upload_id=196e9988048d051b url=https://prehraj.to/mountainhead-2025-cz-dab-1080p/196e9988048d051b
+[02:36:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mountainhead-2025-cz-dab-1080p/196e9988048d051b (permanent=True)
+[02:36:54]   candidate upload_id=68b97ba427cba url=https://prehraj.to/mountainhead-2025-cz-dabing-1080p-full-hd/68b97ba427cba
+[02:37:00]   resolved in 6.1s → 1080p (https://pf-storage4.premiumcdn.net/145405317/XQJh6nHY9t1EhX0TeOTY6Hlvi61Tg3sPnSL…)
+[02:39:35]   downloaded 3,718.0 MB in 152.6s (24.4 MB/s)
+[02:43:54]   upload done video_id=26221826 in 258.8s
