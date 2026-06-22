@@ -20764,3 +20764,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:21:21]   upload done video_id=26238977 in 48.3s
 [11:21:23] film cr_film_id=1909 OK in 92.0s
 [11:21:23] batch-end ok=20 failed=0 dur=3193.7s avg/film=159.7s remaining=7050 eta_hours=312.7
+
+===== run 2026-06-22T11:32:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27949577259) =====
+[11:32:52] batch-start shard=1/2 count=20 backlog=10210 uploads=3160 failed_attempts=168 description_overrides=0
+[11:32:52] login
+[11:32:53] login done
+[11:32:53] iteration 1/20
+[11:32:53] film cr_film_id=7259 name='Bábovky (2020)' candidates=6
+[11:32:53]   candidate upload_id=98139686b6d07b20 url=https://prehraj.to/babovky-cz-2020-fv-mp4/98139686b6d07b20
+[11:32:54]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/164081156/XwAu5gfQRivJt9NIboSORf5JHzPUxdSepSG…)
+[11:33:21]   downloaded 708.5 MB in 25.4s (27.9 MB/s)
+[11:35:21]   upload done video_id=26240181 in 120.3s
