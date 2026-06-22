@@ -16225,3 +16225,16 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:18:06]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/131292290/3n7u1zH1riAvHzrtg0ibMHGoHJwCEXHWafE…)
 [03:19:22]   downloaded 2,111.7 MB in 74.7s (28.3 MB/s)
 [03:20:55]   upload done video_id=26222612 in 92.9s
+[03:20:57] film cr_film_id=8190 OK in 171.8s
+[03:20:57] iteration 15/20
+[03:20:57] film cr_film_id=8192 name='Lovec hlav (2022) CZ Dabing' candidates=5
+[03:20:57]   candidate upload_id=936ce416226e540e url=https://prehraj.to/lovec-hlav-2022-cz-dab-1080p-mp4/936ce416226e540e
+[03:20:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lovec-hlav-2022-cz-dab-1080p-mp4/936ce416226e540e (permanent=True)
+[03:20:58]   candidate upload_id=f805bda39c46781b url=https://prehraj.to/lovec-hlav-2022-cz-dab-1080p/f805bda39c46781b
+[03:21:04]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lovec-hlav-2022-cz-dab-1080p/f805bda39c46781b (permanent=True)
+[03:21:04]   candidate upload_id=76ce720ac6751773 url=https://prehraj.to/lovec-hlav-2022-cz-dab-1080p-mp4/76ce720ac6751773
+[03:21:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lovec-hlav-2022-cz-dab-1080p-mp4/76ce720ac6751773 (permanent=True)
+[03:21:09]   candidate upload_id=67d12f50e8356 url=https://prehraj.to/p-f-spagetti-western-cz-dab-lovec-hlav-2022-cz-mp4/67d12f50e8356
+[03:21:15]   resolved in 6.0s → 480p (https://pf-storage3.premiumcdn.net/131953340/ypRtNqS1Xso9H9jf0ef6qSeGUN3CQyIeBTG…)
+[03:21:34]   downloaded 439.6 MB in 17.3s (25.4 MB/s)
+[03:21:57]   upload done video_id=26222650 in 22.6s
