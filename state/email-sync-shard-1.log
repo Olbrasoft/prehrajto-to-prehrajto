@@ -18170,3 +18170,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:24:49]   upload done video_id=26244580 in 83.0s
 [15:24:52] film cr_film_id=9871 OK in 151.2s
 [15:24:52] batch-end ok=20 failed=0 dur=2893.1s avg/film=144.7s remaining=14889 eta_hours=598.5
+
+===== run 2026-06-22T15:28:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27964090067) =====
+[15:28:49] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:28:50] batch-start shard=1/2 count=20 backlog=17650 uploads=2761 failed_attempts=270 description_overrides=17579
+[15:28:50] login
+[15:28:51] login done
+[15:28:51] iteration 1/20
+[15:28:51] film cr_film_id=9873 name='Doba ledová: Dobrodružství s Buckem Wildem (2022) CZ Dabing' candidates=7
+[15:28:51]   candidate upload_id=67181a24eabbc url=https://prehraj.to/doba-ledova-6-buckova-dobrodruzstvi-animovany-2022-cz-dab/67181a24eabbc
+[15:28:52]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/103365290/vmZueET0luNrIoLFYGSrgTGgseZf8psXRtD…)
+[15:30:27]   downloaded 2,258.9 MB in 92.2s (24.5 MB/s)
+[15:32:55]   upload done video_id=26244720 in 148.2s
