@@ -17408,3 +17408,16 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:53:36]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/34840009/9zKiXbs4jIlVIdNTlmhkOsy3CqEHbLI2ZuGg…)
 [09:54:59]   downloaded 2,347.2 MB in 81.9s (28.7 MB/s)
 [09:57:07]   upload done video_id=26232735 in 127.8s
+[09:57:09] film cr_film_id=9353 OK in 214.5s
+[09:57:09] iteration 18/20
+[09:57:09] film cr_film_id=9357 name='After: Tajemství (2021) CZ Dabing' candidates=5
+[09:57:09]   candidate upload_id=6e2b585495a68085 url=https://prehraj.to/after-tajemstvi-2021-cz-dabing-avi/6e2b585495a68085
+[09:57:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/after-tajemstvi-2021-cz-dabing-avi/6e2b585495a68085 (permanent=True)
+[09:57:09]   candidate upload_id=78243e0e2261baa3 url=https://prehraj.to/after-tajemstvi-2021-cz-dabing-avi-avi/78243e0e2261baa3
+[09:57:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/after-tajemstvi-2021-cz-dabing-avi-avi/78243e0e2261baa3 (permanent=True)
+[09:57:15]   candidate upload_id=852b76608bfd2071 url=https://prehraj.to/after-tajemstvi-2021-cz-dabing/852b76608bfd2071
+[09:57:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/after-tajemstvi-2021-cz-dabing/852b76608bfd2071 (permanent=True)
+[09:57:21]   candidate upload_id=7813e7fc196172ea url=https://prehraj.to/tajemstvi-stare-bambitky-2-2022-fhd-arma/7813e7fc196172ea
+[09:57:27]   resolved in 6.2s → 720p (https://pf-storage1.premiumcdn.net/167060354/orpH41S4jFP2Ty5t3asJ9Sg2CRgCNncvncR…)
+[09:58:28]   downloaded 2,100.7 MB in 59.3s (35.4 MB/s)
+[10:00:06]   upload done video_id=26232849 in 98.8s
