@@ -16965,3 +16965,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:58:42]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/31891352/Jv9UARIv2TeGHvKsxDCRBI8Ef6NUXDUqRFlm…)
 [06:59:59]   downloaded 2,189.6 MB in 75.1s (29.2 MB/s)
 [07:02:28]   upload done video_id=26226505 in 149.8s
+[07:02:30] film cr_film_id=9069 OK in 229.4s
+[07:02:30] iteration 20/20
+[07:02:30] film cr_film_id=9071 name='Rozpolcená (2022) CZ Dabing' candidates=2
+[07:02:30]   candidate upload_id=3dc7f09f178edf7a url=https://prehraj.to/rozpolcena-cameron-monaghan-frank-grillo-lilly-krug-john-malkovich-2022-thriller-bdrip-1080p-cz-dabing-mp4/3dc7f09f178edf7a
+[07:02:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozpolcena-cameron-monaghan-frank-grillo-lilly-krug-john-malkovich-2022-thriller-bdrip-1080p-cz-dabing-mp4/3dc7f09f178edf7a (permanent=True)
+[07:02:31]   candidate upload_id=b3bd6488fc723279 url=https://prehraj.to/rozpolcena-cameron-monaghan-frank-grillo-lilly-krug-john-malkovich-2022-thriller-bdrip-1080p-cz-dabing-mp4/b3bd6488fc723279
+[07:02:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozpolcena-cameron-monaghan-frank-grillo-lilly-krug-john-malkovich-2022-thriller-bdrip-1080p-cz-dabing-mp4/b3bd6488fc723279 (permanent=True)
+[07:02:36] film cr_film_id=9071 all candidates exhausted
+[07:02:36] batch-end ok=19 failed=1 dur=2307.0s avg/film=121.4s remaining=15038 eta_hours=507.1
