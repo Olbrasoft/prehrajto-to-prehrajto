@@ -58131,6 +58131,25 @@
         "download_sec": 35.7,
         "upload_sec": 36.3
       }
+    },
+    {
+      "cr_film_id": 31615,
+      "cr_slug": "infeccion",
+      "title": "Infección",
+      "year": 2019,
+      "display_name": "Infección (2019)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "f01c14593aba93a0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26242761,
+      "size_bytes": 907296661,
+      "uploaded_at": "2026-06-22T13:40:07Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 35.1,
+        "upload_sec": 52.1
+      }
     }
   ],
   "failed_attempts": [
@@ -59373,5 +59392,5 @@
       "failed_at": "2026-06-22T12:26:33Z"
     }
   ],
-  "last_updated": "2026-06-22T13:38:35Z"
+  "last_updated": "2026-06-22T13:40:07Z"
 }
