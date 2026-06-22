@@ -19782,3 +19782,16 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:22:41]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/30148910/xEAT4Phd3uQ9cWzTgliVbhM4HOpfrOSyNSzv…)
 [04:25:38]   downloaded 1,748.3 MB in 175.0s (10.0 MB/s)
 [04:27:39]   upload done video_id=26223958 in 120.8s
+[04:27:41] film cr_film_id=33962 OK in 301.4s
+[04:27:41] iteration 14/20
+[04:27:41] film cr_film_id=14974 name='Prorok (2022)' candidates=1
+[04:27:41]   candidate upload_id=68ace16ce651c url=https://prehraj.to/prorok-2022-pl-1080p-web-dl-chrisvps/68ace16ce651c
+[04:27:42]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/144559344/zJosPXSX5fdnuJGUVvC53SXGiGatqluBdUz…)
+[04:29:49]   download FAILED after 124.6s: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds
+[04:29:49] film cr_film_id=14974 all candidates exhausted
+[04:29:49] iteration 15/20
+[04:29:49] film cr_film_id=27100 name='Prezidentka (2022)' candidates=1
+[04:29:49]   candidate upload_id=68250c7a87657 url=https://prehraj.to/prezidentka-2022/68250c7a87657
+[04:29:52]   resolved in 3.1s → 720p (https://pf-storage5.premiumcdn.net/138036623/dr6iEoUOoue7fzXI4mULqUPJHz1h0WhO2Cd…)
+[04:30:39]   downloaded 1,066.3 MB in 45.6s (23.4 MB/s)
+[04:31:54]   upload done video_id=26224067 in 74.9s

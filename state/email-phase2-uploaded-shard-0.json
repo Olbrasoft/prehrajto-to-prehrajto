@@ -55052,6 +55052,25 @@
         "download_sec": 175.0,
         "upload_sec": 120.8
       }
+    },
+    {
+      "cr_film_id": 27100,
+      "cr_slug": "prezidentka-2022",
+      "title": "Prezidentka",
+      "year": 2022,
+      "display_name": "Prezidentka (2022)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68250c7a87657",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26224067,
+      "size_bytes": 1066345519,
+      "uploaded_at": "2026-06-22T04:31:54Z",
+      "timing": {
+        "resolve_sec": 3.1,
+        "download_sec": 45.6,
+        "upload_sec": 74.9
+      }
     }
   ],
   "failed_attempts": [
@@ -56127,7 +56146,18 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svetlonoc-2022-mkv/8301b447fe3b7653",
       "permanent": true,
       "failed_at": "2026-06-22T03:54:29Z"
+    },
+    {
+      "cr_film_id": 14974,
+      "upload_id": "68ace16ce651c",
+      "reason": "download_failed: curl exit 28: curl: (28) Operation too slow. Less than 10000 bytes/sec transferred the last 60 seconds",
+      "permanent": false,
+      "failed_at": "2026-06-22T04:29:49Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 124.6
+      }
     }
   ],
-  "last_updated": "2026-06-22T04:27:39Z"
+  "last_updated": "2026-06-22T04:31:54Z"
 }
