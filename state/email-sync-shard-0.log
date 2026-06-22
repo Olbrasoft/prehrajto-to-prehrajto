@@ -18786,3 +18786,22 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:55:55]   upload done video_id=26263554 in 159.8s
 [23:55:57] film cr_film_id=9682 OK in 285.0s
 [23:55:57] batch-end ok=20 failed=0 dur=5411.5s avg/film=270.6s remaining=14792 eta_hours=1111.9
+
+===== run 2026-06-22T23:56:34Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27992262101) =====
+[23:56:36] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:56:36] batch-start shard=0/2 count=20 backlog=17650 uploads=2858 failed_attempts=298 description_overrides=17579
+[23:56:36] login
+[23:56:37] login done
+[23:56:37] iteration 1/20
+[23:56:37] film cr_film_id=9686 name='LOVEní (2019) CZ Dabing' candidates=2
+[23:56:37]   candidate upload_id=6a4bccc49daedb40 url=https://prehraj.to/loveni-2019-cz-dab-1080p/6a4bccc49daedb40
+[23:56:38]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/loveni-2019-cz-dab-1080p/6a4bccc49daedb40 (permanent=True)
+[23:56:38]   candidate upload_id=b83c416453f2ea83 url=https://prehraj.to/loveni-2019-cz-dab-1080p/b83c416453f2ea83
+[23:56:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/loveni-2019-cz-dab-1080p/b83c416453f2ea83 (permanent=True)
+[23:56:44] film cr_film_id=9686 all candidates exhausted
+[23:56:44] iteration 2/20
+[23:56:44] film cr_film_id=9690 name='Dvě nevěsty a jedna svatba (2018) CZ Dabing' candidates=16
+[23:56:44]   candidate upload_id=605a8b1dd8904 url=https://prehraj.to/dve-nevesty-a-jedna-svatba-2018-cz-dabing/605a8b1dd8904
+[23:56:50]   resolved in 6.1s → 480p (https://pf-storage5.premiumcdn.net/22786820/1jkILmsPEfpKfa0imMTxAs3aixbhOdcEJija…)
+[23:57:11]   downloaded 550.1 MB in 20.2s (27.2 MB/s)
+[23:58:04]   upload done video_id=26263717 in 52.6s
