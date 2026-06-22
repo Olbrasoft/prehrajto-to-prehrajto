@@ -21399,3 +21399,12 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [15:57:48]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/144221646/XmxiZvFq2Td2S6DIPgFbnFPWtBMsqwf8NtR…)
 [15:59:46]   downloaded 1,887.2 MB in 116.2s (16.2 MB/s)
 [16:01:53]   upload done video_id=26245425 in 126.7s
+[16:01:55] film cr_film_id=34707 OK in 248.3s
+[16:01:55] iteration 8/20
+[16:01:55] film cr_film_id=16995 name='U mě doma (2018)' candidates=6
+[16:01:55]   candidate upload_id=6868317280d4c url=https://prehraj.to/tata-je-doma-2/6868317280d4c
+[16:01:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tata-je-doma-2/6868317280d4c (permanent=True)
+[16:01:56]   candidate upload_id=e177adbb66175534 url=https://prehraj.to/tata-je-doma-1-cz/e177adbb66175534
+[16:02:02]   resolved in 6.1s → 480p (https://pf-storage1.premiumcdn.net/160694960/Z52cw2sXqFwvfJZU5KHKqsJwH7ZSNOS5wS2…)
+[16:02:51]   downloaded 678.1 MB in 46.8s (14.5 MB/s)
+[16:03:22]   upload done video_id=26245487 in 31.1s
