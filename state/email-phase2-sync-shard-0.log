@@ -19719,3 +19719,17 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:48:38]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/28269960/z4yU8puVpIRziwVF2zUQZu3jTKQiPOhz1IGe…)
 [03:51:20]   downloaded 2,598.6 MB in 159.8s (16.3 MB/s)
 [03:54:20]   upload done video_id=26223393 in 180.1s
+[03:54:22] film cr_film_id=29616 OK in 345.7s
+[03:54:22] iteration 5/20
+[03:54:22] film cr_film_id=6208 name='Světlonoc (2022)' candidates=2
+[03:54:22]   candidate upload_id=652e4881f056532b url=https://prehraj.to/svetlonoc-2022-mkv/652e4881f056532b
+[03:54:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svetlonoc-2022-mkv/652e4881f056532b (permanent=True)
+[03:54:24]   candidate upload_id=8301b447fe3b7653 url=https://prehraj.to/svetlonoc-2022-mkv/8301b447fe3b7653
+[03:54:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svetlonoc-2022-mkv/8301b447fe3b7653 (permanent=True)
+[03:54:29] film cr_film_id=6208 all candidates exhausted
+[03:54:29] iteration 6/20
+[03:54:29] film cr_film_id=15598 name='Stíny smrti: Vražda v Ramatuelle (2022)' candidates=1
+[03:54:29]   candidate upload_id=69037e42bbd85 url=https://prehraj.to/stiny-smrti-vrazda-v-ramatuelle-2022-sk/69037e42bbd85
+[03:54:35]   resolved in 5.9s → 1080p (https://pf-storage5.premiumcdn.net/154491309/ERaHlLi0JHKQTW5HNBHNBiwkfw0U7xfKQs7…)
+[03:56:40]   downloaded 2,373.8 MB in 122.2s (19.4 MB/s)
+[03:59:08]   upload done video_id=26223496 in 148.2s
