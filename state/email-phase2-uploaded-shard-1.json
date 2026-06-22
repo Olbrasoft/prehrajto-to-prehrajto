@@ -59537,6 +59537,25 @@
         "download_sec": 166.0,
         "upload_sec": 33.8
       }
+    },
+    {
+      "cr_film_id": 33345,
+      "cr_slug": "alcatraz",
+      "title": "Alcatraz",
+      "year": 2018,
+      "display_name": "Alcatraz (2018)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5be3fa7553c3a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26254182,
+      "size_bytes": 1168371397,
+      "uploaded_at": "2026-06-22T19:55:29Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 435.9,
+        "upload_sec": 58.3
+      }
     }
   ],
   "failed_attempts": [
@@ -60812,5 +60831,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-22T19:47:09Z"
+  "last_updated": "2026-06-22T19:55:29Z"
 }
