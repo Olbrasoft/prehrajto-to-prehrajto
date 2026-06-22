@@ -19859,3 +19859,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [03:41:56]   upload done video_id=26223198 in 64.5s
 [03:41:57] film cr_film_id=33791 OK in 116.9s
 [03:41:57] batch-end ok=18 failed=2 dur=2332.8s avg/film=129.6s remaining=7166 eta_hours=258.0
+
+===== run 2026-06-22T03:42:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27928074148) =====
+[03:42:31] batch-start shard=1/2 count=20 backlog=10210 uploads=3044 failed_attempts=156 description_overrides=0
+[03:42:31] login
+[03:42:33] login done
+[03:42:33] iteration 1/20
+[03:42:33] film cr_film_id=33919 name='The Colour Room (2021)' candidates=1
+[03:42:33]   candidate upload_id=6195b3f28306a url=https://prehraj.to/the-colour-room-2021-1080p-webrip-x264-aac-yts-mx/6195b3f28306a
+[03:42:34]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/26593609/Qwkf5RIJDt7lup2CR8cLoIpEslBH86SWjfpN…)
+[03:43:22]   downloaded 934.6 MB in 46.2s (20.2 MB/s)
+[03:44:04]   upload done video_id=26223241 in 42.2s
