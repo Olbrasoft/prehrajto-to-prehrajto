@@ -18236,3 +18236,19 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:48:55]   resolved in 1.5s → 480p (https://pf-storage4.premiumcdn.net/76301/2x3fd9TbBUr7cKBTExIQpTZATk3UaJIpESwJuRO…)
 [15:49:28]   downloaded 560.7 MB in 30.8s (18.2 MB/s)
 [15:50:12]   upload done video_id=26245228 in 44.0s
+[15:50:14] film cr_film_id=9927 OK in 80.2s
+[15:50:14] iteration 10/20
+[15:50:14] film cr_film_id=9937 name='Šmoulové ve filmu (2025) CZ Dabing' candidates=3
+[15:50:14]   candidate upload_id=9636ef76c8e60e57 url=https://prehraj.to/smoulove-ve-filmu-2025-cz-dabing-uhd-animation-mp4/9636ef76c8e60e57
+[15:50:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smoulove-ve-filmu-2025-cz-dabing-uhd-animation-mp4/9636ef76c8e60e57 (permanent=True)
+[15:50:14]   candidate upload_id=90af7a189fe43915 url=https://prehraj.to/smoulove-ve-filmu-2025-cz-dabing/90af7a189fe43915
+[15:50:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smoulove-ve-filmu-2025-cz-dabing/90af7a189fe43915 (permanent=True)
+[15:50:20]   candidate upload_id=4a506f7c67b71cc1 url=https://prehraj.to/smoulove-ve-filmu-2025-cz-dabing-kfc/4a506f7c67b71cc1
+[15:50:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smoulove-ve-filmu-2025-cz-dabing-kfc/4a506f7c67b71cc1 (permanent=True)
+[15:50:26] film cr_film_id=9937 all candidates exhausted
+[15:50:26] iteration 11/20
+[15:50:26] film cr_film_id=9947 name='Kočičí banda 2 (2015) CZ Dabing' candidates=1
+[15:50:26]   candidate upload_id=60c361cac4524 url=https://prehraj.to/kocici-banda-2-2015-cz-dabing-animovany/60c361cac4524
+[15:50:32]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/23864886/dpLiL7SGLU2gI4LCRdtWaSx5sA4CoNclBFLl…)
+[15:52:25]   downloaded 1,780.4 MB in 110.5s (16.1 MB/s)
+[15:54:25]   upload done video_id=26245289 in 120.4s
