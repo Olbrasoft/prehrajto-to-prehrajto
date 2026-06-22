@@ -51135,6 +51135,25 @@
         "download_sec": 25.9,
         "upload_sec": 32.9
       }
+    },
+    {
+      "cr_film_id": 10359,
+      "cr_slug": "scary-movie-5",
+      "title": "Scary Movie 5",
+      "year": 2013,
+      "display_name": "Scary Movie 5 (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67aae919d6294",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26261424,
+      "size_bytes": 2366307713,
+      "uploaded_at": "2026-06-22T23:00:57Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 125.1,
+        "upload_sec": 170.6
+      }
     }
   ],
   "failed_attempts": [
@@ -53194,5 +53213,5 @@
       "failed_at": "2026-06-22T21:52:09Z"
     }
   ],
-  "last_updated": "2026-06-22T22:55:56Z"
+  "last_updated": "2026-06-22T23:00:57Z"
 }
