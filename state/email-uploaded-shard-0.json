@@ -49416,6 +49416,25 @@
         "download_sec": 56.1,
         "upload_sec": 71.7
       }
+    },
+    {
+      "cr_film_id": 9228,
+      "cr_slug": "2067",
+      "title": "2067",
+      "year": 2020,
+      "display_name": "2067 (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5f776d7f571e5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26244785,
+      "size_bytes": 2009811036,
+      "uploaded_at": "2026-06-22T15:35:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 106.0,
+        "upload_sec": 127.0
+      }
     }
   ],
   "failed_attempts": [
@@ -51485,5 +51504,5 @@
       "failed_at": "2026-06-22T09:03:43Z"
     }
   ],
-  "last_updated": "2026-06-22T15:31:02Z"
+  "last_updated": "2026-06-22T15:35:00Z"
 }
