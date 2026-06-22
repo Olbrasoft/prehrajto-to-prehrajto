@@ -15849,3 +15849,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:21:05]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/105000839/yv3u4pS4rInNIOLs9VTKBSoqUKMtqgfpkHe…)
 [00:21:49]   downloaded 1,550.8 MB in 42.1s (36.8 MB/s)
 [00:22:54]   upload done video_id=26219104 in 65.0s
+[00:22:55] film cr_film_id=8387 OK in 111.1s
+[00:22:55] iteration 9/20
+[00:22:55] film cr_film_id=8389 name='Rychle a nemožně (2023) CZ Dabing' candidates=3
+[00:22:55]   candidate upload_id=61983282c0862cc2 url=https://prehraj.to/rychle-a-nemozne-2023-cz-dab-1080p/61983282c0862cc2
+[00:22:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rychle-a-nemozne-2023-cz-dab-1080p/61983282c0862cc2 (permanent=True)
+[00:22:56]   candidate upload_id=71ce7ffe814398fe url=https://prehraj.to/rychle-a-nemozne-2023-komedie-akcni-cz-dabing-hd-mp4/71ce7ffe814398fe
+[00:23:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rychle-a-nemozne-2023-komedie-akcni-cz-dabing-hd-mp4/71ce7ffe814398fe (permanent=True)
+[00:23:02]   candidate upload_id=bec2420877fb4b1e url=https://prehraj.to/rychlo-a-nemozne-only-3-days-left-2023-sk-avi/bec2420877fb4b1e
+[00:23:07]   resolved in 5.7s → 720p (https://pf-storage5.premiumcdn.net/157054364/kOqS2vIvrHJyun5igWhqWIaNt6bcVYsLZiq…)
+[00:23:56]   downloaded 1,776.3 MB in 48.0s (37.0 MB/s)
+[00:25:17]   upload done video_id=26219153 in 80.3s

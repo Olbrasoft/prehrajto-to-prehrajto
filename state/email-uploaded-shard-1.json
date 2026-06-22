@@ -43953,6 +43953,25 @@
         "download_sec": 42.1,
         "upload_sec": 65.0
       }
+    },
+    {
+      "cr_film_id": 8389,
+      "cr_slug": "rychle-a-nemozne",
+      "title": "Rychle a nemožně",
+      "year": 2023,
+      "display_name": "Rychle a nemožně (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "bec2420877fb4b1e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26219153,
+      "size_bytes": 1776270239,
+      "uploaded_at": "2026-06-22T00:25:17Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 48.0,
+        "upload_sec": 80.3
+      }
     }
   ],
   "failed_attempts": [
@@ -45586,7 +45605,21 @@
       "reason": "oversize: 6112129100 B",
       "permanent": true,
       "failed_at": "2026-06-22T00:07:35Z"
+    },
+    {
+      "cr_film_id": 8389,
+      "upload_id": "61983282c0862cc2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rychle-a-nemozne-2023-cz-dab-1080p/61983282c0862cc2",
+      "permanent": true,
+      "failed_at": "2026-06-22T00:22:56Z"
+    },
+    {
+      "cr_film_id": 8389,
+      "upload_id": "71ce7ffe814398fe",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rychle-a-nemozne-2023-komedie-akcni-cz-dabing-hd-mp4/71ce7ffe814398fe",
+      "permanent": true,
+      "failed_at": "2026-06-22T00:23:01Z"
     }
   ],
-  "last_updated": "2026-06-22T00:22:54Z"
+  "last_updated": "2026-06-22T00:25:17Z"
 }
