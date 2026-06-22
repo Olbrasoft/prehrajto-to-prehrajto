@@ -16752,3 +16752,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:37:57]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/3977176/z3mhRgC4vfNZsonieYsOACgGhr4TJOIXNhBVT…)
 [05:38:22]   downloaded 453.3 MB in 22.3s (20.3 MB/s)
 [05:38:59]   upload done video_id=26225371 in 37.4s
+[05:39:01] film cr_film_id=8925 OK in 64.8s
+[05:39:01] iteration 12/20
+[05:39:01] film cr_film_id=8927 name='Temné osnovy (2018) CZ Dabing' candidates=4
+[05:39:01]   candidate upload_id=5ff13b203a5bc url=https://prehraj.to/temne-osnovy-2018-1080phd-brrip-cz-dabing-thriller-drama-fantasy-horor-novinka/5ff13b203a5bc
+[05:39:03]   resolved in 1.7s → 720p (https://pf-storage1.premiumcdn.net/21212961/1WJuDPSwjFP6fzVsXyilYSaZc3nTmRUG5Hnv…)
+[05:40:14]   downloaded 1,263.2 MB in 69.0s (18.3 MB/s)
+[05:40:14]   upload FAILED after 0.1s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[05:40:14]   candidate upload_id=5fee525c594ce url=https://prehraj.to/temne-osnovy-2018-bluray-cz-dabing-thriller-drama-fantasy-horor-novinka/5fee525c594ce
+[05:40:15]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/21159117/6DyTZoF6Qh18TZ4cW4t7JFxOu4xfV4h6kCxX…)
+[05:40:40]   downloaded 362.7 MB in 22.6s (16.1 MB/s)
+[05:41:05]   upload done video_id=26225403 in 25.3s
