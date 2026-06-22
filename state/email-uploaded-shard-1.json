@@ -49406,6 +49406,25 @@
         "download_sec": 31.8,
         "upload_sec": 16.0
       }
+    },
+    {
+      "cr_film_id": 9833,
+      "cr_slug": "prasaci",
+      "title": "Prasáci",
+      "year": 2007,
+      "display_name": "Prasáci (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b7b25360743c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26244297,
+      "size_bytes": 341410689,
+      "uploaded_at": "2026-06-22T15:09:02Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 16.0,
+        "upload_sec": 16.4
+      }
     }
   ],
   "failed_attempts": [
@@ -51360,5 +51379,5 @@
       "failed_at": "2026-06-22T14:01:25Z"
     }
   ],
-  "last_updated": "2026-06-22T15:08:26Z"
+  "last_updated": "2026-06-22T15:09:02Z"
 }
