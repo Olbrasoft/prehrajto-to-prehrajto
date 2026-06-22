@@ -20982,3 +20982,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:02:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/po-francouzsku-2020-cz-dabing-mp4/f6cc4d0d4d2543ee (permanent=True)
 [13:02:20] film cr_film_id=6572 all candidates exhausted
 [13:02:20] batch-end ok=16 failed=4 dur=2156.0s avg/film=134.8s remaining=7009 eta_hours=262.4
+
+===== run 2026-06-22T13:08:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27954967270) =====
+[13:08:04] batch-start shard=0/2 count=20 backlog=10210 uploads=3201 failed_attempts=171 description_overrides=0
+[13:08:04] login
+[13:08:06] login done
+[13:08:06] iteration 1/20
+[13:08:06] film cr_film_id=7630 name='Past (2020)' candidates=5
+[13:08:06]   candidate upload_id=5eba3ba6d5119 url=https://prehraj.to/past-drama-ct-2020-fullhd-propr-mp4/5eba3ba6d5119
+[13:08:07]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/16507555/JLDsMafgkuxQF36IdmU4VfKzfJlhp8SxouK7…)
+[13:09:48]   downloaded 2,180.2 MB in 98.5s (22.1 MB/s)
+[13:11:55]   upload done video_id=26242238 in 127.3s
