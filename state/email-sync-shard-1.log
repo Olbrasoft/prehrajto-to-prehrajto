@@ -18613,3 +18613,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:28:07]   upload done video_id=26255455 in 82.2s
 [20:28:09] film cr_film_id=10175 OK in 147.8s
 [20:28:09] batch-end ok=17 failed=3 dur=8026.1s avg/film=472.1s remaining=14835 eta_hours=1945.4
+
+===== run 2026-06-22T21:16:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27984557973) =====
+[21:16:07] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:16:07] batch-start shard=1/2 count=20 backlog=17650 uploads=2815 failed_attempts=283 description_overrides=17579
+[21:16:07] login
+[21:16:09] login done
+[21:16:09] iteration 1/20
+[21:16:09] film cr_film_id=10185 name='Dědictví aneb Kurvaseneříká (2014) CZ Dabing' candidates=12
+[21:16:09]   candidate upload_id=5c1ed23918eab url=https://prehraj.to/dedictvi-aneb-kurva-se-nerika-cz-dabing-2014/5c1ed23918eab
+[21:16:10]   resolved in 1.2s → 720p (https://pf-storage2.premiumcdn.net/9819944/75zU6vcKnfEjtleiZrSnecL5srnI39TertpNI…)
+[21:17:05]   downloaded 1,274.2 MB in 53.3s (23.9 MB/s)
+[21:18:00]   upload done video_id=26257554 in 54.8s
