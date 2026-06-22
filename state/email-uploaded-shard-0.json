@@ -49606,6 +49606,25 @@
         "download_sec": 30.1,
         "upload_sec": 36.9
       }
+    },
+    {
+      "cr_film_id": 9288,
+      "cr_slug": "poltergeist",
+      "title": "Poltergeist",
+      "year": 2015,
+      "display_name": "Poltergeist (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "794516d3b95b84ad",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26245351,
+      "size_bytes": 1911061284,
+      "uploaded_at": "2026-06-22T15:57:24Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 82.6,
+        "upload_sec": 112.5
+      }
     }
   ],
   "failed_attempts": [
@@ -51675,5 +51694,5 @@
       "failed_at": "2026-06-22T09:03:43Z"
     }
   ],
-  "last_updated": "2026-06-22T15:54:04Z"
+  "last_updated": "2026-06-22T15:57:24Z"
 }
