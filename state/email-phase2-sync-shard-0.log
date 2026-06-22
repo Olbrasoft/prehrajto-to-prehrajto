@@ -21993,3 +21993,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:28:05]   upload done video_id=26262547 in 214.9s
 [23:28:06] film cr_film_id=10522 OK in 283.5s
 [23:28:06] batch-end ok=20 failed=0 dur=4218.8s avg/film=210.9s remaining=6875 eta_hours=402.8
+
+===== run 2026-06-22T23:28:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27991057504) =====
+[23:28:42] batch-start shard=0/2 count=20 backlog=10210 uploads=3335 failed_attempts=177 description_overrides=0
+[23:28:42] login
+[23:28:44] login done
+[23:28:44] iteration 1/20
+[23:28:44] film cr_film_id=17356 name='Alenka v zemi zázraků (2018)' candidates=1
+[23:28:44]   candidate upload_id=5cc4713e58de3 url=https://prehraj.to/alenka-v-zemi-zazraku-2018-cz/5cc4713e58de3
+[23:28:45]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/13111746/K2Yu1yULpurRTzVtWgFmRUR7hEofDyfgOhlE…)
+[23:30:23]   downloaded 1,718.8 MB in 95.5s (18.0 MB/s)
+[23:32:29]   upload done video_id=26262744 in 126.4s
