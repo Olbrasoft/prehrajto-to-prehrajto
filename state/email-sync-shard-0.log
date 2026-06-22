@@ -15684,3 +15684,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:06:27]   upload done video_id=26218836 in 96.0s
 [00:06:28] film cr_film_id=7872 OK in 164.1s
 [00:06:28] batch-end ok=19 failed=1 dur=3890.3s avg/film=204.8s remaining=15196 eta_hours=864.5
+
+===== run 2026-06-22T00:07:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27921875554) =====
+[00:07:02] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:07:02] batch-start shard=0/2 count=20 backlog=17650 uploads=2454 failed_attempts=259 description_overrides=17579
+[00:07:02] login
+[00:07:04] login done
+[00:07:04] iteration 1/20
+[00:07:04] film cr_film_id=7880 name='Noční můra v Elm Street 2: Freddyho pomsta (1985) CZ Dabing' candidates=9
+[00:07:04]   candidate upload_id=55aea6da78c20 url=https://prehraj.to/nocni-mura-v-elm-street-2-freddyho-pomsta-1985-czdub-horor/55aea6da78c20
+[00:07:05]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/518787/rBNinBToasAbT6ZFEyH4BTrYhDohExtLYh3AF4…)
+[00:07:14]   downloaded 125.4 MB in 7.5s (16.7 MB/s)
+[00:07:22]   upload done video_id=26218861 in 7.9s
