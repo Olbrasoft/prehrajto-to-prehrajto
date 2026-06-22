@@ -20186,3 +20186,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [07:09:12]   upload done video_id=26226640 in 147.7s
 [07:09:14] film cr_film_id=28389 OK in 252.2s
 [07:09:14] batch-end ok=19 failed=1 dur=5599.9s avg/film=294.7s remaining=7127 eta_hours=583.4
+
+===== run 2026-06-22T07:09:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27935758888) =====
+[07:09:52] batch-start shard=1/2 count=20 backlog=10210 uploads=3083 failed_attempts=165 description_overrides=0
+[07:09:52] login
+[07:09:53] login done
+[07:09:53] iteration 1/20
+[07:09:53] film cr_film_id=14805 name='Kraj (2021)' candidates=1
+[07:09:53]   candidate upload_id=61aa57262d0a0 url=https://prehraj.to/kraj-2021-1080p-nf-web-dl-ddp2-0-x264-sprite/61aa57262d0a0
+[07:09:54]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/27077841/KEXhRkcOgfpvIVGs8qivqcgdS0jHzXFdRuzm…)
+[07:11:23]   downloaded 1,954.7 MB in 87.1s (22.4 MB/s)
+[07:13:14]   upload done video_id=26226715 in 111.7s
