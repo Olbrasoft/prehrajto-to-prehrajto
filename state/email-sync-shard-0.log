@@ -16114,3 +16114,10 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:45:21]   resolved in 1.6s → 1080p (https://pf-storage5.premiumcdn.net/131335319/5bPuq3f50UMduLNinoIDJfqXHXOHEyIG5s0…)
 [02:47:01]   downloaded 2,325.8 MB in 98.0s (23.7 MB/s)
 [02:49:36]   upload done video_id=26222010 in 154.3s
+[02:49:38] film cr_film_id=8116 OK in 258.0s
+[02:49:38] iteration 20/20
+[02:49:38] film cr_film_id=8118 name='Výjimečný stav (2024) CZ' candidates=1
+[02:49:38]   candidate upload_id=a581dbc74e42b52a url=https://prehraj.to/vyjimecny-stav-2024-mp4/a581dbc74e42b52a
+[02:49:38]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vyjimecny-stav-2024-mp4/a581dbc74e42b52a (permanent=True)
+[02:49:39] film cr_film_id=8118 all candidates exhausted
+[02:49:39] batch-end ok=18 failed=2 dur=2863.5s avg/film=159.1s remaining=15140 eta_hours=669.1
