@@ -21126,3 +21126,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:42:57]   upload done video_id=26243913 in 116.5s
 [14:42:59] film cr_film_id=30878 OK in 181.3s
 [14:42:59] batch-end ok=19 failed=1 dur=5693.2s avg/film=299.6s remaining=6990 eta_hours=581.7
+
+===== run 2026-06-22T14:43:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27961121111) =====
+[14:43:48] batch-start shard=0/2 count=20 backlog=10210 uploads=3220 failed_attempts=172 description_overrides=0
+[14:43:48] login
+[14:43:49] login done
+[14:43:49] iteration 1/20
+[14:43:49] film cr_film_id=32126 name='Embattled (2020)' candidates=3
+[14:43:49]   candidate upload_id=5fba507f5e641 url=https://prehraj.to/embattled-2020-1080p-webrip-x264-aac5-1/5fba507f5e641
+[14:43:50]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/20165700/w7jU96S37CKDtmkh6nuXeS6QcgAH2MFOMiAL…)
+[14:44:50]   downloaded 2,036.2 MB in 58.6s (34.7 MB/s)
+[14:48:54]   upload done video_id=26243960 in 243.3s
