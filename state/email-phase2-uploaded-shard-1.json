@@ -62387,6 +62387,25 @@
         "download_sec": 63.5,
         "upload_sec": 79.4
       }
+    },
+    {
+      "cr_film_id": 28439,
+      "cr_slug": "film-2015",
+      "title": "రుద్రమదేవి",
+      "year": 2015,
+      "display_name": "రుద్రమదేవి (2015)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac28ae9dc3ae",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26273063,
+      "size_bytes": 2386973015,
+      "uploaded_at": "2026-06-23T03:46:32Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 124.3,
+        "upload_sec": 152.8
+      }
     }
   ],
   "failed_attempts": [
@@ -63662,5 +63681,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-23T03:41:49Z"
+  "last_updated": "2026-06-23T03:46:32Z"
 }
