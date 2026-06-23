@@ -65578,6 +65578,25 @@
         "download_sec": 86.3,
         "upload_sec": 90.8
       }
+    },
+    {
+      "cr_film_id": 7110,
+      "cr_slug": "noe",
+      "title": "Noe",
+      "year": 2014,
+      "display_name": "Noe (2014)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "504266c9414c0f2f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26282723,
+      "size_bytes": 1774408819,
+      "uploaded_at": "2026-06-23T10:05:13Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 51.1,
+        "upload_sec": 65.9
+      }
     }
   ],
   "failed_attempts": [
@@ -66939,5 +66958,5 @@
       "failed_at": "2026-06-23T05:49:27Z"
     }
   ],
-  "last_updated": "2026-06-23T10:03:12Z"
+  "last_updated": "2026-06-23T10:05:13Z"
 }
