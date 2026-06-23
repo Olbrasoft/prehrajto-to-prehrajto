@@ -24710,3 +24710,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:26:57]   upload done video_id=26284408 in 29.7s
 [12:26:58] film cr_film_id=15377 OK in 63.8s
 [12:26:58] batch-end ok=20 failed=0 dur=1905.4s avg/film=95.3s remaining=6514 eta_hours=172.4
+
+===== run 2026-06-23T12:27:40Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28026110058) =====
+[12:27:40] batch-start shard=1/2 count=20 backlog=10210 uploads=3696 failed_attempts=175 description_overrides=0
+[12:27:40] login
+[12:27:44] login done
+[12:27:44] iteration 1/20
+[12:27:44] film cr_film_id=33151 name="Diaz - Don't Clean Up This Blood (2012)" candidates=1
+[12:27:44]   candidate upload_id=5aa7fdf6396c5 url=https://prehraj.to/diaz-neuklizej-tu-krev-2012/5aa7fdf6396c5
+[12:27:52]   resolved in 7.8s → 480p (https://pf-storage5.premiumcdn.net/3625631/6EXIypuxWiWqHb3T6QUbnuQpTBlTRzC7nTGzH…)
+[12:29:21]   downloaded 1,391.0 MB in 87.6s (15.9 MB/s)
+[12:30:39]   upload done video_id=26284421 in 77.5s
