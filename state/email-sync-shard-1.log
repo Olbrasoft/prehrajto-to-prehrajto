@@ -19214,3 +19214,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:41:29]   upload done video_id=26268044 in 51.7s
 [01:41:31] film cr_film_id=10739 OK in 106.5s
 [01:41:31] batch-end ok=20 failed=0 dur=3267.8s avg/film=163.4s remaining=14755 eta_hours=669.7
+
+===== run 2026-06-23T01:42:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27996313894) =====
+[01:42:26] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:42:26] batch-start shard=1/2 count=20 backlog=17650 uploads=2895 failed_attempts=289 description_overrides=17579
+[01:42:26] login
+[01:42:27] login done
+[01:42:27] iteration 1/20
+[01:42:27] film cr_film_id=10741 name='Strakonický dudák (1955) CZ' candidates=1
+[01:42:27]   candidate upload_id=685a9cb407f9a url=https://prehraj.to/strakonicky-dudak-1955-960x720-bydejv/685a9cb407f9a
+[01:42:29]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/140623358/MD0uQliOlhVRIzGsdlF6eilGsGbupVhPVuZ…)
+[01:43:13]   downloaded 1,251.1 MB in 42.7s (29.3 MB/s)
+[01:44:50]   upload done video_id=26268152 in 96.5s
