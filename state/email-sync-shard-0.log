@@ -21769,3 +21769,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:43:20]   upload done video_id=26362643 in 81.4s
 [22:43:24] film cr_film_id=11250 OK in 162.0s
 [22:43:24] batch-end ok=20 failed=0 dur=4880.6s avg/film=244.0s remaining=14402 eta_hours=976.1
+
+===== run 2026-06-23T22:44:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28062117304) =====
+[22:44:04] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:44:04] batch-start shard=0/2 count=20 backlog=17650 uploads=3248 failed_attempts=330 description_overrides=17579
+[22:44:04] login
+[22:44:09] login done
+[22:44:09] iteration 1/20
+[22:44:09] film cr_film_id=11252 name='Charleston (1977) CZ Dabing' candidates=3
+[22:44:09]   candidate upload_id=59c72da4b963a url=https://prehraj.to/charleston-1977-cz-dabing/59c72da4b963a
+[22:44:10]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/2686958/OkKIY4sKgu7ytGwFVEHGvsDOuOjU40ur5cEPi…)
+[22:45:56]   downloaded 803.2 MB in 103.6s (7.8 MB/s)
+[22:46:43]   upload done video_id=26363257 in 47.2s
