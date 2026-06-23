@@ -54802,6 +54802,25 @@
         "download_sec": 24.3,
         "upload_sec": 36.2
       }
+    },
+    {
+      "cr_film_id": 11147,
+      "cr_slug": "monty-python-a-svaty-gral",
+      "title": "Monty Python a Svatý Grál",
+      "year": 1975,
+      "display_name": "Monty Python a Svatý Grál (1975) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68fa7ed620841",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26279756,
+      "size_bytes": 1485029986,
+      "uploaded_at": "2026-06-23T08:30:44Z",
+      "timing": {
+        "resolve_sec": 4.6,
+        "download_sec": 42.2,
+        "upload_sec": 58.6
+      }
     }
   ],
   "failed_attempts": [
@@ -56936,7 +56955,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cinska-ctvrt-chinatown-usa-1974-cz-en-1080p/68fc022ea3d7d",
       "permanent": true,
       "failed_at": "2026-06-23T08:26:30Z"
+    },
+    {
+      "cr_film_id": 11147,
+      "upload_id": "673ab0c4bbdab",
+      "reason": "oversize: 7982284087 B",
+      "permanent": true,
+      "failed_at": "2026-06-23T08:28:58Z"
     }
   ],
-  "last_updated": "2026-06-23T08:28:54Z"
+  "last_updated": "2026-06-23T08:30:44Z"
 }
