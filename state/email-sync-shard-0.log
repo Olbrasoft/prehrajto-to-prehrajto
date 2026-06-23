@@ -19666,3 +19666,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:07:38]   upload done video_id=26275737 in 10.4s
 [05:07:40] film cr_film_id=10298 OK in 23.2s
 [05:07:40] batch-end ok=18 failed=2 dur=1950.6s avg/film=108.4s remaining=14678 eta_hours=442.0
+
+===== run 2026-06-23T05:25:10Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28004281555) =====
+[05:25:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:25:13] batch-start shard=0/2 count=20 backlog=17650 uploads=2972 failed_attempts=309 description_overrides=17579
+[05:25:13] login
+[05:25:14] login done
+[05:25:14] iteration 1/20
+[05:25:14] film cr_film_id=10302 name='Lapač duší (2023) CZ Dabing' candidates=11
+[05:25:14]   candidate upload_id=c8c83d373db7dbae url=https://prehraj.to/lapac-dusi-soulcatcher-2023-cz-dabing-1080p-akcni-mkv/c8c83d373db7dbae
+[05:25:16]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/162149720/V1wH3xSRzuJ2sejcqWFPASA1uzof9ASEacP…)
+[05:27:08]   downloaded 2,116.9 MB in 110.0s (19.2 MB/s)
+[05:29:23]   upload done video_id=26276429 in 135.1s
