@@ -67060,6 +67060,25 @@
         "download_sec": 42.5,
         "upload_sec": 49.2
       }
+    },
+    {
+      "cr_film_id": 35608,
+      "cr_slug": "kanibal",
+      "title": "Kanibal",
+      "year": 2013,
+      "display_name": "Kanibal (2013)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a90369a25cf0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26284328,
+      "size_bytes": 604917286,
+      "uploaded_at": "2026-06-23T12:10:57Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.9,
+        "upload_sec": 28.6
+      }
     }
   ],
   "failed_attempts": [
@@ -68421,5 +68440,5 @@
       "failed_at": "2026-06-23T05:49:27Z"
     }
   ],
-  "last_updated": "2026-06-23T12:10:06Z"
+  "last_updated": "2026-06-23T12:10:57Z"
 }
