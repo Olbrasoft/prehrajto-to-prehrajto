@@ -55306,6 +55306,25 @@
         "download_sec": 47.9,
         "upload_sec": 67.0
       }
+    },
+    {
+      "cr_film_id": 10800,
+      "cr_slug": "spartakus",
+      "title": "Spartakus",
+      "year": 1960,
+      "display_name": "Spartakus (1960) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6020f48e1ff95",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26284009,
+      "size_bytes": 831909456,
+      "uploaded_at": "2026-06-23T11:31:55Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 28.8,
+        "upload_sec": 40.0
+      }
     }
   ],
   "failed_attempts": [
@@ -57627,5 +57646,5 @@
       "failed_at": "2026-06-23T08:36:30Z"
     }
   ],
-  "last_updated": "2026-06-23T11:30:42Z"
+  "last_updated": "2026-06-23T11:31:55Z"
 }
