@@ -25732,3 +25732,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [16:50:53]   upload done video_id=26312152 in 38.8s
 [16:50:55] film cr_film_id=14341 OK in 59.6s
 [16:50:55] batch-end ok=20 failed=0 dur=1440.4s avg/film=72.0s remaining=6375 eta_hours=127.5
+
+===== run 2026-06-23T17:07:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28043144112) =====
+[17:07:39] batch-start shard=1/2 count=20 backlog=10210 uploads=3835 failed_attempts=176 description_overrides=0
+[17:07:39] login
+[17:07:41] login done
+[17:07:41] iteration 1/20
+[17:07:41] film cr_film_id=32489 name='Leaves of Grass (2009)' candidates=1
+[17:07:41]   candidate upload_id=583e02af87d5b url=https://prehraj.to/leaves-of-grass-2010-vloz-titulky-cz/583e02af87d5b
+[17:07:42]   resolved in 0.8s → 480p (https://pf-storage2.premiumcdn.net/964778/PAxhYgfg2cmbs7gF1LTP9fZkHY7sMYSGosjvcL…)
+[17:08:02]   downloaded 505.7 MB in 19.2s (26.3 MB/s)
+[17:08:31]   upload done video_id=26314561 in 29.0s
