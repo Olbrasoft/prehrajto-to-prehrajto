@@ -64476,6 +64476,25 @@
         "download_sec": 62.0,
         "upload_sec": 72.6
       }
+    },
+    {
+      "cr_film_id": 29228,
+      "cr_slug": "dracula-reborn",
+      "title": "Dracula Reborn",
+      "year": 2015,
+      "display_name": "Dracula Reborn (2015)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "56487b8aa38e1",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26279555,
+      "size_bytes": 410371423,
+      "uploaded_at": "2026-06-23T08:15:36Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 23.2,
+        "upload_sec": 34.0
+      }
     }
   ],
   "failed_attempts": [
@@ -65837,5 +65856,5 @@
       "failed_at": "2026-06-23T05:49:27Z"
     }
   ],
-  "last_updated": "2026-06-23T08:14:33Z"
+  "last_updated": "2026-06-23T08:15:36Z"
 }
