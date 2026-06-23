@@ -72513,6 +72513,25 @@
         "download_sec": 20.8,
         "upload_sec": 29.7
       }
+    },
+    {
+      "cr_film_id": 13858,
+      "cr_slug": "gomora",
+      "title": "Gomora",
+      "year": 2008,
+      "display_name": "Gomora (2008)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5be352eb48a1e",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26371697,
+      "size_bytes": 1643410936,
+      "uploaded_at": "2026-06-23T23:48:29Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 57.8,
+        "upload_sec": 74.8
+      }
     }
   ],
   "failed_attempts": [
@@ -73937,5 +73956,5 @@
       "failed_at": "2026-06-23T21:56:52Z"
     }
   ],
-  "last_updated": "2026-06-23T23:46:12Z"
+  "last_updated": "2026-06-23T23:48:29Z"
 }
