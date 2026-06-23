@@ -62197,6 +62197,25 @@
         "download_sec": 50.5,
         "upload_sec": 72.4
       }
+    },
+    {
+      "cr_film_id": 29031,
+      "cr_slug": "big-bad",
+      "title": "Big Bad",
+      "year": 2016,
+      "display_name": "Big Bad (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "57eea59bdccf2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26271867,
+      "size_bytes": 449825181,
+      "uploaded_at": "2026-06-23T03:17:00Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 26.1,
+        "upload_sec": 34.0
+      }
     }
   ],
   "failed_attempts": [
@@ -63472,5 +63491,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-23T03:15:54Z"
+  "last_updated": "2026-06-23T03:17:00Z"
 }
