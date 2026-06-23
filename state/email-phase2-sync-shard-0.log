@@ -25167,3 +25167,23 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:42:48]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/2496154/ObvF24hAyfyQsGPIN4F9GhQkHgZf2BHM1HPEc…)
 [14:43:32]   downloaded 1,072.8 MB in 42.4s (25.3 MB/s)
 [14:46:08]   upload done video_id=26296298 in 156.5s
+[14:46:10] film cr_film_id=28298 OK in 203.7s
+[14:46:10] iteration 15/20
+[14:46:10] film cr_film_id=5624 name='Cesta do lesa (2012)' candidates=5
+[14:46:10]   candidate upload_id=aebb88cc20fa0082 url=https://prehraj.to/cesta-do-lesa-2012-mp4/aebb88cc20fa0082
+[14:46:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-lesa-2012-mp4/aebb88cc20fa0082 (permanent=True)
+[14:46:11]   candidate upload_id=f6556be65697fdb4 url=https://prehraj.to/cesta-do-lesa-2012-mp4/f6556be65697fdb4
+[14:46:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-lesa-2012-mp4/f6556be65697fdb4 (permanent=True)
+[14:46:17]   candidate upload_id=37b613c87a9a1128 url=https://prehraj.to/cesta-do-lesa-2012-mp4/37b613c87a9a1128
+[14:46:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-lesa-2012-mp4/37b613c87a9a1128 (permanent=True)
+[14:46:23]   candidate upload_id=158c14d8331e532a url=https://prehraj.to/cesta-do-lesa-2012/158c14d8331e532a
+[14:46:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-lesa-2012/158c14d8331e532a (permanent=True)
+[14:46:28]   candidate upload_id=187559320909a49d url=https://prehraj.to/cesta-do-lesa-2012-mp4/187559320909a49d
+[14:46:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-lesa-2012-mp4/187559320909a49d (permanent=True)
+[14:46:35] film cr_film_id=5624 all candidates exhausted
+[14:46:35] iteration 16/20
+[14:46:35] film cr_film_id=27836 name='Call Girl (2012)' candidates=1
+[14:46:35]   candidate upload_id=5ad95df2c2b59 url=https://prehraj.to/call-girl-2012/5ad95df2c2b59
+[14:46:41]   resolved in 6.4s → 720p (https://pf-storage1.premiumcdn.net/3907873/0BPT0ls8RSrOc0ou7ntr9sVXf7ofKESwltgbU…)
+[14:47:48]   downloaded 1,411.5 MB in 64.9s (21.7 MB/s)
+[14:48:47]   upload done video_id=26296754 in 59.7s

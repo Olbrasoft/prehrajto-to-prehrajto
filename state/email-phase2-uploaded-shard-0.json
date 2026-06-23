@@ -68618,6 +68618,25 @@
         "download_sec": 42.4,
         "upload_sec": 156.5
       }
+    },
+    {
+      "cr_film_id": 27836,
+      "cr_slug": "call-girl",
+      "title": "Call Girl",
+      "year": 2012,
+      "display_name": "Call Girl (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ad95df2c2b59",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26296754,
+      "size_bytes": 1411494760,
+      "uploaded_at": "2026-06-23T14:48:47Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 64.9,
+        "upload_sec": 59.7
+      }
     }
   ],
   "failed_attempts": [
@@ -69984,7 +70003,42 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sammyho-dobrodruzstvi-2-2012/a8c1f344b5bf8a04",
       "permanent": true,
       "failed_at": "2026-06-23T13:43:45Z"
+    },
+    {
+      "cr_film_id": 5624,
+      "upload_id": "aebb88cc20fa0082",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-lesa-2012-mp4/aebb88cc20fa0082",
+      "permanent": true,
+      "failed_at": "2026-06-23T14:46:11Z"
+    },
+    {
+      "cr_film_id": 5624,
+      "upload_id": "f6556be65697fdb4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-lesa-2012-mp4/f6556be65697fdb4",
+      "permanent": true,
+      "failed_at": "2026-06-23T14:46:17Z"
+    },
+    {
+      "cr_film_id": 5624,
+      "upload_id": "37b613c87a9a1128",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-lesa-2012-mp4/37b613c87a9a1128",
+      "permanent": true,
+      "failed_at": "2026-06-23T14:46:23Z"
+    },
+    {
+      "cr_film_id": 5624,
+      "upload_id": "158c14d8331e532a",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-lesa-2012/158c14d8331e532a",
+      "permanent": true,
+      "failed_at": "2026-06-23T14:46:28Z"
+    },
+    {
+      "cr_film_id": 5624,
+      "upload_id": "187559320909a49d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-lesa-2012-mp4/187559320909a49d",
+      "permanent": true,
+      "failed_at": "2026-06-23T14:46:35Z"
     }
   ],
-  "last_updated": "2026-06-23T14:46:08Z"
+  "last_updated": "2026-06-23T14:48:47Z"
 }
