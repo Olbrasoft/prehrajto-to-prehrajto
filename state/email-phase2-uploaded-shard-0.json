@@ -67820,6 +67820,25 @@
         "download_sec": 44.9,
         "upload_sec": 49.2
       }
+    },
+    {
+      "cr_film_id": 27858,
+      "cr_slug": "tower-block",
+      "title": "Tower Block",
+      "year": 2012,
+      "display_name": "Tower Block (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9edc37b6fcd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26287377,
+      "size_bytes": 609005695,
+      "uploaded_at": "2026-06-23T13:25:07Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 36.2,
+        "upload_sec": 37.9
+      }
     }
   ],
   "failed_attempts": [
@@ -69181,5 +69200,5 @@
       "failed_at": "2026-06-23T05:49:27Z"
     }
   ],
-  "last_updated": "2026-06-23T13:23:47Z"
+  "last_updated": "2026-06-23T13:25:07Z"
 }
