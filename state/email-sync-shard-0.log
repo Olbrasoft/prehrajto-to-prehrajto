@@ -20148,3 +20148,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:24:54]   upload done video_id=26280304 in 150.9s
 [09:24:56] film cr_film_id=10690 OK in 250.4s
 [09:24:56] batch-end ok=19 failed=1 dur=3716.3s avg/film=195.6s remaining=14621 eta_hours=794.4
+
+===== run 2026-06-23T09:25:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28016180771) =====
+[09:25:35] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:25:36] batch-start shard=0/2 count=20 backlog=17650 uploads=3029 failed_attempts=327 description_overrides=17579
+[09:25:36] login
+[09:25:38] login done
+[09:25:38] iteration 1/20
+[09:25:38] film cr_film_id=10692 name='Noční motýl (1941) CZ' candidates=2
+[09:25:38]   candidate upload_id=5a9b7b05dbdfa url=https://prehraj.to/nocni-motyl-1941/5a9b7b05dbdfa
+[09:25:39]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/3528035/MeRfkxcQgIlYCy1iAYTmpcm4SkJUKyfGgFQ7f…)
+[09:26:57]   downloaded 2,050.4 MB in 72.4s (28.3 MB/s)
+[09:28:35]   upload done video_id=26280358 in 98.0s
