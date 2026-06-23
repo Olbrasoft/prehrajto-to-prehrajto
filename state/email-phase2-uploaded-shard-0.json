@@ -64970,6 +64970,25 @@
         "download_sec": 32.9,
         "upload_sec": 41.6
       }
+    },
+    {
+      "cr_film_id": 28440,
+      "cr_slug": "tri-srdce",
+      "title": "Tři srdce",
+      "year": 2014,
+      "display_name": "Tři srdce (2014)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a906665d7a07",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26280239,
+      "size_bytes": 842680331,
+      "uploaded_at": "2026-06-23T09:11:21Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.1,
+        "upload_sec": 30.8
+      }
     }
   ],
   "failed_attempts": [
@@ -66331,5 +66350,5 @@
       "failed_at": "2026-06-23T05:49:27Z"
     }
   ],
-  "last_updated": "2026-06-23T09:10:14Z"
+  "last_updated": "2026-06-23T09:11:21Z"
 }
