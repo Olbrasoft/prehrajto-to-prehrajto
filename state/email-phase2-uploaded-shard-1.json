@@ -64230,6 +64230,25 @@
         "download_sec": 174.1,
         "upload_sec": 66.5
       }
+    },
+    {
+      "cr_film_id": 28609,
+      "cr_slug": "preservation",
+      "title": "Preservation",
+      "year": 2014,
+      "display_name": "Preservation (2014)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "564e21915f1bc",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26279214,
+      "size_bytes": 508757401,
+      "uploaded_at": "2026-06-23T07:34:28Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 93.9,
+        "upload_sec": 43.9
+      }
     }
   ],
   "failed_attempts": [
@@ -65505,5 +65524,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-23T07:32:04Z"
+  "last_updated": "2026-06-23T07:34:28Z"
 }
