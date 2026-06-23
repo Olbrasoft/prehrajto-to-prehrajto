@@ -21412,3 +21412,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:07:33]   upload done video_id=26306494 in 34.2s
 [16:07:35] film cr_film_id=11559 OK in 70.0s
 [16:07:35] batch-end ok=20 failed=0 dur=2946.0s avg/film=147.3s remaining=14462 eta_hours=591.7
+
+===== run 2026-06-23T16:14:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28039922279) =====
+[16:14:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:14:56] batch-start shard=1/2 count=20 backlog=17650 uploads=3188 failed_attempts=298 description_overrides=17579
+[16:14:56] login
+[16:14:58] login done
+[16:14:58] iteration 1/20
+[16:14:58] film cr_film_id=11565 name='Den mrtvých (1985) CZ Dabing' candidates=1
+[16:14:58]   candidate upload_id=5591db57804d6 url=https://prehraj.to/den-mrtvych-1985-cz-dabing-horor/5591db57804d6
+[16:14:59]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/418734/0DBSprIMwFROT6XCb3H3XIrXFxDSDesRYFpRcB…)
+[16:15:25]   downloaded 367.9 MB in 23.9s (15.4 MB/s)
+[16:15:51]   upload done video_id=26307709 in 25.7s
