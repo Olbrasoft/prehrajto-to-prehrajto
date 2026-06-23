@@ -24856,3 +24856,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:58:43]   upload done video_id=26284756 in 53.8s
 [12:58:45] film cr_film_id=27605 OK in 107.9s
 [12:58:45] batch-end ok=20 failed=0 dur=1861.1s avg/film=93.1s remaining=6494 eta_hours=167.9
+
+===== run 2026-06-23T13:02:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28028175143) =====
+[13:02:50] batch-start shard=1/2 count=20 backlog=10210 uploads=3716 failed_attempts=175 description_overrides=0
+[13:02:50] login
+[13:02:52] login done
+[13:02:52] iteration 1/20
+[13:02:52] film cr_film_id=15201 name='Santiniho jazyk (2011)' candidates=7
+[13:02:52]   candidate upload_id=64bf17723eaba url=https://prehraj.to/santiniho-jazyk-2011-cz-film-top-mp4/64bf17723eaba
+[13:02:53]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/42743384/NP1h68iP5unguNkf5jTO6ib0UAJUZJcdQfLm…)
+[13:03:12]   downloaded 449.4 MB in 17.3s (26.0 MB/s)
+[13:03:29]   upload done video_id=26285130 in 17.8s
