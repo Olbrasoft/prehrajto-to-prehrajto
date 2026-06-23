@@ -65332,6 +65332,25 @@
         "download_sec": 15.9,
         "upload_sec": 16.7
       }
+    },
+    {
+      "cr_film_id": 37285,
+      "cr_slug": "rozkos-2013",
+      "title": "Rozkoš",
+      "year": 2013,
+      "display_name": "Rozkoš (2013)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "216ff87a6420aef6",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26280398,
+      "size_bytes": 3028047586,
+      "uploaded_at": "2026-06-23T09:32:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 86.0,
+        "upload_sec": 147.5
+      }
     }
   ],
   "failed_attempts": [
@@ -66607,5 +66626,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-23T09:28:15Z"
+  "last_updated": "2026-06-23T09:32:12Z"
 }
