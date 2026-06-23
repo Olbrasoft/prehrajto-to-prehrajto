@@ -58688,6 +58688,25 @@
         "download_sec": 103.6,
         "upload_sec": 47.2
       }
+    },
+    {
+      "cr_film_id": 11254,
+      "cr_slug": "v-komatu",
+      "title": "V kómatu",
+      "year": 1978,
+      "display_name": "V kómatu (1978) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "40fa24cf0eb9d91a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26364271,
+      "size_bytes": 4917317476,
+      "uploaded_at": "2026-06-23T22:56:45Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 315.5,
+        "upload_sec": 281.6
+      }
     }
   ],
   "failed_attempts": [
@@ -61030,5 +61049,5 @@
       "failed_at": "2026-06-23T12:29:46Z"
     }
   ],
-  "last_updated": "2026-06-23T22:46:43Z"
+  "last_updated": "2026-06-23T22:56:45Z"
 }
