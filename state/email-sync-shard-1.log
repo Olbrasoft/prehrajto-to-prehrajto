@@ -21118,3 +21118,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:28:56]   upload done video_id=26294530 in 31.6s
 [14:28:58] film cr_film_id=11451 OK in 68.0s
 [14:28:58] batch-end ok=20 failed=0 dur=3455.8s avg/film=172.8s remaining=14502 eta_hours=696.1
+
+===== run 2026-06-23T14:29:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28033599958) =====
+[14:29:57] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:29:57] batch-start shard=1/2 count=20 backlog=17650 uploads=3148 failed_attempts=298 description_overrides=17579
+[14:29:57] login
+[14:29:58] login done
+[14:29:58] iteration 1/20
+[14:29:58] film cr_film_id=11455 name='Příšera a kouzelný meč (1983) CZ Dabing' candidates=1
+[14:29:58]   candidate upload_id=598dd4afe1712d8b url=https://prehraj.to/prisera-a-kouzelny-mec-1983-cz-dab-1080p/598dd4afe1712d8b
+[14:29:59]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/168254239/MVZcxyIRkSw7UPWHratN0IPNs4DHDPcarhn…)
+[14:31:09]   downloaded 2,035.0 MB in 67.6s (30.1 MB/s)
+[14:32:40]   upload done video_id=26294779 in 91.6s
