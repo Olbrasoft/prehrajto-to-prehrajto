@@ -22224,3 +22224,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:21:23]   upload done video_id=26264735 in 15.8s
 [00:21:25] film cr_film_id=17147 OK in 30.5s
 [00:21:25] batch-end ok=20 failed=0 dur=3160.6s avg/film=158.0s remaining=6854 eta_hours=300.8
+
+===== run 2026-06-23T00:28:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27993534723) =====
+[00:28:27] batch-start shard=1/2 count=20 backlog=10210 uploads=3356 failed_attempts=174 description_overrides=0
+[00:28:27] login
+[00:28:28] login done
+[00:28:28] iteration 1/20
+[00:28:28] film cr_film_id=16895 name='A Deadly Affair (2017)' candidates=3
+[00:28:28]   candidate upload_id=622e52f8577a4 url=https://prehraj.to/vrazedna-afera-a-deadly-affair-2017-cz-mp4/622e52f8577a4
+[00:28:29]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/30049546/0XRuqJF13H28H1ZH9WtzVF7lUgGT9vcDeCrz…)
+[00:28:44]   downloaded 439.6 MB in 13.3s (33.1 MB/s)
+[00:29:04]   upload done video_id=26265004 in 19.8s
