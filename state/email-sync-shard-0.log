@@ -20442,3 +20442,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:27:32]   upload done video_id=26283987 in 31.1s
 [11:27:34] film cr_film_id=10792 OK in 64.3s
 [11:27:34] batch-end ok=20 failed=0 dur=3711.5s avg/film=185.6s remaining=14581 eta_hours=751.7
+
+===== run 2026-06-23T11:28:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28022865711) =====
+[11:28:22] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:28:22] batch-start shard=0/2 count=20 backlog=17650 uploads=3069 failed_attempts=327 description_overrides=17579
+[11:28:22] login
+[11:28:24] login done
+[11:28:24] iteration 1/20
+[11:28:24] film cr_film_id=10794 name='Přežil jsem svou smrt (1960) CZ' candidates=2
+[11:28:24]   candidate upload_id=5877ed0ce3f38 url=https://prehraj.to/prezil-jsem-svou-smrt-1960-cesky-film-do-mobilu-misa/5877ed0ce3f38
+[11:28:25]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1434081/2KauN2FLRuqmTaQUj2tx3FLzi26SOdfkMC7XT…)
+[11:28:35]   downloaded 187.7 MB in 8.4s (22.4 MB/s)
+[11:28:43]   upload done video_id=26283994 in 8.3s
