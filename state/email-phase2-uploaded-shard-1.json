@@ -63603,6 +63603,25 @@
         "download_sec": 23.6,
         "upload_sec": 25.3
       }
+    },
+    {
+      "cr_film_id": 31007,
+      "cr_slug": "boxing",
+      "title": "Boxing",
+      "year": 2015,
+      "display_name": "Boxing (2015)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5fd5cd10eeb64",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26277144,
+      "size_bytes": 3605509965,
+      "uploaded_at": "2026-06-23T05:53:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 125.5,
+        "upload_sec": 144.7
+      }
     }
   ],
   "failed_attempts": [
@@ -64878,5 +64897,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-23T05:48:42Z"
+  "last_updated": "2026-06-23T05:53:17Z"
 }
