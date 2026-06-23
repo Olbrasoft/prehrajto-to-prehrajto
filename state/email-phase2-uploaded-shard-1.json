@@ -69265,6 +69265,25 @@
         "download_sec": 18.5,
         "upload_sec": 19.4
       }
+    },
+    {
+      "cr_film_id": 14553,
+      "cr_slug": "carlos",
+      "title": "Carlos",
+      "year": 2010,
+      "display_name": "Carlos (2010)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab6c74a266a8",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26300201,
+      "size_bytes": 1541639056,
+      "uploaded_at": "2026-06-23T15:20:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 81.0,
+        "upload_sec": 87.0
+      }
     }
   ],
   "failed_attempts": [
@@ -70552,5 +70571,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-23T15:17:57Z"
+  "last_updated": "2026-06-23T15:20:50Z"
 }
