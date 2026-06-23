@@ -21557,3 +21557,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:15:20]   upload done video_id=26315319 in 76.9s
 [17:15:22] film cr_film_id=11619 OK in 128.5s
 [17:15:22] batch-end ok=19 failed=1 dur=3623.9s avg/film=190.7s remaining=14443 eta_hours=765.1
+
+===== run 2026-06-23T17:16:15Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28043658940) =====
+[17:16:17] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:16:17] batch-start shard=1/2 count=20 backlog=17650 uploads=3207 failed_attempts=299 description_overrides=17579
+[17:16:17] login
+[17:16:18] login done
+[17:16:18] iteration 1/20
+[17:16:18] film cr_film_id=11621 name='Paco - stroj smrti (1986) CZ' candidates=1
+[17:16:18]   candidate upload_id=66adc0f43848d url=https://prehraj.to/film-v-cz-dabingu-paco-stroj-smrti-akcni-sci-fi-thrilleritalie-1986-94-min/66adc0f43848d
+[17:16:19]   resolved in 0.9s → 1080p (https://pf-storage3.premiumcdn.net/88513490/AkxidRsvKh0nIKJsD8SB3sK1FwMCgVUx6HR6…)
+[17:17:09]   downloaded 1,410.8 MB in 48.8s (28.9 MB/s)
+[17:18:30]   upload done video_id=26315749 in 80.9s
