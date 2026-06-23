@@ -70594,6 +70594,25 @@
         "download_sec": 47.2,
         "upload_sec": 51.1
       }
+    },
+    {
+      "cr_film_id": 34244,
+      "cr_slug": "el-infierno",
+      "title": "El Infierno",
+      "year": 2010,
+      "display_name": "El Infierno (2010)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "67f66c2c3615d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26325203,
+      "size_bytes": 1224025286,
+      "uploaded_at": "2026-06-23T18:25:20Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 42.5,
+        "upload_sec": 54.1
+      }
     }
   ],
   "failed_attempts": [
@@ -71997,5 +72016,5 @@
       "failed_at": "2026-06-23T14:46:35Z"
     }
   ],
-  "last_updated": "2026-06-23T18:23:39Z"
+  "last_updated": "2026-06-23T18:25:20Z"
 }
