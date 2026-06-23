@@ -20559,3 +20559,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:56:44]   resolved in 0.8s → 1080p (https://pf-storage3.premiumcdn.net/164931281/9R1tdes24sPEF7kc34fBesy1iVQUb5TVaSO…)
 [11:57:56]   downloaded 2,136.6 MB in 70.1s (30.5 MB/s)
 [11:59:29]   upload done video_id=26284208 in 93.6s
+[11:59:31] film cr_film_id=10836 OK in 168.2s
+[11:59:31] iteration 17/20
+[11:59:31] film cr_film_id=10838 name='Komisař Maigret zuří (1963) CZ Dabing' candidates=1
+[11:59:31]   candidate upload_id=b86fe092023473f4 url=https://prehraj.to/komisar-maigret-zuri-1963-cz-dabing-full-hd-crime-top-kvalita-76647/b86fe092023473f4
+[11:59:32]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/komisar-maigret-zuri-1963-cz-dabing-full-hd-crime-top-kvalita-76647/b86fe092023473f4 (permanent=True)
+[11:59:32] film cr_film_id=10838 all candidates exhausted
+[11:59:32] iteration 18/20
+[11:59:32] film cr_film_id=10840 name='Melodie podzemí (1963) CZ Dabing' candidates=1
+[11:59:32]   candidate upload_id=619c037e1a380 url=https://prehraj.to/melodie-podzemi-1963-czdab/619c037e1a380
+[11:59:38]   resolved in 6.0s → 480p (https://pf-storage1.premiumcdn.net/26740012/gEYUbrIonhxesJwf29Ub2IQ1iD4Cv7tnVHjR…)
+[12:00:01]   downloaded 594.7 MB in 21.5s (27.7 MB/s)
+[12:00:39]   upload done video_id=26284238 in 38.3s
