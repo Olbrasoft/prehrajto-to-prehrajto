@@ -25065,3 +25065,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:02:10]   upload done video_id=26291777 in 26.3s
 [14:02:12] film cr_film_id=32408 OK in 47.2s
 [14:02:12] batch-end ok=19 failed=1 dur=1396.3s avg/film=73.5s remaining=6459 eta_hours=131.9
+
+===== run 2026-06-23T14:19:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28033003207) =====
+[14:19:15] batch-start shard=0/2 count=20 backlog=10210 uploads=3751 failed_attempts=188 description_overrides=0
+[14:19:15] login
+[14:19:17] login done
+[14:19:17] iteration 1/20
+[14:19:17] film cr_film_id=27510 name='Komando postradatelných (2012)' candidates=1
+[14:19:17]   candidate upload_id=5adadf673df69 url=https://prehraj.to/soldiers-of-fortune-2012/5adadf673df69
+[14:19:18]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/3920947/9r1FGAUYZsA3UpQtKJCZzUxmS9gHErFOZC0LC…)
+[14:20:27]   downloaded 1,442.7 MB in 67.8s (21.3 MB/s)
+[14:21:22]   upload done video_id=26293867 in 55.2s
