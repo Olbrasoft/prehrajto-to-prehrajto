@@ -20295,3 +20295,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:05:56]   upload done video_id=26282778 in 73.8s
 [10:05:58] film cr_film_id=10738 OK in 129.5s
 [10:05:58] batch-end ok=20 failed=0 dur=2420.0s avg/film=121.0s remaining=14601 eta_hours=490.8
+
+===== run 2026-06-23T10:25:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28019518189) =====
+[10:25:41] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:25:41] batch-start shard=0/2 count=20 backlog=17650 uploads=3049 failed_attempts=327 description_overrides=17579
+[10:25:41] login
+[10:25:42] login done
+[10:25:42] iteration 1/20
+[10:25:42] film cr_film_id=10746 name='Bitva u La Plata (1956) CZ' candidates=1
+[10:25:42]   candidate upload_id=674141326cc2d url=https://prehraj.to/bitva-u-la-plata-1956-cesky-dabing-full-hd/674141326cc2d
+[10:25:43]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/110490668/PRwFMwSxwImDcVGT6XcGZSgWFMksAPf5WHb…)
+[10:27:13]   downloaded 2,412.9 MB in 87.6s (27.5 MB/s)
+[10:29:37]   upload done video_id=26283539 in 143.8s
