@@ -19759,3 +19759,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:14:13]   resolved in 3.0s → 720p (https://pf-storage4.premiumcdn.net/22669724/36ru7QUNvUZ2s5GH31Sk5UzbTz4uV6hBAubo…)
 [05:15:12]   downloaded 1,018.8 MB in 56.0s (18.2 MB/s)
 [05:16:25]   upload done video_id=26276037 in 73.6s
+[05:16:27] film cr_film_id=10945 OK in 137.1s
+[05:16:27] iteration 16/20
+[05:16:27] film cr_film_id=10947 name='Ukradená vzducholoď (1967) CZ Dabing' candidates=1
+[05:16:27]   candidate upload_id=d79acfe55d124bdb url=https://prehraj.to/ukradena-vzducholod-1966-czdab-mp4/d79acfe55d124bdb
+[05:16:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ukradena-vzducholod-1966-czdab-mp4/d79acfe55d124bdb (permanent=True)
+[05:16:28] film cr_film_id=10947 all candidates exhausted
+[05:16:28] iteration 17/20
+[05:16:28] film cr_film_id=10949 name='Žiješ jenom dvakrát (1967) CZ Dabing' candidates=10
+[05:16:28]   candidate upload_id=5c67ec9756df6 url=https://prehraj.to/james-bond-zijes-jenom-dvakrat-1967-hdrip-cz-dabing-m3/5c67ec9756df6
+[05:16:35]   resolved in 6.7s → 480p (https://pf-storage4.premiumcdn.net/11828170/yZaHgDcB9TGACyEh5AuX4cPWi20t6rFWLtP2…)
+[05:17:15]   downloaded 655.8 MB in 37.8s (17.4 MB/s)
+[05:18:24]   upload done video_id=26276116 in 68.6s
