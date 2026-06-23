@@ -57196,6 +57196,25 @@
         "download_sec": 20.2,
         "upload_sec": 28.4
       }
+    },
+    {
+      "cr_film_id": 11495,
+      "cr_slug": "tri-veterani",
+      "title": "Tři veteráni",
+      "year": 1984,
+      "display_name": "Tři veteráni (1984) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6765c9f61aba3",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26298602,
+      "size_bytes": 909951465,
+      "uploaded_at": "2026-06-23T15:07:34Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 26.3,
+        "upload_sec": 34.2
+      }
     }
   ],
   "failed_attempts": [
@@ -59353,5 +59372,5 @@
       "failed_at": "2026-06-23T14:21:03Z"
     }
   ],
-  "last_updated": "2026-06-23T15:06:30Z"
+  "last_updated": "2026-06-23T15:07:34Z"
 }
