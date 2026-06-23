@@ -68447,6 +68447,25 @@
         "download_sec": 24.6,
         "upload_sec": 41.3
       }
+    },
+    {
+      "cr_film_id": 33222,
+      "cr_slug": "hijacked",
+      "title": "Hijacked",
+      "year": 2012,
+      "display_name": "Hijacked (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5abcbcf165ddf",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26294407,
+      "size_bytes": 1126702077,
+      "uploaded_at": "2026-06-23T14:27:30Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 38.9,
+        "upload_sec": 51.1
+      }
     }
   ],
   "failed_attempts": [
@@ -69815,5 +69834,5 @@
       "failed_at": "2026-06-23T13:43:45Z"
     }
   ],
-  "last_updated": "2026-06-23T14:25:56Z"
+  "last_updated": "2026-06-23T14:27:30Z"
 }
