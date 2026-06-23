@@ -62728,6 +62728,25 @@
         "download_sec": 16.3,
         "upload_sec": 53.4
       }
+    },
+    {
+      "cr_film_id": 19044,
+      "cr_slug": "ils-sont-partout",
+      "title": "Ils sont partout",
+      "year": 2016,
+      "display_name": "Ils sont partout (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9e426fa10f5",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26274792,
+      "size_bytes": 432449052,
+      "uploaded_at": "2026-06-23T04:34:26Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 16.4,
+        "upload_sec": 20.3
+      }
     }
   ],
   "failed_attempts": [
@@ -64024,7 +64043,42 @@
       "reason": "resolve_failed: upload not found (404): https://prehraj.to/po-strnisti-bos-2017-bdrip-cz-1080p/668d5e4f34acb",
       "permanent": true,
       "failed_at": "2026-06-23T00:11:08Z"
+    },
+    {
+      "cr_film_id": 7022,
+      "upload_id": "5738ca32eb42e3d3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/instalater-z-tuchlovic-2016-mp4/5738ca32eb42e3d3",
+      "permanent": true,
+      "failed_at": "2026-06-23T04:33:19Z"
+    },
+    {
+      "cr_film_id": 7022,
+      "upload_id": "26130952922f05fa",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/instalater-z-tuchlovic-2016-mp4/26130952922f05fa",
+      "permanent": true,
+      "failed_at": "2026-06-23T04:33:24Z"
+    },
+    {
+      "cr_film_id": 7022,
+      "upload_id": "24f7aea352cd1a79",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/instalater-z-tuchlovic-2016-mp4/24f7aea352cd1a79",
+      "permanent": true,
+      "failed_at": "2026-06-23T04:33:31Z"
+    },
+    {
+      "cr_film_id": 7022,
+      "upload_id": "80be69a8747822ea",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/instalater-z-tuchlovic-2016-mp4/80be69a8747822ea",
+      "permanent": true,
+      "failed_at": "2026-06-23T04:33:36Z"
+    },
+    {
+      "cr_film_id": 7022,
+      "upload_id": "0da63f46cd475046",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/instalater-z-tuchlovic-2016/0da63f46cd475046",
+      "permanent": true,
+      "failed_at": "2026-06-23T04:33:42Z"
     }
   ],
-  "last_updated": "2026-06-23T04:33:16Z"
+  "last_updated": "2026-06-23T04:34:26Z"
 }

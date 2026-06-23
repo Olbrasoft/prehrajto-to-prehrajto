@@ -22878,3 +22878,23 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:32:05]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/9047975/qjySgGfGOUElslEiPnfjdfAGsQzcOoUgdTj9t…)
 [04:32:23]   downloaded 440.9 MB in 16.3s (27.1 MB/s)
 [04:33:16]   upload done video_id=26274728 in 53.4s
+[04:33:18] film cr_film_id=30504 OK in 73.9s
+[04:33:18] iteration 2/20
+[04:33:18] film cr_film_id=7022 name='Instalatér z Tuchlovic (2016)' candidates=5
+[04:33:18]   candidate upload_id=5738ca32eb42e3d3 url=https://prehraj.to/instalater-z-tuchlovic-2016-mp4/5738ca32eb42e3d3
+[04:33:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/instalater-z-tuchlovic-2016-mp4/5738ca32eb42e3d3 (permanent=True)
+[04:33:19]   candidate upload_id=26130952922f05fa url=https://prehraj.to/instalater-z-tuchlovic-2016-mp4/26130952922f05fa
+[04:33:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/instalater-z-tuchlovic-2016-mp4/26130952922f05fa (permanent=True)
+[04:33:24]   candidate upload_id=24f7aea352cd1a79 url=https://prehraj.to/instalater-z-tuchlovic-2016-mp4/24f7aea352cd1a79
+[04:33:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/instalater-z-tuchlovic-2016-mp4/24f7aea352cd1a79 (permanent=True)
+[04:33:31]   candidate upload_id=80be69a8747822ea url=https://prehraj.to/instalater-z-tuchlovic-2016-mp4/80be69a8747822ea
+[04:33:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/instalater-z-tuchlovic-2016-mp4/80be69a8747822ea (permanent=True)
+[04:33:36]   candidate upload_id=0da63f46cd475046 url=https://prehraj.to/instalater-z-tuchlovic-2016/0da63f46cd475046
+[04:33:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/instalater-z-tuchlovic-2016/0da63f46cd475046 (permanent=True)
+[04:33:42] film cr_film_id=7022 all candidates exhausted
+[04:33:42] iteration 3/20
+[04:33:42] film cr_film_id=19044 name='Ils sont partout (2016)' candidates=1
+[04:33:42]   candidate upload_id=5a9e426fa10f5 url=https://prehraj.to/ils-sont-partout-2016/5a9e426fa10f5
+[04:33:48]   resolved in 6.1s → 480p (https://pf-storage1.premiumcdn.net/3551925/P2GtZ2sdPCWzimPfp6IZwseZSQvimwcyaS2nt…)
+[04:34:06]   downloaded 432.4 MB in 16.4s (26.4 MB/s)
+[04:34:26]   upload done video_id=26274792 in 20.3s
