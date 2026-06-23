@@ -19649,3 +19649,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:34:27]   upload done video_id=26274774 in 45.5s
 [04:34:30] film cr_film_id=10903 OK in 91.1s
 [04:34:30] batch-end ok=20 failed=0 dur=3756.2s avg/film=187.8s remaining=14698 eta_hours=766.7
+
+===== run 2026-06-23T04:35:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28002445996) =====
+[04:35:08] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:35:08] batch-start shard=1/2 count=20 backlog=17650 uploads=2952 failed_attempts=292 description_overrides=17579
+[04:35:08] login
+[04:35:10] login done
+[04:35:10] iteration 1/20
+[04:35:10] film cr_film_id=10905 name='Návrat ztraceného syna (1967) CZ Dabing' candidates=1
+[04:35:10]   candidate upload_id=669d876991590 url=https://prehraj.to/navrat-ztraceneho-syna-1966-czdab-mp4/669d876991590
+[04:35:11]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/86187617/R67Sezcbli2LI4PuxjIOEclVCeJu04hxGU2R…)
+[04:37:15]   downloaded 2,304.5 MB in 121.7s (18.9 MB/s)
+[04:40:13]   upload done video_id=26274895 in 178.6s
