@@ -61854,6 +61854,25 @@
         "download_sec": 50.3,
         "upload_sec": 109.1
       }
+    },
+    {
+      "cr_film_id": 32368,
+      "cr_slug": "wiener-dog",
+      "title": "Wiener-Dog",
+      "year": 2016,
+      "display_name": "Wiener-Dog (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "578646a2ee38e",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26270689,
+      "size_bytes": 530644721,
+      "uploaded_at": "2026-06-23T02:47:29Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 20.8,
+        "upload_sec": 26.0
+      }
     }
   ],
   "failed_attempts": [
@@ -63152,5 +63171,5 @@
       "failed_at": "2026-06-23T00:11:08Z"
     }
   ],
-  "last_updated": "2026-06-23T02:46:38Z"
+  "last_updated": "2026-06-23T02:47:29Z"
 }
