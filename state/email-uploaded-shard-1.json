@@ -54764,6 +54764,25 @@
         "download_sec": 20.6,
         "upload_sec": 40.5
       }
+    },
+    {
+      "cr_film_id": 11139,
+      "cr_slug": "na-titulni-strane",
+      "title": "Na titulní straně",
+      "year": 1974,
+      "display_name": "Na titulní straně (1974) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9dfd6e11003",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26279715,
+      "size_bytes": 840472418,
+      "uploaded_at": "2026-06-23T08:27:49Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 31.7,
+        "upload_sec": 39.6
+      }
     }
   ],
   "failed_attempts": [
@@ -56884,7 +56903,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ukradena-vzducholod-1966-czdab-mp4/d79acfe55d124bdb",
       "permanent": true,
       "failed_at": "2026-06-23T05:16:28Z"
+    },
+    {
+      "cr_film_id": 11135,
+      "upload_id": "6716af799f765",
+      "reason": "oversize: 6626096744 B",
+      "permanent": true,
+      "failed_at": "2026-06-23T08:26:26Z"
+    },
+    {
+      "cr_film_id": 11137,
+      "upload_id": "68fc022ea3d7d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cinska-ctvrt-chinatown-usa-1974-cz-en-1080p/68fc022ea3d7d",
+      "permanent": true,
+      "failed_at": "2026-06-23T08:26:30Z"
     }
   ],
-  "last_updated": "2026-06-23T08:26:21Z"
+  "last_updated": "2026-06-23T08:27:49Z"
 }
