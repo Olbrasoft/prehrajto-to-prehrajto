@@ -19979,3 +19979,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:15:23]   resolved in 1.1s → 1080p (https://pf-storage5.premiumcdn.net/168499195/9K9T89cOWUxXHJWSP0cGdc1zsykfGgFNquY…)
 [08:16:31]   downloaded 2,006.6 MB in 65.8s (30.5 MB/s)
 [08:18:06]   upload done video_id=26279573 in 95.2s
+[08:18:08] film cr_film_id=10536 OK in 166.0s
+[08:18:08] iteration 19/20
+[08:18:08] film cr_film_id=10538 name='Vánoční pásmo Život není krásný (2024) CZ Dabing' candidates=2
+[08:18:08]   candidate upload_id=885ab7fbab611225 url=https://prehraj.to/vanocni-pasmo-zivot-neni-krasny-2024-cz-dab-1080p-mp4/885ab7fbab611225
+[08:18:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vanocni-pasmo-zivot-neni-krasny-2024-cz-dab-1080p-mp4/885ab7fbab611225 (permanent=True)
+[08:18:09]   candidate upload_id=1305e557b53b9c53 url=https://prehraj.to/vanocni-pasmo-zivot-neni-krasny-2024-cz-dab-1080p-mp4/1305e557b53b9c53
+[08:18:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vanocni-pasmo-zivot-neni-krasny-2024-cz-dab-1080p-mp4/1305e557b53b9c53 (permanent=True)
+[08:18:15] film cr_film_id=10538 all candidates exhausted
+[08:18:15] iteration 20/20
+[08:18:15] film cr_film_id=10550 name='Status: Naživu (2022) CZ Dabing' candidates=5
+[08:18:15]   candidate upload_id=66055677bf855 url=https://prehraj.to/status-nazivu-last-seen-alive-2022-hd-cz-dabing-mp4/66055677bf855
+[08:18:22]   resolved in 7.0s → 1080p (https://pf-storage1.premiumcdn.net/75320768/LZRTNrIwdCX4hpZHAotxDIKDHlBiNGHMpUzo…)
+[08:20:04]   downloaded 2,453.6 MB in 100.8s (24.3 MB/s)
+[08:22:09]   upload done video_id=26279621 in 124.1s

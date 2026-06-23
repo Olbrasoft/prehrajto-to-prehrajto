@@ -54128,6 +54128,25 @@
         "download_sec": 65.8,
         "upload_sec": 95.2
       }
+    },
+    {
+      "cr_film_id": 10550,
+      "cr_slug": "status-nazivu",
+      "title": "Status: Naživu",
+      "year": 2022,
+      "display_name": "Status: Naživu (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66055677bf855",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26279621,
+      "size_bytes": 2453579415,
+      "uploaded_at": "2026-06-23T08:22:09Z",
+      "timing": {
+        "resolve_sec": 7.0,
+        "download_sec": 100.8,
+        "upload_sec": 124.1
+      }
     }
   ],
   "failed_attempts": [
@@ -56398,7 +56417,21 @@
       "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Ftin-soldier-2025-cz-dabing-1080p%2F682e8d088edf0 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f6f7e30>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/tin-soldier-2025-cz-dabing-1080p/682e8d088edf0",
       "permanent": false,
       "failed_at": "2026-06-23T07:15:44Z"
+    },
+    {
+      "cr_film_id": 10538,
+      "upload_id": "885ab7fbab611225",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vanocni-pasmo-zivot-neni-krasny-2024-cz-dab-1080p-mp4/885ab7fbab611225",
+      "permanent": true,
+      "failed_at": "2026-06-23T08:18:09Z"
+    },
+    {
+      "cr_film_id": 10538,
+      "upload_id": "1305e557b53b9c53",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vanocni-pasmo-zivot-neni-krasny-2024-cz-dab-1080p-mp4/1305e557b53b9c53",
+      "permanent": true,
+      "failed_at": "2026-06-23T08:18:15Z"
     }
   ],
-  "last_updated": "2026-06-23T08:18:06Z"
+  "last_updated": "2026-06-23T08:22:09Z"
 }
