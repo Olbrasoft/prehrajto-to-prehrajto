@@ -72551,6 +72551,25 @@
         "download_sec": 17.3,
         "upload_sec": 20.4
       }
+    },
+    {
+      "cr_film_id": 14040,
+      "cr_slug": "futurama-benderova-hra",
+      "title": "Futurama: Benderova hra",
+      "year": 2008,
+      "display_name": "Futurama: Benderova hra (2008)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "f30e0d9b271d2ef3",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26372042,
+      "size_bytes": 344297842,
+      "uploaded_at": "2026-06-23T23:49:54Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 14.3,
+        "upload_sec": 18.7
+      }
     }
   ],
   "failed_attempts": [
@@ -73973,7 +73992,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muzi-co-ziraji-na-kozy-cz-dabing/55659f2aac082346",
       "permanent": true,
       "failed_at": "2026-06-23T21:56:52Z"
+    },
+    {
+      "cr_film_id": 14040,
+      "upload_id": "de9b249180d5988d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/futurama-benderova-hra-top-quality-mp4/de9b249180d5988d",
+      "permanent": true,
+      "failed_at": "2026-06-23T23:49:14Z"
     }
   ],
-  "last_updated": "2026-06-23T23:49:11Z"
+  "last_updated": "2026-06-23T23:49:54Z"
 }
