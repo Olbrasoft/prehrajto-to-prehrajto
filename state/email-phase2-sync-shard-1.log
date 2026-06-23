@@ -26316,3 +26316,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [21:38:48]   upload done video_id=26353081 in 58.0s
 [21:38:50] film cr_film_id=1031 OK in 92.3s
 [21:38:50] batch-end ok=20 failed=0 dur=2568.2s avg/film=128.4s remaining=6295 eta_hours=224.5
+
+===== run 2026-06-23T22:00:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28060000724) =====
+[22:00:32] batch-start shard=1/2 count=20 backlog=10210 uploads=3915 failed_attempts=176 description_overrides=0
+[22:00:32] login
+[22:00:34] login done
+[22:00:34] iteration 1/20
+[22:00:34] film cr_film_id=35529 name='Titanics ti liv (2007)' candidates=1
+[22:00:34]   candidate upload_id=5873f25b504ec url=https://prehraj.to/deset-zivotu-kocky-titanic-nor-film-2007-tvrip/5873f25b504ec
+[22:00:35]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/1397658/o58iMdhQvTB4SjATKlczVhkzUwNTeJUPWU6pt…)
+[22:00:53]   downloaded 357.5 MB in 15.9s (22.5 MB/s)
+[22:01:11]   upload done video_id=26356850 in 17.8s
