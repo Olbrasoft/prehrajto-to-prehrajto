@@ -55420,6 +55420,25 @@
         "download_sec": 25.1,
         "upload_sec": 25.0
       }
+    },
+    {
+      "cr_film_id": 10818,
+      "cr_slug": "dr-no",
+      "title": "Dr. No",
+      "year": 1962,
+      "display_name": "Dr. No (1962) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59341d9449de6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26284045,
+      "size_bytes": 724084390,
+      "uploaded_at": "2026-06-23T11:40:00Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 21.0,
+        "upload_sec": 25.7
+      }
     }
   ],
   "failed_attempts": [
@@ -57741,5 +57760,5 @@
       "failed_at": "2026-06-23T08:36:30Z"
     }
   ],
-  "last_updated": "2026-06-23T11:39:09Z"
+  "last_updated": "2026-06-23T11:40:00Z"
 }
