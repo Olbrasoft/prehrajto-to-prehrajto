@@ -23019,3 +23019,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:59:26]   upload done video_id=26275480 in 19.1s
 [04:59:27] film cr_film_id=28212 OK in 43.2s
 [04:59:27] batch-end ok=19 failed=1 dur=1643.5s avg/film=86.5s remaining=6737 eta_hours=161.9
+
+===== run 2026-06-23T05:13:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28003855966) =====
+[05:13:37] batch-start shard=0/2 count=20 backlog=10210 uploads=3473 failed_attempts=183 description_overrides=0
+[05:13:37] login
+[05:13:39] login done
+[05:13:39] iteration 1/20
+[05:13:39] film cr_film_id=32348 name='13 Cameras (2016)' candidates=2
+[05:13:39]   candidate upload_id=5714c1bbebd4e url=https://prehraj.to/13-cameras-2015-hdrip-xvid-etrg/5714c1bbebd4e
+[05:13:40]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/39584/OJmHkJcbJsR8T0KilRtz6ce1sYRsp0Sqjtr8TLQ…)
+[05:13:51]   downloaded 288.5 MB in 10.0s (28.8 MB/s)
+[05:14:18]   upload done video_id=26275984 in 26.8s
