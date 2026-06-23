@@ -19327,3 +19327,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:22:13]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/9414266/a2gf6XSxkT2Lhd3UlKhgOSajUk4sKGtxRILwT…)
 [02:22:47]   downloaded 749.9 MB in 32.0s (23.4 MB/s)
 [02:23:24]   upload done video_id=26269761 in 37.7s
+[02:23:27] film cr_film_id=10783 OK in 75.1s
+[02:23:27] iteration 17/20
+[02:23:27] film cr_film_id=10785 name='Král Šumavy (1959) CZ' candidates=1
+[02:23:27]   candidate upload_id=b565f09661f22851 url=https://prehraj.to/kral-sumavy-radovan-lukavsky-1959-cz-m-mp4/b565f09661f22851
+[02:23:28]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/kral-sumavy-radovan-lukavsky-1959-cz-m-mp4/b565f09661f22851 (permanent=True)
+[02:23:28] film cr_film_id=10785 all candidates exhausted
+[02:23:28] iteration 18/20
+[02:23:28] film cr_film_id=10787 name='Případ komisaře Maigreta (1959) CZ' candidates=1
+[02:23:28]   candidate upload_id=5aa62efbd2dfd url=https://prehraj.to/pripad-komisare-maigreta-1959/5aa62efbd2dfd
+[02:23:36]   resolved in 8.2s → 720p (https://pf-storage1.premiumcdn.net/3610522/kWytEvF1ZfY5ubyipEfPWF8LSa3h6vtdOINMc…)
+[02:24:33]   downloaded 1,314.0 MB in 55.6s (23.6 MB/s)
+[02:26:05]   upload done video_id=26269832 in 91.5s
