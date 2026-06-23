@@ -51458,6 +51458,25 @@
         "download_sec": 42.1,
         "upload_sec": 83.1
       }
+    },
+    {
+      "cr_film_id": 10457,
+      "cr_slug": "touha-po-vrazde",
+      "title": "Touha po vraždě",
+      "year": 2020,
+      "display_name": "Touha po vraždě (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "dd0087bebe3ed185",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26264155,
+      "size_bytes": 1490235037,
+      "uploaded_at": "2026-06-23T00:09:58Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 42.7,
+        "upload_sec": 115.9
+      }
     }
   ],
   "failed_attempts": [
@@ -53522,7 +53541,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zabijak-assassin-2023-fullhd-1080p-cz-dabing-film-by-eduard-eddy/64b3dd6d50052",
       "permanent": true,
       "failed_at": "2026-06-22T23:39:00Z"
+    },
+    {
+      "cr_film_id": 10457,
+      "upload_id": "e4f5c55b8de2d654",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/touha-po-vrazde-2020-cz-dab-1080p-mp4/e4f5c55b8de2d654",
+      "permanent": true,
+      "failed_at": "2026-06-23T00:07:06Z"
+    },
+    {
+      "cr_film_id": 10457,
+      "upload_id": "557a5736ed9046cd",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/touha-po-vrazde-2020-cz-dab-1080p/557a5736ed9046cd",
+      "permanent": true,
+      "failed_at": "2026-06-23T00:07:12Z"
     }
   ],
-  "last_updated": "2026-06-23T00:07:03Z"
+  "last_updated": "2026-06-23T00:09:58Z"
 }
