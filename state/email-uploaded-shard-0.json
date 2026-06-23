@@ -55325,6 +55325,25 @@
         "download_sec": 28.8,
         "upload_sec": 40.0
       }
+    },
+    {
+      "cr_film_id": 10802,
+      "cr_slug": "baron-prasil-1962",
+      "title": "Baron Prášil",
+      "year": 1962,
+      "display_name": "Baron Prášil (1962) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "223927932f57c4f0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26284019,
+      "size_bytes": 2771825125,
+      "uploaded_at": "2026-06-23T11:35:16Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 74.1,
+        "upload_sec": 121.9
+      }
     }
   ],
   "failed_attempts": [
@@ -57646,5 +57665,5 @@
       "failed_at": "2026-06-23T08:36:30Z"
     }
   ],
-  "last_updated": "2026-06-23T11:31:55Z"
+  "last_updated": "2026-06-23T11:35:16Z"
 }
