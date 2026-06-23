@@ -19624,3 +19624,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:57:42]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/98855366/Y6mH78SVyCBPcxLtN7Hm8SGnFKWTydiAqUMb…)
 [04:58:28]   downloaded 1,571.3 MB in 44.7s (35.2 MB/s)
 [04:59:31]   upload done video_id=26275469 in 62.5s
+[04:59:33] film cr_film_id=10242 OK in 111.5s
+[04:59:33] iteration 15/20
+[04:59:33] film cr_film_id=10258 name='Bitva o Saipan (2022) CZ Dabing' candidates=1
+[04:59:33]   candidate upload_id=68ec25a3d1a31 url=https://prehraj.to/bitva-o-saipan-2022-cz-dab-1080p/68ec25a3d1a31
+[04:59:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bitva-o-saipan-2022-cz-dab-1080p/68ec25a3d1a31 (permanent=True)
+[04:59:34] film cr_film_id=10258 all candidates exhausted
+[04:59:34] iteration 16/20
+[04:59:34] film cr_film_id=10266 name='Budapešťský podraz (2020) CZ Dabing' candidates=2
+[04:59:34]   candidate upload_id=6090e78b7cdd2 url=https://prehraj.to/budapestsky-podraz-2020-cz-dabing-720p/6090e78b7cdd2
+[04:59:40]   resolved in 5.9s → 720p (https://pf-storage5.premiumcdn.net/23374245/rWYugMFNaF4qiYJFoeTRbFJ1UK0tbDSqdH3q…)
+[05:00:14]   downloaded 917.7 MB in 33.4s (27.5 MB/s)
+[05:00:49]   upload done video_id=26275502 in 34.5s

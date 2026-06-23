@@ -53330,6 +53330,25 @@
         "download_sec": 44.7,
         "upload_sec": 62.5
       }
+    },
+    {
+      "cr_film_id": 10266,
+      "cr_slug": "budapestsky-podraz",
+      "title": "Budapešťský podraz",
+      "year": 2020,
+      "display_name": "Budapešťský podraz (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6090e78b7cdd2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26275502,
+      "size_bytes": 917736538,
+      "uploaded_at": "2026-06-23T05:00:49Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 33.4,
+        "upload_sec": 34.5
+      }
     }
   ],
   "failed_attempts": [
@@ -55516,7 +55535,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/wildcat-2025-1080p-cz-dabing/66656b7d96d64f4e",
       "permanent": true,
       "failed_at": "2026-06-23T04:39:08Z"
+    },
+    {
+      "cr_film_id": 10258,
+      "upload_id": "68ec25a3d1a31",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bitva-o-saipan-2022-cz-dab-1080p/68ec25a3d1a31",
+      "permanent": true,
+      "failed_at": "2026-06-23T04:59:34Z"
     }
   ],
-  "last_updated": "2026-06-23T04:59:31Z"
+  "last_updated": "2026-06-23T05:00:49Z"
 }
