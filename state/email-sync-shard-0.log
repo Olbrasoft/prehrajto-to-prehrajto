@@ -20740,3 +20740,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [13:11:19]   upload done video_id=26286058 in 88.6s
 [13:11:21] film cr_film_id=10908 OK in 147.8s
 [13:11:21] batch-end ok=20 failed=0 dur=3751.0s avg/film=187.6s remaining=14542 eta_hours=757.8
+
+===== run 2026-06-23T13:31:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28029942791) =====
+[13:31:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:31:21] batch-start shard=0/2 count=20 backlog=17650 uploads=3108 failed_attempts=330 description_overrides=17579
+[13:31:21] login
+[13:31:23] login done
+[13:31:23] iteration 1/20
+[13:31:23] film cr_film_id=10910 name='Sedmikrásky (1966) CZ Dabing' candidates=1
+[13:31:23]   candidate upload_id=5dde20a175bb7 url=https://prehraj.to/sedmikrasky-czdab-experimentalni-komedie-ceskoslovensko-1966/5dde20a175bb7
+[13:31:24]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/15352705/dYvTMqUoMIzduaoFpmHpnUpyuMVCo1IQoFbd…)
+[13:32:06]   downloaded 849.3 MB in 39.8s (21.3 MB/s)
+[13:33:24]   upload done video_id=26288218 in 77.4s
