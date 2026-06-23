@@ -26024,3 +26024,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [19:16:49]   upload done video_id=26332183 in 46.5s
 [19:16:51] film cr_film_id=26667 OK in 883.1s
 [19:16:51] batch-end ok=20 failed=0 dur=5501.5s avg/film=275.1s remaining=6335 eta_hours=484.1
+
+===== run 2026-06-23T19:17:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28050812292) =====
+[19:17:29] batch-start shard=1/2 count=20 backlog=10210 uploads=3875 failed_attempts=176 description_overrides=0
+[19:17:29] login
+[19:17:31] login done
+[19:17:31] iteration 1/20
+[19:17:31] film cr_film_id=32791 name='Rasmus und Johanna (2008)' candidates=1
+[19:17:31]   candidate upload_id=5873965f43baf url=https://prehraj.to/inga-lindstrom-rasmus-a-johanna-romanticky-2008/5873965f43baf
+[19:17:32]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/1394854/ZZ8H18hYzcaruv4IXOU8Dhj3cN4H1pcexTzgI…)
+[19:31:02]   downloaded 599.5 MB in 808.9s (0.7 MB/s)
+[19:31:33]   upload done video_id=26334419 in 30.9s
