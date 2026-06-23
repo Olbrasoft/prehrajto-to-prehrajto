@@ -58517,6 +58517,25 @@
         "download_sec": 101.6,
         "upload_sec": 142.8
       }
+    },
+    {
+      "cr_film_id": 11234,
+      "cr_slug": "smrt-darebaka",
+      "title": "Smrt darebáka",
+      "year": 1977,
+      "display_name": "Smrt darebáka (1977) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60be75d70c382",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26359724,
+      "size_bytes": 3081689769,
+      "uploaded_at": "2026-06-23T22:24:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 129.3,
+        "upload_sec": 207.1
+      }
     }
   ],
   "failed_attempts": [
@@ -60859,5 +60878,5 @@
       "failed_at": "2026-06-23T12:29:46Z"
     }
   ],
-  "last_updated": "2026-06-23T22:18:53Z"
+  "last_updated": "2026-06-23T22:24:36Z"
 }
