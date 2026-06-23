@@ -61076,6 +61076,25 @@
         "download_sec": 31.8,
         "upload_sec": 42.5
       }
+    },
+    {
+      "cr_film_id": 5213,
+      "cr_slug": "triple-9",
+      "title": "Triple 9",
+      "year": 2016,
+      "display_name": "Triple 9 (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "66e8ee383e003e9a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26265519,
+      "size_bytes": 2069735307,
+      "uploaded_at": "2026-06-23T00:41:14Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 57.5,
+        "upload_sec": 96.9
+      }
     }
   ],
   "failed_attempts": [
@@ -62351,5 +62370,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-23T00:38:35Z"
+  "last_updated": "2026-06-23T00:41:14Z"
 }
