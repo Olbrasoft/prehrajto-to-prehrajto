@@ -68904,6 +68904,25 @@
         "download_sec": 47.5,
         "upload_sec": 188.7
       }
+    },
+    {
+      "cr_film_id": 26439,
+      "cr_slug": "my-normal",
+      "title": "My Normal",
+      "year": 2010,
+      "display_name": "My Normal (2010)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "588a710d804c1",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26297705,
+      "size_bytes": 515512266,
+      "uploaded_at": "2026-06-23T14:58:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 23.5,
+        "upload_sec": 23.2
+      }
     }
   ],
   "failed_attempts": [
@@ -70191,5 +70210,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-23T14:46:47Z"
+  "last_updated": "2026-06-23T14:58:48Z"
 }
