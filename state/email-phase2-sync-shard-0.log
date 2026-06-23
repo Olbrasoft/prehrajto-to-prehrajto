@@ -26237,3 +26237,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [21:59:52]   upload done video_id=26356548 in 99.1s
 [21:59:54] film cr_film_id=26864 OK in 181.3s
 [21:59:54] batch-end ok=19 failed=1 dur=3828.7s avg/film=201.5s remaining=6302 eta_hours=352.7
+
+===== run 2026-06-23T22:00:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28060000724) =====
+[22:00:34] batch-start shard=0/2 count=20 backlog=10210 uploads=3908 failed_attempts=196 description_overrides=0
+[22:00:34] login
+[22:00:36] login done
+[22:00:36] iteration 1/20
+[22:00:36] film cr_film_id=300 name='Modlitby za Bobbyho (2009)' candidates=6
+[22:00:36]   candidate upload_id=60741d47b4617 url=https://prehraj.to/modlitby-za-bobbyho-2009-1080p/60741d47b4617
+[22:00:37]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/23080920/MKXim1CkyhrATJpSZgF3PCl6cwkc1DU16FDJ…)
+[22:03:16]   downloaded 3,009.9 MB in 157.2s (19.1 MB/s)
+[22:06:25]   upload done video_id=26357296 in 188.7s
