@@ -60961,6 +60961,25 @@
         "download_sec": 58.6,
         "upload_sec": 63.1
       }
+    },
+    {
+      "cr_film_id": 8296,
+      "cr_slug": "monstrum-2017",
+      "title": "Monstrum",
+      "year": 2017,
+      "display_name": "Monstrum (2017)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ad1d3941559d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26266181,
+      "size_bytes": 1262553929,
+      "uploaded_at": "2026-06-23T00:55:13Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 67.2,
+        "upload_sec": 139.5
+      }
     }
   ],
   "failed_attempts": [
@@ -62259,5 +62278,5 @@
       "failed_at": "2026-06-23T00:11:08Z"
     }
   ],
-  "last_updated": "2026-06-23T00:51:40Z"
+  "last_updated": "2026-06-23T00:55:13Z"
 }
