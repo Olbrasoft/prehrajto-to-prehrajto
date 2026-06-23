@@ -61931,6 +61931,25 @@
         "download_sec": 108.8,
         "upload_sec": 155.5
       }
+    },
+    {
+      "cr_film_id": 30497,
+      "cr_slug": "iris",
+      "title": "Iris",
+      "year": 2016,
+      "display_name": "Iris (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5acf7ea5acfc3",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26270767,
+      "size_bytes": 636728425,
+      "uploaded_at": "2026-06-23T02:50:04Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 33.5,
+        "upload_sec": 50.7
+      }
     }
   ],
   "failed_attempts": [
@@ -63206,5 +63225,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-23T02:48:34Z"
+  "last_updated": "2026-06-23T02:50:04Z"
 }
