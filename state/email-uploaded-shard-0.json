@@ -53900,6 +53900,25 @@
         "download_sec": 34.8,
         "upload_sec": 59.2
       }
+    },
+    {
+      "cr_film_id": 10438,
+      "cr_slug": "kamenak",
+      "title": "Kameňák",
+      "year": 2003,
+      "display_name": "Kameňák (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "e2a600a772d97ff7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26279309,
+      "size_bytes": 2732684943,
+      "uploaded_at": "2026-06-23T07:49:25Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 88.4,
+        "upload_sec": 124.5
+      }
     }
   ],
   "failed_attempts": [
@@ -56172,5 +56191,5 @@
       "failed_at": "2026-06-23T07:15:44Z"
     }
   ],
-  "last_updated": "2026-06-23T07:45:47Z"
+  "last_updated": "2026-06-23T07:49:25Z"
 }
