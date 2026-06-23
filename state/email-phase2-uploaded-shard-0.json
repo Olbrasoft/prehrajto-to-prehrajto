@@ -71658,6 +71658,25 @@
         "download_sec": 31.5,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 30096,
+      "cr_slug": "gruffalo",
+      "title": "Gruffalo",
+      "year": 2009,
+      "display_name": "Gruffalo (2009)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "684765a971ac7",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26361144,
+      "size_bytes": 292856216,
+      "uploaded_at": "2026-06-23T22:31:51Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 18.3,
+        "upload_sec": 18.4
+      }
     }
   ],
   "failed_attempts": [
@@ -73082,5 +73101,5 @@
       "failed_at": "2026-06-23T21:56:52Z"
     }
   ],
-  "last_updated": "2026-06-23T22:31:07Z"
+  "last_updated": "2026-06-23T22:31:51Z"
 }
