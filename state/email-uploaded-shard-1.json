@@ -55714,6 +55714,25 @@
         "download_sec": 46.0,
         "upload_sec": 62.6
       }
+    },
+    {
+      "cr_film_id": 11281,
+      "cr_slug": "tajemstvi-oceloveho-mesta",
+      "title": "Tajemství Ocelového města",
+      "year": 1979,
+      "display_name": "Tajemství Ocelového města (1979) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5fdf5b77a9d86",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26283800,
+      "size_bytes": 2083839190,
+      "uploaded_at": "2026-06-23T11:09:28Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 93.7,
+        "upload_sec": 122.5
+      }
     }
   ],
   "failed_attempts": [
@@ -57855,7 +57874,14 @@
       "reason": "oversize: 7982284087 B",
       "permanent": true,
       "failed_at": "2026-06-23T08:28:58Z"
+    },
+    {
+      "cr_film_id": 11279,
+      "upload_id": "234293dad6c64bca",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silnejsi-nez-strach-1978-czdab/234293dad6c64bca",
+      "permanent": true,
+      "failed_at": "2026-06-23T11:05:44Z"
     }
   ],
-  "last_updated": "2026-06-23T11:05:41Z"
+  "last_updated": "2026-06-23T11:09:28Z"
 }

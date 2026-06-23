@@ -20639,3 +20639,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:03:50]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/163109111/9yzSeAFA9f67U1WcakUn8Fg4CpAfg3CZpuR…)
 [11:04:38]   downloaded 1,059.8 MB in 46.0s (23.0 MB/s)
 [11:05:41]   upload done video_id=26283790 in 62.6s
+[11:05:43] film cr_film_id=11277 OK in 114.1s
+[11:05:43] iteration 16/20
+[11:05:43] film cr_film_id=11279 name='Silnější než strach (1979) CZ Dabing' candidates=1
+[11:05:43]   candidate upload_id=234293dad6c64bca url=https://prehraj.to/silnejsi-nez-strach-1978-czdab/234293dad6c64bca
+[11:05:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silnejsi-nez-strach-1978-czdab/234293dad6c64bca (permanent=True)
+[11:05:44] film cr_film_id=11279 all candidates exhausted
+[11:05:44] iteration 17/20
+[11:05:44] film cr_film_id=11281 name='Tajemství Ocelového města (1979) CZ' candidates=3
+[11:05:44]   candidate upload_id=5fdf5b77a9d86 url=https://prehraj.to/tajemstvi-oceloveho-mesta-1978/5fdf5b77a9d86
+[11:05:50]   resolved in 6.2s → 1080p (https://pf-storage1.premiumcdn.net/20926155/ekwcRLs1YCBofpLT0KhABsRGC9lcW0cxEFW8…)
+[11:07:26]   downloaded 2,083.8 MB in 93.7s (22.2 MB/s)
+[11:09:28]   upload done video_id=26283800 in 122.5s
