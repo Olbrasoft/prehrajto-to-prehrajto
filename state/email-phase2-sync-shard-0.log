@@ -25655,3 +25655,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [17:06:50]   upload done video_id=26314345 in 33.7s
 [17:06:52] film cr_film_id=34908 OK in 71.0s
 [17:06:52] batch-end ok=20 failed=0 dur=2396.5s avg/film=119.8s remaining=6380 eta_hours=212.3
+
+===== run 2026-06-23T17:07:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28043144112) =====
+[17:07:36] batch-start shard=0/2 count=20 backlog=10210 uploads=3830 failed_attempts=193 description_overrides=0
+[17:07:36] login
+[17:07:38] login done
+[17:07:38] iteration 1/20
+[17:07:38] film cr_film_id=27406 name='You Should Meet My Son! (2010)' candidates=1
+[17:07:38]   candidate upload_id=59fd5d4f535e4 url=https://prehraj.to/you-should-meet-my-son-2010/59fd5d4f535e4
+[17:07:39]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/2890912/qG3FaAczBT8dsBpsyeUbgcdOHLoSrLIYETPah…)
+[17:07:58]   downloaded 447.8 MB in 17.4s (25.7 MB/s)
+[17:08:18]   upload done video_id=26314543 in 20.3s
