@@ -21704,3 +21704,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:55:10]   upload done video_id=26320938 in 62.4s
 [17:55:12] film cr_film_id=11667 OK in 107.3s
 [17:55:12] batch-end ok=20 failed=0 dur=2334.3s avg/film=116.7s remaining=14423 eta_hours=467.5
+
+===== run 2026-06-23T18:27:19Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28047850445) =====
+[18:27:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[18:27:21] batch-start shard=1/2 count=20 backlog=17650 uploads=3227 failed_attempts=299 description_overrides=17579
+[18:27:21] login
+[18:27:23] login done
+[18:27:23] iteration 1/20
+[18:27:23] film cr_film_id=11669 name='Čarovné dědictví (1986) CZ Dabing' candidates=3
+[18:27:23]   candidate upload_id=58289c3cc85fb url=https://prehraj.to/carovne-dedictvi-cz-dabing-1985-by-kamer/58289c3cc85fb
+[18:27:24]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/860326/XegtQvfZvtEAu3NTKgidWfakCByHVNiLbTeYHz…)
+[18:43:08]   downloaded 698.8 MB in 942.4s (0.7 MB/s)
+[18:44:21]   upload done video_id=26327815 in 73.4s
