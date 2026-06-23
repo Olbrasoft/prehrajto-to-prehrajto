@@ -26221,3 +26221,17 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [21:54:00]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/131059817/vKVtvduEVSyqsMzs5kIVNuqrHdkc9GF3DHY…)
 [21:55:05]   downloaded 2,229.8 MB in 63.3s (35.2 MB/s)
 [21:56:44]   upload done video_id=26355997 in 99.3s
+[21:56:46] film cr_film_id=5248 OK in 166.7s
+[21:56:46] iteration 19/20
+[21:56:46] film cr_film_id=5618 name='Muži, co zírají na kozy (2009)' candidates=2
+[21:56:46]   candidate upload_id=995f73cf222b2fdb url=https://prehraj.to/novinka-muzi-co-ziraji-na-kozy-cz-dabing/995f73cf222b2fdb
+[21:56:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/novinka-muzi-co-ziraji-na-kozy-cz-dabing/995f73cf222b2fdb (permanent=True)
+[21:56:47]   candidate upload_id=55659f2aac082346 url=https://prehraj.to/muzi-co-ziraji-na-kozy-cz-dabing/55659f2aac082346
+[21:56:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muzi-co-ziraji-na-kozy-cz-dabing/55659f2aac082346 (permanent=True)
+[21:56:52] film cr_film_id=5618 all candidates exhausted
+[21:56:52] iteration 20/20
+[21:56:52] film cr_film_id=26864 name='Mulan (2009)' candidates=2
+[21:56:52]   candidate upload_id=66ac499978e5a url=https://prehraj.to/mulan-2009-chi-webrip-1080p-10b-hevc-c4u/66ac499978e5a
+[21:56:58]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/88309766/ZaoizgUPLI0LSbzhYehjnUgAFoGCxwIdZs7G…)
+[21:58:13]   downloaded 2,078.6 MB in 73.2s (28.4 MB/s)
+[21:59:52]   upload done video_id=26356548 in 99.1s

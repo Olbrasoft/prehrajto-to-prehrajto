@@ -71316,6 +71316,25 @@
         "download_sec": 63.3,
         "upload_sec": 99.3
       }
+    },
+    {
+      "cr_film_id": 26864,
+      "cr_slug": "mulan-2009",
+      "title": "Mulan",
+      "year": 2009,
+      "display_name": "Mulan (2009)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "66ac499978e5a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26356548,
+      "size_bytes": 2078617952,
+      "uploaded_at": "2026-06-23T21:59:52Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 73.2,
+        "upload_sec": 99.1
+      }
     }
   ],
   "failed_attempts": [
@@ -72724,7 +72743,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/wonder-woman-2009-cz-dabing-mp4/2966a3d74f89568f",
       "permanent": true,
       "failed_at": "2026-06-23T20:38:39Z"
+    },
+    {
+      "cr_film_id": 5618,
+      "upload_id": "995f73cf222b2fdb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/novinka-muzi-co-ziraji-na-kozy-cz-dabing/995f73cf222b2fdb",
+      "permanent": true,
+      "failed_at": "2026-06-23T21:56:47Z"
+    },
+    {
+      "cr_film_id": 5618,
+      "upload_id": "55659f2aac082346",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muzi-co-ziraji-na-kozy-cz-dabing/55659f2aac082346",
+      "permanent": true,
+      "failed_at": "2026-06-23T21:56:52Z"
     }
   ],
-  "last_updated": "2026-06-23T21:56:44Z"
+  "last_updated": "2026-06-23T21:59:52Z"
 }
