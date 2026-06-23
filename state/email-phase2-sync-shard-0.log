@@ -26056,3 +26056,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [20:38:05]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/975015/J90hGwHZNhd2Fj3URBFBPHK1IdKS0rfrpfeYc5…)
 [20:38:22]   downloaded 368.4 MB in 15.0s (24.6 MB/s)
 [20:38:37]   upload done video_id=26343681 in 15.0s
+[20:38:38] film cr_film_id=26224 OK in 34.1s
+[20:38:38] iteration 16/20
+[20:38:38] film cr_film_id=1748 name='Wonder Woman (2009)' candidates=1
+[20:38:38]   candidate upload_id=2966a3d74f89568f url=https://prehraj.to/wonder-woman-2009-cz-dabing-mp4/2966a3d74f89568f
+[20:38:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/wonder-woman-2009-cz-dabing-mp4/2966a3d74f89568f (permanent=True)
+[20:38:39] film cr_film_id=1748 all candidates exhausted
+[20:38:39] iteration 17/20
+[20:38:39] film cr_film_id=35572 name='Vražedná nevera (2009)' candidates=1
+[20:38:39]   candidate upload_id=5860eb578e905 url=https://prehraj.to/talhotblond-2009-documentary-xvid-dvdrip/5860eb578e905
+[20:38:45]   resolved in 5.9s → 480p (https://pf-storage5.premiumcdn.net/1234493/xZpTEZhadiwlIb6UJxtmVhNXtaqCXZS1mF9LF…)
+[20:44:37]   downloaded 350.7 MB in 350.9s (1.0 MB/s)
+[20:44:53]   upload done video_id=26344520 in 15.5s
