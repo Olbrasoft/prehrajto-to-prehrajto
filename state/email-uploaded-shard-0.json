@@ -58175,6 +58175,25 @@
         "download_sec": 77.9,
         "upload_sec": 107.4
       }
+    },
+    {
+      "cr_film_id": 11190,
+      "cr_slug": "orel-pristal",
+      "title": "Orel přistál",
+      "year": 1976,
+      "display_name": "Orel přistál (1976) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5acc6aba3f277",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26347358,
+      "size_bytes": 1713227484,
+      "uploaded_at": "2026-06-23T21:03:12Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 342.9,
+        "upload_sec": 114.0
+      }
     }
   ],
   "failed_attempts": [
@@ -60517,5 +60536,5 @@
       "failed_at": "2026-06-23T12:29:46Z"
     }
   ],
-  "last_updated": "2026-06-23T20:55:30Z"
+  "last_updated": "2026-06-23T21:03:12Z"
 }
