@@ -62823,6 +62823,25 @@
         "download_sec": 18.1,
         "upload_sec": 19.0
       }
+    },
+    {
+      "cr_film_id": 29212,
+      "cr_slug": "drifter",
+      "title": "Drifter",
+      "year": 2016,
+      "display_name": "Drifter (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ad34bf35f4a3",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26275031,
+      "size_bytes": 506107361,
+      "uploaded_at": "2026-06-23T04:42:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.8,
+        "upload_sec": 31.0
+      }
     }
   ],
   "failed_attempts": [
@@ -64156,5 +64175,5 @@
       "failed_at": "2026-06-23T04:33:42Z"
     }
   ],
-  "last_updated": "2026-06-23T04:41:19Z"
+  "last_updated": "2026-06-23T04:42:13Z"
 }
