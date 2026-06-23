@@ -26462,3 +26462,25 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [22:25:15]   upload done video_id=26360258 in 21.7s
 [22:25:16] film cr_film_id=5597 OK in 43.5s
 [22:25:16] batch-end ok=20 failed=0 dur=1482.5s avg/film=74.1s remaining=6275 eta_hours=129.2
+
+===== run 2026-06-23T22:35:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28061730444) =====
+[22:35:50] batch-start shard=1/2 count=20 backlog=10210 uploads=3935 failed_attempts=176 description_overrides=0
+[22:35:50] login
+[22:35:52] login done
+[22:35:52] iteration 1/20
+[22:35:52] film cr_film_id=25673 name='Paranoia (2007)' candidates=1
+[22:35:52]   candidate upload_id=5a9d5110f41e5 url=https://prehraj.to/paranoia-2007/5a9d5110f41e5
+[22:40:07]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fparanoia-2007%2F5a9d5110f41e5 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fad224c4110>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/paranoia-2007/5a9d5110f41e5 (permanent=False)
+[22:40:07] film cr_film_id=25673 all candidates exhausted
+[22:40:07] iteration 2/20
+[22:40:07] film cr_film_id=13829 name='Paralelní svět (2007)' candidates=1
+[22:40:07]   candidate upload_id=68666f8d93747 url=https://prehraj.to/paralelni-svet-2007-cz/68666f8d93747
+[22:44:21]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fparalelni-svet-2007-cz%2F68666f8d93747 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fad224c6570>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/paralelni-svet-2007-cz/68666f8d93747 (permanent=False)
+[22:44:22] film cr_film_id=13829 all candidates exhausted
+[22:44:22] iteration 3/20
+[22:44:22] film cr_film_id=13893 name='Operace Flash Point (2007)' candidates=1
+[22:44:22]   candidate upload_id=5ac25e2224cf0 url=https://prehraj.to/operace-flash-point-2007/5ac25e2224cf0
+[22:48:36]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Foperace-flash-point-2007%2F5ac25e2224cf0 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fad224c5340>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/operace-flash-point-2007/5ac25e2224cf0 (permanent=False)
+[22:48:36] film cr_film_id=13893 all candidates exhausted
+[22:48:36] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
+[22:48:36] batch-end ok=0 failed=3 dur=764.3s avg/film=0s remaining=6275 eta_hours=None
