@@ -63298,6 +63298,25 @@
         "download_sec": 16.7,
         "upload_sec": 22.2
       }
+    },
+    {
+      "cr_film_id": 29112,
+      "cr_slug": "tanna",
+      "title": "Tanna",
+      "year": 2015,
+      "display_name": "Tanna (2015)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac526dc3a2b3",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26276413,
+      "size_bytes": 834152984,
+      "uploaded_at": "2026-06-23T05:27:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 30.4,
+        "upload_sec": 49.5
+      }
     }
   ],
   "failed_attempts": [
@@ -64631,5 +64650,5 @@
       "failed_at": "2026-06-23T04:33:42Z"
     }
   ],
-  "last_updated": "2026-06-23T05:25:55Z"
+  "last_updated": "2026-06-23T05:27:19Z"
 }
