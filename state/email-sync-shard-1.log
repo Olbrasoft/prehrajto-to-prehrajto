@@ -22043,3 +22043,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:51:44]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/155240346/A7aTjVsDbhE7hwBSOGt4JsdqI24tRKcKxUd…)
 [22:54:05]   downloaded 4,444.8 MB in 139.1s (32.0 MB/s)
 [22:57:53]   upload done video_id=26364507 in 228.2s
+[22:57:56] film cr_film_id=11789 OK in 372.9s
+[22:57:56] iteration 7/20
+[22:57:56] film cr_film_id=11791 name='Vice Academy (1989) CZ Dabing' candidates=2
+[22:57:56]   candidate upload_id=7717220b1e6da0c7 url=https://prehraj.to/vice-academy-1989-cz-dab-1080p-mp4/7717220b1e6da0c7
+[22:57:57]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/vice-academy-1989-cz-dab-1080p-mp4/7717220b1e6da0c7 (permanent=True)
+[22:57:57]   candidate upload_id=a5af930d06555813 url=https://prehraj.to/vice-academy-1989-cz-dab-1080p/a5af930d06555813
+[22:58:04]   resolved in 6.6s → 720p (https://pf-storage5.premiumcdn.net/167871619/qWOtvKSK4HvzFYNSGJTbPSqds76H1LhZMsO…)
+[22:59:14]   downloaded 1,714.7 MB in 68.6s (25.0 MB/s)
+[23:00:48]   upload done video_id=26365199 in 94.0s
