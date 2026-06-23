@@ -70537,6 +70537,25 @@
         "download_sec": 33.1,
         "upload_sec": 41.2
       }
+    },
+    {
+      "cr_film_id": 14408,
+      "cr_slug": "greenberg",
+      "title": "Greenberg",
+      "year": 2010,
+      "display_name": "Greenberg (2010)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55c65ba1c9fc0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26324224,
+      "size_bytes": 341269604,
+      "uploaded_at": "2026-06-23T18:18:07Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 13.9,
+        "upload_sec": 20.1
+      }
     }
   ],
   "failed_attempts": [
@@ -71940,5 +71959,5 @@
       "failed_at": "2026-06-23T14:46:35Z"
     }
   ],
-  "last_updated": "2026-06-23T18:17:27Z"
+  "last_updated": "2026-06-23T18:18:07Z"
 }
