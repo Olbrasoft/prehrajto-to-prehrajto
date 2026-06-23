@@ -61228,6 +61228,25 @@
         "download_sec": 25.1,
         "upload_sec": 43.0
       }
+    },
+    {
+      "cr_film_id": 2075,
+      "cr_slug": "teorie-tygra",
+      "title": "Teorie tygra",
+      "year": 2016,
+      "display_name": "Teorie tygra (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "dc8011ad35f86576",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26266187,
+      "size_bytes": 603660341,
+      "uploaded_at": "2026-06-23T00:53:41Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.5,
+        "upload_sec": 39.6
+      }
     }
   ],
   "failed_attempts": [
@@ -62503,5 +62522,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-23T00:52:40Z"
+  "last_updated": "2026-06-23T00:53:41Z"
 }
