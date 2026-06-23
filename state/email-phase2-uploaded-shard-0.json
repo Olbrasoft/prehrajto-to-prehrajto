@@ -69378,6 +69378,25 @@
         "download_sec": 29.1,
         "upload_sec": 31.8
       }
+    },
+    {
+      "cr_film_id": 27676,
+      "cr_slug": "micimutr",
+      "title": "Micimutr",
+      "year": 2011,
+      "display_name": "Micimutr (2011)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "638370342b990",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26307315,
+      "size_bytes": 2581830255,
+      "uploaded_at": "2026-06-23T16:15:33Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 91.7,
+        "upload_sec": 156.3
+      }
     }
   ],
   "failed_attempts": [
@@ -70781,5 +70800,5 @@
       "failed_at": "2026-06-23T14:46:35Z"
     }
   ],
-  "last_updated": "2026-06-23T16:11:19Z"
+  "last_updated": "2026-06-23T16:15:33Z"
 }
