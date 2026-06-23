@@ -25363,3 +25363,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [15:26:10]   upload done video_id=26300835 in 117.4s
 [15:26:12] film cr_film_id=32908 OK in 219.7s
 [15:26:12] batch-end ok=20 failed=0 dur=1695.4s avg/film=84.8s remaining=6420 eta_hours=151.2
+
+===== run 2026-06-23T15:26:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28036905503) =====
+[15:26:51] batch-start shard=0/2 count=20 backlog=10210 uploads=3790 failed_attempts=193 description_overrides=0
+[15:26:51] login
+[15:26:55] login done
+[15:26:55] iteration 1/20
+[15:26:55] film cr_film_id=32924 name='The Bang Bang Club (2011)' candidates=1
+[15:26:55]   candidate upload_id=5b116e05dc852 url=https://prehraj.to/bang-bang-club-2010/5b116e05dc852
+[15:26:56]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/4346080/9mahGBfOBCv7T89uGNtb8fJjfQaSamFekcKBU…)
+[15:27:51]   downloaded 1,115.4 MB in 52.7s (21.2 MB/s)
+[15:28:46]   upload done video_id=26301401 in 55.7s
