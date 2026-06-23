@@ -56921,6 +56921,25 @@
         "download_sec": 32.0,
         "upload_sec": 31.9
       }
+    },
+    {
+      "cr_film_id": 11018,
+      "cr_slug": "osudovy-kruh",
+      "title": "Osudový kruh",
+      "year": 1970,
+      "display_name": "Osudový kruh (1970) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61367f11c7ce9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26302627,
+      "size_bytes": 2987453956,
+      "uploaded_at": "2026-06-23T15:40:20Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 100.7,
+        "upload_sec": 112.4
+      }
     }
   ],
   "failed_attempts": [
@@ -59263,5 +59282,5 @@
       "failed_at": "2026-06-23T12:29:46Z"
     }
   ],
-  "last_updated": "2026-06-23T15:36:42Z"
+  "last_updated": "2026-06-23T15:40:20Z"
 }
