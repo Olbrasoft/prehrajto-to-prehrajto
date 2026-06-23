@@ -25509,3 +25509,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [16:26:06]   upload done video_id=26308829 in 96.1s
 [16:26:08] film cr_film_id=5674 OK in 170.1s
 [16:26:08] batch-end ok=20 failed=0 dur=3553.1s avg/film=177.7s remaining=6400 eta_hours=315.9
+
+===== run 2026-06-23T16:26:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28040660714) =====
+[16:26:54] batch-start shard=0/2 count=20 backlog=10210 uploads=3810 failed_attempts=193 description_overrides=0
+[16:26:54] login
+[16:26:56] login done
+[16:26:56] iteration 1/20
+[16:26:56] film cr_film_id=33078 name='Hrdličky (2011)' candidates=1
+[16:26:56]   candidate upload_id=5a91cd099d6e6 url=https://prehraj.to/hrdlicky-2011/5a91cd099d6e6
+[16:26:57]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/3467338/4gptpZfopFWvsqdu56HoefQauRVuAjUv3t93F…)
+[16:28:11]   downloaded 1,166.9 MB in 72.2s (16.2 MB/s)
+[16:29:23]   upload done video_id=26309256 in 71.4s
