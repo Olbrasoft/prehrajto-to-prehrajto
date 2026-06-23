@@ -52294,6 +52294,25 @@
         "download_sec": 72.5,
         "upload_sec": 124.6
       }
+    },
+    {
+      "cr_film_id": 10765,
+      "cr_slug": "valecne-bubny",
+      "title": "Válečné bubny",
+      "year": 1957,
+      "display_name": "Válečné bubny (1957) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60af35df93491",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26268983,
+      "size_bytes": 541309302,
+      "uploaded_at": "2026-06-23T02:06:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.2,
+        "upload_sec": 29.6
+      }
     }
   ],
   "failed_attempts": [
@@ -54388,5 +54407,5 @@
       "failed_at": "2026-06-23T01:25:32Z"
     }
   ],
-  "last_updated": "2026-06-23T02:05:46Z"
+  "last_updated": "2026-06-23T02:06:44Z"
 }
