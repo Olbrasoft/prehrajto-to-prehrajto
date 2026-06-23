@@ -63394,6 +63394,25 @@
         "download_sec": 60.3,
         "upload_sec": 84.8
       }
+    },
+    {
+      "cr_film_id": 33133,
+      "cr_slug": "gravitation",
+      "title": "Gravitation",
+      "year": 2015,
+      "display_name": "Gravitation (2015)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aa20f55a5920",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26276556,
+      "size_bytes": 1468314629,
+      "uploaded_at": "2026-06-23T05:32:40Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 60.6,
+        "upload_sec": 66.8
+      }
     }
   ],
   "failed_attempts": [
@@ -64669,5 +64688,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-23T05:30:27Z"
+  "last_updated": "2026-06-23T05:32:40Z"
 }
