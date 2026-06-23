@@ -70709,6 +70709,25 @@
         "download_sec": 20.6,
         "upload_sec": 24.7
       }
+    },
+    {
+      "cr_film_id": 25213,
+      "cr_slug": "synecdoche-new-york",
+      "title": "Synecdoche, New York",
+      "year": 2008,
+      "display_name": "Synecdoche, New York (2008)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5b0e479607669",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26329172,
+      "size_bytes": 578203766,
+      "uploaded_at": "2026-06-23T18:54:09Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 39.2,
+        "upload_sec": 35.0
+      }
     }
   ],
   "failed_attempts": [
@@ -72008,5 +72027,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-23T18:52:48Z"
+  "last_updated": "2026-06-23T18:54:09Z"
 }
