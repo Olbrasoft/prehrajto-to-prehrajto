@@ -20887,3 +20887,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:16:10]   upload done video_id=26293274 in 77.9s
 [14:16:13] film cr_film_id=10954 OK in 144.4s
 [14:16:13] batch-end ok=20 failed=0 dur=2689.4s avg/film=134.5s remaining=14522 eta_hours=542.6
+
+===== run 2026-06-23T14:29:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28033599958) =====
+[14:29:57] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:29:57] batch-start shard=0/2 count=20 backlog=17650 uploads=3128 failed_attempts=330 description_overrides=17579
+[14:29:57] login
+[14:29:58] login done
+[14:29:58] iteration 1/20
+[14:29:58] film cr_film_id=10956 name='Bullittův případ (1968) CZ Dabing' candidates=4
+[14:29:58]   candidate upload_id=677e18f4115ef url=https://prehraj.to/bullittuv-pripad-steve-mcqueen-robert-vaughn-jacqueline-bisset-1968-akcni-krimi-mysteriozni-thriller-bdrip-1080p-cz-dabing-title/677e18f4115ef
+[14:29:59]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/127389377/g9oIoES8MC1oINVU7oUWbS8mcDeIg2iA1s4…)
+[14:30:58]   downloaded 1,650.6 MB in 57.5s (28.7 MB/s)
+[14:32:46]   upload done video_id=26294763 in 107.9s
