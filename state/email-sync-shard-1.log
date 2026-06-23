@@ -21851,3 +21851,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:30:34]   upload done video_id=26342486 in 27.9s
 [20:30:35] film cr_film_id=11715 OK in 48.1s
 [20:30:35] batch-end ok=20 failed=0 dur=7392.6s avg/film=369.6s remaining=14403 eta_hours=1478.7
+
+===== run 2026-06-23T21:21:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28057956071) =====
+[21:21:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:21:56] batch-start shard=1/2 count=20 backlog=17650 uploads=3247 failed_attempts=299 description_overrides=17579
+[21:21:56] login
+[21:21:58] login done
+[21:21:58] iteration 1/20
+[21:21:58] film cr_film_id=11717 name='Slimáci (1988) CZ Dabing' candidates=5
+[21:21:58]   candidate upload_id=605571671e463 url=https://prehraj.to/slimaci-1988-czdab/605571671e463
+[21:21:59]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/22729148/GjyfYds7rUm6TkbcaOSVes4lHb6UzZCmZuek…)
+[21:22:36]   downloaded 1,247.3 MB in 35.5s (35.1 MB/s)
+[21:23:56]   upload done video_id=26350782 in 79.9s
