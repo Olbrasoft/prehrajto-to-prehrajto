@@ -19258,3 +19258,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:45:15]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/32106364/zJYI2of9eFw1T2yt42f2pfanhrZiVNFJgIDr…)
 [02:46:55]   downloaded 2,151.8 MB in 97.7s (22.0 MB/s)
 [02:49:14]   upload done video_id=26270680 in 139.4s
+[02:49:17] film cr_film_id=9976 OK in 243.0s
+[02:49:17] iteration 5/20
+[02:49:17] film cr_film_id=9978 name='Šťastný nový rok 2: Dobro došli (2021) CZ' candidates=1
+[02:49:17]   candidate upload_id=41735486791cb204 url=https://prehraj.to/stastny-novy-rok-2-dobro-dosli-2021-cz/41735486791cb204
+[02:49:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/stastny-novy-rok-2-dobro-dosli-2021-cz/41735486791cb204 (permanent=True)
+[02:49:17] film cr_film_id=9978 all candidates exhausted
+[02:49:17] iteration 6/20
+[02:49:17] film cr_film_id=9984 name='Beckman: Nucené násilí (2020) CZ Dabing' candidates=2
+[02:49:17]   candidate upload_id=60245bdbc300c url=https://prehraj.to/beckman-2020-czdabing/60245bdbc300c
+[02:49:23]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/22121655/Kn3FzeieJUN9c8NSD6IeGiYatjaIY3fkDF9e…)
+[02:50:21]   downloaded 1,186.8 MB in 55.2s (21.5 MB/s)
+[02:51:31]   upload done video_id=26270832 in 70.6s
