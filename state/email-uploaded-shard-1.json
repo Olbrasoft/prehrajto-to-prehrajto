@@ -56512,6 +56512,25 @@
         "download_sec": 23.6,
         "upload_sec": 39.0
       }
+    },
+    {
+      "cr_film_id": 11399,
+      "cr_slug": "superpolda",
+      "title": "Superpolda",
+      "year": 1980,
+      "display_name": "Superpolda (1980) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b460bdc87270d338",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26287668,
+      "size_bytes": 525428450,
+      "uploaded_at": "2026-06-23T13:27:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.6,
+        "upload_sec": 31.4
+      }
     }
   ],
   "failed_attempts": [
@@ -58662,5 +58681,5 @@
       "failed_at": "2026-06-23T11:05:44Z"
     }
   ],
-  "last_updated": "2026-06-23T13:26:43Z"
+  "last_updated": "2026-06-23T13:27:44Z"
 }
