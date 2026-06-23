@@ -22954,3 +22954,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [04:29:17]   upload done video_id=26274532 in 101.2s
 [04:29:19] film cr_film_id=29143 OK in 191.2s
 [04:29:19] batch-end ok=20 failed=0 dur=2177.3s avg/film=108.9s remaining=6754 eta_hours=204.3
+
+===== run 2026-06-23T04:32:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28002333683) =====
+[04:32:04] batch-start shard=1/2 count=20 backlog=10210 uploads=3456 failed_attempts=174 description_overrides=0
+[04:32:04] login
+[04:32:06] login done
+[04:32:06] iteration 1/20
+[04:32:06] film cr_film_id=20437 name='Sweet Home (2015)' candidates=1
+[04:32:06]   candidate upload_id=5ab07aa3b6a31 url=https://prehraj.to/sweet-home-2015/5ab07aa3b6a31
+[04:32:07]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/3687235/aW8hyBcvDiZ1HMmCGXuqpcvRhdZS2js0Giq8i…)
+[04:32:39]   downloaded 594.5 MB in 30.5s (19.5 MB/s)
+[04:33:20]   upload done video_id=26274736 in 40.9s
