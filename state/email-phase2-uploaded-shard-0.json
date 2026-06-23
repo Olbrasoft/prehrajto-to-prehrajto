@@ -66813,6 +66813,25 @@
         "download_sec": 36.4,
         "upload_sec": 38.9
       }
+    },
+    {
+      "cr_film_id": 15200,
+      "cr_slug": "pavouci",
+      "title": "Pavouci",
+      "year": 2013,
+      "display_name": "Pavouci (2013)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6672401bbfee1",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26284111,
+      "size_bytes": 2466734644,
+      "uploaded_at": "2026-06-23T11:53:36Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 68.6,
+        "upload_sec": 141.8
+      }
     }
   ],
   "failed_attempts": [
@@ -68174,5 +68193,5 @@
       "failed_at": "2026-06-23T05:49:27Z"
     }
   ],
-  "last_updated": "2026-06-23T11:50:01Z"
+  "last_updated": "2026-06-23T11:53:36Z"
 }
