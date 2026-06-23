@@ -20674,3 +20674,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:16:07]   upload done video_id=26283889 in 36.4s
 [11:16:09] film cr_film_id=11289 OK in 75.0s
 [11:16:09] batch-end ok=19 failed=1 dur=3031.2s avg/film=159.5s remaining=14562 eta_hours=645.2
+
+===== run 2026-06-23T11:28:22Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28022865711) =====
+[11:28:24] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:28:24] batch-start shard=1/2 count=20 backlog=17650 uploads=3088 failed_attempts=297 description_overrides=17579
+[11:28:24] login
+[11:28:26] login done
+[11:28:26] iteration 1/20
+[11:28:26] film cr_film_id=11291 name='Lámači kostí (1979) CZ' candidates=1
+[11:28:26]   candidate upload_id=590b88239078d url=https://prehraj.to/lamaci-kosti-dvdrip-cz-1979/590b88239078d
+[11:28:27]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/2137190/Bolc0xu4EUqkUmOFZDf70ugOCgni4Aib5I31t…)
+[11:28:47]   downloaded 496.2 MB in 19.0s (26.1 MB/s)
+[11:29:08]   upload done video_id=26283995 in 20.6s
