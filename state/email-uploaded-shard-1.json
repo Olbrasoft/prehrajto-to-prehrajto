@@ -56835,6 +56835,25 @@
         "download_sec": 176.3,
         "upload_sec": 199.2
       }
+    },
+    {
+      "cr_film_id": 11443,
+      "cr_slug": "ticha-zurivost",
+      "title": "Tichá zuřivost",
+      "year": 1982,
+      "display_name": "Tichá zuřivost (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "585603734485b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26293943,
+      "size_bytes": 383741774,
+      "uploaded_at": "2026-06-23T14:21:56Z",
+      "timing": {
+        "resolve_sec": 4.0,
+        "download_sec": 22.9,
+        "upload_sec": 23.6
+      }
     }
   ],
   "failed_attempts": [
@@ -58983,7 +59002,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silnejsi-nez-strach-1978-czdab/234293dad6c64bca",
       "permanent": true,
       "failed_at": "2026-06-23T11:05:44Z"
+    },
+    {
+      "cr_film_id": 11443,
+      "upload_id": "68045892d01db",
+      "reason": "oversize: 7335470911 B",
+      "permanent": true,
+      "failed_at": "2026-06-23T14:21:03Z"
     }
   ],
-  "last_updated": "2026-06-23T14:20:57Z"
+  "last_updated": "2026-06-23T14:21:56Z"
 }

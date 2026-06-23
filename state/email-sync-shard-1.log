@@ -21078,3 +21078,13 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:14:39]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/150592536/lDqS17TRkIazIXPszasavTrdSOkc7NuOKuA…)
 [14:17:37]   downloaded 3,291.2 MB in 176.3s (18.7 MB/s)
 [14:20:57]   upload done video_id=26293576 in 199.2s
+[14:20:59] film cr_film_id=11441 OK in 381.8s
+[14:20:59] iteration 16/20
+[14:20:59] film cr_film_id=11443 name='Tichá zuřivost (1982) CZ Dabing' candidates=4
+[14:20:59]   candidate upload_id=68045892d01db url=https://prehraj.to/ticha-zurivost-1982-1080p-cz-dab/68045892d01db
+[14:21:01]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/135663941/lyvtBrhGQF3vh0YcZ7SrmhvBUg8CG0sqliD…)
+[14:21:03]   oversize: 7335470911 B > 6000000000 B, skip
+[14:21:03]   candidate upload_id=585603734485b url=https://prehraj.to/ticha-zurivost-dvdrip-cz-1982/585603734485b
+[14:21:07]   resolved in 4.0s → 480p (https://pf-storage1.premiumcdn.net/1189733/gl2FgKHzASXmfZ9cGNhLAHXjT4pikOI4dI72F…)
+[14:21:32]   downloaded 383.7 MB in 22.9s (16.8 MB/s)
+[14:21:56]   upload done video_id=26293943 in 23.6s
