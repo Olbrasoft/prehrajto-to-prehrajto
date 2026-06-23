@@ -59011,6 +59011,25 @@
         "download_sec": 104.5,
         "upload_sec": 41.1
       }
+    },
+    {
+      "cr_film_id": 11296,
+      "cr_slug": "palebna-sila",
+      "title": "Palebná síla",
+      "year": 1979,
+      "display_name": "Palebná síla (1979) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e51058c5218",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26372103,
+      "size_bytes": 3530784091,
+      "uploaded_at": "2026-06-23T23:54:12Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 276.4,
+        "upload_sec": 233.9
+      }
     }
   ],
   "failed_attempts": [
@@ -61358,7 +61377,14 @@
       "reason": "oversize: 6187401452 B",
       "permanent": true,
       "failed_at": "2026-06-23T23:40:05Z"
+    },
+    {
+      "cr_film_id": 11294,
+      "upload_id": "6eb5b4e8cda44342",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/elvis-presley-1979-cz-dabing-mp4/6eb5b4e8cda44342",
+      "permanent": true,
+      "failed_at": "2026-06-23T23:45:34Z"
     }
   ],
-  "last_updated": "2026-06-23T23:45:30Z"
+  "last_updated": "2026-06-23T23:54:12Z"
 }
