@@ -23684,3 +23684,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [08:19:24]   upload done video_id=26279607 in 28.8s
 [08:19:26] film cr_film_id=20417 OK in 57.2s
 [08:19:26] batch-end ok=20 failed=0 dur=1615.2s avg/film=80.8s remaining=6654 eta_hours=149.3
+
+===== run 2026-06-23T08:23:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28012655075) =====
+[08:23:26] batch-start shard=1/2 count=20 backlog=10210 uploads=3556 failed_attempts=174 description_overrides=0
+[08:23:26] login
+[08:23:28] login done
+[08:23:28] iteration 1/20
+[08:23:28] film cr_film_id=28255 name='Desert Dancer (2014)' candidates=2
+[08:23:28]   candidate upload_id=55ca1c3aaeb25 url=https://prehraj.to/desert-dancer-2014-eng-zivotopis-drama-koko/55ca1c3aaeb25
+[08:23:29]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/132837/ZvPTWzUGjF0kSbwt93I2BUjEhn9sn6Io4s7NHE…)
+[08:23:57]   downloaded 577.9 MB in 25.9s (22.3 MB/s)
+[08:24:33]   upload done video_id=26279668 in 35.6s
