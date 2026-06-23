@@ -68067,6 +68067,25 @@
         "download_sec": 23.8,
         "upload_sec": 24.7
       }
+    },
+    {
+      "cr_film_id": 14460,
+      "cr_slug": "rychle-penize-prodej-drog",
+      "title": "Rychlé peníze - prodej drog",
+      "year": 2012,
+      "display_name": "Rychlé peníze - prodej drog (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "67d797ff5d317",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26289583,
+      "size_bytes": 232833785,
+      "uploaded_at": "2026-06-23T13:44:14Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 10.5,
+        "upload_sec": 11.0
+      }
     }
   ],
   "failed_attempts": [
@@ -69426,7 +69445,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/regular-show-the-movie-web-dl-cz-en-2015-1080p-mp4/d6bd5bbbb7c95077",
       "permanent": true,
       "failed_at": "2026-06-23T05:49:27Z"
+    },
+    {
+      "cr_film_id": 7654,
+      "upload_id": "a8c1f344b5bf8a04",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sammyho-dobrodruzstvi-2-2012/a8c1f344b5bf8a04",
+      "permanent": true,
+      "failed_at": "2026-06-23T13:43:45Z"
     }
   ],
-  "last_updated": "2026-06-23T13:43:43Z"
+  "last_updated": "2026-06-23T13:44:14Z"
 }

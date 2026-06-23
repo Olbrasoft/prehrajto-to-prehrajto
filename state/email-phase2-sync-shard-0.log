@@ -24953,3 +24953,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:42:53]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3765254/9xkFR1c6jsg2fAlsp0I8BcLmhB7FlYiq5HmaU…)
 [13:43:18]   downloaded 633.3 MB in 23.8s (26.6 MB/s)
 [13:43:43]   upload done video_id=26289473 in 24.7s
+[13:43:45] film cr_film_id=28008 OK in 53.0s
+[13:43:45] iteration 5/20
+[13:43:45] film cr_film_id=7654 name='Sammyho dobrodružství 2 (2012)' candidates=1
+[13:43:45]   candidate upload_id=a8c1f344b5bf8a04 url=https://prehraj.to/sammyho-dobrodruzstvi-2-2012/a8c1f344b5bf8a04
+[13:43:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sammyho-dobrodruzstvi-2-2012/a8c1f344b5bf8a04 (permanent=True)
+[13:43:46] film cr_film_id=7654 all candidates exhausted
+[13:43:46] iteration 6/20
+[13:43:46] film cr_film_id=14460 name='Rychlé peníze - prodej drog (2012)' candidates=2
+[13:43:46]   candidate upload_id=67d797ff5d317 url=https://prehraj.to/p-f-tv-dok-rychle-penize-prodej-drog-2012/67d797ff5d317
+[13:43:51]   resolved in 5.9s → 480p (https://pf-storage3.premiumcdn.net/132320414/rqAiZWhgLSEjSKOh5bIbBhq9CLZUv0s7Ysn…)
+[13:44:04]   downloaded 232.8 MB in 10.5s (22.2 MB/s)
+[13:44:14]   upload done video_id=26289583 in 11.0s
