@@ -24921,3 +24921,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:38:01]   upload done video_id=26288799 in 41.4s
 [13:38:03] film cr_film_id=36688 OK in 85.1s
 [13:38:03] batch-end ok=20 failed=0 dur=2108.7s avg/film=105.4s remaining=6478 eta_hours=189.7
+
+===== run 2026-06-23T13:38:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28030417058) =====
+[13:38:52] batch-start shard=0/2 count=20 backlog=10210 uploads=3732 failed_attempts=187 description_overrides=0
+[13:38:52] login
+[13:38:56] login done
+[13:38:56] iteration 1/20
+[13:38:56] film cr_film_id=29504 name='Sejít z cesty (2012)' candidates=1
+[13:38:56]   candidate upload_id=5ad5cf46570cb url=https://prehraj.to/sejit-z-cesty-2012/5ad5cf46570cb
+[13:38:57]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/3888991/LvEI1JUb0uwmcg1U6lcpZUJ8CWVtD2u8rHY9t…)
+[13:39:23]   downloaded 647.8 MB in 24.4s (26.5 MB/s)
+[13:39:57]   upload done video_id=26289025 in 34.7s
