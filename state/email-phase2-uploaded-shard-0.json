@@ -65407,6 +65407,25 @@
         "download_sec": 10.9,
         "upload_sec": 18.2
       }
+    },
+    {
+      "cr_film_id": 16202,
+      "cr_slug": "piknik",
+      "title": "Piknik",
+      "year": 2014,
+      "display_name": "Piknik (2014)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9f70cc691b4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26281444,
+      "size_bytes": 1363827380,
+      "uploaded_at": "2026-06-23T09:52:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 55.0,
+        "upload_sec": 66.8
+      }
     }
   ],
   "failed_attempts": [
@@ -66768,5 +66787,5 @@
       "failed_at": "2026-06-23T05:49:27Z"
     }
   ],
-  "last_updated": "2026-06-23T09:50:09Z"
+  "last_updated": "2026-06-23T09:52:15Z"
 }
