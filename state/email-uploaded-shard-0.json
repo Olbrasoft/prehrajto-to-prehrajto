@@ -53140,6 +53140,25 @@
         "download_sec": 13.3,
         "upload_sec": 18.1
       }
+    },
+    {
+      "cr_film_id": 10188,
+      "cr_slug": "prci-prci-prcicky-holky-sobe",
+      "title": "Prci, prci, prcičky: Holky sobě",
+      "year": 2020,
+      "display_name": "Prci, prci, prcičky: Holky sobě (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68a3f8b8a7df9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26275004,
+      "size_bytes": 3348685737,
+      "uploaded_at": "2026-06-23T04:44:12Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 93.0,
+        "upload_sec": 203.6
+      }
     }
   ],
   "failed_attempts": [
@@ -55312,7 +55331,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/silent-hill-nocni-mury-2026-cz-dabing-mp4/c10dd994c14ff05e",
       "permanent": true,
       "failed_at": "2026-06-23T04:12:40Z"
+    },
+    {
+      "cr_film_id": 10186,
+      "upload_id": "0925ed2f3d3be205",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/divoka-kocka-2025-1080p-cz-dabing/0925ed2f3d3be205",
+      "permanent": true,
+      "failed_at": "2026-06-23T04:39:02Z"
+    },
+    {
+      "cr_film_id": 10186,
+      "upload_id": "66656b7d96d64f4e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/wildcat-2025-1080p-cz-dabing/66656b7d96d64f4e",
+      "permanent": true,
+      "failed_at": "2026-06-23T04:39:08Z"
     }
   ],
-  "last_updated": "2026-06-23T04:39:00Z"
+  "last_updated": "2026-06-23T04:44:12Z"
 }
