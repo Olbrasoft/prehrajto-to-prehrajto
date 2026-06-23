@@ -22102,3 +22102,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [00:06:47]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/2545874/VPRhDOuwdInaCdGioaFb3ugRi61idaUNWI3Qf…)
 [00:08:39]   downloaded 2,056.1 MB in 109.7s (18.7 MB/s)
 [00:11:04]   upload done video_id=26264190 in 144.9s
+[00:11:06] film cr_film_id=33022 OK in 260.4s
+[00:11:06] iteration 16/20
+[00:11:06] film cr_film_id=3426 name='Po strništi bos (2017)' candidates=1
+[00:11:06]   candidate upload_id=668d5e4f34acb url=https://prehraj.to/po-strnisti-bos-2017-bdrip-cz-1080p/668d5e4f34acb
+[00:11:08]   resolve FAILED: upload not found (404): https://prehraj.to/po-strnisti-bos-2017-bdrip-cz-1080p/668d5e4f34acb (permanent=True)
+[00:11:08] film cr_film_id=3426 all candidates exhausted
+[00:11:08] iteration 17/20
+[00:11:08] film cr_film_id=29526 name='Phoenix Forgotten (2017)' candidates=1
+[00:11:08]   candidate upload_id=5ae2028098e49 url=https://prehraj.to/phoenix-forgotten-2017-cz-tit-vloz/5ae2028098e49
+[00:11:14]   resolved in 6.2s → 720p (https://pf-storage5.premiumcdn.net/3963829/XzoUrqhOJTN0s9xtnAsabhe4s06SNZSE7ur4T…)
+[00:12:05]   downloaded 1,149.1 MB in 50.0s (23.0 MB/s)
+[00:13:26]   upload done video_id=26264339 in 80.1s

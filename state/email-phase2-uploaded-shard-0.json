@@ -60733,6 +60733,25 @@
         "download_sec": 109.7,
         "upload_sec": 144.9
       }
+    },
+    {
+      "cr_film_id": 29526,
+      "cr_slug": "phoenix-forgotten",
+      "title": "Phoenix Forgotten",
+      "year": 2017,
+      "display_name": "Phoenix Forgotten (2017)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ae2028098e49",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26264339,
+      "size_bytes": 1149051578,
+      "uploaded_at": "2026-06-23T00:13:26Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 50.0,
+        "upload_sec": 80.1
+      }
     }
   ],
   "failed_attempts": [
@@ -62022,7 +62041,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bachorky-2019-cz-dabing-hd-mp4/e03912d6ff3a6d20",
       "permanent": true,
       "failed_at": "2026-06-22T18:27:23Z"
+    },
+    {
+      "cr_film_id": 3426,
+      "upload_id": "668d5e4f34acb",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/po-strnisti-bos-2017-bdrip-cz-1080p/668d5e4f34acb",
+      "permanent": true,
+      "failed_at": "2026-06-23T00:11:08Z"
     }
   ],
-  "last_updated": "2026-06-23T00:11:04Z"
+  "last_updated": "2026-06-23T00:13:26Z"
 }
