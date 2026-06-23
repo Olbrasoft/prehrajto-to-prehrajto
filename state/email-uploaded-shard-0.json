@@ -53957,6 +53957,25 @@
         "download_sec": 47.2,
         "upload_sec": 68.2
       }
+    },
+    {
+      "cr_film_id": 10480,
+      "cr_slug": "nezvany-host",
+      "title": "Nezvaný host",
+      "year": 2020,
+      "display_name": "Nezvaný host (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a9fffbe09fa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26279382,
+      "size_bytes": 1165717381,
+      "uploaded_at": "2026-06-23T07:56:15Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 40.3,
+        "upload_sec": 49.0
+      }
     }
   ],
   "failed_attempts": [
@@ -56229,5 +56248,5 @@
       "failed_at": "2026-06-23T07:15:44Z"
     }
   ],
-  "last_updated": "2026-06-23T07:54:41Z"
+  "last_updated": "2026-06-23T07:56:15Z"
 }
