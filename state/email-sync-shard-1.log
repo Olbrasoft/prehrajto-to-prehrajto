@@ -22145,3 +22145,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:26:48]   upload done video_id=26368741 in 95.1s
 [23:26:50] film cr_film_id=11827 OK in 178.0s
 [23:26:50] batch-end ok=20 failed=0 dur=2565.3s avg/film=128.3s remaining=14364 eta_hours=511.9
+
+===== run 2026-06-23T23:54:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28065208603) =====
+[23:54:51] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:54:51] batch-start shard=1/2 count=20 backlog=17650 uploads=3286 failed_attempts=301 description_overrides=17579
+[23:54:51] login
+[23:54:52] login done
+[23:54:52] iteration 1/20
+[23:54:52] film cr_film_id=11829 name='Ultra Force 2 (1989) CZ Dabing' candidates=1
+[23:54:52]   candidate upload_id=67881c860784c url=https://prehraj.to/ultra-force-2-1989-cz-dab/67881c860784c
+[23:54:54]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/127614548/AmbfErHWKtNGI4OivmIvXHGbsVnSKZIdyIZ…)
+[23:55:35]   downloaded 1,364.7 MB in 39.6s (34.5 MB/s)
+[23:57:03]   upload done video_id=26372840 in 88.7s
