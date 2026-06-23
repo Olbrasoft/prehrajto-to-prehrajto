@@ -52940,6 +52940,25 @@
         "download_sec": 32.5,
         "upload_sec": 33.2
       }
+    },
+    {
+      "cr_film_id": 10863,
+      "cr_slug": "my-fair-lady",
+      "title": "My Fair Lady",
+      "year": 1964,
+      "display_name": "My Fair Lady (1964) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "682f5f33edf74",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26273334,
+      "size_bytes": 4046243980,
+      "uploaded_at": "2026-06-23T03:56:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 143.2,
+        "upload_sec": 219.4
+      }
     }
   ],
   "failed_attempts": [
@@ -55055,5 +55074,5 @@
       "failed_at": "2026-06-23T02:23:28Z"
     }
   ],
-  "last_updated": "2026-06-23T03:50:25Z"
+  "last_updated": "2026-06-23T03:56:32Z"
 }
