@@ -58830,6 +58830,25 @@
         "download_sec": 35.5,
         "upload_sec": 79.9
       }
+    },
+    {
+      "cr_film_id": 11719,
+      "cr_slug": "ocelovy-mec",
+      "title": "Ocelový meč",
+      "year": 1987,
+      "display_name": "Ocelový meč (1987) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5acb62df62902",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26351157,
+      "size_bytes": 1340590046,
+      "uploaded_at": "2026-06-23T21:25:48Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 59.2,
+        "upload_sec": 49.6
+      }
     }
   ],
   "failed_attempts": [
@@ -60994,5 +61013,5 @@
       "failed_at": "2026-06-23T16:22:37Z"
     }
   ],
-  "last_updated": "2026-06-23T21:23:56Z"
+  "last_updated": "2026-06-23T21:25:48Z"
 }
