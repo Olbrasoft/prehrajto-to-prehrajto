@@ -71944,6 +71944,25 @@
         "download_sec": 12.4,
         "upload_sec": 17.4
       }
+    },
+    {
+      "cr_film_id": 13829,
+      "cr_slug": "paralelni-svet",
+      "title": "Paralelní svět",
+      "year": 2007,
+      "display_name": "Paralelní svět (2007)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68666f8d93747",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26366211,
+      "size_bytes": 2633272492,
+      "uploaded_at": "2026-06-23T23:08:54Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 90.3,
+        "upload_sec": 135.0
+      }
     }
   ],
   "failed_attempts": [
@@ -73264,5 +73283,5 @@
       "failed_at": "2026-06-23T22:48:36Z"
     }
   ],
-  "last_updated": "2026-06-23T23:05:05Z"
+  "last_updated": "2026-06-23T23:08:54Z"
 }
