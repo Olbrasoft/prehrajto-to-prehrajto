@@ -26529,3 +26529,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [23:03:54]   upload done video_id=26365485 in 145.7s
 [23:03:56] film cr_film_id=13588 OK in 233.5s
 [23:03:56] batch-end ok=20 failed=0 dur=1684.9s avg/film=84.2s remaining=6262 eta_hours=146.5
+
+===== run 2026-06-23T23:04:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28063031544) =====
+[23:04:34] batch-start shard=0/2 count=20 backlog=10210 uploads=3948 failed_attempts=196 description_overrides=0
+[23:04:34] login
+[23:04:36] login done
+[23:04:36] iteration 1/20
+[23:04:36] film cr_film_id=26650 name='Smrtící lavina (2008)' candidates=1
+[23:04:36]   candidate upload_id=60dee757760e9 url=https://prehraj.to/smrtici-lavina-2008/60dee757760e9
+[23:04:37]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/24123342/7rncQdu9rSyQUZ8tdwFkyugKHGrcX9SWGUBV…)
+[23:05:07]   downloaded 491.5 MB in 27.9s (17.6 MB/s)
+[23:05:39]   upload done video_id=26365972 in 31.3s
