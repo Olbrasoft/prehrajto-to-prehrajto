@@ -63678,6 +63678,25 @@
         "download_sec": 105.8,
         "upload_sec": 110.6
       }
+    },
+    {
+      "cr_film_id": 30588,
+      "cr_slug": "nelly",
+      "title": "Nelly",
+      "year": 2015,
+      "display_name": "Nelly (2015)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5b4ae42d4a25c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26277803,
+      "size_bytes": 798413791,
+      "uploaded_at": "2026-06-23T06:19:43Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 43.0,
+        "upload_sec": 52.1
+      }
     }
   ],
   "failed_attempts": [
@@ -65039,5 +65058,5 @@
       "failed_at": "2026-06-23T05:49:27Z"
     }
   ],
-  "last_updated": "2026-06-23T06:18:02Z"
+  "last_updated": "2026-06-23T06:19:43Z"
 }
