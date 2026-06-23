@@ -63222,6 +63222,25 @@
         "download_sec": 15.1,
         "upload_sec": 14.4
       }
+    },
+    {
+      "cr_film_id": 3940,
+      "cr_slug": "the-invitation",
+      "title": "The Invitation",
+      "year": 2015,
+      "display_name": "The Invitation (2015)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aa0d648b10d8",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26276298,
+      "size_bytes": 572558451,
+      "uploaded_at": "2026-06-23T05:22:57Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.8,
+        "upload_sec": 35.1
+      }
     }
   ],
   "failed_attempts": [
@@ -64555,5 +64574,5 @@
       "failed_at": "2026-06-23T04:33:42Z"
     }
   ],
-  "last_updated": "2026-06-23T05:21:59Z"
+  "last_updated": "2026-06-23T05:22:57Z"
 }
