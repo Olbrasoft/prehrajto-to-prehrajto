@@ -53358,6 +53358,25 @@
         "download_sec": 56.5,
         "upload_sec": 64.9
       }
+    },
+    {
+      "cr_film_id": 10923,
+      "cr_slug": "gappa",
+      "title": "Gappa",
+      "year": 1967,
+      "display_name": "Gappa (1967) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bc01cbe3ff4d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26275545,
+      "size_bytes": 360869678,
+      "uploaded_at": "2026-06-23T05:02:15Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 18.7,
+        "upload_sec": 25.8
+      }
     }
   ],
   "failed_attempts": [
@@ -55473,5 +55492,5 @@
       "failed_at": "2026-06-23T02:23:28Z"
     }
   ],
-  "last_updated": "2026-06-23T05:01:24Z"
+  "last_updated": "2026-06-23T05:02:15Z"
 }
