@@ -19502,3 +19502,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:31:14]   upload done video_id=26272301 in 283.1s
 [03:31:16] film cr_film_id=10843 OK in 440.3s
 [03:31:16] batch-end ok=20 failed=0 dur=3509.0s avg/film=175.4s remaining=14718 eta_hours=717.1
+
+===== run 2026-06-23T03:31:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28000211248) =====
+[03:31:52] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:31:52] batch-start shard=1/2 count=20 backlog=17650 uploads=2932 failed_attempts=292 description_overrides=17579
+[03:31:52] login
+[03:31:53] login done
+[03:31:53] iteration 1/20
+[03:31:53] film cr_film_id=10845 name='Smrt si říká Engelchen (1963) CZ' candidates=1
+[03:31:53]   candidate upload_id=65f3feba841ab url=https://prehraj.to/smrt-si-rika-engelchen-r-1963-1480x1080-bydejv/65f3feba841ab
+[03:31:55]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/74616143/07PiQnfwxI1Qi4Pt5MU83f31hkXHNYh5xHvA…)
+[03:33:58]   downloaded 3,352.9 MB in 120.9s (27.7 MB/s)
+[03:37:38]   upload done video_id=26272642 in 220.0s
