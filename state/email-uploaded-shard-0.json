@@ -55363,6 +55363,25 @@
         "download_sec": 22.4,
         "upload_sec": 26.5
       }
+    },
+    {
+      "cr_film_id": 10806,
+      "cr_slug": "biliarovy-kral",
+      "title": "Biliárový král",
+      "year": 1961,
+      "display_name": "Biliárový král (1961) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "1d2c3025d9a499be",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26284029,
+      "size_bytes": 799068852,
+      "uploaded_at": "2026-06-23T11:37:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.8,
+        "upload_sec": 27.7
+      }
     }
   ],
   "failed_attempts": [
@@ -57684,5 +57703,5 @@
       "failed_at": "2026-06-23T08:36:30Z"
     }
   ],
-  "last_updated": "2026-06-23T11:36:09Z"
+  "last_updated": "2026-06-23T11:37:04Z"
 }
