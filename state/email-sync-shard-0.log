@@ -20627,3 +20627,16 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:26:33]   resolved in 1.8s → 720p (https://pf-storage3.premiumcdn.net/135788846/NEXsYzUqphgKSmXi5kHoeUEdsKjSd4HOWuY…)
 [12:27:40]   downloaded 1,962.2 MB in 65.3s (30.0 MB/s)
 [12:29:36]   upload done video_id=26284415 in 115.5s
+[12:29:38] film cr_film_id=10860 OK in 186.2s
+[12:29:38] iteration 6/20
+[12:29:38] film cr_film_id=10862 name='Báječná Angelika (1965) CZ Dabing' candidates=7
+[12:29:38]   candidate upload_id=68983e0810fac url=https://prehraj.to/bajecna-angelika-1965-czdab/68983e0810fac
+[12:29:39]   resolved in 0.9s → 1080p (https://pf-storage3.premiumcdn.net/143372747/8gjsaoFzotZ2ivlHw7cqlFPNtn1u20Ir1CX…)
+[12:29:40]   oversize: 6352922903 B > 6000000000 B, skip
+[12:29:40]   candidate upload_id=6032351c02bac url=https://prehraj.to/bajecna-angelika-1965-remast/6032351c02bac
+[12:29:45]   resolved in 4.5s → 1080p (https://pf-storage3.premiumcdn.net/22357535/qXJIrnfv9seKSRYCqOF3Wf0RTq0UoxC6rfav…)
+[12:29:46]   oversize: 6352922903 B > 6000000000 B, skip
+[12:29:46]   candidate upload_id=583a0c7e6d058 url=https://prehraj.to/bajecna-angelika-1965-cz-dabing-filmy-krejci/583a0c7e6d058
+[12:29:51]   resolved in 5.0s → 480p (https://pf-storage4.premiumcdn.net/941206/yN1sBJTd5tZxUYwTPyTjBT68f2qtEjTb2IPXfJ…)
+[12:30:19]   downloaded 606.7 MB in 26.8s (22.6 MB/s)
+[12:30:48]   upload done video_id=26284428 in 29.3s
