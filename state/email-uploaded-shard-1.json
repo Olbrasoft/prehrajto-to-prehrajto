@@ -56189,6 +56189,25 @@
         "download_sec": 130.2,
         "upload_sec": 140.8
       }
+    },
+    {
+      "cr_film_id": 11361,
+      "cr_slug": "xanadu",
+      "title": "Xanadu",
+      "year": 1980,
+      "display_name": "Xanadu (1980) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5bca052c46d6c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26284382,
+      "size_bytes": 734406672,
+      "uploaded_at": "2026-06-23T12:20:46Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 389.5,
+        "upload_sec": 42.7
+      }
     }
   ],
   "failed_attempts": [
@@ -58339,5 +58358,5 @@
       "failed_at": "2026-06-23T11:05:44Z"
     }
   ],
-  "last_updated": "2026-06-23T12:13:27Z"
+  "last_updated": "2026-06-23T12:20:46Z"
 }
