@@ -24418,3 +24418,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:15:43]   upload done video_id=26283882 in 33.6s
 [11:15:45] film cr_film_id=27751 OK in 57.7s
 [11:15:45] batch-end ok=20 failed=0 dur=1543.4s avg/film=77.2s remaining=6554 eta_hours=140.5
+
+===== run 2026-06-23T11:18:34Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28022346703) =====
+[11:18:35] batch-start shard=1/2 count=20 backlog=10210 uploads=3656 failed_attempts=175 description_overrides=0
+[11:18:35] login
+[11:18:38] login done
+[11:18:38] iteration 1/20
+[11:18:38] film cr_film_id=28113 name='Smrtelná spravedlnost (2012)' candidates=2
+[11:18:38]   candidate upload_id=5ac2019318559 url=https://prehraj.to/smrtelna-spravedlnost-2012/5ac2019318559
+[11:18:39]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/3805116/5woTZVHB3uJ4sWATazi4nHvzINKIvkSGduPzt…)
+[11:19:22]   downloaded 1,193.3 MB in 41.2s (29.0 MB/s)
+[11:20:05]   upload done video_id=26283921 in 43.3s
