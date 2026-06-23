@@ -51933,6 +51933,25 @@
         "download_sec": 220.5,
         "upload_sec": 343.3
       }
+    },
+    {
+      "cr_film_id": 10709,
+      "cr_slug": "fanfan-tulipan-1952",
+      "title": "Fanfán Tulipán",
+      "year": 1952,
+      "display_name": "Fanfán Tulipán (1952) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60b24648e50ec",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26267021,
+      "size_bytes": 772073586,
+      "uploaded_at": "2026-06-23T01:14:09Z",
+      "timing": {
+        "resolve_sec": 4.3,
+        "download_sec": 42.2,
+        "upload_sec": 44.3
+      }
     }
   ],
   "failed_attempts": [
@@ -54011,7 +54030,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/touha-po-vrazde-2020-cz-dab-1080p/557a5736ed9046cd",
       "permanent": true,
       "failed_at": "2026-06-23T00:07:12Z"
+    },
+    {
+      "cr_film_id": 10709,
+      "upload_id": "65e82a2f7f61c",
+      "reason": "oversize: 12546395994 B",
+      "permanent": true,
+      "failed_at": "2026-06-23T01:12:37Z"
     }
   ],
-  "last_updated": "2026-06-23T01:12:31Z"
+  "last_updated": "2026-06-23T01:14:09Z"
 }
