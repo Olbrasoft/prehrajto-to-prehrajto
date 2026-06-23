@@ -21898,3 +21898,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:30:19]   resolved in 2.3s → 480p (https://pf-storage2.premiumcdn.net/2038659/Em8t8Eu9pie3cRYidxf6VuYkiMzSpOS8kTxNh…)
 [21:30:42]   downloaded 715.5 MB in 21.2s (33.8 MB/s)
 [21:31:25]   upload done video_id=26351972 in 43.3s
+[21:31:27] film cr_film_id=11729 OK in 69.9s
+[21:31:27] iteration 7/20
+[21:31:27] film cr_film_id=11735 name='Beetlejuice (1988) CZ Dabing' candidates=1
+[21:31:27]   candidate upload_id=cd9387ac154fd215 url=https://prehraj.to/beetlejuice-1988-cz-dab-2160p/cd9387ac154fd215
+[21:31:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/beetlejuice-1988-cz-dab-2160p/cd9387ac154fd215 (permanent=True)
+[21:31:27] film cr_film_id=11735 all candidates exhausted
+[21:31:27] iteration 8/20
+[21:31:27] film cr_film_id=11739 name='Dětská hra (1988) CZ Dabing' candidates=10
+[21:31:27]   candidate upload_id=5a4e1ee5dcd12 url=https://prehraj.to/detska-hra-1-horor-1988-cz-dabing/5a4e1ee5dcd12
+[21:31:33]   resolved in 5.8s → 480p (https://pf-storage5.premiumcdn.net/3229333/PE3UL7iwpsVyFM9h3nf0bieDsgQT7buGnhqGI…)
+[21:31:49]   downloaded 428.1 MB in 13.8s (31.0 MB/s)
+[21:32:16]   upload done video_id=26352111 in 27.5s
