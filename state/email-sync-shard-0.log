@@ -21034,3 +21034,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:16:14]   upload done video_id=26299593 in 98.0s
 [15:16:17] film cr_film_id=11000 OK in 158.6s
 [15:16:17] batch-end ok=20 failed=0 dur=2778.5s avg/film=138.9s remaining=14502 eta_hours=559.5
+
+===== run 2026-06-23T15:18:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28036390466) =====
+[15:18:28] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:18:28] batch-start shard=0/2 count=20 backlog=17650 uploads=3148 failed_attempts=330 description_overrides=17579
+[15:18:28] login
+[15:18:29] login done
+[15:18:29] iteration 1/20
+[15:18:29] film cr_film_id=11002 name='Trumfové eso (1968) CZ Dabing' candidates=6
+[15:18:29]   candidate upload_id=5b46acdb0781c url=https://prehraj.to/trumfove-eso-cz-dabing-1968-terence-hill-bud-spencer/5b46acdb0781c
+[15:18:30]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/4783005/3WmhoeSY7igqu3AHlvtZLSzJiP3caoT61TZJs…)
+[15:18:57]   downloaded 647.7 MB in 25.1s (25.8 MB/s)
+[15:19:56]   upload done video_id=26300149 in 59.4s
