@@ -54707,6 +54707,25 @@
         "download_sec": 32.4,
         "upload_sec": 42.3
       }
+    },
+    {
+      "cr_film_id": 11127,
+      "cr_slug": "zelezna-dlan",
+      "title": "Železná dlaň",
+      "year": 1972,
+      "display_name": "Železná dlaň (1972) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58374d6967e18",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26279658,
+      "size_bytes": 551002832,
+      "uploaded_at": "2026-06-23T08:23:42Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.1,
+        "upload_sec": 24.7
+      }
     }
   ],
   "failed_attempts": [
@@ -56829,5 +56848,5 @@
       "failed_at": "2026-06-23T05:16:28Z"
     }
   ],
-  "last_updated": "2026-06-23T08:05:45Z"
+  "last_updated": "2026-06-23T08:23:42Z"
 }
