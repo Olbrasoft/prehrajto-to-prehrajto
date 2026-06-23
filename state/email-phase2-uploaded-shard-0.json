@@ -70157,6 +70157,25 @@
         "download_sec": 17.7,
         "upload_sec": 18.9
       }
+    },
+    {
+      "cr_film_id": 15234,
+      "cr_slug": "puls",
+      "title": "Puls",
+      "year": 2010,
+      "display_name": "Puls (2010)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5daa321c0ba8f465",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26318520,
+      "size_bytes": 422523344,
+      "uploaded_at": "2026-06-23T17:36:58Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 39.3,
+        "upload_sec": 16.9
+      }
     }
   ],
   "failed_attempts": [
@@ -71560,5 +71579,5 @@
       "failed_at": "2026-06-23T14:46:35Z"
     }
   ],
-  "last_updated": "2026-06-23T17:35:58Z"
+  "last_updated": "2026-06-23T17:36:58Z"
 }
