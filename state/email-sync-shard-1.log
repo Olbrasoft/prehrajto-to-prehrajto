@@ -19308,3 +19308,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:15:28]   resolved in 5.9s → 1080p (https://pf-storage5.premiumcdn.net/23664294/mx6sz7cqyTVpU26fjPtZPcg2iq0Ta0ImXTZx…)
 [02:16:47]   downloaded 1,828.2 MB in 76.5s (23.9 MB/s)
 [02:19:00]   upload done video_id=26269482 in 133.0s
+[02:19:02] film cr_film_id=10777 OK in 219.7s
+[02:19:02] iteration 14/20
+[02:19:02] film cr_film_id=10779 name='Vynález zkázy (1958) CZ' candidates=1
+[02:19:02]   candidate upload_id=10ad9d219c9ce4ac url=https://prehraj.to/1958-vynalez-zkazy/10ad9d219c9ce4ac
+[02:19:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/1958-vynalez-zkazy/10ad9d219c9ce4ac (permanent=True)
+[02:19:03] film cr_film_id=10779 all candidates exhausted
+[02:19:03] iteration 15/20
+[02:19:03] film cr_film_id=10781 name='Milovaný bezbožník (1959) CZ' candidates=1
+[02:19:03]   candidate upload_id=68fcb9d76bbf4 url=https://prehraj.to/milovany-bezboznik-beloved-infidel-usa-1959-cz-en-rest-verze-1080p-mp4/68fcb9d76bbf4
+[02:19:10]   resolved in 6.6s → 720p (https://pf-storage4.premiumcdn.net/153340479/Z2Jf8qiXAuy2TBVUp4IZWi8YSXQuaVTkvCa…)
+[02:20:23]   downloaded 1,712.2 MB in 71.0s (24.1 MB/s)
+[02:22:09]   upload done video_id=26269650 in 106.7s
