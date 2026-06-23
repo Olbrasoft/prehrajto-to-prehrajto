@@ -23176,3 +23176,21 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [05:47:53]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/3541452/PRJiM7HX2IvjsPXtkxFWmHjqSjVtoXu9PtX8S…)
 [05:48:28]   downloaded 584.4 MB in 32.7s (17.9 MB/s)
 [05:49:05]   upload done video_id=26277063 in 37.5s
+[05:49:08] film cr_film_id=29238 OK in 76.1s
+[05:49:08] iteration 2/20
+[05:49:08] film cr_film_id=16738 name='Regular Show: The Movie (2015)' candidates=4
+[05:49:08]   candidate upload_id=ebac6704bc42ad8e url=https://prehraj.to/regular-show-the-movie-web-dl-cz-en-2015-1080p-mp4/ebac6704bc42ad8e
+[05:49:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/regular-show-the-movie-web-dl-cz-en-2015-1080p-mp4/ebac6704bc42ad8e (permanent=True)
+[05:49:10]   candidate upload_id=33cf1d78afc5d138 url=https://prehraj.to/regular-show-the-movie-web-dl-cz-en-2015-1080p-mp4/33cf1d78afc5d138
+[05:49:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/regular-show-the-movie-web-dl-cz-en-2015-1080p-mp4/33cf1d78afc5d138 (permanent=True)
+[05:49:16]   candidate upload_id=8a487c5d99d7a391 url=https://prehraj.to/regular-show-the-movie-web-dl-cz-en-2015-1080p-mp4/8a487c5d99d7a391
+[05:49:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/regular-show-the-movie-web-dl-cz-en-2015-1080p-mp4/8a487c5d99d7a391 (permanent=True)
+[05:49:22]   candidate upload_id=d6bd5bbbb7c95077 url=https://prehraj.to/regular-show-the-movie-web-dl-cz-en-2015-1080p-mp4/d6bd5bbbb7c95077
+[05:49:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/regular-show-the-movie-web-dl-cz-en-2015-1080p-mp4/d6bd5bbbb7c95077 (permanent=True)
+[05:49:27] film cr_film_id=16738 all candidates exhausted
+[05:49:27] iteration 3/20
+[05:49:27] film cr_film_id=18632 name='Pressure (2015)' candidates=2
+[05:49:27]   candidate upload_id=55ca7d6125a8f url=https://prehraj.to/pressure-2015-hdrip-xvid-ac3-evo/55ca7d6125a8f
+[05:49:33]   resolved in 5.9s → 480p (https://pf-storage2.premiumcdn.net/135434/ZqkSBlfQeilmTAvueXszKfjVTRgIa4sPjuv9uv…)
+[05:50:01]   downloaded 445.2 MB in 25.9s (17.2 MB/s)
+[05:50:33]   upload done video_id=26277119 in 32.0s
