@@ -55173,6 +55173,25 @@
         "download_sec": 23.6,
         "upload_sec": 27.8
       }
+    },
+    {
+      "cr_film_id": 10784,
+      "cr_slug": "kam-cert-nemuze",
+      "title": "Kam čert nemůže",
+      "year": 1960,
+      "display_name": "Kam čert nemůže (1960) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "61d553655116f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26283931,
+      "size_bytes": 1977405028,
+      "uploaded_at": "2026-06-23T11:21:43Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 70.5,
+        "upload_sec": 99.6
+      }
     }
   ],
   "failed_attempts": [
@@ -57494,5 +57513,5 @@
       "failed_at": "2026-06-23T08:36:30Z"
     }
   ],
-  "last_updated": "2026-06-23T11:18:48Z"
+  "last_updated": "2026-06-23T11:21:43Z"
 }
