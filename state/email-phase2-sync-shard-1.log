@@ -25521,3 +25521,17 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [15:51:56]   resolved in 1.9s → 720p (https://pf-storage1.premiumcdn.net/3617269/Z06tjzcqPty8fnxhYEURwcPqF5NS3wFjwhlWH…)
 [15:54:09]   downloaded 1,132.5 MB in 129.6s (8.7 MB/s)
 [15:58:53]   upload done video_id=26304815 in 283.7s
+[15:58:57] film cr_film_id=15085 OK in 422.2s
+[15:58:57] iteration 12/20
+[15:58:57] film cr_film_id=33347 name='9/11 State of Emergency (2010)' candidates=1
+[15:58:57]   candidate upload_id=5bf9a6148119f url=https://prehraj.to/state-of-emergency-2010/5bf9a6148119f
+[15:58:58]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/8622128/zY8cwgCeVtX9SRoH47CjwCWbuwZtD3sEbI4Ju…)
+[16:01:03]   downloaded 1,060.3 MB in 123.0s (8.6 MB/s)
+[16:02:19]   upload FAILED after 75.9s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[16:02:19] film cr_film_id=33347 all candidates exhausted
+[16:02:19] iteration 13/20
+[16:02:19] film cr_film_id=35551 name='קירות (2009)' candidates=1
+[16:02:19]   candidate upload_id=5c13f6f1f0173 url=https://prehraj.to/kirot-2009/5c13f6f1f0173
+[16:02:21]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/9476837/DxBcvbTbGFDxCQzIY8tgdTneikYFjkcxLsbYc…)
+[16:02:49]   downloaded 422.0 MB in 25.8s (16.4 MB/s)
+[16:03:21]   upload done video_id=26306005 in 32.0s
