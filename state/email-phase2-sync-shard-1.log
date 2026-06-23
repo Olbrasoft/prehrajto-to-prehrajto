@@ -26523,3 +26523,22 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [23:11:30]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/3680890/OmVTZMFx2iKNf6Xsb9indFy8feySVRIpKu4VC…)
 [23:11:48]   downloaded 424.3 MB in 16.7s (25.4 MB/s)
 [23:12:17]   upload done video_id=26366986 in 28.5s
+[23:12:18] film cr_film_id=26247 OK in 49.3s
+[23:12:18] iteration 6/20
+[23:12:18] film cr_film_id=13737 name='Moje borůvkové noci (2007)' candidates=1
+[23:12:18]   candidate upload_id=6162c93107413 url=https://prehraj.to/moje-boruvkove-noci-my-blueberry-nights-2007-1080p-bluray-cz-dabing/6162c93107413
+[23:12:19]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/25397885/AMru1kS5RslOhoOFzXtdeS4lIpjCdOHr0tdJ…)
+[23:13:18]   downloaded 1,629.9 MB in 57.3s (28.4 MB/s)
+[23:14:34]   upload FAILED after 75.5s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[23:14:34] film cr_film_id=13737 all candidates exhausted
+[23:14:34] iteration 7/20
+[23:14:34] film cr_film_id=25633 name='Michael Clayton (2007)' candidates=1
+[23:14:34]   candidate upload_id=2c461f8bfcd68266 url=https://prehraj.to/michael-clayton-2007-michael-clayton-120-min-fhd-x265-10b-5-1-cs-en-mkv/2c461f8bfcd68266
+[23:14:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/michael-clayton-2007-michael-clayton-120-min-fhd-x265-10b-5-1-cs-en-mkv/2c461f8bfcd68266 (permanent=True)
+[23:14:35] film cr_film_id=25633 all candidates exhausted
+[23:14:35] iteration 8/20
+[23:14:35] film cr_film_id=13667 name='Maharal – Tajemství talismanu (2007)' candidates=1
+[23:14:35]   candidate upload_id=5acbc368693b8 url=https://prehraj.to/maharal-tajemstvi-talismanu-2006/5acbc368693b8
+[23:14:41]   resolved in 6.1s → 480p (https://pf-storage1.premiumcdn.net/3858436/1aqUwVhQ6TN0f3PTaQTQ3hqVCwzIaXUwXT2KS…)
+[23:15:06]   downloaded 634.0 MB in 23.7s (26.8 MB/s)
+[23:15:52]   upload done video_id=26367383 in 45.1s
