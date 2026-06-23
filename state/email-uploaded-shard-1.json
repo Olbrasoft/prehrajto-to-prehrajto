@@ -54935,6 +54935,25 @@
         "download_sec": 82.8,
         "upload_sec": 151.7
       }
+    },
+    {
+      "cr_film_id": 11165,
+      "cr_slug": "roztrzity",
+      "title": "Roztržitý",
+      "year": 1970,
+      "display_name": "Roztržitý (1970) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e539246a3d3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26279964,
+      "size_bytes": 515517337,
+      "uploaded_at": "2026-06-23T08:43:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.4,
+        "upload_sec": 26.6
+      }
     }
   ],
   "failed_attempts": [
@@ -57078,5 +57097,5 @@
       "failed_at": "2026-06-23T08:28:58Z"
     }
   ],
-  "last_updated": "2026-06-23T08:42:47Z"
+  "last_updated": "2026-06-23T08:43:34Z"
 }
