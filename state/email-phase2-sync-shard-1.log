@@ -24370,3 +24370,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:04:45]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/941706/M42hwZs3PHZbTkESy8iNpsrohBnfyzu6qcmBtr…)
 [11:05:05]   downloaded 473.6 MB in 18.3s (25.9 MB/s)
 [11:05:26]   upload done video_id=26283792 in 21.3s
+[11:05:28] film cr_film_id=32471 OK in 43.6s
+[11:05:28] iteration 15/20
+[11:05:28] film cr_film_id=14565 name='Talisman (2012)' candidates=9
+[11:05:28]   candidate upload_id=5913226326ba3 url=https://prehraj.to/talisman-2012-cz/5913226326ba3
+[11:05:29]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/2165456/VVXTqzsKPflXSNYU3Oir1sgoTk6U1ruRPFXKf…)
+[11:06:31]   downloaded 2,161.0 MB in 61.0s (35.4 MB/s)
+[11:07:47]   upload FAILED after 75.4s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[11:07:47]   candidate upload_id=644968d52f855 url=https://prehraj.to/talisman-2012-cz/644968d52f855
+[11:07:48]   resolved in 0.9s → 720p (https://pf-storage3.premiumcdn.net/39867157/ArgHPqUANu17H20ue0C0eUK8HpqF7YHb0Td5…)
+[11:08:26]   downloaded 1,246.8 MB in 36.2s (34.4 MB/s)
+[11:09:20]   upload done video_id=26283803 in 54.6s
