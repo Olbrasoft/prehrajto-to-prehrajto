@@ -25002,3 +25002,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:28:04]   upload done video_id=26287489 in 135.4s
 [13:28:06] film cr_film_id=32029 OK in 184.3s
 [13:28:06] batch-end ok=20 failed=0 dur=1514.7s avg/film=75.7s remaining=6474 eta_hours=136.1
+
+===== run 2026-06-23T13:38:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28030417058) =====
+[13:38:50] batch-start shard=1/2 count=20 backlog=10210 uploads=3736 failed_attempts=175 description_overrides=0
+[13:38:50] login
+[13:38:54] login done
+[13:38:54] iteration 1/20
+[13:38:54] film cr_film_id=27615 name='Dívka z budoucnosti (2011)' candidates=1
+[13:38:54]   candidate upload_id=5a89981dd617e url=https://prehraj.to/divka-z-budoucnosti-2011/5a89981dd617e
+[13:38:56]   resolved in 1.9s → 480p (https://pf-storage5.premiumcdn.net/3412047/R7WHgbu36TyMsPph5ETlDukVSD6UjJCn4T4dH…)
+[13:39:23]   downloaded 516.8 MB in 25.5s (20.3 MB/s)
+[13:39:57]   upload done video_id=26289026 in 33.6s
