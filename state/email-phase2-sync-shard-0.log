@@ -22867,3 +22867,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:31:24]   upload done video_id=26274694 in 7.5s
 [04:31:26] film cr_film_id=16960 OK in 16.8s
 [04:31:26] batch-end ok=20 failed=0 dur=2302.4s avg/film=115.1s remaining=6756 eta_hours=216.0
+
+===== run 2026-06-23T04:32:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28002333683) =====
+[04:32:03] batch-start shard=0/2 count=20 backlog=10210 uploads=3454 failed_attempts=178 description_overrides=0
+[04:32:03] login
+[04:32:04] login done
+[04:32:04] iteration 1/20
+[04:32:04] film cr_film_id=30504 name='Jim Jefferies: Freedumb (2016)' candidates=1
+[04:32:04]   candidate upload_id=5c077ba7358db url=https://prehraj.to/jim-jefferies-freedumb/5c077ba7358db
+[04:32:05]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/9047975/qjySgGfGOUElslEiPnfjdfAGsQzcOoUgdTj9t…)
+[04:32:23]   downloaded 440.9 MB in 16.3s (27.1 MB/s)
+[04:33:16]   upload done video_id=26274728 in 53.4s

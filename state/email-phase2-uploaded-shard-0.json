@@ -62709,6 +62709,25 @@
         "download_sec": 5.1,
         "upload_sec": 7.5
       }
+    },
+    {
+      "cr_film_id": 30504,
+      "cr_slug": "jim-jefferies-freedumb",
+      "title": "Jim Jefferies: Freedumb",
+      "year": 2016,
+      "display_name": "Jim Jefferies: Freedumb (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c077ba7358db",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26274728,
+      "size_bytes": 440933785,
+      "uploaded_at": "2026-06-23T04:33:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.3,
+        "upload_sec": 53.4
+      }
     }
   ],
   "failed_attempts": [
@@ -64007,5 +64026,5 @@
       "failed_at": "2026-06-23T00:11:08Z"
     }
   ],
-  "last_updated": "2026-06-23T04:31:24Z"
+  "last_updated": "2026-06-23T04:33:16Z"
 }
