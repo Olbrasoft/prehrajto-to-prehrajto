@@ -52332,6 +52332,25 @@
         "download_sec": 180.4,
         "upload_sec": 329.9
       }
+    },
+    {
+      "cr_film_id": 10777,
+      "cr_slug": "tri-prani",
+      "title": "Tři přání",
+      "year": 1959,
+      "display_name": "Tři přání (1959) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60ad55c160d66",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26269482,
+      "size_bytes": 1828207524,
+      "uploaded_at": "2026-06-23T02:19:00Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 76.5,
+        "upload_sec": 133.0
+      }
     }
   ],
   "failed_attempts": [
@@ -54424,7 +54443,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-praveku-1955-cz-dabing/02f8d1543ace4daa",
       "permanent": true,
       "failed_at": "2026-06-23T01:25:32Z"
+    },
+    {
+      "cr_film_id": 10775,
+      "upload_id": "3278cbbb73dc9a26",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dazdnik-svaeteho-petra-1958-cz-dabing/3278cbbb73dc9a26",
+      "permanent": true,
+      "failed_at": "2026-06-23T02:15:23Z"
     }
   ],
-  "last_updated": "2026-06-23T02:15:19Z"
+  "last_updated": "2026-06-23T02:19:00Z"
 }
