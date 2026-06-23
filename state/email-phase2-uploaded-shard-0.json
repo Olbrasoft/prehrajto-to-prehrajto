@@ -64571,6 +64571,25 @@
         "download_sec": 36.0,
         "upload_sec": 36.2
       }
+    },
+    {
+      "cr_film_id": 18876,
+      "cr_slug": "darling",
+      "title": "Darling",
+      "year": 2015,
+      "display_name": "Darling (2015)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c1e3a1bd5fb4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26279670,
+      "size_bytes": 625852127,
+      "uploaded_at": "2026-06-23T08:24:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 32.9,
+        "upload_sec": 47.0
+      }
     }
   ],
   "failed_attempts": [
@@ -65932,5 +65951,5 @@
       "failed_at": "2026-06-23T05:49:27Z"
     }
   ],
-  "last_updated": "2026-06-23T08:22:43Z"
+  "last_updated": "2026-06-23T08:24:53Z"
 }

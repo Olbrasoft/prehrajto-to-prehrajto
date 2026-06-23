@@ -23607,3 +23607,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [08:22:43]   upload done video_id=26279645 in 36.2s
 [08:22:45] film cr_film_id=28426 OK in 77.8s
 [08:22:45] batch-end ok=20 failed=0 dur=1815.7s avg/film=90.8s remaining=6658 eta_hours=167.9
+
+===== run 2026-06-23T08:23:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28012655075) =====
+[08:23:27] batch-start shard=0/2 count=20 backlog=10210 uploads=3552 failed_attempts=187 description_overrides=0
+[08:23:27] login
+[08:23:30] login done
+[08:23:30] iteration 1/20
+[08:23:30] film cr_film_id=18876 name='Darling (2015)' candidates=1
+[08:23:30]   candidate upload_id=5c1e3a1bd5fb4 url=https://prehraj.to/darling-2015/5c1e3a1bd5fb4
+[08:23:31]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/9796130/R0MhQEs2vsjwU40HEvu6Vs09HGwTPeTDqs3Of…)
+[08:24:06]   downloaded 625.9 MB in 32.9s (19.0 MB/s)
+[08:24:53]   upload done video_id=26279670 in 47.0s
