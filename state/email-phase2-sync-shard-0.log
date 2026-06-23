@@ -25217,3 +25217,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:57:19]   upload done video_id=26297494 in 80.2s
 [14:57:21] film cr_film_id=33216 OK in 175.5s
 [14:57:21] batch-end ok=19 failed=1 dur=2284.2s avg/film=120.2s remaining=6440 eta_hours=215.0
+
+===== run 2026-06-23T14:57:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28035169169) =====
+[14:57:56] batch-start shard=0/2 count=20 backlog=10210 uploads=3770 failed_attempts=193 description_overrides=0
+[14:57:56] login
+[14:57:57] login done
+[14:57:57] iteration 1/20
+[14:57:57] film cr_film_id=29200 name='Aplaus (2012)' candidates=1
+[14:57:57]   candidate upload_id=5f1bec8180fc2 url=https://prehraj.to/aplaus-2012/5f1bec8180fc2
+[14:57:58]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/17492709/3jvcGvu5GTONujMTY8iEPubDhqVCkoSeOt8o…)
+[14:58:25]   downloaded 587.2 MB in 25.3s (23.2 MB/s)
+[14:58:46]   upload done video_id=26297706 in 21.5s
