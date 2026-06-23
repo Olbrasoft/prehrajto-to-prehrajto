@@ -25586,3 +25586,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [16:15:19]   upload done video_id=26307617 in 25.7s
 [16:15:21] film cr_film_id=14789 OK in 49.6s
 [16:15:21] batch-end ok=19 failed=1 dur=2904.2s avg/film=152.9s remaining=6395 eta_hours=271.6
+
+===== run 2026-06-23T16:26:53Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28040660714) =====
+[16:26:53] batch-start shard=1/2 count=20 backlog=10210 uploads=3815 failed_attempts=176 description_overrides=0
+[16:26:53] login
+[16:26:55] login done
+[16:26:55] iteration 1/20
+[16:26:55] film cr_film_id=33347 name='9/11 State of Emergency (2010)' candidates=1
+[16:26:55]   candidate upload_id=5bf9a6148119f url=https://prehraj.to/state-of-emergency-2010/5bf9a6148119f
+[16:26:56]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/8622128/zY8cwgCeVtX9SRoH47CjwCWbuwZtD3sEbI4Ju…)
+[16:27:36]   downloaded 1,060.3 MB in 38.6s (27.5 MB/s)
+[16:28:26]   upload done video_id=26309215 in 49.8s
