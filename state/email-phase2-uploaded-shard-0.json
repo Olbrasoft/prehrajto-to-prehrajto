@@ -69112,6 +69112,25 @@
         "download_sec": 52.7,
         "upload_sec": 55.7
       }
+    },
+    {
+      "cr_film_id": 32214,
+      "cr_slug": "the-backpacker",
+      "title": "The Backpacker",
+      "year": 2011,
+      "display_name": "The Backpacker (2011)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "559f55c8f2eed",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26301637,
+      "size_bytes": 1354654204,
+      "uploaded_at": "2026-06-23T15:31:09Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 60.4,
+        "upload_sec": 77.1
+      }
     }
   ],
   "failed_attempts": [
@@ -70515,5 +70534,5 @@
       "failed_at": "2026-06-23T14:46:35Z"
     }
   ],
-  "last_updated": "2026-06-23T15:28:46Z"
+  "last_updated": "2026-06-23T15:31:09Z"
 }
