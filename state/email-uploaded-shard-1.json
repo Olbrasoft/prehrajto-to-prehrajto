@@ -56588,6 +56588,25 @@
         "download_sec": 32.0,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 11409,
+      "cr_slug": "zelnacka",
+      "title": "Zelňačka",
+      "year": 1981,
+      "display_name": "Zelňačka (1981) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "674e69af72ea4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26288607,
+      "size_bytes": 1040648996,
+      "uploaded_at": "2026-06-23T13:36:31Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 56.7,
+        "upload_sec": 65.0
+      }
     }
   ],
   "failed_attempts": [
@@ -58738,5 +58757,5 @@
       "failed_at": "2026-06-23T11:05:44Z"
     }
   ],
-  "last_updated": "2026-06-23T13:34:23Z"
+  "last_updated": "2026-06-23T13:36:31Z"
 }
