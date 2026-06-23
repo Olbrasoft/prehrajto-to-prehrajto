@@ -24775,3 +24775,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:02:05]   upload done video_id=26284897 in 33.6s
 [13:02:07] film cr_film_id=28052 OK in 68.3s
 [13:02:07] batch-end ok=20 failed=0 dur=2067.0s avg/film=103.3s remaining=6498 eta_hours=186.5
+
+===== run 2026-06-23T13:02:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28028175143) =====
+[13:02:53] batch-start shard=0/2 count=20 backlog=10210 uploads=3712 failed_attempts=187 description_overrides=0
+[13:02:53] login
+[13:02:55] login done
+[13:02:55] iteration 1/20
+[13:02:55] film cr_film_id=28038 name='A Promise (2013)' candidates=2
+[13:02:55]   candidate upload_id=5abff36242004 url=https://prehraj.to/a-promise-2013/5abff36242004
+[13:02:56]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/3798907/B6LTokClzUydc6juqZIzoC9bUg2F4zTpAUbqS…)
+[13:03:39]   downloaded 712.2 MB in 40.3s (17.7 MB/s)
+[13:04:31]   upload done video_id=26285196 in 52.1s
