@@ -67460,6 +67460,25 @@
         "download_sec": 22.1,
         "upload_sec": 18.8
       }
+    },
+    {
+      "cr_film_id": 28205,
+      "cr_slug": "cannibal-diner",
+      "title": "Cannibal Diner",
+      "year": 2012,
+      "display_name": "Cannibal Diner (2012)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac1b809acdea",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26284491,
+      "size_bytes": 769618037,
+      "uploaded_at": "2026-06-23T12:36:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 44.9,
+        "upload_sec": 37.4
+      }
     }
   ],
   "failed_attempts": [
@@ -68747,5 +68766,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-23T12:35:13Z"
+  "last_updated": "2026-06-23T12:36:40Z"
 }
