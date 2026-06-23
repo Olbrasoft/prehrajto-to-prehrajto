@@ -21475,3 +21475,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [18:26:36]   upload done video_id=26325437 in 39.0s
 [18:26:38] film cr_film_id=11152 OK in 208.0s
 [18:26:38] batch-end ok=20 failed=0 dur=4216.4s avg/film=210.8s remaining=14442 eta_hours=845.7
+
+===== run 2026-06-23T18:27:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28047850445) =====
+[18:27:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[18:27:21] batch-start shard=0/2 count=20 backlog=17650 uploads=3208 failed_attempts=330 description_overrides=17579
+[18:27:21] login
+[18:27:23] login done
+[18:27:23] iteration 1/20
+[18:27:23] film cr_film_id=11156 name='Buzíci (1974) CZ' candidates=1
+[18:27:23]   candidate upload_id=63cfbd63da37b url=https://prehraj.to/buzici-les-valseuses-1974-komedie-fr-cz-titulky/63cfbd63da37b
+[18:27:24]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/36672388/aApUPrCLaUwdckrt17HEzCELhvnSkjS2DUxE…)
+[18:28:23]   downloaded 1,309.4 MB in 57.2s (22.9 MB/s)
+[18:29:44]   upload done video_id=26325729 in 80.9s
