@@ -69150,6 +69150,25 @@
         "download_sec": 50.9,
         "upload_sec": 78.6
       }
+    },
+    {
+      "cr_film_id": 6092,
+      "cr_slug": "sucker-punch",
+      "title": "Sucker Punch",
+      "year": 2011,
+      "display_name": "Sucker Punch (2011)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68a97ad6ea76d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26302143,
+      "size_bytes": 1820079054,
+      "uploaded_at": "2026-06-23T15:36:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 63.8,
+        "upload_sec": 90.6
+      }
     }
   ],
   "failed_attempts": [
@@ -70553,5 +70572,5 @@
       "failed_at": "2026-06-23T14:46:35Z"
     }
   ],
-  "last_updated": "2026-06-23T15:33:24Z"
+  "last_updated": "2026-06-23T15:36:04Z"
 }
