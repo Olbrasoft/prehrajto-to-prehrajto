@@ -20821,3 +20821,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:08:07]   upload done video_id=26284314 in 53.4s
 [12:08:09] film cr_film_id=11357 OK in 98.3s
 [12:08:09] batch-end ok=20 failed=0 dur=2383.1s avg/film=119.2s remaining=14542 eta_hours=481.5
+
+===== run 2026-06-23T12:08:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28025055099) =====
+[12:08:51] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:08:51] batch-start shard=1/2 count=20 backlog=17650 uploads=3108 failed_attempts=297 description_overrides=17579
+[12:08:51] login
+[12:08:53] login done
+[12:08:53] iteration 1/20
+[12:08:53] film cr_film_id=11359 name='Trhák (1981) CZ Dabing' candidates=1
+[12:08:53]   candidate upload_id=68d176810aa25 url=https://prehraj.to/trhak-1980-komedie-uhd-4k-2160p-cz-dabing-by-uploadix/68d176810aa25
+[12:08:54]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/147897084/44gH7LFaJSkrT6gIlPtknFlqcE7ukrS4yuM…)
+[12:11:06]   downloaded 2,483.9 MB in 130.2s (19.1 MB/s)
+[12:13:27]   upload done video_id=26284330 in 140.8s
