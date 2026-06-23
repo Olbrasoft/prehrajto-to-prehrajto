@@ -55986,7 +55986,77 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jak-prezit-sveho-muze-2023-mp4/14b7f74113b2e7d2",
       "permanent": true,
       "failed_at": "2026-06-23T05:48:37Z"
+    },
+    {
+      "cr_film_id": 10408,
+      "upload_id": "62df1e661b18e",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Flake-placid-legacy-2018-czdab%2F62df1e661b18e (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f550530>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/lake-placid-legacy-2018-czdab/62df1e661b18e",
+      "permanent": false,
+      "failed_at": "2026-06-23T06:37:32Z"
+    },
+    {
+      "cr_film_id": 10408,
+      "upload_id": "62df0e491f96a",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fjezero-6-2018-czdab%2F62df0e491f96a (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f552ab0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/jezero-6-2018-czdab/62df0e491f96a",
+      "permanent": false,
+      "failed_at": "2026-06-23T06:41:46Z"
+    },
+    {
+      "cr_film_id": 10408,
+      "upload_id": "62ced3ee77ce8",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fjezero-6-2018-cz-dabing%2F62ced3ee77ce8 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f552420>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/jezero-6-2018-cz-dabing/62ced3ee77ce8",
+      "permanent": false,
+      "failed_at": "2026-06-23T06:46:01Z"
+    },
+    {
+      "cr_film_id": 10412,
+      "upload_id": "5f495e47ee2c7",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fzraloci-jezero-2015-cz-dabing%2F5f495e47ee2c7 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f550b30>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/zraloci-jezero-2015-cz-dabing/5f495e47ee2c7",
+      "permanent": false,
+      "failed_at": "2026-06-23T06:50:16Z"
+    },
+    {
+      "cr_film_id": 10412,
+      "upload_id": "66aa9d0da299c",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fzraloci-invaze-2014-akcni-horor-sci-fi-czdab%2F66aa9d0da299c (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f550710>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/zraloci-invaze-2014-akcni-horor-sci-fi-czdab/66aa9d0da299c",
+      "permanent": false,
+      "failed_at": "2026-06-23T06:54:30Z"
+    },
+    {
+      "cr_film_id": 10412,
+      "upload_id": "596d31a975602",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fshark-lake-2015-cz-dabing%2F596d31a975602 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f552600>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/shark-lake-2015-cz-dabing/596d31a975602",
+      "permanent": false,
+      "failed_at": "2026-06-23T06:58:44Z"
+    },
+    {
+      "cr_film_id": 10412,
+      "upload_id": "59c9314b37f1e",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fzraloci-tornado-2-cz-dabing-2014%2F59c9314b37f1e (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f550ef0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/zraloci-tornado-2-cz-dabing-2014/59c9314b37f1e",
+      "permanent": false,
+      "failed_at": "2026-06-23T07:03:00Z"
+    },
+    {
+      "cr_film_id": 10412,
+      "upload_id": "57c5edcad60b2",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fshark-lake-2015-czdabing%2F57c5edcad60b2 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f5501d0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/shark-lake-2015-czdabing/57c5edcad60b2",
+      "permanent": false,
+      "failed_at": "2026-06-23T07:07:14Z"
+    },
+    {
+      "cr_film_id": 10418,
+      "upload_id": "681ca147dfade",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fcinovy-vojacek-2025-cz-dabing-1080p%2F681ca147dfade (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f595490>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/cinovy-vojacek-2025-cz-dabing-1080p/681ca147dfade",
+      "permanent": false,
+      "failed_at": "2026-06-23T07:11:29Z"
+    },
+    {
+      "cr_film_id": 10418,
+      "upload_id": "682e8d088edf0",
+      "reason": "resolve_failed: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Ftin-soldier-2025-cz-dabing-1080p%2F682e8d088edf0 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7ff07f6f7e30>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/tin-soldier-2025-cz-dabing-1080p/682e8d088edf0",
+      "permanent": false,
+      "failed_at": "2026-06-23T07:15:44Z"
     }
   ],
-  "last_updated": "2026-06-23T06:32:34Z"
+  "last_updated": "2026-06-23T07:15:44Z"
 }
