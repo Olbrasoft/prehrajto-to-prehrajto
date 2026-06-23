@@ -23100,3 +23100,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [05:12:58]   upload done video_id=26275925 in 41.9s
 [05:13:00] film cr_film_id=19041 OK in 85.9s
 [05:13:00] batch-end ok=20 failed=0 dur=2454.3s avg/film=122.7s remaining=6734 eta_hours=229.5
+
+===== run 2026-06-23T05:13:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28003855966) =====
+[05:13:36] batch-start shard=1/2 count=20 backlog=10210 uploads=3476 failed_attempts=174 description_overrides=0
+[05:13:36] login
+[05:13:38] login done
+[05:13:38] iteration 1/20
+[05:13:38] film cr_film_id=20251 name='Moonwalkers (2015)' candidates=1
+[05:13:38]   candidate upload_id=5a9ff0b4efa70 url=https://prehraj.to/moonwalkers-2015/5a9ff0b4efa70
+[05:13:39]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3559482/b4nfjWuAlt0kHyBUYms6wuWOcgpUWgSmEFL5U…)
+[05:14:13]   downloaded 750.0 MB in 32.7s (22.9 MB/s)
+[05:14:50]   upload done video_id=26276002 in 36.3s
