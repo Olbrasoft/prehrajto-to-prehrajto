@@ -66015,6 +66015,25 @@
         "download_sec": 23.7,
         "upload_sec": 24.6
       }
+    },
+    {
+      "cr_film_id": 28074,
+      "cr_slug": "crawl-or-die",
+      "title": "Crawl or Die",
+      "year": 2014,
+      "display_name": "Crawl or Die (2014)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5fda206503d16",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26283718,
+      "size_bytes": 380290034,
+      "uploaded_at": "2026-06-23T10:44:43Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 22.5,
+        "upload_sec": 25.4
+      }
     }
   ],
   "failed_attempts": [
@@ -67376,5 +67395,5 @@
       "failed_at": "2026-06-23T05:49:27Z"
     }
   ],
-  "last_updated": "2026-06-23T10:43:50Z"
+  "last_updated": "2026-06-23T10:44:43Z"
 }
