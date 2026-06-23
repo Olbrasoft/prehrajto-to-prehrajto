@@ -52047,6 +52047,25 @@
         "download_sec": 35.4,
         "upload_sec": 50.0
       }
+    },
+    {
+      "cr_film_id": 10731,
+      "cr_slug": "cesta-do-praveku",
+      "title": "Cesta do pravěku",
+      "year": 1955,
+      "display_name": "Cesta do pravěku (1955) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60b01e95f1396",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26267571,
+      "size_bytes": 1664307224,
+      "uploaded_at": "2026-06-23T01:29:17Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 82.1,
+        "upload_sec": 134.5
+      }
     }
   ],
   "failed_attempts": [
@@ -54132,7 +54151,14 @@
       "reason": "oversize: 12546395994 B",
       "permanent": true,
       "failed_at": "2026-06-23T01:12:37Z"
+    },
+    {
+      "cr_film_id": 10731,
+      "upload_id": "02f8d1543ace4daa",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-praveku-1955-cz-dabing/02f8d1543ace4daa",
+      "permanent": true,
+      "failed_at": "2026-06-23T01:25:32Z"
     }
   ],
-  "last_updated": "2026-06-23T01:25:29Z"
+  "last_updated": "2026-06-23T01:29:17Z"
 }
