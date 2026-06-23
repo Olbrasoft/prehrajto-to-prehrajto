@@ -20028,3 +20028,23 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:32:12]   resolved in 2.3s → 720p (https://pf-storage3.premiumcdn.net/46805951/lmxH8bI34iEJF74Uq5s5AIj0HmbTKdTbMupj…)
 [08:33:58]   downloaded 2,175.1 MB in 104.5s (20.8 MB/s)
 [08:36:02]   upload done video_id=26279811 in 123.9s
+[08:36:05] film cr_film_id=10586 OK in 235.6s
+[08:36:05] iteration 5/20
+[08:36:05] film cr_film_id=10592 name='Encanto (2021) CZ Dabing' candidates=5
+[08:36:05]   candidate upload_id=f14f2c5cee327500 url=https://prehraj.to/encanto-carovny-svet-2021-cz-dabing-1080p-animovany-dobrodruzny-komedie-rodinny-fantasy-mp4/f14f2c5cee327500
+[08:36:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/encanto-carovny-svet-2021-cz-dabing-1080p-animovany-dobrodruzny-komedie-rodinny-fantasy-mp4/f14f2c5cee327500 (permanent=True)
+[08:36:06]   candidate upload_id=dae67b8a4eaba183 url=https://prehraj.to/encanto-carovny-svet-2021-cz-dabing-1080p-animovany-dobrodruzny-komedie-rodinny-fantasy-mp4/dae67b8a4eaba183
+[08:36:12]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/encanto-carovny-svet-2021-cz-dabing-1080p-animovany-dobrodruzny-komedie-rodinny-fantasy-mp4/dae67b8a4eaba183 (permanent=True)
+[08:36:12]   candidate upload_id=1859b94255f9502b url=https://prehraj.to/encanto-carovny-svet-2021-cz-dabing-1080p-animovany-dobrodruzny-komedie-rodinny-fantasy-mp4/1859b94255f9502b
+[08:36:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/encanto-carovny-svet-2021-cz-dabing-1080p-animovany-dobrodruzny-komedie-rodinny-fantasy-mp4/1859b94255f9502b (permanent=True)
+[08:36:18]   candidate upload_id=5c5dc3ed3d632eed url=https://prehraj.to/encanto-carovny-svet-2021-cz-dabing-1080p-animovany-dobrodruzny-komedie-rodinny-fantasy-mp4/5c5dc3ed3d632eed
+[08:36:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/encanto-carovny-svet-2021-cz-dabing-1080p-animovany-dobrodruzny-komedie-rodinny-fantasy-mp4/5c5dc3ed3d632eed (permanent=True)
+[08:36:24]   candidate upload_id=ed69497177b43a9b url=https://prehraj.to/encanto-carovny-svet-2021-cz-dabing-1080p-animovany-dobrodruzny-komedie-rodinny-fantasy-mp4/ed69497177b43a9b
+[08:36:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/encanto-carovny-svet-2021-cz-dabing-1080p-animovany-dobrodruzny-komedie-rodinny-fantasy-mp4/ed69497177b43a9b (permanent=True)
+[08:36:30] film cr_film_id=10592 all candidates exhausted
+[08:36:30] iteration 6/20
+[08:36:30] film cr_film_id=10596 name='Nebezpečný (2021) CZ Dabing' candidates=5
+[08:36:30]   candidate upload_id=621f3ccac1828 url=https://prehraj.to/nebezpecny-dangerous-2021-cz-dabing-mp4/621f3ccac1828
+[08:36:36]   resolved in 6.3s → 480p (https://pf-storage5.premiumcdn.net/29867264/a7khoYiw0TBnuMLI0yCWJi3BH4NHeBt7zfzY…)
+[08:37:00]   downloaded 414.7 MB in 22.3s (18.6 MB/s)
+[08:37:23]   upload done video_id=26279865 in 22.7s
