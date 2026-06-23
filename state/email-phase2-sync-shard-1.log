@@ -25878,3 +25878,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [17:44:20]   upload done video_id=26319609 in 23.2s
 [17:44:22] film cr_film_id=32375 OK in 41.7s
 [17:44:22] batch-end ok=20 failed=0 dur=2201.1s avg/film=110.1s remaining=6355 eta_hours=194.4
+
+===== run 2026-06-23T17:45:07Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28045385541) =====
+[17:45:08] batch-start shard=1/2 count=20 backlog=10210 uploads=3855 failed_attempts=176 description_overrides=0
+[17:45:08] login
+[17:45:10] login done
+[17:45:10] iteration 1/20
+[17:45:10] film cr_film_id=35299 name='Broken Hill (2009)' candidates=1
+[17:45:10]   candidate upload_id=58713accb8e51 url=https://prehraj.to/vezenska-kapela-2009-satrip-cz/58713accb8e51
+[17:45:11]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1367904/NBysOqHvotWkf10hQ8cKGHB4uJ6iBxiLQCPdF…)
+[17:46:30]   downloaded 465.3 MB in 77.3s (6.0 MB/s)
+[17:47:01]   upload done video_id=26319929 in 30.8s
