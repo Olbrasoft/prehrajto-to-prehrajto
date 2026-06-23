@@ -19062,3 +19062,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:38:52]   upload done video_id=26265404 in 101.6s
 [00:38:55] film cr_film_id=10627 OK in 170.3s
 [00:38:55] batch-end ok=20 failed=0 dur=2535.7s avg/film=126.8s remaining=14775 eta_hours=520.4
+
+===== run 2026-06-23T00:47:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27994247394) =====
+[00:47:02] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:47:02] batch-start shard=1/2 count=20 backlog=17650 uploads=2875 failed_attempts=287 description_overrides=17579
+[00:47:02] login
+[00:47:03] login done
+[00:47:03] iteration 1/20
+[00:47:03] film cr_film_id=10663 name='Aréna (2011) CZ Dabing' candidates=5
+[00:47:03]   candidate upload_id=55918bf6eb292 url=https://prehraj.to/arena-2011-cz-dabing-mp4/55918bf6eb292
+[00:47:05]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/397551/qP9UNDi7ZfYvT0dso0FOmiV8UZEI1mU41f2Qtx…)
+[00:47:36]   downloaded 536.9 MB in 29.0s (18.5 MB/s)
+[00:48:19]   upload done video_id=26265929 in 42.9s
