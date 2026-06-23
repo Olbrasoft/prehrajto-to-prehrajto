@@ -69397,6 +69397,25 @@
         "download_sec": 91.7,
         "upload_sec": 156.3
       }
+    },
+    {
+      "cr_film_id": 3326,
+      "cr_slug": "les-adoptes",
+      "title": "Les adoptés",
+      "year": 2011,
+      "display_name": "Les adoptés (2011)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "631df61d308a1",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26307830,
+      "size_bytes": 962674992,
+      "uploaded_at": "2026-06-23T16:17:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 43.0,
+        "upload_sec": 55.9
+      }
     }
   ],
   "failed_attempts": [
@@ -70800,5 +70819,5 @@
       "failed_at": "2026-06-23T14:46:35Z"
     }
   ],
-  "last_updated": "2026-06-23T16:15:33Z"
+  "last_updated": "2026-06-23T16:17:17Z"
 }
