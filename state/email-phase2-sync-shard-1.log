@@ -26628,3 +26628,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [23:34:38]   upload done video_id=26369861 in 63.9s
 [23:34:40] film cr_film_id=25857 OK in 119.5s
 [23:34:40] batch-end ok=18 failed=2 dur=1807.5s avg/film=100.4s remaining=6257 eta_hours=174.5
+
+===== run 2026-06-23T23:43:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28064765522) =====
+[23:43:52] batch-start shard=1/2 count=20 backlog=10210 uploads=3953 failed_attempts=181 description_overrides=0
+[23:43:52] login
+[23:43:54] login done
+[23:43:54] iteration 1/20
+[23:43:54] film cr_film_id=13737 name='Moje borůvkové noci (2007)' candidates=1
+[23:43:54]   candidate upload_id=6162c93107413 url=https://prehraj.to/moje-boruvkove-noci-my-blueberry-nights-2007-1080p-bluray-cz-dabing/6162c93107413
+[23:43:55]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/25397885/AMru1kS5RslOhoOFzXtdeS4lIpjCdOHr0tdJ…)
+[23:44:54]   downloaded 1,629.9 MB in 57.4s (28.4 MB/s)
+[23:46:30]   upload done video_id=26371414 in 96.0s
