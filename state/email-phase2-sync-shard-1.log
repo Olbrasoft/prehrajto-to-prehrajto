@@ -25440,3 +25440,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [15:20:50]   upload done video_id=26300201 in 87.0s
 [15:20:52] film cr_film_id=14553 OK in 172.6s
 [15:20:52] batch-end ok=20 failed=0 dur=1374.0s avg/film=68.7s remaining=6414 eta_hours=122.4
+
+===== run 2026-06-23T15:26:54Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28036905503) =====
+[15:26:56] batch-start shard=1/2 count=20 backlog=10210 uploads=3796 failed_attempts=175 description_overrides=0
+[15:26:56] login
+[15:26:57] login done
+[15:26:57] iteration 1/20
+[15:26:57] film cr_film_id=26425 name='Ca$h (2010)' candidates=1
+[15:26:57]   candidate upload_id=5a9d4674e4671 url=https://prehraj.to/ca-h-2010/5a9d4674e4671
+[15:26:58]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/3546097/PyOHeDi49F7lTe4HlaI89iQeUdQf1df5nI2zt…)
+[15:28:21]   downloaded 1,469.1 MB in 80.7s (18.2 MB/s)
+[15:29:52]   upload done video_id=26301461 in 90.7s
