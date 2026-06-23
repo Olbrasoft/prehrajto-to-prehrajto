@@ -20529,3 +20529,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:24:37]   upload done video_id=26283366 in 45.3s
 [10:24:39] film cr_film_id=11233 OK in 95.7s
 [10:24:39] batch-end ok=20 failed=0 dur=3539.9s avg/film=177.0s remaining=14581 eta_hours=716.9
+
+===== run 2026-06-23T10:25:34Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28019518189) =====
+[10:25:36] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:25:36] batch-start shard=1/2 count=20 backlog=17650 uploads=3069 failed_attempts=296 description_overrides=17579
+[10:25:36] login
+[10:25:38] login done
+[10:25:38] iteration 1/20
+[10:25:38] film cr_film_id=11237 name='Policajt v Africe (1978) CZ Dabing' candidates=1
+[10:25:38]   candidate upload_id=5bd0dba7ea285 url=https://prehraj.to/policajt-v-africe-1978-cz-dabing/5bd0dba7ea285
+[10:25:39]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/7426622/42XfE5S0afmytPJUGXUwoSy2TOmFGnt3OuLKu…)
+[10:26:58]   downloaded 1,817.2 MB in 77.2s (23.5 MB/s)
+[10:28:49]   upload done video_id=26283508 in 110.9s
