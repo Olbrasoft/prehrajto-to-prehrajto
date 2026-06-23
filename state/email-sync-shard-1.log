@@ -21996,3 +21996,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:53:26]   upload done video_id=26355590 in 28.7s
 [21:53:28] film cr_film_id=11767 OK in 52.1s
 [21:53:28] batch-end ok=19 failed=1 dur=1890.1s avg/film=99.5s remaining=14384 eta_hours=397.6
+
+===== run 2026-06-23T22:44:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28062117304) =====
+[22:44:02] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:44:02] batch-start shard=1/2 count=20 backlog=17650 uploads=3266 failed_attempts=300 description_overrides=17579
+[22:44:02] login
+[22:44:04] login done
+[22:44:04] iteration 1/20
+[22:44:04] film cr_film_id=11769 name='Nebuďte policajta (1988) CZ Dabing' candidates=1
+[22:44:04]   candidate upload_id=5da6f4bddbeec url=https://prehraj.to/nebudte-policajta-1988-cz-dab/5da6f4bddbeec
+[22:44:07]   resolved in 2.4s → 480p (https://pf-storage5.premiumcdn.net/15069493/MEeuNVsz3F2Rt36iwKtkDs46CoWCbYFakH0a…)
+[22:44:35]   downloaded 632.9 MB in 26.7s (23.7 MB/s)
+[22:45:08]   upload done video_id=26363086 in 33.0s
