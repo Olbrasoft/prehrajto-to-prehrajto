@@ -21438,3 +21438,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:17:16]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/44184572/dDWi3MCMnHGAcZLUeKHRjCdxUyQUDnFW4UGr…)
 [16:19:09]   downloaded 2,573.2 MB in 111.2s (23.1 MB/s)
 [16:22:33]   upload done video_id=26308282 in 203.5s
+[16:22:36] film cr_film_id=11571 OK in 320.9s
+[16:22:36] iteration 4/20
+[16:22:36] film cr_film_id=11573 name='Gulag (1985) CZ Dabing' candidates=1
+[16:22:36]   candidate upload_id=60a521d586d6acdc url=https://prehraj.to/gulag-drama-1985-cz-dabing-avi-mp4/60a521d586d6acdc
+[16:22:37]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/gulag-drama-1985-cz-dabing-avi-mp4/60a521d586d6acdc (permanent=True)
+[16:22:37] film cr_film_id=11573 all candidates exhausted
+[16:22:37] iteration 5/20
+[16:22:37] film cr_film_id=11575 name='Honba za klenotem Nilu (1985) CZ Dabing' candidates=7
+[16:22:37]   candidate upload_id=57c9320913494 url=https://prehraj.to/honba-za-klenotem-nilu-1985-czdab/57c9320913494
+[16:22:43]   resolved in 6.2s → 480p (https://pf-storage4.premiumcdn.net/495125/zRet4DuWwil9hDgS82Igwuv8hL5IGVt4QUzEtE…)
+[16:23:24]   downloaded 699.4 MB in 38.8s (18.0 MB/s)
+[16:24:15]   upload done video_id=26308719 in 51.8s

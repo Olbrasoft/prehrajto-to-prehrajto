@@ -57747,6 +57747,25 @@
         "download_sec": 111.2,
         "upload_sec": 203.5
       }
+    },
+    {
+      "cr_film_id": 11575,
+      "cr_slug": "honba-za-klenotem-nilu",
+      "title": "Honba za klenotem Nilu",
+      "year": 1985,
+      "display_name": "Honba za klenotem Nilu (1985) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57c9320913494",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26308719,
+      "size_bytes": 699430844,
+      "uploaded_at": "2026-06-23T16:24:15Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 38.8,
+        "upload_sec": 51.8
+      }
     }
   ],
   "failed_attempts": [
@@ -59902,7 +59921,14 @@
       "reason": "oversize: 7335470911 B",
       "permanent": true,
       "failed_at": "2026-06-23T14:21:03Z"
+    },
+    {
+      "cr_film_id": 11573,
+      "upload_id": "60a521d586d6acdc",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/gulag-drama-1985-cz-dabing-avi-mp4/60a521d586d6acdc",
+      "permanent": true,
+      "failed_at": "2026-06-23T16:22:37Z"
     }
   ],
-  "last_updated": "2026-06-23T16:22:33Z"
+  "last_updated": "2026-06-23T16:24:15Z"
 }
