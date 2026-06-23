@@ -20968,3 +20968,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:30:25]   upload done video_id=26287848 in 92.6s
 [13:30:27] film cr_film_id=11401 OK in 160.7s
 [13:30:27] batch-end ok=20 failed=0 dur=4894.6s avg/film=244.7s remaining=14522 eta_hours=987.1
+
+===== run 2026-06-23T13:31:18Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28029942791) =====
+[13:31:20] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:31:20] batch-start shard=1/2 count=20 backlog=17650 uploads=3128 failed_attempts=297 description_overrides=17579
+[13:31:20] login
+[13:31:22] login done
+[13:31:22] iteration 1/20
+[13:31:22] film cr_film_id=11403 name='Profesionál (1981) CZ Dabing' candidates=5
+[13:31:22]   candidate upload_id=45e1bf44a7e37c0c url=https://prehraj.to/zabijak-1972-cz-dabing-spickova-kvalita-1080p-by-nexsus-avi/45e1bf44a7e37c0c
+[13:31:24]   resolved in 1.7s → 480p (https://pf-storage4.premiumcdn.net/163155245/1PYTNqcGdh6BieBTqbFGdcRDt6jtyxtoxCb…)
+[13:32:30]   downloaded 523.5 MB in 64.0s (8.2 MB/s)
+[13:33:12]   upload done video_id=26288265 in 42.2s
