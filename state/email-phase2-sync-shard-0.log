@@ -25947,3 +25947,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [18:25:20]   upload done video_id=26325203 in 54.1s
 [18:25:22] film cr_film_id=34244 OK in 100.9s
 [18:25:22] batch-end ok=20 failed=0 dur=2417.4s avg/film=120.9s remaining=6340 eta_hours=212.9
+
+===== run 2026-06-23T19:17:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28050812292) =====
+[19:17:29] batch-start shard=0/2 count=20 backlog=10210 uploads=3870 failed_attempts=193 description_overrides=0
+[19:17:29] login
+[19:17:30] login done
+[19:17:30] iteration 1/20
+[19:17:30] film cr_film_id=31520 name='El Dorado (2 díly v jednom) (2010)' candidates=1
+[19:17:30]   candidate upload_id=67cbfa0f83d5e url=https://prehraj.to/el-dorado-chram-slunce-2010-cz-mp4/67cbfa0f83d5e
+[19:17:31]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/131631893/deyfOoUnMu2nIA5ujkIeoUogIaRu3kuMgir…)
+[19:21:46]   downloaded 1,398.5 MB in 253.4s (5.5 MB/s)
+[19:23:13]   upload done video_id=26333034 in 86.9s
