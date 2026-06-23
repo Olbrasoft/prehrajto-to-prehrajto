@@ -24045,3 +24045,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:12:46]   upload done video_id=26283273 in 24.7s
 [10:12:48] film cr_film_id=33064 OK in 51.5s
 [10:12:48] batch-end ok=20 failed=0 dur=1633.1s avg/film=81.7s remaining=6598 eta_hours=149.7
+
+===== run 2026-06-23T10:15:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28018968810) =====
+[10:15:02] batch-start shard=0/2 count=20 backlog=10210 uploads=3612 failed_attempts=187 description_overrides=0
+[10:15:02] login
+[10:15:03] login done
+[10:15:03] iteration 1/20
+[10:15:03] film cr_film_id=16098 name='Krásno (2014)' candidates=1
+[10:15:03]   candidate upload_id=678aa75bb30b0 url=https://prehraj.to/krasno-2014-cz/678aa75bb30b0
+[10:15:05]   resolved in 1.5s → 480p (https://pf-storage3.premiumcdn.net/127672868/wvnsyqi4WSRoFkOIxQHZgiZ2IKMIE6sYNT3…)
+[10:15:26]   downloaded 406.5 MB in 18.9s (21.5 MB/s)
+[10:15:51]   upload done video_id=26283291 in 24.9s
