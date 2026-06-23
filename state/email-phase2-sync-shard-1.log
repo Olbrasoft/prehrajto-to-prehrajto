@@ -22370,3 +22370,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [00:57:08]   upload done video_id=26266334 in 54.0s
 [00:57:10] film cr_film_id=33295 OK in 107.5s
 [00:57:10] batch-end ok=20 failed=0 dur=1721.9s avg/film=86.1s remaining=6834 eta_hours=163.4
+
+===== run 2026-06-23T01:16:40Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27995375210) =====
+[01:16:40] batch-start shard=1/2 count=20 backlog=10210 uploads=3376 failed_attempts=174 description_overrides=0
+[01:16:40] login
+[01:16:42] login done
+[01:16:42] iteration 1/20
+[01:16:42] film cr_film_id=30371 name='Sold (2016)' candidates=1
+[01:16:42]   candidate upload_id=7e6361343d181536 url=https://prehraj.to/sold-2016-tit/7e6361343d181536
+[01:16:43]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/166740893/DlgigWIWzcjBfGZt0ytaXIDnsvmiD9iPgi4…)
+[01:16:56]   downloaded 198.1 MB in 10.9s (18.2 MB/s)
+[01:17:07]   upload done video_id=26267166 in 11.4s
