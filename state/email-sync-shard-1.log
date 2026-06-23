@@ -19794,3 +19794,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:24:29]   upload done video_id=26276346 in 47.5s
 [05:24:31] film cr_film_id=10955 OK in 88.2s
 [05:24:31] batch-end ok=19 failed=1 dur=2961.7s avg/film=155.9s remaining=14679 eta_hours=635.7
+
+===== run 2026-06-23T05:25:09Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28004281555) =====
+[05:25:11] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:25:11] batch-start shard=1/2 count=20 backlog=17650 uploads=2971 failed_attempts=293 description_overrides=17579
+[05:25:11] login
+[05:25:12] login done
+[05:25:12] iteration 1/20
+[05:25:12] film cr_film_id=10959 name='Zvláštní jednotka (1968) CZ' candidates=1
+[05:25:12]   candidate upload_id=5a8eb1eb732d2 url=https://prehraj.to/zvlastni-jednotka-1968/5a8eb1eb732d2
+[05:25:14]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3445740/LqzF1EHMgi92SDycvYiPJHNKFDMFJNHmxuvgi…)
+[05:25:46]   downloaded 843.4 MB in 30.9s (27.3 MB/s)
+[05:26:33]   upload done video_id=26276394 in 47.1s
