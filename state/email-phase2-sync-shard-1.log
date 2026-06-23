@@ -23538,3 +23538,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [07:51:51]   upload done video_id=26279338 in 59.8s
 [07:51:53] film cr_film_id=18461 OK in 139.6s
 [07:51:53] batch-end ok=20 failed=0 dur=4631.0s avg/film=231.6s remaining=6674 eta_hours=429.4
+
+===== run 2026-06-23T07:52:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28010973340) =====
+[07:52:28] batch-start shard=1/2 count=20 backlog=10210 uploads=3536 failed_attempts=174 description_overrides=0
+[07:52:28] login
+[07:52:30] login done
+[07:52:30] iteration 1/20
+[07:52:30] film cr_film_id=27661 name='Montevideo, vidimo se! (2014)' candidates=2
+[07:52:30]   candidate upload_id=5a9d10a3837e0 url=https://prehraj.to/montevideo-vidimo-se-2014/5a9d10a3837e0
+[07:52:31]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/3543555/b1mH94sRWFngCG2Tn0cd1sREf3QF0xcVlF7bF…)
+[07:53:01]   downloaded 958.6 MB in 28.1s (34.1 MB/s)
+[07:53:46]   upload done video_id=26279356 in 45.1s
