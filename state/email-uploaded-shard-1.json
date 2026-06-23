@@ -53814,6 +53814,25 @@
         "download_sec": 78.5,
         "upload_sec": 201.4
       }
+    },
+    {
+      "cr_film_id": 10989,
+      "cr_slug": "posledni-adresa",
+      "title": "Poslední adresa",
+      "year": 1970,
+      "display_name": "Poslední adresa (1970) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "62fd60ae2e94e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26277341,
+      "size_bytes": 1361872385,
+      "uploaded_at": "2026-06-23T05:58:46Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 48.5,
+        "upload_sec": 64.9
+      }
     }
   ],
   "failed_attempts": [
@@ -55936,5 +55955,5 @@
       "failed_at": "2026-06-23T05:16:28Z"
     }
   ],
-  "last_updated": "2026-06-23T05:56:48Z"
+  "last_updated": "2026-06-23T05:58:46Z"
 }
