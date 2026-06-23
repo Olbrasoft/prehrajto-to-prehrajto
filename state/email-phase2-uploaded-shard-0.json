@@ -62481,6 +62481,25 @@
         "download_sec": 25.7,
         "upload_sec": 34.5
       }
+    },
+    {
+      "cr_film_id": 33224,
+      "cr_slug": "odjezd",
+      "title": "Odjezd",
+      "year": 2016,
+      "display_name": "Odjezd (2016)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5abd02264f7bd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26273906,
+      "size_bytes": 548942961,
+      "uploaded_at": "2026-06-23T04:09:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.0,
+        "upload_sec": 24.7
+      }
     }
   ],
   "failed_attempts": [
@@ -63779,5 +63798,5 @@
       "failed_at": "2026-06-23T00:11:08Z"
     }
   ],
-  "last_updated": "2026-06-23T04:08:21Z"
+  "last_updated": "2026-06-23T04:09:10Z"
 }
