@@ -19995,3 +19995,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:22:09]   upload done video_id=26279621 in 124.1s
 [08:22:11] film cr_film_id=10550 OK in 235.8s
 [08:22:11] batch-end ok=19 failed=1 dur=3006.9s avg/film=158.3s remaining=14640 eta_hours=643.8
+
+===== run 2026-06-23T08:22:56Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28012623462) =====
+[08:22:58] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:22:58] batch-start shard=0/2 count=20 backlog=17650 uploads=3010 failed_attempts=322 description_overrides=17579
+[08:22:58] login
+[08:23:00] login done
+[08:23:00] iteration 1/20
+[08:23:00] film cr_film_id=10560 name='Operace Fortune: Ruse de guerre (2023) CZ Dabing' candidates=5
+[08:23:00]   candidate upload_id=646fc14d2a15a url=https://prehraj.to/operace-fortune-operation-fortune-ruse-de-guerre-2023-hdr-1080p-cz-dabing-azaghal-mp4/646fc14d2a15a
+[08:23:01]   resolved in 1.5s → 1080p (https://pf-storage4.premiumcdn.net/41067319/qMNINrsYPtnBuyPi2LIwEsL8T0pS4NcDdF9W…)
+[08:24:35]   downloaded 2,349.1 MB in 91.7s (25.6 MB/s)
+[08:26:48]   upload done video_id=26279676 in 132.9s
