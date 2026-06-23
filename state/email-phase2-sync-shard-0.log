@@ -22283,3 +22283,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:16:05]   upload done video_id=26267078 in 72.8s
 [01:16:07] film cr_film_id=32176 OK in 133.3s
 [01:16:07] batch-end ok=20 failed=0 dur=2856.4s avg/film=142.8s remaining=6836 eta_hours=271.2
+
+===== run 2026-06-23T01:16:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/27995375210) =====
+[01:16:43] batch-start shard=0/2 count=20 backlog=10210 uploads=3374 failed_attempts=178 description_overrides=0
+[01:16:43] login
+[01:16:45] login done
+[01:16:45] iteration 1/20
+[01:16:45] film cr_film_id=33590 name='House on Elm Lake (2017)' candidates=1
+[01:16:45]   candidate upload_id=5fe65bfb1f2ea url=https://prehraj.to/house-on-elm-lake-2017-horor-720p-novinka-novinky/5fe65bfb1f2ea
+[01:16:46]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/21025707/6VJUEVi6RF8EspOsolh6EidLsEdIRmfM5sPE…)
+[01:17:21]   downloaded 743.4 MB in 33.1s (22.5 MB/s)
+[01:18:05]   upload done video_id=26267179 in 43.7s
