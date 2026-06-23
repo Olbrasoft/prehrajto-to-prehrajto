@@ -63831,6 +63831,25 @@
         "download_sec": 5.4,
         "upload_sec": 5.2
       }
+    },
+    {
+      "cr_film_id": 28563,
+      "cr_slug": "ridicsky-prukaz",
+      "title": "Řidičský průkaz",
+      "year": 2014,
+      "display_name": "Řidičský průkaz (2014)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a8dd45786850",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26277571,
+      "size_bytes": 572157054,
+      "uploaded_at": "2026-06-23T06:06:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.7,
+        "upload_sec": 25.6
+      }
     }
   ],
   "failed_attempts": [
@@ -65106,5 +65125,5 @@
       "failed_at": "2026-06-22T16:01:56Z"
     }
   ],
-  "last_updated": "2026-06-23T06:06:01Z"
+  "last_updated": "2026-06-23T06:06:52Z"
 }
