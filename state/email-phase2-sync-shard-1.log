@@ -29990,3 +29990,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [16:43:36]   upload done video_id=26499267 in 34.9s
 [16:43:38] film cr_film_id=17711 OK in 75.1s
 [16:43:38] batch-end ok=20 failed=0 dur=3445.2s avg/film=172.3s remaining=5803 eta_hours=277.7
+
+===== run 2026-06-24T16:44:18Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28114509037) =====
+[16:44:19] batch-start shard=1/2 count=20 backlog=10210 uploads=4407 failed_attempts=194 description_overrides=0
+[16:44:19] login
+[16:44:21] login done
+[16:44:21] iteration 1/20
+[16:44:21] film cr_film_id=11937 name='Uranus (1990)' candidates=2
+[16:44:21]   candidate upload_id=6887597ea7ebc2b9 url=https://prehraj.to/uranus-attacks-2024-720p-webrip-x264-aac-yts-lt/6887597ea7ebc2b9
+[16:44:22]   resolved in 0.8s → 720p (https://pf-storage1.premiumcdn.net/161523509/VOMS60sy9uklIX3cRLIxjs2YUQ0fd5u1pTK…)
+[16:45:36]   downloaded 1,468.4 MB in 72.7s (20.2 MB/s)
+[16:46:41]   upload done video_id=26499471 in 65.6s
