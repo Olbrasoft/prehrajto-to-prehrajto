@@ -30430,3 +30430,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [20:01:33]   upload done video_id=26518278 in 38.6s
 [20:01:36] film cr_film_id=22985 OK in 1093.7s
 [20:01:36] batch-end ok=19 failed=1 dur=5370.9s avg/film=282.7s remaining=5744 eta_hours=451.1
+
+===== run 2026-06-24T20:02:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28126045501) =====
+[20:02:18] batch-start shard=1/2 count=20 backlog=10210 uploads=4466 failed_attempts=197 description_overrides=0
+[20:02:18] login
+[20:02:19] login done
+[20:02:19] iteration 1/20
+[20:02:19] film cr_film_id=22973 name='Homeboy (1988)' candidates=1
+[20:02:19]   candidate upload_id=5abb44ab88456 url=https://prehraj.to/homeboy-1988/5abb44ab88456
+[20:02:20]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/3754659/0ojsj6h0ysL7cVZcpMi98hRJtaBtNPTo6CVvS…)
+[20:19:08]   downloaded 1,420.7 MB in 1005.3s (1.4 MB/s)
+[20:20:30]   upload done video_id=26520090 in 82.1s
