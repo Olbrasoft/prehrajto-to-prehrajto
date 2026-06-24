@@ -23534,3 +23534,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:21:28]   upload done video_id=26445116 in 82.3s
 [09:21:30] film cr_film_id=11920 OK in 166.4s
 [09:21:30] batch-end ok=20 failed=0 dur=1936.8s avg/film=96.8s remaining=14167 eta_hours=380.9
+
+===== run 2026-06-24T09:48:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28089988837) =====
+[09:48:55] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:48:55] batch-start shard=0/2 count=20 backlog=17650 uploads=3483 failed_attempts=338 description_overrides=17579
+[09:48:55] login
+[09:48:57] login done
+[09:48:57] iteration 1/20
+[09:48:57] film cr_film_id=11922 name='Záchranáři u protinožců (1990) CZ' candidates=2
+[09:48:57]   candidate upload_id=5f97603005a09 url=https://prehraj.to/zachranari-u-protinozcu-1990-1080p-bluray-x264-cz/5f97603005a09
+[09:48:58]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/19526969/gvoc6wsoLSbeInBI7rfNZs3gCB4t8MCRbuoN…)
+[09:51:04]   downloaded 2,728.7 MB in 123.3s (22.1 MB/s)
+[09:53:59]   upload done video_id=26448622 in 175.7s
