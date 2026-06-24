@@ -72989,6 +72989,25 @@
         "download_sec": 42.3,
         "upload_sec": 53.8
       }
+    },
+    {
+      "cr_film_id": 25607,
+      "cr_slug": "lady-chatterley",
+      "title": "Lady Chatterley",
+      "year": 2006,
+      "display_name": "Lady Chatterley (2006)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "63de846ed1ede",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26379433,
+      "size_bytes": 1133843589,
+      "uploaded_at": "2026-06-24T00:45:10Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 39.3,
+        "upload_sec": 53.3
+      }
     }
   ],
   "failed_attempts": [
@@ -74328,5 +74347,5 @@
       "failed_at": "2026-06-23T23:14:35Z"
     }
   ],
-  "last_updated": "2026-06-24T00:43:34Z"
+  "last_updated": "2026-06-24T00:45:10Z"
 }
