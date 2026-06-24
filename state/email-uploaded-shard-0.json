@@ -64692,6 +64692,25 @@
         "download_sec": 76.2,
         "upload_sec": 120.6
       }
+    },
+    {
+      "cr_film_id": 12144,
+      "cr_slug": "otcina",
+      "title": "Otčina",
+      "year": 1994,
+      "display_name": "Otčina (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59bf7ba55eb5e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26478859,
+      "size_bytes": 680109685,
+      "uploaded_at": "2026-06-24T13:36:31Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.0,
+        "upload_sec": 36.0
+      }
     }
   ],
   "failed_attempts": [
@@ -67100,5 +67119,5 @@
       "failed_at": "2026-06-24T06:35:08Z"
     }
   ],
-  "last_updated": "2026-06-24T13:35:30Z"
+  "last_updated": "2026-06-24T13:36:31Z"
 }
