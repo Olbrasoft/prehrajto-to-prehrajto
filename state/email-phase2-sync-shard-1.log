@@ -29113,3 +29113,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [10:51:55]   upload done video_id=26456486 in 25.6s
 [10:51:57] film cr_film_id=32235 OK in 50.6s
 [10:51:57] batch-end ok=20 failed=0 dur=1907.5s avg/film=95.4s remaining=5922 eta_hours=156.9
+
+===== run 2026-06-24T10:56:37Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28093554454) =====
+[10:56:38] batch-start shard=1/2 count=20 backlog=10210 uploads=4288 failed_attempts=192 description_overrides=0
+[10:56:38] login
+[10:56:43] login done
+[10:56:43] iteration 1/20
+[10:56:43] film cr_film_id=12227 name='Fany (1995)' candidates=2
+[10:56:43]   candidate upload_id=5ad4d32d012c9 url=https://prehraj.to/fany-1995/5ad4d32d012c9
+[10:56:44]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/3885235/aVYI7aua2UbJU9mtywsYgu2xSkvH7NIb3SpLS…)
+[10:57:10]   downloaded 666.4 MB in 24.8s (26.9 MB/s)
+[10:57:40]   upload done video_id=26457242 in 29.9s
