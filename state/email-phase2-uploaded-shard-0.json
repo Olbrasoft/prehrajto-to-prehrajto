@@ -82032,6 +82032,25 @@
         "download_sec": 40.8,
         "upload_sec": 44.6
       }
+    },
+    {
+      "cr_film_id": 34024,
+      "cr_slug": "kral-new-yorku",
+      "title": "Král New Yorku",
+      "year": 1990,
+      "display_name": "Král New Yorku (1990)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "632fa561df2fd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26513654,
+      "size_bytes": 2161023012,
+      "uploaded_at": "2026-06-24T19:13:33Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 61.1,
+        "upload_sec": 125.1
+      }
     }
   ],
   "failed_attempts": [
@@ -83554,5 +83573,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T19:10:22Z"
+  "last_updated": "2026-06-24T19:13:33Z"
 }
