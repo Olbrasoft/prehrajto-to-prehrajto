@@ -77719,6 +77719,25 @@
         "download_sec": 36.0,
         "upload_sec": 38.0
       }
+    },
+    {
+      "cr_film_id": 24222,
+      "cr_slug": "balzac",
+      "title": "Balzac",
+      "year": 1999,
+      "display_name": "Balzac (1999)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "584adddd4d908",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26441190,
+      "size_bytes": 831131936,
+      "uploaded_at": "2026-06-24T08:46:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 30.7,
+        "upload_sec": 32.6
+      }
     }
   ],
   "failed_attempts": [
@@ -79185,5 +79204,5 @@
       "failed_at": "2026-06-24T06:06:25Z"
     }
   ],
-  "last_updated": "2026-06-24T08:44:58Z"
+  "last_updated": "2026-06-24T08:46:44Z"
 }
