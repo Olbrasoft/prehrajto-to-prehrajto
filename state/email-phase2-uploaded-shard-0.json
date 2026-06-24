@@ -81101,6 +81101,25 @@
         "download_sec": 34.1,
         "upload_sec": 30.1
       }
+    },
+    {
+      "cr_film_id": 23160,
+      "cr_slug": "zlodeji-1991",
+      "title": "Zloději",
+      "year": 1991,
+      "display_name": "Zloději (1991)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ad50f3224fcf",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26499856,
+      "size_bytes": 948816380,
+      "uploaded_at": "2026-06-24T16:49:38Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 49.6,
+        "upload_sec": 41.1
+      }
     }
   ],
   "failed_attempts": [
@@ -82616,5 +82635,5 @@
       "failed_at": "2026-06-24T15:20:25Z"
     }
   ],
-  "last_updated": "2026-06-24T16:48:02Z"
+  "last_updated": "2026-06-24T16:49:38Z"
 }
