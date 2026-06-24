@@ -68026,6 +68026,25 @@
         "download_sec": 101.0,
         "upload_sec": 36.1
       }
+    },
+    {
+      "cr_film_id": 13051,
+      "cr_slug": "vlcie-diery",
+      "title": "Vlčie diery",
+      "year": 1948,
+      "display_name": "Vlčie diery (1948) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60b4ab74edf5d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26528905,
+      "size_bytes": 980655141,
+      "uploaded_at": "2026-06-24T21:43:06Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 39.9,
+        "upload_sec": 51.0
+      }
     }
   ],
   "failed_attempts": [
@@ -70218,5 +70237,5 @@
       "failed_at": "2026-06-24T16:19:59Z"
     }
   ],
-  "last_updated": "2026-06-24T21:41:29Z"
+  "last_updated": "2026-06-24T21:43:06Z"
 }
