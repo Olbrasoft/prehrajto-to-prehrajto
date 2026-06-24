@@ -81501,6 +81501,25 @@
         "download_sec": 591.2,
         "upload_sec": 42.0
       }
+    },
+    {
+      "cr_film_id": 11839,
+      "cr_slug": "night-game",
+      "title": "Night Game",
+      "year": 1989,
+      "display_name": "Night Game (1989)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "687e997838ead",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26507692,
+      "size_bytes": 465873175,
+      "uploaded_at": "2026-06-24T18:09:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 62.1,
+        "upload_sec": 24.0
+      }
     }
   ],
   "failed_attempts": [
@@ -82931,5 +82950,5 @@
       "failed_at": "2026-06-24T14:26:53Z"
     }
   ],
-  "last_updated": "2026-06-24T18:07:35Z"
+  "last_updated": "2026-06-24T18:09:07Z"
 }
