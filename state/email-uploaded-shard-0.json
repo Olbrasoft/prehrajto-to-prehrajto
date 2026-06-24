@@ -60664,6 +60664,25 @@
         "download_sec": 78.2,
         "upload_sec": 90.6
       }
+    },
+    {
+      "cr_film_id": 11564,
+      "cr_slug": "komando",
+      "title": "Komando",
+      "year": 1985,
+      "display_name": "Komando (1985) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67ba70c2584e1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26407419,
+      "size_bytes": 1932723164,
+      "uploaded_at": "2026-06-24T04:21:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 85.0,
+        "upload_sec": 125.8
+      }
     }
   ],
   "failed_attempts": [
@@ -63046,5 +63065,5 @@
       "failed_at": "2026-06-24T00:37:03Z"
     }
   ],
-  "last_updated": "2026-06-24T04:17:59Z"
+  "last_updated": "2026-06-24T04:21:36Z"
 }
