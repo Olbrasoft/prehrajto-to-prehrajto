@@ -83419,6 +83419,25 @@
         "download_sec": 17.7,
         "upload_sec": 20.2
       }
+    },
+    {
+      "cr_film_id": 22870,
+      "cr_slug": "mona-lisa",
+      "title": "Mona Lisa",
+      "year": 1986,
+      "display_name": "Mona Lisa (1986)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5cdb775aa4f96",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26541041,
+      "size_bytes": 2545357014,
+      "uploaded_at": "2026-06-24T23:44:23Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 88.9,
+        "upload_sec": 136.3
+      }
     }
   ],
   "failed_attempts": [
@@ -84941,5 +84960,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T23:40:33Z"
+  "last_updated": "2026-06-24T23:44:23Z"
 }
