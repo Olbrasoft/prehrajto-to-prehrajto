@@ -82907,6 +82907,25 @@
         "download_sec": 206.5,
         "upload_sec": 294.0
       }
+    },
+    {
+      "cr_film_id": 33105,
+      "cr_slug": "secret-admirer",
+      "title": "Secret Admirer",
+      "year": 1985,
+      "display_name": "Secret Admirer (1985)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9d4c996b4b2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26537352,
+      "size_bytes": 1258664482,
+      "uploaded_at": "2026-06-24T23:06:49Z",
+      "timing": {
+        "resolve_sec": 3.4,
+        "download_sec": 67.9,
+        "upload_sec": 70.6
+      }
     }
   ],
   "failed_attempts": [
@@ -84370,7 +84389,14 @@
       "reason": "oversize: 7467319510 B",
       "permanent": true,
       "failed_at": "2026-06-24T21:33:08Z"
+    },
+    {
+      "cr_film_id": 34705,
+      "upload_id": "688cdd2712ab4",
+      "reason": "oversize: 22539902149 B",
+      "permanent": true,
+      "failed_at": "2026-06-24T23:04:26Z"
     }
   ],
-  "last_updated": "2026-06-24T23:04:18Z"
+  "last_updated": "2026-06-24T23:06:49Z"
 }
