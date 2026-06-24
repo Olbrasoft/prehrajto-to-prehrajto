@@ -81292,6 +81292,25 @@
         "download_sec": 50.5,
         "upload_sec": 20.0
       }
+    },
+    {
+      "cr_film_id": 11891,
+      "cr_slug": "chuva",
+      "title": "Chůva",
+      "year": 1990,
+      "display_name": "Chůva (1990)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "58414f0a1925c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26504137,
+      "size_bytes": 495663747,
+      "uploaded_at": "2026-06-24T17:34:01Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 214.5,
+        "upload_sec": 21.3
+      }
     }
   ],
   "failed_attempts": [
@@ -82722,5 +82741,5 @@
       "failed_at": "2026-06-24T14:26:53Z"
     }
   ],
-  "last_updated": "2026-06-24T17:30:01Z"
+  "last_updated": "2026-06-24T17:34:01Z"
 }
