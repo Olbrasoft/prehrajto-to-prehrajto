@@ -27987,3 +27987,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [04:46:25]   upload done video_id=26411168 in 61.8s
 [04:46:29] film cr_film_id=25186 OK in 120.0s
 [04:46:29] batch-end ok=20 failed=0 dur=1960.6s avg/film=98.0s remaining=6065 eta_hours=165.1
+
+===== run 2026-06-24T04:48:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28075848937) =====
+[04:48:03] batch-start shard=0/2 count=20 backlog=10210 uploads=4145 failed_attempts=201 description_overrides=0
+[04:48:03] login
+[04:48:04] login done
+[04:48:04] iteration 1/20
+[04:48:04] film cr_film_id=32202 name='Pán velryb (2003)' candidates=1
+[04:48:04]   candidate upload_id=5ad3d41d58e3b url=https://prehraj.to/pan-velryb-2002/5ad3d41d58e3b
+[04:48:05]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/3882120/jvmUm8sgQI4jTk1IRGhRwsjqtbyfDouZWiBKu…)
+[04:48:42]   downloaded 991.7 MB in 34.9s (28.4 MB/s)
+[04:49:19]   upload done video_id=26411648 in 37.0s
