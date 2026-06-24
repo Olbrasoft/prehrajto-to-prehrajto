@@ -76485,6 +76485,25 @@
         "download_sec": 62.7,
         "upload_sec": 67.5
       }
+    },
+    {
+      "cr_film_id": 12367,
+      "cr_slug": "onegin",
+      "title": "Onegin",
+      "year": 1999,
+      "display_name": "Onegin (1999)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "601f0e3c9a9e0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26424352,
+      "size_bytes": 451791485,
+      "uploaded_at": "2026-06-24T06:28:33Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 21.5,
+        "upload_sec": 23.8
+      }
     }
   ],
   "failed_attempts": [
@@ -77843,7 +77862,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/talentovany-pan-ripley-1999-fhd-1080p-cz-2185/68add778cbb0d",
       "permanent": true,
       "failed_at": "2026-06-24T06:17:41Z"
+    },
+    {
+      "cr_film_id": 34329,
+      "upload_id": "68ad0277e32f9",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/pola-x-leos-carax-1999/68ad0277e32f9",
+      "permanent": true,
+      "failed_at": "2026-06-24T06:27:39Z"
     }
   ],
-  "last_updated": "2026-06-24T06:27:36Z"
+  "last_updated": "2026-06-24T06:28:33Z"
 }

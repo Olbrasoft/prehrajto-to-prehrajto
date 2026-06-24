@@ -28265,3 +28265,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [06:25:24]   resolved in 3.1s → 720p (https://pf-storage5.premiumcdn.net/3799392/G17i2AF4YfXnc2QtyBCJ2F4ZuRoUojhYWh9Rs…)
 [06:26:28]   downloaded 1,364.5 MB in 62.7s (21.8 MB/s)
 [06:27:36]   upload done video_id=26424147 in 67.5s
+[06:27:39] film cr_film_id=23909 OK in 137.9s
+[06:27:39] iteration 5/20
+[06:27:39] film cr_film_id=34329 name='Pola X (1999)' candidates=1
+[06:27:39]   candidate upload_id=68ad0277e32f9 url=https://prehraj.to/pola-x-leos-carax-1999/68ad0277e32f9
+[06:27:39]   resolve FAILED: upload not found (404): https://prehraj.to/pola-x-leos-carax-1999/68ad0277e32f9 (permanent=True)
+[06:27:40] film cr_film_id=34329 all candidates exhausted
+[06:27:40] iteration 6/20
+[06:27:40] film cr_film_id=12367 name='Onegin (1999)' candidates=7
+[06:27:40]   candidate upload_id=601f0e3c9a9e0 url=https://prehraj.to/onegin-onegin-1999-cz/601f0e3c9a9e0
+[06:27:46]   resolved in 6.0s → 480p (https://pf-storage5.premiumcdn.net/22033590/NV8IxeTzNsj5SyghQztPrT74fePH71TX3sng…)
+[06:28:09]   downloaded 451.8 MB in 21.5s (21.0 MB/s)
+[06:28:33]   upload done video_id=26424352 in 23.8s
