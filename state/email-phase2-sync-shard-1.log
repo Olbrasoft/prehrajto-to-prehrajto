@@ -27945,3 +27945,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [04:47:27]   upload done video_id=26411425 in 19.9s
 [04:47:30] film cr_film_id=24667 OK in 44.4s
 [04:47:30] batch-end ok=20 failed=0 dur=2018.7s avg/film=100.9s remaining=6077 eta_hours=170.3
+
+===== run 2026-06-24T04:48:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28075848937) =====
+[04:48:03] batch-start shard=1/2 count=20 backlog=10210 uploads=4133 failed_attempts=182 description_overrides=0
+[04:48:03] login
+[04:48:05] login done
+[04:48:05] iteration 1/20
+[04:48:05] film cr_film_id=24365 name='Rocker (2001)' candidates=2
+[04:48:05]   candidate upload_id=68acd1513ac87 url=https://prehraj.to/rocker-2001-fhd-1080p-cz-1564/68acd1513ac87
+[04:48:06]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/144556593/YvJtVriQKU8zT3XUZ6fyDivkuwZIemcKQIl…)
+[04:49:12]   downloaded 2,275.7 MB in 64.6s (35.2 MB/s)
+[04:51:01]   upload done video_id=26411687 in 108.8s
