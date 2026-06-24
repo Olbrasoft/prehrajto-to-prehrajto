@@ -60426,6 +60426,25 @@
         "download_sec": 23.1,
         "upload_sec": 30.6
       }
+    },
+    {
+      "cr_film_id": 11955,
+      "cr_slug": "the-doors",
+      "title": "The Doors",
+      "year": 1991,
+      "display_name": "The Doors (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "674b56ade66e6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26384547,
+      "size_bytes": 740587401,
+      "uploaded_at": "2026-06-24T01:24:00Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 41.7,
+        "upload_sec": 47.7
+      }
     }
   ],
   "failed_attempts": [
@@ -62604,5 +62623,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T01:22:25Z"
+  "last_updated": "2026-06-24T01:24:00Z"
 }
