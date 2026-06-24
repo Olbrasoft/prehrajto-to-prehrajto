@@ -78954,6 +78954,25 @@
         "download_sec": 358.7,
         "upload_sec": 110.4
       }
+    },
+    {
+      "cr_film_id": 23684,
+      "cr_slug": "la-celestina",
+      "title": "La Celestina",
+      "year": 1996,
+      "display_name": "La Celestina (1996)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5820f38a6525c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26461055,
+      "size_bytes": 476440533,
+      "uploaded_at": "2026-06-24T11:26:35Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 82.6,
+        "upload_sec": 50.2
+      }
     }
   ],
   "failed_attempts": [
@@ -80448,5 +80467,5 @@
       "failed_at": "2026-06-24T11:01:13Z"
     }
   ],
-  "last_updated": "2026-06-24T11:24:16Z"
+  "last_updated": "2026-06-24T11:26:35Z"
 }
