@@ -30026,3 +30026,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [16:28:36]   upload done video_id=26497244 in 228.2s
 [16:28:39] film cr_film_id=10096 OK in 429.0s
 [16:28:39] batch-end ok=20 failed=0 dur=2549.0s avg/film=127.5s remaining=5791 eta_hours=205.1
+
+===== run 2026-06-24T16:44:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28114509037) =====
+[16:44:16] batch-start shard=0/2 count=20 backlog=10210 uploads=4419 failed_attempts=209 description_overrides=0
+[16:44:16] login
+[16:44:17] login done
+[16:44:17] iteration 1/20
+[16:44:17] film cr_film_id=12002 name='Buffy – zabíječka upírů (1992)' candidates=1
+[16:44:17]   candidate upload_id=6384743221b62 url=https://prehraj.to/buffy-zabijecka-upiru-horror-1992-cz-vhs-adriatic/6384743221b62
+[16:44:18]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/34881022/1yrUKGILWUaKiDOcREHO6IRgtYjTQgcrOTGO…)
+[16:44:59]   downloaded 1,161.0 MB in 39.0s (29.8 MB/s)
+[16:45:47]   upload done video_id=26499447 in 47.6s
