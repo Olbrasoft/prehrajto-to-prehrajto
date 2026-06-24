@@ -73540,6 +73540,25 @@
         "download_sec": 41.5,
         "upload_sec": 46.5
       }
+    },
+    {
+      "cr_film_id": 25531,
+      "cr_slug": "probuzeni-2005",
+      "title": "Probuzení",
+      "year": 2005,
+      "display_name": "Probuzení (2005)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9ffb128d8e2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26384669,
+      "size_bytes": 1022539564,
+      "uploaded_at": "2026-06-24T01:25:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 50.8,
+        "upload_sec": 55.5
+      }
     }
   ],
   "failed_attempts": [
@@ -74879,5 +74898,5 @@
       "failed_at": "2026-06-23T23:14:35Z"
     }
   ],
-  "last_updated": "2026-06-24T01:23:29Z"
+  "last_updated": "2026-06-24T01:25:21Z"
 }
