@@ -63162,6 +63162,25 @@
         "download_sec": 165.2,
         "upload_sec": 184.5
       }
+    },
+    {
+      "cr_film_id": 12349,
+      "cr_slug": "anakonda-1997",
+      "title": "Anakonda",
+      "year": 1997,
+      "display_name": "Anakonda (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "109bdcdbcbeab121",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26438382,
+      "size_bytes": 1570146570,
+      "uploaded_at": "2026-06-24T08:25:17Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 78.7,
+        "upload_sec": 106.3
+      }
     }
   ],
   "failed_attempts": [
@@ -65340,5 +65359,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T08:22:05Z"
+  "last_updated": "2026-06-24T08:25:17Z"
 }
