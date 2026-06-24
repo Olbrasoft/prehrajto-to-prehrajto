@@ -79392,6 +79392,25 @@
         "download_sec": 73.1,
         "upload_sec": 57.7
       }
+    },
+    {
+      "cr_film_id": 33169,
+      "cr_slug": "tango",
+      "title": "Tango",
+      "year": 1993,
+      "display_name": "Tango (1993)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab0a02ac69f4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26474932,
+      "size_bytes": 419651010,
+      "uploaded_at": "2026-06-24T13:09:26Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 24.6,
+        "upload_sec": 117.3
+      }
     }
   ],
   "failed_attempts": [
@@ -80815,5 +80834,5 @@
       "failed_at": "2026-06-24T11:03:26Z"
     }
   ],
-  "last_updated": "2026-06-24T13:06:57Z"
+  "last_updated": "2026-06-24T13:09:26Z"
 }
