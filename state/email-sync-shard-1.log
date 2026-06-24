@@ -23321,3 +23321,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:15:46]   upload done video_id=26429975 in 114.4s
 [07:15:48] film cr_film_id=12257 OK in 213.2s
 [07:15:48] batch-end ok=20 failed=0 dur=2904.3s avg/film=145.2s remaining=14204 eta_hours=572.9
+
+===== run 2026-06-24T07:16:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28081914220) =====
+[07:16:28] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:16:28] batch-start shard=1/2 count=20 backlog=17650 uploads=3446 failed_attempts=301 description_overrides=17579
+[07:16:28] login
+[07:16:30] login done
+[07:16:30] iteration 1/20
+[07:16:30] film cr_film_id=12259 name='Showgirls (1995) CZ Dabing' candidates=10
+[07:16:30]   candidate upload_id=5a8197adf0f74 url=https://prehraj.to/showgirls-1995-dvdrip-cz-dabing/5a8197adf0f74
+[07:16:32]   resolved in 1.6s → 480p (https://pf-storage4.premiumcdn.net/3389769/Qa0iNaclpuRNHqgs7zHmKc53FjeS2gTAdiKyC…)
+[07:17:06]   downloaded 860.0 MB in 32.4s (26.5 MB/s)
+[07:17:49]   upload done video_id=26430326 in 43.6s
