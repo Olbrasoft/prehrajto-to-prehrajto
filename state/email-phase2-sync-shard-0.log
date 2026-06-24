@@ -26967,3 +26967,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [00:34:32]   upload done video_id=26378132 in 24.0s
 [00:34:34] film cr_film_id=26564 OK in 47.8s
 [00:34:34] batch-end ok=19 failed=1 dur=1428.8s avg/film=75.2s remaining=6203 eta_hours=129.6
+
+===== run 2026-06-24T00:46:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28067236485) =====
+[00:46:50] batch-start shard=0/2 count=20 backlog=10210 uploads=4007 failed_attempts=198 description_overrides=0
+[00:46:50] login
+[00:46:52] login done
+[00:46:52] iteration 1/20
+[00:46:52] film cr_film_id=13464 name='Osudové selhání (2007)' candidates=1
+[00:46:52]   candidate upload_id=564d059841f7e url=https://prehraj.to/osudove-selhani-cz-2007-avi-jn/564d059841f7e
+[00:46:53]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/325907/x7ViblCWAfJAfY5CNgi2eCJxCxdtgMtXohDesP…)
+[00:47:21]   downloaded 454.2 MB in 26.2s (17.3 MB/s)
+[00:47:59]   upload done video_id=26379732 in 37.5s
