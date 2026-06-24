@@ -76408,6 +76408,25 @@
         "download_sec": 155.4,
         "upload_sec": 184.1
       }
+    },
+    {
+      "cr_film_id": 24852,
+      "cr_slug": "nicholas-nickleby",
+      "title": "Nicholas Nickleby",
+      "year": 2002,
+      "display_name": "Nicholas Nickleby (2002)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c2039e61ab62",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26420229,
+      "size_bytes": 1337704645,
+      "uploaded_at": "2026-06-24T05:55:00Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 74.7,
+        "upload_sec": 82.9
+      }
     }
   ],
   "failed_attempts": [
@@ -77867,5 +77886,5 @@
       "failed_at": "2026-06-24T03:16:26Z"
     }
   ],
-  "last_updated": "2026-06-24T05:52:16Z"
+  "last_updated": "2026-06-24T05:55:00Z"
 }
