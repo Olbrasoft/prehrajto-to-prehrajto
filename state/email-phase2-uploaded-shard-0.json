@@ -73520,6 +73520,25 @@
         "download_sec": 31.2,
         "upload_sec": 39.3
       }
+    },
+    {
+      "cr_film_id": 7456,
+      "cr_slug": "gangsteri",
+      "title": "Gangsteři",
+      "year": 2007,
+      "display_name": "Gangsteři (2007)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55f7e9e49a566",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26382642,
+      "size_bytes": 501399811,
+      "uploaded_at": "2026-06-24T01:10:01Z",
+      "timing": {
+        "resolve_sec": 7.4,
+        "download_sec": 29.3,
+        "upload_sec": 31.6
+      }
     }
   ],
   "failed_attempts": [
@@ -74956,7 +74975,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/a-zase-jedna-popelka-another-cinderella-story-2008-tvrip/f9666e0ca3ac4ff3",
       "permanent": true,
       "failed_at": "2026-06-24T00:10:46Z"
+    },
+    {
+      "cr_film_id": 13664,
+      "upload_id": "cf2d1897d61a5744",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/gympl-2007-cz-mp4/cf2d1897d61a5744",
+      "permanent": true,
+      "failed_at": "2026-06-24T01:08:51Z"
     }
   ],
-  "last_updated": "2026-06-24T01:08:48Z"
+  "last_updated": "2026-06-24T01:10:01Z"
 }

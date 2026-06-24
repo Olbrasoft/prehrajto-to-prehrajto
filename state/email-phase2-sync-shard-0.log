@@ -27083,3 +27083,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:07:35]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3517912/N2rFBqHY6cv5IKaH4zHbLH7gU3JfWLtMjSYws…)
 [01:08:08]   downloaded 539.6 MB in 31.2s (17.3 MB/s)
 [01:08:48]   upload done video_id=26382454 in 39.3s
+[01:08:50] film cr_film_id=10190 OK in 75.8s
+[01:08:50] iteration 17/20
+[01:08:50] film cr_film_id=13664 name='Gympl (2007)' candidates=1
+[01:08:50]   candidate upload_id=cf2d1897d61a5744 url=https://prehraj.to/gympl-2007-cz-mp4/cf2d1897d61a5744
+[01:08:51]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/gympl-2007-cz-mp4/cf2d1897d61a5744 (permanent=True)
+[01:08:51] film cr_film_id=13664 all candidates exhausted
+[01:08:51] iteration 18/20
+[01:08:51] film cr_film_id=7456 name='Gangsteři (2007)' candidates=2
+[01:08:51]   candidate upload_id=55f7e9e49a566 url=https://prehraj.to/gangsteri-z-miami-2007/55f7e9e49a566
+[01:08:58]   resolved in 7.4s → 480p (https://pf-storage3.premiumcdn.net/309055/N4KUQJHz4CgxI0NcOGhg4HxKiDjcmzT6KhE3uW…)
+[01:09:29]   downloaded 501.4 MB in 29.3s (17.1 MB/s)
+[01:10:01]   upload done video_id=26382642 in 31.6s
