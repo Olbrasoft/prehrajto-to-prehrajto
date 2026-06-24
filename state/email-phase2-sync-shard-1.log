@@ -30307,3 +30307,19 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [18:54:57]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/981144/bb7TqYUBgfyWfe8TmYtQ9UKlI90F92CkYSJKFA…)
 [18:55:29]   downloaded 553.7 MB in 30.2s (18.3 MB/s)
 [18:56:07]   upload done video_id=26512130 in 38.0s
+[18:56:10] film cr_film_id=24311 OK in 73.8s
+[18:56:10] iteration 4/20
+[18:56:10] film cr_film_id=30381 name='Atrakce švédského zájezdu (1989)' candidates=3
+[18:56:10]   candidate upload_id=67cb723b536f0 url=https://prehraj.to/atrakce-svedskeho-zajezdu-1989-cz/67cb723b536f0
+[18:56:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atrakce-svedskeho-zajezdu-1989-cz/67cb723b536f0 (permanent=True)
+[18:56:10]   candidate upload_id=647350c200151 url=https://prehraj.to/atrakce-svedskeho-zajezdu-1989/647350c200151
+[18:56:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atrakce-svedskeho-zajezdu-1989/647350c200151 (permanent=True)
+[18:56:16]   candidate upload_id=910c8d48ecd8007e url=https://prehraj.to/atrakce-svedskeho-zajezdu-1989-cz/910c8d48ecd8007e
+[18:56:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atrakce-svedskeho-zajezdu-1989-cz/910c8d48ecd8007e (permanent=True)
+[18:56:22] film cr_film_id=30381 all candidates exhausted
+[18:56:22] iteration 5/20
+[18:56:22] film cr_film_id=23073 name='Aféra Profumo (1989)' candidates=1
+[18:56:22]   candidate upload_id=5ab68b56c2c55 url=https://prehraj.to/afera-profumo-1989/5ab68b56c2c55
+[18:56:28]   resolved in 6.1s → 720p (https://pf-storage5.premiumcdn.net/3721732/7kJHDXi0YHGKSlLF7JtWziArSybCZ2hw1TleI…)
+[19:05:47]   downloaded 1,331.1 MB in 557.4s (2.4 MB/s)
+[19:07:33]   upload done video_id=26513084 in 105.7s

@@ -81710,6 +81710,25 @@
         "download_sec": 30.2,
         "upload_sec": 38.0
       }
+    },
+    {
+      "cr_film_id": 23073,
+      "cr_slug": "afera-profumo",
+      "title": "Aféra Profumo",
+      "year": 1989,
+      "display_name": "Aféra Profumo (1989)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab68b56c2c55",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26513084,
+      "size_bytes": 1331080180,
+      "uploaded_at": "2026-06-24T19:07:33Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 557.4,
+        "upload_sec": 105.7
+      }
     }
   ],
   "failed_attempts": [
@@ -83138,7 +83157,28 @@
       "reason": "oversize: 7396923930 B",
       "permanent": true,
       "failed_at": "2026-06-24T14:26:53Z"
+    },
+    {
+      "cr_film_id": 30381,
+      "upload_id": "67cb723b536f0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atrakce-svedskeho-zajezdu-1989-cz/67cb723b536f0",
+      "permanent": true,
+      "failed_at": "2026-06-24T18:56:10Z"
+    },
+    {
+      "cr_film_id": 30381,
+      "upload_id": "647350c200151",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atrakce-svedskeho-zajezdu-1989/647350c200151",
+      "permanent": true,
+      "failed_at": "2026-06-24T18:56:16Z"
+    },
+    {
+      "cr_film_id": 30381,
+      "upload_id": "910c8d48ecd8007e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atrakce-svedskeho-zajezdu-1989-cz/910c8d48ecd8007e",
+      "permanent": true,
+      "failed_at": "2026-06-24T18:56:22Z"
     }
   ],
-  "last_updated": "2026-06-24T18:56:07Z"
+  "last_updated": "2026-06-24T19:07:33Z"
 }
