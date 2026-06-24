@@ -66601,6 +66601,25 @@
         "download_sec": 66.1,
         "upload_sec": 75.2
       }
+    },
+    {
+      "cr_film_id": 12847,
+      "cr_slug": "28-dni",
+      "title": "28 dní",
+      "year": 2000,
+      "display_name": "28 dní (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55bc23c5b5444",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26497996,
+      "size_bytes": 539104897,
+      "uploaded_at": "2026-06-24T16:31:38Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.4,
+        "upload_sec": 23.7
+      }
     }
   ],
   "failed_attempts": [
@@ -68793,5 +68812,5 @@
       "failed_at": "2026-06-24T16:19:59Z"
     }
   ],
-  "last_updated": "2026-06-24T16:30:49Z"
+  "last_updated": "2026-06-24T16:31:38Z"
 }
