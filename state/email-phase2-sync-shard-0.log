@@ -30460,3 +30460,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [19:40:56]   upload done video_id=26516305 in 66.7s
 [19:40:59] film cr_film_id=11936 OK in 131.3s
 [19:40:59] batch-end ok=20 failed=0 dur=4141.7s avg/film=207.1s remaining=5732 eta_hours=329.7
+
+===== run 2026-06-24T20:02:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28126045501) =====
+[20:02:19] batch-start shard=0/2 count=20 backlog=10210 uploads=4478 failed_attempts=210 description_overrides=0
+[20:02:19] login
+[20:02:21] login done
+[20:02:21] iteration 1/20
+[20:02:21] film cr_film_id=12540 name='Dragon Ball Z: Bardock - The Father of Goku (1990)' candidates=2
+[20:02:21]   candidate upload_id=66761c498bc2c url=https://prehraj.to/anime-time-dragon-ball-z-special-01-bardock-the-father-of-goku/66761c498bc2c
+[20:02:22]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/79867961/Vywca3Tyqt18cPbSGNS5ATdbu2vSwXH1rt5x…)
+[20:03:14]   downloaded 1,029.8 MB in 49.7s (20.7 MB/s)
+[20:04:10]   upload done video_id=26518474 in 55.8s
