@@ -28740,3 +28740,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [08:47:21]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/3882982/2J0tmdczWT6dI7efq3sQkcyJs17FRqtZBTOyu…)
 [08:47:45]   downloaded 578.8 MB in 22.3s (26.0 MB/s)
 [08:48:12]   upload done video_id=26441376 in 26.6s
+[08:48:13] film cr_film_id=21136 OK in 53.0s
+[08:48:13] iteration 4/20
+[08:48:13] film cr_film_id=30184 name='Čas dluhů (1998)' candidates=1
+[08:48:13]   candidate upload_id=208284e7dfabc76b url=https://prehraj.to/cas-dluhu-1998-cz/208284e7dfabc76b
+[08:48:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cas-dluhu-1998-cz/208284e7dfabc76b (permanent=True)
+[08:48:14] film cr_film_id=30184 all candidates exhausted
+[08:48:14] iteration 5/20
+[08:48:14] film cr_film_id=12664 name='Země dinosaurů 6: Tajemství ještěří skály (1998)' candidates=2
+[08:48:14]   candidate upload_id=585a7674704d4 url=https://prehraj.to/zeme-dinosauru-06-tajemstvi-jesteri-skaly-1998/585a7674704d4
+[08:48:20]   resolved in 6.1s → 480p (https://pf-storage5.premiumcdn.net/1216944/KXpS7gijQFYat6ZuKNH1li8Yuk9UZ6HvZF1xC…)
+[08:48:33]   downloaded 378.6 MB in 12.3s (30.8 MB/s)
+[08:48:48]   upload done video_id=26441474 in 14.9s
