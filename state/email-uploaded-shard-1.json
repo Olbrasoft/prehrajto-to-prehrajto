@@ -64853,6 +64853,25 @@
         "download_sec": 42.3,
         "upload_sec": 42.0
       }
+    },
+    {
+      "cr_film_id": 12591,
+      "cr_slug": "roztomily-clovek",
+      "title": "Roztomilý člověk",
+      "year": 1941,
+      "display_name": "Roztomilý člověk (1941) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6760aafc771e6",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26467560,
+      "size_bytes": 1505295270,
+      "uploaded_at": "2026-06-24T12:16:42Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 65.3,
+        "upload_sec": 123.6
+      }
     }
   ],
   "failed_attempts": [
@@ -67038,5 +67057,5 @@
       "failed_at": "2026-06-24T10:36:21Z"
     }
   ],
-  "last_updated": "2026-06-24T12:13:28Z"
+  "last_updated": "2026-06-24T12:16:42Z"
 }
