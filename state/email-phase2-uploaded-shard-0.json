@@ -80170,6 +80170,25 @@
         "download_sec": 90.5,
         "upload_sec": 93.6
       }
+    },
+    {
+      "cr_film_id": 32238,
+      "cr_slug": "wittgenstein",
+      "title": "Wittgenstein",
+      "year": 1993,
+      "display_name": "Wittgenstein (1993)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55b4c70811f05",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26487451,
+      "size_bytes": 283121378,
+      "uploaded_at": "2026-06-24T14:48:23Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 17.0,
+        "upload_sec": 18.6
+      }
     }
   ],
   "failed_attempts": [
@@ -81671,5 +81690,5 @@
       "failed_at": "2026-06-24T12:41:51Z"
     }
   ],
-  "last_updated": "2026-06-24T14:47:42Z"
+  "last_updated": "2026-06-24T14:48:23Z"
 }
