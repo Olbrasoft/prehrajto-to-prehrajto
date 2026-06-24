@@ -28423,3 +28423,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [07:06:29]   upload done video_id=26428852 in 41.5s
 [07:06:31] film cr_film_id=13120 OK in 84.4s
 [07:06:31] batch-end ok=20 failed=0 dur=2931.4s avg/film=146.6s remaining=6006 eta_hours=244.6
+
+===== run 2026-06-24T07:07:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28081474399) =====
+[07:07:12] batch-start shard=0/2 count=20 backlog=10210 uploads=4204 failed_attempts=202 description_overrides=0
+[07:07:12] login
+[07:07:15] login done
+[07:07:15] iteration 1/20
+[07:07:15] film cr_film_id=33262 name='Iris (2001)' candidates=1
+[07:07:15]   candidate upload_id=5ac34b1c2e7c6 url=https://prehraj.to/iris-2001/5ac34b1c2e7c6
+[07:07:16]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/3818889/nGVipZc7lhWNHMZTrWCN9cKJSGysbdudXSqPU…)
+[07:08:19]   downloaded 1,110.1 MB in 61.4s (18.1 MB/s)
+[07:09:34]   upload done video_id=26429143 in 75.1s
