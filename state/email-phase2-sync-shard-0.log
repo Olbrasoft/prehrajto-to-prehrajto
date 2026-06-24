@@ -27111,3 +27111,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:12:17]   upload done video_id=26382958 in 30.6s
 [01:12:19] film cr_film_id=26454 OK in 61.4s
 [01:12:19] batch-end ok=19 failed=1 dur=1527.2s avg/film=80.4s remaining=6184 eta_hours=138.1
+
+===== run 2026-06-24T01:14:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28068319723) =====
+[01:14:59] batch-start shard=0/2 count=20 backlog=10210 uploads=4026 failed_attempts=199 description_overrides=0
+[01:14:59] login
+[01:15:01] login done
+[01:15:01] iteration 1/20
+[01:15:01] film cr_film_id=34926 name='Frankenstein (2007)' candidates=2
+[01:15:01]   candidate upload_id=66cefe8052bc2 url=https://prehraj.to/frankenstein-2007-dvdrip-cz/66cefe8052bc2
+[01:15:02]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/93108158/LWDhNMi40cMxhpPH6bcYbiPzIE6SZyT5MURv…)
+[01:15:26]   downloaded 417.2 MB in 21.4s (19.5 MB/s)
+[01:15:47]   upload done video_id=26383450 in 21.1s
