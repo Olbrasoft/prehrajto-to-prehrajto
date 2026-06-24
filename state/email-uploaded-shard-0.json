@@ -64426,6 +64426,25 @@
         "download_sec": 39.5,
         "upload_sec": 38.7
       }
+    },
+    {
+      "cr_film_id": 12102,
+      "cr_slug": "romeo-krvaci",
+      "title": "Romeo krvácí",
+      "year": 1993,
+      "display_name": "Romeo krvácí (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e50d5c843eb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26473079,
+      "size_bytes": 730628585,
+      "uploaded_at": "2026-06-24T12:55:10Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 30.6,
+        "upload_sec": 31.6
+      }
     }
   ],
   "failed_attempts": [
@@ -66834,5 +66853,5 @@
       "failed_at": "2026-06-24T06:35:08Z"
     }
   ],
-  "last_updated": "2026-06-24T12:54:03Z"
+  "last_updated": "2026-06-24T12:55:10Z"
 }
