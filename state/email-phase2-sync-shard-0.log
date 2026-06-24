@@ -27607,3 +27607,12 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:15:26]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/710385/LZWFM2UM0H7OTYkUJ2sM0UZDtY3t60C4WhLnCj…)
 [03:15:54]   downloaded 451.5 MB in 26.0s (17.4 MB/s)
 [03:16:22]   upload done video_id=26399057 in 28.2s
+[03:16:25] film cr_film_id=25376 OK in 59.3s
+[03:16:25] iteration 9/20
+[03:16:25] film cr_film_id=30192 name='Malá mořská víla (2005)' candidates=7
+[03:16:25]   candidate upload_id=9b053bb3eb9f0a0f url=https://prehraj.to/mala-morska-vila-1080p-cz/9b053bb3eb9f0a0f
+[03:16:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mala-morska-vila-1080p-cz/9b053bb3eb9f0a0f (permanent=True)
+[03:16:26]   candidate upload_id=68cd9be751304 url=https://prehraj.to/mala-morska-vila/68cd9be751304
+[03:16:33]   resolved in 7.6s → 1080p (https://pf-storage4.premiumcdn.net/147445203/KEnuRbHQRFeytKpHVLCz1HGQfewh1kfn3ho…)
+[03:19:15]   downloaded 3,690.2 MB in 160.0s (23.1 MB/s)
+[03:22:46]   upload done video_id=26399500 in 211.4s

@@ -74850,6 +74850,25 @@
         "download_sec": 26.0,
         "upload_sec": 28.2
       }
+    },
+    {
+      "cr_film_id": 30192,
+      "cr_slug": "mala-morska-vila-2005",
+      "title": "Malá mořská víla",
+      "year": 2005,
+      "display_name": "Malá mořská víla (2005)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68cd9be751304",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26399500,
+      "size_bytes": 3690169030,
+      "uploaded_at": "2026-06-24T03:22:46Z",
+      "timing": {
+        "resolve_sec": 7.6,
+        "download_sec": 160.0,
+        "upload_sec": 211.4
+      }
     }
   ],
   "failed_attempts": [
@@ -76300,7 +76319,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sarlotina-pavucinka/23511d7f55db6eb2",
       "permanent": true,
       "failed_at": "2026-06-24T01:29:19Z"
+    },
+    {
+      "cr_film_id": 30192,
+      "upload_id": "9b053bb3eb9f0a0f",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mala-morska-vila-1080p-cz/9b053bb3eb9f0a0f",
+      "permanent": true,
+      "failed_at": "2026-06-24T03:16:26Z"
     }
   ],
-  "last_updated": "2026-06-24T03:16:22Z"
+  "last_updated": "2026-06-24T03:22:46Z"
 }
