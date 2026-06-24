@@ -22354,3 +22354,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:49:07]   upload done video_id=26395481 in 167.7s
 [02:49:11] film cr_film_id=11480 OK in 791.7s
 [02:49:11] batch-end ok=20 failed=0 dur=5761.0s avg/film=288.1s remaining=14326 eta_hours=1146.5
+
+===== run 2026-06-24T02:49:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28071700208) =====
+[02:49:50] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:49:50] batch-start shard=0/2 count=20 backlog=17650 uploads=3324 failed_attempts=335 description_overrides=17579
+[02:49:50] login
+[02:49:55] login done
+[02:49:55] iteration 1/20
+[02:49:55] film cr_film_id=11482 name='Psycho II (1983) CZ Dabing' candidates=1
+[02:49:55]   candidate upload_id=5b503a941f10a url=https://prehraj.to/psycho-2-horor-cz-dab-1983-jad/5b503a941f10a
+[02:49:56]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/4902420/Wl3tPGFmPiNKCzBfPgF9NFE8Sb6UL3S9Vi6Dc…)
+[02:50:23]   downloaded 526.8 MB in 25.4s (20.7 MB/s)
+[02:50:58]   upload done video_id=26396012 in 34.4s
