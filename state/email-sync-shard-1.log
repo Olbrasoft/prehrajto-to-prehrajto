@@ -24206,3 +24206,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:16:42]   upload done video_id=26467560 in 123.6s
 [12:16:46] film cr_film_id=12591 OK in 196.2s
 [12:16:46] batch-end ok=20 failed=0 dur=2421.9s avg/film=121.1s remaining=14084 eta_hours=473.8
+
+===== run 2026-06-24T12:32:47Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28098697769) =====
+[12:32:49] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:32:49] batch-start shard=1/2 count=20 backlog=17650 uploads=3566 failed_attempts=302 description_overrides=17579
+[12:32:49] login
+[12:32:50] login done
+[12:32:50] iteration 1/20
+[12:32:50] film cr_film_id=12593 name='Rukavička (1941) CZ Dabing' candidates=1
+[12:32:50]   candidate upload_id=622426c83005d url=https://prehraj.to/rukavicka-1941-czdab/622426c83005d
+[12:32:52]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/29955287/ONws7gu42FNbfdrCwEfDquElfeEHvlH9eI6q…)
+[12:35:01]   downloaded 2,404.1 MB in 127.7s (18.8 MB/s)
+[12:37:18]   upload done video_id=26470234 in 136.5s
