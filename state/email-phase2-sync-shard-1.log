@@ -27650,3 +27650,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [03:29:43]   upload done video_id=26400857 in 20.8s
 [03:29:45] film cr_film_id=24909 OK in 43.0s
 [03:29:45] batch-end ok=20 failed=0 dur=1941.0s avg/film=97.0s remaining=6117 eta_hours=164.8
+
+===== run 2026-06-24T03:37:46Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28073395409) =====
+[03:37:48] batch-start shard=1/2 count=20 backlog=10210 uploads=4093 failed_attempts=181 description_overrides=0
+[03:37:48] login
+[03:37:49] login done
+[03:37:49] iteration 1/20
+[03:37:49] film cr_film_id=24879 name='Pollyanna (2003)' candidates=1
+[03:37:49]   candidate upload_id=585281125cc3c url=https://prehraj.to/pollyanna-2003-cz/585281125cc3c
+[03:37:50]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/1177905/PK0tWmTrDilzFV7IO4H4KTMXHrgHalsnACk7i…)
+[03:38:07]   downloaded 359.4 MB in 14.6s (24.6 MB/s)
+[03:38:29]   upload done video_id=26402173 in 22.3s
