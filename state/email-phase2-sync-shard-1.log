@@ -27066,3 +27066,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:14:24]   upload done video_id=26382999 in 143.1s
 [01:14:26] film cr_film_id=13361 OK in 321.3s
 [01:14:26] batch-end ok=20 failed=0 dur=1658.1s avg/film=82.9s remaining=6197 eta_hours=142.7
+
+===== run 2026-06-24T01:14:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28068319723) =====
+[01:15:00] batch-start shard=1/2 count=20 backlog=10210 uploads=4013 failed_attempts=181 description_overrides=0
+[01:15:00] login
+[01:15:01] login done
+[01:15:01] iteration 1/20
+[01:15:01] film cr_film_id=25395 name='V pasti přízraků (2005)' candidates=2
+[01:15:01]   candidate upload_id=58024473a4e8a url=https://prehraj.to/v-pasti-prizraku-horor-2005-cz/58024473a4e8a
+[01:15:03]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/710077/MGrcMaUV3srmCL2T4PUlyUoruWrcQGcMBtjKu4…)
+[01:15:31]   downloaded 480.6 MB in 25.8s (18.6 MB/s)
+[01:15:56]   upload done video_id=26383453 in 25.5s
