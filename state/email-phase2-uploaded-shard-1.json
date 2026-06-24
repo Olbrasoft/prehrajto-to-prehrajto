@@ -73388,6 +73388,25 @@
         "download_sec": 57.5,
         "upload_sec": 68.1
       }
+    },
+    {
+      "cr_film_id": 13361,
+      "cr_slug": "vztekle-tva",
+      "title": "Vztekle tvá",
+      "year": 2005,
+      "display_name": "Vztekle tvá (2005)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "638a10d39ccad",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26382999,
+      "size_bytes": 2679545785,
+      "uploaded_at": "2026-06-24T01:14:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 172.7,
+        "upload_sec": 143.1
+      }
     }
   ],
   "failed_attempts": [
@@ -74727,5 +74746,5 @@
       "failed_at": "2026-06-23T23:14:35Z"
     }
   ],
-  "last_updated": "2026-06-24T01:09:02Z"
+  "last_updated": "2026-06-24T01:14:24Z"
 }
