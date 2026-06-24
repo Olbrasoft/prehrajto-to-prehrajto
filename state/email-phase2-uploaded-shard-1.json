@@ -79354,6 +79354,25 @@
         "download_sec": 19.6,
         "upload_sec": 20.6
       }
+    },
+    {
+      "cr_film_id": 12121,
+      "cr_slug": "tina-turner",
+      "title": "Tina Turner",
+      "year": 1993,
+      "display_name": "Tina Turner (1993)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "58204b1b8f74b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26474306,
+      "size_bytes": 680385480,
+      "uploaded_at": "2026-06-24T13:03:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 31.3,
+        "upload_sec": 33.2
+      }
     }
   ],
   "failed_attempts": [
@@ -80777,5 +80796,5 @@
       "failed_at": "2026-06-24T11:03:26Z"
     }
   ],
-  "last_updated": "2026-06-24T13:02:47Z"
+  "last_updated": "2026-06-24T13:03:57Z"
 }
