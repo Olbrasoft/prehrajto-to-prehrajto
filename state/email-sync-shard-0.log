@@ -24564,3 +24564,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:45:08]   upload done video_id=26493362 in 31.1s
 [15:45:10] film cr_film_id=12304 OK in 55.4s
 [15:45:10] batch-end ok=20 failed=0 dur=2073.0s avg/film=103.7s remaining=14028 eta_hours=404.1
+
+===== run 2026-06-24T16:08:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28112379220) =====
+[16:08:38] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:08:38] batch-start shard=0/2 count=20 backlog=17650 uploads=3622 failed_attempts=340 description_overrides=17579
+[16:08:38] login
+[16:08:40] login done
+[16:08:40] iteration 1/20
+[16:08:40] film cr_film_id=12306 name='Láska a válka (1996) CZ' candidates=2
+[16:08:40]   candidate upload_id=58af04b8d6421 url=https://prehraj.to/laska-a-valka-1996/58af04b8d6421
+[16:08:41]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1742960/qBOurvF07uqgtaOf6RtKrFNqC0eHEnHNBTq3h…)
+[16:09:03]   downloaded 399.2 MB in 19.4s (20.6 MB/s)
+[16:09:27]   upload done video_id=26495693 in 24.2s
