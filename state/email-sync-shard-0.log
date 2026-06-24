@@ -22501,3 +22501,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:50:21]   upload done video_id=26403660 in 38.1s
 [03:50:23] film cr_film_id=11540 OK in 80.4s
 [03:50:23] batch-end ok=20 failed=0 dur=3627.8s avg/film=181.4s remaining=14306 eta_hours=720.9
+
+===== run 2026-06-24T03:51:00Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28073849289) =====
+[03:51:03] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:51:03] batch-start shard=0/2 count=20 backlog=17650 uploads=3344 failed_attempts=335 description_overrides=17579
+[03:51:03] login
+[03:51:05] login done
+[03:51:05] iteration 1/20
+[03:51:05] film cr_film_id=11542 name='Honba za diamantem (1984) CZ Dabing' candidates=27
+[03:51:05]   candidate upload_id=609feff7e7de8 url=https://prehraj.to/honba-za-diamantem-romancing-the-stone-1080p-x264-ac3-cz-dab-1984/609feff7e7de8
+[03:51:06]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/23523450/GJ0uWAip4SgxhL6I3XfMKikOuoXSgKfGEhK8…)
+[03:52:58]   downloaded 2,119.5 MB in 109.6s (19.3 MB/s)
+[03:55:24]   upload done video_id=26404033 in 146.5s
