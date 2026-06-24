@@ -27731,3 +27731,13 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [03:54:47]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/3736965/XwVcoLhaXTw6sG7tweiWxhXxTqaIODTp8iNGf…)
 [03:55:12]   downloaded 639.3 MB in 24.0s (26.6 MB/s)
 [03:55:45]   upload done video_id=26404290 in 32.5s
+[03:55:46] film cr_film_id=24945 OK in 60.5s
+[03:55:46] iteration 12/20
+[03:55:46] film cr_film_id=35069 name='Helen of Troy (2003)' candidates=3
+[03:55:46]   candidate upload_id=6818c713d3383 url=https://prehraj.to/trojska-helena-helen-of-troy-2003-en-cz-sk-1080p-bluray-dts-x264-guacamole/6818c713d3383
+[03:55:47]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/137241071/ZE7h84IOVt2PSLntzlS7OIjes4ZCx3flXUZ…)
+[03:55:49]   oversize: 9009621360 B > 6000000000 B, skip
+[03:55:49]   candidate upload_id=c8f7c9ee7253f495 url=https://prehraj.to/trojska-helena-helen-of-troy-2003-cz-sk-bdrip-hevc-1080p/c8f7c9ee7253f495
+[03:55:53]   resolved in 4.3s → 1080p (https://pf-storage3.premiumcdn.net/163076084/09vcw0FdXtlauemcVRCNZF5miWPhKBIGQcx…)
+[03:58:33]   downloaded 5,825.5 MB in 158.8s (36.7 MB/s)
+[04:02:54]   upload done video_id=26404620 in 261.2s
