@@ -63580,6 +63580,25 @@
         "download_sec": 23.0,
         "upload_sec": 30.0
       }
+    },
+    {
+      "cr_film_id": 12407,
+      "cr_slug": "jednoduchy-plan",
+      "title": "Jednoduchý plán",
+      "year": 1998,
+      "display_name": "Jednoduchý plán (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "1eb1ed43e31d1f19",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26445736,
+      "size_bytes": 629206021,
+      "uploaded_at": "2026-06-24T09:25:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.0,
+        "upload_sec": 43.4
+      }
     }
   ],
   "failed_attempts": [
@@ -65758,5 +65777,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T09:24:33Z"
+  "last_updated": "2026-06-24T09:25:53Z"
 }
