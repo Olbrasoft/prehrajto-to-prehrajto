@@ -62554,6 +62554,25 @@
         "download_sec": 49.8,
         "upload_sec": 68.8
       }
+    },
+    {
+      "cr_film_id": 12251,
+      "cr_slug": "nixon",
+      "title": "Nixon",
+      "year": 1995,
+      "display_name": "Nixon (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6569570513db2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26429238,
+      "size_bytes": 3052539636,
+      "uploaded_at": "2026-06-24T07:12:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 150.9,
+        "upload_sec": 199.3
+      }
     }
   ],
   "failed_attempts": [
@@ -64732,5 +64751,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T07:06:15Z"
+  "last_updated": "2026-06-24T07:12:11Z"
 }
