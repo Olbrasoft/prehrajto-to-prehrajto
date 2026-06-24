@@ -61737,6 +61737,25 @@
         "download_sec": 25.3,
         "upload_sec": 28.6
       }
+    },
+    {
+      "cr_film_id": 12147,
+      "cr_slug": "frankenstein-1994",
+      "title": "Frankenstein",
+      "year": 1994,
+      "display_name": "Frankenstein (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5828c45bc090d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26414899,
+      "size_bytes": 695486713,
+      "uploaded_at": "2026-06-24T05:14:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 26.3,
+        "upload_sec": 28.1
+      }
     }
   ],
   "failed_attempts": [
@@ -63915,5 +63934,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T05:13:38Z"
+  "last_updated": "2026-06-24T05:14:37Z"
 }
