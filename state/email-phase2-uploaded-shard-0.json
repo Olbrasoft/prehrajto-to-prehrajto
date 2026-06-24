@@ -82602,6 +82602,25 @@
         "download_sec": 59.8,
         "upload_sec": 69.5
       }
+    },
+    {
+      "cr_film_id": 32232,
+      "cr_slug": "erik-the-viking",
+      "title": "Erik the Viking",
+      "year": 1989,
+      "display_name": "Erik the Viking (1989)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aa1ca4d09b26",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26530775,
+      "size_bytes": 1612108204,
+      "uploaded_at": "2026-06-24T22:02:14Z",
+      "timing": {
+        "resolve_sec": 2.6,
+        "download_sec": 77.2,
+        "upload_sec": 95.5
+      }
     }
   ],
   "failed_attempts": [
@@ -84124,5 +84143,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T21:59:14Z"
+  "last_updated": "2026-06-24T22:02:14Z"
 }
