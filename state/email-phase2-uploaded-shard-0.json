@@ -72874,6 +72874,25 @@
         "download_sec": 32.2,
         "upload_sec": 36.1
       }
+    },
+    {
+      "cr_film_id": 35568,
+      "cr_slug": "film-73",
+      "title": "どろろ",
+      "year": 2007,
+      "display_name": "どろろ (2007)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5859364f0d1d3",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26375312,
+      "size_bytes": 848022543,
+      "uploaded_at": "2026-06-24T00:13:15Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 31.4,
+        "upload_sec": 35.9
+      }
     }
   ],
   "failed_attempts": [
@@ -74312,5 +74331,5 @@
       "failed_at": "2026-06-24T00:10:46Z"
     }
   ],
-  "last_updated": "2026-06-24T00:12:03Z"
+  "last_updated": "2026-06-24T00:13:15Z"
 }
