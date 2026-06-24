@@ -30314,3 +30314,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [18:17:23]   resolved in 1.6s → 480p (https://pf-storage5.premiumcdn.net/809365/3G2syLIVpc16sjlT6qtknIMEiZNfy6tmdhq3Cg…)
 [18:23:49]   downloaded 212.5 MB in 383.8s (0.6 MB/s)
 [18:24:07]   upload done video_id=26509091 in 17.7s
+
+===== run 2026-06-24T18:31:56Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28120856263) =====
+[18:31:56] batch-start shard=0/2 count=20 backlog=10210 uploads=4458 failed_attempts=210 description_overrides=0
+[18:31:56] login
+[18:31:58] login done
+[18:31:58] iteration 1/20
+[18:31:58] film cr_film_id=35486 name='Sny Akiry Kurosawy (1990)' candidates=1
+[18:31:58]   candidate upload_id=55b625c78c9b0 url=https://prehraj.to/akira-kurosawa-s-dreams-yume-1990-cd-1/55b625c78c9b0
+[18:31:59]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/32298/2Dji8ohjMIYzc1YUbvIXrhWKi8Nua6IQ9Id2cwW…)
+[18:32:32]   downloaded 520.1 MB in 31.6s (16.5 MB/s)
+[18:33:01]   upload done video_id=26510036 in 29.5s
