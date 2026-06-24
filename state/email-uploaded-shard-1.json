@@ -67950,6 +67950,25 @@
         "download_sec": 104.2,
         "upload_sec": 95.4
       }
+    },
+    {
+      "cr_film_id": 13043,
+      "cr_slug": "the-trip",
+      "title": "The Trip",
+      "year": 2002,
+      "display_name": "The Trip (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5591605d721ab",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26527812,
+      "size_bytes": 457967079,
+      "uploaded_at": "2026-06-24T21:33:56Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 24.3,
+        "upload_sec": 33.2
+      }
     }
   ],
   "failed_attempts": [
@@ -70142,5 +70161,5 @@
       "failed_at": "2026-06-24T16:19:59Z"
     }
   ],
-  "last_updated": "2026-06-24T21:32:52Z"
+  "last_updated": "2026-06-24T21:33:56Z"
 }
