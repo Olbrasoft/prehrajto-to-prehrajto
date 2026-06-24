@@ -26823,3 +26823,19 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [00:05:04]   upload done video_id=26374202 in 38.5s
 [00:05:06] film cr_film_id=26240 OK in 65.3s
 [00:05:06] batch-end ok=20 failed=0 dur=1270.8s avg/film=63.5s remaining=6222 eta_hours=109.7
+
+===== run 2026-06-24T00:10:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28065854155) =====
+[00:10:44] batch-start shard=0/2 count=20 backlog=10210 uploads=3988 failed_attempts=197 description_overrides=0
+[00:10:44] login
+[00:10:45] login done
+[00:10:45] iteration 1/20
+[00:10:45] film cr_film_id=30020 name='A zase jedna Popelka (2008)' candidates=1
+[00:10:45]   candidate upload_id=f9666e0ca3ac4ff3 url=https://prehraj.to/a-zase-jedna-popelka-another-cinderella-story-2008-tvrip/f9666e0ca3ac4ff3
+[00:10:46]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/a-zase-jedna-popelka-another-cinderella-story-2008-tvrip/f9666e0ca3ac4ff3 (permanent=True)
+[00:10:46] film cr_film_id=30020 all candidates exhausted
+[00:10:46] iteration 2/20
+[00:10:46] film cr_film_id=32792 name='궁녀 (2007)' candidates=1
+[00:10:46]   candidate upload_id=58739eed06d8b url=https://prehraj.to/shadows-in-the-palace-goongnyeo-2007-jk/58739eed06d8b
+[00:10:53]   resolved in 6.5s → 480p (https://pf-storage2.premiumcdn.net/1395184/4mot3EszeSPyHNwfWeFbEsQetLlfdkhP7uYXI…)
+[00:11:26]   downloaded 865.7 MB in 32.2s (26.9 MB/s)
+[00:12:03]   upload done video_id=26375182 in 36.1s
