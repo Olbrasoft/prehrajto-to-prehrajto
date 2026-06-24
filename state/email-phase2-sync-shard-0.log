@@ -27255,3 +27255,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:43:50]   upload done video_id=26387060 in 81.7s
 [01:43:52] film cr_film_id=25322 OK in 151.0s
 [01:43:52] batch-end ok=19 failed=1 dur=1731.6s avg/film=91.1s remaining=6165 eta_hours=156.0
+
+===== run 2026-06-24T01:49:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28069578198) =====
+[01:49:29] batch-start shard=0/2 count=20 backlog=10210 uploads=4045 failed_attempts=200 description_overrides=0
+[01:49:29] login
+[01:49:30] login done
+[01:49:30] iteration 1/20
+[01:49:30] film cr_film_id=36608 name='Světák (2006)' candidates=2
+[01:49:30]   candidate upload_id=1364bb94e57112f7 url=https://prehraj.to/potopa-sveta/1364bb94e57112f7
+[01:49:32]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/161397656/qBGTZRivOcWrtKVi1pIgkivQFlbcRotlvuo…)
+[01:50:49]   downloaded 1,456.5 MB in 75.2s (19.4 MB/s)
+[01:52:27]   upload done video_id=26388140 in 98.2s
