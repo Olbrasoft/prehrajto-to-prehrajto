@@ -22586,3 +22586,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:54:12]   upload done video_id=26388468 in 52.1s
 [01:54:16] film cr_film_id=11987 OK in 108.3s
 [01:54:16] batch-end ok=20 failed=0 dur=2467.1s avg/film=123.4s remaining=14304 eta_hours=490.3
+
+===== run 2026-06-24T02:49:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28071700208) =====
+[02:49:51] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:49:51] batch-start shard=1/2 count=20 backlog=17650 uploads=3346 failed_attempts=301 description_overrides=17579
+[02:49:51] login
+[02:49:56] login done
+[02:49:56] iteration 1/20
+[02:49:56] film cr_film_id=11989 name='Thelma a Louise (1991) CZ Dabing' candidates=1
+[02:49:56]   candidate upload_id=abb2321ba6a80b31 url=https://prehraj.to/thelma-a-louise-1991-cz-dab-300p/abb2321ba6a80b31
+[02:49:57]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/167661557/ajdIaxsGohZRfjaixWFZ3sBnCNKH7WhJ1TK…)
+[02:50:29]   downloaded 654.0 MB in 30.6s (21.4 MB/s)
+[02:51:08]   upload done video_id=26396031 in 38.1s
