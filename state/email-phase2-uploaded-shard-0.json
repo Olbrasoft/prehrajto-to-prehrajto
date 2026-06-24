@@ -81310,6 +81310,25 @@
         "download_sec": 23.5,
         "upload_sec": 35.2
       }
+    },
+    {
+      "cr_film_id": 33798,
+      "cr_slug": "operace-zralok",
+      "title": "Operace Žralok",
+      "year": 1991,
+      "display_name": "Operace Žralok (1991)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "66ad5b9f757f8",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26501980,
+      "size_bytes": 545155142,
+      "uploaded_at": "2026-06-24T17:11:22Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 47.6,
+        "upload_sec": 26.1
+      }
     }
   ],
   "failed_attempts": [
@@ -82825,5 +82844,5 @@
       "failed_at": "2026-06-24T15:20:25Z"
     }
   ],
-  "last_updated": "2026-06-24T17:10:03Z"
+  "last_updated": "2026-06-24T17:11:22Z"
 }
