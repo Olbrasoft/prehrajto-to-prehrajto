@@ -23174,3 +23174,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:25:33]   upload done video_id=26423782 in 112.3s
 [06:25:36] film cr_film_id=12209 OK in 219.3s
 [06:25:36] batch-end ok=20 failed=0 dur=3168.4s avg/film=158.4s remaining=14224 eta_hours=625.9
+
+===== run 2026-06-24T06:27:20Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28079688510) =====
+[06:27:22] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:27:22] batch-start shard=1/2 count=20 backlog=17650 uploads=3426 failed_attempts=301 description_overrides=17579
+[06:27:22] login
+[06:27:24] login done
+[06:27:24] iteration 1/20
+[06:27:24] film cr_film_id=12211 name='Madisonské mosty (1995) CZ Dabing' candidates=3
+[06:27:24]   candidate upload_id=564b601a1f208 url=https://prehraj.to/madisonske-mosty-1995-cz-dab-romant-drama-p-p/564b601a1f208
+[06:27:25]   resolved in 1.6s → 480p (https://pf-storage4.premiumcdn.net/325046/9NnHLVhw9Ix9U8EigXTRQhMeCa7I8BfLdcZOt9…)
+[06:28:06]   downloaded 875.0 MB in 38.1s (23.0 MB/s)
+[06:28:53]   upload done video_id=26424339 in 47.2s
