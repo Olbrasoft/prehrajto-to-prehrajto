@@ -82166,6 +82166,25 @@
         "download_sec": 162.6,
         "upload_sec": 136.6
       }
+    },
+    {
+      "cr_film_id": 22935,
+      "cr_slug": "roxana",
+      "title": "Roxana",
+      "year": 1987,
+      "display_name": "Roxana (1987)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac7d91e7a0cd",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26524928,
+      "size_bytes": 497166486,
+      "uploaded_at": "2026-06-24T21:06:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 249.0,
+        "upload_sec": 40.0
+      }
     }
   ],
   "failed_attempts": [
@@ -83617,5 +83636,5 @@
       "failed_at": "2026-06-24T18:56:22Z"
     }
   ],
-  "last_updated": "2026-06-24T21:01:22Z"
+  "last_updated": "2026-06-24T21:06:17Z"
 }
