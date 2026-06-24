@@ -65423,6 +65423,25 @@
         "download_sec": 106.0,
         "upload_sec": 146.0
       }
+    },
+    {
+      "cr_film_id": 12671,
+      "cr_slug": "diva-bara",
+      "title": "Divá Bára",
+      "year": 1949,
+      "display_name": "Divá Bára (1949) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "59b75ef0d5c2c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26481439,
+      "size_bytes": 494979551,
+      "uploaded_at": "2026-06-24T13:59:41Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.3,
+        "upload_sec": 28.8
+      }
     }
   ],
   "failed_attempts": [
@@ -67608,5 +67627,5 @@
       "failed_at": "2026-06-24T10:36:21Z"
     }
   ],
-  "last_updated": "2026-06-24T13:58:39Z"
+  "last_updated": "2026-06-24T13:59:41Z"
 }
