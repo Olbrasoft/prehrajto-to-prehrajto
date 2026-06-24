@@ -78442,6 +78442,25 @@
         "download_sec": 45.4,
         "upload_sec": 56.9
       }
+    },
+    {
+      "cr_film_id": 12253,
+      "cr_slug": "posledni-presun",
+      "title": "Poslední přesun",
+      "year": 1995,
+      "display_name": "Poslední přesun (1995)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5857df9d4c02c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26455134,
+      "size_bytes": 958894065,
+      "uploaded_at": "2026-06-24T10:41:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 35.6,
+        "upload_sec": 43.7
+      }
     }
   ],
   "failed_attempts": [
@@ -79858,5 +79877,5 @@
       "failed_at": "2026-06-24T09:57:48Z"
     }
   ],
-  "last_updated": "2026-06-24T10:39:48Z"
+  "last_updated": "2026-06-24T10:41:12Z"
 }
