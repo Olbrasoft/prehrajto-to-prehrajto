@@ -82127,6 +82127,25 @@
         "download_sec": 24.8,
         "upload_sec": 24.6
       }
+    },
+    {
+      "cr_film_id": 35340,
+      "cr_slug": "hardware",
+      "title": "Hardware",
+      "year": 1990,
+      "display_name": "Hardware (1990)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab871d0bd454",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26516160,
+      "size_bytes": 801191559,
+      "uploaded_at": "2026-06-24T19:38:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.0,
+        "upload_sec": 37.4
+      }
     }
   ],
   "failed_attempts": [
@@ -83649,5 +83668,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T19:37:40Z"
+  "last_updated": "2026-06-24T19:38:46Z"
 }
