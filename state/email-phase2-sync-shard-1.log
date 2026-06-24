@@ -29698,3 +29698,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [14:43:40]   upload done video_id=26486901 in 26.7s
 [14:43:42] film cr_film_id=12021 OK in 53.5s
 [14:43:42] batch-end ok=20 failed=0 dur=1602.3s avg/film=80.1s remaining=5843 eta_hours=130.0
+
+===== run 2026-06-24T15:00:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28108009275) =====
+[15:00:46] batch-start shard=1/2 count=20 backlog=10210 uploads=4367 failed_attempts=194 description_overrides=0
+[15:00:46] login
+[15:00:48] login done
+[15:00:48] iteration 1/20
+[15:00:48] film cr_film_id=23261 name='Bob Roberts (1992)' candidates=1
+[15:00:48]   candidate upload_id=5855d5d6e7d0d url=https://prehraj.to/bob-roberts-1992-tvrip-cz/5855d5d6e7d0d
+[15:00:49]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/1189645/57xhN8SMgcaDH2bUz7cXDSp8TKxSMYIebsepH…)
+[15:01:29]   downloaded 754.2 MB in 38.1s (19.8 MB/s)
+[15:02:17]   upload done video_id=26488913 in 48.1s
