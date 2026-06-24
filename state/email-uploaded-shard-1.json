@@ -66145,6 +66145,25 @@
         "download_sec": 50.4,
         "upload_sec": 41.0
       }
+    },
+    {
+      "cr_film_id": 12789,
+      "cr_slug": "zelena-vlna",
+      "title": "Zelená vlna",
+      "year": 1982,
+      "display_name": "Zelená vlna (1982) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "65c19040cf638",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26492233,
+      "size_bytes": 891400965,
+      "uploaded_at": "2026-06-24T15:34:41Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 126.9,
+        "upload_sec": 51.5
+      }
     }
   ],
   "failed_attempts": [
@@ -68330,5 +68349,5 @@
       "failed_at": "2026-06-24T10:36:21Z"
     }
   ],
-  "last_updated": "2026-06-24T15:31:37Z"
+  "last_updated": "2026-06-24T15:34:41Z"
 }
