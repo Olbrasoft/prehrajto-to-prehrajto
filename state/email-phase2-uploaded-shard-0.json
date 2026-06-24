@@ -81614,6 +81614,25 @@
         "download_sec": 19.9,
         "upload_sec": 20.6
       }
+    },
+    {
+      "cr_film_id": 9740,
+      "cr_slug": "critters-3",
+      "title": "Critters 3",
+      "year": 1991,
+      "display_name": "Critters 3 (1991)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68928318b030d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26505604,
+      "size_bytes": 3559979294,
+      "uploaded_at": "2026-06-24T17:50:44Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 180.4,
+        "upload_sec": 171.5
+      }
     }
   ],
   "failed_attempts": [
@@ -83136,5 +83155,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T17:44:47Z"
+  "last_updated": "2026-06-24T17:50:44Z"
 }
