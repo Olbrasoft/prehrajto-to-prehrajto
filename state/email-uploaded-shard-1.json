@@ -63105,6 +63105,25 @@
         "download_sec": 26.0,
         "upload_sec": 37.3
       }
+    },
+    {
+      "cr_film_id": 12333,
+      "cr_slug": "spaci",
+      "title": "Spáči",
+      "year": 1996,
+      "display_name": "Spáči (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e8427c1dcdd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26437073,
+      "size_bytes": 613213442,
+      "uploaded_at": "2026-06-24T08:13:24Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 33.3,
+        "upload_sec": 40.8
+      }
     }
   ],
   "failed_attempts": [
@@ -65283,5 +65302,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T08:12:03Z"
+  "last_updated": "2026-06-24T08:13:24Z"
 }
