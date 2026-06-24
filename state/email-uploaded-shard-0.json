@@ -60854,6 +60854,25 @@
         "download_sec": 41.8,
         "upload_sec": 44.4
       }
+    },
+    {
+      "cr_film_id": 11594,
+      "cr_slug": "stribrna-kulka",
+      "title": "Stříbrná kulka",
+      "year": 1985,
+      "display_name": "Stříbrná kulka (1985) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60926aa035565",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26411193,
+      "size_bytes": 522322078,
+      "uploaded_at": "2026-06-24T04:46:24Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.8,
+        "upload_sec": 52.9
+      }
     }
   ],
   "failed_attempts": [
@@ -63236,5 +63255,5 @@
       "failed_at": "2026-06-24T00:37:03Z"
     }
   ],
-  "last_updated": "2026-06-24T04:44:54Z"
+  "last_updated": "2026-06-24T04:46:24Z"
 }
