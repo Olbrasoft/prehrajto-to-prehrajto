@@ -29173,3 +29173,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:02:32]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/1168815/ykgtw2TwQF7EFEQIVyCVdTx3svOtW7sy9CZOf…)
 [11:02:55]   downloaded 567.0 MB in 21.5s (26.4 MB/s)
 [11:03:23]   upload done video_id=26458014 in 27.5s
+[11:03:25] film cr_film_id=32545 OK in 53.9s
+[11:03:25] iteration 9/20
+[11:03:25] film cr_film_id=12193 name='Star Trek: Generations (1994)' candidates=1
+[11:03:25]   candidate upload_id=633b784584e76 url=https://prehraj.to/star-trek-7-vii-generations-generace-1994-hd-1080p-ang-cz/633b784584e76
+[11:03:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/star-trek-7-vii-generations-generace-1994-hd-1080p-ang-cz/633b784584e76 (permanent=True)
+[11:03:26] film cr_film_id=12193 all candidates exhausted
+[11:03:26] iteration 10/20
+[11:03:26] film cr_film_id=23461 name='Rockeři (1994)' candidates=1
+[11:03:26]   candidate upload_id=5aa552a9e3d66 url=https://prehraj.to/rockeri-1994/5aa552a9e3d66
+[11:03:32]   resolved in 5.9s → 480p (https://pf-storage1.premiumcdn.net/3600721/GmJTN6HDjC6xULkI8VC2PHd6C4KSwvuMeCdPC…)
+[11:03:58]   downloaded 823.2 MB in 24.8s (33.2 MB/s)
+[11:05:28]   upload done video_id=26458082 in 89.8s
