@@ -80379,6 +80379,25 @@
         "download_sec": 25.4,
         "upload_sec": 46.9
       }
+    },
+    {
+      "cr_film_id": 33186,
+      "cr_slug": "posledni-psanec",
+      "title": "Poslední psanec",
+      "year": 1993,
+      "display_name": "Poslední psanec (1993)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab62ecf919d0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26489413,
+      "size_bytes": 960206512,
+      "uploaded_at": "2026-06-24T15:07:22Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 35.1,
+        "upload_sec": 50.5
+      }
     }
   ],
   "failed_attempts": [
@@ -81880,5 +81899,5 @@
       "failed_at": "2026-06-24T12:41:51Z"
     }
   ],
-  "last_updated": "2026-06-24T15:05:53Z"
+  "last_updated": "2026-06-24T15:07:22Z"
 }
