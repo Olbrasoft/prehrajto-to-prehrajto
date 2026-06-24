@@ -74964,6 +74964,25 @@
         "download_sec": 30.3,
         "upload_sec": 32.4
       }
+    },
+    {
+      "cr_film_id": 17822,
+      "cr_slug": "grizzly-man",
+      "title": "Grizzly Man",
+      "year": 2005,
+      "display_name": "Grizzly Man (2005)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "583825f896960",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26400964,
+      "size_bytes": 1479145242,
+      "uploaded_at": "2026-06-24T03:31:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 80.1,
+        "upload_sec": 88.8
+      }
     }
   ],
   "failed_attempts": [
@@ -76423,5 +76442,5 @@
       "failed_at": "2026-06-24T03:16:26Z"
     }
   ],
-  "last_updated": "2026-06-24T03:28:33Z"
+  "last_updated": "2026-06-24T03:31:27Z"
 }
