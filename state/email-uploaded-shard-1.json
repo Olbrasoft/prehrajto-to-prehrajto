@@ -63998,6 +63998,25 @@
         "download_sec": 83.3,
         "upload_sec": 103.9
       }
+    },
+    {
+      "cr_film_id": 12473,
+      "cr_slug": "laska-pres-internet",
+      "title": "Láska přes internet",
+      "year": 1998,
+      "display_name": "Láska přes internet (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55d6512b2b6b3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26454619,
+      "size_bytes": 681929373,
+      "uploaded_at": "2026-06-24T10:37:39Z",
+      "timing": {
+        "resolve_sec": 4.5,
+        "download_sec": 32.4,
+        "upload_sec": 38.8
+      }
     }
   ],
   "failed_attempts": [
@@ -66174,7 +66193,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/vice-academy-1989-cz-dab-1080p-mp4/7717220b1e6da0c7",
       "permanent": true,
       "failed_at": "2026-06-23T22:57:57Z"
+    },
+    {
+      "cr_film_id": 12473,
+      "upload_id": "6202cc0ee6f93",
+      "reason": "oversize: 6359991831 B",
+      "permanent": true,
+      "failed_at": "2026-06-24T10:36:21Z"
     }
   ],
-  "last_updated": "2026-06-24T10:36:15Z"
+  "last_updated": "2026-06-24T10:37:39Z"
 }
