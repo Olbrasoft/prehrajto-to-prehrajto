@@ -63884,6 +63884,25 @@
         "download_sec": 123.5,
         "upload_sec": 153.4
       }
+    },
+    {
+      "cr_film_id": 12453,
+      "cr_slug": "dablovo-dite",
+      "title": "Ďáblovo dítě",
+      "year": 1997,
+      "display_name": "Ďáblovo dítě (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65e1bae6e742d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26452647,
+      "size_bytes": 929429322,
+      "uploaded_at": "2026-06-24T10:22:58Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 50.0,
+        "upload_sec": 70.0
+      }
     }
   ],
   "failed_attempts": [
@@ -66062,5 +66081,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T10:20:52Z"
+  "last_updated": "2026-06-24T10:22:58Z"
 }
