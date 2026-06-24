@@ -73482,6 +73482,25 @@
         "download_sec": 42.3,
         "upload_sec": 48.9
       }
+    },
+    {
+      "cr_film_id": 25984,
+      "cr_slug": "helvetica",
+      "title": "Helvetica",
+      "year": 2007,
+      "display_name": "Helvetica (2007)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "58516977a5384",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26382395,
+      "size_bytes": 407023301,
+      "uploaded_at": "2026-06-24T01:07:32Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 23.8,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -74920,5 +74939,5 @@
       "failed_at": "2026-06-24T00:10:46Z"
     }
   ],
-  "last_updated": "2026-06-24T01:06:32Z"
+  "last_updated": "2026-06-24T01:07:32Z"
 }
