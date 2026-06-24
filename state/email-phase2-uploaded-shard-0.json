@@ -73634,6 +73634,25 @@
         "download_sec": 40.1,
         "upload_sec": 33.7
       }
+    },
+    {
+      "cr_film_id": 26072,
+      "cr_slug": "el-greco",
+      "title": "El Greco",
+      "year": 2007,
+      "display_name": "El Greco (2007)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5882a47f24613",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26383905,
+      "size_bytes": 616448975,
+      "uploaded_at": "2026-06-24T01:19:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 29.6,
+        "upload_sec": 33.0
+      }
     }
   ],
   "failed_attempts": [
@@ -75079,5 +75098,5 @@
       "failed_at": "2026-06-24T01:08:51Z"
     }
   ],
-  "last_updated": "2026-06-24T01:18:10Z"
+  "last_updated": "2026-06-24T01:19:18Z"
 }
