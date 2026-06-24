@@ -63172,6 +63172,25 @@
         "download_sec": 147.6,
         "upload_sec": 42.3
       }
+    },
+    {
+      "cr_film_id": 11926,
+      "cr_slug": "zelenac",
+      "title": "Zelenáč",
+      "year": 1990,
+      "display_name": "Zelenáč (1990) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5820f5ac1be3f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26449518,
+      "size_bytes": 502889897,
+      "uploaded_at": "2026-06-24T09:58:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.7,
+        "upload_sec": 26.8
+      }
     }
   ],
   "failed_attempts": [
@@ -65580,5 +65599,5 @@
       "failed_at": "2026-06-24T06:35:08Z"
     }
   ],
-  "last_updated": "2026-06-24T09:57:15Z"
+  "last_updated": "2026-06-24T09:58:08Z"
 }
