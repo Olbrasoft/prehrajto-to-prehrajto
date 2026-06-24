@@ -29549,3 +29549,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:46:23]   upload done video_id=26479997 in 32.3s
 [13:46:26] film cr_film_id=23355 OK in 66.0s
 [13:46:26] batch-end ok=20 failed=0 dur=2502.7s avg/film=125.1s remaining=5863 eta_hours=203.7
+
+===== run 2026-06-24T14:16:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28105119395) =====
+[14:16:58] batch-start shard=1/2 count=20 backlog=10210 uploads=4347 failed_attempts=193 description_overrides=0
+[14:16:58] login
+[14:17:00] login done
+[14:17:00] iteration 1/20
+[14:17:00] film cr_film_id=23351 name='Bad Boy Bubby (1993)' candidates=1
+[14:17:00]   candidate upload_id=5845de8730664 url=https://prehraj.to/bad-boy-bubby-1993-cz-tit/5845de8730664
+[14:17:01]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/1024952/MJWHxgczwImqup9imxSBEcmzhGEHMQizLi2Ef…)
+[14:17:28]   downloaded 699.7 MB in 25.9s (27.0 MB/s)
+[14:18:04]   upload done video_id=26483675 in 36.2s
