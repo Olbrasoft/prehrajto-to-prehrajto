@@ -25449,3 +25449,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:01:57]   upload done video_id=26536864 in 83.1s
 [23:01:59] film cr_film_id=12640 OK in 140.7s
 [23:01:59] batch-end ok=20 failed=0 dur=2107.8s avg/film=105.4s remaining=13910 eta_hours=407.3
+
+===== run 2026-06-24T23:02:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28135195532) =====
+[23:02:33] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:02:33] batch-start shard=0/2 count=20 backlog=17650 uploads=3740 failed_attempts=345 description_overrides=17579
+[23:02:33] login
+[23:02:34] login done
+[23:02:34] iteration 1/20
+[23:02:34] film cr_film_id=12642 name='Dálnice 60 (2002) CZ Dabing' candidates=2
+[23:02:34]   candidate upload_id=582105f436216 url=https://prehraj.to/interstate-60-dalnice-60-cz-dabing-2002/582105f436216
+[23:02:35]   resolved in 0.8s → 480p (https://pf-storage4.premiumcdn.net/812271/0NPfgvCRVu5Gt17hqLh23Cd6fMeuEaCj4c2BSj…)
+[23:03:03]   downloaded 944.1 MB in 26.6s (35.5 MB/s)
+[23:03:44]   upload done video_id=26537085 in 40.8s
