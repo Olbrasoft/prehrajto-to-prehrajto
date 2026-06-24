@@ -25153,3 +25153,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:23:33]   upload done video_id=26526588 in 106.4s
 [21:23:35] film cr_film_id=12530 OK in 423.8s
 [21:23:35] batch-end ok=20 failed=0 dur=3188.0s avg/film=159.4s remaining=13950 eta_hours=617.7
+
+===== run 2026-06-24T21:24:17Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28130547031) =====
+[21:24:19] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:24:19] batch-start shard=0/2 count=20 backlog=17650 uploads=3700 failed_attempts=344 description_overrides=17579
+[21:24:19] login
+[21:24:21] login done
+[21:24:21] iteration 1/20
+[21:24:21] film cr_film_id=12532 name='Zralé víno (1981) CZ Dabing' candidates=7
+[21:24:21]   candidate upload_id=3a48a4ca9dc17565 url=https://prehraj.to/zrale-vino-1981-czdabing/3a48a4ca9dc17565
+[21:24:22]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/165644849/6e0t3Esv4SQ1IWqt6kI6EswvilOC1pHNJf5…)
+[21:26:51]   downloaded 2,050.3 MB in 146.8s (14.0 MB/s)
+[21:30:06]   upload done video_id=26527108 in 195.0s
