@@ -25300,3 +25300,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:26:10]   upload done video_id=26533217 in 35.4s
 [22:26:12] film cr_film_id=12580 OK in 67.9s
 [22:26:12] batch-end ok=20 failed=0 dur=3711.8s avg/film=185.6s remaining=13930 eta_hours=718.2
+
+===== run 2026-06-24T22:26:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28133614761) =====
+[22:26:49] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:26:49] batch-start shard=0/2 count=20 backlog=17650 uploads=3720 failed_attempts=344 description_overrides=17579
+[22:26:49] login
+[22:26:51] login done
+[22:26:51] iteration 1/20
+[22:26:51] film cr_film_id=12582 name='Pod jednou střechou (1938) CZ' candidates=1
+[22:26:51]   candidate upload_id=5ac3a8eee2937 url=https://prehraj.to/pod-jednou-strechou-1938/5ac3a8eee2937
+[22:26:52]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/3820340/LvEsejUNAU6gCEkcxlh3EUjVfBAIN4iQgcBqi…)
+[22:27:18]   downloaded 492.7 MB in 24.4s (20.2 MB/s)
+[22:27:42]   upload done video_id=26533374 in 24.1s
