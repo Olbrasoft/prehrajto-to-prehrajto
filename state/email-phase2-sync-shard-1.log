@@ -30578,3 +30578,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [21:48:49]   upload done video_id=26529466 in 46.6s
 [21:48:52] film cr_film_id=36603 OK in 104.9s
 [21:48:52] batch-end ok=19 failed=1 dur=6393.2s avg/film=336.5s remaining=5725 eta_hours=535.1
+
+===== run 2026-06-24T21:49:33Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28131852938) =====
+[21:49:34] batch-start shard=1/2 count=20 backlog=10210 uploads=4485 failed_attempts=199 description_overrides=0
+[21:49:34] login
+[21:49:35] login done
+[21:49:35] iteration 1/20
+[21:49:35] film cr_film_id=11635 name='Zátah (1986)' candidates=1
+[21:49:35]   candidate upload_id=5aa620ff3d008 url=https://prehraj.to/zatah-1985/5aa620ff3d008
+[21:49:36]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/3609667/el9IW0iMEF0ofr5hyJF74i9qSMjhLEh5ZcEah…)
+[21:50:09]   downloaded 541.1 MB in 30.8s (17.6 MB/s)
+[21:50:41]   upload done video_id=26529670 in 32.1s
