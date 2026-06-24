@@ -25551,3 +25551,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:27:32]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/9944201/6yjSoKhBzukyuelSMJf8mhdmHjkUZJCeBu7PU…)
 [22:27:51]   downloaded 469.6 MB in 16.6s (28.3 MB/s)
 [22:28:16]   upload done video_id=26533383 in 24.9s
+[22:28:17] film cr_film_id=13105 OK in 45.9s
+[22:28:17] iteration 3/20
+[22:28:17] film cr_film_id=13107 name='Štvanec (2003) CZ Dabing' candidates=1
+[22:28:17]   candidate upload_id=c5fbcd548aa275a4 url=https://prehraj.to/stvanec-2003-czdab/c5fbcd548aa275a4
+[22:28:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/stvanec-2003-czdab/c5fbcd548aa275a4 (permanent=True)
+[22:28:18] film cr_film_id=13107 all candidates exhausted
+[22:28:18] iteration 4/20
+[22:28:18] film cr_film_id=13109 name='Šílený rande (2003) CZ Dabing' candidates=9
+[22:28:18]   candidate upload_id=58211e6e434cf url=https://prehraj.to/sileny-rande-my-boss-s-daughter-cz-dabing-2003/58211e6e434cf
+[22:28:24]   resolved in 6.0s → 480p (https://pf-storage2.premiumcdn.net/812595/QjaiKZUgkCPRTdacWqS0rUxaIJrtQ6HmgfgBIz…)
+[22:28:45]   downloaded 447.4 MB in 19.6s (22.8 MB/s)
+[22:29:14]   upload done video_id=26533474 in 28.8s
