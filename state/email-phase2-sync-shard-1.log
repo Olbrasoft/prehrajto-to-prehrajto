@@ -28685,3 +28685,12 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [08:47:57]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/127175009/z4dc83smxTG5C2MHjYUvzszyUlLSrXtvPT1…)
 [08:48:25]   downloaded 518.5 MB in 25.6s (20.3 MB/s)
 [08:48:57]   upload done video_id=26441452 in 31.8s
+[08:48:59] film cr_film_id=21161 OK in 63.3s
+[08:48:59] iteration 3/20
+[08:48:59] film cr_film_id=951 name='Jackie Brownová (1997)' candidates=3
+[08:48:59]   candidate upload_id=690496220f781 url=https://prehraj.to/jackie-brown-1997-fhd-1080p-cz-531/690496220f781
+[08:49:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jackie-brown-1997-fhd-1080p-cz-531/690496220f781 (permanent=True)
+[08:49:00]   candidate upload_id=65fb0aa736dac url=https://prehraj.to/jackie-brownova-jackie-brown-1997-by-ugare/65fb0aa736dac
+[08:49:06]   resolved in 6.1s → 480p (https://pf-storage4.premiumcdn.net/74960789/GAOFJyTP0UxmUeWFnKcjATMZt0jtwrFQjtnL…)
+[08:49:46]   downloaded 836.2 MB in 38.6s (21.7 MB/s)
+[08:50:48]   upload done video_id=26441590 in 61.8s
