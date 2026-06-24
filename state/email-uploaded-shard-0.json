@@ -66117,6 +66117,25 @@
         "download_sec": 77.4,
         "upload_sec": 97.6
       }
+    },
+    {
+      "cr_film_id": 12364,
+      "cr_slug": "dr-dolittle",
+      "title": "Dr. Dolittle",
+      "year": 1998,
+      "display_name": "Dr. Dolittle (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "605b7ff396316",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26501195,
+      "size_bytes": 2363071766,
+      "uploaded_at": "2026-06-24T17:04:44Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 111.9,
+        "upload_sec": 133.9
+      }
     }
   ],
   "failed_attempts": [
@@ -68560,5 +68579,5 @@
       "failed_at": "2026-06-24T16:10:45Z"
     }
   ],
-  "last_updated": "2026-06-24T16:59:49Z"
+  "last_updated": "2026-06-24T17:04:44Z"
 }
