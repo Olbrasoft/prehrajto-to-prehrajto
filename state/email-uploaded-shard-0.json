@@ -63343,6 +63343,25 @@
         "download_sec": 23.3,
         "upload_sec": 23.3
       }
+    },
+    {
+      "cr_film_id": 11948,
+      "cr_slug": "hledam-misto",
+      "title": "Hledám místo",
+      "year": 1991,
+      "display_name": "Hledám místo (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6066235797dc8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26452294,
+      "size_bytes": 470249630,
+      "uploaded_at": "2026-06-24T10:19:47Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 23.9,
+        "upload_sec": 29.9
+      }
     }
   ],
   "failed_attempts": [
@@ -65751,5 +65770,5 @@
       "failed_at": "2026-06-24T06:35:08Z"
     }
   ],
-  "last_updated": "2026-06-24T10:18:48Z"
+  "last_updated": "2026-06-24T10:19:47Z"
 }
