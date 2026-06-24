@@ -28235,3 +28235,19 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [06:17:01]   upload done video_id=26422715 in 102.7s
 [06:17:03] film cr_film_id=35727 OK in 188.6s
 [06:17:03] batch-end ok=20 failed=0 dur=3371.0s avg/film=168.6s remaining=6038 eta_hours=282.8
+
+===== run 2026-06-24T06:17:37Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28079280580) =====
+[06:17:38] batch-start shard=1/2 count=20 backlog=10210 uploads=4172 failed_attempts=183 description_overrides=0
+[06:17:38] login
+[06:17:40] login done
+[06:17:40] iteration 1/20
+[06:17:40] film cr_film_id=1159 name='Talentovaný pan Ripley (1999)' candidates=1
+[06:17:40]   candidate upload_id=68add778cbb0d url=https://prehraj.to/talentovany-pan-ripley-1999-fhd-1080p-cz-2185/68add778cbb0d
+[06:17:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/talentovany-pan-ripley-1999-fhd-1080p-cz-2185/68add778cbb0d (permanent=True)
+[06:17:41] film cr_film_id=1159 all candidates exhausted
+[06:17:41] iteration 2/20
+[06:17:41] film cr_film_id=24295 name='Rocky Marciano (1999)' candidates=1
+[06:17:41]   candidate upload_id=585154963ec0b url=https://prehraj.to/rocky-marciano-1999-cz/585154963ec0b
+[06:17:47]   resolved in 6.6s → 480p (https://pf-storage5.premiumcdn.net/1171452/bkecKZUX9IPYinXH8kuwgUgbTZkImVHKjfvVt…)
+[06:18:18]   downloaded 756.2 MB in 29.1s (26.0 MB/s)
+[06:19:12]   upload done video_id=26423105 in 53.6s
