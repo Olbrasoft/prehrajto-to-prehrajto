@@ -76674,6 +76674,25 @@
         "download_sec": 64.4,
         "upload_sec": 67.9
       }
+    },
+    {
+      "cr_film_id": 4342,
+      "cr_slug": "zoolander",
+      "title": "Zoolander",
+      "year": 2001,
+      "display_name": "Zoolander (2001)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "4e47c94a94d5fcd4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26424571,
+      "size_bytes": 1670094947,
+      "uploaded_at": "2026-06-24T06:32:40Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 69.8,
+        "upload_sec": 97.4
+      }
     }
   ],
   "failed_attempts": [
@@ -78140,5 +78159,5 @@
       "failed_at": "2026-06-24T06:06:25Z"
     }
   ],
-  "last_updated": "2026-06-24T06:29:46Z"
+  "last_updated": "2026-06-24T06:32:40Z"
 }
