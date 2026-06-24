@@ -27358,3 +27358,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [02:18:38]   upload done video_id=26391756 in 24.1s
 [02:18:40] film cr_film_id=25317 OK in 48.8s
 [02:18:40] batch-end ok=20 failed=0 dur=1749.8s avg/film=87.5s remaining=6157 eta_hours=149.6
+
+===== run 2026-06-24T02:24:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28070808778) =====
+[02:24:01] batch-start shard=1/2 count=20 backlog=10210 uploads=4053 failed_attempts=181 description_overrides=0
+[02:24:01] login
+[02:24:02] login done
+[02:24:02] iteration 1/20
+[02:24:02] film cr_film_id=25219 name='Uchovat si tvář (2004)' candidates=1
+[02:24:02]   candidate upload_id=6495033ce8143 url=https://prehraj.to/saving-face-2004/6495033ce8143
+[02:24:03]   resolved in 1.0s → 720p (https://pf-storage4.premiumcdn.net/41872030/d2zt9kFVeup8sVnionhYkFRnuZET57U80iZp…)
+[02:24:35]   downloaded 1,071.5 MB in 29.9s (35.8 MB/s)
+[02:25:15]   upload done video_id=26392674 in 40.7s
