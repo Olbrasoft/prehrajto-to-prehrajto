@@ -68482,6 +68482,25 @@
         "download_sec": 37.4,
         "upload_sec": 45.2
       }
+    },
+    {
+      "cr_film_id": 13135,
+      "cr_slug": "velka-prehrada",
+      "title": "Velká přehrada",
+      "year": 1942,
+      "display_name": "Velká přehrada (1942) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68bc827f600e8",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26534526,
+      "size_bytes": 1082186583,
+      "uploaded_at": "2026-06-24T22:39:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 44.8,
+        "upload_sec": 63.9
+      }
     }
   ],
   "failed_attempts": [
@@ -70681,5 +70700,5 @@
       "failed_at": "2026-06-24T22:28:18Z"
     }
   ],
-  "last_updated": "2026-06-24T22:37:06Z"
+  "last_updated": "2026-06-24T22:39:00Z"
 }
