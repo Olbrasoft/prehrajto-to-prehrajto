@@ -28903,3 +28903,23 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [09:55:06]   resolved in 2.6s → 480p (https://pf-storage5.premiumcdn.net/3761962/BRvTMGh5xFDxFA4ce3sdlhe9C3xSPBHbNU9OC…)
 [09:55:55]   downloaded 1,265.2 MB in 46.7s (27.1 MB/s)
 [09:57:21]   upload done video_id=26449318 in 86.1s
+[09:57:24] film cr_film_id=19419 OK in 140.2s
+[09:57:24] iteration 13/20
+[09:57:24] film cr_film_id=12313 name='Kamenný most (1996)' candidates=5
+[09:57:24]   candidate upload_id=a2db4cc86b2826be url=https://prehraj.to/kamenny-most-1996-cz-avi-mp4/a2db4cc86b2826be
+[09:57:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kamenny-most-1996-cz-avi-mp4/a2db4cc86b2826be (permanent=True)
+[09:57:25]   candidate upload_id=dbb404f35ef9ddb3 url=https://prehraj.to/kamenny-most-1996-cz-avi-mp4/dbb404f35ef9ddb3
+[09:57:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kamenny-most-1996-cz-avi-mp4/dbb404f35ef9ddb3 (permanent=True)
+[09:57:30]   candidate upload_id=dc39b305bba8e3fa url=https://prehraj.to/kamenny-most-1996-cz-avi-mp4/dc39b305bba8e3fa
+[09:57:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kamenny-most-1996-cz-avi-mp4/dc39b305bba8e3fa (permanent=True)
+[09:57:36]   candidate upload_id=2e026cfe5ad9cd70 url=https://prehraj.to/kamenny-most-1996-cz-avi-mp4/2e026cfe5ad9cd70
+[09:57:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kamenny-most-1996-cz-avi-mp4/2e026cfe5ad9cd70 (permanent=True)
+[09:57:42]   candidate upload_id=843b51b7c5ed543f url=https://prehraj.to/kamenny-most-1996-cz-avi-mp4/843b51b7c5ed543f
+[09:57:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kamenny-most-1996-cz-avi-mp4/843b51b7c5ed543f (permanent=True)
+[09:57:48] film cr_film_id=12313 all candidates exhausted
+[09:57:48] iteration 14/20
+[09:57:48] film cr_film_id=36669 name='Ještě na to máme! (1996)' candidates=4
+[09:57:48]   candidate upload_id=82043f930dd8a948 url=https://prehraj.to/jeste-na-to-mame-walter-matthau-ossie-davis-amy-irving-1996-komedie-bdrip-1080p-cz-dabing/82043f930dd8a948
+[09:57:54]   resolved in 6.1s → 480p (https://pf-storage1.premiumcdn.net/156525659/MqeuJlfwzSxJseXuwyINofOaSZOC0KCM7hE…)
+[09:58:46]   downloaded 1,104.1 MB in 50.5s (21.9 MB/s)
+[10:00:02]   upload done video_id=26449643 in 76.1s
