@@ -63523,6 +63523,25 @@
         "download_sec": 170.2,
         "upload_sec": 191.7
       }
+    },
+    {
+      "cr_film_id": 12397,
+      "cr_slug": "rosewood",
+      "title": "Rosewood",
+      "year": 1997,
+      "display_name": "Rosewood (1997) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab74bc07b2bc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26444689,
+      "size_bytes": 1499771918,
+      "uploaded_at": "2026-06-24T09:18:30Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 82.7,
+        "upload_sec": 90.6
+      }
     }
   ],
   "failed_attempts": [
@@ -65701,5 +65720,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T09:15:31Z"
+  "last_updated": "2026-06-24T09:18:30Z"
 }
