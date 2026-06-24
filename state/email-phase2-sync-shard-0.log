@@ -30752,3 +30752,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [22:39:15]   upload done video_id=26534601 in 34.6s
 [22:39:17] film cr_film_id=34818 OK in 66.6s
 [22:39:17] batch-end ok=20 failed=0 dur=2983.4s avg/film=149.2s remaining=5692 eta_hours=235.9
+
+===== run 2026-06-24T22:43:13Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28134375596) =====
+[22:43:14] batch-start shard=0/2 count=20 backlog=10210 uploads=4518 failed_attempts=210 description_overrides=0
+[22:43:14] login
+[22:43:15] login done
+[22:43:15] iteration 1/20
+[22:43:15] film cr_film_id=7454 name='Critters 2 (1988)' candidates=2
+[22:43:15]   candidate upload_id=650cc9dd27407 url=https://prehraj.to/critters-2-1988-1080p-cz/650cc9dd27407
+[22:43:17]   resolved in 1.4s → 1080p (https://pf-storage1.premiumcdn.net/45749087/2g2fZOS8ocg4UXdsEVIw9Sn0ilysaYhM5Fda…)
+[22:45:22]   downloaded 3,492.6 MB in 123.6s (28.3 MB/s)
+[22:48:29]   upload done video_id=26535327 in 186.5s
