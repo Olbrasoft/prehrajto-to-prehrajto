@@ -23828,3 +23828,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:35:43]   upload done video_id=26462338 in 18.5s
 [11:35:44] film cr_film_id=12030 OK in 37.6s
 [11:35:44] batch-end ok=20 failed=0 dur=2384.1s avg/film=119.2s remaining=14127 eta_hours=467.8
+
+===== run 2026-06-24T11:36:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28095625177) =====
+[11:36:23] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:36:23] batch-start shard=0/2 count=20 backlog=17650 uploads=3523 failed_attempts=338 description_overrides=17579
+[11:36:23] login
+[11:36:25] login done
+[11:36:25] iteration 1/20
+[11:36:25] film cr_film_id=12032 name='O myších a lidech (1992) CZ Dabing' candidates=5
+[11:36:25]   candidate upload_id=b98010104bb79070 url=https://prehraj.to/o-mysich-a-lidech-of-mice-and-men-1992-1080p-czdab-mkv/b98010104bb79070
+[11:36:26]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/168137689/eLXfkaHR0T4PilGtZnS85H7kcKztOwF2kuX…)
+[11:38:23]   downloaded 2,611.7 MB in 115.2s (22.7 MB/s)
+[11:41:09]   upload done video_id=26462744 in 165.6s
