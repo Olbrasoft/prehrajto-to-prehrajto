@@ -82488,6 +82488,25 @@
         "download_sec": 123.1,
         "upload_sec": 81.1
       }
+    },
+    {
+      "cr_film_id": 23048,
+      "cr_slug": "noci-v-harlemu",
+      "title": "Noci v Harlemu",
+      "year": 1989,
+      "display_name": "Noci v Harlemu (1989)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c0237e2e1a69",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26528303,
+      "size_bytes": 1626437296,
+      "uploaded_at": "2026-06-24T21:40:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 82.2,
+        "upload_sec": 162.3
+      }
     }
   ],
   "failed_attempts": [
@@ -84010,5 +84029,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T21:36:16Z"
+  "last_updated": "2026-06-24T21:40:27Z"
 }
