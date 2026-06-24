@@ -28569,3 +28569,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [07:47:01]   upload done video_id=26433728 in 55.5s
 [07:47:03] film cr_film_id=24502 OK in 103.6s
 [07:47:03] batch-end ok=20 failed=0 dur=2388.7s avg/film=119.4s remaining=5986 eta_hours=198.5
+
+===== run 2026-06-24T07:53:06Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28083736880) =====
+[07:53:07] batch-start shard=0/2 count=20 backlog=10210 uploads=4224 failed_attempts=202 description_overrides=0
+[07:53:07] login
+[07:53:08] login done
+[07:53:08] iteration 1/20
+[07:53:08] film cr_film_id=24082 name='Mambo (2000)' candidates=1
+[07:53:08]   candidate upload_id=5c71b0c397c3b url=https://prehraj.to/mambo-2000-sk/5c71b0c397c3b
+[07:53:10]   resolved in 1.6s → 480p (https://pf-storage1.premiumcdn.net/12098506/e18TGZFvNH76HNQSkbUaBFYXivBcg4TzWs7Z…)
+[07:53:48]   downloaded 606.6 MB in 36.1s (16.8 MB/s)
+[07:54:41]   upload done video_id=26434700 in 52.2s
