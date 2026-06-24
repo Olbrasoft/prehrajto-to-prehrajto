@@ -76390,6 +76390,25 @@
         "download_sec": 54.7,
         "upload_sec": 67.4
       }
+    },
+    {
+      "cr_film_id": 23921,
+      "cr_slug": "titus",
+      "title": "Titus",
+      "year": 1999,
+      "display_name": "Titus (1999)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6205de8d9189f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26422172,
+      "size_bytes": 3541588612,
+      "uploaded_at": "2026-06-24T06:13:52Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 164.5,
+        "upload_sec": 187.3
+      }
     }
   ],
   "failed_attempts": [
@@ -77743,5 +77762,5 @@
       "failed_at": "2026-06-24T05:06:20Z"
     }
   ],
-  "last_updated": "2026-06-24T06:07:53Z"
+  "last_updated": "2026-06-24T06:13:52Z"
 }
