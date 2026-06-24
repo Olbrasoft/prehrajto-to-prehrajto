@@ -82051,6 +82051,25 @@
         "download_sec": 61.1,
         "upload_sec": 125.1
       }
+    },
+    {
+      "cr_film_id": 23098,
+      "cr_slug": "krvava-hra",
+      "title": "Krvavá hra",
+      "year": 1990,
+      "display_name": "Krvavá hra (1990)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a901d4380c35",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26514667,
+      "size_bytes": 1263863700,
+      "uploaded_at": "2026-06-24T19:22:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 446.0,
+        "upload_sec": 58.5
+      }
     }
   ],
   "failed_attempts": [
@@ -83573,5 +83592,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T19:13:33Z"
+  "last_updated": "2026-06-24T19:22:02Z"
 }
