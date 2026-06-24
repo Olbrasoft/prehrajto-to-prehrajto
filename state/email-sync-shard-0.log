@@ -23975,3 +23975,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:32:06]   upload done video_id=26469747 in 41.5s
 [12:32:08] film cr_film_id=12080 OK in 85.2s
 [12:32:08] batch-end ok=20 failed=0 dur=3343.1s avg/film=167.2s remaining=14107 eta_hours=655.2
+
+===== run 2026-06-24T12:32:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28098697769) =====
+[12:32:48] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:32:48] batch-start shard=0/2 count=20 backlog=17650 uploads=3543 failed_attempts=338 description_overrides=17579
+[12:32:48] login
+[12:32:49] login done
+[12:32:49] iteration 1/20
+[12:32:49] film cr_film_id=12082 name='Kanárská spojka (1993) CZ' candidates=1
+[12:32:49]   candidate upload_id=58387ac25dadb url=https://prehraj.to/kanarska-spojka-cr-1993/58387ac25dadb
+[12:32:51]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/932239/ok1iG7UyKublTL1tGXTJ4UMnTKkTd7FN2TJdI7…)
+[12:33:36]   downloaded 1,061.3 MB in 43.3s (24.5 MB/s)
+[12:34:22]   upload done video_id=26470037 in 46.0s
