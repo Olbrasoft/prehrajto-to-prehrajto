@@ -66240,6 +66240,25 @@
         "download_sec": 27.0,
         "upload_sec": 30.4
       }
+    },
+    {
+      "cr_film_id": 12803,
+      "cr_slug": "akce-bororo",
+      "title": "Akce Bororo",
+      "year": 1973,
+      "display_name": "Akce Bororo (1973) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5828978692e03",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26493370,
+      "size_bytes": 302994602,
+      "uploaded_at": "2026-06-24T15:44:56Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 14.4,
+        "upload_sec": 16.9
+      }
     }
   ],
   "failed_attempts": [
@@ -68425,5 +68444,5 @@
       "failed_at": "2026-06-24T10:36:21Z"
     }
   ],
-  "last_updated": "2026-06-24T15:44:20Z"
+  "last_updated": "2026-06-24T15:44:56Z"
 }
