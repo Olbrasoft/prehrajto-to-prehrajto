@@ -25532,3 +25532,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:11:56]   upload done video_id=26531898 in 45.6s
 [22:11:58] film cr_film_id=13097 OK in 85.7s
 [22:11:58] batch-end ok=20 failed=0 dur=2857.8s avg/film=142.9s remaining=13904 eta_hours=551.9
+
+===== run 2026-06-24T22:26:47Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28133614761) =====
+[22:26:49] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:26:49] batch-start shard=1/2 count=20 backlog=17650 uploads=3746 failed_attempts=303 description_overrides=17579
+[22:26:49] login
+[22:26:51] login done
+[22:26:51] iteration 1/20
+[22:26:51] film cr_film_id=13101 name='Adam a Eva (1940) CZ' candidates=4
+[22:26:51]   candidate upload_id=586c2d146e254 url=https://prehraj.to/adam-a-eva-1940-film-cely/586c2d146e254
+[22:26:52]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/1297673/GVyfJRSM0URqcX1UlqUVpSo9uNqiwnHxMtPXi…)
+[22:27:11]   downloaded 394.7 MB in 17.2s (22.9 MB/s)
+[22:27:30]   upload done video_id=26533364 in 18.8s
