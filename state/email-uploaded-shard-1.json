@@ -60369,6 +60369,25 @@
         "download_sec": 30.9,
         "upload_sec": 32.5
       }
+    },
+    {
+      "cr_film_id": 11947,
+      "cr_slug": "barton-fink",
+      "title": "Barton Fink",
+      "year": 1991,
+      "display_name": "Barton Fink (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "580e5b09333a0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26383987,
+      "size_bytes": 633588930,
+      "uploaded_at": "2026-06-24T01:20:08Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 29.9,
+        "upload_sec": 42.7
+      }
     }
   ],
   "failed_attempts": [
@@ -62547,5 +62566,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T01:18:49Z"
+  "last_updated": "2026-06-24T01:20:08Z"
 }
