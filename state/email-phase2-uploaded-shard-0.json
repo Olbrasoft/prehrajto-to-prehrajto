@@ -82013,6 +82013,25 @@
         "download_sec": 138.1,
         "upload_sec": 36.9
       }
+    },
+    {
+      "cr_film_id": 23130,
+      "cr_slug": "miami-blues",
+      "title": "Miami Blues",
+      "year": 1990,
+      "display_name": "Miami Blues (1990)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab5b89bc9dd2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26513471,
+      "size_bytes": 1199522684,
+      "uploaded_at": "2026-06-24T19:10:22Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 40.8,
+        "upload_sec": 44.6
+      }
     }
   ],
   "failed_attempts": [
@@ -83535,5 +83554,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T19:08:52Z"
+  "last_updated": "2026-06-24T19:10:22Z"
 }
