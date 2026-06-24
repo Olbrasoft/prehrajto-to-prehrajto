@@ -27547,3 +27547,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [02:56:29]   upload done video_id=26396746 in 27.5s
 [02:56:32] film cr_film_id=25174 OK in 53.4s
 [02:56:32] batch-end ok=20 failed=0 dur=1947.8s avg/film=97.4s remaining=6125 eta_hours=165.7
+
+===== run 2026-06-24T02:57:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28071954804) =====
+[02:57:12] batch-start shard=0/2 count=20 backlog=10210 uploads=4085 failed_attempts=200 description_overrides=0
+[02:57:12] login
+[02:57:25] login done
+[02:57:25] iteration 1/20
+[02:57:25] film cr_film_id=13626 name='Převtělení (2005)' candidates=3
+[02:57:25]   candidate upload_id=67bcc8c688d51 url=https://prehraj.to/prevteleni-2005-360p-mpeg-audio/67bcc8c688d51
+[02:57:27]   resolved in 2.5s → 480p (https://pf-storage2.premiumcdn.net/130585388/Pabt0RHJLhY4hldI03hw4HkJTeKh4yhYqt6…)
+[02:57:46]   downloaded 323.1 MB in 16.9s (19.1 MB/s)
+[02:58:06]   upload done video_id=26396942 in 20.3s
