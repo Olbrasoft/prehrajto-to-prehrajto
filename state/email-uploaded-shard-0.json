@@ -64122,6 +64122,25 @@
         "download_sec": 39.0,
         "upload_sec": 41.0
       }
+    },
+    {
+      "cr_film_id": 12066,
+      "cr_slug": "zurivy-mnich",
+      "title": "Zuřivý mnich",
+      "year": 1993,
+      "display_name": "Zuřivý mnich (1993) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55f999674db1a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26467143,
+      "size_bytes": 630093190,
+      "uploaded_at": "2026-06-24T12:12:26Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 37.5,
+        "upload_sec": 37.3
+      }
     }
   ],
   "failed_attempts": [
@@ -66530,5 +66549,5 @@
       "failed_at": "2026-06-24T06:35:08Z"
     }
   ],
-  "last_updated": "2026-06-24T12:11:06Z"
+  "last_updated": "2026-06-24T12:12:26Z"
 }
