@@ -29441,3 +29441,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [12:55:30]   upload done video_id=26473100 in 47.6s
 [12:55:32] film cr_film_id=33218 OK in 84.2s
 [12:55:32] batch-end ok=19 failed=1 dur=1448.9s avg/film=76.3s remaining=5870 eta_hours=124.4
+
+===== run 2026-06-24T13:04:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28100553157) =====
+[13:04:44] batch-start shard=0/2 count=20 backlog=10210 uploads=4340 failed_attempts=207 description_overrides=0
+[13:04:44] login
+[13:04:45] login done
+[13:04:45] iteration 1/20
+[13:04:45] film cr_film_id=24256 name='Bez důkazů (1995)' candidates=1
+[13:04:45]   candidate upload_id=585a572ef237a url=https://prehraj.to/bez-dukazu-1995-cz/585a572ef237a
+[13:04:47]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/1215576/b12FEPIqETQjsVGSQvhP1IZxtN1frDTm1H1qH…)
+[13:05:08]   downloaded 310.1 MB in 19.4s (16.0 MB/s)
+[13:05:36]   upload done video_id=26474576 in 27.9s
