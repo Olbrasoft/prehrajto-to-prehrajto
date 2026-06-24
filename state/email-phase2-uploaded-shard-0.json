@@ -78061,6 +78061,25 @@
         "download_sec": 29.4,
         "upload_sec": 31.7
       }
+    },
+    {
+      "cr_film_id": 12458,
+      "cr_slug": "lautrec",
+      "title": "Lautrec",
+      "year": 1998,
+      "display_name": "Lautrec (1998)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "60ebee2966a87",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26446394,
+      "size_bytes": 618044746,
+      "uploaded_at": "2026-06-24T09:30:42Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 34.0,
+        "upload_sec": 43.5
+      }
     }
   ],
   "failed_attempts": [
@@ -79541,5 +79560,5 @@
       "failed_at": "2026-06-24T09:05:58Z"
     }
   ],
-  "last_updated": "2026-06-24T09:05:58Z"
+  "last_updated": "2026-06-24T09:30:42Z"
 }
