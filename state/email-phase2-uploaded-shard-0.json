@@ -83362,6 +83362,25 @@
         "download_sec": 18.2,
         "upload_sec": 28.2
       }
+    },
+    {
+      "cr_film_id": 22862,
+      "cr_slug": "red-force",
+      "title": "Red Force",
+      "year": 1986,
+      "display_name": "Red Force (1986)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "61ed896ce4cb9",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26540632,
+      "size_bytes": 2392632760,
+      "uploaded_at": "2026-06-24T23:39:02Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 67.8,
+        "upload_sec": 91.7
+      }
     }
   ],
   "failed_attempts": [
@@ -84884,5 +84903,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T23:36:19Z"
+  "last_updated": "2026-06-24T23:39:02Z"
 }
