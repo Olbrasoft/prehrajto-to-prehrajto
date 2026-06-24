@@ -83115,6 +83115,25 @@
         "download_sec": 180.3,
         "upload_sec": 249.2
       }
+    },
+    {
+      "cr_film_id": 12958,
+      "cr_slug": "pavi-pirko",
+      "title": "Paví pírko",
+      "year": 1987,
+      "display_name": "Paví pírko (1987)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "58443894395f8",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26538193,
+      "size_bytes": 712551454,
+      "uploaded_at": "2026-06-24T23:14:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 34.3,
+        "upload_sec": 35.8
+      }
     }
   ],
   "failed_attempts": [
@@ -84637,5 +84656,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T23:13:01Z"
+  "last_updated": "2026-06-24T23:14:17Z"
 }
