@@ -78859,6 +78859,25 @@
         "download_sec": 29.7,
         "upload_sec": 49.7
       }
+    },
+    {
+      "cr_film_id": 23670,
+      "cr_slug": "nadherna-vec",
+      "title": "Nádherná věc",
+      "year": 1996,
+      "display_name": "Nádherná věc (1996)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "67cda8b98ff43",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26457871,
+      "size_bytes": 413809149,
+      "uploaded_at": "2026-06-24T11:02:41Z",
+      "timing": {
+        "resolve_sec": 4.0,
+        "download_sec": 48.7,
+        "upload_sec": 32.9
+      }
     }
   ],
   "failed_attempts": [
@@ -80344,7 +80363,14 @@
       "reason": "oversize: 6125517596 B",
       "permanent": true,
       "failed_at": "2026-06-24T09:34:17Z"
+    },
+    {
+      "cr_film_id": 35736,
+      "upload_id": "61a262d7ee0e3",
+      "reason": "oversize: 7271838641 B",
+      "permanent": true,
+      "failed_at": "2026-06-24T11:01:13Z"
     }
   ],
-  "last_updated": "2026-06-24T11:01:07Z"
+  "last_updated": "2026-06-24T11:02:41Z"
 }

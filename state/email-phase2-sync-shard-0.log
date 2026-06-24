@@ -29170,3 +29170,16 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:59:46]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/143628638/RkluGbh31T1NureSeqfyBhBxSnoF5GtnoHE…)
 [11:00:18]   downloaded 663.7 MB in 29.7s (22.3 MB/s)
 [11:01:07]   upload done video_id=26457616 in 49.7s
+[11:01:10] film cr_film_id=34322 OK in 85.0s
+[11:01:10] iteration 3/20
+[11:01:10] film cr_film_id=35736 name='Oasis: Second Night Live at Knebworth Park (1996)' candidates=1
+[11:01:10]   candidate upload_id=61a262d7ee0e3 url=https://prehraj.to/oasis-knebworth-1996-2021-2160p-4k-web-x265-10bit-aac5-1-yts-mx/61a262d7ee0e3
+[11:01:11]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/26889256/BelSLGcvjTmXuyqFz4IWkc2XF3oHOZiGOHYn…)
+[11:01:13]   oversize: 7271838641 B > 6000000000 B, skip
+[11:01:13] film cr_film_id=35736 all candidates exhausted
+[11:01:13] iteration 4/20
+[11:01:13] film cr_film_id=23670 name='Nádherná věc (1996)' candidates=1
+[11:01:13]   candidate upload_id=67cda8b98ff43 url=https://prehraj.to/beautiful-thing-1996/67cda8b98ff43
+[11:01:17]   resolved in 4.0s → 480p (https://pf-storage5.premiumcdn.net/131730440/E0RUJ8faxIQduODUMpH2gfNVUwGuZGur9iE…)
+[11:02:08]   downloaded 413.8 MB in 48.7s (8.5 MB/s)
+[11:02:41]   upload done video_id=26457871 in 32.9s
