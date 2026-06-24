@@ -68093,6 +68093,25 @@
         "download_sec": 18.4,
         "upload_sec": 18.5
       }
+    },
+    {
+      "cr_film_id": 12650,
+      "cr_slug": "karate-valecnik",
+      "title": "Karate válečník",
+      "year": 1987,
+      "display_name": "Karate válečník (1987) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "38be81a8e9f33477",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26537432,
+      "size_bytes": 615065988,
+      "uploaded_at": "2026-06-24T23:07:37Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 21.8,
+        "upload_sec": 28.8
+      }
     }
   ],
   "failed_attempts": [
@@ -70550,5 +70569,5 @@
       "failed_at": "2026-06-24T22:55:43Z"
     }
   ],
-  "last_updated": "2026-06-24T23:06:42Z"
+  "last_updated": "2026-06-24T23:07:37Z"
 }
