@@ -27799,3 +27799,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [04:13:11]   upload done video_id=26406354 in 81.0s
 [04:13:13] film cr_film_id=29917 OK in 146.7s
 [04:13:13] batch-end ok=20 failed=0 dur=2123.6s avg/film=106.2s remaining=6097 eta_hours=179.9
+
+===== run 2026-06-24T04:13:47Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28074670156) =====
+[04:13:48] batch-start shard=1/2 count=20 backlog=10210 uploads=4113 failed_attempts=182 description_overrides=0
+[04:13:48] login
+[04:13:51] login done
+[04:13:51] iteration 1/20
+[04:13:51] film cr_film_id=24881 name='Smradi (2002)' candidates=2
+[04:13:51]   candidate upload_id=5a9bdff36bc69 url=https://prehraj.to/smradi-2002/5a9bdff36bc69
+[04:13:52]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/3532631/xXLfWmHm8sAOHGyTQZipnHOKIEZCPasGkfeLc…)
+[04:14:21]   downloaded 700.9 MB in 27.3s (25.7 MB/s)
+[04:14:55]   upload done video_id=26406738 in 33.7s
