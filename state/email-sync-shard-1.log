@@ -23027,3 +23027,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:22:02]   upload done video_id=26415708 in 46.9s
 [05:22:03] film cr_film_id=12157 OK in 98.0s
 [05:22:03] batch-end ok=20 failed=0 dur=1880.0s avg/film=94.0s remaining=14244 eta_hours=371.9
+
+===== run 2026-06-24T05:32:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28077495100) =====
+[05:32:46] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:32:46] batch-start shard=1/2 count=20 backlog=17650 uploads=3406 failed_attempts=301 description_overrides=17579
+[05:32:46] login
+[05:32:47] login done
+[05:32:47] iteration 1/20
+[05:32:47] film cr_film_id=12161 name='Junior (1994) CZ Dabing' candidates=1
+[05:32:47]   candidate upload_id=28673929fb612747 url=https://prehraj.to/junior-1994-komedia-cz-dabing-spickova-kvalita-1080p-by-nexsus-mkv/28673929fb612747
+[05:32:48]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/163052243/1vltGlTeGS9RCYjTN3tJ0TrySJvhwnHXQcg…)
+[05:33:57]   downloaded 2,064.0 MB in 67.2s (30.7 MB/s)
+[05:35:23]   upload done video_id=26417630 in 86.1s

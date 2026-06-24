@@ -61832,6 +61832,25 @@
         "download_sec": 47.3,
         "upload_sec": 46.9
       }
+    },
+    {
+      "cr_film_id": 12161,
+      "cr_slug": "junior",
+      "title": "Junior",
+      "year": 1994,
+      "display_name": "Junior (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "28673929fb612747",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26417630,
+      "size_bytes": 2063987327,
+      "uploaded_at": "2026-06-24T05:35:23Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 67.2,
+        "upload_sec": 86.1
+      }
     }
   ],
   "failed_attempts": [
@@ -64010,5 +64029,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T05:22:02Z"
+  "last_updated": "2026-06-24T05:35:23Z"
 }
