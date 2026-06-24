@@ -65813,6 +65813,25 @@
         "download_sec": 27.5,
         "upload_sec": 29.0
       }
+    },
+    {
+      "cr_film_id": 12318,
+      "cr_slug": "travnikar-2-odvracena-strana-vesmiru",
+      "title": "Trávníkář 2: Odvrácená strana vesmíru",
+      "year": 1996,
+      "display_name": "Trávníkář 2: Odvrácená strana vesmíru (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5741bb97a2410",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26495936,
+      "size_bytes": 694279977,
+      "uploaded_at": "2026-06-24T16:12:18Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 46.7,
+        "upload_sec": 37.6
+      }
     }
   ],
   "failed_attempts": [
@@ -68240,7 +68259,21 @@
       "reason": "oversize: 7014247902 B",
       "permanent": true,
       "failed_at": "2026-06-24T16:09:32Z"
+    },
+    {
+      "cr_film_id": 12314,
+      "upload_id": "5e984b9417ac8",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/kolja-czdab-komedie-drama-cesko-velka-britanie-francie-1996/5e984b9417ac8",
+      "permanent": true,
+      "failed_at": "2026-06-24T16:10:40Z"
+    },
+    {
+      "cr_film_id": 12314,
+      "upload_id": "60452fbb89800",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/kolja-1996-sverak-dvbt-cz-telefilm/60452fbb89800",
+      "permanent": true,
+      "failed_at": "2026-06-24T16:10:45Z"
     }
   ],
-  "last_updated": "2026-06-24T16:10:35Z"
+  "last_updated": "2026-06-24T16:12:18Z"
 }

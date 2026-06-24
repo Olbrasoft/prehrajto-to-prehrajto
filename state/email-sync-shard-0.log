@@ -24589,3 +24589,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:09:37]   resolved in 4.1s → 480p (https://pf-storage4.premiumcdn.net/142118630/NlWFXOsa9TNbcj7f57Uo8sZGiQ9CwmiZVTz…)
 [16:10:06]   downloaded 507.5 MB in 27.5s (18.5 MB/s)
 [16:10:35]   upload done video_id=26495753 in 29.0s
+[16:10:39] film cr_film_id=12312 OK in 66.5s
+[16:10:39] iteration 4/20
+[16:10:39] film cr_film_id=12314 name='Kolja (1996) CZ Dabing' candidates=2
+[16:10:39]   candidate upload_id=5e984b9417ac8 url=https://prehraj.to/kolja-czdab-komedie-drama-cesko-velka-britanie-francie-1996/5e984b9417ac8
+[16:10:40]   resolve FAILED: upload not found (404): https://prehraj.to/kolja-czdab-komedie-drama-cesko-velka-britanie-francie-1996/5e984b9417ac8 (permanent=True)
+[16:10:40]   candidate upload_id=60452fbb89800 url=https://prehraj.to/kolja-1996-sverak-dvbt-cz-telefilm/60452fbb89800
+[16:10:45]   resolve FAILED: upload not found (404): https://prehraj.to/kolja-1996-sverak-dvbt-cz-telefilm/60452fbb89800 (permanent=True)
+[16:10:45] film cr_film_id=12314 all candidates exhausted
+[16:10:45] iteration 5/20
+[16:10:45] film cr_film_id=12318 name='Trávníkář 2: Odvrácená strana vesmíru (1996) CZ Dabing' candidates=2
+[16:10:45]   candidate upload_id=5741bb97a2410 url=https://prehraj.to/odvracena-strana-slunce-cz-dabing-1997/5741bb97a2410
+[16:10:52]   resolved in 6.3s → 480p (https://pf-storage2.premiumcdn.net/89449/EqDsymuGNi9NFK4ueqfNau4VSD4Sa2SKxs25HKW…)
+[16:11:40]   downloaded 694.3 MB in 46.7s (14.9 MB/s)
+[16:12:18]   upload done video_id=26495936 in 37.6s
