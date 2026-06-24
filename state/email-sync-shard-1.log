@@ -24353,3 +24353,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:30:12]   upload done video_id=26477981 in 53.9s
 [13:30:15] film cr_film_id=12647 OK in 98.0s
 [13:30:15] batch-end ok=20 failed=0 dur=3444.5s avg/film=172.2s remaining=14064 eta_hours=672.7
+
+===== run 2026-06-24T13:30:54Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28102167234) =====
+[13:30:55] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:30:55] batch-start shard=1/2 count=20 backlog=17650 uploads=3586 failed_attempts=302 description_overrides=17579
+[13:30:55] login
+[13:30:57] login done
+[13:30:57] iteration 1/20
+[13:30:57] film cr_film_id=12649 name='Dům na předměstí (1933) CZ' candidates=2
+[13:30:57]   candidate upload_id=64cc0b8f2a5f3 url=https://prehraj.to/dum-na-predmesti-komedie-1933-cesky-film-pro-pametniky/64cc0b8f2a5f3
+[13:30:58]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/43043471/Zw5hqNuGVSYnTNWU8WI8Bu6aiKwt5nhqLTZy…)
+[13:32:52]   downloaded 2,245.8 MB in 112.3s (20.0 MB/s)
+[13:35:09]   upload done video_id=26478491 in 136.3s
