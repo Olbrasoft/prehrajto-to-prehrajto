@@ -66744,6 +66744,25 @@
         "download_sec": 20.6,
         "upload_sec": 23.8
       }
+    },
+    {
+      "cr_film_id": 12450,
+      "cr_slug": "pasla-kone-na-betone",
+      "title": "Pásla koně na betoně",
+      "year": 1983,
+      "display_name": "Pásla koně na betoně (1983) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "bb1cb9b9103c9876",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26511662,
+      "size_bytes": 938811301,
+      "uploaded_at": "2026-06-24T18:50:20Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 27.4,
+        "upload_sec": 36.5
+      }
     }
   ],
   "failed_attempts": [
@@ -69185,7 +69204,14 @@
       "reason": "resolve_failed: upload not found (404): https://prehraj.to/kolja-1996-sverak-dvbt-cz-telefilm/60452fbb89800",
       "permanent": true,
       "failed_at": "2026-06-24T16:10:45Z"
+    },
+    {
+      "cr_film_id": 12450,
+      "upload_id": "4254fc9eb8de25cc",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pasla-kone-na-betone-mp4/4254fc9eb8de25cc",
+      "permanent": true,
+      "failed_at": "2026-06-24T18:49:09Z"
     }
   ],
-  "last_updated": "2026-06-24T18:49:07Z"
+  "last_updated": "2026-06-24T18:50:20Z"
 }
