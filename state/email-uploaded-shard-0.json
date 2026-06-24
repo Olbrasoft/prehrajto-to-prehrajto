@@ -66554,6 +66554,25 @@
         "download_sec": 51.4,
         "upload_sec": 51.4
       }
+    },
+    {
+      "cr_film_id": 12422,
+      "cr_slug": "vikingove-1999",
+      "title": "Vikingové",
+      "year": 1999,
+      "display_name": "Vikingové (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5803ea3d0f222",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26508328,
+      "size_bytes": 560028610,
+      "uploaded_at": "2026-06-24T18:16:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.5,
+        "upload_sec": 21.9
+      }
     }
   ],
   "failed_attempts": [
@@ -68997,5 +69016,5 @@
       "failed_at": "2026-06-24T16:10:45Z"
     }
   ],
-  "last_updated": "2026-06-24T18:16:11Z"
+  "last_updated": "2026-06-24T18:16:55Z"
 }
