@@ -22648,3 +22648,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:46:24]   upload done video_id=26411193 in 52.9s
 [04:46:26] film cr_film_id=11594 OK in 89.1s
 [04:46:26] batch-end ok=20 failed=0 dur=3320.9s avg/film=166.0s remaining=14286 eta_hours=658.7
+
+===== run 2026-06-24T04:50:40Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28075938011) =====
+[04:50:42] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:50:42] batch-start shard=0/2 count=20 backlog=17650 uploads=3364 failed_attempts=335 description_overrides=17579
+[04:50:42] login
+[04:50:43] login done
+[04:50:43] iteration 1/20
+[04:50:43] film cr_film_id=11598 name='Toxický mstitel (1984) CZ Dabing' candidates=1
+[04:50:43]   candidate upload_id=67cf7a740e60d url=https://prehraj.to/toxicky-mstitel-robert-prichard-mark-torgl-patrick-kilpatrick-1984-komedie-akcni-sci-fi-horor-bdrip-1080p-cz-dabing/67cf7a740e60d
+[04:50:44]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/131868128/OLbu3bI29IElH9OS26u0OIj8UNEh9Jijwtv…)
+[04:51:12]   downloaded 702.8 MB in 25.8s (27.2 MB/s)
+[04:51:42]   upload done video_id=26411956 in 30.4s
