@@ -27192,3 +27192,15 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [01:28:10]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3464043/XrKIdAfPDF1GIo5hW5cwzfQOcAWheLtRyhR2f…)
 [01:28:36]   downloaded 494.9 MB in 24.3s (20.4 MB/s)
 [01:29:17]   upload done video_id=26385225 in 40.6s
+[01:29:19] film cr_film_id=25756 OK in 69.7s
+[01:29:19] iteration 12/20
+[01:29:19] film cr_film_id=36610 name='Šarlotina pavučinka (2006)' candidates=1
+[01:29:19]   candidate upload_id=23511d7f55db6eb2 url=https://prehraj.to/sarlotina-pavucinka/23511d7f55db6eb2
+[01:29:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sarlotina-pavucinka/23511d7f55db6eb2 (permanent=True)
+[01:29:19] film cr_film_id=36610 all candidates exhausted
+[01:29:19] iteration 13/20
+[01:29:19] film cr_film_id=13636 name='Činy a sláva 3: Rozdělení (2006)' candidates=2
+[01:29:19]   candidate upload_id=5a9890c9e26e6 url=https://prehraj.to/ciny-a-slava-3-rozdeleni-2006/5a9890c9e26e6
+[01:29:25]   resolved in 6.0s → 720p (https://pf-storage1.premiumcdn.net/3509046/rKAI1WfvJFjNTlaUEacAEfO0Sv7Sr3C6mFDWF…)
+[01:30:13]   downloaded 986.3 MB in 45.6s (21.6 MB/s)
+[01:31:04]   upload done video_id=26385469 in 51.1s
