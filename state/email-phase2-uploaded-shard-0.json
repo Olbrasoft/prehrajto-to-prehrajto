@@ -75933,6 +75933,25 @@
         "download_sec": 18.0,
         "upload_sec": 28.3
       }
+    },
+    {
+      "cr_film_id": 35500,
+      "cr_slug": "kiss-symphony",
+      "title": "Kiss: Symphony",
+      "year": 2003,
+      "display_name": "Kiss: Symphony (2003)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "58514764160d2",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26412464,
+      "size_bytes": 1121225784,
+      "uploaded_at": "2026-06-24T04:55:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 40.8,
+        "upload_sec": 50.4
+      }
     }
   ],
   "failed_attempts": [
@@ -77392,5 +77411,5 @@
       "failed_at": "2026-06-24T03:16:26Z"
     }
   ],
-  "last_updated": "2026-06-24T04:53:51Z"
+  "last_updated": "2026-06-24T04:55:26Z"
 }
