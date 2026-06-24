@@ -22207,3 +22207,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:12:24]   upload done video_id=26382785 in 98.4s
 [01:12:25] film cr_film_id=11420 OK in 151.6s
 [01:12:25] batch-end ok=19 failed=1 dur=2193.3s avg/film=115.4s remaining=14346 eta_hours=459.9
+
+===== run 2026-06-24T01:13:07Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28068245188) =====
+[01:13:08] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:13:08] batch-start shard=0/2 count=20 backlog=17650 uploads=3304 failed_attempts=335 description_overrides=17579
+[01:13:08] login
+[01:13:10] login done
+[01:13:10] iteration 1/20
+[01:13:10] film cr_film_id=11426 name='Kočka a pes (1983) CZ' candidates=3
+[01:13:10]   candidate upload_id=5abff39f3c4b0 url=https://prehraj.to/kocka-a-pes-1983/5abff39f3c4b0
+[01:13:11]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3798909/z58i8MT1VCK0sQESJlhbGTqEHAMhy1UpOUe3C…)
+[01:28:21]   downloaded 926.8 MB in 907.6s (1.0 MB/s)
+[01:29:25]   upload done video_id=26385184 in 63.5s
