@@ -29733,3 +29733,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:59:58]   upload done video_id=26488684 in 50.0s
 [15:00:01] film cr_film_id=33180 OK in 97.1s
 [15:00:01] batch-end ok=20 failed=0 dur=2579.8s avg/film=129.0s remaining=5830 eta_hours=208.9
+
+===== run 2026-06-24T15:00:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28108009275) =====
+[15:00:44] batch-start shard=0/2 count=20 backlog=10210 uploads=4380 failed_attempts=207 description_overrides=0
+[15:00:44] login
+[15:00:45] login done
+[15:00:45] iteration 1/20
+[15:00:45] film cr_film_id=32714 name='Růžový květ (1993)' candidates=1
+[15:00:45]   candidate upload_id=586aad39bac70 url=https://prehraj.to/ruzovy-kvet-1992/586aad39bac70
+[15:00:46]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/1277028/7awtYMHWaUgxcEBhJDhByHNLIvzsjmTd2hJLT…)
+[15:01:05]   downloaded 441.2 MB in 16.6s (26.6 MB/s)
+[15:01:22]   upload done video_id=26488875 in 17.2s
