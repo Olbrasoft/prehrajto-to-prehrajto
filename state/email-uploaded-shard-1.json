@@ -62497,6 +62497,25 @@
         "download_sec": 30.2,
         "upload_sec": 30.7
       }
+    },
+    {
+      "cr_film_id": 12245,
+      "cr_slug": "posledni-smich",
+      "title": "Poslední smích",
+      "year": 1995,
+      "display_name": "Poslední smích (1995) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9a16637cfc5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26428350,
+      "size_bytes": 887973694,
+      "uploaded_at": "2026-06-24T07:03:10Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 46.1,
+        "upload_sec": 63.5
+      }
     }
   ],
   "failed_attempts": [
@@ -64675,5 +64694,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T07:01:15Z"
+  "last_updated": "2026-06-24T07:03:10Z"
 }
