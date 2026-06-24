@@ -82108,6 +82108,25 @@
         "download_sec": 803.1,
         "upload_sec": 25.1
       }
+    },
+    {
+      "cr_film_id": 32912,
+      "cr_slug": "heat-wave",
+      "title": "Heat Wave",
+      "year": 1990,
+      "display_name": "Heat Wave (1990)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "588b55633d8ee",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26516040,
+      "size_bytes": 670832736,
+      "uploaded_at": "2026-06-24T19:37:40Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 24.8,
+        "upload_sec": 24.6
+      }
     }
   ],
   "failed_attempts": [
@@ -83630,5 +83649,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-24T19:36:45Z"
+  "last_updated": "2026-06-24T19:37:40Z"
 }
