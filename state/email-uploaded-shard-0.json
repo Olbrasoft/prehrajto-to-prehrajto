@@ -63723,6 +63723,25 @@
         "download_sec": 28.0,
         "upload_sec": 29.3
       }
+    },
+    {
+      "cr_film_id": 12012,
+      "cr_slug": "navzdy-mlady",
+      "title": "Navždy mladý",
+      "year": 1992,
+      "display_name": "Navždy mladý (1992) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ad90f72db5a3",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26460654,
+      "size_bytes": 1379473676,
+      "uploaded_at": "2026-06-24T11:23:51Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 40.0,
+        "upload_sec": 58.8
+      }
     }
   ],
   "failed_attempts": [
@@ -66131,5 +66150,5 @@
       "failed_at": "2026-06-24T06:35:08Z"
     }
   ],
-  "last_updated": "2026-06-24T11:22:08Z"
+  "last_updated": "2026-06-24T11:23:51Z"
 }
