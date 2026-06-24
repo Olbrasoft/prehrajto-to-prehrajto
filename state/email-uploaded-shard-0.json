@@ -59904,6 +59904,25 @@
         "download_sec": 138.9,
         "upload_sec": 175.8
       }
+    },
+    {
+      "cr_film_id": 11448,
+      "cr_slug": "tootsie",
+      "title": "Tootsie",
+      "year": 1982,
+      "display_name": "Tootsie (1982) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55ee3b6717654",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26391066,
+      "size_bytes": 459082792,
+      "uploaded_at": "2026-06-24T02:13:51Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 22.3,
+        "upload_sec": 32.4
+      }
     }
   ],
   "failed_attempts": [
@@ -62286,5 +62305,5 @@
       "failed_at": "2026-06-24T00:37:03Z"
     }
   ],
-  "last_updated": "2026-06-24T02:12:50Z"
+  "last_updated": "2026-06-24T02:13:51Z"
 }
