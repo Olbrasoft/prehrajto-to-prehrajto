@@ -30136,3 +30136,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [17:28:01]   upload done video_id=26503535 in 20.6s
 [17:28:03] film cr_film_id=32617 OK in 81.9s
 [17:28:03] batch-end ok=20 failed=0 dur=2621.9s avg/film=131.1s remaining=5783 eta_hours=210.6
+
+===== run 2026-06-24T17:28:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28117134317) =====
+[17:28:43] batch-start shard=1/2 count=20 backlog=10210 uploads=4427 failed_attempts=194 description_overrides=0
+[17:28:43] login
+[17:28:48] login done
+[17:28:48] iteration 1/20
+[17:28:48] film cr_film_id=32737 name='Clownhouse (1990)' candidates=1
+[17:28:48]   candidate upload_id=586c31cd931b7 url=https://prehraj.to/clownhouse-victor-salva-usa-1989/586c31cd931b7
+[17:28:49]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/1297724/XpkSKdF5dUJkHg4FKMHROFjeinDieJh3AHdaS…)
+[17:29:41]   downloaded 376.6 MB in 50.5s (7.5 MB/s)
+[17:30:01]   upload done video_id=26503719 in 20.0s
