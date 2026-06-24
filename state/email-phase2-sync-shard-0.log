@@ -28277,3 +28277,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [06:12:11]   upload done video_id=26422258 in 40.6s
 [06:12:13] film cr_film_id=32592 OK in 84.9s
 [06:12:13] batch-end ok=19 failed=1 dur=3086.1s avg/film=162.4s remaining=6026 eta_hours=271.8
+
+===== run 2026-06-24T06:17:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28079280580) =====
+[06:17:38] batch-start shard=0/2 count=20 backlog=10210 uploads=4184 failed_attempts=202 description_overrides=0
+[06:17:38] login
+[06:17:39] login done
+[06:17:39] iteration 1/20
+[06:17:39] film cr_film_id=24694 name='Benjamins (2002)' candidates=2
+[06:17:39]   candidate upload_id=5ac11787ab2df url=https://prehraj.to/benjamins-2002/5ac11787ab2df
+[06:17:41]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3802457/vA1u8DsPQH60Ig5sDVHGvsavf64T75SEmCeLh…)
+[06:18:48]   downloaded 1,243.7 MB in 65.0s (19.1 MB/s)
+[06:19:55]   upload done video_id=26423134 in 67.1s
