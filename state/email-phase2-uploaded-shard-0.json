@@ -79847,6 +79847,25 @@
         "download_sec": 36.6,
         "upload_sec": 53.9
       }
+    },
+    {
+      "cr_film_id": 23408,
+      "cr_slug": "nexus",
+      "title": "Nexus",
+      "year": 1994,
+      "display_name": "Nexus (1994)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9a2d4666874",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26481849,
+      "size_bytes": 903402689,
+      "uploaded_at": "2026-06-24T14:03:38Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 50.8,
+        "upload_sec": 53.8
+      }
     }
   ],
   "failed_attempts": [
@@ -81348,5 +81367,5 @@
       "failed_at": "2026-06-24T12:41:51Z"
     }
   ],
-  "last_updated": "2026-06-24T14:01:48Z"
+  "last_updated": "2026-06-24T14:03:38Z"
 }
