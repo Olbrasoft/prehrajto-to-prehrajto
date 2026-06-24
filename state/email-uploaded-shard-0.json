@@ -62640,6 +62640,25 @@
         "download_sec": 58.3,
         "upload_sec": 68.2
       }
+    },
+    {
+      "cr_film_id": 11850,
+      "cr_slug": "shocker",
+      "title": "Shocker",
+      "year": 1989,
+      "display_name": "Shocker (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60e6d872aa6a2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26439577,
+      "size_bytes": 631445295,
+      "uploaded_at": "2026-06-24T08:34:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 32.5,
+        "upload_sec": 59.3
+      }
     }
   ],
   "failed_attempts": [
@@ -65048,5 +65067,5 @@
       "failed_at": "2026-06-24T06:35:08Z"
     }
   ],
-  "last_updated": "2026-06-24T08:32:25Z"
+  "last_updated": "2026-06-24T08:34:03Z"
 }
