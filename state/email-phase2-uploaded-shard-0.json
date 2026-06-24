@@ -77054,6 +77054,25 @@
         "download_sec": 24.8,
         "upload_sec": 34.1
       }
+    },
+    {
+      "cr_film_id": 24686,
+      "cr_slug": "cabriolet",
+      "title": "Cabriolet",
+      "year": 2001,
+      "display_name": "Cabriolet (2001)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5820e594cea9f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26430143,
+      "size_bytes": 508406392,
+      "uploaded_at": "2026-06-24T07:15:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.1,
+        "upload_sec": 30.4
+      }
     }
   ],
   "failed_attempts": [
@@ -78520,5 +78539,5 @@
       "failed_at": "2026-06-24T06:06:25Z"
     }
   ],
-  "last_updated": "2026-06-24T07:14:42Z"
+  "last_updated": "2026-06-24T07:15:48Z"
 }
