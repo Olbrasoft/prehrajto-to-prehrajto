@@ -28815,3 +28815,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [09:28:36]   upload done video_id=26446187 in 28.4s
 [09:28:38] film cr_film_id=23669 OK in 61.9s
 [09:28:38] batch-end ok=20 failed=0 dur=2577.9s avg/film=128.9s remaining=5961 eta_hours=213.4
+
+===== run 2026-06-24T09:29:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28088904712) =====
+[09:29:17] batch-start shard=1/2 count=20 backlog=10210 uploads=4249 failed_attempts=187 description_overrides=0
+[09:29:17] login
+[09:29:18] login done
+[09:29:18] iteration 1/20
+[09:29:18] film cr_film_id=23721 name='Porotce (1996)' candidates=1
+[09:29:18]   candidate upload_id=6694b4996a3db url=https://prehraj.to/porotce-1996-cz/6694b4996a3db
+[09:29:19]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/84880847/e75cgyijJIqeS5QFJEhrgiDRTNyFa3uMetk8…)
+[09:30:19]   downloaded 1,275.9 MB in 57.5s (22.2 MB/s)
+[09:31:27]   upload done video_id=26446418 in 68.5s
