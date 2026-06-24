@@ -63656,6 +63656,25 @@
         "download_sec": 19.6,
         "upload_sec": 20.4
       }
+    },
+    {
+      "cr_film_id": 12415,
+      "cr_slug": "vasnivy-tanec",
+      "title": "Vášnivý tanec",
+      "year": 1998,
+      "display_name": "Vášnivý tanec (1998) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68d156c24fdc5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26446890,
+      "size_bytes": 3463324234,
+      "uploaded_at": "2026-06-24T09:38:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 151.4,
+        "upload_sec": 209.1
+      }
     }
   ],
   "failed_attempts": [
@@ -65834,5 +65853,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T09:32:40Z"
+  "last_updated": "2026-06-24T09:38:45Z"
 }
