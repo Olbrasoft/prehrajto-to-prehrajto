@@ -28133,3 +28133,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [05:20:07]   upload done video_id=26415582 in 23.2s
 [05:20:08] film cr_film_id=24958 OK in 46.9s
 [05:20:08] batch-end ok=20 failed=0 dur=1924.0s avg/film=96.2s remaining=6045 eta_hours=161.5
+
+===== run 2026-06-24T05:20:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28077039304) =====
+[05:20:45] batch-start shard=0/2 count=20 backlog=10210 uploads=4165 failed_attempts=201 description_overrides=0
+[05:20:45] login
+[05:20:47] login done
+[05:20:47] iteration 1/20
+[05:20:47] film cr_film_id=13018 name='Velký průšvih (2002)' candidates=1
+[05:20:47]   candidate upload_id=6846bb9c2dbf9 url=https://prehraj.to/velky-prusvih-big-trouble-2002-1080p-cz/6846bb9c2dbf9
+[05:20:48]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/139519757/2jGt7oTVMUMVtdMh9zSO2Td5ug1UMvF1lFm…)
+[05:23:03]   downloaded 3,067.2 MB in 133.0s (23.1 MB/s)
+[05:27:08]   upload done video_id=26415984 in 244.3s
