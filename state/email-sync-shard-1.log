@@ -22292,3 +22292,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:35:12]   upload done video_id=26378230 in 29.8s
 [00:35:14] film cr_film_id=11885 OK in 58.1s
 [00:35:14] batch-end ok=20 failed=0 dur=2421.1s avg/film=121.1s remaining=14344 eta_hours=482.5
+
+===== run 2026-06-24T00:36:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28066817402) =====
+[00:36:01] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:36:01] batch-start shard=1/2 count=20 backlog=17650 uploads=3306 failed_attempts=301 description_overrides=17579
+[00:36:01] login
+[00:36:03] login done
+[00:36:03] iteration 1/20
+[00:36:03] film cr_film_id=11893 name='Bílý policajt s černým srdcem (1990) CZ' candidates=1
+[00:36:03]   candidate upload_id=70dbfd51c9e24a6c url=https://prehraj.to/heart-condition-bily-policajt-s-cernym-srdcem-1990-eng-fra-cze-1080p-webrip-x264-aac-rht-mp4/70dbfd51c9e24a6c
+[00:36:04]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/162576194/NLjFMyiyRIKvtbkT9GsWNiRLsY0s4QhDKFW…)
+[00:37:11]   downloaded 1,348.8 MB in 64.6s (20.9 MB/s)
+[00:38:21]   upload done video_id=26378551 in 70.5s
