@@ -78422,6 +78422,25 @@
         "download_sec": 30.2,
         "upload_sec": 40.0
       }
+    },
+    {
+      "cr_film_id": 14106,
+      "cr_slug": "lijavec",
+      "title": "Lijavec",
+      "year": 1997,
+      "display_name": "Lijavec (1997)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a8d08d671eeb",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26451787,
+      "size_bytes": 393638755,
+      "uploaded_at": "2026-06-24T10:16:20Z",
+      "timing": {
+        "resolve_sec": 5.5,
+        "download_sec": 19.8,
+        "upload_sec": 25.0
+      }
     }
   ],
   "failed_attempts": [
@@ -79909,5 +79928,5 @@
       "failed_at": "2026-06-24T09:34:17Z"
     }
   ],
-  "last_updated": "2026-06-24T10:15:24Z"
+  "last_updated": "2026-06-24T10:16:20Z"
 }
