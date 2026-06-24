@@ -23093,3 +23093,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:10:22]   upload done video_id=26429084 in 176.1s
 [07:10:24] film cr_film_id=11762 OK in 302.4s
 [07:10:24] batch-end ok=19 failed=1 dur=2580.8s avg/film=135.8s remaining=14227 eta_hours=536.7
+
+===== run 2026-06-24T07:16:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28081914220) =====
+[07:16:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:16:27] batch-start shard=0/2 count=20 backlog=17650 uploads=3423 failed_attempts=338 description_overrides=17579
+[07:16:27] login
+[07:16:29] login done
+[07:16:29] iteration 1/20
+[07:16:29] film cr_film_id=11764 name='Mac a já (1988) CZ Dabing' candidates=2
+[07:16:29]   candidate upload_id=5bb8af1ee3321 url=https://prehraj.to/mac-a-ja-1988-cz-dabing/5bb8af1ee3321
+[07:16:30]   resolved in 1.7s → 480p (https://pf-storage1.premiumcdn.net/6953792/NLVunmTlMhykCNWUxQFrLTpViklCy7H4NHnQI…)
+[07:16:58]   downloaded 677.5 MB in 25.8s (26.3 MB/s)
+[07:17:23]   upload done video_id=26430306 in 25.2s
