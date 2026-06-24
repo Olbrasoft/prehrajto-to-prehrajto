@@ -80456,6 +80456,25 @@
         "download_sec": 43.3,
         "upload_sec": 47.9
       }
+    },
+    {
+      "cr_film_id": 11841,
+      "cr_slug": "paprika",
+      "title": "Paprika",
+      "year": 1991,
+      "display_name": "Paprika (1991)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5cfc6f2f0699ad16",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26492640,
+      "size_bytes": 586199809,
+      "uploaded_at": "2026-06-24T15:38:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.1,
+        "upload_sec": 30.8
+      }
     }
   ],
   "failed_attempts": [
@@ -81886,5 +81905,5 @@
       "failed_at": "2026-06-24T14:26:53Z"
     }
   ],
-  "last_updated": "2026-06-24T15:37:51Z"
+  "last_updated": "2026-06-24T15:38:52Z"
 }
