@@ -73843,6 +73843,25 @@
         "download_sec": 16.0,
         "upload_sec": 25.0
       }
+    },
+    {
+      "cr_film_id": 4170,
+      "cr_slug": "zmije",
+      "title": "Zmije",
+      "year": 2006,
+      "display_name": "Zmije (2006)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a8eac0a4dcae",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26386087,
+      "size_bytes": 1408882796,
+      "uploaded_at": "2026-06-24T01:35:34Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 50.8,
+        "upload_sec": 72.7
+      }
     }
   ],
   "failed_attempts": [
@@ -75295,5 +75314,5 @@
       "failed_at": "2026-06-24T01:29:19Z"
     }
   ],
-  "last_updated": "2026-06-24T01:33:26Z"
+  "last_updated": "2026-06-24T01:35:34Z"
 }
