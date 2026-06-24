@@ -29152,3 +29152,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:55:57]   upload done video_id=26456950 in 28.5s
 [10:55:59] film cr_film_id=24000 OK in 61.6s
 [10:55:59] batch-end ok=20 failed=0 dur=2147.8s avg/film=107.4s remaining=5908 eta_hours=176.3
+
+===== run 2026-06-24T10:56:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28093554454) =====
+[10:56:44] batch-start shard=0/2 count=20 backlog=10210 uploads=4302 failed_attempts=205 description_overrides=0
+[10:56:44] login
+[10:56:45] login done
+[10:56:45] iteration 1/20
+[10:56:45] film cr_film_id=23740 name='Panna Nikt (1996)' candidates=1
+[10:56:45]   candidate upload_id=55b777d93c57c url=https://prehraj.to/panna-nikt-1996/55b777d93c57c
+[10:56:47]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/38587/M4QfGOCR4iw5h4ksMZIA7CpASjPTXdiD2ug8sG2…)
+[10:59:00]   downloaded 657.8 MB in 131.3s (5.0 MB/s)
+[10:59:42]   upload done video_id=26457493 in 41.6s
