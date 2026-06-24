@@ -65870,6 +65870,25 @@
         "download_sec": 65.0,
         "upload_sec": 48.8
       }
+    },
+    {
+      "cr_film_id": 12330,
+      "cr_slug": "romeo-a-julie",
+      "title": "Romeo a Julie",
+      "year": 1996,
+      "display_name": "Romeo a Julie (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6400e48c1261e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26497263,
+      "size_bytes": 3584007055,
+      "uploaded_at": "2026-06-24T16:28:11Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 264.2,
+        "upload_sec": 195.4
+      }
     }
   ],
   "failed_attempts": [
@@ -68313,5 +68332,5 @@
       "failed_at": "2026-06-24T16:10:45Z"
     }
   ],
-  "last_updated": "2026-06-24T16:20:26Z"
+  "last_updated": "2026-06-24T16:28:11Z"
 }
