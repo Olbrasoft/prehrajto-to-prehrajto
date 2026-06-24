@@ -24267,3 +24267,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:06:01]   upload done video_id=26482125 in 58.9s
 [14:06:03] film cr_film_id=12200 OK in 86.4s
 [14:06:03] batch-end ok=19 failed=1 dur=2104.8s avg/film=110.8s remaining=14068 eta_hours=433.0
+
+===== run 2026-06-24T14:33:16Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28106182783) =====
+[14:33:18] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:33:18] batch-start shard=0/2 count=20 backlog=17650 uploads=3582 failed_attempts=339 description_overrides=17579
+[14:33:18] login
+[14:33:20] login done
+[14:33:20] iteration 1/20
+[14:33:20] film cr_film_id=12204 name='Americký prezident (1995) CZ Dabing' candidates=6
+[14:33:20]   candidate upload_id=6766f1995b2d3 url=https://prehraj.to/americky-prezident-michael-douglas-annette-bening-martin-sheen-michael-j-fox-1995-komedie-drama-romanticky-bdrip-1080p-cz-dabing/6766f1995b2d3
+[14:33:21]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/126575870/YbAHy8FB2Iw2InBTYnhNxFwZCQnUoqikyh6…)
+[14:34:32]   downloaded 2,079.5 MB in 68.8s (30.2 MB/s)
+[14:36:18]   upload done video_id=26485828 in 106.6s
