@@ -29587,3 +29587,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:16:15]   upload done video_id=26483025 in 222.5s
 [14:16:18] film cr_film_id=12166 OK in 403.8s
 [14:16:18] batch-end ok=20 failed=0 dur=4292.2s avg/film=214.6s remaining=5850 eta_hours=348.7
+
+===== run 2026-06-24T14:16:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28105119395) =====
+[14:16:59] batch-start shard=0/2 count=20 backlog=10210 uploads=4360 failed_attempts=207 description_overrides=0
+[14:16:59] login
+[14:17:01] login done
+[14:17:01] iteration 1/20
+[14:17:01] film cr_film_id=32876 name='Hammers Over the Anvil (1994)' candidates=1
+[14:17:01]   candidate upload_id=5881d1df99153 url=https://prehraj.to/mezi-kladivem-a-kovadlinou-hammers-over-the-anvil-1993-srt-cz/5881d1df99153
+[14:17:02]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/1491306/6gQcznsbWSA9sX9hQGfNxsd6HeaT4pCPwIWVT…)
+[14:17:53]   downloaded 906.2 MB in 48.4s (18.7 MB/s)
+[14:18:48]   upload done video_id=26483759 in 54.8s
