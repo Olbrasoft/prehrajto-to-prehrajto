@@ -81596,6 +81596,25 @@
         "download_sec": 5.6,
         "upload_sec": 6.8
       }
+    },
+    {
+      "cr_film_id": 23035,
+      "cr_slug": "jednej-spravne",
+      "title": "Jednej správně",
+      "year": 1989,
+      "display_name": "Jednej správně (1989)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "623896524d8ea",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26508867,
+      "size_bytes": 3909610611,
+      "uploaded_at": "2026-06-24T18:24:06Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 283.3,
+        "upload_sec": 146.5
+      }
     }
   ],
   "failed_attempts": [
@@ -83026,5 +83045,5 @@
       "failed_at": "2026-06-24T14:26:53Z"
     }
   ],
-  "last_updated": "2026-06-24T18:16:53Z"
+  "last_updated": "2026-06-24T18:24:06Z"
 }
