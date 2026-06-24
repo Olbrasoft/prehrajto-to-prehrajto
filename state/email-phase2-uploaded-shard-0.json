@@ -81386,6 +81386,25 @@
         "download_sec": 24.2,
         "upload_sec": 26.4
       }
+    },
+    {
+      "cr_film_id": 19408,
+      "cr_slug": "mcbain",
+      "title": "McBain",
+      "year": 1991,
+      "display_name": "McBain (1991)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5aa6512f1e187",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26502633,
+      "size_bytes": 1639889889,
+      "uploaded_at": "2026-06-24T17:18:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 65.2,
+        "upload_sec": 65.9
+      }
     }
   ],
   "failed_attempts": [
@@ -82901,5 +82920,5 @@
       "failed_at": "2026-06-24T15:20:25Z"
     }
   ],
-  "last_updated": "2026-06-24T17:16:00Z"
+  "last_updated": "2026-06-24T17:18:15Z"
 }
