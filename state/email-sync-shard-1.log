@@ -24944,3 +24944,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:49:46]   upload done video_id=26499783 in 79.6s
 [16:49:49] film cr_film_id=12865 OK in 149.2s
 [16:49:49] batch-end ok=20 failed=0 dur=2469.3s avg/film=123.5s remaining=13984 eta_hours=479.7
+
+===== run 2026-06-24T17:00:33Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28115475638) =====
+[17:00:35] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:00:35] batch-start shard=1/2 count=20 backlog=17650 uploads=3666 failed_attempts=303 description_overrides=17579
+[17:00:35] login
+[17:00:39] login done
+[17:00:39] iteration 1/20
+[17:00:39] film cr_film_id=12871 name='Proroctví meče (1996) CZ Dabing' candidates=1
+[17:00:39]   candidate upload_id=5d000e57ae8bc url=https://prehraj.to/book-of-swords-cz-dab-mp4/5d000e57ae8bc
+[17:00:40]   resolved in 1.4s → 480p (https://pf-storage5.premiumcdn.net/13906206/BDetZ4I5nfLZs4xHEWf7oIOrTxjiDrudYSO1…)
+[17:01:06]   downloaded 432.5 MB in 23.3s (18.6 MB/s)
+[17:01:31]   upload done video_id=26501097 in 25.0s
