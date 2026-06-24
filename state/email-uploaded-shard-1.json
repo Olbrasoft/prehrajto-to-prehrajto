@@ -62421,6 +62421,25 @@
         "download_sec": 66.6,
         "upload_sec": 83.8
       }
+    },
+    {
+      "cr_film_id": 12237,
+      "cr_slug": "silenstvi",
+      "title": "Šílenství",
+      "year": 1994,
+      "display_name": "Šílenství (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ac2564fa6408",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26427484,
+      "size_bytes": 725084730,
+      "uploaded_at": "2026-06-24T06:55:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.9,
+        "upload_sec": 51.6
+      }
     }
   ],
   "failed_attempts": [
@@ -64599,5 +64618,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T06:54:02Z"
+  "last_updated": "2026-06-24T06:55:31Z"
 }
