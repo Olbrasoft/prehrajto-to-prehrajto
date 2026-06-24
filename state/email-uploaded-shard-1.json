@@ -61756,6 +61756,25 @@
         "download_sec": 26.3,
         "upload_sec": 28.1
       }
+    },
+    {
+      "cr_film_id": 12149,
+      "cr_slug": "hamouni",
+      "title": "Hamouni",
+      "year": 1994,
+      "display_name": "Hamouni (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5828c30dcac72",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26415018,
+      "size_bytes": 757362781,
+      "uploaded_at": "2026-06-24T05:15:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 28.3,
+        "upload_sec": 35.1
+      }
     }
   ],
   "failed_attempts": [
@@ -63934,5 +63953,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T05:14:37Z"
+  "last_updated": "2026-06-24T05:15:44Z"
 }
