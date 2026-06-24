@@ -29297,3 +29297,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [12:30:42]   upload done video_id=26469494 in 53.1s
 [12:30:45] film cr_film_id=12326 OK in 164.9s
 [12:30:45] batch-end ok=19 failed=1 dur=5639.6s avg/film=296.8s remaining=5889 eta_hours=485.5
+
+===== run 2026-06-24T12:31:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28098615825) =====
+[12:31:22] batch-start shard=0/2 count=20 backlog=10210 uploads=4321 failed_attempts=206 description_overrides=0
+[12:31:22] login
+[12:31:23] login done
+[12:31:23] iteration 1/20
+[12:31:23] film cr_film_id=12230 name='Zapomeň na Paříž (1995)' candidates=1
+[12:31:23]   candidate upload_id=5ad9f89f3dda8 url=https://prehraj.to/zapomen-na-pariz-1995/5ad9f89f3dda8
+[12:31:24]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3915054/ARpFYKHN7HgMhwgtZpsg8Ha8I3dTjLC8riXOc…)
+[12:31:44]   downloaded 466.9 MB in 18.2s (25.7 MB/s)
+[12:32:03]   upload done video_id=26469810 in 18.8s
