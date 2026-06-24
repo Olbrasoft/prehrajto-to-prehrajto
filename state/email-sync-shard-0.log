@@ -22972,3 +22972,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:33:57]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/18939314/xB1tYNcoGszvTZAHO5FmocvPsV2hdlfABSlp…)
 [06:34:29]   downloaded 500.5 MB in 29.7s (16.9 MB/s)
 [06:34:59]   upload done video_id=26425068 in 30.2s
+[06:35:01] film cr_film_id=11720 OK in 65.4s
+[06:35:01] iteration 4/20
+[06:35:01] film cr_film_id=11724 name='Čarodějky z Eastwicku (1987) CZ' candidates=2
+[06:35:01]   candidate upload_id=690369ffcd05d url=https://prehraj.to/carodejky-z-eastwicku-1987-fhd-1080p-cz-310/690369ffcd05d
+[06:35:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodejky-z-eastwicku-1987-fhd-1080p-cz-310/690369ffcd05d (permanent=True)
+[06:35:02]   candidate upload_id=6901f251eb170 url=https://prehraj.to/carodejky-z-eastwicku-1987-fhd-cz-en/6901f251eb170
+[06:35:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/carodejky-z-eastwicku-1987-fhd-cz-en/6901f251eb170 (permanent=True)
+[06:35:08] film cr_film_id=11724 all candidates exhausted
+[06:35:08] iteration 5/20
+[06:35:08] film cr_film_id=11726 name='Něžní zmatkáři (1987) CZ' candidates=1
+[06:35:08]   candidate upload_id=63ea869c322d2 url=https://prehraj.to/nezni-zmatkari-1987-cz-de/63ea869c322d2
+[06:35:14]   resolved in 6.2s → 1080p (https://pf-storage3.premiumcdn.net/37369351/aK5swyT5jI9xSWxsbDcP5TxWhbqSBbsEKu1V…)
+[06:39:36]   downloaded 4,849.3 MB in 260.4s (18.6 MB/s)
+[06:45:03]   upload done video_id=26425657 in 326.3s
