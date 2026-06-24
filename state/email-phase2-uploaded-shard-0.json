@@ -81234,6 +81234,25 @@
         "download_sec": 12.9,
         "upload_sec": 13.5
       }
+    },
+    {
+      "cr_film_id": 35770,
+      "cr_slug": "sedem-jednou-ranou",
+      "title": "Sedem jednou ranou",
+      "year": 1991,
+      "display_name": "Sedem jednou ranou (1991)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "678abc04de177",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26501135,
+      "size_bytes": 1281929884,
+      "uploaded_at": "2026-06-24T17:03:50Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 60.2,
+        "upload_sec": 111.0
+      }
     }
   ],
   "failed_attempts": [
@@ -82749,5 +82768,5 @@
       "failed_at": "2026-06-24T15:20:25Z"
     }
   ],
-  "last_updated": "2026-06-24T17:00:53Z"
+  "last_updated": "2026-06-24T17:03:50Z"
 }
