@@ -25238,3 +25238,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:29:44]   upload done video_id=26521063 in 85.8s
 [20:29:46] film cr_film_id=12981 OK in 171.0s
 [20:29:46] batch-end ok=20 failed=0 dur=8432.3s avg/film=421.6s remaining=13944 eta_hours=1633.0
+
+===== run 2026-06-24T20:30:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28127616275) =====
+[20:30:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:30:27] batch-start shard=1/2 count=20 backlog=17650 uploads=3706 failed_attempts=303 description_overrides=17579
+[20:30:27] login
+[20:30:28] login done
+[20:30:28] iteration 1/20
+[20:30:28] film cr_film_id=12983 name='Dr. Dolittle 2 (2001) CZ Dabing' candidates=5
+[20:30:28]   candidate upload_id=605b8133adaf0 url=https://prehraj.to/dr-dolittle-2-2001-czdab/605b8133adaf0
+[20:30:29]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/22798499/KvAuk6UWxh1buZbFEgTewUeRFV3IRdC47iYy…)
+[20:31:22]   downloaded 1,886.9 MB in 50.6s (37.3 MB/s)
+[20:32:23]   upload done video_id=26521329 in 61.3s
