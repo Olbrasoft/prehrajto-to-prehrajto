@@ -27695,3 +27695,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:37:11]   upload done video_id=26401982 in 34.0s
 [03:37:13] film cr_film_id=13692 OK in 62.0s
 [03:37:13] batch-end ok=20 failed=0 dur=2387.9s avg/film=119.4s remaining=6105 eta_hours=202.5
+
+===== run 2026-06-24T03:37:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28073395409) =====
+[03:37:45] batch-start shard=0/2 count=20 backlog=10210 uploads=4105 failed_attempts=201 description_overrides=0
+[03:37:45] login
+[03:37:47] login done
+[03:37:47] iteration 1/20
+[03:37:47] film cr_film_id=32398 name='Antikörper (2005)' candidates=1
+[03:37:47]   candidate upload_id=580e0c0dc02cd url=https://prehraj.to/antibodies-2006-truefrench-dvdrip-streamingdo-com-avi/580e0c0dc02cd
+[03:37:48]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/746410/A6MHwYUGbs68IJehl2hD9Uj3C9oU9EHzACPqSZ…)
+[03:38:08]   downloaded 501.2 MB in 18.8s (26.7 MB/s)
+[03:38:42]   upload done video_id=26402176 in 34.1s
