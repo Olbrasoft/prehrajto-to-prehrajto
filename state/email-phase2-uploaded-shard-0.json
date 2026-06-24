@@ -79771,6 +79771,25 @@
         "download_sec": 33.5,
         "upload_sec": 46.8
       }
+    },
+    {
+      "cr_film_id": 29066,
+      "cr_slug": "pink-floyd-the-story",
+      "title": "Pink Floyd: The Story",
+      "year": 1994,
+      "display_name": "Pink Floyd: The Story (1994)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6678432e01253",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26480044,
+      "size_bytes": 1672879387,
+      "uploaded_at": "2026-06-24T13:48:08Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 88.5,
+        "upload_sec": 109.7
+      }
     }
   ],
   "failed_attempts": [
@@ -81272,5 +81291,5 @@
       "failed_at": "2026-06-24T12:41:51Z"
     }
   ],
-  "last_updated": "2026-06-24T13:44:43Z"
+  "last_updated": "2026-06-24T13:48:08Z"
 }
