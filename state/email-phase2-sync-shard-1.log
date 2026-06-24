@@ -27504,3 +27504,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [02:47:31]   upload done video_id=26395583 in 31.7s
 [02:47:33] film cr_film_id=35401 OK in 61.2s
 [02:47:33] batch-end ok=20 failed=0 dur=1410.8s avg/film=70.5s remaining=6137 eta_hours=120.2
+
+===== run 2026-06-24T02:57:11Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28071954804) =====
+[02:57:12] batch-start shard=1/2 count=20 backlog=10210 uploads=4073 failed_attempts=181 description_overrides=0
+[02:57:12] login
+[02:57:24] login done
+[02:57:24] iteration 1/20
+[02:57:24] film cr_film_id=26825 name='Def Leppard - Best of the Videos (2004)' candidates=1
+[02:57:24]   candidate upload_id=5889db1258540 url=https://prehraj.to/def-leppard-best-of-the-videos-2004/5889db1258540
+[02:57:27]   resolved in 3.0s → 480p (https://pf-storage2.premiumcdn.net/1538357/4x5h7aukDImzHpLtXxF0wuD1cOzCgrTepilnf…)
+[02:58:09]   downloaded 1,131.4 MB in 41.1s (27.5 MB/s)
+[02:59:15]   upload done video_id=26396969 in 66.0s
