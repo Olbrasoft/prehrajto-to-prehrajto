@@ -30606,3 +30606,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [21:48:06]   upload done video_id=26529447 in 48.4s
 [21:48:09] film cr_film_id=23018 OK in 99.6s
 [21:48:09] batch-end ok=20 failed=0 dur=6348.6s avg/film=317.4s remaining=5712 eta_hours=503.6
+
+===== run 2026-06-24T21:49:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28131852938) =====
+[21:49:32] batch-start shard=0/2 count=20 backlog=10210 uploads=4498 failed_attempts=210 description_overrides=0
+[21:49:32] login
+[21:49:34] login done
+[21:49:34] iteration 1/20
+[21:49:34] film cr_film_id=23030 name='Kainovo znamení (1989)' candidates=1
+[21:49:34]   candidate upload_id=58528b8a5457e url=https://prehraj.to/kainovo-znameni-czarny-wawoz-mark-of-cain-1989-cz/58528b8a5457e
+[21:49:35]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/1178161/aM2IzmTV3fX9FWlIQXu48TMdFGRIZ5CYpHlzt…)
+[21:51:08]   downloaded 2,264.5 MB in 90.5s (25.0 MB/s)
+[21:53:30]   upload done video_id=26529808 in 142.8s
