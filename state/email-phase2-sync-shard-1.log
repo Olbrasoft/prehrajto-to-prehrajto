@@ -29403,3 +29403,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:03:57]   upload done video_id=26474306 in 33.2s
 [13:03:59] film cr_film_id=12121 OK in 69.6s
 [13:03:59] batch-end ok=20 failed=0 dur=1952.4s avg/film=97.6s remaining=5883 eta_hours=159.5
+
+===== run 2026-06-24T13:04:41Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28100553157) =====
+[13:04:41] batch-start shard=1/2 count=20 backlog=10210 uploads=4327 failed_attempts=193 description_overrides=0
+[13:04:41] login
+[13:04:43] login done
+[13:04:43] iteration 1/20
+[13:04:43] film cr_film_id=12069 name='Temná polovina (1993)' candidates=1
+[13:04:43]   candidate upload_id=5ad15d6c5c63b url=https://prehraj.to/temna-polovina-1993/5ad15d6c5c63b
+[13:04:44]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/3870259/Aabu4oCPotoZt17s7DcqyC6aSj0S41SlMU6mT…)
+[13:05:59]   downloaded 957.4 MB in 73.1s (13.1 MB/s)
+[13:06:57]   upload done video_id=26474682 in 57.7s
