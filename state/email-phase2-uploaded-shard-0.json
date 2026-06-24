@@ -78517,6 +78517,25 @@
         "download_sec": 52.3,
         "upload_sec": 74.9
       }
+    },
+    {
+      "cr_film_id": 12348,
+      "cr_slug": "amistad",
+      "title": "Amistad",
+      "year": 1997,
+      "display_name": "Amistad (1997)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68bb04b398933",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26453627,
+      "size_bytes": 3158754334,
+      "uploaded_at": "2026-06-24T10:31:13Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 86.8,
+        "upload_sec": 117.0
+      }
     }
   ],
   "failed_attempts": [
@@ -80004,5 +80023,5 @@
       "failed_at": "2026-06-24T09:34:17Z"
     }
   ],
-  "last_updated": "2026-06-24T10:27:44Z"
+  "last_updated": "2026-06-24T10:31:13Z"
 }
