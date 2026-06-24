@@ -81026,6 +81026,25 @@
         "download_sec": 21.6,
         "upload_sec": 33.5
       }
+    },
+    {
+      "cr_film_id": 23141,
+      "cr_slug": "princ-slunce",
+      "title": "Princ slunce",
+      "year": 1990,
+      "display_name": "Princ slunce (1990)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55b6270574ac0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26501391,
+      "size_bytes": 714159873,
+      "uploaded_at": "2026-06-24T17:05:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 38.0,
+        "upload_sec": 31.3
+      }
     }
   ],
   "failed_attempts": [
@@ -82456,5 +82475,5 @@
       "failed_at": "2026-06-24T14:26:53Z"
     }
   ],
-  "last_updated": "2026-06-24T17:04:00Z"
+  "last_updated": "2026-06-24T17:05:14Z"
 }
