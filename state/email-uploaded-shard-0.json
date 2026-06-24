@@ -59676,6 +59676,25 @@
         "download_sec": 16.8,
         "upload_sec": 30.3
       }
+    },
+    {
+      "cr_film_id": 11414,
+      "cr_slug": "vabank-1981",
+      "title": "Vabank",
+      "year": 1981,
+      "display_name": "Vabank (1981) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68ff75bc2b269",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26382176,
+      "size_bytes": 2861239101,
+      "uploaded_at": "2026-06-24T01:08:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 101.7,
+        "upload_sec": 179.4
+      }
     }
   ],
   "failed_attempts": [
@@ -62058,5 +62077,5 @@
       "failed_at": "2026-06-24T00:37:03Z"
     }
   ],
-  "last_updated": "2026-06-24T01:03:48Z"
+  "last_updated": "2026-06-24T01:08:34Z"
 }
