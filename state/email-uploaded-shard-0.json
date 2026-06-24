@@ -65376,6 +65376,25 @@
         "download_sec": 20.0,
         "upload_sec": 20.5
       }
+    },
+    {
+      "cr_film_id": 12248,
+      "cr_slug": "loch-ness",
+      "title": "Loch Ness",
+      "year": 1996,
+      "display_name": "Loch Ness (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66d31bdc7c263",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26489583,
+      "size_bytes": 1972234687,
+      "uploaded_at": "2026-06-24T15:09:54Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 65.3,
+        "upload_sec": 96.1
+      }
     }
   ],
   "failed_attempts": [
@@ -67798,5 +67817,5 @@
       "failed_at": "2026-06-24T14:50:41Z"
     }
   ],
-  "last_updated": "2026-06-24T15:07:08Z"
+  "last_updated": "2026-06-24T15:09:54Z"
 }
