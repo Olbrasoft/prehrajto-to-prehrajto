@@ -64160,6 +64160,25 @@
         "download_sec": 32.5,
         "upload_sec": 37.0
       }
+    },
+    {
+      "cr_film_id": 12070,
+      "cr_slug": "dave",
+      "title": "Dave",
+      "year": 1993,
+      "display_name": "Dave (1993) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61032852efdd3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26467947,
+      "size_bytes": 3868518674,
+      "uploaded_at": "2026-06-24T12:20:57Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 208.1,
+        "upload_sec": 221.6
+      }
     }
   ],
   "failed_attempts": [
@@ -66568,5 +66587,5 @@
       "failed_at": "2026-06-24T06:35:08Z"
     }
   ],
-  "last_updated": "2026-06-24T12:13:41Z"
+  "last_updated": "2026-06-24T12:20:57Z"
 }
