@@ -79069,6 +79069,25 @@
         "download_sec": 45.2,
         "upload_sec": 53.5
       }
+    },
+    {
+      "cr_film_id": 23495,
+      "cr_slug": "exotica",
+      "title": "Exotica",
+      "year": 1994,
+      "display_name": "Exotica (1994)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab67b1fee6d8",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26470892,
+      "size_bytes": 1311445817,
+      "uploaded_at": "2026-06-24T12:40:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 57.1,
+        "upload_sec": 81.5
+      }
     }
   ],
   "failed_attempts": [
@@ -80492,5 +80511,5 @@
       "failed_at": "2026-06-24T11:03:26Z"
     }
   ],
-  "last_updated": "2026-06-24T12:38:19Z"
+  "last_updated": "2026-06-24T12:40:43Z"
 }
