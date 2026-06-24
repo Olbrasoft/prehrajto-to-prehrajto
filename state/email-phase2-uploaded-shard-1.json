@@ -82812,6 +82812,25 @@
         "download_sec": 43.1,
         "upload_sec": 51.4
       }
+    },
+    {
+      "cr_film_id": 11599,
+      "cr_slug": "vabank-ii",
+      "title": "Vabank II",
+      "year": 1985,
+      "display_name": "Vabank II (1985)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5855507aef76f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26535835,
+      "size_bytes": 575571559,
+      "uploaded_at": "2026-06-24T22:50:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 33.8,
+        "upload_sec": 33.9
+      }
     }
   ],
   "failed_attempts": [
@@ -84277,5 +84296,5 @@
       "failed_at": "2026-06-24T21:33:08Z"
     }
   ],
-  "last_updated": "2026-06-24T22:49:37Z"
+  "last_updated": "2026-06-24T22:50:51Z"
 }
