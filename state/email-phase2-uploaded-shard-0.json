@@ -74736,6 +74736,25 @@
         "download_sec": 55.8,
         "upload_sec": 71.4
       }
+    },
+    {
+      "cr_film_id": 3042,
+      "cr_slug": "ostrov",
+      "title": "Ostrov",
+      "year": 2005,
+      "display_name": "Ostrov (2005)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "67b54a59ade00",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26397638,
+      "size_bytes": 4524420819,
+      "uploaded_at": "2026-06-24T03:08:59Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 194.6,
+        "upload_sec": 317.9
+      }
     }
   ],
   "failed_attempts": [
@@ -76188,5 +76207,5 @@
       "failed_at": "2026-06-24T01:29:19Z"
     }
   ],
-  "last_updated": "2026-06-24T03:00:19Z"
+  "last_updated": "2026-06-24T03:08:59Z"
 }
