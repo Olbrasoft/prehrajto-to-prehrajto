@@ -82299,6 +82299,25 @@
         "download_sec": 175.1,
         "upload_sec": 156.4
       }
+    },
+    {
+      "cr_film_id": 11693,
+      "cr_slug": "horke-pronasledovani",
+      "title": "Horké pronásledování",
+      "year": 1987,
+      "display_name": "Horké pronásledování (1987)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68ff74fbae90c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26528194,
+      "size_bytes": 1678722935,
+      "uploaded_at": "2026-06-24T21:39:26Z",
+      "timing": {
+        "resolve_sec": 4.3,
+        "download_sec": 215.7,
+        "upload_sec": 156.0
+      }
     }
   ],
   "failed_attempts": [
@@ -83748,7 +83767,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/atrakce-svedskeho-zajezdu-1989-cz/910c8d48ecd8007e",
       "permanent": true,
       "failed_at": "2026-06-24T18:56:22Z"
+    },
+    {
+      "cr_film_id": 29889,
+      "upload_id": "5e36044b13451",
+      "reason": "oversize: 7485048895 B",
+      "permanent": true,
+      "failed_at": "2026-06-24T21:33:02Z"
+    },
+    {
+      "cr_film_id": 29889,
+      "upload_id": "5e6874c38ea10",
+      "reason": "oversize: 7467319510 B",
+      "permanent": true,
+      "failed_at": "2026-06-24T21:33:08Z"
     }
   ],
-  "last_updated": "2026-06-24T21:32:54Z"
+  "last_updated": "2026-06-24T21:39:26Z"
 }
