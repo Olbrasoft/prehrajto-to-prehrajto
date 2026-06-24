@@ -75459,6 +75459,25 @@
         "download_sec": 30.0,
         "upload_sec": 77.2
       }
+    },
+    {
+      "cr_film_id": 13263,
+      "cr_slug": "invaze-2002",
+      "title": "Invaze",
+      "year": 2002,
+      "display_name": "Invaze (2002)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5e9072e9cde40",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26408383,
+      "size_bytes": 409515771,
+      "uploaded_at": "2026-06-24T04:27:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.2,
+        "upload_sec": 28.3
+      }
     }
   ],
   "failed_attempts": [
@@ -76805,5 +76824,5 @@
       "failed_at": "2026-06-24T03:55:49Z"
     }
   ],
-  "last_updated": "2026-06-24T04:26:37Z"
+  "last_updated": "2026-06-24T04:27:27Z"
 }
