@@ -30724,3 +30724,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [22:42:38]   upload done video_id=26534946 in 21.5s
 [22:42:40] film cr_film_id=30387 OK in 47.6s
 [22:42:40] batch-end ok=20 failed=0 dur=3184.6s avg/film=159.2s remaining=5705 eta_hours=252.3
+
+===== run 2026-06-24T22:43:14Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28134375596) =====
+[22:43:15] batch-start shard=1/2 count=20 backlog=10210 uploads=4505 failed_attempts=199 description_overrides=0
+[22:43:15] login
+[22:43:17] login done
+[22:43:17] iteration 1/20
+[22:43:17] film cr_film_id=22845 name='Aladinova lampa (1986)' candidates=1
+[22:43:17]   candidate upload_id=61e8029c66f55 url=https://prehraj.to/aladinova-lampa-1986/61e8029c66f55
+[22:43:18]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/28521420/RmaiObFAjUaRIePinYfdZFkdHMdhAdsr2U5K…)
+[22:44:17]   downloaded 1,317.6 MB in 57.1s (23.1 MB/s)
+[22:45:42]   upload done video_id=26535181 in 85.6s
