@@ -80512,6 +80512,25 @@
         "download_sec": 28.8,
         "upload_sec": 36.2
       }
+    },
+    {
+      "cr_film_id": 2648,
+      "cr_slug": "firma",
+      "title": "Firma",
+      "year": 1993,
+      "display_name": "Firma (1993)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68fd7c54218d6",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26491267,
+      "size_bytes": 4187085364,
+      "uploaded_at": "2026-06-24T15:26:07Z",
+      "timing": {
+        "resolve_sec": 4.5,
+        "download_sec": 165.6,
+        "upload_sec": 170.8
+      }
     }
   ],
   "failed_attempts": [
@@ -82018,7 +82037,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nahota-na-prodej-mp4/155131ef9ecfbbb8",
       "permanent": true,
       "failed_at": "2026-06-24T15:18:13Z"
+    },
+    {
+      "cr_film_id": 2648,
+      "upload_id": "65a9a65c9a46d",
+      "reason": "oversize: 6319133230 B",
+      "permanent": true,
+      "failed_at": "2026-06-24T15:20:25Z"
     }
   ],
-  "last_updated": "2026-06-24T15:20:20Z"
+  "last_updated": "2026-06-24T15:26:07Z"
 }
