@@ -25417,3 +25417,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:54:34]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/22619840/LjMU43FEws9bHeKU7pIEPFlMHVACXEsQ3swV…)
 [22:55:02]   downloaded 551.3 MB in 25.7s (21.4 MB/s)
 [22:55:40]   upload done video_id=26536397 in 38.0s
+[22:55:41] film cr_film_id=12630 OK in 68.6s
+[22:55:41] iteration 17/20
+[22:55:41] film cr_film_id=12632 name='Nevěsta na útěku (1999) CZ Dabing' candidates=25
+[22:55:41]   candidate upload_id=63d5bd448b4cb url=https://prehraj.to/nevesta-na-uteku-runaway-bride-1999-komedie-romanticky-1080p-bdrip-cz-dabing-cz-forcedtit/63d5bd448b4cb
+[22:55:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nevesta-na-uteku-runaway-bride-1999-komedie-romanticky-1080p-bdrip-cz-dabing-cz-forcedtit/63d5bd448b4cb (permanent=True)
+[22:55:43]   candidate upload_id=58fc76ecea264 url=https://prehraj.to/nevesta-na-uteku-1999-czdab/58fc76ecea264
+[22:55:50]   resolved in 7.3s → 480p (https://pf-storage2.premiumcdn.net/2058004/GzncaEhGKi2vtlBSnvtaPhRXF0YuKefbVszrH…)
+[22:56:24]   downloaded 852.4 MB in 32.4s (26.3 MB/s)
+[22:57:12]   upload done video_id=26536499 in 48.4s
