@@ -66582,6 +66582,25 @@
         "download_sec": 31.7,
         "upload_sec": 31.9
       }
+    },
+    {
+      "cr_film_id": 12845,
+      "cr_slug": "vertical-limit",
+      "title": "Vertical Limit",
+      "year": 2000,
+      "display_name": "Vertical Limit (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "64761481581a4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26497815,
+      "size_bytes": 1799296118,
+      "uploaded_at": "2026-06-24T16:30:49Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 66.1,
+        "upload_sec": 75.2
+      }
     }
   ],
   "failed_attempts": [
@@ -68774,5 +68793,5 @@
       "failed_at": "2026-06-24T16:19:59Z"
     }
   ],
-  "last_updated": "2026-06-24T16:28:24Z"
+  "last_updated": "2026-06-24T16:30:49Z"
 }
