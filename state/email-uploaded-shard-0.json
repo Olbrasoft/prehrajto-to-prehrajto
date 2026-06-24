@@ -66934,6 +66934,25 @@
         "download_sec": 17.0,
         "upload_sec": 23.1
       }
+    },
+    {
+      "cr_film_id": 12476,
+      "cr_slug": "dravci",
+      "title": "Dravci",
+      "year": 1999,
+      "display_name": "Dravci (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5cfbadd8abb0a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26522201,
+      "size_bytes": 1573758089,
+      "uploaded_at": "2026-06-24T20:40:25Z",
+      "timing": {
+        "resolve_sec": 2.5,
+        "download_sec": 42.6,
+        "upload_sec": 56.9
+      }
     }
   ],
   "failed_attempts": [
@@ -69384,5 +69403,5 @@
       "failed_at": "2026-06-24T18:49:09Z"
     }
   ],
-  "last_updated": "2026-06-24T20:38:40Z"
+  "last_updated": "2026-06-24T20:40:25Z"
 }
