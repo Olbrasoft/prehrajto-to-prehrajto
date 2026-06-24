@@ -28667,3 +28667,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [08:24:45]   upload done video_id=26438444 in 25.9s
 [08:24:47] film cr_film_id=23941 OK in 50.7s
 [08:24:47] batch-end ok=20 failed=0 dur=1900.0s avg/film=95.0s remaining=5981 eta_hours=157.8
+
+===== run 2026-06-24T08:45:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28086500601) =====
+[08:45:39] batch-start shard=1/2 count=20 backlog=10210 uploads=4229 failed_attempts=186 description_overrides=0
+[08:45:39] login
+[08:45:40] login done
+[08:45:40] iteration 1/20
+[08:45:40] film cr_film_id=23825 name='Lawn Dogs (1997)' candidates=1
+[08:45:40]   candidate upload_id=585a8586f0826 url=https://prehraj.to/lawn-dogs-1997-dvdrip-en-czsrt/585a8586f0826
+[08:45:42]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/1217203/8XYionFqrTLph7MfP5FeOFnqsz7T7kT2afNyu…)
+[08:46:42]   downloaded 1,052.1 MB in 58.4s (18.0 MB/s)
+[08:47:53]   upload done video_id=26441289 in 70.6s
