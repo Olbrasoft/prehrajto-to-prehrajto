@@ -25824,3 +25824,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:35:04]   upload done video_id=26540269 in 25.5s
 [23:35:05] film cr_film_id=13207 OK in 53.1s
 [23:35:05] batch-end ok=20 failed=0 dur=1947.5s avg/film=97.4s remaining=13865 eta_hours=375.1
+
+===== run 2026-06-24T23:35:41Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28136546685) =====
+[23:35:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:35:43] batch-start shard=1/2 count=20 backlog=17650 uploads=3785 failed_attempts=304 description_overrides=17579
+[23:35:43] login
+[23:35:45] login done
+[23:35:45] iteration 1/20
+[23:35:45] film cr_film_id=13209 name='Rytíři ze Šanghaje (2003) CZ Dabing' candidates=5
+[23:35:45]   candidate upload_id=55e590b5458e5 url=https://prehraj.to/rytiri-ze-sanghaje-2003-czdab/55e590b5458e5
+[23:35:46]   resolved in 1.8s → 480p (https://pf-storage2.premiumcdn.net/266189/Eb2c5Rs9Gi8mIa5tW2im5spjSG0hWes7MSMRS0…)
+[23:36:20]   downloaded 614.5 MB in 31.5s (19.5 MB/s)
+[23:36:52]   upload done video_id=26540481 in 32.1s
