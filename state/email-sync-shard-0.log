@@ -22074,3 +22074,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:35:53]   resolved in 0.8s → 480p (https://pf-storage2.premiumcdn.net/66745/21ntmLiKgImzuROCqehR1i0jtvas0aCwNTzdHxZ…)
 [00:36:18]   downloaded 609.4 MB in 23.4s (26.0 MB/s)
 [00:37:01]   upload done video_id=26378417 in 42.8s
+[00:37:02] film cr_film_id=11328 OK in 70.2s
+[00:37:02] iteration 2/20
+[00:37:02] film cr_film_id=11354 name='Vojín Benjaminová (1980) CZ' candidates=1
+[00:37:02]   candidate upload_id=129e19274d02d6bc url=https://prehraj.to/vojin-benjaminova-1980-cz-mp4/129e19274d02d6bc
+[00:37:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vojin-benjaminova-1980-cz-mp4/129e19274d02d6bc (permanent=True)
+[00:37:03] film cr_film_id=11354 all candidates exhausted
+[00:37:03] iteration 3/20
+[00:37:03] film cr_film_id=11356 name='Návrat do 36. komnaty Shaolinu (1980) CZ' candidates=5
+[00:37:03]   candidate upload_id=66438422cbce0 url=https://prehraj.to/navrat-do-36-komnaty-shaolinu-return-of-the-master-killer-1980-1080p/66438422cbce0
+[00:37:09]   resolved in 5.9s → 1080p (https://pf-storage5.premiumcdn.net/77338088/N5VcP8in8H0Lf6pIdmSWDiQ1sMQSnvuEjSbE…)
+[00:38:40]   downloaded 3,222.4 MB in 89.2s (36.1 MB/s)
+[00:41:00]   upload done video_id=26378687 in 140.6s
