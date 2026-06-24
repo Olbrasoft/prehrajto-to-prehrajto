@@ -60227,6 +60227,25 @@
         "download_sec": 39.8,
         "upload_sec": 45.6
       }
+    },
+    {
+      "cr_film_id": 11506,
+      "cr_slug": "velky-zavod-2",
+      "title": "Velký závod 2",
+      "year": 1984,
+      "display_name": "Velký závod 2 (1984) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "631785a0719d2",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26397687,
+      "size_bytes": 2372810381,
+      "uploaded_at": "2026-06-24T03:06:59Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 122.5,
+        "upload_sec": 183.7
+      }
     }
   ],
   "failed_attempts": [
@@ -62609,5 +62628,5 @@
       "failed_at": "2026-06-24T00:37:03Z"
     }
   ],
-  "last_updated": "2026-06-24T03:01:47Z"
+  "last_updated": "2026-06-24T03:06:59Z"
 }
