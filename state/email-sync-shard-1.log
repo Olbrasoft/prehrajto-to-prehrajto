@@ -25385,3 +25385,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:12:14]   upload done video_id=26525588 in 28.1s
 [21:12:17] film cr_film_id=13037 OK in 52.0s
 [21:12:17] batch-end ok=20 failed=0 dur=2508.1s avg/film=125.4s remaining=13924 eta_hours=485.0
+
+===== run 2026-06-24T21:24:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28130547031) =====
+[21:24:18] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:24:18] batch-start shard=1/2 count=20 backlog=17650 uploads=3726 failed_attempts=303 description_overrides=17579
+[21:24:18] login
+[21:24:20] login done
+[21:24:20] iteration 1/20
+[21:24:20] film cr_film_id=13039 name='Zlaté dno (1943) CZ Dabing' candidates=1
+[21:24:20]   candidate upload_id=68465d87e81d7 url=https://prehraj.to/zlate-dno-1942-cz-dab-1080p/68465d87e81d7
+[21:24:22]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/139499084/vVdt0lulAc13tWAtY8s7zuYQcaeFXmUdyId…)
+[21:26:37]   downloaded 2,529.6 MB in 132.5s (19.1 MB/s)
+[21:29:27]   upload done video_id=26527073 in 170.5s
