@@ -65452,6 +65452,25 @@
         "download_sec": 30.2,
         "upload_sec": 29.1
       }
+    },
+    {
+      "cr_film_id": 12256,
+      "cr_slug": "rob-roy",
+      "title": "Rob Roy",
+      "year": 1995,
+      "display_name": "Rob Roy (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55fa914abf9d1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26490770,
+      "size_bytes": 828407033,
+      "uploaded_at": "2026-06-24T15:19:41Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.8,
+        "upload_sec": 42.8
+      }
     }
   ],
   "failed_attempts": [
@@ -67874,5 +67893,5 @@
       "failed_at": "2026-06-24T14:50:41Z"
     }
   ],
-  "last_updated": "2026-06-24T15:18:19Z"
+  "last_updated": "2026-06-24T15:19:41Z"
 }
