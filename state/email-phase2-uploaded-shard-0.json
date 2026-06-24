@@ -80474,6 +80474,25 @@
         "download_sec": 46.0,
         "upload_sec": 54.0
       }
+    },
+    {
+      "cr_film_id": 23372,
+      "cr_slug": "l-enfant-lion",
+      "title": "L'Enfant lion",
+      "year": 1993,
+      "display_name": "L'Enfant lion (1993)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55b4eaea20c39",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26490731,
+      "size_bytes": 637579106,
+      "uploaded_at": "2026-06-24T15:19:09Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 22.8,
+        "upload_sec": 25.9
+      }
     }
   ],
   "failed_attempts": [
@@ -81973,7 +81992,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sabrina-1995-720p-cz-mkv/09a3dc1d473655f5",
       "permanent": true,
       "failed_at": "2026-06-24T12:41:51Z"
+    },
+    {
+      "cr_film_id": 13140,
+      "upload_id": "155131ef9ecfbbb8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nahota-na-prodej-mp4/155131ef9ecfbbb8",
+      "permanent": true,
+      "failed_at": "2026-06-24T15:18:13Z"
     }
   ],
-  "last_updated": "2026-06-24T15:18:10Z"
+  "last_updated": "2026-06-24T15:19:09Z"
 }
