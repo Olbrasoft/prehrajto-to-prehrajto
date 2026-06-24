@@ -62820,6 +62820,25 @@
         "download_sec": 20.5,
         "upload_sec": 26.5
       }
+    },
+    {
+      "cr_film_id": 12291,
+      "cr_slug": "dum-demonu",
+      "title": "Dům démonů",
+      "year": 1997,
+      "display_name": "Dům démonů (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6897cbee7e218",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26432072,
+      "size_bytes": 510455175,
+      "uploaded_at": "2026-06-24T07:33:45Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 20.0,
+        "upload_sec": 19.9
+      }
     }
   ],
   "failed_attempts": [
@@ -64998,5 +65017,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T07:33:00Z"
+  "last_updated": "2026-06-24T07:33:45Z"
 }
