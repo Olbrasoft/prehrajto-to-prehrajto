@@ -66905,6 +66905,25 @@
         "download_sec": 15.8,
         "upload_sec": 16.2
       }
+    },
+    {
+      "cr_film_id": 12895,
+      "cr_slug": "slecna-drsnak",
+      "title": "Slečna Drsňák",
+      "year": 2000,
+      "display_name": "Slečna Drsňák (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56af488808754",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26502478,
+      "size_bytes": 866188153,
+      "uploaded_at": "2026-06-24T17:16:32Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 35.8,
+        "upload_sec": 51.6
+      }
     }
   ],
   "failed_attempts": [
@@ -69097,5 +69116,5 @@
       "failed_at": "2026-06-24T16:19:59Z"
     }
   ],
-  "last_updated": "2026-06-24T17:14:59Z"
+  "last_updated": "2026-06-24T17:16:32Z"
 }
