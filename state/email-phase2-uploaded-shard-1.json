@@ -75364,6 +75364,25 @@
         "download_sec": 15.7,
         "upload_sec": 17.1
       }
+    },
+    {
+      "cr_film_id": 13065,
+      "cr_slug": "posedlost-2002",
+      "title": "Posedlost",
+      "year": 2002,
+      "display_name": "Posedlost (2002)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab60b9379b4a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26407067,
+      "size_bytes": 1090404475,
+      "uploaded_at": "2026-06-24T04:17:51Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 40.8,
+        "upload_sec": 45.4
+      }
     }
   ],
   "failed_attempts": [
@@ -76710,5 +76729,5 @@
       "failed_at": "2026-06-24T03:55:49Z"
     }
   ],
-  "last_updated": "2026-06-24T04:16:21Z"
+  "last_updated": "2026-06-24T04:17:51Z"
 }
