@@ -63542,6 +63542,25 @@
         "download_sec": 82.7,
         "upload_sec": 90.6
       }
+    },
+    {
+      "cr_film_id": 12399,
+      "cr_slug": "skorpio-1",
+      "title": "Škorpio 1",
+      "year": 1998,
+      "display_name": "Škorpio 1 (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f06d077638e3c79b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26445136,
+      "size_bytes": 2633209206,
+      "uploaded_at": "2026-06-24T09:23:35Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 140.8,
+        "upload_sec": 157.6
+      }
     }
   ],
   "failed_attempts": [
@@ -65720,5 +65739,5 @@
       "failed_at": "2026-06-23T22:57:57Z"
     }
   ],
-  "last_updated": "2026-06-24T09:18:30Z"
+  "last_updated": "2026-06-24T09:23:35Z"
 }
