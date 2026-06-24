@@ -79904,6 +79904,25 @@
         "download_sec": 229.3,
         "upload_sec": 60.4
       }
+    },
+    {
+      "cr_film_id": 12166,
+      "cr_slug": "lassie-1994",
+      "title": "Lassie",
+      "year": 1994,
+      "display_name": "Lassie (1994)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "678f2bce2a0d4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26483025,
+      "size_bytes": 3314399911,
+      "uploaded_at": "2026-06-24T14:16:15Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 175.4,
+        "upload_sec": 222.5
+      }
     }
   ],
   "failed_attempts": [
@@ -81405,5 +81424,5 @@
       "failed_at": "2026-06-24T12:41:51Z"
     }
   ],
-  "last_updated": "2026-06-24T14:09:32Z"
+  "last_updated": "2026-06-24T14:16:15Z"
 }
