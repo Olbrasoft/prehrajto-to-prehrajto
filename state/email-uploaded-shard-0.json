@@ -60170,6 +60170,25 @@
         "download_sec": 105.5,
         "upload_sec": 110.5
       }
+    },
+    {
+      "cr_film_id": 11494,
+      "cr_slug": "zamena-1983",
+      "title": "Záměna",
+      "year": 1983,
+      "display_name": "Záměna (1983) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "95fb34ab69911d4e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26396930,
+      "size_bytes": 1794195711,
+      "uploaded_at": "2026-06-24T02:59:13Z",
+      "timing": {
+        "resolve_sec": 2.5,
+        "download_sec": 76.5,
+        "upload_sec": 116.5
+      }
     }
   ],
   "failed_attempts": [
@@ -62552,5 +62571,5 @@
       "failed_at": "2026-06-24T00:37:03Z"
     }
   ],
-  "last_updated": "2026-06-24T02:55:53Z"
+  "last_updated": "2026-06-24T02:59:13Z"
 }
