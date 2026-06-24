@@ -83249,6 +83249,25 @@
         "download_sec": 24.0,
         "upload_sec": 38.0
       }
+    },
+    {
+      "cr_film_id": 34845,
+      "cr_slug": "pernikovy-dedek-1984",
+      "title": "Perníkový dědek",
+      "year": 1984,
+      "display_name": "Perníkový dědek (1984)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "db58574525ee512f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26541055,
+      "size_bytes": 257024830,
+      "uploaded_at": "2026-06-24T23:42:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 11.1,
+        "upload_sec": 11.0
+      }
     }
   ],
   "failed_attempts": [
@@ -84721,5 +84740,5 @@
       "failed_at": "2026-06-24T23:04:26Z"
     }
   ],
-  "last_updated": "2026-06-24T23:41:57Z"
+  "last_updated": "2026-06-24T23:42:24Z"
 }
