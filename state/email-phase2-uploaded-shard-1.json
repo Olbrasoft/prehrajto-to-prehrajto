@@ -79943,6 +79943,25 @@
         "download_sec": 43.9,
         "upload_sec": 50.9
       }
+    },
+    {
+      "cr_film_id": 23411,
+      "cr_slug": "orlando",
+      "title": "Orlando",
+      "year": 1992,
+      "display_name": "Orlando (1992)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55b39e0a1f946",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26485581,
+      "size_bytes": 617187228,
+      "uploaded_at": "2026-06-24T14:33:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.1,
+        "upload_sec": 27.1
+      }
     }
   ],
   "failed_attempts": [
@@ -81373,5 +81392,5 @@
       "failed_at": "2026-06-24T14:26:53Z"
     }
   ],
-  "last_updated": "2026-06-24T14:32:20Z"
+  "last_updated": "2026-06-24T14:33:15Z"
 }
