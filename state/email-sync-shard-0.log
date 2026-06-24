@@ -23387,3 +23387,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:45:33]   upload done video_id=26440926 in 105.5s
 [08:45:41] film cr_film_id=11864 OK in 194.7s
 [08:45:41] batch-end ok=20 failed=0 dur=2934.3s avg/film=146.7s remaining=14187 eta_hours=578.1
+
+===== run 2026-06-24T08:49:06Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28086688401) =====
+[08:49:08] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:49:09] batch-start shard=0/2 count=20 backlog=17650 uploads=3463 failed_attempts=338 description_overrides=17579
+[08:49:09] login
+[08:49:13] login done
+[08:49:13] iteration 1/20
+[08:49:13] film cr_film_id=11866 name='Ambulance (1990) CZ' candidates=1
+[08:49:13]   candidate upload_id=04d6a4449bd41634 url=https://prehraj.to/ambulance-1990-cesky-dabing-avi/04d6a4449bd41634
+[08:49:15]   resolved in 1.8s → 480p (https://pf-storage5.premiumcdn.net/168087100/kQvHkxsBMcMdHKDs9ltJesP2FVjurYtPlSB…)
+[08:49:32]   downloaded 480.2 MB in 15.3s (31.4 MB/s)
+[08:50:27]   upload done video_id=26441581 in 55.2s
