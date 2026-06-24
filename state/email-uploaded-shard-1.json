@@ -66259,6 +66259,25 @@
         "download_sec": 14.4,
         "upload_sec": 16.9
       }
+    },
+    {
+      "cr_film_id": 12805,
+      "cr_slug": "cerny-vlk",
+      "title": "Černý vlk",
+      "year": 1972,
+      "display_name": "Černý vlk (1972) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "631e34661bf16",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26493459,
+      "size_bytes": 1369514398,
+      "uploaded_at": "2026-06-24T15:47:09Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 60.5,
+        "upload_sec": 67.5
+      }
     }
   ],
   "failed_attempts": [
@@ -68444,5 +68463,5 @@
       "failed_at": "2026-06-24T10:36:21Z"
     }
   ],
-  "last_updated": "2026-06-24T15:44:56Z"
+  "last_updated": "2026-06-24T15:47:09Z"
 }
