@@ -25091,3 +25091,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:51:39]   upload done video_id=26505855 in 50.3s
 [17:51:42] film cr_film_id=12929 OK in 95.1s
 [17:51:42] batch-end ok=20 failed=0 dur=3063.4s avg/film=153.2s remaining=13964 eta_hours=594.2
+
+===== run 2026-06-24T18:09:09Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28119529738) =====
+[18:09:12] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[18:09:12] batch-start shard=1/2 count=20 backlog=17650 uploads=3686 failed_attempts=303 description_overrides=17579
+[18:09:12] login
+[18:09:14] login done
+[18:09:14] iteration 1/20
+[18:09:14] film cr_film_id=12937 name='Hrátky s čertem (1957) CZ Dabing' candidates=16
+[18:09:14]   candidate upload_id=5e08927c311e1 url=https://prehraj.to/hratky-s-certem-cz-dabing-1956/5e08927c311e1
+[18:09:15]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/15550345/6eOIgeT8JCA0TwmF7KurETxBCmkfOKFV4UY8…)
+[18:11:03]   downloaded 936.7 MB in 106.4s (8.8 MB/s)
+[18:11:58]   upload done video_id=26507870 in 54.5s
