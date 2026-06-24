@@ -65385,6 +65385,25 @@
         "download_sec": 43.7,
         "upload_sec": 45.3
       }
+    },
+    {
+      "cr_film_id": 12667,
+      "cr_slug": "ruzove-sny",
+      "title": "Ružové sny",
+      "year": 1977,
+      "display_name": "Ružové sny (1977) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "662b573c6b36e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26480564,
+      "size_bytes": 2534574428,
+      "uploaded_at": "2026-06-24T13:54:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 129.1,
+        "upload_sec": 206.9
+      }
     }
   ],
   "failed_attempts": [
@@ -67570,5 +67589,5 @@
       "failed_at": "2026-06-24T10:36:21Z"
     }
   ],
-  "last_updated": "2026-06-24T13:48:40Z"
+  "last_updated": "2026-06-24T13:54:21Z"
 }
