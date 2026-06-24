@@ -77663,6 +77663,25 @@
         "download_sec": 28.9,
         "upload_sec": 32.5
       }
+    },
+    {
+      "cr_film_id": 13229,
+      "cr_slug": "blanik",
+      "title": "Blaník",
+      "year": 1997,
+      "display_name": "Blaník (1997)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "60394b0c82dc0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26443312,
+      "size_bytes": 448757383,
+      "uploaded_at": "2026-06-24T09:05:22Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.4,
+        "upload_sec": 27.9
+      }
     }
   ],
   "failed_attempts": [
@@ -79044,5 +79063,5 @@
       "failed_at": "2026-06-24T08:49:00Z"
     }
   ],
-  "last_updated": "2026-06-24T09:04:27Z"
+  "last_updated": "2026-06-24T09:05:22Z"
 }
