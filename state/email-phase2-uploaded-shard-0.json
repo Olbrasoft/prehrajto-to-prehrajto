@@ -80037,6 +80037,25 @@
         "download_sec": 26.3,
         "upload_sec": 27.4
       }
+    },
+    {
+      "cr_film_id": 12138,
+      "cr_slug": "clifford",
+      "title": "Clifford",
+      "year": 1994,
+      "display_name": "Clifford (1994)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5cd46c011171d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26485066,
+      "size_bytes": 846594711,
+      "uploaded_at": "2026-06-24T14:29:27Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 44.6,
+        "upload_sec": 50.7
+      }
     }
   ],
   "failed_attempts": [
@@ -81538,5 +81557,5 @@
       "failed_at": "2026-06-24T12:41:51Z"
     }
   ],
-  "last_updated": "2026-06-24T14:27:46Z"
+  "last_updated": "2026-06-24T14:29:27Z"
 }
