@@ -28270,3 +28270,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:57:07]   upload done video_id=26606667 in 34.9s
 [11:57:09] film cr_film_id=13766 OK in 60.4s
 [11:57:09] batch-end ok=20 failed=0 dur=1783.3s avg/film=89.2s remaining=13535 eta_hours=335.4
+
+===== run 2026-06-25T12:30:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28170195977) =====
+[12:30:44] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:30:44] batch-start shard=0/2 count=20 backlog=17650 uploads=4115 failed_attempts=368 description_overrides=17579
+[12:30:44] login
+[12:30:45] login done
+[12:30:45] iteration 1/20
+[12:30:45] film cr_film_id=13770 name='Herečky (2007) CZ Dabing' candidates=1
+[12:30:45]   candidate upload_id=6345e446148f7 url=https://prehraj.to/herecky-2007-czdab/6345e446148f7
+[12:30:46]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/33740596/RQgHVzCbzFzEunzTyahY3CaOFvxFNdixbSLV…)
+[12:32:37]   downloaded 3,049.8 MB in 109.4s (27.9 MB/s)
+[12:35:37]   upload done video_id=26609544 in 179.4s
