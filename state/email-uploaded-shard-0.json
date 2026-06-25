@@ -70221,6 +70221,25 @@
         "download_sec": 109.2,
         "upload_sec": 124.3
       }
+    },
+    {
+      "cr_film_id": 13012,
+      "cr_slug": "pripad-krasnej-nerestnice",
+      "title": "Prípad krásnej nerestnice",
+      "year": 1974,
+      "display_name": "Prípad krásnej nerestnice (1974) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e63a58f28ee",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26558880,
+      "size_bytes": 594448191,
+      "uploaded_at": "2026-06-25T02:48:23Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 21.9,
+        "upload_sec": 33.5
+      }
     }
   ],
   "failed_attempts": [
@@ -72690,7 +72709,133 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mala-morska-vila-ii-navrat-do-more-2000-cz-dab/676889e219b2e",
       "permanent": true,
       "failed_at": "2026-06-25T02:34:09Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "629ffabe8af65",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cz-dabing-cz-forced/629ffabe8af65",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:45:39Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "f1870670897002d1",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cz-dabing-cz-forced-mp4/f1870670897002d1",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:45:45Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "62f7fa8d272c4",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-dark-blue-world-2001-1080p-bluray-x264-cz-dabing/62f7fa8d272c4",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:45:50Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5c466a8b6e1ca",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cesky-film/5c466a8b6e1ca",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:45:56Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5cd2dc66ae015",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-cz-film-2001-jad/5cd2dc66ae015",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:46:02Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5c24f77f263ea",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cesky-film/5c24f77f263ea",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:46:08Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5cdf98998a186",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-cz-film-2001-jad/5cdf98998a186",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:46:13Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5c510d5453979",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cesky-film/5c510d5453979",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:46:20Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "60799bfe7af9b",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-valecny-2001-cz/60799bfe7af9b",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:46:25Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "61a3d7001e73a",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-valecny-2001-cz/61a3d7001e73a",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:46:31Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "616076e56f4e1",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001/616076e56f4e1",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:46:37Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5c2c155fc80a5",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cesky-film/5c2c155fc80a5",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:46:43Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "615f389a754e7",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001/615f389a754e7",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:46:48Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5c2fee220c757",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cesky-film/5c2fee220c757",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:46:56Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5bf213f2402ea",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cesky-film/5bf213f2402ea",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:47:03Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5c05c359e0903",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cesky-film/5c05c359e0903",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:47:08Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5c3681cc5ef3d",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cesky-film/5c3681cc5ef3d",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:47:14Z"
+    },
+    {
+      "cr_film_id": 13004,
+      "upload_id": "5c16db762cb71",
+      "reason": "resolve_failed: upload not found (404): https://prehraj.to/tmavomodry-svet-2001-cesky-film/5c16db762cb71",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:47:20Z"
     }
   ],
-  "last_updated": "2026-06-25T02:45:36Z"
+  "last_updated": "2026-06-25T02:48:23Z"
 }
