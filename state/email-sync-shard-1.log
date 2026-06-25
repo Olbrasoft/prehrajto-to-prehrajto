@@ -28621,3 +28621,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:11:28]   upload done video_id=26612877 in 54.0s
 [13:11:31] film cr_film_id=14377 OK in 103.2s
 [13:11:31] batch-end ok=20 failed=0 dur=2443.8s avg/film=122.2s remaining=13487 eta_hours=457.8
+
+===== run 2026-06-25T13:12:13Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28172596327) =====
+[13:12:15] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:12:15] batch-start shard=1/2 count=20 backlog=17650 uploads=4163 failed_attempts=309 description_overrides=17579
+[13:12:15] login
+[13:12:17] login done
+[13:12:17] iteration 1/20
+[13:12:17] film cr_film_id=14379 name='Zvonilka: Tajemství křídel (2012) CZ Dabing' candidates=8
+[13:12:17]   candidate upload_id=6320e5f11dc35 url=https://prehraj.to/zvonilka-tajemstvi-kridel-2012-cz-dabing-1080p/6320e5f11dc35
+[13:12:18]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/32922508/eOkcGZhNKh8bU7qTmOs4ahY5ILVCE3HleuRm…)
+[13:13:29]   downloaded 2,102.6 MB in 68.9s (30.5 MB/s)
+[13:15:16]   upload done video_id=26613113 in 107.5s
