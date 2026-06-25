@@ -69214,6 +69214,25 @@
         "download_sec": 25.9,
         "upload_sec": 31.7
       }
+    },
+    {
+      "cr_film_id": 12828,
+      "cr_slug": "frekvence",
+      "title": "Frekvence",
+      "year": 2000,
+      "display_name": "Frekvence (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63198b03003ed",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26548857,
+      "size_bytes": 2216185299,
+      "uploaded_at": "2026-06-25T01:03:02Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 86.2,
+        "upload_sec": 106.6
+      }
     }
   ],
   "failed_attempts": [
@@ -71671,5 +71690,5 @@
       "failed_at": "2026-06-24T22:55:43Z"
     }
   ],
-  "last_updated": "2026-06-25T00:59:46Z"
+  "last_updated": "2026-06-25T01:03:02Z"
 }
