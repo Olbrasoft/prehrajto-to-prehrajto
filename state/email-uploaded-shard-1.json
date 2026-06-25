@@ -71446,6 +71446,25 @@
         "download_sec": 17.9,
         "upload_sec": 23.5
       }
+    },
+    {
+      "cr_film_id": 13565,
+      "cr_slug": "prvni-snih",
+      "title": "První sníh",
+      "year": 2006,
+      "display_name": "První sníh (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "7925bfdf6764679c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26563946,
+      "size_bytes": 1391762404,
+      "uploaded_at": "2026-06-25T03:44:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 49.5,
+        "upload_sec": 52.3
+      }
     }
   ],
   "failed_attempts": [
@@ -73664,5 +73683,5 @@
       "failed_at": "2026-06-25T02:43:28Z"
     }
   ],
-  "last_updated": "2026-06-25T03:42:26Z"
+  "last_updated": "2026-06-25T03:44:12Z"
 }
