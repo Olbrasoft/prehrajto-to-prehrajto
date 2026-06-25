@@ -34551,3 +34551,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [16:29:29]   upload done video_id=26632295 in 45.2s
 [16:29:31] film cr_film_id=13686 OK in 70.1s
 [16:29:31] batch-end ok=20 failed=0 dur=1950.0s avg/film=97.5s remaining=5177 eta_hours=140.2
+
+===== run 2026-06-25T16:30:12Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28185103110) =====
+[16:30:14] batch-start shard=0/2 count=20 backlog=10210 uploads=5033 failed_attempts=218 description_overrides=0
+[16:30:14] login
+[16:30:15] login done
+[16:30:15] iteration 1/20
+[16:30:15] film cr_film_id=21196 name='Frankensteinova nevěsta (1935)' candidates=1
+[16:30:15]   candidate upload_id=58444fe9db51c url=https://prehraj.to/bride-of-frankenstein-frankensteinova-nevesta-1935/58444fe9db51c
+[16:30:16]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/997039/7kptWOfd0h4GSOrhMjijzfgoiGvi0jTN2h0Di9…)
+[16:30:46]   downloaded 382.3 MB in 28.7s (13.3 MB/s)
+[16:31:28]   upload done video_id=26632573 in 42.2s
