@@ -32509,3 +32509,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [06:27:20]   upload done video_id=26577812 in 31.5s
 [06:27:22] film cr_film_id=21078 OK in 64.7s
 [06:27:22] batch-end ok=20 failed=0 dur=2305.1s avg/film=115.3s remaining=5453 eta_hours=174.6
+
+===== run 2026-06-25T06:28:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28151331909) =====
+[06:28:03] batch-start shard=0/2 count=20 backlog=10210 uploads=4757 failed_attempts=213 description_overrides=0
+[06:28:03] login
+[06:28:04] login done
+[06:28:04] iteration 1/20
+[06:28:04] film cr_film_id=25866 name='Pozdní léto (1974)' candidates=1
+[06:28:04]   candidate upload_id=5851c66474954 url=https://prehraj.to/pozdni-leto-1974/5851c66474954
+[06:28:05]   resolved in 0.9s → 480p (https://pf-storage2.premiumcdn.net/1175823/9rRcXjSe5F1OcbmhLoUqMSJEHy8hdOF1pIM3h…)
+[06:28:26]   downloaded 493.6 MB in 18.9s (26.1 MB/s)
+[06:28:51]   upload done video_id=26577982 in 25.5s
