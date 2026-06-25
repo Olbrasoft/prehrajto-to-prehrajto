@@ -71427,6 +71427,25 @@
         "download_sec": 26.2,
         "upload_sec": 30.0
       }
+    },
+    {
+      "cr_film_id": 13563,
+      "cr_slug": "roman-pro-zeny",
+      "title": "Román pro ženy",
+      "year": 2005,
+      "display_name": "Román pro ženy (2005) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c276f4a19216",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26563876,
+      "size_bytes": 566254205,
+      "uploaded_at": "2026-06-25T03:42:26Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.9,
+        "upload_sec": 23.5
+      }
     }
   ],
   "failed_attempts": [
@@ -73645,5 +73664,5 @@
       "failed_at": "2026-06-25T02:43:28Z"
     }
   ],
-  "last_updated": "2026-06-25T03:41:40Z"
+  "last_updated": "2026-06-25T03:42:26Z"
 }
