@@ -29152,3 +29152,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [18:34:45]   upload done video_id=26645045 in 35.1s
 [18:34:47] film cr_film_id=14126 OK in 63.4s
 [18:34:47] batch-end ok=20 failed=0 dur=3603.9s avg/film=180.2s remaining=13416 eta_hours=671.5
+
+===== run 2026-06-25T20:17:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28197869336) =====
+[20:17:55] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:17:55] batch-start shard=0/2 count=20 backlog=17650 uploads=4234 failed_attempts=370 description_overrides=17579
+[20:17:55] login
+[20:17:57] login done
+[20:17:57] iteration 1/20
+[20:17:57] film cr_film_id=14134 name='Moskva - jednosměrná (2020) CZ Dabing' candidates=1
+[20:17:57]   candidate upload_id=61163ed9b0ed5 url=https://prehraj.to/moskva-jednosmerna-moskau-einfach-2020-720p-hdtv-cz-dabing-mp4/61163ed9b0ed5
+[20:17:59]   resolved in 1.7s → 720p (https://pf-storage3.premiumcdn.net/24594020/wARFqacr0u0gUM2IjQidqcMZuZkHr6U1Gf0A…)
+[20:21:25]   downloaded 784.2 MB in 204.8s (3.8 MB/s)
+[20:22:28]   upload done video_id=26655757 in 62.7s
