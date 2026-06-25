@@ -86726,6 +86726,25 @@
         "download_sec": 33.5,
         "upload_sec": 46.0
       }
+    },
+    {
+      "cr_film_id": 23993,
+      "cr_slug": "navraty",
+      "title": "Návraty",
+      "year": 1972,
+      "display_name": "Návraty (1972)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5cdd0b94a516c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26572957,
+      "size_bytes": 533319593,
+      "uploaded_at": "2026-06-25T05:30:25Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.6,
+        "upload_sec": 34.8
+      }
     }
   ],
   "failed_attempts": [
@@ -88205,5 +88224,5 @@
       "failed_at": "2026-06-25T00:11:01Z"
     }
   ],
-  "last_updated": "2026-06-25T05:29:18Z"
+  "last_updated": "2026-06-25T05:30:25Z"
 }
