@@ -75902,6 +75902,25 @@
         "download_sec": 32.2,
         "upload_sec": 44.4
       }
+    },
+    {
+      "cr_film_id": 13894,
+      "cr_slug": "bojovnice-2007",
+      "title": "Bojovnice",
+      "year": 2007,
+      "display_name": "Bojovnice (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "612e573e694a4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26618048,
+      "size_bytes": 2245907048,
+      "uploaded_at": "2026-06-25T14:08:18Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 149.4,
+        "upload_sec": 142.5
+      }
     }
   ],
   "failed_attempts": [
@@ -78525,5 +78544,5 @@
       "failed_at": "2026-06-25T11:30:50Z"
     }
   ],
-  "last_updated": "2026-06-25T13:47:52Z"
+  "last_updated": "2026-06-25T14:08:18Z"
 }

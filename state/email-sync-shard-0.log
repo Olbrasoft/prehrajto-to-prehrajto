@@ -28564,3 +28564,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [13:47:52]   upload done video_id=26616304 in 44.4s
 [13:47:54] film cr_film_id=13890 OK in 81.2s
 [13:47:54] batch-end ok=20 failed=0 dur=2140.3s avg/film=107.0s remaining=13495 eta_hours=401.1
+
+===== run 2026-06-25T14:03:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28175796001) =====
+[14:03:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:03:21] batch-start shard=0/2 count=20 backlog=17650 uploads=4155 failed_attempts=368 description_overrides=17579
+[14:03:21] login
+[14:03:23] login done
+[14:03:23] iteration 1/20
+[14:03:23] film cr_film_id=13894 name='Bojovnice (2007) CZ Dabing' candidates=1
+[14:03:23]   candidate upload_id=612e573e694a4 url=https://prehraj.to/bojovnice-2007-czdab/612e573e694a4
+[14:03:24]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/24770213/zA4f49UprhBGCMeFQRCEkUpriEphZNuQJuEK…)
+[14:05:56]   downloaded 2,245.9 MB in 149.4s (15.0 MB/s)
+[14:08:18]   upload done video_id=26618048 in 142.5s
