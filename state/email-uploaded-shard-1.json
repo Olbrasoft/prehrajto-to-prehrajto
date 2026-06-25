@@ -77070,6 +77070,25 @@
         "download_sec": 65.3,
         "upload_sec": 76.0
       }
+    },
+    {
+      "cr_film_id": 14515,
+      "cr_slug": "superpriserky-superdusicky",
+      "title": "Superpříšerky: Superdušičky",
+      "year": 2020,
+      "display_name": "Superpříšerky: Superdušičky (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "611a20cf312ec",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26628754,
+      "size_bytes": 590713328,
+      "uploaded_at": "2026-06-25T15:51:30Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 27.2,
+        "upload_sec": 28.7
+      }
     }
   ],
   "failed_attempts": [
@@ -79342,7 +79361,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ozi-hlas-pralesa-2023-cz-dab-1080p/9df0e52e36667ec4",
       "permanent": true,
       "failed_at": "2026-06-25T15:38:17Z"
+    },
+    {
+      "cr_film_id": 14511,
+      "upload_id": "b6ce9421d10ef646",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dobry-sef-2021-cz-dab-1080p/b6ce9421d10ef646",
+      "permanent": true,
+      "failed_at": "2026-06-25T15:50:21Z"
+    },
+    {
+      "cr_film_id": 14511,
+      "upload_id": "0571c8316c63dce1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dobry-sef-2021-cz-dabing/0571c8316c63dce1",
+      "permanent": true,
+      "failed_at": "2026-06-25T15:50:26Z"
     }
   ],
-  "last_updated": "2026-06-25T15:50:17Z"
+  "last_updated": "2026-06-25T15:51:30Z"
 }

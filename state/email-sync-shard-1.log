@@ -28971,3 +28971,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:47:54]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/11443123/654HrwfZbHOXfwOFRZSaWf7MHomI07sWYc6o…)
 [15:49:01]   downloaded 1,650.6 MB in 65.3s (25.3 MB/s)
 [15:50:17]   upload done video_id=26628523 in 76.0s
+[15:50:20] film cr_film_id=14507 OK in 146.4s
+[15:50:20] iteration 8/20
+[15:50:20] film cr_film_id=14511 name='Dobrý šéf (2021) CZ Dabing' candidates=2
+[15:50:20]   candidate upload_id=b6ce9421d10ef646 url=https://prehraj.to/dobry-sef-2021-cz-dab-1080p/b6ce9421d10ef646
+[15:50:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dobry-sef-2021-cz-dab-1080p/b6ce9421d10ef646 (permanent=True)
+[15:50:21]   candidate upload_id=0571c8316c63dce1 url=https://prehraj.to/dobry-sef-2021-cz-dabing/0571c8316c63dce1
+[15:50:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dobry-sef-2021-cz-dabing/0571c8316c63dce1 (permanent=True)
+[15:50:26] film cr_film_id=14511 all candidates exhausted
+[15:50:26] iteration 9/20
+[15:50:26] film cr_film_id=14515 name='Superpříšerky: Superdušičky (2020) CZ Dabing' candidates=5
+[15:50:26]   candidate upload_id=611a20cf312ec url=https://prehraj.to/superpriserky-superdusicky-2020-cz-dabing-kratkometrazni-animovany-rodinny/611a20cf312ec
+[15:50:32]   resolved in 6.1s → 1080p (https://pf-storage1.premiumcdn.net/24619139/grzuGqsBZfa8UeYuEGc6JsvkcvyTy6CbYFvN…)
+[15:51:02]   downloaded 590.7 MB in 27.2s (21.7 MB/s)
+[15:51:30]   upload done video_id=26628754 in 28.7s
