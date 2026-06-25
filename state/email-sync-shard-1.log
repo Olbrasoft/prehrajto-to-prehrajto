@@ -28155,3 +28155,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:29:00]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/32120659/d39T9PsJ3IvmC4ku9BujasVyhK5cpyT3Xfwr…)
 [10:30:36]   downloaded 2,781.1 MB in 94.7s (29.4 MB/s)
 [10:32:40]   upload done video_id=26600305 in 123.8s
+[10:32:43] film cr_film_id=14133 OK in 224.2s
+[10:32:43] iteration 18/20
+[10:32:43] film cr_film_id=14135 name='Druhá šance (2022) CZ Dabing' candidates=5
+[10:32:43]   candidate upload_id=b32e3f0e2e518a6b url=https://prehraj.to/druha-sance-2022-cz-dab-1080p-mp4/b32e3f0e2e518a6b
+[10:32:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/druha-sance-2022-cz-dab-1080p-mp4/b32e3f0e2e518a6b (permanent=True)
+[10:32:44]   candidate upload_id=282ac4ed872c2792 url=https://prehraj.to/druha-sance-2022-cz-dab-1080p/282ac4ed872c2792
+[10:32:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/druha-sance-2022-cz-dab-1080p/282ac4ed872c2792 (permanent=True)
+[10:32:50]   candidate upload_id=6599bae7f3982 url=https://prehraj.to/jmeli-jako-druha-sance-2022-czdab/6599bae7f3982
+[10:32:56]   resolved in 6.2s → 1080p (https://pf-storage5.premiumcdn.net/72081290/LMdfVZIOlCzbseAfr6TNPI5aiLkh4vSaEiWy…)
+[10:34:02]   downloaded 1,845.7 MB in 64.0s (28.8 MB/s)
+[10:35:19]   upload done video_id=26600561 in 77.3s
