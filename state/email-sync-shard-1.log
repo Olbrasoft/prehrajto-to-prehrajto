@@ -29064,3 +29064,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:14:54]   upload done video_id=26630834 in 97.3s
 [16:14:56] film cr_film_id=14551 OK in 182.4s
 [16:14:56] batch-end ok=18 failed=2 dur=2199.5s avg/film=122.2s remaining=13430 eta_hours=455.9
+
+===== run 2026-06-25T16:27:08Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28184925208) =====
+[16:27:10] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:27:10] batch-start shard=1/2 count=20 backlog=17650 uploads=4220 failed_attempts=316 description_overrides=17579
+[16:27:10] login
+[16:27:13] login done
+[16:27:13] iteration 1/20
+[16:27:13] film cr_film_id=14557 name='Pravda je jen slovo (2013) CZ Dabing' candidates=1
+[16:27:13]   candidate upload_id=592d2d5351256 url=https://prehraj.to/pravda-je-jen-slovo-2013-cz-dabing/592d2d5351256
+[16:27:14]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/2277934/7gOfxYTrlSNmhMwUm3h2xTezcQdsxJCADul4i…)
+[16:27:32]   downloaded 429.5 MB in 16.2s (26.5 MB/s)
+[16:27:54]   upload done video_id=26632153 in 22.0s
