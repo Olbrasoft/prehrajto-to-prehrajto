@@ -90146,6 +90146,25 @@
         "download_sec": 26.2,
         "upload_sec": 26.2
       }
+    },
+    {
+      "cr_film_id": 21357,
+      "cr_slug": "aida",
+      "title": "Aida",
+      "year": 1953,
+      "display_name": "Aida (1953)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "560656a4171c6",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26609789,
+      "size_bytes": 701816396,
+      "uploaded_at": "2026-06-25T12:36:37Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 36.2,
+        "upload_sec": 45.5
+      }
     }
   ],
   "failed_attempts": [
@@ -91639,5 +91658,5 @@
       "failed_at": "2026-06-25T06:51:07Z"
     }
   ],
-  "last_updated": "2026-06-25T12:35:10Z"
+  "last_updated": "2026-06-25T12:36:37Z"
 }
