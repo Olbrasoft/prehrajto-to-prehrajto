@@ -71361,6 +71361,25 @@
         "download_sec": 36.7,
         "upload_sec": 39.5
       }
+    },
+    {
+      "cr_film_id": 13186,
+      "cr_slug": "mycka",
+      "title": "Myčka",
+      "year": 2001,
+      "display_name": "Myčka (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66d96b89e1daa",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26569377,
+      "size_bytes": 1269171248,
+      "uploaded_at": "2026-06-25T04:46:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 45.8,
+        "upload_sec": 64.7
+      }
     }
   ],
   "failed_attempts": [
@@ -73958,5 +73977,5 @@
       "failed_at": "2026-06-25T02:47:20Z"
     }
   ],
-  "last_updated": "2026-06-25T04:44:29Z"
+  "last_updated": "2026-06-25T04:46:24Z"
 }
