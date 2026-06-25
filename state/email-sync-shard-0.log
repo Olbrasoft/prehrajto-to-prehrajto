@@ -28667,3 +28667,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:57:17]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/29293638/5pwS4rf0rS47uwjTbqI2rfpKHr5I87I30cd4…)
 [14:57:52]   downloaded 545.2 MB in 33.2s (16.4 MB/s)
 [14:58:31]   upload done video_id=26623198 in 38.8s
+[14:58:33] film cr_film_id=13930 OK in 77.7s
+[14:58:33] iteration 15/20
+[14:58:33] film cr_film_id=13932 name='Vlastně tě mám ráda, tati (2024) CZ Dabing' candidates=2
+[14:58:33]   candidate upload_id=b48dbbb15d0b600a url=https://prehraj.to/vlastne-te-mam-rada-tati-2024-cz-dab-1080p-mp4/b48dbbb15d0b600a
+[14:58:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vlastne-te-mam-rada-tati-2024-cz-dab-1080p-mp4/b48dbbb15d0b600a (permanent=True)
+[14:58:36]   candidate upload_id=04ea71f0fabfe5c4 url=https://prehraj.to/vlastne-te-mam-rada-tati-2024-cz-dab-1080p-mp4/04ea71f0fabfe5c4
+[14:58:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vlastne-te-mam-rada-tati-2024-cz-dab-1080p-mp4/04ea71f0fabfe5c4 (permanent=True)
+[14:58:42] film cr_film_id=13932 all candidates exhausted
+[14:58:42] iteration 16/20
+[14:58:42] film cr_film_id=13934 name='Spletenec (2009) CZ Dabing' candidates=3
+[14:58:42]   candidate upload_id=61f995ff6902d url=https://prehraj.to/spletenec-splice-thriller-2009-cz-dabing/61f995ff6902d
+[14:58:48]   resolved in 6.2s → 480p (https://pf-storage5.premiumcdn.net/28936599/V4vc96TVyh4DUrKsD6tZ2TDahK6tZmse0Uw1…)
+[14:59:42]   downloaded 742.7 MB in 52.4s (14.2 MB/s)
+[15:00:53]   upload done video_id=26623369 in 70.9s
