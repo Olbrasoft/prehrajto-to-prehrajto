@@ -31825,3 +31825,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:29:09]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/3645849/7xNTwQcp5tROfKDc0QUyVc8KCBKsJLU4kTBWI…)
 [03:29:57]   downloaded 1,033.8 MB in 46.2s (22.4 MB/s)
 [03:31:04]   upload done video_id=26562795 in 67.5s
+[03:31:07] film cr_film_id=22516 OK in 119.4s
+[03:31:07] iteration 8/20
+[03:31:07] film cr_film_id=15314 name='Najatý klaun (1980)' candidates=4
+[03:31:07]   candidate upload_id=6665e4e06d2e9 url=https://prehraj.to/najaty-klaun-1980-sk/6665e4e06d2e9
+[03:31:08]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/78154520/GQlsyRfejIxyCBWSxaiNvfXyf82s3Qh4Ycz9…)
+[03:32:19]   downloaded 1,299.3 MB in 68.6s (18.9 MB/s)
+[03:32:19]   upload FAILED after 0.0s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[03:32:19]   candidate upload_id=00d8fa71c83e2e3f url=https://prehraj.to/najaty-klaun-tv-film-1980-sk-mp4/00d8fa71c83e2e3f
+[03:32:21]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/162840287/oNeIOoi97hmXf37tEetLaieVsdWT64IRjIa…)
+[03:33:25]   downloaded 1,169.7 MB in 62.3s (18.8 MB/s)
+[03:34:43]   upload done video_id=26563117 in 77.9s
