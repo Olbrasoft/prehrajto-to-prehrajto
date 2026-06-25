@@ -33657,3 +33657,16 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:51:07]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/63932/W1GHAbI5YF0zi7BTr4UO9IxKFV2sLYH7Xf9dslr…)
 [12:51:28]   downloaded 482.9 MB in 18.9s (25.6 MB/s)
 [12:53:00]   upload done video_id=26610975 in 92.6s
+[12:53:03] film cr_film_id=32281 OK in 116.0s
+[12:53:03] iteration 2/20
+[12:53:03] film cr_film_id=10699 name='Krakatit (1948)' candidates=1
+[12:53:03]   candidate upload_id=627e58f78ea20 url=https://prehraj.to/krakatit-1948-de-studio-hamburg-bdremux-1080p/627e58f78ea20
+[12:53:04]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/30820727/bdxfmlH4AhNGC2MuyQC3oHezf94H3GibDtj6…)
+[12:53:05]   oversize: 7231638071 B > 6000000000 B, skip
+[12:53:05] film cr_film_id=10699 all candidates exhausted
+[12:53:05] iteration 3/20
+[12:53:05] film cr_film_id=21289 name='3 Godfathers (1948)' candidates=1
+[12:53:05]   candidate upload_id=55bc9ae6ad7a6 url=https://prehraj.to/3-godfathers-1948/55bc9ae6ad7a6
+[12:53:10]   resolved in 4.3s → 480p (https://pf-storage2.premiumcdn.net/63517/a0rcl5C1BTeBFRzfZjudlCq5HwgiP8IERsRASNd…)
+[12:53:34]   downloaded 617.5 MB in 23.0s (26.8 MB/s)
+[12:54:06]   upload done video_id=26611204 in 31.3s
