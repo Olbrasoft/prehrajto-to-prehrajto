@@ -25743,3 +25743,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:05:14]   upload done video_id=26543258 in 34.4s
 [00:05:16] film cr_film_id=12762 OK in 65.2s
 [00:05:16] batch-end ok=20 failed=0 dur=1774.4s avg/film=88.7s remaining=13870 eta_hours=341.7
+
+===== run 2026-06-25T00:12:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28138003672) =====
+[00:12:48] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:12:48] batch-start shard=0/2 count=20 backlog=17650 uploads=3780 failed_attempts=345 description_overrides=17579
+[00:12:48] login
+[00:12:50] login done
+[00:12:50] iteration 1/20
+[00:12:50] film cr_film_id=12766 name='Vím, že jsi vrah... (1972) CZ' candidates=2
+[00:12:50]   candidate upload_id=5ffec6d03bdb3 url=https://prehraj.to/vim-ze-jsi-vrah-cesky-film-1971/5ffec6d03bdb3
+[00:12:51]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/21451320/PWXs74hYpUEvTAZTXJCj4hm3fyrHyLS3JTO4…)
+[00:13:15]   downloaded 507.8 MB in 21.8s (23.3 MB/s)
+[00:13:42]   upload done video_id=26544118 in 27.6s
