@@ -27149,3 +27149,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:09:37]   upload done video_id=26571260 in 23.7s
 [05:09:38] film cr_film_id=13721 OK in 48.9s
 [05:09:38] batch-end ok=20 failed=0 dur=1356.1s avg/film=67.8s remaining=13686 eta_hours=257.8
+
+===== run 2026-06-25T05:29:53Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28149037110) =====
+[05:29:55] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:29:55] batch-start shard=1/2 count=20 backlog=17650 uploads=3964 failed_attempts=306 description_overrides=17579
+[05:29:55] login
+[05:30:00] login done
+[05:30:00] iteration 1/20
+[05:30:00] film cr_film_id=13723 name='Jiná perspektiva (2007) CZ Dabing' candidates=1
+[05:30:00]   candidate upload_id=58b84b7d1405d url=https://prehraj.to/jina-perspektiva-anamorph-pomsta-serioveho-vraha-2007-drsny-thriller-willem-dafoe-scott-speedman-peter-stormare-clea-duvall-james-rebhorn-cz-dab/58b84b7d1405d
+[05:30:02]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/1780883/RyRf3guoNiEGizXhD9IDBuPQCvyFY2Cv6hV7i…)
+[05:30:34]   downloaded 554.5 MB in 30.6s (18.1 MB/s)
+[05:31:07]   upload done video_id=26573000 in 32.4s
