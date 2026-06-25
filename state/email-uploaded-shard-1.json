@@ -70230,6 +70230,25 @@
         "download_sec": 34.4,
         "upload_sec": 42.2
       }
+    },
+    {
+      "cr_film_id": 13393,
+      "cr_slug": "hlas-smrti",
+      "title": "Hlas smrti",
+      "year": 2005,
+      "display_name": "Hlas smrti (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fdc766de1315",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26553046,
+      "size_bytes": 497251923,
+      "uploaded_at": "2026-06-25T01:44:47Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 26.0,
+        "upload_sec": 60.2
+      }
     }
   ],
   "failed_attempts": [
@@ -72441,5 +72460,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-25T01:43:16Z"
+  "last_updated": "2026-06-25T01:44:47Z"
 }
