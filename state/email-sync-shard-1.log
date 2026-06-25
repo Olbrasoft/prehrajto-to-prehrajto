@@ -26122,3 +26122,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:44:03]   upload done video_id=26547147 in 56.9s
 [00:44:05] film cr_film_id=13329 OK in 96.8s
 [00:44:05] batch-end ok=20 failed=0 dur=1874.6s avg/film=93.7s remaining=13825 eta_hours=359.8
+
+===== run 2026-06-25T00:56:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28139624365) =====
+[00:57:00] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:57:00] batch-start shard=1/2 count=20 backlog=17650 uploads=3825 failed_attempts=305 description_overrides=17579
+[00:57:00] login
+[00:57:01] login done
+[00:57:01] iteration 1/20
+[00:57:01] film cr_film_id=13331 name='Hellraiser: Pekelný svět (2005) CZ Dabing' candidates=5
+[00:57:01]   candidate upload_id=5e9382aa73422 url=https://prehraj.to/hellraiser-navrat-mrtvych-2005-cz-dabing-horor-drama-krimi-mysteriozni/5e9382aa73422
+[00:57:02]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/16214704/oZktRvT2bTYgI30FkLcybTZLI9rhjYSB2s8Z…)
+[00:57:20]   downloaded 380.7 MB in 15.9s (23.9 MB/s)
+[00:57:43]   upload done video_id=26548419 in 23.0s
