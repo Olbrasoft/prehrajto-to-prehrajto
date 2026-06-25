@@ -29442,3 +29442,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:26:19]   upload done video_id=26668732 in 116.6s
 [22:26:20] film cr_film_id=14300 OK in 205.1s
 [22:26:20] batch-end ok=20 failed=0 dur=3439.7s avg/film=172.0s remaining=13378 eta_hours=639.2
+
+===== run 2026-06-25T22:26:57Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28204420236) =====
+[22:26:59] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:26:59] batch-start shard=0/2 count=20 backlog=17650 uploads=4272 failed_attempts=372 description_overrides=17579
+[22:26:59] login
+[22:27:00] login done
+[22:27:00] iteration 1/20
+[22:27:00] film cr_film_id=14302 name='Stíny smrti: Černý lučištník (2019) CZ Dabing' candidates=2
+[22:27:00]   candidate upload_id=66c5ee55b25e6 url=https://prehraj.to/stiny-smrti-dama-v-bilem-2019-krimi-czdab/66c5ee55b25e6
+[22:27:01]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/91849292/pzDUqjhv5ibZuNPfPVhy0hx8cVyhjVuMDc4b…)
+[22:27:29]   downloaded 697.4 MB in 26.5s (26.3 MB/s)
+[22:28:04]   upload done video_id=26669031 in 34.8s
