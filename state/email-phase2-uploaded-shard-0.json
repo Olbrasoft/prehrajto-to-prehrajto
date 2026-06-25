@@ -90050,6 +90050,25 @@
         "download_sec": 31.3,
         "upload_sec": 31.2
       }
+    },
+    {
+      "cr_film_id": 32958,
+      "cr_slug": "zbabelec",
+      "title": "Zbabělec",
+      "year": 1962,
+      "display_name": "Zbabělec (1962)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5891b4065e9a4",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26606043,
+      "size_bytes": 484128709,
+      "uploaded_at": "2026-06-25T11:49:52Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.6,
+        "upload_sec": 38.2
+      }
     }
   ],
   "failed_attempts": [
@@ -91605,5 +91624,5 @@
       "failed_at": "2026-06-25T08:52:59Z"
     }
   ],
-  "last_updated": "2026-06-25T11:48:50Z"
+  "last_updated": "2026-06-25T11:49:52Z"
 }
