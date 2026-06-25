@@ -31893,3 +31893,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [03:53:55]   upload done video_id=26564919 in 31.0s
 [03:53:58] film cr_film_id=24171 OK in 68.0s
 [03:53:58] batch-end ok=20 failed=0 dur=1969.0s avg/film=98.5s remaining=5546 eta_hours=151.7
+
+===== run 2026-06-25T03:54:32Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28145711959) =====
+[03:54:33] batch-start shard=1/2 count=20 backlog=10210 uploads=4664 failed_attempts=201 description_overrides=0
+[03:54:33] login
+[03:54:34] login done
+[03:54:34] iteration 1/20
+[03:54:34] film cr_film_id=35383 name='Il Casanova di Federico Fellini (1976)' candidates=1
+[03:54:34]   candidate upload_id=5a9c774278690 url=https://prehraj.to/casanova-federica-felliniho-1976/5a9c774278690
+[03:54:35]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/3537398/XMxTXyuQMiaMUg2uy9CLmurohdPIZ1h9QCa1H…)
+[03:55:37]   downloaded 1,789.7 MB in 60.5s (29.6 MB/s)
+[03:57:16]   upload done video_id=26565129 in 99.2s
