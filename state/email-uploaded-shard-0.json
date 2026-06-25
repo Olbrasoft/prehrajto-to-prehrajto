@@ -71551,6 +71551,25 @@
         "download_sec": 69.5,
         "upload_sec": 108.1
       }
+    },
+    {
+      "cr_film_id": 13218,
+      "cr_slug": "cabin-fever",
+      "title": "Cabin Fever",
+      "year": 2002,
+      "display_name": "Cabin Fever (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a12603e9ce43",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26570952,
+      "size_bytes": 503683497,
+      "uploaded_at": "2026-06-25T05:06:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.0,
+        "upload_sec": 34.6
+      }
     }
   ],
   "failed_attempts": [
@@ -74148,5 +74167,5 @@
       "failed_at": "2026-06-25T02:47:20Z"
     }
   ],
-  "last_updated": "2026-06-25T05:05:15Z"
+  "last_updated": "2026-06-25T05:06:27Z"
 }
