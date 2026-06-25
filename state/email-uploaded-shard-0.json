@@ -73698,6 +73698,25 @@
         "download_sec": 22.8,
         "upload_sec": 31.1
       }
+    },
+    {
+      "cr_film_id": 13566,
+      "cr_slug": "leningrad",
+      "title": "Leningrad",
+      "year": 2007,
+      "display_name": "Leningrad (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a44451944094",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26594886,
+      "size_bytes": 736392677,
+      "uploaded_at": "2026-06-25T09:29:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 31.2,
+        "upload_sec": 35.8
+      }
     }
   ],
   "failed_attempts": [
@@ -76302,5 +76321,5 @@
       "failed_at": "2026-06-25T07:39:28Z"
     }
   ],
-  "last_updated": "2026-06-25T09:28:07Z"
+  "last_updated": "2026-06-25T09:29:18Z"
 }
