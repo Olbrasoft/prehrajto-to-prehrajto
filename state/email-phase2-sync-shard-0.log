@@ -34403,3 +34403,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [15:56:12]   upload done video_id=26629228 in 21.3s
 [15:56:13] film cr_film_id=12568 OK in 42.0s
 [15:56:13] batch-end ok=20 failed=0 dur=1562.0s avg/film=78.1s remaining=5197 eta_hours=112.7
+
+===== run 2026-06-25T15:56:59Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28183094421) =====
+[15:56:59] batch-start shard=0/2 count=20 backlog=10210 uploads=5013 failed_attempts=217 description_overrides=0
+[15:56:59] login
+[15:57:01] login done
+[15:57:01] iteration 1/20
+[15:57:01] film cr_film_id=37284 name='Dobrodružství Robina Hooda (1938)' candidates=2
+[15:57:01]   candidate upload_id=67ed5545c5c09 url=https://prehraj.to/dobrodruzstvi-robina-hooda/67ed5545c5c09
+[15:57:02]   resolved in 0.9s → 720p (https://pf-storage3.premiumcdn.net/133991933/KM1IV7HjmSmEfdWcb7SJQHlaipehwlhRMF1…)
+[15:57:49]   downloaded 1,305.0 MB in 45.6s (28.6 MB/s)
+[15:59:12]   upload done video_id=26629374 in 82.8s
