@@ -27002,3 +27002,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:42:10]   upload done video_id=26569161 in 44.8s
 [04:42:11] film cr_film_id=13651 OK in 73.5s
 [04:42:11] batch-end ok=20 failed=0 dur=1911.4s avg/film=95.6s remaining=13706 eta_hours=364.0
+
+===== run 2026-06-25T04:46:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28147510472) =====
+[04:47:01] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:47:01] batch-start shard=1/2 count=20 backlog=17650 uploads=3944 failed_attempts=306 description_overrides=17579
+[04:47:01] login
+[04:47:02] login done
+[04:47:02] iteration 1/20
+[04:47:02] film cr_film_id=13657 name='Alan Partridge: Alpha Papa (2013) CZ Dabing' candidates=1
+[04:47:02]   candidate upload_id=673ae8efbefa5 url=https://prehraj.to/alan-partridge-alpha-papa-2013-1080p-bluray-cz-dabing-mp4/673ae8efbefa5
+[04:47:03]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/107833889/BJ6fZzswdTkrHqwioyt87s1QTbDhkGTqXib…)
+[04:47:55]   downloaded 1,406.1 MB in 50.0s (28.1 MB/s)
+[04:49:08]   upload done video_id=26569419 in 72.8s
