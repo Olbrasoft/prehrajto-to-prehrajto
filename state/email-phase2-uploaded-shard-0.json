@@ -91152,6 +91152,25 @@
         "download_sec": 34.4,
         "upload_sec": 36.3
       }
+    },
+    {
+      "cr_film_id": 33230,
+      "cr_slug": "nastup",
+      "title": "Nástup",
+      "year": 1953,
+      "display_name": "Nástup (1953)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5abe780261860",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26618659,
+      "size_bytes": 752616791,
+      "uploaded_at": "2026-06-25T14:13:42Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 42.3,
+        "upload_sec": 45.5
+      }
     }
   ],
   "failed_attempts": [
@@ -92714,5 +92733,5 @@
       "failed_at": "2026-06-25T13:05:27Z"
     }
   ],
-  "last_updated": "2026-06-25T14:12:08Z"
+  "last_updated": "2026-06-25T14:13:42Z"
 }
