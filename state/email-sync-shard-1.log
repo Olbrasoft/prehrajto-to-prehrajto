@@ -29830,3 +29830,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:18:24]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/14800/MXDfeks7Ai2LcoaiVwC0Xs9GfkGCpofLJUzqHyb…)
 [23:18:42]   downloaded 411.3 MB in 16.4s (25.1 MB/s)
 [23:19:01]   upload done video_id=26674041 in 18.4s
+[23:19:02] film cr_film_id=14945 OK in 39.1s
+[23:19:02] iteration 4/20
+[23:19:02] film cr_film_id=14947 name='Simpsonovi: S Lokim nejsou žerty (2021) CZ Dabing' candidates=3
+[23:19:02]   candidate upload_id=62fc30f52a6a5 url=https://prehraj.to/simpsonovi-s-lokim-nejsou-zerty-2021-czdab-mp4/62fc30f52a6a5
+[23:19:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/simpsonovi-s-lokim-nejsou-zerty-2021-czdab-mp4/62fc30f52a6a5 (permanent=True)
+[23:19:03]   candidate upload_id=62fda98d2a06b url=https://prehraj.to/simpsonovi-s-lokim-nejsou-zerty-2021-czdab/62fda98d2a06b
+[23:19:09]   resolved in 6.0s → 720p (https://pf-storage1.premiumcdn.net/32159029/EX6Tmlh9kFz7Clrszqte5hq1c5RSd4SYpT3v…)
+[23:19:14]   downloaded 60.1 MB in 3.7s (16.2 MB/s)
+[23:19:19]   upload done video_id=26674076 in 4.7s
