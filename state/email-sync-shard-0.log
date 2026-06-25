@@ -28711,3 +28711,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:14:00]   upload done video_id=26624621 in 135.5s
 [15:14:02] film cr_film_id=13942 OK in 337.6s
 [15:14:02] batch-end ok=19 failed=1 dur=4239.2s avg/film=223.1s remaining=13476 eta_hours=835.1
+
+===== run 2026-06-25T15:38:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28181910568) =====
+[15:38:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:38:13] batch-start shard=0/2 count=20 backlog=17650 uploads=4174 failed_attempts=370 description_overrides=17579
+[15:38:13] login
+[15:38:14] login done
+[15:38:14] iteration 1/20
+[15:38:14] film cr_film_id=13946 name='Žena z bazénu (2024) CZ Dabing' candidates=5
+[15:38:14]   candidate upload_id=1108cddecbf306d2 url=https://prehraj.to/zena-z-bazenu-2024-cz-dabing-1080p/1108cddecbf306d2
+[15:38:15]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/156036878/0WoFXGUmxS4duDkcEPIYLUPmSqluG0fPKtK…)
+[15:39:49]   downloaded 2,756.1 MB in 91.8s (30.0 MB/s)
+[15:41:49]   upload done video_id=26627714 in 120.5s
