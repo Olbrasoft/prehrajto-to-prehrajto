@@ -72634,6 +72634,25 @@
         "download_sec": 29.3,
         "upload_sec": 30.8
       }
+    },
+    {
+      "cr_film_id": 13386,
+      "cr_slug": "silny-kafe",
+      "title": "Silný kafe",
+      "year": 2004,
+      "display_name": "Silný kafe (2004) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ce4493f0e7b7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26580911,
+      "size_bytes": 590029744,
+      "uploaded_at": "2026-06-25T07:00:49Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 33.3,
+        "upload_sec": 53.7
+      }
     }
   ],
   "failed_attempts": [
@@ -75231,5 +75250,5 @@
       "failed_at": "2026-06-25T02:47:20Z"
     }
   ],
-  "last_updated": "2026-06-25T06:59:17Z"
+  "last_updated": "2026-06-25T07:00:49Z"
 }
