@@ -84712,6 +84712,25 @@
         "download_sec": 26.9,
         "upload_sec": 62.8
       }
+    },
+    {
+      "cr_film_id": 11319,
+      "cr_slug": "port-arthur",
+      "title": "Port Arthur",
+      "year": 1980,
+      "display_name": "Port Arthur (1980)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "68bd329d37982",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26556477,
+      "size_bytes": 896103359,
+      "uploaded_at": "2026-06-25T02:22:55Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 37.3,
+        "upload_sec": 48.7
+      }
     }
   ],
   "failed_attempts": [
@@ -86191,5 +86210,5 @@
       "failed_at": "2026-06-25T00:11:01Z"
     }
   ],
-  "last_updated": "2026-06-25T02:21:24Z"
+  "last_updated": "2026-06-25T02:22:55Z"
 }
