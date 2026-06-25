@@ -32542,3 +32542,13 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [06:49:10]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/1339200/BENh0df3NHn1tbXTjWIEbfZEUKYs0LTX3T6ji…)
 [06:50:05]   downloaded 1,038.9 MB in 52.8s (19.7 MB/s)
 [06:51:00]   upload done video_id=26579982 in 55.9s
+[06:51:04] film cr_film_id=13185 OK in 115.1s
+[06:51:04] iteration 10/20
+[06:51:04] film cr_film_id=10975 name='Spalovač mrtvol (1969)' candidates=4
+[06:51:04]   candidate upload_id=64f2bb3656824 url=https://prehraj.to/spalovac-mrtvol-1969/64f2bb3656824
+[06:51:05]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/43926161/P6bUymFmKteNhOZt3Bsx3F5BIw6fKMInksVG…)
+[06:51:07]   oversize: 7714313469 B > 6000000000 B, skip
+[06:51:07]   candidate upload_id=674dbcaf5a15a url=https://prehraj.to/spalovac-mrtvol-1969/674dbcaf5a15a
+[06:51:11]   resolved in 4.0s → 720p (https://pf-storage5.premiumcdn.net/115549655/gVxIpwTrGtoDHQJCz8S15TLMt8GUoPhygIp…)
+[06:52:23]   downloaded 1,790.2 MB in 69.6s (25.7 MB/s)
+[06:54:12]   upload done video_id=26580235 in 109.5s
