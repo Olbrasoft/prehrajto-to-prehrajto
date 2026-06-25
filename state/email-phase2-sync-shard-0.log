@@ -32655,3 +32655,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [06:59:48]   upload done video_id=26580812 in 40.6s
 [06:59:50] film cr_film_id=24226 OK in 73.9s
 [06:59:50] batch-end ok=20 failed=0 dur=1905.8s avg/film=95.3s remaining=5433 eta_hours=143.8
+
+===== run 2026-06-25T07:17:52Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28153613536) =====
+[07:17:52] batch-start shard=0/2 count=20 backlog=10210 uploads=4777 failed_attempts=213 description_overrides=0
+[07:17:52] login
+[07:17:54] login done
+[07:17:54] iteration 1/20
+[07:17:54] film cr_film_id=32886 name='Executive Action (1973)' candidates=1
+[07:17:54]   candidate upload_id=58837d855680d url=https://prehraj.to/executive-action-1973-dvdrip-xvid-majestic/58837d855680d
+[07:17:56]   resolved in 1.9s → 480p (https://pf-storage1.premiumcdn.net/1498388/Kg4HLbS51UqQswoTWmIlQSjGU6giXdS9efNni…)
+[07:18:22]   downloaded 665.6 MB in 24.4s (27.3 MB/s)
+[07:18:50]   upload done video_id=26582385 in 28.5s
