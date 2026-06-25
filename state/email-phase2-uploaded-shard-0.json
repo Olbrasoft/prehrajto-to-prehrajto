@@ -90715,6 +90715,25 @@
         "download_sec": 64.6,
         "upload_sec": 70.9
       }
+    },
+    {
+      "cr_film_id": 21498,
+      "cr_slug": "zrzoun",
+      "title": "Zrzoun",
+      "year": 1957,
+      "display_name": "Zrzoun (1957)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac5c7ddc0263",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26613743,
+      "size_bytes": 1612575152,
+      "uploaded_at": "2026-06-25T13:21:26Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 87.5,
+        "upload_sec": 101.9
+      }
     }
   ],
   "failed_attempts": [
@@ -92277,5 +92296,5 @@
       "failed_at": "2026-06-25T13:05:27Z"
     }
   ],
-  "last_updated": "2026-06-25T13:18:11Z"
+  "last_updated": "2026-06-25T13:21:26Z"
 }
