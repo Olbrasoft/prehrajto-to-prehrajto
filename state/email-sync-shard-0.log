@@ -29587,3 +29587,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:01:12]   upload done video_id=26672009 in 117.8s
 [23:01:14] film cr_film_id=14378 OK in 170.1s
 [23:01:14] batch-end ok=19 failed=1 dur=2053.6s avg/film=108.1s remaining=13359 eta_hours=401.1
+
+===== run 2026-06-25T23:12:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28206357256) =====
+[23:12:54] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:12:54] batch-start shard=0/2 count=20 backlog=17650 uploads=4291 failed_attempts=373 description_overrides=17579
+[23:12:54] login
+[23:12:56] login done
+[23:12:56] iteration 1/20
+[23:12:56] film cr_film_id=14384 name='s01e03 (2020) CZ Dabing' candidates=9
+[23:12:56]   candidate upload_id=a11c71e7448346e8 url=https://prehraj.to/misto-zlocinu-ostrava-s01e03-13-2020-cz-dab-1080p-tichoslapek/a11c71e7448346e8
+[23:12:58]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/165981365/NdjuqySwzcEzcgbS4ZSv4SlxI4KUlvCKAT2…)
+[23:14:21]   downloaded 1,483.4 MB in 81.5s (18.2 MB/s)
+[23:16:01]   upload done video_id=26673482 in 100.3s
