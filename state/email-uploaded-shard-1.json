@@ -71408,6 +71408,25 @@
         "download_sec": 30.3,
         "upload_sec": 48.4
       }
+    },
+    {
+      "cr_film_id": 13561,
+      "cr_slug": "lassie-2005",
+      "title": "Lassie",
+      "year": 2005,
+      "display_name": "Lassie (2005) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "558bd393d422c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26563758,
+      "size_bytes": 666177816,
+      "uploaded_at": "2026-06-25T03:41:40Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 26.2,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -73626,5 +73645,5 @@
       "failed_at": "2026-06-25T02:43:28Z"
     }
   ],
-  "last_updated": "2026-06-25T03:40:39Z"
+  "last_updated": "2026-06-25T03:41:40Z"
 }
