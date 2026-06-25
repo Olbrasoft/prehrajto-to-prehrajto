@@ -28161,3 +28161,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:30:12]   resolved in 0.7s → 480p (https://pf-storage2.premiumcdn.net/647088/RmphgMU7MC2bI8BcDRtBAUoyh3gs7Lun2SLNfB…)
 [11:30:30]   downloaded 416.9 MB in 16.6s (25.1 MB/s)
 [11:30:48]   upload done video_id=26604630 in 17.5s
+[11:30:49] film cr_film_id=13728 OK in 37.7s
+[11:30:49] iteration 6/20
+[11:30:49] film cr_film_id=13730 name='Labyrint lží (2008) CZ Dabing' candidates=2
+[11:30:49]   candidate upload_id=a0df99730aa3b6d4 url=https://prehraj.to/labyrint-lzi-body-of-lies-2008-czdab-bluray-fullhd-1920x800-pdna-mkv/a0df99730aa3b6d4
+[11:30:50]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/labyrint-lzi-body-of-lies-2008-czdab-bluray-fullhd-1920x800-pdna-mkv/a0df99730aa3b6d4 (permanent=True)
+[11:30:50]   candidate upload_id=6902bb7e6be14 url=https://prehraj.to/labyrint-lzi-2008-fhd-1080p-cz-1427/6902bb7e6be14
+[11:30:56]   resolved in 6.0s → 720p (https://pf-storage4.premiumcdn.net/154354293/y1wuqgh8qCQjSXxfR1Sp9he6tx2SAqfwZfQ…)
+[11:32:01]   downloaded 2,236.7 MB in 63.9s (35.0 MB/s)
+[11:33:53]   upload done video_id=26604766 in 111.9s
