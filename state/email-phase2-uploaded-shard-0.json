@@ -88359,6 +88359,25 @@
         "download_sec": 25.5,
         "upload_sec": 28.4
       }
+    },
+    {
+      "cr_film_id": 32438,
+      "cr_slug": "cisco-pike",
+      "title": "Cisco Pike",
+      "year": 1971,
+      "display_name": "Cisco Pike (1971)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5820f851a78d8",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26587369,
+      "size_bytes": 432035624,
+      "uploaded_at": "2026-06-25T08:08:53Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 17.5,
+        "upload_sec": 17.8
+      }
     }
   ],
   "failed_attempts": [
@@ -89907,5 +89926,5 @@
       "failed_at": "2026-06-25T06:23:14Z"
     }
   ],
-  "last_updated": "2026-06-25T08:08:14Z"
+  "last_updated": "2026-06-25T08:08:53Z"
 }
