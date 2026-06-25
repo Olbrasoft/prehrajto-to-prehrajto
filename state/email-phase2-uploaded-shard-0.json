@@ -90848,6 +90848,25 @@
         "download_sec": 29.3,
         "upload_sec": 25.2
       }
+    },
+    {
+      "cr_film_id": 10744,
+      "cr_slug": "alexandr-veliky",
+      "title": "Alexandr Veliký",
+      "year": 1956,
+      "display_name": "Alexandr Veliký (1956)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "577c1f35b932d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26615663,
+      "size_bytes": 696984602,
+      "uploaded_at": "2026-06-25T13:41:05Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 40.3,
+        "upload_sec": 40.6
+      }
     }
   ],
   "failed_attempts": [
@@ -92410,5 +92429,5 @@
       "failed_at": "2026-06-25T13:05:27Z"
     }
   ],
-  "last_updated": "2026-06-25T13:38:57Z"
+  "last_updated": "2026-06-25T13:41:05Z"
 }

@@ -33821,3 +33821,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [13:38:57]   upload done video_id=26615504 in 25.2s
 [13:38:59] film cr_film_id=32854 OK in 59.6s
 [13:38:59] batch-end ok=19 failed=1 dur=2857.1s avg/film=150.4s remaining=5275 eta_hours=220.4
+
+===== run 2026-06-25T13:39:37Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28174311460) =====
+[13:39:39] batch-start shard=0/2 count=20 backlog=10210 uploads=4935 failed_attempts=215 description_overrides=0
+[13:39:39] login
+[13:39:40] login done
+[13:39:40] iteration 1/20
+[13:39:40] film cr_film_id=10744 name='Alexandr Veliký (1956)' candidates=2
+[13:39:40]   candidate upload_id=577c1f35b932d url=https://prehraj.to/alexandr-veliky-2f-alexander-the-great-1956-cz/577c1f35b932d
+[13:39:41]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/241424/yeKuwaI49c1augZI6mc4NIn0cw7hYxSweHkyHp…)
+[13:40:24]   downloaded 697.0 MB in 40.3s (17.3 MB/s)
+[13:41:05]   upload done video_id=26615663 in 40.6s
