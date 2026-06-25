@@ -86346,6 +86346,25 @@
         "download_sec": 126.1,
         "upload_sec": 128.6
       }
+    },
+    {
+      "cr_film_id": 22185,
+      "cr_slug": "california-split",
+      "title": "California Split",
+      "year": 1974,
+      "display_name": "California Split (1974)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "590707e7015aa",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26569569,
+      "size_bytes": 608880655,
+      "uploaded_at": "2026-06-25T04:52:42Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 31.0,
+        "upload_sec": 55.6
+      }
     }
   ],
   "failed_attempts": [
@@ -87825,5 +87844,5 @@
       "failed_at": "2026-06-25T00:11:01Z"
     }
   ],
-  "last_updated": "2026-06-25T04:51:09Z"
+  "last_updated": "2026-06-25T04:52:42Z"
 }
