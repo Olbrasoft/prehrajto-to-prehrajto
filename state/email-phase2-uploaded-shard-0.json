@@ -90316,6 +90316,25 @@
         "download_sec": 5.6,
         "upload_sec": 10.5
       }
+    },
+    {
+      "cr_film_id": 35594,
+      "cr_slug": "film-1960",
+      "title": "Ποτέ την Κυριακή",
+      "year": 1960,
+      "display_name": "Ποτέ την Κυριακή (1960)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "588bad5d31987",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26608349,
+      "size_bytes": 477617489,
+      "uploaded_at": "2026-06-25T12:18:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.1,
+        "upload_sec": 41.5
+      }
     }
   ],
   "failed_attempts": [
@@ -91871,5 +91890,5 @@
       "failed_at": "2026-06-25T08:52:59Z"
     }
   ],
-  "last_updated": "2026-06-25T12:17:02Z"
+  "last_updated": "2026-06-25T12:18:09Z"
 }
