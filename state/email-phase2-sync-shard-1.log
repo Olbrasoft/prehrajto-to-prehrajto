@@ -31309,3 +31309,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [01:26:33]   upload done video_id=26551284 in 55.1s
 [01:26:35] film cr_film_id=32479 OK in 101.8s
 [01:26:35] batch-end ok=20 failed=0 dur=2392.7s avg/film=119.6s remaining=5626 eta_hours=186.9
+
+===== run 2026-06-25T01:27:10Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28140699618) =====
+[01:27:11] batch-start shard=1/2 count=20 backlog=10210 uploads=4584 failed_attempts=201 description_overrides=0
+[01:27:11] login
+[01:27:12] login done
+[01:27:12] iteration 1/20
+[01:27:12] film cr_film_id=15657 name='Loupežnická pohádka (1981)' candidates=1
+[01:27:12]   candidate upload_id=567752373b290 url=https://prehraj.to/pohadka-loupeznicka-pohadka-tv-film-1981/567752373b290
+[01:27:13]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/342125/6yJfdJH9LcavID1cBWHW9H2WS8mTJOU5qsMXCO…)
+[01:27:31]   downloaded 399.8 MB in 15.6s (25.6 MB/s)
+[01:27:47]   upload done video_id=26551465 in 15.9s
