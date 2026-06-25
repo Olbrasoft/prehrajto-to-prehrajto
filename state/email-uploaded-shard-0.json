@@ -69252,6 +69252,25 @@
         "download_sec": 56.3,
         "upload_sec": 97.9
       }
+    },
+    {
+      "cr_film_id": 12842,
+      "cr_slug": "draci-doupe",
+      "title": "Dračí doupě",
+      "year": 2000,
+      "display_name": "Dračí doupě (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "228238a153740942",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26549376,
+      "size_bytes": 2315878845,
+      "uploaded_at": "2026-06-25T01:08:51Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 73.0,
+        "upload_sec": 110.7
+      }
     }
   ],
   "failed_attempts": [
@@ -71709,5 +71728,5 @@
       "failed_at": "2026-06-24T22:55:43Z"
     }
   ],
-  "last_updated": "2026-06-25T01:05:42Z"
+  "last_updated": "2026-06-25T01:08:51Z"
 }
