@@ -86593,6 +86593,25 @@
         "download_sec": 88.8,
         "upload_sec": 92.9
       }
+    },
+    {
+      "cr_film_id": 22143,
+      "cr_slug": "giordano-bruno",
+      "title": "Giordano Bruno",
+      "year": 1973,
+      "display_name": "Giordano Bruno (1973)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "609faa36aaa5b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26571815,
+      "size_bytes": 2091304975,
+      "uploaded_at": "2026-06-25T05:18:47Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 110.5,
+        "upload_sec": 120.6
+      }
     }
   ],
   "failed_attempts": [
@@ -88072,5 +88091,5 @@
       "failed_at": "2026-06-25T00:11:01Z"
     }
   ],
-  "last_updated": "2026-06-25T05:14:50Z"
+  "last_updated": "2026-06-25T05:18:47Z"
 }
