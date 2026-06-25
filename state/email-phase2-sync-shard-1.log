@@ -31747,3 +31747,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [03:20:28]   upload done video_id=26561847 in 15.0s
 [03:20:30] film cr_film_id=34249 OK in 34.0s
 [03:20:30] batch-end ok=20 failed=0 dur=2040.2s avg/film=102.0s remaining=5566 eta_hours=157.7
+
+===== run 2026-06-25T03:21:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28144597616) =====
+[03:21:07] batch-start shard=1/2 count=20 backlog=10210 uploads=4644 failed_attempts=201 description_overrides=0
+[03:21:07] login
+[03:21:09] login done
+[03:21:09] iteration 1/20
+[03:21:09] film cr_film_id=11295 name='Felicity (1978)' candidates=14
+[03:21:09]   candidate upload_id=61a11f72c536e url=https://prehraj.to/christmas-with-felicity-2021-1080p-webrip-x265-rarbg/61a11f72c536e
+[03:21:10]   resolved in 1.3s → 1080p (https://pf-storage2.premiumcdn.net/26860063/WzBsVgcaPI0bT1PtLlF1dcj9U7YHLkFXaSEz…)
+[03:23:16]   downloaded 2,411.2 MB in 123.9s (19.5 MB/s)
+[03:25:28]   upload done video_id=26562126 in 132.2s
