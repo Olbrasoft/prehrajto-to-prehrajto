@@ -71171,6 +71171,25 @@
         "download_sec": 53.4,
         "upload_sec": 77.8
       }
+    },
+    {
+      "cr_film_id": 13152,
+      "cr_slug": "cert-vi-proc",
+      "title": "Čert ví proč",
+      "year": 2003,
+      "display_name": "Čert ví proč (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c0e08c61653c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26567690,
+      "size_bytes": 684451572,
+      "uploaded_at": "2026-06-25T04:23:59Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.4,
+        "upload_sec": 46.7
+      }
     }
   ],
   "failed_attempts": [
@@ -73768,5 +73787,5 @@
       "failed_at": "2026-06-25T02:47:20Z"
     }
   ],
-  "last_updated": "2026-06-25T04:22:35Z"
+  "last_updated": "2026-06-25T04:23:59Z"
 }
