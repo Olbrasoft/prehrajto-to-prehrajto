@@ -91361,6 +91361,25 @@
         "download_sec": 36.0,
         "upload_sec": 39.3
       }
+    },
+    {
+      "cr_film_id": 13050,
+      "cr_slug": "priehrada",
+      "title": "Priehrada",
+      "year": 1950,
+      "display_name": "Priehrada (1950)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "586a4de2612ef",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26620324,
+      "size_bytes": 903069379,
+      "uploaded_at": "2026-06-25T14:31:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 47.4,
+        "upload_sec": 50.0
+      }
     }
   ],
   "failed_attempts": [
@@ -92923,5 +92942,5 @@
       "failed_at": "2026-06-25T13:05:27Z"
     }
   ],
-  "last_updated": "2026-06-25T14:30:09Z"
+  "last_updated": "2026-06-25T14:31:52Z"
 }
