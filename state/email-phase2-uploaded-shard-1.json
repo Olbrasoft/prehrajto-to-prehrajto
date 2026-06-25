@@ -87638,6 +87638,25 @@
         "download_sec": 103.0,
         "upload_sec": 123.3
       }
+    },
+    {
+      "cr_film_id": 21891,
+      "cr_slug": "samada",
+      "title": "Šamáda",
+      "year": 1968,
+      "display_name": "Šamáda (1968)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "584950cfdbbbc",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26582224,
+      "size_bytes": 466060515,
+      "uploaded_at": "2026-06-25T07:17:14Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.6,
+        "upload_sec": 27.4
+      }
     }
   ],
   "failed_attempts": [
@@ -89131,5 +89150,5 @@
       "failed_at": "2026-06-25T06:51:07Z"
     }
   ],
-  "last_updated": "2026-06-25T07:16:16Z"
+  "last_updated": "2026-06-25T07:17:14Z"
 }
