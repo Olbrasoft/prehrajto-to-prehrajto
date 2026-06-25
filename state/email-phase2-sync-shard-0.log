@@ -32801,3 +32801,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [07:44:04]   upload done video_id=26584968 in 24.1s
 [07:44:06] film cr_film_id=22080 OK in 46.8s
 [07:44:06] batch-end ok=20 failed=0 dur=1571.9s avg/film=78.6s remaining=5413 eta_hours=118.2
+
+===== run 2026-06-25T07:57:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28155549318) =====
+[07:57:11] batch-start shard=0/2 count=20 backlog=10210 uploads=4797 failed_attempts=213 description_overrides=0
+[07:57:11] login
+[07:57:13] login done
+[07:57:13] iteration 1/20
+[07:57:13] film cr_film_id=22076 name='Alfréde, Alfréde! (1972)' candidates=1
+[07:57:13]   candidate upload_id=58b3fb161ce25 url=https://prehraj.to/alfrede-alfrede-1972-cz/58b3fb161ce25
+[07:57:14]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/1760993/QJPf6ZFNEFY5cBVhV9CgvFwEH9YurQIe2TymS…)
+[07:57:41]   downloaded 672.8 MB in 25.4s (26.5 MB/s)
+[07:58:13]   upload done video_id=26586417 in 31.6s
