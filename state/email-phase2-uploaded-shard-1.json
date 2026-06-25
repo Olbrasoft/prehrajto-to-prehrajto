@@ -84617,6 +84617,25 @@
         "download_sec": 81.5,
         "upload_sec": 144.7
       }
+    },
+    {
+      "cr_film_id": 2343,
+      "cr_slug": "signum-laudis",
+      "title": "Signum laudis",
+      "year": 1980,
+      "display_name": "Signum laudis (1980)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "61262d107666f",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26554527,
+      "size_bytes": 1959657699,
+      "uploaded_at": "2026-06-25T02:01:30Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 53.5,
+        "upload_sec": 104.4
+      }
     }
   ],
   "failed_attempts": [
@@ -86096,5 +86115,5 @@
       "failed_at": "2026-06-25T00:11:01Z"
     }
   ],
-  "last_updated": "2026-06-25T01:58:48Z"
+  "last_updated": "2026-06-25T02:01:30Z"
 }
