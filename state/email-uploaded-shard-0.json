@@ -75351,6 +75351,25 @@
         "download_sec": 66.5,
         "upload_sec": 85.4
       }
+    },
+    {
+      "cr_film_id": 13806,
+      "cr_slug": "hybrid",
+      "title": "Hybrid",
+      "year": 2007,
+      "display_name": "Hybrid (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "608589d0b5717",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26611302,
+      "size_bytes": 647908463,
+      "uploaded_at": "2026-06-25T12:54:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.0,
+        "upload_sec": 24.3
+      }
     }
   ],
   "failed_attempts": [
@@ -77974,5 +77993,5 @@
       "failed_at": "2026-06-25T11:30:50Z"
     }
   ],
-  "last_updated": "2026-06-25T12:53:53Z"
+  "last_updated": "2026-06-25T12:54:46Z"
 }
