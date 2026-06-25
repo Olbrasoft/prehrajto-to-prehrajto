@@ -33062,3 +33062,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [09:09:59]   upload done video_id=26593088 in 37.1s
 [09:10:01] film cr_film_id=32959 OK in 70.5s
 [09:10:01] batch-end ok=20 failed=0 dur=2092.6s avg/film=104.6s remaining=5387 eta_hours=156.5
+
+===== run 2026-06-25T09:10:40Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28159537420) =====
+[09:10:41] batch-start shard=1/2 count=20 backlog=10210 uploads=4823 failed_attempts=203 description_overrides=0
+[09:10:41] login
+[09:10:42] login done
+[09:10:42] iteration 1/20
+[09:10:42] film cr_film_id=33771 name='Velká cesta (1963)' candidates=1
+[09:10:42]   candidate upload_id=60aaf79d7b165 url=https://prehraj.to/velka-cesta-komedie-1962-cz/60aaf79d7b165
+[09:10:44]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/23640444/PRwFLJTw5CnYt2WcjlIA8TYBSn9s1AUm3CaO…)
+[09:11:37]   downloaded 876.6 MB in 51.4s (17.1 MB/s)
+[09:12:34]   upload done video_id=26593219 in 57.4s
