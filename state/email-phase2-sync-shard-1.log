@@ -33354,3 +33354,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [10:35:45]   upload done video_id=26600624 in 24.6s
 [10:35:47] film cr_film_id=21581 OK in 49.2s
 [10:35:47] batch-end ok=20 failed=0 dur=2741.7s avg/film=137.1s remaining=5347 eta_hours=203.6
+
+===== run 2026-06-25T10:47:22Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28164738009) =====
+[10:47:23] batch-start shard=1/2 count=20 backlog=10210 uploads=4863 failed_attempts=203 description_overrides=0
+[10:47:23] login
+[10:47:24] login done
+[10:47:24] iteration 1/20
+[10:47:24] film cr_film_id=10771 name='Dům hrůzy (1959)' candidates=4
+[10:47:24]   candidate upload_id=59dbb6002881d url=https://prehraj.to/house-on-haunted-hill-1959-vincent-price-cult-classic-horror-film-full-movie-mp4/59dbb6002881d
+[10:47:26]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/2778434/y2ghVJSWATMQhGZc7YuMPSwoTDYTQJIYQHg4T…)
+[10:47:43]   downloaded 229.0 MB in 15.3s (15.0 MB/s)
+[10:48:03]   upload done video_id=26601447 in 20.2s
