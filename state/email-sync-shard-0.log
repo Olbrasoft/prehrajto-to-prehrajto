@@ -27713,3 +27713,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:28:10]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/3187960/KPQsKqcarh5XTWAsYDHzAcqaFmbf7aI31hbPs…)
 [09:28:43]   downloaded 736.4 MB in 31.2s (23.6 MB/s)
 [09:29:18]   upload done video_id=26594886 in 35.8s
+[09:29:21] film cr_film_id=13566 OK in 72.0s
+[09:29:21] iteration 5/20
+[09:29:21] film cr_film_id=13570 name='Noční můra (2006) CZ Dabing' candidates=1
+[09:29:21]   candidate upload_id=64d7efcd85c89 url=https://prehraj.to/nocni-mura-2006-czdab/64d7efcd85c89
+[09:29:22]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/43374605/V5qsblU1nTXeCegsVMcZ0UzEtpXIg3SlVtrZ…)
+[09:30:23]   downloaded 1,444.5 MB in 59.7s (24.2 MB/s)
+[09:31:39]   upload FAILED after 75.9s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[09:31:39] film cr_film_id=13570 all candidates exhausted
+[09:31:39] iteration 6/20
+[09:31:39] film cr_film_id=13572 name='Chupacabra Terror (2005) CZ Dabing' candidates=1
+[09:31:39]   candidate upload_id=564a0faddc2d5 url=https://prehraj.to/chupacabra-temne-more-2005-cz-dab-horor-koko/564a0faddc2d5
+[09:31:40]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/323960/Oj6cQjIyWTjLhgbI8BTvBIEZcP1HWoS60sBKfk…)
+[09:32:05]   downloaded 527.9 MB in 23.8s (22.2 MB/s)
+[09:32:45]   upload done video_id=26595194 in 39.2s
