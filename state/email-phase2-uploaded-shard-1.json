@@ -89367,6 +89367,25 @@
         "download_sec": 6.4,
         "upload_sec": 8.0
       }
+    },
+    {
+      "cr_film_id": 24243,
+      "cr_slug": "holubice",
+      "title": "Holubice",
+      "year": 1960,
+      "display_name": "Holubice (1960)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9d7eef51ec5",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26599412,
+      "size_bytes": 1052023594,
+      "uploaded_at": "2026-06-25T10:18:29Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 47.3,
+        "upload_sec": 62.4
+      }
     }
   ],
   "failed_attempts": [
@@ -90860,5 +90879,5 @@
       "failed_at": "2026-06-25T06:51:07Z"
     }
   ],
-  "last_updated": "2026-06-25T10:16:33Z"
+  "last_updated": "2026-06-25T10:18:29Z"
 }
