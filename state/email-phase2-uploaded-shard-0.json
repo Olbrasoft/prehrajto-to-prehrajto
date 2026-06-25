@@ -84445,6 +84445,25 @@
         "download_sec": 5.1,
         "upload_sec": 5.5
       }
+    },
+    {
+      "cr_film_id": 33102,
+      "cr_slug": "koyaanisqatsi",
+      "title": "Koyaanisqatsi",
+      "year": 1983,
+      "display_name": "Koyaanisqatsi (1983)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5a9d1c63edc96",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26551471,
+      "size_bytes": 948158250,
+      "uploaded_at": "2026-06-25T01:28:35Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 39.8,
+        "upload_sec": 38.6
+      }
     }
   ],
   "failed_attempts": [
@@ -85967,5 +85986,5 @@
       "failed_at": "2026-06-24T17:34:07Z"
     }
   ],
-  "last_updated": "2026-06-25T01:24:48Z"
+  "last_updated": "2026-06-25T01:28:35Z"
 }
