@@ -29219,3 +29219,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:07:22]   upload done video_id=26636216 in 59.4s
 [17:07:24] film cr_film_id=14637 OK in 128.4s
 [17:07:24] batch-end ok=19 failed=1 dur=2411.1s avg/film=126.9s remaining=13411 eta_hours=472.7
+
+===== run 2026-06-25T17:34:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28188831248) =====
+[17:34:46] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:34:46] batch-start shard=1/2 count=20 backlog=17650 uploads=4239 failed_attempts=322 description_overrides=17579
+[17:34:46] login
+[17:34:48] login done
+[17:34:48] iteration 1/20
+[17:34:48] film cr_film_id=14641 name='O zlatém tolaru (2020) CZ Dabing' candidates=1
+[17:34:48]   candidate upload_id=678500c65efaa url=https://prehraj.to/o-zlatem-tolaru-2020-pohadka-rodinny-cz-dabing/678500c65efaa
+[17:34:49]   resolved in 1.5s → 720p (https://pf-storage5.premiumcdn.net/127546727/VpMSMETOpIA2TmatYviwlTRGh0oiedsZnC1…)
+[17:37:57]   downloaded 597.4 MB in 186.1s (3.2 MB/s)
+[17:38:42]   upload done video_id=26639686 in 44.1s
