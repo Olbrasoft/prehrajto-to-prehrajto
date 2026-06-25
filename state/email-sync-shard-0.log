@@ -27827,3 +27827,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:53:43]   upload done video_id=26597252 in 15.2s
 [09:53:45] film cr_film_id=13610 OK in 31.9s
 [09:53:45] batch-end ok=19 failed=1 dur=1974.9s avg/film=103.9s remaining=13595 eta_hours=392.4
+
+===== run 2026-06-25T10:02:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28162407067) =====
+[10:02:37] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:02:37] batch-start shard=0/2 count=20 backlog=17650 uploads=4055 failed_attempts=367 description_overrides=17579
+[10:02:37] login
+[10:02:39] login done
+[10:02:39] iteration 1/20
+[10:02:39] film cr_film_id=13570 name='Noční můra (2006) CZ Dabing' candidates=1
+[10:02:39]   candidate upload_id=64d7efcd85c89 url=https://prehraj.to/nocni-mura-2006-czdab/64d7efcd85c89
+[10:02:40]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/43374605/V5qsblU1nTXeCegsVMcZ0UzEtpXIg3SlVtrZ…)
+[10:03:23]   downloaded 1,444.5 MB in 41.4s (34.9 MB/s)
+[10:04:31]   upload done video_id=26598154 in 67.7s
