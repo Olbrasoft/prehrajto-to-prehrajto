@@ -70145,6 +70145,25 @@
         "download_sec": 29.3,
         "upload_sec": 29.8
       }
+    },
+    {
+      "cr_film_id": 12992,
+      "cr_slug": "afera-s-nahrdelnikem",
+      "title": "Aféra s náhrdelníkem",
+      "year": 2001,
+      "display_name": "Aféra s náhrdelníkem (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "583a1759d713d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26557756,
+      "size_bytes": 584410123,
+      "uploaded_at": "2026-06-25T02:35:10Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 22.3,
+        "upload_sec": 30.7
+      }
     }
   ],
   "failed_attempts": [
@@ -72607,7 +72626,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/osudy-dobreho-vojaka-svejka-1956-cz-dabing-full-hd-comedy-top-kvalita-257101/df181c9e14ff1194",
       "permanent": true,
       "failed_at": "2026-06-25T02:30:19Z"
+    },
+    {
+      "cr_film_id": 12984,
+      "upload_id": "676889e219b2e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mala-morska-vila-ii-navrat-do-more-2000-cz-dab/676889e219b2e",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:34:09Z"
     }
   ],
-  "last_updated": "2026-06-25T02:34:06Z"
+  "last_updated": "2026-06-25T02:35:10Z"
 }
