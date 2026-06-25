@@ -26653,3 +26653,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:09:37]   upload done video_id=26566175 in 153.1s
 [04:09:40] film cr_film_id=13124 OK in 292.6s
 [04:09:40] batch-end ok=20 failed=0 dur=2270.0s avg/film=113.5s remaining=13753 eta_hours=433.6
+
+===== run 2026-06-25T04:10:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28146262179) =====
+[04:10:20] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:10:20] batch-start shard=0/2 count=20 backlog=17650 uploads=3897 failed_attempts=365 description_overrides=17579
+[04:10:20] login
+[04:10:22] login done
+[04:10:22] iteration 1/20
+[04:10:22] film cr_film_id=13126 name='Jak na věc (2002) CZ Dabing' candidates=8
+[04:10:22]   candidate upload_id=5a384325c9891 url=https://prehraj.to/jak-na-vec-2002-cz-dabing/5a384325c9891
+[04:10:23]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/3145162/DEaHPDi6OT0oCa5Fd0s5niLZFyLhgLhrxTrGh…)
+[04:10:49]   downloaded 488.4 MB in 24.1s (20.3 MB/s)
+[04:11:20]   upload done video_id=26566484 in 31.7s
