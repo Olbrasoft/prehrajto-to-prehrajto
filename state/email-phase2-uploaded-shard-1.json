@@ -87866,6 +87866,25 @@
         "download_sec": 23.0,
         "upload_sec": 27.2
       }
+    },
+    {
+      "cr_film_id": 21887,
+      "cr_slug": "anzio",
+      "title": "Anzio",
+      "year": 1968,
+      "display_name": "Anzio (1968)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab4b91e2f38b",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26584935,
+      "size_bytes": 1593172597,
+      "uploaded_at": "2026-06-25T07:44:37Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 85.8,
+        "upload_sec": 92.1
+      }
     }
   ],
   "failed_attempts": [
@@ -89359,5 +89378,5 @@
       "failed_at": "2026-06-25T06:51:07Z"
     }
   ],
-  "last_updated": "2026-06-25T07:41:33Z"
+  "last_updated": "2026-06-25T07:44:37Z"
 }
