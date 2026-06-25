@@ -33676,3 +33676,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [12:36:41]   upload done video_id=26609786 in 56.1s
 [12:36:45] film cr_film_id=31930 OK in 95.2s
 [12:36:45] batch-end ok=20 failed=0 dur=2499.9s avg/film=125.0s remaining=5294 eta_hours=183.8
+
+===== run 2026-06-25T12:51:15Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28171336819) =====
+[12:51:18] batch-start shard=0/2 count=20 backlog=10210 uploads=4916 failed_attempts=214 description_overrides=0
+[12:51:18] login
+[12:51:22] login done
+[12:51:22] iteration 1/20
+[12:51:22] film cr_film_id=12728 name='Strejda (1959)' candidates=5
+[12:51:22]   candidate upload_id=376cc59713cdea1c url=https://prehraj.to/strejda-1959-criterion-bdremux-cz-1080p-mp4/376cc59713cdea1c
+[12:51:23]   resolved in 1.4s → 1080p (https://pf-storage5.premiumcdn.net/168290674/13Of5KcGphKJizEspNtWmcBVFBLf2gteQCX…)
+[12:51:41]   downloaded 247.9 MB in 16.1s (15.4 MB/s)
+[12:52:16]   upload done video_id=26611006 in 34.9s
