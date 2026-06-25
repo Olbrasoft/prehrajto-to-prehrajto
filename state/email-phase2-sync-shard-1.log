@@ -33791,3 +33791,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [13:17:51]   upload done video_id=26613418 in 50.5s
 [13:17:53] film cr_film_id=13319 OK in 97.3s
 [13:17:53] batch-end ok=19 failed=1 dur=1606.6s avg/film=84.6s remaining=5288 eta_hours=124.3
+
+===== run 2026-06-25T13:39:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28174311460) =====
+[13:39:36] batch-start shard=1/2 count=20 backlog=10210 uploads=4922 failed_attempts=204 description_overrides=0
+[13:39:36] login
+[13:39:38] login done
+[13:39:38] iteration 1/20
+[13:39:38] film cr_film_id=12577 name='Lízin let do nebe (1938)' candidates=1
+[13:39:38]   candidate upload_id=64ab0a1777ba5 url=https://prehraj.to/lizin-let-do-nebe-1937-1080p/64ab0a1777ba5
+[13:39:39]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/42313850/v1mt4VIGqHRNUVkTB6Iz9IBrs1WHZ3T5Atg5…)
+[13:41:10]   downloaded 3,146.1 MB in 89.3s (35.2 MB/s)
+[13:43:31]   upload done video_id=26615682 in 140.8s
