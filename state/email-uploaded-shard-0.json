@@ -71399,6 +71399,25 @@
         "download_sec": 72.0,
         "upload_sec": 90.5
       }
+    },
+    {
+      "cr_film_id": 13192,
+      "cr_slug": "hra-o-cas",
+      "title": "Hra o čas",
+      "year": 2002,
+      "display_name": "Hra o čas (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c357eeded7e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26569466,
+      "size_bytes": 470469963,
+      "uploaded_at": "2026-06-25T04:50:55Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 28.7,
+        "upload_sec": 28.8
+      }
     }
   ],
   "failed_attempts": [
@@ -73996,5 +74015,5 @@
       "failed_at": "2026-06-25T02:47:20Z"
     }
   ],
-  "last_updated": "2026-06-25T04:49:52Z"
+  "last_updated": "2026-06-25T04:50:55Z"
 }
