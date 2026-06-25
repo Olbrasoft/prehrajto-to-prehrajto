@@ -76576,6 +76576,25 @@
         "download_sec": 63.2,
         "upload_sec": 95.4
       }
+    },
+    {
+      "cr_film_id": 14439,
+      "cr_slug": "zkouska-2009",
+      "title": "Zkouška",
+      "year": 2009,
+      "display_name": "Zkouška (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a565f5c05fe0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26617709,
+      "size_bytes": 362955980,
+      "uploaded_at": "2026-06-25T14:02:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.7,
+        "upload_sec": 17.8
+      }
     }
   ],
   "failed_attempts": [
@@ -78836,5 +78855,5 @@
       "failed_at": "2026-06-25T13:15:31Z"
     }
   ],
-  "last_updated": "2026-06-25T14:01:49Z"
+  "last_updated": "2026-06-25T14:02:27Z"
 }
