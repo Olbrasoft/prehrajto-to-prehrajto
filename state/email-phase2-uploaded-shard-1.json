@@ -83686,6 +83686,25 @@
         "download_sec": 63.3,
         "upload_sec": 57.3
       }
+    },
+    {
+      "cr_film_id": 22675,
+      "cr_slug": "herkules-1983",
+      "title": "Herkules",
+      "year": 1983,
+      "display_name": "Herkules (1983)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab34dbabfe11",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26545675,
+      "size_bytes": 883274293,
+      "uploaded_at": "2026-06-25T00:31:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 49.7,
+        "upload_sec": 68.0
+      }
     }
   ],
   "failed_attempts": [
@@ -85165,5 +85184,5 @@
       "failed_at": "2026-06-25T00:11:01Z"
     }
   ],
-  "last_updated": "2026-06-25T00:29:05Z"
+  "last_updated": "2026-06-25T00:31:08Z"
 }
