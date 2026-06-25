@@ -26947,3 +26947,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:29:15]   upload done video_id=26572893 in 36.6s
 [05:29:17] film cr_film_id=13246 OK in 78.8s
 [05:29:17] batch-end ok=20 failed=0 dur=2531.0s avg/film=126.5s remaining=13713 eta_hours=481.9
+
+===== run 2026-06-25T05:29:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28149037110) =====
+[05:29:55] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:29:55] batch-start shard=0/2 count=20 backlog=17650 uploads=3937 failed_attempts=365 description_overrides=17579
+[05:29:55] login
+[05:30:00] login done
+[05:30:00] iteration 1/20
+[05:30:00] film cr_film_id=13248 name='Pancho se žení (1946) CZ' candidates=1
+[05:30:00]   candidate upload_id=60b5fc877d5ad url=https://prehraj.to/pancho-se-zeni-komedie-1946-cz/60b5fc877d5ad
+[05:30:01]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/23718549/3zJF4RiL4Fa9h2AcGrTOqiawTGofB0UX2U4k…)
+[05:30:24]   downloaded 566.0 MB in 21.7s (26.1 MB/s)
+[05:30:48]   upload done video_id=26572999 in 23.2s
