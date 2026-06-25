@@ -78505,6 +78505,25 @@
         "download_sec": 81.5,
         "upload_sec": 100.3
       }
+    },
+    {
+      "cr_film_id": 14386,
+      "cr_slug": "dluh",
+      "title": "Dluh",
+      "year": 2010,
+      "display_name": "Dluh (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58212e10246d6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26673774,
+      "size_bytes": 458786073,
+      "uploaded_at": "2026-06-25T23:17:05Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.1,
+        "upload_sec": 30.7
+      }
     }
   ],
   "failed_attempts": [
@@ -81163,5 +81182,5 @@
       "failed_at": "2026-06-25T22:56:50Z"
     }
   ],
-  "last_updated": "2026-06-25T23:16:01Z"
+  "last_updated": "2026-06-25T23:17:05Z"
 }
