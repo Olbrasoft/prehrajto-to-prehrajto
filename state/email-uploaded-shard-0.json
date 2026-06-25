@@ -75978,6 +75978,25 @@
         "download_sec": 234.2,
         "upload_sec": 171.4
       }
+    },
+    {
+      "cr_film_id": 13902,
+      "cr_slug": "ca-h",
+      "title": "Ca$h",
+      "year": 2008,
+      "display_name": "Ca$h (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55fed8dd8273f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26619283,
+      "size_bytes": 424709610,
+      "uploaded_at": "2026-06-25T14:21:07Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 46.7,
+        "upload_sec": 28.6
+      }
     }
   ],
   "failed_attempts": [
@@ -78601,5 +78620,5 @@
       "failed_at": "2026-06-25T11:30:50Z"
     }
   ],
-  "last_updated": "2026-06-25T14:19:46Z"
+  "last_updated": "2026-06-25T14:21:07Z"
 }
