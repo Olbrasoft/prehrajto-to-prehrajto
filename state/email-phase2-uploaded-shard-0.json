@@ -92425,6 +92425,25 @@
         "download_sec": 72.6,
         "upload_sec": 147.4
       }
+    },
+    {
+      "cr_film_id": 24050,
+      "cr_slug": "krb-bez-ohne",
+      "title": "Krb bez ohně",
+      "year": 1937,
+      "display_name": "Krb bez ohně (1937)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "60b9b9f5a7233",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26630350,
+      "size_bytes": 525174634,
+      "uploaded_at": "2026-06-25T16:08:41Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.1,
+        "upload_sec": 29.9
+      }
     }
   ],
   "failed_attempts": [
@@ -94006,5 +94025,5 @@
       "failed_at": "2026-06-25T15:29:30Z"
     }
   ],
-  "last_updated": "2026-06-25T16:07:42Z"
+  "last_updated": "2026-06-25T16:08:41Z"
 }
