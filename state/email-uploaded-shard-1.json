@@ -69622,6 +69622,25 @@
         "download_sec": 32.0,
         "upload_sec": 42.7
       }
+    },
+    {
+      "cr_film_id": 13299,
+      "cr_slug": "kradez-legendy",
+      "title": "Krádež legendy",
+      "year": 2003,
+      "display_name": "Krádež legendy (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ad5ccf8df0ea",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26545858,
+      "size_bytes": 1109609056,
+      "uploaded_at": "2026-06-25T00:32:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 45.5,
+        "upload_sec": 59.9
+      }
     }
   ],
   "failed_attempts": [
@@ -71833,5 +71852,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-25T00:30:40Z"
+  "last_updated": "2026-06-25T00:32:31Z"
 }
