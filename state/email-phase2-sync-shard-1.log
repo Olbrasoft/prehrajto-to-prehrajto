@@ -32331,3 +32331,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [05:48:11]   upload done video_id=26574490 in 31.3s
 [05:48:13] film cr_film_id=12759 OK in 65.8s
 [05:48:13] batch-end ok=20 failed=0 dur=2336.2s avg/film=116.8s remaining=5486 eta_hours=178.0
+
+===== run 2026-06-25T05:48:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28149745204) =====
+[05:48:50] batch-start shard=1/2 count=20 backlog=10210 uploads=4724 failed_attempts=201 description_overrides=0
+[05:48:50] login
+[05:48:52] login done
+[05:48:52] iteration 1/20
+[05:48:52] film cr_film_id=11059 name='Panika v Needle Parku (1971)' candidates=1
+[05:48:52]   candidate upload_id=3f868a5fffa6af77 url=https://prehraj.to/panika-v-needle-parku-1971-al-pacino-mp4/3f868a5fffa6af77
+[05:48:53]   resolved in 1.1s → 720p (https://pf-storage5.premiumcdn.net/160565120/lEOT3ms5dSoeFLnIg6tMQs0zhPET27hdyT1…)
+[05:49:28]   downloaded 1,033.4 MB in 34.1s (30.3 MB/s)
+[05:50:42]   upload done video_id=26574615 in 73.9s
