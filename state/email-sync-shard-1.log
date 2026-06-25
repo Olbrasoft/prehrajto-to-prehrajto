@@ -27296,3 +27296,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:09:38]   upload done video_id=26576324 in 15.8s
 [06:09:41] film cr_film_id=13769 OK in 34.3s
 [06:09:41] batch-end ok=20 failed=0 dur=2380.5s avg/film=119.0s remaining=13666 eta_hours=451.7
+
+===== run 2026-06-25T06:10:19Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28150587452) =====
+[06:10:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:10:21] batch-start shard=1/2 count=20 backlog=17650 uploads=3984 failed_attempts=306 description_overrides=17579
+[06:10:21] login
+[06:10:22] login done
+[06:10:22] iteration 1/20
+[06:10:22] film cr_film_id=13775 name='Síla odvahy (2008) CZ Dabing' candidates=5
+[06:10:22]   candidate upload_id=5aaff6562a7c4 url=https://prehraj.to/sila-odvahy-valecne-historicke-drama-cz-dab-2008/5aaff6562a7c4
+[06:10:23]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/3684494/gx0tVATDaiJ6FDoswQhzLTBGuvaC0BtQkIPbu…)
+[06:10:44]   downloaded 607.4 MB in 18.9s (32.1 MB/s)
+[06:11:15]   upload done video_id=26576415 in 30.6s
