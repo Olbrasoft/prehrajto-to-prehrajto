@@ -69318,6 +69318,25 @@
         "download_sec": 27.6,
         "upload_sec": 28.9
       }
+    },
+    {
+      "cr_film_id": 13253,
+      "cr_slug": "loupez-po-italsku",
+      "title": "Loupež po italsku",
+      "year": 2003,
+      "display_name": "Loupež po italsku (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "9f68f6db56a07ef7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26543068,
+      "size_bytes": 1801077629,
+      "uploaded_at": "2026-06-25T00:04:20Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 70.0,
+        "upload_sec": 99.5
+      }
     }
   ],
   "failed_attempts": [
@@ -71515,7 +71534,19 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/stvanec-2003-czdab/c5fbcd548aa275a4",
       "permanent": true,
       "failed_at": "2026-06-24T22:28:18Z"
+    },
+    {
+      "cr_film_id": 13253,
+      "upload_id": "9d520a1b8f1d1005",
+      "reason": "upload_failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "failed_at": "2026-06-25T00:01:27Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 69.8,
+        "upload_sec": 0.0
+      }
     }
   ],
-  "last_updated": "2026-06-25T00:00:12Z"
+  "last_updated": "2026-06-25T00:04:20Z"
 }
