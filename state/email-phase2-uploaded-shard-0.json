@@ -84787,6 +84787,25 @@
         "download_sec": 31.2,
         "upload_sec": 48.8
       }
+    },
+    {
+      "cr_film_id": 11390,
+      "cr_slug": "kosenie-jastrabej-luky",
+      "title": "Kosenie Jastrabej lúky",
+      "year": 1982,
+      "display_name": "Kosenie Jastrabej lúky (1982)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "6272a9212b919",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26555514,
+      "size_bytes": 2394702773,
+      "uploaded_at": "2026-06-25T02:12:58Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 96.2,
+        "upload_sec": 107.9
+      }
     }
   ],
   "failed_attempts": [
@@ -86307,7 +86326,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kour-1990-avi/2efeaa8da4bde44d",
       "permanent": true,
       "failed_at": "2026-06-24T17:34:07Z"
+    },
+    {
+      "cr_film_id": 14928,
+      "upload_id": "5d4d4f0087ac9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krakonos-a-pytlak-06-csr-1981-loutkovy-kratkometrazni-pohadka/5d4d4f0087ac9",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:09:26Z"
     }
   ],
-  "last_updated": "2026-06-25T02:09:23Z"
+  "last_updated": "2026-06-25T02:12:58Z"
 }
