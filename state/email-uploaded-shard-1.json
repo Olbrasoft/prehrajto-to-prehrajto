@@ -75892,6 +75892,25 @@
         "download_sec": 42.5,
         "upload_sec": 48.8
       }
+    },
+    {
+      "cr_film_id": 14311,
+      "cr_slug": "albatros",
+      "title": "Albatros",
+      "year": 2021,
+      "display_name": "Albatros (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "636ea088b652f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26609918,
+      "size_bytes": 1684115623,
+      "uploaded_at": "2026-06-25T12:39:47Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 66.6,
+        "upload_sec": 128.0
+      }
     }
   ],
   "failed_attempts": [
@@ -78131,5 +78150,5 @@
       "failed_at": "2026-06-25T10:44:30Z"
     }
   ],
-  "last_updated": "2026-06-25T12:36:27Z"
+  "last_updated": "2026-06-25T12:39:47Z"
 }
