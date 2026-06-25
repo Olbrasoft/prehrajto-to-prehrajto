@@ -29369,3 +29369,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:17:11]   upload done video_id=26655303 in 46.7s
 [20:17:13] film cr_film_id=14717 OK in 83.3s
 [20:17:13] batch-end ok=19 failed=1 dur=9745.5s avg/film=512.9s remaining=13392 eta_hours=1908.0
+
+===== run 2026-06-25T20:17:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28197869336) =====
+[20:17:53] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:17:53] batch-start shard=1/2 count=20 backlog=17650 uploads=4258 failed_attempts=325 description_overrides=17579
+[20:17:53] login
+[20:17:54] login done
+[20:17:54] iteration 1/20
+[20:17:54] film cr_film_id=14719 name='Myšák a přátelé (2009) CZ Dabing' candidates=4
+[20:17:54]   candidate upload_id=587acb1ecf003 url=https://prehraj.to/mysak-a-pratele-cz-dabing-csfd-56-animovany-mp4/587acb1ecf003
+[20:17:55]   resolved in 0.9s → 480p (https://pf-storage2.premiumcdn.net/1447500/zp6tQEfepsnXFvpSkQUwzfwgsZECPNI7yU0as…)
+[20:18:11]   downloaded 286.0 MB in 13.6s (21.0 MB/s)
+[20:18:28]   upload done video_id=26655483 in 16.8s
