@@ -28774,3 +28774,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:02:27]   upload done video_id=26617709 in 17.8s
 [14:02:29] film cr_film_id=14439 OK in 37.3s
 [14:02:29] batch-end ok=20 failed=0 dur=3012.1s avg/film=150.6s remaining=13467 eta_hours=563.4
+
+===== run 2026-06-25T14:03:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28175796001) =====
+[14:03:14] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:03:14] batch-start shard=1/2 count=20 backlog=17650 uploads=4183 failed_attempts=312 description_overrides=17579
+[14:03:14] login
+[14:03:16] login done
+[14:03:16] iteration 1/20
+[14:03:16] film cr_film_id=14441 name='O rodičích a dětech (2008) CZ Dabing' candidates=2
+[14:03:16]   candidate upload_id=060bcc67f9115780 url=https://prehraj.to/o-rodicich-a-detech-2007-czdabing/060bcc67f9115780
+[14:03:17]   resolved in 1.5s → 480p (https://pf-storage4.premiumcdn.net/165785849/1l3s2dcP7u2KfALF23s23cEjT1mHP0H8RSx…)
+[14:04:18]   downloaded 607.4 MB in 58.2s (10.4 MB/s)
+[14:04:56]   upload done video_id=26617942 in 38.1s
