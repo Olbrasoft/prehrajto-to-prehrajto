@@ -29514,3 +29514,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:08:20]   upload done video_id=26660615 in 43.1s
 [21:08:22] film cr_film_id=14779 OK in 83.8s
 [21:08:22] batch-end ok=18 failed=2 dur=3027.4s avg/film=168.2s remaining=13374 eta_hours=624.9
+
+===== run 2026-06-25T21:28:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28201648894) =====
+[21:29:02] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:29:02] batch-start shard=1/2 count=20 backlog=17650 uploads=4276 failed_attempts=328 description_overrides=17579
+[21:29:02] login
+[21:29:04] login done
+[21:29:04] iteration 1/20
+[21:29:04] film cr_film_id=14781 name='Ničitelé světů (2025) CZ Dabing' candidates=5
+[21:29:04]   candidate upload_id=2eb07c7c3868f755 url=https://prehraj.to/nicitele-svetu-2025-1080p-cz-dabing-mkv/2eb07c7c3868f755
+[21:29:05]   resolved in 1.4s → 1080p (https://pf-storage5.premiumcdn.net/168215731/XDvcKwi8wCXWTq0IveSJZikOFNpt2PIkOub…)
+[21:30:04]   downloaded 1,735.4 MB in 56.9s (30.5 MB/s)
+[21:31:30]   upload done video_id=26662749 in 86.0s
