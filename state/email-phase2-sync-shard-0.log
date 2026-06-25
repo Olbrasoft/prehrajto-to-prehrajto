@@ -32947,3 +32947,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [08:29:01]   upload done video_id=26589127 in 66.0s
 [08:29:04] film cr_film_id=22024 OK in 124.3s
 [08:29:04] batch-end ok=20 failed=0 dur=1910.6s avg/film=95.5s remaining=5393 eta_hours=143.1
+
+===== run 2026-06-25T08:35:04Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28157567597) =====
+[08:35:05] batch-start shard=0/2 count=20 backlog=10210 uploads=4817 failed_attempts=213 description_overrides=0
+[08:35:05] login
+[08:35:07] login done
+[08:35:07] iteration 1/20
+[08:35:07] film cr_film_id=21994 name='Balada o Cable Hogueovi (1970)' candidates=4
+[08:35:07]   candidate upload_id=583dae0c361bd url=https://prehraj.to/balada-o-cable-hogueovi-western-komedie-1970-cz-sten-ok/583dae0c361bd
+[08:35:08]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/961054/eB2c5NsY3S8yF5vIbeulds2yhLqHdkieWu7atJ…)
+[08:35:37]   downloaded 741.7 MB in 27.8s (26.7 MB/s)
+[08:36:08]   upload done video_id=26589832 in 31.1s
