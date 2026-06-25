@@ -78828,6 +78828,25 @@
         "download_sec": 70.4,
         "upload_sec": 73.8
       }
+    },
+    {
+      "cr_film_id": 14456,
+      "cr_slug": "srbsky-film",
+      "title": "Srbský film",
+      "year": 2010,
+      "display_name": "Srbský film (2010) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60bf7cd675f8c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26678412,
+      "size_bytes": 894590888,
+      "uploaded_at": "2026-06-25T23:58:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 41.7,
+        "upload_sec": 55.3
+      }
     }
   ],
   "failed_attempts": [
@@ -81486,5 +81505,5 @@
       "failed_at": "2026-06-25T22:56:50Z"
     }
   ],
-  "last_updated": "2026-06-25T23:56:49Z"
+  "last_updated": "2026-06-25T23:58:31Z"
 }
