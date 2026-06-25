@@ -86269,6 +86269,25 @@
         "download_sec": 10.2,
         "upload_sec": 9.7
       }
+    },
+    {
+      "cr_film_id": 22442,
+      "cr_slug": "all-that-jazz",
+      "title": "All That Jazz",
+      "year": 1979,
+      "display_name": "All That Jazz (1979)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55ba449595d53",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26566866,
+      "size_bytes": 597606763,
+      "uploaded_at": "2026-06-25T04:15:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.4,
+        "upload_sec": 24.4
+      }
     }
   ],
   "failed_attempts": [
@@ -87810,5 +87829,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-25T04:14:12Z"
+  "last_updated": "2026-06-25T04:15:04Z"
 }
