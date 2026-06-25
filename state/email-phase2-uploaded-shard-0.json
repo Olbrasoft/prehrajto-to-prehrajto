@@ -91836,6 +91836,25 @@
         "download_sec": 54.8,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 32038,
+      "cr_slug": "prstynek",
+      "title": "Prstýnek",
+      "year": 1945,
+      "display_name": "Prstýnek (1945)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "65d0e60a4c13c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26625525,
+      "size_bytes": 1757133959,
+      "uploaded_at": "2026-06-25T15:21:11Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 226.2,
+        "upload_sec": 98.3
+      }
     }
   ],
   "failed_attempts": [
@@ -93410,5 +93429,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-25T15:15:41Z"
+  "last_updated": "2026-06-25T15:21:11Z"
 }
