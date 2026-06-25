@@ -32475,3 +32475,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [06:21:35]   upload done video_id=26577047 in 208.9s
 [06:21:39] film cr_film_id=34081 OK in 398.9s
 [06:21:39] batch-end ok=19 failed=1 dur=1967.1s avg/film=103.5s remaining=5467 eta_hours=157.2
+
+===== run 2026-06-25T06:28:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28151331909) =====
+[06:28:04] batch-start shard=1/2 count=20 backlog=10210 uploads=4743 failed_attempts=202 description_overrides=0
+[06:28:04] login
+[06:28:06] login done
+[06:28:06] iteration 1/20
+[06:28:06] film cr_film_id=12873 name='Kapitán Korda (1970)' candidates=1
+[06:28:06]   candidate upload_id=58472e8422537 url=https://prehraj.to/kapitan-korda-captain-korda-1970-cz/58472e8422537
+[06:28:07]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1039538/zJqHbmumzsvOUA4srefZauWdHbYIqvFZdFVEf…)
+[06:29:14]   downloaded 1,186.7 MB in 65.2s (18.2 MB/s)
+[06:30:19]   upload done video_id=26578015 in 64.2s
