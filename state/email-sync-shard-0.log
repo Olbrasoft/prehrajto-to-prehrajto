@@ -29559,3 +29559,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:56:04]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/183263/Q8lIdzSyDFvjsQrC4xSrLSQzHVwINOHDeUOQtB…)
 [22:56:22]   downloaded 420.3 MB in 16.6s (25.3 MB/s)
 [22:56:48]   upload done video_id=26671740 in 26.0s
+[22:56:50] film cr_film_id=14362 OK in 46.4s
+[22:56:50] iteration 17/20
+[22:56:50] film cr_film_id=14368 name='Zásnuby strachu (2020) CZ Dabing' candidates=1
+[22:56:50]   candidate upload_id=1cc2d0f048d874b8 url=https://prehraj.to/zasnuby-strachu-2020-cz-dabing-hd-mp4/1cc2d0f048d874b8
+[22:56:50]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/zasnuby-strachu-2020-cz-dabing-hd-mp4/1cc2d0f048d874b8 (permanent=True)
+[22:56:50] film cr_film_id=14368 all candidates exhausted
+[22:56:50] iteration 18/20
+[22:56:50] film cr_film_id=14370 name='Záložní plán (2010) CZ Dabing' candidates=4
+[22:56:50]   candidate upload_id=55f349a1d1aba url=https://prehraj.to/zalozni-plan-2010-czdab/55f349a1d1aba
+[22:56:56]   resolved in 6.0s → 480p (https://pf-storage2.premiumcdn.net/298188/lKBTjBcArtDEuzqhk1iR8c0zc1gSVBTYpHJpH5…)
+[22:57:12]   downloaded 440.9 MB in 14.1s (31.3 MB/s)
+[22:57:43]   upload done video_id=26671837 in 31.4s
