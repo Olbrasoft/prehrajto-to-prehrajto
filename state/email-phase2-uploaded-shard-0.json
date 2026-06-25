@@ -89974,6 +89974,25 @@
         "download_sec": 51.5,
         "upload_sec": 80.0
       }
+    },
+    {
+      "cr_film_id": 21700,
+      "cr_slug": "mclintock",
+      "title": "McLintock!",
+      "year": 1963,
+      "display_name": "McLintock! (1963)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5abf036370733",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26605533,
+      "size_bytes": 1815746761,
+      "uploaded_at": "2026-06-25T11:44:35Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 80.9,
+        "upload_sec": 99.9
+      }
     }
   ],
   "failed_attempts": [
@@ -91529,5 +91548,5 @@
       "failed_at": "2026-06-25T08:52:59Z"
     }
   ],
-  "last_updated": "2026-06-25T11:41:29Z"
+  "last_updated": "2026-06-25T11:44:35Z"
 }
