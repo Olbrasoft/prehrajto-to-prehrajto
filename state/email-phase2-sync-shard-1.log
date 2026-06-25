@@ -33500,3 +33500,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [11:32:12]   upload done video_id=26604727 in 26.4s
 [11:32:14] film cr_film_id=21465 OK in 63.8s
 [11:32:14] batch-end ok=20 failed=0 dur=2689.8s avg/film=134.5s remaining=5327 eta_hours=199.0
+
+===== run 2026-06-25T11:55:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28168238481) =====
+[11:55:02] batch-start shard=1/2 count=20 backlog=10210 uploads=4883 failed_attempts=203 description_overrides=0
+[11:55:02] login
+[11:55:04] login done
+[11:55:04] iteration 1/20
+[11:55:04] film cr_film_id=21457 name='Gigant (1956)' candidates=2
+[11:55:04]   candidate upload_id=5aae272bdd179 url=https://prehraj.to/gigant-1956/5aae272bdd179
+[11:55:05]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/3675169/xr7h7ji14fMPha2FOJfemigoSopcq1TpeSaOf…)
+[11:56:43]   downloaded 2,460.9 MB in 95.7s (25.7 MB/s)
+[12:00:28]   upload done video_id=26606673 in 225.4s
