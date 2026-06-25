@@ -77840,6 +77840,25 @@
         "download_sec": 105.8,
         "upload_sec": 122.4
       }
+    },
+    {
+      "cr_film_id": 14250,
+      "cr_slug": "grandma-dearest",
+      "title": "Grandma Dearest",
+      "year": 2020,
+      "display_name": "Grandma Dearest (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "d8fa7c8ac9f5f7e0",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26664341,
+      "size_bytes": 792318740,
+      "uploaded_at": "2026-06-25T21:45:28Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 62.4,
+        "upload_sec": 52.8
+      }
     }
   ],
   "failed_attempts": [
@@ -80491,5 +80510,5 @@
       "failed_at": "2026-06-25T21:16:57Z"
     }
   ],
-  "last_updated": "2026-06-25T21:43:28Z"
+  "last_updated": "2026-06-25T21:45:28Z"
 }
