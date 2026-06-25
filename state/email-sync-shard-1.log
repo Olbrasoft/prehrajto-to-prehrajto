@@ -27443,3 +27443,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:38:12]   upload done video_id=26578808 in 39.0s
 [06:38:13] film cr_film_id=13825 OK in 65.2s
 [06:38:13] batch-end ok=20 failed=0 dur=1670.9s avg/film=83.5s remaining=13646 eta_hours=316.5
+
+===== run 2026-06-25T06:48:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28152237879) =====
+[06:48:47] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:48:47] batch-start shard=1/2 count=20 backlog=17650 uploads=4004 failed_attempts=306 description_overrides=17579
+[06:48:47] login
+[06:48:49] login done
+[06:48:49] iteration 1/20
+[06:48:49] film cr_film_id=13827 name='V temnotě (2008) CZ Dabing' candidates=10
+[06:48:49]   candidate upload_id=5c3082c2388af url=https://prehraj.to/v-temnote-2008-cz-dabing/5c3082c2388af
+[06:48:50]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/10519484/6xwuy9soPi7biMmcxZILysWMuNASkZFVxiNl…)
+[06:49:29]   downloaded 625.7 MB in 37.2s (16.8 MB/s)
+[06:50:17]   upload done video_id=26579904 in 47.5s
