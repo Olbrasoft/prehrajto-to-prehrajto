@@ -87790,6 +87790,25 @@
         "download_sec": 29.6,
         "upload_sec": 30.8
       }
+    },
+    {
+      "cr_film_id": 34191,
+      "cr_slug": "josefina",
+      "title": "Josefina",
+      "year": 1968,
+      "display_name": "Josefina (1968)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "675ded708938c",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26584357,
+      "size_bytes": 1536033222,
+      "uploaded_at": "2026-06-25T07:38:46Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 79.5,
+        "upload_sec": 82.5
+      }
     }
   ],
   "failed_attempts": [
@@ -89283,5 +89302,5 @@
       "failed_at": "2026-06-25T06:51:07Z"
     }
   ],
-  "last_updated": "2026-06-25T07:35:59Z"
+  "last_updated": "2026-06-25T07:38:46Z"
 }
