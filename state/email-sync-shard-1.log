@@ -28919,3 +28919,20 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:37:21]   upload done video_id=26627386 in 38.9s
 [15:37:24] film cr_film_id=14489 OK in 83.4s
 [15:37:24] batch-end ok=19 failed=1 dur=5647.8s avg/film=297.3s remaining=13448 eta_hours=1110.6
+
+===== run 2026-06-25T15:38:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28181910568) =====
+[15:38:15] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:38:15] batch-start shard=1/2 count=20 backlog=17650 uploads=4202 failed_attempts=313 description_overrides=17579
+[15:38:15] login
+[15:38:17] login done
+[15:38:17] iteration 1/20
+[15:38:17] film cr_film_id=14493 name='Ozi: Hlas pralesa (2023) CZ Dabing' candidates=1
+[15:38:17]   candidate upload_id=9df0e52e36667ec4 url=https://prehraj.to/ozi-hlas-pralesa-2023-cz-dab-1080p/9df0e52e36667ec4
+[15:38:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ozi-hlas-pralesa-2023-cz-dab-1080p/9df0e52e36667ec4 (permanent=True)
+[15:38:17] film cr_film_id=14493 all candidates exhausted
+[15:38:17] iteration 2/20
+[15:38:17] film cr_film_id=14495 name='Naladěni na Vánoce (2020) CZ' candidates=1
+[15:38:17]   candidate upload_id=675bdbf4884ae url=https://prehraj.to/naladeni-na-vianoce-dear-christmas-2020-sk-mp4/675bdbf4884ae
+[15:38:25]   resolved in 7.2s → 720p (https://pf-storage1.premiumcdn.net/121895672/pxdSneH8zCDecxMT8QFJOHP7CD3UN7faXcq…)
+[15:39:34]   downloaded 1,463.4 MB in 68.0s (21.5 MB/s)
+[15:41:17]   upload done video_id=26627677 in 102.1s
