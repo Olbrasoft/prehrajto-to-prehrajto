@@ -27590,3 +27590,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:36:59]   upload done video_id=26584076 in 108.4s
 [07:37:02] film cr_film_id=13881 OK in 208.2s
 [07:37:02] batch-end ok=20 failed=0 dur=2893.6s avg/film=144.7s remaining=13626 eta_hours=547.7
+
+===== run 2026-06-25T07:37:41Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28154582618) =====
+[07:37:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:37:43] batch-start shard=1/2 count=20 backlog=17650 uploads=4024 failed_attempts=306 description_overrides=17579
+[07:37:43] login
+[07:37:45] login done
+[07:37:45] iteration 1/20
+[07:37:45] film cr_film_id=13883 name='Saxána a Lexikon kouzel (2011) CZ Dabing' candidates=2
+[07:37:45]   candidate upload_id=681241499bced url=https://prehraj.to/saxana-a-lexikon-kouzel-2011-pohadka-cz-dabing-1080p/681241499bced
+[07:37:46]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/136826030/8EwiYWhjJcw2SErfKDHglherSkZcPKfgYtZ…)
+[07:38:47]   downloaded 1,363.2 MB in 58.7s (23.2 MB/s)
+[07:39:46]   upload done video_id=26584456 in 58.8s
