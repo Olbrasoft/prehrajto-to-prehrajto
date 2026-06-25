@@ -27241,3 +27241,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:48:04]   upload done video_id=26579601 in 128.3s
 [06:48:07] film cr_film_id=13366 OK in 223.9s
 [06:48:07] batch-end ok=20 failed=0 dur=2263.9s avg/film=113.2s remaining=13673 eta_hours=429.9
+
+===== run 2026-06-25T06:48:46Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28152237879) =====
+[06:48:49] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:48:49] batch-start shard=0/2 count=20 backlog=17650 uploads=3977 failed_attempts=365 description_overrides=17579
+[06:48:49] login
+[06:48:51] login done
+[06:48:51] iteration 1/20
+[06:48:51] film cr_film_id=13368 name='Hannibal - Zrození (2007) CZ Dabing' candidates=26
+[06:48:51]   candidate upload_id=5e9546b378d2c url=https://prehraj.to/hannibal-zrozeni-2007-cz-dabing-thriller-drama-horor/5e9546b378d2c
+[06:48:52]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/16226791/oPkt5BfK3s5VTJDHWdhK7fDjCL8Cj7S2eino…)
+[06:49:23]   downloaded 629.1 MB in 29.3s (21.5 MB/s)
+[06:50:00]   upload done video_id=26579894 in 36.9s
