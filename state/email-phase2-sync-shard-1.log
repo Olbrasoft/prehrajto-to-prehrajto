@@ -34038,3 +34038,11 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [15:30:14] iteration 1/20
 [15:30:14] backlog exhausted
 [15:30:14] batch-end ok=0 failed=0 dur=0.0s avg/film=0s remaining=5257 eta_hours=None
+
+===== run 2026-06-25T15:56:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28183094421) =====
+[15:56:59] batch-start shard=1/2 count=20 backlog=10210 uploads=4953 failed_attempts=204 description_overrides=0
+[15:56:59] login
+[15:57:01] login done
+[15:57:01] iteration 1/20
+[15:57:01] backlog exhausted
+[15:57:01] batch-end ok=0 failed=0 dur=0.0s avg/film=0s remaining=5257 eta_hours=None
