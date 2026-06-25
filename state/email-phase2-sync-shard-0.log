@@ -33384,3 +33384,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [10:46:37]   upload done video_id=26601023 in 307.8s
 [10:46:40] film cr_film_id=10864 OK in 488.9s
 [10:46:40] batch-end ok=20 failed=0 dur=3397.4s avg/film=169.9s remaining=5334 eta_hours=251.7
+
+===== run 2026-06-25T10:47:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28164738009) =====
+[10:47:20] batch-start shard=0/2 count=20 backlog=10210 uploads=4876 failed_attempts=214 description_overrides=0
+[10:47:20] login
+[10:47:22] login done
+[10:47:22] iteration 1/20
+[10:47:22] film cr_film_id=32704 name='Záhadný kontraband (1964)' candidates=1
+[10:47:22]   candidate upload_id=5869cf1b60086 url=https://prehraj.to/zahadny-kontraband-1964-jean-p-belmondo-dvdrip-xvid-mp3-fr-gtk/5869cf1b60086
+[10:47:23]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1269557/doEHJyFLBHyDhNaUbrs4aFd9cQ6TBwtv9u5NS…)
+[10:47:51]   downloaded 523.4 MB in 26.0s (20.1 MB/s)
+[10:48:22]   upload done video_id=26601451 in 31.1s
