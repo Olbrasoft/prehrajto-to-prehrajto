@@ -90069,6 +90069,25 @@
         "download_sec": 18.6,
         "upload_sec": 38.2
       }
+    },
+    {
+      "cr_film_id": 21678,
+      "cr_slug": "taras-bulba",
+      "title": "Taras Bulba",
+      "year": 1962,
+      "display_name": "Taras Bulba (1962)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ab65f020a411",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26606196,
+      "size_bytes": 1488933405,
+      "uploaded_at": "2026-06-25T11:52:28Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 62.7,
+        "upload_sec": 89.2
+      }
     }
   ],
   "failed_attempts": [
@@ -91624,5 +91643,5 @@
       "failed_at": "2026-06-25T08:52:59Z"
     }
   ],
-  "last_updated": "2026-06-25T11:49:52Z"
+  "last_updated": "2026-06-25T11:52:28Z"
 }
