@@ -32447,3 +32447,15 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [06:11:27]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/1066574/RWmimduPWsj8sgruO8fPRuvAIx3C9Eu0dhjLi…)
 [06:12:08]   downloaded 906.3 MB in 38.6s (23.5 MB/s)
 [06:13:17]   upload done video_id=26576502 in 69.5s
+[06:13:19] film cr_film_id=22003 OK in 112.7s
+[06:13:19] iteration 17/20
+[06:13:19] film cr_film_id=11031 name='Na kometě (1970)' candidates=1
+[06:13:19]   candidate upload_id=4912286caaad3845 url=https://prehraj.to/na-komete/4912286caaad3845
+[06:13:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/na-komete/4912286caaad3845 (permanent=True)
+[06:13:20] film cr_film_id=11031 all candidates exhausted
+[06:13:20] iteration 18/20
+[06:13:20] film cr_film_id=22013 name='MASH (1970)' candidates=3
+[06:13:20]   candidate upload_id=5aa8794eb90aa url=https://prehraj.to/mash-1970/5aa8794eb90aa
+[06:13:25]   resolved in 5.8s → 480p (https://pf-storage1.premiumcdn.net/3628591/dWEtJxIr4FzdUKJIypTjwI5vcvxhAaT1GHlas…)
+[06:13:50]   downloaded 519.1 MB in 23.1s (22.5 MB/s)
+[06:14:13]   upload done video_id=26576655 in 23.0s
