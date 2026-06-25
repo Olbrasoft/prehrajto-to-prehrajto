@@ -73137,6 +73137,25 @@
         "download_sec": 63.8,
         "upload_sec": 84.7
       }
+    },
+    {
+      "cr_film_id": 13819,
+      "cr_slug": "bruno",
+      "title": "Bruno",
+      "year": 2009,
+      "display_name": "Bruno (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5820fd31a4497",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26578446,
+      "size_bytes": 474671732,
+      "uploaded_at": "2026-06-25T06:34:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.2,
+        "upload_sec": 22.4
+      }
     }
   ],
   "failed_attempts": [
@@ -75355,5 +75374,5 @@
       "failed_at": "2026-06-25T02:43:28Z"
     }
   ],
-  "last_updated": "2026-06-25T06:33:31Z"
+  "last_updated": "2026-06-25T06:34:13Z"
 }
