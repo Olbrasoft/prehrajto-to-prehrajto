@@ -74600,6 +74600,25 @@
         "download_sec": 84.4,
         "upload_sec": 114.7
       }
+    },
+    {
+      "cr_film_id": 14059,
+      "cr_slug": "posledni-sichta",
+      "title": "Poslední šichta",
+      "year": 2020,
+      "display_name": "Poslední šichta (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6207e010bed6e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26597016,
+      "size_bytes": 1155369584,
+      "uploaded_at": "2026-06-25T09:51:38Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 48.7,
+        "upload_sec": 59.7
+      }
     }
   ],
   "failed_attempts": [
@@ -76818,5 +76837,5 @@
       "failed_at": "2026-06-25T02:43:28Z"
     }
   ],
-  "last_updated": "2026-06-25T09:49:44Z"
+  "last_updated": "2026-06-25T09:51:38Z"
 }
