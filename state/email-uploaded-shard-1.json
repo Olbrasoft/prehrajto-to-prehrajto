@@ -72225,6 +72225,25 @@
         "download_sec": 32.2,
         "upload_sec": 31.2
       }
+    },
+    {
+      "cr_film_id": 13693,
+      "cr_slug": "kokoda",
+      "title": "Kokoda",
+      "year": 2006,
+      "display_name": "Kokoda (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "560011f21ff0f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26570278,
+      "size_bytes": 463540849,
+      "uploaded_at": "2026-06-25T04:59:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.5,
+        "upload_sec": 22.6
+      }
     }
   ],
   "failed_attempts": [
@@ -74443,5 +74462,5 @@
       "failed_at": "2026-06-25T02:43:28Z"
     }
   ],
-  "last_updated": "2026-06-25T04:58:41Z"
+  "last_updated": "2026-06-25T04:59:27Z"
 }
