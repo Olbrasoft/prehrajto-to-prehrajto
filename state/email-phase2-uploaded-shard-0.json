@@ -91722,6 +91722,25 @@
         "download_sec": 53.6,
         "upload_sec": 47.6
       }
+    },
+    {
+      "cr_film_id": 32932,
+      "cr_slug": "california",
+      "title": "California",
+      "year": 1947,
+      "display_name": "California (1947)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "588ecdf2147bf",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26624175,
+      "size_bytes": 309947778,
+      "uploaded_at": "2026-06-25T15:07:57Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 22.8,
+        "upload_sec": 22.5
+      }
     }
   ],
   "failed_attempts": [
@@ -93296,5 +93315,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-25T15:07:06Z"
+  "last_updated": "2026-06-25T15:07:57Z"
 }
