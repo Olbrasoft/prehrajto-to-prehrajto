@@ -76196,6 +76196,25 @@
         "download_sec": 27.0,
         "upload_sec": 54.7
       }
+    },
+    {
+      "cr_film_id": 14377,
+      "cr_slug": "oci-valky",
+      "title": "Oči války",
+      "year": 2009,
+      "display_name": "Oči války (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "568da324ec16d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26612877,
+      "size_bytes": 923802807,
+      "uploaded_at": "2026-06-25T13:11:28Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 43.4,
+        "upload_sec": 54.0
+      }
     }
   ],
   "failed_attempts": [
@@ -78435,5 +78454,5 @@
       "failed_at": "2026-06-25T10:44:30Z"
     }
   ],
-  "last_updated": "2026-06-25T13:09:45Z"
+  "last_updated": "2026-06-25T13:11:28Z"
 }
