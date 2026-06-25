@@ -91475,6 +91475,25 @@
         "download_sec": 37.7,
         "upload_sec": 45.3
       }
+    },
+    {
+      "cr_film_id": 13384,
+      "cr_slug": "pripad-z-8",
+      "title": "Případ Z-8",
+      "year": 1949,
+      "display_name": "Případ Z-8 (1949)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "7d13838216f18176",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26621479,
+      "size_bytes": 892125734,
+      "uploaded_at": "2026-06-25T14:42:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 45.4,
+        "upload_sec": 50.2
+      }
     }
   ],
   "failed_attempts": [
@@ -93037,5 +93056,5 @@
       "failed_at": "2026-06-25T13:05:27Z"
     }
   ],
-  "last_updated": "2026-06-25T14:40:44Z"
+  "last_updated": "2026-06-25T14:42:24Z"
 }
