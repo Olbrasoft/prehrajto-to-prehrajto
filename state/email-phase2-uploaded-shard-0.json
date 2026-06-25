@@ -86307,6 +86307,25 @@
         "download_sec": 30.0,
         "upload_sec": 52.3
       }
+    },
+    {
+      "cr_film_id": 22454,
+      "cr_slug": "afera-concorde",
+      "title": "Aféra Concorde",
+      "year": 1979,
+      "display_name": "Aféra Concorde (1979)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "558bd39439737",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26567094,
+      "size_bytes": 565007874,
+      "uploaded_at": "2026-06-25T04:17:39Z",
+      "timing": {
+        "resolve_sec": 11.0,
+        "download_sec": 22.2,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -87848,5 +87867,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-25T04:16:31Z"
+  "last_updated": "2026-06-25T04:17:39Z"
 }
