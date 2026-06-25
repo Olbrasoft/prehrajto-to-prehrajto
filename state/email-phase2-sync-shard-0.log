@@ -31772,3 +31772,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:10:42]   upload done video_id=26560727 in 124.2s
 [03:10:45] film cr_film_id=36652 OK in 237.1s
 [03:10:45] batch-end ok=20 failed=0 dur=1446.9s avg/film=72.3s remaining=5553 eta_hours=111.5
+
+===== run 2026-06-25T03:21:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28144597616) =====
+[03:21:10] batch-start shard=0/2 count=20 backlog=10210 uploads=4657 failed_attempts=211 description_overrides=0
+[03:21:10] login
+[03:21:13] login done
+[03:21:13] iteration 1/20
+[03:21:13] film cr_film_id=22482 name='The Return of the King (1980)' candidates=1
+[03:21:13]   candidate upload_id=5dd8af879aeb7 url=https://prehraj.to/the-return-of-the-king-1980/5dd8af879aeb7
+[03:21:14]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/15325906/P1aI2MiBmTxJT4JIRbTobiaVcJ3taMsbmIB8…)
+[03:22:07]   downloaded 938.8 MB in 50.5s (18.6 MB/s)
+[03:23:00]   upload done video_id=26561980 in 52.8s
