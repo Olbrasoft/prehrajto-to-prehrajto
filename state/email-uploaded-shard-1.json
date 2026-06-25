@@ -69831,6 +69831,25 @@
         "download_sec": 16.6,
         "upload_sec": 18.6
       }
+    },
+    {
+      "cr_film_id": 13335,
+      "cr_slug": "eurotrip",
+      "title": "Eurotrip",
+      "year": 2004,
+      "display_name": "Eurotrip (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "635f9eaa7ac6d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26548687,
+      "size_bytes": 1550140025,
+      "uploaded_at": "2026-06-25T01:00:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 55.2,
+        "upload_sec": 65.3
+      }
     }
   ],
   "failed_attempts": [
@@ -72042,5 +72061,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-25T00:58:22Z"
+  "last_updated": "2026-06-25T01:00:27Z"
 }
