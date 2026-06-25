@@ -72377,6 +72377,25 @@
         "download_sec": 23.1,
         "upload_sec": 27.1
       }
+    },
+    {
+      "cr_film_id": 13717,
+      "cr_slug": "grandhotel",
+      "title": "Grandhotel",
+      "year": 2006,
+      "display_name": "Grandhotel (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "bf71e3a4522957f2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26571095,
+      "size_bytes": 404338760,
+      "uploaded_at": "2026-06-25T05:07:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.9,
+        "upload_sec": 27.9
+      }
     }
   ],
   "failed_attempts": [
@@ -74595,5 +74614,5 @@
       "failed_at": "2026-06-25T02:43:28Z"
     }
   ],
-  "last_updated": "2026-06-25T05:06:46Z"
+  "last_updated": "2026-06-25T05:07:34Z"
 }
