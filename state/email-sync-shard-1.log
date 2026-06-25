@@ -29153,3 +29153,25 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:47:24]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/643163/xr2uW2S2XSQzIB3Uk1h8PSAlU7XCKpUazu9JS8…)
 [16:47:57]   downloaded 688.1 MB in 31.7s (21.7 MB/s)
 [16:48:34]   upload done video_id=26634306 in 36.7s
+[16:48:36] film cr_film_id=14605 OK in 73.5s
+[16:48:36] iteration 13/20
+[16:48:36] film cr_film_id=14607 name='Zlom vaz, bav se, neumři (2025) CZ' candidates=6
+[16:48:36]   candidate upload_id=b8759ccd2e285ee0 url=https://prehraj.to/zlom-vaz-bav-se-neumri-2025-en-1080p-mkv/b8759ccd2e285ee0
+[16:48:37]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2025-en-1080p-mkv/b8759ccd2e285ee0 (permanent=True)
+[16:48:37]   candidate upload_id=0b6eca64aa2371c8 url=https://prehraj.to/zlom-vaz-bav-se-neumri-2025-cz-mkv/0b6eca64aa2371c8
+[16:48:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2025-cz-mkv/0b6eca64aa2371c8 (permanent=True)
+[16:48:43]   candidate upload_id=2b6c5bfa797415e5 url=https://prehraj.to/zlom-vaz-bav-se-neumri-2025-cz-mkv/2b6c5bfa797415e5
+[16:48:48]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2025-cz-mkv/2b6c5bfa797415e5 (permanent=True)
+[16:48:48]   candidate upload_id=57105af2f58fafbf url=https://prehraj.to/zlom-vaz-bav-se-neumri-2026-cz-mkv/57105af2f58fafbf
+[16:48:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2026-cz-mkv/57105af2f58fafbf (permanent=True)
+[16:48:54]   candidate upload_id=3166414f0329d083 url=https://prehraj.to/zlom-vaz-bav-se-neumri-2025-cz-mkv/3166414f0329d083
+[16:48:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2025-cz-mkv/3166414f0329d083 (permanent=True)
+[16:48:59]   candidate upload_id=52b303cdc7c925c0 url=https://prehraj.to/zlom-vaz-bav-se-neumri-2026-sd-cz-tit-mkv/52b303cdc7c925c0
+[16:49:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2026-sd-cz-tit-mkv/52b303cdc7c925c0 (permanent=True)
+[16:49:05] film cr_film_id=14607 all candidates exhausted
+[16:49:05] iteration 14/20
+[16:49:05] film cr_film_id=14617 name='Přepadení v soutěsce (2021) CZ Dabing' candidates=1
+[16:49:05]   candidate upload_id=6319a6c925dd5 url=https://prehraj.to/the-ambush-2021-cz-dabing/6319a6c925dd5
+[16:49:11]   resolved in 6.0s → 480p (https://pf-storage1.premiumcdn.net/32655280/AeaUMpTPAtpqt0mu5lHmgTr3tNXSR0i18ClJ…)
+[16:49:52]   downloaded 1,390.1 MB in 39.8s (34.9 MB/s)
+[16:51:05]   upload done video_id=26634488 in 72.4s

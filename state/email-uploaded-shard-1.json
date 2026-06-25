@@ -77526,6 +77526,25 @@
         "download_sec": 31.7,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 14617,
+      "cr_slug": "prepadeni-v-soutesce",
+      "title": "Přepadení v soutěsce",
+      "year": 2021,
+      "display_name": "Přepadení v soutěsce (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6319a6c925dd5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26634488,
+      "size_bytes": 1390083535,
+      "uploaded_at": "2026-06-25T16:51:05Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 39.8,
+        "upload_sec": 72.4
+      }
     }
   ],
   "failed_attempts": [
@@ -79812,7 +79831,49 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dobry-sef-2021-cz-dabing/0571c8316c63dce1",
       "permanent": true,
       "failed_at": "2026-06-25T15:50:26Z"
+    },
+    {
+      "cr_film_id": 14607,
+      "upload_id": "b8759ccd2e285ee0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2025-en-1080p-mkv/b8759ccd2e285ee0",
+      "permanent": true,
+      "failed_at": "2026-06-25T16:48:37Z"
+    },
+    {
+      "cr_film_id": 14607,
+      "upload_id": "0b6eca64aa2371c8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2025-cz-mkv/0b6eca64aa2371c8",
+      "permanent": true,
+      "failed_at": "2026-06-25T16:48:43Z"
+    },
+    {
+      "cr_film_id": 14607,
+      "upload_id": "2b6c5bfa797415e5",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2025-cz-mkv/2b6c5bfa797415e5",
+      "permanent": true,
+      "failed_at": "2026-06-25T16:48:48Z"
+    },
+    {
+      "cr_film_id": 14607,
+      "upload_id": "57105af2f58fafbf",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2026-cz-mkv/57105af2f58fafbf",
+      "permanent": true,
+      "failed_at": "2026-06-25T16:48:54Z"
+    },
+    {
+      "cr_film_id": 14607,
+      "upload_id": "3166414f0329d083",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2025-cz-mkv/3166414f0329d083",
+      "permanent": true,
+      "failed_at": "2026-06-25T16:48:59Z"
+    },
+    {
+      "cr_film_id": 14607,
+      "upload_id": "52b303cdc7c925c0",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zlom-vaz-bav-se-neumri-2026-sd-cz-tit-mkv/52b303cdc7c925c0",
+      "permanent": true,
+      "failed_at": "2026-06-25T16:49:05Z"
     }
   ],
-  "last_updated": "2026-06-25T16:48:34Z"
+  "last_updated": "2026-06-25T16:51:05Z"
 }
