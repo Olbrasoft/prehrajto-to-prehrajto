@@ -89993,6 +89993,25 @@
         "download_sec": 80.9,
         "upload_sec": 99.9
       }
+    },
+    {
+      "cr_film_id": 32616,
+      "cr_slug": "lilies-of-the-field",
+      "title": "Lilies of the Field",
+      "year": 1963,
+      "display_name": "Lilies of the Field (1963)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "58595dc61a210",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26605730,
+      "size_bytes": 838424669,
+      "uploaded_at": "2026-06-25T11:46:28Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 37.7,
+        "upload_sec": 69.8
+      }
     }
   ],
   "failed_attempts": [
@@ -91548,5 +91567,5 @@
       "failed_at": "2026-06-25T08:52:59Z"
     }
   ],
-  "last_updated": "2026-06-25T11:44:35Z"
+  "last_updated": "2026-06-25T11:46:28Z"
 }
