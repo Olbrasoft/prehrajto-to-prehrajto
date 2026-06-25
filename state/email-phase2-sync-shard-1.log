@@ -33208,3 +33208,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [09:44:17]   upload done video_id=26596296 in 47.1s
 [09:44:19] film cr_film_id=32667 OK in 87.0s
 [09:44:19] batch-end ok=20 failed=0 dur=2016.6s avg/film=100.8s remaining=5367 eta_hours=150.3
+
+===== run 2026-06-25T09:50:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28161715421) =====
+[09:50:04] batch-start shard=1/2 count=20 backlog=10210 uploads=4843 failed_attempts=203 description_overrides=0
+[09:50:04] login
+[09:50:05] login done
+[09:50:05] iteration 1/20
+[09:50:05] film cr_film_id=21635 name='Mustangové (1961)' candidates=2
+[09:50:05]   candidate upload_id=5ad54e64abcbc url=https://prehraj.to/mustangove-1961/5ad54e64abcbc
+[09:50:06]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/3887038/662Uk1h4NIlaIbRuRdI3Bh4XiBofQwUvLTKzf…)
+[09:51:58]   downloaded 2,046.9 MB in 109.1s (18.8 MB/s)
+[09:54:33]   upload done video_id=26597147 in 155.6s
