@@ -26416,3 +26416,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:13:22]   upload done video_id=26555671 in 60.3s
 [02:13:24] film cr_film_id=13437 OK in 109.1s
 [02:13:24] batch-end ok=20 failed=0 dur=2468.8s avg/film=123.4s remaining=13785 eta_hours=472.5
+
+===== run 2026-06-25T02:14:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28142340185) =====
+[02:14:05] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:14:05] batch-start shard=1/2 count=20 backlog=17650 uploads=3865 failed_attempts=305 description_overrides=17579
+[02:14:05] login
+[02:14:06] login done
+[02:14:06] iteration 1/20
+[02:14:06] film cr_film_id=13439 name='Mimo zákon (2005) CZ Dabing' candidates=1
+[02:14:06]   candidate upload_id=5b7b01eed27f1 url=https://prehraj.to/mimo-zakon-2005-cz-dabing/5b7b01eed27f1
+[02:14:07]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/5354908/op3tRofAwuPYuoKIvAUbzfEZiDySl2Cpvhx8s…)
+[02:14:28]   downloaded 505.6 MB in 19.3s (26.2 MB/s)
+[02:14:50]   upload done video_id=26555863 in 22.3s
