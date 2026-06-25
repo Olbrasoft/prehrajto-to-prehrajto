@@ -87733,6 +87733,25 @@
         "download_sec": 34.5,
         "upload_sec": 48.9
       }
+    },
+    {
+      "cr_film_id": 21909,
+      "cr_slug": "maraton-1968",
+      "title": "Maratón",
+      "year": 1968,
+      "display_name": "Maratón (1968)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ec7babbdbc90",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26583482,
+      "size_bytes": 3876798598,
+      "uploaded_at": "2026-06-25T07:33:49Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 194.3,
+        "upload_sec": 244.4
+      }
     }
   ],
   "failed_attempts": [
@@ -89226,5 +89245,5 @@
       "failed_at": "2026-06-25T06:51:07Z"
     }
   ],
-  "last_updated": "2026-06-25T07:26:25Z"
+  "last_updated": "2026-06-25T07:33:49Z"
 }
