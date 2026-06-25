@@ -32185,3 +32185,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [05:08:27]   upload done video_id=26571038 in 106.2s
 [05:08:30] film cr_film_id=11117 OK in 203.9s
 [05:08:30] batch-end ok=20 failed=0 dur=2508.7s avg/film=125.4s remaining=5506 eta_hours=191.8
+
+===== run 2026-06-25T05:09:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28148292155) =====
+[05:09:13] batch-start shard=1/2 count=20 backlog=10210 uploads=4704 failed_attempts=201 description_overrides=0
+[05:09:13] login
+[05:09:17] login done
+[05:09:17] iteration 1/20
+[05:09:17] film cr_film_id=16707 name='Maigret and the Man on the Bench (1973)' candidates=1
+[05:09:17]   candidate upload_id=dae0083a4139b766 url=https://prehraj.to/megre-i-celovek-na-skamejke-1973-cz-dabing-hd-mp4/dae0083a4139b766
+[05:09:18]   resolved in 1.2s → 720p (https://pf-storage6.premiumcdn.net/169316026/aZDiAlH1Af9QCOQFnxfDnH13hqnuakCqZu2…)
+[05:10:03]   downloaded 735.9 MB in 43.0s (17.1 MB/s)
+[05:11:09]   upload done video_id=26571276 in 65.8s
