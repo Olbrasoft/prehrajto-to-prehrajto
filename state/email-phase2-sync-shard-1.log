@@ -31015,3 +31015,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [23:54:48]   upload done video_id=26542194 in 35.7s
 [23:54:50] film cr_film_id=22729 OK in 72.0s
 [23:54:50] batch-end ok=20 failed=0 dur=1309.0s avg/film=65.5s remaining=5666 eta_hours=103.1
+
+===== run 2026-06-25T00:04:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28137657754) =====
+[00:04:07] batch-start shard=1/2 count=20 backlog=10210 uploads=4544 failed_attempts=200 description_overrides=0
+[00:04:07] login
+[00:04:08] login done
+[00:04:08] iteration 1/20
+[00:04:08] film cr_film_id=22697 name='Zločin a trest (1983)' candidates=1
+[00:04:08]   candidate upload_id=586bb487f244f url=https://prehraj.to/zlocin-a-trest-1983/586bb487f244f
+[00:04:10]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/1286062/AZ1Sd1f2wf1ES7KsO8HqjfObs42swJiMEh1AU…)
+[00:04:43]   downloaded 561.2 MB in 31.5s (17.8 MB/s)
+[00:05:17]   upload done video_id=26543269 in 33.6s
