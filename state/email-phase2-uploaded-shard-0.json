@@ -88834,6 +88834,25 @@
         "download_sec": 63.6,
         "upload_sec": 71.8
       }
+    },
+    {
+      "cr_film_id": 17656,
+      "cr_slug": "pomsta-starej-damy-alebo-na-kazdeho-raz-dojde",
+      "title": "Pomsta starej dámy alebo Na každého raz dôjde",
+      "year": 1968,
+      "display_name": "Pomsta starej dámy alebo Na každého raz dôjde (1968)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "675e03cfb6372",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26591859,
+      "size_bytes": 3164301397,
+      "uploaded_at": "2026-06-25T08:57:46Z",
+      "timing": {
+        "resolve_sec": 5.0,
+        "download_sec": 110.3,
+        "upload_sec": 169.6
+      }
     }
   ],
   "failed_attempts": [
@@ -90380,7 +90399,14 @@
       "reason": "oversize: 8367770104 B",
       "permanent": true,
       "failed_at": "2026-06-25T06:23:14Z"
+    },
+    {
+      "cr_film_id": 21916,
+      "upload_id": "5dfe36c8f093a",
+      "reason": "oversize: 6076638533 B",
+      "permanent": true,
+      "failed_at": "2026-06-25T08:52:59Z"
     }
   ],
-  "last_updated": "2026-06-25T08:52:54Z"
+  "last_updated": "2026-06-25T08:57:46Z"
 }
