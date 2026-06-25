@@ -31601,3 +31601,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [02:45:51]   upload done video_id=26558581 in 54.7s
 [02:45:53] film cr_film_id=4959 OK in 108.6s
 [02:45:53] batch-end ok=20 failed=0 dur=1936.8s avg/film=96.8s remaining=5586 eta_hours=150.2
+
+===== run 2026-06-25T02:46:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28143440532) =====
+[02:46:26] batch-start shard=1/2 count=20 backlog=10210 uploads=4624 failed_attempts=201 description_overrides=0
+[02:46:26] login
+[02:46:30] login done
+[02:46:30] iteration 1/20
+[02:46:30] film cr_film_id=35803 name='Uzlíky nádeje (1979)' candidates=1
+[02:46:30]   candidate upload_id=677480cb15af6 url=https://prehraj.to/uzliky-nadeje-1979-sk-tvrip/677480cb15af6
+[02:46:31]   resolved in 1.8s → 1080p (https://pf-storage1.premiumcdn.net/126846872/oOgImnsEjiJ1F4miPNsKGs6MuZPCb7CGkiE…)
+[02:48:19]   downloaded 2,300.4 MB in 105.2s (21.9 MB/s)
+[02:50:50]   upload done video_id=26558933 in 151.5s
