@@ -31044,3 +31044,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [00:03:29]   upload done video_id=26543104 in 33.5s
 [00:03:31] film cr_film_id=28892 OK in 67.6s
 [00:03:31] batch-end ok=20 failed=0 dur=1829.9s avg/film=91.5s remaining=5652 eta_hours=143.7
+
+===== run 2026-06-25T00:04:05Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28137657754) =====
+[00:04:06] batch-start shard=0/2 count=20 backlog=10210 uploads=4558 failed_attempts=210 description_overrides=0
+[00:04:06] login
+[00:04:07] login done
+[00:04:07] iteration 1/20
+[00:04:07] film cr_film_id=22822 name='Santa Claus (1985)' candidates=2
+[00:04:07]   candidate upload_id=584165fc37db9 url=https://prehraj.to/santa-claus-1985-cz/584165fc37db9
+[00:04:08]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/980564/aKgU1QFDACG0IZbHOjs0LFPJCMEIYRuKyudJC8…)
+[00:04:46]   downloaded 698.9 MB in 35.8s (19.5 MB/s)
+[00:05:37]   upload done video_id=26543275 in 51.3s
