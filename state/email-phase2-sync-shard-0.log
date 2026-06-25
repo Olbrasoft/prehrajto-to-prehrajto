@@ -32360,3 +32360,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [05:34:43]   upload done video_id=26573304 in 37.1s
 [05:34:45] film cr_film_id=33738 OK in 73.0s
 [05:34:45] batch-end ok=20 failed=0 dur=1527.7s avg/film=76.4s remaining=5473 eta_hours=116.1
+
+===== run 2026-06-25T05:48:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28149745204) =====
+[05:48:56] batch-start shard=0/2 count=20 backlog=10210 uploads=4737 failed_attempts=212 description_overrides=0
+[05:48:56] login
+[05:48:57] login done
+[05:48:57] iteration 1/20
+[05:48:57] film cr_film_id=22298 name='Boží zbraň (1976)' candidates=1
+[05:48:57]   candidate upload_id=586ea8eee3cdc url=https://prehraj.to/bozi-zbran-western-1976-lee-van-cleef-jack-palance-richard-boone-cz-sten-ok/586ea8eee3cdc
+[05:48:58]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/1340137/Nx9iZdh78H3GhAbu6YcQGhB7HWZh3EfP5uJ6f…)
+[05:49:37]   downloaded 635.6 MB in 36.1s (17.6 MB/s)
+[05:50:15]   upload done video_id=26574632 in 38.0s
