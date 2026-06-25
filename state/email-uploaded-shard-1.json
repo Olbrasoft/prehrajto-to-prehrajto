@@ -69489,6 +69489,25 @@
         "download_sec": 30.3,
         "upload_sec": 45.2
       }
+    },
+    {
+      "cr_film_id": 13275,
+      "cr_slug": "strycek-nino",
+      "title": "Strýček Nino",
+      "year": 2003,
+      "display_name": "Strýček Nino (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5abd7712b1ea3",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26544826,
+      "size_bytes": 1135631989,
+      "uploaded_at": "2026-06-25T00:21:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 45.8,
+        "upload_sec": 56.9
+      }
     }
   ],
   "failed_attempts": [
@@ -71700,5 +71719,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-25T00:20:02Z"
+  "last_updated": "2026-06-25T00:21:50Z"
 }
