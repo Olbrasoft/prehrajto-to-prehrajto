@@ -72463,6 +72463,25 @@
         "download_sec": 83.6,
         "upload_sec": 116.0
       }
+    },
+    {
+      "cr_film_id": 13362,
+      "cr_slug": "attila-2001",
+      "title": "Attila",
+      "year": 2001,
+      "display_name": "Attila (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55fa6f67ef623",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26578957,
+      "size_bytes": 1582562865,
+      "uploaded_at": "2026-06-25T06:40:54Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 82.2,
+        "upload_sec": 104.9
+      }
     }
   ],
   "failed_attempts": [
@@ -75060,5 +75079,5 @@
       "failed_at": "2026-06-25T02:47:20Z"
     }
   ],
-  "last_updated": "2026-06-25T06:37:41Z"
+  "last_updated": "2026-06-25T06:40:54Z"
 }
