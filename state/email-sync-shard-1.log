@@ -28201,3 +28201,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:43:19]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/507898/jp7S6NidRCL2UY0ilkIG1iDls8Rfb7TaOum4Fj…)
 [10:43:54]   downloaded 806.5 MB in 34.1s (23.7 MB/s)
 [10:44:28]   upload done video_id=26601192 in 33.8s
+[10:44:30] film cr_film_id=14155 OK in 72.4s
+[10:44:30] iteration 3/20
+[10:44:30] film cr_film_id=14157 name='Doktore? (2019) CZ Dabing' candidates=1
+[10:44:30]   candidate upload_id=673cbacb028ad url=https://prehraj.to/doktore-docteur-2019-1080p-bluray-cz-dabing-miki-mp4/673cbacb028ad
+[10:44:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/doktore-docteur-2019-1080p-bluray-cz-dabing-miki-mp4/673cbacb028ad (permanent=True)
+[10:44:31] film cr_film_id=14157 all candidates exhausted
+[10:44:31] iteration 4/20
+[10:44:31] film cr_film_id=14159 name='Nebesa (2021) CZ Dabing' candidates=2
+[10:44:31]   candidate upload_id=637231c44a35d url=https://prehraj.to/nebesa-2020-cz-dabing/637231c44a35d
+[10:44:37]   resolved in 6.8s → 1080p (https://pf-storage1.premiumcdn.net/34638361/NrpIejueEUPmCy2FV6S5PubyT9mT0lt6Ki5k…)
+[10:46:02]   downloaded 2,140.2 MB in 83.3s (25.7 MB/s)
+[10:47:39]   upload done video_id=26601335 in 96.7s
