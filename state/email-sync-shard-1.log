@@ -29266,3 +29266,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:58:27]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/168120286/l4RHAEivyt8nTK3izWf9ri70FOGtGBcrRUE…)
 [18:04:59]   downloaded 2,101.0 MB in 390.2s (5.4 MB/s)
 [18:07:26]   upload done video_id=26642092 in 146.7s
+[18:07:29] film cr_film_id=14659 OK in 543.0s
+[18:07:29] iteration 7/20
+[18:07:29] film cr_film_id=14661 name='Nespravedlivé obvinění (2021) CZ Dabing' candidates=2
+[18:07:29]   candidate upload_id=6cf78264e4d24338 url=https://prehraj.to/nespravedlive-obvineni-2021-cz-dab-1080p-mp4/6cf78264e4d24338
+[18:07:30]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/nespravedlive-obvineni-2021-cz-dab-1080p-mp4/6cf78264e4d24338 (permanent=True)
+[18:07:30]   candidate upload_id=a6e02cd89f8e608d url=https://prehraj.to/nespravedlive-obvineni-2021-cz-dab-1080p-mp4/a6e02cd89f8e608d
+[18:07:36]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/nespravedlive-obvineni-2021-cz-dab-1080p-mp4/a6e02cd89f8e608d (permanent=True)
+[18:07:36] film cr_film_id=14661 all candidates exhausted
+[18:07:36] iteration 8/20
+[18:07:36] film cr_film_id=14663 name='Popelka (1969) CZ Dabing' candidates=6
+[18:07:36]   candidate upload_id=5850dfd47c5ec url=https://prehraj.to/popelka-cz-dabing-1969/5850dfd47c5ec
+[18:07:42]   resolved in 6.3s → 480p (https://pf-storage4.premiumcdn.net/1163646/k9Aipqfv8TnwhMQhkdt7gfG4UYvUJbfaosLMT…)
+[18:11:17]   downloaded 941.1 MB in 212.7s (4.4 MB/s)
+[18:12:29]   upload done video_id=26642689 in 71.9s
