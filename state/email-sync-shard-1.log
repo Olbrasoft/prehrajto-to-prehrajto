@@ -29322,3 +29322,13 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [18:26:52]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/41877199/1MgFDqsNPsqZIR1CveT3Vs4xSa9hlktvKTjz…)
 [18:40:59]   downloaded 1,025.9 MB in 845.5s (1.2 MB/s)
 [18:41:57]   upload done video_id=26645736 in 57.8s
+[18:42:00] film cr_film_id=14697 OK in 909.5s
+[18:42:00] iteration 15/20
+[18:42:00] film cr_film_id=14703 name='Holly (2023) CZ Dabing' candidates=4
+[18:42:00]   candidate upload_id=68ec3aa012fd8 url=https://prehraj.to/holly-2023-cz-dab-1080p/68ec3aa012fd8
+[18:42:01]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/151174206/0rGT90fbri1ZTqwINXTEqf8oFOQSeGIvZha…)
+[19:42:04]   download FAILED after 3600.5s: curl exit 28: curl: (28) Operation timed out after 3599533 milliseconds with 1638653521 out of 2540089624 bytes received
+[19:42:04]   candidate upload_id=68f4baa54fd60 url=https://prehraj.to/holly-2023-cz-dab-1080p-mp4/68f4baa54fd60
+[19:42:06]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/152408241/a9vFqPSA0t9wC1KIWJckgSQ1caxfbQhWDH3…)
+[19:50:56]   downloaded 2,540.1 MB in 527.7s (4.8 MB/s)
+[19:53:30]   upload done video_id=26653006 in 154.1s
