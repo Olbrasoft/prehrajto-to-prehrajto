@@ -76899,6 +76899,25 @@
         "download_sec": 63.7,
         "upload_sec": 58.9
       }
+    },
+    {
+      "cr_film_id": 14485,
+      "cr_slug": "seznam",
+      "title": "Seznam",
+      "year": 2023,
+      "display_name": "Seznam (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "0fa1d4e4d1cd6a6c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26626615,
+      "size_bytes": 1822842890,
+      "uploaded_at": "2026-06-25T15:31:33Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 99.1,
+        "upload_sec": 109.9
+      }
     }
   ],
   "failed_attempts": [
@@ -79166,5 +79185,5 @@
       "failed_at": "2026-06-25T15:18:58Z"
     }
   ],
-  "last_updated": "2026-06-25T15:27:58Z"
+  "last_updated": "2026-06-25T15:31:33Z"
 }
