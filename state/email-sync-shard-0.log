@@ -27680,3 +27680,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:10:09]   upload done video_id=26593089 in 34.7s
 [09:10:12] film cr_film_id=13558 OK in 74.4s
 [09:10:12] batch-end ok=20 failed=0 dur=3026.8s avg/film=151.3s remaining=13614 eta_hours=572.2
+
+===== run 2026-06-25T09:20:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28160111749) =====
+[09:20:48] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:20:48] batch-start shard=0/2 count=20 backlog=17650 uploads=4036 failed_attempts=366 description_overrides=17579
+[09:20:48] login
+[09:20:50] login done
+[09:20:50] iteration 1/20
+[09:20:50] film cr_film_id=13560 name='Základní instinkt 2 (2006) CZ Dabing' candidates=5
+[09:20:50]   candidate upload_id=29a6a7d93b268867 url=https://prehraj.to/zakladni-instinkt-2-2006-up-uhdr-cz-en-mkv/29a6a7d93b268867
+[09:20:51]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/155858609/8p9Ib3sokUKxunVHZwuvEsE0TeAclecAaT2…)
+[09:22:42]   downloaded 3,453.0 MB in 109.3s (31.6 MB/s)
+[09:25:25]   upload done video_id=26594202 in 162.4s
