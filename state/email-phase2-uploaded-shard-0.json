@@ -89670,6 +89670,25 @@
         "download_sec": 29.7,
         "upload_sec": 30.9
       }
+    },
+    {
+      "cr_film_id": 21768,
+      "cr_slug": "blaznivy-petricek",
+      "title": "Bláznivý Petříček",
+      "year": 1965,
+      "display_name": "Bláznivý Petříček (1965)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55bb8e9db0b78",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26600677,
+      "size_bytes": 437016561,
+      "uploaded_at": "2026-06-25T10:36:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.9,
+        "upload_sec": 30.5
+      }
     }
   ],
   "failed_attempts": [
@@ -91225,5 +91244,5 @@
       "failed_at": "2026-06-25T08:52:59Z"
     }
   ],
-  "last_updated": "2026-06-25T10:35:17Z"
+  "last_updated": "2026-06-25T10:36:20Z"
 }
