@@ -32916,3 +32916,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [08:34:25]   upload done video_id=26589704 in 28.5s
 [08:34:27] film cr_film_id=32269 OK in 61.2s
 [08:34:27] batch-end ok=20 failed=0 dur=2227.4s avg/film=111.4s remaining=5407 eta_hours=167.3
+
+===== run 2026-06-25T08:35:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28157567597) =====
+[08:35:07] batch-start shard=1/2 count=20 backlog=10210 uploads=4803 failed_attempts=203 description_overrides=0
+[08:35:07] login
+[08:35:09] login done
+[08:35:09] iteration 1/20
+[08:35:09] film cr_film_id=21771 name='Shenandoah (1965)' candidates=1
+[08:35:09]   candidate upload_id=5ab3cd9b74cf2 url=https://prehraj.to/shenandoah-1965/5ab3cd9b74cf2
+[08:35:10]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/3701653/xBeIP1iLzIrksldCmMfG4i9xC4nhARHQ6cOvh…)
+[08:35:57]   downloaded 835.9 MB in 45.4s (18.4 MB/s)
+[08:36:40]   upload done video_id=26589876 in 43.4s
