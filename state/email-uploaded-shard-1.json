@@ -78286,6 +78286,25 @@
         "download_sec": 216.7,
         "upload_sec": 142.9
       }
+    },
+    {
+      "cr_film_id": 14773,
+      "cr_slug": "nachove-plachty",
+      "title": "Nachové plachty",
+      "year": 2022,
+      "display_name": "Nachové plachty (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6777c6b080f9f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26659900,
+      "size_bytes": 3596314792,
+      "uploaded_at": "2026-06-25T21:02:48Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 395.2,
+        "upload_sec": 154.0
+      }
     }
   ],
   "failed_attempts": [
@@ -80646,7 +80665,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/talent-na-zlocin-tajemstvi-krasy-2021-cz-dabing-hd-mp4/074921c5c1ea6bfd",
       "permanent": true,
       "failed_at": "2026-06-25T20:22:14Z"
+    },
+    {
+      "cr_film_id": 14771,
+      "upload_id": "46f88eb1302c501b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyby-radsi-horelo-2022-mp4/46f88eb1302c501b",
+      "permanent": true,
+      "failed_at": "2026-06-25T20:53:32Z"
     }
   ],
-  "last_updated": "2026-06-25T20:53:29Z"
+  "last_updated": "2026-06-25T21:02:48Z"
 }

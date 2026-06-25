@@ -29477,3 +29477,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:47:27]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/30207038/AaohMLTPnumduvlHPnT1BT7psvjIygSbmHxV…)
 [20:51:06]   downloaded 3,006.9 MB in 216.7s (13.9 MB/s)
 [20:53:29]   upload done video_id=26659026 in 142.9s
+[20:53:31] film cr_film_id=14769 OK in 364.2s
+[20:53:31] iteration 16/20
+[20:53:31] film cr_film_id=14771 name='Kdyby radši hořelo (2022) CZ' candidates=1
+[20:53:31]   candidate upload_id=46f88eb1302c501b url=https://prehraj.to/kdyby-radsi-horelo-2022-mp4/46f88eb1302c501b
+[20:53:32]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyby-radsi-horelo-2022-mp4/46f88eb1302c501b (permanent=True)
+[20:53:32] film cr_film_id=14771 all candidates exhausted
+[20:53:32] iteration 17/20
+[20:53:32] film cr_film_id=14773 name='Nachové plachty (2022) CZ Dabing' candidates=3
+[20:53:32]   candidate upload_id=6777c6b080f9f url=https://prehraj.to/nachove-plachty-2022-cz-dabing-1080p/6777c6b080f9f
+[20:53:38]   resolved in 5.7s → 1080p (https://pf-storage1.premiumcdn.net/127149248/7d4HMlsY6TnrS6PubVF7OsoViz5C6YU53U8…)
+[21:00:14]   downloaded 3,596.3 MB in 395.2s (9.1 MB/s)
+[21:02:48]   upload done video_id=26659900 in 154.0s
