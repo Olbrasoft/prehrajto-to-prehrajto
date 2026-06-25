@@ -73546,6 +73546,25 @@
         "download_sec": 30.4,
         "upload_sec": 33.5
       }
+    },
+    {
+      "cr_film_id": 13546,
+      "cr_slug": "spinava-valka",
+      "title": "Špinavá válka",
+      "year": 2004,
+      "display_name": "Špinavá válka (2004) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "586a5bc8ced5b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26592459,
+      "size_bytes": 776657234,
+      "uploaded_at": "2026-06-25T09:03:13Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 43.2,
+        "upload_sec": 44.5
+      }
     }
   ],
   "failed_attempts": [
@@ -76150,5 +76169,5 @@
       "failed_at": "2026-06-25T07:39:28Z"
     }
   ],
-  "last_updated": "2026-06-25T09:01:39Z"
+  "last_updated": "2026-06-25T09:03:13Z"
 }
