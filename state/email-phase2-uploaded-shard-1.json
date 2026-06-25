@@ -85130,6 +85130,25 @@
         "download_sec": 50.4,
         "upload_sec": 60.5
       }
+    },
+    {
+      "cr_film_id": 22455,
+      "cr_slug": "kuba",
+      "title": "Kuba",
+      "year": 1979,
+      "display_name": "Kuba (1979)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5ac20599e86fa",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26560066,
+      "size_bytes": 1743015297,
+      "uploaded_at": "2026-06-25T03:02:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 79.4,
+        "upload_sec": 112.7
+      }
     }
   ],
   "failed_attempts": [
@@ -86609,5 +86628,5 @@
       "failed_at": "2026-06-25T00:11:01Z"
     }
   ],
-  "last_updated": "2026-06-25T02:59:14Z"
+  "last_updated": "2026-06-25T03:02:32Z"
 }
