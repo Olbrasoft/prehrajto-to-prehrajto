@@ -70724,6 +70724,25 @@
         "download_sec": 131.8,
         "upload_sec": 217.2
       }
+    },
+    {
+      "cr_film_id": 13465,
+      "cr_slug": "aeon-flux",
+      "title": "Aeon Flux",
+      "year": 2005,
+      "display_name": "Aeon Flux (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b7553ee3f1fe",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26557727,
+      "size_bytes": 786956984,
+      "uploaded_at": "2026-06-25T02:35:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 29.5,
+        "upload_sec": 43.6
+      }
     }
   ],
   "failed_attempts": [
@@ -72935,5 +72954,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-25T02:33:50Z"
+  "last_updated": "2026-06-25T02:35:09Z"
 }
