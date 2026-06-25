@@ -31922,3 +31922,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [03:53:06]   upload done video_id=26564847 in 23.9s
 [03:53:09] film cr_film_id=22494 OK in 53.1s
 [03:53:09] batch-end ok=20 failed=0 dur=1915.4s avg/film=95.8s remaining=5533 eta_hours=147.2
+
+===== run 2026-06-25T03:54:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28145711959) =====
+[03:54:37] batch-start shard=0/2 count=20 backlog=10210 uploads=4677 failed_attempts=212 description_overrides=0
+[03:54:37] login
+[03:54:38] login done
+[03:54:38] iteration 1/20
+[03:54:38] film cr_film_id=34744 name='Zločin a la Neapol (1979)' candidates=2
+[03:54:38]   candidate upload_id=67b198ce8b8c1 url=https://prehraj.to/p-f-renato-pozzetto-zlocin-a-la-neapol-1979-italie-komedie-mysteriozni/67b198ce8b8c1
+[03:54:39]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/129916811/70osNdhoPswZtvAS4whwlhPJUpMUz2sgmCl…)
+[03:55:06]   downloaded 681.9 MB in 25.4s (26.8 MB/s)
+[03:55:34]   upload done video_id=26565062 in 27.4s
