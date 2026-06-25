@@ -88207,6 +88207,25 @@
         "download_sec": 41.6,
         "upload_sec": 27.6
       }
+    },
+    {
+      "cr_film_id": 22080,
+      "cr_slug": "beware-the-blob",
+      "title": "Beware! The Blob",
+      "year": 1972,
+      "display_name": "Beware! The Blob (1972)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "588a22c29ef10",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26584968,
+      "size_bytes": 479839828,
+      "uploaded_at": "2026-06-25T07:44:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.8,
+        "upload_sec": 24.1
+      }
     }
   ],
   "failed_attempts": [
@@ -89755,5 +89774,5 @@
       "failed_at": "2026-06-25T06:23:14Z"
     }
   ],
-  "last_updated": "2026-06-25T07:43:17Z"
+  "last_updated": "2026-06-25T07:44:04Z"
 }
