@@ -33530,3 +33530,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [11:54:23]   upload done video_id=26606364 in 82.7s
 [11:54:25] film cr_film_id=32964 OK in 114.5s
 [11:54:25] batch-end ok=20 failed=0 dur=4023.3s avg/film=201.2s remaining=5314 eta_hours=297.0
+
+===== run 2026-06-25T11:55:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28168238481) =====
+[11:55:03] batch-start shard=0/2 count=20 backlog=10210 uploads=4896 failed_attempts=214 description_overrides=0
+[11:55:03] login
+[11:55:05] login done
+[11:55:05] iteration 1/20
+[11:55:05] film cr_film_id=32290 name='Nevítaný dědic (1962)' candidates=1
+[11:55:05]   candidate upload_id=55be582b0aebf url=https://prehraj.to/le-bateau-d-emile-1961-lino-ventura/55be582b0aebf
+[11:55:06]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/67144/bOmS61FW2tyPIXMTnGTlkFE4SEzSYJfM9U5JSJL…)
+[11:55:31]   downloaded 513.3 MB in 22.8s (22.5 MB/s)
+[11:56:04]   upload done video_id=26606592 in 33.7s
