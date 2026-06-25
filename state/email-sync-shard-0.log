@@ -28121,3 +28121,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:13:10]   upload done video_id=26603311 in 38.9s
 [11:13:11] film cr_film_id=13718 OK in 61.6s
 [11:13:11] batch-end ok=20 failed=0 dur=1848.0s avg/film=92.4s remaining=13555 eta_hours=347.9
+
+===== run 2026-06-25T11:27:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28166816587) =====
+[11:27:25] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:27:25] batch-start shard=0/2 count=20 backlog=17650 uploads=4095 failed_attempts=367 description_overrides=17579
+[11:27:25] login
+[11:27:26] login done
+[11:27:26] iteration 1/20
+[11:27:26] film cr_film_id=13720 name='Bažina (2006) CZ Dabing' candidates=1
+[11:27:26]   candidate upload_id=5820fa01b93c2 url=https://prehraj.to/bazina-cz-dabing-2006/5820fa01b93c2
+[11:27:27]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/812128/dP6TNECWGu2aUQLFLEhKrCb1flKIGMC4zhDqHn…)
+[11:27:47]   downloaded 480.0 MB in 18.4s (26.1 MB/s)
+[11:28:07]   upload done video_id=26604242 in 20.2s
