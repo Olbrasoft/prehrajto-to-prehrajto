@@ -25890,3 +25890,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:56:20]   upload done video_id=26548327 in 24.6s
 [00:56:22] film cr_film_id=12818 OK in 48.6s
 [00:56:22] batch-end ok=20 failed=0 dur=2611.3s avg/film=130.6s remaining=13850 eta_hours=502.4
+
+===== run 2026-06-25T00:56:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28139624365) =====
+[00:57:00] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:57:00] batch-start shard=0/2 count=20 backlog=17650 uploads=3800 failed_attempts=345 description_overrides=17579
+[00:57:00] login
+[00:57:02] login done
+[00:57:02] iteration 1/20
+[00:57:02] film cr_film_id=12822 name='Kopretiny pro zámeckou paní (1981) CZ' candidates=3
+[00:57:02]   candidate upload_id=60838c6d296ed url=https://prehraj.to/kopretiny-pro-zameckou-pani-1981-dvdrip-cz/60838c6d296ed
+[00:57:03]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/23239872/9VJsvbFadCdkh3JTAri41F8OIPaua7HXPcab…)
+[00:57:27]   downloaded 509.1 MB in 22.5s (22.6 MB/s)
+[00:57:48]   upload done video_id=26548434 in 21.9s
