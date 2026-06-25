@@ -26037,3 +26037,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:26:24]   upload done video_id=26551290 in 30.4s
 [01:26:26] film cr_film_id=12884 OK in 56.0s
 [01:26:26] batch-end ok=20 failed=0 dur=1764.1s avg/film=88.2s remaining=13830 eta_hours=338.8
+
+===== run 2026-06-25T01:32:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28140875298) =====
+[01:32:11] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:32:11] batch-start shard=0/2 count=20 backlog=17650 uploads=3820 failed_attempts=345 description_overrides=17579
+[01:32:11] login
+[01:32:13] login done
+[01:32:13] iteration 1/20
+[01:32:13] film cr_film_id=12888 name='Pokémon 2: Síla jednotlivce (1999) CZ' candidates=1
+[01:32:13]   candidate upload_id=5a90344f1c096 url=https://prehraj.to/pokemon-2-sila-jednotlivce-1999/5a90344f1c096
+[01:32:14]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/3462232/E7BfRjuq6H3wu0rUvWFoQue7s6wsdKhxYHGvU…)
+[01:32:28]   downloaded 407.0 MB in 12.9s (31.6 MB/s)
+[01:32:49]   upload done video_id=26551911 in 20.5s
