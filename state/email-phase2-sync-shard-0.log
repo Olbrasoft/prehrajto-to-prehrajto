@@ -31480,3 +31480,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [02:12:58]   upload done video_id=26555514 in 107.9s
 [02:13:00] film cr_film_id=11390 OK in 213.7s
 [02:13:00] batch-end ok=19 failed=1 dur=2745.6s avg/film=144.5s remaining=5593 eta_hours=224.5
+
+===== run 2026-06-25T02:13:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28142324119) =====
+[02:13:36] batch-start shard=0/2 count=20 backlog=10210 uploads=4617 failed_attempts=211 description_overrides=0
+[02:13:36] login
+[02:13:37] login done
+[02:13:37] iteration 1/20
+[02:13:37] film cr_film_id=22580 name='Jako zajíci (1982)' candidates=1
+[02:13:37]   candidate upload_id=5ada82d934d5c url=https://prehraj.to/jako-zajici-1982/5ada82d934d5c
+[02:13:38]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/3919881/noyF97fmrcN3CAqcVbS4df5ju83I1YCXBSqbs…)
+[02:14:01]   downloaded 704.2 MB in 21.1s (33.4 MB/s)
+[02:14:32]   upload done video_id=26555838 in 31.4s
