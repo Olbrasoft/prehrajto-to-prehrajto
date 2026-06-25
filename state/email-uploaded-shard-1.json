@@ -70382,6 +70382,25 @@
         "download_sec": 44.6,
         "upload_sec": 76.9
       }
+    },
+    {
+      "cr_film_id": 13417,
+      "cr_slug": "metro-2004",
+      "title": "Metro",
+      "year": 2004,
+      "display_name": "Metro (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d691ddf70d01a755",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26554236,
+      "size_bytes": 1972786491,
+      "uploaded_at": "2026-06-25T01:57:58Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 76.3,
+        "upload_sec": 108.9
+      }
     }
   ],
   "failed_attempts": [
@@ -72593,5 +72612,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-25T01:54:47Z"
+  "last_updated": "2026-06-25T01:57:58Z"
 }
