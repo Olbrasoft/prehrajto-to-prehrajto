@@ -75864,6 +75864,25 @@
         "download_sec": 42.2,
         "upload_sec": 75.0
       }
+    },
+    {
+      "cr_film_id": 13886,
+      "cr_slug": "jezero-2",
+      "title": "Jezero 2",
+      "year": 2007,
+      "display_name": "Jezero 2 (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e5188a8fc5d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26616227,
+      "size_bytes": 706571474,
+      "uploaded_at": "2026-06-25T13:46:30Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.5,
+        "upload_sec": 43.9
+      }
     }
   ],
   "failed_attempts": [
@@ -78487,5 +78506,5 @@
       "failed_at": "2026-06-25T11:30:50Z"
     }
   ],
-  "last_updated": "2026-06-25T13:45:17Z"
+  "last_updated": "2026-06-25T13:46:30Z"
 }
