@@ -90906,6 +90906,25 @@
         "download_sec": 20.5,
         "upload_sec": 26.9
       }
+    },
+    {
+      "cr_film_id": 21197,
+      "cr_slug": "captain-blood",
+      "title": "Captain Blood",
+      "year": 1935,
+      "display_name": "Captain Blood (1935)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55bd6887425ac",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26617462,
+      "size_bytes": 715616120,
+      "uploaded_at": "2026-06-25T13:59:38Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 27.8,
+        "upload_sec": 37.8
+      }
     }
   ],
   "failed_attempts": [
@@ -92406,5 +92425,5 @@
       "failed_at": "2026-06-25T12:53:05Z"
     }
   ],
-  "last_updated": "2026-06-25T13:58:28Z"
+  "last_updated": "2026-06-25T13:59:38Z"
 }
