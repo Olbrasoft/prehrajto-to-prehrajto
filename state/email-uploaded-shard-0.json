@@ -70088,6 +70088,25 @@
         "download_sec": 27.8,
         "upload_sec": 28.8
       }
+    },
+    {
+      "cr_film_id": 12976,
+      "cr_slug": "janosik",
+      "title": "Jánošík",
+      "year": 1963,
+      "display_name": "Jánošík (1963) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58b649949b9bf",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26557407,
+      "size_bytes": 1089215000,
+      "uploaded_at": "2026-06-25T02:31:51Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 40.4,
+        "upload_sec": 43.2
+      }
     }
   ],
   "failed_attempts": [
@@ -72543,7 +72562,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nevesta-na-uteku-runaway-bride-1999-komedie-romanticky-1080p-bdrip-cz-dabing-cz-forcedtit/63d5bd448b4cb",
       "permanent": true,
       "failed_at": "2026-06-24T22:55:43Z"
+    },
+    {
+      "cr_film_id": 12974,
+      "upload_id": "df181c9e14ff1194",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/osudy-dobreho-vojaka-svejka-1956-cz-dabing-full-hd-comedy-top-kvalita-257101/df181c9e14ff1194",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:30:19Z"
     }
   ],
-  "last_updated": "2026-06-25T02:30:16Z"
+  "last_updated": "2026-06-25T02:31:51Z"
 }

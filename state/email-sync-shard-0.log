@@ -26252,3 +26252,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:29:18]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/24203400/5rBTPlC12syeFxqIV8HxNCjNI9YtgZhQbTo2…)
 [02:29:47]   downloaded 727.7 MB in 27.8s (26.2 MB/s)
 [02:30:16]   upload done video_id=26557250 in 28.8s
+[02:30:19] film cr_film_id=12972 OK in 61.6s
+[02:30:19] iteration 10/20
+[02:30:19] film cr_film_id=12974 name='Osudy dobrého vojáka Švejka (1956) CZ Dabing' candidates=1
+[02:30:19]   candidate upload_id=df181c9e14ff1194 url=https://prehraj.to/osudy-dobreho-vojaka-svejka-1956-cz-dabing-full-hd-comedy-top-kvalita-257101/df181c9e14ff1194
+[02:30:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/osudy-dobreho-vojaka-svejka-1956-cz-dabing-full-hd-comedy-top-kvalita-257101/df181c9e14ff1194 (permanent=True)
+[02:30:20] film cr_film_id=12974 all candidates exhausted
+[02:30:20] iteration 11/20
+[02:30:20] film cr_film_id=12976 name='Jánošík (1963) CZ' candidates=4
+[02:30:20]   candidate upload_id=58b649949b9bf url=https://prehraj.to/janosik-i-a-ii-dil-1962-sk-martincz75/58b649949b9bf
+[02:30:25]   resolved in 5.9s → 480p (https://pf-storage5.premiumcdn.net/1768309/N23FPoUzJhGbCXPcPKUrGUA8CyXuE4he2h84C…)
+[02:31:08]   downloaded 1,089.2 MB in 40.4s (27.0 MB/s)
+[02:31:51]   upload done video_id=26557407 in 43.2s
