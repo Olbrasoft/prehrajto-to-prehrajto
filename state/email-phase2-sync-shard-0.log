@@ -34113,3 +34113,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [14:52:16]   upload done video_id=26622359 in 64.2s
 [14:52:18] film cr_film_id=21292 OK in 129.3s
 [14:52:18] batch-end ok=19 failed=1 dur=1881.8s avg/film=99.0s remaining=5236 eta_hours=144.0
+
+===== run 2026-06-25T14:53:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28179009044) =====
+[14:53:04] batch-start shard=0/2 count=20 backlog=10210 uploads=4974 failed_attempts=216 description_overrides=0
+[14:53:04] login
+[14:53:07] login done
+[14:53:07] iteration 1/20
+[14:53:07] film cr_film_id=12706 name='Muzikant (1948)' candidates=1
+[14:53:07]   candidate upload_id=626827336a42e url=https://prehraj.to/muzikant-1947-web-rip/626827336a42e
+[14:53:09]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/30613898/mkPF0wILnF26tPDiOjtPXInYU38i2pFMmsvp…)
+[14:56:38]   downloaded 1,696.4 MB in 207.6s (8.2 MB/s)
+[14:58:16]   upload done video_id=26623030 in 98.2s
