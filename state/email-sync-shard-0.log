@@ -28417,3 +28417,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [13:06:45]   upload done video_id=26612494 in 25.1s
 [13:06:47] film cr_film_id=13826 OK in 54.7s
 [13:06:47] batch-end ok=20 failed=0 dur=2162.1s avg/film=108.1s remaining=13515 eta_hours=405.8
+
+===== run 2026-06-25T13:12:10Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28172596327) =====
+[13:12:12] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:12:12] batch-start shard=0/2 count=20 backlog=17650 uploads=4135 failed_attempts=368 description_overrides=17579
+[13:12:12] login
+[13:12:13] login done
+[13:12:13] iteration 1/20
+[13:12:13] film cr_film_id=13828 name='Vím, kdo mě zabil (2007) CZ Dabing' candidates=2
+[13:12:13]   candidate upload_id=57e1534daabcd url=https://prehraj.to/vim-kdo-me-zabil-2007-czdab/57e1534daabcd
+[13:12:14]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/647721/2LRTaBCZNT6zuA8SWlid0CpmfA8TbOI01ToZh3…)
+[13:12:37]   downloaded 447.6 MB in 20.7s (21.6 MB/s)
+[13:13:00]   upload done video_id=26613051 in 22.9s
