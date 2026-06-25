@@ -75807,6 +75807,25 @@
         "download_sec": 17.6,
         "upload_sec": 26.9
       }
+    },
+    {
+      "cr_film_id": 13874,
+      "cr_slug": "vaclav",
+      "title": "Václav",
+      "year": 2007,
+      "display_name": "Václav (2007) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ec435a395db8",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26615668,
+      "size_bytes": 1282894873,
+      "uploaded_at": "2026-06-25T13:42:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 44.3,
+        "upload_sec": 74.7
+      }
     }
   ],
   "failed_attempts": [
@@ -78430,5 +78449,5 @@
       "failed_at": "2026-06-25T11:30:50Z"
     }
   ],
-  "last_updated": "2026-06-25T13:40:11Z"
+  "last_updated": "2026-06-25T13:42:15Z"
 }
