@@ -72890,6 +72890,25 @@
         "download_sec": 23.3,
         "upload_sec": 27.2
       }
+    },
+    {
+      "cr_film_id": 13791,
+      "cr_slug": "maly-rambo",
+      "title": "Malý Rambo",
+      "year": 2007,
+      "display_name": "Malý Rambo (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67ff42a999d4e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26576905,
+      "size_bytes": 993700371,
+      "uploaded_at": "2026-06-25T06:16:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 36.4,
+        "upload_sec": 40.8
+      }
     }
   ],
   "failed_attempts": [
@@ -75108,5 +75127,5 @@
       "failed_at": "2026-06-25T02:43:28Z"
     }
   ],
-  "last_updated": "2026-06-25T06:15:32Z"
+  "last_updated": "2026-06-25T06:16:54Z"
 }
