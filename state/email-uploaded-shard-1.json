@@ -70895,6 +70895,25 @@
         "download_sec": 62.2,
         "upload_sec": 105.7
       }
+    },
+    {
+      "cr_film_id": 13489,
+      "cr_slug": "mnichov-2005",
+      "title": "Mnichov",
+      "year": 2005,
+      "display_name": "Mnichov (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5821114d48bea",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26559210,
+      "size_bytes": 949605328,
+      "uploaded_at": "2026-06-25T02:52:26Z",
+      "timing": {
+        "resolve_sec": 3.6,
+        "download_sec": 28.7,
+        "upload_sec": 39.9
+      }
     }
   ],
   "failed_attempts": [
@@ -73113,5 +73132,5 @@
       "failed_at": "2026-06-25T02:43:28Z"
     }
   ],
-  "last_updated": "2026-06-25T02:51:10Z"
+  "last_updated": "2026-06-25T02:52:26Z"
 }
