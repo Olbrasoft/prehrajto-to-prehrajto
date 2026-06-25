@@ -33646,3 +33646,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [12:50:24]   upload done video_id=26610729 in 62.9s
 [12:50:26] film cr_film_id=32683 OK in 104.7s
 [12:50:26] batch-end ok=20 failed=0 dur=3322.5s avg/film=166.1s remaining=5307 eta_hours=244.9
+
+===== run 2026-06-25T12:51:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28171336819) =====
+[12:51:05] batch-start shard=1/2 count=20 backlog=10210 uploads=4903 failed_attempts=203 description_overrides=0
+[12:51:05] login
+[12:51:06] login done
+[12:51:06] iteration 1/20
+[12:51:06] film cr_film_id=32281 name='Macbeth (1948)' candidates=1
+[12:51:06]   candidate upload_id=55bcc2ccbdf06 url=https://prehraj.to/macbeth-1948-orson-welles/55bcc2ccbdf06
+[12:51:07]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/63932/W1GHAbI5YF0zi7BTr4UO9IxKFV2sLYH7Xf9dslr…)
+[12:51:28]   downloaded 482.9 MB in 18.9s (25.6 MB/s)
+[12:53:00]   upload done video_id=26610975 in 92.6s

@@ -90317,6 +90317,25 @@
         "download_sec": 36.2,
         "upload_sec": 62.9
       }
+    },
+    {
+      "cr_film_id": 32281,
+      "cr_slug": "macbeth-1948",
+      "title": "Macbeth",
+      "year": 1948,
+      "display_name": "Macbeth (1948)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55bcc2ccbdf06",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26610975,
+      "size_bytes": 482941676,
+      "uploaded_at": "2026-06-25T12:53:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.9,
+        "upload_sec": 92.6
+      }
     }
   ],
   "failed_attempts": [
@@ -91810,5 +91829,5 @@
       "failed_at": "2026-06-25T06:51:07Z"
     }
   ],
-  "last_updated": "2026-06-25T12:50:24Z"
+  "last_updated": "2026-06-25T12:53:00Z"
 }
