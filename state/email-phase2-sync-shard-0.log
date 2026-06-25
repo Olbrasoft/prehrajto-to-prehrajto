@@ -33238,3 +33238,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [09:49:22]   upload done video_id=26596708 in 145.8s
 [09:49:25] film cr_film_id=12624 OK in 261.2s
 [09:49:25] batch-end ok=20 failed=0 dur=2321.4s avg/film=116.1s remaining=5354 eta_hours=172.7
+
+===== run 2026-06-25T09:50:00Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28161715421) =====
+[09:50:01] batch-start shard=0/2 count=20 backlog=10210 uploads=4856 failed_attempts=214 description_overrides=0
+[09:50:01] login
+[09:50:03] login done
+[09:50:03] iteration 1/20
+[09:50:03] film cr_film_id=10928 name='El Dorado (1966)' candidates=1
+[09:50:03]   candidate upload_id=65d86778d9b64 url=https://prehraj.to/el-dorado-r-1966-1920x1000/65d86778d9b64
+[09:50:04]   resolved in 1.6s → 720p (https://pf-storage3.premiumcdn.net/73836563/P0XF2zI2jIzXtbVC1nTvyIp7izDukzHvqUJ1…)
+[09:51:32]   downloaded 1,884.2 MB in 85.3s (22.1 MB/s)
+[09:53:47]   upload done video_id=26597093 in 135.3s

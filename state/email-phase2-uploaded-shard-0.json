@@ -89347,6 +89347,25 @@
         "download_sec": 109.5,
         "upload_sec": 145.8
       }
+    },
+    {
+      "cr_film_id": 10928,
+      "cr_slug": "el-dorado",
+      "title": "El Dorado",
+      "year": 1966,
+      "display_name": "El Dorado (1966)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "65d86778d9b64",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26597093,
+      "size_bytes": 1884220302,
+      "uploaded_at": "2026-06-25T09:53:47Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 85.3,
+        "upload_sec": 135.3
+      }
     }
   ],
   "failed_attempts": [
@@ -90902,5 +90921,5 @@
       "failed_at": "2026-06-25T08:52:59Z"
     }
   ],
-  "last_updated": "2026-06-25T09:49:22Z"
+  "last_updated": "2026-06-25T09:53:47Z"
 }
