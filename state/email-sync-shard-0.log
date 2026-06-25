@@ -27400,3 +27400,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:37:47]   resolved in 1.1s → 720p (https://pf-storage2.premiumcdn.net/21585759/2gOfOXI3rSgoFKdILWirzIxYfNLtdRCxVu1J…)
 [07:38:31]   downloaded 996.8 MB in 42.6s (23.4 MB/s)
 [07:39:26]   upload done video_id=26584450 in 54.6s
+[07:39:28] film cr_film_id=13440 OK in 101.9s
+[07:39:28] iteration 2/20
+[07:39:28] film cr_film_id=13444 name='Zrada a chamtivost na Planetě opic (1980) CZ Dabing' candidates=1
+[07:39:28]   candidate upload_id=cfe555d9b943bb0f url=https://prehraj.to/zrada-a-chamtivost-na-planete-opic-1980-cz-dabing-hd-mp4/cfe555d9b943bb0f
+[07:39:28]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/zrada-a-chamtivost-na-planete-opic-1980-cz-dabing-hd-mp4/cfe555d9b943bb0f (permanent=True)
+[07:39:28] film cr_film_id=13444 all candidates exhausted
+[07:39:28] iteration 3/20
+[07:39:28] film cr_film_id=13446 name='Legenda o Lilith (2004) CZ Dabing' candidates=4
+[07:39:28]   candidate upload_id=58210c36916a7 url=https://prehraj.to/legenda-o-lilith-cz-dabing-2004/58210c36916a7
+[07:39:34]   resolved in 6.0s → 480p (https://pf-storage3.premiumcdn.net/812346/GmWsMWCKyixKhB3T5aI2jC9JtQ6FxPI6mFbriL…)
+[07:40:40]   downloaded 437.6 MB in 63.9s (6.8 MB/s)
+[07:41:08]   upload done video_id=26584659 in 27.8s
