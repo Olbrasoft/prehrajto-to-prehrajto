@@ -90298,6 +90298,25 @@
         "download_sec": 29.8,
         "upload_sec": 34.7
       }
+    },
+    {
+      "cr_film_id": 32683,
+      "cr_slug": "ruy-blas",
+      "title": "Ruy Blas",
+      "year": 1948,
+      "display_name": "Ruy Blas (1948)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "586968145040d",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26610729,
+      "size_bytes": 717919088,
+      "uploaded_at": "2026-06-25T12:50:24Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 36.2,
+        "upload_sec": 62.9
+      }
     }
   ],
   "failed_attempts": [
@@ -91791,5 +91810,5 @@
       "failed_at": "2026-06-25T06:51:07Z"
     }
   ],
-  "last_updated": "2026-06-25T12:48:39Z"
+  "last_updated": "2026-06-25T12:50:24Z"
 }
