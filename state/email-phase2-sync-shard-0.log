@@ -34257,3 +34257,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [15:29:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ziznive-mladi-1943-cz-cucina-rc-pres-multiload-cz/588ed52a7629f (permanent=True)
 [15:29:30] film cr_film_id=24390 all candidates exhausted
 [15:29:30] batch-end ok=19 failed=1 dur=2183.1s avg/film=114.9s remaining=5217 eta_hours=166.5
+
+===== run 2026-06-25T15:30:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28181401752) =====
+[15:30:10] batch-start shard=0/2 count=20 backlog=10210 uploads=4993 failed_attempts=217 description_overrides=0
+[15:30:10] login
+[15:30:11] login done
+[15:30:11] iteration 1/20
+[15:30:11] film cr_film_id=33782 name='Frankenstein Meets the Wolf Man (1943)' candidates=1
+[15:30:11]   candidate upload_id=60b67009dc19c url=https://prehraj.to/frankenstein-a-vlkodlak-fantasy-1943-dabing/60b67009dc19c
+[15:30:12]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/23721234/9ejFMriR8uoRCAYur3t1eiaquZouwKT3McWe…)
+[15:30:29]   downloaded 356.6 MB in 15.2s (23.5 MB/s)
+[15:30:48]   upload done video_id=26626715 in 18.8s
