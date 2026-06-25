@@ -78324,6 +78324,25 @@
         "download_sec": 86.1,
         "upload_sec": 30.1
       }
+    },
+    {
+      "cr_film_id": 14777,
+      "cr_slug": "ulovit-miliardare",
+      "title": "Ulovit miliardáře",
+      "year": 2009,
+      "display_name": "Ulovit miliardáře (2009) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "1be73bd378db4c9d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26660471,
+      "size_bytes": 1238143102,
+      "uploaded_at": "2026-06-25T21:06:57Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 52.0,
+        "upload_sec": 62.9
+      }
     }
   ],
   "failed_attempts": [
@@ -80691,7 +80710,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kdyby-radsi-horelo-2022-mp4/46f88eb1302c501b",
       "permanent": true,
       "failed_at": "2026-06-25T20:53:32Z"
+    },
+    {
+      "cr_film_id": 14777,
+      "upload_id": "deee37e20697c354",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/ulovit-miliardare-cely-film-hd-mp4/deee37e20697c354",
+      "permanent": true,
+      "failed_at": "2026-06-25T21:04:53Z"
     }
   ],
-  "last_updated": "2026-06-25T21:04:51Z"
+  "last_updated": "2026-06-25T21:06:57Z"
 }
