@@ -29804,3 +29804,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:12:14]   upload done video_id=26673104 in 118.3s
 [23:12:15] film cr_film_id=14939 OK in 232.4s
 [23:12:15] batch-end ok=19 failed=1 dur=2713.8s avg/film=142.8s remaining=13336 eta_hours=529.0
+
+===== run 2026-06-25T23:12:50Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28206357256) =====
+[23:12:51] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:12:51] batch-start shard=1/2 count=20 backlog=17650 uploads=4314 failed_attempts=330 description_overrides=17579
+[23:12:51] login
+[23:12:53] login done
+[23:12:53] iteration 1/20
+[23:12:53] film cr_film_id=14941 name='Doznání (2022) CZ Dabing' candidates=1
+[23:12:53]   candidate upload_id=648868735f014 url=https://prehraj.to/doznani-2022-cz-dabing-720p/648868735f014
+[23:12:54]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/41615422/azvSRli5YfeKTx5trksprizMHYah9jFmyH4y…)
+[23:13:29]   downloaded 917.2 MB in 33.6s (27.3 MB/s)
+[23:16:24]   upload done video_id=26673379 in 175.1s
