@@ -28474,3 +28474,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:30:00]   upload done video_id=26609291 in 94.5s
 [12:30:03] film cr_film_id=14301 OK in 161.4s
 [12:30:03] batch-end ok=20 failed=0 dur=3753.8s avg/film=187.7s remaining=13507 eta_hours=704.2
+
+===== run 2026-06-25T12:30:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28170195977) =====
+[12:30:45] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:30:45] batch-start shard=1/2 count=20 backlog=17650 uploads=4143 failed_attempts=309 description_overrides=17579
+[12:30:45] login
+[12:30:47] login done
+[12:30:47] iteration 1/20
+[12:30:47] film cr_film_id=14303 name='Kosmický hřích (2021) CZ Dabing' candidates=7
+[12:30:47]   candidate upload_id=fefaf43586934502 url=https://prehraj.to/kosmicky-hrich-2021-cz-dab-1080p-mkv/fefaf43586934502
+[12:30:48]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/155032710/12NT0quxJIoAFAlIv5h7KuygI9aTXBCk7UO…)
+[12:31:49]   downloaded 1,851.4 MB in 59.8s (31.0 MB/s)
+[12:33:45]   upload done video_id=26609519 in 115.4s
