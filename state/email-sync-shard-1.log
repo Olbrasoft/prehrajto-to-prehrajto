@@ -26533,3 +26533,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:42:16]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/10396523/apZI2Mf42FEDsLZuvkSMxfvwuZPC43Cxgsqz…)
 [02:42:39]   downloaded 532.3 MB in 21.0s (25.3 MB/s)
 [02:43:26]   upload done video_id=26558431 in 47.2s
+[02:43:27] film cr_film_id=13477 OK in 72.1s
+[02:43:27] iteration 17/20
+[02:43:27] film cr_film_id=13479 name='Skřítek (2005) CZ' candidates=1
+[02:43:27]   candidate upload_id=505d7dbd1cc98b29 url=https://prehraj.to/skritek-2005-cz-mp4/505d7dbd1cc98b29
+[02:43:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/skritek-2005-cz-mp4/505d7dbd1cc98b29 (permanent=True)
+[02:43:28] film cr_film_id=13479 all candidates exhausted
+[02:43:28] iteration 18/20
+[02:43:28] film cr_film_id=13483 name='Šílení (2005) CZ Dabing' candidates=5
+[02:43:28]   candidate upload_id=2851b62c6599ae94 url=https://prehraj.to/sileni-2005-cz-dabing-1080p-mkv/2851b62c6599ae94
+[02:43:34]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/164630111/rrAIxYTAgFRDUx7iPBTJwTaeCgef2LtDPIY…)
+[02:45:20]   downloaded 3,696.1 MB in 103.6s (35.7 MB/s)
+[02:48:17]   upload done video_id=26558622 in 177.1s

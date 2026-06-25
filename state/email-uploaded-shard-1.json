@@ -70857,6 +70857,25 @@
         "download_sec": 21.0,
         "upload_sec": 47.2
       }
+    },
+    {
+      "cr_film_id": 13483,
+      "cr_slug": "sileni",
+      "title": "Šílení",
+      "year": 2005,
+      "display_name": "Šílení (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "2851b62c6599ae94",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26558622,
+      "size_bytes": 3696108572,
+      "uploaded_at": "2026-06-25T02:48:17Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 103.6,
+        "upload_sec": 177.1
+      }
     }
   ],
   "failed_attempts": [
@@ -73066,7 +73085,14 @@
         "download_sec": 69.8,
         "upload_sec": 0.0
       }
+    },
+    {
+      "cr_film_id": 13479,
+      "upload_id": "505d7dbd1cc98b29",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/skritek-2005-cz-mp4/505d7dbd1cc98b29",
+      "permanent": true,
+      "failed_at": "2026-06-25T02:43:28Z"
     }
   ],
-  "last_updated": "2026-06-25T02:43:26Z"
+  "last_updated": "2026-06-25T02:48:17Z"
 }
