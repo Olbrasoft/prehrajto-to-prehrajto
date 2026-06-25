@@ -29790,3 +29790,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:04:20]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/34073452/kKNfMqIb8hjzFynUBQIzpIK3UBVsp3FXgigB…)
 [23:06:07]   downloaded 2,418.9 MB in 104.9s (23.1 MB/s)
 [23:08:20]   upload done video_id=26672727 in 133.4s
+[23:08:22] film cr_film_id=14923 OK in 243.1s
+[23:08:22] iteration 19/20
+[23:08:22] film cr_film_id=14931 name='Mimořádná událost (2022) CZ' candidates=1
+[23:08:22]   candidate upload_id=e31ed26de5258fd7 url=https://prehraj.to/mimoradna-udalost-mp4/e31ed26de5258fd7
+[23:08:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mimoradna-udalost-mp4/e31ed26de5258fd7 (permanent=True)
+[23:08:23] film cr_film_id=14931 all candidates exhausted
+[23:08:23] iteration 20/20
+[23:08:23] film cr_film_id=14939 name='Profil smrti (2021) CZ Dabing' candidates=1
+[23:08:23]   candidate upload_id=6518404ec96a1 url=https://prehraj.to/profil-smrti-2021-cz-dabing-hd-1080p/6518404ec96a1
+[23:08:29]   resolved in 6.1s → 1080p (https://pf-storage3.premiumcdn.net/46723637/OA1I13fmrSLZCZoi4ef2lf6etNltX6F0Jh61…)
+[23:10:16]   downloaded 2,317.5 MB in 104.4s (22.2 MB/s)
+[23:12:14]   upload done video_id=26673104 in 118.3s
