@@ -88379,6 +88379,25 @@
         "download_sec": 46.8,
         "upload_sec": 48.3
       }
+    },
+    {
+      "cr_film_id": 21785,
+      "cr_slug": "viva-maria",
+      "title": "Viva Maria!",
+      "year": 1965,
+      "display_name": "Viva Maria! (1965)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5bfd1f83acab0",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26589518,
+      "size_bytes": 1156842345,
+      "uploaded_at": "2026-06-25T08:33:24Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 63.9,
+        "upload_sec": 95.9
+      }
     }
   ],
   "failed_attempts": [
@@ -89872,5 +89891,5 @@
       "failed_at": "2026-06-25T06:51:07Z"
     }
   ],
-  "last_updated": "2026-06-25T08:30:38Z"
+  "last_updated": "2026-06-25T08:33:24Z"
 }
