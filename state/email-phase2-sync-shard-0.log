@@ -33092,3 +33092,14 @@ Initial state for filmy.prehrajto@email.cz: 417 preexisting uploads matched from
 [09:06:03]   upload done video_id=26592738 in 49.3s
 [09:06:05] film cr_film_id=12746 OK in 87.0s
 [09:06:05] batch-end ok=19 failed=1 dur=1858.2s avg/film=97.8s remaining=5374 eta_hours=146.0
+
+===== run 2026-06-25T09:10:40Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28159537420) =====
+[09:10:42] batch-start shard=0/2 count=20 backlog=10210 uploads=4836 failed_attempts=214 description_overrides=0
+[09:10:42] login
+[09:10:43] login done
+[09:10:43] iteration 1/20
+[09:10:43] film cr_film_id=10950 name='Zmluva s diablom (1967)' candidates=1
+[09:10:43]   candidate upload_id=58b4337310c01 url=https://prehraj.to/zmluva-s-diablom-1967-dvbrip-xvid-bbb7/58b4337310c01
+[09:10:45]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1761700/YZeIKyFEVSe7hdki0wurqFgWS0dSkduQlurqS…)
+[09:11:15]   downloaded 600.0 MB in 28.0s (21.4 MB/s)
+[09:11:57]   upload done video_id=26593214 in 42.3s
