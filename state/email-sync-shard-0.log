@@ -27533,3 +27533,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:10:04]   upload done video_id=26587445 in 52.8s
 [08:10:06] film cr_film_id=13490 OK in 87.1s
 [08:10:06] batch-end ok=19 failed=1 dur=1940.7s avg/film=102.1s remaining=13634 eta_hours=386.7
+
+===== run 2026-06-25T08:19:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28156724043) =====
+[08:19:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:19:43] batch-start shard=0/2 count=20 backlog=17650 uploads=4016 failed_attempts=366 description_overrides=17579
+[08:19:43] login
+[08:19:45] login done
+[08:19:45] iteration 1/20
+[08:19:45] film cr_film_id=13494 name='Povídka Malostranská (1981) CZ Dabing' candidates=1
+[08:19:45]   candidate upload_id=6178907d30e8d url=https://prehraj.to/povidka-malostranska-figurky-1981-czdab/6178907d30e8d
+[08:19:47]   resolved in 1.5s → 1080p (https://pf-storage4.premiumcdn.net/25896844/Mvph8jcLOhoyC2lIdoSy0cOwUjeSKXh1dsnx…)
+[08:21:38]   downloaded 2,059.3 MB in 109.0s (18.9 MB/s)
+[08:23:49]   upload done video_id=26588562 in 131.0s
