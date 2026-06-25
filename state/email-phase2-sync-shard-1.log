@@ -32770,3 +32770,14 @@ Initial state for filmy.prehrajto@email.cz: 406 preexisting uploads matched from
 [07:56:34]   upload done video_id=26586105 in 96.9s
 [07:56:36] film cr_film_id=10937 OK in 175.8s
 [07:56:36] batch-end ok=20 failed=0 dur=2318.4s avg/film=115.9s remaining=5427 eta_hours=174.7
+
+===== run 2026-06-25T07:57:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28155549318) =====
+[07:57:18] batch-start shard=1/2 count=20 backlog=10210 uploads=4783 failed_attempts=203 description_overrides=0
+[07:57:18] login
+[07:57:20] login done
+[07:57:20] iteration 1/20
+[07:57:20] film cr_film_id=10933 name='Hoří, má panenko (1967)' candidates=2
+[07:57:20]   candidate upload_id=63bb2fa6cb467 url=https://prehraj.to/hori-ma-panenko-1967-bdrip-1080p-avc-cz-flac1-0/63bb2fa6cb467
+[07:57:21]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/36097855/ALeF2JTXxIJmc2Jiyaf1kTg0uDvIx7Ub1cgY…)
+[07:59:00]   downloaded 2,207.3 MB in 96.3s (22.9 MB/s)
+[08:01:48]   upload done video_id=26586522 in 168.7s
