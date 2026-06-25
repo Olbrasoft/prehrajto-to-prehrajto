@@ -83572,6 +83572,25 @@
         "download_sec": 45.1,
         "upload_sec": 48.5
       }
+    },
+    {
+      "cr_film_id": 11453,
+      "cr_slug": "projekt-a",
+      "title": "Projekt A",
+      "year": 1983,
+      "display_name": "Projekt A (1983)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "5c397fbde3e30",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26543976,
+      "size_bytes": 984021450,
+      "uploaded_at": "2026-06-25T00:13:09Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 54.6,
+        "upload_sec": 65.1
+      }
     }
   ],
   "failed_attempts": [
@@ -85042,7 +85061,14 @@
       "reason": "oversize: 22539902149 B",
       "permanent": true,
       "failed_at": "2026-06-24T23:04:26Z"
+    },
+    {
+      "cr_film_id": 11453,
+      "upload_id": "64fac9f0f3894",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/projekt-a-1983/64fac9f0f3894",
+      "permanent": true,
+      "failed_at": "2026-06-25T00:11:01Z"
     }
   ],
-  "last_updated": "2026-06-25T00:10:58Z"
+  "last_updated": "2026-06-25T00:13:09Z"
 }
