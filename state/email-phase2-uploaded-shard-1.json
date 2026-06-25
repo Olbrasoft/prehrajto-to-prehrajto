@@ -89443,6 +89443,25 @@
         "download_sec": 55.8,
         "upload_sec": 91.6
       }
+    },
+    {
+      "cr_film_id": 32225,
+      "cr_slug": "revenge-of-the-dead",
+      "title": "Revenge of the Dead",
+      "year": 1959,
+      "display_name": "Revenge of the Dead (1959)",
+      "preferred_lang_class": "UNKNOWN",
+      "src_upload_id": "55ae770175f7a",
+      "src_lang_class": "UNKNOWN",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26600152,
+      "size_bytes": 201829128,
+      "uploaded_at": "2026-06-25T10:28:31Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.9,
+        "upload_sec": 31.7
+      }
     }
   ],
   "failed_attempts": [
@@ -90936,5 +90955,5 @@
       "failed_at": "2026-06-25T06:51:07Z"
     }
   ],
-  "last_updated": "2026-06-25T10:27:40Z"
+  "last_updated": "2026-06-25T10:28:31Z"
 }
