@@ -72786,6 +72786,25 @@
         "download_sec": 16.9,
         "upload_sec": 21.4
       }
+    },
+    {
+      "cr_film_id": 13424,
+      "cr_slug": "kruta-hra",
+      "title": "Krutá hra",
+      "year": 2005,
+      "display_name": "Krutá hra (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b88473058ffc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26581795,
+      "size_bytes": 349327891,
+      "uploaded_at": "2026-06-25T07:12:06Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.1,
+        "upload_sec": 21.8
+      }
     }
   ],
   "failed_attempts": [
@@ -75383,5 +75402,5 @@
       "failed_at": "2026-06-25T02:47:20Z"
     }
   ],
-  "last_updated": "2026-06-25T07:11:18Z"
+  "last_updated": "2026-06-25T07:12:06Z"
 }
