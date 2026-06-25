@@ -75645,6 +75645,25 @@
         "download_sec": 127.1,
         "upload_sec": 22.8
       }
+    },
+    {
+      "cr_film_id": 14265,
+      "cr_slug": "daria",
+      "title": "Daria",
+      "year": 2020,
+      "display_name": "Daria (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60f4377ddc542",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26606528,
+      "size_bytes": 1349356407,
+      "uploaded_at": "2026-06-25T11:56:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 59.3,
+        "upload_sec": 121.9
+      }
     }
   ],
   "failed_attempts": [
@@ -77884,5 +77903,5 @@
       "failed_at": "2026-06-25T10:44:30Z"
     }
   ],
-  "last_updated": "2026-06-25T11:53:41Z"
+  "last_updated": "2026-06-25T11:56:48Z"
 }
