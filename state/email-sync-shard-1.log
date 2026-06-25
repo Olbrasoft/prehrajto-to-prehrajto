@@ -28633,3 +28633,16 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:12:18]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/32922508/eOkcGZhNKh8bU7qTmOs4ahY5ILVCE3HleuRm…)
 [13:13:29]   downloaded 2,102.6 MB in 68.9s (30.5 MB/s)
 [13:15:16]   upload done video_id=26613113 in 107.5s
+[13:15:19] film cr_film_id=14379 OK in 182.4s
+[13:15:19] iteration 2/20
+[13:15:19] film cr_film_id=14381 name='Kancl doma (2022) CZ Dabing' candidates=7
+[13:15:19]   candidate upload_id=65633779334cf url=https://prehraj.to/kancl-doma-out-of-office-2022-1080p-webrip-cz-dabing-mp4/65633779334cf
+[13:15:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kancl-doma-out-of-office-2022-1080p-webrip-cz-dabing-mp4/65633779334cf (permanent=True)
+[13:15:20]   candidate upload_id=6449f6b8d86b0 url=https://prehraj.to/2022-kancl-doma-out-of-office-2022-1080p-webrip-cz-dabing-miki-mp4/6449f6b8d86b0
+[13:15:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/2022-kancl-doma-out-of-office-2022-1080p-webrip-cz-dabing-miki-mp4/6449f6b8d86b0 (permanent=True)
+[13:15:25]   candidate upload_id=6566a58ebc8da url=https://prehraj.to/kancl-doma-out-of-office-2022-1080p-webrip-cz-dabing-mp4/6566a58ebc8da
+[13:15:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kancl-doma-out-of-office-2022-1080p-webrip-cz-dabing-mp4/6566a58ebc8da (permanent=True)
+[13:15:31]   candidate upload_id=63d44d2f03ce0 url=https://prehraj.to/kancl-doma-2022-czdab/63d44d2f03ce0
+[13:15:37]   resolved in 6.1s → 1080p (https://pf-storage4.premiumcdn.net/36799375/VaecyoIRNiz7H5GSKmC2WIK4f5gCorfRZfx4…)
+[13:16:53]   downloaded 1,794.1 MB in 74.2s (24.2 MB/s)
+[13:19:33]   upload done video_id=26613415 in 159.7s
