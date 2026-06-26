@@ -89791,7 +89791,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/on-the-job-2013-cz-dabing/56b660306d8ddd4f",
       "permanent": true,
       "failed_at": "2026-06-26T22:48:31Z"
+    },
+    {
+      "cr_film_id": 15928,
+      "upload_id": "f4077d46bda2132b",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/vypecene-zlociny-osudovy-slib-2023-cz-dabing-hd-mp4/f4077d46bda2132b",
+      "permanent": true,
+      "failed_at": "2026-06-26T22:58:45Z"
+    },
+    {
+      "cr_film_id": 15930,
+      "upload_id": "bcdba912f60f894c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/o-malych-vecech-2023-cz-mp4/bcdba912f60f894c",
+      "permanent": true,
+      "failed_at": "2026-06-26T22:58:52Z"
     }
   ],
-  "last_updated": "2026-06-26T22:58:42Z"
+  "last_updated": "2026-06-26T22:58:52Z"
 }
