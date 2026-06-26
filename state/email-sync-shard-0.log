@@ -30169,3 +30169,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:49:24]   upload done video_id=26696080 in 67.8s
 [02:49:26] film cr_film_id=14668 OK in 124.1s
 [02:49:26] batch-end ok=20 failed=0 dur=3312.4s avg/film=165.6s remaining=13282 eta_hours=611.0
+
+===== run 2026-06-26T02:50:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28213974717) =====
+[02:50:05] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:50:05] batch-start shard=0/2 count=20 backlog=17650 uploads=4368 failed_attempts=376 description_overrides=17579
+[02:50:05] login
+[02:50:06] login done
+[02:50:06] iteration 1/20
+[02:50:06] film cr_film_id=14672 name='Tři životy (2007) CZ Dabing' candidates=4
+[02:50:06]   candidate upload_id=60a9a9864e789 url=https://prehraj.to/tri-zivoty-cz-dabing-2007/60a9a9864e789
+[02:50:08]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/23622027/mXwTmJCKGs96H1ESXehErClJU31SrKIL6u9Z…)
+[02:50:52]   downloaded 718.6 MB in 41.4s (17.4 MB/s)
+[02:51:35]   upload done video_id=26696383 in 42.9s
