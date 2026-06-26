@@ -32444,3 +32444,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:44:19]   upload done video_id=26766524 in 68.3s
 [15:44:21] film cr_film_id=16149 OK in 135.5s
 [15:44:21] batch-end ok=18 failed=2 dur=2178.0s avg/film=121.0s remaining=12991 eta_hours=436.6
+
+===== run 2026-06-26T15:45:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28248833905) =====
+[15:45:01] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:45:01] batch-start shard=1/2 count=20 backlog=17650 uploads=4659 failed_attempts=357 description_overrides=17579
+[15:45:01] login
+[15:45:03] login done
+[15:45:03] iteration 1/20
+[15:45:03] film cr_film_id=16151 name='Takoví normální vozíčkáři (2016) CZ Dabing' candidates=2
+[15:45:03]   candidate upload_id=595be157c8fc1 url=https://prehraj.to/takovi-normalni-vozickari-2016-cz-dabing/595be157c8fc1
+[15:45:05]   resolved in 2.8s → 480p (https://pf-storage1.premiumcdn.net/2393474/Z2QuoNfX6h97HN9I0Qho1fpnTnZi78i07u68C…)
+[15:45:30]   downloaded 536.8 MB in 23.2s (23.1 MB/s)
+[15:45:55]   upload done video_id=26766649 in 24.2s
