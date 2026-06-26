@@ -32172,3 +32172,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:06:37]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/164481446/aAEInBUMDflkHpotjRfe1Uoac3OcwmC51ca…)
 [14:07:32]   downloaded 1,915.5 MB in 53.3s (35.9 MB/s)
 [14:08:45]   upload done video_id=26758526 in 72.6s
+[14:08:46] film cr_film_id=16031 OK in 130.0s
+[14:08:46] iteration 4/20
+[14:08:46] film cr_film_id=16033 name='Scooby-Doo! and Krypto, Too! (2023) CZ Dabing' candidates=3
+[14:08:46]   candidate upload_id=652b06083c063 url=https://prehraj.to/scooby-doo-a-krypto-2023-cz-dabing/652b06083c063
+[14:08:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scooby-doo-a-krypto-2023-cz-dabing/652b06083c063 (permanent=True)
+[14:08:47]   candidate upload_id=652bdc5f5315e url=https://prehraj.to/scooby-doo-a-krypto-2023-cz-dabing/652bdc5f5315e
+[14:08:53]   resolved in 5.8s → 1080p (https://pf-storage3.premiumcdn.net/48411596/XG0sVwF5pTrmUxjh6gUYoF8gI5Qfl6h3bcYm…)
+[14:09:53]   downloaded 2,082.6 MB in 58.0s (35.9 MB/s)
+[14:11:22]   upload done video_id=26758808 in 89.1s

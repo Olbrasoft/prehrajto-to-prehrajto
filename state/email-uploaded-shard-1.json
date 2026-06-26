@@ -84993,6 +84993,25 @@
         "download_sec": 53.3,
         "upload_sec": 72.6
       }
+    },
+    {
+      "cr_film_id": 16033,
+      "cr_slug": "scooby-doo-and-krypto-too",
+      "title": "Scooby-Doo! and Krypto, Too!",
+      "year": 2023,
+      "display_name": "Scooby-Doo! and Krypto, Too! (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "652bdc5f5315e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26758808,
+      "size_bytes": 2082575347,
+      "uploaded_at": "2026-06-26T14:11:22Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 58.0,
+        "upload_sec": 89.1
+      }
     }
   ],
   "failed_attempts": [
@@ -87514,7 +87533,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dej-si-pohov-mladej-2-2024-cz-dabing/4a77ae604f92ab29",
       "permanent": true,
       "failed_at": "2026-06-26T13:32:38Z"
+    },
+    {
+      "cr_film_id": 16033,
+      "upload_id": "652b06083c063",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scooby-doo-a-krypto-2023-cz-dabing/652b06083c063",
+      "permanent": true,
+      "failed_at": "2026-06-26T14:08:47Z"
     }
   ],
-  "last_updated": "2026-06-26T14:08:45Z"
+  "last_updated": "2026-06-26T14:11:22Z"
 }
