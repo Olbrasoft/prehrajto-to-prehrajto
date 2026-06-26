@@ -33036,3 +33036,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:58:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/day-of-reckoning-2025-cz-dabing-mp4/f0ea47c1098f1419 (permanent=True)
 [21:58:25] film cr_film_id=16437 all candidates exhausted
 [21:58:25] batch-end ok=17 failed=3 dur=2508.1s avg/film=147.5s remaining=12919 eta_hours=529.3
+
+===== run 2026-06-26T22:20:02Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28268475799) =====
+[22:20:03] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:20:03] batch-start shard=1/2 count=20 backlog=17650 uploads=4731 failed_attempts=374 description_overrides=17579
+[22:20:03] login
+[22:20:05] login done
+[22:20:05] iteration 1/20
+[22:20:05] film cr_film_id=16439 name='Povodeň (2005) CZ' candidates=1
+[22:20:05]   candidate upload_id=5c29725f2cf0b url=https://prehraj.to/povoden-2005-cesky-film/5c29725f2cf0b
+[22:20:06]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/10254479/Q67c57sGbhQpIo2Fe8Ujbs7AhBXhjdHxkC3p…)
+[22:20:35]   downloaded 448.8 MB in 26.2s (17.1 MB/s)
+[22:21:02]   upload done video_id=26798611 in 27.7s
