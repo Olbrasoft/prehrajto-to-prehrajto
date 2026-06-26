@@ -30951,3 +30951,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:07:04]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/322715/8peIOpfLNIwkUgvfoQC1nfx9HMOS4vspkULgFm…)
 [06:07:40]   downloaded 699.7 MB in 33.1s (21.1 MB/s)
 [06:08:23]   upload done video_id=26717203 in 43.7s
+[06:08:25] film cr_film_id=15465 OK in 82.0s
+[06:08:25] iteration 18/20
+[06:08:25] film cr_film_id=15469 name='Stíny nevlastní krve (2023) CZ Dabing' candidates=1
+[06:08:25]   candidate upload_id=84014e25a939371d url=https://prehraj.to/stiny-nevlastni-krve-2023-cz-dabing-hd-mp4/84014e25a939371d
+[06:08:26]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/stiny-nevlastni-krve-2023-cz-dabing-hd-mp4/84014e25a939371d (permanent=True)
+[06:08:26] film cr_film_id=15469 all candidates exhausted
+[06:08:26] iteration 19/20
+[06:08:26] film cr_film_id=15473 name='Co to s tebou je?! (2023) CZ Dabing' candidates=5
+[06:08:26]   candidate upload_id=d3c109592a2b7f64 url=https://prehraj.to/co-to-s-tebou-je-2023-cz-dab-720p/d3c109592a2b7f64
+[06:08:32]   resolved in 6.2s → 720p (https://pf-storage5.premiumcdn.net/168207553/ng4SzNH0pSDnuKBHOyUxyHVKU81HXrCgLuE…)
+[06:09:35]   downloaded 1,096.0 MB in 61.0s (18.0 MB/s)
+[06:11:02]   upload done video_id=26717422 in 86.7s
