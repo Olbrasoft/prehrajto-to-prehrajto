@@ -30759,3 +30759,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:05:16]   upload done video_id=26716781 in 121.0s
 [06:05:18] film cr_film_id=14918 OK in 226.5s
 [06:05:18] batch-end ok=19 failed=1 dur=2609.4s avg/film=137.3s remaining=13206 eta_hours=503.7
+
+===== run 2026-06-26T06:16:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28220874491) =====
+[06:16:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:16:27] batch-start shard=0/2 count=20 backlog=17650 uploads=4444 failed_attempts=385 description_overrides=17579
+[06:16:27] login
+[06:16:29] login done
+[06:16:29] iteration 1/20
+[06:16:29] film cr_film_id=14920 name='Barbie a tři mušketýři (2009) CZ' candidates=1
+[06:16:29]   candidate upload_id=84bd5d22898889ab url=https://prehraj.to/barbie-a-tri-musketyri-barbie-and-the-three-musketeers-2009-cz/84bd5d22898889ab
+[06:16:31]   resolved in 2.1s → 480p (https://pf-storage1.premiumcdn.net/168829348/JaDiJ4SQvuentLMU4xSgqSneflDs3pI7Oip…)
+[06:16:57]   downloaded 726.2 MB in 24.4s (29.8 MB/s)
+[06:17:28]   upload done video_id=26718075 in 30.9s
