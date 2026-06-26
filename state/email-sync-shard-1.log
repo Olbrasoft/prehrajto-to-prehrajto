@@ -30392,3 +30392,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:39:12]   upload done video_id=26695111 in 67.9s
 [02:39:13] film cr_film_id=15199 OK in 112.9s
 [02:39:13] batch-end ok=20 failed=0 dur=2705.3s avg/film=135.3s remaining=13257 eta_hours=498.2
+
+===== run 2026-06-26T02:50:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28213974717) =====
+[02:50:05] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:50:05] batch-start shard=1/2 count=20 backlog=17650 uploads=4393 failed_attempts=332 description_overrides=17579
+[02:50:05] login
+[02:50:07] login done
+[02:50:07] iteration 1/20
+[02:50:07] film cr_film_id=15205 name='Kde je Albert? (2012) CZ Dabing' candidates=3
+[02:50:07]   candidate upload_id=182268ce0f723799 url=https://prehraj.to/kde-je-albert-2012-cz-dab-360p-avi/182268ce0f723799
+[02:50:08]   resolved in 1.4s → 480p (https://pf-storage3.premiumcdn.net/155032122/Y4QhgYS24S4oH54CXOfwzSq3IZ3fQKF5Qfp…)
+[02:50:43]   downloaded 548.2 MB in 32.1s (17.1 MB/s)
+[02:51:30]   upload done video_id=26696357 in 47.5s
