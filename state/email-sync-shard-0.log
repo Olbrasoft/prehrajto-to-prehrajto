@@ -31764,3 +31764,14 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:28:07]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/3827768/NpVtkPfLWtoJTErckjC2rf8mtP8tvXI6eCV8i…)
 [12:28:56]   downloaded 1,014.7 MB in 47.6s (21.3 MB/s)
 [12:29:55]   upload done video_id=26750309 in 58.8s
+[12:29:56] film cr_film_id=15394 OK in 110.8s
+[12:29:56] iteration 17/20
+[12:29:56] film cr_film_id=15396 name='Borgo: Za zdmi vězení (2023) CZ Dabing' candidates=6
+[12:29:56]   candidate upload_id=68ef6c6e87418 url=https://prehraj.to/borgo-za-zdmi-vezeni-2023-krimi-drama-francie-czdab-1080p-pvio/68ef6c6e87418
+[12:29:58]   resolved in 1.3s → 720p (https://pf-storage6.premiumcdn.net/151668696/kqWHrzUgBup5FknuWKcNGUORS2ZcxOFbXfy…)
+[12:30:58]   downloaded 1,247.0 MB in 58.6s (21.3 MB/s)
+[12:32:14]   upload FAILED after 75.5s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[12:32:14]   candidate upload_id=68ed355d8cbca url=https://prehraj.to/borgo-za-zdmi-vezeni-2023-krimi-drama-francie-czdab-1080p-mp4/68ed355d8cbca
+[12:32:15]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/151321059/n25SXkUlwFy1IDWcGvho5Ul0H6DT73FXGH1…)
+[12:34:35]   downloaded 3,040.6 MB in 137.7s (22.1 MB/s)
+[12:38:53]   upload done video_id=26750815 in 257.9s
