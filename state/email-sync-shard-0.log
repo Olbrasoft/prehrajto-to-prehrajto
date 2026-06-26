@@ -30571,3 +30571,16 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:09:43]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/31196426/wajtkLIgRsZOfq8CW3uK1IPjhjetZdSXnuWA…)
 [05:10:18]   downloaded 1,002.9 MB in 34.1s (29.4 MB/s)
 [05:11:16]   upload done video_id=26711600 in 57.7s
+[05:11:17] film cr_film_id=14828 OK in 95.9s
+[05:11:17] iteration 16/20
+[05:11:17] film cr_film_id=14832 name='Láska hory přenáší (2022) CZ' candidates=4
+[05:11:17]   candidate upload_id=955588773a7b99a0 url=https://prehraj.to/laska-hory-prenasi-cz-2022-mkv-mp4/955588773a7b99a0
+[05:11:18]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-hory-prenasi-cz-2022-mkv-mp4/955588773a7b99a0 (permanent=True)
+[05:11:18]   candidate upload_id=60f59a819167d553 url=https://prehraj.to/laska-hory-prenasi-sk-cr-2022-mkv-mp4/60f59a819167d553
+[05:11:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-hory-prenasi-sk-cr-2022-mkv-mp4/60f59a819167d553 (permanent=True)
+[05:11:24]   candidate upload_id=7276e5f9b1fddde5 url=https://prehraj.to/laska-hory-prenasi-cz-2022-mp4/7276e5f9b1fddde5
+[05:11:30]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-hory-prenasi-cz-2022-mp4/7276e5f9b1fddde5 (permanent=True)
+[05:11:30]   candidate upload_id=309c49d70e835458 url=https://prehraj.to/laska-hory-prenasi-cz-2022-mkv-mp4/309c49d70e835458
+[05:11:36]   resolved in 5.9s → 1080p (https://pf-storage1.premiumcdn.net/160494647/7gzHGNI6lTqDtP5skxSyLIEvSoGtPdCRMfv…)
+[05:12:24]   downloaded 1,452.1 MB in 46.8s (31.0 MB/s)
+[05:13:36]   upload done video_id=26711870 in 71.9s
