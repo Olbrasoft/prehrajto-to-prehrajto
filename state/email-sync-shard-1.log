@@ -30827,3 +30827,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:14:05]   upload done video_id=26711991 in 21.3s
 [05:14:07] film cr_film_id=15403 OK in 42.5s
 [05:14:07] batch-end ok=19 failed=1 dur=2060.5s avg/film=108.4s remaining=13201 eta_hours=397.5
+
+===== run 2026-06-26T05:21:45Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28218916851) =====
+[05:21:47] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:21:47] batch-start shard=1/2 count=20 backlog=17650 uploads=4449 failed_attempts=337 description_overrides=17579
+[05:21:47] login
+[05:21:49] login done
+[05:21:49] iteration 1/20
+[05:21:49] film cr_film_id=15407 name='Černý plamen (1931) CZ' candidates=1
+[05:21:49]   candidate upload_id=68bcf129a6c3b url=https://prehraj.to/1930-cerny-plamen-mp4/68bcf129a6c3b
+[05:21:50]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/145650738/lMxTE5SX2i0ohK6SgbUKpSQptaDtmBc1vId…)
+[05:22:11]   downloaded 276.4 MB in 18.3s (15.1 MB/s)
+[05:22:30]   upload done video_id=26712852 in 19.3s
