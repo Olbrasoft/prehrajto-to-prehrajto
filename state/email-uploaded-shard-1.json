@@ -82200,6 +82200,25 @@
         "download_sec": 60.3,
         "upload_sec": 116.2
       }
+    },
+    {
+      "cr_film_id": 15515,
+      "cr_slug": "nino",
+      "title": "Niño",
+      "year": 2014,
+      "display_name": "Niño (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68ec566535d63",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26720188,
+      "size_bytes": 3064415757,
+      "uploaded_at": "2026-06-26T06:45:28Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 107.7,
+        "upload_sec": 121.4
+      }
     }
   ],
   "failed_attempts": [
@@ -84653,5 +84672,5 @@
       "failed_at": "2026-06-26T06:38:31Z"
     }
   ],
-  "last_updated": "2026-06-26T06:41:35Z"
+  "last_updated": "2026-06-26T06:45:28Z"
 }
