@@ -30479,3 +30479,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:13:49]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/900675/0ykhqZiaPHPJFBWHpyf1PinyIqlFGOIMEsLYC1…)
 [03:14:15]   downloaded 465.9 MB in 23.4s (19.9 MB/s)
 [03:14:48]   upload done video_id=26698806 in 33.7s
+[03:14:50] film cr_film_id=15235 OK in 62.3s
+[03:14:50] iteration 13/20
+[03:14:50] film cr_film_id=15241 name='On sourit pour la photo (2022) CZ Dabing' candidates=1
+[03:14:50]   candidate upload_id=69fcad19066bae08 url=https://prehraj.to/on-sourit-pour-la-photo-2022-cz-dabing/69fcad19066bae08
+[03:14:51]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/on-sourit-pour-la-photo-2022-cz-dabing/69fcad19066bae08 (permanent=True)
+[03:14:51] film cr_film_id=15241 all candidates exhausted
+[03:14:51] iteration 14/20
+[03:14:51] film cr_film_id=15243 name='Čertova nevěsta (2011) CZ Dabing' candidates=4
+[03:14:51]   candidate upload_id=6724e2c637ce0 url=https://prehraj.to/certova-nevesta-2011-cz-dabing-fullhd/6724e2c637ce0
+[03:14:57]   resolved in 6.2s → 720p (https://pf-storage1.premiumcdn.net/105167387/Xybir5S5xHgaIL0FXDU51SDRuarCV1f0que…)
+[03:16:05]   downloaded 1,445.0 MB in 65.8s (22.0 MB/s)
+[03:17:29]   upload done video_id=26699011 in 84.6s
