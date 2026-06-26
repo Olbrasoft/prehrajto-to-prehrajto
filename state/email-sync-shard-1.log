@@ -30554,3 +30554,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:56:21]   resolved in 0.8s → 480p (https://pf-storage1.premiumcdn.net/4737783/9p0tbJHD2sGgcd2I7BU1AHZxCBeiJQiJzUmxf…)
 [03:56:42]   downloaded 504.7 MB in 19.7s (25.6 MB/s)
 [03:57:08]   upload done video_id=26703473 in 25.9s
+[03:57:10] film cr_film_id=15271 OK in 49.3s
+[03:57:10] iteration 3/20
+[03:57:10] film cr_film_id=15275 name='Cesta za legendou (2024) CZ Dabing' candidates=1
+[03:57:10]   candidate upload_id=c2aab80f1a5cf9b0 url=https://prehraj.to/cesta-za-legendou-2024-cz-dab-1080p/c2aab80f1a5cf9b0
+[03:57:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-za-legendou-2024-cz-dab-1080p/c2aab80f1a5cf9b0 (permanent=True)
+[03:57:11] film cr_film_id=15275 all candidates exhausted
+[03:57:11] iteration 4/20
+[03:57:11] film cr_film_id=15281 name='Pan pravý (2022) CZ Dabing' candidates=3
+[03:57:11]   candidate upload_id=64f8569e76466 url=https://prehraj.to/pan-pravy-2022-cz-dabing-hd-1080p/64f8569e76466
+[03:57:17]   resolved in 6.0s → 1080p (https://pf-storage3.premiumcdn.net/44041265/DEXSbaCyet5bIgvC5yi1ZCYBfBece0TejfWd…)
+[03:58:56]   downloaded 2,766.1 MB in 97.3s (28.4 MB/s)
+[04:00:52]   upload done video_id=26703774 in 115.7s
