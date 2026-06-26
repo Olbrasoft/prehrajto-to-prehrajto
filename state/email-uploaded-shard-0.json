@@ -84395,6 +84395,25 @@
         "download_sec": 107.8,
         "upload_sec": 94.1
       }
+    },
+    {
+      "cr_film_id": 15474,
+      "cr_slug": "internat",
+      "title": "Internát",
+      "year": 2023,
+      "display_name": "Internát (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "680bae1a23df1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26758938,
+      "size_bytes": 2193686555,
+      "uploaded_at": "2026-06-26T14:13:58Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 114.7,
+        "upload_sec": 147.0
+      }
     }
   ],
   "failed_attempts": [
@@ -87226,5 +87245,5 @@
       "failed_at": "2026-06-26T13:18:02Z"
     }
   ],
-  "last_updated": "2026-06-26T14:09:30Z"
+  "last_updated": "2026-06-26T14:13:58Z"
 }
