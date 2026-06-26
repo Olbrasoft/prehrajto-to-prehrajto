@@ -32346,3 +32346,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:15:37]   resolved in 1.0s → 1080p (https://pf-storage2.premiumcdn.net/34018210/qgDsGVTo8tARTG5f6rFAqTl1iAQfAbuOgc6X…)
 [15:18:12]   downloaded 4,478.6 MB in 153.2s (29.2 MB/s)
 [15:20:51]   upload done video_id=26764435 in 158.9s
+[15:20:53] film cr_film_id=16087 OK in 317.2s
+[15:20:53] iteration 7/20
+[15:20:53] film cr_film_id=16093 name='Kdy jindy než o Vánocích (2023) CZ Dabing' candidates=1
+[15:20:53]   candidate upload_id=da92322881638b91 url=https://prehraj.to/kdy-jindy-nez-o-vanocich-2023-cz-dabing-mp4/da92322881638b91
+[15:20:54]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/kdy-jindy-nez-o-vanocich-2023-cz-dabing-mp4/da92322881638b91 (permanent=True)
+[15:20:54] film cr_film_id=16093 all candidates exhausted
+[15:20:54] iteration 8/20
+[15:20:54] film cr_film_id=16095 name='Pan herec - Louis de Funes (2013) CZ' candidates=2
+[15:20:54]   candidate upload_id=b4cac1d1fc7b073d url=https://prehraj.to/pan-herec-louis-de-funes-monsieur-de-funes-francie-2013-82-min-televizni-verze-52-min-sktonline-mp4/b4cac1d1fc7b073d
+[15:21:00]   resolved in 6.0s → 480p (https://pf-storage5.premiumcdn.net/159848378/bVkIrXUawugoh9GFMwTALUWlSWOiz8C7btr…)
+[15:21:10]   downloaded 202.1 MB in 8.4s (24.1 MB/s)
+[15:21:20]   upload done video_id=26764633 in 10.2s
