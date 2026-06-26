@@ -31409,3 +31409,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:09:50]   upload done video_id=26733032 in 124.1s
 [09:09:51] film cr_film_id=15685 OK in 244.2s
 [09:09:51] batch-end ok=19 failed=1 dur=3919.5s avg/film=206.3s remaining=13124 eta_hours=752.1
+
+===== run 2026-06-26T09:10:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28228631044) =====
+[09:10:32] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:10:32] batch-start shard=1/2 count=20 backlog=17650 uploads=4526 failed_attempts=340 description_overrides=17579
+[09:10:32] login
+[09:10:34] login done
+[09:10:34] iteration 1/20
+[09:10:34] film cr_film_id=15691 name='Užitečný duch (2025) CZ Dabing' candidates=4
+[09:10:34]   candidate upload_id=6cad9415ea3006ca url=https://prehraj.to/uzitecny-duch-2025-cz-dab-1080p-mp4/6cad9415ea3006ca
+[09:10:36]   resolved in 1.7s → 1080p (https://pf-storage4.premiumcdn.net/167595761/qomFBbfobTwJsQeCBwfQEfJ5C17IZMIv2T1…)
+[09:12:38]   downloaded 2,339.1 MB in 119.5s (19.6 MB/s)
+[09:15:00]   upload done video_id=26733451 in 142.4s
