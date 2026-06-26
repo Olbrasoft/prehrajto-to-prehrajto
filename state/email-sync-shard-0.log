@@ -30960,3 +30960,21 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:20:00]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/168326449/jjGI9mcxzToaHmaUbZTyJcz9CBeiJGh18sE…)
 [07:22:00]   downloaded 2,208.3 MB in 118.0s (18.7 MB/s)
 [07:24:09]   upload done video_id=26723283 in 128.7s
+[07:24:11] film cr_film_id=15008 OK in 252.2s
+[07:24:11] iteration 8/20
+[07:24:11] film cr_film_id=15024 name='Buko (2022) CZ' candidates=4
+[07:24:11]   candidate upload_id=bc509fd322887d49 url=https://prehraj.to/buko-komedie-cesko-2022-avi-mp4/bc509fd322887d49
+[07:24:13]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/buko-komedie-cesko-2022-avi-mp4/bc509fd322887d49 (permanent=True)
+[07:24:13]   candidate upload_id=fd5d68f30621b74c url=https://prehraj.to/buko-komedie-cesko-2022-avi-mp4/fd5d68f30621b74c
+[07:24:19]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/buko-komedie-cesko-2022-avi-mp4/fd5d68f30621b74c (permanent=True)
+[07:24:19]   candidate upload_id=09399a02a4a6d176 url=https://prehraj.to/buko-komedie-cesko-2022-avi-mp4/09399a02a4a6d176
+[07:24:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/buko-komedie-cesko-2022-avi-mp4/09399a02a4a6d176 (permanent=True)
+[07:24:25]   candidate upload_id=c3521c17b6723490 url=https://prehraj.to/buko-komedie-cesko-2022-avi-mp4/c3521c17b6723490
+[07:24:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/buko-komedie-cesko-2022-avi-mp4/c3521c17b6723490 (permanent=True)
+[07:24:31] film cr_film_id=15024 all candidates exhausted
+[07:24:31] iteration 9/20
+[07:24:31] film cr_film_id=15026 name='AO: Poslední neandrtálec (2010) CZ Dabing' candidates=5
+[07:24:31]   candidate upload_id=5a66ad019f0c6 url=https://prehraj.to/ao-posledni-neandrtalec-cz-dabing-2010/5a66ad019f0c6
+[07:24:37]   resolved in 6.2s → 480p (https://pf-storage5.premiumcdn.net/3319762/BazizKuBnhGZSMNhrvfNQunwf6Mc7Jf8qcVaT…)
+[07:25:30]   downloaded 898.6 MB in 50.6s (17.8 MB/s)
+[07:26:32]   upload done video_id=26723633 in 62.6s
