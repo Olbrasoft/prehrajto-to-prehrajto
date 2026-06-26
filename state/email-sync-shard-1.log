@@ -29951,3 +29951,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:51:02]   upload done video_id=26677571 in 62.0s
 [23:51:04] film cr_film_id=14993 OK in 116.9s
 [23:51:04] batch-end ok=19 failed=1 dur=2291.3s avg/film=120.6s remaining=13317 eta_hours=446.1
+
+===== run 2026-06-26T00:00:18Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28208166685) =====
+[00:00:19] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:00:19] batch-start shard=1/2 count=20 backlog=17650 uploads=4333 failed_attempts=332 description_overrides=17579
+[00:00:19] login
+[00:00:21] login done
+[00:00:21] iteration 1/20
+[00:00:21] film cr_film_id=14999 name='Kuchyň lásky (2011) CZ Dabing' candidates=2
+[00:00:21]   candidate upload_id=2e920c4c97c099f4 url=https://prehraj.to/kuchyn-lasky-loves-kitchen-2011-1080p-webrip-cz-dabing-miki-mp4/2e920c4c97c099f4
+[00:00:22]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/162754874/aJYsyRflDIJluB5SRKt0PfrGCpDCxAC6BCB…)
+[00:01:54]   downloaded 1,629.4 MB in 90.0s (18.1 MB/s)
+[00:03:28]   upload done video_id=26678909 in 93.8s
