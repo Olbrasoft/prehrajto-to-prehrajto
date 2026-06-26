@@ -31999,3 +31999,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:49:46]   upload done video_id=26751855 in 243.5s
 [12:49:47] film cr_film_id=15957 OK in 340.8s
 [12:49:47] batch-end ok=20 failed=0 dur=3548.6s avg/film=177.4s remaining=13045 eta_hours=642.8
+
+===== run 2026-06-26T12:50:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28239100207) =====
+[12:50:26] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:50:26] batch-start shard=1/2 count=20 backlog=17650 uploads=4605 failed_attempts=343 description_overrides=17579
+[12:50:26] login
+[12:50:28] login done
+[12:50:28] iteration 1/20
+[12:50:28] film cr_film_id=15959 name='Olivia a neviditelné zemětřesení (2025) CZ Dabing' candidates=6
+[12:50:28]   candidate upload_id=5792445697ba0475 url=https://prehraj.to/olivia-a-neviditelne-zemetreseni-2025-cz-dabing-1080p/5792445697ba0475
+[12:50:29]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/167095730/wQat18f7gT2XH8xU5MFD4fvdFWdIvDsRotO…)
+[12:51:25]   downloaded 1,022.4 MB in 53.8s (19.0 MB/s)
+[12:53:19]   upload done video_id=26752334 in 114.0s
