@@ -31813,3 +31813,19 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:37:09]   resolved in 2.7s → 1080p (https://pf-storage3.premiumcdn.net/165821429/2ovHkoc92hLKtqmulKS3zcWrHXQirviQdsy…)
 [11:38:16]   downloaded 1,845.1 MB in 65.1s (28.3 MB/s)
 [11:39:28]   upload done video_id=26746054 in 72.6s
+[11:39:30] film cr_film_id=15865 OK in 144.0s
+[11:39:30] iteration 16/20
+[11:39:30] film cr_film_id=15869 name='Dospělost (2025) CZ Dabing' candidates=3
+[11:39:30]   candidate upload_id=5727247ad44b8773 url=https://prehraj.to/dospelost-2025-cz-dab-1080p/5727247ad44b8773
+[11:39:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dospelost-2025-cz-dab-1080p/5727247ad44b8773 (permanent=True)
+[11:39:31]   candidate upload_id=453f4ebb34e40d68 url=https://prehraj.to/dospelostt-adulthood-cz-dabing-2025-mkv/453f4ebb34e40d68
+[11:39:36]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dospelostt-adulthood-cz-dabing-2025-mkv/453f4ebb34e40d68 (permanent=True)
+[11:39:36]   candidate upload_id=b74d9a785fcea5a9 url=https://prehraj.to/dospelostt-adulthood-cz-dabing-2025/b74d9a785fcea5a9
+[11:39:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dospelostt-adulthood-cz-dabing-2025/b74d9a785fcea5a9 (permanent=True)
+[11:39:42] film cr_film_id=15869 all candidates exhausted
+[11:39:42] iteration 17/20
+[11:39:42] film cr_film_id=15871 name='Jmenuji se Lo Ki-wan (2024) CZ Dabing' candidates=4
+[11:39:42]   candidate upload_id=65f5013f1cef3 url=https://prehraj.to/jmenuji-se-lo-ki-wan-2024-cz-dabing-1080p-mp4/65f5013f1cef3
+[11:39:50]   resolved in 8.2s → 1080p (https://pf-storage4.premiumcdn.net/74691647/1GaIMWi9osMBIvQf0BtYpirouj2hXKUGEtNx…)
+[11:41:22]   downloaded 2,553.6 MB in 89.9s (28.4 MB/s)
+[11:43:01]   upload done video_id=26746359 in 99.2s

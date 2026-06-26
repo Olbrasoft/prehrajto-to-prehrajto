@@ -84157,6 +84157,25 @@
         "download_sec": 65.1,
         "upload_sec": 72.6
       }
+    },
+    {
+      "cr_film_id": 15871,
+      "cr_slug": "jmenuji-se-lo-ki-wan",
+      "title": "Jmenuji se Lo Ki-wan",
+      "year": 2024,
+      "display_name": "Jmenuji se Lo Ki-wan (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65f5013f1cef3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26746359,
+      "size_bytes": 2553579001,
+      "uploaded_at": "2026-06-26T11:43:01Z",
+      "timing": {
+        "resolve_sec": 8.2,
+        "download_sec": 89.9,
+        "upload_sec": 99.2
+      }
     }
   ],
   "failed_attempts": [
@@ -86615,7 +86634,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sberatel-andelu-2023-cz-dabing-mp4/194011912ddcbde4",
       "permanent": true,
       "failed_at": "2026-06-26T08:41:24Z"
+    },
+    {
+      "cr_film_id": 15869,
+      "upload_id": "5727247ad44b8773",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dospelost-2025-cz-dab-1080p/5727247ad44b8773",
+      "permanent": true,
+      "failed_at": "2026-06-26T11:39:31Z"
+    },
+    {
+      "cr_film_id": 15869,
+      "upload_id": "453f4ebb34e40d68",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dospelostt-adulthood-cz-dabing-2025-mkv/453f4ebb34e40d68",
+      "permanent": true,
+      "failed_at": "2026-06-26T11:39:36Z"
+    },
+    {
+      "cr_film_id": 15869,
+      "upload_id": "b74d9a785fcea5a9",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dospelostt-adulthood-cz-dabing-2025/b74d9a785fcea5a9",
+      "permanent": true,
+      "failed_at": "2026-06-26T11:39:42Z"
     }
   ],
-  "last_updated": "2026-06-26T11:39:28Z"
+  "last_updated": "2026-06-26T11:43:01Z"
 }
