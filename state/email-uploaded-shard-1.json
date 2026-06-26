@@ -84803,6 +84803,25 @@
         "download_sec": 55.1,
         "upload_sec": 177.1
       }
+    },
+    {
+      "cr_film_id": 15999,
+      "cr_slug": "fotbalova-vasen",
+      "title": "Fotbalová vášeň",
+      "year": 2014,
+      "display_name": "Fotbalová vášeň (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "597052f176917",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26755669,
+      "size_bytes": 660516564,
+      "uploaded_at": "2026-06-26T13:34:15Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 34.4,
+        "upload_sec": 54.1
+      }
     }
   ],
   "failed_attempts": [
@@ -87317,7 +87336,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neprustrelna-rodina-cz-2025-mp4/c6c617f35dba5fe5",
       "permanent": true,
       "failed_at": "2026-06-26T13:18:34Z"
+    },
+    {
+      "cr_film_id": 15995,
+      "upload_id": "4a77ae604f92ab29",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dej-si-pohov-mladej-2-2024-cz-dabing/4a77ae604f92ab29",
+      "permanent": true,
+      "failed_at": "2026-06-26T13:32:38Z"
     }
   ],
-  "last_updated": "2026-06-26T13:32:35Z"
+  "last_updated": "2026-06-26T13:34:15Z"
 }
