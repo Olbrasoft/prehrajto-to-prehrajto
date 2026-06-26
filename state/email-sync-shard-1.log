@@ -33017,3 +33017,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:55:23]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/17261082/kO3ijgHGgs6ySwBfrGcVwHEzT43CopIgzsnY…)
 [21:56:00]   downloaded 606.8 MB in 35.1s (17.3 MB/s)
 [21:56:29]   upload done video_id=26796436 in 28.8s
+[21:56:31] film cr_film_id=16429 OK in 68.4s
+[21:56:31] iteration 18/20
+[21:56:31] film cr_film_id=16433 name='Dívka jménem Willow (2025) CZ Dabing' candidates=1
+[21:56:31]   candidate upload_id=e4f5a64dbc694aac url=https://prehraj.to/divka-jmenem-willow-2025-cz-dab-1080p/e4f5a64dbc694aac
+[21:56:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/divka-jmenem-willow-2025-cz-dab-1080p/e4f5a64dbc694aac (permanent=True)
+[21:56:32] film cr_film_id=16433 all candidates exhausted
+[21:56:32] iteration 19/20
+[21:56:32] film cr_film_id=16435 name='10 000 dnů (2014) CZ Dabing' candidates=1
+[21:56:32]   candidate upload_id=560d29a12a0bd url=https://prehraj.to/10-000-dnu-2014-cz-dab-scifi/560d29a12a0bd
+[21:56:38]   resolved in 6.1s → 480p (https://pf-storage4.premiumcdn.net/380145/ZgbtAesQliLeUp7Hq9T2qsRnuqEFEWtopI5ZuB…)
+[21:57:31]   downloaded 648.7 MB in 51.5s (12.6 MB/s)
+[21:58:22]   upload done video_id=26796604 in 51.2s
