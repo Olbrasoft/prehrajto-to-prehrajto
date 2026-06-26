@@ -29746,3 +29746,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:00:22]   resolved in 1.6s → 720p (https://pf-storage2.premiumcdn.net/26772160/JWqcwnFwxtZkS17InJIVPFGgSdvTQYskWTbN…)
 [00:00:51]   downloaded 433.7 MB in 25.9s (16.7 MB/s)
 [00:01:17]   upload done video_id=26678790 in 26.4s
+[00:01:19] film cr_film_id=14464 OK in 58.5s
+[00:01:19] iteration 2/20
+[00:01:19] film cr_film_id=14466 name='Můžem i s mužem (2023) CZ Dabing' candidates=1
+[00:01:19]   candidate upload_id=79756fe1d9c7289e url=https://prehraj.to/muzem-i-s-muzem-2023-cz-dabing-mp4/79756fe1d9c7289e
+[00:01:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muzem-i-s-muzem-2023-cz-dabing-mp4/79756fe1d9c7289e (permanent=True)
+[00:01:20] film cr_film_id=14466 all candidates exhausted
+[00:01:20] iteration 3/20
+[00:01:20] film cr_film_id=14468 name='Nejlepší vyhrává (2009) CZ' candidates=1
+[00:01:20]   candidate upload_id=60e416dc9615a url=https://prehraj.to/nejlepsi-vyhrava-western-2009-480p-web-2-0-x264-t-hill-64-sten-ok/60e416dc9615a
+[00:01:26]   resolved in 6.2s → 480p (https://pf-storage3.premiumcdn.net/24188856/5jVUvxIdLhmkCN1cXZs12IRQTaAseahw6h9Z…)
+[00:02:34]   downloaded 1,182.8 MB in 65.1s (18.2 MB/s)
+[00:04:01]   upload done video_id=26679002 in 87.7s

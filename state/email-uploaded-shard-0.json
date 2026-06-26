@@ -78885,6 +78885,25 @@
         "download_sec": 25.9,
         "upload_sec": 26.4
       }
+    },
+    {
+      "cr_film_id": 14468,
+      "cr_slug": "nejlepsi-vyhrava",
+      "title": "Nejlepší vyhrává",
+      "year": 2009,
+      "display_name": "Nejlepší vyhrává (2009) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60e416dc9615a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26679002,
+      "size_bytes": 1182838897,
+      "uploaded_at": "2026-06-26T00:04:01Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 65.1,
+        "upload_sec": 87.7
+      }
     }
   ],
   "failed_attempts": [
@@ -81541,7 +81560,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/zasnuby-strachu-2020-cz-dabing-hd-mp4/1cc2d0f048d874b8",
       "permanent": true,
       "failed_at": "2026-06-25T22:56:50Z"
+    },
+    {
+      "cr_film_id": 14466,
+      "upload_id": "79756fe1d9c7289e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/muzem-i-s-muzem-2023-cz-dabing-mp4/79756fe1d9c7289e",
+      "permanent": true,
+      "failed_at": "2026-06-26T00:01:20Z"
     }
   ],
-  "last_updated": "2026-06-26T00:01:17Z"
+  "last_updated": "2026-06-26T00:04:01Z"
 }
