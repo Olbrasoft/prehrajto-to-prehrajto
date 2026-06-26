@@ -85003,6 +85003,25 @@
         "download_sec": 55.8,
         "upload_sec": 62.7
       }
+    },
+    {
+      "cr_film_id": 15584,
+      "cr_slug": "detektiv-knight",
+      "title": "Detektiv Knight",
+      "year": 2022,
+      "display_name": "Detektiv Knight (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "646f2bba5c5fd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26766371,
+      "size_bytes": 1703447829,
+      "uploaded_at": "2026-06-26T15:41:57Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 66.0,
+        "upload_sec": 63.3
+      }
     }
   ],
   "failed_attempts": [
@@ -87909,7 +87928,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nejkrasnejsi-dar-2022-cz-dab-1080p/d5b356d78c461091",
       "permanent": true,
       "failed_at": "2026-06-26T15:35:45Z"
+    },
+    {
+      "cr_film_id": 15582,
+      "upload_id": "b2e6917c5bfc46da",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/pouta-pomsty-2022-cz-dabing-hd-mp4/b2e6917c5bfc46da",
+      "permanent": true,
+      "failed_at": "2026-06-26T15:39:40Z"
     }
   ],
-  "last_updated": "2026-06-26T15:39:37Z"
+  "last_updated": "2026-06-26T15:41:57Z"
 }
