@@ -31945,3 +31945,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:01:02]   upload done video_id=26757777 in 125.2s
 [14:01:04] film cr_film_id=15468 OK in 219.2s
 [14:01:04] batch-end ok=18 failed=2 dur=4235.4s avg/film=235.3s remaining=13050 eta_hours=853.0
+
+===== run 2026-06-26T14:01:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28242966848) =====
+[14:01:46] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:01:46] batch-start shard=0/2 count=20 backlog=17650 uploads=4600 failed_attempts=397 description_overrides=17579
+[14:01:46] login
+[14:01:47] login done
+[14:01:47] iteration 1/20
+[14:01:47] film cr_film_id=15470 name='Tichá hora (2014) CZ Dabing' candidates=2
+[14:01:47]   candidate upload_id=41caee77badeb4d4 url=https://prehraj.to/ticha-hora-2014-cz-dab-1080p/41caee77badeb4d4
+[14:01:49]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/169226689/KRyf4guELHBqSOXTjBUb3ueGFZ6C9Lfx7sn…)
+[14:03:39]   downloaded 2,024.9 MB in 108.5s (18.7 MB/s)
+[14:06:02]   upload done video_id=26758181 in 143.2s
