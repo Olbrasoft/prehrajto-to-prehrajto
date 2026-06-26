@@ -83511,6 +83511,25 @@
         "download_sec": 76.3,
         "upload_sec": 112.6
       }
+    },
+    {
+      "cr_film_id": 15751,
+      "cr_slug": "vendeta-2011-2",
+      "title": "Vendeta",
+      "year": 2011,
+      "display_name": "Vendeta (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "631e174accdce",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26739375,
+      "size_bytes": 2364476292,
+      "uploaded_at": "2026-06-26T10:18:58Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 100.7,
+        "upload_sec": 197.2
+      }
     }
   ],
   "failed_attempts": [
@@ -85971,5 +85990,5 @@
       "failed_at": "2026-06-26T08:41:24Z"
     }
   ],
-  "last_updated": "2026-06-26T10:13:54Z"
+  "last_updated": "2026-06-26T10:18:58Z"
 }
