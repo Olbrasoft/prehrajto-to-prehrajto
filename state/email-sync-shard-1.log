@@ -32293,3 +32293,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:45:12]   upload done video_id=26761951 in 66.4s
 [14:45:13] film cr_film_id=16071 OK in 135.9s
 [14:45:13] batch-end ok=19 failed=1 dur=2607.7s avg/film=137.2s remaining=13009 eta_hours=495.8
+
+===== run 2026-06-26T15:08:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28246726640) =====
+[15:08:01] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:08:01] batch-start shard=1/2 count=20 backlog=17650 uploads=4641 failed_attempts=351 description_overrides=17579
+[15:08:01] login
+[15:08:03] login done
+[15:08:03] iteration 1/20
+[15:08:03] film cr_film_id=16073 name='Poslední průzkum (2017) CZ Dabing' candidates=4
+[15:08:03]   candidate upload_id=5e8f110e2d5fa url=https://prehraj.to/posledni-pruzkum-2017-czdabing/5e8f110e2d5fa
+[15:08:04]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/16179061/obVuRQUONHYkf3JFaGFBGUnBCN9hBGCDASAp…)
+[15:08:50]   downloaded 1,315.0 MB in 44.9s (29.3 MB/s)
+[15:09:38]   upload done video_id=26763772 in 47.6s
