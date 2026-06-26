@@ -82371,6 +82371,25 @@
         "download_sec": 59.3,
         "upload_sec": 60.6
       }
+    },
+    {
+      "cr_film_id": 15547,
+      "cr_slug": "cool-girl",
+      "title": "Cool Girl!",
+      "year": 2023,
+      "display_name": "Cool Girl! (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6b9993e0cf78b9c0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26722032,
+      "size_bytes": 1817768691,
+      "uploaded_at": "2026-06-26T07:08:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 72.1,
+        "upload_sec": 104.1
+      }
     }
   ],
   "failed_attempts": [
@@ -84824,5 +84843,5 @@
       "failed_at": "2026-06-26T06:38:31Z"
     }
   ],
-  "last_updated": "2026-06-26T07:04:47Z"
+  "last_updated": "2026-06-26T07:08:27Z"
 }

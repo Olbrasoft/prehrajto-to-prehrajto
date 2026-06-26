@@ -31117,3 +31117,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:04:47]   upload done video_id=26721819 in 60.6s
 [07:04:48] film cr_film_id=15543 OK in 123.9s
 [07:04:48] batch-end ok=19 failed=1 dur=2901.1s avg/film=152.7s remaining=13163 eta_hours=558.3
+
+===== run 2026-06-26T07:05:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28222848623) =====
+[07:05:26] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:05:26] batch-start shard=1/2 count=20 backlog=17650 uploads=4487 failed_attempts=339 description_overrides=17579
+[07:05:26] login
+[07:05:28] login done
+[07:05:28] iteration 1/20
+[07:05:28] film cr_film_id=15547 name='Cool Girl! (2023) CZ Dabing' candidates=1
+[07:05:28]   candidate upload_id=6b9993e0cf78b9c0 url=https://prehraj.to/cool-girl-2023-czdab/6b9993e0cf78b9c0
+[07:05:29]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/166625441/Z79I1PU75uOKUenI1MSG3U8DFVqT2vsJRSD…)
+[07:06:43]   downloaded 1,817.8 MB in 72.1s (25.2 MB/s)
+[07:08:27]   upload done video_id=26722032 in 104.1s
