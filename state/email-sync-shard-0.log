@@ -31351,3 +31351,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:56:47]   upload done video_id=26737620 in 95.3s
 [09:56:48] film cr_film_id=15184 OK in 160.4s
 [09:56:48] batch-end ok=20 failed=0 dur=2773.5s avg/film=138.7s remaining=13128 eta_hours=505.8
+
+===== run 2026-06-26T10:10:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28231563031) =====
+[10:10:40] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:10:40] batch-start shard=0/2 count=20 backlog=17650 uploads=4522 failed_attempts=391 description_overrides=17579
+[10:10:40] login
+[10:10:42] login done
+[10:10:42] iteration 1/20
+[10:10:42] film cr_film_id=15186 name='Agent na útěku (2012) CZ Dabing' candidates=13
+[10:10:42]   candidate upload_id=604bd4330431a url=https://prehraj.to/agent-na-uteku-2012-1080p-cz-dab/604bd4330431a
+[10:10:43]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/22651571/1nxtq9UabuyMhDMCljSkNUPau1mtDJfklumk…)
+[10:12:02]   downloaded 2,176.4 MB in 77.6s (28.0 MB/s)
+[10:13:45]   upload done video_id=26739011 in 103.6s
