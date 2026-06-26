@@ -33215,3 +33215,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:25:05]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/134965880/1Lwc51hBafxOfjKUdktJLhGYHXxHPWFK9iQ…)
 [23:26:11]   downloaded 1,420.1 MB in 62.2s (22.8 MB/s)
 [23:27:32]   upload done video_id=26804003 in 80.2s
+[23:27:34] film cr_film_id=16523 OK in 149.2s
+[23:27:34] iteration 4/20
+[23:27:34] film cr_film_id=16527 name='Rozdělený Adam (2015) CZ' candidates=1
+[23:27:34]   candidate upload_id=475f3640648847f5 url=https://prehraj.to/rozdeleny-adam-2015-cz-dabing-hd-mp4/475f3640648847f5
+[23:27:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozdeleny-adam-2015-cz-dabing-hd-mp4/475f3640648847f5 (permanent=True)
+[23:27:34] film cr_film_id=16527 all candidates exhausted
+[23:27:34] iteration 5/20
+[23:27:34] film cr_film_id=16533 name='Death Fighter (2017) CZ' candidates=1
+[23:27:34]   candidate upload_id=5ee7cb97de573 url=https://prehraj.to/bojovnik-se-smrti-death-fighter-akcni-2017-1080p-2-0-x264-cz-36-17-sten-ok/5ee7cb97de573
+[23:27:40]   resolved in 6.1s → 1080p (https://pf-storage2.premiumcdn.net/16925832/DPvc1WuP3U2YSPyF2Ycdju62tKbuBwIm7SQW…)
+[23:29:58]   downloaded 2,496.7 MB in 135.8s (18.4 MB/s)
+[23:34:17]   upload done video_id=26804322 in 259.0s

@@ -87425,6 +87425,25 @@
         "download_sec": 62.2,
         "upload_sec": 80.2
       }
+    },
+    {
+      "cr_film_id": 16533,
+      "cr_slug": "death-fighter",
+      "title": "Death Fighter",
+      "year": 2017,
+      "display_name": "Death Fighter (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ee7cb97de573",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26804322,
+      "size_bytes": 2496746024,
+      "uploaded_at": "2026-06-26T23:34:17Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 135.8,
+        "upload_sec": 259.0
+      }
     }
   ],
   "failed_attempts": [
@@ -90159,7 +90178,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kde-konci-laska-cz-2025-1080p/6f25d6d63f35c2f9",
       "permanent": true,
       "failed_at": "2026-06-26T23:18:29Z"
+    },
+    {
+      "cr_film_id": 16527,
+      "upload_id": "475f3640648847f5",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozdeleny-adam-2015-cz-dabing-hd-mp4/475f3640648847f5",
+      "permanent": true,
+      "failed_at": "2026-06-26T23:27:34Z"
     }
   ],
-  "last_updated": "2026-06-26T23:27:32Z"
+  "last_updated": "2026-06-26T23:34:17Z"
 }
