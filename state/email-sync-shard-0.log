@@ -31873,3 +31873,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [13:15:09]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/23744586/2Z8S0pF4OuQqumwT48FroF16c9xImrIe7H4x…)
 [13:16:04]   downloaded 1,211.1 MB in 53.0s (22.9 MB/s)
 [13:17:54]   upload done video_id=26754200 in 109.4s
+[13:17:56] film cr_film_id=15436 OK in 167.6s
+[13:17:56] iteration 11/20
+[13:17:56] film cr_film_id=15438 name='Cesta do Tvojzemí (2022) CZ Dabing' candidates=2
+[13:17:56]   candidate upload_id=71ad0b2a70ff4165 url=https://prehraj.to/cesta-do-tvojzemi-2022-cz-dabing-1080p-mp4/71ad0b2a70ff4165
+[13:17:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-tvojzemi-2022-cz-dabing-1080p-mp4/71ad0b2a70ff4165 (permanent=True)
+[13:17:57]   candidate upload_id=3f6e2c108fe7eae3 url=https://prehraj.to/cesta-do-tvojzemi-2022-cz-dabing-1080p/3f6e2c108fe7eae3
+[13:18:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-tvojzemi-2022-cz-dabing-1080p/3f6e2c108fe7eae3 (permanent=True)
+[13:18:02] film cr_film_id=15438 all candidates exhausted
+[13:18:02] iteration 12/20
+[13:18:02] film cr_film_id=15444 name='Výměna dětí (2023) CZ Dabing' candidates=2
+[13:18:02]   candidate upload_id=a5822470d3be2df3 url=https://prehraj.to/vymena-deti-2023-cz-dab-1080p/a5822470d3be2df3
+[13:18:08]   resolved in 6.1s → 1080p (https://pf-storage1.premiumcdn.net/167440910/8ADF2XcqmI08HRnhOzslOc4bCpJSyPIEAHo…)
+[13:19:59]   downloaded 2,015.7 MB in 108.9s (18.5 MB/s)
+[13:21:51]   upload done video_id=26754494 in 111.3s
