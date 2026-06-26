@@ -32106,3 +32106,25 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:08:05]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/9763145/Nbwij3H9xcbOuL6U3RtdNHVPI9BI51c6oH8Ku…)
 [15:08:38]   downloaded 735.0 MB in 31.2s (23.6 MB/s)
 [15:09:12]   upload done video_id=26763770 in 33.7s
+[15:09:14] film cr_film_id=15524 OK in 69.3s
+[15:09:14] iteration 2/20
+[15:09:14] film cr_film_id=15528 name='Zvony naděje (2022) CZ Dabing' candidates=6
+[15:09:14]   candidate upload_id=6fa82eaf4cdb3bc6 url=https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/6fa82eaf4cdb3bc6
+[15:09:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/6fa82eaf4cdb3bc6 (permanent=True)
+[15:09:14]   candidate upload_id=e934f39a493aad31 url=https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/e934f39a493aad31
+[15:09:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/e934f39a493aad31 (permanent=True)
+[15:09:20]   candidate upload_id=defc992c4bd87590 url=https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/defc992c4bd87590
+[15:09:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/defc992c4bd87590 (permanent=True)
+[15:09:26]   candidate upload_id=9e27f0a818ae1ccf url=https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/9e27f0a818ae1ccf
+[15:09:31]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/9e27f0a818ae1ccf (permanent=True)
+[15:09:32]   candidate upload_id=c1b22185e9d62c94 url=https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/c1b22185e9d62c94
+[15:09:37]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p-mp4/c1b22185e9d62c94 (permanent=True)
+[15:09:37]   candidate upload_id=914a265db9af50c7 url=https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p/914a265db9af50c7
+[15:09:43]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zvony-nadeje-2022-cz-dab-1080p/914a265db9af50c7 (permanent=True)
+[15:09:43] film cr_film_id=15528 all candidates exhausted
+[15:09:43] iteration 3/20
+[15:09:43] film cr_film_id=15532 name='Les (2023) CZ Dabing' candidates=5
+[15:09:43]   candidate upload_id=68500f4415880 url=https://prehraj.to/les-wald-web-cz-dabing-2023-1080p/68500f4415880
+[15:09:49]   resolved in 6.0s → 1080p (https://pf-storage6.premiumcdn.net/140051993/lpNu1oUKnHV1IxOseZi4XUgrfOrCj4uqgI3…)
+[15:12:14]   downloaded 1,829.1 MB in 143.9s (12.7 MB/s)
+[15:13:17]   upload done video_id=26764012 in 62.4s
