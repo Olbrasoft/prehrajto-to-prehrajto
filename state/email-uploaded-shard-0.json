@@ -82818,6 +82818,25 @@
         "download_sec": 80.8,
         "upload_sec": 87.0
       }
+    },
+    {
+      "cr_film_id": 15180,
+      "cr_slug": "parmeni",
+      "title": "Pařmeni",
+      "year": 2011,
+      "display_name": "Pařmeni (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d75383e4b98",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26737012,
+      "size_bytes": 734999809,
+      "uploaded_at": "2026-06-26T09:50:32Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 28.0,
+        "upload_sec": 43.0
+      }
     }
   ],
   "failed_attempts": [
@@ -85602,5 +85621,5 @@
       "failed_at": "2026-06-26T07:24:31Z"
     }
   ],
-  "last_updated": "2026-06-26T09:49:16Z"
+  "last_updated": "2026-06-26T09:50:32Z"
 }
