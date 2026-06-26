@@ -32496,3 +32496,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:53:41]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/166025753/7kWSNOfRQF9gCRKhWahRKf2kIlnFnkHOpux…)
 [15:54:50]   downloaded 1,678.2 MB in 67.5s (24.9 MB/s)
 [15:56:01]   upload done video_id=26767499 in 70.3s
+[15:56:03] film cr_film_id=16175 OK in 143.0s
+[15:56:03] iteration 8/20
+[15:56:03] film cr_film_id=16177 name='Superžena (2022) CZ Dabing' candidates=1
+[15:56:03]   candidate upload_id=7b5b2cb06dbaa389 url=https://prehraj.to/superzena-2023-czdab-mp4/7b5b2cb06dbaa389
+[15:56:04]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/superzena-2023-czdab-mp4/7b5b2cb06dbaa389 (permanent=True)
+[15:56:04] film cr_film_id=16177 all candidates exhausted
+[15:56:04] iteration 9/20
+[15:56:04] film cr_film_id=16179 name='Jaro s Juliette (2024) CZ Dabing' candidates=1
+[15:56:04]   candidate upload_id=7cf56eb9d6c741db url=https://prehraj.to/jaro-s-juliette-2024-cz-dab-1080p/7cf56eb9d6c741db
+[15:56:10]   resolved in 5.9s → 1080p (https://pf-storage1.premiumcdn.net/158349563/6JKImBuPEFlDFRVcAxToYuOWSPYiP9UZmSY…)
+[15:57:26]   downloaded 1,939.1 MB in 74.4s (26.1 MB/s)
+[15:58:48]   upload done video_id=26767711 in 81.8s

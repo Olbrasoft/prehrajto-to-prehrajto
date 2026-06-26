@@ -85753,6 +85753,25 @@
         "download_sec": 67.5,
         "upload_sec": 70.3
       }
+    },
+    {
+      "cr_film_id": 16179,
+      "cr_slug": "jaro-s-juliette",
+      "title": "Jaro s Juliette",
+      "year": 2024,
+      "display_name": "Jaro s Juliette (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "7cf56eb9d6c741db",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26767711,
+      "size_bytes": 1939139846,
+      "uploaded_at": "2026-06-26T15:58:48Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 74.4,
+        "upload_sec": 81.8
+      }
     }
   ],
   "failed_attempts": [
@@ -88337,7 +88356,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/friendship-2024-cz-dab-1080p/4ab58c87c4ad1267",
       "permanent": true,
       "failed_at": "2026-06-26T15:49:07Z"
+    },
+    {
+      "cr_film_id": 16177,
+      "upload_id": "7b5b2cb06dbaa389",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/superzena-2023-czdab-mp4/7b5b2cb06dbaa389",
+      "permanent": true,
+      "failed_at": "2026-06-26T15:56:04Z"
     }
   ],
-  "last_updated": "2026-06-26T15:56:01Z"
+  "last_updated": "2026-06-26T15:58:48Z"
 }
