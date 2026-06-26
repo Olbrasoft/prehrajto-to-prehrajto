@@ -81288,6 +81288,25 @@
         "download_sec": 94.6,
         "upload_sec": 99.1
       }
+    },
+    {
+      "cr_film_id": 15345,
+      "cr_slug": "prvni-zena",
+      "title": "První žena",
+      "year": 2022,
+      "display_name": "První žena (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f2b3adda15b7811a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26708481,
+      "size_bytes": 933194439,
+      "uploaded_at": "2026-06-26T04:41:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 36.5,
+        "upload_sec": 42.8
+      }
     }
   ],
   "failed_attempts": [
@@ -83713,5 +83732,5 @@
       "failed_at": "2026-06-26T03:57:11Z"
     }
   ],
-  "last_updated": "2026-06-26T04:30:53Z"
+  "last_updated": "2026-06-26T04:41:09Z"
 }

@@ -30680,3 +30680,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:30:53]   upload done video_id=26707222 in 99.1s
 [04:30:56] film cr_film_id=15341 OK in 198.7s
 [04:30:56] batch-end ok=19 failed=1 dur=2129.1s avg/film=112.1s remaining=13220 eta_hours=411.7
+
+===== run 2026-06-26T04:39:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28217523924) =====
+[04:39:45] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:39:45] batch-start shard=1/2 count=20 backlog=17650 uploads=4430 failed_attempts=335 description_overrides=17579
+[04:39:45] login
+[04:39:46] login done
+[04:39:46] iteration 1/20
+[04:39:46] film cr_film_id=15345 name='První žena (2022) CZ Dabing' candidates=4
+[04:39:46]   candidate upload_id=f2b3adda15b7811a url=https://prehraj.to/prvni-zena-2022-cz-dab-720p/f2b3adda15b7811a
+[04:39:47]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/168518503/BWzHX8ijEUJnSZXuXZFZPizeHw6tr8f0lh1…)
+[04:40:26]   downloaded 933.2 MB in 36.5s (25.6 MB/s)
+[04:41:09]   upload done video_id=26708481 in 42.8s
