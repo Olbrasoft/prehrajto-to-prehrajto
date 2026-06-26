@@ -30463,3 +30463,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:39:06]   upload done video_id=26708303 in 36.8s
 [04:39:08] film cr_film_id=14778 OK in 79.5s
 [04:39:08] batch-end ok=18 failed=2 dur=2620.4s avg/film=145.6s remaining=13244 eta_hours=535.6
+
+===== run 2026-06-26T04:39:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28217523924) =====
+[04:39:45] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:39:45] batch-start shard=0/2 count=20 backlog=17650 uploads=4406 failed_attempts=380 description_overrides=17579
+[04:39:45] login
+[04:39:46] login done
+[04:39:46] iteration 1/20
+[04:39:46] film cr_film_id=14780 name='Půlnoční taxi (2024) CZ Dabing' candidates=1
+[04:39:46]   candidate upload_id=68e3c9646ac3e url=https://prehraj.to/pulnocni-taxi-2024-1080p-cz-dabing/68e3c9646ac3e
+[04:39:47]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/150130368/dg1ToNinZtowH1ZSBziBaiKYClbuY7Tn4S7…)
+[04:40:45]   downloaded 1,463.5 MB in 55.7s (26.3 MB/s)
+[04:41:54]   upload done video_id=26708529 in 69.1s
