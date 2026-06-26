@@ -31339,3 +31339,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:37:28]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/51390584/5K7UjLIVRT1kUJ7HpoHpEIPzTveU3RtJDu6O…)
 [08:39:10]   downloaded 2,131.5 MB in 100.5s (21.2 MB/s)
 [08:41:21]   upload done video_id=26730421 in 130.8s
+[08:41:23] film cr_film_id=15653 OK in 236.4s
+[08:41:23] iteration 11/20
+[08:41:23] film cr_film_id=15655 name='Sběratel andělů (2023) CZ' candidates=1
+[08:41:23]   candidate upload_id=194011912ddcbde4 url=https://prehraj.to/sberatel-andelu-2023-cz-dabing-mp4/194011912ddcbde4
+[08:41:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sberatel-andelu-2023-cz-dabing-mp4/194011912ddcbde4 (permanent=True)
+[08:41:24] film cr_film_id=15655 all candidates exhausted
+[08:41:24] iteration 12/20
+[08:41:24] film cr_film_id=15659 name='Plaváček (1986) CZ' candidates=3
+[08:41:24]   candidate upload_id=5c0eea6242f70 url=https://prehraj.to/plavacek-1986-cssr-filmova-pohadka-vanocni-filmy/5c0eea6242f70
+[08:41:30]   resolved in 6.3s → 480p (https://pf-storage1.premiumcdn.net/9354119/vZ6TqgiK3tRwfBXu9guoKiO0tDnCN3tpJF9mU…)
+[08:42:08]   downloaded 702.0 MB in 35.7s (19.7 MB/s)
+[08:42:57]   upload done video_id=26730630 in 48.9s
