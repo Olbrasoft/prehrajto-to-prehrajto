@@ -32390,3 +32390,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:56:20]   upload done video_id=26772302 in 113.2s
 [16:56:22] film cr_film_id=15660 OK in 190.8s
 [16:56:22] batch-end ok=20 failed=0 dur=4274.7s avg/film=213.7s remaining=12995 eta_hours=771.4
+
+===== run 2026-06-26T16:57:14Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28252749674) =====
+[16:57:16] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:57:16] batch-start shard=0/2 count=20 backlog=17650 uploads=4655 failed_attempts=409 description_overrides=17579
+[16:57:16] login
+[16:57:19] login done
+[16:57:19] iteration 1/20
+[16:57:19] film cr_film_id=15674 name='Děsivé podezření (2012) CZ' candidates=1
+[16:57:19]   candidate upload_id=5aa70b533c262 url=https://prehraj.to/podezreni-2012/5aa70b533c262
+[16:57:21]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/3614352/w9yiJEHZEiMoio7Ty4FQMHV2fqycyDSzXfKBT…)
+[16:58:10]   downloaded 851.3 MB in 47.4s (18.0 MB/s)
+[16:59:04]   upload done video_id=26772657 in 54.3s
