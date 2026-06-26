@@ -30245,3 +30245,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:39:59]   upload done video_id=26688713 in 127.7s
 [01:40:01] film cr_film_id=15121 OK in 202.9s
 [01:40:01] batch-end ok=20 failed=0 dur=2727.7s avg/film=136.4s remaining=13277 eta_hours=503.1
+
+===== run 2026-06-26T01:54:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28212132823) =====
+[01:54:06] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:54:06] batch-start shard=1/2 count=20 backlog=17650 uploads=4373 failed_attempts=332 description_overrides=17579
+[01:54:06] login
+[01:54:08] login done
+[01:54:08] iteration 1/20
+[01:54:08] film cr_film_id=15125 name='Dilema (2011) CZ Dabing' candidates=2
+[01:54:08]   candidate upload_id=55c64cf219956 url=https://prehraj.to/dilema-dilemma-the-cz-dabing-2011/55c64cf219956
+[01:54:10]   resolved in 1.7s → 480p (https://pf-storage2.premiumcdn.net/103697/zvRFyGcpkT1eFaoiPlc91cR2tM7iVnudNSZzuw…)
+[01:54:31]   downloaded 501.7 MB in 20.0s (25.1 MB/s)
+[01:55:04]   upload done video_id=26690463 in 32.2s
