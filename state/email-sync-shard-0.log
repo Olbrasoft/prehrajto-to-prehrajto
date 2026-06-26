@@ -31645,3 +31645,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:49:58]   upload done video_id=26747020 in 15.3s
 [11:49:59] film cr_film_id=15334 OK in 33.3s
 [11:49:59] batch-end ok=20 failed=0 dur=2334.5s avg/film=116.7s remaining=13088 eta_hours=424.3
+
+===== run 2026-06-26T11:50:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28236167361) =====
+[11:50:37] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:50:37] batch-start shard=0/2 count=20 backlog=17650 uploads=4562 failed_attempts=391 description_overrides=17579
+[11:50:37] login
+[11:50:38] login done
+[11:50:38] iteration 1/20
+[11:50:38] film cr_film_id=15344 name='Tichá služebná (2023) CZ Dabing' candidates=3
+[11:50:38]   candidate upload_id=ee0a617fa4b0a477 url=https://prehraj.to/ticha-sluzebna-2023-cz-dab-1080p/ee0a617fa4b0a477
+[11:50:40]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/168154939/v9RuZxHZ9u7vUewuGoSwXHMQCyeTwGUd1CW…)
+[11:51:31]   downloaded 1,290.2 MB in 49.2s (26.2 MB/s)
+[11:53:38]   upload done video_id=26747138 in 127.7s
