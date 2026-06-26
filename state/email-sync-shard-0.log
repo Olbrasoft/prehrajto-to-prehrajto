@@ -30614,3 +30614,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:21:10]   upload done video_id=26712684 in 48.5s
 [05:21:12] film cr_film_id=14844 OK in 92.1s
 [05:21:12] batch-end ok=19 failed=1 dur=2485.7s avg/film=130.8s remaining=13225 eta_hours=480.5
+
+===== run 2026-06-26T05:21:45Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28218916851) =====
+[05:21:47] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:21:47] batch-start shard=0/2 count=20 backlog=17650 uploads=4425 failed_attempts=384 description_overrides=17579
+[05:21:47] login
+[05:21:49] login done
+[05:21:49] iteration 1/20
+[05:21:49] film cr_film_id=14846 name='Portrét (1972) CZ' candidates=1
+[05:21:49]   candidate upload_id=586fd878f3552 url=https://prehraj.to/portret-pohresovane-mp4/586fd878f3552
+[05:21:50]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/1353358/Q7rSNefOkU9bCk9h4vfl2fqQI69sPXikzS1MC…)
+[05:22:05]   downloaded 218.4 MB in 12.8s (17.1 MB/s)
+[05:22:20]   upload done video_id=26712846 in 14.9s
