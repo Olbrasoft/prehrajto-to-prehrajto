@@ -31852,3 +31852,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:47:59]   upload done video_id=26746843 in 34.9s
 [11:48:01] film cr_film_id=15885 OK in 70.1s
 [11:48:01] batch-end ok=19 failed=1 dur=2216.8s avg/film=116.7s remaining=13065 eta_hours=423.5
+
+===== run 2026-06-26T11:50:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28236167361) =====
+[11:50:37] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:50:37] batch-start shard=1/2 count=20 backlog=17650 uploads=4585 failed_attempts=343 description_overrides=17579
+[11:50:37] login
+[11:50:39] login done
+[11:50:39] iteration 1/20
+[11:50:39] film cr_film_id=15887 name='Boj sněžného pluhu s mafií (2014) CZ' candidates=1
+[11:50:39]   candidate upload_id=5aa3e1c2d588c url=https://prehraj.to/boj-snezneho-pluhu-s-mafii-2014/5aa3e1c2d588c
+[11:50:39]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3590134/7lxuW4srNTZPHpOFNxuGKsAah20iJdF4vc8Zh…)
+[11:51:03]   downloaded 724.8 MB in 21.6s (33.6 MB/s)
+[11:51:30]   upload done video_id=26747084 in 27.6s
