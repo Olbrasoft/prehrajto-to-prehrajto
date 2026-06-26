@@ -32135,3 +32135,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:13:20]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/43896329/3NdUvrhbotLWfAkt4zhdqh3KtEBFOmuBdTYV…)
 [15:14:24]   downloaded 1,682.4 MB in 62.5s (26.9 MB/s)
 [15:15:38]   upload done video_id=26764170 in 73.6s
+[15:15:40] film cr_film_id=15534 OK in 140.7s
+[15:15:40] iteration 5/20
+[15:15:40] film cr_film_id=15536 name='Jak vycvičit draka: Lexikon draků (2011) CZ Dabing' candidates=1
+[15:15:40]   candidate upload_id=c501e6701d59f4fd url=https://prehraj.to/jak-vycvicit-draka-lexikon-draku-2011-cz-dab-720p-mp4/c501e6701d59f4fd
+[15:15:41]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jak-vycvicit-draka-lexikon-draku-2011-cz-dab-720p-mp4/c501e6701d59f4fd (permanent=True)
+[15:15:41] film cr_film_id=15536 all candidates exhausted
+[15:15:41] iteration 6/20
+[15:15:41] film cr_film_id=15544 name='Jezero 4: Poslední kapitola (2012) CZ Dabing' candidates=2
+[15:15:41]   candidate upload_id=5a7ad8dcbd1c6 url=https://prehraj.to/jezero-4-posledni-kapitola-2012-cz-dabing/5a7ad8dcbd1c6
+[15:15:47]   resolved in 5.9s → 480p (https://pf-storage4.premiumcdn.net/3370893/9eWH9eCwQhGVSlZFvWi1AC01cnQieEuvXIy3h…)
+[15:16:07]   downloaded 629.9 MB in 19.3s (32.6 MB/s)
+[15:16:39]   upload done video_id=26764301 in 31.6s
