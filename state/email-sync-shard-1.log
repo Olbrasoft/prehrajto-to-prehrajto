@@ -30762,3 +30762,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:00:31]   resolved in 0.8s → 480p (https://pf-storage2.premiumcdn.net/22655915/LrPSKdslZFrqumNT7rcEKs5PHxDh1QIQkSOR…)
 [05:00:51]   downloaded 414.2 MB in 19.0s (21.8 MB/s)
 [05:01:18]   upload done video_id=26710605 in 26.8s
+[05:01:20] film cr_film_id=15373 OK in 50.0s
+[05:01:20] iteration 12/20
+[05:01:20] film cr_film_id=15379 name='Dokonalá příležitost (2013) CZ Dabing' candidates=2
+[05:01:20]   candidate upload_id=5d009e1fd8b49a6b url=https://prehraj.to/dokonala-prilezitost-nicholle-tom-david-palffy-steve-bacic-2013-thriller-bdrip-1080p-cz-dabing-mp4/5d009e1fd8b49a6b
+[05:01:21]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/dokonala-prilezitost-nicholle-tom-david-palffy-steve-bacic-2013-thriller-bdrip-1080p-cz-dabing-mp4/5d009e1fd8b49a6b (permanent=True)
+[05:01:22]   candidate upload_id=001a68b7a072393c url=https://prehraj.to/dokonala-prilezitost-nicholle-tom-david-palffy-steve-bacic-2013-thriller-bdrip-1080p-cz-dabing-mp4/001a68b7a072393c
+[05:01:28]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/dokonala-prilezitost-nicholle-tom-david-palffy-steve-bacic-2013-thriller-bdrip-1080p-cz-dabing-mp4/001a68b7a072393c (permanent=True)
+[05:01:28] film cr_film_id=15379 all candidates exhausted
+[05:01:28] iteration 13/20
+[05:01:28] film cr_film_id=15383 name='Den vran (2012) CZ Dabing' candidates=1
+[05:01:28]   candidate upload_id=592cc1ace76e3 url=https://prehraj.to/den-vran-2012-cz-dabing/592cc1ace76e3
+[05:01:34]   resolved in 6.0s → 480p (https://pf-storage2.premiumcdn.net/2277602/bo8IqlSY7tJgFDVC1ptaXS0dcmlh07FNkFwgh…)
+[05:02:01]   downloaded 581.1 MB in 25.7s (22.6 MB/s)
+[05:02:29]   upload done video_id=26710707 in 27.6s
