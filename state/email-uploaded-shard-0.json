@@ -84414,6 +84414,25 @@
         "download_sec": 114.7,
         "upload_sec": 147.0
       }
+    },
+    {
+      "cr_film_id": 15478,
+      "cr_slug": "staci-trocha-vanoc",
+      "title": "Stačí trocha Vánoc",
+      "year": 2022,
+      "display_name": "Stačí trocha Vánoc (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "657b1f210db7b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26759357,
+      "size_bytes": 2235350444,
+      "uploaded_at": "2026-06-26T14:18:30Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 120.1,
+        "upload_sec": 127.5
+      }
     }
   ],
   "failed_attempts": [
@@ -87243,7 +87262,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cesta-do-tvojzemi-2022-cz-dabing-1080p/3f6e2c108fe7eae3",
       "permanent": true,
       "failed_at": "2026-06-26T13:18:02Z"
+    },
+    {
+      "cr_film_id": 15476,
+      "upload_id": "fb2015c941d1e9d7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sance-v-case-2024-cz-dab-1080p-mp4/fb2015c941d1e9d7",
+      "permanent": true,
+      "failed_at": "2026-06-26T14:14:01Z"
+    },
+    {
+      "cr_film_id": 15476,
+      "upload_id": "53e0407c80817511",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sance-v-case-2024-cz-dab-1080p-mp4/53e0407c80817511",
+      "permanent": true,
+      "failed_at": "2026-06-26T14:14:08Z"
+    },
+    {
+      "cr_film_id": 15476,
+      "upload_id": "677829eaa74414f4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sance-v-case-2024-cz-dab-1080p/677829eaa74414f4",
+      "permanent": true,
+      "failed_at": "2026-06-26T14:14:14Z"
     }
   ],
-  "last_updated": "2026-06-26T14:13:58Z"
+  "last_updated": "2026-06-26T14:18:30Z"
 }
