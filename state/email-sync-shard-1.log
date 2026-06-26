@@ -33189,3 +33189,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:18:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kde-konci-laska-cz-2025-1080p/6f25d6d63f35c2f9 (permanent=True)
 [23:18:29] film cr_film_id=16513 all candidates exhausted
 [23:18:29] batch-end ok=19 failed=1 dur=3504.1s avg/film=184.4s remaining=12900 eta_hours=660.8
+
+===== run 2026-06-26T23:19:05Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28270630335) =====
+[23:19:07] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:19:08] batch-start shard=1/2 count=20 backlog=17650 uploads=4750 failed_attempts=378 description_overrides=17579
+[23:19:08] login
+[23:19:09] login done
+[23:19:09] iteration 1/20
+[23:19:09] film cr_film_id=16519 name='Gerta Schnirch (2026) CZ Dabing' candidates=4
+[23:19:09]   candidate upload_id=2f910a2feba1d440 url=https://prehraj.to/gerta-schnirch-2026-cz-dabing-cast-2/2f910a2feba1d440
+[23:19:12]   resolved in 2.4s → 1080p (https://pf-storage5.premiumcdn.net/164804732/pnYFlxUq3TLzIadcW1hAYUdeHgQi0NilAt7…)
+[23:20:29]   downloaded 1,752.7 MB in 74.8s (23.4 MB/s)
+[23:22:12]   upload done video_id=26803501 in 103.7s
