@@ -81640,6 +81640,25 @@
         "download_sec": 62.8,
         "upload_sec": 86.3
       }
+    },
+    {
+      "cr_film_id": 14978,
+      "cr_slug": "velky-film-maleho-zralocatka",
+      "title": "Velký film malého žraločátka",
+      "year": 2023,
+      "display_name": "Velký film malého žraločátka (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "caffd7ca04a3f496",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26720191,
+      "size_bytes": 1941716927,
+      "uploaded_at": "2026-06-26T06:44:59Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 79.0,
+        "upload_sec": 88.3
+      }
     }
   ],
   "failed_attempts": [
@@ -84380,7 +84399,21 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/zlodejka-zivota-2021-cz-dabing-hd-mp4/3fff72a5998d68a4",
       "permanent": true,
       "failed_at": "2026-06-26T06:01:32Z"
+    },
+    {
+      "cr_film_id": 14976,
+      "upload_id": "8472dd628ffe5a19",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/temny-priliv-2012-cz-dabing/8472dd628ffe5a19",
+      "permanent": true,
+      "failed_at": "2026-06-26T06:41:58Z"
+    },
+    {
+      "cr_film_id": 14976,
+      "upload_id": "7f8debc8ef756d24",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/temny-priliv-2012-cz-dabing/7f8debc8ef756d24",
+      "permanent": true,
+      "failed_at": "2026-06-26T06:42:04Z"
     }
   ],
-  "last_updated": "2026-06-26T06:41:56Z"
+  "last_updated": "2026-06-26T06:44:59Z"
 }
