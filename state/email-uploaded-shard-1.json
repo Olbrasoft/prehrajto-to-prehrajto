@@ -80870,6 +80870,25 @@
         "download_sec": 53.2,
         "upload_sec": 57.0
       }
+    },
+    {
+      "cr_film_id": 15255,
+      "cr_slug": "blackout",
+      "title": "Blackout",
+      "year": 2010,
+      "display_name": "Blackout (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "c18533a1dfbff7a5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26700100,
+      "size_bytes": 517450182,
+      "uploaded_at": "2026-06-26T03:28:21Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 32.1,
+        "upload_sec": 33.2
+      }
     }
   ],
   "failed_attempts": [
@@ -83288,5 +83307,5 @@
       "failed_at": "2026-06-26T03:14:51Z"
     }
   ],
-  "last_updated": "2026-06-26T03:27:11Z"
+  "last_updated": "2026-06-26T03:28:21Z"
 }
