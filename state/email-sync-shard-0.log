@@ -30906,3 +30906,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:57:14]   upload done video_id=26721296 in 28.7s
 [06:57:15] film cr_film_id=14988 OK in 47.8s
 [06:57:15] batch-end ok=19 failed=1 dur=2446.2s avg/film=128.7s remaining=13187 eta_hours=471.4
+
+===== run 2026-06-26T07:05:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28222848623) =====
+[07:05:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:05:31] batch-start shard=0/2 count=20 backlog=17650 uploads=4463 failed_attempts=387 description_overrides=17579
+[07:05:31] login
+[07:05:33] login done
+[07:05:33] iteration 1/20
+[07:05:33] film cr_film_id=14990 name='Padlý voják (2025) CZ Dabing' candidates=3
+[07:05:33]   candidate upload_id=68d6fc421a81e url=https://prehraj.to/sunray-fallen-soldier-2024-1080p-cz-dab-akcni-mp4/68d6fc421a81e
+[07:05:34]   resolved in 1.6s → 1080p (https://pf-storage4.premiumcdn.net/148592163/4rdfkJc1dU7nhrPi43cB6c46ioNsqWTNYSK…)
+[07:07:07]   downloaded 1,715.0 MB in 90.5s (19.0 MB/s)
+[07:08:44]   upload done video_id=26722037 in 97.3s
