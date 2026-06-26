@@ -31703,3 +31703,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:10:23]   upload done video_id=26743505 in 258.8s
 [11:10:24] film cr_film_id=15823 OK in 411.4s
 [11:10:24] batch-end ok=20 failed=0 dur=3582.6s avg/film=179.1s remaining=13084 eta_hours=650.9
+
+===== run 2026-06-26T11:11:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28234349764) =====
+[11:11:03] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:11:03] batch-start shard=1/2 count=20 backlog=17650 uploads=4566 failed_attempts=340 description_overrides=17579
+[11:11:03] login
+[11:11:04] login done
+[11:11:04] iteration 1/20
+[11:11:04] film cr_film_id=15825 name='Přijde letos Ježíšek? (2013) CZ Dabing' candidates=10
+[11:11:04]   candidate upload_id=5bdb2e9299675 url=https://prehraj.to/prijde-letos-jezisek-cz-dabing-2013/5bdb2e9299675
+[11:11:05]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/7755178/JyWF1VToECXNh2Mt4oTz7TGYhJMU8JIj2u9vf…)
+[11:11:26]   downloaded 504.3 MB in 19.4s (26.0 MB/s)
+[11:12:12]   upload done video_id=26743880 in 46.3s
