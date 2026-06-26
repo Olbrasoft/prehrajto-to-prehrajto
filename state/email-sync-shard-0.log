@@ -31057,3 +31057,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:53:07]   upload done video_id=26726150 in 31.8s
 [07:53:09] film cr_film_id=15058 OK in 66.2s
 [07:53:09] batch-end ok=19 failed=1 dur=2856.6s avg/film=150.3s remaining=13168 eta_hours=549.8
+
+===== run 2026-06-26T08:04:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28225474997) =====
+[08:04:29] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:04:29] batch-start shard=0/2 count=20 backlog=17650 uploads=4482 failed_attempts=391 description_overrides=17579
+[08:04:29] login
+[08:04:31] login done
+[08:04:31] iteration 1/20
+[08:04:31] film cr_film_id=15064 name='Nestoudná (2024) CZ Dabing' candidates=4
+[08:04:31]   candidate upload_id=0b346526d9b0a792 url=https://prehraj.to/nestoudna-cz-dabing-1080p-mp4/0b346526d9b0a792
+[08:04:32]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/163292951/Z6rspLTo2SRDiJmfx6flVTokfx1fp8sp6CV…)
+[08:05:56]   downloaded 2,034.9 MB in 82.4s (24.7 MB/s)
+[08:08:08]   upload done video_id=26727308 in 131.9s
