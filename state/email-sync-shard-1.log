@@ -30098,3 +30098,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:53:49]   upload done video_id=26683983 in 121.1s
 [00:53:51] film cr_film_id=15071 OK in 238.8s
 [00:53:51] batch-end ok=20 failed=0 dur=3209.7s avg/film=160.5s remaining=13297 eta_hours=592.8
+
+===== run 2026-06-26T00:54:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28210113521) =====
+[00:54:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:54:31] batch-start shard=1/2 count=20 backlog=17650 uploads=4353 failed_attempts=332 description_overrides=17579
+[00:54:31] login
+[00:54:33] login done
+[00:54:33] iteration 1/20
+[00:54:33] film cr_film_id=15073 name='Brácha (2022) CZ Dabing' candidates=3
+[00:54:33]   candidate upload_id=ba5cb8aaf0f8ef00 url=https://prehraj.to/bracha-2022-cz-dab-1080p/ba5cb8aaf0f8ef00
+[00:54:34]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/168348424/YzvfMyTgjuNZSa4FZ1ikQTWbFmzfgRCjMhR…)
+[00:55:45]   downloaded 1,530.2 MB in 68.9s (22.2 MB/s)
+[00:56:56]   upload done video_id=26684305 in 71.1s
