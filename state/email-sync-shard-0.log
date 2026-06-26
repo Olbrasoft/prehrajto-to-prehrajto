@@ -29734,3 +29734,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:59:38]   upload done video_id=26678612 in 36.7s
 [23:59:40] film cr_film_id=14462 OK in 67.0s
 [23:59:40] batch-end ok=20 failed=0 dur=2803.8s avg/film=140.2s remaining=13339 eta_hours=519.5
+
+===== run 2026-06-26T00:00:17Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28208166685) =====
+[00:00:18] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:00:19] batch-start shard=0/2 count=20 backlog=17650 uploads=4311 failed_attempts=373 description_overrides=17579
+[00:00:19] login
+[00:00:20] login done
+[00:00:20] iteration 1/20
+[00:00:20] film cr_film_id=14464 name='Smeč (1983) CZ Dabing' candidates=1
+[00:00:20]   candidate upload_id=619d6c57ba6f5 url=https://prehraj.to/smec-1983-czdab/619d6c57ba6f5
+[00:00:22]   resolved in 1.6s → 720p (https://pf-storage2.premiumcdn.net/26772160/JWqcwnFwxtZkS17InJIVPFGgSdvTQYskWTbN…)
+[00:00:51]   downloaded 433.7 MB in 25.9s (16.7 MB/s)
+[00:01:17]   upload done video_id=26678790 in 26.4s
