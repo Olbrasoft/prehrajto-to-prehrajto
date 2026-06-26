@@ -32684,3 +32684,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:15:58]   upload done video_id=26793292 in 20.2s
 [21:15:59] film cr_film_id=15796 OK in 249.3s
 [21:15:59] batch-end ok=20 failed=0 dur=8660.8s avg/film=433.0s remaining=12955 eta_hours=1558.2
+
+===== run 2026-06-26T21:16:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28265755369) =====
+[21:16:37] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:16:37] batch-start shard=0/2 count=20 backlog=17650 uploads=4695 failed_attempts=409 description_overrides=17579
+[21:16:37] login
+[21:16:39] login done
+[21:16:39] iteration 1/20
+[21:16:39] film cr_film_id=15798 name='Ze všech sil (2013) CZ' candidates=1
+[21:16:39]   candidate upload_id=5ac46b550cd8a url=https://prehraj.to/ze-vsech-sil-2013/5ac46b550cd8a
+[21:16:40]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3824473/ZAeI1Xu0OIwgtVZUXvc8zuBoFd3SGlU7Xu52s…)
+[21:17:12]   downloaded 547.9 MB in 30.0s (18.3 MB/s)
+[21:18:03]   upload done video_id=26793449 in 50.8s
