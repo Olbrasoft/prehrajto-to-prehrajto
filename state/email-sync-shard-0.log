@@ -32094,3 +32094,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:07:12]   upload done video_id=26763506 in 142.8s
 [15:07:15] film cr_film_id=15520 OK in 270.8s
 [15:07:15] batch-end ok=19 failed=1 dur=3927.1s avg/film=206.7s remaining=13031 eta_hours=748.2
+
+===== run 2026-06-26T15:08:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28246726640) =====
+[15:08:03] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:08:03] batch-start shard=0/2 count=20 backlog=17650 uploads=4619 failed_attempts=400 description_overrides=17579
+[15:08:03] login
+[15:08:04] login done
+[15:08:04] iteration 1/20
+[15:08:04] film cr_film_id=15524 name='Čtyři slunce (2012) CZ' candidates=3
+[15:08:04]   candidate upload_id=5c1da3141fbd5 url=https://prehraj.to/ctyri-slunce-2012-cesky-film/5c1da3141fbd5
+[15:08:05]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/9763145/Nbwij3H9xcbOuL6U3RtdNHVPI9BI51c6oH8Ku…)
+[15:08:38]   downloaded 735.0 MB in 31.2s (23.6 MB/s)
+[15:09:12]   upload done video_id=26763770 in 33.7s
