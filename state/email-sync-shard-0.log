@@ -32210,3 +32210,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:33:11]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/167398529/dNlcbQS5jHXJiDkhd7T36SZvUnWtexFb7FY…)
 [15:34:26]   downloaded 2,183.7 MB in 73.3s (29.8 MB/s)
 [15:35:42]   upload done video_id=26765866 in 75.5s
+[15:35:44] film cr_film_id=15572 OK in 153.9s
+[15:35:44] iteration 16/20
+[15:35:44] film cr_film_id=15574 name='Nejkrásnější dar (2022) CZ Dabing' candidates=1
+[15:35:44]   candidate upload_id=d5b356d78c461091 url=https://prehraj.to/nejkrasnejsi-dar-2022-cz-dab-1080p/d5b356d78c461091
+[15:35:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nejkrasnejsi-dar-2022-cz-dab-1080p/d5b356d78c461091 (permanent=True)
+[15:35:45] film cr_film_id=15574 all candidates exhausted
+[15:35:45] iteration 17/20
+[15:35:45] film cr_film_id=15578 name='S písní v tísni (2022) CZ Dabing' candidates=1
+[15:35:45]   candidate upload_id=6360624791996 url=https://prehraj.to/s-pisni-v-tisni-2022-czdab/6360624791996
+[15:35:51]   resolved in 6.0s → 1080p (https://pf-storage4.premiumcdn.net/34223386/4BYHrAIJYimqt8Auzkh6GIYncrXSzZTpjfNm…)
+[15:36:42]   downloaded 1,340.8 MB in 48.9s (27.4 MB/s)
+[15:37:34]   upload done video_id=26766017 in 52.4s

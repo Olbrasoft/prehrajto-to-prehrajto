@@ -84965,6 +84965,25 @@
         "download_sec": 73.3,
         "upload_sec": 75.5
       }
+    },
+    {
+      "cr_film_id": 15578,
+      "cr_slug": "s-pisni-v-tisni",
+      "title": "S písní v tísni",
+      "year": 2022,
+      "display_name": "S písní v tísni (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6360624791996",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26766017,
+      "size_bytes": 1340837229,
+      "uploaded_at": "2026-06-26T15:37:34Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 48.9,
+        "upload_sec": 52.4
+      }
     }
   ],
   "failed_attempts": [
@@ -87864,7 +87883,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jak-vycvicit-draka-lexikon-draku-2011-cz-dab-720p-mp4/c501e6701d59f4fd",
       "permanent": true,
       "failed_at": "2026-06-26T15:15:41Z"
+    },
+    {
+      "cr_film_id": 15574,
+      "upload_id": "d5b356d78c461091",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/nejkrasnejsi-dar-2022-cz-dab-1080p/d5b356d78c461091",
+      "permanent": true,
+      "failed_at": "2026-06-26T15:35:45Z"
     }
   ],
-  "last_updated": "2026-06-26T15:35:42Z"
+  "last_updated": "2026-06-26T15:37:34Z"
 }
