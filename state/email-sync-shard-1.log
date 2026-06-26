@@ -32578,3 +32578,10 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:24:06]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/13623147/Oo8SBwHy8hRkTKmHQyiRvHodC06IY4IjgIX2…)
 [16:25:41]   downloaded 2,323.9 MB in 93.3s (24.9 MB/s)
 [16:27:32]   upload done video_id=26770035 in 110.4s
+[16:27:33] film cr_film_id=16213 OK in 208.6s
+[16:27:33] iteration 20/20
+[16:27:33] film cr_film_id=16215 name='Hranice důvěry (2025) CZ Dabing' candidates=1
+[16:27:33]   candidate upload_id=ed37d4aec3599fe2 url=https://prehraj.to/trust-fhd-web-dl-cz-5-1-en-5-1-2025-1080p-mkv/ed37d4aec3599fe2
+[16:27:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/trust-fhd-web-dl-cz-5-1-en-5-1-2025-1080p-mkv/ed37d4aec3599fe2 (permanent=True)
+[16:27:35] film cr_film_id=16215 all candidates exhausted
+[16:27:35] batch-end ok=17 failed=3 dur=2552.0s avg/film=150.1s remaining=12974 eta_hours=540.9
