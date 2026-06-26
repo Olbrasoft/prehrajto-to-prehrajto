@@ -80386,6 +80386,25 @@
         "download_sec": 101.8,
         "upload_sec": 106.1
       }
+    },
+    {
+      "cr_film_id": 14736,
+      "cr_slug": "zlaty-kolovratok",
+      "title": "Zlatý kolovrátok",
+      "year": 1995,
+      "display_name": "Zlatý kolovrátok (1995) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6843516ab95f7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26704235,
+      "size_bytes": 1055876447,
+      "uploaded_at": "2026-06-26T04:04:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 39.6,
+        "upload_sec": 53.8
+      }
     }
   ],
   "failed_attempts": [
@@ -83065,5 +83084,5 @@
       "failed_at": "2026-06-26T01:28:54Z"
     }
   ],
-  "last_updated": "2026-06-26T04:02:45Z"
+  "last_updated": "2026-06-26T04:04:23Z"
 }
