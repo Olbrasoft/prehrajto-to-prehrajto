@@ -85677,6 +85677,25 @@
         "download_sec": 83.6,
         "upload_sec": 101.5
       }
+    },
+    {
+      "cr_film_id": 16165,
+      "cr_slug": "aspirant",
+      "title": "Aspirant",
+      "year": 2015,
+      "display_name": "Aspirant (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ffe08a51be96",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26767134,
+      "size_bytes": 1220802745,
+      "uploaded_at": "2026-06-26T15:51:03Z",
+      "timing": {
+        "resolve_sec": 8.7,
+        "download_sec": 48.0,
+        "upload_sec": 57.6
+      }
     }
   ],
   "failed_attempts": [
@@ -88254,7 +88273,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/kdy-jindy-nez-o-vanocich-2023-cz-dabing-mp4/da92322881638b91",
       "permanent": true,
       "failed_at": "2026-06-26T15:20:54Z"
+    },
+    {
+      "cr_film_id": 16161,
+      "upload_id": "4ab58c87c4ad1267",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/friendship-2024-cz-dab-1080p/4ab58c87c4ad1267",
+      "permanent": true,
+      "failed_at": "2026-06-26T15:49:07Z"
     }
   ],
-  "last_updated": "2026-06-26T15:49:04Z"
+  "last_updated": "2026-06-26T15:51:03Z"
 }
