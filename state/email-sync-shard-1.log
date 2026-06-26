@@ -31556,3 +31556,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:09:56]   upload done video_id=26738673 in 123.4s
 [10:09:58] film cr_film_id=15747 OK in 233.2s
 [10:09:58] batch-end ok=20 failed=0 dur=3564.0s avg/film=178.2s remaining=13104 eta_hours=648.6
+
+===== run 2026-06-26T10:10:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28231563031) =====
+[10:10:40] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:10:40] batch-start shard=1/2 count=20 backlog=17650 uploads=4546 failed_attempts=340 description_overrides=17579
+[10:10:40] login
+[10:10:42] login done
+[10:10:42] iteration 1/20
+[10:10:42] film cr_film_id=15749 name='Vánoce vzhůru nohama (2022) CZ Dabing' candidates=3
+[10:10:42]   candidate upload_id=638d2558c67c9 url=https://prehraj.to/vanoce-vzhuru-nohama-2022-czdab/638d2558c67c9
+[10:10:43]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/35170849/0xmHG5iyQcQkfVBtZbTxni0OIo4c1wcgqC5x…)
+[10:12:02]   downloaded 1,393.6 MB in 76.3s (18.3 MB/s)
+[10:13:54]   upload done video_id=26739012 in 112.6s
