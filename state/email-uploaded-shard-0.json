@@ -81374,6 +81374,25 @@
         "download_sec": 25.4,
         "upload_sec": 29.2
       }
+    },
+    {
+      "cr_film_id": 14918,
+      "cr_slug": "jestli-se-rozzlobime-budeme-zli-2022",
+      "title": "Jestli se rozzlobíme, budeme zlí",
+      "year": 2022,
+      "display_name": "Jestli se rozzlobíme, budeme zlí (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63060b7cdd083",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26716781,
+      "size_bytes": 2124757383,
+      "uploaded_at": "2026-06-26T06:05:16Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 95.1,
+        "upload_sec": 121.0
+      }
     }
   ],
   "failed_attempts": [
@@ -84107,7 +84126,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-hory-prenasi-cz-2022-mp4/7276e5f9b1fddde5",
       "permanent": true,
       "failed_at": "2026-06-26T05:11:30Z"
+    },
+    {
+      "cr_film_id": 14916,
+      "upload_id": "3fff72a5998d68a4",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/zlodejka-zivota-2021-cz-dabing-hd-mp4/3fff72a5998d68a4",
+      "permanent": true,
+      "failed_at": "2026-06-26T06:01:32Z"
     }
   ],
-  "last_updated": "2026-06-26T06:01:29Z"
+  "last_updated": "2026-06-26T06:05:16Z"
 }
