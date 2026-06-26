@@ -32732,3 +32732,24 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [18:13:28]   upload done video_id=26778528 in 109.4s
 [18:13:30] film cr_film_id=16283 OK in 298.8s
 [18:13:30] batch-end ok=20 failed=0 dur=4570.0s avg/film=228.5s remaining=12954 eta_hours=822.2
+
+===== run 2026-06-26T18:51:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28258672657) =====
+[18:51:38] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[18:51:38] batch-start shard=1/2 count=20 backlog=17650 uploads=4696 failed_attempts=360 description_overrides=17579
+[18:51:38] login
+[18:51:39] login done
+[18:51:39] iteration 1/20
+[18:51:39] film cr_film_id=16287 name='Letní Vánoce (2024) CZ Dabing' candidates=3
+[18:51:39]   candidate upload_id=a4f7004180251ba0 url=https://prehraj.to/letni-vanoce-2024-cz-dab-1080p-mp4/a4f7004180251ba0
+[18:51:40]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-vanoce-2024-cz-dab-1080p-mp4/a4f7004180251ba0 (permanent=True)
+[18:51:40]   candidate upload_id=851ce9e2937b3b3f url=https://prehraj.to/letni-vanoce-2024-cz-dab-1080p/851ce9e2937b3b3f
+[18:51:46]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-vanoce-2024-cz-dab-1080p/851ce9e2937b3b3f (permanent=True)
+[18:51:46]   candidate upload_id=f03638136328ef4b url=https://prehraj.to/letni-vanoce-2024-cz-dab-1080p-mp4/f03638136328ef4b
+[18:51:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-vanoce-2024-cz-dab-1080p-mp4/f03638136328ef4b (permanent=True)
+[18:51:52] film cr_film_id=16287 all candidates exhausted
+[18:51:52] iteration 2/20
+[18:51:52] film cr_film_id=16289 name='K9: Ocelový tesák - Město vlků (2025) CZ Dabing' candidates=3
+[18:51:52]   candidate upload_id=c89951798c463cc8 url=https://prehraj.to/k9-ocelovy-tesak-mesto-vlku-2025-cz-dab-1080p/c89951798c463cc8
+[18:51:58]   resolved in 6.2s → 1080p (https://pf-storage5.premiumcdn.net/168420613/vZRiEbSjltdBI90cy2HxZSnRt8Ri9OcJAi3…)
+[18:54:26]   downloaded 2,286.8 MB in 145.8s (15.7 MB/s)
+[18:57:11]   upload done video_id=26781652 in 165.1s
