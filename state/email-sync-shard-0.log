@@ -32904,3 +32904,25 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:42:27]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/432119/N17H2mi32FNmfOBIybfxNin6uzwfxecGyCqkhG…)
 [22:42:53]   downloaded 513.9 MB in 24.2s (21.2 MB/s)
 [22:43:24]   upload done video_id=26800518 in 30.6s
+[22:43:26] film cr_film_id=15896 OK in 59.9s
+[22:43:26] iteration 11/20
+[22:43:26] film cr_film_id=15898 name='Letní tábor (2024) CZ Dabing' candidates=6
+[22:43:26]   candidate upload_id=3945d46e2ea58d6b url=https://prehraj.to/letni-tabor-2024-cz-dabing-1080p-mp4/3945d46e2ea58d6b
+[22:43:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-tabor-2024-cz-dabing-1080p-mp4/3945d46e2ea58d6b (permanent=True)
+[22:43:26]   candidate upload_id=5b8ec98f041d91cb url=https://prehraj.to/letni-tabor-2024-cz-dabing-1080p-mp4/5b8ec98f041d91cb
+[22:43:32]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-tabor-2024-cz-dabing-1080p-mp4/5b8ec98f041d91cb (permanent=True)
+[22:43:32]   candidate upload_id=abf239bbac45fd0d url=https://prehraj.to/letni-tabor-2024-cz-dabing-1080p/abf239bbac45fd0d
+[22:43:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-tabor-2024-cz-dabing-1080p/abf239bbac45fd0d (permanent=True)
+[22:43:39]   candidate upload_id=3b1360b135721bb7 url=https://prehraj.to/letni-tabor-2024-cz-dabing-1080p-mp4/3b1360b135721bb7
+[22:43:47]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-tabor-2024-cz-dabing-1080p-mp4/3b1360b135721bb7 (permanent=True)
+[22:43:47]   candidate upload_id=50ca63da106c2982 url=https://prehraj.to/letni-tabor-2024-cz-dabing-1080p-mp4/50ca63da106c2982
+[22:43:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-tabor-2024-cz-dabing-1080p-mp4/50ca63da106c2982 (permanent=True)
+[22:43:53]   candidate upload_id=0d797e11b5733a38 url=https://prehraj.to/letni-tabor-2024-cz-dab-1080p/0d797e11b5733a38
+[22:43:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/letni-tabor-2024-cz-dab-1080p/0d797e11b5733a38 (permanent=True)
+[22:43:58] film cr_film_id=15898 all candidates exhausted
+[22:43:58] iteration 12/20
+[22:43:58] film cr_film_id=15906 name='Letní pohádka (1985) CZ Dabing' candidates=1
+[22:43:58]   candidate upload_id=57cfa0937da1e url=https://prehraj.to/letni-pohadka-1984-czdab/57cfa0937da1e
+[22:44:04]   resolved in 6.1s → 480p (https://pf-storage2.premiumcdn.net/14944/ZO4HVkhOXSJjt07cZPiXWhN1cKMHVnsvWFZeUZV…)
+[22:44:27]   downloaded 310.3 MB in 20.8s (14.9 MB/s)
+[22:44:46]   upload done video_id=26800610 in 19.7s
