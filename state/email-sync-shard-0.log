@@ -31798,3 +31798,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:43:19]   upload done video_id=26751598 in 17.1s
 [12:43:21] film cr_film_id=15408 OK in 37.0s
 [12:43:21] batch-end ok=20 failed=0 dur=3162.8s avg/film=158.1s remaining=13068 eta_hours=573.9
+
+===== run 2026-06-26T12:50:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28239100207) =====
+[12:50:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:50:27] batch-start shard=0/2 count=20 backlog=17650 uploads=4582 failed_attempts=393 description_overrides=17579
+[12:50:27] login
+[12:50:29] login done
+[12:50:29] iteration 1/20
+[12:50:29] film cr_film_id=15414 name='Škola princů (2010) CZ Dabing' candidates=18
+[12:50:29]   candidate upload_id=5a10e7a0a35f4 url=https://prehraj.to/skola-princu-cz-dabing-2010/5a10e7a0a35f4
+[12:50:30]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/2939507/0N2IoJFmwsnpC6zUp3i2yFDVtb9cDwsEJI2wT…)
+[12:52:08]   downloaded 2,204.0 MB in 95.7s (23.0 MB/s)
+[12:54:47]   upload done video_id=26752353 in 158.8s
