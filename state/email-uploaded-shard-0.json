@@ -82153,6 +82153,25 @@
         "download_sec": 104.1,
         "upload_sec": 139.0
       }
+    },
+    {
+      "cr_film_id": 15070,
+      "cr_slug": "limit",
+      "title": "Limit",
+      "year": 2010,
+      "display_name": "Limit (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "637e206019bce",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26727975,
+      "size_bytes": 1686596479,
+      "uploaded_at": "2026-06-26T08:15:20Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 66.1,
+        "upload_sec": 113.3
+      }
     }
   ],
   "failed_attempts": [
@@ -84937,5 +84956,5 @@
       "failed_at": "2026-06-26T07:24:31Z"
     }
   ],
-  "last_updated": "2026-06-26T08:12:16Z"
+  "last_updated": "2026-06-26T08:15:20Z"
 }
