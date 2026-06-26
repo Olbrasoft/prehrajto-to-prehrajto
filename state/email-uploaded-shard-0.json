@@ -86580,6 +86580,25 @@
         "download_sec": 114.9,
         "upload_sec": 131.2
       }
+    },
+    {
+      "cr_film_id": 15876,
+      "cr_slug": "margueritin-teorem",
+      "title": "Margueritin teorém",
+      "year": 2023,
+      "display_name": "Margueritin teorém (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a4c7157a103fae22",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26799509,
+      "size_bytes": 1730565538,
+      "uploaded_at": "2026-06-26T22:32:46Z",
+      "timing": {
+        "resolve_sec": 7.1,
+        "download_sec": 88.3,
+        "upload_sec": 101.6
+      }
     }
   ],
   "failed_attempts": [
@@ -89507,7 +89526,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/most-v-ohni-2024-cz-dab-1080p-mp4/2a2a378cccb6a1c6",
       "permanent": true,
       "failed_at": "2026-06-26T22:19:24Z"
+    },
+    {
+      "cr_film_id": 15872,
+      "upload_id": "f28c5e5aa6c1786c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tatami-2024-cz-dabing-full-hd-thriller-top-kvalita-1084066-mp4/f28c5e5aa6c1786c",
+      "permanent": true,
+      "failed_at": "2026-06-26T22:29:27Z"
     }
   ],
-  "last_updated": "2026-06-26T22:29:24Z"
+  "last_updated": "2026-06-26T22:32:46Z"
 }
