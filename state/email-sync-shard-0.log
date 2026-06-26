@@ -30022,3 +30022,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:53:22]   upload done video_id=26690149 in 66.3s
 [01:53:24] film cr_film_id=14600 OK in 130.7s
 [01:53:24] batch-end ok=19 failed=1 dur=3529.3s avg/film=185.8s remaining=13302 eta_hours=686.5
+
+===== run 2026-06-26T01:54:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28212132823) =====
+[01:54:12] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:54:12] batch-start shard=0/2 count=20 backlog=17650 uploads=4348 failed_attempts=376 description_overrides=17579
+[01:54:12] login
+[01:54:14] login done
+[01:54:14] iteration 1/20
+[01:54:14] film cr_film_id=14604 name='Vypečený Santa (2020) CZ Dabing' candidates=4
+[01:54:14]   candidate upload_id=61cb1e1f4ed1e url=https://prehraj.to/vypeceny-santa-a-sunburnt-christmas-2020-480p-webrip-cz-dabing-mp4/61cb1e1f4ed1e
+[01:54:15]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/27852378/ROjswPfMyF37fLVumbF1EfNPhZ2SJVcb4FDL…)
+[01:54:42]   downloaded 469.9 MB in 25.0s (18.8 MB/s)
+[01:55:19]   upload done video_id=26690469 in 36.5s
