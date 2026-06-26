@@ -82751,6 +82751,25 @@
         "download_sec": 115.3,
         "upload_sec": 122.6
       }
+    },
+    {
+      "cr_film_id": 15615,
+      "cr_slug": "splatka",
+      "title": "Splátka",
+      "year": 2025,
+      "display_name": "Splátka (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a67d32956d2b89b0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26727276,
+      "size_bytes": 1775269807,
+      "uploaded_at": "2026-06-26T08:07:25Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 69.5,
+        "upload_sec": 99.7
+      }
     }
   ],
   "failed_attempts": [
@@ -85204,5 +85223,5 @@
       "failed_at": "2026-06-26T06:38:31Z"
     }
   ],
-  "last_updated": "2026-06-26T08:03:50Z"
+  "last_updated": "2026-06-26T08:07:25Z"
 }
