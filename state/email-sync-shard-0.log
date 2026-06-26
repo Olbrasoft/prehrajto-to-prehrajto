@@ -33039,3 +33039,16 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:44:23]   resolved in 1.2s → 1080p (https://pf-storage3.premiumcdn.net/143133545/nx1h9dFZ9hjkcNKsOvt6wF5BiVjheqtEru9…)
 [23:46:25]   downloaded 2,228.4 MB in 119.6s (18.6 MB/s)
 [23:48:27]   upload done video_id=26805650 in 121.6s
+[23:48:29] film cr_film_id=15958 OK in 246.9s
+[23:48:29] iteration 9/20
+[23:48:29] film cr_film_id=15962 name='Pochybná sebranka (2024) CZ Dabing' candidates=5
+[23:48:29]   candidate upload_id=fbf85574411b4080 url=https://prehraj.to/riff-raff-pochybna-sebranka-cz-dabing-2024-1080p/fbf85574411b4080
+[23:48:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/riff-raff-pochybna-sebranka-cz-dabing-2024-1080p/fbf85574411b4080 (permanent=True)
+[23:48:29]   candidate upload_id=468100be95e2a115 url=https://prehraj.to/riff-raff-pochybna-sebranka-cz-dabing-2024-1080p-mp4/468100be95e2a115
+[23:48:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/riff-raff-pochybna-sebranka-cz-dabing-2024-1080p-mp4/468100be95e2a115 (permanent=True)
+[23:48:35]   candidate upload_id=1b10bdcdeb551383 url=https://prehraj.to/riff-raff-pochybna-sebranka-cz-dabing-2024-1080p-mp4/1b10bdcdeb551383
+[23:48:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/riff-raff-pochybna-sebranka-cz-dabing-2024-1080p-mp4/1b10bdcdeb551383 (permanent=True)
+[23:48:42]   candidate upload_id=54b09ae4897c1088 url=https://prehraj.to/pochybna-sebranka-2024-cz-dab-1080p/54b09ae4897c1088
+[23:48:48]   resolved in 5.9s → 1080p (https://pf-storage3.premiumcdn.net/157018736/onMI4khMOTD7saqtzBTajhLQuP4F2ecN4cB…)
+[23:50:08]   downloaded 1,853.1 MB in 78.6s (23.6 MB/s)
+[23:51:59]   upload done video_id=26805926 in 111.3s
