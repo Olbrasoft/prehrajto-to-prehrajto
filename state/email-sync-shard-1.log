@@ -32058,3 +32058,21 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:14:09]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/166462577/Rn6to2IY3cA7I28T76He7IBKCGaclOCBaiP…)
 [13:15:36]   downloaded 1,771.6 MB in 85.8s (20.6 MB/s)
 [13:18:12]   upload done video_id=26754192 in 155.7s
+[13:18:14] film cr_film_id=15983 OK in 246.7s
+[13:18:14] iteration 9/20
+[13:18:14] film cr_film_id=15985 name='Neprůstřelná rodina (2025) CZ' candidates=4
+[13:18:14]   candidate upload_id=8ebc891c16e96d01 url=https://prehraj.to/neprustrelna-rodina-cz-2025-mp4/8ebc891c16e96d01
+[13:18:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neprustrelna-rodina-cz-2025-mp4/8ebc891c16e96d01 (permanent=True)
+[13:18:15]   candidate upload_id=1c6dcbd0ac44f274 url=https://prehraj.to/neprustrelna-rodina-cz-2025-mp4/1c6dcbd0ac44f274
+[13:18:21]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neprustrelna-rodina-cz-2025-mp4/1c6dcbd0ac44f274 (permanent=True)
+[13:18:21]   candidate upload_id=954db687046442d3 url=https://prehraj.to/neprustrelna-rodina-cz-2025-mp4/954db687046442d3
+[13:18:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neprustrelna-rodina-cz-2025-mp4/954db687046442d3 (permanent=True)
+[13:18:27]   candidate upload_id=c6c617f35dba5fe5 url=https://prehraj.to/neprustrelna-rodina-cz-2025-mp4/c6c617f35dba5fe5
+[13:18:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neprustrelna-rodina-cz-2025-mp4/c6c617f35dba5fe5 (permanent=True)
+[13:18:34] film cr_film_id=15985 all candidates exhausted
+[13:18:34] iteration 10/20
+[13:18:34] film cr_film_id=15987 name='Na křídlech lásky (2023) CZ Dabing' candidates=7
+[13:18:34]   candidate upload_id=66539e40976bb url=https://prehraj.to/na-kridlech-lasky-2023-cz-dab/66539e40976bb
+[13:18:40]   resolved in 6.2s → 1080p (https://pf-storage4.premiumcdn.net/77708633/zWMTLAcQnfMDTNvf8MHL4coxH4YI5rsZ5IVx…)
+[13:20:20]   downloaded 2,011.6 MB in 97.0s (20.7 MB/s)
+[13:22:17]   upload done video_id=26754530 in 117.2s
