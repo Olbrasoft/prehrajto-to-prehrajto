@@ -31498,3 +31498,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:48:27]   upload done video_id=26742011 in 50.1s
 [10:48:29] film cr_film_id=15264 OK in 96.7s
 [10:48:29] batch-end ok=20 failed=0 dur=2267.1s avg/film=113.4s remaining=13108 eta_hours=412.9
+
+===== run 2026-06-26T11:11:02Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28234349764) =====
+[11:11:04] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:11:04] batch-start shard=0/2 count=20 backlog=17650 uploads=4542 failed_attempts=391 description_overrides=17579
+[11:11:04] login
+[11:11:05] login done
+[11:11:05] iteration 1/20
+[11:11:05] film cr_film_id=15266 name='Neznámá identita (2011) CZ Dabing' candidates=1
+[11:11:05]   candidate upload_id=61b16a9ce6de3 url=https://prehraj.to/neznama-identita-2011-czdab/61b16a9ce6de3
+[11:11:06]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/27240462/KZVS4GCl7ir7FRXt3ZcoyC0QfM1s6ziB9fX4…)
+[11:11:59]   downloaded 1,452.4 MB in 51.0s (28.5 MB/s)
+[11:12:53]   upload done video_id=26743953 in 54.6s
