@@ -32243,3 +32243,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:41:57]   upload done video_id=26766371 in 63.3s
 [15:41:59] film cr_film_id=15584 OK in 139.1s
 [15:41:59] batch-end ok=16 failed=4 dur=2034.6s avg/film=127.2s remaining=13015 eta_hours=459.9
+
+===== run 2026-06-26T15:45:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28248833905) =====
+[15:45:04] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:45:04] batch-start shard=0/2 count=20 backlog=17650 uploads=4635 failed_attempts=409 description_overrides=17579
+[15:45:04] login
+[15:45:08] login done
+[15:45:08] iteration 1/20
+[15:45:08] film cr_film_id=15590 name='Čtvrtá stěna (2024) CZ Dabing' candidates=9
+[15:45:08]   candidate upload_id=25dc05d25dd7df10 url=https://prehraj.to/ctvrta-stena-2024-cz-dab-1080p/25dc05d25dd7df10
+[15:45:09]   resolved in 1.3s → 1080p (https://pf-storage3.premiumcdn.net/160898999/wOyIQ7H5pUW2ivESWxhpzH1XIDOu0AUkpT1…)
+[15:47:17]   downloaded 2,269.7 MB in 125.6s (18.1 MB/s)
+[15:49:30]   upload done video_id=26766799 in 133.7s
