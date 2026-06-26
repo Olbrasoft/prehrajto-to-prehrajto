@@ -83654,6 +83654,25 @@
         "download_sec": 49.2,
         "upload_sec": 127.7
       }
+    },
+    {
+      "cr_film_id": 15350,
+      "cr_slug": "princezna-zakleta-v-case-2",
+      "title": "Princezna zakletá v čase 2",
+      "year": 2022,
+      "display_name": "Princezna zakletá v čase 2 (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "eab74abbcdca9144",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26747471,
+      "size_bytes": 1744207775,
+      "uploaded_at": "2026-06-26T11:56:27Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 60.8,
+        "upload_sec": 95.7
+      }
     }
   ],
   "failed_attempts": [
@@ -86436,7 +86455,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/buko-komedie-cesko-2022-avi-mp4/c3521c17b6723490",
       "permanent": true,
       "failed_at": "2026-06-26T07:24:31Z"
+    },
+    {
+      "cr_film_id": 15350,
+      "upload_id": "6a99277b2d5334eb",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/princezna-zakleta-v-case-2-2022-cz-dab-1080p/6a99277b2d5334eb",
+      "permanent": true,
+      "failed_at": "2026-06-26T11:53:43Z"
     }
   ],
-  "last_updated": "2026-06-26T11:53:38Z"
+  "last_updated": "2026-06-26T11:56:27Z"
 }
