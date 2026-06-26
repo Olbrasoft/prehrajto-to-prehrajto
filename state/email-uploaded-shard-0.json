@@ -79892,6 +79892,25 @@
         "download_sec": 96.1,
         "upload_sec": 111.4
       }
+    },
+    {
+      "cr_film_id": 14662,
+      "cr_slug": "kouzla-kralu",
+      "title": "Kouzla králů",
+      "year": 2008,
+      "display_name": "Kouzla králů (2008) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "638092cd4f433",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26695512,
+      "size_bytes": 3393896752,
+      "uploaded_at": "2026-06-26T02:45:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 129.2,
+        "upload_sec": 184.5
+      }
     }
   ],
   "failed_attempts": [
@@ -82571,5 +82590,5 @@
       "failed_at": "2026-06-26T01:28:54Z"
     }
   ],
-  "last_updated": "2026-06-26T02:39:55Z"
+  "last_updated": "2026-06-26T02:45:14Z"
 }
