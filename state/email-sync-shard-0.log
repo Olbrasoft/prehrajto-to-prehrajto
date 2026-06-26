@@ -29959,3 +29959,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:24:35]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/38722123/VznsEKCWRtwRHG2fvrhWwC5vuolsg0udOSx5…)
 [01:26:35]   downloaded 2,143.4 MB in 118.6s (18.1 MB/s)
 [01:28:51]   upload done video_id=26687513 in 135.9s
+[01:28:53] film cr_film_id=14558 OK in 260.0s
+[01:28:53] iteration 12/20
+[01:28:53] film cr_film_id=14560 name='Zpověď hochštaplera Felixe Krulla (2021) CZ Dabing' candidates=1
+[01:28:53]   candidate upload_id=078696ba06c5a57e url=https://prehraj.to/zpoved-hochstaplera-felixe-krulla-2021-cz-dabing/078696ba06c5a57e
+[01:28:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zpoved-hochstaplera-felixe-krulla-2021-cz-dabing/078696ba06c5a57e (permanent=True)
+[01:28:54] film cr_film_id=14560 all candidates exhausted
+[01:28:54] iteration 13/20
+[01:28:54] film cr_film_id=14572 name='Sněženky a machři po 25 letech (2008) CZ' candidates=5
+[01:28:54]   candidate upload_id=5fcde54f5e5fb url=https://prehraj.to/snezenky-a-machri-po-25-letech-2008/5fcde54f5e5fb
+[01:29:00]   resolved in 6.3s → 1080p (https://pf-storage5.premiumcdn.net/20615379/aZzFgehqdUgku4bS9QS7pha9IJeFN6tEeFqL…)
+[01:31:18]   downloaded 3,128.7 MB in 135.2s (23.1 MB/s)
+[01:34:20]   upload done video_id=26688017 in 182.1s
