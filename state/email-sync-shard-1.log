@@ -32939,3 +32939,25 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:32:18]   resolved in 0.8s → 480p (https://pf-storage2.premiumcdn.net/8144939/5MPHg6IG5SvYTY7I9aCorI58sgZUpkH4PilQt…)
 [21:32:41]   downloaded 483.8 MB in 21.1s (22.9 MB/s)
 [21:33:07]   upload done video_id=26794636 in 26.5s
+[21:33:09] film cr_film_id=16397 OK in 52.2s
+[21:33:09] iteration 8/20
+[21:33:09] film cr_film_id=16401 name='Na horách (2025) CZ Dabing' candidates=6
+[21:33:09]   candidate upload_id=5db41d9c6d0f3fc3 url=https://prehraj.to/na-horach-2025-1080p-cz-dabing-mp4/5db41d9c6d0f3fc3
+[21:33:10]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/na-horach-2025-1080p-cz-dabing-mp4/5db41d9c6d0f3fc3 (permanent=True)
+[21:33:10]   candidate upload_id=4b535fd461a63b31 url=https://prehraj.to/na-horach-2025-1080p-cz-dabing/4b535fd461a63b31
+[21:33:17]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/na-horach-2025-1080p-cz-dabing/4b535fd461a63b31 (permanent=True)
+[21:33:17]   candidate upload_id=4ccc5e8ebd56257c url=https://prehraj.to/na-horach-2025-1080p-cz-dabing-mp4/4ccc5e8ebd56257c
+[21:33:23]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/na-horach-2025-1080p-cz-dabing-mp4/4ccc5e8ebd56257c (permanent=True)
+[21:33:23]   candidate upload_id=51180385cc47c2f3 url=https://prehraj.to/na-horach-2025-cz-dabing-1080p-mkv/51180385cc47c2f3
+[21:33:29]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/na-horach-2025-cz-dabing-1080p-mkv/51180385cc47c2f3 (permanent=True)
+[21:33:29]   candidate upload_id=1b9f32623c6ff011 url=https://prehraj.to/na-horach-2025-1080p-cz-topkvalita/1b9f32623c6ff011
+[21:33:35]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/na-horach-2025-1080p-cz-topkvalita/1b9f32623c6ff011 (permanent=True)
+[21:33:35]   candidate upload_id=c10150bff46e6815 url=https://prehraj.to/na-horach-2025/c10150bff46e6815
+[21:33:41]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/na-horach-2025/c10150bff46e6815 (permanent=True)
+[21:33:41] film cr_film_id=16401 all candidates exhausted
+[21:33:41] iteration 9/20
+[21:33:41] film cr_film_id=16405 name='Spor (2025) CZ Dabing' candidates=6
+[21:33:41]   candidate upload_id=960574e515d2e993 url=https://prehraj.to/spor-2025-cz-dabing-1080p-mkv/960574e515d2e993
+[21:33:48]   resolved in 6.3s → 1080p (https://pf-storage6.premiumcdn.net/166147196/apKSr0crVTg3fo2UNdSZ6cnziAlUNeh8asD…)
+[21:34:51]   downloaded 1,397.0 MB in 62.0s (22.5 MB/s)
+[21:35:50]   upload done video_id=26794783 in 58.9s

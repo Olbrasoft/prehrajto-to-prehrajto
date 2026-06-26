@@ -86817,6 +86817,25 @@
         "download_sec": 21.1,
         "upload_sec": 26.5
       }
+    },
+    {
+      "cr_film_id": 16405,
+      "cr_slug": "spor",
+      "title": "Spor",
+      "year": 2025,
+      "display_name": "Spor (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "960574e515d2e993",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26794783,
+      "size_bytes": 1397000885,
+      "uploaded_at": "2026-06-26T21:35:50Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 62.0,
+        "upload_sec": 58.9
+      }
     }
   ],
   "failed_attempts": [
@@ -89462,7 +89481,49 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bubak-2025-ceska-novinka-mp4/6c108c11602f7b1a",
       "permanent": true,
       "failed_at": "2026-06-26T19:46:41Z"
+    },
+    {
+      "cr_film_id": 16401,
+      "upload_id": "5db41d9c6d0f3fc3",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/na-horach-2025-1080p-cz-dabing-mp4/5db41d9c6d0f3fc3",
+      "permanent": true,
+      "failed_at": "2026-06-26T21:33:10Z"
+    },
+    {
+      "cr_film_id": 16401,
+      "upload_id": "4b535fd461a63b31",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/na-horach-2025-1080p-cz-dabing/4b535fd461a63b31",
+      "permanent": true,
+      "failed_at": "2026-06-26T21:33:17Z"
+    },
+    {
+      "cr_film_id": 16401,
+      "upload_id": "4ccc5e8ebd56257c",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/na-horach-2025-1080p-cz-dabing-mp4/4ccc5e8ebd56257c",
+      "permanent": true,
+      "failed_at": "2026-06-26T21:33:23Z"
+    },
+    {
+      "cr_film_id": 16401,
+      "upload_id": "51180385cc47c2f3",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/na-horach-2025-cz-dabing-1080p-mkv/51180385cc47c2f3",
+      "permanent": true,
+      "failed_at": "2026-06-26T21:33:29Z"
+    },
+    {
+      "cr_film_id": 16401,
+      "upload_id": "1b9f32623c6ff011",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/na-horach-2025-1080p-cz-topkvalita/1b9f32623c6ff011",
+      "permanent": true,
+      "failed_at": "2026-06-26T21:33:35Z"
+    },
+    {
+      "cr_film_id": 16401,
+      "upload_id": "c10150bff46e6815",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/na-horach-2025/c10150bff46e6815",
+      "permanent": true,
+      "failed_at": "2026-06-26T21:33:41Z"
     }
   ],
-  "last_updated": "2026-06-26T21:33:07Z"
+  "last_updated": "2026-06-26T21:35:50Z"
 }
