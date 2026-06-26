@@ -32537,3 +32537,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [18:50:56]   upload done video_id=26781440 in 32.5s
 [18:50:58] film cr_film_id=15738 OK in 342.1s
 [18:50:58] batch-end ok=20 failed=0 dur=6818.3s avg/film=340.9s remaining=12975 eta_hours=1228.7
+
+===== run 2026-06-26T18:51:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28258672657) =====
+[18:51:37] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[18:51:37] batch-start shard=0/2 count=20 backlog=17650 uploads=4675 failed_attempts=409 description_overrides=17579
+[18:51:37] login
+[18:51:39] login done
+[18:51:39] iteration 1/20
+[18:51:39] film cr_film_id=15744 name='Angelo v tajemném lese (2024) CZ' candidates=1
+[18:51:39]   candidate upload_id=68d11df1adc33 url=https://prehraj.to/angelo-v-tajemnem-lese-cz-2024/68d11df1adc33
+[18:51:41]   resolved in 2.1s → 1080p (https://pf-storage4.premiumcdn.net/147855072/PZyFaPSyQhWns02cL3UEZS0lukeupRCmPH8…)
+[18:58:21]   downloaded 1,858.5 MB in 398.9s (4.7 MB/s)
+[19:00:06]   upload done video_id=26781913 in 104.2s
