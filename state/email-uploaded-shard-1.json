@@ -85183,6 +85183,25 @@
         "download_sec": 59.0,
         "upload_sec": 83.6
       }
+    },
+    {
+      "cr_film_id": 16059,
+      "cr_slug": "otrava",
+      "title": "Otrava",
+      "year": 2023,
+      "display_name": "Otrava (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "659d2cdcd4735",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26761148,
+      "size_bytes": 275236429,
+      "uploaded_at": "2026-06-26T14:34:18Z",
+      "timing": {
+        "resolve_sec": 2.3,
+        "download_sec": 11.3,
+        "upload_sec": 11.9
+      }
     }
   ],
   "failed_attempts": [
@@ -87713,5 +87732,5 @@
       "failed_at": "2026-06-26T14:08:47Z"
     }
   ],
-  "last_updated": "2026-06-26T14:33:49Z"
+  "last_updated": "2026-06-26T14:34:18Z"
 }
