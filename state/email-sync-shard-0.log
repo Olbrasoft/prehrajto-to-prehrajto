@@ -29877,3 +29877,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:47:13]   upload done video_id=26683358 in 110.4s
 [00:47:15] film cr_film_id=14512 OK in 218.4s
 [00:47:15] batch-end ok=18 failed=2 dur=2814.3s avg/film=156.4s remaining=13321 eta_hours=578.7
+
+===== run 2026-06-26T00:54:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28210113521) =====
+[00:54:33] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:54:33] batch-start shard=0/2 count=20 backlog=17650 uploads=4329 failed_attempts=375 description_overrides=17579
+[00:54:33] login
+[00:54:35] login done
+[00:54:35] iteration 1/20
+[00:54:35] film cr_film_id=14514 name='Poslední premiéra (2008) CZ Dabing' candidates=8
+[00:54:35]   candidate upload_id=67aa89b9724a7 url=https://prehraj.to/posledni-cesta-kevin-bacon-dominic-colon-sarah-thompson-2009-valecny-drama-bdrip-1080p-cz-dabing/67aa89b9724a7
+[00:54:36]   resolved in 1.5s → 1080p (https://pf-storage3.premiumcdn.net/129539177/gVRfJ3sWYtxwIQ9CDqIWnsY7F1Dtx2SPRCe…)
+[00:55:57]   downloaded 1,802.8 MB in 79.0s (22.8 MB/s)
+[00:57:41]   upload done video_id=26684333 in 103.5s
