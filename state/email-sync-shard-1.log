@@ -33262,3 +33262,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:48:07]   resolved in 1.4s → 1080p (https://pf-storage3.premiumcdn.net/163916492/lGasPmuzATqJF8NfOPIqauNRIpJtkbfV7Sm…)
 [23:49:53]   downloaded 2,393.7 MB in 103.9s (23.0 MB/s)
 [23:52:11]   upload done video_id=26805915 in 137.8s
+[23:52:13] film cr_film_id=16547 OK in 247.6s
+[23:52:13] iteration 11/20
+[23:52:13] film cr_film_id=16549 name='Tlapková patrola slaví Vánoce (2025) CZ Dabing' candidates=2
+[23:52:13]   candidate upload_id=1d8223016e5c35da url=https://prehraj.to/a-paw-patrol-christmas-2025-cz-dab-1080p-mp4/1d8223016e5c35da
+[23:52:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/a-paw-patrol-christmas-2025-cz-dab-1080p-mp4/1d8223016e5c35da (permanent=True)
+[23:52:14]   candidate upload_id=5c1cb79bd615035f url=https://prehraj.to/vanocni-tlapky-2025-a-paw-patrol-christmas-web-dl-cz-en-2025-1080p-mp4/5c1cb79bd615035f
+[23:52:21]   resolved in 7.3s → 1080p (https://pf-storage5.premiumcdn.net/162026546/xRVHGWuMNfYbFDbhWnhZruBxsGWIwqSP5U9…)
+[23:53:27]   downloaded 1,456.5 MB in 64.4s (22.6 MB/s)
+[23:55:09]   upload done video_id=26806290 in 102.1s

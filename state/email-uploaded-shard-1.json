@@ -87539,6 +87539,25 @@
         "download_sec": 103.9,
         "upload_sec": 137.8
       }
+    },
+    {
+      "cr_film_id": 16549,
+      "cr_slug": "tlapkova-patrola-slavi-vanoce",
+      "title": "Tlapková patrola slaví Vánoce",
+      "year": 2025,
+      "display_name": "Tlapková patrola slaví Vánoce (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c1cb79bd615035f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26806290,
+      "size_bytes": 1456505260,
+      "uploaded_at": "2026-06-26T23:55:09Z",
+      "timing": {
+        "resolve_sec": 7.3,
+        "download_sec": 64.4,
+        "upload_sec": 102.1
+      }
     }
   ],
   "failed_attempts": [
@@ -90280,7 +90299,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozdeleny-adam-2015-cz-dabing-hd-mp4/475f3640648847f5",
       "permanent": true,
       "failed_at": "2026-06-26T23:27:34Z"
+    },
+    {
+      "cr_film_id": 16549,
+      "upload_id": "1d8223016e5c35da",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/a-paw-patrol-christmas-2025-cz-dab-1080p-mp4/1d8223016e5c35da",
+      "permanent": true,
+      "failed_at": "2026-06-26T23:52:14Z"
     }
   ],
-  "last_updated": "2026-06-26T23:52:11Z"
+  "last_updated": "2026-06-26T23:55:09Z"
 }
