@@ -83986,6 +83986,25 @@
         "download_sec": 18.0,
         "upload_sec": 23.0
       }
+    },
+    {
+      "cr_film_id": 15845,
+      "cr_slug": "samota",
+      "title": "Samota",
+      "year": 2023,
+      "display_name": "Samota (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67cb39fac777d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26744449,
+      "size_bytes": 1123888345,
+      "uploaded_at": "2026-06-26T11:19:03Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 39.8,
+        "upload_sec": 60.0
+      }
     }
   ],
   "failed_attempts": [
@@ -86446,5 +86465,5 @@
       "failed_at": "2026-06-26T08:41:24Z"
     }
   ],
-  "last_updated": "2026-06-26T11:17:19Z"
+  "last_updated": "2026-06-26T11:19:03Z"
 }
