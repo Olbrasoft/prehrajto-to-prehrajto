@@ -80186,6 +80186,25 @@
         "download_sec": 47.1,
         "upload_sec": 81.1
       }
+    },
+    {
+      "cr_film_id": 15121,
+      "cr_slug": "pilot",
+      "title": "Pilot",
+      "year": 2021,
+      "display_name": "Pilot (2021) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6779659730410",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26688713,
+      "size_bytes": 2046080894,
+      "uploaded_at": "2026-06-26T01:39:59Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 70.1,
+        "upload_sec": 127.7
+      }
     }
   ],
   "failed_attempts": [
@@ -82590,5 +82609,5 @@
       "failed_at": "2026-06-25T23:34:00Z"
     }
   ],
-  "last_updated": "2026-06-26T01:36:36Z"
+  "last_updated": "2026-06-26T01:39:59Z"
 }
