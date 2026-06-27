@@ -36514,3 +36514,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:15:24]   upload done video_id=26871751 in 110.0s
 [21:15:26] film cr_film_id=17778 OK in 200.3s
 [21:15:26] batch-end ok=20 failed=0 dur=4305.9s avg/film=215.3s remaining=12464 eta_hours=745.4
+
+===== run 2026-06-27T21:16:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28302018414) =====
+[21:16:05] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:16:05] batch-start shard=0/2 count=20 backlog=17650 uploads=5186 failed_attempts=469 description_overrides=17579
+[21:16:05] login
+[21:16:07] login done
+[21:16:07] iteration 1/20
+[21:16:07] film cr_film_id=17780 name='Dívka s perlou (2003) CZ Dabing' candidates=8
+[21:16:07]   candidate upload_id=5820ffb3370cc url=https://prehraj.to/divka-s-perlou-cz-dabing-2003/5820ffb3370cc
+[21:16:08]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/812190/8ZqfBzT6YcOYTkrcp2UOyTg0hDLCy3F2nukmsr…)
+[21:16:32]   downloaded 457.2 MB in 22.1s (20.7 MB/s)
+[21:17:15]   upload done video_id=26871789 in 42.9s
