@@ -33887,3 +33887,16 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:46:25]   resolved in 1.7s → 720p (https://pf-storage2.premiumcdn.net/31941170/V34izyhz4TmdHPlFjDUeWhaWUY1IamFxGCNV…)
 [03:47:23]   downloaded 1,047.2 MB in 56.4s (18.6 MB/s)
 [03:48:37]   upload done video_id=26828246 in 73.5s
+[03:48:39] film cr_film_id=16861 OK in 135.9s
+[03:48:39] iteration 15/20
+[03:48:39] film cr_film_id=16863 name='Kojot (2017) CZ Dabing' candidates=1
+[03:48:39]   candidate upload_id=5cd3084f9b73f url=https://prehraj.to/kojot-akcni-cz-dab-2017-jad/5cd3084f9b73f
+[03:48:40]   resolved in 1.5s → 480p (https://pf-storage1.premiumcdn.net/13214634/EneceEHxOT3WHW7cxqt4qHeDSRNt2YIVqT3d…)
+[03:48:44]   download FAILED after 1.3s: curl exit 22: curl: (22) The requested URL returned error: 404
+[03:48:44] film cr_film_id=16863 all candidates exhausted
+[03:48:44] iteration 16/20
+[03:48:44] film cr_film_id=16865 name='Přes řeku a do stínu stromů (2022) CZ' candidates=5
+[03:48:44]   candidate upload_id=6606a0e0461ef url=https://prehraj.to/pres-reku-a-do-stinu-stromu-across-the-river-and-into-the-trees-2022-cz-mp4/6606a0e0461ef
+[03:48:48]   resolved in 3.5s → 720p (https://pf-storage5.premiumcdn.net/75384107/P2dtNGIKmhbEHPRHMWhl5IE5FpbfqWujbcOR…)
+[03:49:32]   downloaded 786.6 MB in 42.8s (18.4 MB/s)
+[03:50:25]   upload done video_id=26828436 in 52.5s
