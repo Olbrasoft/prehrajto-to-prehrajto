@@ -89857,6 +89857,25 @@
         "download_sec": 23.5,
         "upload_sec": 30.4
       }
+    },
+    {
+      "cr_film_id": 17033,
+      "cr_slug": "tvar",
+      "title": "Tvář",
+      "year": 2018,
+      "display_name": "Tvář (2018) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c5b4d06415a7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26839098,
+      "size_bytes": 346581758,
+      "uploaded_at": "2026-06-27T05:53:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.0,
+        "upload_sec": 27.7
+      }
     }
   ],
   "failed_attempts": [
@@ -92727,5 +92746,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-27T05:52:51Z"
+  "last_updated": "2026-06-27T05:53:39Z"
 }
