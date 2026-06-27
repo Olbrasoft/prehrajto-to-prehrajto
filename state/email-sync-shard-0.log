@@ -34613,3 +34613,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:56:39]   upload done video_id=26854552 in 50.5s
 [08:56:41] film cr_film_id=16718 OK in 95.4s
 [08:56:41] batch-end ok=20 failed=0 dur=2449.0s avg/film=122.5s remaining=12714 eta_hours=432.6
+
+===== run 2026-06-27T09:01:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28284589184) =====
+[09:01:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:01:14] batch-start shard=0/2 count=20 backlog=17650 uploads=4936 failed_attempts=454 description_overrides=17579
+[09:01:14] login
+[09:01:15] login done
+[09:01:15] iteration 1/20
+[09:01:15] film cr_film_id=16724 name='Noc v poušti (2016) CZ Dabing' candidates=1
+[09:01:15]   candidate upload_id=5cb5c270be814 url=https://prehraj.to/noc-v-pousti-2016-cz-dabing-bst/5cb5c270be814
+[09:01:16]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/12963102/nxRSnVHAKhedFKVHAMiDdHnQtyXUd5s2YUdp…)
+[09:01:42]   downloaded 504.9 MB in 24.1s (21.0 MB/s)
+[09:02:08]   upload done video_id=26855072 in 25.4s
