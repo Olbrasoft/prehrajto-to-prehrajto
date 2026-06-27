@@ -34522,3 +34522,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:41:25]   upload done video_id=26848129 in 93.0s
 [07:41:27] film cr_film_id=17189 OK in 169.8s
 [07:41:27] batch-end ok=20 failed=0 dur=2809.4s avg/film=140.5s remaining=12727 eta_hours=496.7
+
+===== run 2026-06-27T07:42:19Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28282838717) =====
+[07:42:20] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:42:20] batch-start shard=1/2 count=20 backlog=17650 uploads=4923 failed_attempts=393 description_overrides=17579
+[07:42:20] login
+[07:42:22] login done
+[07:42:22] iteration 1/20
+[07:42:22] film cr_film_id=17201 name='Vánoční expres (2017) CZ Dabing' candidates=1
+[07:42:22]   candidate upload_id=66dc1957d61a6 url=https://prehraj.to/vanocni-expres-romanticky-2017-cz-dab/66dc1957d61a6
+[07:42:23]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/94937138/v94hgBFeKc46TgLF9QigxFYKivOcgXIleSxB…)
+[07:43:40]   downloaded 2,211.2 MB in 75.2s (29.4 MB/s)
+[07:45:13]   upload done video_id=26848453 in 93.6s
