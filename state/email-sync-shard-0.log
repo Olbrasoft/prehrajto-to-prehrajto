@@ -34805,3 +34805,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:55:55]   resolved in 5.9s → 720p (https://pf-storage4.premiumcdn.net/30038674/xvzTydUEPtJ4hwWt59iPyUogS90F6QIkvtx5…)
 [09:56:34]   downloaded 1,080.8 MB in 36.7s (29.4 MB/s)
 [09:57:13]   upload done video_id=26859253 in 39.6s
+[09:57:15] film cr_film_id=16830 OK in 85.8s
+[09:57:15] iteration 7/20
+[09:57:15] film cr_film_id=16834 name='Zemřít šťastný (2018) CZ Dabing' candidates=1
+[09:57:15]   candidate upload_id=f274d5d91b1a916b url=https://prehraj.to/zemrit-stastny-2018-cz-dabing/f274d5d91b1a916b
+[09:57:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zemrit-stastny-2018-cz-dabing/f274d5d91b1a916b (permanent=True)
+[09:57:16] film cr_film_id=16834 all candidates exhausted
+[09:57:16] iteration 8/20
+[09:57:16] film cr_film_id=16838 name='Nikomu to neříkej (2017) CZ Dabing' candidates=1
+[09:57:16]   candidate upload_id=631f98acbc5bb url=https://prehraj.to/nikomu-to-nerikej-2017-czdab/631f98acbc5bb
+[09:57:22]   resolved in 5.9s → 1080p (https://pf-storage1.premiumcdn.net/32905777/0V9i7yHvnsLjuvZInMcjWHoJC0mIBATNju6Q…)
+[09:58:35]   downloaded 2,144.3 MB in 72.0s (29.8 MB/s)
+[09:59:53]   upload done video_id=26859415 in 78.0s
