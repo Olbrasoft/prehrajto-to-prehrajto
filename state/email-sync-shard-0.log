@@ -36503,3 +36503,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:11:25]   resolved in 2.3s → 480p (https://pf-storage4.premiumcdn.net/5485456/pJ0uLzFKYfvOHpdToLtEjFjlClETqJhLvfjQf…)
 [21:11:45]   downloaded 503.4 MB in 19.2s (26.2 MB/s)
 [21:12:04]   upload done video_id=26871732 in 18.9s
+[21:12:06] film cr_film_id=17776 OK in 43.4s
+[21:12:06] iteration 20/20
+[21:12:06] film cr_film_id=17778 name='Scooby-Doo 2: Nespoutané příšery (2004) CZ' candidates=3
+[21:12:06]   candidate upload_id=660085a6b900a url=https://prehraj.to/scooby-doo-ii-nespoutane-prisery-r-2004-1920x1080/660085a6b900a
+[21:12:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scooby-doo-ii-nespoutane-prisery-r-2004-1920x1080/660085a6b900a (permanent=True)
+[21:12:06]   candidate upload_id=7f391e11252218f6 url=https://prehraj.to/scooby-doo-ii-nespoutane-prisery-r-2004-1920x1080-mp4/7f391e11252218f6
+[21:12:12]   resolved in 5.9s → 1080p (https://pf-storage4.premiumcdn.net/167063051/0lXcNZHyRTE1T1Ks6lfeNHVqsD3c1XTbpf0…)
+[21:13:34]   downloaded 2,641.0 MB in 80.8s (32.7 MB/s)
+[21:15:24]   upload done video_id=26871751 in 110.0s
