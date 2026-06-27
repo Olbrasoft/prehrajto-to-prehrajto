@@ -93439,6 +93439,25 @@
         "download_sec": 12.7,
         "upload_sec": 14.0
       }
+    },
+    {
+      "cr_film_id": 17316,
+      "cr_slug": "kim-possible",
+      "title": "Kim Possible",
+      "year": 2019,
+      "display_name": "Kim Possible (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e2562246b790",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26866042,
+      "size_bytes": 2532691060,
+      "uploaded_at": "2026-06-27T14:35:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 85.6,
+        "upload_sec": 100.7
+      }
     }
   ],
   "failed_attempts": [
@@ -96738,5 +96757,5 @@
       "failed_at": "2026-06-27T14:20:10Z"
     }
   ],
-  "last_updated": "2026-06-27T14:31:54Z"
+  "last_updated": "2026-06-27T14:35:04Z"
 }
