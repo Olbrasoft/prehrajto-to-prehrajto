@@ -34534,3 +34534,16 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:42:23]   resolved in 1.1s → 1080p (https://pf-storage1.premiumcdn.net/94937138/v94hgBFeKc46TgLF9QigxFYKivOcgXIleSxB…)
 [07:43:40]   downloaded 2,211.2 MB in 75.2s (29.4 MB/s)
 [07:45:13]   upload done video_id=26848453 in 93.6s
+[07:45:15] film cr_film_id=17201 OK in 173.4s
+[07:45:15] iteration 2/20
+[07:45:15] film cr_film_id=17203 name='Stačí jedna noc (2023) CZ Dabing' candidates=4
+[07:45:15]   candidate upload_id=a2cb384a2317cb22 url=https://prehraj.to/staci-jedna-noc-2023-cz-dab-1080p-mp4/a2cb384a2317cb22
+[07:45:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/staci-jedna-noc-2023-cz-dab-1080p-mp4/a2cb384a2317cb22 (permanent=True)
+[07:45:16]   candidate upload_id=824155d3630e159c url=https://prehraj.to/staci-jedna-noc-2023-cz-dab-1080p/824155d3630e159c
+[07:45:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/staci-jedna-noc-2023-cz-dab-1080p/824155d3630e159c (permanent=True)
+[07:45:22]   candidate upload_id=47af63eddae58f41 url=https://prehraj.to/staci-jedna-noc-2023-cz-dab-1080p-mp4/47af63eddae58f41
+[07:45:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/staci-jedna-noc-2023-cz-dab-1080p-mp4/47af63eddae58f41 (permanent=True)
+[07:45:28]   candidate upload_id=54059c24bab0e4c5 url=https://prehraj.to/staci-jedna-noc-2024-czdab-mp4/54059c24bab0e4c5
+[07:45:34]   resolved in 6.0s → 720p (https://pf-storage3.premiumcdn.net/167285447/LaEHlEsBzIVOheKHrxFrms3OCpZTGEu1BCe…)
+[07:46:00]   downloaded 713.8 MB in 25.0s (28.6 MB/s)
+[07:46:31]   upload done video_id=26848648 in 30.7s

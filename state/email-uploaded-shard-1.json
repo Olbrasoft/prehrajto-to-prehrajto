@@ -90674,6 +90674,25 @@
         "download_sec": 75.2,
         "upload_sec": 93.6
       }
+    },
+    {
+      "cr_film_id": 17203,
+      "cr_slug": "staci-jedna-noc",
+      "title": "Stačí jedna noc",
+      "year": 2023,
+      "display_name": "Stačí jedna noc (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "54059c24bab0e4c5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26848648,
+      "size_bytes": 713817981,
+      "uploaded_at": "2026-06-27T07:46:31Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 25.0,
+        "upload_sec": 30.7
+      }
     }
   ],
   "failed_attempts": [
@@ -93542,7 +93561,28 @@
         "resolve_sec": 3.7,
         "download_sec": 1.2
       }
+    },
+    {
+      "cr_film_id": 17203,
+      "upload_id": "a2cb384a2317cb22",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/staci-jedna-noc-2023-cz-dab-1080p-mp4/a2cb384a2317cb22",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:45:16Z"
+    },
+    {
+      "cr_film_id": 17203,
+      "upload_id": "824155d3630e159c",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/staci-jedna-noc-2023-cz-dab-1080p/824155d3630e159c",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:45:22Z"
+    },
+    {
+      "cr_film_id": 17203,
+      "upload_id": "47af63eddae58f41",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/staci-jedna-noc-2023-cz-dab-1080p-mp4/47af63eddae58f41",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:45:28Z"
     }
   ],
-  "last_updated": "2026-06-27T07:45:13Z"
+  "last_updated": "2026-06-27T07:46:31Z"
 }
