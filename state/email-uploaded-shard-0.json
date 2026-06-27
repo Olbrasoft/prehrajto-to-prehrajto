@@ -89791,6 +89791,25 @@
         "download_sec": 72.4,
         "upload_sec": 110.4
       }
+    },
+    {
+      "cr_film_id": 16552,
+      "cr_slug": "eva-nova",
+      "title": "Eva Nová",
+      "year": 2015,
+      "display_name": "Eva Nová (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60e6249d7c342",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26846284,
+      "size_bytes": 1502656492,
+      "uploaded_at": "2026-06-27T07:19:21Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 64.7,
+        "upload_sec": 92.5
+      }
     }
   ],
   "failed_attempts": [
@@ -93022,5 +93041,5 @@
       "failed_at": "2026-06-27T07:07:25Z"
     }
   ],
-  "last_updated": "2026-06-27T07:16:39Z"
+  "last_updated": "2026-06-27T07:19:21Z"
 }
