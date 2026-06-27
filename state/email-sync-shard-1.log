@@ -36544,3 +36544,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [18:44:12]   resolved in 1.9s → 720p (https://pf-storage5.premiumcdn.net/21545373/KY2I9ruMKCDpfprhZbF7auBbtZ7I9DuQLsoB…)
 [18:50:28]   downloaded 1,591.1 MB in 373.9s (4.3 MB/s)
 [18:51:53]   upload done video_id=26870042 in 85.1s
+[18:51:55] film cr_film_id=18625 OK in 465.0s
+[18:51:55] iteration 15/20
+[18:51:55] film cr_film_id=18639 name='Smutný song (2025) CZ Dabing' candidates=4
+[18:51:55]   candidate upload_id=3071c6171bc81f6d url=https://prehraj.to/smutny-song-2025-cz-dabing-1080p-mkv/3071c6171bc81f6d
+[18:51:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smutny-song-2025-cz-dabing-1080p-mkv/3071c6171bc81f6d (permanent=True)
+[18:51:56]   candidate upload_id=20adb836bd3f9254 url=https://prehraj.to/smutny-song-2025-cz-dab-720p/20adb836bd3f9254
+[18:52:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smutny-song-2025-cz-dab-720p/20adb836bd3f9254 (permanent=True)
+[18:52:02]   candidate upload_id=d2a7541ba4578c9a url=https://prehraj.to/song-sung-blue-smutny-song-2025-cz-dabing-mp4/d2a7541ba4578c9a
+[18:52:08]   resolved in 6.1s → 720p (https://pf-storage5.premiumcdn.net/168318664/e4yT1mSQ0iE8UL2frBIGgSaKFogImOfnzt5…)
+[19:00:27]   downloaded 1,907.7 MB in 497.1s (3.8 MB/s)
+[19:01:58]   upload done video_id=26870179 in 91.0s

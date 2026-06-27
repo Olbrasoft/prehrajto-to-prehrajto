@@ -95804,6 +95804,25 @@
         "download_sec": 373.9,
         "upload_sec": 85.1
       }
+    },
+    {
+      "cr_film_id": 18639,
+      "cr_slug": "smutny-song",
+      "title": "Smutný song",
+      "year": 2025,
+      "display_name": "Smutný song (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d2a7541ba4578c9a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26870179,
+      "size_bytes": 1907731710,
+      "uploaded_at": "2026-06-27T19:01:58Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 497.1,
+        "upload_sec": 91.0
+      }
     }
   ],
   "failed_attempts": [
@@ -98742,7 +98761,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/avengers-age-of-ultron-2015-cz-dab-1080p-mp4/7f65fb2e45976fca",
       "permanent": true,
       "failed_at": "2026-06-27T17:16:31Z"
+    },
+    {
+      "cr_film_id": 18639,
+      "upload_id": "3071c6171bc81f6d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smutny-song-2025-cz-dabing-1080p-mkv/3071c6171bc81f6d",
+      "permanent": true,
+      "failed_at": "2026-06-27T18:51:56Z"
+    },
+    {
+      "cr_film_id": 18639,
+      "upload_id": "20adb836bd3f9254",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smutny-song-2025-cz-dab-720p/20adb836bd3f9254",
+      "permanent": true,
+      "failed_at": "2026-06-27T18:52:02Z"
     }
   ],
-  "last_updated": "2026-06-27T18:51:53Z"
+  "last_updated": "2026-06-27T19:01:58Z"
 }
