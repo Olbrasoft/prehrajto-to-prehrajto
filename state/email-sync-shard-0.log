@@ -33113,3 +33113,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:24:45]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/167755840/x3piVBHkzTWludgIaNUy6HymsR3fq6TyoTB…)
 [00:27:19]   downloaded 2,903.7 MB in 151.0s (19.2 MB/s)
 [00:30:23]   upload done video_id=26809214 in 184.2s
+[00:30:25] film cr_film_id=15990 OK in 340.6s
+[00:30:25] iteration 19/20
+[00:30:25] film cr_film_id=15992 name='Mnichov 1972 (2024) CZ Dabing' candidates=1
+[00:30:25]   candidate upload_id=66696f0e0e9b2835 url=https://prehraj.to/mnichov-1972-2024-cz-dabing-full-hd-thriller-top-kvalita-1211472/66696f0e0e9b2835
+[00:30:26]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mnichov-1972-2024-cz-dabing-full-hd-thriller-top-kvalita-1211472/66696f0e0e9b2835 (permanent=True)
+[00:30:26] film cr_film_id=15992 all candidates exhausted
+[00:30:26] iteration 20/20
+[00:30:26] film cr_film_id=15994 name='Už tě nemám rád (2023) CZ' candidates=4
+[00:30:26]   candidate upload_id=6709097f4aefe url=https://prehraj.to/uz-te-nemam-rad-2023-mp4/6709097f4aefe
+[00:30:32]   resolved in 6.1s → 720p (https://pf-storage3.premiumcdn.net/101292530/aKDTnlfLRTYoFX2ijEi1ZfKyUoRUKncpZiG…)
+[00:31:28]   downloaded 988.7 MB in 53.8s (18.4 MB/s)
+[00:32:25]   upload done video_id=26809513 in 57.8s
