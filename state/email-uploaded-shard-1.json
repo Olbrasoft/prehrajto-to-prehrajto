@@ -87805,6 +87805,25 @@
         "download_sec": 105.3,
         "upload_sec": 113.0
       }
+    },
+    {
+      "cr_film_id": 16597,
+      "cr_slug": "valiante-trackeruv-pribeh",
+      "title": "Valiante: Trackerův příběh",
+      "year": 2025,
+      "display_name": "Valiante: Trackerův příběh (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "8766473b20b13a2b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26810853,
+      "size_bytes": 1275264756,
+      "uploaded_at": "2026-06-27T00:51:03Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 66.2,
+        "upload_sec": 76.3
+      }
     }
   ],
   "failed_attempts": [
@@ -90588,7 +90607,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neco-za-neco-2025-cz/2d92f20c5d08703d",
       "permanent": true,
       "failed_at": "2026-06-27T00:03:20Z"
+    },
+    {
+      "cr_film_id": 16595,
+      "upload_id": "9b0caefa1d093445",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zivot-je-zivot-2015-cz-film/9b0caefa1d093445",
+      "permanent": true,
+      "failed_at": "2026-06-27T00:48:32Z"
     }
   ],
-  "last_updated": "2026-06-27T00:48:29Z"
+  "last_updated": "2026-06-27T00:51:03Z"
 }
