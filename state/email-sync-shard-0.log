@@ -36090,3 +36090,19 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:52:00]   resolved in 1.9s → 1080p (https://pf-storage5.premiumcdn.net/71913080/4nbSMDi9mIxkU2lt6xU2Bim6Hr5cRefL3s5r…)
 [16:54:47]   downloaded 2,279.1 MB in 165.1s (13.8 MB/s)
 [16:57:01]   upload done video_id=26867745 in 134.2s
+[16:57:04] film cr_film_id=17520 OK in 305.9s
+[16:57:04] iteration 3/20
+[16:57:04] film cr_film_id=17528 name='Dům na mušce (2023) CZ Dabing' candidates=3
+[16:57:04]   candidate upload_id=bd40c8bc0ddf72b4 url=https://prehraj.to/dum-na-musce-2023-cz-dab-1080p-mp4/bd40c8bc0ddf72b4
+[16:57:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dum-na-musce-2023-cz-dab-1080p-mp4/bd40c8bc0ddf72b4 (permanent=True)
+[16:57:05]   candidate upload_id=d6a410ec3ef8e1c6 url=https://prehraj.to/dum-na-musce-2023-cz-dab-1080p/d6a410ec3ef8e1c6
+[16:57:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dum-na-musce-2023-cz-dab-1080p/d6a410ec3ef8e1c6 (permanent=True)
+[16:57:10]   candidate upload_id=51c6f65dd4162cfe url=https://prehraj.to/dum-na-musce-2023-cz-dab-1080p-mp4/51c6f65dd4162cfe
+[16:57:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dum-na-musce-2023-cz-dab-1080p-mp4/51c6f65dd4162cfe (permanent=True)
+[16:57:16] film cr_film_id=17528 all candidates exhausted
+[16:57:16] iteration 4/20
+[16:57:16] film cr_film_id=17530 name='Princova cesta (2019) CZ Dabing' candidates=4
+[16:57:16]   candidate upload_id=85a74a5498c1f554 url=https://prehraj.to/princova-cesta-2019-cz-dab-1080p-mp4/85a74a5498c1f554
+[16:57:22]   resolved in 6.4s → 1080p (https://pf-storage4.premiumcdn.net/169287094/JPMS1zUmjF6LfKzURluaoUgBFy2uVKsAWtq…)
+[16:58:39]   downloaded 1,342.9 MB in 73.8s (18.2 MB/s)
+[17:00:03]   upload done video_id=26867815 in 84.3s
