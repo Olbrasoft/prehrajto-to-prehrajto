@@ -36739,3 +36739,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:14:42]   upload done video_id=26871746 in 99.0s
 [21:14:44] film cr_film_id=18903 OK in 221.1s
 [21:14:44] batch-end ok=20 failed=0 dur=4265.4s avg/film=213.3s remaining=12430 eta_hours=736.5
+
+===== run 2026-06-27T21:16:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28302018414) =====
+[21:16:03] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:16:03] batch-start shard=1/2 count=20 backlog=17650 uploads=5220 failed_attempts=405 description_overrides=17579
+[21:16:03] login
+[21:16:05] login done
+[21:16:05] iteration 1/20
+[21:16:05] film cr_film_id=18905 name='Batman vs. Robin (2015) CZ Dabing' candidates=6
+[21:16:05]   candidate upload_id=55dd42e0d7f02 url=https://prehraj.to/batman-vs-robin-2015-cz-dab-akc-anim/55dd42e0d7f02
+[21:16:06]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/232611/6kQsepTwdIeYC3ourGc2OTJ6i6qSv1HWjcRgSM…)
+[21:16:55]   downloaded 1,047.0 MB in 47.1s (22.2 MB/s)
+[21:18:02]   upload done video_id=26871792 in 67.1s

@@ -96298,6 +96298,25 @@
         "download_sec": 117.6,
         "upload_sec": 99.0
       }
+    },
+    {
+      "cr_film_id": 18905,
+      "cr_slug": "batman-vs-robin",
+      "title": "Batman vs. Robin",
+      "year": 2015,
+      "display_name": "Batman vs. Robin (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55dd42e0d7f02",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26871792,
+      "size_bytes": 1046992064,
+      "uploaded_at": "2026-06-27T21:18:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 47.1,
+        "upload_sec": 67.1
+      }
     }
   ],
   "failed_attempts": [
@@ -99252,5 +99271,5 @@
       "failed_at": "2026-06-27T18:52:02Z"
     }
   ],
-  "last_updated": "2026-06-27T21:14:42Z"
+  "last_updated": "2026-06-27T21:18:02Z"
 }
