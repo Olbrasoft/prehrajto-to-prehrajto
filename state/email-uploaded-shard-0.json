@@ -96023,6 +96023,25 @@
         "download_sec": 27.6,
         "upload_sec": 88.1
       }
+    },
+    {
+      "cr_film_id": 17910,
+      "cr_slug": "schumacher",
+      "title": "Schumacher",
+      "year": 2021,
+      "display_name": "Schumacher (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61446b2d0b66a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26872867,
+      "size_bytes": 4876558529,
+      "uploaded_at": "2026-06-27T22:52:50Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 132.6,
+        "upload_sec": 295.0
+      }
     }
   ],
   "failed_attempts": [
@@ -99371,5 +99390,5 @@
       "failed_at": "2026-06-27T21:12:06Z"
     }
   ],
-  "last_updated": "2026-06-27T22:45:37Z"
+  "last_updated": "2026-06-27T22:52:50Z"
 }
