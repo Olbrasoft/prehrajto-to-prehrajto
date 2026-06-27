@@ -96536,6 +96536,25 @@
         "download_sec": 64.3,
         "upload_sec": 73.2
       }
+    },
+    {
+      "cr_film_id": 18068,
+      "cr_slug": "pan-bobr",
+      "title": "Pan Bobr",
+      "year": 2011,
+      "display_name": "Pan Bobr (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d67d9811ad2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26873545,
+      "size_bytes": 456669933,
+      "uploaded_at": "2026-06-27T23:48:25Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 24.1,
+        "upload_sec": 30.6
+      }
     }
   ],
   "failed_attempts": [
@@ -99891,5 +99910,5 @@
       "failed_at": "2026-06-27T23:25:22Z"
     }
   ],
-  "last_updated": "2026-06-27T23:47:24Z"
+  "last_updated": "2026-06-27T23:48:25Z"
 }
