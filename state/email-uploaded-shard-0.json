@@ -96574,6 +96574,25 @@
         "download_sec": 35.7,
         "upload_sec": 46.2
       }
+    },
+    {
+      "cr_film_id": 18078,
+      "cr_slug": "ceska-rapublika",
+      "title": "Česká RAPublika",
+      "year": 2008,
+      "display_name": "Česká RAPublika (2008) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ad7f3bedae98",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26873570,
+      "size_bytes": 443067864,
+      "uploaded_at": "2026-06-27T23:50:49Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 23.3,
+        "upload_sec": 27.1
+      }
     }
   ],
   "failed_attempts": [
@@ -99929,5 +99948,5 @@
       "failed_at": "2026-06-27T23:25:22Z"
     }
   ],
-  "last_updated": "2026-06-27T23:49:53Z"
+  "last_updated": "2026-06-27T23:50:49Z"
 }
