@@ -96602,6 +96602,25 @@
         "download_sec": 31.9,
         "upload_sec": 38.5
       }
+    },
+    {
+      "cr_film_id": 19051,
+      "cr_slug": "diego-maradona",
+      "title": "Diego Maradona",
+      "year": 2019,
+      "display_name": "Diego Maradona (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5f9d68ca3aefc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26872482,
+      "size_bytes": 3955717570,
+      "uploaded_at": "2026-06-27T22:17:35Z",
+      "timing": {
+        "resolve_sec": 4.8,
+        "download_sec": 318.7,
+        "upload_sec": 275.7
+      }
     }
   ],
   "failed_attempts": [
@@ -99554,7 +99573,28 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/smutny-song-2025-cz-dab-720p/20adb836bd3f9254",
       "permanent": true,
       "failed_at": "2026-06-27T18:52:02Z"
+    },
+    {
+      "cr_film_id": 19051,
+      "upload_id": "5fbf6775d178b",
+      "reason": "oversize: 7588097336 B",
+      "permanent": true,
+      "failed_at": "2026-06-27T22:07:21Z"
+    },
+    {
+      "cr_film_id": 19051,
+      "upload_id": "5fc033f57b8b6",
+      "reason": "oversize: 7588097336 B",
+      "permanent": true,
+      "failed_at": "2026-06-27T22:07:27Z"
+    },
+    {
+      "cr_film_id": 19051,
+      "upload_id": "5fc6c0c59af6a",
+      "reason": "oversize: 7588097336 B",
+      "permanent": true,
+      "failed_at": "2026-06-27T22:07:33Z"
     }
   ],
-  "last_updated": "2026-06-27T22:07:16Z"
+  "last_updated": "2026-06-27T22:17:35Z"
 }
