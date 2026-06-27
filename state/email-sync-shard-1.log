@@ -33487,3 +33487,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:17:17]   upload done video_id=26813306 in 29.3s
 [01:17:19] film cr_film_id=16641 OK in 63.8s
 [01:17:19] batch-end ok=19 failed=1 dur=2652.2s avg/film=139.6s remaining=12863 eta_hours=498.8
+
+===== run 2026-06-27T01:34:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28274576312) =====
+[01:34:02] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:34:02] batch-start shard=1/2 count=20 backlog=17650 uploads=4787 failed_attempts=386 description_overrides=17579
+[01:34:02] login
+[01:34:04] login done
+[01:34:04] iteration 1/20
+[01:34:04] film cr_film_id=16651 name='Tajemství malé mořské víly (2017) CZ Dabing' candidates=1
+[01:34:04]   candidate upload_id=58535d98eab70 url=https://prehraj.to/the-mermaid-2016-720p-cz-dabing-moviestyl/58535d98eab70
+[01:34:05]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1181438/rAoTZzco7H4ZFvVSDGuExcvECmKTeoCjzCDKU…)
+[01:34:46]   downloaded 1,387.6 MB in 40.0s (34.7 MB/s)
+[01:35:38]   upload done video_id=26814960 in 51.8s
