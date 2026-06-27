@@ -36895,3 +36895,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:25:25]   upload done video_id=26872616 in 94.0s
 [22:25:27] film cr_film_id=19085 OK in 158.2s
 [22:25:27] batch-end ok=20 failed=0 dur=4161.9s avg/film=208.1s remaining=12410 eta_hours=717.4
+
+===== run 2026-06-27T22:35:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28303897427) =====
+[22:35:51] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:35:51] batch-start shard=1/2 count=20 backlog=17650 uploads=5240 failed_attempts=408 description_overrides=17579
+[22:35:51] login
+[22:35:52] login done
+[22:35:52] iteration 1/20
+[22:35:52] film cr_film_id=19107 name='Ta, která odešla (2016) CZ' candidates=1
+[22:35:52]   candidate upload_id=5ad68754f25f7 url=https://prehraj.to/ta-ktera-odesla-2016/5ad68754f25f7
+[22:35:53]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/3892032/5KruXKhydIGvSe7uK0CMPhKluA3iYLFlwu7JU…)
+[22:37:05]   downloaded 2,072.2 MB in 70.3s (29.5 MB/s)
+[22:38:42]   upload done video_id=26872746 in 97.5s
