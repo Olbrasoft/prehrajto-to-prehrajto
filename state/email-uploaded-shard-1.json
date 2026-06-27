@@ -89192,6 +89192,25 @@
         "download_sec": 61.2,
         "upload_sec": 76.8
       }
+    },
+    {
+      "cr_film_id": 16883,
+      "cr_slug": "elitni-policajtka",
+      "title": "Elitní policajtka",
+      "year": 2016,
+      "display_name": "Elitní policajtka (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61c453404b857",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26831308,
+      "size_bytes": 1055621430,
+      "uploaded_at": "2026-06-27T04:20:55Z",
+      "timing": {
+        "resolve_sec": 2.8,
+        "download_sec": 53.6,
+        "upload_sec": 57.1
+      }
     }
   ],
   "failed_attempts": [
@@ -92016,7 +92035,18 @@
         "resolve_sec": 1.5,
         "download_sec": 1.3
       }
+    },
+    {
+      "cr_film_id": 16863,
+      "upload_id": "5cd3084f9b73f",
+      "reason": "download_failed: curl exit 22: curl: (22) The requested URL returned error: 404",
+      "permanent": false,
+      "failed_at": "2026-06-27T04:18:59Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 1.2
+      }
     }
   ],
-  "last_updated": "2026-06-27T04:18:53Z"
+  "last_updated": "2026-06-27T04:20:55Z"
 }

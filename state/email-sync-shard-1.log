@@ -33942,3 +33942,16 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:16:33]   resolved in 1.4s → 1080p (https://pf-storage2.premiumcdn.net/22152648/ZjViGmsBGSQWSnoIzMT2NsmEh84i6ZTdgunl…)
 [04:17:36]   downloaded 1,566.9 MB in 61.2s (25.6 MB/s)
 [04:18:53]   upload done video_id=26831119 in 76.8s
+[04:18:54] film cr_film_id=16817 OK in 143.2s
+[04:18:54] iteration 2/20
+[04:18:54] film cr_film_id=16863 name='Kojot (2017) CZ Dabing' candidates=1
+[04:18:54]   candidate upload_id=5cd3084f9b73f url=https://prehraj.to/kojot-akcni-cz-dab-2017-jad/5cd3084f9b73f
+[04:18:56]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/13214634/EneceEHxOT3WHW7cxqt4qHeDSRNt2YIVqT3d…)
+[04:18:59]   download FAILED after 1.2s: curl exit 22: curl: (22) The requested URL returned error: 404
+[04:18:59] film cr_film_id=16863 all candidates exhausted
+[04:18:59] iteration 3/20
+[04:18:59] film cr_film_id=16883 name='Elitní policajtka (2016) CZ Dabing' candidates=1
+[04:18:59]   candidate upload_id=61c453404b857 url=https://prehraj.to/elitni-policajtka-cz-dab-komedie-2016/61c453404b857
+[04:19:02]   resolved in 2.8s → 480p (https://pf-storage5.premiumcdn.net/27700047/VWqfPDCdVIm2uKnCLGhbaCwASEbi4EFq4I1p…)
+[04:19:58]   downloaded 1,055.6 MB in 53.6s (19.7 MB/s)
+[04:20:55]   upload done video_id=26831308 in 57.1s
