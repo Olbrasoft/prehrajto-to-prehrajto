@@ -96773,6 +96773,25 @@
         "download_sec": 23.1,
         "upload_sec": 36.5
       }
+    },
+    {
+      "cr_film_id": 19145,
+      "cr_slug": "pes-zabijak",
+      "title": "Pes zabiják",
+      "year": 2017,
+      "display_name": "Pes zabiják (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c0e5a15363ac",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26872829,
+      "size_bytes": 2055097314,
+      "uploaded_at": "2026-06-27T22:46:21Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 70.4,
+        "upload_sec": 140.6
+      }
     }
   ],
   "failed_attempts": [
@@ -99748,5 +99767,5 @@
       "failed_at": "2026-06-27T22:07:33Z"
     }
   ],
-  "last_updated": "2026-06-27T22:42:46Z"
+  "last_updated": "2026-06-27T22:46:21Z"
 }
