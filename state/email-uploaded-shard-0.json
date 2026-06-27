@@ -88423,6 +88423,25 @@
         "download_sec": 40.9,
         "upload_sec": 45.4
       }
+    },
+    {
+      "cr_film_id": 16250,
+      "cr_slug": "uvidime",
+      "title": "Uvidíme",
+      "year": 2025,
+      "display_name": "Uvidíme (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a14c3fed8cabb8c9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26827937,
+      "size_bytes": 1899274627,
+      "uploaded_at": "2026-06-27T03:47:22Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 82.2,
+        "upload_sec": 155.9
+      }
     }
   ],
   "failed_attempts": [
@@ -91520,5 +91539,5 @@
       "failed_at": "2026-06-27T03:41:45Z"
     }
   ],
-  "last_updated": "2026-06-27T03:43:19Z"
+  "last_updated": "2026-06-27T03:47:22Z"
 }
