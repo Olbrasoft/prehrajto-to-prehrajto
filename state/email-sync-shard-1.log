@@ -34081,3 +34081,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:03:48]   upload done video_id=26834772 in 92.0s
 [05:03:49] film cr_film_id=16943 OK in 178.7s
 [05:03:49] batch-end ok=18 failed=2 dur=2838.3s avg/film=157.7s remaining=12787 eta_hours=560.1
+
+===== run 2026-06-27T05:04:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28279370689) =====
+[05:04:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:04:27] batch-start shard=1/2 count=20 backlog=17650 uploads=4863 failed_attempts=393 description_overrides=17579
+[05:04:27] login
+[05:04:29] login done
+[05:04:29] iteration 1/20
+[05:04:29] film cr_film_id=16863 name='Kojot (2017) CZ Dabing' candidates=1
+[05:04:29]   candidate upload_id=5cd3084f9b73f url=https://prehraj.to/kojot-akcni-cz-dab-2017-jad/5cd3084f9b73f
+[05:04:30]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/13214634/EneceEHxOT3WHW7cxqt4qHeDSRNt2YIVqT3d…)
+[05:05:02]   downloaded 712.9 MB in 30.3s (23.5 MB/s)
+[05:05:37]   upload done video_id=26835131 in 34.2s
