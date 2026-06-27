@@ -89762,6 +89762,25 @@
         "download_sec": 86.6,
         "upload_sec": 114.1
       }
+    },
+    {
+      "cr_film_id": 17003,
+      "cr_slug": "outlaws",
+      "title": "Outlaws",
+      "year": 2017,
+      "display_name": "Outlaws (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ef194e472b04",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26838117,
+      "size_bytes": 2916940014,
+      "uploaded_at": "2026-06-27T05:42:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 113.3,
+        "upload_sec": 136.8
+      }
     }
   ],
   "failed_attempts": [
@@ -92632,5 +92651,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-27T05:38:29Z"
+  "last_updated": "2026-06-27T05:42:45Z"
 }
