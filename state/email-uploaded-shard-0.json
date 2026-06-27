@@ -89715,6 +89715,25 @@
         "download_sec": 86.7,
         "upload_sec": 118.3
       }
+    },
+    {
+      "cr_film_id": 16538,
+      "cr_slug": "portorikanci-v-parizi",
+      "title": "Portorikánci v Paříži",
+      "year": 2015,
+      "display_name": "Portorikánci v Paříži (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "621a19f4d55a4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26845494,
+      "size_bytes": 426601508,
+      "uploaded_at": "2026-06-27T07:08:20Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 20.2,
+        "upload_sec": 26.1
+      }
     }
   ],
   "failed_attempts": [
@@ -92902,7 +92921,49 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/bob-a-bobek-ve-filmu-na-stope-mrkvojeda-mp4/104cb2c9cf63b398",
       "permanent": true,
       "failed_at": "2026-06-27T05:38:51Z"
+    },
+    {
+      "cr_film_id": 16534,
+      "upload_id": "c90956a629d2d454",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/c90956a629d2d454",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:06:56Z"
+    },
+    {
+      "cr_film_id": 16534,
+      "upload_id": "fbb2a02bfac4d7ab",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/fbb2a02bfac4d7ab",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:07:02Z"
+    },
+    {
+      "cr_film_id": 16534,
+      "upload_id": "ef28c78b76d8c4af",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/ef28c78b76d8c4af",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:07:08Z"
+    },
+    {
+      "cr_film_id": 16534,
+      "upload_id": "c9acbef92a93435d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/c9acbef92a93435d",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:07:14Z"
+    },
+    {
+      "cr_film_id": 16534,
+      "upload_id": "6bca7656b872493e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p/6bca7656b872493e",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:07:20Z"
+    },
+    {
+      "cr_film_id": 16534,
+      "upload_id": "a0ce787a8f5f09b7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dab-1080p/a0ce787a8f5f09b7",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:07:25Z"
     }
   ],
-  "last_updated": "2026-06-27T07:06:53Z"
+  "last_updated": "2026-06-27T07:08:20Z"
 }

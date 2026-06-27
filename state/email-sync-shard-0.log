@@ -34200,3 +34200,25 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:03:26]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/140160917/kPoTX5HDehvwudLSvaUyDHxnsrqcDVTwACB…)
 [07:04:55]   downloaded 2,557.7 MB in 86.7s (29.5 MB/s)
 [07:06:53]   upload done video_id=26845223 in 118.3s
+[07:06:55] film cr_film_id=16528 OK in 210.3s
+[07:06:55] iteration 6/20
+[07:06:55] film cr_film_id=16534 name='Krtkův svět (2025) CZ Dabing' candidates=6
+[07:06:55]   candidate upload_id=c90956a629d2d454 url=https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/c90956a629d2d454
+[07:06:56]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/c90956a629d2d454 (permanent=True)
+[07:06:56]   candidate upload_id=fbb2a02bfac4d7ab url=https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/fbb2a02bfac4d7ab
+[07:07:02]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/fbb2a02bfac4d7ab (permanent=True)
+[07:07:02]   candidate upload_id=ef28c78b76d8c4af url=https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/ef28c78b76d8c4af
+[07:07:08]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/ef28c78b76d8c4af (permanent=True)
+[07:07:08]   candidate upload_id=c9acbef92a93435d url=https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/c9acbef92a93435d
+[07:07:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p-mp4/c9acbef92a93435d (permanent=True)
+[07:07:14]   candidate upload_id=6bca7656b872493e url=https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p/6bca7656b872493e
+[07:07:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dabing-hd-1080p/6bca7656b872493e (permanent=True)
+[07:07:20]   candidate upload_id=a0ce787a8f5f09b7 url=https://prehraj.to/krtkuv-svet-2025-cz-dab-1080p/a0ce787a8f5f09b7
+[07:07:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krtkuv-svet-2025-cz-dab-1080p/a0ce787a8f5f09b7 (permanent=True)
+[07:07:25] film cr_film_id=16534 all candidates exhausted
+[07:07:25] iteration 7/20
+[07:07:25] film cr_film_id=16538 name='Portorikánci v Paříži (2015) CZ Dabing' candidates=3
+[07:07:25]   candidate upload_id=621a19f4d55a4 url=https://prehraj.to/portorikanci-v-parizi-puerto-ricans-in-paris-2015-480p-bluray-cz-dabing-mp4/621a19f4d55a4
+[07:07:32]   resolved in 6.1s → 480p (https://pf-storage3.premiumcdn.net/29739860/JqluZJTJPSKASVaiMDikMTeJsJvHPgiwVS9R…)
+[07:07:54]   downloaded 426.6 MB in 20.2s (21.1 MB/s)
+[07:08:20]   upload done video_id=26845494 in 26.1s
