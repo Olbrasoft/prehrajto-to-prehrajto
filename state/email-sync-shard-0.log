@@ -35050,3 +35050,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:15:59]   upload done video_id=26863628 in 107.8s
 [11:16:01] film cr_film_id=16942 OK in 228.7s
 [11:16:01] batch-end ok=19 failed=1 dur=2998.1s avg/film=157.8s remaining=12657 eta_hours=554.8
+
+===== run 2026-06-27T11:16:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28287580081) =====
+[11:16:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:16:43] batch-start shard=0/2 count=20 backlog=17650 uploads=4993 failed_attempts=458 description_overrides=17579
+[11:16:43] login
+[11:16:45] login done
+[11:16:45] iteration 1/20
+[11:16:45] film cr_film_id=16948 name='Kill Bill: Kompletní krvavá aféra (2004) CZ Dabing' candidates=4
+[11:16:45]   candidate upload_id=97bbf4d8a369c147 url=https://prehraj.to/kill-bill-kompletni-krvava-afera-2006-cz-dab-1080p/97bbf4d8a369c147
+[11:16:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kill-bill-kompletni-krvava-afera-2006-cz-dab-1080p/97bbf4d8a369c147 (permanent=True)
+[11:16:45]   candidate upload_id=bf8b4eee19461378 url=https://prehraj.to/kill-bill-the-whole-bloody-affair-2011-cz-720p-chronologicky-zoradene-mp4/bf8b4eee19461378
+[11:16:51]   resolved in 6.0s → 720p (https://pf-storage3.premiumcdn.net/166237460/2z7iPmH8qCkqS62hy3InDHvAi54c91iAWUN…)
+[11:18:21]   downloaded 2,565.4 MB in 87.3s (29.4 MB/s)
+[11:20:06]   upload done video_id=26863663 in 105.3s
