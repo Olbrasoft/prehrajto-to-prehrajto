@@ -88366,6 +88366,25 @@
         "download_sec": 30.6,
         "upload_sec": 40.4
       }
+    },
+    {
+      "cr_film_id": 16238,
+      "cr_slug": "pohadky-jsou-pro-decka-2",
+      "title": "Pohádky jsou pro děcka 2",
+      "year": 2024,
+      "display_name": "Pohádky jsou pro děcka 2 (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "665dbce38c2e2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26827052,
+      "size_bytes": 2496369802,
+      "uploaded_at": "2026-06-27T03:37:30Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 131.2,
+        "upload_sec": 183.7
+      }
     }
   ],
   "failed_attempts": [
@@ -91440,7 +91459,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/sam-mezi-vsemi-2013-cz-dabing-mp4/969e252b6c9eb6ce",
       "permanent": true,
       "failed_at": "2026-06-27T03:20:47Z"
+    },
+    {
+      "cr_film_id": 16230,
+      "upload_id": "5e396dc35ec513bf",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/dum-s-tajemstvim-2014-cz-dabing-mp4/5e396dc35ec513bf",
+      "permanent": true,
+      "failed_at": "2026-06-27T03:32:07Z"
     }
   ],
-  "last_updated": "2026-06-27T03:32:01Z"
+  "last_updated": "2026-06-27T03:37:30Z"
 }

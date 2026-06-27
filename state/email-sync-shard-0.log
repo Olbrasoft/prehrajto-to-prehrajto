@@ -33625,3 +33625,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:30:48]   resolved in 2.3s → 480p (https://pf-storage1.premiumcdn.net/2407334/ejEs9kCKmIPKu1YFMoIPDC8PH35UVpfm5I4XS…)
 [03:31:21]   downloaded 531.3 MB in 30.6s (17.4 MB/s)
 [03:32:01]   upload done video_id=26826785 in 40.4s
+[03:32:04] film cr_film_id=16226 OK in 77.6s
+[03:32:04] iteration 9/20
+[03:32:04] film cr_film_id=16230 name='Dům s tajemstvím (2014) CZ Dabing' candidates=1
+[03:32:04]   candidate upload_id=5e396dc35ec513bf url=https://prehraj.to/dum-s-tajemstvim-2014-cz-dabing-mp4/5e396dc35ec513bf
+[03:32:07]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/dum-s-tajemstvim-2014-cz-dabing-mp4/5e396dc35ec513bf (permanent=True)
+[03:32:07] film cr_film_id=16230 all candidates exhausted
+[03:32:07] iteration 10/20
+[03:32:07] film cr_film_id=16238 name='Pohádky jsou pro děcka 2 (2024) CZ Dabing' candidates=1
+[03:32:07]   candidate upload_id=665dbce38c2e2 url=https://prehraj.to/pohadky-jsou-pro-decka-2-2024-cz-dab/665dbce38c2e2
+[03:32:13]   resolved in 6.2s → 1080p (https://pf-storage6.premiumcdn.net/78013520/g96tNKI2pIxjfLWHv3iP2IWDFp7FjBS5YtYZ…)
+[03:34:26]   downloaded 2,496.4 MB in 131.2s (19.0 MB/s)
+[03:37:30]   upload done video_id=26827052 in 183.7s
