@@ -33566,3 +33566,22 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:16:36]   upload done video_id=26825163 in 79.7s
 [03:16:37] film cr_film_id=16206 OK in 157.8s
 [03:16:37] batch-end ok=19 failed=1 dur=3018.7s avg/film=158.9s remaining=12845 eta_hours=567.0
+
+===== run 2026-06-27T03:17:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28276997428) =====
+[03:17:20] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:17:20] batch-start shard=0/2 count=20 backlog=17650 uploads=4805 failed_attempts=429 description_overrides=17579
+[03:17:20] login
+[03:17:22] login done
+[03:17:22] iteration 1/20
+[03:17:22] film cr_film_id=16208 name='Superskřítkové (2024) CZ Dabing' candidates=2
+[03:17:22]   candidate upload_id=e06a2846d544dc73 url=https://prehraj.to/superskritkove-2024-cz-dab-1080p-mp4/e06a2846d544dc73
+[03:17:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superskritkove-2024-cz-dab-1080p-mp4/e06a2846d544dc73 (permanent=True)
+[03:17:23]   candidate upload_id=5699464ac16df046 url=https://prehraj.to/superskritkove-2024-cz-dab-1080p/5699464ac16df046
+[03:17:28]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superskritkove-2024-cz-dab-1080p/5699464ac16df046 (permanent=True)
+[03:17:28] film cr_film_id=16208 all candidates exhausted
+[03:17:28] iteration 2/20
+[03:17:28] film cr_film_id=16210 name='Není houba jako houba (1996) CZ Dabing' candidates=4
+[03:17:28]   candidate upload_id=57d4e7833923a url=https://prehraj.to/neni-houba-jako-houba-1996-czdab/57d4e7833923a
+[03:17:34]   resolved in 6.2s → 480p (https://pf-storage6.premiumcdn.net/639867/4kpSz2Fg8hr2HWGSDQHGnFWVHvEtNZsQYigGhj…)
+[03:17:56]   downloaded 302.0 MB in 19.4s (15.6 MB/s)
+[03:18:17]   upload done video_id=26825482 in 21.5s
