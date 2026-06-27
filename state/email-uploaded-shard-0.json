@@ -88784,6 +88784,25 @@
         "download_sec": 40.5,
         "upload_sec": 50.0
       }
+    },
+    {
+      "cr_film_id": 16320,
+      "cr_slug": "domino-2019",
+      "title": "Domino",
+      "year": 2019,
+      "display_name": "Domino (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d938d165438c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26833066,
+      "size_bytes": 1094441024,
+      "uploaded_at": "2026-06-27T04:41:12Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 37.7,
+        "upload_sec": 40.3
+      }
     }
   ],
   "failed_attempts": [
@@ -91916,5 +91935,5 @@
       "failed_at": "2026-06-27T04:28:29Z"
     }
   ],
-  "last_updated": "2026-06-27T04:39:49Z"
+  "last_updated": "2026-06-27T04:41:12Z"
 }
