@@ -96754,6 +96754,25 @@
         "download_sec": 42.6,
         "upload_sec": 52.3
       }
+    },
+    {
+      "cr_film_id": 19131,
+      "cr_slug": "naked",
+      "title": "Naked",
+      "year": 2017,
+      "display_name": "Naked (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "59b9317493746",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26872808,
+      "size_bytes": 634676883,
+      "uploaded_at": "2026-06-27T22:42:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.1,
+        "upload_sec": 36.5
+      }
     }
   ],
   "failed_attempts": [
@@ -99729,5 +99748,5 @@
       "failed_at": "2026-06-27T22:07:33Z"
     }
   ],
-  "last_updated": "2026-06-27T22:41:42Z"
+  "last_updated": "2026-06-27T22:42:46Z"
 }
