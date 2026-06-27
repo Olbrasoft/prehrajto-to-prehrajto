@@ -92023,6 +92023,25 @@
         "download_sec": 28.0,
         "upload_sec": 43.3
       }
+    },
+    {
+      "cr_film_id": 17551,
+      "cr_slug": "hannes",
+      "title": "Hannes",
+      "year": 2021,
+      "display_name": "Hannes (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67d0ef9dca290",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26860855,
+      "size_bytes": 1612186526,
+      "uploaded_at": "2026-06-27T10:16:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 53.3,
+        "upload_sec": 62.8
+      }
     }
   ],
   "failed_attempts": [
@@ -94942,5 +94961,5 @@
       "failed_at": "2026-06-27T10:08:51Z"
     }
   ],
-  "last_updated": "2026-06-27T10:14:56Z"
+  "last_updated": "2026-06-27T10:16:56Z"
 }
