@@ -33784,3 +33784,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:14:41]   upload done video_id=26824800 in 138.4s
 [03:14:43] film cr_film_id=16799 OK in 210.5s
 [03:14:43] batch-end ok=20 failed=0 dur=2903.3s avg/film=145.2s remaining=12823 eta_hours=517.2
+
+===== run 2026-06-27T03:17:17Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28276997428) =====
+[03:17:19] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:17:19] batch-start shard=1/2 count=20 backlog=17650 uploads=4827 failed_attempts=387 description_overrides=17579
+[03:17:19] login
+[03:17:21] login done
+[03:17:21] iteration 1/20
+[03:17:21] film cr_film_id=16803 name='Pirko (2016) CZ' candidates=2
+[03:17:21]   candidate upload_id=5b3aa3eca4cbf url=https://prehraj.to/pirko-2016-cesky-film/5b3aa3eca4cbf
+[03:17:22]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/4637796/4mMsAqCOvI8oSNDizbF7kCAxcVBHwOSnrFKac…)
+[03:18:13]   downloaded 856.0 MB in 48.9s (17.5 MB/s)
+[03:19:02]   upload done video_id=26825522 in 48.4s
