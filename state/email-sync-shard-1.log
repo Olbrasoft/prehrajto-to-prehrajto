@@ -34733,3 +34733,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:34:29]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/143134901/6P8sXkcqnTGvCDmI0gfNVcvbsxoTr3I9pc5…)
 [08:35:17]   downloaded 1,160.2 MB in 47.3s (24.5 MB/s)
 [08:36:07]   upload done video_id=26852795 in 49.6s
+[08:36:09] film cr_film_id=17287 OK in 101.2s
+[08:36:09] iteration 8/20
+[08:36:09] film cr_film_id=17299 name='Nezhojené rány (2018) CZ Dabing' candidates=1
+[08:36:09]   candidate upload_id=94279f23b829cefe url=https://prehraj.to/nezhojene-rany-2018-cz-dabing-hd-mp4/94279f23b829cefe
+[08:36:10]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/nezhojene-rany-2018-cz-dabing-hd-mp4/94279f23b829cefe (permanent=True)
+[08:36:10] film cr_film_id=17299 all candidates exhausted
+[08:36:10] iteration 9/20
+[08:36:10] film cr_film_id=17305 name='Sestřina posedlost (2018) CZ Dabing' candidates=1
+[08:36:10]   candidate upload_id=60d5ac567ddd2 url=https://prehraj.to/sestrina-posedlost-2018-cz-dabing-1080p/60d5ac567ddd2
+[08:36:17]   resolved in 7.2s → 1080p (https://pf-storage3.premiumcdn.net/24033075/jEji1KCAZIlNTLPIBXCJzCvKTxLc5MiWLfAb…)
+[08:37:24]   downloaded 1,645.2 MB in 65.2s (25.2 MB/s)
+[08:38:37]   upload done video_id=26852957 in 72.5s
