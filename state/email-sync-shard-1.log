@@ -34228,3 +34228,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:57:13]   upload done video_id=26839363 in 107.7s
 [05:57:15] film cr_film_id=17037 OK in 214.7s
 [05:57:15] batch-end ok=20 failed=0 dur=3165.8s avg/film=158.3s remaining=12767 eta_hours=561.4
+
+===== run 2026-06-27T05:57:53Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28280523118) =====
+[05:57:55] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:57:55] batch-start shard=1/2 count=20 backlog=17650 uploads=4883 failed_attempts=393 description_overrides=17579
+[05:57:55] login
+[05:57:57] login done
+[05:57:57] iteration 1/20
+[05:57:57] film cr_film_id=17039 name='Narozeninové přání (2017) CZ Dabing' candidates=3
+[05:57:57]   candidate upload_id=5ecaab8d50e26 url=https://prehraj.to/narozeninove-prani-the-birthday-wish-2017-1080p-cz-dabing/5ecaab8d50e26
+[05:57:58]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/16642239/53PFdEcvkHw3tJ5fKjSG1ceBHd1H2Ls0AT3B…)
+[05:59:45]   downloaded 2,006.2 MB in 104.9s (19.1 MB/s)
+[06:01:49]   upload done video_id=26839778 in 123.8s
