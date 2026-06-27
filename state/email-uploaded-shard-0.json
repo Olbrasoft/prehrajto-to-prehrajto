@@ -89107,6 +89107,25 @@
         "download_sec": 48.3,
         "upload_sec": 48.4
       }
+    },
+    {
+      "cr_film_id": 16390,
+      "cr_slug": "snezny-drak",
+      "title": "Sněžný drak",
+      "year": 2013,
+      "display_name": "Sněžný drak (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58603f5b80bed",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26838054,
+      "size_bytes": 608456481,
+      "uploaded_at": "2026-06-27T05:40:05Z",
+      "timing": {
+        "resolve_sec": 6.7,
+        "download_sec": 28.3,
+        "upload_sec": 36.5
+      }
     }
   ],
   "failed_attempts": [
@@ -92287,7 +92306,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-pruvodce-2025-komedie-francie-belgie-czdab-1080p/d8afcbd821a3e4bf",
       "permanent": true,
       "failed_at": "2026-06-27T05:24:34Z"
+    },
+    {
+      "cr_film_id": 16384,
+      "upload_id": "104cb2c9cf63b398",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/bob-a-bobek-ve-filmu-na-stope-mrkvojeda-mp4/104cb2c9cf63b398",
+      "permanent": true,
+      "failed_at": "2026-06-27T05:38:51Z"
     }
   ],
-  "last_updated": "2026-06-27T05:38:48Z"
+  "last_updated": "2026-06-27T05:40:05Z"
 }
