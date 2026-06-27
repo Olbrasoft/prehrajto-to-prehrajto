@@ -37042,3 +37042,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:19:16]   upload done video_id=26873249 in 64.0s
 [23:19:18] film cr_film_id=19391 OK in 94.8s
 [23:19:18] batch-end ok=20 failed=0 dur=2605.6s avg/film=130.3s remaining=12390 eta_hours=448.4
+
+===== run 2026-06-27T23:19:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28304873200) =====
+[23:19:57] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:19:57] batch-start shard=1/2 count=20 backlog=17650 uploads=5260 failed_attempts=408 description_overrides=17579
+[23:19:57] login
+[23:19:59] login done
+[23:19:59] iteration 1/20
+[23:19:59] film cr_film_id=19393 name='Star Wars: Epizoda VI - Návrat Jediů (1983) CZ Dabing' candidates=7
+[23:19:59]   candidate upload_id=ba40c9ddc7a2dce1 url=https://prehraj.to/star-wars-epizoda-vi-navrat-jediu-1983-cz-dab-1080p/ba40c9ddc7a2dce1
+[23:20:00]   resolved in 1.2s → 720p (https://pf-storage4.premiumcdn.net/167549738/oWrTbqfrzFRQi72uYbUlOfAXH3EIg6UrnT6…)
+[23:21:21]   downloaded 2,509.9 MB in 79.6s (31.5 MB/s)
+[23:24:59]   upload done video_id=26873278 in 218.0s
