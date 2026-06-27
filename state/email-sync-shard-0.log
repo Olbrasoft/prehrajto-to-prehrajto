@@ -36071,3 +36071,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:47:03]   upload done video_id=26867619 in 35.7s
 [16:47:04] film cr_film_id=17510 OK in 72.3s
 [16:47:04] batch-end ok=19 failed=1 dur=2753.2s avg/film=144.9s remaining=12522 eta_hours=504.0
+
+===== run 2026-06-27T16:47:40Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28295496910) =====
+[16:47:42] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:47:42] batch-start shard=0/2 count=20 backlog=17650 uploads=5128 failed_attempts=464 description_overrides=17579
+[16:47:42] login
+[16:47:45] login done
+[16:47:45] iteration 1/20
+[16:47:45] film cr_film_id=17516 name='Kdo je další? (2018) CZ' candidates=3
+[16:47:45]   candidate upload_id=5fd4baffcab63 url=https://prehraj.to/kdo-je-dalsi-drama-thriller-slovensko-2019-1080p-5-1-x264-sk-58-sten-ok/5fd4baffcab63
+[16:47:46]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/20741322/enmtjJuDeT6KFJyIRKsQ0ubETj0TyBiwmtDB…)
+[16:50:11]   downloaded 1,818.7 MB in 142.8s (12.7 MB/s)
+[16:51:55]   upload done video_id=26867661 in 103.8s
