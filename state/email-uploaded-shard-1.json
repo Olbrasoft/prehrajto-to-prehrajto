@@ -91529,6 +91529,25 @@
         "download_sec": 26.9,
         "upload_sec": 37.3
       }
+    },
+    {
+      "cr_film_id": 17415,
+      "cr_slug": "jeho-dum",
+      "title": "Jeho dům",
+      "year": 2020,
+      "display_name": "Jeho dům (2020) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5fc2c9fe91583",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26855942,
+      "size_bytes": 1066803845,
+      "uploaded_at": "2026-06-27T09:13:18Z",
+      "timing": {
+        "resolve_sec": 2.3,
+        "download_sec": 49.0,
+        "upload_sec": 47.5
+      }
     }
   ],
   "failed_attempts": [
@@ -94441,5 +94460,5 @@
       "failed_at": "2026-06-27T08:36:10Z"
     }
   ],
-  "last_updated": "2026-06-27T09:11:36Z"
+  "last_updated": "2026-06-27T09:13:18Z"
 }
