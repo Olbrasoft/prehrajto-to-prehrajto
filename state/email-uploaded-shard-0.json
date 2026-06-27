@@ -93819,6 +93819,25 @@
         "download_sec": 65.9,
         "upload_sec": 65.4
       }
+    },
+    {
+      "cr_film_id": 17406,
+      "cr_slug": "seal-team-par-spravnych-tulenu",
+      "title": "Seal Team: Pár správných tuleňů",
+      "year": 2021,
+      "display_name": "Seal Team: Pár správných tuleňů (2021) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "639a3b363fa52",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26866651,
+      "size_bytes": 1662105306,
+      "uploaded_at": "2026-06-27T15:28:53Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 72.8,
+        "upload_sec": 82.1
+      }
     }
   ],
   "failed_attempts": [
@@ -97116,7 +97135,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/staroveka-hysterie-dobrodruzstvi-povrchnich-rimanu-2019-cz-dabing-mp4/513fc10150847ef1",
       "permanent": true,
       "failed_at": "2026-06-27T14:20:10Z"
+    },
+    {
+      "cr_film_id": 17402,
+      "upload_id": "e7fbbc65e643d169",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/the-beatles-made-on-merseyside-2018-cz-dabing-hd-mp4/e7fbbc65e643d169",
+      "permanent": true,
+      "failed_at": "2026-06-27T15:26:10Z"
     }
   ],
-  "last_updated": "2026-06-27T15:26:07Z"
+  "last_updated": "2026-06-27T15:28:53Z"
 }
