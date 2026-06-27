@@ -33634,3 +33634,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:09:03]   upload done video_id=26818170 in 100.1s
 [02:09:04] film cr_film_id=16717 OK in 175.1s
 [02:09:04] batch-end ok=20 failed=0 dur=2100.6s avg/film=105.0s remaining=12843 eta_hours=374.6
+
+===== run 2026-06-27T02:26:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28275831729) =====
+[02:26:18] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:26:18] batch-start shard=1/2 count=20 backlog=17650 uploads=4807 failed_attempts=386 description_overrides=17579
+[02:26:18] login
+[02:26:19] login done
+[02:26:19] iteration 1/20
+[02:26:19] film cr_film_id=16721 name='Správná parta (2016) CZ' candidates=1
+[02:26:19]   candidate upload_id=5d8496428e450 url=https://prehraj.to/spravna-parta-time-toys-2016-1080p-web-dl-cz-dabing/5d8496428e450
+[02:26:20]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/14890765/W9xTekhveSLmf91FvOU0whP7UOQu9oIJGiW9…)
+[02:27:16]   downloaded 1,532.8 MB in 54.3s (28.2 MB/s)
+[02:28:38]   upload done video_id=26820315 in 81.0s
