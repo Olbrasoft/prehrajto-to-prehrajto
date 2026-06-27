@@ -35555,3 +35555,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:20:16]   upload done video_id=26864378 in 42.3s
 [12:20:18] film cr_film_id=17803 OK in 102.1s
 [12:20:18] batch-end ok=20 failed=0 dur=1637.2s avg/film=81.9s remaining=12590 eta_hours=286.4
+
+===== run 2026-06-27T12:48:53Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28289669608) =====
+[12:48:54] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:48:54] batch-start shard=1/2 count=20 backlog=17650 uploads=5060 failed_attempts=401 description_overrides=17579
+[12:48:54] login
+[12:48:56] login done
+[12:48:56] iteration 1/20
+[12:48:56] film cr_film_id=17805 name='Celestinské proroctví (2006) CZ Dabing' candidates=10
+[12:48:56]   candidate upload_id=55c90b9612f14 url=https://prehraj.to/celestinske-proroctvi-2006-cz-dab-dobrodr-koko/55c90b9612f14
+[12:48:57]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/127834/v1Yi8As7Ji89idQS7NTgLsv9uDNCKRSq9u0JhK…)
+[12:49:16]   downloaded 573.9 MB in 17.8s (32.2 MB/s)
+[12:49:45]   upload done video_id=26864826 in 29.4s
