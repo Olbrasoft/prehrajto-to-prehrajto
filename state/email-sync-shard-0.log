@@ -36134,3 +36134,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [17:14:19]   resolved in 1.2s → 1080p (https://pf-storage5.premiumcdn.net/20153034/7yKfWmhnrIRATvxsylt6dh8XunQI0ytYMse5…)
 [17:16:15]   downloaded 2,080.1 MB in 114.0s (18.2 MB/s)
 [17:18:15]   upload done video_id=26868061 in 120.1s
+[17:18:18] film cr_film_id=17556 OK in 240.0s
+[17:18:18] iteration 9/20
+[17:18:18] film cr_film_id=17560 name='Talent na zločin: Tajemství Dahlií (2019) CZ Dabing' candidates=1
+[17:18:18]   candidate upload_id=01260af9cc62a27a url=https://prehraj.to/talent-na-zlocin-tajemstvi-dahlii-2019-cz-dabing-hd-mp4/01260af9cc62a27a
+[17:18:19]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/talent-na-zlocin-tajemstvi-dahlii-2019-cz-dabing-hd-mp4/01260af9cc62a27a (permanent=True)
+[17:18:19] film cr_film_id=17560 all candidates exhausted
+[17:18:19] iteration 10/20
+[17:18:19] film cr_film_id=17562 name='Tri gaštanové kone (1966) CZ' candidates=2
+[17:18:19]   candidate upload_id=584de1cfc4106 url=https://prehraj.to/tri-gastanove-kone-tv-film-1966/584de1cfc4106
+[17:18:25]   resolved in 6.1s → 480p (https://pf-storage5.premiumcdn.net/1126856/Ykdt7wI2QIpRcrBSkmF4xIVyuRDsA1tzRCgjF…)
+[17:19:00]   downloaded 398.5 MB in 32.4s (12.3 MB/s)
+[17:19:28]   upload done video_id=26868138 in 28.7s
