@@ -36808,3 +36808,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:14:04]   upload done video_id=26873179 in 43.7s
 [23:14:06] film cr_film_id=17968 OK in 67.7s
 [23:14:06] batch-end ok=20 failed=0 dur=2294.0s avg/film=114.7s remaining=12424 eta_hours=395.8
+
+===== run 2026-06-27T23:19:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28304873200) =====
+[23:19:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:19:56] batch-start shard=0/2 count=20 backlog=17650 uploads=5226 failed_attempts=469 description_overrides=17579
+[23:19:56] login
+[23:19:57] login done
+[23:19:57] iteration 1/20
+[23:19:57] film cr_film_id=17972 name='Vzájemná objetí (2008) CZ Dabing' candidates=2
+[23:19:57]   candidate upload_id=55f263f8a6aba url=https://prehraj.to/vzajemna-objeti-2009-czdab/55f263f8a6aba
+[23:19:59]   resolved in 1.7s → 480p (https://pf-storage6.premiumcdn.net/295211/ZODF2pIKvhd7C6aU2aFLbIVNFo0iyRHM6uaXUk…)
+[23:20:29]   downloaded 521.0 MB in 27.6s (18.9 MB/s)
+[23:21:03]   upload done video_id=26873271 in 33.5s
