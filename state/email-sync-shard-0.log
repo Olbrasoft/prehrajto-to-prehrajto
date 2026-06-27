@@ -35966,3 +35966,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:10:23]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/23671167/DXlI1NCdzcaEcWvI4ZCE3CxrcLpUv1S2MH6z…)
 [16:12:05]   downloaded 1,739.5 MB in 99.7s (17.4 MB/s)
 [16:13:42]   upload done video_id=26867175 in 97.3s
+[16:13:44] film cr_film_id=17456 OK in 201.5s
+[16:13:44] iteration 6/20
+[16:13:44] film cr_film_id=17460 name='Falešné bezpečí (2019) CZ Dabing' candidates=1
+[16:13:44]   candidate upload_id=29759ba1b1297055 url=https://prehraj.to/falesne-bezpeci-2019-cz-dabing/29759ba1b1297055
+[16:13:44]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/falesne-bezpeci-2019-cz-dabing/29759ba1b1297055 (permanent=True)
+[16:13:45] film cr_film_id=17460 all candidates exhausted
+[16:13:45] iteration 7/20
+[16:13:45] film cr_film_id=17462 name='Vražedná zátoka (2018) CZ' candidates=2
+[16:13:45]   candidate upload_id=5fecd7bde2d38 url=https://prehraj.to/frenzy-akcni-thriller-2018-cz-titulky-novinky/5fecd7bde2d38
+[16:13:50]   resolved in 5.9s → 480p (https://pf-storage1.premiumcdn.net/21117720/dp6ckaFjgupYSvmiLDT2DFJouv3tb5Hwdtz6…)
+[16:14:21]   downloaded 807.6 MB in 29.0s (27.8 MB/s)
+[16:14:53]   upload done video_id=26867210 in 31.8s
