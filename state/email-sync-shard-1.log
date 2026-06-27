@@ -36292,3 +36292,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:30:52]   upload done video_id=26867412 in 19.6s
 [16:30:55] film cr_film_id=18369 OK in 56.5s
 [16:30:55] batch-end ok=20 failed=0 dur=1783.7s avg/film=89.2s remaining=12490 eta_hours=309.5
+
+===== run 2026-06-27T16:47:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28295496910) =====
+[16:47:40] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:47:40] batch-start shard=1/2 count=20 backlog=17650 uploads=5160 failed_attempts=402 description_overrides=17579
+[16:47:40] login
+[16:47:41] login done
+[16:47:41] iteration 1/20
+[16:47:41] film cr_film_id=18373 name='Černý motýl (2017) CZ Dabing' candidates=9
+[16:47:41]   candidate upload_id=59bd99f45d8c3 url=https://prehraj.to/cerny-motyl-2017-cz-dabing/59bd99f45d8c3
+[16:47:42]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/2632636/wP0s5BT6nCR1ty1Sg0UvMTrGie8HanhmGiAMh…)
+[16:48:06]   downloaded 525.1 MB in 21.4s (24.5 MB/s)
+[16:48:27]   upload done video_id=26867636 in 21.3s
