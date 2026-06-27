@@ -34760,3 +34760,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:38:39]   upload done video_id=26857762 in 41.1s
 [09:38:41] film cr_film_id=16812 OK in 81.3s
 [09:38:41] batch-end ok=20 failed=0 dur=2246.2s avg/film=112.3s remaining=12694 eta_hours=396.0
+
+===== run 2026-06-27T09:48:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28285649911) =====
+[09:48:53] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:48:53] batch-start shard=0/2 count=20 backlog=17650 uploads=4956 failed_attempts=454 description_overrides=17579
+[09:48:53] login
+[09:48:54] login done
+[09:48:54] iteration 1/20
+[09:48:54] film cr_film_id=16814 name='Osvobození V - Poslední úder (1971) CZ Dabing' candidates=7
+[09:48:54]   candidate upload_id=5e8fed48dc926 url=https://prehraj.to/osvobozeni-v-posledni-uder-cz-dab-1971/5e8fed48dc926
+[09:48:55]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/16184251/rE5TnLuldiEmigMuJgtRxu4NC9mcZ5sV6hp2…)
+[09:49:13]   downloaded 446.0 MB in 16.1s (27.7 MB/s)
+[09:49:43]   upload done video_id=26858729 in 30.4s
