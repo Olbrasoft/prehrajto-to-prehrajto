@@ -34059,3 +34059,16 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:55:46]   resolved in 1.6s → 1080p (https://pf-storage6.premiumcdn.net/150750075/pwvSM2u45sOZuMas0QT2JuJlIykCwlC8XS8…)
 [04:57:08]   downloaded 1,654.4 MB in 79.9s (20.7 MB/s)
 [04:58:31]   upload done video_id=26834409 in 83.4s
+[04:58:33] film cr_film_id=16939 OK in 168.8s
+[04:58:33] iteration 19/20
+[04:58:33] film cr_film_id=16941 name='Vánoční přání (2016) CZ Dabing' candidates=5
+[04:58:33]   candidate upload_id=5a14e8698a911 url=https://prehraj.to/vanocni-prani-cz-dabing-2016/5a14e8698a911
+[04:58:34]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/2959017/Y6qixZsaRIYrh4pI9PIGKs5WhlPtR2I83h1MC…)
+[04:58:37]   download FAILED after 1.2s: curl exit 22: curl: (22) The requested URL returned error: 404
+[04:58:37]   candidate upload_id=5dddbba666d0c url=https://prehraj.to/vanocni-prani-2016-cz-dabing-vanocni-filmy-vanocni-film/5dddbba666d0c
+[04:58:41]   resolved in 3.7s → 1080p (https://pf-storage1.premiumcdn.net/15351319/ZxWsLgTdgungUapFlpSzmTdOIV1cL8IgVhqK…)
+[04:58:44]   download FAILED after 1.2s: curl exit 22: curl: (22) The requested URL returned error: 404
+[04:58:44]   candidate upload_id=5c17f137b73b8 url=https://prehraj.to/vanocni-prani-2016/5c17f137b73b8
+[04:58:47]   resolved in 3.2s → 720p (https://pf-storage2.premiumcdn.net/9577991/nV4U5aSGMFK7tadhjWHv0SAncxoCNjFgkcwEI…)
+[04:59:45]   downloaded 1,112.3 MB in 56.1s (19.8 MB/s)
+[05:00:49]   upload done video_id=26834579 in 64.1s
