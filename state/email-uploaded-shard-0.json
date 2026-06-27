@@ -88100,6 +88100,25 @@
         "download_sec": 25.3,
         "upload_sec": 30.9
       }
+    },
+    {
+      "cr_film_id": 16176,
+      "cr_slug": "zakazane-uvolneni",
+      "title": "Zakázané uvolnění",
+      "year": 2014,
+      "display_name": "Zakázané uvolnění (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "595cd83fa3782252",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26823294,
+      "size_bytes": 317814788,
+      "uploaded_at": "2026-06-27T02:56:53Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 13.6,
+        "upload_sec": 14.7
+      }
     }
   ],
   "failed_attempts": [
@@ -91139,7 +91158,21 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/v-pasti-duvery-2023-cz-dabing-hd-mp4/6c233759391f285c",
       "permanent": true,
       "failed_at": "2026-06-27T00:39:07Z"
+    },
+    {
+      "cr_film_id": 16170,
+      "upload_id": "88fe5514d85e4273",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/influencerky-2024-cz-dab-1080p-mp4/88fe5514d85e4273",
+      "permanent": true,
+      "failed_at": "2026-06-27T02:56:09Z"
+    },
+    {
+      "cr_film_id": 16170,
+      "upload_id": "484a8bf121097d36",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/influencerky-2024-cz-dab-1080p/484a8bf121097d36",
+      "permanent": true,
+      "failed_at": "2026-06-27T02:56:17Z"
     }
   ],
-  "last_updated": "2026-06-27T02:56:07Z"
+  "last_updated": "2026-06-27T02:56:53Z"
 }

@@ -33501,3 +33501,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:55:09]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/26778/yvWFBkSl0sVdiRxi5aUg2S7kIAlCaPT29InYceE…)
 [02:55:36]   downloaded 665.7 MB in 25.3s (26.3 MB/s)
 [02:56:07]   upload done video_id=26823220 in 30.9s
+[02:56:08] film cr_film_id=16164 OK in 60.5s
+[02:56:08] iteration 12/20
+[02:56:08] film cr_film_id=16170 name='Influencerky (2024) CZ Dabing' candidates=2
+[02:56:08]   candidate upload_id=88fe5514d85e4273 url=https://prehraj.to/influencerky-2024-cz-dab-1080p-mp4/88fe5514d85e4273
+[02:56:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/influencerky-2024-cz-dab-1080p-mp4/88fe5514d85e4273 (permanent=True)
+[02:56:09]   candidate upload_id=484a8bf121097d36 url=https://prehraj.to/influencerky-2024-cz-dab-1080p/484a8bf121097d36
+[02:56:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/influencerky-2024-cz-dab-1080p/484a8bf121097d36 (permanent=True)
+[02:56:17] film cr_film_id=16170 all candidates exhausted
+[02:56:17] iteration 13/20
+[02:56:17] film cr_film_id=16176 name='Zakázané uvolnění (2014) CZ' candidates=1
+[02:56:17]   candidate upload_id=595cd83fa3782252 url=https://prehraj.to/zakazane-uvolneni-cesky-film-avi-mp4/595cd83fa3782252
+[02:56:23]   resolved in 6.1s → 480p (https://pf-storage5.premiumcdn.net/168108610/RLzuoQs8JCDmUBXSQPfAYsN8iAoCYQixyT0…)
+[02:56:38]   downloaded 317.8 MB in 13.6s (23.4 MB/s)
+[02:56:53]   upload done video_id=26823294 in 14.7s
