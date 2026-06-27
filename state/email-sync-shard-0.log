@@ -36218,3 +36218,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [18:01:15]   upload done video_id=26869186 in 33.6s
 [18:01:16] film cr_film_id=17610 OK in 862.7s
 [18:01:16] batch-end ok=18 failed=2 dur=4411.3s avg/film=245.1s remaining=12504 eta_hours=851.3
+
+===== run 2026-06-27T18:01:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28297321064) =====
+[18:01:55] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[18:01:55] batch-start shard=0/2 count=20 backlog=17650 uploads=5146 failed_attempts=468 description_overrides=17579
+[18:01:55] login
+[18:01:57] login done
+[18:01:57] iteration 1/20
+[18:01:57] film cr_film_id=17614 name='Pätnásť životov (1974) CZ' candidates=1
+[18:01:57]   candidate upload_id=68f44b0fce77f url=https://prehraj.to/patnast-zivotov-1974-fecko/68f44b0fce77f
+[18:01:58]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/152378997/9zGTaDfamHKAh2VtmnFlBfeaSDmhXYcAwik…)
+[18:02:56]   downloaded 1,658.3 MB in 56.3s (29.5 MB/s)
+[18:03:54]   upload done video_id=26869231 in 58.3s
