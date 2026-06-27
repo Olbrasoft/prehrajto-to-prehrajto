@@ -33272,3 +33272,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:33:23]   upload done video_id=26814638 in 88.0s
 [01:33:25] film cr_film_id=16078 OK in 160.9s
 [01:33:25] batch-end ok=19 failed=1 dur=3617.4s avg/film=190.4s remaining=12884 eta_hours=681.4
+
+===== run 2026-06-27T01:34:05Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28274576312) =====
+[01:34:07] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:34:07] batch-start shard=0/2 count=20 backlog=17650 uploads=4766 failed_attempts=427 description_overrides=17579
+[01:34:07] login
+[01:34:08] login done
+[01:34:08] iteration 1/20
+[01:34:08] film cr_film_id=16080 name='Happyend (2024) CZ Dabing' candidates=6
+[01:34:08]   candidate upload_id=c73a5eff7dd8cb36 url=https://prehraj.to/happyend-2024-cz-dabing-1080p-mkv/c73a5eff7dd8cb36
+[01:34:10]   resolved in 1.5s → 1080p (https://pf-storage1.premiumcdn.net/158228732/j3Ki4kF5rHZLSqdIo4sY8Fnyik0iyeCayfm…)
+[01:35:35]   downloaded 1,711.6 MB in 83.3s (20.5 MB/s)
+[01:37:17]   upload done video_id=26815010 in 101.9s
