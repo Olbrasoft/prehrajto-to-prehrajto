@@ -33139,3 +33139,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:33:09]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/156226691/P4JIZzhynSaKSyPFomt7NhqzU1zU37I70to…)
 [00:35:41]   downloaded 3,549.7 MB in 149.8s (23.7 MB/s)
 [00:39:04]   upload done video_id=26809826 in 203.5s
+[00:39:06] film cr_film_id=15998 OK in 359.0s
+[00:39:06] iteration 2/20
+[00:39:06] film cr_film_id=16000 name='V pasti důvěry (2023) CZ Dabing' candidates=1
+[00:39:06]   candidate upload_id=6c233759391f285c url=https://prehraj.to/v-pasti-duvery-2023-cz-dabing-hd-mp4/6c233759391f285c
+[00:39:07]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/v-pasti-duvery-2023-cz-dabing-hd-mp4/6c233759391f285c (permanent=True)
+[00:39:07] film cr_film_id=16000 all candidates exhausted
+[00:39:07] iteration 3/20
+[00:39:07] film cr_film_id=16006 name='Pěst na pěst 2: Vybraná zbraň (2015) CZ Dabing' candidates=4
+[00:39:07]   candidate upload_id=68e8be58388fb url=https://prehraj.to/pest-na-pest-2-vybrana-zbran-2014-cz-dab-1080p/68e8be58388fb
+[00:39:17]   resolved in 9.1s → 1080p (https://pf-storage1.premiumcdn.net/150704829/ZDZIneUpZsGeCnAfjLTJAU1ai3kf96UMVco…)
+[00:40:47]   downloaded 2,092.7 MB in 88.3s (23.7 MB/s)
+[00:42:47]   upload done video_id=26810172 in 119.9s
