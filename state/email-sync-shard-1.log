@@ -35996,3 +35996,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:00:47]   upload done video_id=26866314 in 28.8s
 [15:00:49] film cr_film_id=18085 OK in 83.6s
 [15:00:49] batch-end ok=20 failed=0 dur=2442.9s avg/film=122.1s remaining=12530 eta_hours=425.0
+
+===== run 2026-06-27T15:01:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28292822923) =====
+[15:01:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:01:27] batch-start shard=1/2 count=20 backlog=17650 uploads=5120 failed_attempts=401 description_overrides=17579
+[15:01:27] login
+[15:01:28] login done
+[15:01:28] iteration 1/20
+[15:01:28] film cr_film_id=18105 name='Neodvratná pomsta (2009) CZ Dabing' candidates=2
+[15:01:28]   candidate upload_id=582113a8b183f url=https://prehraj.to/neodvratna-pomsta-cz-dabing-2009/582113a8b183f
+[15:01:29]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/812446/N70t4GuY5spPf3KU4OumzuVvSJNsndSYxIkEcw…)
+[15:01:54]   downloaded 321.1 MB in 23.4s (13.7 MB/s)
+[15:02:12]   upload done video_id=26866335 in 18.3s
