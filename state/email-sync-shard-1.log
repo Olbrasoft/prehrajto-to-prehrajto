@@ -33342,3 +33342,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:15:03]   upload done video_id=26808175 in 51.0s
 [00:15:04] film cr_film_id=16575 OK in 89.0s
 [00:15:04] batch-end ok=18 failed=2 dur=3355.2s avg/film=186.4s remaining=12882 eta_hours=667.0
+
+===== run 2026-06-27T00:33:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28272960596) =====
+[00:33:05] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:33:05] batch-start shard=1/2 count=20 backlog=17650 uploads=4768 failed_attempts=385 description_overrides=17579
+[00:33:05] login
+[00:33:07] login done
+[00:33:07] iteration 1/20
+[00:33:07] film cr_film_id=16577 name='Legenda o Benu Hallovi (2016) CZ Dabing' candidates=5
+[00:33:07]   candidate upload_id=5a1d9ff265c65 url=https://prehraj.to/legenda-o-benu-hallovi-the-legend-of-ben-hall-2017-720p-cz-dabing-akcni-zivotopisny-western/5a1d9ff265c65
+[00:33:08]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3008939/zeQTnkfOktkYcMac2PTb3fKeiQmhBGupoSbXu…)
+[00:34:32]   downloaded 1,592.4 MB in 81.6s (19.5 MB/s)
+[00:36:01]   upload done video_id=26809747 in 88.7s
