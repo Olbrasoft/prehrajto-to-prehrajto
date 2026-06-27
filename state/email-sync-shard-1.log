@@ -35408,3 +35408,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:49:09]   upload done video_id=26863952 in 27.8s
 [11:49:11] film cr_film_id=17751 OK in 78.4s
 [11:49:11] batch-end ok=20 failed=0 dur=1950.5s avg/film=97.5s remaining=12610 eta_hours=341.5
+
+===== run 2026-06-27T11:52:57Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28288390053) =====
+[11:52:59] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:52:59] batch-start shard=1/2 count=20 backlog=17650 uploads=5040 failed_attempts=401 description_overrides=17579
+[11:52:59] login
+[11:53:01] login done
+[11:53:01] iteration 1/20
+[11:53:01] film cr_film_id=17753 name='Boxerka (2000) CZ Dabing' candidates=4
+[11:53:01]   candidate upload_id=57c292a63f294 url=https://prehraj.to/boxerka-2000-czdab-x264/57c292a63f294
+[11:53:02]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/481860/nevu6xiXWfdEToBSWQHR8ioQul6SebsVNf78um…)
+[11:53:34]   downloaded 512.8 MB in 29.5s (17.4 MB/s)
+[11:54:02]   upload done video_id=26863997 in 28.7s
