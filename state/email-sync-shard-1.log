@@ -33723,3 +33723,13 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:54:30]   resolved in 1.0s → 1080p (https://pf-storage5.premiumcdn.net/3867061/wqWhoXu4xCwQCPrivmUzouyLsR9Ieji9acbJT…)
 [02:55:52]   downloaded 2,309.5 MB in 80.5s (28.7 MB/s)
 [02:57:29]   upload done video_id=26823223 in 97.2s
+[02:57:31] film cr_film_id=16753 OK in 182.2s
+[02:57:31] iteration 13/20
+[02:57:31] film cr_film_id=16761 name='Vánoční zásnuby (2015) CZ Dabing' candidates=3
+[02:57:31]   candidate upload_id=66d2c2f61eace url=https://prehraj.to/vanocni-zasnuby-komedie-romanticky-2015-cz-dab/66d2c2f61eace
+[02:57:32]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/93635267/pqrSM3T1afREcyAUpVf1yTzLib6UVLIMkhYM…)
+[02:57:35]   download FAILED after 0.9s: curl exit 22: curl: (22) The requested URL returned error: 404
+[02:57:35]   candidate upload_id=605f9031b8743 url=https://prehraj.to/vianocne-zasnuby-2015-sk/605f9031b8743
+[02:57:38]   resolved in 3.0s → 1080p (https://pf-storage5.premiumcdn.net/22847004/ZdqcQ3frpFeDSokIEyU8GfdphVzSvAF4zTKm…)
+[02:59:06]   downloaded 2,493.3 MB in 86.4s (28.9 MB/s)
+[03:01:04]   upload done video_id=26823525 in 118.5s

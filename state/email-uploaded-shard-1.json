@@ -88679,6 +88679,25 @@
         "download_sec": 80.5,
         "upload_sec": 97.2
       }
+    },
+    {
+      "cr_film_id": 16761,
+      "cr_slug": "vanocni-zasnuby",
+      "title": "Vánoční zásnuby",
+      "year": 2015,
+      "display_name": "Vánoční zásnuby (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "605f9031b8743",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26823525,
+      "size_bytes": 2493251611,
+      "uploaded_at": "2026-06-27T03:01:04Z",
+      "timing": {
+        "resolve_sec": 3.0,
+        "download_sec": 86.4,
+        "upload_sec": 118.5
+      }
     }
   ],
   "failed_attempts": [
@@ -91469,7 +91488,18 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zivot-je-zivot-2015-cz-film/9b0caefa1d093445",
       "permanent": true,
       "failed_at": "2026-06-27T00:48:32Z"
+    },
+    {
+      "cr_film_id": 16761,
+      "upload_id": "66d2c2f61eace",
+      "reason": "download_failed: curl exit 22: curl: (22) The requested URL returned error: 404",
+      "permanent": false,
+      "failed_at": "2026-06-27T02:57:35Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 0.9
+      }
     }
   ],
-  "last_updated": "2026-06-27T02:57:29Z"
+  "last_updated": "2026-06-27T03:01:04Z"
 }
