@@ -33292,3 +33292,23 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:01:13]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/10996/V0xTANI8YCJbf39uOoSZjIJBiZPSx3tg4um0i6n…)
 [00:01:57]   downloaded 779.4 MB in 41.8s (18.6 MB/s)
 [00:02:55]   upload done video_id=26807062 in 58.3s
+[00:02:57] film cr_film_id=16557 OK in 105.7s
+[00:02:57] iteration 15/20
+[00:02:57] film cr_film_id=16561 name='Něco za něco (2025) CZ Dabing' candidates=5
+[00:02:57]   candidate upload_id=f6ae61522481e0b9 url=https://prehraj.to/neco-za-neco-2025-cz-dab-1080p/f6ae61522481e0b9
+[00:02:58]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neco-za-neco-2025-cz-dab-1080p/f6ae61522481e0b9 (permanent=True)
+[00:02:58]   candidate upload_id=15ef88b16e1a245c url=https://prehraj.to/neco-za-neco-2025-1080p-h264-aac-ces/15ef88b16e1a245c
+[00:03:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neco-za-neco-2025-1080p-h264-aac-ces/15ef88b16e1a245c (permanent=True)
+[00:03:03]   candidate upload_id=f1799b03d0eec5d2 url=https://prehraj.to/neco-za-neco-2025-1080-dabcz-mp4/f1799b03d0eec5d2
+[00:03:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neco-za-neco-2025-1080-dabcz-mp4/f1799b03d0eec5d2 (permanent=True)
+[00:03:09]   candidate upload_id=b3118307edfec332 url=https://prehraj.to/neco-za-neco-2025-1080-dabcz-mkv/b3118307edfec332
+[00:03:15]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neco-za-neco-2025-1080-dabcz-mkv/b3118307edfec332 (permanent=True)
+[00:03:15]   candidate upload_id=2d92f20c5d08703d url=https://prehraj.to/neco-za-neco-2025-cz/2d92f20c5d08703d
+[00:03:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/neco-za-neco-2025-cz/2d92f20c5d08703d (permanent=True)
+[00:03:20] film cr_film_id=16561 all candidates exhausted
+[00:03:20] iteration 16/20
+[00:03:20] film cr_film_id=16563 name='27 nocí (2025) CZ Dabing' candidates=6
+[00:03:20]   candidate upload_id=68f330c9e5212 url=https://prehraj.to/27-noci-2025-cz-dabing-1080p-full-hd/68f330c9e5212
+[00:03:27]   resolved in 6.2s → 1080p (https://pf-storage5.premiumcdn.net/152195529/K9dIqMFrLSL7f5eCmeUkjFdohakhGqUbXu2…)
+[00:05:33]   downloaded 2,295.6 MB in 124.3s (18.5 MB/s)
+[00:07:38]   upload done video_id=26807412 in 125.4s
