@@ -33592,3 +33592,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:18:21]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/167440667/xjls8Vf48SKmi3lc0VieyfgnH5JUx2UxbFv…)
 [03:19:32]   downloaded 1,287.8 MB in 69.2s (18.6 MB/s)
 [03:20:44]   upload done video_id=26825600 in 71.7s
+[03:20:46] film cr_film_id=16212 OK in 146.7s
+[03:20:46] iteration 4/20
+[03:20:46] film cr_film_id=16214 name='Sám mezi všemi (2013) CZ Dabing' candidates=1
+[03:20:46]   candidate upload_id=969e252b6c9eb6ce url=https://prehraj.to/sam-mezi-vsemi-2013-cz-dabing-mp4/969e252b6c9eb6ce
+[03:20:47]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/sam-mezi-vsemi-2013-cz-dabing-mp4/969e252b6c9eb6ce (permanent=True)
+[03:20:47] film cr_film_id=16214 all candidates exhausted
+[03:20:47] iteration 5/20
+[03:20:47] film cr_film_id=16218 name='Zamilovaná chůva (2014) CZ Dabing' candidates=2
+[03:20:47]   candidate upload_id=60e7c112556de url=https://prehraj.to/zamilovana-chuva-2014-czdab/60e7c112556de
+[03:20:53]   resolved in 6.5s → 1080p (https://pf-storage5.premiumcdn.net/24216162/QPetQXFoVsROfOjslqIaKF6QhxkHjlH4lhKN…)
+[03:23:02]   downloaded 2,407.8 MB in 126.4s (19.0 MB/s)
+[03:25:18]   upload done video_id=26825929 in 136.5s

@@ -88290,6 +88290,25 @@
         "download_sec": 69.2,
         "upload_sec": 71.7
       }
+    },
+    {
+      "cr_film_id": 16218,
+      "cr_slug": "zamilovana-chuva",
+      "title": "Zamilovaná chůva",
+      "year": 2014,
+      "display_name": "Zamilovaná chůva (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60e7c112556de",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26825929,
+      "size_bytes": 2407823144,
+      "uploaded_at": "2026-06-27T03:25:18Z",
+      "timing": {
+        "resolve_sec": 6.5,
+        "download_sec": 126.4,
+        "upload_sec": 136.5
+      }
     }
   ],
   "failed_attempts": [
@@ -91357,7 +91376,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superskritkove-2024-cz-dab-1080p/5699464ac16df046",
       "permanent": true,
       "failed_at": "2026-06-27T03:17:28Z"
+    },
+    {
+      "cr_film_id": 16214,
+      "upload_id": "969e252b6c9eb6ce",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/sam-mezi-vsemi-2013-cz-dabing-mp4/969e252b6c9eb6ce",
+      "permanent": true,
+      "failed_at": "2026-06-27T03:20:47Z"
     }
   ],
-  "last_updated": "2026-06-27T03:20:44Z"
+  "last_updated": "2026-06-27T03:25:18Z"
 }
