@@ -88404,6 +88404,25 @@
         "download_sec": 115.6,
         "upload_sec": 124.4
       }
+    },
+    {
+      "cr_film_id": 16244,
+      "cr_slug": "princezna-na-hrasku",
+      "title": "Princezna na hrášku",
+      "year": 2024,
+      "display_name": "Princezna na hrášku (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6627c99f72b8b",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26827714,
+      "size_bytes": 754627195,
+      "uploaded_at": "2026-06-27T03:43:19Z",
+      "timing": {
+        "resolve_sec": 6.4,
+        "download_sec": 40.9,
+        "upload_sec": 45.4
+      }
     }
   ],
   "failed_attempts": [
@@ -91485,7 +91504,21 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/dum-s-tajemstvim-2014-cz-dabing-mp4/5e396dc35ec513bf",
       "permanent": true,
       "failed_at": "2026-06-27T03:32:07Z"
+    },
+    {
+      "cr_film_id": 16244,
+      "upload_id": "6c04972b94dfbbcb",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princezna-na-hrasku-2024-cz-dab-1080p/6c04972b94dfbbcb",
+      "permanent": true,
+      "failed_at": "2026-06-27T03:41:39Z"
+    },
+    {
+      "cr_film_id": 16244,
+      "upload_id": "621cc6333ab7a36b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princezna-na-hrasku-2024-cz-dab-1080p-mp4/621cc6333ab7a36b",
+      "permanent": true,
+      "failed_at": "2026-06-27T03:41:45Z"
     }
   ],
-  "last_updated": "2026-06-27T03:41:36Z"
+  "last_updated": "2026-06-27T03:43:19Z"
 }

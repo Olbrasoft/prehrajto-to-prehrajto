@@ -33644,3 +33644,14 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:37:33]   resolved in 1.1s → 1080p (https://pf-storage4.premiumcdn.net/141255128/mqRF6du9xIzxtDyIylcGkuL7sW2CWPTAGf8…)
 [03:39:31]   downloaded 2,030.0 MB in 115.6s (17.6 MB/s)
 [03:41:36]   upload done video_id=26827487 in 124.4s
+[03:41:38] film cr_film_id=16242 OK in 245.7s
+[03:41:38] iteration 12/20
+[03:41:38] film cr_film_id=16244 name='Princezna na hrášku (2024) CZ Dabing' candidates=5
+[03:41:38]   candidate upload_id=6c04972b94dfbbcb url=https://prehraj.to/princezna-na-hrasku-2024-cz-dab-1080p/6c04972b94dfbbcb
+[03:41:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princezna-na-hrasku-2024-cz-dab-1080p/6c04972b94dfbbcb (permanent=True)
+[03:41:39]   candidate upload_id=621cc6333ab7a36b url=https://prehraj.to/princezna-na-hrasku-2024-cz-dab-1080p-mp4/621cc6333ab7a36b
+[03:41:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princezna-na-hrasku-2024-cz-dab-1080p-mp4/621cc6333ab7a36b (permanent=True)
+[03:41:45]   candidate upload_id=6627c99f72b8b url=https://prehraj.to/23-4-2024-princezna-marianka-cte-pohadku-o-princezne-na-hrasku-1-mp4/6627c99f72b8b
+[03:41:51]   resolved in 6.4s → 1080p (https://pf-storage5.premiumcdn.net/76476542/JPnS79cB5HwOHQaun9hewcwMf26Symu3bUoO…)
+[03:42:34]   downloaded 754.6 MB in 40.9s (18.5 MB/s)
+[03:43:19]   upload done video_id=26827714 in 45.4s
