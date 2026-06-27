@@ -35020,3 +35020,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:02:55]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/70306931/z2of45IYoCoVh0eCp5S1mIMjF5Puv3uELSPo…)
 [11:04:11]   downloaded 1,518.7 MB in 73.6s (20.6 MB/s)
 [11:05:24]   upload done video_id=26863536 in 73.1s
+[11:05:26] film cr_film_id=16928 OK in 151.5s
+[11:05:26] iteration 17/20
+[11:05:26] film cr_film_id=16930 name='Nejdelší noc života (2021) CZ Dabing' candidates=2
+[11:05:26]   candidate upload_id=486f4b3545fb3c3c url=https://prehraj.to/nejdelsi-noc-zivota-2021-cz-dab-1080p-mp4/486f4b3545fb3c3c
+[11:05:27]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/nejdelsi-noc-zivota-2021-cz-dab-1080p-mp4/486f4b3545fb3c3c (permanent=True)
+[11:05:27]   candidate upload_id=89fb0d1274f26fd8 url=https://prehraj.to/nejdelsi-noc-zivota-2021-cz-dab-1080p-mp4/89fb0d1274f26fd8
+[11:05:33]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/nejdelsi-noc-zivota-2021-cz-dab-1080p-mp4/89fb0d1274f26fd8 (permanent=True)
+[11:05:33] film cr_film_id=16930 all candidates exhausted
+[11:05:33] iteration 18/20
+[11:05:33] film cr_film_id=16934 name='Nesnáším děti (2019) CZ Dabing' candidates=1
+[11:05:33]   candidate upload_id=6387cb46091e4 url=https://prehraj.to/nesnasim-deti-2018-czdab/6387cb46091e4
+[11:05:39]   resolved in 6.2s → 720p (https://pf-storage3.premiumcdn.net/34924393/DYyuLYHZau0rfxLC2NuDXHoOCXaH0Ac5Kily…)
+[11:07:05]   downloaded 1,333.8 MB in 83.9s (15.9 MB/s)
+[11:08:12]   upload done video_id=26863567 in 66.6s
