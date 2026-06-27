@@ -96137,6 +96137,25 @@
         "download_sec": 119.2,
         "upload_sec": 224.2
       }
+    },
+    {
+      "cr_film_id": 17946,
+      "cr_slug": "vyhen",
+      "title": "Výheň",
+      "year": 2020,
+      "display_name": "Výheň (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "645bd516bd785",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26873061,
+      "size_bytes": 1939786844,
+      "uploaded_at": "2026-06-27T23:04:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 68.3,
+        "upload_sec": 75.1
+      }
     }
   ],
   "failed_attempts": [
@@ -99485,5 +99504,5 @@
       "failed_at": "2026-06-27T21:12:06Z"
     }
   ],
-  "last_updated": "2026-06-27T23:02:04Z"
+  "last_updated": "2026-06-27T23:04:32Z"
 }
