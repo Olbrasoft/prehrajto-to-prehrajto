@@ -90693,6 +90693,25 @@
         "download_sec": 25.0,
         "upload_sec": 30.7
       }
+    },
+    {
+      "cr_film_id": 17207,
+      "cr_slug": "zakleta-princezna",
+      "title": "Zakletá princezna",
+      "year": 2018,
+      "display_name": "Zakletá princezna (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61fdb87e237a1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26848791,
+      "size_bytes": 1446464155,
+      "uploaded_at": "2026-06-27T07:48:35Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 50.1,
+        "upload_sec": 58.5
+      }
     }
   ],
   "failed_attempts": [
@@ -93582,7 +93601,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/staci-jedna-noc-2023-cz-dab-1080p-mp4/47af63eddae58f41",
       "permanent": true,
       "failed_at": "2026-06-27T07:45:28Z"
+    },
+    {
+      "cr_film_id": 17207,
+      "upload_id": "f677f31bbdec5bb1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zakleta-princezna-cz-494841/f677f31bbdec5bb1",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:46:33Z"
+    },
+    {
+      "cr_film_id": 17207,
+      "upload_id": "31e5fc4ef6e2eebc",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zakleta-princezna-2018-cz-dabing-full-hd-animation-top-kvalita-494841/31e5fc4ef6e2eebc",
+      "permanent": true,
+      "failed_at": "2026-06-27T07:46:39Z"
     }
   ],
-  "last_updated": "2026-06-27T07:46:31Z"
+  "last_updated": "2026-06-27T07:48:35Z"
 }

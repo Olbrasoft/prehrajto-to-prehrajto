@@ -34547,3 +34547,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:45:34]   resolved in 6.0s → 720p (https://pf-storage3.premiumcdn.net/167285447/LaEHlEsBzIVOheKHrxFrms3OCpZTGEu1BCe…)
 [07:46:00]   downloaded 713.8 MB in 25.0s (28.6 MB/s)
 [07:46:31]   upload done video_id=26848648 in 30.7s
+[07:46:33] film cr_film_id=17203 OK in 77.6s
+[07:46:33] iteration 3/20
+[07:46:33] film cr_film_id=17207 name='Zakletá princezna (2018) CZ Dabing' candidates=3
+[07:46:33]   candidate upload_id=f677f31bbdec5bb1 url=https://prehraj.to/zakleta-princezna-cz-494841/f677f31bbdec5bb1
+[07:46:33]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zakleta-princezna-cz-494841/f677f31bbdec5bb1 (permanent=True)
+[07:46:34]   candidate upload_id=31e5fc4ef6e2eebc url=https://prehraj.to/zakleta-princezna-2018-cz-dabing-full-hd-animation-top-kvalita-494841/31e5fc4ef6e2eebc
+[07:46:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zakleta-princezna-2018-cz-dabing-full-hd-animation-top-kvalita-494841/31e5fc4ef6e2eebc (permanent=True)
+[07:46:39]   candidate upload_id=61fdb87e237a1 url=https://prehraj.to/zakleta-princezna-2018-czdab/61fdb87e237a1
+[07:46:45]   resolved in 5.9s → 1080p (https://pf-storage4.premiumcdn.net/29031300/ZqeFbeSe3tGgHYES6NurqSpac4EhegIl4IAz…)
+[07:47:37]   downloaded 1,446.5 MB in 50.1s (28.9 MB/s)
+[07:48:35]   upload done video_id=26848791 in 58.5s
