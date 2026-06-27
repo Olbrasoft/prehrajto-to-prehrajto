@@ -35702,3 +35702,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:20:38]   upload done video_id=26865167 in 32.8s
 [13:20:39] film cr_film_id=17871 OK in 118.5s
 [13:20:39] batch-end ok=20 failed=0 dur=1903.8s avg/film=95.2s remaining=12570 eta_hours=332.4
+
+===== run 2026-06-27T13:37:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28290825423) =====
+[13:37:26] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:37:26] batch-start shard=1/2 count=20 backlog=17650 uploads=5080 failed_attempts=401 description_overrides=17579
+[13:37:26] login
+[13:37:28] login done
+[13:37:28] iteration 1/20
+[13:37:28] film cr_film_id=17873 name='Maximum Ride - Experimentální děti (2016) CZ Dabing' candidates=2
+[13:37:28]   candidate upload_id=590326f118152 url=https://prehraj.to/maximum-ride-experimentalni-deti-maximum-ride-2016-cz-dabing-akcni-dobrodruzny-komedie-thriller-fantasy-sci-fi-webrip/590326f118152
+[13:37:30]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/2092181/Mg1UeqCMLIb4sK2CYAFnEC5JTGkCwlFrDHb9u…)
+[13:38:06]   downloaded 465.2 MB in 34.0s (13.7 MB/s)
+[13:38:35]   upload done video_id=26865370 in 28.7s
