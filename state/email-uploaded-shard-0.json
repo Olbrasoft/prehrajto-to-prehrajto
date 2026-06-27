@@ -92527,6 +92527,25 @@
         "download_sec": 25.1,
         "upload_sec": 25.9
       }
+    },
+    {
+      "cr_film_id": 17120,
+      "cr_slug": "pohadka-o-faustovi",
+      "title": "Pohádka o Faustovi",
+      "year": 1995,
+      "display_name": "Pohádka o Faustovi (1995) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "655075afd0e07",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26864793,
+      "size_bytes": 694536710,
+      "uploaded_at": "2026-06-27T12:46:58Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 42.7,
+        "upload_sec": 46.7
+      }
     }
   ],
   "failed_attempts": [
@@ -95812,5 +95831,5 @@
       "failed_at": "2026-06-27T11:28:50Z"
     }
   ],
-  "last_updated": "2026-06-27T12:45:24Z"
+  "last_updated": "2026-06-27T12:46:58Z"
 }
