@@ -33983,3 +33983,16 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:29:26]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/168339316/w0qi9JSbkiLmI0dIAqcQ7SwYtY5S36FpjHM…)
 [04:29:49]   downloaded 381.2 MB in 20.6s (18.5 MB/s)
 [04:30:10]   upload done video_id=26832176 in 21.2s
+[04:30:12] film cr_film_id=16891 OK in 46.9s
+[04:30:12] iteration 8/20
+[04:30:12] film cr_film_id=16893 name='Beznadějný romantik (2016) CZ Dabing' candidates=1
+[04:30:12]   candidate upload_id=5be9619b3e614 url=https://prehraj.to/beznadejny-romantik-hopeless-romantic-2016-1080p-cz-dabing/5be9619b3e614
+[04:30:13]   resolved in 0.9s → 1080p (https://pf-storage1.premiumcdn.net/8144462/yB7f5Jc9ZSkBHzYCBdcaKcXws0AflXf7DTQPs…)
+[04:30:16]   download FAILED after 1.2s: curl exit 22: curl: (22) The requested URL returned error: 404
+[04:30:16] film cr_film_id=16893 all candidates exhausted
+[04:30:16] iteration 9/20
+[04:30:16] film cr_film_id=16899 name='Šach mat (1964) CZ Dabing' candidates=1
+[04:30:16]   candidate upload_id=60888c61b046b url=https://prehraj.to/sach-mat-1964-czdab/60888c61b046b
+[04:30:19]   resolved in 3.3s → 720p (https://pf-storage5.premiumcdn.net/23281998/MV3IORfogsLvCPBSWgUnWfPvSwQtLPSOjtA6…)
+[04:31:32]   downloaded 1,440.6 MB in 71.2s (20.2 MB/s)
+[04:32:48]   upload done video_id=26832294 in 75.8s
