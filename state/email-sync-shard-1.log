@@ -35849,3 +35849,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:10:58]   upload done video_id=26865697 in 70.6s
 [14:11:01] film cr_film_id=17975 OK in 154.4s
 [14:11:01] batch-end ok=20 failed=0 dur=2012.4s avg/film=100.6s remaining=12550 eta_hours=350.7
+
+===== run 2026-06-27T14:20:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28291829180) =====
+[14:20:05] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:20:05] batch-start shard=1/2 count=20 backlog=17650 uploads=5100 failed_attempts=401 description_overrides=17579
+[14:20:05] login
+[14:20:06] login done
+[14:20:06] iteration 1/20
+[14:20:06] film cr_film_id=17979 name='Větší, silnější, rychlejší (2008) CZ' candidates=1
+[14:20:06]   candidate upload_id=583793c26aaae url=https://prehraj.to/vetsi-silnejsi-rychlejsi-bigger-stronger-faster-2008/583793c26aaae
+[14:20:07]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/927190/meYSdjuQoF2vcmwT2VSapumdFdeSzbSnRhpRI0…)
+[14:20:38]   downloaded 497.8 MB in 28.2s (17.7 MB/s)
+[14:21:06]   upload done video_id=26865805 in 28.3s
