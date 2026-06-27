@@ -92650,6 +92650,25 @@
         "download_sec": 69.0,
         "upload_sec": 99.4
       }
+    },
+    {
+      "cr_film_id": 17721,
+      "cr_slug": "blesk",
+      "title": "Blesk",
+      "year": 1995,
+      "display_name": "Blesk (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55cd58a50eaa1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26863782,
+      "size_bytes": 749641396,
+      "uploaded_at": "2026-06-27T11:32:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 27.1,
+        "upload_sec": 31.4
+      }
     }
   ],
   "failed_attempts": [
@@ -95576,5 +95595,5 @@
       "failed_at": "2026-06-27T10:26:49Z"
     }
   ],
-  "last_updated": "2026-06-27T11:31:02Z"
+  "last_updated": "2026-06-27T11:32:05Z"
 }
