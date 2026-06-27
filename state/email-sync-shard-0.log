@@ -33864,3 +33864,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:48:10]   upload done video_id=26833620 in 30.5s
 [04:48:12] film cr_film_id=16346 OK in 59.9s
 [04:48:12] batch-end ok=17 failed=3 dur=1900.0s avg/film=111.8s remaining=12811 eta_hours=397.9
+
+===== run 2026-06-27T05:04:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28279370689) =====
+[05:04:30] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:04:30] batch-start shard=0/2 count=20 backlog=17650 uploads=4839 failed_attempts=442 description_overrides=17579
+[05:04:30] login
+[05:04:32] login done
+[05:04:32] iteration 1/20
+[05:04:32] film cr_film_id=16338 name='Noční šichta (2015) CZ Dabing' candidates=1
+[05:04:32]   candidate upload_id=5c45d524b140a url=https://prehraj.to/nocni-sichta-2015-cz-dabing/5c45d524b140a
+[05:04:33]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/11147908/RPeS9Ei1pIzOfvwhM6tnbiekU45C51sr6h8e…)
+[05:05:48]   downloaded 1,289.8 MB in 72.4s (17.8 MB/s)
+[05:07:03]   upload done video_id=26835207 in 75.3s
