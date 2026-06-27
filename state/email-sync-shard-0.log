@@ -33753,3 +33753,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:22:24]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/166464998/AOBfAYFZ7fyLHp9tynUERFDKsV3F8MhKNu8…)
 [04:23:15]   downloaded 1,876.8 MB in 50.3s (37.3 MB/s)
 [04:24:30]   upload done video_id=26831649 in 74.3s
+[04:24:31] film cr_film_id=16290 OK in 129.1s
+[04:24:31] iteration 6/20
+[04:24:31] film cr_film_id=16292 name='Úhlavní kamarádky (2024) CZ Dabing' candidates=2
+[04:24:31]   candidate upload_id=2f622b042be54628 url=https://prehraj.to/uhlavni-kamaradky-2024-cz-dab-1080p-mp4/2f622b042be54628
+[04:24:32]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/uhlavni-kamaradky-2024-cz-dab-1080p-mp4/2f622b042be54628 (permanent=True)
+[04:24:32]   candidate upload_id=0ba936e084001875 url=https://prehraj.to/uhlavni-kamaradky-2024-cz-dabing-1080p-mkv-mp4/0ba936e084001875
+[04:24:38]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/uhlavni-kamaradky-2024-cz-dabing-1080p-mkv-mp4/0ba936e084001875 (permanent=True)
+[04:24:38] film cr_film_id=16292 all candidates exhausted
+[04:24:38] iteration 7/20
+[04:24:38] film cr_film_id=16294 name='Krvácející srdce (2015) CZ' candidates=1
+[04:24:38]   candidate upload_id=5ad04a259df7a url=https://prehraj.to/krvacejici-srdce-drama-2015-1080p-cz-sten-ok/5ad04a259df7a
+[04:24:44]   resolved in 6.0s → 720p (https://pf-storage5.premiumcdn.net/3866204/LWPiVwH07iAVHRyFEXcOZHQpiA3ubghQzuNdS…)
+[04:25:23]   downloaded 1,070.5 MB in 36.7s (29.2 MB/s)
+[04:26:03]   upload done video_id=26831821 in 40.7s
