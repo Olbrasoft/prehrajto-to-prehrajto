@@ -35046,3 +35046,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:07:07]   resolved in 0.9s → 720p (https://pf-storage3.premiumcdn.net/24579338/JQ1IX2cQkToACKacX2f6qcQRiD7F2vuRBcez…)
 [10:07:59]   downloaded 1,377.2 MB in 50.6s (27.2 MB/s)
 [10:08:47]   upload done video_id=26860198 in 48.2s
+[10:08:50] film cr_film_id=17517 OK in 103.7s
+[10:08:50] iteration 11/20
+[10:08:50] film cr_film_id=17523 name='Dark Harbor (2019) CZ Dabing' candidates=1
+[10:08:50]   candidate upload_id=5967e1d01e77e2d1 url=https://prehraj.to/dark-harbor-2019-cz-dabing-mp4/5967e1d01e77e2d1
+[10:08:51]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/dark-harbor-2019-cz-dabing-mp4/5967e1d01e77e2d1 (permanent=True)
+[10:08:51] film cr_film_id=17523 all candidates exhausted
+[10:08:51] iteration 12/20
+[10:08:51] film cr_film_id=17527 name='Tajemství pod povrchem (2019) CZ Dabing' candidates=2
+[10:08:51]   candidate upload_id=62f54c5cc3c57 url=https://prehraj.to/erasing-his-dark-past-2019-czdab-mp4/62f54c5cc3c57
+[10:08:57]   resolved in 6.4s → 1080p (https://pf-storage1.premiumcdn.net/32054176/QaRuvjHxni6rCxMUKbTX9HdAUrXS2bIONtjG…)
+[10:10:23]   downloaded 2,297.1 MB in 83.9s (27.4 MB/s)
+[10:11:49]   upload done video_id=26860418 in 85.8s
