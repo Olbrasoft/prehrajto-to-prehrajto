@@ -91092,6 +91092,25 @@
         "download_sec": 67.0,
         "upload_sec": 84.5
       }
+    },
+    {
+      "cr_film_id": 17279,
+      "cr_slug": "superfly",
+      "title": "Superfly",
+      "year": 2018,
+      "display_name": "Superfly (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "607058a10c029",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26852042,
+      "size_bytes": 1566088918,
+      "uploaded_at": "2026-06-27T08:27:54Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 62.0,
+        "upload_sec": 64.0
+      }
     }
   ],
   "failed_attempts": [
@@ -93997,5 +94016,5 @@
       "failed_at": "2026-06-27T07:46:39Z"
     }
   ],
-  "last_updated": "2026-06-27T08:25:44Z"
+  "last_updated": "2026-06-27T08:27:54Z"
 }
