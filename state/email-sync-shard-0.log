@@ -33911,3 +33911,21 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:19:19]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/153208743/62ginxsyBHvVSyrh3atMZsOAHngc3kcg5c2…)
 [05:21:26]   downloaded 2,860.0 MB in 125.1s (22.9 MB/s)
 [05:24:13]   upload done video_id=26836563 in 166.7s
+[05:24:15] film cr_film_id=16366 OK in 297.3s
+[05:24:15] iteration 7/20
+[05:24:15] film cr_film_id=16368 name='Super průvodce (2025) CZ Dabing' candidates=4
+[05:24:15]   candidate upload_id=3783ae841879842c url=https://prehraj.to/super-pruvodce-2025-1080p-cz-dabing-2-0/3783ae841879842c
+[05:24:16]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-pruvodce-2025-1080p-cz-dabing-2-0/3783ae841879842c (permanent=True)
+[05:24:16]   candidate upload_id=6cd078bb4c21196c url=https://prehraj.to/super-pruvodce-2025-cz-dab-1080p/6cd078bb4c21196c
+[05:24:23]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-pruvodce-2025-cz-dab-1080p/6cd078bb4c21196c (permanent=True)
+[05:24:23]   candidate upload_id=f17465b54967788b url=https://prehraj.to/super-pruvodce-2025-cz-dab-1080p-mkv/f17465b54967788b
+[05:24:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-pruvodce-2025-cz-dab-1080p-mkv/f17465b54967788b (permanent=True)
+[05:24:29]   candidate upload_id=d8afcbd821a3e4bf url=https://prehraj.to/super-pruvodce-2025-komedie-francie-belgie-czdab-1080p/d8afcbd821a3e4bf
+[05:24:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/super-pruvodce-2025-komedie-francie-belgie-czdab-1080p/d8afcbd821a3e4bf (permanent=True)
+[05:24:34] film cr_film_id=16368 all candidates exhausted
+[05:24:34] iteration 8/20
+[05:24:34] film cr_film_id=16370 name='Můj otec musí zemřít (2014) CZ' candidates=1
+[05:24:34]   candidate upload_id=60ab8612517ed url=https://prehraj.to/vrazda-prezidenta-kennedyho-2013-cz-cesky-dabing-killing-kennedy-telefilm/60ab8612517ed
+[05:24:42]   resolved in 7.4s → 1080p (https://pf-storage1.premiumcdn.net/23651205/2E3ib0CdnF3rCO1FNwi6GC8AHy1ivnc86C4W…)
+[05:26:58]   downloaded 2,495.0 MB in 132.9s (18.8 MB/s)
+[05:29:30]   upload done video_id=26837055 in 152.9s
