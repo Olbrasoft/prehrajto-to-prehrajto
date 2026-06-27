@@ -35781,3 +35781,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:55:53]   upload done video_id=26866266 in 57.8s
 [14:55:55] film cr_film_id=17364 OK in 112.6s
 [14:55:55] batch-end ok=18 failed=2 dur=2151.5s avg/film=119.5s remaining=12560 eta_hours=416.9
+
+===== run 2026-06-27T15:01:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28292822923) =====
+[15:01:30] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:01:30] batch-start shard=0/2 count=20 backlog=17650 uploads=5090 failed_attempts=462 description_overrides=17579
+[15:01:30] login
+[15:01:32] login done
+[15:01:32] iteration 1/20
+[15:01:32] film cr_film_id=17366 name='Putování se sobíkem (2018) CZ' candidates=1
+[15:01:32]   candidate upload_id=5d999fb949f33 url=https://prehraj.to/putovani-se-sobikem-rodinny-2018-1080p-bluray-cz-sk-78-sten-ok/5d999fb949f33
+[15:01:34]   resolved in 1.6s → 720p (https://pf-storage6.premiumcdn.net/15005752/bZetBXIpNUwxTvOFgEsVMI8Puy9Fx7tA9CGP…)
+[15:03:51]   downloaded 2,025.0 MB in 135.0s (15.0 MB/s)
+[15:05:42]   upload done video_id=26866356 in 110.4s
