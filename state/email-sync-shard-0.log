@@ -34903,3 +34903,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:22:56]   upload done video_id=26861435 in 54.6s
 [10:22:58] film cr_film_id=16878 OK in 92.4s
 [10:22:58] batch-end ok=18 failed=2 dur=2043.4s avg/film=113.5s remaining=12676 eta_hours=399.6
+
+===== run 2026-06-27T10:25:59Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28286475482) =====
+[10:26:01] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:26:01] batch-start shard=0/2 count=20 backlog=17650 uploads=4974 failed_attempts=456 description_overrides=17579
+[10:26:01] login
+[10:26:03] login done
+[10:26:03] iteration 1/20
+[10:26:03] film cr_film_id=16880 name='Old Boys (2018) CZ Dabing' candidates=2
+[10:26:03]   candidate upload_id=5cfea65b90c3b url=https://prehraj.to/old-boys-2018-cz-dabing-bst/5cfea65b90c3b
+[10:26:04]   resolved in 1.6s → 480p (https://pf-storage5.premiumcdn.net/13890945/qo3fKxH70TJGiKOHljIWpH6NCWZIartVjfdg…)
+[10:26:35]   downloaded 497.9 MB in 28.8s (17.3 MB/s)
+[10:27:01]   upload done video_id=26861811 in 26.1s
