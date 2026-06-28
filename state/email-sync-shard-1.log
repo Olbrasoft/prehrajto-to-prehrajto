@@ -40421,3 +40421,19 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:44:52]   upload done video_id=26932070 in 29.5s
 [22:44:54] film cr_film_id=21945 OK in 54.8s
 [22:44:54] batch-end ok=20 failed=0 dur=1960.9s avg/film=98.0s remaining=11933 eta_hours=324.8
+
+===== run 2026-06-28T22:47:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28338595539) =====
+[22:47:08] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:47:08] batch-start shard=1/2 count=20 backlog=17650 uploads=5717 failed_attempts=412 description_overrides=17579
+[22:47:08] login
+[22:47:10] login done
+[22:47:10] iteration 1/20
+[22:47:10] film cr_film_id=21953 name='Dobří a špatní hoši (1969) CZ Dabing' candidates=2
+[22:47:10]   candidate upload_id=682b20304dade url=https://prehraj.to/western-mkv-cz-dab-dobri-a-spatni-hosi-the-good-guys-and-the-bad-guys-1969-dab/682b20304dade
+[22:47:11]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/138270518/9OkfYdU2lUeksp5TOJI2MU5eCLZCgWiYQT3…)
+[22:48:14]   downloaded 1,368.6 MB in 60.6s (22.6 MB/s)
+[22:49:29]   upload FAILED after 75.6s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[22:49:29]   candidate upload_id=60a3d8860105d url=https://prehraj.to/dobri-a-spatni-hosi-western-1969-cz-dabing/60a3d8860105d
+[22:49:31]   resolved in 1.1s → 480p (https://pf-storage4.premiumcdn.net/23566095/AQYFY3u3df2rSG6Io6SJjunBTQvH9YTbvUw4…)
+[22:50:02]   downloaded 621.1 MB in 29.3s (21.2 MB/s)
+[22:50:57]   upload done video_id=26932552 in 55.9s
