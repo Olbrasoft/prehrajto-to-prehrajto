@@ -37543,3 +37543,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:25:00]   upload done video_id=26875974 in 100.0s
 [02:25:02] film cr_film_id=18844 OK in 171.7s
 [02:25:02] batch-end ok=19 failed=1 dur=1950.6s avg/film=102.7s remaining=12325 eta_hours=351.6
+
+===== run 2026-06-28T02:35:40Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28308984236) =====
+[02:35:42] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:35:42] batch-start shard=0/2 count=20 backlog=17650 uploads=5325 failed_attempts=471 description_overrides=17579
+[02:35:42] login
+[02:35:43] login done
+[02:35:43] iteration 1/20
+[02:35:43] film cr_film_id=18846 name='Bílá duše (2014) CZ Dabing' candidates=2
+[02:35:43]   candidate upload_id=568c3be6741b0 url=https://prehraj.to/bila-duse-2014-cz-dab/568c3be6741b0
+[02:35:44]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/345944/We9F3NIr1T3pIxGCretD9IrduXZFWzFlmfy6f4…)
+[02:36:21]   downloaded 983.2 MB in 35.4s (27.8 MB/s)
+[02:36:58]   upload done video_id=26876262 in 36.4s
