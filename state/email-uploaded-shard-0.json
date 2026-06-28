@@ -103490,6 +103490,25 @@
         "download_sec": 52.9,
         "upload_sec": 31.2
       }
+    },
+    {
+      "cr_film_id": 21114,
+      "cr_slug": "sarada",
+      "title": "Šaráda",
+      "year": 1963,
+      "display_name": "Šaráda (1963) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab3d6cf7fcd0",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26900265,
+      "size_bytes": 835202933,
+      "uploaded_at": "2026-06-28T16:28:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 502.1,
+        "upload_sec": 43.3
+      }
     }
   ],
   "failed_attempts": [
@@ -106880,5 +106899,5 @@
       "failed_at": "2026-06-28T15:59:00Z"
     }
   ],
-  "last_updated": "2026-06-28T16:19:46Z"
+  "last_updated": "2026-06-28T16:28:56Z"
 }
