@@ -38870,3 +38870,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:47:47]   upload done video_id=26884573 in 58.7s
 [09:47:49] film cr_film_id=20076 OK in 102.6s
 [09:47:49] batch-end ok=20 failed=0 dur=2601.0s avg/film=130.1s remaining=12145 eta_hours=438.9
+
+===== run 2026-06-28T10:17:30Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28319034665) =====
+[10:17:32] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:17:32] batch-start shard=0/2 count=20 backlog=17650 uploads=5505 failed_attempts=473 description_overrides=17579
+[10:17:32] login
+[10:17:34] login done
+[10:17:34] iteration 1/20
+[10:17:34] film cr_film_id=20080 name='Povětří (2015) CZ Dabing' candidates=6
+[10:17:34]   candidate upload_id=661d5a3dab23f url=https://prehraj.to/povetri-2015-sci-fi-thriller-czdab/661d5a3dab23f
+[10:17:35]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/76156622/d30tQzsOeirAfz9Il5HNrsyVCret8gHkzI27…)
+[10:18:43]   downloaded 1,071.6 MB in 65.5s (16.4 MB/s)
+[10:19:51]   upload done video_id=26885476 in 68.4s
