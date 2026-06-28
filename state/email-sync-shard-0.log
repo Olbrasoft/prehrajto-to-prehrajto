@@ -38280,3 +38280,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:56:27]   upload done video_id=26879577 in 79.6s
 [05:56:29] film cr_film_id=19564 OK in 142.7s
 [05:56:29] batch-end ok=20 failed=0 dur=2131.0s avg/film=106.5s remaining=12225 eta_hours=361.7
+
+===== run 2026-06-28T06:10:14Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28313414427) =====
+[06:10:16] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:10:16] batch-start shard=0/2 count=20 backlog=17650 uploads=5425 failed_attempts=472 description_overrides=17579
+[06:10:16] login
+[06:10:18] login done
+[06:10:18] iteration 1/20
+[06:10:18] film cr_film_id=19566 name='Děcka jsou v pohodě (2010) CZ' candidates=1
+[06:10:18]   candidate upload_id=5aa7a897dacb7 url=https://prehraj.to/decka-jsou-v-pohode-2010/5aa7a897dacb7
+[06:10:19]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/3622095/Vndhk9uAEC0ATeQhx0i0muLBf0aS0osnOcdqf…)
+[06:11:02]   downloaded 834.5 MB in 41.0s (20.4 MB/s)
+[06:11:53]   upload done video_id=26879745 in 50.5s
