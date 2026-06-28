@@ -97334,6 +97334,25 @@
         "download_sec": 16.5,
         "upload_sec": 27.0
       }
+    },
+    {
+      "cr_film_id": 18444,
+      "cr_slug": "bez-minulosti",
+      "title": "Bez minulosti",
+      "year": 2013,
+      "display_name": "Bez minulosti (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61bbc8974dd71",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26874683,
+      "size_bytes": 710257730,
+      "uploaded_at": "2026-06-28T01:14:53Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.2,
+        "upload_sec": 38.7
+      }
     }
   ],
   "failed_attempts": [
@@ -100689,5 +100708,5 @@
       "failed_at": "2026-06-27T23:25:22Z"
     }
   ],
-  "last_updated": "2026-06-28T01:13:45Z"
+  "last_updated": "2026-06-28T01:14:53Z"
 }
