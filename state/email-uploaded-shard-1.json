@@ -100421,6 +100421,25 @@
         "download_sec": 35.7,
         "upload_sec": 35.9
       }
+    },
+    {
+      "cr_film_id": 20497,
+      "cr_slug": "maudie",
+      "title": "Maudie",
+      "year": 2016,
+      "display_name": "Maudie (2016) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c9d0cbd20e91",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26879046,
+      "size_bytes": 647374628,
+      "uploaded_at": "2026-06-28T05:20:16Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 36.8,
+        "upload_sec": 38.9
+      }
     }
   ],
   "failed_attempts": [
@@ -103417,5 +103436,5 @@
       "failed_at": "2026-06-28T00:42:10Z"
     }
   ],
-  "last_updated": "2026-06-28T05:18:54Z"
+  "last_updated": "2026-06-28T05:20:16Z"
 }
