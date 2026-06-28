@@ -104848,6 +104848,25 @@
         "download_sec": 512.3,
         "upload_sec": 103.3
       }
+    },
+    {
+      "cr_film_id": 21779,
+      "cr_slug": "vlak",
+      "title": "Vlak",
+      "year": 1964,
+      "display_name": "Vlak (1964) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "582e459b93680",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26912150,
+      "size_bytes": 829961305,
+      "uploaded_at": "2026-06-28T19:47:45Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 379.1,
+        "upload_sec": 167.1
+      }
     }
   ],
   "failed_attempts": [
@@ -107856,5 +107875,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-28T19:38:33Z"
+  "last_updated": "2026-06-28T19:47:45Z"
 }
