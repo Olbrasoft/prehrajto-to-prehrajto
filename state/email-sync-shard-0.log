@@ -39311,3 +39311,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [13:36:42]   upload done video_id=26892875 in 134.1s
 [13:36:44] film cr_film_id=20552 OK in 478.2s
 [13:36:44] batch-end ok=20 failed=0 dur=4436.9s avg/film=221.8s remaining=12085 eta_hours=744.6
+
+===== run 2026-06-28T13:37:22Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28324010423) =====
+[13:37:24] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:37:24] batch-start shard=0/2 count=20 backlog=17650 uploads=5565 failed_attempts=473 description_overrides=17579
+[13:37:24] login
+[13:37:26] login done
+[13:37:26] iteration 1/20
+[13:37:26] film cr_film_id=20566 name='50 odstínů vášně (2015) CZ Dabing' candidates=13
+[13:37:26]   candidate upload_id=6197593fcfc86 url=https://prehraj.to/50-odstinu-vasne-2015-hd-720p-cz-dabing/6197593fcfc86
+[13:37:27]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/26633758/9VlU97sdjFXbT3zujOfams2whzeuQlclpSrV…)
+[13:39:09]   downloaded 1,178.8 MB in 100.2s (11.8 MB/s)
+[13:40:30]   upload done video_id=26893058 in 80.5s
