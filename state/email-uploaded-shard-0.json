@@ -97201,6 +97201,25 @@
         "download_sec": 20.5,
         "upload_sec": 48.6
       }
+    },
+    {
+      "cr_film_id": 18406,
+      "cr_slug": "blaznive-mladi",
+      "title": "Bláznivé mládí",
+      "year": 2013,
+      "display_name": "Bláznivé mládí (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5abdc3b950477",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26874478,
+      "size_bytes": 2000753641,
+      "uploaded_at": "2026-06-28T01:03:23Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 69.8,
+        "upload_sec": 104.6
+      }
     }
   ],
   "failed_attempts": [
@@ -100556,5 +100575,5 @@
       "failed_at": "2026-06-27T23:25:22Z"
     }
   ],
-  "last_updated": "2026-06-28T01:00:24Z"
+  "last_updated": "2026-06-28T01:03:23Z"
 }
