@@ -100640,6 +100640,25 @@
         "download_sec": 32.6,
         "upload_sec": 40.3
       }
+    },
+    {
+      "cr_film_id": 19764,
+      "cr_slug": "zast",
+      "title": "Zášť",
+      "year": 2021,
+      "display_name": "Zášť (2021) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6163ad8eae4db",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26880990,
+      "size_bytes": 1584965321,
+      "uploaded_at": "2026-06-28T07:43:51Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 53.1,
+        "upload_sec": 69.0
+      }
     }
   ],
   "failed_attempts": [
@@ -104009,5 +104028,5 @@
       "failed_at": "2026-06-28T02:42:01Z"
     }
   ],
-  "last_updated": "2026-06-28T07:41:45Z"
+  "last_updated": "2026-06-28T07:43:51Z"
 }
