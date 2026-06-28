@@ -104924,6 +104924,25 @@
         "download_sec": 1007.3,
         "upload_sec": 38.8
       }
+    },
+    {
+      "cr_film_id": 21791,
+      "cr_slug": "adios-django",
+      "title": "Adios Django",
+      "year": 1966,
+      "display_name": "Adios Django (1966) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "682b1ea0c4287",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26916545,
+      "size_bytes": 1260536057,
+      "uploaded_at": "2026-06-28T20:29:47Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 63.0,
+        "upload_sec": 97.0
+      }
     }
   ],
   "failed_attempts": [
@@ -107932,5 +107951,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-28T20:27:02Z"
+  "last_updated": "2026-06-28T20:29:47Z"
 }
