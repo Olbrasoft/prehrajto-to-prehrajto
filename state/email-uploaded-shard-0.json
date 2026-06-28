@@ -104326,6 +104326,25 @@
         "download_sec": 257.4,
         "upload_sec": 99.9
       }
+    },
+    {
+      "cr_film_id": 21290,
+      "cr_slug": "bila-tma",
+      "title": "Bílá tma",
+      "year": 1948,
+      "display_name": "Bílá tma (1948) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5cd1db545de72",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26926179,
+      "size_bytes": 737407123,
+      "uploaded_at": "2026-06-28T21:47:13Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 89.9,
+        "upload_sec": 74.7
+      }
     }
   ],
   "failed_attempts": [
@@ -107716,5 +107735,5 @@
       "failed_at": "2026-06-28T15:59:00Z"
     }
   ],
-  "last_updated": "2026-06-28T21:44:23Z"
+  "last_updated": "2026-06-28T21:47:13Z"
 }
