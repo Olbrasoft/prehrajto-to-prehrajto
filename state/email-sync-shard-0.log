@@ -39456,3 +39456,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:19:53]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/wind-river-2017-cz-dab-1080p/b69f7555d483e2cd (permanent=True)
 [14:19:53] film cr_film_id=20754 all candidates exhausted
 [14:19:53] batch-end ok=19 failed=1 dur=2547.0s avg/film=134.1s remaining=12066 eta_hours=449.5
+
+===== run 2026-06-28T14:56:08Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28326120858) =====
+[14:56:10] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:56:10] batch-start shard=0/2 count=20 backlog=17650 uploads=5584 failed_attempts=474 description_overrides=17579
+[14:56:10] login
+[14:56:12] login done
+[14:56:12] iteration 1/20
+[14:56:12] film cr_film_id=20764 name='Doba ledová: Velikonoční překvapení (2016) CZ Dabing' candidates=11
+[14:56:12]   candidate upload_id=57bf0a5143e02 url=https://prehraj.to/doba-ledova-velikonocni-prekvapeni-cz-dabing-2016-full-hd-1080p/57bf0a5143e02
+[14:56:13]   resolved in 1.3s → 1080p (https://pf-storage4.premiumcdn.net/11484/2yqcnLib4IamIzOfBniDRiBAfEQujBFzxu2dfQX…)
+[14:58:02]   downloaded 1,737.4 MB in 106.8s (16.3 MB/s)
+[14:59:56]   upload done video_id=26896416 in 113.3s
