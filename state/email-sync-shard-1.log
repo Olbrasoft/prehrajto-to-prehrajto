@@ -38069,3 +38069,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:30:43]   upload done video_id=26877226 in 18.0s
 [03:30:45] film cr_film_id=20171 OK in 39.5s
 [03:30:45] batch-end ok=20 failed=0 dur=1269.8s avg/film=63.5s remaining=12252 eta_hours=216.1
+
+===== run 2026-06-28T03:38:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28310275288) =====
+[03:38:46] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:38:46] batch-start shard=1/2 count=20 backlog=17650 uploads=5398 failed_attempts=411 description_overrides=17579
+[03:38:46] login
+[03:38:48] login done
+[03:38:48] iteration 1/20
+[03:38:48] film cr_film_id=20179 name='Nymfomanka, část II. (2013) CZ Dabing' candidates=7
+[03:38:48]   candidate upload_id=7d967c9588f85a38 url=https://prehraj.to/nymfomanka-cast-ii-2013-cz-dabing-eroticky-hd-kvalita-mp4/7d967c9588f85a38
+[03:38:49]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/160439915/6lBsvzfm5U3yfGESjlInDf9NsL6U34tE2SK…)
+[03:39:23]   downloaded 668.5 MB in 31.5s (21.2 MB/s)
+[03:40:11]   upload done video_id=26877388 in 47.9s
