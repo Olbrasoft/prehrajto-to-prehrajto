@@ -39686,3 +39686,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:55:23]   upload done video_id=26896246 in 72.3s
 [14:55:25] film cr_film_id=21579 OK in 117.0s
 [14:55:25] batch-end ok=20 failed=0 dur=4676.4s avg/film=233.8s remaining=12033 eta_hours=781.5
+
+===== run 2026-06-28T14:56:08Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28326120858) =====
+[14:56:10] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:56:10] batch-start shard=1/2 count=20 backlog=17650 uploads=5617 failed_attempts=412 description_overrides=17579
+[14:56:10] login
+[14:56:12] login done
+[14:56:12] iteration 1/20
+[14:56:12] film cr_film_id=21583 name='Nádherná země (1959) CZ' candidates=1
+[14:56:12]   candidate upload_id=5ad7a047f0049 url=https://prehraj.to/nadherna-zeme-1959/5ad7a047f0049
+[14:56:13]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/3898132/e8auDdIJECa5hLAfbmh27IkyU93ubEfnwtdNC…)
+[14:59:06]   downloaded 513.0 MB in 170.5s (3.0 MB/s)
+[14:59:34]   upload done video_id=26896471 in 28.0s
