@@ -100621,6 +100621,25 @@
         "download_sec": 16.0,
         "upload_sec": 22.8
       }
+    },
+    {
+      "cr_film_id": 19758,
+      "cr_slug": "bestie-bez-vlasti",
+      "title": "Bestie bez vlasti",
+      "year": 2015,
+      "display_name": "Bestie bez vlasti (2015) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "563af8b8cf50c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26880976,
+      "size_bytes": 932068035,
+      "uploaded_at": "2026-06-28T07:41:45Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 32.6,
+        "upload_sec": 40.3
+      }
     }
   ],
   "failed_attempts": [
@@ -103990,5 +104009,5 @@
       "failed_at": "2026-06-28T02:42:01Z"
     }
   ],
-  "last_updated": "2026-06-28T07:40:28Z"
+  "last_updated": "2026-06-28T07:41:45Z"
 }
