@@ -39899,3 +39899,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [19:35:52]   upload done video_id=26911432 in 43.1s
 [19:35:53] film cr_film_id=21244 OK in 119.7s
 [19:35:53] batch-end ok=20 failed=0 dur=6234.4s avg/film=311.7s remaining=12006 eta_hours=1039.5
+
+===== run 2026-06-28T20:55:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28335695347) =====
+[20:55:19] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:55:19] batch-start shard=0/2 count=20 backlog=17650 uploads=5644 failed_attempts=475 description_overrides=17579
+[20:55:19] login
+[20:55:21] login done
+[20:55:21] iteration 1/20
+[20:55:21] film cr_film_id=21252 name='Děvčica z Beskyd (1944) CZ' candidates=1
+[20:55:21]   candidate upload_id=5ac0a6b377ba5 url=https://prehraj.to/devcica-z-beskyd-1944/5ac0a6b377ba5
+[20:55:22]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/3801080/vm2sAbcY8fbaHeEs6Ptqdcn1iLWC20fNKfPxF…)
+[21:01:57]   downloaded 483.4 MB in 392.6s (1.2 MB/s)
+[21:02:43]   upload done video_id=26920085 in 45.4s
