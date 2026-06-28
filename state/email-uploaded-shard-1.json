@@ -97514,6 +97514,25 @@
         "download_sec": 77.6,
         "upload_sec": 129.3
       }
+    },
+    {
+      "cr_film_id": 19473,
+      "cr_slug": "sahara-2005",
+      "title": "Sahara",
+      "year": 2005,
+      "display_name": "Sahara (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b0c75578e235",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26873918,
+      "size_bytes": 1834906847,
+      "uploaded_at": "2026-06-28T00:16:58Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 51.8,
+        "upload_sec": 64.4
+      }
     }
   ],
   "failed_attempts": [
@@ -100494,7 +100513,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scooby-doo-3-2002-cz-dabing-2k/690166678c412",
       "permanent": true,
       "failed_at": "2026-06-28T00:05:07Z"
+    },
+    {
+      "cr_film_id": 19473,
+      "upload_id": "ae700bedc987e2a2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/sahara-2005-cz-dab-720p/ae700bedc987e2a2",
+      "permanent": true,
+      "failed_at": "2026-06-28T00:14:54Z"
     }
   ],
-  "last_updated": "2026-06-28T00:14:50Z"
+  "last_updated": "2026-06-28T00:16:58Z"
 }
