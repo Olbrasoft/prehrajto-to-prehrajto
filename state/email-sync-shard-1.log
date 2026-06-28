@@ -39098,3 +39098,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:16:49]   upload done video_id=26885386 in 46.8s
 [10:16:51] film cr_film_id=21239 OK in 240.0s
 [10:16:51] batch-end ok=20 failed=0 dur=4343.5s avg/film=217.2s remaining=12113 eta_hours=730.8
+
+===== run 2026-06-28T10:17:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28319034665) =====
+[10:17:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:17:31] batch-start shard=1/2 count=20 backlog=17650 uploads=5537 failed_attempts=412 description_overrides=17579
+[10:17:31] login
+[10:17:32] login done
+[10:17:32] iteration 1/20
+[10:17:32] film cr_film_id=21243 name='Kniha džunglí (1942) CZ' candidates=1
+[10:17:32]   candidate upload_id=5aa84b38bd630 url=https://prehraj.to/kniha-dzungli-1942/5aa84b38bd630
+[10:17:33]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/3626830/2YBtOMInZCEzCyrhkAFBeId6u0msynU4VTj4C…)
+[10:22:43]   downloaded 1,655.5 MB in 307.9s (5.4 MB/s)
+[10:24:30]   upload done video_id=26885603 in 106.7s
