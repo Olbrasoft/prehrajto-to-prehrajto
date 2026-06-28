@@ -37398,3 +37398,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:41:18]   upload done video_id=26875104 in 71.7s
 [01:41:20] film cr_film_id=18684 OK in 118.9s
 [01:41:20] batch-end ok=20 failed=0 dur=1319.8s avg/film=66.0s remaining=12344 eta_hours=226.3
+
+===== run 2026-06-28T01:52:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28308094368) =====
+[01:52:30] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:52:30] batch-start shard=0/2 count=20 backlog=17650 uploads=5306 failed_attempts=470 description_overrides=17579
+[01:52:30] login
+[01:52:31] login done
+[01:52:31] iteration 1/20
+[01:52:31] film cr_film_id=18694 name='Zázračné dítě internetu: příběh Aarona Swartze (2014) CZ' candidates=1
+[01:52:31]   candidate upload_id=56496ed803175 url=https://prehraj.to/zazracne-dite-internetu-pribeh-aarona-swartze-2014-eng-cz-tit-srt-krimi-zivotopis-koko/56496ed803175
+[01:52:32]   resolved in 1.1s → 720p (https://pf-storage2.premiumcdn.net/324671/AJbcMoiNZiE6IBVUvBfNmimGhVbtarT97IKWS0…)
+[01:53:27]   downloaded 1,255.1 MB in 52.5s (23.9 MB/s)
+[01:54:41]   upload done video_id=26875276 in 74.1s
