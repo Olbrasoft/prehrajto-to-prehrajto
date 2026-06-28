@@ -40274,3 +40274,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:58:05]   upload done video_id=26927304 in 47.2s
 [21:58:07] film cr_film_id=21865 OK in 186.6s
 [21:58:07] batch-end ok=20 failed=0 dur=3765.4s avg/film=188.3s remaining=11953 eta_hours=625.2
+
+===== run 2026-06-28T22:12:09Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28337710554) =====
+[22:12:10] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:12:10] batch-start shard=1/2 count=20 backlog=17650 uploads=5697 failed_attempts=412 description_overrides=17579
+[22:12:10] login
+[22:12:13] login done
+[22:12:13] iteration 1/20
+[22:12:13] film cr_film_id=21877 name='Nastal čas zabíjet (1967) CZ Dabing' candidates=2
+[22:12:13]   candidate upload_id=682b5731c300e url=https://prehraj.to/western-mkv-cz-dab-nastal-cas-zabijet-1967-cz-dab/682b5731c300e
+[22:12:14]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/138278783/k9buyjib0cw0sa5tg2IYJiWyH9muvaFnVfe…)
+[22:12:45]   downloaded 773.2 MB in 29.2s (26.5 MB/s)
+[22:13:33]   upload done video_id=26929122 in 48.5s
