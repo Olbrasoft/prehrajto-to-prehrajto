@@ -40575,3 +40575,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:49:06]   upload done video_id=26937448 in 211.8s
 [23:49:08] film cr_film_id=22043 OK in 377.2s
 [23:49:08] batch-end ok=20 failed=0 dur=3718.3s avg/film=185.9s remaining=11913 eta_hours=615.2
+
+===== run 2026-06-28T23:49:48Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28340172028) =====
+[23:49:50] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:49:50] batch-start shard=1/2 count=20 backlog=17650 uploads=5737 failed_attempts=414 description_overrides=17579
+[23:49:50] login
+[23:49:51] login done
+[23:49:51] iteration 1/20
+[23:49:51] film cr_film_id=22053 name='Manželé z roku II (1971) CZ Dabing' candidates=5
+[23:49:51]   candidate upload_id=63db9becbe0af url=https://prehraj.to/manzele-z-roku-ii-1971-dobrodruzny-romanticky-komedie-dvdrip-1080p-cz-dabing/63db9becbe0af
+[23:49:52]   resolved in 0.9s → 720p (https://pf-storage4.premiumcdn.net/36991522/9xGcDwFXzuNaTKoFYNHMXF7QuJ1SoQsZvIRv…)
+[23:51:57]   downloaded 2,292.9 MB in 123.7s (18.5 MB/s)
+[23:53:31]   upload done video_id=26937985 in 93.5s
