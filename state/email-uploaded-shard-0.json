@@ -102255,6 +102255,25 @@
         "download_sec": 33.7,
         "upload_sec": 36.3
       }
+    },
+    {
+      "cr_film_id": 20380,
+      "cr_slug": "hybna-sila",
+      "title": "Hybná síla",
+      "year": 2015,
+      "display_name": "Hybná síla (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5845c7b7c7928",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26889381,
+      "size_bytes": 494550817,
+      "uploaded_at": "2026-06-28T12:15:16Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 111.7,
+        "upload_sec": 39.7
+      }
     }
   ],
   "failed_attempts": [
@@ -105631,5 +105650,5 @@
       "failed_at": "2026-06-28T09:36:34Z"
     }
   ],
-  "last_updated": "2026-06-28T12:12:40Z"
+  "last_updated": "2026-06-28T12:15:16Z"
 }
