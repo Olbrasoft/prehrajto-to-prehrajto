@@ -39164,3 +39164,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:20:41]   upload done video_id=26889535 in 156.1s
 [12:20:43] film cr_film_id=20394 OK in 245.0s
 [12:20:43] batch-end ok=20 failed=0 dur=3194.3s avg/film=159.7s remaining=12105 eta_hours=537.0
+
+===== run 2026-06-28T12:22:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28322087425) =====
+[12:22:45] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:22:46] batch-start shard=0/2 count=20 backlog=17650 uploads=5545 failed_attempts=473 description_overrides=17579
+[12:22:46] login
+[12:22:47] login done
+[12:22:47] iteration 1/20
+[12:22:47] film cr_film_id=20400 name='Rukojmí (2015) CZ Dabing' candidates=1
+[12:22:47]   candidate upload_id=57bdbd4ebf41e url=https://prehraj.to/rukojmi-2015-czdabing/57bdbd4ebf41e
+[12:22:49]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/622576/5VkUWLh7pte1fjnTbec9Lh3XuBEtYNs9jh2Bcl…)
+[12:23:15]   downloaded 469.6 MB in 24.7s (19.0 MB/s)
+[12:23:50]   upload done video_id=26889756 in 35.0s
