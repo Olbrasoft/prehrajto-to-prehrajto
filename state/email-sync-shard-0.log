@@ -38838,3 +38838,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:35:09]   resolved in 1.1s → 480p (https://pf-storage3.premiumcdn.net/813317/6dgUmKTE4IKvigoTr3s6MT0vClMIk5CLeCwEUZ…)
 [09:35:47]   downloaded 624.1 MB in 36.2s (17.2 MB/s)
 [09:36:30]   upload done video_id=26884240 in 43.6s
+[09:36:32] film cr_film_id=20048 OK in 84.9s
+[09:36:32] iteration 17/20
+[09:36:32] film cr_film_id=20052 name='Pot a krev (2013) CZ Dabing' candidates=4
+[09:36:32]   candidate upload_id=68bc82d761130 url=https://prehraj.to/pot-a-krev-2013-cz-dabing/68bc82d761130
+[09:36:34]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/pot-a-krev-2013-cz-dabing/68bc82d761130 (permanent=True)
+[09:36:34]   candidate upload_id=66ccc9e39c3d4 url=https://prehraj.to/krev-a-pot-mark-wahlberg-dwayne-johnson-ed-harris-2013-krimi-akcni-komedie-drama-cz-dabing/66ccc9e39c3d4
+[09:36:40]   resolved in 6.1s → 720p (https://pf-storage6.premiumcdn.net/92807105/d67svEcPWFEXC56IVpIbjcVKfZmuxdCZ4ImD…)
+[09:38:01]   downloaded 1,863.7 MB in 79.3s (23.5 MB/s)
+[09:39:50]   upload done video_id=26884311 in 109.2s
