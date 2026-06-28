@@ -40046,3 +40046,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:11:29]   upload done video_id=26928856 in 50.8s
 [22:11:31] film cr_film_id=21340 OK in 126.4s
 [22:11:31] batch-end ok=20 failed=0 dur=4570.2s avg/film=228.5s remaining=11986 eta_hours=760.8
+
+===== run 2026-06-28T22:12:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28337710554) =====
+[22:12:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:12:13] batch-start shard=0/2 count=20 backlog=17650 uploads=5664 failed_attempts=475 description_overrides=17579
+[22:12:13] login
+[22:12:14] login done
+[22:12:14] iteration 1/20
+[22:12:14] film cr_film_id=21346 name='Haškovy povídky ze starého mocnářství (1952) CZ' candidates=1
+[22:12:14]   candidate upload_id=60b246a7006cf url=https://prehraj.to/haskovy-povidky-ze-stareho-mocnarstvi-komedie-1952-cz/60b246a7006cf
+[22:12:15]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/23692317/Mm7sMKImRc5DF86SomtBWIQ4c0RTknC0KCoy…)
+[22:12:36]   downloaded 511.1 MB in 19.6s (26.1 MB/s)
+[22:13:28]   upload done video_id=26929102 in 52.1s
