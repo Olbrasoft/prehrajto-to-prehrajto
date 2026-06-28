@@ -37481,3 +37481,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:10:31]   upload done video_id=26874618 in 42.3s
 [01:10:33] film cr_film_id=19581 OK in 69.9s
 [01:10:33] batch-end ok=19 failed=1 dur=1703.9s avg/film=89.7s remaining=12332 eta_hours=307.3
+
+===== run 2026-06-28T01:19:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28307411340) =====
+[01:19:18] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:19:18] batch-start shard=1/2 count=20 backlog=17650 uploads=5318 failed_attempts=411 description_overrides=17579
+[01:19:18] login
+[01:19:20] login done
+[01:19:20] iteration 1/20
+[01:19:20] film cr_film_id=19583 name='Sex ve městě (2008) CZ Dabing' candidates=35
+[01:19:20]   candidate upload_id=5bfad7cd673fa url=https://prehraj.to/sex-ve-meste-1-2008-dvdrip-cz-dabing-m3/5bfad7cd673fa
+[01:19:21]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/8660072/odDfwYSPws6bTkEtaBTL2SKgcM2I82fvnfwzi…)
+[01:19:47]   downloaded 841.9 MB in 24.6s (34.2 MB/s)
+[01:20:32]   upload done video_id=26874777 in 44.1s
