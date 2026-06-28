@@ -36957,3 +36957,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:54:53]   upload done video_id=26873597 in 94.9s
 [23:54:56] film cr_film_id=18094 OK in 193.9s
 [23:54:56] batch-end ok=20 failed=0 dur=2098.8s avg/film=104.9s remaining=12404 eta_hours=361.4
+
+===== run 2026-06-28T00:06:44Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28305901383) =====
+[00:06:46] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:06:46] batch-start shard=0/2 count=20 backlog=17650 uploads=5246 failed_attempts=470 description_overrides=17579
+[00:06:46] login
+[00:06:48] login done
+[00:06:48] iteration 1/20
+[00:06:48] film cr_film_id=18104 name='Marmaduk (2010) CZ Dabing' candidates=10
+[00:06:48]   candidate upload_id=6173c301b32ce url=https://prehraj.to/marmaduk-komedie-rodinny-2010-cz-dab/6173c301b32ce
+[00:06:49]   resolved in 1.6s → 720p (https://pf-storage4.premiumcdn.net/25784251/vyGTgpFl4sMATAxsWyfn7FEoiBYczRhyEsLw…)
+[00:07:48]   downloaded 1,630.9 MB in 56.5s (28.9 MB/s)
+[00:09:00]   upload done video_id=26873766 in 72.6s
