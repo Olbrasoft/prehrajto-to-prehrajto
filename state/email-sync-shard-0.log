@@ -40193,3 +40193,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:46:27]   upload done video_id=26932098 in 76.7s
 [22:46:29] film cr_film_id=21408 OK in 122.2s
 [22:46:29] batch-end ok=20 failed=0 dur=2054.9s avg/film=102.7s remaining=11966 eta_hours=341.4
+
+===== run 2026-06-28T22:47:04Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28338595539) =====
+[22:47:06] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:47:06] batch-start shard=0/2 count=20 backlog=17650 uploads=5684 failed_attempts=475 description_overrides=17579
+[22:47:06] login
+[22:47:08] login done
+[22:47:08] iteration 1/20
+[22:47:08] film cr_film_id=21420 name='Na východ od ráje (1955) CZ Dabing' candidates=1
+[22:47:08]   candidate upload_id=67336ebd0b258 url=https://prehraj.to/na-vychod-od-raje-1955-cz-dab/67336ebd0b258
+[22:47:09]   resolved in 1.5s → 1080p (https://pf-storage5.premiumcdn.net/105625610/1R5IL6uYxtL9t8pfNJI8luVeUyNh5qsz0UR…)
+[22:48:39]   downloaded 1,988.1 MB in 87.4s (22.7 MB/s)
+[22:51:32]   upload done video_id=26932414 in 173.7s
