@@ -98616,6 +98616,25 @@
         "download_sec": 20.4,
         "upload_sec": 23.9
       }
+    },
+    {
+      "cr_film_id": 19803,
+      "cr_slug": "zatimco-spis",
+      "title": "Zatímco spíš",
+      "year": 2011,
+      "display_name": "Zatímco spíš (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5abc1314dd8c6",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26875427,
+      "size_bytes": 778576563,
+      "uploaded_at": "2026-06-28T02:05:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 32.5,
+        "upload_sec": 48.7
+      }
     }
   ],
   "failed_attempts": [
@@ -101612,5 +101631,5 @@
       "failed_at": "2026-06-28T00:42:10Z"
     }
   ],
-  "last_updated": "2026-06-28T02:03:52Z"
+  "last_updated": "2026-06-28T02:05:18Z"
 }
