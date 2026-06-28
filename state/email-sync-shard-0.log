@@ -37986,3 +37986,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:18:23]   upload done video_id=26877942 in 46.3s
 [04:18:25] film cr_film_id=19422 OK in 86.4s
 [04:18:25] batch-end ok=20 failed=0 dur=2376.9s avg/film=118.8s remaining=12265 eta_hours=404.7
+
+===== run 2026-06-28T04:32:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28311395407) =====
+[04:32:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:32:13] batch-start shard=0/2 count=20 backlog=17650 uploads=5385 failed_attempts=472 description_overrides=17579
+[04:32:13] login
+[04:32:15] login done
+[04:32:15] iteration 1/20
+[04:32:15] film cr_film_id=19424 name='Vidláci (1997) CZ Dabing' candidates=8
+[04:32:15]   candidate upload_id=6363a62a66ff3 url=https://prehraj.to/vidlaci-for-richer-or-poorer-1997-cz-dab-tit-1080p-bluray/6363a62a66ff3
+[04:32:16]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/34266817/5D4f8LuodTwDFoOtDbFg3uexSlASbgt7df5R…)
+[04:33:51]   downloaded 2,158.6 MB in 92.9s (23.2 MB/s)
+[04:36:11]   upload done video_id=26878194 in 139.7s
