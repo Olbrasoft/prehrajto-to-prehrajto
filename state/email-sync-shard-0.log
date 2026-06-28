@@ -38133,3 +38133,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:19:38]   upload done video_id=26879006 in 87.2s
 [05:19:41] film cr_film_id=19484 OK in 173.0s
 [05:19:41] batch-end ok=20 failed=0 dur=2845.7s avg/film=142.3s remaining=12245 eta_hours=484.0
+
+===== run 2026-06-28T05:20:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28312393544) =====
+[05:20:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:20:56] batch-start shard=0/2 count=20 backlog=17650 uploads=5405 failed_attempts=472 description_overrides=17579
+[05:20:56] login
+[05:20:58] login done
+[05:20:58] iteration 1/20
+[05:20:58] film cr_film_id=19488 name='Americká idyla (2016) CZ Dabing' candidates=9
+[05:20:58]   candidate upload_id=590e3dd10f7fe url=https://prehraj.to/americka-idyla-2016-cz-dabing/590e3dd10f7fe
+[05:20:59]   resolved in 0.9s → 1080p (https://pf-storage1.premiumcdn.net/2145347/0ogiXkfnBh5DTVEUN3iKAfrWI8rIgGu5ah8WC…)
+[05:21:50]   downloaded 1,409.7 MB in 49.3s (28.6 MB/s)
+[05:22:42]   upload done video_id=26879102 in 52.4s
