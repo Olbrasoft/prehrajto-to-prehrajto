@@ -38424,3 +38424,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:38:44]   resolved in 1.5s → 720p (https://pf-storage1.premiumcdn.net/3042061/ZQxfxzcLAf6Ru5vSmkHvjcMGiw7sx9TYNhZPi…)
 [05:40:09]   downloaded 1,564.1 MB in 83.6s (18.7 MB/s)
 [05:41:50]   upload done video_id=26879413 in 101.2s
+[05:41:53] film cr_film_id=20623 OK in 190.7s
+[05:41:53] iteration 9/20
+[05:41:53] film cr_film_id=20633 name='Šíleně šťastná (2016) CZ' candidates=1
+[05:41:53]   candidate upload_id=5aca3004113ff url=https://prehraj.to/silene-stastna-2016/5aca3004113ff
+[05:41:54]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3850821/2oOtN0hQAUMPt7ZunziWyhKdu70fKZIjmSNdI…)
+[05:43:07]   downloaded 1,250.5 MB in 70.4s (17.8 MB/s)
+[05:44:22]   upload FAILED after 76.0s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[05:44:23] film cr_film_id=20633 all candidates exhausted
+[05:44:23] iteration 10/20
+[05:44:23] film cr_film_id=20647 name='Honey 3: Tanec v krvi (2016) CZ Dabing' candidates=3
+[05:44:23]   candidate upload_id=631aebf1f0af5 url=https://prehraj.to/honey-3-tanec-v-krvi-2016-cz-dabing/631aebf1f0af5
+[05:44:24]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/32672932/12JtR0c2bcALcKqcLvIwXczMf6DfLmsvGTqz…)
+[05:45:52]   downloaded 1,964.7 MB in 86.0s (22.8 MB/s)
+[05:47:48]   upload done video_id=26879488 in 115.9s
