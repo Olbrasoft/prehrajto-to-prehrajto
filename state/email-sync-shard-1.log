@@ -37775,3 +37775,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:35:00]   upload done video_id=26876215 in 36.7s
 [02:35:02] film cr_film_id=19911 OK in 58.1s
 [02:35:02] batch-end ok=20 failed=0 dur=2552.4s avg/film=127.6s remaining=12292 eta_hours=435.7
+
+===== run 2026-06-28T02:35:40Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28308984236) =====
+[02:35:42] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:35:42] batch-start shard=1/2 count=20 backlog=17650 uploads=5358 failed_attempts=411 description_overrides=17579
+[02:35:42] login
+[02:35:43] login done
+[02:35:43] iteration 1/20
+[02:35:43] film cr_film_id=19913 name='Jen Bůh odpouští (2013) CZ Dabing' candidates=5
+[02:35:43]   candidate upload_id=56074b9ba34d7 url=https://prehraj.to/jen-buh-odpousti-only-god-forgives-cz-dabing-2013/56074b9ba34d7
+[02:35:45]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/372548/ARATqrcgRCqxfM2fpoUkncEvtpJCy1SMoSpvCO…)
+[02:36:02]   downloaded 248.8 MB in 14.5s (17.2 MB/s)
+[02:36:16]   upload done video_id=26876255 in 14.8s
