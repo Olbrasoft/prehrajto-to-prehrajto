@@ -99101,6 +99101,25 @@
         "download_sec": 37.3,
         "upload_sec": 55.5
       }
+    },
+    {
+      "cr_film_id": 19388,
+      "cr_slug": "zeleny-led",
+      "title": "Zelený led",
+      "year": 1981,
+      "display_name": "Zelený led (1981) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67e88db1b81d4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26877732,
+      "size_bytes": 1294480402,
+      "uploaded_at": "2026-06-28T04:02:42Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 63.5,
+        "upload_sec": 75.7
+      }
     }
   ],
   "failed_attempts": [
@@ -102470,5 +102489,5 @@
       "failed_at": "2026-06-28T02:42:01Z"
     }
   ],
-  "last_updated": "2026-06-28T04:00:17Z"
+  "last_updated": "2026-06-28T04:02:42Z"
 }
