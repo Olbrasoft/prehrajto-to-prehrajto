@@ -39605,3 +39605,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:01:37]   upload done video_id=26899092 in 82.6s
 [16:01:39] film cr_film_id=21094 OK in 160.1s
 [16:01:39] batch-end ok=20 failed=0 dur=3926.9s avg/film=196.3s remaining=12046 eta_hours=656.8
+
+===== run 2026-06-28T16:02:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28327917637) =====
+[16:02:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:02:21] batch-start shard=0/2 count=20 backlog=17650 uploads=5604 failed_attempts=475 description_overrides=17579
+[16:02:21] login
+[16:02:23] login done
+[16:02:23] iteration 1/20
+[16:02:23] film cr_film_id=21100 name='Kdo neskáče, nemá Kule hop! (2026) CZ Dabing' candidates=11
+[16:02:23]   candidate upload_id=7ac903f9b5ae60c9 url=https://prehraj.to/balls-up-2026-cz-dabing-1080p-mkv/7ac903f9b5ae60c9
+[16:02:24]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/168915148/A1ytrnI5BHkrS9wik1s1pIeJtlYu7ws2QFp…)
+[16:08:52]   downloaded 2,497.1 MB in 385.4s (6.5 MB/s)
+[16:11:00]   upload done video_id=26899440 in 128.2s
