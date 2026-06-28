@@ -100868,6 +100868,25 @@
         "download_sec": 200.2,
         "upload_sec": 44.5
       }
+    },
+    {
+      "cr_film_id": 19838,
+      "cr_slug": "vymahac-2022",
+      "title": "Vymahač",
+      "year": 2022,
+      "display_name": "Vymahač (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "666129f706fb4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26882193,
+      "size_bytes": 1656403508,
+      "uploaded_at": "2026-06-28T08:36:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 467.8,
+        "upload_sec": 129.3
+      }
     }
   ],
   "failed_attempts": [
@@ -104237,5 +104256,5 @@
       "failed_at": "2026-06-28T02:42:01Z"
     }
   ],
-  "last_updated": "2026-06-28T08:26:15Z"
+  "last_updated": "2026-06-28T08:36:20Z"
 }
