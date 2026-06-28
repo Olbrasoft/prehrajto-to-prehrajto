@@ -39017,3 +39017,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:16:17]   upload done video_id=26887209 in 50.3s
 [11:16:20] film cr_film_id=20202 OK in 187.0s
 [11:16:20] batch-end ok=20 failed=0 dur=3525.6s avg/film=176.3s remaining=12125 eta_hours=593.8
+
+===== run 2026-06-28T11:27:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28320698629) =====
+[11:27:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:27:27] batch-start shard=0/2 count=20 backlog=17650 uploads=5525 failed_attempts=473 description_overrides=17579
+[11:27:27] login
+[11:27:29] login done
+[11:27:29] iteration 1/20
+[11:27:29] film cr_film_id=20204 name='Hvozd (2015) CZ' candidates=2
+[11:27:29]   candidate upload_id=5d4c6a39d52ac url=https://prehraj.to/hvozd-the-hallow-2015-horor-vlozene-titulky-cz/5d4c6a39d52ac
+[11:27:30]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/14572806/jJbs0qFl0u4oiWysP7FeOFpxixLf7VTWysKX…)
+[11:32:30]   downloaded 475.3 MB in 298.4s (1.6 MB/s)
+[11:33:05]   upload done video_id=26887735 in 34.7s
