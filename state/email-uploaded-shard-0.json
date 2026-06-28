@@ -103832,6 +103832,25 @@
         "download_sec": 280.8,
         "upload_sec": 120.1
       }
+    },
+    {
+      "cr_film_id": 21166,
+      "cr_slug": "mstitel-1989",
+      "title": "Mstitel",
+      "year": 1989,
+      "display_name": "Mstitel (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67b21588bcea0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26903766,
+      "size_bytes": 831868184,
+      "uploaded_at": "2026-06-28T18:00:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 27.5,
+        "upload_sec": 45.3
+      }
     }
   ],
   "failed_attempts": [
@@ -107222,5 +107241,5 @@
       "failed_at": "2026-06-28T15:59:00Z"
     }
   ],
-  "last_updated": "2026-06-28T17:58:43Z"
+  "last_updated": "2026-06-28T18:00:01Z"
 }
