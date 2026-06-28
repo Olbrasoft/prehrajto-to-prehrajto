@@ -38363,3 +38363,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:20:16]   upload done video_id=26879046 in 38.9s
 [05:20:18] film cr_film_id=20497 OK in 81.5s
 [05:20:18] batch-end ok=20 failed=0 dur=2884.9s avg/film=144.2s remaining=12212 eta_hours=489.2
+
+===== run 2026-06-28T05:20:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28312393544) =====
+[05:20:57] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:20:57] batch-start shard=1/2 count=20 backlog=17650 uploads=5438 failed_attempts=411 description_overrides=17579
+[05:20:57] login
+[05:20:58] login done
+[05:20:58] iteration 1/20
+[05:20:58] film cr_film_id=20511 name='Vymítání Molly Hartleyové (2015) CZ Dabing' candidates=6
+[05:20:58]   candidate upload_id=5c6a19eeb5383 url=https://prehraj.to/vymitani-molly-hartleyove-2015-hdrip-cz-dabing-m3/5c6a19eeb5383
+[05:21:00]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/11887960/JKJhR5URzSvWT5KCpVtY6UxgTXGf45HVDCJb…)
+[05:21:28]   downloaded 446.9 MB in 26.8s (16.7 MB/s)
+[05:21:56]   upload done video_id=26879088 in 28.0s
