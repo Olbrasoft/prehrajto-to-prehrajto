@@ -37173,3 +37173,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:04:14]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/7266167/X1yS96h3RFBvFZXFY1TYxhpqSnYFbwiw4tk4S…)
 [00:04:40]   downloaded 562.5 MB in 24.3s (23.1 MB/s)
 [00:05:04]   upload done video_id=26873712 in 24.9s
+[00:05:06] film cr_film_id=19451 OK in 53.0s
+[00:05:06] iteration 19/20
+[00:05:06] film cr_film_id=19455 name='Scooby-Doo (2002) CZ Dabing' candidates=1
+[00:05:06]   candidate upload_id=690166678c412 url=https://prehraj.to/scooby-doo-3-2002-cz-dabing-2k/690166678c412
+[00:05:07]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scooby-doo-3-2002-cz-dabing-2k/690166678c412 (permanent=True)
+[00:05:07] film cr_film_id=19455 all candidates exhausted
+[00:05:07] iteration 20/20
+[00:05:07] film cr_film_id=19457 name='Agent z Hong Kongu (2001) CZ Dabing' candidates=7
+[00:05:07]   candidate upload_id=5b70a5383a75e url=https://prehraj.to/agent-z-hongkongu-2001-cz-dabing/5b70a5383a75e
+[00:05:13]   resolved in 5.8s → 480p (https://pf-storage5.premiumcdn.net/5286237/YZ5i58CLZiD0tZ6SKxcBgC06IdMh5LHr8Ho2F…)
+[00:05:35]   downloaded 589.6 MB in 21.1s (27.9 MB/s)
+[00:06:07]   upload done video_id=26873724 in 31.8s
