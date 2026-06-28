@@ -103642,6 +103642,25 @@
         "download_sec": 206.5,
         "upload_sec": 115.2
       }
+    },
+    {
+      "cr_film_id": 21134,
+      "cr_slug": "svycarsky-robinson",
+      "title": "Švýcarský Robinson",
+      "year": 1960,
+      "display_name": "Švýcarský Robinson (1960) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5abd4865a34b5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26901534,
+      "size_bytes": 2124261473,
+      "uploaded_at": "2026-06-28T17:03:18Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 208.8,
+        "upload_sec": 109.3
+      }
     }
   ],
   "failed_attempts": [
@@ -107032,5 +107051,5 @@
       "failed_at": "2026-06-28T15:59:00Z"
     }
   ],
-  "last_updated": "2026-06-28T16:57:54Z"
+  "last_updated": "2026-06-28T17:03:18Z"
 }
