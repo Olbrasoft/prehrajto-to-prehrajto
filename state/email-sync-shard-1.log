@@ -39980,3 +39980,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:15:57]   upload done video_id=26901917 in 114.5s
 [17:15:59] film cr_film_id=21725 OK in 189.2s
 [17:15:59] batch-end ok=20 failed=0 dur=4415.9s avg/film=220.8s remaining=11993 eta_hours=735.6
+
+===== run 2026-06-28T17:52:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28330853768) =====
+[17:52:02] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:52:02] batch-start shard=1/2 count=20 backlog=17650 uploads=5657 failed_attempts=412 description_overrides=17579
+[17:52:02] login
+[17:52:03] login done
+[17:52:03] iteration 1/20
+[17:52:03] film cr_film_id=21727 name='Pláč pro banditu (1964) CZ' candidates=1
+[17:52:03]   candidate upload_id=586d0ee2eebc4 url=https://prehraj.to/plac-pro-banditu-llanto-por-un-bandido-1964-multi-tit-cz-tit/586d0ee2eebc4
+[17:52:05]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1310348/4VyIkoiKrtwPfdRtq8s6KiwYHXOfyvIWQslwu…)
+[17:52:48]   downloaded 743.1 MB in 41.0s (18.1 MB/s)
+[17:53:33]   upload done video_id=26903473 in 45.1s
