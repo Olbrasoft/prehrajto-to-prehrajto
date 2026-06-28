@@ -40127,3 +40127,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:54:39]   upload done video_id=26918280 in 198.5s
 [20:54:41] film cr_film_id=21795 OK in 386.8s
 [20:54:41] batch-end ok=20 failed=0 dur=10957.6s avg/film=547.9s remaining=11973 eta_hours=1822.2
+
+===== run 2026-06-28T20:55:18Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28335695347) =====
+[20:55:20] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:55:20] batch-start shard=1/2 count=20 backlog=17650 uploads=5677 failed_attempts=412 description_overrides=17579
+[20:55:20] login
+[20:55:22] login done
+[20:55:22] iteration 1/20
+[20:55:22] film cr_film_id=21801 name='Rvačka v Panamě (1966) CZ Dabing' candidates=2
+[20:55:22]   candidate upload_id=27af24b1a9571064 url=https://prehraj.to/rvacka-v-paname-1966-czdab-mkv/27af24b1a9571064
+[20:55:23]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/166752353/qZRiNASpnuArSo3FkOtVOSEguOpuANFgYHL…)
+[20:56:39]   downloaded 2,254.1 MB in 74.0s (30.5 MB/s)
+[20:58:25]   upload done video_id=26919061 in 105.8s
