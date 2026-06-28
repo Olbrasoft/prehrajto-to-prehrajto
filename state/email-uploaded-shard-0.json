@@ -103414,6 +103414,25 @@
         "download_sec": 373.4,
         "upload_sec": 31.7
       }
+    },
+    {
+      "cr_film_id": 21094,
+      "cr_slug": "sex-a-lucia",
+      "title": "Sex a Lucía",
+      "year": 2001,
+      "display_name": "Sex a Lucía (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68c1e438c34ac",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26899092,
+      "size_bytes": 1258425042,
+      "uploaded_at": "2026-06-28T16:01:37Z",
+      "timing": {
+        "resolve_sec": 7.2,
+        "download_sec": 65.3,
+        "upload_sec": 82.6
+      }
     }
   ],
   "failed_attempts": [
@@ -106795,7 +106814,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/wind-river-2017-cz-dab-1080p/b69f7555d483e2cd",
       "permanent": true,
       "failed_at": "2026-06-28T14:19:53Z"
+    },
+    {
+      "cr_film_id": 21094,
+      "upload_id": "67100cff540d2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lucia-y-el-sexo-sex-a-lucia-2001-czdab/67100cff540d2",
+      "permanent": true,
+      "failed_at": "2026-06-28T15:59:00Z"
     }
   ],
-  "last_updated": "2026-06-28T15:58:56Z"
+  "last_updated": "2026-06-28T16:01:37Z"
 }
