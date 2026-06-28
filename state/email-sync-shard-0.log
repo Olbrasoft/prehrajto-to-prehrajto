@@ -38427,3 +38427,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:21:08]   upload done video_id=26880610 in 101.5s
 [07:21:10] film cr_film_id=19678 OK in 146.9s
 [07:21:10] batch-end ok=20 failed=0 dur=4251.9s avg/film=212.6s remaining=12205 eta_hours=720.8
+
+===== run 2026-06-28T07:21:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28314977362) =====
+[07:21:48] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:21:48] batch-start shard=0/2 count=20 backlog=17650 uploads=5445 failed_attempts=472 description_overrides=17579
+[07:21:48] login
+[07:21:50] login done
+[07:21:50] iteration 1/20
+[07:21:50] film cr_film_id=19692 name='Příležitost dělá zloděje (2010) CZ Dabing' candidates=3
+[07:21:50]   candidate upload_id=57d9cddebe471 url=https://prehraj.to/prilezitost-dela-zlodeje-2010-czdab/57d9cddebe471
+[07:21:50]   resolved in 0.8s → 480p (https://pf-storage2.premiumcdn.net/643750/aKvSAkT9niPNtZ8torUAlTOgFrGsapsvBSoRtP…)
+[07:22:10]   downloaded 472.5 MB in 17.5s (27.0 MB/s)
+[07:23:00]   upload done video_id=26880642 in 50.3s
