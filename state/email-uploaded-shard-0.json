@@ -100678,6 +100678,25 @@
         "download_sec": 14.2,
         "upload_sec": 20.5
       }
+    },
+    {
+      "cr_film_id": 19772,
+      "cr_slug": "zmizeni",
+      "title": "Zmizení",
+      "year": 2013,
+      "display_name": "Zmizení (2013) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59a34ef9e485b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26881012,
+      "size_bytes": 634321576,
+      "uploaded_at": "2026-06-28T07:45:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.1,
+        "upload_sec": 29.3
+      }
     }
   ],
   "failed_attempts": [
@@ -104047,5 +104066,5 @@
       "failed_at": "2026-06-28T02:42:01Z"
     }
   ],
-  "last_updated": "2026-06-28T07:44:31Z"
+  "last_updated": "2026-06-28T07:45:28Z"
 }
