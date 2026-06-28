@@ -37692,3 +37692,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:58:28]   upload done video_id=26876619 in 56.0s
 [02:58:29] film cr_film_id=18986 OK in 110.1s
 [02:58:29] batch-end ok=20 failed=0 dur=1366.0s avg/film=68.3s remaining=12305 eta_hours=233.5
+
+===== run 2026-06-28T03:09:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28309670741) =====
+[03:09:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:09:27] batch-start shard=0/2 count=20 backlog=17650 uploads=5345 failed_attempts=472 description_overrides=17579
+[03:09:27] login
+[03:09:35] login done
+[03:09:35] iteration 1/20
+[03:09:35] film cr_film_id=19010 name='Dunkerk (2017) CZ Dabing' candidates=22
+[03:09:35]   candidate upload_id=637caf115c93b url=https://prehraj.to/dunkerk-2017-hd-1080p-cz-dabing-rida/637caf115c93b
+[03:09:36]   resolved in 0.9s → 1080p (https://pf-storage1.premiumcdn.net/34780453/4JxUBXT61HeGt7quJAuJ4TlVHpxUrquW8C4Q…)
+[03:10:52]   downloaded 2,702.1 MB in 74.3s (36.4 MB/s)
+[03:12:31]   upload done video_id=26876871 in 99.4s

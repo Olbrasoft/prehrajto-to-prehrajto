@@ -98512,6 +98512,25 @@
         "download_sec": 50.4,
         "upload_sec": 56.0
       }
+    },
+    {
+      "cr_film_id": 19010,
+      "cr_slug": "dunkerk",
+      "title": "Dunkerk",
+      "year": 2017,
+      "display_name": "Dunkerk (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "637caf115c93b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26876871,
+      "size_bytes": 2702051682,
+      "uploaded_at": "2026-06-28T03:12:31Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 74.3,
+        "upload_sec": 99.4
+      }
     }
   ],
   "failed_attempts": [
@@ -101881,5 +101900,5 @@
       "failed_at": "2026-06-28T02:42:01Z"
     }
   ],
-  "last_updated": "2026-06-28T02:58:28Z"
+  "last_updated": "2026-06-28T03:12:31Z"
 }
