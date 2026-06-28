@@ -97438,6 +97438,25 @@
         "download_sec": 21.8,
         "upload_sec": 22.3
       }
+    },
+    {
+      "cr_film_id": 19465,
+      "cr_slug": "zvraceny",
+      "title": "Zvrácený",
+      "year": 2002,
+      "display_name": "Zvrácený (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60a5a7c879fd3",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26873777,
+      "size_bytes": 1643988020,
+      "uploaded_at": "2026-06-28T00:10:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 46.4,
+        "upload_sec": 98.0
+      }
     }
   ],
   "failed_attempts": [
@@ -100420,5 +100439,5 @@
       "failed_at": "2026-06-28T00:05:07Z"
     }
   ],
-  "last_updated": "2026-06-28T00:07:32Z"
+  "last_updated": "2026-06-28T00:10:00Z"
 }
