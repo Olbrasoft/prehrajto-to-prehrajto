@@ -105494,6 +105494,25 @@
         "download_sec": 23.3,
         "upload_sec": 40.0
       }
+    },
+    {
+      "cr_film_id": 21905,
+      "cr_slug": "inspektor-clouseau",
+      "title": "Inspektor Clouseau",
+      "year": 1968,
+      "display_name": "Inspektor Clouseau (1968) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "59d780c275030",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26930176,
+      "size_bytes": 974791344,
+      "uploaded_at": "2026-06-28T22:23:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.3,
+        "upload_sec": 37.5
+      }
     }
   ],
   "failed_attempts": [
@@ -108502,5 +108521,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-28T22:22:24Z"
+  "last_updated": "2026-06-28T22:23:40Z"
 }
