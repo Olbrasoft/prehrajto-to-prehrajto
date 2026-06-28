@@ -38510,3 +38510,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:09:30]   upload done video_id=26879702 in 30.4s
 [06:09:32] film cr_film_id=20709 OK in 57.4s
 [06:09:32] batch-end ok=19 failed=1 dur=2913.2s avg/film=153.3s remaining=12193 eta_hours=519.2
+
+===== run 2026-06-28T06:10:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28313414427) =====
+[06:10:14] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:10:14] batch-start shard=1/2 count=20 backlog=17650 uploads=5457 failed_attempts=412 description_overrides=17579
+[06:10:14] login
+[06:10:16] login done
+[06:10:16] iteration 1/20
+[06:10:16] film cr_film_id=20633 name='Šíleně šťastná (2016) CZ' candidates=1
+[06:10:16]   candidate upload_id=5aca3004113ff url=https://prehraj.to/silene-stastna-2016/5aca3004113ff
+[06:10:17]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/3850821/2oOtN0hQAUMPt7ZunziWyhKdu70fKZIjmSNdI…)
+[06:11:13]   downloaded 1,250.5 MB in 53.9s (23.2 MB/s)
+[06:12:27]   upload done video_id=26879751 in 73.8s
