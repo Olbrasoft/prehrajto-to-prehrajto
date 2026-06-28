@@ -104734,6 +104734,25 @@
         "download_sec": 113.3,
         "upload_sec": 129.9
       }
+    },
+    {
+      "cr_film_id": 21759,
+      "cr_slug": "lady-l",
+      "title": "Lady L",
+      "year": 1965,
+      "display_name": "Lady L (1965) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c7f6f408a90",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26905326,
+      "size_bytes": 439403885,
+      "uploaded_at": "2026-06-28T18:28:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 938.0,
+        "upload_sec": 31.4
+      }
     }
   ],
   "failed_attempts": [
@@ -107742,5 +107761,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-28T18:12:31Z"
+  "last_updated": "2026-06-28T18:28:46Z"
 }
