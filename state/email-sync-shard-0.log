@@ -37839,3 +37839,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:38:07]   upload done video_id=26877351 in 40.5s
 [03:38:09] film cr_film_id=19216 OK in 79.1s
 [03:38:09] batch-end ok=20 failed=0 dur=1713.5s avg/film=85.7s remaining=12285 eta_hours=292.5
+
+===== run 2026-06-28T03:38:45Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28310275288) =====
+[03:38:46] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:38:46] batch-start shard=0/2 count=20 backlog=17650 uploads=5365 failed_attempts=472 description_overrides=17579
+[03:38:46] login
+[03:38:48] login done
+[03:38:48] iteration 1/20
+[03:38:48] film cr_film_id=19228 name='Nejlepší přítel (2017) CZ Dabing' candidates=7
+[03:38:48]   candidate upload_id=61df2451ca950 url=https://prehraj.to/nejlepsi-pritel-2017-czdab/61df2451ca950
+[03:38:49]   resolved in 1.5s → 720p (https://pf-storage1.premiumcdn.net/28301616/YLgIy0UK0TmWc3dtQ6hMJUdnFPWC61TM8CX5…)
+[03:40:02]   downloaded 1,423.4 MB in 70.4s (20.2 MB/s)
+[03:41:22]   upload done video_id=26877396 in 80.2s
