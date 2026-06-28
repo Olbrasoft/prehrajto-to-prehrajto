@@ -37187,3 +37187,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:06:07]   upload done video_id=26873724 in 31.8s
 [00:06:09] film cr_film_id=19457 OK in 61.8s
 [00:06:09] batch-end ok=19 failed=1 dur=2770.3s avg/film=145.8s remaining=12371 eta_hours=501.0
+
+===== run 2026-06-28T00:06:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28305901383) =====
+[00:06:44] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:06:44] batch-start shard=1/2 count=20 backlog=17650 uploads=5279 failed_attempts=409 description_overrides=17579
+[00:06:44] login
+[00:06:45] login done
+[00:06:45] iteration 1/20
+[00:06:45] film cr_film_id=19461 name='Prvních 20 milionů je nejtěžších (2002) CZ Dabing' candidates=4
+[00:06:45]   candidate upload_id=5b9521bc0b982 url=https://prehraj.to/prvnich-20-milionu-je-nejtezsich-2002-cz-dabing/5b9521bc0b982
+[00:06:46]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/6036844/m3AtoBiQecpWHkph9OTGziZauNZh2zsPDFrkt…)
+[00:07:10]   downloaded 599.0 MB in 21.8s (27.5 MB/s)
+[00:07:32]   upload done video_id=26873753 in 22.3s
