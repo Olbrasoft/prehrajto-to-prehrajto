@@ -105532,6 +105532,25 @@
         "download_sec": 59.7,
         "upload_sec": 66.4
       }
+    },
+    {
+      "cr_film_id": 21911,
+      "cr_slug": "zoldner",
+      "title": "Žoldnéř",
+      "year": 1968,
+      "display_name": "Žoldnéř (1968) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63acf0b77a241",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26930507,
+      "size_bytes": 1761251778,
+      "uploaded_at": "2026-06-28T22:28:41Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 59.7,
+        "upload_sec": 105.7
+      }
     }
   ],
   "failed_attempts": [
@@ -108540,5 +108559,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-28T22:25:51Z"
+  "last_updated": "2026-06-28T22:28:41Z"
 }
