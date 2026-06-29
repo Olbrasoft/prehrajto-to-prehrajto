@@ -42724,3 +42724,16 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:51:13]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/13781121/yqoh0YfG9F7qT8XcYBcg9fZzuWvSraUeaCJ0…)
 [11:51:29]   downloaded 374.8 MB in 14.6s (25.7 MB/s)
 [11:52:02]   upload done video_id=26985772 in 32.8s
+[11:52:04] film cr_film_id=22764 OK in 51.8s
+[11:52:04] iteration 4/20
+[11:52:04] film cr_film_id=22766 name='Vítězové (1985) CZ' candidates=1
+[11:52:04]   candidate upload_id=63e91b98e166a url=https://prehraj.to/vitezove-1985-cz-en/63e91b98e166a
+[11:52:04]   resolved in 0.7s → 1080p (https://pf-storage1.premiumcdn.net/37332979/xnwsa2Cp2cQEHLNFlEtalC0LcB3UZ9SDrSAn…)
+[11:52:06]   oversize: 7005951277 B > 6000000000 B, skip
+[11:52:06] film cr_film_id=22766 all candidates exhausted
+[11:52:06] iteration 5/20
+[11:52:06] film cr_film_id=22768 name='Moji přátelé III (1985) CZ' candidates=1
+[11:52:06]   candidate upload_id=586a4cb5437f1 url=https://prehraj.to/moji-pratele-3-amici-miei-atto-iii-1985-cz-titulky/586a4cb5437f1
+[11:52:10]   resolved in 4.5s → 480p (https://pf-storage1.premiumcdn.net/1272464/8WpceJSvXtXMU4eiYoURXSa4C3Yh9KcW4tjRi…)
+[11:52:34]   downloaded 594.6 MB in 22.2s (26.8 MB/s)
+[11:53:24]   upload done video_id=26985863 in 50.0s
