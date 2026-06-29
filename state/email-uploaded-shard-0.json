@@ -115194,6 +115194,25 @@
         "download_sec": 53.2,
         "upload_sec": 65.5
       }
+    },
+    {
+      "cr_film_id": 23522,
+      "cr_slug": "major-payne",
+      "title": "Major Payne",
+      "year": 1995,
+      "display_name": "Major Payne (1995) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "63e28c1430e0f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27003710,
+      "size_bytes": 2763552838,
+      "uploaded_at": "2026-06-29T22:55:54Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 208.9,
+        "upload_sec": 152.2
+      }
     }
   ],
   "failed_attempts": [
@@ -118628,5 +118647,5 @@
       "failed_at": "2026-06-29T22:20:19Z"
     }
   ],
-  "last_updated": "2026-06-29T22:49:49Z"
+  "last_updated": "2026-06-29T22:55:54Z"
 }
