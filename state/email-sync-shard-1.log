@@ -42555,3 +42555,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:31:56]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/24266301/5WEcr8UM9hyzFpKTm6hOaUaKH1nTW5iNbcJM…)
 [09:32:17]   downloaded 288.9 MB in 18.5s (15.6 MB/s)
 [09:32:49]   upload done video_id=26978462 in 32.2s
+[09:32:52] film cr_film_id=23055 OK in 56.7s
+[09:32:52] iteration 10/20
+[09:32:52] film cr_film_id=23063 name='Malá mořská víla (1989) CZ Dabing' candidates=5
+[09:32:52]   candidate upload_id=145ca633f38346c3 url=https://prehraj.to/mala-morska-vila-1989-cz-dab-720p/145ca633f38346c3
+[09:32:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/mala-morska-vila-1989-cz-dab-720p/145ca633f38346c3 (permanent=True)
+[09:32:53]   candidate upload_id=579f98b169318 url=https://prehraj.to/walt-disney-mala-morska-vila-animovany-1989-cz-dabing/579f98b169318
+[09:32:59]   resolved in 6.4s → 480p (https://pf-storage2.premiumcdn.net/224691/qVAS87IzjhrlUyYTOdfg5IdeHZJhX3uy5uwdSD…)
+[09:33:37]   downloaded 632.9 MB in 36.3s (17.4 MB/s)
+[09:34:34]   upload done video_id=26978502 in 56.2s
