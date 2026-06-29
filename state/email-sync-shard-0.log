@@ -43726,3 +43726,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [18:36:53]   upload done video_id=27000936 in 42.1s
 [18:36:55] film cr_film_id=23274 OK in 78.5s
 [18:36:55] batch-end ok=20 failed=0 dur=4503.9s avg/film=225.2s remaining=11488 eta_hours=718.6
+
+===== run 2026-06-29T19:59:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28398936924) =====
+[19:59:29] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[19:59:29] batch-start shard=0/2 count=20 backlog=17650 uploads=6162 failed_attempts=479 description_overrides=17579
+[19:59:29] login
+[19:59:30] login done
+[19:59:30] iteration 1/20
+[19:59:30] film cr_film_id=23280 name='Navždy a daleko (1992) CZ Dabing' candidates=13
+[19:59:30]   candidate upload_id=55ddbc3d02b8a url=https://prehraj.to/navzdy-a-daleko-1992-czdab/55ddbc3d02b8a
+[19:59:32]   resolved in 2.1s → 480p (https://pf-storage2.premiumcdn.net/238672/1aPIdPSz9sqoh1rTBkSX9S7qU3AHnLuwlfxwIY…)
+[20:07:53]   downloaded 613.3 MB in 498.0s (1.2 MB/s)
+[20:08:37]   upload done video_id=27002250 in 44.7s
