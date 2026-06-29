@@ -114215,6 +114215,25 @@
         "download_sec": 347.2,
         "upload_sec": 61.5
       }
+    },
+    {
+      "cr_film_id": 23595,
+      "cr_slug": "frankie-starlight",
+      "title": "Frankie Starlight",
+      "year": 1995,
+      "display_name": "Frankie Starlight (1995) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55b43f7516370",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26998795,
+      "size_bytes": 392474224,
+      "uploaded_at": "2026-06-29T16:48:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.0,
+        "upload_sec": 33.5
+      }
     }
   ],
   "failed_attempts": [
@@ -117277,5 +117296,5 @@
       "failed_at": "2026-06-29T12:29:10Z"
     }
   ],
-  "last_updated": "2026-06-29T16:47:51Z"
+  "last_updated": "2026-06-29T16:48:53Z"
 }
