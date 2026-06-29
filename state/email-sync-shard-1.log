@@ -42043,3 +42043,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:05:30]   upload done video_id=26967024 in 105.3s
 [07:05:32] film cr_film_id=22801 OK in 188.0s
 [07:05:32] batch-end ok=20 failed=0 dur=2236.5s avg/film=111.8s remaining=11714 eta_hours=363.8
+
+===== run 2026-06-29T07:06:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28354684969) =====
+[07:06:14] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:06:14] batch-start shard=1/2 count=20 backlog=17650 uploads=5936 failed_attempts=415 description_overrides=17579
+[07:06:14] login
+[07:06:16] login done
+[07:06:16] iteration 1/20
+[07:06:16] film cr_film_id=22805 name='Nezvěstní v boji 2 (1985) CZ' candidates=3
+[07:06:16]   candidate upload_id=966efa20aaed5bdf url=https://prehraj.to/nezvestni-v-boji-2-1985-1080p-cz/966efa20aaed5bdf
+[07:06:17]   resolved in 1.0s → 720p (https://pf-storage6.premiumcdn.net/167575820/7QWiqOsGWhQ0F7BuoATY4sO6cdDtpdUm9cy…)
+[07:07:01]   downloaded 1,547.6 MB in 43.2s (35.8 MB/s)
+[07:08:05]   upload done video_id=26967137 in 63.3s
