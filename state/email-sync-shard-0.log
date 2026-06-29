@@ -42110,3 +42110,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:24:11]   upload done video_id=26973345 in 112.7s
 [08:24:13] film cr_film_id=22394 OK in 203.2s
 [08:24:13] batch-end ok=20 failed=0 dur=2734.4s avg/film=136.7s remaining=11707 eta_hours=444.5
+
+===== run 2026-06-29T08:24:51Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28358650142) =====
+[08:24:52] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:24:52] batch-start shard=0/2 count=20 backlog=17650 uploads=5943 failed_attempts=478 description_overrides=17579
+[08:24:52] login
+[08:24:54] login done
+[08:24:54] iteration 1/20
+[08:24:54] film cr_film_id=22398 name='Lovec jelenů (1978) CZ Dabing' candidates=6
+[08:24:54]   candidate upload_id=564b5a7124f1b url=https://prehraj.to/lovec-jelenu-1978-valecny-cz-dab-n-y-p-p/564b5a7124f1b
+[08:24:55]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/325490/xkdHOnCByhqVhjMuBlCg8CM2i3rSOeUezFY2i5…)
+[08:25:36]   downloaded 862.0 MB in 39.2s (22.0 MB/s)
+[08:26:32]   upload done video_id=26973592 in 55.2s
