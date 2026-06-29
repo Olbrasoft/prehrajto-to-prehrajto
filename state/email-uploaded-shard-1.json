@@ -108743,6 +108743,25 @@
         "download_sec": 23.6,
         "upload_sec": 36.4
       }
+    },
+    {
+      "cr_film_id": 22589,
+      "cr_slug": "nocni-dravci",
+      "title": "Noční dravci",
+      "year": 1981,
+      "display_name": "Noční dravci (1981) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5d2ea8006852b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26957112,
+      "size_bytes": 1840419614,
+      "uploaded_at": "2026-06-29T04:38:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 65.6,
+        "upload_sec": 80.1
+      }
     }
   ],
   "failed_attempts": [
@@ -111777,5 +111796,5 @@
       "failed_at": "2026-06-29T03:49:57Z"
     }
   ],
-  "last_updated": "2026-06-29T04:35:45Z"
+  "last_updated": "2026-06-29T04:38:15Z"
 }
