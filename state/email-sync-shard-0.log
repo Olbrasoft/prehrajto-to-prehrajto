@@ -42551,3 +42551,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:51:06]   upload done video_id=26980929 in 74.9s
 [10:51:08] film cr_film_id=22660 OK in 133.1s
 [10:51:08] batch-end ok=20 failed=0 dur=2553.5s avg/film=127.7s remaining=11647 eta_hours=413.1
+
+===== run 2026-06-29T10:52:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28366760237) =====
+[10:52:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:52:13] batch-start shard=0/2 count=20 backlog=17650 uploads=6003 failed_attempts=478 description_overrides=17579
+[10:52:13] login
+[10:52:15] login done
+[10:52:15] iteration 1/20
+[10:52:15] film cr_film_id=22662 name='Obyčejný spratek (1981) CZ' candidates=1
+[10:52:15]   candidate upload_id=5a9c2c222093f url=https://prehraj.to/obycejny-spratek-1981/5a9c2c222093f
+[10:52:16]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3534353/Wzpux6carskMt2QHrQUlLce2IZmIdjSgzsyMi…)
+[10:53:12]   downloaded 1,244.8 MB in 54.4s (22.9 MB/s)
+[10:54:25]   upload done video_id=26981162 in 73.1s
