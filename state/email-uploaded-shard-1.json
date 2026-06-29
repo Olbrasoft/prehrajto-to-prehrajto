@@ -108724,6 +108724,25 @@
         "download_sec": 24.9,
         "upload_sec": 33.7
       }
+    },
+    {
+      "cr_film_id": 22577,
+      "cr_slug": "stat-se-opici",
+      "title": "Stát se opicí",
+      "year": 1981,
+      "display_name": "Stát se opicí (1981) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a8d727fc292e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26956975,
+      "size_bytes": 618476321,
+      "uploaded_at": "2026-06-29T04:35:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.6,
+        "upload_sec": 36.4
+      }
     }
   ],
   "failed_attempts": [
@@ -111758,5 +111777,5 @@
       "failed_at": "2026-06-29T03:49:57Z"
     }
   ],
-  "last_updated": "2026-06-29T04:34:41Z"
+  "last_updated": "2026-06-29T04:35:45Z"
 }
