@@ -41896,3 +41896,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:27:34]   upload done video_id=26963939 in 391.5s
 [06:27:35] film cr_film_id=22741 OK in 545.0s
 [06:27:35] batch-end ok=20 failed=0 dur=3794.1s avg/film=189.7s remaining=11734 eta_hours=618.3
+
+===== run 2026-06-29T06:28:11Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28353030058) =====
+[06:28:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:28:13] batch-start shard=1/2 count=20 backlog=17650 uploads=5916 failed_attempts=415 description_overrides=17579
+[06:28:13] login
+[06:28:16] login done
+[06:28:16] iteration 1/20
+[06:28:16] film cr_film_id=22745 name='Smrtící spona (1984) CZ Dabing' candidates=2
+[06:28:16]   candidate upload_id=5a0ae0bd6e20b url=https://prehraj.to/smrtici-spona-1984-cz-dabing/5a0ae0bd6e20b
+[06:28:17]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/2928721/gBZIRyC4RsybsAnunRFxDCjxH6gU82S25heGf…)
+[06:28:48]   downloaded 437.2 MB in 29.1s (15.0 MB/s)
+[06:29:41]   upload done video_id=26964396 in 53.4s
