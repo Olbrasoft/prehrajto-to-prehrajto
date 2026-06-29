@@ -114871,6 +114871,25 @@
         "download_sec": 21.4,
         "upload_sec": 37.6
       }
+    },
+    {
+      "cr_film_id": 23456,
+      "cr_slug": "mladi-americane",
+      "title": "Mladí Američané",
+      "year": 1993,
+      "display_name": "Mladí Američané (1993) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58673c99949b7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27003437,
+      "size_bytes": 805793761,
+      "uploaded_at": "2026-06-29T22:11:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 28.0,
+        "upload_sec": 36.8
+      }
     }
   ],
   "failed_attempts": [
@@ -118298,5 +118317,5 @@
       "failed_at": "2026-06-29T11:52:06Z"
     }
   ],
-  "last_updated": "2026-06-29T22:10:48Z"
+  "last_updated": "2026-06-29T22:11:58Z"
 }
