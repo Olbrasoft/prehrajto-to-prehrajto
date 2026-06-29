@@ -109912,6 +109912,25 @@
         "download_sec": 24.2,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 22406,
+      "cr_slug": "hra-smrti",
+      "title": "Hra smrti",
+      "year": 1978,
+      "display_name": "Hra smrti (1978) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "614375caaa954",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26973849,
+      "size_bytes": 2035608432,
+      "uploaded_at": "2026-06-29T08:30:40Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 72.6,
+        "upload_sec": 105.9
+      }
     }
   ],
   "failed_attempts": [
@@ -113332,5 +113351,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-29T08:27:36Z"
+  "last_updated": "2026-06-29T08:30:40Z"
 }
