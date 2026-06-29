@@ -109674,6 +109674,25 @@
         "download_sec": 23.4,
         "upload_sec": 40.0
       }
+    },
+    {
+      "cr_film_id": 22771,
+      "cr_slug": "cerny-kotel",
+      "title": "Černý kotel",
+      "year": 1985,
+      "display_name": "Černý kotel (1985) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58289b9e98df9",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26965631,
+      "size_bytes": 480745090,
+      "uploaded_at": "2026-06-29T06:45:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.1,
+        "upload_sec": 32.4
+      }
     }
   ],
   "failed_attempts": [
@@ -112708,5 +112727,5 @@
       "failed_at": "2026-06-29T03:49:57Z"
     }
   ],
-  "last_updated": "2026-06-29T06:44:40Z"
+  "last_updated": "2026-06-29T06:45:39Z"
 }
