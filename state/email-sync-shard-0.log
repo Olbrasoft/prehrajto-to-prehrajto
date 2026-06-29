@@ -44095,3 +44095,16 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:15:41]   resolved in 0.9s → 1080p (https://pf-storage6.premiumcdn.net/102677636/a5ptEvTWrFjnS7xfXgfMqT64tjpS10HL5I4…)
 [22:17:27]   downloaded 3,932.6 MB in 104.1s (37.8 MB/s)
 [22:20:14]   upload done video_id=27003487 in 167.4s
+[22:20:17] film cr_film_id=23468 OK in 276.1s
+[22:20:17] iteration 11/20
+[22:20:17] film cr_film_id=23472 name='Lanaři (1994) CZ Dabing' candidates=1
+[22:20:17]   candidate upload_id=633e1e93c61ec url=https://prehraj.to/lanari-1994-1080p-cz-dab/633e1e93c61ec
+[22:20:18]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/33632404/Z2aHp3T68hqQFDBI3LcDeTjyhwjUjGI03ibp…)
+[22:20:19]   oversize: 6967400252 B > 6000000000 B, skip
+[22:20:19] film cr_film_id=23472 all candidates exhausted
+[22:20:19] iteration 12/20
+[22:20:19] film cr_film_id=23476 name='Výstřely na Broadwayi (1994) CZ Dabing' candidates=2
+[22:20:19]   candidate upload_id=55f254df1b00f url=https://prehraj.to/vystrely-na-broadwayi-1994-czdab/55f254df1b00f
+[22:20:24]   resolved in 4.4s → 480p (https://pf-storage2.premiumcdn.net/295175/kO6sv3SqRT4JtKWSnAhVOSMoHk5H1XFw5IZgHq…)
+[22:20:40]   downloaded 511.8 MB in 15.3s (33.4 MB/s)
+[22:21:10]   upload done video_id=27003510 in 29.2s
