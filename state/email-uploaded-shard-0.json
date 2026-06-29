@@ -112762,6 +112762,25 @@
         "download_sec": 27.4,
         "upload_sec": 36.9
       }
+    },
+    {
+      "cr_film_id": 23008,
+      "cr_slug": "tygri-klec",
+      "title": "Tygří klec",
+      "year": 1988,
+      "display_name": "Tygří klec (1988) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a90015e7bfea",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26997089,
+      "size_bytes": 592477236,
+      "uploaded_at": "2026-06-29T15:13:03Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 33.9,
+        "upload_sec": 53.3
+      }
     }
   ],
   "failed_attempts": [
@@ -116189,5 +116208,5 @@
       "failed_at": "2026-06-29T11:52:06Z"
     }
   ],
-  "last_updated": "2026-06-29T15:11:30Z"
+  "last_updated": "2026-06-29T15:13:03Z"
 }
