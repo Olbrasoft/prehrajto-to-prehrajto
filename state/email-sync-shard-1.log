@@ -42781,3 +42781,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:47:54]   upload done video_id=26980590 in 128.0s
 [10:47:57] film cr_film_id=23157 OK in 247.8s
 [10:47:57] batch-end ok=19 failed=1 dur=2363.5s avg/film=124.4s remaining=11615 eta_hours=401.4
+
+===== run 2026-06-29T10:52:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28366760237) =====
+[10:52:15] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:52:15] batch-start shard=1/2 count=20 backlog=17650 uploads=6035 failed_attempts=418 description_overrides=17579
+[10:52:15] login
+[10:52:17] login done
+[10:52:17] iteration 1/20
+[10:52:17] film cr_film_id=23159 name='Začátek dlouhého podzimu (1990) CZ' candidates=1
+[10:52:17]   candidate upload_id=586ff9c866d08 url=https://prehraj.to/zacatek-dlouheho-podzimu-1990/586ff9c866d08
+[10:52:17]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1360246/ql6t3YuyNIgmheNto5HRWubWIEqt0vHgWUAWf…)
+[10:52:39]   downloaded 450.0 MB in 20.1s (22.4 MB/s)
+[10:53:17]   upload done video_id=26981138 in 37.1s
