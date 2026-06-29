@@ -113531,6 +113531,25 @@
         "download_sec": 21.3,
         "upload_sec": 43.9
       }
+    },
+    {
+      "cr_film_id": 23467,
+      "cr_slug": "apex-1994",
+      "title": "APEX",
+      "year": 1994,
+      "display_name": "APEX (1994) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "65d2820ecb5cf",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26996603,
+      "size_bytes": 660854648,
+      "uploaded_at": "2026-06-29T14:53:08Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.2,
+        "upload_sec": 35.3
+      }
     }
   ],
   "failed_attempts": [
@@ -116593,5 +116612,5 @@
       "failed_at": "2026-06-29T12:29:10Z"
     }
   ],
-  "last_updated": "2026-06-29T14:52:05Z"
+  "last_updated": "2026-06-29T14:53:08Z"
 }
