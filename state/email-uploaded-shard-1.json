@@ -116077,6 +116077,25 @@
         "download_sec": 148.6,
         "upload_sec": 127.2
       }
+    },
+    {
+      "cr_film_id": 23913,
+      "cr_slug": "princ-egyptsky",
+      "title": "Princ Egyptský",
+      "year": 1998,
+      "display_name": "Princ Egyptský (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68bd10d261b9e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27003757,
+      "size_bytes": 2226428311,
+      "uploaded_at": "2026-06-29T23:05:42Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 132.3,
+        "upload_sec": 138.5
+      }
     }
   ],
   "failed_attempts": [
@@ -119137,7 +119156,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/posedlost-1992-czdab/55e2236c87949",
       "permanent": true,
       "failed_at": "2026-06-29T12:29:10Z"
+    },
+    {
+      "cr_film_id": 23913,
+      "upload_id": "5ffb8319dc332",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princ-egyptsky-the-prince-of-egypt-1998-animovany-cz-dab-pohadka/5ffb8319dc332",
+      "permanent": true,
+      "failed_at": "2026-06-29T23:01:03Z"
     }
   ],
-  "last_updated": "2026-06-29T23:01:00Z"
+  "last_updated": "2026-06-29T23:05:42Z"
 }

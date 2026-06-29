@@ -44447,3 +44447,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:56:22]   resolved in 1.2s → 720p (https://pf-storage2.premiumcdn.net/35835094/7j0FGdij9TXbtlbfgrcJnid7F16IdaUJOHVz…)
 [22:58:53]   downloaded 1,923.7 MB in 148.6s (12.9 MB/s)
 [23:01:00]   upload done video_id=27003732 in 127.2s
+[23:01:03] film cr_film_id=23911 OK in 281.5s
+[23:01:03] iteration 7/20
+[23:01:03] film cr_film_id=23913 name='Princ Egyptský (1998) CZ Dabing' candidates=6
+[23:01:03]   candidate upload_id=5ffb8319dc332 url=https://prehraj.to/princ-egyptsky-the-prince-of-egypt-1998-animovany-cz-dab-pohadka/5ffb8319dc332
+[23:01:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/princ-egyptsky-the-prince-of-egypt-1998-animovany-cz-dab-pohadka/5ffb8319dc332 (permanent=True)
+[23:01:03]   candidate upload_id=68bd10d261b9e url=https://prehraj.to/princ-egyptsky-1998-czdab/68bd10d261b9e
+[23:01:10]   resolved in 6.1s → 1080p (https://pf-storage4.premiumcdn.net/145658088/dVvuMLf5RSRzSbYtLVio6fzaFo4HyDFEVur…)
+[23:03:24]   downloaded 2,226.4 MB in 132.3s (16.8 MB/s)
+[23:05:42]   upload done video_id=27003757 in 138.5s
