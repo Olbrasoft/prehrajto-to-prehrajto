@@ -114652,6 +114652,25 @@
         "download_sec": 19.5,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 23675,
+      "cr_slug": "cerna-maska",
+      "title": "Černá maska",
+      "year": 1996,
+      "display_name": "Černá maska (1996) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5853dcdb5e627",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27001425,
+      "size_bytes": 733965130,
+      "uploaded_at": "2026-06-29T19:05:49Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 529.6,
+        "upload_sec": 53.1
+      }
     }
   ],
   "failed_attempts": [
@@ -117714,5 +117733,5 @@
       "failed_at": "2026-06-29T12:29:10Z"
     }
   ],
-  "last_updated": "2026-06-29T18:56:01Z"
+  "last_updated": "2026-06-29T19:05:49Z"
 }
