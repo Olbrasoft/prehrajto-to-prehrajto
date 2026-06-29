@@ -111698,6 +111698,25 @@
         "download_sec": 18.8,
         "upload_sec": 46.5
       }
+    },
+    {
+      "cr_film_id": 22828,
+      "cr_slug": "podzemka",
+      "title": "Podzemka",
+      "year": 1985,
+      "display_name": "Podzemka (1985) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60d466c69108c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26987663,
+      "size_bytes": 2986473901,
+      "uploaded_at": "2026-06-29T12:18:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 108.8,
+        "upload_sec": 190.6
+      }
     }
   ],
   "failed_attempts": [
@@ -115125,5 +115144,5 @@
       "failed_at": "2026-06-29T11:52:06Z"
     }
   ],
-  "last_updated": "2026-06-29T12:13:05Z"
+  "last_updated": "2026-06-29T12:18:09Z"
 }
