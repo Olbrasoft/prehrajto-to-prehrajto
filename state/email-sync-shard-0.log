@@ -43579,3 +43579,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:59:14]   upload done video_id=26999023 in 43.4s
 [16:59:16] film cr_film_id=23180 OK in 76.3s
 [16:59:16] batch-end ok=20 failed=0 dur=1916.7s avg/film=95.8s remaining=11508 eta_hours=306.2
+
+===== run 2026-06-29T17:21:48Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28390242025) =====
+[17:21:49] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:21:49] batch-start shard=0/2 count=20 backlog=17650 uploads=6142 failed_attempts=479 description_overrides=17579
+[17:21:49] login
+[17:21:51] login done
+[17:21:51] iteration 1/20
+[17:21:51] film cr_film_id=23184 name='Corpus delicti (1991) CZ' candidates=1
+[17:21:51]   candidate upload_id=600a5d2225736 url=https://prehraj.to/corpus-delicti-cesky-film-1991-drama-podobenstvi/600a5d2225736
+[17:21:52]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/21672069/NaKSX7h1Bfo7syxiQ9TANhvMcJ8f1ycXGFlK…)
+[17:26:35]   downloaded 1,276.5 MB in 280.6s (4.5 MB/s)
+[17:27:53]   upload done video_id=26999509 in 78.1s

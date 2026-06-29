@@ -113655,6 +113655,25 @@
         "download_sec": 28.1,
         "upload_sec": 43.4
       }
+    },
+    {
+      "cr_film_id": 23184,
+      "cr_slug": "corpus-delicti",
+      "title": "Corpus delicti",
+      "year": 1991,
+      "display_name": "Corpus delicti (1991) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "600a5d2225736",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26999509,
+      "size_bytes": 1276504073,
+      "uploaded_at": "2026-06-29T17:27:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 280.6,
+        "upload_sec": 78.1
+      }
     }
   ],
   "failed_attempts": [
@@ -117082,5 +117101,5 @@
       "failed_at": "2026-06-29T11:52:06Z"
     }
   ],
-  "last_updated": "2026-06-29T16:59:14Z"
+  "last_updated": "2026-06-29T17:27:53Z"
 }
