@@ -41082,3 +41082,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:23:02]   upload done video_id=26952898 in 83.0s
 [03:23:05] film cr_film_id=21882 OK in 142.7s
 [03:23:05] batch-end ok=20 failed=0 dur=2674.6s avg/film=133.7s remaining=11846 eta_hours=439.9
+
+===== run 2026-06-29T03:25:40Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28346621375) =====
+[03:25:42] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:25:42] batch-start shard=0/2 count=20 backlog=17650 uploads=5804 failed_attempts=477 description_overrides=17579
+[03:25:42] login
+[03:25:45] login done
+[03:25:45] iteration 1/20
+[03:25:45] film cr_film_id=21884 name='Vítejte do Zlých časů (1967) CZ' candidates=1
+[03:25:45]   candidate upload_id=5aa81a18c2949 url=https://prehraj.to/vitejte-do-zlych-casu-1967/5aa81a18c2949
+[03:25:46]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3626072/kLktxoIEPCg1FKDI5NfgMIMkFXOtJjImOTjvT…)
+[03:26:09]   downloaded 520.3 MB in 21.0s (24.8 MB/s)
+[03:26:37]   upload done video_id=26953039 in 28.8s
