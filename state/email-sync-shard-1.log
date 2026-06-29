@@ -41441,3 +41441,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:48:48]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/16220605/Z0wiV6HyXioxTaYU0OI3QH5gfyYT3WulYsXa…)
 [03:49:17]   downloaded 753.8 MB in 27.3s (27.6 MB/s)
 [03:49:55]   upload done video_id=26953680 in 37.8s
+[03:49:57] film cr_film_id=22493 OK in 69.7s
+[03:49:57] iteration 19/20
+[03:49:57] film cr_film_id=22495 name='Válečníci (1979) CZ' candidates=1
+[03:49:57]   candidate upload_id=5fc9129f8d5f1 url=https://prehraj.to/valecnici-the-warriors-1979-720p-brrip-x-264-srt-cz/5fc9129f8d5f1
+[03:49:57]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/valecnici-the-warriors-1979-720p-brrip-x-264-srt-cz/5fc9129f8d5f1 (permanent=True)
+[03:49:57] film cr_film_id=22495 all candidates exhausted
+[03:49:57] iteration 20/20
+[03:49:57] film cr_film_id=22497 name='Sador, vládce vesmíru (1980) CZ Dabing' candidates=1
+[03:49:57]   candidate upload_id=58554b4a33f99 url=https://prehraj.to/sador-vladce-vesmiru-1980-ac3-dvdrip-czdub/58554b4a33f99
+[03:50:05]   resolved in 7.4s → 480p (https://pf-storage3.premiumcdn.net/1188327/ONZc9lTRLSp8tNaUPkTX1TXYFzOtNZHAGfBDH…)
+[03:50:25]   downloaded 516.9 MB in 19.1s (27.1 MB/s)
+[03:51:05]   upload done video_id=26953713 in 39.4s
