@@ -44253,3 +44253,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:57:29]   upload done video_id=27003319 in 36.2s
 [21:57:31] film cr_film_id=23827 OK in 61.4s
 [21:57:31] batch-end ok=20 failed=0 dur=1752.9s avg/film=87.6s remaining=11415 eta_hours=277.8
+
+===== run 2026-06-29T22:04:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28405697368) =====
+[22:04:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:04:31] batch-start shard=1/2 count=20 backlog=17650 uploads=6235 failed_attempts=419 description_overrides=17579
+[22:04:31] login
+[22:04:32] login done
+[22:04:32] iteration 1/20
+[22:04:32] film cr_film_id=23831 name='Půlnoc v zahradě dobra a zla (1997) CZ' candidates=1
+[22:04:32]   candidate upload_id=5aba941492f21 url=https://prehraj.to/pulnoc-v-zahrade-dobra-a-zla-1997/5aba941492f21
+[22:04:34]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/3750478/1gmUJOhLbUXJF8wFDBflyhkOFOxI51ukqF9WS…)
+[22:05:53]   downloaded 1,899.6 MB in 77.6s (24.5 MB/s)
+[22:07:27]   upload done video_id=27003395 in 93.3s
