@@ -110149,6 +110149,25 @@
         "download_sec": 27.8,
         "upload_sec": 38.0
       }
+    },
+    {
+      "cr_film_id": 22847,
+      "cr_slug": "americky-ocasek",
+      "title": "Americký ocásek",
+      "year": 1986,
+      "display_name": "Americký ocásek (1986) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "567877ec8ae82",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26968655,
+      "size_bytes": 500131685,
+      "uploaded_at": "2026-06-29T07:26:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.2,
+        "upload_sec": 65.2
+      }
     }
   ],
   "failed_attempts": [
@@ -113183,5 +113202,5 @@
       "failed_at": "2026-06-29T03:49:57Z"
     }
   ],
-  "last_updated": "2026-06-29T07:24:37Z"
+  "last_updated": "2026-06-29T07:26:06Z"
 }
