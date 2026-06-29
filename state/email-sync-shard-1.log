@@ -42636,3 +42636,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:54:30]   upload done video_id=26978975 in 105.9s
 [09:54:33] film cr_film_id=23097 OK in 190.3s
 [09:54:33] batch-end ok=20 failed=0 dur=2505.7s avg/film=125.3s remaining=11634 eta_hours=404.9
+
+===== run 2026-06-29T10:08:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28364462378) =====
+[10:08:32] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:08:32] batch-start shard=1/2 count=20 backlog=17650 uploads=6016 failed_attempts=417 description_overrides=17579
+[10:08:32] login
+[10:08:34] login done
+[10:08:34] iteration 1/20
+[10:08:34] film cr_film_id=23099 name='Ohňostroj marnosti (1990) CZ Dabing' candidates=2
+[10:08:34]   candidate upload_id=55df054551472 url=https://prehraj.to/ohnostroj-marnosti-1990-czdab/55df054551472
+[10:08:35]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/240763/a8wsz2cB9tL5ujYF1Lu95cqdHbKT8jUqQTnoFE…)
+[10:09:07]   downloaded 505.5 MB in 29.7s (17.0 MB/s)
+[10:09:45]   upload done video_id=26979296 in 38.6s
