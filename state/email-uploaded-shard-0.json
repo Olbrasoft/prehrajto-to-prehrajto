@@ -114130,6 +114130,25 @@
         "download_sec": 42.8,
         "upload_sec": 57.2
       }
+    },
+    {
+      "cr_film_id": 23312,
+      "cr_slug": "jedovaty-brectan",
+      "title": "Jedovatý břečťan",
+      "year": 1992,
+      "display_name": "Jedovatý břečťan (1992) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9010b09c70d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27002333,
+      "size_bytes": 542244463,
+      "uploaded_at": "2026-06-29T20:15:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.4,
+        "upload_sec": 41.0
+      }
     }
   ],
   "failed_attempts": [
@@ -117557,5 +117576,5 @@
       "failed_at": "2026-06-29T11:52:06Z"
     }
   ],
-  "last_updated": "2026-06-29T20:14:18Z"
+  "last_updated": "2026-06-29T20:15:31Z"
 }
