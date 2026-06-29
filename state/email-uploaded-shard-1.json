@@ -110852,6 +110852,25 @@
         "download_sec": 34.5,
         "upload_sec": 44.1
       }
+    },
+    {
+      "cr_film_id": 22989,
+      "cr_slug": "vrazedna-opice",
+      "title": "Vražedná opice",
+      "year": 1988,
+      "display_name": "Vražedná opice (1988) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ad7c0313be24",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26975610,
+      "size_bytes": 1343316736,
+      "uploaded_at": "2026-06-29T08:54:18Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 72.1,
+        "upload_sec": 102.3
+      }
     }
   ],
   "failed_attempts": [
@@ -113893,5 +113912,5 @@
       "failed_at": "2026-06-29T07:59:01Z"
     }
   ],
-  "last_updated": "2026-06-29T08:51:18Z"
+  "last_updated": "2026-06-29T08:54:18Z"
 }
