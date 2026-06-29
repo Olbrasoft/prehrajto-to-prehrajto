@@ -110824,6 +110824,25 @@
         "download_sec": 17.9,
         "upload_sec": 28.0
       }
+    },
+    {
+      "cr_film_id": 22620,
+      "cr_slug": "smrtici-past",
+      "title": "Smrtící past",
+      "year": 1982,
+      "display_name": "Smrtící past (1982) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68b4e121e098e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26979894,
+      "size_bytes": 2493081497,
+      "uploaded_at": "2026-06-29T10:35:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 81.1,
+        "upload_sec": 130.6
+      }
     }
   ],
   "failed_attempts": [
@@ -114244,5 +114263,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-29T10:31:44Z"
+  "last_updated": "2026-06-29T10:35:21Z"
 }
