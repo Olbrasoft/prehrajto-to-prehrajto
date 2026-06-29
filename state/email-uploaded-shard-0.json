@@ -115479,6 +115479,25 @@
         "download_sec": 14.6,
         "upload_sec": 22.6
       }
+    },
+    {
+      "cr_film_id": 23568,
+      "cr_slug": "nahradni-matka",
+      "title": "Náhradní matka",
+      "year": 1996,
+      "display_name": "Náhradní matka (1996) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aba4feb6e684",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27003893,
+      "size_bytes": 620277371,
+      "uploaded_at": "2026-06-29T23:29:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.2,
+        "upload_sec": 42.9
+      }
     }
   ],
   "failed_attempts": [
@@ -118913,5 +118932,5 @@
       "failed_at": "2026-06-29T22:20:19Z"
     }
   ],
-  "last_updated": "2026-06-29T23:27:54Z"
+  "last_updated": "2026-06-29T23:29:04Z"
 }
