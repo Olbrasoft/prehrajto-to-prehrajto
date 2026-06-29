@@ -43224,3 +43224,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:14:51]   upload done video_id=26994433 in 78.5s
 [13:14:52] film cr_film_id=23347 OK in 112.2s
 [13:14:52] batch-end ok=20 failed=0 dur=2828.2s avg/film=141.4s remaining=11555 eta_hours=453.9
+
+===== run 2026-06-29T13:30:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28375689201) =====
+[13:30:29] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:30:29] batch-start shard=1/2 count=20 backlog=17650 uploads=6095 failed_attempts=419 description_overrides=17579
+[13:30:29] login
+[13:30:33] login done
+[13:30:33] iteration 1/20
+[13:30:33] film cr_film_id=23349 name='Sbohem, má konkubíno (1993) CZ' candidates=1
+[13:30:33]   candidate upload_id=5845e050056a2 url=https://prehraj.to/sbohem-ma-konkubino-ba-wang-bie-ji-1993-cz-tit/5845e050056a2
+[13:30:34]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/1024956/ApAizOIWpsDocoASV6CDaIB2fkyt9dSQdip0H…)
+[13:34:16]   downloaded 845.8 MB in 219.0s (3.9 MB/s)
+[13:35:15]   upload done video_id=26994902 in 59.2s
