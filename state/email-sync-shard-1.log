@@ -42190,3 +42190,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:37:25]   upload done video_id=26969523 in 215.3s
 [07:37:27] film cr_film_id=22869 OK in 326.0s
 [07:37:27] batch-end ok=20 failed=0 dur=1871.5s avg/film=93.6s remaining=11694 eta_hours=304.0
+
+===== run 2026-06-29T07:38:34Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28356251525) =====
+[07:38:36] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:38:36] batch-start shard=1/2 count=20 backlog=17650 uploads=5956 failed_attempts=415 description_overrides=17579
+[07:38:36] login
+[07:38:39] login done
+[07:38:39] iteration 1/20
+[07:38:39] film cr_film_id=22871 name='Pobřeží moskytů (1986) CZ Dabing' candidates=6
+[07:38:39]   candidate upload_id=5a6db1b9ca198 url=https://prehraj.to/pobrezi-moskytu-1986-cz-dabing/5a6db1b9ca198
+[07:38:41]   resolved in 1.2s → 480p (https://pf-storage4.premiumcdn.net/3332595/kyQtjLTX8C0qH7PFw3cLxTdaIP3FLJfd1Uy2s…)
+[07:39:23]   downloaded 880.8 MB in 40.4s (21.8 MB/s)
+[07:40:56]   upload done video_id=26969985 in 92.4s
