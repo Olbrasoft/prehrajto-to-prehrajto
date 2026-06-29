@@ -43432,3 +43432,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:10:47]   upload done video_id=26998234 in 32.8s
 [16:10:49] film cr_film_id=23084 OK in 79.9s
 [16:10:49] batch-end ok=20 failed=0 dur=2390.6s avg/film=119.5s remaining=11528 eta_hours=382.7
+
+===== run 2026-06-29T16:27:16Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28387078284) =====
+[16:27:18] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:27:18] batch-start shard=0/2 count=20 backlog=17650 uploads=6122 failed_attempts=479 description_overrides=17579
+[16:27:18] login
+[16:27:20] login done
+[16:27:20] iteration 1/20
+[16:27:20] film cr_film_id=23086 name='Obhájce pravdy (1989) CZ Dabing' candidates=2
+[16:27:20]   candidate upload_id=55ded6d2bc973 url=https://prehraj.to/obhajce-pravdy-1989-czdab/55ded6d2bc973
+[16:27:21]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/240376/GYysERU4bCvQC2BF7lulnUOXsJqIROhLBiR1s3…)
+[16:27:40]   downloaded 477.1 MB in 18.0s (26.5 MB/s)
+[16:28:08]   upload done video_id=26998480 in 27.8s
