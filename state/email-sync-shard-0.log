@@ -40785,3 +40785,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:57:22]   upload done video_id=26948834 in 87.3s
 [01:57:25] film cr_film_id=21736 OK in 147.3s
 [01:57:25] batch-end ok=20 failed=0 dur=2732.3s avg/film=136.6s remaining=11886 eta_hours=451.0
+
+===== run 2026-06-29T01:58:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28343883841) =====
+[01:58:05] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:58:05] batch-start shard=0/2 count=20 backlog=17650 uploads=5764 failed_attempts=476 description_overrides=17579
+[01:58:05] login
+[01:58:07] login done
+[01:58:07] iteration 1/20
+[01:58:07] film cr_film_id=21740 name='Víkend na Zuydcoote (1964) CZ' candidates=1
+[01:58:07]   candidate upload_id=5abe12094ec07 url=https://prehraj.to/vikend-na-zuydcoote-1964/5abe12094ec07
+[01:58:08]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/3776832/rr7f8vsGkuOrs1dc6Xtj4sM3U8EcWGUvAT7ns…)
+[01:58:55]   downloaded 1,306.3 MB in 45.5s (28.7 MB/s)
+[02:00:01]   upload done video_id=26949103 in 66.0s
