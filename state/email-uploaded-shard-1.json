@@ -113759,6 +113759,25 @@
         "download_sec": 61.8,
         "upload_sec": 93.2
       }
+    },
+    {
+      "cr_film_id": 23517,
+      "cr_slug": "male-zeny-1994",
+      "title": "Malé ženy",
+      "year": 1994,
+      "display_name": "Malé ženy (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68ae4eb15d98f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26997601,
+      "size_bytes": 1710024162,
+      "uploaded_at": "2026-06-29T15:40:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 71.4,
+        "upload_sec": 90.6
+      }
     }
   ],
   "failed_attempts": [
@@ -116821,5 +116840,5 @@
       "failed_at": "2026-06-29T12:29:10Z"
     }
   ],
-  "last_updated": "2026-06-29T15:37:19Z"
+  "last_updated": "2026-06-29T15:40:06Z"
 }
