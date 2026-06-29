@@ -114073,6 +114073,25 @@
         "download_sec": 32.0,
         "upload_sec": 42.2
       }
+    },
+    {
+      "cr_film_id": 23292,
+      "cr_slug": "sunka-sunka",
+      "title": "Šunka, šunka",
+      "year": 1992,
+      "display_name": "Šunka, šunka (1992) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55eb4a9d68a2e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27002271,
+      "size_bytes": 455434310,
+      "uploaded_at": "2026-06-29T20:11:04Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 21.6,
+        "upload_sec": 38.4
+      }
     }
   ],
   "failed_attempts": [
@@ -117500,5 +117519,5 @@
       "failed_at": "2026-06-29T11:52:06Z"
     }
   ],
-  "last_updated": "2026-06-29T20:09:58Z"
+  "last_updated": "2026-06-29T20:11:04Z"
 }
