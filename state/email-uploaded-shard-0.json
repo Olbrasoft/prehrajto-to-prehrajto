@@ -107765,6 +107765,25 @@
         "download_sec": 76.6,
         "upload_sec": 52.9
       }
+    },
+    {
+      "cr_film_id": 21976,
+      "cr_slug": "smich-z-raje",
+      "title": "Smích z ráje",
+      "year": 1970,
+      "display_name": "Smích z ráje (1970) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "587063ef93818",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26956152,
+      "size_bytes": 492371534,
+      "uploaded_at": "2026-06-29T04:25:45Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 26.4,
+        "upload_sec": 40.0
+      }
     }
   ],
   "failed_attempts": [
@@ -111185,5 +111204,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-29T04:24:34Z"
+  "last_updated": "2026-06-29T04:25:45Z"
 }
