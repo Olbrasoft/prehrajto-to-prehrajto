@@ -106216,6 +106216,25 @@
         "download_sec": 54.0,
         "upload_sec": 69.7
       }
+    },
+    {
+      "cr_film_id": 22073,
+      "cr_slug": "cesta-1971",
+      "title": "Cesta",
+      "year": 1971,
+      "display_name": "Cesta (1971) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5889d43d26d92",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26938738,
+      "size_bytes": 1050745078,
+      "uploaded_at": "2026-06-29T00:01:13Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 37.9,
+        "upload_sec": 45.7
+      }
     }
   ],
   "failed_attempts": [
@@ -109243,5 +109262,5 @@
       "failed_at": "2026-06-28T23:42:54Z"
     }
   ],
-  "last_updated": "2026-06-28T23:59:45Z"
+  "last_updated": "2026-06-29T00:01:13Z"
 }
