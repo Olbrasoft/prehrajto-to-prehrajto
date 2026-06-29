@@ -107727,6 +107727,25 @@
         "download_sec": 30.6,
         "upload_sec": 41.9
       }
+    },
+    {
+      "cr_film_id": 21970,
+      "cr_slug": "prazske-noci",
+      "title": "Pražské noci",
+      "year": 1969,
+      "display_name": "Pražské noci (1969) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6251415077b8e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 26955781,
+      "size_bytes": 2102419326,
+      "uploaded_at": "2026-06-29T04:22:18Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 172.6,
+        "upload_sec": 127.6
+      }
     }
   ],
   "failed_attempts": [
@@ -111147,5 +111166,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-29T04:17:13Z"
+  "last_updated": "2026-06-29T04:22:18Z"
 }
