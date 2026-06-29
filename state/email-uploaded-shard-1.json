@@ -115260,6 +115260,25 @@
         "download_sec": 17.7,
         "upload_sec": 26.4
       }
+    },
+    {
+      "cr_film_id": 23779,
+      "cr_slug": "anastasia",
+      "title": "Anastasia",
+      "year": 1997,
+      "display_name": "Anastasia (1997) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5fd1d80bb8427",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27003083,
+      "size_bytes": 482244561,
+      "uploaded_at": "2026-06-29T21:32:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.3,
+        "upload_sec": 32.4
+      }
     }
   ],
   "failed_attempts": [
@@ -118322,5 +118341,5 @@
       "failed_at": "2026-06-29T12:29:10Z"
     }
   ],
-  "last_updated": "2026-06-29T21:31:54Z"
+  "last_updated": "2026-06-29T21:32:46Z"
 }
