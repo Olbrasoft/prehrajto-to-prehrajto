@@ -40491,3 +40491,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:24:10]   upload done video_id=26940720 in 66.6s
 [00:24:12] film cr_film_id=21578 OK in 111.2s
 [00:24:12] batch-end ok=20 failed=0 dur=2059.6s avg/film=103.0s remaining=11926 eta_hours=341.2
+
+===== run 2026-06-29T00:29:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28341284913) =====
+[00:29:03] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:29:03] batch-start shard=0/2 count=20 backlog=17650 uploads=5724 failed_attempts=476 description_overrides=17579
+[00:29:03] login
+[00:29:06] login done
+[00:29:06] iteration 1/20
+[00:29:06] film cr_film_id=21588 name='Dobrodružství (1960) CZ' candidates=1
+[00:29:06]   candidate upload_id=5908968014cfc url=https://prehraj.to/dobrodruzstvi-l-avventura-1960-cz-tit/5908968014cfc
+[00:29:07]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/2125918/y5yuWLSWaFzJsK6S0VT0eSkEHxpfOWieGUgXC…)
+[00:29:48]   downloaded 1,049.0 MB in 39.6s (26.5 MB/s)
+[00:30:50]   upload done video_id=26941308 in 62.0s
