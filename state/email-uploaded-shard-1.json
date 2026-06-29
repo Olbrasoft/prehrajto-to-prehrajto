@@ -114956,6 +114956,25 @@
         "download_sec": 38.1,
         "upload_sec": 54.9
       }
+    },
+    {
+      "cr_film_id": 23723,
+      "cr_slug": "kazaam",
+      "title": "Kazaam",
+      "year": 1996,
+      "display_name": "Kazaam (1996) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "585beef1a4ddc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27002371,
+      "size_bytes": 663541181,
+      "uploaded_at": "2026-06-29T20:18:38Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 38.3,
+        "upload_sec": 49.5
+      }
     }
   ],
   "failed_attempts": [
@@ -118018,5 +118037,5 @@
       "failed_at": "2026-06-29T12:29:10Z"
     }
   ],
-  "last_updated": "2026-06-29T20:17:05Z"
+  "last_updated": "2026-06-29T20:18:38Z"
 }
