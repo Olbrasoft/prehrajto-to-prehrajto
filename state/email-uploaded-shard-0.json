@@ -107176,6 +107176,25 @@
         "download_sec": 48.3,
         "upload_sec": 78.9
       }
+    },
+    {
+      "cr_film_id": 21878,
+      "cr_slug": "tobruk-1967",
+      "title": "Tobruk",
+      "year": 1967,
+      "display_name": "Tobruk (1967) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "608220f7bd80d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26952833,
+      "size_bytes": 673257069,
+      "uploaded_at": "2026-06-29T03:19:13Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 31.3,
+        "upload_sec": 62.6
+      }
     }
   ],
   "failed_attempts": [
@@ -110585,5 +110604,5 @@
       "failed_at": "2026-06-29T02:49:53Z"
     }
   ],
-  "last_updated": "2026-06-29T03:17:34Z"
+  "last_updated": "2026-06-29T03:19:13Z"
 }
