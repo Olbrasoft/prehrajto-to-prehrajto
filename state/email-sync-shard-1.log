@@ -40869,3 +40869,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:11:10]   upload done video_id=26944472 in 315.6s
 [01:11:11] film cr_film_id=22213 OK in 436.1s
 [01:11:11] batch-end ok=20 failed=0 dur=2529.7s avg/film=126.5s remaining=11873 eta_hours=417.2
+
+===== run 2026-06-29T01:11:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28342504966) =====
+[01:11:53] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:11:53] batch-start shard=1/2 count=20 backlog=17650 uploads=5777 failed_attempts=414 description_overrides=17579
+[01:11:53] login
+[01:11:55] login done
+[01:11:55] iteration 1/20
+[01:11:55] film cr_film_id=22215 name='Úctyhodní lidé (1975) CZ Dabing' candidates=1
+[01:11:55]   candidate upload_id=634731b2ddd10 url=https://prehraj.to/uctyhodni-lide-1975-czdab/634731b2ddd10
+[01:11:56]   resolved in 1.3s → 720p (https://pf-storage4.premiumcdn.net/33757084/MLbsyBi0lsXpu9DcWRI7qi81SLGS0GHGeCO7…)
+[01:13:14]   downloaded 1,122.1 MB in 76.3s (14.7 MB/s)
+[01:14:23]   upload done video_id=26945171 in 69.0s
