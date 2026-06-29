@@ -112258,6 +112258,25 @@
         "download_sec": 18.9,
         "upload_sec": 47.6
       }
+    },
+    {
+      "cr_film_id": 23235,
+      "cr_slug": "nuzky",
+      "title": "Nůžky",
+      "year": 1991,
+      "display_name": "Nůžky (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61a2c4368f8a8",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26986012,
+      "size_bytes": 580432180,
+      "uploaded_at": "2026-06-29T11:54:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.6,
+        "upload_sec": 32.4
+      }
     }
   ],
   "failed_attempts": [
@@ -115313,5 +115332,5 @@
       "failed_at": "2026-06-29T10:37:25Z"
     }
   ],
-  "last_updated": "2026-06-29T11:53:48Z"
+  "last_updated": "2026-06-29T11:54:59Z"
 }
