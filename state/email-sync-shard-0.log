@@ -43138,3 +43138,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:06:23]   upload done video_id=26995667 in 95.6s
 [14:06:25] film cr_film_id=22972 OK in 180.8s
 [14:06:25] batch-end ok=20 failed=0 dur=2159.0s avg/film=108.0s remaining=11568 eta_hours=347.0
+
+===== run 2026-06-29T14:26:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28379294085) =====
+[14:26:23] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:26:23] batch-start shard=0/2 count=20 backlog=17650 uploads=6082 failed_attempts=479 description_overrides=17579
+[14:26:23] login
+[14:26:25] login done
+[14:26:25] iteration 1/20
+[14:26:25] film cr_film_id=22974 name='Sherlock Holmes: Pes baskervillský (1988) CZ Dabing' candidates=1
+[14:26:25]   candidate upload_id=5f3c9aeb0e955 url=https://prehraj.to/sherlock-holmes-znameni-ctyr-krimi-cz-dab-1987-jad/5f3c9aeb0e955
+[14:26:26]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/18106125/Y29tE7foeTOKfoKsOEckYfKXSZqFRyco2izp…)
+[14:27:24]   downloaded 548.9 MB in 56.5s (9.7 MB/s)
+[14:28:05]   upload done video_id=26996064 in 40.7s
