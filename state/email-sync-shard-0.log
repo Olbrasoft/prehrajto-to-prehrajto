@@ -41228,3 +41228,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:57:57]   upload done video_id=26953926 in 30.1s
 [03:57:58] film cr_film_id=21946 OK in 56.1s
 [03:57:58] batch-end ok=19 failed=1 dur=1933.4s avg/film=101.8s remaining=11827 eta_hours=334.4
+
+===== run 2026-06-29T03:58:38Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28347620401) =====
+[03:58:40] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:58:40] batch-start shard=0/2 count=20 backlog=17650 uploads=5823 failed_attempts=478 description_overrides=17579
+[03:58:40] login
+[03:58:41] login done
+[03:58:41] iteration 1/20
+[03:58:41] film cr_film_id=21898 name='Firecreek (1968) CZ Dabing' candidates=1
+[03:58:41]   candidate upload_id=608076530900d url=https://prehraj.to/firecreek-1968-czdab/608076530900d
+[03:58:43]   resolved in 1.6s → 1080p (https://pf-storage4.premiumcdn.net/23216781/9EVc1jsp3SvrT4vFxdIQnsvwf5OUxdHv9hX5…)
+[04:03:59]   downloaded 3,392.3 MB in 314.6s (10.8 MB/s)
+[04:06:57]   upload done video_id=26954536 in 177.4s
