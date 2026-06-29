@@ -41455,3 +41455,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:51:05]   upload done video_id=26953713 in 39.4s
 [03:51:06] film cr_film_id=22497 OK in 69.1s
 [03:51:06] batch-end ok=19 failed=1 dur=1523.4s avg/film=80.2s remaining=11794 eta_hours=262.7
+
+===== run 2026-06-29T03:58:35Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28347620401) =====
+[03:58:37] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:58:37] batch-start shard=1/2 count=20 backlog=17650 uploads=5856 failed_attempts=415 description_overrides=17579
+[03:58:37] login
+[03:58:38] login done
+[03:58:38] iteration 1/20
+[03:58:38] film cr_film_id=22501 name='Death Ship (1980) CZ' candidates=1
+[03:58:38]   candidate upload_id=585a858714f04 url=https://prehraj.to/death-ship-cz-titulky-dobrodruzny-horor-kanada-velka-britanie-1980/585a858714f04
+[03:58:39]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/1217174/MG9s5WHyDigBtRvuQ6hJxH41Iv2i7miDyIyDC…)
+[03:59:04]   downloaded 602.2 MB in 23.1s (26.1 MB/s)
+[03:59:42]   upload done video_id=26954071 in 37.7s
