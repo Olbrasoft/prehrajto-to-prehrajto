@@ -42272,3 +42272,13 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:57:41]   resolved in 1.6s → 480p (https://pf-storage5.premiumcdn.net/4512440/VBpsK1UmnhLztkzhzaIyKUY2sreTgQSjDIorh…)
 [07:58:15]   downloaded 530.2 MB in 30.8s (17.2 MB/s)
 [07:58:55]   upload done video_id=26971573 in 40.5s
+[07:58:58] film cr_film_id=22909 OK in 77.8s
+[07:58:58] iteration 12/20
+[07:58:58] film cr_film_id=22911 name='Říše slunce (1987) CZ' candidates=2
+[07:58:58]   candidate upload_id=5fc2606febf8f url=https://prehraj.to/rise-slunce-1987-1080p-cz/5fc2606febf8f
+[07:58:59]   resolved in 1.8s → 1080p (https://pf-storage5.premiumcdn.net/20378229/Y8WTXqI81HBYc30C7qCYDIJOhq1i6aiyPUXQ…)
+[07:59:01]   oversize: 6297613848 B > 6000000000 B, skip
+[07:59:01]   candidate upload_id=5abbcbd91e92c url=https://prehraj.to/rise-slunce-1987/5abbcbd91e92c
+[07:59:06]   resolved in 4.4s → 720p (https://pf-storage6.premiumcdn.net/3756786/xxEsb3TrYHbMhnXhxRI7oT1DU7LIBNcdNUJEI…)
+[08:01:33]   downloaded 2,658.4 MB in 145.6s (18.3 MB/s)
+[08:04:12]   upload done video_id=26971875 in 158.4s
