@@ -41016,3 +41016,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:56:43]   upload done video_id=26948864 in 22.6s
 [01:56:45] film cr_film_id=22285 OK in 40.8s
 [01:56:45] batch-end ok=20 failed=0 dur=2690.2s avg/film=134.5s remaining=11853 eta_hours=442.8
+
+===== run 2026-06-29T01:58:05Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28343883841) =====
+[01:58:07] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:58:07] batch-start shard=1/2 count=20 backlog=17650 uploads=5797 failed_attempts=414 description_overrides=17579
+[01:58:07] login
+[01:58:08] login done
+[01:58:08] iteration 1/20
+[01:58:08] film cr_film_id=22289 name='Starý dům uprostřed Madridu (1976) CZ' candidates=1
+[01:58:08]   candidate upload_id=58200325094ed url=https://prehraj.to/stary-dum-uprostred-madridu-2f-cria-cuervos-2f-cria-1976-cz-tit/58200325094ed
+[01:58:10]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/808913/WNOhkZc1mIwOUQpF1qtAdcO4ibyF3GCmMSbAia…)
+[01:58:56]   downloaded 771.1 MB in 43.8s (17.6 MB/s)
+[02:00:22]   upload done video_id=26949104 in 86.6s
