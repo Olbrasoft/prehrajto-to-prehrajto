@@ -116571,6 +116571,25 @@
         "download_sec": 29.5,
         "upload_sec": 38.3
       }
+    },
+    {
+      "cr_film_id": 24009,
+      "cr_slug": "inspektor-gadget",
+      "title": "Inspektor Gadget",
+      "year": 1999,
+      "display_name": "Inspektor Gadget (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68bcbfb120fd0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27004078,
+      "size_bytes": 1358882414,
+      "uploaded_at": "2026-06-29T23:56:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 57.1,
+        "upload_sec": 89.6
+      }
     }
   ],
   "failed_attempts": [
@@ -119640,5 +119659,5 @@
       "failed_at": "2026-06-29T23:01:03Z"
     }
   ],
-  "last_updated": "2026-06-29T23:54:11Z"
+  "last_updated": "2026-06-29T23:56:43Z"
 }
