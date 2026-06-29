@@ -42844,3 +42844,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:20:46]   upload done video_id=26988119 in 48.3s
 [12:20:47] film cr_film_id=22834 OK in 73.1s
 [12:20:47] batch-end ok=19 failed=1 dur=2010.0s avg/film=105.8s remaining=11608 eta_hours=341.1
+
+===== run 2026-06-29T12:27:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28371941688) =====
+[12:27:41] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:27:41] batch-start shard=0/2 count=20 backlog=17650 uploads=6042 failed_attempts=479 description_overrides=17579
+[12:27:41] login
+[12:27:42] login done
+[12:27:42] iteration 1/20
+[12:27:42] film cr_film_id=22836 name='Podivná věda (1985) CZ Dabing' candidates=3
+[12:27:42]   candidate upload_id=582068c4f1411 url=https://prehraj.to/podivna-veda-1985-ac3-dvdrip-xvid-czdub/582068c4f1411
+[12:27:43]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/810221/3nNHLgcknUdaTaJtJltRkcjmivgFMAu2ACOkS3…)
+[12:28:07]   downloaded 509.8 MB in 21.6s (23.6 MB/s)
+[12:29:43]   upload done video_id=26989661 in 96.1s
