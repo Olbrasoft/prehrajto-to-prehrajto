@@ -43518,3 +43518,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:06:15]   upload done video_id=26996894 in 87.7s
 [15:06:17] film cr_film_id=23501 OK in 195.1s
 [15:06:17] batch-end ok=20 failed=0 dur=2395.8s avg/film=119.8s remaining=11515 eta_hours=383.2
+
+===== run 2026-06-29T15:30:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28383540921) =====
+[15:31:00] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:31:01] batch-start shard=1/2 count=20 backlog=17650 uploads=6135 failed_attempts=419 description_overrides=17579
+[15:31:01] login
+[15:31:02] login done
+[15:31:02] iteration 1/20
+[15:31:02] film cr_film_id=23507 name='Legenda o Červeném draku (1994) CZ' candidates=3
+[15:31:02]   candidate upload_id=55faa3b36021c url=https://prehraj.to/legenda-o-cervenem-draku-1994-jet-li/55faa3b36021c
+[15:31:03]   resolved in 1.0s → 480p (https://pf-storage3.premiumcdn.net/319973/ljRhaEfo5HvKFrRt2dh0jfDaUbghNqumQhXrtN…)
+[15:31:22]   downloaded 464.0 MB in 17.9s (25.9 MB/s)
+[15:31:50]   upload done video_id=26997420 in 27.4s
