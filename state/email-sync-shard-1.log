@@ -40722,3 +40722,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:28:23]   upload done video_id=26941149 in 32.4s
 [00:28:24] film cr_film_id=22135 OK in 61.3s
 [00:28:24] batch-end ok=20 failed=0 dur=2313.1s avg/film=115.7s remaining=11893 eta_hours=382.2
+
+===== run 2026-06-29T00:28:58Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28341284913) =====
+[00:29:00] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:29:00] batch-start shard=1/2 count=20 backlog=17650 uploads=5757 failed_attempts=414 description_overrides=17579
+[00:29:00] login
+[00:29:02] login done
+[00:29:02] iteration 1/20
+[00:29:02] film cr_film_id=22137 name='Temná Hvězda (1974) CZ' candidates=1
+[00:29:02]   candidate upload_id=609e0bd83f6ee url=https://prehraj.to/temna-hvezda-sci-fi-1974-cz-dabing/609e0bd83f6ee
+[00:29:05]   resolved in 3.2s → 480p (https://pf-storage5.premiumcdn.net/23503326/qLrsg5Ig0FpdTa3cR3T6lIYQcg2u9oFE4Sdq…)
+[00:29:25]   downloaded 483.0 MB in 18.1s (26.7 MB/s)
+[00:29:55]   upload done video_id=26941258 in 30.4s

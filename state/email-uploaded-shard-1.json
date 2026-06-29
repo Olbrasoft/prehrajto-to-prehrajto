@@ -106501,6 +106501,25 @@
         "download_sec": 25.0,
         "upload_sec": 32.4
       }
+    },
+    {
+      "cr_film_id": 22137,
+      "cr_slug": "temna-hvezda",
+      "title": "Temná Hvězda",
+      "year": 1974,
+      "display_name": "Temná Hvězda (1974) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "609e0bd83f6ee",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26941258,
+      "size_bytes": 483028598,
+      "uploaded_at": "2026-06-29T00:29:55Z",
+      "timing": {
+        "resolve_sec": 3.2,
+        "download_sec": 18.1,
+        "upload_sec": 30.4
+      }
     }
   ],
   "failed_attempts": [
@@ -109528,5 +109547,5 @@
       "failed_at": "2026-06-28T23:42:54Z"
     }
   ],
-  "last_updated": "2026-06-29T00:28:23Z"
+  "last_updated": "2026-06-29T00:29:55Z"
 }
