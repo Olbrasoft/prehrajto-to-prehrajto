@@ -43285,3 +43285,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:30:12]   upload done video_id=26997377 in 50.6s
 [15:30:14] film cr_film_id=23034 OK in 93.9s
 [15:30:14] batch-end ok=20 failed=0 dur=3829.3s avg/film=191.5s remaining=11548 eta_hours=614.3
+
+===== run 2026-06-29T15:30:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28383540921) =====
+[15:30:57] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:30:57] batch-start shard=0/2 count=20 backlog=17650 uploads=6102 failed_attempts=479 description_overrides=17579
+[15:30:57] login
+[15:30:58] login done
+[15:30:58] iteration 1/20
+[15:30:58] film cr_film_id=23036 name='Dům k pověšení (1988) CZ' candidates=1
+[15:30:58]   candidate upload_id=5895e3e3696d3 url=https://prehraj.to/dum-k-poveseni-dom-za-vesanje-1988-cz-tit/5895e3e3696d3
+[15:31:00]   resolved in 1.5s → 480p (https://pf-storage4.premiumcdn.net/1619466/kZ5IBEUbXi5LFBwfz9SpaUw4fvECGYUdgtAPH…)
+[15:31:53]   downloaded 895.1 MB in 51.2s (17.5 MB/s)
+[15:33:12]   upload done video_id=26997430 in 79.1s
