@@ -111574,6 +111574,25 @@
         "download_sec": 59.9,
         "upload_sec": 70.8
       }
+    },
+    {
+      "cr_film_id": 23119,
+      "cr_slug": "svindliri-1990",
+      "title": "Švindlíři",
+      "year": 1990,
+      "display_name": "Švindlíři (1990) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "569af48dd2463",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26979738,
+      "size_bytes": 596960279,
+      "uploaded_at": "2026-06-29T10:28:06Z",
+      "timing": {
+        "resolve_sec": 2.5,
+        "download_sec": 38.2,
+        "upload_sec": 48.8
+      }
     }
   ],
   "failed_attempts": [
@@ -114622,5 +114641,5 @@
       "failed_at": "2026-06-29T09:32:52Z"
     }
   ],
-  "last_updated": "2026-06-29T10:26:32Z"
+  "last_updated": "2026-06-29T10:28:06Z"
 }
