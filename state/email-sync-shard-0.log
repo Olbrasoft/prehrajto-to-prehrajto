@@ -42404,3 +42404,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:07:50]   upload done video_id=26979259 in 27.5s
 [10:07:52] film cr_film_id=22550 OK in 49.6s
 [10:07:52] batch-end ok=20 failed=0 dur=3308.5s avg/film=165.4s remaining=11667 eta_hours=536.0
+
+===== run 2026-06-29T10:08:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28364462378) =====
+[10:08:32] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:08:32] batch-start shard=0/2 count=20 backlog=17650 uploads=5983 failed_attempts=478 description_overrides=17579
+[10:08:32] login
+[10:08:34] login done
+[10:08:34] iteration 1/20
+[10:08:34] film cr_film_id=22552 name='Souboj Titánů (1981) CZ Dabing' candidates=6
+[10:08:34]   candidate upload_id=67384e9fdab13 url=https://prehraj.to/souboj-titanu-1981-cz-dab/67384e9fdab13
+[10:08:35]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/106730687/gDyFBXipBUa3UoRT6RfAZiVEuG1CngFm8S6…)
+[10:09:02]   downloaded 724.8 MB in 24.7s (29.3 MB/s)
+[10:09:42]   upload done video_id=26979294 in 40.1s
