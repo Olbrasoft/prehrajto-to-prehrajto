@@ -44106,3 +44106,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:04:15]   upload done video_id=27002814 in 43.7s
 [21:04:17] film cr_film_id=23767 OK in 77.1s
 [21:04:17] batch-end ok=20 failed=0 dur=3891.7s avg/film=194.6s remaining=11435 eta_hours=618.1
+
+===== run 2026-06-29T21:28:14Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28403833158) =====
+[21:28:16] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:28:16] batch-start shard=1/2 count=20 backlog=17650 uploads=6215 failed_attempts=419 description_overrides=17579
+[21:28:16] login
+[21:28:18] login done
+[21:28:18] iteration 1/20
+[21:28:18] film cr_film_id=23771 name='Příběh zločinu (1995) CZ' candidates=1
+[21:28:18]   candidate upload_id=5aa4548db9563 url=https://prehraj.to/pribeh-zlocinu-1995/5aa4548db9563
+[21:28:19]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/3592869/51LFeOfa5F1eUAVHGVFBPfn6HaNiyDURdcZ6h…)
+[21:28:56]   downloaded 1,011.4 MB in 35.7s (28.3 MB/s)
+[21:30:06]   upload done video_id=27003052 in 69.4s
