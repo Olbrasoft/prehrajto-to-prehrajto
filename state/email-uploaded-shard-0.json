@@ -113826,6 +113826,25 @@
         "download_sec": 29.0,
         "upload_sec": 44.4
       }
+    },
+    {
+      "cr_film_id": 23234,
+      "cr_slug": "opojeni",
+      "title": "Opojení",
+      "year": 1991,
+      "display_name": "Opojení (1991) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55df21e52ccbe",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26999847,
+      "size_bytes": 501557694,
+      "uploaded_at": "2026-06-29T17:43:47Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.7,
+        "upload_sec": 41.0
+      }
     }
   ],
   "failed_attempts": [
@@ -117253,5 +117272,5 @@
       "failed_at": "2026-06-29T11:52:06Z"
     }
   ],
-  "last_updated": "2026-06-29T17:42:36Z"
+  "last_updated": "2026-06-29T17:43:47Z"
 }
