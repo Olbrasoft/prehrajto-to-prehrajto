@@ -107157,6 +107157,25 @@
         "download_sec": 25.4,
         "upload_sec": 56.0
       }
+    },
+    {
+      "cr_film_id": 21868,
+      "cr_slug": "pasa",
+      "title": "Paša",
+      "year": 1968,
+      "display_name": "Paša (1968) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6126a90fc2613",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 26952804,
+      "size_bytes": 1077196895,
+      "uploaded_at": "2026-06-29T03:17:34Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 48.3,
+        "upload_sec": 78.9
+      }
     }
   ],
   "failed_attempts": [
@@ -110566,5 +110585,5 @@
       "failed_at": "2026-06-29T02:49:53Z"
     }
   ],
-  "last_updated": "2026-06-29T03:15:22Z"
+  "last_updated": "2026-06-29T03:17:34Z"
 }
