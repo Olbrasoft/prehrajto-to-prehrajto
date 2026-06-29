@@ -41669,3 +41669,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:17:33]   upload done video_id=26963418 in 209.7s
 [06:17:35] film cr_film_id=22154 OK in 258.8s
 [06:17:35] batch-end ok=20 failed=0 dur=3194.9s avg/film=159.7s remaining=11767 eta_hours=522.0
+
+===== run 2026-06-29T06:28:14Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28353030058) =====
+[06:28:16] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:28:16] batch-start shard=0/2 count=20 backlog=17650 uploads=5883 failed_attempts=478 description_overrides=17579
+[06:28:16] login
+[06:28:18] login done
+[06:28:18] iteration 1/20
+[06:28:18] film cr_film_id=22166 name='Vražedný vřískot (1973) CZ' candidates=1
+[06:28:18]   candidate upload_id=5a8de43275b3e url=https://prehraj.to/vrazedny-vriskot-1973/5a8de43275b3e
+[06:28:19]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/3437596/x7EukZUoOhO2U1lfWbcA7UZ4i4PfX6S02SMOH…)
+[06:28:49]   downloaded 492.5 MB in 28.3s (17.4 MB/s)
+[06:29:48]   upload done video_id=26964398 in 58.3s
