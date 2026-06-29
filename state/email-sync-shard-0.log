@@ -44166,3 +44166,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:28:36]   upload done video_id=27003560 in 35.7s
 [22:28:38] film cr_film_id=23508 OK in 59.7s
 [22:28:38] batch-end ok=19 failed=1 dur=1447.9s avg/film=76.2s remaining=11429 eta_hours=241.9
+
+===== run 2026-06-29T22:43:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28407553535) =====
+[22:43:22] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:43:22] batch-start shard=0/2 count=20 backlog=17650 uploads=6221 failed_attempts=480 description_overrides=17579
+[22:43:22] login
+[22:43:24] login done
+[22:43:24] iteration 1/20
+[22:43:24] film cr_film_id=23514 name='Ďábelská svůdkyně (1994) CZ Dabing' candidates=5
+[22:43:24]   candidate upload_id=678bc7f7e69ca url=https://prehraj.to/dabelska-svudkyne-linda-fiorentino-peter-berg-bill-pullman-1994-krimi-thriller-drama-bdrip-1080p-cz-dabing/678bc7f7e69ca
+[22:43:25]   resolved in 1.0s → 1080p (https://pf-storage1.premiumcdn.net/127693361/RGRF7BT8ECZls89tAVH9BT3gCqAIQEugEUJ…)
+[22:45:18]   downloaded 4,032.4 MB in 112.2s (35.9 MB/s)
+[22:47:46]   upload done video_id=27003672 in 147.2s
