@@ -40436,3 +40436,14 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:09:01]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1414370/qJ9s39FKRcr7uY6FRwukEF8qH76S6LhqeCm8T…)
 [00:09:41]   downloaded 815.9 MB in 37.5s (21.8 MB/s)
 [00:10:51]   upload done video_id=26939575 in 70.5s
+[00:10:53] film cr_film_id=21532 OK in 113.0s
+[00:10:53] iteration 14/20
+[00:10:53] film cr_film_id=21536 name='Pyšný rebel (1958) CZ Dabing' candidates=3
+[00:10:53]   candidate upload_id=5828b2cca8fd6 url=https://prehraj.to/pysny-rebel-cz-dabing-1958-by-kamer/5828b2cca8fd6
+[00:10:54]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/860667/p23uxZsZou6oimjfZwczMsqGuKdf06iQ0TbdfL…)
+[00:12:06]   downloaded 1,628.4 MB in 69.7s (23.4 MB/s)
+[00:12:06]   upload FAILED after 0.0s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[00:12:06]   candidate upload_id=57dd9ed09dbdc url=https://prehraj.to/pysny-rebel-cz-dabing-1958/57dd9ed09dbdc
+[00:12:07]   resolved in 0.9s → 720p (https://pf-storage5.premiumcdn.net/646574/9wgFjQSlQcKyTGnT7LUYnSQzFNLCPMiwyhVDca…)
+[00:13:18]   downloaded 1,628.4 MB in 68.6s (23.7 MB/s)
+[00:14:42]   upload done video_id=26939925 in 84.5s
