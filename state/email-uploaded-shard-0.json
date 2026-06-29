@@ -111641,6 +111641,25 @@
         "download_sec": 25.9,
         "upload_sec": 83.3
       }
+    },
+    {
+      "cr_film_id": 22812,
+      "cr_slug": "slovo-policajta",
+      "title": "Slovo policajta",
+      "year": 1985,
+      "display_name": "Slovo policajta (1985) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5841667c0f2bd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 26987156,
+      "size_bytes": 838567179,
+      "uploaded_at": "2026-06-29T12:09:48Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.8,
+        "upload_sec": 44.3
+      }
     }
   ],
   "failed_attempts": [
@@ -115068,5 +115087,5 @@
       "failed_at": "2026-06-29T11:52:06Z"
     }
   ],
-  "last_updated": "2026-06-29T12:08:34Z"
+  "last_updated": "2026-06-29T12:09:48Z"
 }
