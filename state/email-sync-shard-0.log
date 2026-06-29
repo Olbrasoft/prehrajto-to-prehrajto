@@ -41963,3 +41963,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:37:51]   upload done video_id=26969681 in 112.7s
 [07:37:53] film cr_film_id=22324 OK in 170.7s
 [07:37:53] batch-end ok=20 failed=0 dur=1901.3s avg/film=95.1s remaining=11727 eta_hours=309.8
+
+===== run 2026-06-29T07:38:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28356251525) =====
+[07:38:35] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:38:35] batch-start shard=0/2 count=20 backlog=17650 uploads=5923 failed_attempts=478 description_overrides=17579
+[07:38:35] login
+[07:38:38] login done
+[07:38:38] iteration 1/20
+[07:38:38] film cr_film_id=22326 name='Vzestup (1977) CZ Dabing' candidates=1
+[07:38:38]   candidate upload_id=602726314f72b url=https://prehraj.to/vzestup-1977-czdab/602726314f72b
+[07:38:40]   resolved in 1.7s → 480p (https://pf-storage3.premiumcdn.net/22173890/053FExfyAIrDteWFWQCGnf3DcmQU2OhjDcZp…)
+[07:39:29]   downloaded 690.4 MB in 46.6s (14.8 MB/s)
+[07:40:51]   upload done video_id=26969994 in 81.9s
