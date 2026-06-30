@@ -46371,3 +46371,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:33:49]   upload done video_id=27008950 in 47.3s
 [08:33:51] film cr_film_id=24552 OK in 77.6s
 [08:33:51] batch-end ok=20 failed=0 dur=1565.7s avg/film=78.3s remaining=11130 eta_hours=242.1
+
+===== run 2026-06-30T08:41:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28431669432) =====
+[08:41:52] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:41:52] batch-start shard=0/2 count=20 backlog=17650 uploads=6520 failed_attempts=481 description_overrides=17579
+[08:41:52] login
+[08:41:54] login done
+[08:41:54] iteration 1/20
+[08:41:54] film cr_film_id=24556 name='Aféry mé ženy (1973) CZ' candidates=2
+[08:41:54]   candidate upload_id=68ac38e40d4e6 url=https://prehraj.to/afery-me-zeny-1973/68ac38e40d4e6
+[08:41:55]   resolved in 1.5s → 1080p (https://pf-storage4.premiumcdn.net/144518025/75EcwaiNKirGfVysa9tRbiE3hn1CZlFE4sa…)
+[08:43:49]   downloaded 2,506.3 MB in 111.4s (22.5 MB/s)
+[08:46:17]   upload done video_id=27009028 in 148.7s
