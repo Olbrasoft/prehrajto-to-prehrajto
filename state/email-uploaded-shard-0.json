@@ -119450,6 +119450,25 @@
         "download_sec": 69.7,
         "upload_sec": 86.9
       }
+    },
+    {
+      "cr_film_id": 24278,
+      "cr_slug": "vychod-zapad",
+      "title": "Východ-Západ",
+      "year": 1999,
+      "display_name": "Východ-Západ (1999) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5bfc496d0558c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27007563,
+      "size_bytes": 622772047,
+      "uploaded_at": "2026-06-30T06:16:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 27.8,
+        "upload_sec": 37.9
+      }
     }
   ],
   "failed_attempts": [
@@ -122884,5 +122903,5 @@
       "failed_at": "2026-06-29T22:20:19Z"
     }
   ],
-  "last_updated": "2026-06-30T06:15:13Z"
+  "last_updated": "2026-06-30T06:16:24Z"
 }
