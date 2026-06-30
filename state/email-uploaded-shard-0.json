@@ -120609,6 +120609,25 @@
         "download_sec": 21.7,
         "upload_sec": 37.7
       }
+    },
+    {
+      "cr_film_id": 24510,
+      "cr_slug": "stred-sveta",
+      "title": "Střed světa",
+      "year": 2001,
+      "display_name": "Střed světa (2001) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ac4e1f433a30",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27008829,
+      "size_bytes": 987545009,
+      "uploaded_at": "2026-06-30T08:20:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.0,
+        "upload_sec": 44.5
+      }
     }
   ],
   "failed_attempts": [
@@ -124055,5 +124074,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-30T08:18:51Z"
+  "last_updated": "2026-06-30T08:20:13Z"
 }
