@@ -45783,3 +45783,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:49:56]   upload done video_id=27007346 in 36.2s
 [05:49:57] film cr_film_id=24252 OK in 65.0s
 [05:49:57] batch-end ok=20 failed=0 dur=1519.2s avg/film=76.0s remaining=11209 eta_hours=236.6
+
+===== run 2026-06-30T06:05:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28423953201) =====
+[06:05:28] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:05:28] batch-start shard=0/2 count=20 backlog=17650 uploads=6441 failed_attempts=480 description_overrides=17579
+[06:05:28] login
+[06:05:29] login done
+[06:05:29] iteration 1/20
+[06:05:29] film cr_film_id=24258 name='Zlaté kapradí (1963) CZ' candidates=1
+[06:05:29]   candidate upload_id=5e1c771e06a33 url=https://prehraj.to/zlate-kapradi-cssr-1963-cz/5e1c771e06a33
+[06:05:31]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/15655099/OeyFlBuP4HnWHJyhWycBMuG5CbGhk8t59sNw…)
+[06:06:23]   downloaded 1,196.4 MB in 50.8s (23.6 MB/s)
+[06:07:25]   upload done video_id=27007487 in 61.5s
