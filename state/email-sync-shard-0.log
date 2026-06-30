@@ -46224,3 +46224,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:42:54]   upload done video_id=27008500 in 48.9s
 [07:42:56] film cr_film_id=24474 OK in 84.5s
 [07:42:56] batch-end ok=20 failed=0 dur=1535.6s avg/film=76.8s remaining=11150 eta_hours=237.9
+
+===== run 2026-06-30T08:07:42Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28429811063) =====
+[08:07:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:07:44] batch-start shard=0/2 count=20 backlog=17650 uploads=6500 failed_attempts=481 description_overrides=17579
+[08:07:44] login
+[08:07:45] login done
+[08:07:45] iteration 1/20
+[08:07:45] film cr_film_id=24476 name='Jestřáb kontra Hrdlička (1953) CZ' candidates=2
+[08:07:45]   candidate upload_id=5843ba56a58a1 url=https://prehraj.to/jestrab-kontra-hrdlicka-1953-cz/5843ba56a58a1
+[08:07:46]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/991374/zbVfMLcWNF0bhkYSeACQgcWqSO1tXwUB5te9SK…)
+[08:08:10]   downloaded 614.3 MB in 22.6s (27.2 MB/s)
+[08:08:56]   upload done video_id=27008734 in 45.9s
