@@ -121521,6 +121521,25 @@
         "download_sec": 18.0,
         "upload_sec": 50.5
       }
+    },
+    {
+      "cr_film_id": 24674,
+      "cr_slug": "nepritel-2002",
+      "title": "Nepřítel",
+      "year": 2002,
+      "display_name": "Nepřítel (2002) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "63d8e7113db6d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27009770,
+      "size_bytes": 2908291286,
+      "uploaded_at": "2026-06-30T09:58:14Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 79.5,
+        "upload_sec": 215.0
+      }
     }
   ],
   "failed_attempts": [
@@ -124974,5 +124993,5 @@
       "failed_at": "2026-06-30T09:49:11Z"
     }
   ],
-  "last_updated": "2026-06-30T09:53:15Z"
+  "last_updated": "2026-06-30T09:58:14Z"
 }
