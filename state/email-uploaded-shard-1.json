@@ -122727,6 +122727,25 @@
         "download_sec": 80.2,
         "upload_sec": 42.5
       }
+    },
+    {
+      "cr_film_id": 25017,
+      "cr_slug": "perly-a-svine",
+      "title": "Perly a svině",
+      "year": 2003,
+      "display_name": "Perly a svině (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aa167c4674f9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27010432,
+      "size_bytes": 723720528,
+      "uploaded_at": "2026-06-30T10:48:47Z",
+      "timing": {
+        "resolve_sec": 2.8,
+        "download_sec": 41.7,
+        "upload_sec": 57.6
+      }
     }
   ],
   "failed_attempts": [
@@ -125803,5 +125822,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T10:47:00Z"
+  "last_updated": "2026-06-30T10:48:47Z"
 }
