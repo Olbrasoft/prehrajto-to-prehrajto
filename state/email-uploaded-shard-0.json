@@ -119146,6 +119146,25 @@
         "download_sec": 17.9,
         "upload_sec": 30.9
       }
+    },
+    {
+      "cr_film_id": 24208,
+      "cr_slug": "svedomi",
+      "title": "Svědomí",
+      "year": 1948,
+      "display_name": "Svědomí (1948) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60b4a9049ce44",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27007278,
+      "size_bytes": 570907526,
+      "uploaded_at": "2026-06-30T05:37:46Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 22.4,
+        "upload_sec": 29.8
+      }
     }
   ],
   "failed_attempts": [
@@ -122580,5 +122599,5 @@
       "failed_at": "2026-06-29T22:20:19Z"
     }
   ],
-  "last_updated": "2026-06-30T05:36:51Z"
+  "last_updated": "2026-06-30T05:37:46Z"
 }
