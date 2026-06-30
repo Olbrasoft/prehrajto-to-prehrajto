@@ -124133,6 +124133,25 @@
         "download_sec": 15.2,
         "upload_sec": 18.7
       }
+    },
+    {
+      "cr_film_id": 25247,
+      "cr_slug": "cerna-dahlia",
+      "title": "Černá Dahlia",
+      "year": 2006,
+      "display_name": "Černá Dahlia (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a8c21849d99c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27012319,
+      "size_bytes": 481254287,
+      "uploaded_at": "2026-06-30T12:40:15Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.6,
+        "upload_sec": 25.2
+      }
     }
   ],
   "failed_attempts": [
@@ -127209,5 +127228,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T12:39:27Z"
+  "last_updated": "2026-06-30T12:40:15Z"
 }
