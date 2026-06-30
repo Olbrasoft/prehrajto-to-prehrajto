@@ -48371,3 +48371,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:58:37]   upload done video_id=27017963 in 23.3s
 [15:58:39] film cr_film_id=25599 OK in 43.4s
 [15:58:39] batch-end ok=20 failed=0 dur=2089.7s avg/film=104.5s remaining=10856 eta_hours=315.1
+
+===== run 2026-06-30T15:59:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28458013789) =====
+[15:59:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:59:28] batch-start shard=1/2 count=20 backlog=17650 uploads=6794 failed_attempts=422 description_overrides=17579
+[15:59:28] login
+[15:59:29] login done
+[15:59:29] iteration 1/20
+[15:59:29] film cr_film_id=25605 name='Duhová panna (2000) CZ Dabing' candidates=1
+[15:59:29]   candidate upload_id=6036b195341a3 url=https://prehraj.to/duhova-panna-2000-czdab/6036b195341a3
+[15:59:31]   resolved in 1.3s → 1080p (https://pf-storage1.premiumcdn.net/22414637/REZh0jUX6I3qUnVty6fokU9bHlMCYBCLnsPL…)
+[16:01:45]   downloaded 2,726.3 MB in 131.7s (20.7 MB/s)
+[16:04:57]   upload done video_id=27018022 in 192.9s
