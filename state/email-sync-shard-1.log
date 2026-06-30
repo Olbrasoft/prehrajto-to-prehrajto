@@ -45135,3 +45135,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:59:45]   upload done video_id=27005175 in 47.1s
 [01:59:47] film cr_film_id=24223 OK in 72.8s
 [01:59:47] batch-end ok=20 failed=0 dur=1944.7s avg/film=97.2s remaining=11296 eta_hours=305.0
+
+===== run 2026-06-30T02:00:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28415152755) =====
+[02:00:28] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:00:28] batch-start shard=1/2 count=20 backlog=17650 uploads=6354 failed_attempts=421 description_overrides=17579
+[02:00:28] login
+[02:00:30] login done
+[02:00:30] iteration 1/20
+[02:00:30] film cr_film_id=24225 name='Hodíme se k sobě, miláčku...? (1975) CZ Dabing' candidates=7
+[02:00:30]   candidate upload_id=55c2c80935585 url=https://prehraj.to/hodime-se-k-sobe-milacku-1974-czdab/55c2c80935585
+[02:00:31]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/75498/opMfKxHGNUmjsjESNgfO6HEwtWphYRTXyF5KCm5…)
+[02:00:53]   downloaded 544.6 MB in 21.4s (25.4 MB/s)
+[02:01:19]   upload done video_id=27005196 in 25.2s
