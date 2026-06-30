@@ -45282,3 +45282,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:38:25]   upload done video_id=27005534 in 65.4s
 [02:38:27] film cr_film_id=24285 OK in 119.2s
 [02:38:27] batch-end ok=20 failed=0 dur=2277.4s avg/film=113.9s remaining=11276 eta_hours=356.8
+
+===== run 2026-06-30T02:39:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28416515607) =====
+[02:39:02] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:39:02] batch-start shard=1/2 count=20 backlog=17650 uploads=6374 failed_attempts=421 description_overrides=17579
+[02:39:02] login
+[02:39:03] login done
+[02:39:03] iteration 1/20
+[02:39:04] film cr_film_id=24287 name='Tajemství staré půdy (1984) CZ' candidates=1
+[02:39:04]   candidate upload_id=5a9d0144684ca url=https://prehraj.to/tajemstvi-stare-pudy-1984/5a9d0144684ca
+[02:39:04]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3542451/08mTn1i7atrXIpxtwPcrMiqJIy3hD5FAyF0ps…)
+[02:39:28]   downloaded 605.9 MB in 21.9s (27.7 MB/s)
+[02:40:05]   upload done video_id=27005547 in 36.8s
