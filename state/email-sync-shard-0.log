@@ -49203,3 +49203,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:32:32]   upload done video_id=27029483 in 171.6s
 [23:32:35] film cr_film_id=25666 OK in 293.4s
 [23:32:35] batch-end ok=20 failed=0 dur=2099.1s avg/film=105.0s remaining=10751 eta_hours=313.6
+
+===== run 2026-06-30T23:34:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28482792000) =====
+[23:34:28] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:34:28] batch-start shard=0/2 count=20 backlog=17650 uploads=6899 failed_attempts=491 description_overrides=17579
+[23:34:28] login
+[23:34:29] login done
+[23:34:29] iteration 1/20
+[23:34:29] film cr_film_id=25668 name='Jak chutná láska (2002) CZ' candidates=2
+[23:34:29]   candidate upload_id=5a96d8a334cb2 url=https://prehraj.to/jak-chutna-laska-2002/5a96d8a334cb2
+[23:34:31]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/3504779/M0pIl9U4WCGYSk2Iy3tYPUvwhrnhVpfL5i9VC…)
+[23:35:19]   downloaded 948.2 MB in 46.6s (20.3 MB/s)
+[23:36:14]   upload done video_id=27029643 in 54.7s
