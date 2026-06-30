@@ -116581,6 +116581,25 @@
         "download_sec": 34.0,
         "upload_sec": 47.8
       }
+    },
+    {
+      "cr_film_id": 23792,
+      "cr_slug": "osudova-sazka",
+      "title": "Osudová sázka",
+      "year": 1998,
+      "display_name": "Osudová sázka (1998) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d62d457af50",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27004860,
+      "size_bytes": 559111843,
+      "uploaded_at": "2026-06-30T01:20:35Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 23.8,
+        "upload_sec": 39.0
+      }
     }
   ],
   "failed_attempts": [
@@ -120015,5 +120034,5 @@
       "failed_at": "2026-06-29T22:20:19Z"
     }
   ],
-  "last_updated": "2026-06-30T01:19:23Z"
+  "last_updated": "2026-06-30T01:20:35Z"
 }
