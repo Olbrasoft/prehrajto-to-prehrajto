@@ -45930,3 +45930,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:39:46]   upload done video_id=27007794 in 29.2s
 [06:39:47] film cr_film_id=24318 OK in 50.8s
 [06:39:47] batch-end ok=20 failed=0 dur=2058.2s avg/film=102.9s remaining=11189 eta_hours=319.8
+
+===== run 2026-06-30T06:40:29Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28425449700) =====
+[06:40:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:40:31] batch-start shard=0/2 count=20 backlog=17650 uploads=6461 failed_attempts=480 description_overrides=17579
+[06:40:31] login
+[06:40:33] login done
+[06:40:33] iteration 1/20
+[06:40:33] film cr_film_id=24338 name='Vyhnanec (1999) CZ Dabing' candidates=2
+[06:40:33]   candidate upload_id=6208d5aa9b17b url=https://prehraj.to/vyhnanec-1999-1080p-cz-tit-cz-dab/6208d5aa9b17b
+[06:40:34]   resolved in 1.4s → 720p (https://pf-storage4.premiumcdn.net/29318337/GdLIr3cRJt65ivLuZYFRLcGrUm4Iwps7DTEZ…)
+[06:41:49]   downloaded 1,328.1 MB in 72.8s (18.2 MB/s)
+[06:43:33]   upload done video_id=27007822 in 104.1s
