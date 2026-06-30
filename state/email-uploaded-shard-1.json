@@ -125710,6 +125710,25 @@
         "download_sec": 15.7,
         "upload_sec": 15.7
       }
+    },
+    {
+      "cr_film_id": 25517,
+      "cr_slug": "skryte-ostri",
+      "title": "Skryté ostří",
+      "year": 2004,
+      "display_name": "Skryté ostří (2004) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5dc29e6a56cfc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27017287,
+      "size_bytes": 781789740,
+      "uploaded_at": "2026-06-30T15:14:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 27.9,
+        "upload_sec": 44.4
+      }
     }
   ],
   "failed_attempts": [
@@ -128793,5 +128812,5 @@
       "failed_at": "2026-06-30T14:35:49Z"
     }
   ],
-  "last_updated": "2026-06-30T15:13:34Z"
+  "last_updated": "2026-06-30T15:14:50Z"
 }
