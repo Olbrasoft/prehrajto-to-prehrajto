@@ -47634,3 +47634,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:50:35]   upload done video_id=27012469 in 60.5s
 [12:50:37] film cr_film_id=25271 OK in 93.5s
 [12:50:37] batch-end ok=20 failed=0 dur=1558.2s avg/film=77.9s remaining=10956 eta_hours=237.1
+
+===== run 2026-06-30T12:59:01Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28446099957) =====
+[12:59:03] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:59:03] batch-start shard=1/2 count=20 backlog=17650 uploads=6694 failed_attempts=421 description_overrides=17579
+[12:59:03] login
+[12:59:04] login done
+[12:59:04] iteration 1/20
+[12:59:04] film cr_film_id=25275 name='Robinson Crusoe (2003) CZ Dabing' candidates=6
+[12:59:04]   candidate upload_id=5c2c36819d632 url=https://prehraj.to/robinson-crusoe-dil-1-2003-cz-dabing/5c2c36819d632
+[12:59:06]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/10344350/023HaMFJrTMpH82t9puEGFyQuYxtoRHb9C48…)
+[12:59:48]   downloaded 1,158.4 MB in 41.2s (28.1 MB/s)
+[13:00:51]   upload done video_id=27013302 in 62.1s
