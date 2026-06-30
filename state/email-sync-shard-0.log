@@ -47847,3 +47847,32 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:49:25]   upload done video_id=27016636 in 31.2s
 [14:49:27] film cr_film_id=25140 OK in 56.5s
 [14:49:27] batch-end ok=20 failed=0 dur=1554.5s avg/film=77.7s remaining=10930 eta_hours=235.9
+
+===== run 2026-06-30T14:57:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28453923223) =====
+[14:57:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:57:27] batch-start shard=0/2 count=20 backlog=17650 uploads=6720 failed_attempts=483 description_overrides=17579
+[14:57:27] login
+[14:57:29] login done
+[14:57:29] iteration 1/20
+[14:57:29] film cr_film_id=25142 name='Volavka II (2003) CZ Dabing' candidates=2
+[14:57:29]   candidate upload_id=56a06476a12c1 url=https://prehraj.to/volavka-2-cz-dabing-2003/56a06476a12c1
+[15:01:43]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fvolavka-2-cz-dabing-2003%2F56a06476a12c1 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f6237fca5d0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/volavka-2-cz-dabing-2003/56a06476a12c1 (permanent=False)
+[15:01:44]   candidate upload_id=56a2e2c972704 url=https://prehraj.to/volavka-2-cz-dabing-2003/56a2e2c972704
+[15:05:58]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fvolavka-2-cz-dabing-2003%2F56a2e2c972704 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f623803c7d0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/volavka-2-cz-dabing-2003/56a2e2c972704 (permanent=False)
+[15:05:58] film cr_film_id=25142 all candidates exhausted
+[15:05:58] iteration 2/20
+[15:05:58] film cr_film_id=25146 name='Arachnia: Nestvůry útočí (2003) CZ' candidates=1
+[15:05:58]   candidate upload_id=55adba9da2a14 url=https://prehraj.to/arachnia-nestvury-utoci-2003-filmy-kinotip-cz-online-filmy-zdarma/55adba9da2a14
+[15:10:12]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Farachnia-nestvury-utoci-2003-filmy-kinotip-cz-online-filmy-zdarma%2F55adba9da2a14 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f6237fca810>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/arachnia-nestvury-utoci-2003-filmy-kinotip-cz-online-filmy-zdarma/55adba9da2a14 (permanent=False)
+[15:10:12] film cr_film_id=25146 all candidates exhausted
+[15:10:12] iteration 3/20
+[15:10:12] film cr_film_id=25148 name='Španglicky snadno a rychle (2004) CZ Dabing' candidates=3
+[15:10:12]   candidate upload_id=602fa4297d2c3 url=https://prehraj.to/spanglicky-snadno-a-rychle-2004-komedie-czdab-a-sandler-t-leoni-pap/602fa4297d2c3
+[15:14:30]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fspanglicky-snadno-a-rychle-2004-komedie-czdab-a-sandler-t-leoni-pap%2F602fa4297d2c3 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f623803dcd0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/spanglicky-snadno-a-rychle-2004-komedie-czdab-a-sandler-t-leoni-pap/602fa4297d2c3 (permanent=False)
+[15:14:30]   candidate upload_id=680df2e3cb961 url=https://prehraj.to/spanglicky-snadno-a-rychle-2004-fullhd-cz-dab/680df2e3cb961
+[15:18:44]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fspanglicky-snadno-a-rychle-2004-fullhd-cz-dab%2F680df2e3cb961 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f6237fcb8f0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/spanglicky-snadno-a-rychle-2004-fullhd-cz-dab/680df2e3cb961 (permanent=False)
+[15:18:44]   candidate upload_id=5ac2193acf53e url=https://prehraj.to/spanglicky-snadno-a-rychle-2004/5ac2193acf53e
+[15:22:59]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fspanglicky-snadno-a-rychle-2004%2F5ac2193acf53e (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7f623803f290>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/spanglicky-snadno-a-rychle-2004/5ac2193acf53e (permanent=False)
+[15:22:59] film cr_film_id=25148 all candidates exhausted
+[15:22:59] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
+[15:22:59] batch-end ok=0 failed=3 dur=1530.1s avg/film=0s remaining=10930 eta_hours=None
