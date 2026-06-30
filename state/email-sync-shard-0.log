@@ -45048,3 +45048,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:27:13]   upload done video_id=27005466 in 38.0s
 [02:27:15] film cr_film_id=23922 OK in 66.6s
 [02:27:15] batch-end ok=20 failed=0 dur=1607.8s avg/film=80.4s remaining=11309 eta_hours=252.6
+
+===== run 2026-06-30T02:39:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28416515607) =====
+[02:39:05] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:39:05] batch-start shard=0/2 count=20 backlog=17650 uploads=6341 failed_attempts=480 description_overrides=17579
+[02:39:05] login
+[02:39:07] login done
+[02:39:07] iteration 1/20
+[02:39:07] film cr_film_id=23924 name='Píseň pro nevěstu (1998) CZ Dabing' candidates=10
+[02:39:07]   candidate upload_id=5b4ae45eac823 url=https://prehraj.to/pisen-pro-nevestu-1998-cz-dabing/5b4ae45eac823
+[02:39:08]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/4845166/l83iwquvdF7MFPLhA9IWBuQXUzVhMEhAlUZxt…)
+[02:39:39]   downloaded 599.0 MB in 28.8s (20.8 MB/s)
+[02:40:25]   upload done video_id=27005550 in 46.4s
