@@ -47876,3 +47876,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:22:59] film cr_film_id=25148 all candidates exhausted
 [15:22:59] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
 [15:22:59] batch-end ok=0 failed=3 dur=1530.1s avg/film=0s remaining=10930 eta_hours=None
+
+===== run 2026-06-30T15:23:49Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28455704312) =====
+[15:23:51] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:23:51] batch-start shard=0/2 count=20 backlog=17650 uploads=6720 failed_attempts=489 description_overrides=17579
+[15:23:51] login
+[15:23:53] login done
+[15:23:53] iteration 1/20
+[15:23:53] film cr_film_id=25142 name='Volavka II (2003) CZ Dabing' candidates=2
+[15:23:53]   candidate upload_id=56a06476a12c1 url=https://prehraj.to/volavka-2-cz-dabing-2003/56a06476a12c1
+[15:23:54]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/348903/j1nC0mhQoTDyTEYFpAUO2h73sl9cN0u8nCGQUN…)
+[15:24:26]   downloaded 580.1 MB in 30.3s (19.1 MB/s)
+[15:24:57]   upload done video_id=27017451 in 31.0s
