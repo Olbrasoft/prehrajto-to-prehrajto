@@ -119630,6 +119630,25 @@
         "download_sec": 47.4,
         "upload_sec": 70.2
       }
+    },
+    {
+      "cr_film_id": 24523,
+      "cr_slug": "sikana",
+      "title": "Šikana",
+      "year": 2001,
+      "display_name": "Šikana (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b749c6774566",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27007007,
+      "size_bytes": 470143250,
+      "uploaded_at": "2026-06-30T05:08:59Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 17.4,
+        "upload_sec": 30.0
+      }
     }
   ],
   "failed_attempts": [
@@ -122706,5 +122725,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T05:08:07Z"
+  "last_updated": "2026-06-30T05:08:59Z"
 }
