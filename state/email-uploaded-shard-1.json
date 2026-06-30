@@ -126736,6 +126736,25 @@
         "download_sec": 14.0,
         "upload_sec": 17.2
       }
+    },
+    {
+      "cr_film_id": 25697,
+      "cr_slug": "nevesta-1971",
+      "title": "Nevesta",
+      "year": 1971,
+      "display_name": "Nevesta (1971) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5859d7f747388",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27018988,
+      "size_bytes": 848308789,
+      "uploaded_at": "2026-06-30T16:43:43Z",
+      "timing": {
+        "resolve_sec": 2.1,
+        "download_sec": 32.2,
+        "upload_sec": 32.6
+      }
     }
   ],
   "failed_attempts": [
@@ -129819,5 +129838,5 @@
       "failed_at": "2026-06-30T14:35:49Z"
     }
   ],
-  "last_updated": "2026-06-30T16:42:33Z"
+  "last_updated": "2026-06-30T16:43:43Z"
 }
