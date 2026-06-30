@@ -48611,3 +48611,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [20:15:01]   upload done video_id=27025113 in 30.1s
 [20:15:03] film cr_film_id=25436 OK in 52.5s
 [20:15:03] batch-end ok=19 failed=1 dur=3530.9s avg/film=185.8s remaining=10831 eta_hours=559.0
+
+===== run 2026-06-30T21:16:59Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28476442345) =====
+[21:17:01] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:17:01] batch-start shard=0/2 count=20 backlog=17650 uploads=6819 failed_attempts=490 description_overrides=17579
+[21:17:01] login
+[21:17:02] login done
+[21:17:02] iteration 1/20
+[21:17:02] film cr_film_id=25396 name='Tygr a sníh (2005) CZ Dabing' candidates=1
+[21:17:02]   candidate upload_id=5d74e18a3f399 url=https://prehraj.to/tygr-a-snih-2005-cz-dab/5d74e18a3f399
+[21:17:03]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/14792409/3YxFQVToAtDMfPGuqJU7qT9LsR6sxzcGaFwY…)
+[21:18:18]   downloaded 2,140.1 MB in 72.5s (29.5 MB/s)
+[21:19:59]   upload done video_id=27026829 in 101.4s
