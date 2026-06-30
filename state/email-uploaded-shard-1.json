@@ -121720,6 +121720,25 @@
         "download_sec": 13.7,
         "upload_sec": 27.1
       }
+    },
+    {
+      "cr_film_id": 24847,
+      "cr_slug": "valecny-fotograf",
+      "title": "Válečný fotograf",
+      "year": 2001,
+      "display_name": "Válečný fotograf (2001) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58b3b578102da",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27009086,
+      "size_bytes": 530648902,
+      "uploaded_at": "2026-06-30T08:51:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.5,
+        "upload_sec": 30.2
+      }
     }
   ],
   "failed_attempts": [
@@ -124796,5 +124815,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T08:50:20Z"
+  "last_updated": "2026-06-30T08:51:15Z"
 }
