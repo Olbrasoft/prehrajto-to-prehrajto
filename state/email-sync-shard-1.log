@@ -49257,3 +49257,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:22:02]   upload done video_id=27027816 in 35.7s
 [22:22:04] film cr_film_id=25971 OK in 140.0s
 [22:22:04] batch-end ok=20 failed=0 dur=1899.9s avg/film=95.0s remaining=10736 eta_hours=283.3
+
+===== run 2026-06-30T22:22:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28479690422) =====
+[22:22:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:22:43] batch-start shard=1/2 count=20 backlog=17650 uploads=6914 failed_attempts=423 description_overrides=17579
+[22:22:43] login
+[22:22:45] login done
+[22:22:45] iteration 1/20
+[22:22:45] film cr_film_id=25973 name='Jeptiška a komisař (2006) CZ' candidates=1
+[22:22:45]   candidate upload_id=5b117f8ac7ee8 url=https://prehraj.to/jeptiska-a-komisar-2006/5b117f8ac7ee8
+[22:22:46]   resolved in 1.1s → 720p (https://pf-storage2.premiumcdn.net/4346192/4m2FMOTlrsweI1rCgZCbMT3Du4viGWcYGimxH…)
+[22:23:33]   downloaded 1,292.1 MB in 45.8s (28.2 MB/s)
+[22:24:37]   upload done video_id=27027834 in 63.9s
