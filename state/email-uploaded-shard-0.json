@@ -125454,6 +125454,25 @@
         "download_sec": 25.9,
         "upload_sec": 41.0
       }
+    },
+    {
+      "cr_film_id": 25272,
+      "cr_slug": "posledni-traper",
+      "title": "Poslední traper",
+      "year": 2004,
+      "display_name": "Poslední traper (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ab234087937e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27018964,
+      "size_bytes": 952030548,
+      "uploaded_at": "2026-06-30T16:43:16Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 54.0,
+        "upload_sec": 46.6
+      }
     }
   ],
   "failed_attempts": [
@@ -128956,5 +128975,5 @@
       "failed_at": "2026-06-30T15:22:59Z"
     }
   ],
-  "last_updated": "2026-06-30T16:41:29Z"
+  "last_updated": "2026-06-30T16:43:16Z"
 }
