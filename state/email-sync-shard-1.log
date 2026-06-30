@@ -47928,3 +47928,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:22:36]   upload done video_id=27016311 in 20.3s
 [14:22:38] film cr_film_id=25399 OK in 110.8s
 [14:22:38] batch-end ok=20 failed=0 dur=2205.9s avg/film=110.3s remaining=10916 eta_hours=334.5
+
+===== run 2026-06-30T14:23:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28451619136) =====
+[14:23:26] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:23:26] batch-start shard=1/2 count=20 backlog=17650 uploads=6734 failed_attempts=421 description_overrides=17579
+[14:23:26] login
+[14:23:28] login done
+[14:23:28] iteration 1/20
+[14:23:28] film cr_film_id=25401 name='Voják (2006) CZ Dabing' candidates=27
+[14:23:28]   candidate upload_id=5b70d852e7c11 url=https://prehraj.to/vojak-1-2006-cz-dabing/5b70d852e7c11
+[14:23:30]   resolved in 1.9s → 480p (https://pf-storage1.premiumcdn.net/5289143/0ZRt2eUdzHYni1ZcKqu9aU75ibauNntrXIrdh…)
+[14:23:55]   downloaded 400.8 MB in 23.2s (17.3 MB/s)
+[14:24:19]   upload done video_id=27016328 in 23.7s
