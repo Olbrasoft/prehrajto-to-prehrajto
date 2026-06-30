@@ -46668,3 +46668,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:01:53]   upload done video_id=27009837 in 49.2s
 [10:01:55] film cr_film_id=24682 OK in 81.6s
 [10:01:55] batch-end ok=20 failed=0 dur=1743.4s avg/film=87.2s remaining=11090 eta_hours=268.6
+
+===== run 2026-06-30T10:05:18Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28436411998) =====
+[10:05:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:05:21] batch-start shard=0/2 count=20 backlog=17650 uploads=6560 failed_attempts=482 description_overrides=17579
+[10:05:21] login
+[10:05:23] login done
+[10:05:23] iteration 1/20
+[10:05:23] film cr_film_id=24684 name='Carmen: A Hip Hopera (2001) CZ' candidates=1
+[10:05:23]   candidate upload_id=586e03d89d076 url=https://prehraj.to/carmen-a-hip-hopera-2001-beyonce-knowles-eng/586e03d89d076
+[10:05:24]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/1324501/RnAfJxTBMHdPH9ouY2UPqT3WS6Bf9ltxGFzAI…)
+[10:05:59]   downloaded 622.3 MB in 32.6s (19.1 MB/s)
+[10:06:44]   upload done video_id=27009883 in 44.9s
