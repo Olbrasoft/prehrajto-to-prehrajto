@@ -123402,6 +123402,25 @@
         "download_sec": 64.4,
         "upload_sec": 79.3
       }
+    },
+    {
+      "cr_film_id": 24966,
+      "cr_slug": "pan-domu",
+      "title": "Pán Domu",
+      "year": 2005,
+      "display_name": "Pán Domu (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55e048ba7dea6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27012418,
+      "size_bytes": 416231686,
+      "uploaded_at": "2026-06-30T12:47:24Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.6,
+        "upload_sec": 26.1
+      }
     }
   ],
   "failed_attempts": [
@@ -126855,5 +126874,5 @@
       "failed_at": "2026-06-30T09:49:11Z"
     }
   ],
-  "last_updated": "2026-06-30T12:46:33Z"
+  "last_updated": "2026-06-30T12:47:24Z"
 }
