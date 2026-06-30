@@ -123554,6 +123554,25 @@
         "download_sec": 140.8,
         "upload_sec": 149.5
       }
+    },
+    {
+      "cr_film_id": 24988,
+      "cr_slug": "zrozeni",
+      "title": "Zrození",
+      "year": 2004,
+      "display_name": "Zrození (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "603ecf7d7c792",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27014084,
+      "size_bytes": 397780686,
+      "uploaded_at": "2026-06-30T13:08:29Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.4,
+        "upload_sec": 28.5
+      }
     }
   ],
   "failed_attempts": [
@@ -127007,5 +127026,5 @@
       "failed_at": "2026-06-30T09:49:11Z"
     }
   ],
-  "last_updated": "2026-06-30T13:07:34Z"
+  "last_updated": "2026-06-30T13:08:29Z"
 }
