@@ -120580,6 +120580,25 @@
         "download_sec": 74.7,
         "upload_sec": 107.6
       }
+    },
+    {
+      "cr_film_id": 24675,
+      "cr_slug": "ararat",
+      "title": "Ararat",
+      "year": 2002,
+      "display_name": "Ararat (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c51113b69418",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27007887,
+      "size_bytes": 711702315,
+      "uploaded_at": "2026-06-30T06:49:24Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 41.8,
+        "upload_sec": 61.3
+      }
     }
   ],
   "failed_attempts": [
@@ -123656,5 +123675,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T06:47:35Z"
+  "last_updated": "2026-06-30T06:49:24Z"
 }
