@@ -45723,3 +45723,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:43:39]   upload done video_id=27006599 in 46.5s
 [04:43:41] film cr_film_id=24479 OK in 81.4s
 [04:43:41] batch-end ok=20 failed=0 dur=2424.4s avg/film=121.2s remaining=11216 eta_hours=377.6
+
+===== run 2026-06-30T04:44:20Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28420872307) =====
+[04:44:22] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:44:22] batch-start shard=1/2 count=20 backlog=17650 uploads=6434 failed_attempts=421 description_overrides=17579
+[04:44:22] login
+[04:44:23] login done
+[04:44:23] iteration 1/20
+[04:44:23] film cr_film_id=24483 name='Pieseň o sivom holubovi (1961) CZ' candidates=1
+[04:44:23]   candidate upload_id=5891ae7f35968 url=https://prehraj.to/piesen-o-sivom-holubovi-1961-sk/5891ae7f35968
+[04:44:24]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/1584972/2Amf5liPeSLquW9frjhZMiP1cD3UeZupxsgeH…)
+[04:44:59]   downloaded 778.4 MB in 32.6s (23.9 MB/s)
+[04:45:50]   upload done video_id=27006618 in 51.7s
