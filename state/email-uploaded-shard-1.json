@@ -119174,6 +119174,25 @@
         "download_sec": 40.4,
         "upload_sec": 60.7
       }
+    },
+    {
+      "cr_film_id": 24445,
+      "cr_slug": "banditi",
+      "title": "Banditi",
+      "year": 2001,
+      "display_name": "Banditi (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68fbbd2cbe572",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27006387,
+      "size_bytes": 2639867804,
+      "uploaded_at": "2026-06-30T04:30:02Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 111.5,
+        "upload_sec": 192.6
+      }
     }
   ],
   "failed_attempts": [
@@ -122250,5 +122269,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T04:24:52Z"
+  "last_updated": "2026-06-30T04:30:02Z"
 }
