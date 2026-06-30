@@ -44901,3 +44901,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:53:09]   upload done video_id=27005128 in 27.8s
 [01:53:11] film cr_film_id=23868 OK in 58.8s
 [01:53:11] batch-end ok=20 failed=0 dur=1552.6s avg/film=77.6s remaining=11329 eta_hours=244.2
+
+===== run 2026-06-30T02:00:23Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28415152755) =====
+[02:00:25] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:00:25] batch-start shard=0/2 count=20 backlog=17650 uploads=6321 failed_attempts=480 description_overrides=17579
+[02:00:25] login
+[02:00:27] login done
+[02:00:27] iteration 1/20
+[02:00:27] film cr_film_id=23870 name='Dívka snů (1997) CZ Dabing' candidates=3
+[02:00:27]   candidate upload_id=57c64967bc146 url=https://prehraj.to/divka-snu-1997-czdab/57c64967bc146
+[02:00:28]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/493671/qYlhWJIQoUAeI7yseLtOMIKqCoaC8KuxncV1iK…)
+[02:00:49]   downloaded 488.6 MB in 19.3s (25.3 MB/s)
+[02:01:25]   upload done video_id=27005195 in 36.7s
