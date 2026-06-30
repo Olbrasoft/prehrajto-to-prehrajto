@@ -119022,6 +119022,25 @@
         "download_sec": 32.7,
         "upload_sec": 43.9
       }
+    },
+    {
+      "cr_film_id": 24417,
+      "cr_slug": "dohola",
+      "title": "Dohola?",
+      "year": 2001,
+      "display_name": "Dohola? (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5e209094c6850",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27006111,
+      "size_bytes": 626453878,
+      "uploaded_at": "2026-06-30T04:07:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.0,
+        "upload_sec": 44.2
+      }
     }
   ],
   "failed_attempts": [
@@ -122098,5 +122117,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T04:05:51Z"
+  "last_updated": "2026-06-30T04:07:12Z"
 }
