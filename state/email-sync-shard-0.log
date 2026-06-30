@@ -47700,3 +47700,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:21:00]   upload done video_id=27016294 in 36.0s
 [14:21:03] film cr_film_id=25088 OK in 70.5s
 [14:21:03] batch-end ok=20 failed=0 dur=2110.4s avg/film=105.5s remaining=10950 eta_hours=320.9
+
+===== run 2026-06-30T14:23:27Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28451619136) =====
+[14:23:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:23:31] batch-start shard=0/2 count=20 backlog=17650 uploads=6700 failed_attempts=483 description_overrides=17579
+[14:23:31] login
+[14:23:33] login done
+[14:23:33] iteration 1/20
+[14:23:33] film cr_film_id=25092 name='Moje velká indická svatba (2004) CZ' candidates=3
+[14:23:33]   candidate upload_id=6084239e83802 url=https://prehraj.to/moje-velka-indicka-svatba-2004-dvd-cz/6084239e83802
+[14:23:33]   resolved in 0.9s → 480p (https://pf-storage4.premiumcdn.net/23249802/XvJSEJs5OcRocBjIjKi6jsPzHR9U50UD9imx…)
+[14:24:00]   downloaded 717.1 MB in 24.5s (29.3 MB/s)
+[14:24:46]   upload done video_id=27016330 in 46.6s
