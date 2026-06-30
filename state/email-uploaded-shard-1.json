@@ -125311,6 +125311,25 @@
         "download_sec": 43.5,
         "upload_sec": 39.5
       }
+    },
+    {
+      "cr_film_id": 25451,
+      "cr_slug": "siegfried",
+      "title": "Siegfried",
+      "year": 2005,
+      "display_name": "Siegfried (2005) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a8a559399dda",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27016607,
+      "size_bytes": 710749392,
+      "uploaded_at": "2026-06-30T14:47:47Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 32.4,
+        "upload_sec": 46.0
+      }
     }
   ],
   "failed_attempts": [
@@ -128394,5 +128413,5 @@
       "failed_at": "2026-06-30T14:35:49Z"
     }
   ],
-  "last_updated": "2026-06-30T14:46:22Z"
+  "last_updated": "2026-06-30T14:47:47Z"
 }
