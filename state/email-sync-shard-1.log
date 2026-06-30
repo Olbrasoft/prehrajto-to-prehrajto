@@ -45870,3 +45870,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:13:59]   upload done video_id=27007069 in 34.6s
 [05:14:01] film cr_film_id=24533 OK in 62.9s
 [05:14:01] batch-end ok=20 failed=0 dur=1778.2s avg/film=88.9s remaining=11196 eta_hours=276.5
+
+===== run 2026-06-30T05:24:41Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28422345927) =====
+[05:24:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:24:43] batch-start shard=1/2 count=20 backlog=17650 uploads=6454 failed_attempts=421 description_overrides=17579
+[05:24:43] login
+[05:24:46] login done
+[05:24:46] iteration 1/20
+[05:24:46] film cr_film_id=24535 name='Přerušená píseň (1960) CZ' candidates=1
+[05:24:46]   candidate upload_id=5c1dec5de8a9a url=https://prehraj.to/prerusena-pisen-1960/5c1dec5de8a9a
+[05:24:47]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/9777263/MA1Ue1CM7t1LU6DcEySjwCaRT1mI9miZlhQDt…)
+[05:25:55]   downloaded 787.7 MB in 65.2s (12.1 MB/s)
+[05:26:51]   upload done video_id=27007196 in 55.9s
