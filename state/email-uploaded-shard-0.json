@@ -116695,6 +116695,25 @@
         "download_sec": 30.3,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 23810,
+      "cr_slug": "jasny-terc",
+      "title": "Jasný terč",
+      "year": 1997,
+      "display_name": "Jasný terč (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c4fe67ed29f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27004940,
+      "size_bytes": 451075384,
+      "uploaded_at": "2026-06-30T01:29:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.5,
+        "upload_sec": 28.4
+      }
     }
   ],
   "failed_attempts": [
@@ -120129,5 +120148,5 @@
       "failed_at": "2026-06-29T22:20:19Z"
     }
   ],
-  "last_updated": "2026-06-30T01:28:24Z"
+  "last_updated": "2026-06-30T01:29:14Z"
 }
