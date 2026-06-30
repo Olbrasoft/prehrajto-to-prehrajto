@@ -44460,3 +44460,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:03:17]   upload done video_id=27004147 in 40.8s
 [00:03:19] film cr_film_id=23650 OK in 66.3s
 [00:03:19] batch-end ok=20 failed=0 dur=1584.9s avg/film=79.2s remaining=11389 eta_hours=250.6
+
+===== run 2026-06-30T00:05:36Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28410955572) =====
+[00:05:38] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:05:38] batch-start shard=0/2 count=20 backlog=17650 uploads=6261 failed_attempts=480 description_overrides=17579
+[00:05:38] login
+[00:05:39] login done
+[00:05:39] iteration 1/20
+[00:05:39] film cr_film_id=23652 name='Úplné zatmění (1995) CZ' candidates=1
+[00:05:39]   candidate upload_id=5a8af96d6a0ea url=https://prehraj.to/uplne-zatmeni-1995/5a8af96d6a0ea
+[00:05:41]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/3421998/LjDTdWiN3igLFYMiOxUAkiJmTKPfBjckmHKPc…)
+[00:06:04]   downloaded 507.8 MB in 21.7s (23.4 MB/s)
+[00:06:41]   upload done video_id=27004177 in 36.7s
