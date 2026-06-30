@@ -46621,3 +46621,13 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:48:14]   resolved in 1.0s → 480p (https://pf-storage4.premiumcdn.net/11447644/KajHl2iQwSE2FoOTD3IGXixACMdFbMFZ0T3v…)
 [09:48:32]   downloaded 397.9 MB in 16.8s (23.7 MB/s)
 [09:49:06]   upload done video_id=27009691 in 33.9s
+[09:49:08] film cr_film_id=24668 OK in 55.4s
+[09:49:08] iteration 15/20
+[09:49:08] film cr_film_id=24670 name='Veselé Vánoce, Santa Clausi (2001) CZ Dabing' candidates=3
+[09:49:08]   candidate upload_id=63a379e20e2bf url=https://prehraj.to/vesele-vanoce-santa-clausi-2001-1080p-cz-dab/63a379e20e2bf
+[09:49:09]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/35668783/DbWcJzuemIPmFzEiWbhWguodcb8TGQi19tZR…)
+[09:49:11]   oversize: 6185408663 B > 6000000000 B, skip
+[09:49:11]   candidate upload_id=675d6adb54ca1 url=https://prehraj.to/vesele-vanoce-santa-clausi-2001-cz-dabing-1080p/675d6adb54ca1
+[09:49:16]   resolved in 5.5s → 720p (https://pf-storage1.premiumcdn.net/122591675/1qRIJNfxgsWailRSMGh9GfaySLzS4wiLdiB…)
+[09:50:14]   downloaded 1,987.5 MB in 56.4s (35.2 MB/s)
+[09:52:01]   upload done video_id=27009724 in 106.7s

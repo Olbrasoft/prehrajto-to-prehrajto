@@ -121483,6 +121483,25 @@
         "download_sec": 16.8,
         "upload_sec": 33.9
       }
+    },
+    {
+      "cr_film_id": 24670,
+      "cr_slug": "vesele-vanoce-santa-clausi",
+      "title": "Veselé Vánoce, Santa Clausi",
+      "year": 2001,
+      "display_name": "Veselé Vánoce, Santa Clausi (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "675d6adb54ca1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27009724,
+      "size_bytes": 1987508037,
+      "uploaded_at": "2026-06-30T09:52:01Z",
+      "timing": {
+        "resolve_sec": 5.5,
+        "download_sec": 56.4,
+        "upload_sec": 106.7
+      }
     }
   ],
   "failed_attempts": [
@@ -124927,7 +124946,14 @@
         "download_sec": 51.5,
         "upload_sec": 40.3
       }
+    },
+    {
+      "cr_film_id": 24670,
+      "upload_id": "63a379e20e2bf",
+      "reason": "oversize: 6185408663 B",
+      "permanent": true,
+      "failed_at": "2026-06-30T09:49:11Z"
     }
   ],
-  "last_updated": "2026-06-30T09:49:06Z"
+  "last_updated": "2026-06-30T09:52:01Z"
 }
