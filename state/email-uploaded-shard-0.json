@@ -118215,6 +118215,25 @@
         "download_sec": 35.0,
         "upload_sec": 54.7
       }
+    },
+    {
+      "cr_film_id": 24056,
+      "cr_slug": "falcone",
+      "title": "Falcone",
+      "year": 1999,
+      "display_name": "Falcone (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "576d96e40a12a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27006096,
+      "size_bytes": 574946095,
+      "uploaded_at": "2026-06-30T04:06:00Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 29.6,
+        "upload_sec": 37.9
+      }
     }
   ],
   "failed_attempts": [
@@ -121649,5 +121668,5 @@
       "failed_at": "2026-06-29T22:20:19Z"
     }
   ],
-  "last_updated": "2026-06-30T04:04:48Z"
+  "last_updated": "2026-06-30T04:06:00Z"
 }
