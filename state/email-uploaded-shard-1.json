@@ -123278,6 +123278,25 @@
         "download_sec": 49.2,
         "upload_sec": 38.8
       }
+    },
+    {
+      "cr_film_id": 25107,
+      "cr_slug": "za-morem",
+      "title": "Za mořem",
+      "year": 2004,
+      "display_name": "Za mořem (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "582129334b25b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27010883,
+      "size_bytes": 330997512,
+      "uploaded_at": "2026-06-30T11:25:16Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.3,
+        "upload_sec": 27.0
+      }
     }
   ],
   "failed_attempts": [
@@ -126354,5 +126373,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T11:24:31Z"
+  "last_updated": "2026-06-30T11:25:16Z"
 }
