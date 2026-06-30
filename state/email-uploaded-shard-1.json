@@ -122651,6 +122651,25 @@
         "download_sec": 47.5,
         "upload_sec": 58.0
       }
+    },
+    {
+      "cr_film_id": 25005,
+      "cr_slug": "smrt-na-dalnici",
+      "title": "Smrt na dálnici",
+      "year": 2004,
+      "display_name": "Smrt na dálnici (2004) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "aa7f7025c5ad987f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27010350,
+      "size_bytes": 1818516339,
+      "uploaded_at": "2026-06-30T10:42:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 118.4,
+        "upload_sec": 131.0
+      }
     }
   ],
   "failed_attempts": [
@@ -125727,5 +125746,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T10:37:46Z"
+  "last_updated": "2026-06-30T10:42:00Z"
 }
