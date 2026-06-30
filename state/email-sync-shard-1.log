@@ -46605,3 +46605,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:41:10]   upload done video_id=27009011 in 35.9s
 [08:41:12] film cr_film_id=24835 OK in 69.1s
 [08:41:12] batch-end ok=20 failed=0 dur=2002.6s avg/film=100.1s remaining=11096 eta_hours=308.5
+
+===== run 2026-06-30T08:41:51Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28431669432) =====
+[08:41:53] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:41:53] batch-start shard=1/2 count=20 backlog=17650 uploads=6554 failed_attempts=421 description_overrides=17579
+[08:41:53] login
+[08:41:55] login done
+[08:41:55] iteration 1/20
+[08:41:55] film cr_film_id=24837 name='Dům naruby (2003) CZ Dabing' candidates=14
+[08:41:55]   candidate upload_id=5b95274438c44 url=https://prehraj.to/dum-naruby-2003-cz-dabing/5b95274438c44
+[08:41:56]   resolved in 1.0s → 480p (https://pf-storage6.premiumcdn.net/6037447/WnWS43i7DhRPUykhEqUXoiwvc4PHL1hb3IQlf…)
+[08:42:18]   downloaded 532.6 MB in 20.8s (25.6 MB/s)
+[08:42:47]   upload done video_id=27009020 in 29.3s
