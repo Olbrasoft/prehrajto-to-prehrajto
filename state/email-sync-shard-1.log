@@ -44988,3 +44988,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:19:23]   upload done video_id=27004847 in 80.1s
 [01:19:25] film cr_film_id=24165 OK in 148.3s
 [01:19:25] batch-end ok=19 failed=1 dur=1752.0s avg/film=92.2s remaining=11316 eta_hours=289.8
+
+===== run 2026-06-30T01:27:19Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28413978875) =====
+[01:27:20] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:27:20] batch-start shard=1/2 count=20 backlog=17650 uploads=6334 failed_attempts=421 description_overrides=17579
+[01:27:20] login
+[01:27:22] login done
+[01:27:22] iteration 1/20
+[01:27:22] film cr_film_id=24167 name='U snědeného krámu (1933) CZ Dabing' candidates=4
+[01:27:22]   candidate upload_id=60d529f43d366 url=https://prehraj.to/u-snedeneho-kramu-1933-czdab/60d529f43d366
+[01:27:24]   resolved in 1.4s → 720p (https://pf-storage3.premiumcdn.net/24029991/AB5FYWCe8tV2SN4fBWC90CM0umoH9eSpkHda…)
+[01:28:14]   downloaded 1,132.1 MB in 48.4s (23.4 MB/s)
+[01:29:24]   upload done video_id=27004937 in 70.5s
