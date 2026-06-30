@@ -46899,3 +46899,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:04:30]   upload done video_id=27009862 in 30.1s
 [10:04:32] film cr_film_id=24965 OK in 50.7s
 [10:04:32] batch-end ok=20 failed=0 dur=1902.0s avg/film=95.1s remaining=11056 eta_hours=292.1
+
+===== run 2026-06-30T10:05:15Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28436411998) =====
+[10:05:17] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:05:18] batch-start shard=1/2 count=20 backlog=17650 uploads=6594 failed_attempts=421 description_overrides=17579
+[10:05:18] login
+[10:05:19] login done
+[10:05:19] iteration 1/20
+[10:05:19] film cr_film_id=24969 name='Černá ovce (2004) CZ Dabing' candidates=2
+[10:05:19]   candidate upload_id=5a4a5f7b5c7a1 url=https://prehraj.to/cerna-ovce-2004-cz-dabing/5a4a5f7b5c7a1
+[10:05:20]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3207368/kkoTpVI3OCoOH3bU5bCQXIZ4hb8UG6hAZs49c…)
+[10:05:52]   downloaded 512.6 MB in 29.7s (17.3 MB/s)
+[10:06:39]   upload done video_id=27009880 in 46.6s
