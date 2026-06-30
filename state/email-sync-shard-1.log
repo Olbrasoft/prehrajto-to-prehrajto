@@ -49551,3 +49551,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:33:45]   upload done video_id=27029579 in 34.3s
 [23:33:48] film cr_film_id=26091 OK in 61.3s
 [23:33:48] batch-end ok=20 failed=0 dur=2169.8s avg/film=108.5s remaining=10696 eta_hours=322.4
+
+===== run 2026-06-30T23:34:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28482792000) =====
+[23:34:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:34:31] batch-start shard=1/2 count=20 backlog=17650 uploads=6954 failed_attempts=423 description_overrides=17579
+[23:34:31] login
+[23:34:33] login done
+[23:34:33] iteration 1/20
+[23:34:33] film cr_film_id=26095 name='Příběh se starou lenoškou (1972) CZ' candidates=2
+[23:34:33]   candidate upload_id=586d8891dc694 url=https://prehraj.to/pribeh-se-starou-lenoskou-1972-cz/586d8891dc694
+[23:34:34]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/1323491/YDbfMVuQpcY0iVnSNnfXEuvQH7RS5NiwRcYmH…)
+[23:34:58]   downloaded 352.8 MB in 22.2s (15.9 MB/s)
+[23:35:28]   upload done video_id=27029629 in 29.3s
