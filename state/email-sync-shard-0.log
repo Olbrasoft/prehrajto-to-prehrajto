@@ -48909,3 +48909,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:15:41]   upload done video_id=27027765 in 33.5s
 [22:15:43] film cr_film_id=25548 OK in 60.9s
 [22:15:43] batch-end ok=20 failed=0 dur=1519.1s avg/film=76.0s remaining=10791 eta_hours=227.8
+
+===== run 2026-06-30T22:22:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28479690422) =====
+[22:22:45] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:22:45] batch-start shard=0/2 count=20 backlog=17650 uploads=6859 failed_attempts=491 description_overrides=17579
+[22:22:45] login
+[22:22:46] login done
+[22:22:46] iteration 1/20
+[22:22:46] film cr_film_id=25550 name='Cestující (2008) CZ Dabing' candidates=9
+[22:22:46]   candidate upload_id=673f934888fe0 url=https://prehraj.to/cestujici-passengers-2008-cz-dabing-1080p-hq/673f934888fe0
+[22:22:48]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/109806566/VvAI0guGjhdyfJOcdxcGluBxUDEiKGUDZS6…)
+[22:23:59]   downloaded 1,600.4 MB in 69.3s (23.1 MB/s)
+[22:25:40]   upload done video_id=27027841 in 100.5s
