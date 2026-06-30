@@ -119136,6 +119136,25 @@
         "download_sec": 100.3,
         "upload_sec": 117.0
       }
+    },
+    {
+      "cr_film_id": 24439,
+      "cr_slug": "vykoupeni",
+      "title": "Vykoupení",
+      "year": 2000,
+      "display_name": "Vykoupení (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5af57075b2870",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27006334,
+      "size_bytes": 500375518,
+      "uploaded_at": "2026-06-30T04:23:05Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.5,
+        "upload_sec": 41.1
+      }
     }
   ],
   "failed_attempts": [
@@ -122212,5 +122231,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T04:21:49Z"
+  "last_updated": "2026-06-30T04:23:05Z"
 }
