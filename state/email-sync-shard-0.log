@@ -48317,3 +48317,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [17:36:46]   upload done video_id=27020569 in 49.8s
 [17:36:48] film cr_film_id=25316 OK in 305.8s
 [17:36:48] batch-end ok=20 failed=0 dur=3711.0s avg/film=185.6s remaining=10870 eta_hours=560.4
+
+===== run 2026-06-30T17:37:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28463976601) =====
+[17:37:29] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:37:29] batch-start shard=0/2 count=20 backlog=17650 uploads=6780 failed_attempts=489 description_overrides=17579
+[17:37:29] login
+[17:37:31] login done
+[17:37:31] iteration 1/20
+[17:37:31] film cr_film_id=25320 name='Starkweather (2004) CZ Dabing' candidates=1
+[17:37:31]   candidate upload_id=5b70c8a76fb97 url=https://prehraj.to/starkweather-pribeh-masoveho-vraha-2004-cz-dabing/5b70c8a76fb97
+[17:37:32]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/5288189/qJ2u4Dfy1T86SZyHPefwef8ZiqphGXtb6T1yh…)
+[17:37:56]   downloaded 544.1 MB in 22.6s (24.1 MB/s)
+[17:38:43]   upload done video_id=27020623 in 46.9s
