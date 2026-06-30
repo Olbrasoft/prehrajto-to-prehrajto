@@ -117455,6 +117455,25 @@
         "download_sec": 28.8,
         "upload_sec": 46.4
       }
+    },
+    {
+      "cr_film_id": 23926,
+      "cr_slug": "wild-wild-west",
+      "title": "Wild Wild West",
+      "year": 1999,
+      "display_name": "Wild Wild West (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "679a0744ec6cd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27005580,
+      "size_bytes": 3212556854,
+      "uploaded_at": "2026-06-30T02:47:05Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 179.6,
+        "upload_sec": 213.9
+      }
     }
   ],
   "failed_attempts": [
@@ -120889,5 +120908,5 @@
       "failed_at": "2026-06-29T22:20:19Z"
     }
   ],
-  "last_updated": "2026-06-30T02:40:25Z"
+  "last_updated": "2026-06-30T02:47:05Z"
 }
