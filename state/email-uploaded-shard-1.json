@@ -125672,6 +125672,25 @@
         "download_sec": 38.8,
         "upload_sec": 42.9
       }
+    },
+    {
+      "cr_film_id": 25509,
+      "cr_slug": "slimak",
+      "title": "Slimák",
+      "year": 2006,
+      "display_name": "Slimák (2006) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c4a8372d8b11",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27017267,
+      "size_bytes": 453989694,
+      "uploaded_at": "2026-06-30T15:12:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.5,
+        "upload_sec": 29.3
+      }
     }
   ],
   "failed_attempts": [
@@ -128755,5 +128774,5 @@
       "failed_at": "2026-06-30T14:35:49Z"
     }
   ],
-  "last_updated": "2026-06-30T15:11:52Z"
+  "last_updated": "2026-06-30T15:12:59Z"
 }
