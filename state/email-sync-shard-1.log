@@ -49106,3 +49106,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:49:42]   upload done video_id=27027490 in 48.4s
 [21:49:44] film cr_film_id=25903 OK in 81.4s
 [21:49:44] batch-end ok=20 failed=0 dur=1947.5s avg/film=97.4s remaining=10756 eta_hours=291.0
+
+===== run 2026-06-30T21:50:21Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28478139023) =====
+[21:50:22] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:50:22] batch-start shard=1/2 count=20 backlog=17650 uploads=6894 failed_attempts=422 description_overrides=17579
+[21:50:22] login
+[21:50:24] login done
+[21:50:24] iteration 1/20
+[21:50:24] film cr_film_id=25905 name='Rovnice smrti (2007) CZ Dabing' candidates=4
+[21:50:24]   candidate upload_id=5f8560ab855c8 url=https://prehraj.to/rovnice-smrti-cz-dabing-horor-thriller-velka-britanie-usa-2007-filmy-site88-net/5f8560ab855c8
+[21:50:25]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/19224692/POGtZYu60UOYup7feBhBeunYfZYFERTRzfBp…)
+[21:50:51]   downloaded 584.9 MB in 24.4s (24.0 MB/s)
+[21:51:31]   upload done video_id=27027508 in 40.0s
