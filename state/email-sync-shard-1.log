@@ -48812,3 +48812,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [18:24:55]   upload done video_id=27021948 in 27.2s
 [18:24:57] film cr_film_id=25789 OK in 47.4s
 [18:24:57] batch-end ok=20 failed=0 dur=2847.1s avg/film=142.4s remaining=10796 eta_hours=427.0
+
+===== run 2026-06-30T19:16:15Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28469739512) =====
+[19:16:18] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[19:16:18] batch-start shard=1/2 count=20 backlog=17650 uploads=6854 failed_attempts=422 description_overrides=17579
+[19:16:18] login
+[19:16:19] login done
+[19:16:19] iteration 1/20
+[19:16:19] film cr_film_id=25793 name='Zázrační pejsci 2 (2006) CZ' candidates=1
+[19:16:19]   candidate upload_id=5ad1b41ecda7a url=https://prehraj.to/zazracni-pejsci-2-2006/5ad1b41ecda7a
+[19:16:21]   resolved in 1.8s → 720p (https://pf-storage5.premiumcdn.net/3872423/12qhZvsl4i47c15HQlcLesz4trGh5rIRpF4oU…)
+[19:17:17]   downloaded 1,111.2 MB in 53.6s (20.7 MB/s)
+[19:18:19]   upload done video_id=27023359 in 62.6s
