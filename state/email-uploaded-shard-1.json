@@ -120808,6 +120808,25 @@
         "download_sec": 194.9,
         "upload_sec": 249.5
       }
+    },
+    {
+      "cr_film_id": 24705,
+      "cr_slug": "sniper-2002",
+      "title": "Sniper",
+      "year": 2002,
+      "display_name": "Sniper (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b70b31704095",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27008087,
+      "size_bytes": 401654761,
+      "uploaded_at": "2026-06-30T07:11:21Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 20.8,
+        "upload_sec": 40.5
+      }
     }
   ],
   "failed_attempts": [
@@ -123884,5 +123903,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T07:10:13Z"
+  "last_updated": "2026-06-30T07:11:21Z"
 }
