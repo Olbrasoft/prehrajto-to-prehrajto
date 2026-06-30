@@ -47340,3 +47340,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:51:31]   upload done video_id=27011794 in 92.3s
 [11:51:33] film cr_film_id=25145 OK in 149.3s
 [11:51:33] batch-end ok=20 failed=0 dur=2010.7s avg/film=100.5s remaining=10996 eta_hours=307.0
+
+===== run 2026-06-30T11:52:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28442185189) =====
+[11:52:14] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:52:14] batch-start shard=1/2 count=20 backlog=17650 uploads=6654 failed_attempts=421 description_overrides=17579
+[11:52:14] login
+[11:52:15] login done
+[11:52:15] iteration 1/20
+[11:52:15] film cr_film_id=25147 name='Jane má schůzku (2003) CZ' candidates=1
+[11:52:15]   candidate upload_id=5d0dfe91b17d3 url=https://prehraj.to/jane-ma-schuzku-see-jane-date-2003-by-fidlatko/5d0dfe91b17d3
+[11:52:16]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/14044128/G3XhlASAyUjNtqJT2ohrDS75fkMT9ViXvCjP…)
+[11:52:53]   downloaded 780.9 MB in 34.9s (22.4 MB/s)
+[11:53:44]   upload done video_id=27011816 in 51.5s
