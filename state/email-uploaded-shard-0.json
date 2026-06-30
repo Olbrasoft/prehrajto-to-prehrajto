@@ -121844,6 +121844,25 @@
         "download_sec": 20.6,
         "upload_sec": 31.6
       }
+    },
+    {
+      "cr_film_id": 24726,
+      "cr_slug": "bily-oleandr",
+      "title": "Bílý oleandr",
+      "year": 2002,
+      "display_name": "Bílý oleandr (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5820fad838c5a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27010096,
+      "size_bytes": 607189508,
+      "uploaded_at": "2026-06-30T10:26:58Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 25.8,
+        "upload_sec": 40.3
+      }
     }
   ],
   "failed_attempts": [
@@ -125297,5 +125316,5 @@
       "failed_at": "2026-06-30T09:49:11Z"
     }
   ],
-  "last_updated": "2026-06-30T10:25:47Z"
+  "last_updated": "2026-06-30T10:26:58Z"
 }
