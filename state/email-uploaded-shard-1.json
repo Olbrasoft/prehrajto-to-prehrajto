@@ -125482,6 +125482,25 @@
         "download_sec": 39.2,
         "upload_sec": 45.0
       }
+    },
+    {
+      "cr_film_id": 25473,
+      "cr_slug": "zeme-slepych",
+      "title": "Země slepých",
+      "year": 2006,
+      "display_name": "Země slepých (2006) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5abda5eed60dc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27017020,
+      "size_bytes": 279483223,
+      "uploaded_at": "2026-06-30T15:01:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.1,
+        "upload_sec": 15.0
+      }
     }
   ],
   "failed_attempts": [
@@ -128565,5 +128584,5 @@
       "failed_at": "2026-06-30T14:35:49Z"
     }
   ],
-  "last_updated": "2026-06-30T15:00:20Z"
+  "last_updated": "2026-06-30T15:01:01Z"
 }
