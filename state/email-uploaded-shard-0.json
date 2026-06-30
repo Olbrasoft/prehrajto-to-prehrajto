@@ -122110,6 +122110,25 @@
         "download_sec": 41.4,
         "upload_sec": 28.1
       }
+    },
+    {
+      "cr_film_id": 24772,
+      "cr_slug": "cervena-kulna",
+      "title": "Červená kůlna",
+      "year": 1968,
+      "display_name": "Červená kůlna (1968) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58212326b01a1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27010607,
+      "size_bytes": 365828071,
+      "uploaded_at": "2026-06-30T11:00:13Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.8,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -125563,5 +125582,5 @@
       "failed_at": "2026-06-30T09:49:11Z"
     }
   ],
-  "last_updated": "2026-06-30T10:59:19Z"
+  "last_updated": "2026-06-30T11:00:13Z"
 }
