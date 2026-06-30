@@ -116847,6 +116847,25 @@
         "download_sec": 25.6,
         "upload_sec": 42.5
       }
+    },
+    {
+      "cr_film_id": 23836,
+      "cr_slug": "nocni-letec",
+      "title": "Noční letec",
+      "year": 1997,
+      "display_name": "Noční letec (1997) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "583b2cae493a7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27005035,
+      "size_bytes": 409732137,
+      "uploaded_at": "2026-06-30T01:41:48Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.2,
+        "upload_sec": 24.5
+      }
     }
   ],
   "failed_attempts": [
@@ -120281,5 +120300,5 @@
       "failed_at": "2026-06-29T22:20:19Z"
     }
   ],
-  "last_updated": "2026-06-30T01:41:05Z"
+  "last_updated": "2026-06-30T01:41:48Z"
 }
