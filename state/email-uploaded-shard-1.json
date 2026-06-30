@@ -117958,6 +117958,25 @@
         "download_sec": 96.9,
         "upload_sec": 122.1
       }
+    },
+    {
+      "cr_film_id": 24245,
+      "cr_slug": "kouzelny-dum",
+      "title": "Kouzelný dům",
+      "year": 1939,
+      "display_name": "Kouzelný dům (1939) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60b8bc5a2675a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27005350,
+      "size_bytes": 547203473,
+      "uploaded_at": "2026-06-30T02:13:46Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 20.8,
+        "upload_sec": 32.4
+      }
     }
   ],
   "failed_attempts": [
@@ -121034,5 +121053,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T02:12:48Z"
+  "last_updated": "2026-06-30T02:13:46Z"
 }
