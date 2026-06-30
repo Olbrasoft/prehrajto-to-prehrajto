@@ -46164,3 +46164,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:29:08]   upload done video_id=27007689 in 36.8s
 [06:29:10] film cr_film_id=24657 OK in 58.8s
 [06:29:10] batch-end ok=20 failed=0 dur=1420.7s avg/film=71.0s remaining=11156 eta_hours=220.0
+
+===== run 2026-06-30T06:40:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28425449700) =====
+[06:40:32] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:40:32] batch-start shard=1/2 count=20 backlog=17650 uploads=6494 failed_attempts=421 description_overrides=17579
+[06:40:32] login
+[06:40:34] login done
+[06:40:34] iteration 1/20
+[06:40:34] film cr_film_id=24659 name='Pettson a Fiškus 2 (2000) CZ' candidates=1
+[06:40:34]   candidate upload_id=5aa2e47964216 url=https://prehraj.to/pettson-a-fiskus-2-2000/5aa2e47964216
+[06:40:35]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3583654/ypYfB8inzu7YuygI5oUqYir4uKGUg3TN6fpmf…)
+[06:41:08]   downloaded 516.7 MB in 30.2s (17.1 MB/s)
+[06:41:48]   upload done video_id=27007814 in 40.0s
