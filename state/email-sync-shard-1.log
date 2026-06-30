@@ -48959,3 +48959,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:16:17]   upload done video_id=27026743 in 66.3s
 [21:16:20] film cr_film_id=25849 OK in 128.3s
 [21:16:20] batch-end ok=20 failed=0 dur=7200.1s avg/film=360.0s remaining=10776 eta_hours=1077.6
+
+===== run 2026-06-30T21:17:10Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28476442345) =====
+[21:17:14] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:17:15] batch-start shard=1/2 count=20 backlog=17650 uploads=6874 failed_attempts=422 description_overrides=17579
+[21:17:15] login
+[21:17:16] login done
+[21:17:16] iteration 1/20
+[21:17:16] film cr_film_id=25859 name='Milenec je zločinec! (2008) CZ Dabing' candidates=4
+[21:17:16]   candidate upload_id=5a0a07aeabfe9 url=https://prehraj.to/milenec-je-zlocinec-2008-cz-dabing/5a0a07aeabfe9
+[21:17:17]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/2925255/rgvtBnfrpIMatJvsOzsv6fQWC6Kt5VH0mH0eF…)
+[21:21:13]   downloaded 450.9 MB in 234.1s (1.9 MB/s)
+[21:21:52]   upload done video_id=27026918 in 39.1s
