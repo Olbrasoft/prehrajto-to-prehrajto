@@ -121787,6 +121787,25 @@
         "download_sec": 25.2,
         "upload_sec": 37.1
       }
+    },
+    {
+      "cr_film_id": 24720,
+      "cr_slug": "bazen-2001",
+      "title": "Bazén",
+      "year": 2001,
+      "display_name": "Bazén (2001) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ba53b8d31924",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27010058,
+      "size_bytes": 499626274,
+      "uploaded_at": "2026-06-30T10:23:37Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.0,
+        "upload_sec": 42.7
+      }
     }
   ],
   "failed_attempts": [
@@ -125240,5 +125259,5 @@
       "failed_at": "2026-06-30T09:49:11Z"
     }
   ],
-  "last_updated": "2026-06-30T10:22:27Z"
+  "last_updated": "2026-06-30T10:23:37Z"
 }
