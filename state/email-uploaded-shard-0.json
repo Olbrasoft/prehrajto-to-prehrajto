@@ -125929,6 +125929,25 @@
         "download_sec": 19.4,
         "upload_sec": 34.3
       }
+    },
+    {
+      "cr_film_id": 25342,
+      "cr_slug": "bankrotari",
+      "title": "Bankrotáři",
+      "year": 2003,
+      "display_name": "Bankrotáři (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5b091002083be",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27021229,
+      "size_bytes": 875263061,
+      "uploaded_at": "2026-06-30T18:00:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 299.6,
+        "upload_sec": 69.4
+      }
     }
   ],
   "failed_attempts": [
@@ -129431,5 +129450,5 @@
       "failed_at": "2026-06-30T15:22:59Z"
     }
   ],
-  "last_updated": "2026-06-30T17:54:36Z"
+  "last_updated": "2026-06-30T18:00:50Z"
 }
