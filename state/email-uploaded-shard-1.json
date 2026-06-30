@@ -125425,6 +125425,25 @@
         "download_sec": 36.5,
         "upload_sec": 28.8
       }
+    },
+    {
+      "cr_film_id": 25463,
+      "cr_slug": "azumi-2",
+      "title": "Azumi 2",
+      "year": 2005,
+      "display_name": "Azumi 2 (2005) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "576ab8477d493",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27016739,
+      "size_bytes": 686769795,
+      "uploaded_at": "2026-06-30T14:56:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 74.9,
+        "upload_sec": 43.9
+      }
     }
   ],
   "failed_attempts": [
@@ -128508,5 +128527,5 @@
       "failed_at": "2026-06-30T14:35:49Z"
     }
   ],
-  "last_updated": "2026-06-30T14:54:35Z"
+  "last_updated": "2026-06-30T14:56:39Z"
 }
