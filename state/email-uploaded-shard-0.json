@@ -121426,6 +121426,25 @@
         "download_sec": 15.5,
         "upload_sec": 24.5
       }
+    },
+    {
+      "cr_film_id": 24662,
+      "cr_slug": "sestry-v-akci",
+      "title": "Sestry v akci",
+      "year": 2000,
+      "display_name": "Sestry v akci (2000) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57db5c13cc2e0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27009670,
+      "size_bytes": 573554524,
+      "uploaded_at": "2026-06-30T09:47:27Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 20.5,
+        "upload_sec": 37.1
+      }
     }
   ],
   "failed_attempts": [
@@ -124872,5 +124891,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-30T09:46:25Z"
+  "last_updated": "2026-06-30T09:47:27Z"
 }
