@@ -117882,6 +117882,25 @@
         "download_sec": 48.0,
         "upload_sec": 78.4
       }
+    },
+    {
+      "cr_film_id": 24229,
+      "cr_slug": "kruh-1959",
+      "title": "Kruh",
+      "year": 1959,
+      "display_name": "Kruh (1959) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6345f15e8842a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27005235,
+      "size_bytes": 1496813695,
+      "uploaded_at": "2026-06-30T02:06:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 42.5,
+        "upload_sec": 111.5
+      }
     }
   ],
   "failed_attempts": [
@@ -120958,5 +120977,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T02:03:29Z"
+  "last_updated": "2026-06-30T02:06:09Z"
 }
