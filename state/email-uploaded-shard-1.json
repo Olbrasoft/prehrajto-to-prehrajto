@@ -127648,6 +127648,25 @@
         "download_sec": 91.5,
         "upload_sec": 30.3
       }
+    },
+    {
+      "cr_film_id": 25841,
+      "cr_slug": "mimzy",
+      "title": "Mimzy",
+      "year": 2007,
+      "display_name": "Mimzy (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d237c3a67f4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27026553,
+      "size_bytes": 410729927,
+      "uploaded_at": "2026-06-30T21:08:27Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 235.0,
+        "upload_sec": 34.2
+      }
     }
   ],
   "failed_attempts": [
@@ -130731,5 +130750,5 @@
       "failed_at": "2026-06-30T14:35:49Z"
     }
   ],
-  "last_updated": "2026-06-30T21:03:53Z"
+  "last_updated": "2026-06-30T21:08:27Z"
 }
