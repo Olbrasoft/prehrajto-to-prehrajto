@@ -123155,6 +123155,25 @@
         "download_sec": 28.9,
         "upload_sec": 28.7
       }
+    },
+    {
+      "cr_film_id": 24938,
+      "cr_slug": "bernsky-zazrak",
+      "title": "Bernský zázrak",
+      "year": 2003,
+      "display_name": "Bernský zázrak (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ac78c76b2f05",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27012205,
+      "size_bytes": 804305206,
+      "uploaded_at": "2026-06-30T12:29:54Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 58.4,
+        "upload_sec": 40.5
+      }
     }
   ],
   "failed_attempts": [
@@ -126608,5 +126627,5 @@
       "failed_at": "2026-06-30T09:49:11Z"
     }
   ],
-  "last_updated": "2026-06-30T12:28:10Z"
+  "last_updated": "2026-06-30T12:29:54Z"
 }
