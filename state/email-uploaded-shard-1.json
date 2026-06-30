@@ -120903,6 +120903,25 @@
         "download_sec": 29.9,
         "upload_sec": 42.8
       }
+    },
+    {
+      "cr_film_id": 24717,
+      "cr_slug": "milacek-pluku",
+      "title": "Miláček pluku",
+      "year": 1931,
+      "display_name": "Miláček pluku (1931) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "60bc0853a9db7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27008164,
+      "size_bytes": 640422757,
+      "uploaded_at": "2026-06-30T07:20:15Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 37.8,
+        "upload_sec": 49.9
+      }
     }
   ],
   "failed_attempts": [
@@ -123979,5 +123998,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T07:18:42Z"
+  "last_updated": "2026-06-30T07:20:15Z"
 }
