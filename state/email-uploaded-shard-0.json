@@ -117911,6 +117911,25 @@
         "download_sec": 125.1,
         "upload_sec": 198.7
       }
+    },
+    {
+      "cr_film_id": 23998,
+      "cr_slug": "inferno-1999",
+      "title": "Inferno",
+      "year": 1999,
+      "display_name": "Inferno (1999) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6757dffda93fd",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27005878,
+      "size_bytes": 684125081,
+      "uploaded_at": "2026-06-30T03:36:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.2,
+        "upload_sec": 47.4
+      }
     }
   ],
   "failed_attempts": [
@@ -121345,5 +121364,5 @@
       "failed_at": "2026-06-29T22:20:19Z"
     }
   ],
-  "last_updated": "2026-06-30T03:34:35Z"
+  "last_updated": "2026-06-30T03:36:00Z"
 }
