@@ -47781,3 +47781,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:26:58]   upload done video_id=27015572 in 39.3s
 [13:27:00] film cr_film_id=25329 OK in 60.8s
 [13:27:00] batch-end ok=20 failed=0 dur=1675.4s avg/film=83.8s remaining=10936 eta_hours=254.6
+
+===== run 2026-06-30T13:45:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28449118208) =====
+[13:45:51] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:45:51] batch-start shard=1/2 count=20 backlog=17650 uploads=6714 failed_attempts=421 description_overrides=17579
+[13:45:51] login
+[13:45:52] login done
+[13:45:52] iteration 1/20
+[13:45:52] film cr_film_id=25331 name='Evilenko (2003) CZ Dabing' candidates=10
+[13:45:52]   candidate upload_id=5c2c4017e4042 url=https://prehraj.to/evilenko-2004-cz-dabing/5c2c4017e4042
+[13:45:54]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/10345601/RonSkDTaGUdVFmRU20SzXTYou1kUzvCLkSa9…)
+[13:46:47]   downloaded 1,025.7 MB in 51.2s (20.0 MB/s)
+[13:47:46]   upload done video_id=27015903 in 58.8s
