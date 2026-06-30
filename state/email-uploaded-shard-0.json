@@ -120552,6 +120552,25 @@
         "download_sec": 16.2,
         "upload_sec": 32.4
       }
+    },
+    {
+      "cr_film_id": 24494,
+      "cr_slug": "blikajici-svetla",
+      "title": "Blikající světla",
+      "year": 2000,
+      "display_name": "Blikající světla (2000) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68b758b2a573a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27008795,
+      "size_bytes": 1558677982,
+      "uploaded_at": "2026-06-30T08:16:58Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 44.4,
+        "upload_sec": 67.8
+      }
     }
   ],
   "failed_attempts": [
@@ -123998,5 +124017,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-30T08:14:59Z"
+  "last_updated": "2026-06-30T08:16:58Z"
 }
