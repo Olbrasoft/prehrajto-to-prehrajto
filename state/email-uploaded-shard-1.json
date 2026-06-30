@@ -123905,6 +123905,25 @@
         "download_sec": 34.1,
         "upload_sec": 37.4
       }
+    },
+    {
+      "cr_film_id": 25203,
+      "cr_slug": "bavorak",
+      "title": "Bavorák",
+      "year": 2003,
+      "display_name": "Bavorák (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5678298e01395",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27012100,
+      "size_bytes": 471274809,
+      "uploaded_at": "2026-06-30T12:19:24Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 73.7,
+        "upload_sec": 21.8
+      }
     }
   ],
   "failed_attempts": [
@@ -126981,5 +127000,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T12:17:44Z"
+  "last_updated": "2026-06-30T12:19:24Z"
 }
