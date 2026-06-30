@@ -45429,3 +45429,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:58:02]   upload done video_id=27005683 in 38.8s
 [02:58:03] film cr_film_id=24349 OK in 69.8s
 [02:58:03] batch-end ok=20 failed=0 dur=1139.7s avg/film=57.0s remaining=11256 eta_hours=178.2
+
+===== run 2026-06-30T03:23:54Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28418063768) =====
+[03:23:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:23:56] batch-start shard=1/2 count=20 backlog=17650 uploads=6394 failed_attempts=421 description_overrides=17579
+[03:23:56] login
+[03:23:57] login done
+[03:23:57] iteration 1/20
+[03:23:57] film cr_film_id=24351 name='Jdi za svým srdcem (2000) CZ Dabing' candidates=3
+[03:23:57]   candidate upload_id=5e24f4e8d1d70 url=https://prehraj.to/jdi-za-svym-srdcem-2000-2x-cz-dabing/5e24f4e8d1d70
+[03:23:59]   resolved in 1.6s → 1080p (https://pf-storage5.premiumcdn.net/15694948/kZmt49I07tZ6TDXcJ9i6LIbWCDptp1cXysNQ…)
+[03:27:41]   downloaded 4,168.6 MB in 219.7s (19.0 MB/s)
+[03:31:51]   upload done video_id=27005838 in 249.9s
