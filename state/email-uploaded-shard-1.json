@@ -121359,6 +121359,25 @@
         "download_sec": 36.6,
         "upload_sec": 57.0
       }
+    },
+    {
+      "cr_film_id": 24791,
+      "cr_slug": "zatraceni",
+      "title": "Zatracení",
+      "year": 2002,
+      "display_name": "Zatracení (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58212bf7c5483",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27008821,
+      "size_bytes": 914524887,
+      "uploaded_at": "2026-06-30T08:19:43Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 58.4,
+        "upload_sec": 64.2
+      }
     }
   ],
   "failed_attempts": [
@@ -124435,5 +124454,5 @@
       "failed_at": "2026-06-30T01:11:47Z"
     }
   ],
-  "last_updated": "2026-06-30T08:17:34Z"
+  "last_updated": "2026-06-30T08:19:43Z"
 }
