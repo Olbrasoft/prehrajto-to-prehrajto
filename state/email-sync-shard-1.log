@@ -48665,3 +48665,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:00:45]   upload done video_id=27019528 in 34.6s
 [17:00:46] film cr_film_id=25731 OK in 61.1s
 [17:00:46] batch-end ok=20 failed=0 dur=1545.0s avg/film=77.2s remaining=10816 eta_hours=231.9
+
+===== run 2026-06-30T17:37:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28463976601) =====
+[17:37:29] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[17:37:29] batch-start shard=1/2 count=20 backlog=17650 uploads=6834 failed_attempts=422 description_overrides=17579
+[17:37:29] login
+[17:37:30] login done
+[17:37:30] iteration 1/20
+[17:37:30] film cr_film_id=25733 name='Hezké sny (2007) CZ Dabing' candidates=1
+[17:37:30]   candidate upload_id=5a5e80da6eea2 url=https://prehraj.to/hezke-sny-2007-cz-dabing/5a5e80da6eea2
+[17:37:31]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/3294926/vBxUnLiMbIY8svlhb1u8wi2PHdWuBysGmUlgC…)
+[17:42:03]   downloaded 366.1 MB in 270.4s (1.4 MB/s)
+[17:42:28]   upload done video_id=27020729 in 25.1s
