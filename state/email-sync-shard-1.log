@@ -47046,3 +47046,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:51:14]   upload done video_id=27010452 in 36.6s
 [10:51:16] film cr_film_id=25021 OK in 65.6s
 [10:51:16] batch-end ok=20 failed=0 dur=2756.9s avg/film=137.8s remaining=11036 eta_hours=422.4
+
+===== run 2026-06-30T10:51:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28438942522) =====
+[10:51:57] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:51:57] batch-start shard=1/2 count=20 backlog=17650 uploads=6614 failed_attempts=421 description_overrides=17579
+[10:51:57] login
+[10:51:58] login done
+[10:51:58] iteration 1/20
+[10:51:58] film cr_film_id=25023 name='Kauza CIA (2006) CZ Dabing' candidates=5
+[10:51:58]   candidate upload_id=5d1361ff5452e url=https://prehraj.to/kauza-cia-drama-cz-dab-2006-jad/5d1361ff5452e
+[10:51:59]   resolved in 0.9s → 480p (https://pf-storage5.premiumcdn.net/14141439/M7WtMgsAyu5BFRbIoefLRsoMH9btWRcJLI86…)
+[10:52:21]   downloaded 654.1 MB in 20.2s (32.4 MB/s)
+[10:53:02]   upload done video_id=27010464 in 41.1s
