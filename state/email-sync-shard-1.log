@@ -49244,3 +49244,14 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:18:13]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/92680394/2JdHRBUdwtZ2sOatrRSx9Up8FAeIOZFDPs4o…)
 [22:18:51]   downloaded 897.3 MB in 35.9s (25.0 MB/s)
 [22:19:42]   upload done video_id=27027799 in 51.1s
+[22:19:44] film cr_film_id=25967 OK in 91.8s
+[22:19:44] iteration 20/20
+[22:19:44] film cr_film_id=25971 name='Poloprofesionál (2008) CZ Dabing' candidates=5
+[22:19:44]   candidate upload_id=61b81e377ee31 url=https://prehraj.to/poloprofesional-2008-cz-dabing-full-hd/61b81e377ee31
+[22:19:45]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/27410382/dYaieaIEAS29UlOSw9U8kIBrF31sBnhxESvO…)
+[22:20:56]   downloaded 2,211.1 MB in 70.4s (31.4 MB/s)
+[22:20:56]   upload FAILED after 0.1s: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[22:20:57]   candidate upload_id=58211833a9d7b url=https://prehraj.to/poloprofesional-cz-dabing-2008/58211833a9d7b
+[22:20:58]   resolved in 0.9s → 480p (https://pf-storage6.premiumcdn.net/812508/6a2InxCN9CGwFEnHeEU3gCZ4s4lsdMigefJliP…)
+[22:21:26]   downloaded 621.1 MB in 26.4s (23.5 MB/s)
+[22:22:02]   upload done video_id=27027816 in 35.7s
