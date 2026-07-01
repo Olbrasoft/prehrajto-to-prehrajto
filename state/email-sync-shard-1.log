@@ -51760,3 +51760,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:24:37]   upload done video_id=27042708 in 63.9s
 [09:24:40] film cr_film_id=27431 OK in 157.8s
 [09:24:40] batch-end ok=20 failed=0 dur=4500.3s avg/film=225.0s remaining=10399 eta_hours=649.9
+
+===== run 2026-07-01T09:25:27Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28507444468) =====
+[09:25:29] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:25:29] batch-start shard=1/2 count=20 backlog=17650 uploads=7251 failed_attempts=431 description_overrides=17579
+[09:25:29] login
+[09:25:31] login done
+[09:25:31] iteration 1/20
+[09:25:31] film cr_film_id=27435 name='Butch Cassidy: Bez osudu (2011) CZ Dabing' candidates=3
+[09:25:31]   candidate upload_id=5610fd753e790 url=https://prehraj.to/blackthorn-2011-cz-dab-western-p-p/5610fd753e790
+[09:25:32]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/390595/jPzU4Gco3hxpCnAHp4T8gcras34IexFGYhqQtn…)
+[09:26:03]   downloaded 524.5 MB in 29.1s (18.0 MB/s)
+[09:26:52]   upload done video_id=27042740 in 48.8s
