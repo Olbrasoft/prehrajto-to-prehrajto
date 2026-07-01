@@ -50139,3 +50139,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:45:41]   upload done video_id=27032934 in 39.1s
 [01:45:43] film cr_film_id=26379 OK in 76.9s
 [01:45:43] batch-end ok=20 failed=0 dur=2089.7s avg/film=104.5s remaining=10616 eta_hours=308.2
+
+===== run 2026-07-01T01:46:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28487828062) =====
+[01:46:26] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:46:26] batch-start shard=1/2 count=20 backlog=17650 uploads=7034 failed_attempts=423 description_overrides=17579
+[01:46:26] login
+[01:46:28] login done
+[01:46:28] iteration 1/20
+[01:46:28] film cr_film_id=26385 name='Král Matěj (2007) CZ' candidates=2
+[01:46:28]   candidate upload_id=5ab5d939e5b20 url=https://prehraj.to/kral-matej-2007/5ab5d939e5b20
+[01:46:29]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/3714888/MlMi3zI90uJMhv3TDoH7kI0BT5YSLzuzXhNnh…)
+[01:46:47]   downloaded 382.3 MB in 17.0s (22.5 MB/s)
+[01:47:21]   upload done video_id=27032964 in 34.5s
