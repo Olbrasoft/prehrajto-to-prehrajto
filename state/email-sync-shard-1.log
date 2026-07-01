@@ -53091,3 +53091,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:27:53]   upload FAILED after 40.2s: 504 Server Error: Gateway Time-out for url: https://prehraj.to/profil/nahrat-soubor?do=prepareVideo
 [16:27:53] film cr_film_id=28207 all candidates exhausted
 [16:27:53] batch-end ok=18 failed=2 dur=3376.5s avg/film=187.6s remaining=10221 eta_hours=532.6
+
+===== run 2026-07-01T16:31:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28532546182) =====
+[16:31:39] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:31:39] batch-start shard=1/2 count=20 backlog=17650 uploads=7429 failed_attempts=437 description_overrides=17579
+[16:31:39] login
+[16:31:53] login done
+[16:31:53] iteration 1/20
+[16:31:53] film cr_film_id=28201 name='Pravdivý příběh Juliana Assange (2012) CZ Dabing' candidates=2
+[16:31:53]   candidate upload_id=62248ecb7797a url=https://prehraj.to/pravdivy-pribeh-juliana-assange-underground-the-julian-assange-story-2012-webrip-hd720p-czdabing/62248ecb7797a
+[16:31:56]   resolved in 2.4s → 720p (https://pf-storage3.premiumcdn.net/29959136/x1JT4ku9zUYGhD7U2vsLbu93fnMIqAHzDsr3…)
+[16:33:07]   downloaded 1,289.0 MB in 68.3s (18.9 MB/s)
+[16:34:36]   upload done video_id=27051632 in 89.8s
