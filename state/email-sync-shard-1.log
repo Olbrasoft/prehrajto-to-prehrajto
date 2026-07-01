@@ -49845,3 +49845,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:34:21]   upload done video_id=27031392 in 31.2s
 [00:34:23] film cr_film_id=26217 OK in 56.8s
 [00:34:23] batch-end ok=20 failed=0 dur=1401.1s avg/film=70.1s remaining=10656 eta_hours=207.5
+
+===== run 2026-07-01T00:45:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28485561362) =====
+[00:45:30] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:45:30] batch-start shard=1/2 count=20 backlog=17650 uploads=6994 failed_attempts=423 description_overrides=17579
+[00:45:30] login
+[00:45:31] login done
+[00:45:31] iteration 1/20
+[00:45:31] film cr_film_id=26219 name='Přežít! (2020) CZ Dabing' candidates=1
+[00:45:31]   candidate upload_id=c2e0b6ad3d4f2c37 url=https://prehraj.to/prezit-2020-drama-czdab-mkv/c2e0b6ad3d4f2c37
+[00:45:32]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/170483690/rZrIJGf4XSk2SbJHKmHL2fboh6McNGH1Zc8…)
+[00:46:28]   downloaded 1,719.9 MB in 54.5s (31.6 MB/s)
+[00:47:51]   upload done video_id=27031759 in 83.0s
