@@ -134336,6 +134336,25 @@
         "download_sec": 23.7,
         "upload_sec": 40.9
       }
+    },
+    {
+      "cr_film_id": 27309,
+      "cr_slug": "cafe-de-flore",
+      "title": "Café de Flore",
+      "year": 2011,
+      "display_name": "Café de Flore (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55be46ae05682",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27041415,
+      "size_bytes": 473580635,
+      "uploaded_at": "2026-07-01T07:56:29Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.5,
+        "upload_sec": 32.0
+      }
     }
   ],
   "failed_attempts": [
@@ -137487,5 +137506,5 @@
       "failed_at": "2026-07-01T05:22:43Z"
     }
   ],
-  "last_updated": "2026-07-01T07:55:31Z"
+  "last_updated": "2026-07-01T07:56:29Z"
 }
