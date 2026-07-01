@@ -49938,3 +49938,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:13:47]   upload done video_id=27033575 in 27.6s
 [02:13:49] film cr_film_id=25978 OK in 48.1s
 [02:13:49] batch-end ok=20 failed=0 dur=1642.6s avg/film=82.1s remaining=10651 eta_hours=242.9
+
+===== run 2026-07-01T02:24:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28489183656) =====
+[02:24:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:24:21] batch-start shard=0/2 count=20 backlog=17650 uploads=6999 failed_attempts=491 description_overrides=17579
+[02:24:21] login
+[02:24:23] login done
+[02:24:23] iteration 1/20
+[02:24:23] film cr_film_id=25980 name='Detektiv Varg Veum: Hořké květy (2007) CZ' candidates=1
+[02:24:23]   candidate upload_id=5a8d6e4010a82 url=https://prehraj.to/detektiv-varg-veum-horke-kvety-2007/5a8d6e4010a82
+[02:24:24]   resolved in 1.6s → 480p (https://pf-storage2.premiumcdn.net/3436393/YeJsDoiaJIb7IoDI8WTyjiqrIOXIwlUA9FOzF…)
+[02:24:52]   downloaded 432.8 MB in 25.6s (16.9 MB/s)
+[02:25:28]   upload done video_id=27033908 in 36.1s
