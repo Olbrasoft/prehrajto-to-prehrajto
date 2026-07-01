@@ -50526,3 +50526,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:39:54]   upload done video_id=27037253 in 104.0s
 [04:39:56] film cr_film_id=26264 OK in 173.8s
 [04:39:56] batch-end ok=20 failed=0 dur=2128.9s avg/film=106.4s remaining=10571 eta_hours=312.4
+
+===== run 2026-07-01T04:48:16Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28494237491) =====
+[04:48:17] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:48:17] batch-start shard=0/2 count=20 backlog=17650 uploads=7079 failed_attempts=491 description_overrides=17579
+[04:48:17] login
+[04:48:18] login done
+[04:48:18] iteration 1/20
+[04:48:18] film cr_film_id=26274 name='Puls 2: Posmrtný život (2008) CZ' candidates=3
+[04:48:18]   candidate upload_id=5801fe525a781 url=https://prehraj.to/puls-2-posmrtny-zivot-cz-horor-2008-kk/5801fe525a781
+[04:48:20]   resolved in 1.3s → 480p (https://pf-storage2.premiumcdn.net/709646/JOgTeaUX3Cl6cqph3vs3YU1rTWXfLBhEbiA3CW…)
+[04:48:39]   downloaded 349.7 MB in 17.1s (20.5 MB/s)
+[04:49:10]   upload done video_id=27037508 in 31.5s
