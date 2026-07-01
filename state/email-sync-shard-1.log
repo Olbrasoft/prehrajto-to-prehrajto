@@ -53530,3 +53530,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:51:11]   upload done video_id=27060742 in 47.5s
 [21:51:15] film cr_film_id=28519 OK in 80.3s
 [21:51:15] batch-end ok=20 failed=0 dur=4614.0s avg/film=230.7s remaining=10163 eta_hours=651.3
+
+===== run 2026-07-01T21:52:29Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28550148517) =====
+[21:52:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:52:31] batch-start shard=1/2 count=20 backlog=17650 uploads=7487 failed_attempts=439 description_overrides=17579
+[21:52:31] login
+[21:52:32] login done
+[21:52:32] iteration 1/20
+[21:52:32] film cr_film_id=28521 name='V hlubinách země (2013) CZ Dabing' candidates=1
+[21:52:32]   candidate upload_id=68eb59c645a92 url=https://prehraj.to/v-hlubinach-zeme-2013-cz-dab-720p/68eb59c645a92
+[21:52:34]   resolved in 1.1s → 720p (https://pf-storage3.premiumcdn.net/151050708/xOjHjxUdPt8qujkSbytzVUWZHrOiwWtKPuJ…)
+[21:53:34]   downloaded 1,670.2 MB in 59.4s (28.1 MB/s)
+[21:54:59]   upload done video_id=27060824 in 85.1s
