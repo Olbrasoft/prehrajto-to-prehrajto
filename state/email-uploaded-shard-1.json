@@ -130175,6 +130175,25 @@
         "download_sec": 11.2,
         "upload_sec": 23.7
       }
+    },
+    {
+      "cr_film_id": 26255,
+      "cr_slug": "rocker-2008",
+      "title": "Rocker",
+      "year": 2008,
+      "display_name": "Rocker (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a935a4895c07",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27032138,
+      "size_bytes": 629141629,
+      "uploaded_at": "2026-07-01T00:57:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.0,
+        "upload_sec": 31.8
+      }
     }
   ],
   "failed_attempts": [
@@ -133270,5 +133289,5 @@
       }
     }
   ],
-  "last_updated": "2026-07-01T00:56:26Z"
+  "last_updated": "2026-07-01T00:57:21Z"
 }
