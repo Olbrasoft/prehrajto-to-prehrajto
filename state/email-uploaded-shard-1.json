@@ -131372,6 +131372,25 @@
         "download_sec": 23.6,
         "upload_sec": 32.6
       }
+    },
+    {
+      "cr_film_id": 26519,
+      "cr_slug": "netvor-2011",
+      "title": "Netvor",
+      "year": 2011,
+      "display_name": "Netvor (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b35173f66791",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27034307,
+      "size_bytes": 297514724,
+      "uploaded_at": "2026-07-01T02:41:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 10.0,
+        "upload_sec": 23.6
+      }
     }
   ],
   "failed_attempts": [
@@ -134467,5 +134486,5 @@
       }
     }
   ],
-  "last_updated": "2026-07-01T02:40:23Z"
+  "last_updated": "2026-07-01T02:41:01Z"
 }
