@@ -50872,3 +50872,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:47:34]   upload done video_id=27037466 in 37.1s
 [04:47:36] film cr_film_id=26815 OK in 65.6s
 [04:47:36] batch-end ok=19 failed=1 dur=2582.5s avg/film=135.9s remaining=10517 eta_hours=397.0
+
+===== run 2026-07-01T04:48:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28494237491) =====
+[04:48:18] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:48:18] batch-start shard=1/2 count=20 backlog=17650 uploads=7133 failed_attempts=424 description_overrides=17579
+[04:48:18] login
+[04:48:19] login done
+[04:48:19] iteration 1/20
+[04:48:19] film cr_film_id=26817 name='Touha tančit (2009) CZ Dabing' candidates=3
+[04:48:19]   candidate upload_id=5b53e246aeed3 url=https://prehraj.to/love-and-dance-2009-dvdrip-cz-dabing/5b53e246aeed3
+[04:48:21]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/4958673/wrBfLMULJfD3t9duyGho4UBLuwoHqxcJkcl0u…)
+[04:49:09]   downloaded 811.8 MB in 46.0s (17.6 MB/s)
+[04:50:07]   upload done video_id=27037520 in 57.7s
