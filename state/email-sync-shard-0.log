@@ -49497,3 +49497,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:44:50]   upload done video_id=27031679 in 48.7s
 [00:44:52] film cr_film_id=25778 OK in 92.8s
 [00:44:52] batch-end ok=20 failed=0 dur=2023.2s avg/film=101.2s remaining=10711 eta_hours=301.1
+
+===== run 2026-07-01T00:45:28Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28485561362) =====
+[00:45:29] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:45:29] batch-start shard=0/2 count=20 backlog=17650 uploads=6939 failed_attempts=491 description_overrides=17579
+[00:45:29] login
+[00:45:31] login done
+[00:45:31] iteration 1/20
+[00:45:31] film cr_film_id=25784 name='Vstupní brána (2007) CZ' candidates=1
+[00:45:31]   candidate upload_id=5858b20bcf45d url=https://prehraj.to/vstupni-brana-thriller-francie-2007-cz/5858b20bcf45d
+[00:45:32]   resolved in 0.9s → 480p (https://pf-storage2.premiumcdn.net/1199391/YVxTpQI3WH0puzwUAJSLyIedTMbUYpFK8uqdc…)
+[00:45:51]   downloaded 428.2 MB in 17.3s (24.7 MB/s)
+[00:46:41]   upload done video_id=27031740 in 50.2s
