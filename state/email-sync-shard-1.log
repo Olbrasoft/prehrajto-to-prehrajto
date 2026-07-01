@@ -53973,3 +53973,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:33:25]   upload done video_id=27063428 in 29.0s
 [23:33:27] film cr_film_id=28917 OK in 53.8s
 [23:33:27] batch-end ok=20 failed=0 dur=2339.5s avg/film=117.0s remaining=10104 eta_hours=328.4
+
+===== run 2026-07-01T23:35:04Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28554835609) =====
+[23:35:08] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:35:08] batch-start shard=1/2 count=20 backlog=17650 uploads=7546 failed_attempts=442 description_overrides=17579
+[23:35:08] login
+[23:35:09] login done
+[23:35:09] iteration 1/20
+[23:35:09] film cr_film_id=28921 name='Čertova nevěsta (1975) CZ' candidates=2
+[23:35:09]   candidate upload_id=60b73cffb2bf9 url=https://prehraj.to/certova-nevesta-1975/60b73cffb2bf9
+[23:35:11]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/23727549/aKAFOnivBhwJCYQiyqfdmiwgIpnIXxHZpuKa…)
+[23:35:34]   downloaded 361.2 MB in 21.5s (16.8 MB/s)
+[23:36:07]   upload done video_id=27063493 in 32.5s
