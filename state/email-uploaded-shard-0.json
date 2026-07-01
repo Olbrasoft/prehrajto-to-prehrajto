@@ -136341,6 +136341,25 @@
         "download_sec": 61.3,
         "upload_sec": 77.7
       }
+    },
+    {
+      "cr_film_id": 27448,
+      "cr_slug": "beznadejny-trouba",
+      "title": "Beznadějný trouba",
+      "year": 2011,
+      "display_name": "Beznadějný trouba (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5abdc18384d24",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27049128,
+      "size_bytes": 1134665324,
+      "uploaded_at": "2026-07-01T14:50:40Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 40.3,
+        "upload_sec": 63.5
+      }
     }
   ],
   "failed_attempts": [
@@ -139895,5 +139914,5 @@
       "failed_at": "2026-07-01T05:59:56Z"
     }
   ],
-  "last_updated": "2026-07-01T14:48:52Z"
+  "last_updated": "2026-07-01T14:50:40Z"
 }
