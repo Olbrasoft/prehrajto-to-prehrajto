@@ -53270,3 +53270,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [22:17:17]   upload done video_id=27061474 in 69.5s
 [22:17:21] film cr_film_id=27906 OK in 197.1s
 [22:17:21] batch-end ok=20 failed=0 dur=1485.4s avg/film=74.3s remaining=10205 eta_hours=210.6
+
+===== run 2026-07-01T22:28:16Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28551900032) =====
+[22:28:17] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:28:17] batch-start shard=0/2 count=20 backlog=17650 uploads=7445 failed_attempts=501 description_overrides=17579
+[22:28:17] login
+[22:28:22] login done
+[22:28:22] iteration 1/20
+[22:28:22] film cr_film_id=27916 name='Láska všemi deseti (2012) CZ' candidates=1
+[22:28:22]   candidate upload_id=5ad89c6cb6b9f url=https://prehraj.to/laska-vsemi-deseti-2012/5ad89c6cb6b9f
+[22:28:23]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3903184/dVBh1rcMPsOMcN7HnzsX5c3wIzAtwgUMAIG0S…)
+[22:28:51]   downloaded 717.4 MB in 26.6s (27.0 MB/s)
+[22:29:41]   upload done video_id=27061964 in 50.1s
