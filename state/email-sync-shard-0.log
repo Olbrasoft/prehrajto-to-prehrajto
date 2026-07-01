@@ -52539,3 +52539,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:16:59]   upload done video_id=27050007 in 40.1s
 [15:17:01] film cr_film_id=27498 OK in 62.2s
 [15:17:01] batch-end ok=20 failed=0 dur=2328.9s avg/film=116.4s remaining=10300 eta_hours=333.0
+
+===== run 2026-07-01T15:31:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28528987988) =====
+[15:31:34] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:31:35] batch-start shard=0/2 count=20 backlog=17650 uploads=7350 failed_attempts=495 description_overrides=17579
+[15:31:35] login
+[15:31:36] login done
+[15:31:36] iteration 1/20
+[15:31:36] film cr_film_id=27500 name='8213: Dům hrůz (2010) CZ' candidates=2
+[15:31:36]   candidate upload_id=60115b9d211e7 url=https://prehraj.to/8213-gacy-house-8213-dum-hruzy-horor-2010-cz-titulky/60115b9d211e7
+[15:31:37]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/21793023/VpDFVMuQ4s3Ruo8CXQhxQu4OCMliOQHNei2M…)
+[15:32:03]   downloaded 463.2 MB in 23.4s (19.8 MB/s)
+[15:32:35]   upload done video_id=27050443 in 32.0s
