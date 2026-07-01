@@ -50608,3 +50608,21 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:06:05]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/48313526/EGZtzWIP1sRmCz5uQvfG7I9xFGAt16hnGtpX…)
 [05:06:28]   downloaded 459.0 MB in 21.4s (21.4 MB/s)
 [05:07:13]   upload done video_id=27037941 in 45.0s
+[05:07:15] film cr_film_id=26322 OK in 71.7s
+[05:07:15] iteration 12/20
+[05:07:15] film cr_film_id=26328 name='Svátky na návsi s Dolly Parton (2020) CZ' candidates=1
+[05:07:15]   candidate upload_id=5fc03e2df2fe1 url=https://prehraj.to/svatky-na-navsi-s-dolly-parton-roddiny-2020-cz-titulky/5fc03e2df2fe1
+[05:09:04]   resolve FAILED: HTTP 500 after 5 attempts: https://prehraj.to/svatky-na-navsi-s-dolly-parton-roddiny-2020-cz-titulky/5fc03e2df2fe1 (permanent=False)
+[05:09:04] film cr_film_id=26328 all candidates exhausted
+[05:09:04] iteration 13/20
+[05:09:04] film cr_film_id=26336 name='Pavučina hrůzy (2007) CZ' candidates=1
+[05:09:04]   candidate upload_id=606c3c28c2f83 url=https://prehraj.to/pavucina-hruzy-horor-2007-cz-dabing/606c3c28c2f83
+[05:10:59]   resolve FAILED: HTTP 500 after 5 attempts: https://prehraj.to/pavucina-hruzy-horor-2007-cz-dabing/606c3c28c2f83 (permanent=False)
+[05:10:59] film cr_film_id=26336 all candidates exhausted
+[05:10:59] iteration 14/20
+[05:10:59] film cr_film_id=26340 name='Vánoční loupež (2007) CZ Dabing' candidates=1
+[05:10:59]   candidate upload_id=5a319c9e928f1 url=https://prehraj.to/vanocni-loupez-2007-cz-dabing/5a319c9e928f1
+[05:12:52]   resolve FAILED: HTTP 500 after 5 attempts: https://prehraj.to/vanocni-loupez-2007-cz-dabing/5a319c9e928f1 (permanent=False)
+[05:12:52] film cr_film_id=26340 all candidates exhausted
+[05:12:52] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
+[05:12:52] batch-end ok=11 failed=3 dur=1473.9s avg/film=134.0s remaining=10560 eta_hours=393.1

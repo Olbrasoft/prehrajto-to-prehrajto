@@ -135191,7 +135191,28 @@
         "download_sec": 18.3,
         "upload_sec": 55.0
       }
+    },
+    {
+      "cr_film_id": 26328,
+      "upload_id": "5fc03e2df2fe1",
+      "reason": "resolve_failed: HTTP 500 after 5 attempts: https://prehraj.to/svatky-na-navsi-s-dolly-parton-roddiny-2020-cz-titulky/5fc03e2df2fe1",
+      "permanent": false,
+      "failed_at": "2026-07-01T05:09:04Z"
+    },
+    {
+      "cr_film_id": 26336,
+      "upload_id": "606c3c28c2f83",
+      "reason": "resolve_failed: HTTP 500 after 5 attempts: https://prehraj.to/pavucina-hruzy-horor-2007-cz-dabing/606c3c28c2f83",
+      "permanent": false,
+      "failed_at": "2026-07-01T05:10:59Z"
+    },
+    {
+      "cr_film_id": 26340,
+      "upload_id": "5a319c9e928f1",
+      "reason": "resolve_failed: HTTP 500 after 5 attempts: https://prehraj.to/vanocni-loupez-2007-cz-dabing/5a319c9e928f1",
+      "permanent": false,
+      "failed_at": "2026-07-01T05:12:52Z"
     }
   ],
-  "last_updated": "2026-07-01T05:07:13Z"
+  "last_updated": "2026-07-01T05:12:52Z"
 }
