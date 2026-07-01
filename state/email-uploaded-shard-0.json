@@ -135334,6 +135334,25 @@
         "download_sec": 30.5,
         "upload_sec": 41.0
       }
+    },
+    {
+      "cr_film_id": 27210,
+      "cr_slug": "kralovsky-vikend",
+      "title": "Královský víkend",
+      "year": 2012,
+      "display_name": "Královský víkend (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "558bd2364c424",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27045661,
+      "size_bytes": 485529086,
+      "uploaded_at": "2026-07-01T12:51:32Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.1,
+        "upload_sec": 45.8
+      }
     }
   ],
   "failed_attempts": [
@@ -138888,5 +138907,5 @@
       "failed_at": "2026-07-01T05:59:56Z"
     }
   ],
-  "last_updated": "2026-07-01T12:50:17Z"
+  "last_updated": "2026-07-01T12:51:32Z"
 }
