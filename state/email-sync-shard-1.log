@@ -50727,3 +50727,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:03:44]   upload done video_id=27036439 in 64.8s
 [04:03:46] film cr_film_id=26735 OK in 124.8s
 [04:03:46] batch-end ok=20 failed=0 dur=2193.8s avg/film=109.7s remaining=10536 eta_hours=321.1
+
+===== run 2026-07-01T04:04:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28492673757) =====
+[04:04:32] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:04:32] batch-start shard=1/2 count=20 backlog=17650 uploads=7114 failed_attempts=423 description_overrides=17579
+[04:04:32] login
+[04:04:34] login done
+[04:04:34] iteration 1/20
+[04:04:34] film cr_film_id=26737 name='Cabin Fever 2: Spring Fever - Behind the Scenes (2010) CZ Dabing' candidates=1
+[04:04:34]   candidate upload_id=57cf8f105f1dd url=https://prehraj.to/cabin-fever-2-2010-czdabing/57cf8f105f1dd
+[04:04:35]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/14940/7Nzuo2ix4T0QHWPuzWf6jiGJiW2tl7CnNu74tvq…)
+[04:04:59]   downloaded 453.1 MB in 21.7s (20.9 MB/s)
+[04:05:45]   upload done video_id=27036488 in 45.8s
