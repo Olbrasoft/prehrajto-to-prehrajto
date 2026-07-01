@@ -49644,3 +49644,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:10:07]   upload done video_id=27032453 in 21.0s
 [01:10:10] film cr_film_id=25850 OK in 39.0s
 [01:10:10] batch-end ok=20 failed=0 dur=1479.1s avg/film=74.0s remaining=10691 eta_hours=219.8
+
+===== run 2026-07-01T01:10:50Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28486508317) =====
+[01:10:51] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:10:51] batch-start shard=0/2 count=20 backlog=17650 uploads=6959 failed_attempts=491 description_overrides=17579
+[01:10:51] login
+[01:10:53] login done
+[01:10:53] iteration 1/20
+[01:10:53] film cr_film_id=25858 name='Divoký Stomp (2007) CZ Dabing' candidates=10
+[01:10:53]   candidate upload_id=5b70db4aad4d5 url=https://prehraj.to/divoky-stomp-2007-cz-dabing/5b70db4aad4d5
+[01:10:54]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/5289332/xMnsxAU9PIxYt0mTvXck4UVJCkvC4KT4nFdqH…)
+[01:11:46]   downloaded 1,279.3 MB in 49.9s (25.6 MB/s)
+[01:13:29]   upload done video_id=27032473 in 102.6s
