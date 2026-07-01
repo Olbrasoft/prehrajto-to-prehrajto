@@ -51510,3 +51510,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:53:06]   upload done video_id=27043164 in 46.3s
 [09:53:09] film cr_film_id=26846 OK in 71.5s
 [09:53:09] batch-end ok=20 failed=0 dur=1663.8s avg/film=83.2s remaining=10440 eta_hours=241.3
+
+===== run 2026-07-01T10:06:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28509791136) =====
+[10:06:55] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:06:55] batch-start shard=0/2 count=20 backlog=17650 uploads=7210 failed_attempts=495 description_overrides=17579
+[10:06:55] login
+[10:07:01] login done
+[10:07:01] iteration 1/20
+[10:07:01] film cr_film_id=26848 name='Uvězněni v domě (2021) CZ Dabing' candidates=1
+[10:07:01]   candidate upload_id=622cfda77f099 url=https://prehraj.to/uvezneni-v-dome-2021-cz-dabing/622cfda77f099
+[10:07:02]   resolved in 1.6s → 1080p (https://pf-storage6.premiumcdn.net/30039070/PGwunkixBF3viZyURjcaWiGgikYT0LH0yHvk…)
+[10:08:02]   downloaded 1,785.9 MB in 57.9s (30.8 MB/s)
+[10:09:38]   upload done video_id=27043421 in 96.4s
