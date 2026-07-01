@@ -50961,3 +50961,30 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:05:37]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/30083889/mvnfkycV0IyJUWYfemCYQcm4hwbhXbfWncG7…)
 [05:07:27]   downloaded 1,977.8 MB in 107.6s (18.4 MB/s)
 [05:09:32]   upload done video_id=27037963 in 125.3s
+[05:09:35] film cr_film_id=26881 OK in 239.1s
+[05:09:35] iteration 13/20
+[05:09:35] film cr_film_id=26885 name='Květinářka (2009) CZ' candidates=1
+[05:09:35]   candidate upload_id=5ad2a0e5ead98 url=https://prehraj.to/kvetinarka-2009/5ad2a0e5ead98
+[05:11:22]   resolve FAILED: HTTP 500 after 5 attempts: https://prehraj.to/kvetinarka-2009/5ad2a0e5ead98 (permanent=False)
+[05:11:23] film cr_film_id=26885 all candidates exhausted
+[05:11:23] iteration 14/20
+[05:11:23] film cr_film_id=26887 name='Americká panna (2009) CZ Dabing' candidates=5
+[05:11:23]   candidate upload_id=5820f85aa72df url=https://prehraj.to/americka-panna-american-virgin-cz-dabing-2009/5820f85aa72df
+[05:13:16]   resolve FAILED: HTTP 500 after 5 attempts: https://prehraj.to/americka-panna-american-virgin-cz-dabing-2009/5820f85aa72df (permanent=False)
+[05:13:16]   candidate upload_id=5605e37b921ca url=https://prehraj.to/americka-panna-american-virgin-cz-dabing-2009/5605e37b921ca
+[05:15:08]   resolve FAILED: HTTP 500 after 5 attempts: https://prehraj.to/americka-panna-american-virgin-cz-dabing-2009/5605e37b921ca (permanent=False)
+[05:15:08]   candidate upload_id=5a202e39cb372 url=https://prehraj.to/americka-panna-american-virgin-cz-dabing-2009/5a202e39cb372
+[05:17:03]   resolve FAILED: HTTP 500 after 5 attempts: https://prehraj.to/americka-panna-american-virgin-cz-dabing-2009/5a202e39cb372 (permanent=False)
+[05:17:03]   candidate upload_id=59beaa11bea96 url=https://prehraj.to/americka-panna-american-virgin-cz-dabing-2009/59beaa11bea96
+[05:18:56]   resolve FAILED: HTTP 500 after 5 attempts: https://prehraj.to/americka-panna-american-virgin-cz-dabing-2009/59beaa11bea96 (permanent=False)
+[05:18:56]   candidate upload_id=5b289d24dbf3b url=https://prehraj.to/americka-panna-komedie-cz-dab-2009-jad/5b289d24dbf3b
+[05:20:51]   resolve FAILED: HTTP 500 after 5 attempts: https://prehraj.to/americka-panna-komedie-cz-dab-2009-jad/5b289d24dbf3b (permanent=False)
+[05:20:51] film cr_film_id=26887 all candidates exhausted
+[05:20:51] iteration 15/20
+[05:20:51] film cr_film_id=26889 name='Než řekneš ano (2009) CZ' candidates=2
+[05:20:51]   candidate upload_id=5ac55d0792558 url=https://prehraj.to/nez-reknes-ano-2009/5ac55d0792558
+[05:22:43]   resolve FAILED: HTTP 500 after 5 attempts: https://prehraj.to/nez-reknes-ano-2009/5ac55d0792558 (permanent=False)
+[05:22:43]   candidate upload_id=5859635833c99 url=https://prehraj.to/nez-reknes-ano-2009-cz-dabing/5859635833c99
+[05:24:36]   resolved in 113.4s → 480p (https://pf-storage2.premiumcdn.net/1213702/j7Rh3mHLJh4RFRouMyI3QHQgfA5COMu0zS7mT…)
+[05:25:04]   downloaded 416.5 MB in 25.2s (16.5 MB/s)
+[05:25:40]   upload done video_id=27038196 in 36.2s
