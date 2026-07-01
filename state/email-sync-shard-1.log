@@ -51172,3 +51172,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:04:56]   upload done video_id=27039734 in 42.4s
 [06:04:59] film cr_film_id=27009 OK in 76.5s
 [06:04:59] batch-end ok=20 failed=0 dur=1654.4s avg/film=82.7s remaining=10479 eta_hours=240.7
+
+===== run 2026-07-01T06:19:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28497803924) =====
+[06:19:45] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:19:46] batch-start shard=1/2 count=20 backlog=17650 uploads=7171 failed_attempts=431 description_overrides=17579
+[06:19:46] login
+[06:19:48] login done
+[06:19:48] iteration 1/20
+[06:19:48] film cr_film_id=27019 name='Flicka 2 (2010) CZ Dabing' candidates=2
+[06:19:48]   candidate upload_id=610fc9a4d98a1 url=https://prehraj.to/flicka-2-2010-cz-dabing-novinka/610fc9a4d98a1
+[06:19:49]   resolved in 1.3s → 480p (https://pf-storage3.premiumcdn.net/24554126/8Lzh4VFL4h34Foxt9PtMBFG0cjet6Nc9ahRv…)
+[06:20:22]   downloaded 598.3 MB in 30.6s (19.6 MB/s)
+[06:21:12]   upload done video_id=27040018 in 50.6s
