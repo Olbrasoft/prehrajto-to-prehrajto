@@ -129311,6 +129311,25 @@
         "download_sec": 51.8,
         "upload_sec": 61.0
       }
+    },
+    {
+      "cr_film_id": 25876,
+      "cr_slug": "bill",
+      "title": "Bill",
+      "year": 2007,
+      "display_name": "Bill (2007) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "688ef916c9a8b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27032612,
+      "size_bytes": 2167215006,
+      "uploaded_at": "2026-07-01T01:26:32Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 84.0,
+        "upload_sec": 114.5
+      }
     }
   ],
   "failed_attempts": [
@@ -132837,5 +132856,5 @@
       }
     }
   ],
-  "last_updated": "2026-07-01T01:23:08Z"
+  "last_updated": "2026-07-01T01:26:32Z"
 }
