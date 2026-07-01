@@ -138488,6 +138488,25 @@
         "download_sec": 17.9,
         "upload_sec": 28.5
       }
+    },
+    {
+      "cr_film_id": 27948,
+      "cr_slug": "fort-bliss",
+      "title": "Fort Bliss",
+      "year": 2014,
+      "display_name": "Fort Bliss (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "57d13f35b6ea6",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27062078,
+      "size_bytes": 626075082,
+      "uploaded_at": "2026-07-01T22:34:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.3,
+        "upload_sec": 42.2
+      }
     }
   ],
   "failed_attempts": [
@@ -142099,5 +142118,5 @@
       "failed_at": "2026-07-01T16:42:44Z"
     }
   ],
-  "last_updated": "2026-07-01T22:33:44Z"
+  "last_updated": "2026-07-01T22:34:55Z"
 }
