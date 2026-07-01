@@ -129615,6 +129615,25 @@
         "download_sec": 19.3,
         "upload_sec": 36.2
       }
+    },
+    {
+      "cr_film_id": 25922,
+      "cr_slug": "jack-a-jill",
+      "title": "Jack a Jill",
+      "year": 2011,
+      "display_name": "Jack a Jill (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a9b707f13006",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27033032,
+      "size_bytes": 1379323479,
+      "uploaded_at": "2026-07-01T01:51:30Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 39.6,
+        "upload_sec": 67.5
+      }
     }
   ],
   "failed_attempts": [
@@ -133141,5 +133160,5 @@
       }
     }
   ],
-  "last_updated": "2026-07-01T01:49:39Z"
+  "last_updated": "2026-07-01T01:51:30Z"
 }
