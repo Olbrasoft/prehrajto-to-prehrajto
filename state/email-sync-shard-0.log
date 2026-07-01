@@ -52717,3 +52717,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:36:27]   resolved in 1.3s → 480p (https://pf-storage4.premiumcdn.net/28006614/GdMU5BTDEskec1mh4VT21TMkHdDHbWirNIBP…)
 [16:38:25]   downloaded 635.6 MB in 116.5s (5.5 MB/s)
 [16:39:15]   upload done video_id=27051748 in 49.5s
+[16:39:17] film cr_film_id=27570 OK in 171.7s
+[16:39:17] iteration 5/20
+[16:39:17] film cr_film_id=27572 name='Den na zkoušku (2011) CZ' candidates=1
+[16:39:17]   candidate upload_id=5aa3c42e1b8de url=https://prehraj.to/den-na-zkousku-2011/5aa3c42e1b8de
+[16:42:44]   resolve FAILED: HTTP 504 after 5 attempts: https://prehraj.to/den-na-zkousku-2011/5aa3c42e1b8de (permanent=False)
+[16:42:44] film cr_film_id=27572 all candidates exhausted
+[16:42:44] iteration 6/20
+[16:42:44] film cr_film_id=27574 name='Škola ve mlejně (2007) CZ' candidates=2
+[16:42:44]   candidate upload_id=58454090b7a1d url=https://prehraj.to/skola-ve-mlejne-2007/58454090b7a1d
+[16:44:36]   resolved in 112.1s → 480p (https://pf-storage2.premiumcdn.net/1011917/nQaszJTZEskec6GhR1cv2TyBhB0U0RUJ3iQAt…)
+[16:45:06]   downloaded 546.2 MB in 27.9s (19.6 MB/s)
+[16:45:44]   upload done video_id=27051826 in 38.3s

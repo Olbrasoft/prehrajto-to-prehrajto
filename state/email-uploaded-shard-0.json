@@ -136987,6 +136987,25 @@
         "download_sec": 116.5,
         "upload_sec": 49.5
       }
+    },
+    {
+      "cr_film_id": 27574,
+      "cr_slug": "skola-ve-mlejne",
+      "title": "Škola ve mlejně",
+      "year": 2007,
+      "display_name": "Škola ve mlejně (2007) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58454090b7a1d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27051826,
+      "size_bytes": 546178512,
+      "uploaded_at": "2026-07-01T16:45:44Z",
+      "timing": {
+        "resolve_sec": 112.1,
+        "download_sec": 27.9,
+        "upload_sec": 38.3
+      }
     }
   ],
   "failed_attempts": [
@@ -140589,7 +140608,14 @@
       "reason": "resolve_failed: HTTP 504 after 5 attempts: https://prehraj.to/lide-jako-my-2012-cz-dabing/5c25d7d62b147",
       "permanent": false,
       "failed_at": "2026-07-01T16:30:50Z"
+    },
+    {
+      "cr_film_id": 27572,
+      "upload_id": "5aa3c42e1b8de",
+      "reason": "resolve_failed: HTTP 504 after 5 attempts: https://prehraj.to/den-na-zkousku-2011/5aa3c42e1b8de",
+      "permanent": false,
+      "failed_at": "2026-07-01T16:42:44Z"
     }
   ],
-  "last_updated": "2026-07-01T16:39:15Z"
+  "last_updated": "2026-07-01T16:45:44Z"
 }
