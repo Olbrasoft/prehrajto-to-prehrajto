@@ -129083,6 +129083,25 @@
         "download_sec": 79.4,
         "upload_sec": 159.9
       }
+    },
+    {
+      "cr_film_id": 25832,
+      "cr_slug": "zlost",
+      "title": "Zlost",
+      "year": 2008,
+      "display_name": "Zlost (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b80f23c8295f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27032406,
+      "size_bytes": 415369937,
+      "uploaded_at": "2026-07-01T01:06:08Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.2,
+        "upload_sec": 32.6
+      }
     }
   ],
   "failed_attempts": [
@@ -132609,5 +132628,5 @@
       }
     }
   ],
-  "last_updated": "2026-07-01T01:05:15Z"
+  "last_updated": "2026-07-01T01:06:08Z"
 }
