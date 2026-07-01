@@ -52392,3 +52392,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:30:57]   upload done video_id=27048433 in 39.6s
 [14:31:01] film cr_film_id=27424 OK in 105.6s
 [14:31:01] batch-end ok=20 failed=0 dur=2518.9s avg/film=125.9s remaining=10320 eta_hours=360.9
+
+===== run 2026-07-01T14:38:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28525575904) =====
+[14:38:11] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:38:11] batch-start shard=0/2 count=20 backlog=17650 uploads=7330 failed_attempts=495 description_overrides=17579
+[14:38:11] login
+[14:38:12] login done
+[14:38:12] iteration 1/20
+[14:38:12] film cr_film_id=27426 name='Znovu a jinak (2011) CZ Dabing' candidates=2
+[14:38:12]   candidate upload_id=59bb7f01ec899 url=https://prehraj.to/znovu-a-jinak-2011-cz-dabing/59bb7f01ec899
+[14:38:14]   resolved in 1.7s → 480p (https://pf-storage5.premiumcdn.net/2626042/3gdf0vun0TqDS6WiZPh2BudGSD5i9BF5ACyoC…)
+[14:38:32]   downloaded 434.6 MB in 16.1s (27.0 MB/s)
+[14:39:05]   upload done video_id=27048695 in 32.9s
