@@ -52942,3 +52942,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [15:30:53]   upload done video_id=27050408 in 24.7s
 [15:30:55] film cr_film_id=28131 OK in 42.9s
 [15:30:55] batch-end ok=20 failed=0 dur=3164.7s avg/film=158.2s remaining=10239 eta_hours=449.9
+
+===== run 2026-07-01T15:31:33Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28528987988) =====
+[15:31:35] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[15:31:35] batch-start shard=1/2 count=20 backlog=17650 uploads=7411 failed_attempts=434 description_overrides=17579
+[15:31:35] login
+[15:31:37] login done
+[15:31:37] iteration 1/20
+[15:31:37] film cr_film_id=28135 name='Ledové království (2013) CZ Dabing' candidates=7
+[15:31:37]   candidate upload_id=ed9d5fa573292651 url=https://prehraj.to/ledove-kralovstvi-2013-anim-czdab-m-mkv/ed9d5fa573292651
+[15:31:38]   resolved in 1.3s → 720p (https://pf-storage3.premiumcdn.net/167490944/ldpfWbUQ1SYpsaXugMilzU8Of4li3qh0nCO…)
+[15:32:27]   downloaded 1,635.0 MB in 47.3s (34.6 MB/s)
+[15:33:39]   upload done video_id=27050453 in 72.5s
