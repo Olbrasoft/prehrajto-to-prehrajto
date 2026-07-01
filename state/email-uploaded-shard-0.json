@@ -131116,6 +131116,25 @@
         "download_sec": 15.5,
         "upload_sec": 36.2
       }
+    },
+    {
+      "cr_film_id": 26186,
+      "cr_slug": "reznik-2009",
+      "title": "Řezník",
+      "year": 2009,
+      "display_name": "Řezník (2009) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5d7136ea5b2ce",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27036565,
+      "size_bytes": 1372752821,
+      "uploaded_at": "2026-07-01T04:09:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 48.9,
+        "upload_sec": 56.9
+      }
     }
   ],
   "failed_attempts": [
@@ -134642,5 +134661,5 @@
       }
     }
   ],
-  "last_updated": "2026-07-01T04:07:20Z"
+  "last_updated": "2026-07-01T04:09:10Z"
 }
