@@ -136246,6 +136246,25 @@
         "download_sec": 16.1,
         "upload_sec": 32.9
       }
+    },
+    {
+      "cr_film_id": 27434,
+      "cr_slug": "sharpay-s-fabulous-adventure",
+      "title": "Sharpay's Fabulous Adventure",
+      "year": 2011,
+      "display_name": "Sharpay's Fabulous Adventure (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a9c3a2a584dc",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27048764,
+      "size_bytes": 522181625,
+      "uploaded_at": "2026-07-01T14:40:49Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 67.5,
+        "upload_sec": 31.9
+      }
     }
   ],
   "failed_attempts": [
@@ -139800,5 +139819,5 @@
       "failed_at": "2026-07-01T05:59:56Z"
     }
   ],
-  "last_updated": "2026-07-01T14:39:05Z"
+  "last_updated": "2026-07-01T14:40:49Z"
 }
