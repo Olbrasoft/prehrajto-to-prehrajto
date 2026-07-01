@@ -131876,6 +131876,25 @@
         "download_sec": 20.3,
         "upload_sec": 33.5
       }
+    },
+    {
+      "cr_film_id": 26370,
+      "cr_slug": "impuls",
+      "title": "Impuls",
+      "year": 2008,
+      "display_name": "Impuls (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56829b73e1071",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27039658,
+      "size_bytes": 463144364,
+      "uploaded_at": "2026-07-01T06:02:05Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 24.6,
+        "upload_sec": 35.5
+      }
     }
   ],
   "failed_attempts": [
@@ -135430,5 +135449,5 @@
       "failed_at": "2026-07-01T05:59:56Z"
     }
   ],
-  "last_updated": "2026-07-01T06:00:59Z"
+  "last_updated": "2026-07-01T06:02:05Z"
 }
