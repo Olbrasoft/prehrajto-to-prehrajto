@@ -50286,3 +50286,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:23:37]   upload done video_id=27033848 in 34.6s
 [02:23:39] film cr_film_id=26469 OK in 62.3s
 [02:23:39] batch-end ok=20 failed=0 dur=2231.4s avg/film=111.6s remaining=10596 eta_hours=328.5
+
+===== run 2026-07-01T02:24:15Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28489183656) =====
+[02:24:18] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:24:18] batch-start shard=1/2 count=20 backlog=17650 uploads=7054 failed_attempts=423 description_overrides=17579
+[02:24:18] login
+[02:24:19] login done
+[02:24:19] iteration 1/20
+[02:24:19] film cr_film_id=26471 name='Krev mojí krve (2009) CZ Dabing' candidates=7
+[02:24:19]   candidate upload_id=5a21c103000c6 url=https://prehraj.to/krev-moji-krve-2009-dvdrip-cz-dabing/5a21c103000c6
+[02:24:20]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/3025539/Ye4H9AfmJC1xHGouNnHZ5fvXHOesgrCMAhDeh…)
+[02:24:41]   downloaded 503.7 MB in 19.4s (26.0 MB/s)
+[02:25:19]   upload done video_id=27033901 in 38.8s
