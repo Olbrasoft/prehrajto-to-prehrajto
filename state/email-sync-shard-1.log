@@ -50433,3 +50433,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:50:40]   upload done video_id=27034525 in 44.4s
 [02:50:42] film cr_film_id=26565 OK in 74.7s
 [02:50:42] batch-end ok=20 failed=0 dur=1583.1s avg/film=79.2s remaining=10576 eta_hours=232.7
+
+===== run 2026-07-01T02:58:23Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28490365942) =====
+[02:58:25] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:58:25] batch-start shard=1/2 count=20 backlog=17650 uploads=7074 failed_attempts=423 description_overrides=17579
+[02:58:25] login
+[02:58:26] login done
+[02:58:26] iteration 1/20
+[02:58:26] film cr_film_id=26571 name='Detektiv Varg Veum: Nadosmrti tvůj (2008) CZ' candidates=4
+[02:58:26]   candidate upload_id=5a8dd8ba47d9c url=https://prehraj.to/detektiv-varg-veum-padli-andele-2008/5a8dd8ba47d9c
+[02:58:27]   resolved in 1.1s → 480p (https://pf-storage1.premiumcdn.net/3437271/bRltj7sZ5tndTY9sv4iWBsbESWKu3eiepHVaU…)
+[02:58:42]   downloaded 322.6 MB in 13.4s (24.1 MB/s)
+[02:59:06]   upload done video_id=27034783 in 23.3s
