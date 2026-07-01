@@ -134678,6 +134678,25 @@
         "download_sec": 113.2,
         "upload_sec": 75.6
       }
+    },
+    {
+      "cr_film_id": 27395,
+      "cr_slug": "unos-letadla",
+      "title": "Únos letadla",
+      "year": 2010,
+      "display_name": "Únos letadla (2010) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "673dc1d2c7f0d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27042162,
+      "size_bytes": 375937519,
+      "uploaded_at": "2026-07-01T08:46:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 39.9,
+        "upload_sec": 39.1
+      }
     }
   ],
   "failed_attempts": [
@@ -137829,5 +137848,5 @@
       "failed_at": "2026-07-01T05:22:43Z"
     }
   ],
-  "last_updated": "2026-07-01T08:45:10Z"
+  "last_updated": "2026-07-01T08:46:34Z"
 }
