@@ -49992,3 +49992,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:09:37]   upload done video_id=27032448 in 28.7s
 [01:09:39] film cr_film_id=26287 OK in 46.5s
 [01:09:39] batch-end ok=20 failed=0 dur=1448.1s avg/film=72.4s remaining=10636 eta_hours=213.9
+
+===== run 2026-07-01T01:10:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28486508317) =====
+[01:10:51] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:10:52] batch-start shard=1/2 count=20 backlog=17650 uploads=7014 failed_attempts=423 description_overrides=17579
+[01:10:52] login
+[01:10:53] login done
+[01:10:53] iteration 1/20
+[01:10:53] film cr_film_id=26299 name='Na stojáka v kině (2018) CZ Dabing' candidates=2
+[01:10:53]   candidate upload_id=60cf6149a71e0 url=https://prehraj.to/na-stojaka-v-kine-2018-czdab/60cf6149a71e0
+[01:10:54]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/23967075/oMWs9Ru8LHBVSQoH3DiWouwvHLZHXYCxwfQE…)
+[01:12:12]   downloaded 1,928.1 MB in 76.2s (25.3 MB/s)
+[01:14:01]   upload done video_id=27032479 in 109.2s
