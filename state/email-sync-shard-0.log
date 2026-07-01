@@ -51951,3 +51951,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:49:50]   upload done video_id=27045118 in 24.7s
 [11:49:52] film cr_film_id=27152 OK in 45.5s
 [11:49:52] batch-end ok=20 failed=0 dur=1795.5s avg/film=89.8s remaining=10380 eta_hours=258.9
+
+===== run 2026-07-01T12:21:06Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28517067997) =====
+[12:21:08] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:21:09] batch-start shard=0/2 count=20 backlog=17650 uploads=7270 failed_attempts=495 description_overrides=17579
+[12:21:09] login
+[12:21:11] login done
+[12:21:11] iteration 1/20
+[12:21:11] film cr_film_id=27154 name='Rozbitý svět (2012) CZ' candidates=1
+[12:21:11]   candidate upload_id=5abfcadc2fa0c url=https://prehraj.to/rozbity-svet-2012/5abfcadc2fa0c
+[12:21:12]   resolved in 1.4s → 480p (https://pf-storage1.premiumcdn.net/3797947/AxYUnVIgVCWmh4bHZwi7vI20hokTnmSaPsqVt…)
+[12:22:30]   downloaded 503.8 MB in 76.5s (6.6 MB/s)
+[12:23:06]   upload done video_id=27045421 in 35.2s
