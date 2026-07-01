@@ -133168,6 +133168,25 @@
         "download_sec": 14.5,
         "upload_sec": 25.1
       }
+    },
+    {
+      "cr_film_id": 26660,
+      "cr_slug": "kyklop",
+      "title": "Kyklop",
+      "year": 2008,
+      "display_name": "Kyklop (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b002a6738e3b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27041476,
+      "size_bytes": 660529810,
+      "uploaded_at": "2026-07-01T08:02:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 27.8,
+        "upload_sec": 37.0
+      }
     }
   ],
   "failed_attempts": [
@@ -136722,5 +136741,5 @@
       "failed_at": "2026-07-01T05:59:56Z"
     }
   ],
-  "last_updated": "2026-07-01T08:01:04Z"
+  "last_updated": "2026-07-01T08:02:14Z"
 }
