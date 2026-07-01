@@ -51804,3 +51804,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:19:15]   upload done video_id=27044609 in 28.6s
 [11:19:17] film cr_film_id=27072 OK in 52.2s
 [11:19:17] batch-end ok=20 failed=0 dur=2410.4s avg/film=120.5s remaining=10400 eta_hours=348.1
+
+===== run 2026-07-01T11:19:53Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28513745115) =====
+[11:19:55] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:19:55] batch-start shard=0/2 count=20 backlog=17650 uploads=7250 failed_attempts=495 description_overrides=17579
+[11:19:55] login
+[11:19:57] login done
+[11:19:57] iteration 1/20
+[11:19:57] film cr_film_id=27074 name='Legenda o létajícím Cypriánovi (2010) CZ' candidates=1
+[11:19:57]   candidate upload_id=5c06af5259f2e url=https://prehraj.to/legenda-o-letajicim-cyprianovi-2010/5c06af5259f2e
+[11:19:58]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/9001820/8K5TWKc9vUVWUQpIdMhzwcOzsEPsVAU5kTRWC…)
+[11:20:23]   downloaded 481.5 MB in 24.0s (20.1 MB/s)
+[11:21:04]   upload done video_id=27044630 in 40.5s
