@@ -141458,7 +141458,19 @@
         "download_sec": 19.7,
         "upload_sec": 40.4
       }
+    },
+    {
+      "cr_film_id": 28207,
+      "upload_id": "61d20cf7ad2bf",
+      "reason": "upload_failed: 504 Server Error: Gateway Time-out for url: https://prehraj.to/profil/nahrat-soubor?do=prepareVideo",
+      "permanent": false,
+      "failed_at": "2026-07-01T16:27:53Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.0,
+        "upload_sec": 40.2
+      }
     }
   ],
-  "last_updated": "2026-07-01T16:26:47Z"
+  "last_updated": "2026-07-01T16:27:53Z"
 }
