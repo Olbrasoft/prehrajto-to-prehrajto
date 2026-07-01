@@ -134203,6 +134203,25 @@
         "download_sec": 21.5,
         "upload_sec": 33.6
       }
+    },
+    {
+      "cr_film_id": 27275,
+      "cr_slug": "melancholie-2011",
+      "title": "Melancholie",
+      "year": 2011,
+      "display_name": "Melancholie (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "564b7a0845ca0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27041194,
+      "size_bytes": 576698061,
+      "uploaded_at": "2026-07-01T07:43:35Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 26.1,
+        "upload_sec": 60.0
+      }
     }
   ],
   "failed_attempts": [
@@ -137354,5 +137373,5 @@
       "failed_at": "2026-07-01T05:22:43Z"
     }
   ],
-  "last_updated": "2026-07-01T07:42:03Z"
+  "last_updated": "2026-07-01T07:43:35Z"
 }
