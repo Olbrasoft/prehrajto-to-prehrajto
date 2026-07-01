@@ -137148,6 +137148,25 @@
         "download_sec": 11.2,
         "upload_sec": 20.8
       }
+    },
+    {
+      "cr_film_id": 27931,
+      "cr_slug": "hranari",
+      "title": "Hranaři",
+      "year": 2011,
+      "display_name": "Hranaři (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c329552d56e9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27047290,
+      "size_bytes": 442529761,
+      "uploaded_at": "2026-07-01T13:48:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 208.8,
+        "upload_sec": 31.5
+      }
     }
   ],
   "failed_attempts": [
@@ -140320,5 +140339,5 @@
       "failed_at": "2026-07-01T13:19:38Z"
     }
   ],
-  "last_updated": "2026-07-01T13:44:12Z"
+  "last_updated": "2026-07-01T13:48:17Z"
 }
