@@ -50775,3 +50775,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:18:55]   upload done video_id=27039981 in 45.7s
 [06:18:57] film cr_film_id=26400 OK in 83.4s
 [06:18:57] batch-end ok=20 failed=0 dur=2483.6s avg/film=124.2s remaining=10540 eta_hours=363.6
+
+===== run 2026-07-01T06:19:39Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28497803924) =====
+[06:19:41] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:19:41] batch-start shard=0/2 count=20 backlog=17650 uploads=7110 failed_attempts=495 description_overrides=17579
+[06:19:41] login
+[06:19:44] login done
+[06:19:44] iteration 1/20
+[06:19:44] film cr_film_id=26402 name='Holka z města (2009) CZ Dabing' candidates=3
+[06:19:44]   candidate upload_id=57c91a4ae42b7 url=https://prehraj.to/holka-z-mesta-2009-czdab/57c91a4ae42b7
+[06:19:46]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/493472/nX3fPOUPMI3mUM1IG9HMKUKdhPwcxMcanTgYFa…)
+[06:20:03]   downloaded 379.7 MB in 15.4s (24.7 MB/s)
+[06:20:26]   upload done video_id=27040012 in 23.1s
