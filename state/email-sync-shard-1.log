@@ -52795,3 +52795,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:37:20]   upload done video_id=27048537 in 195.2s
 [14:37:22] film cr_film_id=28031 OK in 321.6s
 [14:37:22] batch-end ok=20 failed=0 dur=2896.2s avg/film=144.8s remaining=10259 eta_hours=412.6
+
+===== run 2026-07-01T14:38:08Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28525575904) =====
+[14:38:09] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:38:09] batch-start shard=1/2 count=20 backlog=17650 uploads=7391 failed_attempts=434 description_overrides=17579
+[14:38:09] login
+[14:38:11] login done
+[14:38:11] iteration 1/20
+[14:38:11] film cr_film_id=28039 name='Sex, drogy a daně (2013) CZ' candidates=1
+[14:38:11]   candidate upload_id=5aa7b6821c95b url=https://prehraj.to/sex-drogy-a-dane-2013/5aa7b6821c95b
+[14:38:12]   resolved in 1.0s → 720p (https://pf-storage6.premiumcdn.net/3623026/7L0t9vikNhYjI8YckXTPVik1TzEsY3TapSQnT…)
+[14:39:05]   downloaded 1,092.0 MB in 51.7s (21.1 MB/s)
+[14:40:13]   upload done video_id=27048717 in 67.6s
