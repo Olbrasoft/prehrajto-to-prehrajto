@@ -51069,3 +51069,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [07:35:49]   upload done video_id=27041049 in 34.2s
 [07:35:51] film cr_film_id=26572 OK in 62.6s
 [07:35:51] batch-end ok=20 failed=0 dur=2179.1s avg/film=109.0s remaining=10500 eta_hours=317.9
+
+===== run 2026-07-01T07:36:29Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28501454761) =====
+[07:36:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:36:31] batch-start shard=0/2 count=20 backlog=17650 uploads=7150 failed_attempts=495 description_overrides=17579
+[07:36:31] login
+[07:36:32] login done
+[07:36:32] iteration 1/20
+[07:36:32] film cr_film_id=26574 name='Přímý kontakt (2009) CZ Dabing' candidates=2
+[07:36:32]   candidate upload_id=56ab41bce2320 url=https://prehraj.to/primy-kontakt-2009-cz-dab-d-lundgren/56ab41bce2320
+[07:36:33]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/352057/EmQHQrfGMh61CKWfaQCxvfzBhaXUNxcBgSe3TV…)
+[07:36:57]   downloaded 562.5 MB in 21.6s (26.0 MB/s)
+[07:37:34]   upload done video_id=27041084 in 37.9s
