@@ -50837,3 +50837,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:30:42]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/3581915/Ymoc2nFEAUWrHgBFwmTM1F2eSm2HRjflOC2ZC…)
 [04:31:19]   downloaded 633.9 MB in 35.5s (17.9 MB/s)
 [04:32:04]   upload done video_id=27037075 in 44.2s
+[04:32:06] film cr_film_id=26791 OK in 85.6s
+[04:32:06] iteration 16/20
+[04:32:06] film cr_film_id=26795 name='Happy Halloween, Scooby-Doo! (2020) CZ' candidates=1
+[04:32:06]   candidate upload_id=68fe017636737 url=https://prehraj.to/scooby-doo-stastny-halloween-happy-halloween-scooby-doo-2020-sk-web-dl-1080-hevc/68fe017636737
+[04:32:07]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/scooby-doo-stastny-halloween-happy-halloween-scooby-doo-2020-sk-web-dl-1080-hevc/68fe017636737 (permanent=True)
+[04:32:07] film cr_film_id=26795 all candidates exhausted
+[04:32:07] iteration 17/20
+[04:32:07] film cr_film_id=26797 name='Venkovský učitel (2008) CZ' candidates=5
+[04:32:07]   candidate upload_id=5c5fe1a55157f url=https://prehraj.to/venkovsky-ucitel-full-hd-2008-ceske-filmy-cz-78pt/5c5fe1a55157f
+[04:32:13]   resolved in 6.1s → 1080p (https://pf-storage1.premiumcdn.net/11672968/WM1fjRhyaT3nhQPCrXUa3hbBTnXfb6TRytoz…)
+[04:35:07]   downloaded 4,136.7 MB in 172.0s (24.1 MB/s)
+[04:39:40]   upload done video_id=27037170 in 272.8s
