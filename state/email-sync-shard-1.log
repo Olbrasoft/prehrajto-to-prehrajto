@@ -51613,3 +51613,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:08:31]   upload done video_id=27041530 in 82.0s
 [08:08:33] film cr_film_id=27345 OK in 140.5s
 [08:08:33] batch-end ok=20 failed=0 dur=1920.1s avg/film=96.0s remaining=10419 eta_hours=277.8
+
+===== run 2026-07-01T08:09:36Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28503173100) =====
+[08:09:38] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:09:38] batch-start shard=1/2 count=20 backlog=17650 uploads=7231 failed_attempts=431 description_overrides=17579
+[08:09:38] login
+[08:09:39] login done
+[08:09:39] iteration 1/20
+[08:09:39] film cr_film_id=27353 name='Návrat mrtvých (2009) CZ Dabing' candidates=1
+[08:09:39]   candidate upload_id=5a6ab0cd90e57 url=https://prehraj.to/navrat-mrtvych-2009-cz-dabing/5a6ab0cd90e57
+[08:09:41]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/3326527/KJxtj7Tdnh4ocMVU8AhYOTAJs6gS8guYEik4S…)
+[08:11:27]   downloaded 433.0 MB in 104.2s (4.2 MB/s)
+[08:12:10]   upload done video_id=27041578 in 42.9s
