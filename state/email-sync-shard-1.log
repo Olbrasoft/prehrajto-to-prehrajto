@@ -53826,3 +53826,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:53:45]   upload done video_id=27062539 in 22.7s
 [22:53:47] film cr_film_id=28801 OK in 40.1s
 [22:53:47] batch-end ok=19 failed=1 dur=1523.4s avg/film=80.2s remaining=10124 eta_hours=225.5
+
+===== run 2026-07-01T22:54:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28553085094) =====
+[22:54:26] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:54:26] batch-start shard=1/2 count=20 backlog=17650 uploads=7526 failed_attempts=442 description_overrides=17579
+[22:54:26] login
+[22:54:27] login done
+[22:54:27] iteration 1/20
+[22:54:27] film cr_film_id=28809 name='Trojúhelník smrti (2014) CZ Dabing' candidates=7
+[22:54:27]   candidate upload_id=582174c2481e7 url=https://prehraj.to/trojuhelnik-smrti-cz-dabing-2014/582174c2481e7
+[22:54:29]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/813813/VyYsagIlZCXAfd2TX3c17IdlSmaFqmhJVF7gtY…)
+[22:54:44]   downloaded 454.9 MB in 14.3s (31.8 MB/s)
+[22:55:12]   upload done video_id=27062571 in 27.7s
