@@ -50626,3 +50626,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:12:52] film cr_film_id=26340 all candidates exhausted
 [05:12:52] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
 [05:12:52] batch-end ok=11 failed=3 dur=1473.9s avg/film=134.0s remaining=10560 eta_hours=393.1
+
+===== run 2026-07-01T05:37:29Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28496076169) =====
+[05:37:31] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:37:31] batch-start shard=0/2 count=20 backlog=17650 uploads=7090 failed_attempts=494 description_overrides=17579
+[05:37:31] login
+[05:37:34] login done
+[05:37:34] iteration 1/20
+[05:37:34] film cr_film_id=26328 name='Svátky na návsi s Dolly Parton (2020) CZ' candidates=1
+[05:37:34]   candidate upload_id=5fc03e2df2fe1 url=https://prehraj.to/svatky-na-navsi-s-dolly-parton-roddiny-2020-cz-titulky/5fc03e2df2fe1
+[05:37:35]   resolved in 1.3s → 1080p (https://pf-storage5.premiumcdn.net/20323221/xYJcwjSe3CEMCJGtKzh4VSBQhOAuBNhzEskb…)
+[05:39:56]   downloaded 2,948.3 MB in 138.6s (21.3 MB/s)
+[05:42:32]   upload done video_id=27038577 in 155.7s
