@@ -139343,6 +139343,25 @@
         "download_sec": 36.1,
         "upload_sec": 107.0
       }
+    },
+    {
+      "cr_film_id": 28204,
+      "cr_slug": "velka-nadhera",
+      "title": "Velká nádhera",
+      "year": 2013,
+      "display_name": "Velká nádhera (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "68b43a3b9b414",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27063788,
+      "size_bytes": 1562987769,
+      "uploaded_at": "2026-07-01T23:51:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 43.0,
+        "upload_sec": 65.1
+      }
     }
   ],
   "failed_attempts": [
@@ -142954,5 +142973,5 @@
       "failed_at": "2026-07-01T16:42:44Z"
     }
   ],
-  "last_updated": "2026-07-01T23:49:40Z"
+  "last_updated": "2026-07-01T23:51:33Z"
 }
