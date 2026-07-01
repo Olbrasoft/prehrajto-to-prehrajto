@@ -52656,3 +52656,31 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:09:56]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/155644817/2ZNsAWSR2I2DTWOs7etxWSd5IZkhgGuvAUX…)
 [16:13:11]   downloaded 631.4 MB in 192.8s (3.3 MB/s)
 [16:13:50]   upload done video_id=27051377 in 38.6s
+[16:13:56] film cr_film_id=27558 OK in 240.0s
+[16:13:56] iteration 17/20
+[16:13:56] film cr_film_id=27560 name='Zázračné děti (2011) CZ' candidates=1
+[16:13:56]   candidate upload_id=568ee79a811db url=https://prehraj.to/zazracne-deti-wunderkinder-2011-cz-tit/568ee79a811db
+[16:13:57]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/346065/yN3f5VIVNs29TXZTaRUowI6mcbYcW2tbzS7Dsv…)
+[16:17:24]   downloaded 686.8 MB in 205.8s (3.3 MB/s)
+[16:18:05]   upload FAILED after 40.6s: 504 Server Error: Gateway Time-out for url: https://prehraj.to/profil/nahrat-soubor?do=prepareVideo
+[16:18:05] film cr_film_id=27560 all candidates exhausted
+[16:18:05] iteration 18/20
+[16:18:05] film cr_film_id=27562 name='Hříšní lidé města Oss (2011) CZ' candidates=1
+[16:18:05]   candidate upload_id=5ab9111cd2f54 url=https://prehraj.to/hrisni-lide-mesta-oss-2011/5ab9111cd2f54
+[16:21:31]   resolve FAILED: HTTP 504 after 5 attempts: https://prehraj.to/hrisni-lide-mesta-oss-2011/5ab9111cd2f54 (permanent=False)
+[16:21:31] film cr_film_id=27562 all candidates exhausted
+[16:21:31] iteration 19/20
+[16:21:31] film cr_film_id=27566 name='Lidé jako my (2012) CZ Dabing' candidates=3
+[16:21:31]   candidate upload_id=5c476041dcfdf url=https://prehraj.to/lide-jako-my-2012-cz-dabing/5c476041dcfdf
+[16:21:44]   resolved in 12.8s → 480p (https://pf-storage1.premiumcdn.net/11199682/gV7Fb7Ho7S2EI3XiXqcy7H21C4jUaVc8XH3l…)
+[16:22:14]   downloaded 583.7 MB in 27.9s (20.9 MB/s)
+[16:22:53]   upload FAILED after 39.1s: 504 Server Error: Gateway Time-out for url: https://prehraj.to/profil/nahrat-soubor?do=prepareVideo
+[16:22:53]   candidate upload_id=5c51f72fdfa70 url=https://prehraj.to/lide-jako-my-2012-cz-dabing/5c51f72fdfa70
+[16:26:02]   resolved in 188.5s → 480p (https://pf-storage1.premiumcdn.net/11474188/g5ATeAS9Dsr2t3RIE7I2aSzlHr4U4Ru0XCj5…)
+[16:26:33]   downloaded 583.7 MB in 29.2s (20.0 MB/s)
+[16:27:24]   upload FAILED after 51.5s: 504 Server Error: Gateway Time-out for url: https://prehraj.to/profil/nahrana-videa?uploadedVideoListing-videoId=27051549&do=uploadedVideoListing-changeVideoName
+[16:27:24]   candidate upload_id=5c25d7d62b147 url=https://prehraj.to/lide-jako-my-2012-cz-dabing/5c25d7d62b147
+[16:30:50]   resolve FAILED: HTTP 504 after 5 attempts: https://prehraj.to/lide-jako-my-2012-cz-dabing/5c25d7d62b147 (permanent=False)
+[16:30:50] film cr_film_id=27566 all candidates exhausted
+[16:30:50] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
+[16:30:50] batch-end ok=16 failed=3 dur=3554.3s avg/film=222.1s remaining=10284 eta_hours=634.5

@@ -140463,7 +140463,57 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jonah-hex-2010-cz-dab-1080p/68e85e51e8d9b",
       "permanent": true,
       "failed_at": "2026-07-01T05:59:56Z"
+    },
+    {
+      "cr_film_id": 27560,
+      "upload_id": "568ee79a811db",
+      "reason": "upload_failed: 504 Server Error: Gateway Time-out for url: https://prehraj.to/profil/nahrat-soubor?do=prepareVideo",
+      "permanent": false,
+      "failed_at": "2026-07-01T16:18:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 205.8,
+        "upload_sec": 40.6
+      }
+    },
+    {
+      "cr_film_id": 27562,
+      "upload_id": "5ab9111cd2f54",
+      "reason": "resolve_failed: HTTP 504 after 5 attempts: https://prehraj.to/hrisni-lide-mesta-oss-2011/5ab9111cd2f54",
+      "permanent": false,
+      "failed_at": "2026-07-01T16:21:31Z"
+    },
+    {
+      "cr_film_id": 27566,
+      "upload_id": "5c476041dcfdf",
+      "reason": "upload_failed: 504 Server Error: Gateway Time-out for url: https://prehraj.to/profil/nahrat-soubor?do=prepareVideo",
+      "permanent": false,
+      "failed_at": "2026-07-01T16:22:53Z",
+      "timing": {
+        "resolve_sec": 12.8,
+        "download_sec": 27.9,
+        "upload_sec": 39.1
+      }
+    },
+    {
+      "cr_film_id": 27566,
+      "upload_id": "5c51f72fdfa70",
+      "reason": "upload_failed: 504 Server Error: Gateway Time-out for url: https://prehraj.to/profil/nahrana-videa?uploadedVideoListing-videoId=27051549&do=uploadedVideoListing-changeVideoName",
+      "permanent": false,
+      "failed_at": "2026-07-01T16:27:24Z",
+      "timing": {
+        "resolve_sec": 188.5,
+        "download_sec": 29.2,
+        "upload_sec": 51.5
+      }
+    },
+    {
+      "cr_film_id": 27566,
+      "upload_id": "5c25d7d62b147",
+      "reason": "resolve_failed: HTTP 504 after 5 attempts: https://prehraj.to/lide-jako-my-2012-cz-dabing/5c25d7d62b147",
+      "permanent": false,
+      "failed_at": "2026-07-01T16:30:50Z"
     }
   ],
-  "last_updated": "2026-07-01T16:13:50Z"
+  "last_updated": "2026-07-01T16:30:50Z"
 }
