@@ -137747,6 +137747,25 @@
         "download_sec": 68.8,
         "upload_sec": 78.7
       }
+    },
+    {
+      "cr_film_id": 27732,
+      "cr_slug": "az-na-dno-2014",
+      "title": "Až na dno",
+      "year": 2014,
+      "display_name": "Až na dno (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5cd096d8e2689",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27059866,
+      "size_bytes": 480041271,
+      "uploaded_at": "2026-07-01T21:15:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 364.9,
+        "upload_sec": 37.4
+      }
     }
   ],
   "failed_attempts": [
@@ -141358,5 +141377,5 @@
       "failed_at": "2026-07-01T16:42:44Z"
     }
   ],
-  "last_updated": "2026-07-01T21:08:20Z"
+  "last_updated": "2026-07-01T21:15:08Z"
 }
