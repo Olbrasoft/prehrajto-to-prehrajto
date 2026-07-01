@@ -53117,3 +53117,22 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:36:03]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3862959/JlMcELh9aFqrudEiXeT4phpKUzxUO7T3dTJaI…)
 [16:36:41]   downloaded 674.7 MB in 36.0s (18.7 MB/s)
 [16:37:30]   upload done video_id=27051717 in 48.4s
+[16:37:33] film cr_film_id=28209 OK in 90.4s
+[16:37:33] iteration 4/20
+[16:37:33] film cr_film_id=28211 name='Likvidátoři (2013) CZ' candidates=1
+[16:37:33]   candidate upload_id=5ac74a67c1c30 url=https://prehraj.to/likvidatori-2013/5ac74a67c1c30
+[16:37:34]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3837764/wQZT9ZHQzsrmcOQC8xCQ9H6otBKhzOtKJSayU…)
+[16:38:32]   downloaded 1,017.6 MB in 55.8s (18.2 MB/s)
+[16:39:52]   upload FAILED after 80.2s: 504 Server Error: Gateway Time-out for url: https://prehraj.to/profil/nahrana-videa?uploadedVideoListing-videoId=27051750&do=uploadedVideoListing-changeVideoName
+[16:39:52] film cr_film_id=28211 all candidates exhausted
+[16:39:52] iteration 5/20
+[16:39:52] film cr_film_id=28215 name='Hlava plná metalu (2013) CZ' candidates=1
+[16:39:52]   candidate upload_id=6046b36984bf1 url=https://prehraj.to/hlava-plna-metalu-2013-malmhaus-metalhead-2013-1080p-bluray-telefilm/6046b36984bf1
+[16:43:18]   resolve FAILED: HTTP 504 after 5 attempts: https://prehraj.to/hlava-plna-metalu-2013-malmhaus-metalhead-2013-1080p-bluray-telefilm/6046b36984bf1 (permanent=False)
+[16:43:18] film cr_film_id=28215 all candidates exhausted
+[16:43:18] iteration 6/20
+[16:43:18] film cr_film_id=28221 name='7 dní hříchů (2012) CZ Dabing' candidates=10
+[16:43:18]   candidate upload_id=5bf6aaac60fa6 url=https://prehraj.to/7-dni-hrichu-cz-dabing-2012/5bf6aaac60fa6
+[16:44:29]   resolved in 70.1s → 480p (https://pf-storage2.premiumcdn.net/8560706/YXQHbrUnjs27cxeSXeIM5ULjFM6CWKc3qF5QT…)
+[16:45:08]   downloaded 623.9 MB in 37.7s (16.6 MB/s)
+[16:45:56]   upload done video_id=27051829 in 48.6s
