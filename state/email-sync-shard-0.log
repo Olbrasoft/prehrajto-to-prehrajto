@@ -49791,3 +49791,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:41:15]   upload done video_id=27032837 in 56.2s
 [01:41:17] film cr_film_id=25910 OK in 107.0s
 [01:41:17] batch-end ok=20 failed=0 dur=1824.5s avg/film=91.2s remaining=10671 eta_hours=270.3
+
+===== run 2026-07-01T01:46:23Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28487828062) =====
+[01:46:25] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:46:25] batch-start shard=0/2 count=20 backlog=17650 uploads=6979 failed_attempts=491 description_overrides=17579
+[01:46:25] login
+[01:46:26] login done
+[01:46:26] iteration 1/20
+[01:46:26] film cr_film_id=25916 name='Zatmění slunce (2008) CZ' candidates=1
+[01:46:26]   candidate upload_id=5a9bfe4aba174 url=https://prehraj.to/zatmeni-slunce-2008/5a9bfe4aba174
+[01:46:27]   resolved in 0.9s → 480p (https://pf-storage1.premiumcdn.net/3533629/wXEHdvUXMiB8CbGcjmfkeUPJfjaFyBCPLhels…)
+[01:46:53]   downloaded 641.7 MB in 24.5s (26.2 MB/s)
+[01:47:44]   upload done video_id=27032973 in 51.1s
