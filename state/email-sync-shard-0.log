@@ -50232,3 +50232,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:26:05]   upload done video_id=27035494 in 34.3s
 [03:26:07] film cr_film_id=26104 OK in 65.4s
 [03:26:07] batch-end ok=20 failed=0 dur=1659.0s avg/film=83.0s remaining=10611 eta_hours=244.6
+
+===== run 2026-07-01T03:27:07Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28491385527) =====
+[03:27:08] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:27:08] batch-start shard=0/2 count=20 backlog=17650 uploads=7039 failed_attempts=491 description_overrides=17579
+[03:27:08] login
+[03:27:10] login done
+[03:27:10] iteration 1/20
+[03:27:10] film cr_film_id=26106 name='Pravidla lži (2006) CZ' candidates=2
+[03:27:10]   candidate upload_id=628fe6fd9937f url=https://prehraj.to/pravidla-lzi-2006-cesky-film/628fe6fd9937f
+[03:27:11]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/30974555/z13tXdIqbc8JtvOtLxTPkIWKHyRuGKIArHW0…)
+[03:29:20]   downloaded 4,081.1 MB in 126.6s (32.2 MB/s)
+[03:34:51]   upload done video_id=27035599 in 331.3s
