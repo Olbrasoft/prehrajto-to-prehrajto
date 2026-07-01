@@ -53383,3 +53383,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:28:05]   upload done video_id=27058003 in 78.1s
 [20:28:07] film cr_film_id=28371 OK in 147.5s
 [20:28:07] batch-end ok=20 failed=0 dur=9235.6s avg/film=461.8s remaining=10183 eta_hours=1306.3
+
+===== run 2026-07-01T20:34:18Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28546009293) =====
+[20:34:20] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:34:20] batch-start shard=1/2 count=20 backlog=17650 uploads=7467 failed_attempts=439 description_overrides=17579
+[20:34:20] login
+[20:34:21] login done
+[20:34:21] iteration 1/20
+[20:34:21] film cr_film_id=28375 name='Školní výlet (2012) CZ Dabing' candidates=2
+[20:34:21]   candidate upload_id=5b8e9433c05e3 url=https://prehraj.to/skolni-vylet-cz-dabing-2012/5b8e9433c05e3
+[20:34:22]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/5834707/56wS7rfvau07cN8FpQHrdfM9s1lUxlh8YUnRt…)
+[20:47:26]   downloaded 578.8 MB in 781.6s (0.7 MB/s)
+[20:48:14]   upload done video_id=27058948 in 48.2s
