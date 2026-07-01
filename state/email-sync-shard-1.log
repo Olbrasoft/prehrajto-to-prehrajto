@@ -51466,3 +51466,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:34:24]   upload done video_id=27041018 in 37.5s
 [07:34:27] film cr_film_id=27251 OK in 67.2s
 [07:34:27] batch-end ok=20 failed=0 dur=2095.8s avg/film=104.8s remaining=10439 eta_hours=303.9
+
+===== run 2026-07-01T07:36:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28501454761) =====
+[07:36:32] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:36:32] batch-start shard=1/2 count=20 backlog=17650 uploads=7211 failed_attempts=431 description_overrides=17579
+[07:36:32] login
+[07:36:33] login done
+[07:36:33] iteration 1/20
+[07:36:33] film cr_film_id=27261 name='Hodina klavíru (2007) CZ Dabing' candidates=1
+[07:36:33]   candidate upload_id=61b102e916d35 url=https://prehraj.to/hodina-klaviru-2007-czdab/61b102e916d35
+[07:36:34]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/27230679/n2KsNdSqehLlC6bt36FX7SA6hpoFxrfzlH1Y…)
+[07:37:12]   downloaded 836.1 MB in 35.5s (23.6 MB/s)
+[07:38:00]   upload done video_id=27041087 in 48.8s
