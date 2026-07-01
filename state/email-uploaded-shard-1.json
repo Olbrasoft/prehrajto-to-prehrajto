@@ -135381,6 +135381,25 @@
         "download_sec": 31.8,
         "upload_sec": 61.5
       }
+    },
+    {
+      "cr_film_id": 27547,
+      "cr_slug": "lovec-2011",
+      "title": "Lovec",
+      "year": 2011,
+      "display_name": "Lovec (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55f3caf6703f9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27043584,
+      "size_bytes": 411263081,
+      "uploaded_at": "2026-07-01T10:19:31Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 16.3,
+        "upload_sec": 33.9
+      }
     }
   ],
   "failed_attempts": [
@@ -138532,5 +138551,5 @@
       "failed_at": "2026-07-01T05:22:43Z"
     }
   ],
-  "last_updated": "2026-07-01T10:18:36Z"
+  "last_updated": "2026-07-01T10:19:31Z"
 }
