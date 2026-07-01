@@ -52976,3 +52976,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [20:33:39]   upload done video_id=27058249 in 96.2s
 [20:33:43] film cr_film_id=27706 OK in 2496.5s
 [20:33:43] batch-end ok=20 failed=0 dur=9569.4s avg/film=478.5s remaining=10245 eta_hours=1361.7
+
+===== run 2026-07-01T20:34:20Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28546009293) =====
+[20:34:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:34:21] batch-start shard=0/2 count=20 backlog=17650 uploads=7405 failed_attempts=501 description_overrides=17579
+[20:34:21] login
+[20:34:23] login done
+[20:34:23] iteration 1/20
+[20:34:23] film cr_film_id=27708 name='Ruby Sparks (2012) CZ Dabing' candidates=2
+[20:34:23]   candidate upload_id=57daa69491ee6 url=https://prehraj.to/ruby-sparks-2012-czdab/57daa69491ee6
+[20:34:27]   resolved in 3.6s → 480p (https://pf-storage2.premiumcdn.net/644384/QBot21UgVIKmfWmtyEh4YU5OSjnfR1SRjh1vij…)
+[20:40:01]   downloaded 488.1 MB in 332.5s (1.5 MB/s)
+[20:40:42]   upload done video_id=27058623 in 41.0s
