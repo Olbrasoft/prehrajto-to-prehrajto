@@ -52201,3 +52201,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:10:40]   upload done video_id=27044455 in 49.3s
 [11:10:41] film cr_film_id=27697 OK in 86.8s
 [11:10:41] batch-end ok=20 failed=0 dur=1891.9s avg/film=94.6s remaining=10339 eta_hours=271.7
+
+===== run 2026-07-01T11:19:54Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28513745115) =====
+[11:19:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:19:56] batch-start shard=1/2 count=20 backlog=17650 uploads=7311 failed_attempts=431 description_overrides=17579
+[11:19:56] login
+[11:19:57] login done
+[11:19:57] iteration 1/20
+[11:19:57] film cr_film_id=27699 name='Thompsonovi: Hlad po krvi (2012) CZ Dabing' candidates=2
+[11:19:57]   candidate upload_id=56827bd61705b url=https://prehraj.to/hlad-po-krvi-2012-cz-dab-horor-p-p/56827bd61705b
+[11:19:59]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/522488/6xOiaQFblTmvtR9IvlSqJFeKIO9u7ocvqcB5SB…)
+[11:20:30]   downloaded 403.5 MB in 28.8s (14.0 MB/s)
+[11:21:04]   upload done video_id=27044632 in 34.6s
