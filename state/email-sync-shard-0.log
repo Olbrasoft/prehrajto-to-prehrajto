@@ -50085,3 +50085,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:57:43]   upload done video_id=27034750 in 32.0s
 [02:57:45] film cr_film_id=26036 OK in 55.7s
 [02:57:45] batch-end ok=20 failed=0 dur=2002.3s avg/film=100.1s remaining=10631 eta_hours=295.6
+
+===== run 2026-07-01T02:58:25Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28490365942) =====
+[02:58:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:58:27] batch-start shard=0/2 count=20 backlog=17650 uploads=7019 failed_attempts=491 description_overrides=17579
+[02:58:27] login
+[02:58:28] login done
+[02:58:28] iteration 1/20
+[02:58:28] film cr_film_id=26042 name='Chrysalis (2007) CZ Dabing' candidates=1
+[02:58:28]   candidate upload_id=599cbc42b751f url=https://prehraj.to/chrysalis-2007-cz-dabing/599cbc42b751f
+[02:58:29]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/2572365/nyatrziaESXYTG8Fk0Um5iZQs0XhlbHMNHkpS…)
+[02:58:57]   downloaded 467.1 MB in 25.9s (18.0 MB/s)
+[02:59:43]   upload done video_id=27034789 in 45.1s
