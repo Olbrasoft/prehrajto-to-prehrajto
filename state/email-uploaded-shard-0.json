@@ -132142,6 +132142,25 @@
         "download_sec": 20.9,
         "upload_sec": 33.4
       }
+    },
+    {
+      "cr_film_id": 26418,
+      "cr_slug": "hamlet-na-kvadrat",
+      "title": "Hamlet na kvadrát",
+      "year": 2008,
+      "display_name": "Hamlet na kvadrát (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c228b851945",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27040101,
+      "size_bytes": 653117408,
+      "uploaded_at": "2026-07-01T06:29:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.3,
+        "upload_sec": 43.0
+      }
     }
   ],
   "failed_attempts": [
@@ -135696,5 +135715,5 @@
       "failed_at": "2026-07-01T05:59:56Z"
     }
   ],
-  "last_updated": "2026-07-01T06:28:43Z"
+  "last_updated": "2026-07-01T06:29:55Z"
 }
