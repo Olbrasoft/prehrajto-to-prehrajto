@@ -139200,6 +139200,25 @@
         "download_sec": 48.5,
         "upload_sec": 58.0
       }
+    },
+    {
+      "cr_film_id": 28453,
+      "cr_slug": "velky-zavod-2013",
+      "title": "Velký závod",
+      "year": 2013,
+      "display_name": "Velký závod (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "57baea7d99e1d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27060384,
+      "size_bytes": 638288827,
+      "uploaded_at": "2026-07-01T21:35:37Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 32.4,
+        "upload_sec": 44.9
+      }
     }
   ],
   "failed_attempts": [
@@ -142422,5 +142441,5 @@
       "failed_at": "2026-07-01T16:43:18Z"
     }
   ],
-  "last_updated": "2026-07-01T21:34:14Z"
+  "last_updated": "2026-07-01T21:35:37Z"
 }
