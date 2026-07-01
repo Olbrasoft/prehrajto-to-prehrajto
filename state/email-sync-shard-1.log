@@ -52648,3 +52648,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [13:48:17]   upload done video_id=27047290 in 31.5s
 [13:48:19] film cr_film_id=27931 OK in 244.9s
 [13:48:19] batch-end ok=20 failed=0 dur=2601.8s avg/film=130.1s remaining=10279 eta_hours=371.5
+
+===== run 2026-07-01T13:49:03Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28522396116) =====
+[13:49:04] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:49:04] batch-start shard=1/2 count=20 backlog=17650 uploads=7371 failed_attempts=434 description_overrides=17579
+[13:49:04] login
+[13:49:06] login done
+[13:49:06] iteration 1/20
+[13:49:06] film cr_film_id=27933 name='Dobrodružství Hucka Finna (2012) CZ Dabing' candidates=1
+[13:49:06]   candidate upload_id=5a305b416b3c1 url=https://prehraj.to/dobrodruzstvi-hucka-finna-2012-cz-dabing/5a305b416b3c1
+[13:49:07]   resolved in 1.1s → 480p (https://pf-storage5.premiumcdn.net/3120918/Ryzhw9FbPUaQU27CYzHN3FQrs47IVxtD8sqBi…)
+[13:50:16]   downloaded 802.6 MB in 66.5s (12.1 MB/s)
+[13:51:09]   upload done video_id=27047358 in 53.0s
