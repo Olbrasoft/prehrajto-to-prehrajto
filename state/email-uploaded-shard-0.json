@@ -137519,6 +137519,25 @@
         "download_sec": 685.8,
         "upload_sec": 36.1
       }
+    },
+    {
+      "cr_film_id": 27688,
+      "cr_slug": "annie-2014",
+      "title": "Annie",
+      "year": 2014,
+      "display_name": "Annie (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "582160398848a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27055766,
+      "size_bytes": 629435448,
+      "uploaded_at": "2026-07-01T19:27:52Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 922.1,
+        "upload_sec": 57.6
+      }
     }
   ],
   "failed_attempts": [
@@ -141130,5 +141149,5 @@
       "failed_at": "2026-07-01T16:42:44Z"
     }
   ],
-  "last_updated": "2026-07-01T19:11:26Z"
+  "last_updated": "2026-07-01T19:27:52Z"
 }
