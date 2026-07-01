@@ -52098,3 +52098,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [13:04:15]   upload done video_id=27045966 in 57.2s
 [13:04:17] film cr_film_id=27258 OK in 95.3s
 [13:04:17] batch-end ok=20 failed=0 dur=2586.0s avg/film=129.3s remaining=10360 eta_hours=372.1
+
+===== run 2026-07-01T13:04:56Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28519624416) =====
+[13:04:59] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:04:59] batch-start shard=0/2 count=20 backlog=17650 uploads=7290 failed_attempts=495 description_overrides=17579
+[13:04:59] login
+[13:05:00] login done
+[13:05:00] iteration 1/20
+[13:05:00] film cr_film_id=27266 name='Tchýně (1969) CZ Dabing' candidates=1
+[13:05:00]   candidate upload_id=60401a577f900 url=https://prehraj.to/tchyne-1969-czdab/60401a577f900
+[13:05:02]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/22523060/69VFlJs4acLlUDzCrmTPEspvIn2TmzulGFXD…)
+[13:05:56]   downloaded 950.8 MB in 52.4s (18.1 MB/s)
+[13:06:54]   upload done video_id=27046043 in 57.8s
