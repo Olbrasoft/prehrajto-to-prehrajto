@@ -140606,6 +140606,25 @@
         "download_sec": 42.6,
         "upload_sec": 51.5
       }
+    },
+    {
+      "cr_film_id": 28943,
+      "cr_slug": "whitney-2015",
+      "title": "Whitney",
+      "year": 2015,
+      "display_name": "Whitney (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "582197dcc0b20",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27063794,
+      "size_bytes": 615019657,
+      "uploaded_at": "2026-07-01T23:51:43Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.1,
+        "upload_sec": 46.8
+      }
     }
   ],
   "failed_attempts": [
@@ -143849,5 +143868,5 @@
       "failed_at": "2026-07-01T22:37:45Z"
     }
   ],
-  "last_updated": "2026-07-01T23:50:21Z"
+  "last_updated": "2026-07-01T23:51:43Z"
 }
