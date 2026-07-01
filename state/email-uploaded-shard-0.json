@@ -135961,6 +135961,25 @@
         "download_sec": 80.0,
         "upload_sec": 76.8
       }
+    },
+    {
+      "cr_film_id": 27368,
+      "cr_slug": "boure-meteoru",
+      "title": "Bouře meteorů",
+      "year": 2010,
+      "display_name": "Bouře meteorů (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "d744229122650936",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27047642,
+      "size_bytes": 666044334,
+      "uploaded_at": "2026-07-01T14:02:03Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 33.8,
+        "upload_sec": 64.0
+      }
     }
   ],
   "failed_attempts": [
@@ -139515,5 +139534,5 @@
       "failed_at": "2026-07-01T05:59:56Z"
     }
   ],
-  "last_updated": "2026-07-01T14:00:19Z"
+  "last_updated": "2026-07-01T14:02:03Z"
 }
