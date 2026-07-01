@@ -49698,3 +49698,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:10:18]   upload done video_id=27030643 in 50.0s
 [00:10:20] film cr_film_id=26151 OK in 88.9s
 [00:10:20] batch-end ok=20 failed=0 dur=2147.5s avg/film=107.4s remaining=10676 eta_hours=318.5
+
+===== run 2026-07-01T00:10:59Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28484240662) =====
+[00:11:01] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:11:01] batch-start shard=1/2 count=20 backlog=17650 uploads=6974 failed_attempts=423 description_overrides=17579
+[00:11:01] login
+[00:11:02] login done
+[00:11:02] iteration 1/20
+[00:11:02] film cr_film_id=26153 name='Lovci lebek (2010) CZ Dabing' candidates=1
+[00:11:02]   candidate upload_id=564b56d1e4c47 url=https://prehraj.to/lovci-lebek-2010-cz-dab-thrill-p-p/564b56d1e4c47
+[00:11:04]   resolved in 1.6s → 480p (https://pf-storage2.premiumcdn.net/325481/ErGU8ZH4PsBMTXwI19tZkHKXIa6hg2iwRI8DUo…)
+[00:11:27]   downloaded 542.1 MB in 21.0s (25.8 MB/s)
+[00:11:59]   upload done video_id=27030712 in 31.8s
