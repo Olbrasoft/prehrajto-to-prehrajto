@@ -52245,3 +52245,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [13:41:53]   upload done video_id=27047029 in 160.8s
 [13:41:56] film cr_film_id=27342 OK in 277.9s
 [13:41:56] batch-end ok=20 failed=0 dur=2215.7s avg/film=110.8s remaining=10340 eta_hours=318.2
+
+===== run 2026-07-01T13:48:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28522396116) =====
+[13:49:00] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:49:00] batch-start shard=0/2 count=20 backlog=17650 uploads=7310 failed_attempts=495 description_overrides=17579
+[13:49:00] login
+[13:49:02] login done
+[13:49:02] iteration 1/20
+[13:49:02] film cr_film_id=27348 name='Seznam nežádoucích (2011) CZ' candidates=1
+[13:49:02]   candidate upload_id=5aa5f94688b0f url=https://prehraj.to/seznam-nezadoucich-2011/5aa5f94688b0f
+[13:49:03]   resolved in 1.4s → 720p (https://pf-storage1.premiumcdn.net/3607752/ajlh6qfj0i0BIK1fv2cb5fmaCyjIDeu31spbI…)
+[13:49:53]   downloaded 962.1 MB in 47.7s (20.2 MB/s)
+[13:50:54]   upload done video_id=27047348 in 60.7s
