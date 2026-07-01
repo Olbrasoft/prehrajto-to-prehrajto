@@ -134944,6 +134944,25 @@
         "download_sec": 73.7,
         "upload_sec": 86.9
       }
+    },
+    {
+      "cr_film_id": 27449,
+      "cr_slug": "klara-2010",
+      "title": "Klara",
+      "year": 2010,
+      "display_name": "Klara (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "604bca090ac37",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27042830,
+      "size_bytes": 435238978,
+      "uploaded_at": "2026-07-01T09:32:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 34.9,
+        "upload_sec": 34.9
+      }
     }
   ],
   "failed_attempts": [
@@ -138095,5 +138114,5 @@
       "failed_at": "2026-07-01T05:22:43Z"
     }
   ],
-  "last_updated": "2026-07-01T09:31:11Z"
+  "last_updated": "2026-07-01T09:32:27Z"
 }
