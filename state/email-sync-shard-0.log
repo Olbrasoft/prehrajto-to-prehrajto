@@ -52684,3 +52684,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:30:50] film cr_film_id=27566 all candidates exhausted
 [16:30:50] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
 [16:30:50] batch-end ok=16 failed=3 dur=3554.3s avg/film=222.1s remaining=10284 eta_hours=634.5
+
+===== run 2026-07-01T16:31:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28532546182) =====
+[16:31:37] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:31:37] batch-start shard=0/2 count=20 backlog=17650 uploads=7366 failed_attempts=500 description_overrides=17579
+[16:31:37] login
+[16:31:53] login done
+[16:31:53] iteration 1/20
+[16:31:53] film cr_film_id=27560 name='Zázračné děti (2011) CZ' candidates=1
+[16:31:53]   candidate upload_id=568ee79a811db url=https://prehraj.to/zazracne-deti-wunderkinder-2011-cz-tit/568ee79a811db
+[16:31:56]   resolved in 2.5s → 480p (https://pf-storage2.premiumcdn.net/346065/yN3f5VIVNs29TXZTaRUowI6mcbYcW2tbzS7Dsv…)
+[16:32:35]   downloaded 686.8 MB in 36.7s (18.7 MB/s)
+[16:33:20]   upload done video_id=27051622 in 45.4s
