@@ -144102,6 +144102,25 @@
         "download_sec": 36.8,
         "upload_sec": 88.4
       }
+    },
+    {
+      "cr_film_id": 30411,
+      "cr_slug": "tom-a-jerry-vanocni-party",
+      "title": "Tom a Jerry - Vánoční párty",
+      "year": 2010,
+      "display_name": "Tom a Jerry - Vánoční párty (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6020c9e75dbb1",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27073354,
+      "size_bytes": 282248887,
+      "uploaded_at": "2026-07-02T07:03:27Z",
+      "timing": {
+        "resolve_sec": 6.3,
+        "download_sec": 16.3,
+        "upload_sec": 33.4
+      }
     }
   ],
   "failed_attempts": [
@@ -147392,7 +147411,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/otec-mrazik-2013-cz-dabing-mp4/8ed54a9053f1ea2c",
       "permanent": true,
       "failed_at": "2026-07-02T06:48:51Z"
+    },
+    {
+      "cr_film_id": 30405,
+      "upload_id": "e7739fc427b14838",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bratri-ve-zbrani-1997-cz-dabing-mp4/e7739fc427b14838",
+      "permanent": true,
+      "failed_at": "2026-07-02T07:02:29Z"
     }
   ],
-  "last_updated": "2026-07-02T07:02:26Z"
+  "last_updated": "2026-07-02T07:03:27Z"
 }

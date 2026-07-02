@@ -55397,3 +55397,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:00:19]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/2685483/rprhxkfnjcvqFVlILNux4fBOHEOhjZsVyTjXF…)
 [07:00:57]   downloaded 715.6 MB in 36.8s (19.4 MB/s)
 [07:02:26]   upload done video_id=27073321 in 88.4s
+[07:02:29] film cr_film_id=30403 OK in 131.1s
+[07:02:29] iteration 15/20
+[07:02:29] film cr_film_id=30405 name='Bratři ve zbrani (1997) CZ Dabing' candidates=1
+[07:02:29]   candidate upload_id=e7739fc427b14838 url=https://prehraj.to/bratri-ve-zbrani-1997-cz-dabing-mp4/e7739fc427b14838
+[07:02:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bratri-ve-zbrani-1997-cz-dabing-mp4/e7739fc427b14838 (permanent=True)
+[07:02:30] film cr_film_id=30405 all candidates exhausted
+[07:02:30] iteration 16/20
+[07:02:30] film cr_film_id=30411 name='Tom a Jerry - Vánoční párty (2010) CZ Dabing' candidates=5
+[07:02:30]   candidate upload_id=6020c9e75dbb1 url=https://prehraj.to/tom-a-jerry-vanocni-party-2010-cz-dabing/6020c9e75dbb1
+[07:02:36]   resolved in 6.3s → 480p (https://pf-storage5.premiumcdn.net/22058511/QwAfv0ivzsL3Sz9uAZUn5ipvCQ5SQGSzoFxA…)
+[07:02:54]   downloaded 282.2 MB in 16.3s (17.3 MB/s)
+[07:03:27]   upload done video_id=27073354 in 33.4s
