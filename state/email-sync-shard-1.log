@@ -57640,3 +57640,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:07:26]   upload done video_id=27087409 in 50.7s
 [21:07:34] film cr_film_id=32521 OK in 400.6s
 [21:07:34] batch-end ok=20 failed=0 dur=5326.1s avg/film=266.3s remaining=9616 eta_hours=711.3
+
+===== run 2026-07-02T21:08:19Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28621667530) =====
+[21:08:21] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:08:21] batch-start shard=1/2 count=20 backlog=17650 uploads=8034 failed_attempts=462 description_overrides=17579
+[21:08:21] login
+[21:08:23] login done
+[21:08:23] iteration 1/20
+[21:08:23] film cr_film_id=32525 name='Taking Sides (2002) CZ' candidates=1
+[21:08:23]   candidate upload_id=58493568b7f49 url=https://prehraj.to/na-miskach-vah-taking-sides-2001-cz-tit/58493568b7f49
+[21:08:25]   resolved in 2.3s → 480p (https://pf-storage5.premiumcdn.net/1065577/BWvfk7uJYFmPIMlIO2ig0uzktqvU2mFpWhExi…)
+[21:12:03]   downloaded 409.7 MB in 216.2s (1.9 MB/s)
+[21:12:36]   upload done video_id=27087459 in 32.7s
