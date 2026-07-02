@@ -144891,6 +144891,25 @@
         "download_sec": 18.0,
         "upload_sec": 31.8
       }
+    },
+    {
+      "cr_film_id": 30266,
+      "cr_slug": "na-vlasku-stastne-az-naveky",
+      "title": "Na vlásku šťastně až navěky",
+      "year": 2012,
+      "display_name": "Na vlásku šťastně až navěky (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60c460487b95b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27077354,
+      "size_bytes": 211868841,
+      "uploaded_at": "2026-07-02T11:00:38Z",
+      "timing": {
+        "resolve_sec": 5.9,
+        "download_sec": 8.2,
+        "upload_sec": 18.9
+      }
     }
   ],
   "failed_attempts": [
@@ -148577,7 +148596,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/solista-2009-cz-dabing/adcd0e482d178ced",
       "permanent": true,
       "failed_at": "2026-07-02T10:17:05Z"
+    },
+    {
+      "cr_film_id": 30264,
+      "upload_id": "4484ebdfd78c6f08",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lov-lososu-v-jemenu-2012-en-cz-dabing/4484ebdfd78c6f08",
+      "permanent": true,
+      "failed_at": "2026-07-02T11:00:03Z"
     }
   ],
-  "last_updated": "2026-07-02T11:00:00Z"
+  "last_updated": "2026-07-02T11:00:38Z"
 }

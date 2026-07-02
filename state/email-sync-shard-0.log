@@ -55815,3 +55815,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:59:08]   resolved in 0.9s → 480p (https://pf-storage6.premiumcdn.net/169600705/4JxuB4Tg1HjJsvPtP3TgOTQdCjoSr1Fo3h5…)
 [10:59:28]   downloaded 445.6 MB in 18.0s (24.8 MB/s)
 [11:00:00]   upload done video_id=27077337 in 31.8s
+[11:00:02] film cr_film_id=30254 OK in 54.4s
+[11:00:02] iteration 6/20
+[11:00:02] film cr_film_id=30264 name='Lov lososů v Jemenu (2011) CZ Dabing' candidates=1
+[11:00:02]   candidate upload_id=4484ebdfd78c6f08 url=https://prehraj.to/lov-lososu-v-jemenu-2012-en-cz-dabing/4484ebdfd78c6f08
+[11:00:03]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lov-lososu-v-jemenu-2012-en-cz-dabing/4484ebdfd78c6f08 (permanent=True)
+[11:00:03] film cr_film_id=30264 all candidates exhausted
+[11:00:03] iteration 7/20
+[11:00:03] film cr_film_id=30266 name='Na vlásku šťastně až navěky (2012) CZ Dabing' candidates=1
+[11:00:03]   candidate upload_id=60c460487b95b url=https://prehraj.to/na-vlasku-stastne-az-naveky-2012-cz-dabing-animovany-1/60c460487b95b
+[11:00:09]   resolved in 5.9s → 1080p (https://pf-storage1.premiumcdn.net/23872728/eomi02CARSQvh5wHLpfXyCmGUYxHR9IwotXv…)
+[11:00:19]   downloaded 211.9 MB in 8.2s (25.8 MB/s)
+[11:00:38]   upload done video_id=27077354 in 18.9s
