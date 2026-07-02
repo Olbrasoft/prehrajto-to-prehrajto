@@ -56903,3 +56903,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [14:49:55]   upload done video_id=27083365 in 126.2s
 [14:49:58] film cr_film_id=32077 OK in 198.6s
 [14:49:58] batch-end ok=20 failed=0 dur=2562.6s avg/film=128.1s remaining=9716 eta_hours=345.7
+
+===== run 2026-07-02T14:50:40Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28599309101) =====
+[14:50:42] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[14:50:42] batch-start shard=1/2 count=20 backlog=17650 uploads=7934 failed_attempts=461 description_overrides=17579
+[14:50:42] login
+[14:50:43] login done
+[14:50:43] iteration 1/20
+[14:50:43] film cr_film_id=32081 name='Modré z nebe (1984) CZ' candidates=2
+[14:50:43]   candidate upload_id=5c29877f1fa56 url=https://prehraj.to/modre-z-nebe-1983-cesko-slovensky-film/5c29877f1fa56
+[14:50:44]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/10257857/gbwi2BTeXUmgcwdtzpSlvTo7umaU4MiD5hJv…)
+[14:51:34]   downloaded 827.5 MB in 47.5s (17.4 MB/s)
+[14:52:39]   upload done video_id=27083406 in 65.0s
