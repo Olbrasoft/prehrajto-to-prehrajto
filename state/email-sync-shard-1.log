@@ -55921,3 +55921,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:43:22]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/162728927/4DycyOH7ntj3fp8tYeudPHmRh6zIqyFoqFE…)
 [09:44:06]   downloaded 1,513.9 MB in 42.6s (35.5 MB/s)
 [09:45:39]   upload done video_id=27076401 in 92.9s
+[09:45:42] film cr_film_id=31523 OK in 140.7s
+[09:45:42] iteration 7/20
+[09:45:42] film cr_film_id=31545 name='Jídelní vůz (divadelní záznam) (2025) CZ' candidates=1
+[09:45:42]   candidate upload_id=6e0f70ebbd3a675b url=https://prehraj.to/jidelni-vuz-divadelni-zaznam-2025-cz-mp4/6e0f70ebbd3a675b
+[09:45:42]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/jidelni-vuz-divadelni-zaznam-2025-cz-mp4/6e0f70ebbd3a675b (permanent=True)
+[09:45:42] film cr_film_id=31545 all candidates exhausted
+[09:45:42] iteration 8/20
+[09:45:42] film cr_film_id=31571 name='Pražská 5 (1989) CZ Dabing' candidates=5
+[09:45:42]   candidate upload_id=6549a8f833cae url=https://prehraj.to/prazska-petka-1988-czdab/6549a8f833cae
+[09:45:48]   resolved in 5.8s → 480p (https://pf-storage4.premiumcdn.net/50907539/PajUGAi7LIn6S8WCB0il2inghEyc6NHgasj4…)
+[09:46:08]   downloaded 618.8 MB in 18.5s (33.5 MB/s)
+[09:46:53]   upload done video_id=27076429 in 44.8s
