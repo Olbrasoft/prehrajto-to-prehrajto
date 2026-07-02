@@ -144653,6 +144653,25 @@
         "download_sec": 36.4,
         "upload_sec": 63.6
       }
+    },
+    {
+      "cr_film_id": 30717,
+      "cr_slug": "v-prach",
+      "title": "V prach",
+      "year": 2018,
+      "display_name": "V prach (2018) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5fd55cbc2520f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27074635,
+      "size_bytes": 974655573,
+      "uploaded_at": "2026-07-02T08:14:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.9,
+        "upload_sec": 51.8
+      }
     }
   ],
   "failed_attempts": [
@@ -147959,5 +147978,5 @@
       "failed_at": "2026-07-02T07:44:24Z"
     }
   ],
-  "last_updated": "2026-07-02T08:13:15Z"
+  "last_updated": "2026-07-02T08:14:46Z"
 }
