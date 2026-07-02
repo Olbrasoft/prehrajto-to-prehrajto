@@ -144568,6 +144568,25 @@
         "download_sec": 26.1,
         "upload_sec": 35.9
       }
+    },
+    {
+      "cr_film_id": 30128,
+      "cr_slug": "atentat",
+      "title": "Atentát",
+      "year": 1997,
+      "display_name": "Atentát (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "bdd151a095896dee",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27077034,
+      "size_bytes": 789387728,
+      "uploaded_at": "2026-07-02T10:35:06Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 43.1,
+        "upload_sec": 59.9
+      }
     }
   ],
   "failed_attempts": [
@@ -148256,5 +148275,5 @@
       "failed_at": "2026-07-02T10:17:05Z"
     }
   ],
-  "last_updated": "2026-07-02T10:33:17Z"
+  "last_updated": "2026-07-02T10:35:06Z"
 }
