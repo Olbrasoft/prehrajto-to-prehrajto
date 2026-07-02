@@ -55479,3 +55479,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:31:36]   upload done video_id=27076230 in 69.2s
 [09:31:38] film cr_film_id=29934 OK in 124.9s
 [09:31:38] batch-end ok=20 failed=0 dur=2612.3s avg/film=130.6s remaining=9908 eta_hours=359.4
+
+===== run 2026-07-02T09:38:32Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28580391659) =====
+[09:38:34] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:38:34] batch-start shard=0/2 count=20 backlog=17650 uploads=7742 failed_attempts=509 description_overrides=17579
+[09:38:34] login
+[09:38:36] login done
+[09:38:36] iteration 1/20
+[09:38:36] film cr_film_id=29944 name='Tajemství loňského léta 3 (2006) CZ Dabing' candidates=2
+[09:38:36]   candidate upload_id=6906a47d4ebdf url=https://prehraj.to/tajemstvi-lonskeho-leta-3-2006-cz-dabing-sktonline/6906a47d4ebdf
+[09:38:37]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/154895049/LJGFxoUlmS6BfLwivztmZUOAubwhANF52h7…)
+[09:39:10]   downloaded 563.6 MB in 31.1s (18.1 MB/s)
+[09:39:51]   upload done video_id=27076342 in 40.9s
