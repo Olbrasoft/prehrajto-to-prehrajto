@@ -146164,6 +146164,25 @@
         "download_sec": 79.1,
         "upload_sec": 120.0
       }
+    },
+    {
+      "cr_film_id": 31384,
+      "cr_slug": "saman",
+      "title": "Sámán",
+      "year": 2023,
+      "display_name": "Sámán (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "bb58c9aaa0b9be27",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27082420,
+      "size_bytes": 2439111638,
+      "uploaded_at": "2026-07-02T13:59:57Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 88.6,
+        "upload_sec": 168.3
+      }
     }
   ],
   "failed_attempts": [
@@ -149894,5 +149913,5 @@
       "failed_at": "2026-07-02T12:22:42Z"
     }
   ],
-  "last_updated": "2026-07-02T13:55:35Z"
+  "last_updated": "2026-07-02T13:59:57Z"
 }
