@@ -57197,3 +57197,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [16:37:13]   upload done video_id=27084667 in 51.4s
 [16:37:15] film cr_film_id=32271 OK in 105.1s
 [16:37:15] batch-end ok=20 failed=0 dur=2581.8s avg/film=129.1s remaining=9676 eta_hours=347.0
+
+===== run 2026-07-02T16:37:56Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28606190877) =====
+[16:37:58] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:37:58] batch-start shard=1/2 count=20 backlog=17650 uploads=7974 failed_attempts=461 description_overrides=17579
+[16:37:58] login
+[16:37:59] login done
+[16:37:59] iteration 1/20
+[16:37:59] film cr_film_id=32273 name='Vražda po našem (1967) CZ Dabing' candidates=2
+[16:37:59]   candidate upload_id=631e771765360 url=https://prehraj.to/vrazda-po-nasem-1966-czdab/631e771765360
+[16:38:00]   resolved in 0.9s → 720p (https://pf-storage3.premiumcdn.net/32889946/QYRiePcrNHJyhQRSRrTYPc7ohwGCXkHR4ULY…)
+[16:38:28]   downloaded 896.6 MB in 25.8s (34.8 MB/s)
+[16:39:07]   upload done video_id=27084692 in 39.5s
