@@ -142022,6 +142022,25 @@
         "download_sec": 51.6,
         "upload_sec": 97.2
       }
+    },
+    {
+      "cr_film_id": 29018,
+      "cr_slug": "mama-2025",
+      "title": "Máma",
+      "year": 2025,
+      "display_name": "Máma (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "b3ac872dbfa3cd6e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27072054,
+      "size_bytes": 2476320989,
+      "uploaded_at": "2026-07-02T05:43:14Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 70.2,
+        "upload_sec": 256.1
+      }
     }
   ],
   "failed_attempts": [
@@ -145682,5 +145701,5 @@
       "failed_at": "2026-07-02T04:15:12Z"
     }
   ],
-  "last_updated": "2026-07-02T05:37:42Z"
+  "last_updated": "2026-07-02T05:43:14Z"
 }
