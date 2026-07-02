@@ -143988,6 +143988,25 @@
         "download_sec": 16.1,
         "upload_sec": 46.7
       }
+    },
+    {
+      "cr_film_id": 30369,
+      "cr_slug": "kocici-princ",
+      "title": "Kočičí princ",
+      "year": 1979,
+      "display_name": "Kočičí princ (1979) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6854a7685912e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27073143,
+      "size_bytes": 2012733733,
+      "uploaded_at": "2026-07-02T06:54:58Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 109.4,
+        "upload_sec": 114.7
+      }
     }
   ],
   "failed_attempts": [
@@ -147280,5 +147299,5 @@
       "failed_at": "2026-07-02T06:48:51Z"
     }
   ],
-  "last_updated": "2026-07-02T06:51:09Z"
+  "last_updated": "2026-07-02T06:54:58Z"
 }
