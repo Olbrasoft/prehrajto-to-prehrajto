@@ -57934,3 +57934,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:27:53]   upload done video_id=27088307 in 46.9s
 [22:27:56] film cr_film_id=32709 OK in 85.3s
 [22:27:56] batch-end ok=20 failed=0 dur=1625.3s avg/film=81.3s remaining=9576 eta_hours=216.3
+
+===== run 2026-07-02T22:55:38Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28626727089) =====
+[22:55:41] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:55:41] batch-start shard=1/2 count=20 backlog=17650 uploads=8074 failed_attempts=462 description_overrides=17579
+[22:55:41] login
+[22:55:44] login done
+[22:55:44] iteration 1/20
+[22:55:44] film cr_film_id=32711 name='Свой среди чужих, чужой среди своих (1974) CZ' candidates=1
+[22:55:44]   candidate upload_id=586a5b1152349 url=https://prehraj.to/svuj-mezi-cizimi-1975-cz-tit/586a5b1152349
+[22:55:45]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/1272671/bQksxMSJXfv7TWlsDoTnySBYu1XhV8U4kUqPc…)
+[22:56:16]   downloaded 797.1 MB in 29.8s (26.7 MB/s)
+[22:57:12]   upload done video_id=27088588 in 56.3s
