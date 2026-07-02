@@ -55554,3 +55554,17 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [09:58:18]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/23396937/26wfOySREc83FwXFOKhVmSwmF1qULoHygIzM…)
 [09:59:24]   downloaded 1,193.1 MB in 64.0s (18.6 MB/s)
 [10:00:51]   upload done video_id=27076665 in 86.5s
+[10:00:53] film cr_film_id=29982 OK in 156.2s
+[10:00:53] iteration 11/20
+[10:00:53] film cr_film_id=29988 name='Cyrano z Bergeracu (1990) CZ Dabing' candidates=2
+[10:00:53]   candidate upload_id=64e2c3514aac6913 url=https://prehraj.to/cyrano-z-bergeracu-1990-cz-dab-1080p/64e2c3514aac6913
+[10:00:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cyrano-z-bergeracu-1990-cz-dab-1080p/64e2c3514aac6913 (permanent=True)
+[10:00:54]   candidate upload_id=ef03e170ea670a1d url=https://prehraj.to/cyrano-z-bergeracu-1990-cz-dabing-mp4/ef03e170ea670a1d
+[10:00:59]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/cyrano-z-bergeracu-1990-cz-dabing-mp4/ef03e170ea670a1d (permanent=True)
+[10:00:59] film cr_film_id=29988 all candidates exhausted
+[10:00:59] iteration 12/20
+[10:00:59] film cr_film_id=30000 name='Ostrov ztracených duší (2007) CZ Dabing' candidates=1
+[10:00:59]   candidate upload_id=5835aac4906a7f88 url=https://prehraj.to/ostrov-ztracenych-dusi-2007-da-cz-dabing-mp4/5835aac4906a7f88
+[10:01:06]   resolved in 6.1s → 480p (https://pf-storage6.premiumcdn.net/169656025/oA2ikmUPZHjoHPAFBgUkqUWpTZEsbkf1jcQ…)
+[10:01:37]   downloaded 505.3 MB in 29.6s (17.1 MB/s)
+[10:02:15]   upload done video_id=27076710 in 37.8s
