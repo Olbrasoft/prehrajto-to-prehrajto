@@ -55953,3 +55953,20 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:49:22]   resolved in 0.7s → 480p (https://pf-storage1.premiumcdn.net/4504148/rLrsM0HkEIwAu6viM3T2GH2KuJDfNdt3Xid4S…)
 [11:49:41]   downloaded 468.2 MB in 17.5s (26.8 MB/s)
 [11:50:09]   upload done video_id=27080796 in 27.2s
+[11:50:11] film cr_film_id=30400 OK in 49.2s
+[11:50:11] iteration 5/20
+[11:50:11] film cr_film_id=30418 name='Flintstoneovi & WWE: Mela doby kamenné (2015) CZ Dabing' candidates=1
+[11:50:11]   candidate upload_id=d1b8b48c5a3cc7c1 url=https://prehraj.to/flintstoneovi-wwe-mela-doby-kamenne-2015-en-cz-dabing-mp4/d1b8b48c5a3cc7c1
+[11:50:11]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/flintstoneovi-wwe-mela-doby-kamenne-2015-en-cz-dabing-mp4/d1b8b48c5a3cc7c1 (permanent=True)
+[11:50:12] film cr_film_id=30418 all candidates exhausted
+[11:50:12] iteration 6/20
+[11:50:12] film cr_film_id=30434 name='Bessie (2015) CZ Dabing' candidates=1
+[11:50:12]   candidate upload_id=c0f6352c80cec18f url=https://prehraj.to/bessie-2015-en-cz-dabing-mp4/c0f6352c80cec18f
+[11:50:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bessie-2015-en-cz-dabing-mp4/c0f6352c80cec18f (permanent=True)
+[11:50:17] film cr_film_id=30434 all candidates exhausted
+[11:50:17] iteration 7/20
+[11:50:17] film cr_film_id=30436 name='Nenápadné zlo (2015) CZ Dabing' candidates=8
+[11:50:17]   candidate upload_id=59bd5bfa90a16 url=https://prehraj.to/nenapadne-zlo-2016-cz-dabing-mp4/59bd5bfa90a16
+[11:50:23]   resolved in 6.0s → 480p (https://pf-storage6.premiumcdn.net/2632035/JbeTvKu5rCYQSzZsDAUWruG1c1WC3Dio2TPGh…)
+[11:50:48]   downloaded 350.5 MB in 23.6s (14.9 MB/s)
+[11:51:12]   upload done video_id=27080804 in 24.0s
