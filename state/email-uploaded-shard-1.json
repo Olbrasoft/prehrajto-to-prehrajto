@@ -140986,6 +140986,25 @@
         "download_sec": 106.6,
         "upload_sec": 140.1
       }
+    },
+    {
+      "cr_film_id": 29041,
+      "cr_slug": "osmy",
+      "title": "Osmy",
+      "year": 2014,
+      "display_name": "Osmy (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "61f909c974ad7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27064734,
+      "size_bytes": 3297621279,
+      "uploaded_at": "2026-07-02T00:40:22Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 117.6,
+        "upload_sec": 215.5
+      }
     }
   ],
   "failed_attempts": [
@@ -144229,5 +144248,5 @@
       "failed_at": "2026-07-01T22:37:45Z"
     }
   ],
-  "last_updated": "2026-07-02T00:34:44Z"
+  "last_updated": "2026-07-02T00:40:22Z"
 }
