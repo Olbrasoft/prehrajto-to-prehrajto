@@ -145052,6 +145052,25 @@
         "download_sec": 113.1,
         "upload_sec": 171.9
       }
+    },
+    {
+      "cr_film_id": 31261,
+      "cr_slug": "byt-2",
+      "title": "Byt",
+      "year": 1960,
+      "display_name": "Byt (1960) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "e413e015df31cc17",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27075572,
+      "size_bytes": 555691709,
+      "uploaded_at": "2026-07-02T09:03:08Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 33.7,
+        "upload_sec": 41.2
+      }
     }
   ],
   "failed_attempts": [
@@ -148356,7 +148375,35 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/no-other-way-to-say-it-2017-en-cz-dabing-mp4/85ad5fa76da5b74e",
       "permanent": true,
       "failed_at": "2026-07-02T07:44:24Z"
+    },
+    {
+      "cr_film_id": 31247,
+      "upload_id": "c943df6b1a50ef70",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/divoke-pobrezi-2022-cz-dab-1080p/c943df6b1a50ef70",
+      "permanent": true,
+      "failed_at": "2026-07-02T09:01:27Z"
+    },
+    {
+      "cr_film_id": 31247,
+      "upload_id": "4c0f7428912d73f3",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/divoke-pobrezi-2022-cz-dab-1080p/4c0f7428912d73f3",
+      "permanent": true,
+      "failed_at": "2026-07-02T09:01:33Z"
+    },
+    {
+      "cr_film_id": 31247,
+      "upload_id": "b3aaa0ef7e25dec8",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/divoke-pobrezi-2022-cz-dabing-mp4/b3aaa0ef7e25dec8",
+      "permanent": true,
+      "failed_at": "2026-07-02T09:01:39Z"
+    },
+    {
+      "cr_film_id": 31255,
+      "upload_id": "6232452b8b651",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/frederick-douglass-v-peti-proslovech-2022-czdab/6232452b8b651",
+      "permanent": true,
+      "failed_at": "2026-07-02T09:01:45Z"
     }
   ],
-  "last_updated": "2026-07-02T09:01:23Z"
+  "last_updated": "2026-07-02T09:03:08Z"
 }

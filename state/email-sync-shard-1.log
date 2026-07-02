@@ -55778,3 +55778,24 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:56:36]   resolved in 1.2s → 1080p (https://pf-storage6.premiumcdn.net/29556692/932cZOiQMSO0inBh7kS9NikzhPaTeAHMwtWQ…)
 [08:58:31]   downloaded 2,554.0 MB in 113.1s (22.6 MB/s)
 [09:01:23]   upload done video_id=27075486 in 171.9s
+[09:01:27] film cr_film_id=31241 OK in 291.5s
+[09:01:27] iteration 7/20
+[09:01:27] film cr_film_id=31247 name='Divoké pobřeží!! (2022) CZ Dabing' candidates=3
+[09:01:27]   candidate upload_id=c943df6b1a50ef70 url=https://prehraj.to/divoke-pobrezi-2022-cz-dab-1080p/c943df6b1a50ef70
+[09:01:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/divoke-pobrezi-2022-cz-dab-1080p/c943df6b1a50ef70 (permanent=True)
+[09:01:28]   candidate upload_id=4c0f7428912d73f3 url=https://prehraj.to/divoke-pobrezi-2022-cz-dab-1080p/4c0f7428912d73f3
+[09:01:33]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/divoke-pobrezi-2022-cz-dab-1080p/4c0f7428912d73f3 (permanent=True)
+[09:01:33]   candidate upload_id=b3aaa0ef7e25dec8 url=https://prehraj.to/divoke-pobrezi-2022-cz-dabing-mp4/b3aaa0ef7e25dec8
+[09:01:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/divoke-pobrezi-2022-cz-dabing-mp4/b3aaa0ef7e25dec8 (permanent=True)
+[09:01:39] film cr_film_id=31247 all candidates exhausted
+[09:01:39] iteration 8/20
+[09:01:39] film cr_film_id=31255 name='Frederick Douglass v pěti proslovech (2022) CZ Dabing' candidates=1
+[09:01:39]   candidate upload_id=6232452b8b651 url=https://prehraj.to/frederick-douglass-v-peti-proslovech-2022-czdab/6232452b8b651
+[09:01:45]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/frederick-douglass-v-peti-proslovech-2022-czdab/6232452b8b651 (permanent=True)
+[09:01:45] film cr_film_id=31255 all candidates exhausted
+[09:01:45] iteration 9/20
+[09:01:45] film cr_film_id=31261 name='Byt (1960) CZ Dabing' candidates=1
+[09:01:45]   candidate upload_id=e413e015df31cc17 url=https://prehraj.to/byt-1960-cz-dabing-mp4/e413e015df31cc17
+[09:01:51]   resolved in 6.2s → 480p (https://pf-storage6.premiumcdn.net/169586887/dz3cJli3lFKrtjlfQVFa7i7bhJQU9PFwYSW…)
+[09:02:27]   downloaded 555.7 MB in 33.7s (16.5 MB/s)
+[09:03:08]   upload done video_id=27075572 in 41.2s
