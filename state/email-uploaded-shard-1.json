@@ -141252,6 +141252,25 @@
         "download_sec": 107.4,
         "upload_sec": 102.9
       }
+    },
+    {
+      "cr_film_id": 29121,
+      "cr_slug": "nicota",
+      "title": "Nicota",
+      "year": 2016,
+      "display_name": "Nicota (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "64d11083ccbbd",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27065572,
+      "size_bytes": 1244806315,
+      "uploaded_at": "2026-07-02T01:11:00Z",
+      "timing": {
+        "resolve_sec": 1.9,
+        "download_sec": 45.8,
+        "upload_sec": 62.6
+      }
     }
   ],
   "failed_attempts": [
@@ -144516,5 +144535,5 @@
       "failed_at": "2026-07-02T00:46:42Z"
     }
   ],
-  "last_updated": "2026-07-02T01:09:06Z"
+  "last_updated": "2026-07-02T01:11:00Z"
 }
