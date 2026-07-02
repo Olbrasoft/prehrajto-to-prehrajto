@@ -56609,3 +56609,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:54:25]   upload done video_id=27081652 in 60.3s
 [12:54:27] film cr_film_id=31935 OK in 101.2s
 [12:54:27] batch-end ok=20 failed=0 dur=2040.4s avg/film=102.0s remaining=9756 eta_hours=276.4
+
+===== run 2026-07-02T13:15:14Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28592894731) =====
+[13:15:16] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:15:16] batch-start shard=1/2 count=20 backlog=17650 uploads=7894 failed_attempts=461 description_overrides=17579
+[13:15:16] login
+[13:15:17] login done
+[13:15:17] iteration 1/20
+[13:15:17] film cr_film_id=31937 name='Super já (2021) CZ Dabing' candidates=5
+[13:15:17]   candidate upload_id=60a108775c4ec url=https://prehraj.to/super-ja-super-me-2019-cz-dabing/60a108775c4ec
+[13:15:18]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/23538054/PBRf73sB9FD5CGMu3QtG7sGKTpjSvwfbkHBv…)
+[13:16:51]   downloaded 1,873.4 MB in 90.3s (20.7 MB/s)
+[13:18:34]   upload done video_id=27081939 in 103.7s
