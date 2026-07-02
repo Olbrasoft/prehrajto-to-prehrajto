@@ -56063,3 +56063,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [12:15:17]   upload done video_id=27081069 in 107.1s
 [12:15:19] film cr_film_id=30562 OK in 174.3s
 [12:15:19] batch-end ok=18 failed=2 dur=1689.0s avg/film=93.8s remaining=9833 eta_hours=256.2
+
+===== run 2026-07-02T12:20:26Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28589484083) =====
+[12:20:28] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:20:29] batch-start shard=0/2 count=20 backlog=17650 uploads=7817 failed_attempts=517 description_overrides=17579
+[12:20:29] login
+[12:20:30] login done
+[12:20:30] iteration 1/20
+[12:20:30] film cr_film_id=30564 name='Skleněný dům (1982) CZ' candidates=2
+[12:20:30]   candidate upload_id=5adfc787e9ee3 url=https://prehraj.to/skleneny-dum-cssr-1981/5adfc787e9ee3
+[12:20:32]   resolved in 1.6s → 480p (https://pf-storage5.premiumcdn.net/3954903/Yl0ugwcR7hxas9YU2quBVcW1uAVi73Sj8IqlT…)
+[12:20:56]   downloaded 398.0 MB in 21.9s (18.2 MB/s)
+[12:21:29]   upload done video_id=27081140 in 33.5s
