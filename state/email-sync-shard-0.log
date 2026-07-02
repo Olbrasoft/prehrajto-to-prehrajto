@@ -55775,3 +55775,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:53:29]   upload done video_id=27077247 in 31.8s
 [10:53:31] film cr_film_id=30214 OK in 65.1s
 [10:53:31] batch-end ok=20 failed=0 dur=1894.0s avg/film=94.7s remaining=9869 eta_hours=259.6
+
+===== run 2026-07-02T10:54:11Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28584636611) =====
+[10:54:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:54:13] batch-start shard=0/2 count=20 backlog=17650 uploads=7781 failed_attempts=512 description_overrides=17579
+[10:54:13] login
+[10:54:14] login done
+[10:54:14] iteration 1/20
+[10:54:14] film cr_film_id=30218 name='Sestry války (2010) CZ Dabing' candidates=7
+[10:54:14]   candidate upload_id=5a4f74c4126b8 url=https://prehraj.to/sestry-valky-sisters-of-war-2010-cz-dabing-mp4/5a4f74c4126b8
+[10:54:15]   resolved in 1.0s → 720p (https://pf-storage1.premiumcdn.net/3240988/Koxt0oIwAca8cMluGRTJjIB2H8xUPbFrESWdT…)
+[10:54:56]   downloaded 1,078.2 MB in 38.9s (27.7 MB/s)
+[10:55:44]   upload done video_id=27077269 in 48.1s
