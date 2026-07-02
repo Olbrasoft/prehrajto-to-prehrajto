@@ -144511,6 +144511,25 @@
         "download_sec": 26.1,
         "upload_sec": 40.6
       }
+    },
+    {
+      "cr_film_id": 30104,
+      "cr_slug": "zlata-brana",
+      "title": "Zlatá brána",
+      "year": 2009,
+      "display_name": "Zlatá brána (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "580fdf75cd2bc",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27077002,
+      "size_bytes": 541832306,
+      "uploaded_at": "2026-07-02T10:31:14Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 32.1,
+        "upload_sec": 42.1
+      }
     }
   ],
   "failed_attempts": [
@@ -148199,5 +148218,5 @@
       "failed_at": "2026-07-02T10:17:05Z"
     }
   ],
-  "last_updated": "2026-07-02T10:29:54Z"
+  "last_updated": "2026-07-02T10:31:14Z"
 }
