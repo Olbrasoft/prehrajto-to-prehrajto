@@ -54120,3 +54120,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:20:14]   upload done video_id=27064347 in 161.5s
 [00:20:16] film cr_film_id=29011 OK in 252.8s
 [00:20:16] batch-end ok=20 failed=0 dur=2706.8s avg/film=135.3s remaining=10084 eta_hours=379.0
+
+===== run 2026-07-02T00:20:55Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28556643399) =====
+[00:20:57] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:20:57] batch-start shard=1/2 count=20 backlog=17650 uploads=7566 failed_attempts=442 description_overrides=17579
+[00:20:57] login
+[00:20:59] login done
+[00:20:59] iteration 1/20
+[00:20:59] film cr_film_id=29013 name='S tímto prstenem (2015) CZ Dabing' candidates=2
+[00:20:59]   candidate upload_id=565096970fc74 url=https://prehraj.to/s-timto-prstenem-2015-cz-dab-komedie/565096970fc74
+[00:21:00]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/327692/eP1unEcE5hVxFeVuNAu8VcEaU6pUwpS4rFwzUe…)
+[00:21:23]   downloaded 560.9 MB in 21.5s (26.1 MB/s)
+[00:22:01]   upload done video_id=27064430 in 37.8s
