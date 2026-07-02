@@ -55004,3 +55004,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:06:19]   upload done video_id=27071587 in 32.3s
 [05:06:21] film cr_film_id=29983 OK in 57.1s
 [05:06:21] batch-end ok=19 failed=1 dur=2757.0s avg/film=145.1s remaining=9966 eta_hours=401.7
+
+===== run 2026-07-02T05:11:57Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28567032852) =====
+[05:12:00] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:12:00] batch-start shard=1/2 count=20 backlog=17650 uploads=7684 failed_attempts=447 description_overrides=17579
+[05:12:00] login
+[05:12:07] login done
+[05:12:07] iteration 1/20
+[05:12:07] film cr_film_id=29987 name='Sledování (1998) CZ' candidates=1
+[05:12:07]   candidate upload_id=5acf77011ee0f url=https://prehraj.to/sledovani-1998/5acf77011ee0f
+[05:12:08]   resolved in 1.3s → 720p (https://pf-storage1.premiumcdn.net/3865150/z1kC0ViKyuBZH6WFeMskmiOrIlgf78twBcJKf…)
+[05:12:47]   downloaded 1,106.8 MB in 37.5s (29.5 MB/s)
+[05:13:46]   upload done video_id=27071706 in 58.4s
