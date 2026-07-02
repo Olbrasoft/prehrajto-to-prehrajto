@@ -58081,3 +58081,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [23:19:00]   upload done video_id=27088809 in 29.3s
 [23:19:03] film cr_film_id=32807 OK in 52.5s
 [23:19:03] batch-end ok=20 failed=0 dur=1399.3s avg/film=70.0s remaining=9556 eta_hours=185.8
+
+===== run 2026-07-02T23:35:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28628315476) =====
+[23:35:17] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:35:18] batch-start shard=1/2 count=20 backlog=17650 uploads=8094 failed_attempts=462 description_overrides=17579
+[23:35:18] login
+[23:35:19] login done
+[23:35:19] iteration 1/20
+[23:35:19] film cr_film_id=32809 name='Parcela 60, katastr Lukovice (1983) CZ Dabing' candidates=1
+[23:35:19]   candidate upload_id=58744eaba35d4 url=https://prehraj.to/parcela-60-katastr-lukovice-1983-krimi-czdab/58744eaba35d4
+[23:35:20]   resolved in 1.1s → 480p (https://pf-storage2.premiumcdn.net/1404536/yA9TQJirNsxzcP6Uw0FQViA1HOGsaXU5pTYVs…)
+[23:35:47]   downloaded 569.4 MB in 25.0s (22.8 MB/s)
+[23:36:19]   upload done video_id=27088982 in 32.7s
