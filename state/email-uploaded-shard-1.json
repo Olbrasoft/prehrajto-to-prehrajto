@@ -148833,6 +148833,25 @@
         "download_sec": 16.1,
         "upload_sec": 29.3
       }
+    },
+    {
+      "cr_film_id": 32317,
+      "cr_slug": "legenda-1993",
+      "title": "Legenda",
+      "year": 1993,
+      "display_name": "Legenda (1993) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "67f25f5aeb16f",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27084922,
+      "size_bytes": 767619040,
+      "uploaded_at": "2026-07-02T16:54:42Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 26.1,
+        "upload_sec": 36.0
+      }
     }
   ],
   "failed_attempts": [
@@ -152209,5 +152228,5 @@
       "failed_at": "2026-07-02T12:44:01Z"
     }
   ],
-  "last_updated": "2026-07-02T16:53:36Z"
+  "last_updated": "2026-07-02T16:54:42Z"
 }
