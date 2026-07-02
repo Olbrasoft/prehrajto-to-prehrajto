@@ -55878,3 +55878,20 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:37:51]   upload done video_id=27076302 in 129.4s
 [09:37:53] film cr_film_id=31435 OK in 229.6s
 [09:37:53] batch-end ok=17 failed=3 dur=2983.8s avg/film=175.5s remaining=9853 eta_hours=480.3
+
+===== run 2026-07-02T09:38:28Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28580391659) =====
+[09:38:30] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[09:38:30] batch-start shard=1/2 count=20 backlog=17650 uploads=7797 failed_attempts=457 description_overrides=17579
+[09:38:30] login
+[09:38:32] login done
+[09:38:32] iteration 1/20
+[09:38:32] film cr_film_id=31457 name='Godzilla Vs Gomora - Part 3 (2016) CZ Dabing' candidates=1
+[09:38:32]   candidate upload_id=f9eef40d48f0c8f7 url=https://prehraj.to/godzilla-vs-gomora-part-3-2016-en-cz-dabing-mp4/f9eef40d48f0c8f7
+[09:38:32]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/godzilla-vs-gomora-part-3-2016-en-cz-dabing-mp4/f9eef40d48f0c8f7 (permanent=True)
+[09:38:32] film cr_film_id=31457 all candidates exhausted
+[09:38:32] iteration 2/20
+[09:38:32] film cr_film_id=31461 name='Městečko South Park: Konec obezity (2024) CZ Dabing' candidates=4
+[09:38:32]   candidate upload_id=0888c8a35f1368ad url=https://prehraj.to/mestecko-south-park-konec-obezity-2024-cz-dab-720p-mp4/0888c8a35f1368ad
+[09:38:38]   resolved in 5.8s → 720p (https://pf-storage5.premiumcdn.net/168314212/YvLIx9ie1twrSzBHpqUrEiOeFgGT9yToaHE…)
+[09:38:53]   downloaded 443.4 MB in 13.8s (32.1 MB/s)
+[09:39:21]   upload done video_id=27076340 in 28.0s
