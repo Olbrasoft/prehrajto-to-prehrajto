@@ -56549,3 +56549,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:42:52]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/10474463/neKIG5fWYTKvuA9c71sgef3jCQ9hqySPKTMe…)
 [12:43:18]   downloaded 540.3 MB in 23.8s (22.7 MB/s)
 [12:43:58]   upload done video_id=27081488 in 40.8s
+[12:44:00] film cr_film_id=31907 OK in 69.3s
+[12:44:00] iteration 13/20
+[12:44:00] film cr_film_id=31909 name='Waynův svět (1992) CZ Dabing' candidates=4
+[12:44:00]   candidate upload_id=68dc676d212ec url=https://prehraj.to/waynuv-svet-1992-cz-dab-1080p/68dc676d212ec
+[12:44:01]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/waynuv-svet-1992-cz-dab-1080p/68dc676d212ec (permanent=True)
+[12:44:01]   candidate upload_id=56f4311dc269b url=https://prehraj.to/waynuv-svet-2-cz-dabing-1993/56f4311dc269b
+[12:44:07]   resolved in 5.9s → 480p (https://pf-storage2.premiumcdn.net/55650/68XfmGc9DsqNF5mhkMiM8cqlu9mUnKfgLuDOivm…)
+[12:44:42]   downloaded 713.8 MB in 33.6s (21.2 MB/s)
+[12:45:42]   upload done video_id=27081514 in 60.2s
