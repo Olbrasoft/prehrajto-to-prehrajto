@@ -57491,3 +57491,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [19:37:44]   upload done video_id=27086660 in 70.0s
 [19:38:00] film cr_film_id=32427 OK in 863.4s
 [19:38:00] batch-end ok=20 failed=0 dur=5684.9s avg/film=284.2s remaining=9636 eta_hours=760.7
+
+===== run 2026-07-02T19:38:43Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28616741285) =====
+[19:38:46] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[19:38:46] batch-start shard=1/2 count=20 backlog=17650 uploads=8014 failed_attempts=461 description_overrides=17579
+[19:38:46] login
+[19:38:47] login done
+[19:38:47] iteration 1/20
+[19:38:47] film cr_film_id=32429 name='Lidský štít (1992) CZ' candidates=1
+[19:38:47]   candidate upload_id=58206289b7762 url=https://prehraj.to/lidsky-stit-michael-dudikoff-1991-cz-dab/58206289b7762
+[19:38:48]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/810096/OdyHlzcZJHJqh63SAYTBqckjf3MhAJI0mSakTl…)
+[19:39:12]   downloaded 435.2 MB in 21.9s (19.9 MB/s)
+[19:40:01]   upload done video_id=27086678 in 48.6s
