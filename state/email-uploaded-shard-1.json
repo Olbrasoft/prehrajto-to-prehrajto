@@ -145888,6 +145888,25 @@
         "download_sec": 31.1,
         "upload_sec": 48.8
       }
+    },
+    {
+      "cr_film_id": 31733,
+      "cr_slug": "vichrice",
+      "title": "Vichřice",
+      "year": 2003,
+      "display_name": "Vichřice (2003) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b379d46b2964",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27077165,
+      "size_bytes": 825598354,
+      "uploaded_at": "2026-07-02T10:45:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 32.3,
+        "upload_sec": 53.5
+      }
     }
   ],
   "failed_attempts": [
@@ -149257,5 +149276,5 @@
       "failed_at": "2026-07-02T09:45:42Z"
     }
   ],
-  "last_updated": "2026-07-02T10:44:19Z"
+  "last_updated": "2026-07-02T10:45:50Z"
 }
