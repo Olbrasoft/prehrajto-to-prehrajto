@@ -55151,3 +55151,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:39:46]   upload done video_id=27072056 in 42.3s
 [05:39:48] film cr_film_id=30145 OK in 80.4s
 [05:39:48] batch-end ok=20 failed=0 dur=1661.1s avg/film=83.1s remaining=9946 eta_hours=229.6
+
+===== run 2026-07-02T05:54:49Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28568722252) =====
+[05:54:50] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:54:50] batch-start shard=1/2 count=20 backlog=17650 uploads=7704 failed_attempts=447 description_overrides=17579
+[05:54:50] login
+[05:54:52] login done
+[05:54:52] iteration 1/20
+[05:54:52] film cr_film_id=30147 name='Kolem světa s Timonem a Pumbou (1996) CZ' candidates=1
+[05:54:52]   candidate upload_id=5c009e8cbc817 url=https://prehraj.to/kolem-sveta-s-timonem-a-pumbou-1996-mp4/5c009e8cbc817
+[05:54:53]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/8856857/qwPiNnUAyIJOu7wc63tEDUExcpQTlAu1XF17F…)
+[05:55:24]   downloaded 501.2 MB in 28.9s (17.3 MB/s)
+[05:56:11]   upload done video_id=27072288 in 47.4s
