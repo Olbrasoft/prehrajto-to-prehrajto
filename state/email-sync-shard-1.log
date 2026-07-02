@@ -54563,3 +54563,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [02:37:56]   upload done video_id=27067765 in 88.5s
 [02:37:58] film cr_film_id=29409 OK in 162.3s
 [02:37:58] batch-end ok=20 failed=0 dur=2561.7s avg/film=128.1s remaining=10025 eta_hours=356.7
+
+===== run 2026-07-02T02:39:42Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28561496280) =====
+[02:39:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:39:43] batch-start shard=1/2 count=20 backlog=17650 uploads=7625 failed_attempts=445 description_overrides=17579
+[02:39:43] login
+[02:39:45] login done
+[02:39:45] iteration 1/20
+[02:39:45] film cr_film_id=29411 name='Vražedná náruč (2017) CZ Dabing' candidates=2
+[02:39:45]   candidate upload_id=5d397d4ea393c url=https://prehraj.to/vrazedna-naruc-2017-cz-dabing-bst/5d397d4ea393c
+[02:39:46]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/14479479/VGaFJMSe7sRAUqYtLJhB2S5eHM3sqbT15Tya…)
+[02:40:11]   downloaded 386.3 MB in 22.5s (17.2 MB/s)
+[02:40:42]   upload done video_id=27067855 in 31.4s
