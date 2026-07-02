@@ -146572,6 +146572,25 @@
         "download_sec": 15.1,
         "upload_sec": 26.9
       }
+    },
+    {
+      "cr_film_id": 31849,
+      "cr_slug": "nic-jako-driv",
+      "title": "Nic jako dřív",
+      "year": 2018,
+      "display_name": "Nic jako dřív (2018) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ce186e0bc709",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27080922,
+      "size_bytes": 809698299,
+      "uploaded_at": "2026-07-02T12:04:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 29.9,
+        "upload_sec": 64.4
+      }
     }
   ],
   "failed_attempts": [
@@ -149941,5 +149960,5 @@
       "failed_at": "2026-07-02T09:45:42Z"
     }
   ],
-  "last_updated": "2026-07-02T12:02:41Z"
+  "last_updated": "2026-07-02T12:04:21Z"
 }
