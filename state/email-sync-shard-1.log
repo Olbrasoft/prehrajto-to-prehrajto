@@ -55584,3 +55584,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:48:28]   upload done video_id=27074131 in 144.5s
 [07:48:31] film cr_film_id=30591 OK in 247.2s
 [07:48:31] batch-end ok=19 failed=1 dur=1871.7s avg/film=98.5s remaining=9890 eta_hours=270.6
+
+===== run 2026-07-02T08:07:11Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28575158113) =====
+[08:07:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:07:13] batch-start shard=1/2 count=20 backlog=17650 uploads=7760 failed_attempts=451 description_overrides=17579
+[08:07:13] login
+[08:07:14] login done
+[08:07:14] iteration 1/20
+[08:07:14] film cr_film_id=30593 name='Spravedlnost (2017) CZ' candidates=1
+[08:07:14]   candidate upload_id=67124c2d12d97 url=https://prehraj.to/spravedlnost-2017-2-ze-3-serial-drama-vetchy-telefilm-mp4/67124c2d12d97
+[08:07:15]   resolved in 1.1s → 720p (https://pf-storage4.premiumcdn.net/102549116/n4VcJAFAetmBI5mClaSEeFVkfaeUaRse4HX…)
+[08:07:43]   downloaded 716.4 MB in 26.4s (27.1 MB/s)
+[08:08:33]   upload done video_id=27074504 in 49.8s
