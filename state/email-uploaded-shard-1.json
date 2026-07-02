@@ -144596,6 +144596,25 @@
         "download_sec": 17.7,
         "upload_sec": 27.1
       }
+    },
+    {
+      "cr_film_id": 30623,
+      "cr_slug": "mimoradne-zpravy",
+      "title": "Mimořádné zprávy",
+      "year": 2017,
+      "display_name": "Mimořádné zprávy (2017) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5ab550d73d68e",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27074554,
+      "size_bytes": 384931487,
+      "uploaded_at": "2026-07-02T08:10:22Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.4,
+        "upload_sec": 38.8
+      }
     }
   ],
   "failed_attempts": [
@@ -147902,5 +147921,5 @@
       "failed_at": "2026-07-02T07:44:24Z"
     }
   ],
-  "last_updated": "2026-07-02T08:09:23Z"
+  "last_updated": "2026-07-02T08:10:22Z"
 }
