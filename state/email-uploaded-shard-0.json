@@ -139875,6 +139875,25 @@
         "download_sec": 19.9,
         "upload_sec": 33.9
       }
+    },
+    {
+      "cr_film_id": 28364,
+      "cr_slug": "na-skok-do-divociny",
+      "title": "Na skok do divočiny",
+      "year": 2026,
+      "display_name": "Na skok do divočiny (2026) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "8d497823a266662e",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27065256,
+      "size_bytes": 1804803439,
+      "uploaded_at": "2026-07-02T01:00:10Z",
+      "timing": {
+        "resolve_sec": 6.1,
+        "download_sec": 71.1,
+        "upload_sec": 106.9
+      }
     }
   ],
   "failed_attempts": [
@@ -143484,7 +143503,28 @@
       "reason": "resolve_failed: HTTP 504 after 5 attempts: https://prehraj.to/den-na-zkousku-2011/5aa3c42e1b8de",
       "permanent": false,
       "failed_at": "2026-07-01T16:42:44Z"
+    },
+    {
+      "cr_film_id": 28364,
+      "upload_id": "f36ad964e03b59d1",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hoppers-2026-1080p-ma-web-dl-ddp5-1-atmos-h-264-byndr-mkv/f36ad964e03b59d1",
+      "permanent": true,
+      "failed_at": "2026-07-02T00:56:53Z"
+    },
+    {
+      "cr_film_id": 28364,
+      "upload_id": "52a394db2ad2fdcf",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/na-skok-do-divociny-hoppers-2026-cz-dabing-720p/52a394db2ad2fdcf",
+      "permanent": true,
+      "failed_at": "2026-07-02T00:56:59Z"
+    },
+    {
+      "cr_film_id": 28364,
+      "upload_id": "4667bdda86b2376b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/hoppers-2026-cz-dabing-hd-kvalita-mkv/4667bdda86b2376b",
+      "permanent": true,
+      "failed_at": "2026-07-02T00:57:05Z"
     }
   ],
-  "last_updated": "2026-07-02T00:56:50Z"
+  "last_updated": "2026-07-02T01:00:10Z"
 }
