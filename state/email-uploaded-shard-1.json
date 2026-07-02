@@ -144539,6 +144539,25 @@
         "download_sec": 16.9,
         "upload_sec": 28.1
       }
+    },
+    {
+      "cr_film_id": 30591,
+      "cr_slug": "marlina-vrazedkyne-ve-ctyrech-aktech",
+      "title": "Marlina, vražedkyně ve čtyřech aktech",
+      "year": 2017,
+      "display_name": "Marlina, vražedkyně ve čtyřech aktech (2017) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c7bbc5c579f1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27074131,
+      "size_bytes": 1835053843,
+      "uploaded_at": "2026-07-02T07:48:28Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 92.2,
+        "upload_sec": 144.5
+      }
     }
   ],
   "failed_attempts": [
@@ -147836,7 +147855,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bratri-ve-zbrani-1997-cz-dabing-mp4/e7739fc427b14838",
       "permanent": true,
       "failed_at": "2026-07-02T07:02:29Z"
+    },
+    {
+      "cr_film_id": 30577,
+      "upload_id": "85ad5fa76da5b74e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/no-other-way-to-say-it-2017-en-cz-dabing-mp4/85ad5fa76da5b74e",
+      "permanent": true,
+      "failed_at": "2026-07-02T07:44:24Z"
     }
   ],
-  "last_updated": "2026-07-02T07:44:20Z"
+  "last_updated": "2026-07-02T07:48:28Z"
 }

@@ -55570,3 +55570,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:43:34]   resolved in 1.3s → 480p (https://pf-storage5.premiumcdn.net/18870224/9pQce3SzoiRbULGhjYF04Sj0iY8tO7C4EuP5…)
 [07:43:52]   downloaded 295.8 MB in 16.9s (17.5 MB/s)
 [07:44:20]   upload done video_id=27074100 in 28.1s
+[07:44:23] film cr_film_id=30575 OK in 50.8s
+[07:44:23] iteration 19/20
+[07:44:23] film cr_film_id=30577 name='No Other Way to Say It (2017) CZ Dabing' candidates=1
+[07:44:23]   candidate upload_id=85ad5fa76da5b74e url=https://prehraj.to/no-other-way-to-say-it-2017-en-cz-dabing-mp4/85ad5fa76da5b74e
+[07:44:24]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/no-other-way-to-say-it-2017-en-cz-dabing-mp4/85ad5fa76da5b74e (permanent=True)
+[07:44:24] film cr_film_id=30577 all candidates exhausted
+[07:44:24] iteration 20/20
+[07:44:24] film cr_film_id=30591 name='Marlina, vražedkyně ve čtyřech aktech (2017) CZ' candidates=2
+[07:44:24]   candidate upload_id=5c7bbc5c579f1 url=https://prehraj.to/marlina-vrazedkyne-ve-ctyrech-aktech-2017-hc-titulky-cz-1080p-mp4/5c7bbc5c579f1
+[07:44:30]   resolved in 6.0s → 1080p (https://pf-storage5.premiumcdn.net/12259123/2rbfNQIqOcgOUJzHelHKaIWNUlmHXMhPbFYb…)
+[07:46:03]   downloaded 1,835.1 MB in 92.2s (19.9 MB/s)
+[07:48:28]   upload done video_id=27074131 in 144.5s
