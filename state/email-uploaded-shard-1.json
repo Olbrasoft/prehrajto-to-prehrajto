@@ -145717,6 +145717,25 @@
         "download_sec": 20.8,
         "upload_sec": 42.6
       }
+    },
+    {
+      "cr_film_id": 31699,
+      "cr_slug": "atentat-1965",
+      "title": "Atentát",
+      "year": 1965,
+      "display_name": "Atentát (1965) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5dbbca2b9b196",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27077006,
+      "size_bytes": 453481497,
+      "uploaded_at": "2026-07-02T10:31:28Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.9,
+        "upload_sec": 31.5
+      }
     }
   ],
   "failed_attempts": [
@@ -149086,5 +149105,5 @@
       "failed_at": "2026-07-02T09:45:42Z"
     }
   ],
-  "last_updated": "2026-07-02T10:30:32Z"
+  "last_updated": "2026-07-02T10:31:28Z"
 }
