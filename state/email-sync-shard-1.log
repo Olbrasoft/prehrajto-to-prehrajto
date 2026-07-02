@@ -56019,3 +56019,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:20:55]   upload done video_id=27076891 in 52.4s
 [10:20:57] film cr_film_id=31681 OK in 100.3s
 [10:20:57] batch-end ok=17 failed=3 dur=2545.8s avg/film=149.8s remaining=9836 eta_hours=409.3
+
+===== run 2026-07-02T10:21:54Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28582874623) =====
+[10:21:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:21:56] batch-start shard=1/2 count=20 backlog=17650 uploads=7814 failed_attempts=460 description_overrides=17579
+[10:21:56] login
+[10:21:57] login done
+[10:21:57] iteration 1/20
+[10:21:57] film cr_film_id=31683 name='Свінгери 2 (2019) CZ Dabing' candidates=16
+[10:21:57]   candidate upload_id=62850c86f399d url=https://prehraj.to/animovane-filmy-cz-dabing-2020-nejlepsi-animovane-fil-720p-2/62850c86f399d
+[10:21:59]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/30878231/vGoUW9I85S7gtvPfWzsrjI2eT73ix5FoKurR…)
+[10:22:30]   downloaded 768.5 MB in 29.7s (25.9 MB/s)
+[10:23:20]   upload done video_id=27076922 in 50.1s
