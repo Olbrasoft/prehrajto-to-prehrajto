@@ -144397,6 +144397,25 @@
         "download_sec": 47.5,
         "upload_sec": 36.7
       }
+    },
+    {
+      "cr_film_id": 30050,
+      "cr_slug": "cela-2",
+      "title": "Cela 2",
+      "year": 2009,
+      "display_name": "Cela 2 (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "588b5e261a32c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27076895,
+      "size_bytes": 635122686,
+      "uploaded_at": "2026-07-02T10:21:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 28.7,
+        "upload_sec": 46.7
+      }
     }
   ],
   "failed_attempts": [
@@ -148085,5 +148104,5 @@
       "failed_at": "2026-07-02T10:17:05Z"
     }
   ],
-  "last_updated": "2026-07-02T10:19:51Z"
+  "last_updated": "2026-07-02T10:21:12Z"
 }
