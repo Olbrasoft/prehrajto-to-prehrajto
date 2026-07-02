@@ -146753,6 +146753,25 @@
         "download_sec": 60.2,
         "upload_sec": 72.6
       }
+    },
+    {
+      "cr_film_id": 31678,
+      "cr_slug": "zaklete-pirko",
+      "title": "Zakleté pírko",
+      "year": 2020,
+      "display_name": "Zakleté pírko (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6823a78950603",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27083670,
+      "size_bytes": 1186184778,
+      "uploaded_at": "2026-07-02T15:14:14Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.5,
+        "upload_sec": 110.9
+      }
     }
   ],
   "failed_attempts": [
@@ -150518,5 +150537,5 @@
       "failed_at": "2026-07-02T14:15:25Z"
     }
   ],
-  "last_updated": "2026-07-02T15:11:44Z"
+  "last_updated": "2026-07-02T15:14:14Z"
 }
