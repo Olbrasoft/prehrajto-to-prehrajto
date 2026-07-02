@@ -146420,6 +146420,25 @@
         "download_sec": 9.7,
         "upload_sec": 19.9
       }
+    },
+    {
+      "cr_film_id": 31827,
+      "cr_slug": "vychovny-tabor",
+      "title": "Výchovný tábor",
+      "year": 2008,
+      "display_name": "Výchovný tábor (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a81e518a6a2a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27080831,
+      "size_bytes": 733908014,
+      "uploaded_at": "2026-07-02T11:54:53Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 27.1,
+        "upload_sec": 36.8
+      }
     }
   ],
   "failed_attempts": [
@@ -149789,5 +149808,5 @@
       "failed_at": "2026-07-02T09:45:42Z"
     }
   ],
-  "last_updated": "2026-07-02T11:53:45Z"
+  "last_updated": "2026-07-02T11:54:53Z"
 }
