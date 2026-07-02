@@ -55920,3 +55920,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [11:22:06]   upload done video_id=27078785 in 75.1s
 [11:22:08] film cr_film_id=30378 OK in 128.9s
 [11:22:08] batch-end ok=18 failed=2 dur=1674.0s avg/film=93.0s remaining=9851 eta_hours=254.5
+
+===== run 2026-07-02T11:47:07Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28587551245) =====
+[11:47:09] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[11:47:09] batch-start shard=0/2 count=20 backlog=17650 uploads=7799 failed_attempts=515 description_overrides=17579
+[11:47:09] login
+[11:47:10] login done
+[11:47:10] iteration 1/20
+[11:47:10] film cr_film_id=30380 name='Sofie První: Plovoucí zámek (2013) CZ Dabing' candidates=3
+[11:47:10]   candidate upload_id=5915c22b45c2e url=https://prehraj.to/sofie-prvni-plovouci-zamek-2013-cz-dabing/5915c22b45c2e
+[11:47:11]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/2174260/RwzuezCXZsKEspJi59FmWC5oi0xHPxumnHVau…)
+[11:47:24]   downloaded 368.3 MB in 12.0s (30.7 MB/s)
+[11:47:49]   upload done video_id=27080776 in 24.1s
