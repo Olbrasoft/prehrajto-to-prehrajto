@@ -146734,6 +146734,25 @@
         "download_sec": 23.6,
         "upload_sec": 32.4
       }
+    },
+    {
+      "cr_film_id": 31676,
+      "cr_slug": "eskorta",
+      "title": "Eskorta",
+      "year": 1989,
+      "display_name": "Eskorta (1989) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a90363a121b5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27083635,
+      "size_bytes": 1737949784,
+      "uploaded_at": "2026-07-02T15:11:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 60.2,
+        "upload_sec": 72.6
+      }
     }
   ],
   "failed_attempts": [
@@ -150499,5 +150518,5 @@
       "failed_at": "2026-07-02T14:15:25Z"
     }
   ],
-  "last_updated": "2026-07-02T15:09:27Z"
+  "last_updated": "2026-07-02T15:11:44Z"
 }
