@@ -54599,3 +54599,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:11:17]   upload done video_id=27071676 in 60.0s
 [05:11:19] film cr_film_id=28962 OK in 100.8s
 [05:11:19] batch-end ok=20 failed=0 dur=3053.5s avg/film=152.7s remaining=10027 eta_hours=425.3
+
+===== run 2026-07-02T05:11:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28567032852) =====
+[05:11:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:11:57] batch-start shard=0/2 count=20 backlog=17650 uploads=7623 failed_attempts=508 description_overrides=17579
+[05:11:57] login
+[05:12:04] login done
+[05:12:04] iteration 1/20
+[05:12:04] film cr_film_id=28964 name='Pohledný mizera (2014) CZ Dabing' candidates=1
+[05:12:04]   candidate upload_id=5cdc9edca9d80 url=https://prehraj.to/pohledny-mizera-2014-cz-dabing/5cdc9edca9d80
+[05:12:07]   resolved in 2.9s → 480p (https://pf-storage4.premiumcdn.net/13390509/OxKtLXH3mIZNU52C1ZU6dHBaT2GhOatzqc0z…)
+[05:12:39]   downloaded 555.6 MB in 30.8s (18.0 MB/s)
+[05:13:26]   upload done video_id=27071703 in 46.5s
