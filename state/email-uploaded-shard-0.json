@@ -142041,6 +142041,25 @@
         "download_sec": 70.2,
         "upload_sec": 256.1
       }
+    },
+    {
+      "cr_film_id": 29028,
+      "cr_slug": "the-horde",
+      "title": "The Horde",
+      "year": 2016,
+      "display_name": "The Horde (2016) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58aada40adb99",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27072104,
+      "size_bytes": 524437578,
+      "uploaded_at": "2026-07-02T05:44:14Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.5,
+        "upload_sec": 33.6
+      }
     }
   ],
   "failed_attempts": [
@@ -145701,5 +145720,5 @@
       "failed_at": "2026-07-02T04:15:12Z"
     }
   ],
-  "last_updated": "2026-07-02T05:43:14Z"
+  "last_updated": "2026-07-02T05:44:14Z"
 }
