@@ -142554,6 +142554,25 @@
         "download_sec": 48.5,
         "upload_sec": 59.3
       }
+    },
+    {
+      "cr_film_id": 29224,
+      "cr_slug": "air-strike",
+      "title": "Air Strike",
+      "year": 2018,
+      "display_name": "Air Strike (2018) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6156ea88b6cbf",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27072953,
+      "size_bytes": 2040366181,
+      "uploaded_at": "2026-07-02T06:44:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 82.3,
+        "upload_sec": 101.6
+      }
     }
   ],
   "failed_attempts": [
@@ -146214,5 +146233,5 @@
       "failed_at": "2026-07-02T04:15:12Z"
     }
   ],
-  "last_updated": "2026-07-02T06:41:06Z"
+  "last_updated": "2026-07-02T06:44:53Z"
 }

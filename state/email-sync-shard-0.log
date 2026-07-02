@@ -54893,3 +54893,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:41:06]   upload done video_id=27072920 in 59.3s
 [06:41:08] film cr_film_id=29222 OK in 113.1s
 [06:41:08] batch-end ok=20 failed=0 dur=2775.9s avg/film=138.8s remaining=9987 eta_hours=385.1
+
+===== run 2026-07-02T06:41:43Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28570790229) =====
+[06:41:44] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:41:44] batch-start shard=0/2 count=20 backlog=17650 uploads=7663 failed_attempts=508 description_overrides=17579
+[06:41:44] login
+[06:41:46] login done
+[06:41:46] iteration 1/20
+[06:41:46] film cr_film_id=29224 name='Air Strike (2018) CZ' candidates=2
+[06:41:46]   candidate upload_id=6156ea88b6cbf url=https://prehraj.to/krvavy-nasakly-guangchang-2018-valecny-historicky-film-cina/6156ea88b6cbf
+[06:41:47]   resolved in 1.1s → 1080p (https://pf-storage3.premiumcdn.net/25118579/8qauvyUR7CAeU4JS3xFg3UERfQkcZpSOrfZv…)
+[06:43:11]   downloaded 2,040.4 MB in 82.3s (24.8 MB/s)
+[06:44:53]   upload done video_id=27072953 in 101.6s
