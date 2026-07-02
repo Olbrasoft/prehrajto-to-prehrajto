@@ -56460,3 +56460,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:19:42]   upload done video_id=27081115 in 70.7s
 [12:19:44] film cr_film_id=31873 OK in 121.9s
 [12:19:44] batch-end ok=20 failed=0 dur=1955.6s avg/film=97.8s remaining=9776 eta_hours=265.6
+
+===== run 2026-07-02T12:20:24Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28589484083) =====
+[12:20:25] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:20:25] batch-start shard=1/2 count=20 backlog=17650 uploads=7874 failed_attempts=460 description_overrides=17579
+[12:20:25] login
+[12:20:26] login done
+[12:20:26] iteration 1/20
+[12:20:26] film cr_film_id=31877 name='Canadian, Sniper (2023) CZ' candidates=1
+[12:20:26]   candidate upload_id=627c5af101630 url=https://prehraj.to/mandzusky-sniper-2022-valecny-historicky-film-cina/627c5af101630
+[12:20:27]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/30803042/RYaurNf57I3Rfm1CdOtV5f3zTbac3eHMVSm6…)
+[12:21:19]   downloaded 1,180.5 MB in 49.3s (23.9 MB/s)
+[12:22:32]   upload done video_id=27081142 in 73.3s
