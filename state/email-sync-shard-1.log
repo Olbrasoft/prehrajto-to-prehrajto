@@ -54416,3 +54416,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:42:13]   upload done video_id=27066247 in 33.9s
 [01:42:15] film cr_film_id=29245 OK in 53.6s
 [01:42:15] batch-end ok=20 failed=0 dur=2201.8s avg/film=110.1s remaining=10045 eta_hours=307.2
+
+===== run 2026-07-02T01:55:09Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28559941271) =====
+[01:55:11] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:55:11] batch-start shard=1/2 count=20 backlog=17650 uploads=7605 failed_attempts=445 description_overrides=17579
+[01:55:11] login
+[01:55:16] login done
+[01:55:16] iteration 1/20
+[01:55:16] film cr_film_id=29251 name='Smrt čeká (2016) CZ Dabing' candidates=2
+[01:55:16]   candidate upload_id=6298f8df1598b url=https://prehraj.to/smrt-ceka-2016-cz-dabing-countdown/6298f8df1598b
+[01:55:17]   resolved in 1.0s → 720p (https://pf-storage5.premiumcdn.net/31057364/OvQf0nHY3iwKh9NU3NsP3HZJI4pSD7fpOCJ9…)
+[01:56:14]   downloaded 1,524.3 MB in 54.6s (27.9 MB/s)
+[01:57:27]   upload done video_id=27066626 in 73.0s
