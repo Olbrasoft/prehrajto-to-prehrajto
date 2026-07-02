@@ -149337,6 +149337,25 @@
         "download_sec": 30.9,
         "upload_sec": 41.3
       }
+    },
+    {
+      "cr_film_id": 32088,
+      "cr_slug": "katka-1950",
+      "title": "Katka",
+      "year": 1950,
+      "display_name": "Katka (1950) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "608c5ed604a6c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27088704,
+      "size_bytes": 2209810900,
+      "uploaded_at": "2026-07-02T23:10:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 97.6,
+        "upload_sec": 136.7
+      }
     }
   ],
   "failed_attempts": [
@@ -153109,5 +153128,5 @@
       "failed_at": "2026-07-02T15:22:28Z"
     }
   ],
-  "last_updated": "2026-07-02T23:06:03Z"
+  "last_updated": "2026-07-02T23:10:04Z"
 }
