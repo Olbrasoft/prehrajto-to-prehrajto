@@ -143152,6 +143152,25 @@
         "download_sec": 22.2,
         "upload_sec": 37.8
       }
+    },
+    {
+      "cr_film_id": 29999,
+      "cr_slug": "vanocni-chaloupka",
+      "title": "Vánoční chaloupka",
+      "year": 2008,
+      "display_name": "Vánoční chaloupka (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "58551f5178f31",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27071745,
+      "size_bytes": 405541419,
+      "uploaded_at": "2026-07-02T05:15:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.5,
+        "upload_sec": 30.6
+      }
     }
   ],
   "failed_attempts": [
@@ -146430,5 +146449,5 @@
       "failed_at": "2026-07-02T05:04:21Z"
     }
   ],
-  "last_updated": "2026-07-02T05:14:50Z"
+  "last_updated": "2026-07-02T05:15:44Z"
 }
