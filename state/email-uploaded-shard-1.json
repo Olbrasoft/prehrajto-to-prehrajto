@@ -148757,6 +148757,25 @@
         "download_sec": 70.8,
         "upload_sec": 94.1
       }
+    },
+    {
+      "cr_film_id": 32303,
+      "cr_slug": "bourlivak",
+      "title": "Bouřlivák",
+      "year": 1957,
+      "display_name": "Bouřlivák (1957) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c8a7f355516",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27084858,
+      "size_bytes": 405174602,
+      "uploaded_at": "2026-07-02T16:50:27Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.5,
+        "upload_sec": 30.3
+      }
     }
   ],
   "failed_attempts": [
@@ -152133,5 +152152,5 @@
       "failed_at": "2026-07-02T12:44:01Z"
     }
   ],
-  "last_updated": "2026-07-02T16:49:34Z"
+  "last_updated": "2026-07-02T16:50:27Z"
 }
