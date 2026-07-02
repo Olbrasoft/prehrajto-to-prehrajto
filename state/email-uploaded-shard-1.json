@@ -146401,6 +146401,25 @@
         "download_sec": 83.1,
         "upload_sec": 143.8
       }
+    },
+    {
+      "cr_film_id": 31821,
+      "cr_slug": "cerny-prapor",
+      "title": "Černý prapor",
+      "year": 1958,
+      "display_name": "Černý prapor (1958) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "59b75b1518df7",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27080824,
+      "size_bytes": 219935255,
+      "uploaded_at": "2026-07-02T11:53:45Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 9.7,
+        "upload_sec": 19.9
+      }
     }
   ],
   "failed_attempts": [
@@ -149770,5 +149789,5 @@
       "failed_at": "2026-07-02T09:45:42Z"
     }
   ],
-  "last_updated": "2026-07-02T11:53:09Z"
+  "last_updated": "2026-07-02T11:53:45Z"
 }
