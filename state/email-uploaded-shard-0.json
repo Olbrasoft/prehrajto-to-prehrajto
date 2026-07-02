@@ -144910,6 +144910,25 @@
         "download_sec": 8.2,
         "upload_sec": 18.9
       }
+    },
+    {
+      "cr_film_id": 30272,
+      "cr_slug": "utok-dvojhlaveho-zraloka",
+      "title": "Útok dvojhlavého žraloka",
+      "year": 2012,
+      "display_name": "Útok dvojhlavého žraloka (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a3971ce0b99833a2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27077373,
+      "size_bytes": 772491948,
+      "uploaded_at": "2026-07-02T11:01:55Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 28.4,
+        "upload_sec": 38.4
+      }
     }
   ],
   "failed_attempts": [
@@ -148603,7 +148622,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lov-lososu-v-jemenu-2012-en-cz-dabing/4484ebdfd78c6f08",
       "permanent": true,
       "failed_at": "2026-07-02T11:00:03Z"
+    },
+    {
+      "cr_film_id": 30272,
+      "upload_id": "02bfe336f6b1fbef",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/utok-dvojhlaveho-zraloka-2012-cz-dabing-mp4/02bfe336f6b1fbef",
+      "permanent": true,
+      "failed_at": "2026-07-02T11:00:40Z"
     }
   ],
-  "last_updated": "2026-07-02T11:00:38Z"
+  "last_updated": "2026-07-02T11:01:55Z"
 }
