@@ -55332,3 +55332,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:47:25]   upload done video_id=27075243 in 30.6s
 [08:47:27] film cr_film_id=29684 OK in 54.3s
 [08:47:27] batch-end ok=20 failed=0 dur=2410.2s avg/film=120.5s remaining=9928 eta_hours=332.3
+
+===== run 2026-07-02T08:48:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28577450766) =====
+[08:48:05] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:48:05] batch-start shard=0/2 count=20 backlog=17650 uploads=7722 failed_attempts=509 description_overrides=17579
+[08:48:05] login
+[08:48:06] login done
+[08:48:06] iteration 1/20
+[08:48:06] film cr_film_id=29692 name='Miluj mě, jestli to dokážeš (2016) CZ' candidates=1
+[08:48:06]   candidate upload_id=5c1682232e2b6 url=https://prehraj.to/miluj-me-jestli-to-dokazes-2016/5c1682232e2b6
+[08:48:07]   resolved in 1.2s → 720p (https://pf-storage1.premiumcdn.net/9543440/vD6TXzsA2f9aIMwhd0tO5sKli4aCmJU2mIeqf…)
+[08:48:46]   downloaded 797.2 MB in 36.8s (21.7 MB/s)
+[08:49:38]   upload done video_id=27075279 in 51.8s
