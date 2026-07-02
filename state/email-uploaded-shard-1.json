@@ -147465,6 +147465,25 @@
         "download_sec": 32.8,
         "upload_sec": 42.2
       }
+    },
+    {
+      "cr_film_id": 32007,
+      "cr_slug": "violet-daisy",
+      "title": "Violet & Daisy",
+      "year": 2011,
+      "display_name": "Violet & Daisy (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a321eed719b5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27082308,
+      "size_bytes": 335605027,
+      "uploaded_at": "2026-07-02T13:47:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.8,
+        "upload_sec": 31.3
+      }
     }
   ],
   "failed_attempts": [
@@ -150841,5 +150860,5 @@
       "failed_at": "2026-07-02T12:44:01Z"
     }
   ],
-  "last_updated": "2026-07-02T13:46:10Z"
+  "last_updated": "2026-07-02T13:47:07Z"
 }
