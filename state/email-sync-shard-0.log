@@ -55628,3 +55628,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:21:12]   upload done video_id=27076895 in 46.7s
 [10:21:15] film cr_film_id=30050 OK in 81.3s
 [10:21:15] batch-end ok=19 failed=1 dur=2559.2s avg/film=134.7s remaining=9889 eta_hours=370.0
+
+===== run 2026-07-02T10:21:54Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28582874623) =====
+[10:21:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:21:56] batch-start shard=0/2 count=20 backlog=17650 uploads=7761 failed_attempts=512 description_overrides=17579
+[10:21:56] login
+[10:21:57] login done
+[10:21:57] iteration 1/20
+[10:21:57] film cr_film_id=30062 name='Pohřbené duše (2006) CZ' candidates=1
+[10:21:57]   candidate upload_id=5c03b7d43cd1f url=https://prehraj.to/pohrbene-duse-mp4/5c03b7d43cd1f
+[10:21:59]   resolved in 1.3s → 480p (https://pf-storage1.premiumcdn.net/8927042/ajJs6WUkVtZgCJycyBcJQUg2CGmCRNuezSyJt…)
+[10:22:24]   downloaded 355.2 MB in 23.0s (15.4 MB/s)
+[10:22:55]   upload done video_id=27076921 in 31.6s
