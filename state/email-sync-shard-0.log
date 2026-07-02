@@ -56939,3 +56939,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [18:02:10]   upload done video_id=27085620 in 47.3s
 [18:02:20] film cr_film_id=31812 OK in 383.8s
 [18:02:20] batch-end ok=20 failed=0 dur=5057.5s avg/film=252.9s remaining=9718 eta_hours=682.7
+
+===== run 2026-07-02T18:03:10Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28611235021) =====
+[18:03:11] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[18:03:11] batch-start shard=0/2 count=20 backlog=17650 uploads=7932 failed_attempts=524 description_overrides=17579
+[18:03:11] login
+[18:03:13] login done
+[18:03:13] iteration 1/20
+[18:03:13] film cr_film_id=31814 name='Větrná hora (1956) CZ Dabing' candidates=2
+[18:03:13]   candidate upload_id=48d3be4be59e55df url=https://prehraj.to/vetrna-hora-1955-cz-dabing/48d3be4be59e55df
+[18:03:14]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/164773055/2m0t43fm1I95CQMC0ZSYbfEdhQdFKNc6bFy…)
+[18:04:02]   downloaded 867.4 MB in 46.5s (18.7 MB/s)
+[18:04:58]   upload done video_id=27085644 in 55.8s
