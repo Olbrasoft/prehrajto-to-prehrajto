@@ -55603,3 +55603,12 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [10:15:46]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/5176638/5XAcA9u3BUpLfDXFl5HQ0uMNcLqsyaidlfB3I…)
 [10:16:19]   downloaded 555.6 MB in 31.0s (17.9 MB/s)
 [10:17:01]   upload done video_id=27076858 in 42.0s
+[10:17:04] film cr_film_id=30032 OK in 79.2s
+[10:17:04] iteration 18/20
+[10:17:04] film cr_film_id=30040 name='Sólista (2009) CZ Dabing' candidates=2
+[10:17:04]   candidate upload_id=adcd0e482d178ced url=https://prehraj.to/solista-2009-cz-dabing/adcd0e482d178ced
+[10:17:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/solista-2009-cz-dabing/adcd0e482d178ced (permanent=True)
+[10:17:05]   candidate upload_id=57b8e31a1142b url=https://prehraj.to/solista-soloist-the-cz-dabing-2009/57b8e31a1142b
+[10:17:11]   resolved in 6.1s → 480p (https://pf-storage4.premiumcdn.net/469216/p2WHejId0F18HAdF3WieNIj1sEkU21h7Wt0oFq…)
+[10:17:42]   downloaded 521.9 MB in 29.3s (17.8 MB/s)
+[10:18:21]   upload done video_id=27076871 in 38.4s
