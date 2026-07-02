@@ -147845,6 +147845,25 @@
         "download_sec": 41.3,
         "upload_sec": 42.6
       }
+    },
+    {
+      "cr_film_id": 32077,
+      "cr_slug": "vrazedna-hra-2010",
+      "title": "Vražedná hra",
+      "year": 2010,
+      "display_name": "Vražedná hra (2010) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6100a74a26fc0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27083365,
+      "size_bytes": 1774442692,
+      "uploaded_at": "2026-07-02T14:49:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 66.4,
+        "upload_sec": 126.2
+      }
     }
   ],
   "failed_attempts": [
@@ -151221,5 +151240,5 @@
       "failed_at": "2026-07-02T12:44:01Z"
     }
   ],
-  "last_updated": "2026-07-02T14:46:37Z"
+  "last_updated": "2026-07-02T14:49:55Z"
 }
