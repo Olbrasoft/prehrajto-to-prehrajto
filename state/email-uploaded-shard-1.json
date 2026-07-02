@@ -148548,6 +148548,25 @@
         "download_sec": 26.1,
         "upload_sec": 46.8
       }
+    },
+    {
+      "cr_film_id": 32245,
+      "cr_slug": "morsti-vlci",
+      "title": "Mořští vlci",
+      "year": 1980,
+      "display_name": "Mořští vlci (1980) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "55b62477b4fea",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27084618,
+      "size_bytes": 288364240,
+      "uploaded_at": "2026-07-02T16:33:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 70.2,
+        "upload_sec": 31.1
+      }
     }
   ],
   "failed_attempts": [
@@ -151924,5 +151943,5 @@
       "failed_at": "2026-07-02T12:44:01Z"
     }
   ],
-  "last_updated": "2026-07-02T16:31:30Z"
+  "last_updated": "2026-07-02T16:33:17Z"
 }
