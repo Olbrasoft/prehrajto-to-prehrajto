@@ -145223,6 +145223,25 @@
         "download_sec": 54.4,
         "upload_sec": 69.1
       }
+    },
+    {
+      "cr_film_id": 31407,
+      "cr_slug": "pruzkumnik-lavove-jezero",
+      "title": "Průzkumník: Lávové jezero",
+      "year": 2023,
+      "display_name": "Průzkumník: Lávové jezero (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6593e10cacf5d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27076257,
+      "size_bytes": 1780734899,
+      "uploaded_at": "2026-07-02T09:34:01Z",
+      "timing": {
+        "resolve_sec": 6.2,
+        "download_sec": 97.5,
+        "upload_sec": 115.9
+      }
     }
   ],
   "failed_attempts": [
@@ -148555,7 +148574,21 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/frederick-douglass-v-peti-proslovech-2022-czdab/6232452b8b651",
       "permanent": true,
       "failed_at": "2026-07-02T09:01:45Z"
+    },
+    {
+      "cr_film_id": 31401,
+      "upload_id": "fe0c360cb4bc74a5",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/gabriela-soukalova-pravda-se-porad-vyplati-2024-czdab-mp4/fe0c360cb4bc74a5",
+      "permanent": true,
+      "failed_at": "2026-07-02T09:30:13Z"
+    },
+    {
+      "cr_film_id": 31401,
+      "upload_id": "472bb531db41240e",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/gabriela-soukalova-pravda-se-porad-vyplati-2024-czdabing-mp4/472bb531db41240e",
+      "permanent": true,
+      "failed_at": "2026-07-02T09:30:19Z"
     }
   ],
-  "last_updated": "2026-07-02T09:30:09Z"
+  "last_updated": "2026-07-02T09:34:01Z"
 }

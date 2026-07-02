@@ -55855,3 +55855,17 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [09:28:03]   resolved in 1.1s → 720p (https://pf-storage1.premiumcdn.net/43530980/nzBixrU82co5tPaTXkhw9UEbimzsKQuY3I8l…)
 [09:28:59]   downloaded 997.5 MB in 54.4s (18.3 MB/s)
 [09:30:09]   upload done video_id=27076199 in 69.1s
+[09:30:12] film cr_film_id=31397 OK in 129.9s
+[09:30:12] iteration 18/20
+[09:30:12] film cr_film_id=31401 name='Gabriela Soukalová: Pravda se pořád vyplatí (2024) CZ Dabing' candidates=2
+[09:30:12]   candidate upload_id=fe0c360cb4bc74a5 url=https://prehraj.to/gabriela-soukalova-pravda-se-porad-vyplati-2024-czdab-mp4/fe0c360cb4bc74a5
+[09:30:13]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/gabriela-soukalova-pravda-se-porad-vyplati-2024-czdab-mp4/fe0c360cb4bc74a5 (permanent=True)
+[09:30:13]   candidate upload_id=472bb531db41240e url=https://prehraj.to/gabriela-soukalova-pravda-se-porad-vyplati-2024-czdabing-mp4/472bb531db41240e
+[09:30:19]   resolve FAILED: no videos.push() blocks found at https://prehraj.to/gabriela-soukalova-pravda-se-porad-vyplati-2024-czdabing-mp4/472bb531db41240e (permanent=True)
+[09:30:19] film cr_film_id=31401 all candidates exhausted
+[09:30:19] iteration 19/20
+[09:30:19] film cr_film_id=31407 name='Průzkumník: Lávové jezero (2023) CZ Dabing' candidates=1
+[09:30:19]   candidate upload_id=6593e10cacf5d url=https://prehraj.to/pruzkumnik-lavove-jezero-2023-docu-cz-dabing-hd-1080p/6593e10cacf5d
+[09:30:26]   resolved in 6.2s → 1080p (https://pf-storage4.premiumcdn.net/71958107/5BofxRhoLFAjhywCYkS0qh2AfPmuJ7FMpSeO…)
+[09:32:05]   downloaded 1,780.7 MB in 97.5s (18.3 MB/s)
+[09:34:01]   upload done video_id=27076257 in 115.9s
