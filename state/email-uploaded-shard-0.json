@@ -145252,6 +145252,25 @@
         "download_sec": 22.1,
         "upload_sec": 35.9
       }
+    },
+    {
+      "cr_film_id": 30452,
+      "cr_slug": "carte-blanche",
+      "title": "Carte Blanche",
+      "year": 2015,
+      "display_name": "Carte Blanche (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60f1c0ae808b4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27080819,
+      "size_bytes": 534760712,
+      "uploaded_at": "2026-07-02T11:53:08Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.1,
+        "upload_sec": 28.7
+      }
     }
   ],
   "failed_attempts": [
@@ -148975,5 +148994,5 @@
       "failed_at": "2026-07-02T11:50:17Z"
     }
   ],
-  "last_updated": "2026-07-02T11:52:14Z"
+  "last_updated": "2026-07-02T11:53:08Z"
 }
