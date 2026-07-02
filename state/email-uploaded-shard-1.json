@@ -150448,6 +150448,25 @@
         "download_sec": 20.9,
         "upload_sec": 29.8
       }
+    },
+    {
+      "cr_film_id": 32695,
+      "cr_slug": "my-beautiful-laundrette",
+      "title": "My Beautiful Laundrette",
+      "year": 1985,
+      "display_name": "My Beautiful Laundrette (1985) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5869ac6849018",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27088262,
+      "size_bytes": 489438437,
+      "uploaded_at": "2026-07-02T22:24:08Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 25.3,
+        "upload_sec": 34.6
+      }
     }
   ],
   "failed_attempts": [
@@ -153831,5 +153850,5 @@
       "failed_at": "2026-07-02T20:44:55Z"
     }
   ],
-  "last_updated": "2026-07-02T22:23:01Z"
+  "last_updated": "2026-07-02T22:24:08Z"
 }
