@@ -54324,3 +54324,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:34:57]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/7284902/GEOsk2UWQFKnClxhpLHODU34I4RcPEs8etAVC…)
 [03:35:24]   downloaded 536.5 MB in 25.5s (21.0 MB/s)
 [03:36:25]   upload done video_id=27069127 in 61.1s
+[03:36:28] film cr_film_id=28748 OK in 92.5s
+[03:36:28] iteration 3/20
+[03:36:28] film cr_film_id=28754 name='Krvavá nevěsta: Hra začíná (2026) CZ Dabing' candidates=1
+[03:36:28]   candidate upload_id=a4abb8119aa51c53 url=https://prehraj.to/krvava-nevesta-hra-zacina-2026-cz-dabing-top-kvalita-mkv/a4abb8119aa51c53
+[03:36:29]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/krvava-nevesta-hra-zacina-2026-cz-dabing-top-kvalita-mkv/a4abb8119aa51c53 (permanent=True)
+[03:36:29] film cr_film_id=28754 all candidates exhausted
+[03:36:29] iteration 4/20
+[03:36:29] film cr_film_id=28758 name='Roznese tě na kopytech (2013) CZ' candidates=4
+[03:36:29]   candidate upload_id=5df0a782a80f5 url=https://prehraj.to/roznese-te-na-kopytech-komedie-cz-film-2013-jad/5df0a782a80f5
+[03:36:35]   resolved in 6.1s → 480p (https://pf-storage2.premiumcdn.net/15433933/9pafN6igYsJZHNKTojSjXirLcL3hY4FDgtvO…)
+[03:36:56]   downloaded 381.0 MB in 19.0s (20.1 MB/s)
+[03:37:42]   upload done video_id=27069158 in 46.5s
