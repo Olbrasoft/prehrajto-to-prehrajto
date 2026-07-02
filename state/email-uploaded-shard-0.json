@@ -142516,6 +142516,25 @@
         "download_sec": 25.6,
         "upload_sec": 36.0
       }
+    },
+    {
+      "cr_film_id": 29206,
+      "cr_slug": "let-42",
+      "title": "Let 42",
+      "year": 2015,
+      "display_name": "Let 42 (2015) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "592c4cd334ab7",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27072903,
+      "size_bytes": 482950773,
+      "uploaded_at": "2026-07-02T06:39:13Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 23.1,
+        "upload_sec": 38.2
+      }
     }
   ],
   "failed_attempts": [
@@ -146176,5 +146195,5 @@
       "failed_at": "2026-07-02T04:15:12Z"
     }
   ],
-  "last_updated": "2026-07-02T06:38:06Z"
+  "last_updated": "2026-07-02T06:39:13Z"
 }
