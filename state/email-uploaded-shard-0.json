@@ -141889,6 +141889,25 @@
         "download_sec": 34.9,
         "upload_sec": 44.1
       }
+    },
+    {
+      "cr_film_id": 28990,
+      "cr_slug": "placek",
+      "title": "Plácek",
+      "year": 1978,
+      "display_name": "Plácek (1978) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "577c196958289",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27071840,
+      "size_bytes": 351210454,
+      "uploaded_at": "2026-07-02T05:23:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.5,
+        "upload_sec": 24.4
+      }
     }
   ],
   "failed_attempts": [
@@ -145549,5 +145568,5 @@
       "failed_at": "2026-07-02T04:15:12Z"
     }
   ],
-  "last_updated": "2026-07-02T05:22:32Z"
+  "last_updated": "2026-07-02T05:23:16Z"
 }
