@@ -146240,6 +146240,25 @@
         "download_sec": 92.6,
         "upload_sec": 137.6
       }
+    },
+    {
+      "cr_film_id": 31502,
+      "cr_slug": "mango",
+      "title": "Mango",
+      "year": 2025,
+      "display_name": "Mango (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "ef01b67a01936261",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27082797,
+      "size_bytes": 1901525945,
+      "uploaded_at": "2026-07-02T14:15:20Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 102.3,
+        "upload_sec": 120.1
+      }
     }
   ],
   "failed_attempts": [
@@ -149968,7 +149987,35 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/lego-dc-superhrdinky-brain-drain-2017-en-cz-dabing/a922cbbd88e316c2",
       "permanent": true,
       "failed_at": "2026-07-02T12:22:42Z"
+    },
+    {
+      "cr_film_id": 31422,
+      "upload_id": "48e75dd1945ab11b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/dora-say-hola-to-adventure-2023-cz-dabing-mp4/48e75dd1945ab11b",
+      "permanent": true,
+      "failed_at": "2026-07-02T14:11:13Z"
+    },
+    {
+      "cr_film_id": 31452,
+      "upload_id": "3480dcf2835e887d",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-z-nebes-2025-cz-dab-1080p/3480dcf2835e887d",
+      "permanent": true,
+      "failed_at": "2026-07-02T14:11:18Z"
+    },
+    {
+      "cr_film_id": 31452,
+      "upload_id": "faef09ef220becf4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-z-nebes-2025-cz-dab-1080p-mp4/faef09ef220becf4",
+      "permanent": true,
+      "failed_at": "2026-07-02T14:11:24Z"
+    },
+    {
+      "cr_film_id": 31452,
+      "upload_id": "e7b8e67de18e7db7",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/laska-z-nebes-2025-cz-dabing/e7b8e67de18e7db7",
+      "permanent": true,
+      "failed_at": "2026-07-02T14:11:30Z"
     }
   ],
-  "last_updated": "2026-07-02T14:11:08Z"
+  "last_updated": "2026-07-02T14:15:20Z"
 }
