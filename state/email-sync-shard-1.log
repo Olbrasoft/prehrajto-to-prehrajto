@@ -55439,3 +55439,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:13:15]   upload done video_id=27073475 in 149.6s
 [07:13:18] film cr_film_id=30427 OK in 264.6s
 [07:13:18] batch-end ok=18 failed=2 dur=1889.1s avg/film=104.9s remaining=9909 eta_hours=288.7
+
+===== run 2026-07-02T07:17:16Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28572510157) =====
+[07:17:18] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:17:18] batch-start shard=1/2 count=20 backlog=17650 uploads=7741 failed_attempts=450 description_overrides=17579
+[07:17:18] login
+[07:17:19] login done
+[07:17:19] iteration 1/20
+[07:17:19] film cr_film_id=30431 name='Oslava v Ledovém království (2015) CZ Dabing' candidates=2
+[07:17:19]   candidate upload_id=5711371e07176 url=https://prehraj.to/oslava-v-ledovem-kralovstvi-cz-dabing-2015-mp4/5711371e07176
+[07:17:20]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/33665/G7xs3mcyGha8hWys1qHPeca7f9NSANTKbhrESv2…)
+[07:17:28]   downloaded 67.8 MB in 6.3s (10.8 MB/s)
+[07:17:43]   upload done video_id=27073559 in 14.8s
