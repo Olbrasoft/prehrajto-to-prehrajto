@@ -54158,3 +54158,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:39:01]   upload done video_id=27067817 in 30.1s
 [02:39:03] film cr_film_id=28614 OK in 53.1s
 [02:39:03] batch-end ok=20 failed=0 dur=2626.1s avg/film=131.3s remaining=10085 eta_hours=367.8
+
+===== run 2026-07-02T02:39:40Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28561496280) =====
+[02:39:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:39:43] batch-start shard=0/2 count=20 backlog=17650 uploads=7565 failed_attempts=504 description_overrides=17579
+[02:39:43] login
+[02:39:44] login done
+[02:39:44] iteration 1/20
+[02:39:44] film cr_film_id=28626 name='Ruku na to (2015) CZ Dabing' candidates=5
+[02:39:44]   candidate upload_id=5882957a9555a url=https://prehraj.to/komedie-ruku-na-to-bruce-willis-cz-dabing-kate-hudson-novinka-2015/5882957a9555a
+[02:39:45]   resolved in 1.0s → 720p (https://pf-storage3.premiumcdn.net/1493970/dqnHRNUwdue1s2bhDmsPVU84TlzivRsDLT1Li…)
+[02:40:40]   downloaded 1,882.6 MB in 53.6s (35.1 MB/s)
+[02:43:02]   upload done video_id=27067866 in 142.0s
