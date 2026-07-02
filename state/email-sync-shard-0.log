@@ -56388,3 +56388,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [14:11:36]   resolved in 6.0s → 1080p (https://pf-storage3.premiumcdn.net/155247171/QnGiD4hEptM5ix7tYJFjbhwbfnBsEViBEiZ…)
 [14:13:20]   downloaded 1,901.5 MB in 102.3s (18.6 MB/s)
 [14:15:20]   upload done video_id=27082797 in 120.1s
+[14:15:24] film cr_film_id=31502 OK in 234.6s
+[14:15:24] iteration 5/20
+[14:15:24] film cr_film_id=31516 name='Red Flags (2025) CZ Dabing' candidates=1
+[14:15:24]   candidate upload_id=4c064751c1c26ae3 url=https://prehraj.to/red-flags-2025-cz-dabing/4c064751c1c26ae3
+[14:15:25]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/red-flags-2025-cz-dabing/4c064751c1c26ae3 (permanent=True)
+[14:15:25] film cr_film_id=31516 all candidates exhausted
+[14:15:25] iteration 6/20
+[14:15:25] film cr_film_id=31526 name='Jak ševci zvedli vojnu pro červenou sukni (1990) CZ Dabing' candidates=2
+[14:15:25]   candidate upload_id=5b4f74ef6e4e5 url=https://prehraj.to/jak-sevci-zvedli-vojnu-pro-cervenou-sukni-cz-dabing-1989/5b4f74ef6e4e5
+[14:15:31]   resolved in 6.0s → 480p (https://pf-storage5.premiumcdn.net/4896666/1xdUP7fQLiGKcMYTRwTQ1f4GFNvcvPcPNHW3c…)
+[14:15:59]   downloaded 423.5 MB in 25.8s (16.4 MB/s)
+[14:16:38]   upload done video_id=27082845 in 39.1s
