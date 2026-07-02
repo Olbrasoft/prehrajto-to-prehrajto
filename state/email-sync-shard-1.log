@@ -55731,3 +55731,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:44:48]   upload done video_id=27075191 in 78.3s
 [08:44:51] film cr_film_id=31157 OK in 137.1s
 [08:44:51] batch-end ok=20 failed=0 dur=2256.5s avg/film=112.8s remaining=9870 eta_hours=309.3
+
+===== run 2026-07-02T08:48:06Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28577450766) =====
+[08:48:08] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:48:08] batch-start shard=1/2 count=20 backlog=17650 uploads=7780 failed_attempts=451 description_overrides=17579
+[08:48:08] login
+[08:48:10] login done
+[08:48:10] iteration 1/20
+[08:48:10] film cr_film_id=31177 name='Daleko od stromu (2021) CZ Dabing' candidates=1
+[08:48:10]   candidate upload_id=61ccbd1f0463f url=https://prehraj.to/daleko-od-stromu-2021-czdab-mp4/61ccbd1f0463f
+[08:48:11]   resolved in 1.2s → 1080p (https://pf-storage4.premiumcdn.net/27888195/26wf16h5OionSxYs8PTG3hRLcKmiKysYOcnY…)
+[08:48:25]   downloaded 158.2 MB in 11.7s (13.5 MB/s)
+[08:48:50]   upload done video_id=27075273 in 25.8s
