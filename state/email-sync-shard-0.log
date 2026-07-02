@@ -57233,3 +57233,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [21:06:14]   upload done video_id=27087401 in 39.2s
 [21:06:18] film cr_film_id=31926 OK in 70.7s
 [21:06:18] batch-end ok=20 failed=0 dur=5250.8s avg/film=262.5s remaining=9678 eta_hours=705.7
+
+===== run 2026-07-02T21:08:21Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28621667530) =====
+[21:08:23] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[21:08:23] batch-start shard=0/2 count=20 backlog=17650 uploads=7972 failed_attempts=524 description_overrides=17579
+[21:08:23] login
+[21:08:24] login done
+[21:08:24] iteration 1/20
+[21:08:24] film cr_film_id=31928 name='Nelítostná rasa (2006) CZ Dabing' candidates=2
+[21:08:24]   candidate upload_id=57d4ddb309b4b url=https://prehraj.to/nelitostna-rasa-2005-czdab/57d4ddb309b4b
+[21:08:25]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/639847/zKLuXbFlQUkMcjwiBpF4xF3oC86hvyCbVsQ3fn…)
+[21:20:54]   downloaded 541.3 MB in 746.8s (0.7 MB/s)
+[21:21:25]   upload done video_id=27087552 in 31.4s
