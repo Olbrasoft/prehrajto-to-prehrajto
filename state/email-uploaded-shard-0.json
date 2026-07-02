@@ -142497,6 +142497,25 @@
         "download_sec": 83.5,
         "upload_sec": 140.2
       }
+    },
+    {
+      "cr_film_id": 29204,
+      "cr_slug": "neviditelna",
+      "title": "Neviditelná",
+      "year": 2019,
+      "display_name": "Neviditelná (2019) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6099c989e9f5a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27072885,
+      "size_bytes": 446464957,
+      "uploaded_at": "2026-07-02T06:38:06Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.6,
+        "upload_sec": 36.0
+      }
     }
   ],
   "failed_attempts": [
@@ -146157,5 +146176,5 @@
       "failed_at": "2026-07-02T04:15:12Z"
     }
   ],
-  "last_updated": "2026-07-02T06:36:56Z"
+  "last_updated": "2026-07-02T06:38:06Z"
 }
