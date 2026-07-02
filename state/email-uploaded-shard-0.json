@@ -149299,6 +149299,25 @@
         "download_sec": 24.8,
         "upload_sec": 36.2
       }
+    },
+    {
+      "cr_film_id": 32082,
+      "cr_slug": "ocas-jesterky",
+      "title": "Ocas ještěrky",
+      "year": 2009,
+      "display_name": "Ocas ještěrky (2009) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5c359b9e34d75",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27088655,
+      "size_bytes": 432589538,
+      "uploaded_at": "2026-07-02T23:04:45Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 22.3,
+        "upload_sec": 31.3
+      }
     }
   ],
   "failed_attempts": [
@@ -153071,5 +153090,5 @@
       "failed_at": "2026-07-02T15:22:28Z"
     }
   ],
-  "last_updated": "2026-07-02T23:03:43Z"
+  "last_updated": "2026-07-02T23:04:45Z"
 }
