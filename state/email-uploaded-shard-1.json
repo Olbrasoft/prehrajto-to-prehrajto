@@ -152025,6 +152025,25 @@
         "download_sec": 24.8,
         "upload_sec": 48.9
       }
+    },
+    {
+      "cr_film_id": 33079,
+      "cr_slug": "ztraceny-svet-1925",
+      "title": "Ztracený svět",
+      "year": 1925,
+      "display_name": "Ztracený svět (1925) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a962014452ff",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27090711,
+      "size_bytes": 1639880775,
+      "uploaded_at": "2026-07-03T01:29:50Z",
+      "timing": {
+        "resolve_sec": 2.7,
+        "download_sec": 87.1,
+        "upload_sec": 103.8
+      }
     }
   ],
   "failed_attempts": [
@@ -155408,5 +155427,5 @@
       "failed_at": "2026-07-02T20:44:55Z"
     }
   ],
-  "last_updated": "2026-07-03T01:26:30Z"
+  "last_updated": "2026-07-03T01:29:50Z"
 }
