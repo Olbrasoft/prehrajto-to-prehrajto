@@ -157830,6 +157830,25 @@
         "download_sec": 16.9,
         "upload_sec": 32.8
       }
+    },
+    {
+      "cr_film_id": 34632,
+      "cr_slug": "my-best-friends-too",
+      "title": "My Best Friends Too",
+      "year": 1994,
+      "display_name": "My Best Friends Too (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "586706d0bab79",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27117794,
+      "size_bytes": 999784496,
+      "uploaded_at": "2026-07-03T17:28:47Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 104.8,
+        "upload_sec": 54.6
+      }
     }
   ],
   "failed_attempts": [
@@ -161693,5 +161712,5 @@
       "failed_at": "2026-07-03T16:54:33Z"
     }
   ],
-  "last_updated": "2026-07-03T17:26:03Z"
+  "last_updated": "2026-07-03T17:28:47Z"
 }
