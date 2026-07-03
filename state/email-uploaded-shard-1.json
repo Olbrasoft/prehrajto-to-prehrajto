@@ -159226,6 +159226,25 @@
         "download_sec": 99.7,
         "upload_sec": 67.8
       }
+    },
+    {
+      "cr_film_id": 35691,
+      "cr_slug": "nemy-bobes",
+      "title": "Němý Bobeš",
+      "year": 1997,
+      "display_name": "Němý Bobeš (1997) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5cdd16964efa0",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27118012,
+      "size_bytes": 469594616,
+      "uploaded_at": "2026-07-03T17:40:08Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 156.9,
+        "upload_sec": 31.3
+      }
     }
   ],
   "failed_attempts": [
@@ -162649,7 +162668,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/snehurka-pribeh-hruzy-1997-czdab-avi/5dd3b8549415c49b",
       "permanent": true,
       "failed_at": "2026-07-03T12:29:20Z"
+    },
+    {
+      "cr_film_id": 35679,
+      "upload_id": "622d50a664bd2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/karel-2020-czdab/622d50a664bd2",
+      "permanent": true,
+      "failed_at": "2026-07-03T17:36:52Z"
     }
   ],
-  "last_updated": "2026-07-03T17:36:47Z"
+  "last_updated": "2026-07-03T17:40:08Z"
 }

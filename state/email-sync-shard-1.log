@@ -61336,3 +61336,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [17:33:58]   resolved in 0.7s → 720p (https://pf-storage5.premiumcdn.net/16257949/RglfbgcWjTX5TvOikBH9vc58ibBFReU8eTgl…)
 [17:35:39]   downloaded 1,481.4 MB in 99.7s (14.9 MB/s)
 [17:36:47]   upload done video_id=27117947 in 67.8s
+[17:36:52] film cr_film_id=35663 OK in 174.5s
+[17:36:52] iteration 5/20
+[17:36:52] film cr_film_id=35679 name='Karel (2021) CZ Dabing' candidates=1
+[17:36:52]   candidate upload_id=622d50a664bd2 url=https://prehraj.to/karel-2020-czdab/622d50a664bd2
+[17:36:52]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/karel-2020-czdab/622d50a664bd2 (permanent=True)
+[17:36:52] film cr_film_id=35679 all candidates exhausted
+[17:36:52] iteration 6/20
+[17:36:52] film cr_film_id=35691 name='Němý Bobeš (1997) CZ' candidates=1
+[17:36:52]   candidate upload_id=5cdd16964efa0 url=https://prehraj.to/nemy-bobes-aneb-cesky-tarzan-1997/5cdd16964efa0
+[17:36:58]   resolved in 5.8s → 480p (https://pf-storage5.premiumcdn.net/13398393/oK7fl9Sjes7bs49h5rINkSOes6Ef4LiKDfbB…)
+[17:39:37]   downloaded 469.6 MB in 156.9s (3.0 MB/s)
+[17:40:08]   upload done video_id=27118012 in 31.3s
