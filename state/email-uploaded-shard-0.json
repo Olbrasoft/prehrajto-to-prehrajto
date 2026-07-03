@@ -158476,6 +158476,25 @@
         "download_sec": 32.7,
         "upload_sec": 50.1
       }
+    },
+    {
+      "cr_film_id": 34950,
+      "cr_slug": "draci-boure",
+      "title": "Dračí bouře",
+      "year": 2004,
+      "display_name": "Dračí bouře (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5b48d15a41b6a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27120035,
+      "size_bytes": 655872630,
+      "uploaded_at": "2026-07-03T19:43:47Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 65.6,
+        "upload_sec": 46.2
+      }
     }
   ],
   "failed_attempts": [
@@ -162351,5 +162370,5 @@
       }
     }
   ],
-  "last_updated": "2026-07-03T19:41:48Z"
+  "last_updated": "2026-07-03T19:43:47Z"
 }
