@@ -152728,6 +152728,25 @@
         "download_sec": 24.1,
         "upload_sec": 33.9
       }
+    },
+    {
+      "cr_film_id": 33231,
+      "cr_slug": "1920-bitwa-warszawska",
+      "title": "1920 Bitwa Warszawska",
+      "year": 2011,
+      "display_name": "1920 Bitwa Warszawska (2011) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5abf05ad129c4",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27091816,
+      "size_bytes": 2203746548,
+      "uploaded_at": "2026-07-03T02:38:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 77.6,
+        "upload_sec": 94.9
+      }
     }
   ],
   "failed_attempts": [
@@ -156111,5 +156130,5 @@
       "failed_at": "2026-07-02T20:44:55Z"
     }
   ],
-  "last_updated": "2026-07-03T02:35:58Z"
+  "last_updated": "2026-07-03T02:38:56Z"
 }
