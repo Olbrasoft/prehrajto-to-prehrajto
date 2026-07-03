@@ -59990,3 +59990,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [08:58:11]   upload done video_id=27101726 in 59.5s
 [08:58:17] film cr_film_id=34183 OK in 106.1s
 [08:58:17] batch-end ok=20 failed=0 dur=3522.6s avg/film=176.1s remaining=9297 eta_hours=454.8
+
+===== run 2026-07-03T08:59:00Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28649969239) =====
+[08:59:02] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:59:02] batch-start shard=1/2 count=20 backlog=17650 uploads=8353 failed_attempts=463 description_overrides=17579
+[08:59:02] login
+[08:59:04] login done
+[08:59:04] iteration 1/20
+[08:59:04] film cr_film_id=34185 name='Kup teď: Konspirace v košíku (2024) CZ' candidates=1
+[08:59:04]   candidate upload_id=673f38a48922e url=https://prehraj.to/kup-ted-konspirace-v-kosiku-2024-dokumentarni-cz-aac-2-0-hevc-1080p/673f38a48922e
+[08:59:05]   resolved in 1.2s → 1080p (https://pf-storage1.premiumcdn.net/109664753/W7DFGMuVRsPZUXyTwDTbeu1dcNQhXNSDeiD…)
+[09:01:06]   downloaded 2,335.1 MB in 118.7s (19.7 MB/s)
+[09:04:33]   upload done video_id=27101822 in 206.9s
