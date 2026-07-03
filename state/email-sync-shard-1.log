@@ -61736,3 +61736,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:04:58]   upload done video_id=27123293 in 51.7s
 [22:05:02] film cr_film_id=36999 OK in 103.7s
 [22:05:02] batch-end ok=18 failed=2 dur=4606.9s avg/film=255.9s remaining=9066 eta_hours=644.4
+
+===== run 2026-07-03T22:05:41Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28685316686) =====
+[22:05:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:05:43] batch-start shard=1/2 count=20 backlog=17650 uploads=8584 failed_attempts=472 description_overrides=17579
+[22:05:43] login
+[22:05:44] login done
+[22:05:44] iteration 1/20
+[22:05:44] film cr_film_id=37019 name='Africká jízda (2024) CZ Dabing' candidates=1
+[22:05:44]   candidate upload_id=68e804f3c0831 url=https://prehraj.to/africka-jizda-2024-dokumentarni-dobrodruzny-cz-dabing-documentary-film-by-filedropper/68e804f3c0831
+[22:05:45]   resolved in 1.1s → 1080p (https://pf-storage6.premiumcdn.net/150652722/qMGiv4ToEH4RtRXcBZTNbTEmIY9u4XcomfK…)
+[22:08:20]   downloaded 4,061.0 MB in 153.4s (26.5 MB/s)
+[22:11:04]   upload done video_id=27123366 in 163.4s
