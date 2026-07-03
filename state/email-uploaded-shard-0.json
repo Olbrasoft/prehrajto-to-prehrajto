@@ -155873,6 +155873,25 @@
         "download_sec": 96.8,
         "upload_sec": 125.0
       }
+    },
+    {
+      "cr_film_id": 33940,
+      "cr_slug": "mikolas-ales",
+      "title": "Mikoláš Aleš",
+      "year": 1952,
+      "display_name": "Mikoláš Aleš (1952) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "61ca5b7458b1d",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27109776,
+      "size_bytes": 1621890751,
+      "uploaded_at": "2026-07-03T12:33:50Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 63.4,
+        "upload_sec": 85.3
+      }
     }
   ],
   "failed_attempts": [
@@ -159666,5 +159685,5 @@
       "failed_at": "2026-07-03T07:45:46Z"
     }
   ],
-  "last_updated": "2026-07-03T12:31:13Z"
+  "last_updated": "2026-07-03T12:33:50Z"
 }
