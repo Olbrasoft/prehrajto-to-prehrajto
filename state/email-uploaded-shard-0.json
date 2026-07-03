@@ -157621,6 +157621,25 @@
         "download_sec": 41.9,
         "upload_sec": 61.5
       }
+    },
+    {
+      "cr_film_id": 34502,
+      "cr_slug": "sedm-sestricek",
+      "title": "Sedm sestřiček",
+      "year": 1989,
+      "display_name": "Sedm sestřiček (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5676eb09b288f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27117310,
+      "size_bytes": 338219242,
+      "uploaded_at": "2026-07-03T17:02:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 32.1,
+        "upload_sec": 23.1
+      }
     }
   ],
   "failed_attempts": [
@@ -161484,5 +161503,5 @@
       "failed_at": "2026-07-03T16:54:33Z"
     }
   ],
-  "last_updated": "2026-07-03T17:01:42Z"
+  "last_updated": "2026-07-03T17:02:43Z"
 }
