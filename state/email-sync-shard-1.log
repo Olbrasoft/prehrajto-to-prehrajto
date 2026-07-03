@@ -61755,3 +61755,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:11:12]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/162668774/nxAuyaHplFMVuYQH2nuy0HBaU7MiXQT1Rsk…)
 [22:12:28]   downloaded 2,144.2 MB in 74.5s (28.8 MB/s)
 [22:14:31]   upload done video_id=27123440 in 123.3s
+[22:14:36] film cr_film_id=37021 OK in 204.9s
+[22:14:36] iteration 3/20
+[22:14:36] film cr_film_id=37171 name='Romance na vinicích (2021) CZ Dabing' candidates=1
+[22:14:36]   candidate upload_id=b4724bbdb479da81 url=https://prehraj.to/romance-na-vinicich-2021-cz-dabing/b4724bbdb479da81
+[22:14:39]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/romance-na-vinicich-2021-cz-dabing/b4724bbdb479da81 (permanent=True)
+[22:14:39] film cr_film_id=37171 all candidates exhausted
+[22:14:39] iteration 4/20
+[22:14:39] film cr_film_id=37205 name='Co po tobě zbylo (2025) CZ Dabing' candidates=4
+[22:14:39]   candidate upload_id=eb92235f05b1244f url=https://prehraj.to/co-po-tobe-zbylo-2025-cz-dabing-1080p-mkv/eb92235f05b1244f
+[22:14:45]   resolved in 6.0s → 720p (https://pf-storage6.premiumcdn.net/170847143/vYbudBFwNidMcVPI0MfGkFOBfA2s4Ku82IW…)
+[22:15:40]   downloaded 1,426.8 MB in 53.6s (26.6 MB/s)
+[22:16:40]   upload done video_id=27123495 in 60.1s
