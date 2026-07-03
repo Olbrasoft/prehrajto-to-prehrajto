@@ -157440,6 +157440,25 @@
         "download_sec": 27.1,
         "upload_sec": 37.7
       }
+    },
+    {
+      "cr_film_id": 35157,
+      "cr_slug": "af1-alle-for-en",
+      "title": "AF1 (Alle for en)",
+      "year": 2008,
+      "display_name": "AF1 (Alle for en) (2008) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5a903466ce073",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27112080,
+      "size_bytes": 690270528,
+      "uploaded_at": "2026-07-03T13:25:02Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 37.1,
+        "upload_sec": 48.1
+      }
     }
   ],
   "failed_attempts": [
@@ -160865,5 +160884,5 @@
       "failed_at": "2026-07-03T12:29:20Z"
     }
   ],
-  "last_updated": "2026-07-03T13:23:29Z"
+  "last_updated": "2026-07-03T13:25:02Z"
 }
