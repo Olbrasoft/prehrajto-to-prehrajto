@@ -61787,3 +61787,12 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [22:17:58] iteration 7/20
 [22:17:58] backlog exhausted
 [22:17:58] batch-end ok=4 failed=2 dur=733.5s avg/film=183.4s remaining=9062 eta_hours=461.7
+
+===== run 2026-07-03T22:39:39Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28686347717) =====
+[22:39:40] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[22:39:40] batch-start shard=1/2 count=20 backlog=17650 uploads=8588 failed_attempts=476 description_overrides=17579
+[22:39:40] login
+[22:39:42] login done
+[22:39:42] iteration 1/20
+[22:39:42] backlog exhausted
+[22:39:42] batch-end ok=0 failed=0 dur=0.0s avg/film=0s remaining=9062 eta_hours=None
