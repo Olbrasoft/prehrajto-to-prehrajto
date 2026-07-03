@@ -59402,3 +59402,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [05:31:00]   upload done video_id=27095748 in 40.6s
 [05:31:04] film cr_film_id=33731 OK in 74.8s
 [05:31:04] batch-end ok=19 failed=1 dur=2990.2s avg/film=157.4s remaining=9377 eta_hours=410.0
+
+===== run 2026-07-03T05:31:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28640615246) =====
+[05:31:46] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[05:31:46] batch-start shard=1/2 count=20 backlog=17650 uploads=8273 failed_attempts=463 description_overrides=17579
+[05:31:46] login
+[05:31:48] login done
+[05:31:48] iteration 1/20
+[05:31:48] film cr_film_id=33735 name='Malí kovbojové (1972) CZ' candidates=1
+[05:31:48]   candidate upload_id=609ad1f95c6d6 url=https://prehraj.to/mali-kovbojove-western-1977-cz-dabing/609ad1f95c6d6
+[05:31:49]   resolved in 0.8s → 480p (https://pf-storage1.premiumcdn.net/23475189/2j4fpBSZofWXT7WTWaUyBSDxH98CzwUemHqx…)
+[05:32:17]   downloaded 698.8 MB in 26.2s (26.7 MB/s)
+[05:32:54]   upload done video_id=27095799 in 37.3s
