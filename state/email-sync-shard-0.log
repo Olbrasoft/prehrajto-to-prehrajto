@@ -61687,3 +61687,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:29:31]   resolved in 1.8s → 480p (https://pf-storage3.premiumcdn.net/164668451/KxbTVZS4nfyYf4OHxGFDBSkoCGBF8AsWPUP…)
 [23:29:44]   downloaded 265.4 MB in 11.2s (23.7 MB/s)
 [23:30:05]   upload done video_id=27124694 in 21.3s
+[23:30:08] film cr_film_id=35420 OK in 39.0s
+[23:30:08] iteration 4/20
+[23:30:08] film cr_film_id=35424 name='Kraken (2026) CZ' candidates=1
+[23:30:08]   candidate upload_id=02e04e79edc0c826 url=https://prehraj.to/kraken-2026-1080p-webrip-cz-titulky-nejedna-se-o-rusky-film-z-roku-2025-mp4/02e04e79edc0c826
+[23:30:09]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kraken-2026-1080p-webrip-cz-titulky-nejedna-se-o-rusky-film-z-roku-2025-mp4/02e04e79edc0c826 (permanent=True)
+[23:30:09] film cr_film_id=35424 all candidates exhausted
+[23:30:09] iteration 5/20
+[23:30:09] film cr_film_id=35430 name='Legenda o Janě (2009) CZ Dabing' candidates=1
+[23:30:09]   candidate upload_id=5821165cd9da1 url=https://prehraj.to/papezka-jana-cz-dabing-2009/5821165cd9da1
+[23:30:15]   resolved in 5.7s → 480p (https://pf-storage2.premiumcdn.net/812485/5QDfPdTQRtgYcEYH56IEPTQwfA7FDeHQ2FkXuz…)
+[23:30:42]   downloaded 680.7 MB in 25.8s (26.4 MB/s)
+[23:31:17]   upload done video_id=27124706 in 35.3s
