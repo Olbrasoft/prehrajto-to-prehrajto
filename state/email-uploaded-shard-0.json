@@ -153346,6 +153346,25 @@
         "download_sec": 24.3,
         "upload_sec": 35.5
       }
+    },
+    {
+      "cr_film_id": 33046,
+      "cr_slug": "the-christmas-shoes",
+      "title": "The Christmas Shoes",
+      "year": 2002,
+      "display_name": "The Christmas Shoes (2002) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5c32cb42e289c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27096672,
+      "size_bytes": 610713052,
+      "uploaded_at": "2026-07-03T06:06:18Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 34.4,
+        "upload_sec": 44.5
+      }
     }
   ],
   "failed_attempts": [
@@ -157132,5 +157151,5 @@
       "failed_at": "2026-07-03T05:51:35Z"
     }
   ],
-  "last_updated": "2026-07-03T06:04:52Z"
+  "last_updated": "2026-07-03T06:06:18Z"
 }
