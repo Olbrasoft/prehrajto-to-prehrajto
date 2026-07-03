@@ -154600,6 +154600,25 @@
         "download_sec": 28.0,
         "upload_sec": 37.5
       }
+    },
+    {
+      "cr_film_id": 33432,
+      "cr_slug": "slavko-nedej-se",
+      "title": "Slávko nedej se!",
+      "year": 1939,
+      "display_name": "Slávko nedej se! (1939) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ce583dabb5ff",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27102030,
+      "size_bytes": 482917439,
+      "uploaded_at": "2026-07-03T09:10:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.4,
+        "upload_sec": 31.6
+      }
     }
   ],
   "failed_attempts": [
@@ -158393,5 +158412,5 @@
       "failed_at": "2026-07-03T07:45:46Z"
     }
   ],
-  "last_updated": "2026-07-03T09:09:17Z"
+  "last_updated": "2026-07-03T09:10:13Z"
 }
