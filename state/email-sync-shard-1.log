@@ -61593,3 +61593,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:47:29]   upload done video_id=27121023 in 42.7s
 [20:47:33] film cr_film_id=36737 OK in 68.6s
 [20:47:33] batch-end ok=19 failed=1 dur=8387.7s avg/film=441.5s remaining=9084 eta_hours=1114.1
+
+===== run 2026-07-03T20:48:12Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28682745943) =====
+[20:48:13] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[20:48:13] batch-start shard=1/2 count=20 backlog=17650 uploads=8566 failed_attempts=470 description_overrides=17579
+[20:48:13] login
+[20:48:15] login done
+[20:48:15] iteration 1/20
+[20:48:15] film cr_film_id=36781 name='Pohádka o mokrosuchém štěstí (1982) CZ' candidates=2
+[20:48:15]   candidate upload_id=5ac9b685d8824 url=https://prehraj.to/pohadka-o-mokrosuchem-stesti-1981/5ac9b685d8824
+[20:48:16]   resolved in 1.1s → 720p (https://pf-storage6.premiumcdn.net/3849097/jB6iJvc3pH7QhJYUaRtzZcVQUgrhp7h8nHMgS…)
+[20:56:33]   downloaded 1,172.1 MB in 495.0s (2.4 MB/s)
+[20:57:53]   upload done video_id=27121368 in 80.4s
