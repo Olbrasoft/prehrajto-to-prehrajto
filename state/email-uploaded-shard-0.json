@@ -156899,6 +156899,25 @@
         "download_sec": 64.1,
         "upload_sec": 77.2
       }
+    },
+    {
+      "cr_film_id": 34190,
+      "cr_slug": "magma-2006",
+      "title": "Magma",
+      "year": 2006,
+      "display_name": "Magma (2006) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "675cf02641a80",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27114747,
+      "size_bytes": 2641143190,
+      "uploaded_at": "2026-07-03T15:06:03Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 103.2,
+        "upload_sec": 151.1
+      }
     }
   ],
   "failed_attempts": [
@@ -160692,5 +160711,5 @@
       "failed_at": "2026-07-03T07:45:46Z"
     }
   ],
-  "last_updated": "2026-07-03T15:01:40Z"
+  "last_updated": "2026-07-03T15:06:03Z"
 }
