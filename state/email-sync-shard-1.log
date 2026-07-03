@@ -59696,3 +59696,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:04:10]   upload done video_id=27098262 in 94.4s
 [07:04:16] film cr_film_id=33985 OK in 164.9s
 [07:04:16] batch-end ok=20 failed=0 dur=3628.2s avg/film=181.4s remaining=9337 eta_hours=470.5
+
+===== run 2026-07-03T07:04:56Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28644382139) =====
+[07:04:58] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:04:58] batch-start shard=1/2 count=20 backlog=17650 uploads=8313 failed_attempts=463 description_overrides=17579
+[07:04:58] login
+[07:05:00] login done
+[07:05:00] iteration 1/20
+[07:05:00] film cr_film_id=33991 name='Jako kníže Rohan (1984) CZ' candidates=2
+[07:05:00]   candidate upload_id=62fa3b833fbb1 url=https://prehraj.to/jako-knize-rohan-1983-cz-drama/62fa3b833fbb1
+[07:05:02]   resolved in 1.5s → 480p (https://pf-storage2.premiumcdn.net/32116129/A2jhANIKZsdZTr3U0wtEdIWDSa8UO3HNDfZv…)
+[07:05:19]   downloaded 501.2 MB in 15.8s (31.7 MB/s)
+[07:05:53]   upload done video_id=27098333 in 33.6s
