@@ -60675,3 +60675,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:04:37]   resolved in 1.4s → 480p (https://pf-storage4.premiumcdn.net/146204043/WkVfz7cyAtErtjgivNHa9cM0CBdhQYhGWCv…)
 [16:05:07]   downloaded 625.9 MB in 28.1s (22.3 MB/s)
 [16:06:00]   upload done video_id=27116143 in 53.0s
+[16:06:04] film cr_film_id=34334 OK in 89.0s
+[16:06:04] iteration 10/20
+[16:06:04] film cr_film_id=34336 name="The Making of 'Band of Brothers' (2001) CZ Dabing" candidates=1
+[16:06:04]   candidate upload_id=68ca280ea35cb url=https://prehraj.to/bratrstvo-neohrozenych-10-body-2001-valecny-czdab/68ca280ea35cb
+[16:06:05]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/bratrstvo-neohrozenych-10-body-2001-valecny-czdab/68ca280ea35cb (permanent=True)
+[16:06:05] film cr_film_id=34336 all candidates exhausted
+[16:06:05] iteration 11/20
+[16:06:05] film cr_film_id=34340 name='Nebeská stvoření (1994) CZ Dabing' candidates=1
+[16:06:05]   candidate upload_id=68db66f9ce8d8 url=https://prehraj.to/nebeska-stvoreni-1994-cz-dab-heavenly-creatures-dd/68db66f9ce8d8
+[16:06:11]   resolved in 5.9s → 720p (https://pf-storage4.premiumcdn.net/149073489/Eb7hRMTB2f4eu9bt3MiP6TLzidbHmdHX6sj…)
+[16:07:39]   downloaded 1,727.7 MB in 86.0s (20.1 MB/s)
+[16:09:47]   upload done video_id=27116200 in 128.0s
