@@ -155483,6 +155483,25 @@
         "download_sec": 153.5,
         "upload_sec": 171.1
       }
+    },
+    {
+      "cr_film_id": 34087,
+      "cr_slug": "blossom",
+      "title": "Blossom",
+      "year": 2023,
+      "display_name": "Blossom (2023) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6539946613fba",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27100153,
+      "size_bytes": 1513433829,
+      "uploaded_at": "2026-07-03T08:11:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 84.1,
+        "upload_sec": 98.4
+      }
     }
   ],
   "failed_attempts": [
@@ -158873,5 +158892,5 @@
       "failed_at": "2026-07-03T04:46:38Z"
     }
   ],
-  "last_updated": "2026-07-03T08:08:15Z"
+  "last_updated": "2026-07-03T08:11:32Z"
 }
