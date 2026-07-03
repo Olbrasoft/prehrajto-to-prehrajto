@@ -59141,3 +59141,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:01:30]   upload done video_id=27096550 in 44.7s
 [06:01:32] film cr_film_id=33042 OK in 74.3s
 [06:01:32] batch-end ok=19 failed=1 dur=1783.6s avg/film=93.9s remaining=9420 eta_hours=245.7
+
+===== run 2026-07-03T06:03:45Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28641808864) =====
+[06:03:47] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:03:47] batch-start shard=0/2 count=20 backlog=17650 uploads=8230 failed_attempts=526 description_overrides=17579
+[06:03:47] login
+[06:03:49] login done
+[06:03:49] iteration 1/20
+[06:03:49] film cr_film_id=33044 name='To Write Love on Her Arms (2015) CZ Dabing' candidates=1
+[06:03:49]   candidate upload_id=5a323076b7c61 url=https://prehraj.to/to-write-love-on-her-arms-2012-cz-dabing/5a323076b7c61
+[06:03:50]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/3125524/2d7izwIE3tBzcYjI8MTDWIJOfE3uMLiWoFX6T…)
+[06:04:16]   downloaded 404.7 MB in 24.3s (16.7 MB/s)
+[06:04:52]   upload done video_id=27096636 in 35.5s
