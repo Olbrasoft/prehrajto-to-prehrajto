@@ -154096,6 +154096,25 @@
         "download_sec": 90.5,
         "upload_sec": 93.8
       }
+    },
+    {
+      "cr_film_id": 33673,
+      "cr_slug": "smejdi",
+      "title": "Šmejdi",
+      "year": 2013,
+      "display_name": "Šmejdi (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "603920d5191a8",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27094967,
+      "size_bytes": 812181142,
+      "uploaded_at": "2026-07-03T05:03:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 45.1,
+        "upload_sec": 62.8
+      }
     }
   ],
   "failed_attempts": [
@@ -157486,5 +157505,5 @@
       "failed_at": "2026-07-03T04:46:38Z"
     }
   ],
-  "last_updated": "2026-07-03T05:01:58Z"
+  "last_updated": "2026-07-03T05:03:54Z"
 }
