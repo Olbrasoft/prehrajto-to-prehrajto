@@ -60554,3 +60554,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:28:10]   resolved in 0.8s → 720p (https://pf-storage4.premiumcdn.net/30298076/WaeIlmfBXhalHQ3S2GIDKfrzc4liQoCjYTl3…)
 [12:28:32]   downloaded 465.8 MB in 20.4s (22.8 MB/s)
 [12:29:16]   upload done video_id=27109377 in 44.4s
+[12:29:20] film cr_film_id=34967 OK in 70.5s
+[12:29:20] iteration 19/20
+[12:29:20] film cr_film_id=34969 name='Sněhurka - Příběh hrůzy (1997) CZ Dabing' candidates=1
+[12:29:20]   candidate upload_id=5dd3b8549415c49b url=https://prehraj.to/snehurka-pribeh-hruzy-1997-czdab-avi/5dd3b8549415c49b
+[12:29:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/snehurka-pribeh-hruzy-1997-czdab-avi/5dd3b8549415c49b (permanent=True)
+[12:29:20] film cr_film_id=34969 all candidates exhausted
+[12:29:20] iteration 20/20
+[12:29:20] film cr_film_id=34975 name='Lebkouni: Dědictví Udary (1997) CZ Dabing' candidates=1
+[12:29:20]   candidate upload_id=65db46f0a17ba url=https://prehraj.to/lebkouni-3-dedictvi-udary-cz-dab/65db46f0a17ba
+[12:29:26]   resolved in 5.6s → 480p (https://pf-storage4.premiumcdn.net/73915895/geWcpBfknH67I5ju45fd1fkGuPlc0Ai84fe8…)
+[12:29:50]   downloaded 465.9 MB in 22.4s (20.8 MB/s)
+[12:30:33]   upload done video_id=27109514 in 43.8s
