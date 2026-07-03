@@ -149964,6 +149964,25 @@
         "download_sec": 11.3,
         "upload_sec": 20.8
       }
+    },
+    {
+      "cr_film_id": 32208,
+      "cr_slug": "zpoved-zabijaka",
+      "title": "Zpověď zabijáka",
+      "year": 2011,
+      "display_name": "Zpověď zabijáka (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55917d5f4ca0b",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27089528,
+      "size_bytes": 560744065,
+      "uploaded_at": "2026-07-03T00:20:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.5,
+        "upload_sec": 27.8
+      }
     }
   ],
   "failed_attempts": [
@@ -153736,5 +153755,5 @@
       "failed_at": "2026-07-02T15:22:28Z"
     }
   ],
-  "last_updated": "2026-07-03T00:19:06Z"
+  "last_updated": "2026-07-03T00:20:00Z"
 }
