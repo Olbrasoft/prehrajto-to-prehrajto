@@ -151626,6 +151626,25 @@
         "download_sec": 18.8,
         "upload_sec": 33.3
       }
+    },
+    {
+      "cr_film_id": 32985,
+      "cr_slug": "film-13",
+      "title": "Тіні забутих предків",
+      "year": 1965,
+      "display_name": "Тіні забутих предків (1965) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "58b3b1c8cea73",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27090135,
+      "size_bytes": 944812533,
+      "uploaded_at": "2026-07-03T00:52:36Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 46.0,
+        "upload_sec": 75.7
+      }
     }
   ],
   "failed_attempts": [
@@ -155009,5 +155028,5 @@
       "failed_at": "2026-07-02T20:44:55Z"
     }
   ],
-  "last_updated": "2026-07-03T00:50:28Z"
+  "last_updated": "2026-07-03T00:52:36Z"
 }
