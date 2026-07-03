@@ -159948,6 +159948,25 @@
         "download_sec": 61.5,
         "upload_sec": 71.4
       }
+    },
+    {
+      "cr_film_id": 36833,
+      "cr_slug": "adam-2020",
+      "title": "Adam",
+      "year": 2020,
+      "display_name": "Adam (2020) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "639abded1f5ed",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27122457,
+      "size_bytes": 1142406333,
+      "uploaded_at": "2026-07-03T21:16:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 41.1,
+        "upload_sec": 69.1
+      }
     }
   ],
   "failed_attempts": [
@@ -163387,5 +163406,5 @@
       "failed_at": "2026-07-03T20:15:14Z"
     }
   ],
-  "last_updated": "2026-07-03T21:14:07Z"
+  "last_updated": "2026-07-03T21:16:04Z"
 }
