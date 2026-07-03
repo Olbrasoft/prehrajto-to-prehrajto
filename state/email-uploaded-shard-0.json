@@ -151180,6 +151180,25 @@
         "download_sec": 28.2,
         "upload_sec": 37.0
       }
+    },
+    {
+      "cr_film_id": 32472,
+      "cr_slug": "wrecked",
+      "title": "Wrecked",
+      "year": 2010,
+      "display_name": "Wrecked (2010) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "583adc8d24e92",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27091552,
+      "size_bytes": 410360810,
+      "uploaded_at": "2026-07-03T02:19:57Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 24.3,
+        "upload_sec": 36.1
+      }
     }
   ],
   "failed_attempts": [
@@ -154952,5 +154971,5 @@
       "failed_at": "2026-07-02T15:22:28Z"
     }
   ],
-  "last_updated": "2026-07-03T02:18:49Z"
+  "last_updated": "2026-07-03T02:19:57Z"
 }
