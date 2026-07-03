@@ -155721,6 +155721,25 @@
         "download_sec": 18.3,
         "upload_sec": 34.6
       }
+    },
+    {
+      "cr_film_id": 33864,
+      "cr_slug": "the-river-and-the-wall",
+      "title": "The River and the Wall",
+      "year": 2019,
+      "display_name": "The River and the Wall (2019) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "615de738e98d2",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27108277,
+      "size_bytes": 1163254880,
+      "uploaded_at": "2026-07-03T12:19:39Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 37.2,
+        "upload_sec": 62.3
+      }
     }
   ],
   "failed_attempts": [
@@ -159514,5 +159533,5 @@
       "failed_at": "2026-07-03T07:45:46Z"
     }
   ],
-  "last_updated": "2026-07-03T12:17:54Z"
+  "last_updated": "2026-07-03T12:19:39Z"
 }
