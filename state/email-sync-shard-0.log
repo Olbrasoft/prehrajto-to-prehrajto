@@ -58849,3 +58849,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [04:08:47]   upload done video_id=27093492 in 28.2s
 [04:08:51] film cr_film_id=32830 OK in 54.1s
 [04:08:51] batch-end ok=19 failed=1 dur=1373.7s avg/film=72.3s remaining=9459 eta_hours=190.0
+
+===== run 2026-07-03T04:41:09Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28638850773) =====
+[04:41:11] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:41:11] batch-start shard=0/2 count=20 backlog=17650 uploads=8191 failed_attempts=525 description_overrides=17579
+[04:41:11] login
+[04:41:13] login done
+[04:41:13] iteration 1/20
+[04:41:13] film cr_film_id=32834 name='Cesta duše (2003) CZ Dabing' candidates=1
+[04:41:13]   candidate upload_id=ff87bdef9ce16f6b url=https://prehraj.to/cesta-byla-sucha-misty-mokra-2003-czdab/ff87bdef9ce16f6b
+[04:41:14]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/165725108/Y6Btqjfz9SXPH6jhyDF4QfxvUdLs96sEDCP…)
+[04:41:43]   downloaded 571.7 MB in 26.9s (21.3 MB/s)
+[04:42:24]   upload done video_id=27094285 in 41.4s
