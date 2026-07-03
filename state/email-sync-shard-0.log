@@ -59288,3 +59288,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [06:44:20]   upload done video_id=27097746 in 43.9s
 [06:44:24] film cr_film_id=33148 OK in 76.5s
 [06:44:24] batch-end ok=20 failed=0 dur=2435.0s avg/film=121.8s remaining=9400 eta_hours=318.0
+
+===== run 2026-07-03T07:05:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28644382139) =====
+[07:05:02] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:05:02] batch-start shard=0/2 count=20 backlog=17650 uploads=8250 failed_attempts=526 description_overrides=17579
+[07:05:02] login
+[07:05:04] login done
+[07:05:04] iteration 1/20
+[07:05:04] film cr_film_id=33150 name='Dva kluci v palbě (1985) CZ' candidates=1
+[07:05:04]   candidate upload_id=5aa7f37a8f88e url=https://prehraj.to/dva-kluci-v-palbe-1983/5aa7f37a8f88e
+[07:05:05]   resolved in 1.2s → 480p (https://pf-storage1.premiumcdn.net/3625512/E58UQzu4YtZbI8dTBXuZNu0ehR7TpGikXFK7h…)
+[07:05:40]   downloaded 550.3 MB in 32.3s (17.0 MB/s)
+[07:06:28]   upload done video_id=27098345 in 48.9s
