@@ -153498,6 +153498,25 @@
         "download_sec": 28.2,
         "upload_sec": 38.5
       }
+    },
+    {
+      "cr_film_id": 33106,
+      "cr_slug": "pastak",
+      "title": "Pasťák",
+      "year": 1969,
+      "display_name": "Pasťák (1969) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "657c64681bcbf",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27097225,
+      "size_bytes": 1923337423,
+      "uploaded_at": "2026-07-03T06:27:06Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 112.0,
+        "upload_sec": 158.4
+      }
     }
   ],
   "failed_attempts": [
@@ -157284,5 +157303,5 @@
       "failed_at": "2026-07-03T05:51:35Z"
     }
   ],
-  "last_updated": "2026-07-03T06:22:29Z"
+  "last_updated": "2026-07-03T06:27:06Z"
 }
