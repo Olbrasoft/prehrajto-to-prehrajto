@@ -61516,3 +61516,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [20:10:40]   resolved in 1.0s → 1080p (https://pf-storage3.premiumcdn.net/168930088/qoQsjMHz1IR5iEZFNzsBqHa7CgDFRYF7MUX…)
 [20:12:34]   downloaded 3,432.0 MB in 112.3s (30.6 MB/s)
 [20:15:06]   upload done video_id=27120496 in 152.1s
+[20:15:14] film cr_film_id=36677 OK in 274.8s
+[20:15:14] iteration 10/20
+[20:15:14] film cr_film_id=36679 name='Marie-Octobre (1959) CZ Dabing' candidates=1
+[20:15:14]   candidate upload_id=f4869fe7c84d0606 url=https://prehraj.to/marie-octobre-1959-cz-dabing-full-hd-drama-top-kvalita-76777/f4869fe7c84d0606
+[20:15:14]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/marie-octobre-1959-cz-dabing-full-hd-drama-top-kvalita-76777/f4869fe7c84d0606 (permanent=True)
+[20:15:14] film cr_film_id=36679 all candidates exhausted
+[20:15:14] iteration 11/20
+[20:15:14] film cr_film_id=36691 name='Cadet Rousselle (1954) CZ Dabing' candidates=1
+[20:15:14]   candidate upload_id=fb8d9bcefef0a24c url=https://prehraj.to/kadet-rousselle-1954-cz-dabing-mp4/fb8d9bcefef0a24c
+[20:15:20]   resolved in 5.8s → 1080p (https://pf-storage3.premiumcdn.net/161889842/w3bSbzugRF7XFkBFOZTKwujKcQWtlPTj5Fe…)
+[20:16:51]   downloaded 3,386.6 MB in 89.1s (38.0 MB/s)
+[20:19:11]   upload done video_id=27120564 in 139.9s
