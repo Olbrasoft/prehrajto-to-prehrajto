@@ -59276,3 +59276,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:43:38]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/21829356/8Z5T4rcB2CAxclmSz2UwWcN5t8XcpNIl4F26…)
 [04:44:45]   downloaded 1,221.4 MB in 64.7s (18.9 MB/s)
 [04:46:31]   upload done video_id=27094364 in 105.9s
+[04:46:35] film cr_film_id=33627 OK in 178.4s
+[04:46:35] iteration 3/20
+[04:46:35] film cr_film_id=33629 name='U brány věčnosti (2018) CZ' candidates=1
+[04:46:35]   candidate upload_id=6216521a2fc00 url=https://prehraj.to/u-brany-vecnosti-2018-julian-schnabel-bluray-1080p-dts-hd-ma-5-1-en-cz-sub/6216521a2fc00
+[04:46:38]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/u-brany-vecnosti-2018-julian-schnabel-bluray-1080p-dts-hd-ma-5-1-en-cz-sub/6216521a2fc00 (permanent=True)
+[04:46:38] film cr_film_id=33629 all candidates exhausted
+[04:46:38] iteration 4/20
+[04:46:38] film cr_film_id=33631 name='Silent Night (2002) CZ Dabing' candidates=2
+[04:46:38]   candidate upload_id=60169bf0681fc url=https://prehraj.to/ticha-noc-2002-cz-dabing/60169bf0681fc
+[04:46:44]   resolved in 6.1s → 480p (https://pf-storage3.premiumcdn.net/21886080/V9rSv4h7WUrLIxDU0aFzdhdeC9vtW5cRMtwX…)
+[04:47:11]   downloaded 433.7 MB in 25.4s (17.1 MB/s)
+[04:47:46]   upload done video_id=27094431 in 34.8s
