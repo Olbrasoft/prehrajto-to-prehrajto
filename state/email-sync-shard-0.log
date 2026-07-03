@@ -59092,3 +59092,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [05:48:21]   resolved in 4.2s → 1080p (https://pf-storage4.premiumcdn.net/2132368/QrAI7DUApuYncDntMxsWvUGAszKSeKtB4TN4I…)
 [05:49:49]   downloaded 1,673.7 MB in 85.6s (19.6 MB/s)
 [05:51:28]   upload done video_id=27096262 in 99.3s
+[05:51:35] film cr_film_id=33018 OK in 197.4s
+[05:51:35] iteration 14/20
+[05:51:35] film cr_film_id=33020 name='Tři králové (1999) CZ' candidates=1
+[05:51:35]   candidate upload_id=68f606e2de9fc url=https://prehraj.to/tri-kralove-1999-uhdrdv-cz-en/68f606e2de9fc
+[05:51:35]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tri-kralove-1999-uhdrdv-cz-en/68f606e2de9fc (permanent=True)
+[05:51:36] film cr_film_id=33020 all candidates exhausted
+[05:51:36] iteration 15/20
+[05:51:36] film cr_film_id=33026 name='High Strung (2016) CZ' candidates=1
+[05:51:36]   candidate upload_id=59a36fd943897 url=https://prehraj.to/high-strung-2016-hdrip-vlozene-titulky-cz-novinka/59a36fd943897
+[05:51:41]   resolved in 5.8s → 480p (https://pf-storage1.premiumcdn.net/2580905/E2Psk2hQzc7VuKlha3cVmhM4tJqFBgSPOFO2i…)
+[05:52:11]   downloaded 669.4 MB in 27.9s (24.0 MB/s)
+[05:53:05]   upload done video_id=27096325 in 53.6s
