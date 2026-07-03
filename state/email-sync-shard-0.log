@@ -61638,3 +61638,26 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:10:01]   upload done video_id=27124435 in 35.8s
 [23:10:06] film cr_film_id=35410 OK in 69.8s
 [23:10:06] batch-end ok=20 failed=0 dur=1820.7s avg/film=91.0s remaining=9087 eta_hours=229.7
+
+===== run 2026-07-03T23:10:47Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28687261501) =====
+[23:10:49] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:10:49] batch-start shard=0/2 count=20 backlog=17650 uploads=8563 failed_attempts=538 description_overrides=17579
+[23:10:49] login
+[23:10:51] login done
+[23:10:51] iteration 1/20
+[23:10:51] film cr_film_id=35412 name='Morlocks (2011) CZ' candidates=1
+[23:10:51]   candidate upload_id=5800aa146b755 url=https://prehraj.to/krvelacna-monstra-2011-scifi-czdab/5800aa146b755
+[23:15:05]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fkrvelacna-monstra-2011-scifi-czdab%2F5800aa146b755 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fafbdd2c770>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/krvelacna-monstra-2011-scifi-czdab/5800aa146b755 (permanent=False)
+[23:15:06] film cr_film_id=35412 all candidates exhausted
+[23:15:06] iteration 2/20
+[23:15:06] film cr_film_id=35418 name='Případ hodného vedoucího (1977) CZ Dabing' candidates=1
+[23:15:06]   candidate upload_id=6192dd02baed4 url=https://prehraj.to/pripad-hodneho-vedouciho-1977-czdab/6192dd02baed4
+[23:19:20]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fpripad-hodneho-vedouciho-1977-czdab%2F6192dd02baed4 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fafbdd2e6f0>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/pripad-hodneho-vedouciho-1977-czdab/6192dd02baed4 (permanent=False)
+[23:19:20] film cr_film_id=35418 all candidates exhausted
+[23:19:20] iteration 3/20
+[23:19:20] film cr_film_id=35420 name='Víkend bez rodičů (1982) CZ' candidates=1
+[23:19:20]   candidate upload_id=db90afc1b6a2ede2 url=https://prehraj.to/vikend-bez-rodicu-1981-mp4/db90afc1b6a2ede2
+[23:23:34]   resolve FAILED: network error: HTTPConnectionPool(host='chobotnice.aspfree.cz', port=80): Max retries exceeded with url: /Proxy.ashx?key=sUIMHufRtGEFnDJeKcVQsPYSZEqtcZoutpFfi3bs&url=https%3A%2F%2Fprehraj.to%2Fvikend-bez-rodicu-1981-mp4%2Fdb90afc1b6a2ede2 (Caused by ConnectTimeoutError(<HTTPConnection(host='chobotnice.aspfree.cz', port=80) at 0x7fafbdd2e630>, 'Connection to chobotnice.aspfree.cz timed out. (connect timeout=30.0)')) after 5 attempts: https://prehraj.to/vikend-bez-rodicu-1981-mp4/db90afc1b6a2ede2 (permanent=False)
+[23:23:34] film cr_film_id=35420 all candidates exhausted
+[23:23:34] bail-out: 3 consecutive films exhausted (proxy likely down) — stopping batch early
+[23:23:34] batch-end ok=0 failed=3 dur=763.2s avg/film=0s remaining=9087 eta_hours=None
