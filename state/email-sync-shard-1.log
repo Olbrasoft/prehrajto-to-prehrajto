@@ -59257,3 +59257,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [04:40:22]   upload done video_id=27094232 in 30.9s
 [04:40:26] film cr_film_id=33611 OK in 60.8s
 [04:40:26] batch-end ok=20 failed=0 dur=3267.8s avg/film=163.4s remaining=9396 eta_hours=426.5
+
+===== run 2026-07-03T04:41:10Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28638850773) =====
+[04:41:12] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[04:41:12] batch-start shard=1/2 count=20 backlog=17650 uploads=8254 failed_attempts=462 description_overrides=17579
+[04:41:12] login
+[04:41:14] login done
+[04:41:14] iteration 1/20
+[04:41:14] film cr_film_id=33617 name='Vlčí děti (2012) CZ Dabing' candidates=1
+[04:41:14]   candidate upload_id=60010b2bad9fe url=https://prehraj.to/vlci-deti-2013-czdab/60010b2bad9fe
+[04:41:15]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/21487560/8Jqhe3SkVcQAf2zFr5s3VSv2f8OhPgUkKfVx…)
+[04:42:14]   downloaded 1,035.3 MB in 56.7s (18.3 MB/s)
+[04:43:31]   upload done video_id=27094299 in 76.9s

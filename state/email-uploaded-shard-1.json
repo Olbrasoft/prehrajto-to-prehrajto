@@ -153944,6 +153944,25 @@
         "download_sec": 22.3,
         "upload_sec": 30.9
       }
+    },
+    {
+      "cr_film_id": 33617,
+      "cr_slug": "vlci-deti",
+      "title": "Vlčí děti",
+      "year": 2012,
+      "display_name": "Vlčí děti (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "60010b2bad9fe",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27094299,
+      "size_bytes": 1035275597,
+      "uploaded_at": "2026-07-03T04:43:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 56.7,
+        "upload_sec": 76.9
+      }
     }
   ],
   "failed_attempts": [
@@ -157327,5 +157346,5 @@
       "failed_at": "2026-07-02T20:44:55Z"
     }
   ],
-  "last_updated": "2026-07-03T04:40:22Z"
+  "last_updated": "2026-07-03T04:43:31Z"
 }
