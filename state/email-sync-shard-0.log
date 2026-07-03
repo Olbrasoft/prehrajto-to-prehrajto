@@ -58262,3 +58262,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:10:43]   upload done video_id=27091395 in 72.5s
 [02:10:47] film cr_film_id=32452 OK in 140.6s
 [02:10:47] batch-end ok=20 failed=0 dur=2409.5s avg/film=120.5s remaining=9538 eta_hours=319.3
+
+===== run 2026-07-03T02:11:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28633858438) =====
+[02:11:33] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:11:33] batch-start shard=0/2 count=20 backlog=17650 uploads=8112 failed_attempts=524 description_overrides=17579
+[02:11:33] login
+[02:11:36] login done
+[02:11:36] iteration 1/20
+[02:11:36] film cr_film_id=32454 name='Nebe, peklo, ráj (1980) CZ Dabing' candidates=1
+[02:11:36]   candidate upload_id=5828a9a6df51d url=https://prehraj.to/nebe-peklo-raj-cz-dabing-1980-by-kamer/5828a9a6df51d
+[02:11:37]   resolved in 1.4s → 480p (https://pf-storage2.premiumcdn.net/860536/rOEfNlsYgSObsxPTy8UM0sPeIDACGxTqKUorTX…)
+[02:12:19]   downloaded 704.2 MB in 40.1s (17.6 MB/s)
+[02:13:17]   upload done video_id=27091431 in 57.7s
