@@ -60544,3 +60544,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [15:06:12]   resolved in 1.4s → 720p (https://pf-storage5.premiumcdn.net/126795863/BrPHd2IwateQU1LiOQiQnIZ1tWaH0wCBPhq…)
 [15:07:29]   downloaded 1,560.8 MB in 74.9s (20.8 MB/s)
 [15:09:05]   upload done video_id=27114836 in 95.8s
+[15:09:09] film cr_film_id=34194 OK in 178.6s
+[15:09:09] iteration 12/20
+[15:09:09] film cr_film_id=34200 name='Řetěz (1981) CZ' candidates=1
+[15:09:09]   candidate upload_id=678973846ecf2 url=https://prehraj.to/retez-cssr-krimi-1981-full-hd/678973846ecf2
+[15:09:10]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/retez-cssr-krimi-1981-full-hd/678973846ecf2 (permanent=True)
+[15:09:10] film cr_film_id=34200 all candidates exhausted
+[15:09:10] iteration 13/20
+[15:09:10] film cr_film_id=34204 name='Semínko posvátného fíkovníku (2024) CZ' candidates=1
+[15:09:10]   candidate upload_id=67a1d7e7abb1c url=https://prehraj.to/seminko-posvatneho-fikovniku-2024-drama-fa-aac-5-1-titulky-cz-en-1080p/67a1d7e7abb1c
+[15:09:16]   resolved in 6.0s → 720p (https://pf-storage3.premiumcdn.net/128897486/lWGTA5Fb6SqVHBKfpEhoLFOnUvRuW8tyxc5…)
+[15:10:55]   downloaded 2,011.9 MB in 97.5s (20.6 MB/s)
+[15:12:47]   upload done video_id=27114909 in 112.0s

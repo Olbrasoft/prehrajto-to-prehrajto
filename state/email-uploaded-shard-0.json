@@ -156937,6 +156937,25 @@
         "download_sec": 74.9,
         "upload_sec": 95.8
       }
+    },
+    {
+      "cr_film_id": 34204,
+      "cr_slug": "seminko-posvatneho-fikovniku",
+      "title": "Semínko posvátného fíkovníku",
+      "year": 2024,
+      "display_name": "Semínko posvátného fíkovníku (2024) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "67a1d7e7abb1c",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27114909,
+      "size_bytes": 2011911144,
+      "uploaded_at": "2026-07-03T15:12:47Z",
+      "timing": {
+        "resolve_sec": 6.0,
+        "download_sec": 97.5,
+        "upload_sec": 112.0
+      }
     }
   ],
   "failed_attempts": [
@@ -160728,7 +160747,14 @@
       "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/vhodne-chovani-2014/5ac15efd06833",
       "permanent": true,
       "failed_at": "2026-07-03T07:45:46Z"
+    },
+    {
+      "cr_film_id": 34200,
+      "upload_id": "678973846ecf2",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/retez-cssr-krimi-1981-full-hd/678973846ecf2",
+      "permanent": true,
+      "failed_at": "2026-07-03T15:09:10Z"
     }
   ],
-  "last_updated": "2026-07-03T15:09:05Z"
+  "last_updated": "2026-07-03T15:12:47Z"
 }
