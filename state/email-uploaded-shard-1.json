@@ -156243,6 +156243,25 @@
         "download_sec": 90.7,
         "upload_sec": 131.2
       }
+    },
+    {
+      "cr_film_id": 34369,
+      "cr_slug": "devcatko-z-venkova",
+      "title": "Děvčátko z venkova",
+      "year": 1937,
+      "display_name": "Děvčátko z venkova (1937) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6903d09d2d3d9",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27104323,
+      "size_bytes": 569032992,
+      "uploaded_at": "2026-07-03T10:22:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.5,
+        "upload_sec": 41.8
+      }
     }
   ],
   "failed_attempts": [
@@ -159633,5 +159652,5 @@
       "failed_at": "2026-07-03T04:46:38Z"
     }
   ],
-  "last_updated": "2026-07-03T10:20:39Z"
+  "last_updated": "2026-07-03T10:22:00Z"
 }
