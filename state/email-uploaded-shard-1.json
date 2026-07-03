@@ -153032,6 +153032,25 @@
         "download_sec": 19.6,
         "upload_sec": 33.9
       }
+    },
+    {
+      "cr_film_id": 33273,
+      "cr_slug": "ptace-2014",
+      "title": "Ptáče",
+      "year": 2014,
+      "display_name": "Ptáče (2014) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5acacba68a655",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27092243,
+      "size_bytes": 504514916,
+      "uploaded_at": "2026-07-03T03:08:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.7,
+        "upload_sec": 29.7
+      }
     }
   ],
   "failed_attempts": [
@@ -156415,5 +156434,5 @@
       "failed_at": "2026-07-02T20:44:55Z"
     }
   ],
-  "last_updated": "2026-07-03T03:07:32Z"
+  "last_updated": "2026-07-03T03:08:27Z"
 }
