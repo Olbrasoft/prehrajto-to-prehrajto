@@ -150325,6 +150325,25 @@
         "download_sec": 18.4,
         "upload_sec": 37.6
       }
+    },
+    {
+      "cr_film_id": 32298,
+      "cr_slug": "song-one",
+      "title": "Song One",
+      "year": 2014,
+      "display_name": "Song One (2014) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55c0b1de949fb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27090211,
+      "size_bytes": 285789784,
+      "uploaded_at": "2026-07-03T00:56:56Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 16.8,
+        "upload_sec": 24.9
+      }
     }
   ],
   "failed_attempts": [
@@ -154097,5 +154116,5 @@
       "failed_at": "2026-07-02T15:22:28Z"
     }
   ],
-  "last_updated": "2026-07-03T00:37:50Z"
+  "last_updated": "2026-07-03T00:56:56Z"
 }
