@@ -156462,6 +156462,25 @@
         "download_sec": 82.8,
         "upload_sec": 125.2
       }
+    },
+    {
+      "cr_film_id": 34084,
+      "cr_slug": "nahy-obed",
+      "title": "Nahý oběd",
+      "year": 1991,
+      "display_name": "Nahý oběd (1991) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "6513e2895c985",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27113203,
+      "size_bytes": 4624310025,
+      "uploaded_at": "2026-07-03T14:07:20Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 152.3,
+        "upload_sec": 257.8
+      }
     }
   ],
   "failed_attempts": [
@@ -160255,5 +160274,5 @@
       "failed_at": "2026-07-03T07:45:46Z"
     }
   ],
-  "last_updated": "2026-07-03T14:00:20Z"
+  "last_updated": "2026-07-03T14:07:20Z"
 }
