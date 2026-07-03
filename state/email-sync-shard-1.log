@@ -60348,3 +60348,20 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [11:16:59]   resolved in 1.7s → 720p (https://pf-storage4.premiumcdn.net/149974455/EgYHLxumNcymUp1sxWf3kubMCq9sX5cZoSZ…)
 [11:21:58]   downloaded 3,644.0 MB in 297.4s (12.3 MB/s)
 [11:25:47]   upload done video_id=27106046 in 228.8s
+[11:26:00] film cr_film_id=34757 OK in 542.6s
+[11:26:00] iteration 10/20
+[11:26:00] film cr_film_id=34761 name='Voňavá láska (2021) CZ Dabing' candidates=1
+[11:26:00]   candidate upload_id=102f0d9386a301f2 url=https://prehraj.to/vonava-laska-2021-cz-dab-1080p/102f0d9386a301f2
+[11:26:00]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/vonava-laska-2021-cz-dab-1080p/102f0d9386a301f2 (permanent=True)
+[11:26:01] film cr_film_id=34761 all candidates exhausted
+[11:26:01] iteration 11/20
+[11:26:01] film cr_film_id=34765 name='Clean (2021) CZ Dabing' candidates=1
+[11:26:01]   candidate upload_id=dc2af2acbee6d76b url=https://prehraj.to/clean-2021-cz-dab-1080p/dc2af2acbee6d76b
+[11:26:06]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/clean-2021-cz-dab-1080p/dc2af2acbee6d76b (permanent=True)
+[11:26:06] film cr_film_id=34765 all candidates exhausted
+[11:26:06] iteration 12/20
+[11:26:06] film cr_film_id=34771 name='Život a láska (2024) CZ Dabing' candidates=5
+[11:26:06]   candidate upload_id=683c432de883e url=https://prehraj.to/zivot-a-laska-2024-cz-dabing-1080p/683c432de883e
+[11:26:12]   resolved in 6.1s → 1080p (https://pf-storage4.premiumcdn.net/139005758/8YvhD8HZdhN9cVas49HXKHvMUEVTk3tLet4…)
+[11:29:16]   downloaded 1,781.7 MB in 182.0s (9.8 MB/s)
+[11:31:08]   upload done video_id=27106266 in 111.3s
