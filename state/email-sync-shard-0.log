@@ -60315,3 +60315,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [13:40:02]   upload done video_id=27112502 in 78.8s
 [13:40:06] film cr_film_id=34054 OK in 130.0s
 [13:40:06] batch-end ok=20 failed=0 dur=3340.4s avg/film=167.0s remaining=9261 eta_hours=429.6
+
+===== run 2026-07-03T13:43:03Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28664427597) =====
+[13:43:04] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[13:43:04] batch-start shard=0/2 count=20 backlog=17650 uploads=8389 failed_attempts=527 description_overrides=17579
+[13:43:04] login
+[13:43:07] login done
+[13:43:07] iteration 1/20
+[13:43:07] film cr_film_id=34066 name='Trabantem do posledního dechu (2016) CZ' candidates=1
+[13:43:07]   candidate upload_id=6453cafee4aaa url=https://prehraj.to/trabantem-do-posledniho-dechu-2016-dokumentarni-czech-dabing-1080p/6453cafee4aaa
+[13:43:08]   resolved in 1.0s → 1080p (https://pf-storage4.premiumcdn.net/40188550/83BHr4FwQipNTZdUQGUwvFZ8HN2C5rCE7hZO…)
+[13:45:33]   downloaded 3,399.3 MB in 144.2s (23.6 MB/s)
+[13:48:06]   upload done video_id=27112693 in 152.1s
