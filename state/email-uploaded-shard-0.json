@@ -154733,6 +154733,25 @@
         "download_sec": 95.7,
         "upload_sec": 116.7
       }
+    },
+    {
+      "cr_film_id": 33468,
+      "cr_slug": "film-24",
+      "title": "Сторож",
+      "year": 2019,
+      "display_name": "Сторож (2019) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5dc295ca68e03",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27102314,
+      "size_bytes": 435327220,
+      "uploaded_at": "2026-07-03T09:21:51Z",
+      "timing": {
+        "resolve_sec": 2.3,
+        "download_sec": 17.0,
+        "upload_sec": 36.0
+      }
     }
   ],
   "failed_attempts": [
@@ -158526,5 +158545,5 @@
       "failed_at": "2026-07-03T07:45:46Z"
     }
   ],
-  "last_updated": "2026-07-03T09:20:47Z"
+  "last_updated": "2026-07-03T09:21:51Z"
 }
