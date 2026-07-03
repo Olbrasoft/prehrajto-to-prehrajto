@@ -157706,6 +157706,25 @@
         "download_sec": 16.8,
         "upload_sec": 44.7
       }
+    },
+    {
+      "cr_film_id": 35189,
+      "cr_slug": "command-performance",
+      "title": "Command Performance",
+      "year": 2009,
+      "display_name": "Command Performance (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55f5942c906de",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27112778,
+      "size_bytes": 587503385,
+      "uploaded_at": "2026-07-03T13:48:54Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 28.1,
+        "upload_sec": 49.6
+      }
     }
   ],
   "failed_attempts": [
@@ -161131,5 +161150,5 @@
       "failed_at": "2026-07-03T12:29:20Z"
     }
   ],
-  "last_updated": "2026-07-03T13:47:31Z"
+  "last_updated": "2026-07-03T13:48:54Z"
 }
