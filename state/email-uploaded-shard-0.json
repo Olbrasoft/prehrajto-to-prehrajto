@@ -152529,6 +152529,25 @@
         "download_sec": 20.9,
         "upload_sec": 33.2
       }
+    },
+    {
+      "cr_film_id": 32824,
+      "cr_slug": "american-me",
+      "title": "American Me",
+      "year": 1992,
+      "display_name": "American Me (1992) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "587552b6d06f6",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27093439,
+      "size_bytes": 773008412,
+      "uploaded_at": "2026-07-03T04:06:48Z",
+      "timing": {
+        "resolve_sec": 4.4,
+        "download_sec": 33.0,
+        "upload_sec": 39.8
+      }
     }
   ],
   "failed_attempts": [
@@ -156299,7 +156318,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kraluv-dvojnik-2012-cz-dabing-full-hd-drama-top-kvalita-133200/b99542b31c5c9c7f",
       "permanent": true,
       "failed_at": "2026-07-02T15:22:28Z"
+    },
+    {
+      "cr_film_id": 32822,
+      "upload_id": "67929624d9216",
+      "reason": "oversize: 6719175613 B",
+      "permanent": true,
+      "failed_at": "2026-07-03T04:05:29Z"
     }
   ],
-  "last_updated": "2026-07-03T04:05:20Z"
+  "last_updated": "2026-07-03T04:06:48Z"
 }
