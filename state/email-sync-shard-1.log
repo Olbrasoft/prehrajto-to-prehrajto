@@ -58375,3 +58375,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [00:55:23]   upload done video_id=27090173 in 91.5s
 [00:55:28] film cr_film_id=33001 OK in 167.9s
 [00:55:28] batch-end ok=20 failed=0 dur=2214.1s avg/film=110.7s remaining=9516 eta_hours=292.6
+
+===== run 2026-07-03T00:56:05Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28631252527) =====
+[00:56:07] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:56:07] batch-start shard=1/2 count=20 backlog=17650 uploads=8134 failed_attempts=462 description_overrides=17579
+[00:56:07] login
+[00:56:09] login done
+[00:56:09] iteration 1/20
+[00:56:09] film cr_film_id=33003 name='„Babičky dobíjejte přesně!“ (1984) CZ' candidates=2
+[00:56:09]   candidate upload_id=611010f08d291 url=https://prehraj.to/babicky-dobijejte-presne-1983/611010f08d291
+[00:56:10]   resolved in 1.2s → 720p (https://pf-storage3.premiumcdn.net/24556289/YnAiaAc2ZcQAh42u64h6JcbDsGnsELIl6IKP…)
+[00:57:06]   downloaded 1,238.5 MB in 53.5s (23.1 MB/s)
+[00:58:26]   upload done video_id=27090221 in 79.8s
