@@ -60815,3 +60815,22 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:49:50]   resolved in 1.0s → 1080p (https://pf-storage6.premiumcdn.net/168933376/xyqSqjHq5ijls69hPXHJEHjaTBjIBjuZNTp…)
 [16:53:01]   downloaded 1,918.8 MB in 188.7s (10.2 MB/s)
 [16:54:13]   upload done video_id=27117135 in 72.6s
+[16:54:21] film cr_film_id=34430 OK in 271.5s
+[16:54:21] iteration 9/20
+[16:54:21] film cr_film_id=34432 name='Šviháci (2026) CZ Dabing' candidates=2
+[16:54:21]   candidate upload_id=666787a332f2c0f3 url=https://prehraj.to/svihaci-1080p-2026-cz-dabing-mkv/666787a332f2c0f3
+[16:54:22]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svihaci-1080p-2026-cz-dabing-mkv/666787a332f2c0f3 (permanent=True)
+[16:54:22]   candidate upload_id=2067427d8701f4e8 url=https://prehraj.to/svihaci-2026-cz-dabing-mkv/2067427d8701f4e8
+[16:54:27]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svihaci-2026-cz-dabing-mkv/2067427d8701f4e8 (permanent=True)
+[16:54:27] film cr_film_id=34432 all candidates exhausted
+[16:54:27] iteration 10/20
+[16:54:27] film cr_film_id=34434 name='Rozum a cit (1995) CZ' candidates=1
+[16:54:27]   candidate upload_id=756ea48e71c03703 url=https://prehraj.to/rozum-a-cit-sense-and-sensibility-1995-720p-bluray-h264-aac-ceske-titulky/756ea48e71c03703
+[16:54:33]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/rozum-a-cit-sense-and-sensibility-1995-720p-bluray-h264-aac-ceske-titulky/756ea48e71c03703 (permanent=True)
+[16:54:33] film cr_film_id=34434 all candidates exhausted
+[16:54:33] iteration 11/20
+[16:54:33] film cr_film_id=34494 name='Osudy dobrého vojáka Švejka – Švejkova budějovická anabase (1956) CZ' candidates=3
+[16:54:33]   candidate upload_id=66f68b4657f76 url=https://prehraj.to/osudy-dobreho-vojaka-svejka-1957-hq-fhd-cz-dts-hd-ma-2-0-remastered/66f68b4657f76
+[16:54:39]   resolved in 5.8s → 1080p (https://pf-storage1.premiumcdn.net/98644862/MQgczMCNkC97IaQiGWu9JC3Di1Oi0QIg6hPX…)
+[16:55:59]   downloaded 2,971.8 MB in 79.0s (37.6 MB/s)
+[16:58:22]   upload done video_id=27117190 in 142.4s
