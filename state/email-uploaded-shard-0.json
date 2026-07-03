@@ -150553,6 +150553,25 @@
         "download_sec": 34.6,
         "upload_sec": 59.3
       }
+    },
+    {
+      "cr_film_id": 32344,
+      "cr_slug": "a-deadly-encounter",
+      "title": "A Deadly Encounter",
+      "year": 2004,
+      "display_name": "A Deadly Encounter (2004) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "56abfda84ae65",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27090529,
+      "size_bytes": 495119132,
+      "uploaded_at": "2026-07-03T01:16:20Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 26.0,
+        "upload_sec": 42.0
+      }
     }
   ],
   "failed_attempts": [
@@ -154325,5 +154344,5 @@
       "failed_at": "2026-07-02T15:22:28Z"
     }
   ],
-  "last_updated": "2026-07-03T01:15:04Z"
+  "last_updated": "2026-07-03T01:16:20Z"
 }
