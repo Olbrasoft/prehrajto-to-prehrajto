@@ -58409,3 +58409,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:48:46]   upload done video_id=27091960 in 45.9s
 [02:48:50] film cr_film_id=32534 OK in 88.9s
 [02:48:50] batch-end ok=20 failed=0 dur=2234.6s avg/film=111.7s remaining=9518 eta_hours=295.3
+
+===== run 2026-07-03T02:49:33Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28635122380) =====
+[02:49:35] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:49:35] batch-start shard=0/2 count=20 backlog=17650 uploads=8132 failed_attempts=524 description_overrides=17579
+[02:49:35] login
+[02:49:36] login done
+[02:49:36] iteration 1/20
+[02:49:36] film cr_film_id=32536 name='Narcisový dům (1994) CZ' candidates=1
+[02:49:36]   candidate upload_id=584fea45bdbc5 url=https://prehraj.to/narcisovy-dum-2-drama-cr-1994/584fea45bdbc5
+[02:49:38]   resolved in 1.5s → 480p (https://pf-storage5.premiumcdn.net/1150683/RyDTGKiowIAgivdUoeSDji5aFNKs5RcxXc3Vs…)
+[02:50:02]   downloaded 282.2 MB in 21.5s (13.1 MB/s)
+[02:50:29]   upload done video_id=27091984 in 27.9s

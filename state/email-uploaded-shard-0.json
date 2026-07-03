@@ -151465,6 +151465,25 @@
         "download_sec": 36.0,
         "upload_sec": 45.9
       }
+    },
+    {
+      "cr_film_id": 32536,
+      "cr_slug": "narcisovy-dum",
+      "title": "Narcisový dům",
+      "year": 1994,
+      "display_name": "Narcisový dům (1994) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "584fea45bdbc5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27091984,
+      "size_bytes": 282202666,
+      "uploaded_at": "2026-07-03T02:50:29Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 21.5,
+        "upload_sec": 27.9
+      }
     }
   ],
   "failed_attempts": [
@@ -155237,5 +155256,5 @@
       "failed_at": "2026-07-02T15:22:28Z"
     }
   ],
-  "last_updated": "2026-07-03T02:48:46Z"
+  "last_updated": "2026-07-03T02:50:29Z"
 }
