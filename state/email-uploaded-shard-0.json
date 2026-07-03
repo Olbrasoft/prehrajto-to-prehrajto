@@ -155208,6 +155208,25 @@
         "download_sec": 47.6,
         "upload_sec": 66.0
       }
+    },
+    {
+      "cr_film_id": 33700,
+      "cr_slug": "free-solo",
+      "title": "Free Solo",
+      "year": 2018,
+      "display_name": "Free Solo (2018) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "606075b8425f1",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27105518,
+      "size_bytes": 3435701810,
+      "uploaded_at": "2026-07-03T11:07:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 91.7,
+        "upload_sec": 277.2
+      }
     }
   ],
   "failed_attempts": [
@@ -159001,5 +159020,5 @@
       "failed_at": "2026-07-03T07:45:46Z"
     }
   ],
-  "last_updated": "2026-07-03T11:00:08Z"
+  "last_updated": "2026-07-03T11:07:10Z"
 }
