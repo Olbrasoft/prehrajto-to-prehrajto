@@ -58115,3 +58115,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:25:52]   upload done video_id=27090678 in 32.7s
 [01:25:55] film cr_film_id=32380 OK in 60.8s
 [01:25:55] batch-end ok=20 failed=0 dur=1783.9s avg/film=89.2s remaining=9558 eta_hours=236.8
+
+===== run 2026-07-03T01:30:35Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28632458187) =====
+[01:30:36] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:30:36] batch-start shard=0/2 count=20 backlog=17650 uploads=8092 failed_attempts=524 description_overrides=17579
+[01:30:36] login
+[01:30:38] login done
+[01:30:38] iteration 1/20
+[01:30:38] film cr_film_id=32384 name='Dům v temnotách (2009) CZ' candidates=1
+[01:30:38]   candidate upload_id=583ecedd03502 url=https://prehraj.to/dum-v-temnotach-cz-dab-trhiller-horor-2009-2010/583ecedd03502
+[01:30:39]   resolved in 1.2s → 480p (https://pf-storage2.premiumcdn.net/968067/zYMs3jTobSvqF86uO1Cl5TxDhXahNbClqIBKiz…)
+[01:31:02]   downloaded 341.1 MB in 20.6s (16.6 MB/s)
+[01:31:30]   upload done video_id=27090755 in 28.3s
