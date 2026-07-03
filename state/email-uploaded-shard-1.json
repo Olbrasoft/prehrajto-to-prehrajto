@@ -151854,6 +151854,25 @@
         "download_sec": 97.9,
         "upload_sec": 128.9
       }
+    },
+    {
+      "cr_film_id": 33043,
+      "cr_slug": "our-first-christmas",
+      "title": "Our First Christmas",
+      "year": 2008,
+      "display_name": "Our First Christmas (2008) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a318c0ca968a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27090512,
+      "size_bytes": 930665178,
+      "uploaded_at": "2026-07-03T01:15:48Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 49.5,
+        "upload_sec": 59.9
+      }
     }
   ],
   "failed_attempts": [
@@ -155237,5 +155256,5 @@
       "failed_at": "2026-07-02T20:44:55Z"
     }
   ],
-  "last_updated": "2026-07-03T01:13:50Z"
+  "last_updated": "2026-07-03T01:15:48Z"
 }
