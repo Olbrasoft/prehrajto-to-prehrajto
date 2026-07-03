@@ -59110,3 +59110,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [03:43:40]   upload done video_id=27092929 in 35.4s
 [03:43:43] film cr_film_id=33435 OK in 61.9s
 [03:43:43] batch-end ok=20 failed=0 dur=1483.5s avg/film=74.2s remaining=9416 eta_hours=194.1
+
+===== run 2026-07-03T03:45:54Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28636997611) =====
+[03:45:56] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:45:56] batch-start shard=1/2 count=20 backlog=17650 uploads=8234 failed_attempts=462 description_overrides=17579
+[03:45:56] login
+[03:45:58] login done
+[03:45:58] iteration 1/20
+[03:45:58] film cr_film_id=33437 name='Ztracenci (1957) CZ' candidates=1
+[03:45:58]   candidate upload_id=5cf48fbb66386 url=https://prehraj.to/ztracenci-csr-1956-cb/5cf48fbb66386
+[03:45:59]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/13765041/4qrc5oHYkSB1TpLIzbtLAHP5szyijgfEBtrk…)
+[03:46:35]   downloaded 604.8 MB in 33.5s (18.1 MB/s)
+[03:47:18]   upload done video_id=27093005 in 43.0s
