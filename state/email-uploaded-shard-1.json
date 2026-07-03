@@ -158181,6 +158181,25 @@
         "download_sec": 20.6,
         "upload_sec": 30.6
       }
+    },
+    {
+      "cr_film_id": 35301,
+      "cr_slug": "bone-alone",
+      "title": "Bone Alone",
+      "year": 2013,
+      "display_name": "Bone Alone (2013) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ab8317f74648",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27114413,
+      "size_bytes": 1114790572,
+      "uploaded_at": "2026-07-03T14:51:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 41.8,
+        "upload_sec": 49.4
+      }
     }
   ],
   "failed_attempts": [
@@ -161606,5 +161625,5 @@
       "failed_at": "2026-07-03T12:29:20Z"
     }
   ],
-  "last_updated": "2026-07-03T14:50:01Z"
+  "last_updated": "2026-07-03T14:51:37Z"
 }
