@@ -59843,3 +59843,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [07:58:39]   upload done video_id=27099765 in 108.7s
 [07:58:47] film cr_film_id=34077 OK in 211.9s
 [07:58:47] batch-end ok=20 failed=0 dur=3226.4s avg/film=161.3s remaining=9317 eta_hours=417.5
+
+===== run 2026-07-03T07:59:31Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28646940947) =====
+[07:59:33] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[07:59:33] batch-start shard=1/2 count=20 backlog=17650 uploads=8333 failed_attempts=463 description_overrides=17579
+[07:59:33] login
+[07:59:34] login done
+[07:59:34] iteration 1/20
+[07:59:34] film cr_film_id=34079 name='Stíhán a podezřelý (1979) CZ' candidates=1
+[07:59:34]   candidate upload_id=64e3e1707913b url=https://prehraj.to/stihan-a-podezrely-1978-hd/64e3e1707913b
+[07:59:36]   resolved in 1.4s → 1080p (https://pf-storage4.premiumcdn.net/43610387/3Pbi9vHzYurOh7GsByHjYHMXhknsD5uyjC7n…)
+[08:01:03]   downloaded 1,555.3 MB in 84.9s (18.3 MB/s)
+[08:02:39]   upload done video_id=27099868 in 96.0s
