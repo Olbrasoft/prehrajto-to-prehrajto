@@ -156737,6 +156737,25 @@
         "download_sec": 182.0,
         "upload_sec": 111.3
       }
+    },
+    {
+      "cr_film_id": 34775,
+      "cr_slug": "devaty-krok",
+      "title": "Devátý krok",
+      "year": 2022,
+      "display_name": "Devátý krok (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67fc811f3f24c",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27106357,
+      "size_bytes": 1139122370,
+      "uploaded_at": "2026-07-03T11:33:50Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 69.5,
+        "upload_sec": 81.7
+      }
     }
   ],
   "failed_attempts": [
@@ -160155,5 +160174,5 @@
       "failed_at": "2026-07-03T11:26:06Z"
     }
   ],
-  "last_updated": "2026-07-03T11:31:08Z"
+  "last_updated": "2026-07-03T11:33:50Z"
 }
