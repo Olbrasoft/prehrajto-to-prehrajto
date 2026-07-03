@@ -59549,3 +59549,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [06:02:57]   upload done video_id=27096538 in 155.7s
 [06:03:04] film cr_film_id=33857 OK in 278.1s
 [06:03:04] batch-end ok=20 failed=0 dur=1875.6s avg/film=93.8s remaining=9357 eta_hours=243.8
+
+===== run 2026-07-03T06:03:44Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28641808864) =====
+[06:03:45] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[06:03:45] batch-start shard=1/2 count=20 backlog=17650 uploads=8293 failed_attempts=463 description_overrides=17579
+[06:03:45] login
+[06:03:47] login done
+[06:03:47] iteration 1/20
+[06:03:47] film cr_film_id=33861 name='Kontaminace: Vetřelci na Zemi (1980) CZ Dabing' candidates=1
+[06:03:47]   candidate upload_id=6158ece04492d url=https://prehraj.to/vetrelci-na-zemi-contamination-alien-on-earth-1980-cz-dabing/6158ece04492d
+[06:03:49]   resolved in 1.2s → 480p (https://pf-storage3.premiumcdn.net/25163924/QYNFPEUMkTw9sQZH5lSqgUXvfrWCN1u5Ehxq…)
+[06:04:11]   downloaded 362.9 MB in 20.2s (18.0 MB/s)
+[06:04:39]   upload done video_id=27096633 in 28.6s
