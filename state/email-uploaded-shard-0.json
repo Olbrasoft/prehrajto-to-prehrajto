@@ -154049,6 +154049,25 @@
         "download_sec": 46.9,
         "upload_sec": 59.5
       }
+    },
+    {
+      "cr_film_id": 33248,
+      "cr_slug": "profesional-2-samotar",
+      "title": "Profesionál 2: Samotář",
+      "year": 1987,
+      "display_name": "Profesionál 2: Samotář (1987) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "608fdab91406f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27099525,
+      "size_bytes": 2956511705,
+      "uploaded_at": "2026-07-03T07:50:55Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 128.0,
+        "upload_sec": 173.5
+      }
     }
   ],
   "failed_attempts": [
@@ -157833,7 +157852,14 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/tri-kralove-1999-uhdrdv-cz-en/68f606e2de9fc",
       "permanent": true,
       "failed_at": "2026-07-03T05:51:35Z"
+    },
+    {
+      "cr_film_id": 33246,
+      "upload_id": "5ac15efd06833",
+      "reason": "resolve_failed: no videos.push() blocks found at https://prehraj.to/vhodne-chovani-2014/5ac15efd06833",
+      "permanent": true,
+      "failed_at": "2026-07-03T07:45:46Z"
     }
   ],
-  "last_updated": "2026-07-03T07:45:40Z"
+  "last_updated": "2026-07-03T07:50:55Z"
 }
