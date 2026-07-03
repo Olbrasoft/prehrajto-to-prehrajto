@@ -154847,6 +154847,25 @@
         "download_sec": 32.4,
         "upload_sec": 46.2
       }
+    },
+    {
+      "cr_film_id": 33486,
+      "cr_slug": "a-king-in-new-york",
+      "title": "A King in New York",
+      "year": 1957,
+      "display_name": "A King in New York (1957) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5dfe52be423ad",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27104148,
+      "size_bytes": 549935224,
+      "uploaded_at": "2026-07-03T10:15:21Z",
+      "timing": {
+        "resolve_sec": 2.6,
+        "download_sec": 31.6,
+        "upload_sec": 45.7
+      }
     }
   ],
   "failed_attempts": [
@@ -158640,5 +158659,5 @@
       "failed_at": "2026-07-03T07:45:46Z"
     }
   ],
-  "last_updated": "2026-07-03T10:13:53Z"
+  "last_updated": "2026-07-03T10:15:21Z"
 }
