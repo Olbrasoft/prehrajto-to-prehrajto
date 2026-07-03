@@ -57821,3 +57821,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [00:17:51]   upload done video_id=27089498 in 35.3s
 [00:17:53] film cr_film_id=32196 OK in 59.5s
 [00:17:53] batch-end ok=20 failed=0 dur=2551.9s avg/film=127.6s remaining=9598 eta_hours=340.2
+
+===== run 2026-07-03T00:18:29Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28629926422) =====
+[00:18:30] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[00:18:30] batch-start shard=0/2 count=20 backlog=17650 uploads=8052 failed_attempts=524 description_overrides=17579
+[00:18:30] login
+[00:18:32] login done
+[00:18:32] iteration 1/20
+[00:18:32] film cr_film_id=32206 name='The Caller (2011) CZ Dabing' candidates=1
+[00:18:32]   candidate upload_id=55916ed1e67ba url=https://prehraj.to/vrah-beze-jmena-2011-cz-dabing-krimi-thriller/55916ed1e67ba
+[00:18:33]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/390131/VwkfA2UygsLnTqZupEi7YUopS7ZTDpT2kupJsE…)
+[00:18:46]   downloaded 277.8 MB in 11.3s (24.6 MB/s)
+[00:19:06]   upload done video_id=27089523 in 20.8s

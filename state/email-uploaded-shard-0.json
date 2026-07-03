@@ -149945,6 +149945,25 @@
         "download_sec": 19.8,
         "upload_sec": 35.3
       }
+    },
+    {
+      "cr_film_id": 32206,
+      "cr_slug": "the-caller",
+      "title": "The Caller",
+      "year": 2011,
+      "display_name": "The Caller (2011) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "55916ed1e67ba",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27089523,
+      "size_bytes": 277840031,
+      "uploaded_at": "2026-07-03T00:19:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 11.3,
+        "upload_sec": 20.8
+      }
     }
   ],
   "failed_attempts": [
@@ -153717,5 +153736,5 @@
       "failed_at": "2026-07-02T15:22:28Z"
     }
   ],
-  "last_updated": "2026-07-03T00:17:51Z"
+  "last_updated": "2026-07-03T00:19:06Z"
 }
