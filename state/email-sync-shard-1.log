@@ -60137,3 +60137,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [10:11:34]   upload done video_id=27104009 in 127.1s
 [10:11:42] film cr_film_id=34325 OK in 279.6s
 [10:11:42] batch-end ok=20 failed=0 dur=4358.4s avg/film=217.9s remaining=9277 eta_hours=561.5
+
+===== run 2026-07-03T10:12:30Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28653849309) =====
+[10:12:32] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[10:12:32] batch-start shard=1/2 count=20 backlog=17650 uploads=8373 failed_attempts=463 description_overrides=17579
+[10:12:32] login
+[10:12:34] login done
+[10:12:34] iteration 1/20
+[10:12:34] film cr_film_id=34327 name='Ricky Bobby: Nejrychlejší jezdec (2006) CZ' candidates=1
+[10:12:34]   candidate upload_id=68aa6b9f5dfa9 url=https://prehraj.to/ricky-bobby-nejrychlejsi-jezdec-2006-fhd-1080p-cz-1667/68aa6b9f5dfa9
+[10:12:35]   resolved in 1.2s → 720p (https://pf-storage5.premiumcdn.net/144355746/190uRJibeUZgcbVFY9FkgiXBUzQsNxIwXTn…)
+[10:14:20]   downloaded 2,432.9 MB in 103.4s (23.5 MB/s)
+[10:16:44]   upload done video_id=27104142 in 144.1s
