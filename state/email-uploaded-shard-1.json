@@ -153108,6 +153108,25 @@
         "download_sec": 12.9,
         "upload_sec": 33.6
       }
+    },
+    {
+      "cr_film_id": 33293,
+      "cr_slug": "pokoj-s-vyhlidkou",
+      "title": "Pokoj s vyhlídkou",
+      "year": 1986,
+      "display_name": "Pokoj s vyhlídkou (1986) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ad35eb53ce2d",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27092292,
+      "size_bytes": 1624495703,
+      "uploaded_at": "2026-07-03T03:13:57Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 45.5,
+        "upload_sec": 95.1
+      }
     }
   ],
   "failed_attempts": [
@@ -156491,5 +156510,5 @@
       "failed_at": "2026-07-02T20:44:55Z"
     }
   ],
-  "last_updated": "2026-07-03T03:11:31Z"
+  "last_updated": "2026-07-03T03:13:57Z"
 }
