@@ -155835,6 +155835,25 @@
         "download_sec": 45.1,
         "upload_sec": 42.9
       }
+    },
+    {
+      "cr_film_id": 33910,
+      "cr_slug": "ochrance-2004",
+      "title": "Ochránce",
+      "year": 2004,
+      "display_name": "Ochránce (2004) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "618a37e0c279a",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27109184,
+      "size_bytes": 716566654,
+      "uploaded_at": "2026-07-03T12:27:25Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 26.3,
+        "upload_sec": 47.1
+      }
     }
   ],
   "failed_attempts": [
@@ -159628,5 +159647,5 @@
       "failed_at": "2026-07-03T07:45:46Z"
     }
   ],
-  "last_updated": "2026-07-03T12:26:01Z"
+  "last_updated": "2026-07-03T12:27:25Z"
 }
