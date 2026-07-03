@@ -159834,6 +159834,25 @@
         "download_sec": 149.8,
         "upload_sec": 196.5
       }
+    },
+    {
+      "cr_film_id": 36725,
+      "cr_slug": "masseba",
+      "title": "Masseba",
+      "year": 1990,
+      "display_name": "Masseba (1990) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "dcaf3ed365c4dee0",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27121002,
+      "size_bytes": 490185275,
+      "uploaded_at": "2026-07-03T20:46:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 136.0,
+        "upload_sec": 37.5
+      }
     }
   ],
   "failed_attempts": [
@@ -163273,5 +163292,5 @@
       "failed_at": "2026-07-03T20:15:14Z"
     }
   ],
-  "last_updated": "2026-07-03T20:43:15Z"
+  "last_updated": "2026-07-03T20:46:19Z"
 }
