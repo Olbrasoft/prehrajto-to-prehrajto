@@ -157003,6 +157003,25 @@
         "download_sec": 38.8,
         "upload_sec": 51.2
       }
+    },
+    {
+      "cr_film_id": 34903,
+      "cr_slug": "stvoreni",
+      "title": "Stvoření",
+      "year": 2009,
+      "display_name": "Stvoření (2009) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "66c506c36f10f",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27107746,
+      "size_bytes": 294241652,
+      "uploaded_at": "2026-07-03T12:13:52Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 14.0,
+        "upload_sec": 22.9
+      }
     }
   ],
   "failed_attempts": [
@@ -160421,5 +160440,5 @@
       "failed_at": "2026-07-03T11:26:06Z"
     }
   ],
-  "last_updated": "2026-07-03T12:13:08Z"
+  "last_updated": "2026-07-03T12:13:52Z"
 }
