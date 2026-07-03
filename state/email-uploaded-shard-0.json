@@ -153612,6 +153612,25 @@
         "download_sec": 16.0,
         "upload_sec": 28.0
       }
+    },
+    {
+      "cr_film_id": 33132,
+      "cr_slug": "hodny-zlodej",
+      "title": "Hodný zloděj",
+      "year": 2003,
+      "display_name": "Hodný zloděj (2003) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5aa2038aa2da5",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27097571,
+      "size_bytes": 911590528,
+      "uploaded_at": "2026-07-03T06:37:59Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 51.6,
+        "upload_sec": 78.5
+      }
     }
   ],
   "failed_attempts": [
@@ -157398,5 +157417,5 @@
       "failed_at": "2026-07-03T05:51:35Z"
     }
   ],
-  "last_updated": "2026-07-03T06:35:43Z"
+  "last_updated": "2026-07-03T06:37:59Z"
 }
