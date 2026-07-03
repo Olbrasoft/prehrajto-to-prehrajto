@@ -153070,6 +153070,25 @@
         "download_sec": 34.3,
         "upload_sec": 44.3
       }
+    },
+    {
+      "cr_film_id": 33281,
+      "cr_slug": "ferngully-the-last-rainforest",
+      "title": "FernGully: The Last Rainforest",
+      "year": 1992,
+      "display_name": "FernGully: The Last Rainforest (1992) CZ",
+      "preferred_lang_class": "CZ_NATIVE",
+      "src_upload_id": "5ace1aa185df3",
+      "src_lang_class": "CZ_NATIVE",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27092272,
+      "size_bytes": 400579118,
+      "uploaded_at": "2026-07-03T03:10:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.3,
+        "upload_sec": 26.3
+      }
     }
   ],
   "failed_attempts": [
@@ -156453,5 +156472,5 @@
       "failed_at": "2026-07-02T20:44:55Z"
     }
   ],
-  "last_updated": "2026-07-03T03:09:50Z"
+  "last_updated": "2026-07-03T03:10:39Z"
 }
