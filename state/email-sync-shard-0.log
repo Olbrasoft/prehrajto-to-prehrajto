@@ -60752,3 +60752,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [16:40:32]   upload done video_id=27116838 in 182.7s
 [16:40:40] film cr_film_id=34398 OK in 353.0s
 [16:40:40] batch-end ok=19 failed=1 dur=3697.6s avg/film=194.6s remaining=9203 eta_hours=497.5
+
+===== run 2026-07-03T16:41:19Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28673181403) =====
+[16:41:22] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[16:41:22] batch-start shard=0/2 count=20 backlog=17650 uploads=8447 failed_attempts=529 description_overrides=17579
+[16:41:22] login
+[16:41:23] login done
+[16:41:23] iteration 1/20
+[16:41:23] film cr_film_id=34400 name='Muž na útěku (1969) CZ Dabing' candidates=1
+[16:41:23]   candidate upload_id=4515d5802a1beb94 url=https://prehraj.to/muz-na-uteku-1968-czdabing/4515d5802a1beb94
+[16:41:24]   resolved in 0.9s → 480p (https://pf-storage4.premiumcdn.net/165139514/yjJHroSbXF2Ni7ZTZvtqXSgLCPxUG4CMAh1…)
+[16:41:44]   downloaded 617.8 MB in 18.3s (33.8 MB/s)
+[16:42:26]   upload done video_id=27116916 in 42.1s
