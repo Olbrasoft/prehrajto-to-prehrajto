@@ -61806,3 +61806,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [23:53:18]   upload done video_id=27124904 in 35.9s
 [23:53:21] film cr_film_id=35528 OK in 68.2s
 [23:53:21] batch-end ok=19 failed=1 dur=1730.4s avg/film=91.1s remaining=9068 eta_hours=229.5
+
+===== run 2026-07-03T23:53:58Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28688413522) =====
+[23:54:00] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[23:54:00] batch-start shard=0/2 count=20 backlog=17650 uploads=8582 failed_attempts=542 description_overrides=17579
+[23:54:00] login
+[23:54:02] login done
+[23:54:02] iteration 1/20
+[23:54:02] film cr_film_id=35532 name='Eliášův oheň (1985) CZ' candidates=1
+[23:54:02]   candidate upload_id=5874c4ffe81aa url=https://prehraj.to/ohen-v-horach-hohenfeuer-eine-liebesgeschichte-alpine-fire-1985-sk-tit/5874c4ffe81aa
+[23:54:03]   resolved in 1.0s → 480p (https://pf-storage2.premiumcdn.net/1412156/a4gT6dFmGh8Lu5aCgesmeFeQhbeHQdsyQcbWC…)
+[23:54:32]   downloaded 749.7 MB in 27.2s (27.6 MB/s)
+[23:55:06]   upload done video_id=27124919 in 34.3s
