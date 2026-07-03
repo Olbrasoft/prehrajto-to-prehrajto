@@ -59580,3 +59580,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [08:27:11]   upload done video_id=27100807 in 42.7s
 [08:27:15] film cr_film_id=33338 OK in 71.9s
 [08:27:15] batch-end ok=20 failed=0 dur=1654.8s avg/film=82.7s remaining=9361 eta_hours=215.0
+
+===== run 2026-07-03T08:58:56Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28649969239) =====
+[08:58:57] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[08:58:57] batch-start shard=0/2 count=20 backlog=17650 uploads=8289 failed_attempts=527 description_overrides=17579
+[08:58:57] login
+[08:59:02] login done
+[08:59:02] iteration 1/20
+[08:59:02] film cr_film_id=33340 name='Podrazák (2014) CZ Dabing' candidates=1
+[08:59:02]   candidate upload_id=5b9fb5f590a35 url=https://prehraj.to/podrazak-2013-cz-dabing/5b9fb5f590a35
+[08:59:02]   resolved in 0.8s → 480p (https://pf-storage6.premiumcdn.net/6236791/DGAt2jc29cPohGaFwpUbOc3ji1KiG5tlQS84i…)
+[08:59:30]   downloaded 666.6 MB in 26.3s (25.3 MB/s)
+[09:00:05]   upload done video_id=27101780 in 34.6s
