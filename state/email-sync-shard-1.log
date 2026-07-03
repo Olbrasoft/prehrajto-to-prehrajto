@@ -60568,3 +60568,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [12:30:33]   upload done video_id=27109514 in 43.8s
 [12:30:36] film cr_film_id=34975 OK in 75.7s
 [12:30:36] batch-end ok=19 failed=1 dur=1473.1s avg/film=77.5s remaining=9222 eta_hours=198.5
+
+===== run 2026-07-03T12:44:25Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28661355712) =====
+[12:44:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[12:44:27] batch-start shard=1/2 count=20 backlog=17650 uploads=8428 failed_attempts=468 description_overrides=17579
+[12:44:27] login
+[12:44:28] login done
+[12:44:28] iteration 1/20
+[12:44:28] film cr_film_id=34977 name='Yamato – Loď smrti (2005) CZ Dabing' candidates=1
+[12:44:28]   candidate upload_id=77b904f68fa1e88e url=https://prehraj.to/yamato-lod-smrti-nantachino-da-he-2005-cz-dabing/77b904f68fa1e88e
+[12:44:30]   resolved in 1.4s → 1080p (https://pf-storage6.premiumcdn.net/170238629/43YidMc2wcGZCPBfnaF4BcrGsRqtBPCBefP…)
+[12:47:33]   downloaded 3,506.3 MB in 180.7s (19.4 MB/s)
+[12:51:03]   upload done video_id=27111140 in 210.1s
