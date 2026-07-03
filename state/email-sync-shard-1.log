@@ -58669,3 +58669,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [01:57:59]   upload done video_id=27091206 in 27.0s
 [01:58:01] film cr_film_id=33173 OK in 45.4s
 [01:58:01] batch-end ok=20 failed=0 dur=1644.8s avg/film=82.2s remaining=9476 eta_hours=216.4
+
+===== run 2026-07-03T02:11:26Z shard=1/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28633858438) =====
+[02:11:27] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:11:27] batch-start shard=1/2 count=20 backlog=17650 uploads=8174 failed_attempts=462 description_overrides=17579
+[02:11:27] login
+[02:11:29] login done
+[02:11:29] iteration 1/20
+[02:11:29] film cr_film_id=33175 name='Harlequin 11 - Láska s podezřením (1995) CZ' candidates=1
+[02:11:29]   candidate upload_id=5ab1f76a464f2 url=https://prehraj.to/harlequin-11-laska-s-podezrenim-2001/5ab1f76a464f2
+[02:11:30]   resolved in 1.0s → 480p (https://pf-storage1.premiumcdn.net/3693391/Ndytv6cX9T1NtE9fexH4acWVHqwsN4CRQT8xS…)
+[02:11:53]   downloaded 560.9 MB in 21.2s (26.5 MB/s)
+[02:12:23]   upload done video_id=27091419 in 29.9s
