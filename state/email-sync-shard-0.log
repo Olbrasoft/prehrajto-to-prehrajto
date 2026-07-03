@@ -61046,3 +61046,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [18:23:43]   upload done video_id=27118798 in 101.1s
 [18:23:48] film cr_film_id=34790 OK in 180.0s
 [18:23:48] batch-end ok=20 failed=0 dur=3896.3s avg/film=194.8s remaining=9167 eta_hours=496.0
+
+===== run 2026-07-03T18:27:41Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28677482400) =====
+[18:27:43] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[18:27:44] batch-start shard=0/2 count=20 backlog=17650 uploads=8483 failed_attempts=537 description_overrides=17579
+[18:27:44] login
+[18:27:45] login done
+[18:27:45] iteration 1/20
+[18:27:45] film cr_film_id=34794 name='Soudný den (1949) CZ Dabing' candidates=15
+[18:27:45]   candidate upload_id=6777f9bb44cee url=https://prehraj.to/soudny-den-2008-cz-dab/6777f9bb44cee
+[18:27:46]   resolved in 1.2s → 480p (https://pf-storage5.premiumcdn.net/127193438/raYfEzH26HG8Cmai3gsrKHZgHVqU8RcK2uN…)
+[18:28:18]   downloaded 613.9 MB in 29.6s (20.7 MB/s)
+[18:28:56]   upload done video_id=27118906 in 38.5s
