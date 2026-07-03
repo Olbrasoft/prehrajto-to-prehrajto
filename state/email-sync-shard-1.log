@@ -61640,3 +61640,15 @@ Initial state for filmy.prehrajto@email.cz: 412 preexisting uploads matched from
 [21:16:09]   resolved in 1.0s → 480p (https://pf-storage5.premiumcdn.net/168070381/YZrtxaIAVHV7h8aSYaSAkID4S2yhbaiO4SM…)
 [21:16:25]   downloaded 457.5 MB in 14.7s (31.1 MB/s)
 [21:17:15]   upload done video_id=27122480 in 50.3s
+[21:17:19] film cr_film_id=36843 OK in 71.4s
+[21:17:19] iteration 7/20
+[21:17:19] film cr_film_id=36849 name='Svatební prsten (2021) CZ Dabing' candidates=1
+[21:17:19]   candidate upload_id=9e23e95f7ccbb50d url=https://prehraj.to/svatebni-prsten-2021-cz-dab-1080p/9e23e95f7ccbb50d
+[21:17:20]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/svatebni-prsten-2021-cz-dab-1080p/9e23e95f7ccbb50d (permanent=True)
+[21:17:20] film cr_film_id=36849 all candidates exhausted
+[21:17:20] iteration 8/20
+[21:17:20] film cr_film_id=36861 name='Stingl – Malý velký Okima (2021) CZ Dabing' candidates=1
+[21:17:20]   candidate upload_id=660c99e719b77 url=https://prehraj.to/stingl-maly-velky-okima-2021-czdab/660c99e719b77
+[21:17:26]   resolved in 6.0s → 1080p (https://pf-storage6.premiumcdn.net/75619988/L0ZSGVTKjIXgiglT2yh0XTjkh2wS4aCV1H5V…)
+[21:31:49]   downloaded 2,834.1 MB in 861.3s (3.3 MB/s)
+[21:33:51]   upload done video_id=27122741 in 122.2s
