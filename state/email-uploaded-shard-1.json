@@ -159302,6 +159302,25 @@
         "download_sec": 85.0,
         "upload_sec": 105.6
       }
+    },
+    {
+      "cr_film_id": 35725,
+      "cr_slug": "revelations",
+      "title": "Revelations",
+      "year": 2025,
+      "display_name": "Revelations (2025) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "67dd3f61d19be",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27118317,
+      "size_bytes": 2275431990,
+      "uploaded_at": "2026-07-03T17:56:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 528.3,
+        "upload_sec": 87.1
+      }
     }
   ],
   "failed_attempts": [
@@ -162734,5 +162753,5 @@
       "failed_at": "2026-07-03T17:36:52Z"
     }
   ],
-  "last_updated": "2026-07-03T17:46:20Z"
+  "last_updated": "2026-07-03T17:56:43Z"
 }
