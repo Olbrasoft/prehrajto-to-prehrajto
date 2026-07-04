@@ -62520,3 +62520,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:06:31]   resolved in 1.0s → 1080p (https://pf-storage6.premiumcdn.net/78196559/Dq1S8zs2ps6Vf0xUY4Cx0sw6FL4CjbcDAtZb…)
 [03:08:34]   downloaded 2,203.9 MB in 120.3s (18.3 MB/s)
 [03:10:47]   upload done video_id=27126312 in 133.6s
+[03:10:54] film cr_film_id=36950 OK in 263.3s
+[03:10:54] iteration 18/20
+[03:10:54] film cr_film_id=36956 name='Superbráška (2024) CZ Dabing' candidates=1
+[03:10:54]   candidate upload_id=1879d94a3e10100e url=https://prehraj.to/superbraska-2024-cz-dab-1080p/1879d94a3e10100e
+[03:10:54]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superbraska-2024-cz-dab-1080p/1879d94a3e10100e (permanent=True)
+[03:10:55] film cr_film_id=36956 all candidates exhausted
+[03:10:55] iteration 19/20
+[03:10:55] film cr_film_id=36974 name='Zapeklité dědictví (2024) CZ Dabing' candidates=11
+[03:10:55]   candidate upload_id=eba2ddc82aaa73bb url=https://prehraj.to/zapeklite-dedictvi-2024-cz-dab-1080p/eba2ddc82aaa73bb
+[03:11:01]   resolved in 6.6s → 1080p (https://pf-storage5.premiumcdn.net/168398614/Q80il4UeVtNzTrRuZNIgJU8NI13FR6tDahV…)
+[03:12:30]   downloaded 1,617.7 MB in 86.5s (18.7 MB/s)
+[03:14:11]   upload done video_id=27126328 in 101.0s

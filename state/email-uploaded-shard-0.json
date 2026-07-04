@@ -161801,6 +161801,25 @@
         "download_sec": 120.3,
         "upload_sec": 133.6
       }
+    },
+    {
+      "cr_film_id": 36974,
+      "cr_slug": "zapeklite-dedictvi-2024",
+      "title": "Zapeklité dědictví",
+      "year": 2024,
+      "display_name": "Zapeklité dědictví (2024) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "eba2ddc82aaa73bb",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27126328,
+      "size_bytes": 1617658009,
+      "uploaded_at": "2026-07-04T03:14:11Z",
+      "timing": {
+        "resolve_sec": 6.6,
+        "download_sec": 86.5,
+        "upload_sec": 101.0
+      }
     }
   ],
   "failed_attempts": [
@@ -165749,7 +165768,14 @@
         "download_sec": 68.0,
         "upload_sec": 76.2
       }
+    },
+    {
+      "cr_film_id": 36956,
+      "upload_id": "1879d94a3e10100e",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/superbraska-2024-cz-dab-1080p/1879d94a3e10100e",
+      "permanent": true,
+      "failed_at": "2026-07-04T03:10:54Z"
     }
   ],
-  "last_updated": "2026-07-04T03:10:47Z"
+  "last_updated": "2026-07-04T03:14:11Z"
 }
