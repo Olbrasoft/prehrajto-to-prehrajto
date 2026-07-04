@@ -160946,6 +160946,25 @@
         "download_sec": 55.7,
         "upload_sec": 101.1
       }
+    },
+    {
+      "cr_film_id": 36632,
+      "cr_slug": "bratr",
+      "title": "Bratr",
+      "year": 1997,
+      "display_name": "Bratr (1997) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "5a4e7a9e30bb4",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27125571,
+      "size_bytes": 907431162,
+      "uploaded_at": "2026-07-04T01:28:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 26.3,
+        "upload_sec": 67.6
+      }
     }
   ],
   "failed_attempts": [
@@ -164884,5 +164903,5 @@
       "failed_at": "2026-07-04T01:12:26Z"
     }
   ],
-  "last_updated": "2026-07-04T01:26:27Z"
+  "last_updated": "2026-07-04T01:28:09Z"
 }
