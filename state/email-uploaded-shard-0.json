@@ -161212,6 +161212,25 @@
         "download_sec": 18.7,
         "upload_sec": 29.1
       }
+    },
+    {
+      "cr_film_id": 36704,
+      "cr_slug": "signal",
+      "title": "Signál",
+      "year": 2012,
+      "display_name": "Signál (2012) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "f3541191c07f62c2",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27125751,
+      "size_bytes": 588064578,
+      "uploaded_at": "2026-07-04T02:02:26Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.9,
+        "upload_sec": 31.6
+      }
     }
   ],
   "failed_attempts": [
@@ -165162,5 +165181,5 @@
       }
     }
   ],
-  "last_updated": "2026-07-04T02:01:28Z"
+  "last_updated": "2026-07-04T02:02:26Z"
 }
