@@ -160813,6 +160813,25 @@
         "download_sec": 20.3,
         "upload_sec": 30.6
       }
+    },
+    {
+      "cr_film_id": 36606,
+      "cr_slug": "vikend-u-bernieho",
+      "title": "Víkend u Bernieho",
+      "year": 1989,
+      "display_name": "Víkend u Bernieho (1989) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68c17f2a66597",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27125494,
+      "size_bytes": 1752821853,
+      "uploaded_at": "2026-07-04T01:14:58Z",
+      "timing": {
+        "resolve_sec": 5.8,
+        "download_sec": 64.9,
+        "upload_sec": 79.4
+      }
     }
   ],
   "failed_attempts": [
@@ -164714,7 +164733,42 @@
       "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/kraken-2026-1080p-webrip-cz-titulky-nejedna-se-o-rusky-film-z-roku-2025-mp4/02e04e79edc0c826",
       "permanent": true,
       "failed_at": "2026-07-03T23:30:09Z"
+    },
+    {
+      "cr_film_id": 35804,
+      "upload_id": "3f4805987b771d5b",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznivy-marsupilami-2026-1080p-cz-dabing-mkv/3f4805987b771d5b",
+      "permanent": true,
+      "failed_at": "2026-07-04T01:12:03Z"
+    },
+    {
+      "cr_film_id": 35804,
+      "upload_id": "403d3448bd5f6d18",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznivy-marsupilami-2026-cz-dabing-novinka/403d3448bd5f6d18",
+      "permanent": true,
+      "failed_at": "2026-07-04T01:12:09Z"
+    },
+    {
+      "cr_film_id": 35804,
+      "upload_id": "affb3bfd7821f0a4",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznivy-marsupilami-2026-1080p-komedie-rodinny-dobrodruzny-cz-dabing-kfc-mp4/affb3bfd7821f0a4",
+      "permanent": true,
+      "failed_at": "2026-07-04T01:12:14Z"
+    },
+    {
+      "cr_film_id": 35804,
+      "upload_id": "436596a826861546",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/blaznivy-marsupilami-2026-1080p-komedie-rodinny-dobrodruzny-cz-dabing-kfc-mp4/436596a826861546",
+      "permanent": true,
+      "failed_at": "2026-07-04T01:12:20Z"
+    },
+    {
+      "cr_film_id": 36598,
+      "upload_id": "c2603abbbb6ee4ba",
+      "reason": "resolve_failed: HTTP 502 wrapping permanent upstream error: https://prehraj.to/zrudy-1932-cz-dabing-full-hd-drama-top-kvalita-136/c2603abbbb6ee4ba",
+      "permanent": true,
+      "failed_at": "2026-07-04T01:12:26Z"
     }
   ],
-  "last_updated": "2026-07-04T01:11:59Z"
+  "last_updated": "2026-07-04T01:14:58Z"
 }
