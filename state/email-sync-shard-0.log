@@ -62396,3 +62396,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [02:19:41]   upload done video_id=27125937 in 30.2s
 [02:19:47] film cr_film_id=36802 OK in 56.3s
 [02:19:47] batch-end ok=19 failed=1 dur=1901.4s avg/film=100.1s remaining=8991 eta_hours=250.0
+
+===== run 2026-07-04T02:20:31Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28691968818) =====
+[02:20:33] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[02:20:33] batch-start shard=0/2 count=20 backlog=17650 uploads=8659 failed_attempts=548 description_overrides=17579
+[02:20:33] login
+[02:20:35] login done
+[02:20:35] iteration 1/20
+[02:20:35] film cr_film_id=36676 name='Legenda o dinosaurech a obludných ptácích (1977) CZ Dabing' candidates=1
+[02:20:35]   candidate upload_id=7b9fb999c66d499d url=https://prehraj.to/legenda-o-dinosaurech-a-obludnych-ptacich-1977-cz-dab-1080p/7b9fb999c66d499d
+[02:20:36]   resolved in 1.3s → 720p (https://pf-storage5.premiumcdn.net/163873358/2gYFwbuJYcjLfr4U8gtQEu7ZFZNSZJUbmUR…)
+[02:22:23]   downloaded 1,970.6 MB in 104.7s (18.8 MB/s)
+[02:24:27]   upload done video_id=27125967 in 124.4s
