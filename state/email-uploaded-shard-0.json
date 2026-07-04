@@ -161725,6 +161725,25 @@
         "download_sec": 82.9,
         "upload_sec": 100.0
       }
+    },
+    {
+      "cr_film_id": 36916,
+      "cr_slug": "zdola",
+      "title": "Zdola",
+      "year": 2022,
+      "display_name": "Zdola (2022) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6540aedce59c5",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27126257,
+      "size_bytes": 2099137938,
+      "uploaded_at": "2026-07-04T03:03:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 114.5,
+        "upload_sec": 137.6
+      }
     }
   ],
   "failed_attempts": [
@@ -165675,5 +165694,5 @@
       }
     }
   ],
-  "last_updated": "2026-07-04T02:58:47Z"
+  "last_updated": "2026-07-04T03:03:08Z"
 }
