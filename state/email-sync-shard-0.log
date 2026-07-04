@@ -62532,3 +62532,10 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:11:01]   resolved in 6.6s → 1080p (https://pf-storage5.premiumcdn.net/168398614/Q80il4UeVtNzTrRuZNIgJU8NI13FR6tDahV…)
 [03:12:30]   downloaded 1,617.7 MB in 86.5s (18.7 MB/s)
 [03:14:11]   upload done video_id=27126328 in 101.0s
+[03:14:16] film cr_film_id=36974 OK in 201.3s
+[03:14:16] iteration 20/20
+[03:14:16] film cr_film_id=37144 name='Korsičtí bratři (1961) CZ Dabing' candidates=1
+[03:14:16]   candidate upload_id=06df6af7b56fa53d url=https://prehraj.to/korsicti-bratri-1961-cz-dabing/06df6af7b56fa53d
+[03:14:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/korsicti-bratri-1961-cz-dabing/06df6af7b56fa53d (permanent=True)
+[03:14:17] film cr_film_id=37144 all candidates exhausted
+[03:14:17] batch-end ok=18 failed=2 dur=3222.2s avg/film=179.0s remaining=8973 eta_hours=446.2
