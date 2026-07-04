@@ -62539,3 +62539,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [03:14:17]   resolve FAILED: HTTP 502 wrapping permanent upstream error: https://prehraj.to/korsicti-bratri-1961-cz-dabing/06df6af7b56fa53d (permanent=True)
 [03:14:17] film cr_film_id=37144 all candidates exhausted
 [03:14:17] batch-end ok=18 failed=2 dur=3222.2s avg/film=179.0s remaining=8973 eta_hours=446.2
+
+===== run 2026-07-04T03:14:55Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28693218818) =====
+[03:14:57] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[03:14:57] batch-start shard=0/2 count=20 backlog=17650 uploads=8677 failed_attempts=550 description_overrides=17579
+[03:14:57] login
+[03:14:58] login done
+[03:14:58] iteration 1/20
+[03:14:58] film cr_film_id=37214 name='Pozoruhodně bystrá stvoření (2026) CZ Dabing' candidates=2
+[03:14:58]   candidate upload_id=bfad047c264e6312 url=https://prehraj.to/pozoruhodne-bystra-stvoreni-2026-cz-dabing-1080p-mkv/bfad047c264e6312
+[03:15:04]   resolved in 5.7s → 1080p (https://pf-storage6.premiumcdn.net/171026129/kg4ijyfY6TWpuqaIOGtJyfq6TMzCk5ivZup…)
+[03:17:01]   downloaded 2,967.2 MB in 115.3s (25.7 MB/s)
+[03:19:14]   upload done video_id=27126359 in 132.6s
