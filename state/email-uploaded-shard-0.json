@@ -161421,6 +161421,25 @@
         "download_sec": 48.8,
         "upload_sec": 59.5
       }
+    },
+    {
+      "cr_film_id": 36794,
+      "cr_slug": "mazlicek",
+      "title": "Mazlíček",
+      "year": 1934,
+      "display_name": "Mazlíček (1934) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "6657bc8932391",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "480p",
+      "prehrajto_video_id": 27125917,
+      "size_bytes": 553319885,
+      "uploaded_at": "2026-07-04T02:17:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.4,
+        "upload_sec": 33.5
+      }
     }
   ],
   "failed_attempts": [
@@ -165371,5 +165390,5 @@
       }
     }
   ],
-  "last_updated": "2026-07-04T02:16:54Z"
+  "last_updated": "2026-07-04T02:17:53Z"
 }
