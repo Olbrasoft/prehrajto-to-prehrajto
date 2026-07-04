@@ -160870,6 +160870,25 @@
         "download_sec": 8.8,
         "upload_sec": 17.4
       }
+    },
+    {
+      "cr_film_id": 36620,
+      "cr_slug": "bud-anebo",
+      "title": "Buď, anebo",
+      "year": 1954,
+      "display_name": "Buď, anebo (1954) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "68e42694d100a",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "1080p",
+      "prehrajto_video_id": 27125522,
+      "size_bytes": 2746277611,
+      "uploaded_at": "2026-07-04T01:20:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 96.0,
+        "upload_sec": 146.3
+      }
     }
   ],
   "failed_attempts": [
@@ -164808,5 +164827,5 @@
       "failed_at": "2026-07-04T01:12:26Z"
     }
   ],
-  "last_updated": "2026-07-04T01:16:11Z"
+  "last_updated": "2026-07-04T01:20:18Z"
 }
