@@ -160908,6 +160908,25 @@
         "download_sec": 31.1,
         "upload_sec": 46.6
       }
+    },
+    {
+      "cr_film_id": 36628,
+      "cr_slug": "bourak-1977",
+      "title": "Bourák",
+      "year": 1977,
+      "display_name": "Bourák (1977) CZ Dabing",
+      "preferred_lang_class": "CZ_DUB",
+      "src_upload_id": "a66d8ace12cb6b82",
+      "src_lang_class": "CZ_DUB",
+      "src_resolution": "720p",
+      "prehrajto_video_id": 27125544,
+      "size_bytes": 1306215910,
+      "uploaded_at": "2026-07-04T01:23:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 45.2,
+        "upload_sec": 68.8
+      }
     }
   ],
   "failed_attempts": [
@@ -164846,5 +164865,5 @@
       "failed_at": "2026-07-04T01:12:26Z"
     }
   ],
-  "last_updated": "2026-07-04T01:21:44Z"
+  "last_updated": "2026-07-04T01:23:44Z"
 }
