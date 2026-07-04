@@ -62100,3 +62100,15 @@ Initial state for filmy.prehrajto@email.cz: 435 preexisting uploads matched from
 [01:07:15]   upload done video_id=27125447 in 39.4s
 [01:07:20] film cr_film_id=35774 OK in 76.4s
 [01:07:20] batch-end ok=20 failed=0 dur=2951.4s avg/film=147.6s remaining=9028 eta_hours=370.1
+
+===== run 2026-07-04T01:08:01Z shard=0/2 batch_size=20 (https://github.com/Olbrasoft/prehrajto-to-prehrajto/actions/runs/28690260192) =====
+[01:08:03] description overrides loaded: 17579 from /home/runner/work/prehrajto-to-prehrajto/prehrajto-to-prehrajto/state/email-generated-descriptions-v3.jsonl
+[01:08:03] batch-start shard=0/2 count=20 backlog=17650 uploads=8622 failed_attempts=542 description_overrides=17579
+[01:08:03] login
+[01:08:05] login done
+[01:08:05] iteration 1/20
+[01:08:05] film cr_film_id=35780 name='Případ pro tančící detektivku: Vražedné tango (2023) CZ Dabing' candidates=2
+[01:08:05]   candidate upload_id=03047631b432cf0f url=https://prehraj.to/pripad-pro-tancici-detektivku-vrazedne-tango-cz-dabing/03047631b432cf0f
+[01:08:06]   resolved in 1.0s → 1080p (https://pf-storage6.premiumcdn.net/170697809/1ONFdaSX4cjrHL3frJIdQSlRI96hv4fJBUA…)
+[01:09:26]   downloaded 2,273.0 MB in 78.7s (28.9 MB/s)
+[01:11:00]   upload done video_id=27125466 in 93.4s
